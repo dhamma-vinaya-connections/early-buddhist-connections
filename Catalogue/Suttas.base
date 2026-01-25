@@ -42,7 +42,7 @@ views:
         direction: DESC
       - property: sutta_length
         direction: DESC
-    limit: 2
+    limit: 50
     columnSize:
       file.name: 74
       note.sutta_title: 193
@@ -66,8 +66,8 @@ views:
       direction: ASC
     order:
       - file.name
-      - Themes
-      - topics
+      - sutta_theme
+      - sutta_topic
     limit: 10
   - type: list
     name: sutta-index
@@ -98,9 +98,8 @@ views:
       direction: ASC
     order:
       - file.name
+      - sutta-version
       - language
-      - translator
-      - sutta_title
     columnSize:
       file.name: 84
       note.sutta_title: 246
@@ -111,6 +110,8 @@ views:
     filters:
       and:
         - file.folder.contains("Rule Overviews")
+        - and:
+            - vin_gender == this.vin_gender
     order:
       - file.name
       - vin_gender

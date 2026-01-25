@@ -1,13 +1,10 @@
 ---
-contribution:
-  - index
-topics:
-  - similes
 author:
   - Suttafriends.org
-tags:
+contribution:
   - index
-included: 2025-06-11
+theme:
+  - similes
 ---
 # ✅ Suttafiends Similes
 From https://suttafriends.org/simile-index/

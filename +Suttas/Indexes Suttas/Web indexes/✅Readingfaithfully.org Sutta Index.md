@@ -1,13 +1,10 @@
 ---
-contribution:
-  - index
-topics:
-  - sutta index
 author:
   - Readingfaithfully.org
-tags:
+contribution:
   - index
-included: 2025-06-11
+theme:
+  - sutta index
 ---
 # ✅Readingfaithfully.org Sutta Index
 From https://index.readingfaithfully.org

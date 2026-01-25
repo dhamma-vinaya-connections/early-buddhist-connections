@@ -1,12 +1,9 @@
 ---
+author: Suttafriends.org
 contribution:
   - index
-topics:
+theme:
   - sutta index
-author: Suttafriends.org
-tags:
-  - index
-included: 2025-06-11
 ---
 # ✅Suttafiends Topics-Index
 From [https://suttafriends.org/simile-index/](https://suttafriends.org/sutta-topics-index/)

@@ -2,6 +2,7 @@
 index:
   - Patimokkha
 rule_type: "BNI-PD - Patidesaniya - Acknowledgement"
+vin_gender: "Nuns"
 ---
 > [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-PD 
 

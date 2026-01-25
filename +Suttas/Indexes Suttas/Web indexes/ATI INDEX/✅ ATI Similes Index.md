@@ -1,12 +1,9 @@
 ---
+author: Access to Insight
 contribution:
   - index
-topics:
+theme:
   - similes
-author: Access to Insight
-tags:
-  - index
-included: 2025-06-11
 ---
 
 # ✅ Index – Similes ^top
