@@ -1,0 +1,110 @@
+---
+sutta_code: "UD7.4"
+sutta_pts: ""
+sutta_title:
+  - "Dutiyasatta Sutta "
+  - "Attached to Sensual Pleasures (2)"
+nikaya:
+  - "UD "
+  - "Udāna"
+sutta_chapter:
+  - "UD7"
+  - "Cūḷvagga"
+  - "Lesser"
+  - ""
+sutta_theme:
+  - "Clinging"
+sutta_topic:
+  - "Sensual clinging"
+sutta_training:
+  - "Paññā"
+sutta_stage:
+  - "Intro"
+sutta_method:
+  - "Mixed"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - "Medium"
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: "fish caught in net, like people caught by sensual pleasures"
+parallels_nikaya:
+  - "[[DHP334]]"
+parallels_agama:
+  - ""
+parallels_partilal:
+  - "[[THAG4.8]]"
+  - "[[DHP334]]"
+  - "[[PE2]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.3]]  🌐 [[UD7.5]] ►
+
+# UD7.4 - Dutiyasatta Sutta - Attached to Sensual Pleasures (2)
+## 🌐 Overview
+
+> [!info] Summary
+> People are lustful, greedy, tied, infatuated, they lived completely addicted to sensual pleasures
+
+> [!info] Key Excerpts 
+> Clinging to sensual pleasures, to the chains of the senses, 
+blind to the faults of the fetters, 
+clinging to the chain of the fetters, 
+there’s no way they can cross the flood so vast
+> 
+> Blinded by sensual pleasures, wrapped in a net, 
+they are smothered over by craving; 
+bound by the kinsman of the negligent, 
+like a fish caught in a funnel-net trap. 
+They chase old age and death, 
+like a suckling calf its mother
+> 
+
+> [!info] Similes
+> fish caught in net, like people caught by sensual pleasures
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP334]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[THAG4.8]], [[DHP334]], [[PE2]] |
+| ------------------------ |
+
+>[!example]- Suggestions by Ven. Thanissaro
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[THAG4.8]]
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD7.4%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD7.4%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BUD7.4%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD7.4%5D%5D%22%23mynotes%20-file%3Aud7.4-%20-file%3A%22UD7.3%22%20-file%3A%22UD7.5%22%20-file%3A%22UD7.4%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/ud7.4/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=ud7.4
+> - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.4.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.3]]  🌐 [[UD7.5]] ►

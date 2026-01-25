@@ -1,0 +1,50 @@
+---
+sutta_code: "AN4.120"
+sutta_title:
+  - "Bhaya "
+  - "Perils"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.120]]
+> ◄  [[an4.119-deepseek-pali]] 📜  [[an4.121-deepseek-pali]] ►
+
+# AN 4.120 Dutiyabhayasuttaṃ
+
+## AN 4.120 The Second Fear Discourse
+
+120. ‘‘Cattārimāni, bhikkhave, bhayāni. Katamāni cattāri? Aggibhayaṃ, udakabhayaṃ, rājabhayaṃ, corabhayaṃ – imāni kho, bhikkhave, cattāri bhayānī’’ti. Dasamaṃ.
+
+120.“Monks, there are these four fears. Which four? The fear of fire, the fear of water, the fear of rulers, and the fear of thieves. These, monks, are the four fears.” The tenth.
+
+Kesivaggo dutiyo.
+
+The Chapter on Kesi is the second.
+
+Tassuddānaṃ –
+
+Summary:
+
+Kesi javo patodo ca, nāgo ṭhānena pañcamaṃ;Appamādo ca ārakkho, saṃvejanīyañca dve bhayāti.
+
+Kesi, swiftness, the goad, the elephant, and the fifth (trainer's) position; heedfulness, protection, the inspiring (discourse), and two fears.
+
+(13) 3. Bhayavaggo
+
+(13) 3. The Chapter on Fear
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 121 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.120]]
+> ◄  [[an4.119-deepseek-pali]] 📜  [[an4.121-deepseek-pali]] ►

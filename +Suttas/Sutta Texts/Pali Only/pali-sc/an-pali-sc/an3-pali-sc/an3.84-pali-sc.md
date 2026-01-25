@@ -1,0 +1,41 @@
+---
+sutta_code: "AN3.84-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.84-PALI]]
+> ◄  [[an3.83-pali-sc]] 📜  [[an3.85-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 3: The Book of the Threes
+### AN 3.84: Vajjiputtasutta — The Vajji
+
+1Ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Atha kho aññataro vajjiputtako bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so vajjiputtako bhikkhu bhagavantaṁ etadavoca: 
+
+" sādhikamidaṁ, bhante, diyaḍḍhasikkhāpadasataṁ anvaddhamāsaṁ uddesaṁ āgacchati. Nāhaṁ, bhante, ettha sakkomi sikkhitun"ti.
+
+" Sakkhissasi pana tvaṁ, bhikkhu, tīsu sikkhāsu sikkhituṁ – adhisīlasikkhāya, adhicittasikkhāya adhipaññāsikkhāyā"ti?
+
+" Sakkomahaṁ, bhante, tīsu sikkhāsu sikkhituṁ – adhisīlasikkhāya, adhicittasikkhāya, adhipaññāsikkhāyā"ti.
+
+"Tasmātiha tvaṁ, bhikkhu, tīsu sikkhāsu sikkhassu – adhisīlasikkhāya, adhicittasikkhāya, adhipaññāsikkhāya.
+
+
+2Yato kho tvaṁ, bhikkhu, adhisīlampi sikkhissasi, adhicittampi sikkhissasi, adhipaññampi sikkhissasi, tassa tuyhaṁ bhikkhu adhisīlampi sikkhato adhicittampi sikkhato adhipaññampi sikkhato rāgo pahīyissati, doso pahīyissati, moho pahīyissati. So tvaṁ rāgassa pahānā dosassa pahānā mohassa pahānā yaṁ akusalaṁ na taṁ karissasi, yaṁ pāpaṁ na taṁ sevissasī"ti.
+
+3Atha kho so bhikkhu aparena samayena adhisīlampi sikkhi, adhicittampi sikkhi, adhipaññampi sikkhi. Tassa adhisīlampi sikkhato adhicittampi sikkhato adhipaññampi sikkhato rāgo pahīyi, doso pahīyi, moho pahīyi. So rāgassa pahānā dosassa pahānā mohassa pahānā yaṁ akusalaṁ taṁ nākāsi, yaṁ pāpaṁ taṁ na sevīti.
+
+Catutthaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,105 @@
+---
+sutta_code: "SN7.16"
+sutta_pts: ""
+sutta_title:
+  - "Paccanīkasutta "
+  - "Paccanika"
+nikaya:
+  - "SN "
+  - "Saṃyutta Nikāya"
+sutta_chapter:
+  - "SN7"
+  - "Brāhmaṇasaṁyutta"
+  - "Brahmins"
+  - "SN1-11"
+sutta_theme:
+  - "Obstructions"
+sutta_topic:
+  - "Aversion"
+sutta_training:
+  - "Samādhi"
+sutta_stage:
+  - "Intro"
+sutta_method:
+  - "Mixed"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Detail"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Brahmins"
+sutta_simile: ""
+parallels_nikaya:
+  - ""
+parallels_agama:
+  - "[[SA-2.78]]"
+  - "[[SA-3.7]]"
+  - "[[SA1155]]"
+parallels_partilal:
+  - "[[SA-2.78]]"
+  - "[[SA-3.7]]"
+  - "[[SA1155]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.15]]  🌐 [[SN7.17]] ►
+
+# SN7.16 - Paccanīkasutta - Paccanika
+## 🌐 Overview
+
+> [!info] Summary
+> A brahmin who loves to contradict everyone approaches the Buddha  thinking to challenge him. But when he hears the Buddha  speak, he cannot find anything to contradict
+
+> [!info] Key Excerpts 
+> Well-spoken counsel is hard to understand
+By one who relishes contradiction,
+By one with a corrupt mind
+Who is engrossed in aggression.
+> 
+> But if one has removed aggression
+And the distrust of one’s heart,
+If one has cast away aversion,
+One can understand well-spoken counsel
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.78]], [[SA-3.7]], [[SA1155]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.78]], [[SA-3.7]], [[SA1155]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN7.16%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN7.16%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BSN7.16%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.16%5D%5D%22%23mynotes%20-file%3Asn7.16-%20-file%3A%22SN7.15%22%20-file%3A%22SN7.17%22%20-file%3A%22SN7.16%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/sn7.16/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=sn7.16
+> - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.16.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.15]]  🌐 [[SN7.17]] ►

@@ -1,0 +1,55 @@
+---
+sutta_code: "AN5.38-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.38-PALI]]
+> ◄  [[an5.37-pali-sc]] 📜  [[an5.39-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 5: The Book of the Fives
+### AN 5.38: Saddhasutta — Faith
+
+1"Pañcime, bhikkhave, saddhe kulaputte ānisaṁsā. Katame pañca? Ye te, bhikkhave, loke santo sappurisā te saddhaññeva paṭhamaṁ anukampantā anukampanti, no tathā assaddhaṁ; saddhaññeva paṭhamaṁ upasaṅkamantā upasaṅkamanti, no tathā assaddhaṁ; saddhaññeva paṭhamaṁ paṭiggaṇhantā paṭiggaṇhanti, no tathā assaddhaṁ; saddhaññeva paṭhamaṁ dhammaṁ desentā desenti, no tathā assaddhaṁ; saddho kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. Ime kho, bhikkhave, pañca saddhe kulaputte ānisaṁsā.
+
+2Seyyathāpi, bhikkhave, subhūmiyaṁ catumahāpathe mahānigrodho samantā pakkhīnaṁ paṭisaraṇaṁ hoti; evamevaṁ kho, bhikkhave, saddho kulaputto bahuno janassa paṭisaraṇaṁ hoti bhikkhūnaṁ bhikkhunīnaṁ upāsakānaṁ upāsikānanti.
+
+
+3Sākhāpattaphalūpeto,  
+khandhimāva mahādumo;  
+Mūlavā phalasampanno,  
+patiṭṭhā hoti pakkhinaṁ.
+
+4Manorame āyatane,  
+sevanti naṁ vihaṅgamā;  
+Chāyaṁ chāyatthikā yanti,  
+
+5Tatheva sīlasampannaṁ,  
+saddhaṁ purisapuggalaṁ;  
+Nivātavuttiṁ atthaddhaṁ,  
+sorataṁ sakhilaṁ muduṁ.
+
+6Vītarāgā vītadosā,  
+vītamohā anāsavā;  
+Puññakkhettāni lokasmiṁ,  
+sevanti tādisaṁ naraṁ.
+
+7Te tassa dhammaṁ desenti,  
+Sabbadukkhāpanūdanaṁ;  
+Yaṁ so dhammaṁ idhaññāya,  
+Parinibbāti anāsavo"ti.
+
+Aṭṭhamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

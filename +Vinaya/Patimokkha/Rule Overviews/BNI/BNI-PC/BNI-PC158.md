@@ -1,0 +1,89 @@
+---
+vin_code: "BNI-PC158"
+vin_pts: "Vin.4.258-4.345"
+vin_type:
+  - "Pacittiya "
+  - "Confession"
+vin_title:
+  - "Chandaṁadatvāgamana"
+  - "Leaving Without Giving Consent"
+vin_chapter:
+  - "16 Dhammikavaggo"
+  - "16 In-accordance-with-the-Rule"
+vin_theme:
+  - "#rule_theme/harmony"
+vin_topic:
+  - "#rule_topic/sangha-act"
+vin_critics:
+  - "#critics/bhikkhus"
+vin_purpose:
+  - "#purpose/sangha-harmony"
+vin_severity:
+  - "#severity/offense-wrong-doing"
+vin_sangha_acts:
+  - ""
+vin_gender: "Nuns"
+vin_gender-corr: "BU-PC80"
+---
+> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC157]] 🌐 [[BNI-PC159]] ►
+
+# Nuns - Pacittiya - Confession
+## 16 Dhammikavaggo - 16 In-accordance-with-the-Rule
+## BNI-PC158 - Chandaṁadatvāgamana - Leaving Without Giving Consent
+
+### 🌐Overview
+
+| Rule in Pali  | Rule in English  |
+| :-----------: | :--------------: |
+| Chanda: Yā pana bhikkhunī saṅghe vinicchayakathāya vattamānāya... chandaṁ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṁ. | 158. Leaving: Should any bhikkhunī... rise from her seat and leave (the assembly) without having given consent... it is to be confessed. |
+
+
+> [!Info] Analisis of the rule
+> 
+> >[!info]- Offence Factors 
+> > 
+> > > From BMC1
+> > 
+> > 1) Object: a Community transaction that has been started but has yet to be finished, and is being carried out in a valid manner. 2) Perception: One perceives it as being carried out in a valid manner. Valid transaction that one perceives as valid: pācittiya; an invalid transaction that one perceives to be valid and a transaction that one is doubtful about, regardless of its actual validity: dukkaṭas; a transaction that one perceives to be invalid, regardless of its actual validity: grounds for no offense. 3) Intention: One wants to invalidate the transaction or to keep the group from carrying it out. 4) Effort: Without having first given one’s consent, one goes beyond hatthapāsa (1.25 m.) from the bhikkhus sitting in the meeting
+> 
+> > [!info]- No Offence 
+> > > From Vibhanga
+> > 
+> > If he goes away, thinking: “There will come to be quarrel or dispute or strife or contention for the Order”; if he goes away, thinking: “There will come to be schism in the Order or dissension in the Order”; if he goes away, thinking: “He will carry out the (formal) act according to what is not rule, or by an incomplete congregation, or against one not suitable for a (formal) act”9; if, being ill, he goes away; if he goes away because there is something to be done for one who is ill; if he goes away to relieve himself;* if anxious not to find fault with the (formal) act, he goes away, thinking: “I will come back again”; if he is mad, if he is the first wrong-doer
+> 
+> > [!info]- Useful Notes
+> > > From various authors
+> > 
+> > A bhikkhu who has committed this offense would, under Cv.IX.3, be subject to having his Pāṭimokkha canceled. This would provide the Community with the opportunity to look into his attitude and to take further disciplinary actions if it sees fit
+> 
+> 
+---
+## 🌿 Rule Connections
+
+> [!done] Click for **[Available texts and translations ](obsidian://search?query=file:bni-pc158-)**
+>| Vibhanga | BMC    | Ven Ñanatusita                 |
+>| --------------------- | -------- | -------------------------- |
+>| [[bni-pc158-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC158]] |
+>| [[bni-pc158-deepseek-pali]]      |          | [[ñanatusita-analysis#^-PC158]]    |
+
+> [!done]-  Monk - Nuns Rule Correlation and PTS reference
+> 
+> | Monks      | Nuns            | PTS ref |
+> | ---------- | --------------- | ------- |
+> | BNI-PC158 | [[BU-PC80]] | Vin.4.258-4.345 |
+
+>[!example]- Relevant texts
+>  - [[BU-PC79]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-PC158%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a *link to this sutta* **and** have *the property [contribution]*
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBNI-PC158%5D%5D%22%23mynotes%20-file%3Abni-pc158-%20-file%3A%22BNI-PC158%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
+
+> [!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-pc?view=normal
+
+> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC157]] 🌐 [[BNI-PC159]] ►

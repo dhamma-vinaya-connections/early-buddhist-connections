@@ -1,0 +1,30 @@
+---
+sutta_code: "AN8.87-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.87-PALI]]
+> ◄  [[an8.86-pali-sc]] 📜  [[an8.88-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 8: The Book of the Eights
+### AN 8.87: Pattanikujjanasutta — Turning the Bowl Upside Down
+
+1"Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa upāsakassa ākaṅkhamāno saṅgho pattaṁ nikkujjeyya. Katamehi aṭṭhahi? Bhikkhūnaṁ alābhāya parisakkati, bhikkhūnaṁ anatthāya parisakkati, bhikkhūnaṁ avāsāya parisakkati, bhikkhū akkosati paribhāsati, bhikkhū bhikkhūhi bhedeti, buddhassa avaṇṇaṁ bhāsati, dhammassa avaṇṇaṁ bhāsati, saṅghassa avaṇṇaṁ bhāsati. Imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa upāsakassa ākaṅkhamāno saṅgho pattaṁ nikkujjeyya.
+
+2Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa upāsakassa ākaṅkhamāno saṅgho pattaṁ ukkujjeyya. Katamehi aṭṭhahi? Na bhikkhūnaṁ alābhāya parisakkati, na bhikkhūnaṁ anatthāya parisakkati, na bhikkhūnaṁ avāsāya parisakkati, na bhikkhū akkosati paribhāsati, na bhikkhū bhikkhūhi bhedeti, buddhassa vaṇṇaṁ bhāsati, dhammassa vaṇṇaṁ bhāsati, saṅghassa vaṇṇaṁ bhāsati. Imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa upāsakassa ākaṅkhamāno saṅgho pattaṁ ukkujjeyyā"ti.
+
+Sattamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

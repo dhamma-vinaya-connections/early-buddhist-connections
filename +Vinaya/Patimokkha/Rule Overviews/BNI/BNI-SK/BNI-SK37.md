@@ -1,0 +1,73 @@
+---
+vin_code: "BNI-SK37"
+vin_pts: "Vin.3.1–3.40"
+vin_type:
+  - "Sekhiya "
+  - "Training"
+vin_title:
+  - "Sūpodanaviññatti"
+  - "Asking for Rice and Curry"
+vin_chapter:
+  - "Sakkaccavaggo"
+  - "Carefully"
+vin_theme:
+  - "#rule_theme/food"
+vin_topic:
+  - "#rule_topic/food-receiving"
+vin_critics:
+  - "#critics/laity"
+vin_purpose:
+  - "#purpose/faith-foster"
+vin_severity:
+  - "#severity/wrong-doing"
+vin_sangha_acts:
+  - ""
+vin_gender: "Nuns"
+vin_gender-corr: "BU-SK37"
+---
+> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BU-SK36]] 🌐 [[BU-SK37]] ►
+
+# Nuns - Sekhiya - Training
+## Sakkaccavaggo - Carefully
+## BNI-SK37 - Sūpodanaviññatti - Asking for Rice and Curry
+
+### 🌐Overview
+
+| Rule in Pali  | Rule in English  |
+| :-----------: | :--------------: |
+| 37. na sūpaṃ vā odanaṃ vā agilāno attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā | I shall not eat curry or rice, [when] not ill, having requested [it] for his own benefit, thus the training is to be done |
+
+
+> [!Info] Analisis of the rule
+> 
+> 
+---
+## 🌿 Rule Connections
+
+> [!done] Click for **[Available texts and translations ](obsidian://search?query=file:bni-sk37-)**
+>| Vibhanga | BMC    | Ven Ñanatusita                 |
+>| --------------------- | -------- | -------------------------- |
+>| [[bni-sk37-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SK37]] |
+>| [[bni-sk37-deepseek-pali]]      |          | [[ñanatusita-analysis#^-SK37]]    |
+
+> [!done]-  Monk - Nuns Rule Correlation and PTS reference
+> 
+> | Monks      | Nuns            | PTS ref |
+> | ---------- | --------------- | ------- |
+> | BNI-SK37 | [[BU-SK37]] | Vin.3.1–3.40 |
+
+>[!example]- Relevant texts
+>  - 
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-SK37%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a *link to this sutta* **and** have *the property [contribution]*
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBNI-SK37%5D%5D%22%23mynotes%20-file%3Abni-sk37-%20-file%3A%22BNI-SK37%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
+
+> [!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-sk?view=normal
+
+> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BU-SK36]] 🌐 [[BU-SK37]] ►

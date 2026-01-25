@@ -1,0 +1,42 @@
+---
+sutta_code: "AN5.15"
+sutta_title:
+  - "Kūṭa "
+  - "Peak"
+sutta-version: "Ven. Bodhi"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.15]]
+> ◄  [[an5.14-bodhi]] 📜  [[an5.16-bodhi]] ►
+
+# AN5.15 To Be Seen
+
+> **Division:** II. POWERS
+
+“Bhikkhus, there are these five powers. What five? The power of faith, the power of energy, the power of mindfulness, the power of concentration, \[12\] and the power of wisdom.
+
+(1) “And where, bhikkhus, is the power of faith to be seen? The power of faith is to be seen in the four factors of stream-entry. (2) And where is the power of energy to be seen? The power of energy is to be seen in the four right strivings. (3) And where is the power of mindfulness to be seen? The power of mindfulness is to be seen in the four establishments of mindfulness. (4) And where is the power of concentration to be seen? The power of concentration is to be seen in the four jhānas. (5) And where is the power of wisdom to be seen? The power of wisdom is to be seen in the four noble truths.
+
+“These, bhikkhus, are the five powers.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN48.8]] | [[SA646]], [[SA675]] | A iii 11 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA675]], [[SA646]], [[SN48.8]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.15]]
+> ◄  [[an5.14-bodhi]] 📜  [[an5.16-bodhi]] ►

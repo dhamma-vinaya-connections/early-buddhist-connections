@@ -1,0 +1,39 @@
+---
+sutta_code: "SN1.45"
+sutta_title:
+  - "Anomasutta "
+  - "Perfect"
+sutta-version: "Ven. Bodhi"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.45]]
+> ◄  [[sn1.44-bodhi]] 📜  [[sn1.46-bodhi]] ►
+
+# SN1.45 Perfect
+
+\[A devatā:\]
+
+> 148 “Behold him of perfect name,  
+>   
+> The seer of the subtle goal,  
+>   
+> The giver of wisdom, unattached  
+>   
+> To the lair of sensual pleasures.   
+>   
+> Behold the wise one, all-knowing,  
+>   
+> The great seer treading the noble path.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.45]]
+> ◄  [[sn1.44-bodhi]] 📜  [[sn1.46-bodhi]] ►

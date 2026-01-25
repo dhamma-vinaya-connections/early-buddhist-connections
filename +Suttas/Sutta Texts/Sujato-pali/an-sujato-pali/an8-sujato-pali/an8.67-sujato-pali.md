@@ -1,0 +1,42 @@
+---
+sutta_code: "AN8.67"
+sutta_title:
+  - "Anariyavohāra "
+  - "Expressions Noble And Ignoble"
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.67]]
+> ◄  [[an8.66-sujato-pali]] 📜  [[an8.68-sujato-pali]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+
+## 8: The Book of the Eights
+
+### VII. Earthquakes — AN 8.67: Ignoble Expressions
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+1“Mendicants, there are these eight ignoble expressions. What eight? Saying you’ve seen, heard, thought, or known something, but you haven’t. And saying you haven’t seen, heard, thought, or known something, and you have. These are the eight ignoble expressions.”
+
+1"Aṭṭhime, bhikkhave, anariyavohārā. Katame aṭṭha? Adiṭṭhe diṭṭhavāditā, asute sutavāditā, amute mutavāditā, aviññāte viññātavāditā, diṭṭhe adiṭṭhavāditā, sute asutavāditā, mute amutavāditā, viññāte aviññātavāditā. Ime kho, bhikkhave, aṭṭha anariyavohārā"ti.
+
+Sattamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 307 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.67]]
+> ◄  [[an8.66-sujato-pali]] 📜  [[an8.68-sujato-pali]] ►

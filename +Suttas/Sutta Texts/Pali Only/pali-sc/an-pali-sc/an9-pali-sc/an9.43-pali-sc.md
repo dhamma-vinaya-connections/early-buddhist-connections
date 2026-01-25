@@ -1,0 +1,36 @@
+---
+sutta_code: "AN9.43-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.43-PALI]]
+> ◄  [[an9.42-pali-sc]] 📜  [[an9.44-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 9: The Book of the Nines
+### AN 9.43: Kāyasakkhīsutta — A Personal Witness
+
+1"‘Kāyasakkhī, kāyasakkhī’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso, kāyasakkhī vutto bhagavatā"ti?
+
+2Idhāvuso, bhikkhu vivicceva kāmehi … pe … paṭhamaṁ jhānaṁ upasampajja viharati. Yathā yathā ca tadāyatanaṁ tathā tathā naṁ kāyena phusitvā viharati. Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā pariyāyena. (1)
+
+3Puna caparaṁ, āvuso, bhikkhu vitakkavicārānaṁ vūpasamā … pe … dutiyaṁ jhānaṁ … tatiyaṁ jhānaṁ … catutthaṁ jhānaṁ upasampajja viharati. Yathā yathā ca tadāyatanaṁ tathā tathā naṁ kāyena phusitvā viharati. Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā pariyāyena. (2–4.)
+
+4Puna caparaṁ, āvuso, bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati. Yathā yathā ca tadāyatanaṁ tathā tathā naṁ kāyena phusitvā viharati. Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā pariyāyena … pe … . (5–8.)
+
+5Puna caparaṁ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. Yathā yathā ca tadāyatanaṁ tathā tathā naṁ kāyena phusitvā viharati. Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā nippariyāyenā"ti. (9)
+
+Dutiyaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,99 @@
+---
+sutta_code: "SNP5.9"
+sutta_title:
+  - "Hemakamāṇavapucchā "
+  - "Questions of the Student Hemaka"
+sutta-version: "Ven. Thanissaro"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.9]]
+> ◄  [[snp5.8-thanissaro]] 📜  [[snp5.10-thanissaro]] ►
+
+# 5:9  Todeyya’s Questions
+
+One in whom
+
+no sensualities dwell;
+
+in whom
+
+no craving is found;
+
+who has crossed over perplexity—
+
+his emancipation:
+
+What is it like?
+
+The Buddha:
+
+One in whom
+
+no sensualities dwell;
+
+in whom
+
+no craving is found;
+
+who has crossed over perplexity—
+
+his emancipation
+
+is not other than that.(#) 
+
+Todeyya:
+
+Is he without desire,
+
+or desiring?
+
+Discerning or
+
+still acquiring discernment?
+
+Describe the sage to me, Sakyan,
+
+All-around Eye,
+
+so that I may recognize
+
+what he is like.
+
+The Buddha:
+
+He’s without desire,
+
+not desiring;
+
+discerning,
+
+not still acquiring discernment.
+
+Recognize the sage, Todeyya,
+
+as having nothing,
+
+unentangled
+
+in sensuality
+
+& becoming.
+
+vv. 1088–1091
+
+Note
+
+1. Nd IIA: The ending of craving is, in and of itself, emancipation. See [].
+
+> **Edition Notice**  
+Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,58 @@
+---
+sutta_code: "SN1.74-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.74-PALI]]
+> ◄  [[sn1.73-pali-sc]] 📜  [[sn1.75-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+
+## 1. On Deities
+
+### VIII. Incinerated — SN1.74: Rain
+#### B. Sujato
+
+
+1“What’s the best of things that rise?  
+And what’s the finest of things that fall?  
+And what of the things that go forth?  
+And who’s the finest speaker?”
+
+2“A seed’s the best of things that rise.  
+Rain’s the finest thing that falls.  
+Cattle, of things that go forth.  
+And a child is the finest speaker.”
+
+3“Knowledge is best of things that rise.  
+Ignorance the finest thing that falls.  
+The Saṅgha, of things that go forth.  
+And the Buddha is the finest speaker.”
+
+1"Kiṁsu uppātataṁ seṭṭhaṁ,  
+kiṁsu nipātataṁ varaṁ;  
+Kiṁsu pavajamānānaṁ,  
+kiṁsu pavadataṁ varan"ti.
+
+2"Bījaṁ uppātataṁ seṭṭhaṁ,  
+vuṭṭhi nipātataṁ varā;  
+Gāvo pavajamānānaṁ,  
+putto pavadataṁ varo"ti.
+
+3"Vijjā uppātataṁ seṭṭhā,  
+avijjā nipātataṁ varā;  
+Saṅgho pavajamānānaṁ,  
+buddho pavadataṁ varo"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

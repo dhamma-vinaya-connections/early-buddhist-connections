@@ -1,0 +1,38 @@
+---
+sutta_code: "AN1.29"
+sutta_title:
+  - "Akammaniya "
+  - "Useless"
+sutta-version: "Ven. Bodhi"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.29]]
+> ◄  [[an1.28-bodhi]] 📜  [[an1.30-bodhi]] ►
+
+# AN1.29
+
+> **Division:** III. UNWIELDY
+
+“Bhikkhus, I do not see even one other thing that, when undeveloped and uncultivated, brings such suffering as the mind. The mind, when undeveloped and uncultivated, brings suffering.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA11.5]] | A i 6 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA11.5]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.29]]
+> ◄  [[an1.28-bodhi]] 📜  [[an1.30-bodhi]] ►

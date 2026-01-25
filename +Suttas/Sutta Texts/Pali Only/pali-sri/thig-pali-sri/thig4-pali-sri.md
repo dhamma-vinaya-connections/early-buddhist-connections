@@ -1,0 +1,68 @@
+---
+sutta_code: "THIG4-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sri"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG4-PALI]]
+> ◄  [[thig3-pali-sri]] 📜  [[thig5-pali-sri]] ►
+
+# 4. Chatukka Nipata - Pali
+
+[CPD Classification 2.5.9]
+
+[PTS Vol Th 2 ]
+
+[BJT Vol Th 2 ]
+
+[BJT Page 22]
+
+[PTS Page 130]
+
+Khuddakanikāye
+
+Therīgāthāpāḷi
+
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+4. Catukkanipāto.
+
+4. 1
+
+63. Putto buddhassa dāyādo kassapo susamāhito,
+
+Pubbenivāsaṃ yo vedī saggāpāyañca passati.
+
+64. Atho jātikkhayaṃ patto abhiññāvosito muni,
+
+Etāhi tīhi vijjāhi tevijjo hoti brāhmaṇo.
+
+65. Tathema bhaddākāpilāni tevijjā maccuhāyinī,
+
+Dhāreti antimaṃ dehaṃ chetvā1 māraṃ savāhiniṃ. 2
+
+66. Disvā ādīnavaṃ loke ubho pabbajitā mayaṃ,
+
+Tyamhā khīṇāsavā dantā sītibhūtāmha nibbutāti.
+
+Itthaṃ sudaṃ bhaddākāpilānī therī gāthāyo abhāsitthā’ti.
+
+Bhaddānāpilānītherīgāthā.
+
+Catukkanipāto niṭṭhito.
+
+1 Chetvā-sī.
+
+2 Savāhanaṃ-machasaṃ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

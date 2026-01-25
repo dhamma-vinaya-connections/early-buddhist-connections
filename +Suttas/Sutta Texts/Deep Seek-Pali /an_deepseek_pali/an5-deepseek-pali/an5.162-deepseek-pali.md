@@ -1,0 +1,72 @@
+---
+sutta_code: "AN5.162"
+sutta_title:
+  - "Āghātapaṭivinaya "
+  - "Getting Rid Of Resentment"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
+> ◄  [[an5.161-deepseek-pali]] 📜  [[an5.163-deepseek-pali]] ►
+
+# AN 5.162 Dutiyaāghātapaṭivinayasuttaṃ
+
+## AN 5.162 The Second Discourse on the Removal of Resentment
+
+162. Tatra kho āyasmā sāriputto bhikkhū āmantesi – ‘‘āvuso bhikkhave’’ti. ‘‘Āvuso’’ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ. Āyasmā sāriputto etadavoca –
+
+162.Thereupon, the Venerable Sāriputta addressed the bhikkhus thus: “Friends, bhikkhus.” “Friend,” those bhikkhus replied to the Venerable Sāriputta. The Venerable Sāriputta said this:
+
+‘‘Pañcime, āvuso, āghātapaṭivinayā yattha bhikkhuno uppanno āghāto sabbaso paṭivinetabbo. Katame pañca? Idhāvuso, ekacco puggalo aparisuddhakāyasamācāro hoti parisuddhavacīsamācāro; evarūpepi, āvuso, puggale āghāto paṭivinetabbo. Idha panāvuso, ekacco puggalo aparisuddhavacīsamācāro hoti parisuddhakāyasamācāro; evarūpepi, āvuso, puggale āghāto paṭivinetabbo. Idha panāvuso, ekacco puggalo aparisuddhakāyasamācāro hoti aparisuddhavacīsamācāro, labhati ca kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ; evarūpepi, āvuso, puggale āghāto paṭivinetabbo. Idha panāvuso, ekacco puggalo aparisuddhakāyasamācāro hoti aparisuddhavacīsamācāro, na ca labhati kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ; evarūpepi, āvuso, puggale āghāto paṭivinetabbo. Idha panāvuso, ekacco puggalo parisuddhakāyasamācāro parisuddhavacīsamācāro, labhati ca kālena vā kālaṃ cetaso vivaraṃ cetaso pasādaṃ; evarūpepi, āvuso, puggale āghāto paṭivinetabbo.
+
+“Friends, there are these five ways to remove resentment, by which a bhikkhu should completely remove any resentment that has arisen. What are the five? Here, friends, a certain person has impure bodily conduct but pure verbal conduct; resentment toward such a person should be removed. Here, friends, a certain person has impure verbal conduct but pure bodily conduct; resentment toward such a person should be removed. Here, friends, a certain person has impure bodily conduct and impure verbal conduct, but from time to time he obtains an opening of mind and serenity of mind; resentment toward such a person should be removed. Here, friends, a certain person has impure bodily conduct and impure verbal conduct, and he does not obtain from time to time an opening of mind or serenity of mind; resentment toward such a person should be removed. Here, friends, a certain person has pure bodily conduct and pure verbal conduct, and he obtains from time to time an opening of mind and serenity of mind; resentment toward such a person should be removed.”
+
+‘‘Tatrāvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro parisuddhavacīsamācāro, kathaṃ tasmiṃ puggale āghāto paṭivinetabbo? Seyyathāpi, āvuso, bhikkhu paṃsukūliko rathiyāya nantakaṃ disvā vāmena pādena niggaṇhitvā dakkhiṇena pādena pattharitvā [vitthāretvā (sī. pī.)], yo tattha sāro taṃ paripātetvā ādāya pakkameyya; evamevaṃ khvāvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro parisuddhavacīsamācāro, yāssa aparisuddhakāyasamācāratā na sāssa tasmiṃ samaye manasi kātabbā, yā ca khvāssa parisuddhavacīsamācāratā sāssa tasmiṃ samaye manasi kātabbā. Evaṃ tasmiṃ puggale āghāto paṭivinetabbo.
+
+“Here, friends, regarding a person whose bodily conduct is impure but whose verbal conduct is pure, how should resentment toward that person be removed? Suppose, friends, a bhikkhu who wears rag-robes sees a discarded cloth in the street. Pressing it down with his left foot, he spreads it out with his right foot, discards whatever is unusable, takes whatever is usable, and goes on his way. In the same way, friends, regarding a person whose bodily conduct is impure but whose verbal conduct is pure, one should not at that time focus on his impure bodily conduct, but one should at that time focus on his pure verbal conduct. Thus, resentment toward that person should be removed.
+
+‘‘Tatrāvuso, yvāyaṃ puggalo aparisuddhavacīsamācāro parisuddhakāyasamācāro, kathaṃ tasmiṃ puggale āghāto paṭivinetabbo? Seyyathāpi, āvuso, pokkharaṇī sevālapaṇakapariyonaddhā. Atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito. So taṃ pokkharaṇiṃ ogāhetvā ubhohi hatthehi iticiti ca sevālapaṇakaṃ apaviyūhitvā añjalinā pivitvā pakkameyya. Evamevaṃ kho, āvuso, yvāyaṃ puggalo aparisuddhavacīsamācāro parisuddhakāyasamācāro, yāssa aparisuddhavacīsamācāratā na sāssa tasmiṃ samaye manasi kātabbā, yā ca khvāssa parisuddhakāyasamācāratā sāssa tasmiṃ samaye manasi kātabbā. Evaṃ tasmiṃ puggale āghāto paṭivinetabbo.
+
+“Here, friends, regarding a person whose verbal conduct is impure but whose bodily conduct is pure, how should resentment toward that person be removed? Suppose, friends, there is a pond overgrown with algae and water-plants. Then a person comes along, afflicted by heat, overcome by heat, weary, thirsty, and parched. He enters that pond, pushes aside the algae and water-plants this way and that with both hands, drinks with a cupped hand, and then goes on his way. In the same way, friends, regarding a person whose verbal conduct is impure but whose bodily conduct is pure, one should not focus on his impure verbal conduct at that time, but one should focus on his pure bodily conduct. Thus, resentment toward that person should be removed.
+
+‘‘Tatrāvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro aparisuddhavacīsamācāro labhati ca kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, kathaṃ tasmiṃ puggale āghāto paṭivinetabbo? Seyyathāpi, āvuso, parittaṃ gopade [gopadake (sī. syā.)] udakaṃ. Atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito. Tassa evamassa – ‘idaṃ kho parittaṃ gopade udakaṃ. Sacāhaṃ añjalinā vā pivissāmi bhājanena vā khobhessāmipi taṃ loḷessāmipi taṃ apeyyampi taṃ karissāmi. Yaṃnūnāhaṃ catukkuṇḍiko [catuguṇḍiko (sī.), catukuṇḍiko (syā. kaṃ. pī.), catukoṇḍiko (dī. ni. 3.7)] nipatitvā gopītakaṃ pivitvā pakkameyya’nti. So catukkuṇḍiko nipatitvā gopītakaṃ pivitvā pakkameyya. Evamevaṃ kho, āvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro aparisuddhavacīsamācāro labhati ca kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, yāssa aparisuddhakāyasamācāratā na sāssa tasmiṃ samaye manasi kātabbā; yāpissa aparisuddhavacīsamācāratā na sāpissa tasmiṃ samaye manasi kātabbā. Yañca kho so labhati kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, tamevassa [tadevassa (sī. syā.)] tasmiṃ samaye manasi kātabbaṃ. Evaṃ tasmiṃ puggale āghāto paṭivinetabbo.
+
+“Here, friends, regarding a person whose bodily conduct is impure and whose verbal conduct is impure, but who obtains from time to time an opening of mind and serenity of mind, how should resentment toward that person be removed? Suppose, friends, there is a small amount of water in a cow’s hoofprint. Then a person comes along, afflicted by heat, overcome by heat, weary, thirsty, and parched. He thinks: ‘This is a small amount of water in a cow’s hoofprint. If I try to drink it by cupping my hands or with a vessel, I will stir it up, roil it, and make it undrinkable. Let me kneel down on all fours, drink it like a cow by scooping it up with my mouth, and then go on my way.’ So he kneels down on all fours, drinks like a cow by scooping it up with his mouth, and then goes on his way. In the same way, friends, regarding a person whose bodily conduct is impure and whose verbal conduct is impure, but who obtains from time to time an opening of mind and serenity of mind, one should not at that time focus on his impure bodily conduct, nor should one focus on his impure verbal conduct. Instead, one should focus on the opening of mind and serenity of mind that he obtains from time to time. Thus, resentment toward that person should be removed.
+
+‘‘Tatrāvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro aparisuddhavacīsamācāro na ca labhati kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, kathaṃ tasmiṃ puggale āghāto paṭivinetabbo? Seyyathāpi, āvuso, puriso ābādhiko dukkhito bāḷhagilāno addhānamaggappaṭipanno. Tassa puratopissa dūre gāmo pacchatopissa dūre gāmo. So na labheyya sappāyāni bhojanāni, na labheyya sappāyāni bhesajjāni, na labheyya patirūpaṃ upaṭṭhākaṃ, na labheyya gāmantanāyakaṃ. Tamenaṃ aññataro puriso passeyya addhānamaggappaṭipanno. So tasmiṃ purise kāruññaṃyeva upaṭṭhāpeyya, anuddayaṃyeva upaṭṭhāpeyya, anukampaṃyeva upaṭṭhāpeyya – ‘aho vatāyaṃ puriso labheyya sappāyāni bhojanāni, labheyya sappāyāni bhesajjāni, labheyya patirūpaṃ upaṭṭhākaṃ, labheyya gāmantanāyakaṃ! Taṃ kissa hetu? Māyaṃ [ayaṃ (ka.)] puriso idheva anayabyasanaṃ āpajjī’ti [āpajjeyya (ka.)]! Evamevaṃ kho, āvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro aparisuddhavacīsamācāro na ca labhati kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, evarūpepi [evarūpe (pī.)], āvuso, puggale kāruññaṃyeva upaṭṭhāpetabbaṃ anuddayāyeva upaṭṭhāpetabbā anukampāyeva upaṭṭhāpetabbā – ‘aho vata ayamāyasmā kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveyya, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveyya, manoduccaritaṃ pahāya manosucaritaṃ bhāveyya! Taṃ kissa hetu? Māyaṃ āyasmā [ayamāyasmā (ka.)] kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjī’ti [upapajjatīti (ka.)]! Evaṃ tasmiṃ puggale āghāto paṭivinetabbo.
+
+“Here, friends, regarding a person whose bodily conduct is impure, whose verbal conduct is impure, and who does not obtain from time to time an opening of mind or serenity of mind—how should resentment toward such a person be removed? Suppose, friends, a man is afflicted, suffering, gravely ill, traveling along a road. Ahead of him is a village far away, and behind him is a village far away. He does not obtain suitable food, he does not obtain suitable medicine, he does not obtain a proper attendant, and he does not obtain a village headman. Another man sees him traveling along the road. That man would arouse compassion for him, would arouse sympathy for him, would arouse concern for him, thinking: ‘Oh, may this man obtain suitable food, obtain suitable medicine, obtain a proper attendant, obtain a village headman! Why is that? So that this man does not meet with misfortune and disaster right here!’ In the same way, friends, regarding a person whose bodily conduct is impure, whose verbal conduct is impure, and who does not obtain from time to time an opening of mind or serenity of mind—toward such a person, too, one should arouse compassion, one should arouse sympathy, one should arouse concern, thinking: ‘Oh, may this venerable one abandon misconduct of body and cultivate good conduct of body, abandon misconduct of speech and cultivate good conduct of speech, abandon misconduct of mind and cultivate good conduct of mind! Why is that? So that this venerable one, after the breakup of the body, after death, does not reappear in a state of deprivation, in an unhappy destination, in the nether world, in hell!’ In this way, resentment toward such a person should be removed.”
+
+‘‘Tatrāvuso, yvāyaṃ puggalo parisuddhakāyasamācāro parisuddhavacīsamācāro labhati ca kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, kathaṃ tasmiṃ puggale āghāto paṭivinetabbo? Seyyathāpi, āvuso, pokkharaṇī acchodakā sātodakā sītodakā [acchodikā sātodikā sītodikā (sī.)] setakā [setodakā (ka.)] supatitthā ramaṇīyā nānārukkhehi sañchannā. Atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito. So taṃ pokkharaṇiṃ ogāhetvā nhātvā ca pivitvā ca paccuttaritvā tattheva rukkhacchāyāya nisīdeyya vā nipajjeyya vā.
+
+“Here, friends, regarding a person whose bodily conduct is pure, whose verbal conduct is pure, and who obtains from time to time an opening of mind and serenity of mind—how should resentment toward such a person be removed? Suppose, friends, there were a pond with clear water, sweet water, cool water, white and with good fords, delightful and shaded by various trees. Then a man might come along, afflicted by heat, overcome by heat, weary, thirsty, and parched. He would plunge into that pond, bathe and drink, and after emerging, he would sit or lie down right there in the shade of a tree.
+
+Evamevaṃ kho, āvuso, yvāyaṃ puggalo parisuddhakāyasamācāro parisuddhavacīsamācāro labhati ca kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, yāpissa parisuddhakāyasamācāratā sāpissa tasmiṃ samaye manasi kātabbā; yāpissa parisuddhavacīsamācāratā sāpissa tasmiṃ samaye manasi kātabbā; yampi labhati kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, tampissa tasmiṃ samaye manasi kātabbaṃ. Evaṃ tasmiṃ puggale āghāto paṭivinetabbo. Samantapāsādikaṃ, āvuso, puggalaṃ āgamma cittaṃ pasīdati.
+
+Just so, friends, when a person has pure bodily conduct, pure verbal conduct, and obtains from time to time an opening of mind and serenity of mind, at that time one should focus on his pure bodily conduct, one should focus on his pure verbal conduct, and one should focus on the opening of mind and serenity of mind that he obtains from time to time. In this way, resentment toward that person should be removed. Friends, by associating with a person who is pleasing in every way, the mind becomes serene.”
+
+‘‘Ime kho, āvuso, pañca āghātapaṭivinayā, yattha bhikkhuno uppanno āghāto sabbaso paṭivinetabbo’’ti. Dutiyaṃ.
+
+“These, friends, are the five ways to remove resentment, whereby any resentment that has arisen in a bhikkhu should be completely removed.” Second.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA25]] | A iii 186 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA25]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
+> ◄  [[an5.161-deepseek-pali]] 📜  [[an5.163-deepseek-pali]] ►

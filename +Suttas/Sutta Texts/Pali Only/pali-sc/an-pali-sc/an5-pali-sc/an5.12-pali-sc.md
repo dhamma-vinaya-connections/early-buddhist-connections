@@ -1,0 +1,32 @@
+---
+sutta_code: "AN5.12-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.12-PALI]]
+> ◄  [[an5.11-pali-sc]] 📜  [[an5.13-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 5: The Book of the Fives
+### AN 5.12: Kūṭasutta — Peak
+
+1"Pañcimāni, bhikkhave, sekhabalāni. Katamāni pañca? Saddhābalaṁ, hirībalaṁ, ottappabalaṁ, vīriyabalaṁ, paññābalaṁ – imāni kho, bhikkhave, pañca sekhabalāni. Imesaṁ kho, bhikkhave, pañcannaṁ sekhabalānaṁ etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghātaniyaṁ, yadidaṁ paññābalaṁ.
+
+2Seyyathāpi, bhikkhave, kūṭāgārassa etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghātaniyaṁ, yadidaṁ kūṭaṁ. Evamevaṁ kho, bhikkhave, imesaṁ pañcannaṁ sekhabalānaṁ etaṁ aggaṁ etaṁ saṅgāhikaṁ etaṁ saṅghātaniyaṁ, yadidaṁ paññābalaṁ.
+
+3Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ:  ‘saddhābalena samannāgatā bhavissāma sekhabalena, hirībalena … ottappabalena … vīriyabalena … paññābalena samannāgatā bhavissāma sekhabalenā’ti. Evañhi vo, bhikkhave, sikkhitabban"ti.
+
+Dutiyaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,62 @@
+---
+sutta_code: "SN1.72"
+sutta_title:
+  - "Rathasutta "
+  - "Chariot"
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.72]]
+> ◄  [[sn1.71-sujato-pali]] 📜  [[sn1.73-sujato-pali]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+
+## 1. On Deities
+
+### VIII. Incinerated — SN1.72: A Chariot
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+1“What’s the mark of a chariot?  
+What’s the mark of fire?  
+What’s the mark of a nation?  
+What’s the mark of a woman?”
+
+2“A banner is the mark of a chariot.  
+Smoke is the mark of fire.  
+A ruler is a nation’s mark.  
+And a husband is the mark of a woman.”
+
+1v.226 "Kiṁsu rathassa paññāṇaṁ,  
+kiṁsu paññāṇamaggino;  
+Kiṁsu raṭṭhassa paññāṇaṁ,  
+kiṁsu paññāṇamitthiyā"ti.
+
+2"Dhajo rathassa paññāṇaṁ,  
+dhūmo paññāṇamaggino;  
+Rājā raṭṭhassa paññāṇaṁ,  
+bhattā paññāṇamitthiyā"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.249]], [[SA1022]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.249]], [[SA1022]], [[JA547]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.72]]
+> ◄  [[sn1.71-sujato-pali]] 📜  [[sn1.73-sujato-pali]] ►

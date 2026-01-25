@@ -1,0 +1,112 @@
+---
+sutta_code: "SNP2.10"
+sutta_pts: ""
+sutta_title:
+  - "Uṭṭhānasutta "
+  - "Get up make effort"
+nikaya:
+  - "SNP "
+  - "Sutta Nipata"
+sutta_chapter:
+  - "SNP2"
+  - "Cūḷavagga"
+  - "Lesser"
+  - ""
+sutta_theme:
+  - "Effort right"
+sutta_topic:
+  - "Wakefulness"
+sutta_training:
+  - "Samādhi"
+sutta_stage:
+  - "Beginning"
+sutta_method:
+  - "Verses"
+sutta_aspect:
+  - "Training"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Detail"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: ""
+parallels_nikaya:
+  - "[[DHP315]]"
+  - "[[THIG1.5]]"
+parallels_agama:
+  - ""
+parallels_partilal:
+  - "[[DHP315]]"
+  - "[[THAG17.2]]"
+  - "[[AN8.29]]"
+  - "[[THAG14.1]]"
+  - "[[THIG1.5]]"
+  - "[[THAG6.5]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.9]]  🌐 [[SNP2.11]] ►
+
+# SNP2.10 - Uṭṭhānasutta - Get up make effort
+## 🌐 Overview
+
+> [!info] Summary
+> Get up! Don’t let the opportunity for practice pass you by
+
+> [!info] Key Excerpts 
+> Get up! Sit up!
+Train firmly for the sake of peace.
+Don’t let the king of death,
+—seeing you heedless—
+deceive you,
+bring you under his sway.
+> 
+> Don’t let the moment pass by.
+Those for whom the moment is past grieve, consigned to hell.
+Heedlessness is dust, dust
+comes from heedlessness,
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP315]], [[THIG1.5]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP315]], [[THAG17.2]], [[AN8.29]], [[THAG14.1]], [[THIG1.5]], [[THAG6.5]] |
+| ------------------------ |
+
+>[!example]- Suggestions by Ven. Thanissaro
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[DHP315]], [[SN3.17]], [[SN36.6]], [[AN4.37]], [[THAG1.84]], [[THAG2.37]]
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP2.10%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP2.10%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BSNP2.10%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP2.10%5D%5D%22%23mynotes%20-file%3Asnp2.10-%20-file%3A%22SNP2.9%22%20-file%3A%22SNP2.11%22%20-file%3A%22SNP2.10%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/snp2.10/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=snp2.10
+> - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.10.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.9]]  🌐 [[SNP2.11]] ►

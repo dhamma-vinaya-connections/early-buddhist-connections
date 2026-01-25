@@ -1,0 +1,98 @@
+---
+sutta_code: "SN3.13"
+sutta_pts: ""
+sutta_title:
+  - "Doṇapākasutta "
+  - "A Bucket Measure of Food"
+nikaya:
+  - "SN "
+  - "Saṃyutta Nikāya"
+sutta_chapter:
+  - "SN3"
+  - "Kosalasaṁyutta"
+  - "Kosala"
+  - "SN1-11"
+sutta_theme:
+  - "Mindfulness"
+sutta_topic:
+  - "Weight loss"
+sutta_training:
+  - "Samādhi"
+sutta_stage:
+  - "Intro"
+sutta_method:
+  - "Mixed"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "King"
+sutta_simile: ""
+parallels_nikaya:
+  - ""
+parallels_agama:
+  - "[[SA-2.73]]"
+  - "[[SA1150]]"
+parallels_partilal:
+  - "[[SA-2.73]]"
+  - "[[SA1150]]"
+  - "[[SN3.13]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.12]]  🌐 [[SN3.14]] ►
+
+# SN3.13 - Doṇapākasutta - A Bucket Measure of Food
+## 🌐 Overview
+
+> [!info] Summary
+> How king pasenadi learns to use mindfulness to control his overeating
+
+> [!info] Key Excerpts 
+> “when a man is always mindful, Knowing moderation in eating, His discomfort diminishes, And he ages slowly, taking care of his life
+> 
+> Memorize this verse in the Buddha ’s presence and recite it to me whenever I am presented with a meal
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.73]], [[SA1150]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.73]], [[SA1150]], [[SN3.13]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN3.13%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN3.13%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BSN3.13%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.13%5D%5D%22%23mynotes%20-file%3Asn3.13-%20-file%3A%22SN3.12%22%20-file%3A%22SN3.14%22%20-file%3A%22SN3.13%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/sn3.13/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=sn3.13
+> - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.13.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.12]]  🌐 [[SN3.14]] ►

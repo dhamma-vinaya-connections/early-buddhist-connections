@@ -1,0 +1,56 @@
+---
+sutta_code: "SN3.15-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.15-PALI]]
+> ◄  [[sn3.14-pali-sc]] 📜  [[sn3.16-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+## 3. Kosalasaṁyutta: With the Kosalan
+### II. Childless — SN3.15: Battle (2nd)
+
+1Atha kho rājā māgadho ajātasattu vedehiputto caturaṅginiṁ senaṁ sannayhitvā rājānaṁ pasenadiṁ kosalaṁ abbhuyyāsi yena kāsi. Assosi kho rājā pasenadi kosalo: "rājā kira māgadho ajātasattu vedehiputto caturaṅginiṁ senaṁ sannayhitvā mamaṁ abbhuyyāto yena kāsī"ti. Atha kho rājā pasenadi kosalo caturaṅginiṁ senaṁ sannayhitvā rājānaṁ māgadhaṁ ajātasattuṁ vedehiputtaṁ paccuyyāsi yena kāsi. Atha kho rājā ca māgadho ajātasattu vedehiputto rājā ca pasenadi kosalo saṅgāmesuṁ. Tasmiṁ kho pana saṅgāme rājā pasenadi kosalo rājānaṁ māgadhaṁ ajātasattuṁ vedehiputtaṁ parājesi, jīvaggāhañca naṁ aggahesi. Atha kho rañño pasenadissa kosalassa etadahosi: "kiñcāpi kho myāyaṁ rājā māgadho ajātasattu vedehiputto adubbhantassa dubbhati, atha ca pana me bhāgineyyo hoti. Yannūnāhaṁ rañño māgadhassa ajātasattuno vedehiputtassa sabbaṁ hatthikāyaṁ pariyādiyitvā sabbaṁ assakāyaṁ pariyādiyitvā sabbaṁ rathakāyaṁ pariyādiyitvā sabbaṁ pattikāyaṁ pariyādiyitvā jīvantameva naṁ osajjeyyan"ti.
+
+
+2Atha kho rājā pasenadi kosalo rañño māgadhassa ajātasattuno vedehiputtassa sabbaṁ hatthikāyaṁ pariyādiyitvā sabbaṁ assakāyaṁ pariyādiyitvā sabbaṁ rathakāyaṁ pariyādiyitvā sabbaṁ pattikāyaṁ pariyādiyitvā jīvantameva naṁ osajji.
+
+
+3Atha kho sambahulā bhikkhū pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pavisiṁsu. Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: 
+
+4"Idha, bhante, rājā māgadho ajātasattu vedehiputto caturaṅginiṁ senaṁ sannayhitvā rājānaṁ pasenadiṁ kosalaṁ abbhuyyāsi yena kāsi. Assosi kho, bhante, rājā pasenadi kosalo: ‘rājā kira māgadho ajātasattu vedehiputto caturaṅginiṁ senaṁ sannayhitvā mamaṁ abbhuyyāto yena kāsī’ti. Atha kho, bhante, rājā pasenadi kosalo caturaṅginiṁ senaṁ sannayhitvā rājānaṁ māgadhaṁ ajātasattuṁ vedehiputtaṁ paccuyyāsi yena kāsi. Atha kho, bhante, rājā ca māgadho ajātasattu vedehiputto rājā ca pasenadi kosalo saṅgāmesuṁ. Tasmiṁ kho pana, bhante, saṅgāme rājā pasenadi kosalo rājānaṁ māgadhaṁ ajātasattuṁ vedehiputtaṁ parājesi, jīvaggāhañca naṁ aggahesi. Atha kho, bhante, rañño pasenadissa kosalassa etadahosi: ‘kiñcāpi kho myāyaṁ rājā māgadho ajātasattu vedehiputto adubbhantassa dubbhati, atha ca pana me bhāgineyyo hoti. Yannūnāhaṁ rañño māgadhassa ajātasattuno vedehiputtassa sabbaṁ hatthikāyaṁ pariyādiyitvā sabbaṁ assakāyaṁ sabbaṁ rathakāyaṁ sabbaṁ pattikāyaṁ pariyādiyitvā jīvantameva naṁ osajjeyyan’"ti.
+
+5"Atha kho, bhante, rājā pasenadi kosalo rañño māgadhassa ajātasattuno vedehiputtassa sabbaṁ hatthikāyaṁ pariyādiyitvā sabbaṁ assakāyaṁ pariyādiyitvā sabbaṁ rathakāyaṁ pariyādiyitvā sabbaṁ pattikāyaṁ pariyādiyitvā jīvantameva naṁ osajjī"ti.
+
+
+6Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imā gāthāyo abhāsi: 
+
+7"Vilumpateva puriso,  
+yāvassa upakappati;  
+Yadā caññe vilumpanti,  
+so vilutto viluppati.
+
+8Ṭhānañhi maññati bālo,  
+yāva pāpaṁ na paccati;  
+Yadā ca paccati pāpaṁ,  
+atha dukkhaṁ nigacchati.
+
+9Hantā labhati hantāraṁ,  
+jetāraṁ labhate jayaṁ;  
+Akkosako ca akkosaṁ,  
+rosetārañca rosako;  
+Atha kammavivaṭṭena,  
+so vilutto viluppatī"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

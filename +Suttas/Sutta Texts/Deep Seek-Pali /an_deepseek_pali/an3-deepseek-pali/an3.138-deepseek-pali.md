@@ -1,0 +1,34 @@
+---
+sutta_code: "AN3.138"
+sutta_title:
+  - "Sampadā "
+  - "Accomplishment"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.138]]
+> ◄  [[an3.137-deepseek-pali]] 📜  [[an3.139-deepseek-pali]] ►
+
+# AN 3.138 Sampadāsuttaṃ
+
+## AN 3.138 The Discourse on Accomplishments
+
+139. ‘‘Tisso imā, bhikkhave, sampadā. Katamā tisso? Saddhāsampadā, sīlasampadā, paññāsampadā – imā kho, bhikkhave, tisso sampadā’’ti. Chaṭṭhaṃ.
+
+139.“Monks, there are these three accomplishments. What three? Accomplishment in faith, accomplishment in virtue, and accomplishment in wisdom. These, monks, are the three accomplishments.” The sixth.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 287 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.138]]
+> ◄  [[an3.137-deepseek-pali]] 📜  [[an3.139-deepseek-pali]] ►

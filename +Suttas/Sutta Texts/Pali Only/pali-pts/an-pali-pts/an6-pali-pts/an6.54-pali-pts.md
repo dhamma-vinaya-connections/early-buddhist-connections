@@ -1,0 +1,27 @@
+---
+sutta_code: "AN6.54-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.54-PALI]]
+> ◄  [[an6.53-pali-pts]] 📜  [[an6.55-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN6.54: Dhammika
+
+PTS: A iii 366
+
+Ekaṃ samayaṃ Bhagavā Rājagahe viharati Gijjhakūṭe pabbate. Tena kho pana samayena āyasmā Dhammiko jātibhūmiyaṃ āvāsiko hoti sabbaso jātibhūmiyaṃ sattasu āvāsesu. Tatra sudaṃ āyasmā Dhammiko āgantuke bhikkhū akkosati paribhāsati vihiṃsati vitudati roseti vācāya, te ca āgantukā bhikkhū āyasmatā Dhammikena akkosiyamānā paribhāsiyamānā vihesiyamānā vitudiyamānā rosiyamānā vācāya pakkamanti, na saṇṭhanti, riñcanti āvāsaṃ. Atha kho jātibhūmikānaṃ upāsakānaṃ etad ahosi ‘mayaṃ kho bhikkhusaṅghaṃ paccupaṭṭhitā cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārena, atha kho pana āgantukā bhikkhū pakkamanti na saṇṭhanti, riñcanti āvāsaṃ; ko nu kho hetu, ko paccayo yena āgantukā bhikkhū pakkamanti na saṇṭhanti, riñcanti āvāsan'; ti? Atha kho jātibhūmikānaṃ upāsakānaṃ etad ahosi ‘ayaṃ kho āyasmā Dhammiko āgantuke bhikkhū akkosati paribhāsati vihiṃsati vitudati roseti vācāya, te ca āgantukā bhikkhū āyasmatā Dhammikena akkosiyamānā paribhāsiyamānā vihesiyamānā vitudiyamānā rosiyamānā vācāya pakkamanti na saṇṭhanti, riñcanti āvāsaṃ; yan nūna mayaṃ āyasmantaṃ Dhammikaṃ pabbājeyyāmā'; ti. Atha kho jātibhūmikā upāsakā yena āyasmā Dhammiko ten'; upasaṅkamiṃsu, upasaṅkamitvā āyasmantaṃ Dhammikaṃ etad avocuṃ ‘pakkamatu bhante āyasmā Dhammiko imamhā āvāsā, alan te idha vāsenā'; ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

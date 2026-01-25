@@ -1,0 +1,28 @@
+---
+sutta_code: "AN1.34-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.34-PALI]]
+> ◄  [[an1.33-pali-pts]] 📜  [[an1.35-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN1.34: Adanta
+
+PTS: A i 7
+
+Nāhaṃ bhikkhave aññaṃ ekadhammam pi samanupassāmi yaṃ evaṃ guttaṃ mahato atthāya {saṃvattati} yathayidaṃ cittaṃ.
+Cittaṃ bhikkhave guttaṃ mahato atthāya saṃvattatī ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

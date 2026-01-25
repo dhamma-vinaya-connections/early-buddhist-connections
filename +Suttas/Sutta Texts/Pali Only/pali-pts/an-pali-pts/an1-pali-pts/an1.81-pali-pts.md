@@ -1,0 +1,27 @@
+---
+sutta_code: "AN1.81-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.81-PALI]]
+> ◄  [[an1.80-pali-pts]] 📜  [[an1.82-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN1.81: Kalyāṇamittādi
+
+PTS: A i 15
+
+Appamattikā esā bhikkhave vuddhi yadidaṃ yasovuddhi. Etad aggaṃ bhikkhave vuddhīnaṃ yadidaṃ paññā-vuddhi. Tasmāt iha bhikkhave evaṃ sikkhitabbaṃ paññā-vuddhiyā vaḍḍhissāmā ti evaṃ hi vo bhikkhave sikkhitabban ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

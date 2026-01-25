@@ -1,0 +1,34 @@
+---
+sutta_code: "AN5.306"
+sutta_title:
+  - "Rāga Peyyāla "
+  - "Abbreviated Texts"
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.306]]
+> ◄  [[an5.305-sujato-pali]] 📜  [[an5.307-sujato-pali]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+
+## 5: The Book of the Fives
+
+### XXIX. Abbreviated Texts Beginning With Greed — AN 5.306:
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+1“For insight into greed, five things should be developed. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. For insight into greed, these five things should be developed.”
+
+1"Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. Katame pañca? Saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ – rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā"ti. (4)
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

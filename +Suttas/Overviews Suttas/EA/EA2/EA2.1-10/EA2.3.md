@@ -1,0 +1,104 @@
+---
+sutta_code: "EA2.3"
+sutta_pts: ""
+sutta_title:
+  - "EA 2.3 "
+  - "The Saṅgha"
+nikaya:
+  - "EA "
+  - "Ekottara Āgama"
+sutta_chapter:
+  - "EA2"
+  - "T125"
+  - "EA2"
+  - ""
+sutta_theme:
+  - "Skillful and unskillful"
+sutta_topic:
+  - "Improvement"
+sutta_training:
+  - "Samādhi"
+sutta_stage:
+  - "Beginning"
+sutta_method:
+  - "Lecture"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: ""
+parallels_nikaya:
+  - "[[AN2.19]]"
+  - "[[AN3.29]]"
+  - "[[SN22.57]]"
+parallels_agama:
+  - "[[EA2.1]]"
+  - "[[EA2.3]]"
+  - "[[SA42]]"
+parallels_partilal:
+  - "[[AN2.19]]"
+  - "[[AN3.29]]"
+  - "[[EA2.1]]"
+  - "[[EA2.3]]"
+  - "[[SA42]]"
+  - "[[SN22.57]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA2.2]]  🌐 [[EA2.4]] ►
+
+# EA2.3 - EA 2.3 - The Saṅgha
+## 🌐 Overview
+
+> [!info] Summary
+> Yes, it really is possible to abandon unskillful habits and to develop skillful ones
+
+> [!info] Key Excerpts 
+> It is possible to give up the unskillful, and to develop the skillful
+> 
+> Developing the skillful leads to welfare and happiness, so I say: ‘develop the skillful
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN2.19]], [[AN3.29]], [[SN22.57]] | [[EA2.1]], [[EA2.3]], [[SA42]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN2.19]], [[AN3.29]], [[EA2.1]], [[EA2.3]], [[SA42]], [[SN22.57]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BEA2.3%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BEA2.3%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BEA2.3%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BEA2.3%5D%5D%22%23mynotes%20-file%3Aea2.3-%20-file%3A%22EA2.2%22%20-file%3A%22EA2.4%22%20-file%3A%22EA2.3%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/ea2.3/en/patton?lang=en&layout=plain&script=latin
+> - Dhamma Gift: 
+> - The Buddhas Words: 
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA2.2]]  🌐 [[EA2.4]] ►

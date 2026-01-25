@@ -1,0 +1,103 @@
+---
+sutta_code: "AN3.89"
+sutta_pts: "A i 235"
+sutta_title:
+  - "Sikkhattaya "
+  - "Three Trainings"
+nikaya:
+  - "AN "
+  - "Aṅguttara Nikāya"
+sutta_chapter:
+  - "AN3"
+  - "Samaṇvagga"
+  - "Ascetics"
+  - ""
+sutta_theme:
+  - "Sangha"
+sutta_topic:
+  - "Bhikkhus training"
+sutta_training:
+  - "Sīla"
+  - "Samādhi"
+  - "Paññā"
+sutta_stage:
+  - "Final"
+sutta_method:
+  - "Mixed"
+sutta_aspect:
+  - "Training"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Detail"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: ""
+parallels_nikaya:
+  - "[[AN3.90]]"
+parallels_agama:
+  - "[[SA816]]"
+  - "[[SA817]]"
+  - "[[SA832]]"
+parallels_partilal:
+  - "[[SA817]]"
+  - "[[SA832]]"
+  - "[[AN3.90]]"
+  - "[[SA816]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.88]]  🌐 [[AN3.90]] ►
+
+# AN3.89 - Sikkhattaya - Three Trainings
+## 🌐 Overview
+
+> [!info] Summary
+> The Buddha  summarizes the three aspects of Dhamma practice that should be developed.
+
+> [!info] Key Excerpts 
+> Higher ethics is restrained in the code of conduct, higher mind are 4 jhanas, higher wisdom is to truly understand the 4 noble truths and realize the end of the defilements
+> 
+> Wise one who has gone to the end of the path
+They call a ‘Buddha ’ in the world.
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.90]] | [[SA816]], [[SA817]], [[SA832]] | A i 235 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA817]], [[SA832]], [[AN3.90]], [[SA816]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN3.89%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN3.89%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BAN3.89%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.89%5D%5D%22%23mynotes%20-file%3Aan3.89-%20-file%3A%22AN3.88%22%20-file%3A%22AN3.90%22%20-file%3A%22AN3.89%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/an3.89/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=an3.89
+> - The Buddhas Words: https://thebuddhaswords.net/an/an3.89.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.88]]  🌐 [[AN3.90]] ►

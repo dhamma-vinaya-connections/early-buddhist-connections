@@ -1,0 +1,107 @@
+---
+sutta_code: "SN1.43"
+sutta_pts: ""
+sutta_title:
+  - "Annasutta "
+  - "Food"
+nikaya:
+  - "SN "
+  - "Saṃyutta Nikāya"
+sutta_chapter:
+  - "SN1"
+  - "Devatāsaṁyutta"
+  - "Devatas"
+  - "SN1-11"
+sutta_theme:
+  - "Generosity"
+sutta_topic:
+  - "Generosity praises"
+sutta_training:
+  - "Sīla"
+sutta_stage:
+  - "Intro"
+sutta_method:
+  - "Verses"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Detail"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Devas"
+sutta_simile: ""
+parallels_nikaya:
+  - ""
+parallels_agama:
+  - ""
+parallels_partilal:
+  - "[[SN2.23]]"
+  - "[[SN3.22]]"
+  - "[[SN3.4]]"
+  - "[[SN3.20]]"
+  - "[[SN1.32]]"
+  - "[[JA450]]"
+  - "[[AN5.36]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.42]]  🌐 [[SN1.44]] ►
+
+# SN1.43 - Annasutta - Food
+## 🌐 Overview
+
+> [!info] Summary
+> Different kinds of gifts have different purposes
+
+> [!info] Key Excerpts 
+> So when the world is ablaze
+With [the fires of] aging and death,
+One should take out [one’s wealth] by giving:
+What is given is well salvaged
+> 
+> Having removed stinginess,
+The conqueror of the stain should give a gift.
+Merits are the support for living beings
+[when they arise] in the other world
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN2.23]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[AN5.36]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN1.43%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN1.43%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BSN1.43%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.43%5D%5D%22%23mynotes%20-file%3Asn1.43-%20-file%3A%22SN1.42%22%20-file%3A%22SN1.44%22%20-file%3A%22SN1.43%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/sn1.43/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=sn1.43
+> - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.43.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.42]]  🌐 [[SN1.44]] ►

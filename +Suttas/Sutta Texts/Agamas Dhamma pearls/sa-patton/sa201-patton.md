@@ -1,0 +1,47 @@
+---
+sutta_code: "SA201"
+sutta_title:
+  - "SA 2.58-74 "
+  - "How to End the Contaminants, et al."
+sutta-version: "Patton"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA201]]
+> ◄  [[sa200-patton]] 📜  [[sa202-patton]] ►
+
+### Translating Classical Buddhism to Modern English
+### Translator: Charles Patton
+
+## [2. The Sense Fields](index.html)
+
+58-74 (201). How to End the Contaminants, et al.
+1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
+2. At the time, there was a certain monk who came to visit the Buddha. He bowed his head at the Buddha’s feet, withdrew to stand to one side, and said to the Buddha, “Bhagavān, knowing and seeing in what way will [58] bring a successive and swift end to the contaminants … [59] a successive stop to all the bonds … [60] stop all the fetters … [61] stop all the tendencies … [62] stop all the higher afflictions … [63] stop all the bonds<a id="fnref2"></a>[^2] … [64] stop the floods … [65] stop the yokes … [66] stop the acquisitions … [67] stop the contacts … [68] stop the hindrances … [69] stop the entanglements … [70] stop the defilements … [71] stop the cravings … [72] stop the mentalities … [73] stop wrong views and produce right view … [74] stop ignorance and produce insight?”
+3. The Bhagavān then told that monk, “You should correctly contemplate impermanence. What things are impermanent? The eye is impermanent. Whether it’s form, visual awareness, visual contact, or painful, pleasant, and neither painful nor pleasant feelings that arise as a result of visual contact, you should contemplate them as impermanent. The ear … nose … tongue … body … and mind should be contemplated as impermanent. Whether it’s ideas, mental awareness, mental contact, or painful, pleasant, and neither painful nor pleasant feelings that arise as a result of mental contact, they are impermanent, too. Monk, knowing and seeing in this way will bring a successive end to the contaminants _and so on as above_.”
+4. When that monk heard what the Buddha taught, he rejoiced, bowed, and departed.
+_Thus, [there are more]_ sūtra_s teaching a certain monk. The differences are: “knowing and seeing in what way will bring a successive end to all the bonds” … “stop all the fetters” … “stop all the tendencies” … “stop all the higher afflictions” … “stop all the bonds” … “stop the floods” … “stop the yokes” … “stop the acquisitions” … “stop the contacts” … “stop the hindrances” … “stop the entanglements” … “stop the defilements” … “stop the cravings” … “stop the mentalities” … “stop wrong views and produce right view” … “stop ignorance and produce insight. Monk, thus observe the eye as impermanent …_ up to _… Knowing and seeing in this way will bring a successive stop to ignorance and produce insight.”_
+5. After the Buddha spoke this _sūtra_, that monk who heard what the Buddha taught rejoiced. Having rejoiced, he bowed and departed.
+
+---
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN35.53-59]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN35.53-59]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA201]]
+> ◄  [[sa200-patton]] 📜  [[sa202-patton]] ►

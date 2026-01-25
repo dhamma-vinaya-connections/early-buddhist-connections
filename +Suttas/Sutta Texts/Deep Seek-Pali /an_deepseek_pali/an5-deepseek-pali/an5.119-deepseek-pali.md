@@ -1,0 +1,38 @@
+---
+sutta_code: "AN5.119"
+sutta_title:
+  - "Vaṇṇanā "
+  - "Praise"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.119]]
+> ◄  [[an5.118-deepseek-pali]] 📜  [[an5.120-deepseek-pali]] ►
+
+# AN 5.119 Micchāvācāsuttaṃ
+
+## AN 5.119 The Discourse on Wrong Speech
+
+119. ‘‘Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṃ bhāsati, micchāvācā ca hoti, micchākammantā ca, saddhādeyyaṃ vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye.
+
+119.“Bhikkhus, a bhikkhuni endowed with five qualities is deposited in hell as if brought there. What five? Without having investigated or scrutinized, she speaks praise of one who deserves dispraise; without having investigated or scrutinized, she speaks dispraise of one who deserves praise; she has wrong speech and wrong action; and she squanders offerings given in faith. Bhikkhus, a bhikkhuni endowed with these five qualities is deposited in hell as if brought there.”
+
+‘‘Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsati, anuvicca pariyogāhetvā vaṇṇārahassa vaṇṇaṃ bhāsati, sammāvācā ca hoti, sammākammantā ca, saddhādeyyaṃ na vinipāteti. Imehi kho bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge’’ti. Navamaṃ.
+
+“Bhikkhus, a bhikkhuni endowed with five qualities is deposited in heaven as if brought there. What five? Having investigated and scrutinized, she speaks dispraise of one who deserves dispraise; having investigated and scrutinized, she speaks praise of one who deserves praise; she has right speech and right action; and she does not squander offerings given in faith. Bhikkhus, a bhikkhuni endowed with these five qualities is deposited in heaven as if brought there.” This is the ninth.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 141 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.119]]
+> ◄  [[an5.118-deepseek-pali]] 📜  [[an5.120-deepseek-pali]] ►

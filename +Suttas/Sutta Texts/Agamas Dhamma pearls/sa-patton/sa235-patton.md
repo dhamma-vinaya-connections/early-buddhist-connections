@@ -1,0 +1,47 @@
+---
+sutta_code: "SA235"
+sutta_title:
+  - "SA 2.130 "
+  - "Having a Teacher and a Disciple"
+sutta-version: "Patton"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA235]]
+> ◄  [[sa234-patton]] 📜  [[sa257-patton]] ►
+
+### Translating Classical Buddhism to Modern English
+### Translator: Charles Patton
+
+## [2. The Sense Fields](index.html)
+
+130 (235). Having a Teacher and a Disciple
+1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī.
+2. It was then that the Bhagavān addressed the monks, “When one has a teacher or a disciple who lives nearby, living alone is unpleasant. When one has no teacher or disciple who lives nearby, living alone is pleasant.
+3. “How does having a teacher or a disciple living nearby make living alone painful? Conditioned by the eye and forms, bad and unskillful things and thoughts arise together with greed, anger, and delusion. If a monk practices these things, he’s said to have a teacher. If he lives on this side, he’s said to be a disciple who lives nearby. _The ear, nose, tongue, body, and mind are likewise._ In this way, having a teacher and having a disciple living nearby makes living alone constantly unpleasant.
+4. “How does having no teacher and no disciple who lives nearby make living alone constantly pleasant? Conditioned by the eye and forms, bad and unskillful things and thoughts arise together with greed, anger, and delusion. That monk who doesn’t practice [these things] is said to have no teacher. Living independent of them, he’s said to have no disciple living nearby. This is called having no teacher or disciple living nearby making living alone constantly pleasant.
+5. “If that monk has no teacher or disciple living nearby, I say he attains the merits of the religious practice. Why is that? Having no teacher and no disciple living nearby, a monk establishes my religious practice. He’s able to correctly put an end suffering and reach the ultimate end of suffering.”
+6. After he spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and approved.
+
+---
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN35.151]], [[SN42.7]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN35.151]], [[SN42.7]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA235]]
+> ◄  [[sa234-patton]] 📜  [[sa257-patton]] ►

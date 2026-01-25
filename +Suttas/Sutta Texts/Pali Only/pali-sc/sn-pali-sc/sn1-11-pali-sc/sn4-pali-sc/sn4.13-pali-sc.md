@@ -1,0 +1,53 @@
+---
+sutta_code: "SN4.13-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.13-PALI]]
+> ◄  [[sn4.12-pali-sc]] 📜  [[sn4.14-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+## SN4: 4. Mārasaṁyutta: With Māra
+### II. Rule — SN4.13: A Splinter
+
+1Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe vihārati maddakucchismiṁ migadāye.
+
+Tena kho pana samayena bhagavato pādo sakalikāya khato hoti, bhusā sudaṁ bhagavato vedanā vattanti sārīrikā dukkhā tibbā kharā kaṭukā asātā amanāpā. Tā sudaṁ bhagavā sato sampajāno adhivāseti avihaññamāno. Atha kho bhagavā catugguṇaṁ saṅghāṭiṁ paññapetvā dakkhiṇena passena sīhaseyyaṁ kappesi pāde pādaṁ accādhāya sato sampajāno.
+
+Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: 
+
+
+2"Mandiyā nu kho sesi udāhu kāveyyamatto,  
+Atthā nu te sampacurā na santi;  
+Eko vivitte sayanāsanamhi,  
+Niddāmukho kimidaṁ soppase vā"ti.
+
+3"Na mandiyā sayāmi nāpi kāveyyamatto,  
+Atthaṁ sameccāhamapetasoko;  
+Eko vivitte sayanāsanamhi,  
+Sayāmahaṁ sabbabhūtānukampī.
+
+4Yesampi sallaṁ urasi paviṭṭhaṁ,  
+Muhuṁ muhuṁ hadayaṁ vedhamānaṁ;  
+Tepīdha soppaṁ labhare sasallā,  
+Tasmā ahaṁ na supe vītasallo.
+
+5Jaggaṁ na saṅke napi bhemi sottuṁ,  
+Rattindivā nānutapanti māmaṁ;  
+Hāniṁ na passāmi kuhiñci loke,  
+Tasmā supe sabbabhūtānukampī"ti.
+
+6Atha kho māro pāpimā "jānāti maṁ bhagavā, jānāti maṁ sugato"ti dukkhī dummano tatthevantaradhāyīti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

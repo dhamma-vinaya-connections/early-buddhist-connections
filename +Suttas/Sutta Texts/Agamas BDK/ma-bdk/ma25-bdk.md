@@ -1,0 +1,46 @@
+---
+sutta_code: "MA25"
+sutta_title:
+  - "Kāyagatāsati Sutta "
+  - "Mindfulness of the Body"
+sutta-version: "BDK"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA25]]
+> ◄  [[ma24-bdk]] 📜  [[ma26-bdk]] ►
+
+### 25. The Discourse with Parables Relating to Water [Relating to] Water
+
+Thus have I heard: At one time the Buddha was staying at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s Park. At that time, Venerable Sāriputta addressed the monks: “Venerable friends, I shall explain to you five methods for overcoming resentment.^102 Listen carefully, and give close attention.”
+
+Those monks listened to receive instruction. Venerable Sāriputta said:
+
+What are the five methods? Venerable friends, suppose there is someone whose bodily actions are not pure, but whose verbal actions are pure. A wise person who, on seeing him, is aroused to resentment ought to rid himself [of that resentment]. Again, venerable friends, suppose there is someone whose verbal actions are impure, but whose bodily actions are pure. A wise person who, on seeing him, is aroused to resentment ought to rid himself of it. Again, venerable friends, suppose there is someone whose bodily and verbal actions are impure, but whose mind is pure to a small extent. A wise person who, on seeing him, is aroused to resentment ought to rid himself of it. Again, venerable friends, suppose there is someone whose bodily, verbal, and mental actions are all impure. A wise person who, on seeing him, is aroused to resentment ought to rid himself of it. Again, venerable friends, suppose there is someone whose bodily, verbal, and mental actions are all pure. A wise person who, on seeing him, is aroused to resentment ought to rid himself of it. Venerable friends, if there is someone whose bodily actions are impure, but whose verbal actions are pure, how should a wise person who, on seeing him, is aroused to resentment rid himself [of that resentment]? Venerable friends, suppose there is a forest-dwelling monk, a wearer of rag robes, who sees a discarded piece of cloth in a cesspool, stained by excrement, urine, snot, spittle, and other impurities; and on seeing it, he holds it with his left hand, and spreads it out with his right hand; and wherever he sees portions that are not stained by excrement, urine, snot, spittle, or other impurities, and that are without holes, he tears them off and takes them [to make a rag robe]. Similarly, venerable friends, if there is someone whose bodily actions are not pure, but whose verbal actions are pure, one should not pay attention to his impure bodily actions, but pay attention only to his pure verbal actions. This is how a wise person who, on seeing [such an individual], is aroused to resentment ought to rid himself of [that resentment].
+
+Venerable friends, if there is someone whose verbal actions are impure, but whose bodily actions are pure, how should a wise person who, on seeing him, is aroused to resentment rid himself of it? Venerable friends, suppose that, not far from a village, there is a deep pool [whose surface is] covered with water plants; and suppose that a man comes along who is oppressed by extreme heat, hunger, thirst, and exhaustion, caused by a hot wind. On arriving at the pool, he takes off his clothes, puts them on the bank, and enters the pool, pushing aside the water plants with both hands. He enjoys a pleasant bath, and rids himself of the oppression by heat, hunger, thirst, and exhaustion. Similarly, venerable friends, if there is someone whose verbal actions are not pure, but whose bodily actions are pure, one should not pay attention to his impure verbal actions, but should pay attention only to his pure bodily actions. This is how a wise person who, on seeing [such an individual], is aroused to resentment ought to rid himself of [that resentment]. Venerable friends, if there is someone whose bodily and verbal actions are both impure, but whose mind is pure to a small extent, how should a wise person who, on seeing him, is aroused to resentment rid himself of it? Venerable friends, suppose that, at a crossroads, there is a puddle of water in the depression made by the hoof of an ox; and suppose that a man comes along who is oppressed by extreme heat, hunger, thirst, and exhaustion, caused by a hot wind. He thinks to himself: “This ox’s hoof print at the crossroads contains a little water. If I were to scoop it up with my hand or with a leaf, the water would become muddied, and I would not be able to rid myself of the oppression by heat, hunger, thirst, and exhaustion. Let me kneel down, with hands and knees on the ground, and suck up the water directly with my mouth.” He then kneels down, with hands and knees on the ground, and sucks up the water directly with his mouth, and so is able to rid himself of the oppres sion by heat, hunger, thirst, and exhaustion. Similarly, venerable friends, if there is someone whose bodily and verbal actions are impure, but whose mind is pure to a small extent, one should not pay attention to his impure bodily and verbal actions,
+
+but should pay attention only to his mind, which is pure to a small extent. Venerable friends, this is how a wise person who, on seeing [such an individual], is aroused to resentment ought to rid himself of [that resentment]. Venerable friends, if there is someone whose bodily, verbal, and mental actions are all impure, how should a wise person who, on seeing him, is aroused to resentment rid himself of it? Venerable friends, sup- pose a person is on a long journey and, having become ill on the way, is suffering greatly and exhausted. He is alone, without companion; the village behind him is far away and the village ahead has not yet been reached. Suppose [also] that a second person comes along and, standing to one side, looks at this first person, who is on a long journey and, having become ill on the way, is suffering greatly and exhausted— alone, without companion, the village behind him far away and the village ahead not yet reached. And suppose that he helps [that sick trav- eler] to get through the wilderness and reach the [next] village, and there gives him excellent medicine and good, sustaining food, caring for him well. In that case, that person’s illness would most certainly subside. That is to say, the second person is extremely compassionate toward the sick person, having a heart full of loving-kindness. Similarly, venerable friends, if there is a person whose bodily, ver- bal, and mental actions are all impure, then a wise person, on seeing him, thinks: “This person’s bodily, verbal, and mental actions are all impure; [but] let him not, on the breaking up of the body at death, go to a bad realm of existence and be reborn in hell, as a consequence of his impure bodily, verbal, and mental actions. If this [impure] person encounters a good friend, [he may] give up his impure bodily, verbal, and mental actions, and cultivate pure bodily, verbal, and mental actions.” In that case, through cultivating pure bodily, verbal, and mental actions, this [reformed] person will, on the breaking up of the body at death, go to a good realm of existence, be reborn in a heavenly realm. That is to say, this [wise] person is extremely compassionate toward that [impure] person, having a heart full of loving-kindness. This is how a wise person who, on seeing [such an individual], is aroused to resentment ought to rid himself of [that resentment].Venerable friends,
+
+if there is a person whose bodily actions, verbal actions, and mental actions are all pure, how should a wise person who, on seeing him, is aroused to resentment rid himself of it? Venerable friends, suppose that, not far from a village, there is a pool, full to the brim with clear, beautiful water, its banks covered with verdant grass, and surrounded by flowering trees; and suppose that a man comes along who is oppressed by extreme heat, hunger, thirst, and exhaustion, caused by a hot wind. On arriving at the pool, he takes off his clothes, puts them on the bank, and enters the water. He enjoys a pleasant bath, and rids himself of the oppression by heat, hunger, thirst, and exhaustion. Similarly, venerable friends, if there is someone whose bodily, ver bal, and mental actions are all pure, then one should constantly pay attention to his pure bodily, verbal, and mental actions. This is how a wise person who, on seeing [such an individual], is aroused to resentment ought to rid himself of [that resentment]. Hereby, venerable friends, I have explained the said five methods of overcoming resentment. This is what Venerable Sāriputta said. Having heard it, the monks were delighted and remembered it well.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.162]] |  | M iii 88 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN11.6]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA25]]
+> ◄  [[ma24-bdk]] 📜  [[ma26-bdk]] ►

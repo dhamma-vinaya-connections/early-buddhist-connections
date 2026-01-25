@@ -1,0 +1,26 @@
+---
+sutta_code: "AN1.151"
+sutta_title:
+  - "Anāpatti "
+  - "Non-Offense"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.151]]
+> ◄  [[an1.150-deepseek-pali]] 📜  [[an1.152-deepseek-pali]] ►
+
+# AN 1.151
+
+230. … Indriyesu guttadvārānaṃ yadidaṃ nando.
+
+230.… Among those who guard the sense doors, Nanda is foremost.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

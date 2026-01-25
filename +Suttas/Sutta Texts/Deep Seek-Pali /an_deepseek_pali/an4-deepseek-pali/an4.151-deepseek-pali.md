@@ -1,0 +1,34 @@
+---
+sutta_code: "AN4.151"
+sutta_title:
+  - "Indriya "
+  - "Faculties"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.151]]
+> ◄  [[an4.150-deepseek-pali]] 📜  [[an4.152-deepseek-pali]] ►
+
+# AN 4.151 Indriyasuttaṃ
+
+## AN 4.151 Faculties Discourse
+
+151. ‘‘Cattārimāni, bhikkhave, indriyāni. Katamāni cattāri? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ – imāni kho, bhikkhave, cattāri indriyānī’’ti. Paṭhamaṃ.
+
+151."Monks, there are these four faculties. What four? The faculty of conviction, the faculty of energy, the faculty of mindfulness, and the faculty of concentration. These, monks, are the four faculties." (First)
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 141 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.151]]
+> ◄  [[an4.150-deepseek-pali]] 📜  [[an4.152-deepseek-pali]] ►

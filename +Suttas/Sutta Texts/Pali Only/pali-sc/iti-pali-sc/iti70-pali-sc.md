@@ -1,0 +1,36 @@
+---
+sutta_code: "ITI70-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI70-PALI]]
+> ◄  [[iti69-pali-sc]] 📜  [[iti71-pali-sc]] ►
+
+# Iti 70. Sammādiṭṭhikasuttaṃ
+
+Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –
+
+‘‘Diṭṭhā mayā, bhikkhave, sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā. Te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā.
+
+‘‘Taṃ kho panāhaṃ, bhikkhave, nāññassa samaṇassa vā brāhmaṇassa vā sutvā vadāmi. Diṭṭhā mayā, bhikkhave, sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā. Te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā. Api ca, bhikkhave, yadeva sāmaṃ ñātaṃ sāmaṃ diṭṭhaṃ sāmaṃ viditaṃ tadevāhaṃ vadāmi.
+
+‘‘Diṭṭhā mayā, bhikkhave, sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā. Te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –
+
+‘‘Sammā manaṃ paṇidhāya, sammā vācañca bhāsiya [sammā vācaṃ abhāsiya (sabbattha)];Sammā kammāni katvāna, kāyena idha puggalo.
+
+‘‘Bahussuto puññakaro, appasmiṃ idha jīvite;Kāyassa bhedā sappañño, saggaṃ so upapajjatī’’ti.
+
+Ayampi attho vutto bhagavatā, iti me sutanti. Dutiyaṃ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

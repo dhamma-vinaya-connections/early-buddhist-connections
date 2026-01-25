@@ -1,0 +1,197 @@
+---
+sutta_code: "MA77"
+sutta_title:
+  - "娑雞帝三族姓子 "
+  - "Three Clansmen at Sāketa"
+sutta-version: "Patton"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA77]]
+> ◄  [[ma76-patton]] 📜  [[ma78-patton]] ►
+
+### Translating Classical Buddhism to Modern English
+### Translator: Charles Patton
+
+## Chapter 7: King Dīrghāyu
+
+### 77. The Three Clansmen of Sāketa
+
+1. Thus I have heard:[1](#^ma77note01) One time, the Buddha traveled to Sāketa and stayed in the Green Grove. ^ma77note01-ref
+
+2. At the time, three clansmen were in Sāketa: Venerable Aniruddha, Venerable Nandika, and Venerable Kimbila. They were all youths who had recently left home to train and who had together entered this right Dharma not long ago.
+
+3. It was then that the Bhagavān asked the monks, “There were three clansmen, all youths who had recently left home to train and who had together entered this right Dharma not long ago. Are those three clansmen happy with this right Dharma, with practicing the religious life of the Vinaya?”
+
+The monks were quiet and didn’t answer.
+
+4. The Bhagavān asked the monks three times, “There were three clansmen, all youths who had recently left home to train and who had together entered this right Dharma not long ago. Are those three clansmen happy with this right Dharma, with practicing the religious life of the Vinaya?”
+
+Again, the monks were quiet and didn’t answer three times.
+
+5. The Bhagavān then asked the three clansmen himself, addressing Venerable Aniruddha, “You three clansman are all youths who recently left home to train, and you came together to enter this right Dharma not long ago. Aniruddha, are all of you happy with this right Dharma, with practicing the religious life of the Vinaya?”
+
+Venerable Aniruddha said, “So it is, Bhagavān. We are happy with this right Dharma and with cultivating the religious life.”
+
+6. The Bhagavān asked, “Aniruddha, you are youths, young men with pure black hair and physical vigor. You enjoyed traveling, enjoyed frequent baths, and you adorned and cherished yourselves. You lamented and cried with loved ones, your relatives, close friends, and parents, who didn’t want you to leave home to train on the path. Afterward, you shaved off their hair and beards, put on the reddish-brown robes, became believers, and left home to train on the path in homelessness.
+
+7. “Aniruddha, it wasn’t out of fear of the king that you went to train on the path. It wasn’t out of fear of bandits, debts, worries, poverty, or the inability to make a living that you went to train on the path. You’ve simply had enough of birth, old age, illness, death, lamentation, and misery. You might also want to find the limit of that great mass of suffering. Aniruddha, was it not because of such a thought that all of you left home to train on the path?”
+
+He replied, “So it is.”
+
+#### The Basis of Good Qualities
+
+8. “Aniruddha, if clansmen leave home to train on the path with such thoughts, how will they know the basis of attaining measureless good qualities?”
+
+Venerable Aniruddha said to the Bhagavān, “The Bhagavān is the basis of the Dharma! The Bhagavān is the Dharma Lord! The Dharma comes from the Bhagavān! Please let him teach it. After listening, we’ll get a detailed knowledge of its meaning.”
+
+9. The Buddha then addressed them, “Aniruddha, all of you, listen closely, and consider it well. I will discern its meaning for you.”
+
+Aniruddha and the others accepting the teaching and listened.
+
+10. The Bhagavān addressed them, “Aniruddha, those who are covered by desire and fettered by bad qualities don’t abandon pleasure or attain unsurpassed calm. Their minds become obsessed, angry, and drowsy. Their minds become unhappy, their bodies become stretched, they eat often, and their hearts are sad. Those monks then are unable to tolerate hunger and thirst, cold and hot weather, biting and stinging insects, being troubled by wind and sun, harsh noises, or being caned. Nor can they tolerate it when they encounter illnesses, extreme pain, and when their life is about to end. None of these unpleasant things are bearable. What is the reason for that? Being covered by desire and fettered by bad qualities, they cannot abandon pleasures or attain unsurpassed calm.
+
+11. “If they seclude themselves from desires and aren’t fettered by bad qualities, they’ll surely abandon pleasures and attain unsurpassed calm. Their minds won’t become obsessed, angry, or drowsy. Their minds won’t become unhappy, their bodies won’t be stretched, they won’t eat often, and their minds won’t be sad. Those monks then can tolerate hunger and thirst, cold and hot weather, biting and stinging insects, being troubled by wind and sun, harsh noises, and being caned. They’re able to tolerate it when they encounter illnesses, extreme pain, and when their life is about to end. All these unpleasant things are bearable. What is the reason for that? They aren’t covered by desire or fettered by bad qualities. They also attain the abandoning of pleasures and unsurpassed calm.”
+
+#### The Purpose of Removing the Contaminants
+
+12. The Bhagavan asked, “Aniruddha, what was the Tathāgata’s purpose? Was there something to remove, something to use, something to bear, something to stop, or something to reject?”
+
+Aniruddha said to the Bhagavān, “The Bhagavān is the basis of the Dharma! The Bhagavān is the Dharma Lord! The Dharma comes from the Bhagavān! Please let him teach it. After listening, we’ll get a detailed knowledge of its meaning.”
+
+13. The Buddha then addressed them, “Aniruddha, all of you, listen closely, and consider it well. I will discern its meaning for you.”
+
+Aniruddha and the others accepted the teaching and listened.
+
+14. The Bhagavān addressed them, “Aniruddha, the contaminants and defilements are the source of future existence, the result of trouble and pain, and the cause of birth, old age, illness, and death. None of them were not ended and known by the Tathāgata. Therefore, there was something to remove, something to use, something to bear, something to stop, and something to reject.
+
+15. “Aniruddha, to the Tathāgata, it’s simply because of this body, because of the six bases, and because of this life span that there’s something to remove, something to use, something to bear, something to stop, and something to reject. Aniruddha, this was the Tathāgata’s purpose. There was something to remove, something to use, something to bear, something to stop, and something to reject.”
+
+#### The Purpose of Living in Seclusion
+
+16. The Bhagavān asked, “Aniruddha, what was the Tathāgata’s purpose? Why did he stay in an undisturbed place under a mountain forest tree or live happily in a grotto where it’s peaceful, without voices, secluded, without bad things, uninhabited, and in accord with sitting in repose?”
+
+Aniruddha said to the Bhagavān, “The Bhagavān is the basis of the Dharma! The Bhagavān is the Dharma Lord! The Dharma comes from the Bhagavān! Please let him teach it. After listening, we’ll get a detailed knowledge of its meaning.”
+
+17. The Buddha then addressed them, “All of you, listen closely, and consider it well. I will discern its meaning for you.”
+
+Aniruddha and the others accepted the teaching and listened.
+
+18. The Bhagavān told them, “He wished to attain what was yet to be attained and obtain what was yet to be obtained, so the Tathāgata stayed in a undisturbed place under a mountain forest tree or lived happily in a grotto where it was peaceful, without voices, secluded, without bad things, uninhabited, and in accord with sitting in repose.
+
+19. “Aniruddha, it’s only for two reasons that the Tathāgata stayed in a undisturbed place under a mountain forest tree or lived happily in a grotto where it was peaceful, without voices, secluded, without bad things, uninhabited, and in accord with sitting in repose.
+
+20. “First, it was for my own happiness in the present life. Second, it was out of compassion for people who’ll be born later. It may be that people born later will emulate the Tathāgata by staying in a undisturbed place under a mountain forest tree or living happily in a grotto where it’s peaceful, without voices, secluded, without bad things, uninhabited, and in accord with sitting in repose.
+
+21. “Aniruddha, it was for this purpose that the Tathāgata stayed in a undisturbed place under a mountain forest tree or lived happily in a grotto where it was peaceful, without voices, secluded, without bad things, uninhabited, and in accord with sitting in repose.”
+
+#### The Purpose of Relating the Rebirth of Disciples
+
+#### 1. Monks
+
+22. The Bhagavān asked, “Aniruddha, what’s the Tathāgata’s purpose when he relates that a disciple whose life ended had ‘a certain birth in a certain place, a certain birth in a certain place’?”
+
+Aniruddha said to the Bhagavān, “The Bhagavān is the basis of the Dharma! The Bhagavān is the Dharma Lord! The Dharma comes from the Bhagavān! Please let him teach it. After listening, we’ll get a detailed knowledge of its meaning.”
+
+23. The Buddha then addressed them, “All of you, listen closely, and consider it well. I will discern its meaning for you.”
+
+Aniruddha and the others accepted the teaching and listened.
+
+24. The Bhagavān addressed them, “Aniruddha, the Tathāgata doesn’t declare it for the destiny or the person. It’s not to deceive people nor because he wants to make people glad that he relates that a disciple whose life ended had ‘a certain birth in a certain place, a certain birth in a certain place.’
+
+25. “Aniruddha, the Tathāgata does this only for faithful clansmen and clanswomen who are the most believing, most affectionate, and would be most gladdened. After hearing this right Dharma and Vinaya, they might be inspired to emulate that disciple So-and-So. When a disciple’s life ends, I therefore relate that they had ‘a certain birth in a certain place, a certain birth in a certain place.’
+
+26. “Suppose a monk hears this: ‘A certain venerable’s life has ended at some location, and the Buddha has related that he had attained the ultimate knowledge. He truly knew: “Birth has been ended, the religious practice has been established, the task has been accomplished, and I will not again be subject to existence.”’ He might have met that venerable personally, or he might have heard from numerous people: ‘That venerable is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, he remembers: ‘That venerable was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, he might be inspired to emulate that Venerable So-and-So. Aniruddha, such a monk surely will attain a distinct abode of well-being.
+
+27. “Furthermore, Aniruddha, a monk hears this: ‘A certain venerable’s life has ended at some location, and the Buddha has related that he had ended the five lower bonds, was born elsewhere, and attained parinirvāṇa. Having attained irreversibility, he won’t return to this world.’ He might have met that venerable personally, or he might have heard from numerous people: ‘That venerable is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, he remembers: ‘That venerable was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, he might be inspired to emulate that Venerable So-and-So. Aniruddha, such a monk surely will attain a distinct abode of well-being.
+
+28. “Furthermore, Aniruddha, a monk hears this: ‘A certain venerable’s life has ended at some location, and the Buddha has related that he had ended the three bonds, and lust, hate, and delusion were weakened. He will be reborn once up in heaven or among humans, and he’ll reach the limit of suffering after that one rebirth.’ He may have met that venerable personally, or he might have heard from numerous people: ‘That venerable is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, he remembers: ‘That venerable was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, he might be inspired to emulate that Venerable So-and-So. Aniruddha, such a monk surely will attain a distinct abode of well-being.
+
+29. “Furthermore, Aniruddha, a monk hears this: ‘A certain venerable’s life has ended at some location, and the Buddha has related that he had ended the three bonds, attained stream entry, and didn’t fall into a bad state. He’s certainly destined for right awakening, experiencing at most seven existences. After seven rebirths up in Heavens or among humans, and he’ll reach the limit of suffering.’ He may have met that venerable personally, or he might have heard from numerous people: ‘That venerable is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, he remembers: ‘That venerable was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, he might be inspired to emulate that Venerable So-and-So. Aniruddha, such a monk surely will attain a distinct abode of well-being.
+
+#### 2. Nuns
+
+30. “Aniruddha, suppose that a nun hears this: ‘A certain nun’s life has ended at some location, and the Buddha has related that she had attain the ultimate knowledge. She truly knew: “Birth has been ended, the religious practice has been established, the task has been accomplished, and I will not again be subject to existence.”’ She may have met that venerable personally, or she might have heard from numerous people: ‘That nun is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, she remembers: ‘That nun was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, she might be inspired to emulate that nun So-and-So. Aniruddha, such a nun surely will attain a distinct abode of well-being.
+
+31. “Furthermore, Aniruddha, a nun hears this: ‘A certain nun’s life has ended at some location, and the Buddha has related that she had ended the five lower bonds, was born elsewhere, and attained parinirvāṇa. She attained irreversibility and won’t return to this world.’ She may have met that nun personally, or she might have heard from numerous people: ‘That nun is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, she remembers: ‘That nun was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, she might be inspired to emulate that nun So-and-So. Aniruddha, such a nun surely will attain a distinct abode of well-being.
+
+32. “Furthermore, Aniruddha, a nun hears this: ‘A certain nun’s life has ended at some location, and the Buddha has related that she had ended the three bonds, and lust, hate, and delusion were weakened. She was once reborn up in heaven or among humans, and she’ll reach the limit of suffering after that one rebirth.’ She may have met that nun personally, or she might have heard from numerous people: ‘That nun is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, she remembers: ‘That nun was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, she might be inspired to emulate that nun So-and-So. Aniruddha, such a nun surely will attain a distinct abode of well-being.
+
+33. “Furthermore, Aniruddha, a nun hears this: ‘A certain nun’s life has ended at some location, and the Buddha has related that she had ended the three bonds, attained stream entry, and didn’t fall into a bad state. She is certainly destined for right awakening, experiencing at most seven existences. After seven rebirths up in heaven or among humans, she’ll reach the limit of suffering.’ She may have met that nun personally, or she might have heard from numerous people: ‘That nun is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, she remembers: ‘That nun was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, she might be inspired to emulate that nun So-and-So. Aniruddha, such a nun surely will attain a distinct abode of well-being.
+
+#### 3. Laymen
+
+34. “Aniruddha, suppose a layman hears this: ‘A certain layman’s life has ended at some location, and the Buddha has related that he had ended the five lower bonds, was born elsewhere, and attained parinirvāṇa. Having attained irreversibility, he will not return to this world.’ He may have met that layman personally, or he might have heard from numerous people: ‘That layman is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, he remembers: ‘That layman was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, he might be inspired to emulate that layman So-and-So. Aniruddha, such a layman surely will attain a distinct abode of well-being.
+
+35. “Furthermore, Aniruddha, a layman hears this: ‘A certain layman’s life has ended at some location, and the Buddha has related that he had ended the three bonds, and lust, hate, and delusion were weakened. He attained one rebirth up in heaven or among humans, and he will reach the limit of suffering after that one rebirth.’ He may have met that layman personally, or he might have heard from numerous people: ‘That layman is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, he remembers: ‘That layman was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, he might be inspired to emulate that layman So-and-So. Aniruddha, such a layman surely will attain a distinct abode of well-being.
+
+36. “Furthermore, Aniruddha, a layman hears this: ‘A certain layman’s life has ended at some location, and the Buddha has related that he had ended the three bonds, attained stream entry, and didn’t fall into a bad state. He is certainly destined for right awakening, experiencing at most seven existences. After seven rebirths up in heaven or among humans, he’ll reach the limit of suffering.’ He may have met that layman personally, or he might have heard from numerous people: ‘That layman is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, he remembers: ‘That layman was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, he might be inspired to emulate that layman So-and-So. Aniruddha, such a layman surely will attain a distinct abode of well-being.
+
+#### 4. Laywomen
+
+37. “Aniruddha, suppose a laywoman hears this: ‘A certain laywoman’s life has ended at some location, and the Buddha has related that she had ended the five lower bonds, was born elsewhere, and attained parinirvāṇa. Having attained irreversibility, she will not return to this world.’ She may have met that laywoman personally, or she might have heard from numerous people: ‘That laywoman is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, she remembers: ‘That laywoman was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, she might be inspired to emulate that laywoman So-and-So. Aniruddha, such a laywoman surely will attain a distinct abode of well-being.
+
+38. “Furthermore, Aniruddha, a laywoman hears this: ‘A certain laywoman’s life has ended at some location, and the Buddha has related that she had ended the three bonds, and lust, hate, and delusion were weakened. She attained one rebirth up in heaven or among humans, and she will reach the limit of suffering after that one rebirth.’ She may have met that laywoman personally or heard from numerous people: ‘That laywoman is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, she remembers: ‘That laywoman was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, she might be inspired to emulate that laywoman So-and-So. Aniruddha, such a laywoman surely will attain a distinct abode of well-being.
+
+39. “Furthermore, Aniruddha, a laywoman hears this: ‘A certain laywoman’s life has ended at some location, and the Buddha has related that she had ended the three bonds, attained stream entry, and didn’t fall into a bad state. She is certainly destined for right awakening, experiencing at most seven existences. After seven rebirths up in heaven or among humans, she’ll reach the limit of suffering.’ She may have met that laywoman personally or heard from numerous people: ‘That laywoman is faithful in this way, observes the precepts in this way, is broadly learned in this way, is generous in this way, and is wise in this way.’
+
+“Having heard those people, she remembers: ‘That laywoman was faithful, observed the precepts, was broadly learned, was generous, and was wise.’ Hearing this right Dharma and Vinaya, she might be inspired to emulate that laywoman So-and-So. Aniruddha, such a laywoman surely will attain a distinct abode of well-being.
+
+40. “Aniruddha, it’s for this purpose that the Tathāgata relates that a disciple whose life ended had ‘a certain birth in a certain place, a certain birth in a certain place.’”
+
+41. This is what the Buddha said. Venerable Aniruddha and the monks who heard what the Buddha taught rejoiced and approved.
+
+---
+
+### Notes
+
+^ma77note01
+1. For the source text, cf. [T26.1.544b21-6c29]. The direct parallel to this _sūtra_ is [MN 68]. 
+
+[↩︎](#^ma77note01-ref)
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN68]] |  |  |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MA10]]
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA77]]
+> ◄  [[ma76-patton]] 📜  [[ma78-patton]] ►

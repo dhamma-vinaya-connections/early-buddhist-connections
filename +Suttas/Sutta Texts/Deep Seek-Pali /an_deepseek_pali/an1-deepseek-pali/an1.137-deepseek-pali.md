@@ -1,0 +1,26 @@
+---
+sutta_code: "AN1.137"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.137]]
+> ◄  [[an1.136-deepseek-pali]] 📜  [[an1.138-deepseek-pali]] ►
+
+# AN 1.137
+
+214. … Senāsanapaññāpakānaṃ yadidaṃ dabbo mallaputto.
+
+214.… Among those who arrange lodging, Dabba the Mallian is foremost.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,54 @@
+---
+sutta_code: "SNP1.11-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.11-PALI]]
+> ◄  [[snp1.10-pali-pts]] 📜  [[snp1.12-pali-pts]] ►
+
+# SNP1.11 Vijayasutta
+
+193. Caraṃ vā yadi vā tiṭṭhaṃ nisinno uda vā sayaṃ
+sammiñjeti pasāreti, -- esā kāyassa iñjanā. || Sn_I,11.1 ||
+194. Aṭṭhīnahārusaññutto tacamaṃsāvalepano
+chaviyā kāyo paṭicchanno yathābhūtaṃ na dissati, || Sn_I,11.2 ||
+195. antapūro udarapūro yakapeḷassa vatthino
+hadayassa papphāsassa vakkassa pihakassa ca || Sn_I,11.3 ||
+196. siṃghānikāya khelassa sedassa medassa ca
+lohitassa lasikāya pittassa ca vasāya ca. || Sn_I,11.4 ||
+197. Ath'; assa navahi sotehi asucī savati sabbadā:
+akkhimhā akkhigūthako, kaṇṇamhā kaṇṇagūthako, || Sn_I,11.5 ||
+198. siṃghāṇikā ca nāsāto, mukhena vamat'; ekadā
+pittaṃ semhañ ca vamati, kāyamhā sedajallikā. || Sn_I,11.6 ||
+199. Ath'; assa susiraṃ sīsaṃ matthaluṅgassa pūritam,
+subhato naṃ maññatī bālo avijjāya purakkhato. || Sn_I,11.7 ||
+200. Yadā ca so mato seti uddhumāto vinīlako
+apaviddho susānasmiṃ, anapekhā honti ñātayo, || Sn_I,11.8 ||
+201. khādanti naṃ supāṇā ca sigālā ca vakā kimī,
+kākā gijjhā ca khādanti, ye c'; aññe santi pāṇayo. || Sn_I,11.9 ||
+
+[page 035]
+202. Sutvāna Buddhavacanaṃ bhikkhu paññāṇavā idha,
+so kho maṃ parijānāti, yathābhūtaṃ hi passati. || Sn_I,11.10 ||
+203. ‘Yathā idaṃ tathā etaṃ, yathā etaṃ tathā idaṃ,'
+ajjhattañ ca bahiddhā ca kāye chandaṃ virājaye. || Sn_I,11.11 ||
+204. Chandarāgaviratto so bhikkhu paññāṇavā idha
+ajjhagā amataṃ santiṃ nibbāna-padam accutaṃ. || Sn_I,11.12 ||
+205. Dipādako 'yam asuci duggandho parihīrati
+nānākuṇapaparipūro vissavanto tato tato. || Sn_I,11.13 ||
+206. Etādisena kāyena yo maññe uṇṇametave
+paraṃ vā avajāneyya -- kim aññatra adassanā ti || Sn_I,11.14 ||
+VIJAYASUTTAṂ NIṬṬHITAṂ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

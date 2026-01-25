@@ -1,0 +1,34 @@
+---
+sutta_code: "AN5.242"
+sutta_title:
+  - "Duccarita "
+  - "Bad Conduct"
+sutta-version: "Ven. Bodhi"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.242]]
+> ◄  [[an5.241-bodhi]] 📜  [[an5.243-bodhi]] ►
+
+# AN5.242 Bodily Misconduct
+
+> **Division:** V. MISCONDUCT
+
+“Bhikkhus, there are these five dangers in bodily misconduct. What five? … \[as in 5:241\] … These are the five dangers in bodily misconduct.
+
+“Bhikkhus, there are these five benefits in bodily good conduct. What five? … \[as in 5:241\] … These are the five benefits in bodily good conduct.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 267 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.242]]
+> ◄  [[an5.241-bodhi]] 📜  [[an5.243-bodhi]] ►

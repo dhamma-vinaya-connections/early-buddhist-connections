@@ -1,0 +1,95 @@
+---
+sutta_code: "SN7.14-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.14-PALI]]
+> ◄  [[sn7.13-pali-sc]] 📜  [[sn7.15-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+## 7. Brāhmaṇasaṁyutta: With Brahmins
+### II. Lay Followers — SN7.14: A well-to-do brahmin
+
+1Sāvatthinidānaṁ.
+
+Atha kho aññataro brāhmaṇamahāsālo lūkho lūkhapāvuraṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi.
+
+Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ brāhmaṇamahāsālaṁ bhagavā etadavoca: "Kiṁ nu tvaṁ, brāhmaṇa, lūkho lūkhapāvuraṇo"ti?
+
+"Idha me, bho gotama, cattāro puttā. Te maṁ dārehi sampuccha gharā nikkhāmentī"ti.
+
+"Tena hi tvaṁ, brāhmaṇa, imā gāthāyo pariyāpuṇitvā sabhāyaṁ mahājanakāye sannipatite puttesu ca sannisinnesu bhāsassu: 
+
+
+2‘Yehi jātehi nandissaṁ,  
+yesañca bhavamicchisaṁ;  
+Te maṁ dārehi sampuccha,  
+sāva vārenti sūkaraṁ.
+
+3Asantā kira maṁ jammā,  
+tāta tātāti bhāsare;  
+Rakkhasā puttarūpena,  
+te jahanti vayogataṁ.
+
+4Assova jiṇṇo nibbhogo,  
+khādanā apanīyati;  
+Bālakānaṁ pitā thero,  
+parāgāresu bhikkhati.
+
+5Daṇḍova kira me seyyo,  
+yañce puttā anassavā;  
+Caṇḍampi goṇaṁ vāreti,  
+atho caṇḍampi kukkuraṁ.
+
+6Andhakāre pure hoti,  
+gambhīre gādhamedhati;  
+Daṇḍassa ānubhāvena,  
+khalitvā patitiṭṭhatī’"ti.
+
+
+7Atha kho so brāhmaṇamahāsālo bhagavato santike imā gāthāyo pariyāpuṇitvā sabhāyaṁ mahājanakāye sannipatite puttesu ca sannisinnesu abhāsi: 
+
+8"Yehi jātehi nandissaṁ,  
+yesañca bhavamicchisaṁ;  
+Te maṁ dārehi sampuccha,  
+sāva vārenti sūkaraṁ.
+
+9Asantā kira maṁ jammā,  
+tāta tātāti bhāsare;  
+Rakkhasā puttarūpena,  
+te jahanti vayogataṁ.
+
+10Assova jiṇṇo nibbhogo,  
+khādanā apanīyati;  
+Bālakānaṁ pitā thero,  
+parāgāresu bhikkhati.
+
+11Daṇḍova kira me seyyo,  
+yañce puttā anassavā;  
+Caṇḍampi goṇaṁ vāreti,  
+atho caṇḍampi kukkuraṁ.
+
+12Andhakāre pure hoti,  
+gambhīre gādhamedhati;  
+Daṇḍassa ānubhāvena,  
+khalitvā patitiṭṭhatī"ti.
+
+
+13Atha kho naṁ brāhmaṇamahāsālaṁ puttā gharaṁ netvā nhāpetvā paccekaṁ dussayugena acchādesuṁ. Atha kho so brāhmaṇamahāsālo ekaṁ dussayugaṁ ādāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho brāhmaṇamahāsālo bhagavantaṁ etadavoca:
+
+"Mayaṁ, bho gotama, brāhmaṇā nāma acariyassa acariyadhanaṁ pariyesāma. Paṭiggaṇhatu me bhavaṁ gotamo acariyadhanan"ti. Paṭiggahesi bhagavā anukampāṁ upādāya.
+
+Atha kho so brāhmaṇamahāsālo bhagavantaṁ etadavoca: "Abhikkantaṁ, bho gotama … pe … upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

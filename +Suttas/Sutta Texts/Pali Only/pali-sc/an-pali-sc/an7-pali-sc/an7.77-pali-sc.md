@@ -1,0 +1,28 @@
+---
+sutta_code: "AN7.77-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.77-PALI]]
+> ◄  [[an7.76-pali-sc]] 📜  [[an7.78-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 7: The Book of the Sevens
+
+Āpattiṁ jānāti, anāpattiṁ jānāti, lahukaṁ āpattiṁ jānāti, garukaṁ āpattiṁ jānāti, vinaye kho pana ṭhito hoti asaṁhīro, catunnaṁ jhānānaṁ ābhicetasikānaṁ diṭṭhadhammasukhavihārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī, āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati.
+
+
+Tatiyaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

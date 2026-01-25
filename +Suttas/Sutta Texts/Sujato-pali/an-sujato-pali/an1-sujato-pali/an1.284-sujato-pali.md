@@ -1,0 +1,34 @@
+---
+sutta_code: "AN1.284"
+sutta_title:
+  - "Aṭṭhāna "
+  - "Impossible"
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.284]]
+> ◄  [[an1.279-sujato-pali]] 📜  [[an1.287-sujato-pali]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+
+## 1: The Book of the Ones
+
+### 1. Obsession of the Mind - 284–286
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+284“It is impossible, mendicants, it cannot happen for a likable, desirable, agreeable result to come from bad bodily conduct. But it is possible for an unlikable, undesirable, disagreeable result to come from bad bodily conduct.”
+
+285-286“It is impossible, mendicants, it cannot happen for a likable, desirable, agreeable result to come from bad verbal … bad mental conduct. But it is possible for an unlikable, undesirable, disagreeable result to come from bad verbal … bad mental conduct.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

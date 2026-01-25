@@ -1,0 +1,106 @@
+---
+sutta_code: "SN2.19"
+sutta_pts: ""
+sutta_title:
+  - "Uttarasutta "
+  - "Uttarā"
+nikaya:
+  - "SN "
+  - "Saṃyutta Nikāya"
+sutta_chapter:
+  - "SN2"
+  - "Devaputtasaṁyutta"
+  - "Young Devas"
+  - "SN1-11"
+sutta_theme:
+  - "Dangers"
+sutta_topic:
+  - "Relinquish"
+sutta_training:
+  - "Samādhi"
+sutta_stage:
+  - "Middle"
+sutta_method:
+  - "Verses"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - "Medium"
+sutta_length:
+  - "Detail"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Devas"
+sutta_simile: ""
+parallels_nikaya:
+  - "[[SN1.3]]"
+parallels_agama:
+  - "[[SA-2.138]]"
+  - "[[SA1001]]"
+parallels_partilal:
+  - "[[SN1.3]]"
+  - "[[SA-2.138]]"
+  - "[[SA1001]]"
+  - "[[AN3.51]]"
+  - "[[JA498]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.18]]  🌐 [[SN2.20]] ►
+
+# SN2.19 - Uttarasutta - Uttarā
+## 🌐 Overview
+
+> [!info] Summary
+> The deity vasudatta says that a mendicant should live like their hair is on fire so as to give up lust. The Buddha  changes his verse to emphasize giving up attachment to self
+
+> [!info] Key Excerpts 
+> Life is swept along, short is the life span;
+No shelters exist for one who has reached old age.
+Seeing clearly this danger in death,
+A seeker of peace should drop the world’s bait.
+> 
+> Delight comes to one who is miserable,
+Misery to one filled with delight.
+As a bhikkhu undelighted, untroubled:
+That’s how you should know me, friend
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.3]] | [[SA-2.138]], [[SA1001]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN1.3]], [[SA-2.138]], [[SA1001]], [[AN3.51]], [[JA498]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN2.19%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN2.19%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BSN2.19%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.19%5D%5D%22%23mynotes%20-file%3Asn2.19-%20-file%3A%22SN2.18%22%20-file%3A%22SN2.20%22%20-file%3A%22SN2.19%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/sn2.19/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=sn2.19
+> - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.19.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.18]]  🌐 [[SN2.20]] ►

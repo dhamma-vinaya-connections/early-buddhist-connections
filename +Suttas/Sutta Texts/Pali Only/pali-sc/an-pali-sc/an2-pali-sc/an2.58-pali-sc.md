@@ -1,0 +1,26 @@
+---
+sutta_code: "AN2.58-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.58-PALI]]
+> ◄  [[an2.57-pali-sc]] 📜  [[an2.59-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 2: The Book of the Twos
+### 58
+
+1"Dveme, bhikkhave, asaniyā phalantiyā na santasanti. Katame dve? Bhikkhu ca khīṇāsavo, assājānīyo ca. Ime kho, bhikkhave, dve asaniyā phalantiyā na santasantī"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

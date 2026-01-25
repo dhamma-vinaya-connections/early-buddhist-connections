@@ -1,0 +1,28 @@
+---
+sutta_code: "THAG1105-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1105-PALI]]
+> ◄  [[thag1104-pali-pts]] 📜  [[thag1106-pali-pts]] ►
+
+## Theragāthā
+## Thag1105
+
+nibbajjayaṃ sabbasubhaṃ nimittaṃ jhāne yuto, taṃ nu kadā bhavissati.
+
+_PAÑÑĀSA-NIPĀTO. 99_
+kadā iṇaṭṭo va daḷiddako nidhiṃ ārādhayitvā dhanikehi pīḷito
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

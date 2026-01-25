@@ -1,0 +1,34 @@
+---
+sutta_code: "AN3.47"
+sutta_title:
+  - "Saṅkhatalakkhaṇa "
+  - "Conditioned Characteristics"
+sutta-version: "Ven. Thanissaro"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.47]]
+> ◄  [[an3.42-thanissaro]] 📜  [[an3.49-thanissaro]] ►
+
+## AN3.47
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA22.5]] | A i 152 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA22.5]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.47]]
+> ◄  [[an3.42-thanissaro]] 📜  [[an3.49-thanissaro]] ►

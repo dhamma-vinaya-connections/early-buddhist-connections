@@ -1,0 +1,47 @@
+---
+sutta_code: "AN9.52"
+sutta_title:
+  - "Khema "
+  - "Safe Place"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.52]]
+> ◄  [[an9.51-deepseek-pali]] 📜  [[an9.53-deepseek-pali]] ►
+
+# AN 9.52 Khemasuttaṃ
+
+## AN 9.52 Security
+
+52. ‘‘‘Khemaṃ khema’nti, āvuso, vuccati. Kittāvatā nu kho, āvuso, khemaṃ vuttaṃ bhagavatā’’ti?
+
+52.“‘Security, security,’ it is said, friend. To what extent, friend, has security been spoken of by the Blessed One?”
+
+‘‘Idhāvuso, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, khemaṃ vuttaṃ bhagavatā pariyāyena…pe….
+
+“Here, friend, a bhikkhu, secluded from sensual pleasures … enters and abides in the first jhāna. To this extent, friend, security has been spoken of by the Blessed One provisionally….”
+
+‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. Ettāvatāpi kho, āvuso, khemaṃ vuttaṃ bhagavatā nippariyāyenā’’ti. Paṭhamaṃ.
+
+“Furthermore, friend, a bhikkhu, by completely transcending the base of neither-perception-nor-non-perception, enters and abides in the cessation of perception and feeling. And having seen with wisdom, his taints are destroyed. To this extent, friend, security has been spoken of by the Blessed One definitively.” First.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 455 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN121]], [[AN9.34]], [[SN2.7]]
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.52]]
+> ◄  [[an9.51-deepseek-pali]] 📜  [[an9.53-deepseek-pali]] ►

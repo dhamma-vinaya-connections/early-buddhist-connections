@@ -1,0 +1,57 @@
+---
+sutta_code: "SN1.70-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.70-PALI]]
+> ◄  [[sn1.69-pali-sc]] 📜  [[sn1.71-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+
+## 1. On Deities
+
+### VII. Oppressed — SN1.70: The World
+#### B. Sujato
+
+
+1“What has the world arisen in?  
+What does it get close to?  
+By grasping what  
+is the world troubled in what?”
+
+2“The world’s arisen in six.  
+It gets close to six.  
+By grasping at these six,  
+the world’s troubled in six.”
+
+
+1"Kismiṁ loko samuppanno,  
+kismiṁ kubbati santhavaṁ;  
+Kissa loko upādāya,  
+kismiṁ loko vihaññatī"ti.
+
+2"Chasu loko samuppanno,  
+chasu kubbati santhavaṁ;  
+Channameva upādāya,  
+chasu loko vihaññatī"ti.
+
+
+Addhavaggo sattamo.
+
+3Nāmaṁ cittañca taṇhā ca,  
+saṁyojanañca bandhanā;  
+Abbhāhatuḍḍito pihito,  
+icchā lokena te dasāti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

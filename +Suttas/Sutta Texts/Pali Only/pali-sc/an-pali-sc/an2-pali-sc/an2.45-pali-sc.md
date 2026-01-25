@@ -1,0 +1,32 @@
+---
+sutta_code: "AN2.45-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.45-PALI]]
+> ◄  [[an2.44-pali-sc]] 📜  [[an2.46-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 2: The Book of the Twos
+### 45
+
+1"Dvemā, bhikkhave, parisā. Katamā dve? Anariyā ca parisā ariyā ca parisā.  
+  
+Katamā ca, bhikkhave, anariyā parisā? Idha, bhikkhave, yassaṁ parisāyaṁ bhikkhū ‘idaṁ dukkhan’ti yathābhūtaṁ nappajānanti, ‘Ayaṁ dukkhasamudayo’ti yathābhūtaṁ nappajānanti, ‘Ayaṁ dukkhanirodho’ti yathābhūtaṁ nappajānanti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ nappajānanti. Ayaṁ vuccati, bhikkhave, anariyā parisā.
+
+2Katamā ca, bhikkhave, ariyā parisā? Idha, bhikkhave, yassaṁ parisāyaṁ bhikkhū ‘idaṁ dukkhan’ti yathābhūtaṁ pajānanti, ‘Ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānanti, ‘Ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānanti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānanti. Ayaṁ vuccati, bhikkhave, ariyā parisā.
+
+Imā kho, bhikkhave, dve parisā. Etadaggaṁ, bhikkhave, imāsaṁ dvinnaṁ parisānaṁ yadidaṁ ariyā parisā"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

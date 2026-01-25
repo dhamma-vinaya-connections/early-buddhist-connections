@@ -1,0 +1,109 @@
+---
+sutta_code: "UD6.9"
+sutta_pts: ""
+sutta_title:
+  - "Upati Sutta "
+  - "Like Moths to the Flame/Rushing"
+nikaya:
+  - "UD "
+  - "Udāna"
+sutta_chapter:
+  - "UD6"
+  - "Jaccandhavagga"
+  - "Blind From Birth"
+  - ""
+sutta_theme:
+  - "Doctrines"
+sutta_topic:
+  - "Reasoners"
+sutta_training:
+  - "Paññā"
+sutta_stage:
+  - "Beginning"
+sutta_method:
+  - "Mixed"
+sutta_aspect:
+  - "Doctrinal"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: "Sun light compared with glowworm,like the Buddha compared with reasoners"
+parallels_nikaya:
+  - ""
+parallels_agama:
+  - ""
+parallels_partilal:
+  - ""
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.8]]  🌐 [[UD6.10]] ►
+
+# UD6.9 - Upati Sutta - Like Moths to the Flame/Rushing
+## 🌐 Overview
+
+> [!info] Summary
+> Hastening by, they miss the essence, 
+sprouting ever more new bonds. 
+Like moths falling in the flame, 
+some have become fixed in what is seen or heard
+
+> [!info] Key Excerpts 
+> The glow-worm shines so long 
+as the beacon of the sun does not rise. 
+But when the sun has come up, 
+that light is erased and shines no more
+> 
+> So too the reasoners shine bright 
+so long as the Buddhas don’t arise in the world. 
+The reasoners are not purified, nor are their disciples. 
+Having bad views, they are not freed from suffering.”
+> 
+
+> [!info] Similes
+> Sun light compared with glowworm,like the Buddha compared with reasoners
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+|  |
+| ------------------------ |
+
+>[!example]- Suggestions by Ven. Thanissaro
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN1]]
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD6.9%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD6.9%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BUD6.9%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD6.9%5D%5D%22%23mynotes%20-file%3Aud6.9-%20-file%3A%22UD6.8%22%20-file%3A%22UD6.10%22%20-file%3A%22UD6.9%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/ud6.9/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=ud6.9
+> - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.9.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.8]]  🌐 [[UD6.10]] ►

@@ -1,0 +1,51 @@
+---
+sutta_code: "SN8.10-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.10-PALI]]
+> ◄  [[sn8.9-pali-sc]] 📜  [[sn8.11-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+## 8. Vaṅgīsasaṁyutta: With Vaṅgīsa
+### I. With Vaṅgīsa — SN8.10: With Moggallāna
+
+1Ekaṁ samayaṁ bhagavā rājagahe vihārati isigilipasse kāḷasilāyaṁ mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi. Tesaṁ sudaṁ āyasmā mahāmoggallāno cetasā cittaṁ samannesati vippamuttaṁ nirupadhiṁ.
+
+Atha kho āyasmato vaṅgīsassa etadahosi: "Ayaṁ kho bhagavā rājagahe vihārati isigilipasse kāḷasilāyaṁ mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi. Tesaṁ sudaṁ āyasmā mahāmoggallāno cetasā cittaṁ samannesati vippamuttaṁ nirupadhiṁ. Yannūnāhaṁ āyasmantaṁ mahāmoggallānaṁ bhagavato sammukhā sāruppāhi gāthāhi abhitthaveyyan"ti.
+
+2Atha kho āyasmā vaṅgīso uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca: "paṭibhāti maṁ, bhagavā, paṭibhāti maṁ, sugatā"ti.
+
+
+"Paṭibhātu taṁ, vaṅgīsā"ti bhagavā avoca.
+
+Atha kho āyasmā vaṅgīso āyasmantaṁ mahāmoggallānaṁ bhagavato sammukhā sāruppāhi gāthāhi abhitthavi: 
+
+
+3"Nagassa passe āsīnaṁ,  
+muniṁ dukkhassa pāraguṁ;  
+Sāvakā payirupāsanti,  
+tevijjā maccuhāyino.
+
+4Te cetasā anupariyeti,  
+Moggallāno mahiddhiko;  
+Cittaṁ nesaṁ samannesaṁ,  
+Vippamuttaṁ nirūpadhiṁ.
+
+5Evaṁ sabbaṅgasampannaṁ,  
+Muniṁ dukkhassa pāraguṁ;  
+Anekākārasampannaṁ,  
+Payirupāsanti gotaman"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

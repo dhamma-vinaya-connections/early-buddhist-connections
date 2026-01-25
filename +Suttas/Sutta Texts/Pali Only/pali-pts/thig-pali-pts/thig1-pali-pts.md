@@ -1,0 +1,27 @@
+---
+sutta_code: "THIG1-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG1-PALI]]
+> ◄  [[]] 📜  [[thig2-pali-pts]] ►
+
+## Therīgāthā
+## Thig1
+
+upasanto hi te rāgo sukkhaḍākaṃ va kumbhiyaṃ.
+itthaṃ sudaṃ aññatarā therī apaññātā bhikkhunī gāthaṃ abhāsitthā ti. ||
+Mutte muccassu yogehi cando Rāhuggaho iva |
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,38 @@
+---
+sutta_code: "AN5.117"
+sutta_title:
+  - "Vaṇṇanā "
+  - "Praise"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.117]]
+> ◄  [[an5.116-deepseek-pali]] 📜  [[an5.118-deepseek-pali]] ►
+
+# AN 5.117 Issukinīsuttaṃ
+
+## AN 5.117 The Discourse on the Envious Woman
+
+117. ‘‘Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsati, ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṃ bhāsati, issukinī ca hoti, maccharinī ca, saddhādeyyaṃ [saddhādeyyañca (syā.)] vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ niraye.
+
+117.“Bhikkhus, a bhikkhunī endowed with five qualities is consigned to hell as if brought there. What five? Without investigating or scrutinizing, she speaks praise of one who is blameworthy; without investigating or scrutinizing, she speaks dispraise of one who is praiseworthy; she is envious; she is stingy; and she squanders offerings given in faith. A bhikkhunī endowed with these five qualities, bhikkhus, is consigned to hell as if brought there.”
+
+‘‘Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Anuvicca pariyogāhetvā avaṇṇārahassa avaṇṇaṃ bhāsati, anuvicca pariyogāhetvā vaṇṇārahassa vaṇṇaṃ bhāsati, anissukinī ca hoti, amaccharinī ca, saddhādeyyaṃ na vinipāteti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṃ nikkhittā evaṃ sagge’’ti. Sattamaṃ.
+
+“Bhikkhus, a bhikkhunī endowed with five qualities is consigned to heaven as if brought there. What five? After investigating and scrutinizing, she speaks dispraise of one who is blameworthy; after investigating and scrutinizing, she speaks praise of one who is praiseworthy; she is not envious; she is not stingy; and she does not squander offerings given in faith. A bhikkhunī endowed with these five qualities, bhikkhus, is consigned to heaven as if brought there.” The seventh.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 140 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.117]]
+> ◄  [[an5.116-deepseek-pali]] 📜  [[an5.118-deepseek-pali]] ►

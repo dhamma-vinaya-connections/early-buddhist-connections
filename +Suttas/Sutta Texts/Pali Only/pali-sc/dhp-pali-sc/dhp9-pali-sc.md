@@ -1,0 +1,74 @@
+---
+sutta_code: "DHP9-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP9-PALI]]
+> ◄  [[dhp8-pali-sc]] 📜  [[dhp10-pali-sc]] ►
+
+# PAPA VAGGA
+
+### 116 )
+
+Abhittharetha kalyāṇe, pāpā cittaṃ nivāraye; dandhañhi karoto puññaṃ, pāpasmiṃ ramatī mano.
+
+### 117 )
+
+Pāpañce puriso kayirā, na naṃ kayirā punappunaṃ; na tamhi chandaṃ kayirātha, dukkho pāpassa uccayo.
+
+### 118 )
+
+Puññañce puriso kayirā, kayirā naṃ punappunaṃ. tamhi chandaṃ kayirātha, sukho puññassa uccayo.
+
+### 119 )
+
+Pāpopi passati bhadraṃ, yāva pāpaṃ na paccati; yadā ca paccati pāpaṃ, atha pāpo pāpāni passati.
+
+### 120 )
+
+Bhadropi passati pāpaṃ, yāva bhadraṃ na paccati; yadā ca paccati bhadraṃ, atha bhadro bhadrāni ‚ passati.
+
+### 121 )
+
+Māvamaññetha pāpassa, na mantaṃ āgamissati. udabindunipātena, udakumbhopi pūrati; bālo pūrati pāpassa, thokaṃ thokampi ‚ ācinaṃ.
+
+### 122 )
+
+Māvamaññetha puññassa, na mantaṃ āgamissati; udabindunipātena, udakumbhopi pūrati; dhīro pūrati puññassa, thokaṃ thokampi ācinaṃ.
+
+### 123 )
+
+Vāṇijova bhayaṃ maggaṃ, appasattho mahaddhano; visaṃ jīvitukāmova, pāpāni parivajjaye.
+
+### 124 )
+
+Pāṇimhi ce vaṇo nāssa, hareyya pāṇinā visaṃ; nābbaṇaṃ visamanveti, natthi pāpaṃ akubbato.
+
+### 125 )
+
+Yo appaduṭṭhassa narassa dussati, suddhassa posassa anaṅgaṇassa; tameva bālaṃ pacceti pāpaṃ, sukhumo rajo paṭivātaṃva khitto.
+
+### 126 )
+
+Gabbhameke uppajjanti, nirayaṃ pāpakammino; saggaṃ sugatino yanti, parinibbanti anāsavā.
+
+### 127 )
+
+Na antalikkhe na samuddamajjhe, na pabbatānaṃ vivaraṃ pavissa; na vijjatī so jagatippadeso, yatthaṭṭhito mucceyya pāpakammā.
+
+### 128 )
+
+Na antalikkhe na samuddamajjhe, na pabbatānaṃ vivaraṃ pavissa; na vijjatī so jagatippadeso, yatthaṭṭhitaṃ nappasaheyya maccu.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

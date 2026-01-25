@@ -1,0 +1,101 @@
+---
+sutta_code: "AN3.51"
+sutta_pts: "A i 155"
+sutta_title:
+  - "Dvebrāhmaṇa "
+  - "Two Brahmins"
+nikaya:
+  - "AN "
+  - "Aṅguttara Nikāya"
+sutta_chapter:
+  - "AN3"
+  - "Brahmanvagga"
+  - "Brahmins"
+  - ""
+sutta_theme:
+  - "Ethics"
+sutta_topic:
+  - "Practices guaranteed"
+sutta_training:
+  - "Sīla"
+sutta_stage:
+  - "Intro"
+sutta_method:
+  - "qa"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Brahmins"
+sutta_simile: ""
+parallels_nikaya:
+  - "[[AN3.52]]"
+parallels_agama:
+  - "[[SA-2.86]]"
+  - "[[SA-2.87]]"
+parallels_partilal:
+  - "[[SA-2.86]]"
+  - "[[AN3.52]]"
+  - "[[SA-2.87]]"
+  - "[[SN2.19]]"
+  - "[[SN1.3]]"
+  - "[[JA498]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.50]]  🌐 [[AN3.52]] ►
+
+# AN3.51 - Dvebrāhmaṇa - Two Brahmins
+## 🌐 Overview
+
+> [!info] Summary
+> You can begin to practice even late in life: advice to elderly brahmins
+
+> [!info] Key Excerpts 
+> Restraint here by way of body, speech, and mind
+> 
+> Restraint is the shelter, protection, island, refuge, and haven for the departed.
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.52]] | [[SA-2.86]], [[SA-2.87]] | A i 155 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.86]], [[AN3.52]], [[SA-2.87]], [[SN2.19]], [[SN1.3]], [[JA498]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN3.51%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN3.51%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BAN3.51%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.51%5D%5D%22%23mynotes%20-file%3Aan3.51-%20-file%3A%22AN3.50%22%20-file%3A%22AN3.52%22%20-file%3A%22AN3.51%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/an3.51/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=an3.51
+> - The Buddhas Words: https://thebuddhaswords.net/an/an3.51.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.50]]  🌐 [[AN3.52]] ►

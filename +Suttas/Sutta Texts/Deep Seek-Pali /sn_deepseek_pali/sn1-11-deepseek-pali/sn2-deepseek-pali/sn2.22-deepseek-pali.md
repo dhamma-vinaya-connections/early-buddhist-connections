@@ -1,0 +1,64 @@
+---
+sutta_code: "SN2.22"
+sutta_title:
+  - "Khemasutta "
+  - "Khema"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
+> ◄  [[sn2.21-deepseek-pali]] 📜  [[sn2.23-deepseek-pali]] ►
+
+# SN 2.22 Khemasuttaṃ
+
+## SN 2.22 The Khema Sutta
+
+103. Ekamantaṃ ṭhito kho khemo devaputto bhagavato santike imā gāthāyo abhāsi –
+
+103.Standing to one side, Khema the young deva addressed the Blessed One with these verses:
+
+‘‘Caranti bālā dummedhā, amitteneva attanā;Karontā pāpakaṃ kammaṃ, yaṃ hoti kaṭukapphalaṃ.
+
+“Fools, lacking wisdom, wander as if their own enemy, doing evil deeds that bear bitter fruit.”
+
+‘‘Na taṃ kammaṃ kataṃ sādhu, yaṃ katvā anutappati;Yassa assumukho rodaṃ, vipākaṃ paṭisevati.
+
+“That deed is not well done if, having done it, one regrets it; whose result one experiences weeping, with a tearful face.”
+
+‘‘Tañca kammaṃ kataṃ sādhu, yaṃ katvā nānutappati;Yassa patīto sumano, vipākaṃ paṭisevati.
+
+“And that action is well done, having done which one does not regret, and whose result one experiences with satisfaction and a happy mind.”
+
+‘‘Paṭikacceva [paṭigacceva (sī.)] taṃ kayirā, yaṃ jaññā hitamattano;Na sākaṭikacintāya, mantā dhīro parakkame.
+
+“One should promptly do whatever one knows to be beneficial to oneself; the wise one should strive with discernment, not by contemplating like a cartwright.”
+
+‘‘Yathā sākaṭiko maṭṭhaṃ [panthaṃ (sī.), pasatthaṃ (syā. kaṃ.)], samaṃ hitvā mahāpathaṃ;Visamaṃ maggamāruyha, akkhacchinnova jhāyati.
+
+“Just as a cartwright who abandons the level highway, takes a rough path and then laments like one whose axle is broken—”
+
+‘‘Evaṃ dhammā apakkamma, adhammamanuvattiya;Mando maccumukhaṃ patto, akkhacchinnova jhāyatī’’ti.
+
+“So too, having abandoned the Dhamma, following what is not the Dhamma, the fool comes to the jaws of death, lamenting like one whose axle is broken.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP66]], [[DHP67]], [[DHP68]] | [[SA-2.274]], [[SA1276]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
+> ◄  [[sn2.21-deepseek-pali]] 📜  [[sn2.23-deepseek-pali]] ►

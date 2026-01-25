@@ -1,0 +1,28 @@
+---
+sutta_code: "AN4.167-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.167-PALI]]
+> ◄  [[an4.166-pali-pts]] 📜  [[an4.168-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN4.167: Khama
+
+PTS: A ii 154
+
+Catasso imā bhikkhave paṭipadā. Katamā catasso?
+Dukkhā paṭipadā dandhābhiññā . . . sukhā paṭipadā khippābhiññā.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

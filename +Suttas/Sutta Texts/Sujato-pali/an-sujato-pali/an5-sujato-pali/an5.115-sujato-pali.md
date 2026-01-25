@@ -1,0 +1,46 @@
+---
+sutta_code: "AN5.115"
+sutta_title:
+  - "Vaṇṇanā "
+  - "Praise"
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.115]]
+> ◄  [[an5.114-sujato-pali]] 📜  [[an5.116-sujato-pali]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+
+## 5: The Book of the Fives
+
+### XII. At Andhakavinda — AN 5.115: Stingy
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+1“Mendicants, a nun with five qualities is cast down to hell. What five? She is stingy with dwellings, families, material possessions, praise, and the teaching. A nun with these five qualities is cast down to hell.
+
+2A nun with five qualities is raised up to heaven. What five? She is not stingy with dwellings, families, material possessions, praise, or the teaching. A nun with these five qualities is raised up to heaven.”
+
+1"Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṁ nikkhittā evaṁ niraye. Katamehi pañcahi? Āvāsamaccharinī hoti, kulamaccharinī hoti, lābhamaccharinī hoti, vaṇṇamaccharinī hoti, dhammamaccharinī hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṁ nikkhittā evaṁ niraye.
+
+2Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī yathābhataṁ nikkhittā evaṁ sagge. Katamehi pañcahi? Na āvāsamaccharinī hoti, na kulamaccharinī hoti, na lābhamaccharinī hoti, na vaṇṇamaccharinī hoti, na dhammamaccharinī hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā bhikkhunī yathābhataṁ nikkhittā evaṁ sagge"ti.
+
+Pañcamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 139 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.115]]
+> ◄  [[an5.114-sujato-pali]] 📜  [[an5.116-sujato-pali]] ►

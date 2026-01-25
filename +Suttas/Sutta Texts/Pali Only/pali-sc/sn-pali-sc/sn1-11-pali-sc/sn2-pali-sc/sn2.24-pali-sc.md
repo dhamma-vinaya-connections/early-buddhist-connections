@@ -1,0 +1,95 @@
+---
+sutta_code: "SN2.24-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.24-PALI]]
+> ◄  [[sn2.23-pali-sc]] 📜  [[sn2.25-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+## 2. Devaputtasaṁyutta: On Gods
+### III. Various Sectarians — SN2.24: With Ghaṭikāra
+
+1Ekamantaṁ ṭhito kho ghaṭīkāro devaputto bhagavato santike imaṁ gāthaṁ abhāsi: 
+
+2"Avihaṁ upapannāse,  
+vimuttā satta bhikkhavo;  
+Rāgadosaparikkhīṇā,  
+tiṇṇā loke visattikan"ti.
+
+3"Ke ca te ataruṁ paṅkaṁ,  
+maccudheyyaṁ suduttaraṁ;  
+Ke hitvā mānusaṁ dehaṁ,  
+dibbayogaṁ upaccagun"ti.
+
+4"Upako palagaṇḍo ca,  
+pukkusāti ca te tayo;  
+Bhaddiyo khaṇḍadevo ca,  
+bāhuraggi ca saṅgiyo;  
+Te hitvā mānusaṁ dehaṁ,  
+dibbayogaṁ upaccagun"ti.
+
+5"Kusalī bhāsasī tesaṁ,  
+mārapāsappahāyinaṁ;  
+Kassa te dhammamaññāya,  
+acchiduṁ bhavabandhanan"ti.
+
+6"Na aññatra bhagavatā,  
+nāññatra tava sāsanā;  
+Yassa te dhammamaññāya,  
+acchiduṁ bhavabandhanaṁ.
+
+7Yattha nāmañca rūpañca,  
+asesaṁ uparujjhati;  
+Taṁ te dhammaṁ idhaññāya,  
+acchiduṁ bhavabandhanan"ti.
+
+8"Gambhīraṁ bhāsasī vācaṁ,  
+dubbijānaṁ sudubbudhaṁ;  
+Kassa tvaṁ dhammamaññāya,  
+vācaṁ bhāsasi īdisan"ti.
+
+9"Kumbhakāro pure āsiṁ,  
+vekaḷiṅge ghaṭīkaro;  
+Mātāpettibharo āsiṁ,  
+kassapassa upāsako.
+
+10Virato methunā dhammā,  
+brahmacārī nirāmiso;  
+Ahuvā te sagāmeyyo,  
+ahuvā te pure sakhā.
+
+11Sohamete pajānāmi,  
+vimutte satta bhikkhavo;  
+Rāgadosaparikkhīṇe,  
+tiṇṇe loke visattikan"ti.
+
+12"Evametaṁ tadā āsi,  
+yathā bhāsasi bhaggava;  
+Kumbhakāro pure āsi,  
+vekaḷiṅge ghaṭīkaro.
+
+13Mātāpettibharo āsi,  
+kassapassa upāsako;  
+Virato methunā dhammā,  
+brahmacārī nirāmiso;  
+Ahuvā me sagāmeyyo,  
+ahuvā me pure sakhā"ti.
+
+14"Evametaṁ purāṇānaṁ,  
+sahāyānaṁ ahu saṅgamo;  
+Ubhinnaṁ bhāvitattānaṁ,  
+sarīrantimadhārinan"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

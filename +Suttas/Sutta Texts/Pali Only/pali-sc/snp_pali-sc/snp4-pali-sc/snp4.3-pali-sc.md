@@ -1,0 +1,65 @@
+---
+sutta_code: "SNP4.3-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.3-PALI]]
+> ◄  [[snp4.2-pali-sc]] 📜  [[snp4.4-pali-sc]] ►
+
+## Khuddaka Nikāya - The Minor Texts
+## Sutta Nipata
+## Sutta Nipata Chapter 4: The Chapter of the Eights - Aṭṭhakavagga
+### 4:3 Eight on Malice
+## 4:3 Eight on Malice
+## Duṭṭhaṭṭhakasutta
+
+780Vadanti ve duṭṭhamanāpi eke,  
+Vādañca jātaṁ muni no upeti,  
+Tasmā munī natthi khilo kuhiñci.
+
+781 Sakañhi diṭṭhiṁ kathamaccayeyya,  
+Chandānunīto ruciyā niviṭṭho;  
+Sayaṁ samattāni pakubbamāno,  
+Yathā hi jāneyya tathā vadeyya.
+
+782 Yo attano sīlavatāni jantu,  
+Anānupuṭṭhova paresa pāva;  
+Anariyadhammaṁ kusalā tamāhu,  
+Yo ātumānaṁ sayameva pāva.
+
+
+Itihanti sīlesu akatthamāno;  
+Tamariyadhammaṁ kusalā vadanti,  
+Yassussadā natthi kuhiñci loke.
+
+784 Pakappitā saṅkhatā yassa dhammā,  
+Purakkhatā santi avīvadātā;  
+Yadattani passati ānisaṁsaṁ,  
+Taṁ nissito kuppapaṭiccasantiṁ.
+
+785 Diṭṭhīnivesā na hi svātivattā,  
+Dhammesu niccheyya samuggahītaṁ;  
+Nirassatī ādiyatī ca dhammaṁ.
+
+Pakappitā diṭṭhi bhavābhavesu;  
+Māyañca mānañca pahāya dhono,  
+
+787 Upayo hi dhammesu upeti vādaṁ,  
+Anūpayaṁ kena kathaṁ vadeyya;  
+Attā nirattā na hi tassa atthi,  
+Adhosi so diṭṭhimidheva sabbanti.
+
+Duṭṭhaṭṭhakasuttaṁ tatiyaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

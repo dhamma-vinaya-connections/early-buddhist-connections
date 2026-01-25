@@ -1,0 +1,32 @@
+---
+sutta_code: "AN4.161"
+sutta_title:
+  - "Vitthāra "
+  - "Modes Of Practice"
+sutta-version: "Ven. Bodhi"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.161]]
+> ◄  [[an4.160-bodhi]] 📜  [[an4.162-bodhi]] ►
+
+# AN4.161 In Brief
+
+> **Division:** II. MODES OF PRACTICE
+
+“Bhikkhus, there are these four modes of practice. What four? (1) Practice that is painful with sluggish direct knowledge; (2) practice that is painful with quick direct knowledge; (3) practice that is pleasant with sluggish direct knowledge; and (4) practice that is pleasant with quick direct knowledge. These are the four modes of practice.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 149 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.161]]
+> ◄  [[an4.160-bodhi]] 📜  [[an4.162-bodhi]] ►

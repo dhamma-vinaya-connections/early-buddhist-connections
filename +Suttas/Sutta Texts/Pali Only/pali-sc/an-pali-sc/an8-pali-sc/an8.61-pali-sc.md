@@ -1,0 +1,46 @@
+---
+sutta_code: "AN8.61-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.61-PALI]]
+> ◄  [[an8.60-pali-sc]] 📜  [[an8.62-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 8: The Book of the Eights
+### AN 8.61: Icchāsutta — Desire
+
+1"Aṭṭhime, bhikkhave, puggalā santo saṁvijjamānā lokasmiṁ. Katame aṭṭha?
+
+Idha, bhikkhave, bhikkhuno pavivittassa viharato nirāyattavuttino icchā uppajjati lābhāya. So uṭṭhahati ghaṭati vāyamati lābhāya. Tassa uṭṭhahato ghaṭato vāyamato lābhāya lābho nuppajjati. So tena alābhena socati kilamati paridevati, urattāḷiṁ kandati, sammohaṁ āpajjati. Ayaṁ vuccati, bhikkhave:  ‘bhikkhu iccho viharati lābhāya, uṭṭhahati ghaṭati vāyamati lābhāya, na ca lābhī, socī ca paridevī ca, cuto ca saddhammā’. (1)
+
+2Idha pana, bhikkhave, bhikkhuno pavivittassa viharato nirāyattavuttino icchā uppajjati lābhāya. So uṭṭhahati ghaṭati vāyamati lābhāya. Tassa uṭṭhahato ghaṭato vāyamato lābhāya lābho uppajjati. So tena lābhena majjati pamajjati pamādamāpajjati. Ayaṁ vuccati, bhikkhave:  ‘bhikkhu iccho viharati lābhāya, uṭṭhahati ghaṭati vāyamati lābhāya, lābhī ca madī ca pamādī ca, cuto ca saddhammā’. (2)
+
+3Idha pana, bhikkhave, bhikkhuno pavivittassa viharato nirāyattavuttino icchā uppajjati lābhāya. So na uṭṭhahati na ghaṭati na vāyamati lābhāya. Tassa anuṭṭhahato aghaṭato avāyamato lābhāya lābho nuppajjati. So tena alābhena socati, kilamati, paridevati, urattāḷiṁ kandati, sammohaṁ āpajjati. Ayaṁ vuccati, bhikkhave:  ‘bhikkhu iccho viharati lābhāya, na uṭṭhahati na ghaṭati na vāyamati lābhāya, na ca lābhī, socī ca paridevī ca, cuto ca saddhammā’. (3)
+
+4Idha pana, bhikkhave, bhikkhuno pavivittassa viharato nirāyattavuttino icchā uppajjati lābhāya. So na uṭṭhahati, na ghaṭati, na vāyamati lābhāya. Tassa anuṭṭhahato, aghaṭato, avāyamato lābhāya lābho uppajjati. So tena lābhena majjati, pamajjati, pamādamāpajjati. Ayaṁ vuccati, bhikkhave:  ‘bhikkhu iccho viharati lābhāya, na uṭṭhahati na ghaṭati na vāyamati lābhāya, lābhī ca madī ca, pamādī ca, cuto ca saddhammā’. (4)
+
+5Idha pana, bhikkhave, bhikkhuno pavivittassa viharato nirāyattavuttino icchā uppajjati lābhāya. So uṭṭhahati ghaṭati vāyamati lābhāya. Tassa uṭṭhahato ghaṭato vāyamato lābhāya lābho nuppajjati. So tena alābhena na socati na kilamati na paridevati, na urattāḷiṁ kandati, na sammohaṁ āpajjati. Ayaṁ vuccati, bhikkhave:  ‘bhikkhu iccho viharati lābhāya, uṭṭhahati ghaṭati vāyamati lābhāya, na ca lābhī, na ca socī na ca paridevī, accuto ca saddhammā’. (5)
+
+6Idha pana, bhikkhave, bhikkhuno pavivittassa viharato nirāyattavuttino icchā uppajjati lābhāya. So uṭṭhahati ghaṭati vāyamati lābhāya. Tassa uṭṭhahato ghaṭato vāyamato lābhāya lābho uppajjati. So tena lābhena na majjati, na pamajjati, na pamādamāpajjati. Ayaṁ vuccati, bhikkhave:  ‘bhikkhu iccho viharati lābhāya, uṭṭhahati ghaṭati vāyamati lābhāya, lābhī ca, na ca madī na ca pamādī, accuto ca saddhammā’. (6)
+
+7Idha pana, bhikkhave, bhikkhuno pavivittassa viharato nirāyattavuttino icchā uppajjati lābhāya. So na uṭṭhahati, na ghaṭati, na vāyamati lābhāya. Tassa anuṭṭhahato, aghaṭato, avāyamato lābhāya lābho nuppajjati. So tena alābhena na socati, na kilamati, na paridevati, na urattāḷiṁ kandati, na sammohaṁ āpajjati. Ayaṁ vuccati, bhikkhave:  ‘bhikkhu iccho viharati lābhāya, na uṭṭhahati, na ghaṭati, na vāyamati lābhāya, na ca lābhī, na ca socī na ca paridevī, accuto ca saddhammā’. (7)
+
+8Idha pana, bhikkhave, bhikkhuno pavivittassa viharato nirāyattavuttino icchā uppajjati lābhāya. So na uṭṭhahati, na ghaṭati, na vāyamati lābhāya. Tassa anuṭṭhahato aghaṭato avāyamato lābhāya lābho uppajjati. So tena lābhena na majjati, na pamajjati, na pamādamāpajjati. Ayaṁ vuccati, bhikkhave:  ‘bhikkhu iccho viharati lābhāya, na uṭṭhahati, na ghaṭati, na vāyamati lābhāya, lābhī ca, na ca madī na ca pamādī, accuto ca saddhammā’. (8)
+
+9Ime kho, bhikkhave, aṭṭha puggalā santo saṁvijjamānā lokasmin"ti.
+
+Paṭhamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

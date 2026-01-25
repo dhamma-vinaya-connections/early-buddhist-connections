@@ -1,0 +1,52 @@
+---
+sutta_code: "AN6.72"
+sutta_title:
+  - "Bala "
+  - "Strength"
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.72]]
+> ◄  [[an6.71-sujato-pali]] 📜  [[an6.73-sujato-pali]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+
+## 6: The Book of the Sixes
+
+### VII. A God — AN 6.72: Strength
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+1“Mendicants, a mendicant who has six qualities can’t attain strength in immersion. What six? It’s when a mendicant is not skilled in entering immersion, skilled in remaining in immersion, or skilled in emerging from immersion. And they don’t practice carefully and persistently, and they don’t do what’s suitable. A mendicant who has these six qualities can’t attain strength in immersion.
+
+2A mendicant who has six qualities can attain strength in immersion. What six? It’s when a mendicant is skilled in entering immersion, skilled in remaining in immersion, and skilled in emerging from immersion. And they practice carefully and persistently, and do what’s suitable. A mendicant who has these six qualities can attain strength in immersion.”
+
+1"Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo samādhismiṁ balataṁ pāpuṇituṁ. Katamehi chahi? Idha, bhikkhave, bhikkhu na samādhissa samāpattikusalo hoti, na samādhissa ṭhitikusalo hoti, na samādhissa vuṭṭhānakusalo hoti, asakkaccakārī ca hoti, asātaccakārī ca, asappāyakārī ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo samādhismiṁ balataṁ pāpuṇituṁ.
+
+2Chahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo samādhismiṁ balataṁ pāpuṇituṁ. Katamehi chahi? Idha, bhikkhave, bhikkhu samādhissa samāpattikusalo hoti, samādhissa ṭhitikusalo hoti, samādhissa vuṭṭhānakusalo hoti, sakkaccakārī ca hoti, sātaccakārī ca, sappāyakārī ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu bhabbo samādhismiṁ balataṁ pāpuṇitun"ti.
+
+Aṭṭhamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN6.24]], [[AN7.40]] |  | A iii 427 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN6.24]], [[AN7.40]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.72]]
+> ◄  [[an6.71-sujato-pali]] 📜  [[an6.73-sujato-pali]] ►

@@ -1,0 +1,44 @@
+---
+sutta_code: "ITI104-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI104-PALI]]
+> ◄  [[iti103-pali-sc]] 📜  [[iti105-pali-sc]] ►
+
+# Iti 104. Sabrahmakasuttaṃ
+
+The Discourse on Being with Brahmā
+
+Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –
+
+‘‘Sabrahmakāni, bhikkhave, tāni kulāni yesaṃ puttānaṃ mātāpitaro ajjhāgāre pūjitā honti. Sapubbadevatāni, bhikkhave, tāni kulāni yesaṃ puttānaṃ mātāpitaro ajjhāgāre pūjitā honti. Sapubbācariyakāni, bhikkhave, tāni kulāni yesaṃ puttānaṃ mātāpitaro ajjhāgāre pūjitā honti. Sāhuneyyakāni, bhikkhave, tāni kulāni yesaṃ puttānaṃ mātāpitaro ajjhāgāre pūjitā honti.
+
+“Bhikkhus, those families where the children honor their mother and father in their own home are with Brahmā. Those families are with the first deities. Those families are with the first teachers. Those families are with those worthy of offerings.
+
+‘‘‘Brahmā’ti, bhikkhave, mātāpitūnaṃ etaṃ adhivacanaṃ. ‘Pubbadevatā’ti, bhikkhave, mātāpitūnaṃ etaṃ adhivacanaṃ. ‘Pubbācariyā’ti, bhikkhave, mātāpitūnaṃ etaṃ adhivacanaṃ. ‘Āhuneyyā’ti, bhikkhave, mātāpitūnaṃ etaṃ adhivacanaṃ. Taṃ kissa hetu? Bahukārā, bhikkhave, mātāpitaro puttānaṃ āpādakā posakā imassa lokassa dassetāro’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –
+
+“‘Brahmā,’ bhikkhus, is a designation for one’s mother and father. ‘First deities,’ bhikkhus, is a designation for one’s mother and father. ‘First teachers,’ bhikkhus, is a designation for one’s mother and father. ‘Worthy of offerings,’ bhikkhus, is a designation for one’s mother and father. For what reason? Because parents do much for their children: they bring them forth, they nourish them, and they show them this world.” This is the meaning the Blessed One declared. Here it is said:
+
+‘‘Brahmāti mātāpitaro, pubbācariyāti vuccare;Āhuneyyā ca puttānaṃ, pajāya anukampakā.
+
+“Mother and father are called ‘Brahmā’ and ‘the first teachers’; compassionate toward their progeny, they are worthy of offerings from their children.
+
+‘‘Tasmā hi ne namasseyya, sakkareyya ca paṇḍito;Annena atha pānena, vatthena sayanena ca;Ucchādanena nhāpanena [nahāpanena (sī.)], pādānaṃ dhovanena ca.
+
+‘‘Tāya naṃ pāricariyāya, mātāpitūsu paṇḍitā;Idheva naṃ pasaṃsanti, pecca sagge pamodatī’’ti.
+
+Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

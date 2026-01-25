@@ -1,0 +1,98 @@
+---
+sutta_code: "AN2.8"
+sutta_pts: "A i 51"
+sutta_title:
+  - "Cariya "
+  - "Conduct"
+nikaya:
+  - "AN "
+  - "Aṅguttara Nikāya"
+sutta_chapter:
+  - "AN2"
+  - "Kammakaraṇvagga"
+  - "punishments"
+  - ""
+sutta_theme:
+  - "Skillful qualities"
+sutta_topic:
+  - "Protections"
+sutta_training:
+  - "Paññā"
+sutta_stage:
+  - "Beginning"
+sutta_method:
+  - "Lecture"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - "Medium"
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: ""
+parallels_nikaya:
+  - ""
+parallels_agama:
+  - ""
+parallels_partilal:
+  - "[[ITI42]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.7]]  🌐 [[AN2.9]] ►
+
+# AN2.8 - Cariya - Conduct
+## 🌐 Overview
+
+> [!info] Summary
+> Dark and bright qualities
+
+> [!info] Key Excerpts 
+> Conscience and prudence
+> 
+> Dark and bright qualities
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 51 |
+> > [!check]- Partial parallels 
+> > 
+| [[ITI42]] |
+| ------------------------ |
+
+>[!example]- Suggestions by Ven. Thanissaro
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN7.6.]]
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN2.8%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN2.8%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BAN2.8%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.8%5D%5D%22%23mynotes%20-file%3Aan2.8-%20-file%3A%22AN2.7%22%20-file%3A%22AN2.9%22%20-file%3A%22AN2.8%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/an2.8/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=an2.8
+> - The Buddhas Words: https://thebuddhaswords.net/an/an2.8.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.7]]  🌐 [[AN2.9]] ►

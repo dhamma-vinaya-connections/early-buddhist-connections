@@ -1,0 +1,34 @@
+---
+sutta_code: "ITI57-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI57-PALI]]
+> ◄  [[iti56-pali-sc]] 📜  [[iti58-pali-sc]] ►
+
+# Iti 57. Taṇhāsuttaṃ
+
+Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –
+
+‘‘Tisso imā, bhikkhave, taṇhā. Katamā tisso? Kāmataṇhā, bhavataṇhā, vibhavataṇhā – imā kho, bhikkhave, tisso taṇhā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –
+
+‘‘Taṇhāyogena saṃyuttā, rattacittā bhavābhave;Te yogayuttā mārassa, ayogakkhemino janā;Sattā gacchanti saṃsāraṃ, jātīmaraṇagāmino.
+
+"Bound by the yoke of craving, with minds impassioned for this or that state of existence, they are yoked to Māra, people not secure from bondage. Beings proceed to saṃsāra, subject to birth and death.
+
+‘‘Ye ca taṇhaṃ pahantvāna, vītataṇhā [nikkaṇhā ca (sī. ka.)] bhavābhave;Te ve [te ca (sī. pī. ka.)] pāraṅgatā [pāragatā (ka. sī. syā.)] loke, ye pattā āsavakkhaya’’nti.
+
+Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

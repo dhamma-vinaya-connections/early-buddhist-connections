@@ -1,0 +1,66 @@
+---
+sutta_code: "MA128"
+sutta_title:
+  - "優婆塞 "
+  - "Lay Disciples"
+sutta-version: "BDK"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA128]]
+> ◄  [[ma127-bdk]] 📜  [[ma129-bdk]] ►
+
+### 128. The Discourse on Male Lay Disciples
+
+Thus have I heard. At one time the Buddha was dwelling at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. At that time the householder Anāthapiṇḍika, accompanied by a large assembly of five hundred male lay disciples, approached Venerable Sāriputta. He paid homage with his head [at the feet of Venerable Sāriputta], stepped back, and sat to one side. The five hundred male lay disciples also paid hom- age, stepped back, and sat to one side. After the householder Anāthapiṇḍika and the five hundred male lay dis- ciples had sat down to one side, Venerable Sāriputta taught them the Dharma, exhorting and inspiring them, fully delighting them. Having with countless skillful means taught them the Dharma, having exhorted and inspired them, fully delighting them, [Venerable Sāriputta] rose from his seat and approached the Buddha. He paid homage with his head at the Buddha’s feet, stepped back, and sat to one side. Not long after Venerable Sāriputta had left, the householder Anāthapiṇḍika and the five hundred male lay disciples also approached the Buddha, paid homage with their heads at the Buddha’s feet, stepped back, and sat to one side.^407 Once Venerable Sāriputta and the [lay] assembly were properly seated, the World-honored One addressed them saying:
+
+Sāriputta, if regarding a noble lay disciple you know that he is well guarded by practicing five principles, and that he attains easily and without difficulty four higher states of mind that are happy abodes here and now, then, Sāriputta, you can declare that for that noble disciple [rebirth] in hell is ended,^408 and also [rebirth] as an animal, as a hungry ghost, or into any [other] bad realm of existence. He has attained stream-entry. He will not descend into any evil condition but will certainly progress toward full awakening; and after experiencing at most seven existences, coming and
+
+going among deva s and human beings [at most] seven times, he will attain the ending of dukkha. Sāriputta, how is a noble lay disciple well guarded by practicing five principles?^409 A noble lay disciple abstains from killing, has given up killing, has discarded sword and club. He has a sense of shame and fears blame, and a mind [full of] loving-kindness and compassion, [wishing] to benefit all [beings], even insects. He has purified his mind with regard to killing living beings. A noble lay disciple is well guarded by practicing this first principle. Again, Sāriputta, a noble lay disciple abstains from taking what is not given, has given up taking what is not given. He takes [only] what is given and delights in taking [only] what is given. He is always fond of generosity, rejoicing in it, without stinginess, and not expecting any reward. He con stantly guards himself so as not to be overcome by [any thought of] steal ing. He has purified his mind with regard to taking what is not given. A noble lay disciple is well guarded by practicing this second principle. Again, Sāriputta, a noble lay disciple abstains from sexual misconduct, has given up sexual misconduct. If a woman is being guarded by her father, guarded by her mother, guarded by her parents, guarded by her brothers, or guarded by her sisters; or if a woman is guarded by her par ents-in-law, guarded by her relatives, or guarded by her clan; or if she has been promised in marriage or is protected by threat of punishment, or has been garlanded as a sign of betrothal—[then he] does not violate such a woman. He has purified his mind with regard to sexual misconduct. A noble lay disciple is well guarded by practicing this third principle. Again, Sāriputta, a noble lay disciple abstains from false speech, has given up false speech. He speaks the truth, delights in the truth, is unshak ably established in the truth, is completely trustworthy, and will not deceive [anyone in] the world. He has purified his mind with regard to false speech. A noble lay disciple is well guarded by practicing this fourth principle. Again, Sāriputta, a noble lay disciple abstains from intoxicants, has given up intoxicants. He has purified his mind with regard to intoxicants. A noble lay disciple is well guarded by practicing this fifth principle. Sāriputta, what are the four higher states of mind that are happy abodes here and now, which a noble lay disciple attains easily and without difficulty?
+
+A noble lay disciple recollects the Tathāgata [thus], “That is the Tathāgata, free from attachment, fully awakened, accomplished in knowledge and conduct, a Well-gone One, a knower of the world, unsurpassable person, leader on the path of Dharma, teacher of _deva_ s and human beings, called Buddha, an Exalted One.” When he recollects the Tathāgata in this way, if there are [in his mind] any evil desires they disappear right away. If there are in his mind unwholesome and defiling [states causing] distress, worry, and grief, then they too disappear. For a noble lay disciple who is established in [recollection of] the Tathāgata, his mind is pacified and attains joy. If [in his mind] there are any evil desires, then they disappear right away. [If] in his mind there are unwholesome and defiling [states causing] distress, worry, and grief, then they too disappear. A noble lay disciple attains, easily and without difficulty, this first higher state of mind that is a happy abode here and now. Again, Sāriputta, a noble lay disciple recollects the Dharma [thus], “The Dharma that is well taught by the World-honored One definitely leads to the ultimate, to freedom from vexation and affliction; it exists continuously and is immovable.”^410 When he contemplates in this way, understands in this way, knows in this way, and recollects the Dharma in this way, then if [in his mind] there are any evil desires, they disappear right away. If in his mind there are any unwholesome and defiling [states causing] distress, worry, and grief, then they too disappear. For a noble lay disciple who is established in [recollection of] the Dharma, his mind is pacified and attains joy. If [in his mind] there are any evil desires, then they disappear right away. [If] in his mind there are any unwholesome and defiling [states causing] distress, worry, and grief, then they too disappear. A noble lay disciple attains [easily and without difficulty] this second higher state of mind [that is a happy abode here and now]. Again, Sāriputta, a noble lay disciple recollects the sangha [thus], “The noble sangha of the Tathāgata is proceeding well and proceeding rightly, progressing in the Dharma in accordance with the Dharma, and conforming to the Dharma. In the sangha there are indeed arahants and those on the path to arahantship, nonreturners and those on the path to nonreturning, once-returners and those on the path to once-returning, stream-enterers and those on the path to stream-entry. These are reckoned the four pairs
+
+or the eight classes [of noble ones]. These are reckoned the sangha of the Tathāgata. They have achieved morality, they have achieved concentration, they have achieved wisdom, they have achieved liberation, and they have achieved knowledge and vision of liberation.^411 They are worthy of respect and esteem, worthy of offerings, and are an excellent field of merit in the world.” When [a noble lay disciple] recollects the sangha of the Tathāgata in this way, then if [in his mind] there are any evil desires, they disappear right away. If in his mind there are any unwholesome and defiling [states causing] distress, worry, and grief, then they too disappear. For a noble lay disciple who is established in [recollection of] the sangha of the Tathāgata, his mind is pacified and attains joy. If [in his mind] there are any evil desires, then they disappear right away. [If] in his mind there are any unwholesome and defiling [states causing] distress, worry, and grief, then they too disappear. A noble lay disciple attains, easily and without difficulty, this third higher state of mind that is a happy abode here and now. Again, Sāriputta, a noble lay disciple recollects his own morality [thus], “This morality [of mine] is not deficient, not defective. It is free from defilement and corruption, established [firmly] like the earth, not hollow.^412 It is praised by the noble ones, well received and remembered.” When he recollects his own morality in this way, if [in his mind] there are any evil desires, then they disappear right away. If in his mind there are any unwholesome and defiling [states causing], distress, worry, and grief, then they too disappear. For a noble lay disciple who is established in [recollection of] morality, his mind is pacified and attains joy. If [in his mind] there are any evil desires, then they disappear right away. [If] in his mind there are any unwholesome and defiling [states causing] distress, worry, and grief, then they too disappear. A noble lay disciple attains, easily and without difficulty, this fourth higher state of mind that is a happy abode here and now. Sāriputta, if regarding a noble lay disciple you know that he is well guarded by practicing these five principles, and that he attains easily and without difficulty these four higher states of mind that are happy abodes here and now, then, Sāriputta, you can declare that for that noble disciple [rebirth] in hell is ended, and also [rebirth] as an animal, a hungry ghost,
+
+or in any [other] bad realm of existence. He has attained stream-entry. He will not descend into any evil condition but will certainly progress toward full awakening; and after experiencing at most seven existences, coming and going among _deva_ s and human beings [at most] seven times, he will attain the ending of _dukkha._
+
+Then the World-honored One uttered these verses:
+
+A wise man who dwells in the household, Discerns the fearfulness of hell. Due to receiving and retaining the noble Dharma, He eliminates every kind of evil.
+
+He abstains from killing or harming living beings, Being able to abandon this with understanding. He speaks the truth, not what is false. He does not steal others’ property.
+
+Satisfied with his own wife, He does not take delight in another’s wife. He has given up intoxicants and abstains from them, [Knowing them to be] a source of mental confusion, madness, and ignorance.
+
+[One] should often recollect the Fully Awakened One, Reflect on the wholesome teachings, Recollect the sangha, and contemplate [one’s own] morality. From this [one] will gain joy.
+
+Wishing to practice giving, One should consider the anticipated merit of it, And give first to [those who are of] calmed mind. Such [giving] brings [good] results. I will now speak of [those with] calmed minds. Sāriputta, listen attentively!
+
+[An ox] may be black or white, Red or brown,
+
+Mottled with delightful colors, Or having the color of a dove, According to its inborn state; [But] the well-trained ox is foremost. [If] it has adequate bodily strength And goes at a good speed, quickly back and forth, Then it will be selected for its capability And not rejected for its color. In the same way, a human being May be born into different estates: As warrior or brahmin Or merchant or laborer, According to his inborn state. An elder who is pure and keeps the precepts, Who is without worldly attachment, a well-gone one^413 — Giving alms to him brings great fruit. As for someone who is ignorant, who lacks knowledge, Lacks wisdom, lacks learning— Giving alms to him brings little fruit.^414 Lacking the light [of wisdom], [such a person] illuminates no one. If the light [of wisdom] shines On a wise disciple of the Buddha Whose faith in the Well-gone One Is well rooted and firmly established, [Then] that person will be reborn into a good estate, In a family of his choice, And in the end will attain nirvana. In these ways each one has his destiny. Thus spoke the Buddha. Having heard what the Buddha said, Venerable Sāriputta, the monks, the householder Anāthapiṇḍika, and the five hundred male lay disciples were delighted and received it respectfully.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.179]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP85]], [[AN10.117]], [[AN10.118]], [[AN10.170]], [[SN45.34]], [[SN46.17]], [[DHP86]], [[DHP87]], [[DHP88]], [[DHP89]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN10.92]], [[AN3.57]]
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA128]]
+> ◄  [[ma127-bdk]] 📜  [[ma129-bdk]] ►

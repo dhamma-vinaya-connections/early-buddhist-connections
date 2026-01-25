@@ -1,0 +1,20 @@
+properties:
+  note.audience:
+    displayName: sutta audience
+  note.b-ni-corre:
+    displayName: vin_b-ni-corre
+  note.critics:
+    displayName: vin critics
+views:
+  - type: table
+    name: patimokkha-catalogue
+  - type: table
+    name: monk-rules
+    order:
+      - file.name
+      - chapter
+      - title
+      - aspect
+      - suttacode
+  - type: table
+    name: nun-rules

@@ -1,0 +1,30 @@
+---
+sutta_code: "AN2.157"
+sutta_title:
+  - "Adhikaraṇa "
+  - "Issues"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.157]]
+> ◄  [[an2.156-deepseek-pali]] 📜  [[an2.158-deepseek-pali]] ►
+
+# AN 2.157
+
+157."Monks, there are these two kinds of worship. Which two? Worship with material things and worship with the Dhamma. These, monks, are the two kinds of worship. Of these two kinds of worship, worship with the Dhamma is the foremost."
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 57 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.157]]
+> ◄  [[an2.156-deepseek-pali]] 📜  [[an2.158-deepseek-pali]] ►

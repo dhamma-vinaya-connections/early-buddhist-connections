@@ -1,0 +1,29 @@
+---
+sutta_code: "AN8.45-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.45-PALI]]
+> ◄  [[an8.44-pali-pts]] 📜  [[an8.46-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN8.45: Uposatha
+
+PTS: A iv 259
+
+Evam etaṃ Vāseṭṭha. Sabbe ce pi Vāseṭṭha khattiyā aṭṭhaṅgasamannāgataṃ uposathaṃ upavaseyyuṃ, sabbesam pi'; ssa khattiyānaṃ dīgharattaṃ hitāya sukhāya.
+Sabbe ce pi Vāseṭṭha brāhmaṇā . . . pe . . . vessā . . . suddā aṭṭhaṅgasamannāgataṃ uposathaṃ upavaseyyuṃ, sabbesam pi'; ssa suddānaṃ dīgharattaṃ hitāya sukhāya.
+Sadevako ce pi Vāseṭṭha loko samārako sabrahmako sassamaṇabrāhmaṇiyā pajāya sadevamanussāya aṭṭhaṅgasamannāgataṃ uposathaṃ upavaseyyuṃ, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya dīgharattaṃ hitāya sukhāya. Ime ce pi Vāseṭṭha mahāsālā aṭṭhaṅgasamannāgataṃ uposathaṃ upavaseyyuṃ, imesam pi'; ssa mahāsālānaṃ dīgharattaṃ hitāya sukhāya, sace ceteyyuṃ, ko pana vādo manussabhūtassā ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

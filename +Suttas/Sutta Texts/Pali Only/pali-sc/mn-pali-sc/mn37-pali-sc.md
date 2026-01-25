@@ -1,0 +1,94 @@
+---
+sutta_code: "MN37-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37-PALI]]
+> ◄  [[mn36-pali-sc]] 📜  [[mn38-pali-sc]] ►
+
+## Majjhima Nikāya
+## MN37: Cūḷataṇhāsaṅkhaya Sutta — The Shorter Discourse on the Ending of Craving
+
+1Evaṁ me sutaṁ — ​ ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde.
+
+Atha kho sakko devānamindo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho sakko devānamindo bhagavantaṁ etadavoca:
+
+
+"kittāvatā nu kho, bhante, bhikkhu saṅkhittena taṇhāsaṅkhayavimutto hoti accantaniṭṭho accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho devamanussānan"ti?
+
+2"Idha, devānaminda, bhikkhuno sutaṁ hoti: ‘sabbe dhammā nālaṁ abhinivesāyā’ti. Evañcetaṁ, devānaminda, bhikkhuno sutaṁ hoti: ‘sabbe dhammā nālaṁ abhinivesāyā’ti. So sabbaṁ dhammaṁ abhijānāti; sabbaṁ dhammaṁ abhiññāya sabbaṁ dhammaṁ parijānāti; sabbaṁ dhammaṁ pariññāya yaṁ kiñci vedanaṁ vedeti — sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā, so tāsu vedanāsu aniccānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. So tāsu vedanāsu aniccānupassī viharanto, virāgānupassī viharanto, nirodhānupassī viharanto, paṭinissaggānupassī viharanto na kiñci loke upādiyati. Anupādiyaṁ na paritassati, aparitassaṁ paccattaññeva parinibbāyati: ‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti. Ettāvatā kho, devānaminda, bhikkhu saṅkhittena taṇhāsaṅkhayavimutto hoti accantaniṭṭho accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho devamanussānan"ti.
+
+
+3Atha kho sakko devānamindo bhagavato bhāsitaṁ abhinanditvā anumoditvā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyi.
+
+4Tena kho pana samayena āyasmā mahāmoggallāno bhagavato avidūre nisinno hoti. Atha kho āyasmato mahāmoggallānassa etadahosi: "Kiṁ nu kho so yakkho bhagavato bhāsitaṁ abhisamecca anumodi udāhu no; yannūnāhaṁ taṁ yakkhaṁ jāneyyaṁ — yadi vā so yakkho bhagavato bhāsitaṁ abhisamecca anumodi yadi vā no"ti?
+
+Atha kho āyasmā mahāmoggallāno — seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva — pubbārāme migāramātupāsāde antarahito devesu tāvatiṁsesu pāturahosi.
+
+
+Tena kho pana samayena sakko devānamindo ekapuṇḍarīke uyyāne dibbehi pañcahi tūriyasatehi samappito samaṅgībhūto paricāreti.
+
+Addasā kho sakko devānamindo āyasmantaṁ mahāmoggallānaṁ dūratova āgacchantaṁ. Disvāna tāni dibbāni pañca tūriyasatāni paṭippaṇāmetvā yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahāmoggallānaṁ etadavoca: "ehi kho, mārisa moggallāna, svāgataṁ, mārisa moggallāna. Cirassaṁ kho, mārisa moggallāna, imaṁ pariyāyaṁ akāsi yadidaṁ idhāgamanāya. Nisīda, mārisa moggallāna, idamāsanaṁ paññattan"ti. Nisīdi kho āyasmā mahāmoggallāno paññatte āsane.
+
+Sakkopi kho devānamindo aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho sakkaṁ devānamindaṁ āyasmā mahāmoggallāno etadavoca:
+
+
+"yathā kathaṁ pana kho, kosiya, bhagavā saṁkhittena taṇhāsaṅkhayavimuttiṁ abhāsi? Sādhu mayampi etissā kathāya bhāgino assāma savanāyā"ti.
+
+5"Mayaṁ kho, mārisa moggallāna, bahukiccā bahukaraṇīyā — appeva sakena karaṇīyena, api ca devānaṁyeva tāvatiṁsānaṁ karaṇīyena. Api ca, mārisa moggallāna, sussutaṁyeva hoti suggahitaṁ sumanasikataṁ sūpadhāritaṁ, yaṁ no khippameva antaradhāyati. Bhūtapubbaṁ, mārisa moggallāna, devāsurasaṅgāmo samupabyūḷho ahosi. Tasmiṁ kho pana, mārisa moggallāna, saṅgāme devā jiniṁsu, asurā parājiniṁsu. So kho ahaṁ, mārisa moggallāna, taṁ saṅgāmaṁ abhivijinitvā vijitasaṅgāmo tato paṭinivattitvā vejayantaṁ nāma pāsādaṁ māpesiṁ. Vejayantassa kho, mārisa moggallāna, pāsādassa ekasataṁ niyyūhaṁ. Ekekasmiṁ niyyūhe satta satta kūṭāgārasatāni. Ekamekasmiṁ kūṭāgāre satta satta accharāyo. Ekamekissā accharāya satta satta paricārikāyo. Iccheyyāsi no tvaṁ, mārisa moggallāna, vejayantassa pāsādassa rāmaṇeyyakaṁ daṭṭhun"ti? Adhivāsesi kho āyasmā mahāmoggallāno tuṇhībhāvena.
+
+6Atha kho sakko ca devānamindo vessavaṇo ca mahārājā āyasmantaṁ mahāmoggallānaṁ purakkhatvā yena vejayanto pāsādo tenupasaṅkamiṁsu. Addasaṁsu kho sakkassa devānamindassa paricārikāyo āyasmantaṁ mahāmoggallānaṁ dūratova āgacchantaṁ; disvā ottappamānā hirīyamānā sakaṁ sakaṁ ovarakaṁ pavisiṁsu. Seyyathāpi nāma suṇisā sasuraṁ disvā ottappati hirīyati; evameva sakkassa devānamindassa paricārikāyo āyasmantaṁ mahāmoggallānaṁ disvā ottappamānā hirīyamānā sakaṁ sakaṁ ovarakaṁ pavisiṁsu.
+
+Atha kho sakko ca devānamindo vessavaṇo ca mahārājā āyasmantaṁ mahāmoggallānaṁ vejayante pāsāde anucaṅkamāpenti anuvicarāpenti: "idampi, mārisa moggallāna, passa vejayantassa pāsādassa rāmaṇeyyakaṁ; idampi, mārisa moggallāna, passa vejayantassa pāsādassa rāmaṇeyyakan"ti.
+
+"Sobhati idaṁ āyasmato kosiyassa, yathā taṁ pubbe katapuññassa. Manussāpi kiñcideva rāmaṇeyyakaṁ disvā evamāhaṁsu: ‘sobhati vata bho yathā devānaṁ tāvatiṁsānan’ti. Tayidaṁ āyasmato kosiyassa sobhati, yathā taṁ pubbe katapuññassā"ti.
+
+
+Atha kho āyasmato mahāmoggallānassa etadahosi: "atibāḷhaṁ kho ayaṁ yakkho pamatto viharati. Yannūnāhaṁ imaṁ yakkhaṁ saṁvejeyyan"ti.
+
+Atha kho āyasmā mahāmoggallāno tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā vejayantaṁ pāsādaṁ pādaṅguṭṭhakena saṅkampesi sampakampesi sampavedhesi.
+
+Atha kho sakko ca devānamindo, vessavaṇo ca mahārājā, devā ca tāvatiṁsā acchariyabbhutacittajātā ahesuṁ: "acchariyaṁ vata, bho, abbhutaṁ vata, bho. Samaṇassa mahiddhikatā mahānubhāvatā, yatra hi nāma dibbabhavanaṁ pādaṅguṭṭhakena saṅkampessati sampakampessati sampavedhessatī"ti.
+
+Atha kho āyasmā mahāmoggallāno sakkaṁ devānamindaṁ saṁviggaṁ lomahaṭṭhajātaṁ viditvā sakkaṁ devānamindaṁ etadavoca: "yathā kathaṁ pana kho, kosiya, bhagavā saṁkhittena taṇhāsaṅkhayavimuttiṁ abhāsi? Sādhu mayampi etissā kathāya bhāgino assāma savanāyā"ti.
+
+
+7"Idhāhaṁ, mārisa moggallāna, yena bhagavā tenupasaṅkamiṁ; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsiṁ. Ekamantaṁ ṭhito kho ahaṁ, mārisa moggallāna, bhagavantaṁ etadavocaṁ: ‘kittāvatā nu kho, bhante, bhikkhu saṅkhittena taṇhāsaṅkhayavimutto hoti accantaniṭṭho accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho devamanussānan’ti?
+
+
+8Evaṁ vutte, mārisa moggallāna, bhagavā maṁ etadavoca: ‘idha, devānaminda, bhikkhuno sutaṁ hoti: "sabbe dhammā nālaṁ abhinivesāyā"ti. Evañcetaṁ, devānaminda, bhikkhuno sutaṁ hoti "sabbe dhammā nālaṁ abhinivesāyā"ti. So sabbaṁ dhammaṁ abhijānāti, sabbaṁ dhammaṁ abhiññāya sabbaṁ dhammaṁ parijānāti, sabbaṁ dhammaṁ pariññāya yaṁ kiñci vedanaṁ vedeti sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā. So tāsu vedanāsu aniccānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. So tāsu vedanāsu aniccānupassī viharanto, virāgānupassī viharanto, nirodhānupassī viharanto, paṭinissaggānupassī viharanto na kiñci loke upādiyati, anupādiyaṁ na paritassati, aparitassaṁ paccattaññeva parinibbāyati: "khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā"ti pajānāti. Ettāvatā kho, devānaminda, bhikkhu saṅkhittena taṇhāsaṅkhayavimutto hoti accantaniṭṭho accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho devamanussānan’ti. Evaṁ kho me, mārisa moggallāna, bhagavā saṅkhittena taṇhāsaṅkhayavimuttiṁ abhāsī"ti.
+
+
+9Atha kho āyasmā mahāmoggallāno sakkassa devānamindassa bhāsitaṁ abhinanditvā anumoditvā — seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva — devesu tāvatiṁsesu antarahito pubbārāme migāramātupāsāde pāturahosi.
+
+Atha kho sakkassa devānamindassa paricārikāyo acirapakkante āyasmante mahāmoggallāne sakkaṁ devānamindaṁ etadavocuṁ: "Eso nu te, mārisa, so bhagavā satthā"ti?
+
+"Na kho me, mārisa, so bhagavā satthā. Sabrahmacārī me eso āyasmā mahāmoggallāno"ti.
+
+
+"Lābhā te, mārisa, suladdhaṁ te, mārisa yassa te sabrahmacārī evaṁmahiddhiko evaṁmahānubhāvo. Aho nūna te so bhagavā satthā"ti.
+
+
+10Atha kho āyasmā mahāmoggallāno yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā mahāmoggallāno bhagavantaṁ etadavoca: "abhijānāti no, bhante, bhagavā ahu ñātaññatarassa mahesakkhassa yakkhassa saṁkhittena taṇhāsaṅkhayavimuttiṁ bhāsitā"ti?
+
+"Abhijānāmahaṁ, moggallāna, idha sakko devānamindo yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho, moggallāna, sakko devānamindo maṁ etadavoca: ‘kittāvatā nu kho, bhante, bhikkhu saṁkhittena taṇhāsaṅkhayavimutto hoti accantaniṭṭho accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho devamanussānan’ti.
+
+11Evaṁ vutte, ahaṁ, moggallāna, sakkaṁ devānamindaṁ etadavocaṁ ‘idha devānaminda, bhikkhuno sutaṁ hoti "sabbe dhammā nālaṁ abhinivesāyā"ti. Evaṁ cetaṁ, devānaminda, bhikkhuno sutaṁ hoti "sabbe dhammā nālaṁ abhinivesāyā"ti. So sabbaṁ dhammaṁ abhijānāti, sabbaṁ dhammaṁ abhiññāya sabbaṁ dhammaṁ parijānāti, sabbaṁ dhammaṁ pariññāya yaṁ kiñci vedanaṁ vedeti sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā. So tāsu vedanāsu aniccānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. So tāsu vedanāsu aniccānupassī viharanto, virāgānupassī viharanto, nirodhānupassī viharanto, paṭinissaggānupassī viharanto na kiñci loke upādiyati, anupādiyaṁ na paritassati, aparitassaṁ paccattaññeva parinibbāyati: "khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā"ti pajānāti. Ettāvatā kho, devānaminda, bhikkhu saṁkhittena taṇhāsaṅkhayavimutto hoti accantaniṭṭho accantayogakkhemī accantabrahmacārī accantapariyosāno seṭṭho devamanussānan’ti. Evaṁ kho ahaṁ, moggallāna, abhijānāmi sakkassa devānamindassa saṁkhittena taṇhāsaṅkhayavimuttiṁ bhāsitā"ti.
+
+
+12Idamavoca bhagavā. Attamano āyasmā mahāmoggallāno bhagavato bhāsitaṁ abhinandīti.
+
+### Cūḷataṇhāsaṅkhayasuttaṁ niṭṭhitaṁ sattamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

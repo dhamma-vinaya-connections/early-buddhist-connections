@@ -1,0 +1,28 @@
+---
+sutta_code: "AN5.242-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.242-PALI]]
+> ◄  [[an5.241-pali-pts]] 📜  [[an5.243-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN5.242: Duccarita
+
+PTS: A iii 267
+
+Attā pi attānaṃ upavadati, anuvicca viññū garahanti, pāpako kittisaddo abbhuggacchati, sammūḷho kālaṃ karoti, kāyassa bhedā parammaraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.
+Ime kho bhikkhave pañca ādīnavā duccarite.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

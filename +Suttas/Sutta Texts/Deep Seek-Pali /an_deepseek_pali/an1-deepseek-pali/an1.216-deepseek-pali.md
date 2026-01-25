@@ -1,0 +1,26 @@
+---
+sutta_code: "AN1.216"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.216]]
+> ◄  [[an1.215-deepseek-pali]] 📜  [[an1.217-deepseek-pali]] ►
+
+# AN 1.216
+
+318. ‘‘Durakkhāte, bhikkhave, dhammavinaye yo kusīto so sukhaṃ viharati. Taṃ kissa hetu? Durakkhātattā, bhikkhave, dhammassā’’ti.
+
+318.Monks, in a Dhamma and Discipline that is poorly proclaimed, the lazy one dwells in happiness. Why is that? Because, monks, the Dhamma is poorly proclaimed.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

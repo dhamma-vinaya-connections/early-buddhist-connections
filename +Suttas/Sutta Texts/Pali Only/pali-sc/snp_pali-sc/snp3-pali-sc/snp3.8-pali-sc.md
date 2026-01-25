@@ -1,0 +1,126 @@
+---
+sutta_code: "SNP3.8-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3.8-PALI]]
+> ◄  [[snp3.7-pali-sc]] 📜  [[snp3.9-pali-sc]] ►
+
+## Khuddaka Nikāya - The Minor Texts
+## Sutta Nipata
+## Sutta Nipata Chapter 3: The Great Chapter
+### 3:8 The Dart
+## 3:8 The Dart
+## Sallasutta
+
+574Animittamanaññātaṁ,  
+maccānaṁ idha jīvitaṁ;  
+Kasirañca parittañca,  
+tañca dukkhena saṁyutaṁ.
+
+yena jātā na miyyare;  
+Jarampi patvā maraṇaṁ,  
+evaṁdhammā hi pāṇino.
+
+576 Phalānamiva pakkānaṁ,  
+pāto patanato bhayaṁ;  
+Evaṁ jātāna maccānaṁ,  
+niccaṁ maraṇato bhayaṁ.
+
+577 Yathāpi kumbhakārassa,  
+katā mattikabhājanā;  
+evaṁ maccāna jīvitaṁ.
+
+
+578 Daharā ca mahantā ca,  
+ye bālā ye ca paṇḍitā;  
+sabbe maccuparāyaṇā.
+
+579 Tesaṁ maccuparetānaṁ,  
+gacchataṁ paralokato;  
+Na pitā tāyate puttaṁ,  
+ñātī vā pana ñātake.
+
+580 Pekkhataṁyeva ñātīnaṁ,  
+passa lālapataṁ puthu;  
+Ekamekova maccānaṁ,  
+govajjho viya nīyati.
+
+581 Evamabbhāhato loko,  
+Maccunā ca jarāya ca;  
+Tasmā dhīrā na socanti,  
+Viditvā lokapariyāyaṁ.
+
+582 Yassa maggaṁ na jānāsi,  
+āgatassa gatassa vā;  
+Ubho ante asampassaṁ,  
+niratthaṁ paridevasi.
+
+583 Paridevayamāno ce,  
+Kiñcidatthaṁ udabbahe;  
+Sammūḷho hiṁsamattānaṁ,  
+Kayirā ce naṁ vicakkhaṇo.
+
+
+584 Na hi ruṇṇena sokena,  
+Santiṁ pappoti cetaso;  
+Sarīraṁ cupahaññati.
+
+585 Kiso vivaṇṇo bhavati,  
+Hiṁsamattānamattanā;  
+Na tena petā pālenti,  
+Niratthā paridevanā.
+
+586 Sokamappajahaṁ jantu,  
+Anutthunanto kālaṅkataṁ,  
+Sokassa vasamanvagū.
+
+587 Aññepi passa gamine,  
+Yathākammupage nare;  
+Maccuno vasamāgamma,  
+Phandantevidha pāṇino.
+
+588 Yena yena hi maññanti,  
+Tato taṁ hoti aññathā;  
+Etādiso vinābhāvo,  
+Passa lokassa pariyāyaṁ.
+
+589 Api vassasataṁ jīve,  
+Bhiyyo vā pana māṇavo;  
+Ñātisaṅghā vinā hoti,  
+Jahāti idha jīvitaṁ.
+
+
+590 Tasmā arahato sutvā,  
+Vineyya paridevitaṁ;  
+Petaṁ kālaṅkataṁ disvā,  
+Neso labbhā mayā iti.
+
+591 Yathā saraṇamādittaṁ,  
+Vārinā parinibbaye;  
+Evampi dhīro sapañño,  
+Paṇḍito kusalo naro;  
+Khippamuppatitaṁ sokaṁ,  
+Vāto tūlaṁva dhaṁsaye.
+
+592 Paridevaṁ pajappañca,  
+Domanassañca attano;  
+Attano sukhamesāno,  
+
+593Abbūḷhasallo asito,  
+Sabbasokaṁ atikkanto,  
+
+Sallasuttaṁ aṭṭhamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

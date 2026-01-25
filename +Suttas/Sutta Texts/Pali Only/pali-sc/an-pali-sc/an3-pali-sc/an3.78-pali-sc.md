@@ -1,0 +1,44 @@
+---
+sutta_code: "AN3.78-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.78-PALI]]
+> ◄  [[an3.77-pali-sc]] 📜  [[an3.79-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 3: The Book of the Threes
+### AN 3.78: Sīlabbatasutta — Precepts and Observances
+
+1Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ ānandaṁ bhagavā etadavoca: 
+
+
+"sabbaṁ nu kho, ānanda, sīlabbataṁ jīvitaṁ brahmacariyaṁ upaṭṭhānasāraṁ saphalan"ti?
+
+
+Tena hānanda, vibhajassū"ti.
+
+
+2"Yañhissa, bhante, sīlabbataṁ jīvitaṁ brahmacariyaṁ upaṭṭhānasāraṁ sevato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyanti, evarūpaṁ sīlabbataṁ jīvitaṁ brahmacariyaṁ upaṭṭhānasāraṁ aphalaṁ. Yañca khvāssa, bhante, sīlabbataṁ jīvitaṁ brahmacariyaṁ upaṭṭhānasāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti, evarūpaṁ sīlabbataṁ jīvitaṁ brahmacariyaṁ upaṭṭhānasāraṁ saphalan"ti.
+
+Idamavoca āyasmā ānando. Samanuñño satthā ahosi.
+
+
+3Atha kho āyasmā ānando "samanuñño me satthā"ti, uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+
+Atha kho bhagavā acirapakkante āyasmante ānande bhikkhū āmantesi:  "sekho, bhikkhave, ānando; na ca panassa sulabharūpo samasamo paññāyā"ti.
+
+Aṭṭhamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

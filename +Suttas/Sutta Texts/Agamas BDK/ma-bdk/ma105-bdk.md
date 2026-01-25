@@ -1,0 +1,38 @@
+---
+sutta_code: "MA105"
+sutta_title:
+  - "晝度樹 "
+  - "Coral Tree"
+sutta-version: "BDK"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA105]]
+> ◄  [[ma104-bdk]] 📜  [[ma106-bdk]] ►
+
+### 105. The Discourse on Wishes Thus have I heard. At one time the Buddha was staying at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s Park. At that time there was a monk who was living alone, in seclusion, staying in a remote and quiet place.^295 While sitting in meditation and reflecting, he had this thought, “The World-honored One has comforted me with his words and taught me the Dharma. [Accordingly,] I have fulfilled the precepts, do not neglect absorption, am accomplished in insight, and dwell in empty and quiet places.” Then, having had this thought, in the late afternoon that monk rose from sitting in meditation and approached the Buddha.^296 On seeing that monk coming in the distance, the World-honored One, on account of that monk [who was approaching], told the [assembled] monks: Should you wish, “May the World-honored One comfort me with his words and teach me the Dharma!”, then fulfill the precepts, do not neglect absorp- tion, be accomplished in insight, and dwell in empty and quiet places.^297 Monks, should you wish, “On my account may my relatives, on the breaking up of the body at death, definitely ascend to a good realm of existence by being reborn in a heavenly realm!”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, “The donors who supply me with robes and blankets, food and drink, beds and bedding, and medicine, all the requisites, may they on account of these gifts [come to] possess great merit, great brilliance, and obtain great fruits!”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, “May I be able to endure hunger and thirst, cold and heat, mosquitoes and gadflies, flies and fleas, the impact of wind and sun, evil words and [even] being beaten with sticks; may I also be able to bear disease that afflicts the body with extreme pain and suffering, enough to make me wish to end my life; also any [other] disagreeable [experience]—may I be able to bear them all!”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places.
+
+Monks, should you wish, “May I be able to bear discontent; if discontent arises, may my mind never cling to it!”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, “May I be able to bear fear; if fear arises may my mind make an end of it and not cling to it!”, then fulfill the pre- cepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, “If the three evil and unwholesome thoughts arise—thoughts of sensual desire, thoughts of ill-will, and thoughts of cru- elty—may my mind make an end of these three evil and unwholesome thoughts and not cling to them!”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, “May I, secluded from sensual desires, secluded from evil and unwholesome states, dwell having attained,... up to... the fourth absorption!”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, “May I, having eradicated three fetters, become a stream-enterer, one who will not fall into evil conditions and who is assured of progress toward full awakening within at most seven [more] existences; and, having traversed [at most] seven existences in heavenly or human realms, may I attain the ending of _dukkha!_ ”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, “May I, having eradicated three fetters and having reduced sensual passion, anger, and ignorance, attain once-returning and, having passed through one existence in a heavenly or human realm, attain the ending of _dukkha_ !”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, “May I, having eradicated the five lower fet- ters, be reborn in another realm and there attain final nirvana, having attained the condition of nonreturning, not coming back to this world!,” then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places.
+
+Monks, should you wish, “May I attain the peaceful liberations that transcend form, having attained the formless, and with the appropriate type of concentration dwell having directly realized them; and by employing wisdom and insight [may I] eradicate the taints and know that the taints [have been eradicated]!”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, ‘May I acquire supernormal powers, knowl edge of the divine ear, knowledge of others’ minds, knowledge of former lives, knowledge of the birth and death [of beings]; and through having eradicated all taints [may I] attain the taintless liberation of the mind, lib eration by wisdom, knowing and realizing it by myself here and now, and dwell having accomplished self-realization, knowing as it really is: ‘Birth has been ended, the holy life has been established, what had to be done has been done, there will not be another experiencing of existence!’”[should you wish for all this] then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Then the monks, having heard what the Buddha said, received it well and remembered it well. Rising from their seats, they paid homage with their heads at the Buddha’s feet, circumambulated him three times, and left. Those monks, having received this teaching from the Buddha, sat in med itation in remote and quiet places, practicing diligently, their minds free of negligence. Through sitting in meditation in remote and quiet places and practicing diligently, with their minds free of negligence, they came to know and realize for themselves, here and now, that [attainment] for the sake of which clansmen shave off hair and beards, don yellow robes, and leave their households out of faith, becoming homeless to train in the path just for the sake of attaining fully the summit of the holy life; and they dwelled having personally realized, knowing as it really is: “Birth has been ended, the holy life has been established, what had to be done has been done, there will not be another experiencing of existence.” Those venerable ones, having come to know the Dharma, had become arahants.^298 Thus spoke the Buddha. Having heard what the Buddha said, the monks were delighted and received it respectfully.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN10.71]], [[MN6]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN12.29]], [[SN12.30]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA105]]
+> ◄  [[ma104-bdk]] 📜  [[ma106-bdk]] ►

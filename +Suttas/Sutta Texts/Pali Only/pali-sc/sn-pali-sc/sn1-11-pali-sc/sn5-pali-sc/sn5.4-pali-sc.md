@@ -1,0 +1,59 @@
+---
+sutta_code: "SN5.4-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.4-PALI]]
+> ◄  [[sn5.3-pali-sc]] 📜  [[sn5.5-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+## 5. Bhikkhunīsaṁyutta: With Nuns
+### I. Nuns — SN5.4: With Vijayā
+
+1Sāvatthinidānaṁ.
+
+Atha kho vijayā bhikkhunī pubbaṇhasamayaṁ nivāsetvā … pe … aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi.
+
+Atha kho māro pāpimā vijayāya bhikkhuniyā bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo samādhimhā cāvetukāmo yena vijayā bhikkhunī tenupasaṅkami; upasaṅkamitvā vijayaṁ bhikkhuniṁ gāthāya ajjhabhāsi: 
+
+2"Daharā tvaṁ rūpavatī,  
+ahañca daharo susu;  
+Pañcaṅgikena turiyena,  
+ehayyebhiramāmase"ti.
+
+3Atha kho vijayāya bhikkhuniyā etadahosi: "ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī"ti?
+
+Atha kho vijayāya bhikkhuniyā etadahosi: "māro kho ayaṁ pāpimā mama bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo samādhimhā cāvetukāmo gāthaṁ bhāsatī"ti.
+
+
+Atha kho vijayā bhikkhunī "māro ayaṁ pāpimā" iti viditvā māraṁ pāpimantaṁ gāthāhi paccabhāsi: 
+
+4"Rūpā saddā rasā gandhā,  
+phoṭṭhabbā ca manoramā;  
+Niyyātayāmi tuyheva,  
+māra nāhaṁ tenatthikā.
+
+5Iminā pūtikāyena,  
+bhindanena pabhaṅgunā;  
+Aṭṭīyāmi harāyāmi,  
+kāmataṇhā samūhatā.
+
+6Ye ca rūpūpagā sattā,  
+ye ca arūpaṭṭhāyino;  
+Yā ca santā samāpatti,  
+sabbattha vihato tamo"ti.
+
+7Atha kho māro pāpimā "jānāti maṁ vijayā bhikkhunī"ti dukkhī dummano tatthevantaradhāyīti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

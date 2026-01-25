@@ -1,0 +1,41 @@
+---
+sutta_code: "AN8.35-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.35-PALI]]
+> ◄  [[an8.34-pali-sc]] 📜  [[an8.36-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 8: The Book of the Eights
+### AN 8.35: Dānūpapattisutta — Rebirth by Giving
+
+1"Aṭṭhimā, bhikkhave, dānūpapattiyo. Katamā aṭṭha?
+
+Idha, bhikkhave, ekacco dānaṁ deti samaṇassa vā brāhmaṇassa vā annaṁ pānaṁ vatthaṁ yānaṁ mālāgandhavilepanaṁ seyyāvasathapadīpeyyaṁ. So yaṁ deti taṁ paccāsīsati. So passati khattiyamahāsāle vā brāhmaṇamahāsāle vā gahapatimahāsāle vā pañcahi kāmaguṇehi samappite samaṅgībhūte paricārayamāne. Tassa evaṁ hoti:  ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā khattiyamahāsālānaṁ vā brāhmaṇamahāsālānaṁ vā gahapatimahāsālānaṁ vā sahabyataṁ upapajjeyyan’ti. So taṁ cittaṁ dahati, taṁ cittaṁ adhiṭṭhāti, taṁ cittaṁ bhāveti. Tassa taṁ cittaṁ hīne vimuttaṁ, uttari abhāvitaṁ, tatrūpapattiyā saṁvattati. Kāyassa bhedā paraṁ maraṇā khattiyamahāsālānaṁ vā brāhmaṇamahāsālānaṁ vā gahapatimahāsālānaṁ vā sahabyataṁ upapajjati. Tañca kho sīlavato vadāmi, no dussīlassa. Ijjhati, bhikkhave, sīlavato cetopaṇidhi visuddhattā. (1)
+
+2Idha pana, bhikkhave, ekacco dānaṁ deti samaṇassa vā brāhmaṇassa vā annaṁ pānaṁ vatthaṁ yānaṁ mālāgandhavilepanaṁ seyyāvasathapadīpeyyaṁ. So yaṁ deti taṁ paccāsīsati. Tassa sutaṁ hoti:  ‘cātumahārājikā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti:  ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā cātumahārājikānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So taṁ cittaṁ dahati, taṁ cittaṁ adhiṭṭhāti, taṁ cittaṁ bhāveti. Tassa taṁ cittaṁ hīne vimuttaṁ, uttari abhāvitaṁ, tatrūpapattiyā saṁvattati. Kāyassa bhedā paraṁ maraṇā cātumahārājikānaṁ devānaṁ sahabyataṁ upapajjati. Tañca kho sīlavato vadāmi, no dussīlassa. Ijjhati, bhikkhave, sīlavato cetopaṇidhi visuddhattā. (2)
+
+
+3Idha pana, bhikkhave, ekacco dānaṁ deti samaṇassa vā brāhmaṇassa vā annaṁ pānaṁ vatthaṁ yānaṁ mālāgandhavilepanaṁ seyyāvasathapadīpeyyaṁ. So yaṁ deti taṁ paccāsīsati. Tassa sutaṁ hoti – tāvatiṁsā devā … pe … yāmā devā … tusitā devā … nimmānaratī devā … paranimmitavasavattī devā dīghāyukā vaṇṇavanto sukhabahulāti.
+
+Tassa evaṁ hoti:  ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā paranimmitavasavattīnaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So taṁ cittaṁ dahati, taṁ cittaṁ adhiṭṭhāti, taṁ cittaṁ bhāveti. Tassa taṁ cittaṁ hīne vimuttaṁ, uttari abhāvitaṁ, tatrūpapattiyā saṁvattati. Kāyassa bhedā paraṁ maraṇā paranimmitavasavattīnaṁ devānaṁ sahabyataṁ upapajjati. Tañca kho sīlavato vadāmi, no dussīlassa. Ijjhati, bhikkhave, sīlavato cetopaṇidhi visuddhattā. (3–7.)
+
+4Idha pana, bhikkhave, ekacco dānaṁ deti samaṇassa vā brāhmaṇassa vā annaṁ pānaṁ vatthaṁ yānaṁ mālāgandhavilepanaṁ seyyāvasathapadīpeyyaṁ. So yaṁ deti taṁ paccāsīsati. Tassa sutaṁ hoti:  ‘brahmakāyikā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti:  ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā brahmakāyikānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So taṁ cittaṁ dahati, taṁ cittaṁ adhiṭṭhāti, taṁ cittaṁ bhāveti. Tassa taṁ cittaṁ hīne vimuttaṁ, uttari abhāvitaṁ, tatrūpapattiyā saṁvattati. Kāyassa bhedā paraṁ maraṇā brahmakāyikānaṁ devānaṁ sahabyataṁ upapajjati. Tañca kho sīlavato vadāmi, no dussīlassa; vītarāgassa, no sarāgassa. Ijjhati, bhikkhave, sīlavato cetopaṇidhi vītarāgattā.
+
+Imā kho, bhikkhave, aṭṭha dānūpapattiyo"ti. (8)
+
+Pañcamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

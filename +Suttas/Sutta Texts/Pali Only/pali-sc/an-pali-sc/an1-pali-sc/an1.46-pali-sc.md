@@ -1,0 +1,28 @@
+---
+sutta_code: "AN1.46-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.46-PALI]]
+> ◄  [[an1.45-pali-sc]] 📜  [[an1.47-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 1: The Book of the Ones
+### 1. Obsession of the Mind - 46
+
+1"Seyyathāpi, bhikkhave, udakarahado accho vippasanno anāvilo tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakaṭhalampi macchagumbampi carantampi tiṭṭhantampi. Taṁ kissa hetu? Anāvilattā, bhikkhave, udakassa. Evamevaṁ kho, bhikkhave, so vata bhikkhu anāvilena cittena attatthaṁ vā ñassati paratthaṁ vā ñassati ubhayatthaṁ vā ñassati uttariṁ vā manussadhammā alamariyañāṇadassanavisesaṁ sacchikarissatīti ṭhānametaṁ vijjati. Taṁ kissa hetu? Anāvilattā, bhikkhave, cittassā"ti.
+
+Chaṭṭhaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

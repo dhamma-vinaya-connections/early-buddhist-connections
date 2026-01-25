@@ -1,0 +1,71 @@
+---
+sutta_code: "THIG9-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG9-PALI]]
+> ◄  [[thig8-pali-sc]] 📜  [[thig10-pali-sc]] ►
+
+## Khuddaka Nikāya - The Minor Texts
+## Therigatha - The Verses of the Elder Nuns
+### Chapter 9: The Book of the Nines
+
+##### 9.1 Vaḍḍhamātutherīgāthā
+
+"Mā su te vaḍḍha lokamhi,
+vanatho āhu kudācanaṁ;
+Mā puttaka punappunaṁ,
+ahu dukkhassa bhāgimā.
+
+Sukhañhi vaḍḍha munayo,
+anejā chinnasaṁsayā;
+Sītibhūtā damappattā,
+viharanti anāsavā.
+
+Tehānuciṇṇaṁ isībhi,
+maggaṁ dassanapattiyā;
+Dukkhassantakiriyāya,
+tvaṁ vaḍḍha anubrūhaya".
+
+"Visāradāva bhaṇasi,
+etamatthaṁ janetti me;
+Maññāmi nūna māmike,
+vanatho te na vijjati".
+
+"Ye keci vaḍḍha saṅkhārā,
+hīnā ukkaṭṭhamajjhimā;
+Aṇūpi aṇumattopi,
+vanatho me na vijjati.
+
+Sabbe me āsavā khīṇā,
+appamattassa jhāyato;
+Tisso vijjā anuppattā,
+kataṁ buddhassa sāsanaṁ".
+
+"Uḷāraṁ vata me mātā,
+patodaṁ samavassari;
+Paramatthasañhitā gāthā,
+yathāpi anukampikā.
+
+Tassāhaṁ vacanaṁ sutvā,
+anusiṭṭhiṁ janettiyā;
+Dhammasaṁvegamāpādiṁ,
+yogakkhemassa pattiyā.
+
+Sohaṁ padhānapahitatto,
+rattindivamatandito;
+Mātarā codito santo,
+aphusiṁ santimuttamaṁ".
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

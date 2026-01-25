@@ -1,0 +1,26 @@
+---
+sutta_code: "THAG782-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG782-PALI]]
+> ◄  [[thag781-pali-pts]] 📜  [[thag783-pali-pts]] ►
+
+## Theragāthā
+## Thag782
+
+appañ hi naṃ jīvitam āhu dhīrā asassataṃ vippariṇāmadhammaṃ.
+addhā daliddā ca phusanti phassaṃ, bālo ca dhīro ca tath'; eva phuṭṭho:
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

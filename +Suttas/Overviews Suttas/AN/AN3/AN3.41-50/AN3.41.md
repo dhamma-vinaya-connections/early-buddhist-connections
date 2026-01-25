@@ -1,0 +1,95 @@
+---
+sutta_code: "AN3.41"
+sutta_pts: "A i 150"
+sutta_title:
+  - "Sammukhībhāva "
+  - "Present"
+nikaya:
+  - "AN "
+  - "Aṅguttara Nikāya"
+sutta_chapter:
+  - "AN3"
+  - "Culvagga"
+  - "Lesser Chapter"
+  - ""
+sutta_theme:
+  - "Conviction"
+sutta_topic:
+  - "Merits"
+sutta_training:
+  - "Paññā"
+sutta_stage:
+  - "Beginning"
+sutta_method:
+  - "Mixed"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Lay followers"
+sutta_simile: ""
+parallels_nikaya:
+  - ""
+parallels_agama:
+  - "[[EA24.7]]"
+parallels_partilal:
+  - "[[EA24.7]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.40]]  🌐 [[AN3.42]] ►
+
+# AN3.41 - Sammukhībhāva - Present
+## 🌐 Overview
+
+> [!info] Summary
+> How to know a faithful person
+
+> [!info] Key Excerpts 
+> Person with faith like to see ethical people. They like to hear the true teaching. And they live at home rid of the stain of stinginess, freely generous
+> 
+> Faithful gentleman makes much merit when faith is present, when a gift to give is present,and when those worthy of a religious donation
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA24.7]] | A i 150 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA24.7]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN3.41%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN3.41%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BAN3.41%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.41%5D%5D%22%23mynotes%20-file%3Aan3.41-%20-file%3A%22AN3.40%22%20-file%3A%22AN3.42%22%20-file%3A%22AN3.41%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/an3.41/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=an3.41
+> - The Buddhas Words: https://thebuddhaswords.net/an/an3.41.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.40]]  🌐 [[AN3.42]] ►

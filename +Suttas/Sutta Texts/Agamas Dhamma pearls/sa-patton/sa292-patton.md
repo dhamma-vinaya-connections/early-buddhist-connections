@@ -1,0 +1,57 @@
+---
+sutta_code: "SA292"
+sutta_title:
+  - "SA 3.10 "
+  - "Thinking and Examining"
+sutta-version: "Patton"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA292]]
+> ◄  [[sa291-patton]] 📜  [[sa293-patton]] ►
+
+### Translating Classical Buddhism to Modern English
+### Translator: Charles Patton
+
+## [3. Dependent Origination](index.html)
+
+10 (292). Thinking and Examining
+1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was staying at the Squirrels’ Bamboo Grove of Rājagṛha.
+2. It was then that the Bhagavān addressed the monks, “When thinking about and examining the correct ending of suffering and the final limit of suffering, how does one think about the many different kinds of pains possessed by sentient beings? ‘What is the cause, what is the formation, what is the arising, and what is the instigation of these pains?’ Think about grasping as their cause, their formation, their arising, and their instigation.<a id="fnref2"></a>[^2] If grasping ceases without remainder, then those many pains will cease. In that way,<a id="fnref3"></a>[^3] one truly knows the path to suffering’s cessation. Cultivating it leads to the next thing.<a id="fnref4"></a>[^4] This is called a monk heading for the correct ending of suffering and the final limit of suffering, which is to say the cessation of grasping.
+3. “Furthermore, monks, when thinking about and examining the correct ending of suffering and the final limit of suffering, think about this: ‘What is the cause, the formation, the arising, and the instigation of that grasping?’ Think about craving as the cause, the formation, the arising, and the instigation of that grasping. That craving being forever ceased without remainder, grasping will also subsequently cease. In that way, one truly knows the path to suffering’s cessation. Cultivating it leads to the next thing. This is called a monk heading for the correct ending of suffering and the final limit of suffering, which is to say the cessation of craving.
+4. “Furthermore, monks, when thinking about and examining the correct ending of suffering and the final limit of suffering, think about this: ‘What is the cause, the formation, the arising, and the instigation of that craving?’ Know that feeling is the cause, the formation, the arising, and the instigation of that craving. That feeling being forever ceased without remainder, craving will then cease. In that way, one truly knows the path to suffering’s cessation. Cultivating it leads to the next thing. This is called a monk heading for the correct ending of suffering and the final limit of suffering, which is to say the cessation of feeling.
+5. “Furthermore, monks, when thinking about and examining the correct ending of suffering and the final limit of suffering, think about this: ‘What is the cause, the formation, the arising, and the instigation of that feeling?’ Know that contact is the cause, the formation, the arising, and the instigation of that feeling. That contact being forever ceased without remainder, feeling will then cease. In that way, one truly knows the path to suffering’s cessation. Cultivating it leads to the next thing. This is called a monk heading for the correct ending of suffering and the final limit of suffering[, which is to say the cessation of contact].
+6. “Furthermore, monks, when thinking about and examining the correct ending of suffering and the final limit of suffering, think about this: ‘What is the cause, the formation, the arising, and the instigation of that contact?’ You should know that the six sense fields are the cause, the formation, the arising, and the instigation of that contact. Those six sense fields being forever ceased without remainder, contact will then cease. In that way, one truly knows the path to suffering’s cessation. Cultivating it leads to the next thing. This is called a monk heading for the correct ending of suffering and the final limit of suffering[, which is to say the cessation of the six sense fields].
+7. “Furthermore, monks, when thinking about and examining the correct ending of suffering and the final limit of suffering, think about this: ‘What is the cause, the formation, the arising, and the instigation of those six sense fields?’ Know that name and form are the cause, the formation, the arising, and the instigation of those six sense fields. Name and form being forever ceased without remainder, the six sense fields will then cease. In that way, one truly knows the path to suffering’s cessation. Cultivating it leads to the next thing. This is called a monk heading for the correct ending of suffering and the final limit of suffering, which is to say the cessation of name and form.
+8. “Furthermore, monks, when thinking about and examining the correct ending of suffering and the final limit of suffering, think about this: ‘What is the cause, the formation, the arising, and the instigation of name and form?’ Know that awareness is the cause, the formation, the arising, and the instigation of name and form. That awareness being forever ceased without remainder, name and form will then cease. In that way, one truly knows the path to suffering’s cessation. Cultivating it leads to the next thing. This is called a monk heading for the correct ending of suffering and the final limit of suffering, which is to say the cessation of awareness.
+9. “Furthermore, monks, when thinking about and examining the correct ending of suffering and the final limit of suffering, think about this: ‘What is the cause, the formation, the arising, and the instigation of that awareness?’ Know that actions are the cause, the formation, the arising, and the instigation of that awareness. Performing meritorious actions produces skillful awareness. Performing demeritorious and unskillful actions produces unskillful awareness. Performing actions of nothingness produces awareness of nothingness.<a id="fnref5"></a>[^5] These are the actions that are the cause, the formation, the arising, and the instigation of that awareness. Those actions being forever ceased without remainder, awareness will then cease. In that way, one truly knows the path to suffering’s cessation. Cultivating it leads to the next thing. This is called a monk heading for the correct ending of suffering and the final limit of suffering, which is to say the cessation of actions.
+10. “Furthermore, monks, when thinking about and examining the correct ending of suffering and the final limit of suffering, think about this: ‘What is the cause, the formation, the arising, and the instigation of those actions?’ Know that ignorance is the cause, the formation, the arising, and the instigation of those actions. Those meritorious actions are conditioned by ignorance, demeritorious actions are conditioned by ignorance, and actions that are not meritorious or demeritorious are also conditioned by ignorance.
+11. “Therefore, you should know that ignorance is the cause, the formation, the arising, and the instigation of those actions. That ignorance being forever ceased without remainder, then actions will cease. In that way, one truly knows the path to suffering’s cessation. Cultivating it leads to the next thing. This is called a monk heading for the correct ending of suffering and the final limit of suffering, which is to say the cessation of ignorance.”
+12. The Buddha asked the monks, “What do you think? If you don’t delight in ignorance and give rise to insight, will you perform any more meritorious actions, demeritorious actions, or actions of nothingness that are conditioned by that ignorance?”
+13. The monks said to the Buddha, “No, Bhagavān. Why is that? The well-versed noble disciple doesn’t delight in ignorance and gives rise to insight. Ignorance ceases, and then actions cease. Actions cease, and then awareness ceases. _And so on up to_ … birth … old age, illness, death, sorrow, lamentation, pain, and trouble cease. In this way, the whole great mass of suffering ceases.”
+14. The Buddha said, “Good! Good, monks! I also say this, and you should know this, too. Regarding a certain thing producing another thing, it gives rise to that other thing. That certain thing being ceased, then [the other thing] ceases, stops, cools, subsides, and disappears. If a well-versed noble disciple parts with desire for ignorance and gives rise to insight, he truly knows that he is experiencing feelings limited to the body when he experiences feelings that are limited to the body. If he experiences feelings limited to his life, then he truly knows that he is experiencing feelings that are limited to his life. When his body breaks up and his life is about to end, all these feelings that he experiences cease completely without remainder.
+15. “It’s like a strong man who takes a recently baked clay pot and puts it on the ground while it’s hot. The moment it breaks, its heat energy completely ceases. In this way, a monk who parts with desire for ignorance and gives rise to insight truly knows his experience of feelings that are limited to his body, and he truly knows his experience of feelings that are limited to his life. When his body breaks up and his life ends, all the feelings he experiences completely cease without remainder.”
+16. After the Buddha spoke this _sūtra_, the monks who heard what the Buddha taught rejoiced and accepted it.
+
+---
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN12.51]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN12.51]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA292]]
+> ◄  [[sa291-patton]] 📜  [[sa293-patton]] ►

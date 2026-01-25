@@ -1,0 +1,35 @@
+---
+sutta_code: "ITI93"
+sutta_title:
+  - "說智 "
+  - "Declaring the Knowledge [of Awakening]"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI93]]
+> ◄  [[iti92-deepseek-pali]] 📜  [[iti94-deepseek-pali]] ►
+
+# Iti 93 Upaparikkhasuttaṃ
+
+5.Close Examination
+94. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –
+94.This was said by the Blessed One, said by the Arahant—so I have heard:
+‘‘Tathā tathā, bhikkhave, bhikkhu upaparikkheyya yathā yathāssa [yathā yathā (bahūsu)] upaparikkhato bahiddhā cassa viññāṇaṃ avikkhittaṃ avisaṭaṃ ajjhattaṃ asaṇṭhitaṃ anupādāya na paritasseyya. Bahiddhā, bhikkhave, viññāṇe avikkhitte avisaṭe sati ajjhattaṃ asaṇṭhite anupādāya aparitassato āyatiṃ jātijarāmaraṇadukkhasamudayasambhavo na hotī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –
+“Monks, a monk should examine in such a way that while he is examining, his consciousness is not scattered and dispersed externally and not established internally, and being free from clinging, he is not agitated. When, monks, a monk’s consciousness is not scattered and dispersed externally and not established internally, and being free from clinging, he is not agitated, for him there is no origin for the future arising of the suffering of birth, aging, and death.” This is the meaning the Blessed One stated. In connection with this, it was said:
+‘‘Sattasaṅgappahīnassa, netticchinnassa bhikkhuno;Vikkhīṇo jātisaṃsāro, natthi tassa punabbhavo’’ti.
+“For the monk who has abandoned the seven attachments, who has cut off the guide, the round of births is exhausted; for him there is no renewed existence.”
+Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ.
+This meaning too was spoken by the Blessed One, so I have heard. The fifth.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI93]]
+> ◄  [[iti92-deepseek-pali]] 📜  [[iti94-deepseek-pali]] ►

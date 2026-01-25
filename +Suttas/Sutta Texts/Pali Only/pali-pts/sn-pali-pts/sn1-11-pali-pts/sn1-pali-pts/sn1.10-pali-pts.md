@@ -1,0 +1,34 @@
+---
+sutta_code: "SN1.10-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.10-PALI]]
+> ◄  [[sn1.9-pali-pts]] 📜  [[sn1.11-pali-pts]] ►
+
+## Saṃyutta Nikāya
+## SN1.10: Pajjoto
+
+PTS: S i 44
+
+Kiṃsu lokasmiṃ pajjoto || kiṃsu lokasmiṃ jāgaro ||
+kiṃsu kamme sajīvānaṃ || kim assa iriyāpatho. || ||
+kiṃsu alasam analasañca || mātā puttaṃ va posati ||
+kiṃsu bhūtā upajīvanti || ye pāṇā pathaviṃ sītāti || ||
+Paññā lokasmiṃ pajjoto || sati lokasmiṃ jāgaro ||
+gāvo kamme sajīvānaṃ || sītassa iriyāpatho ||
+vuṭṭhi alasam analasañca || mātā puttaṃ va posati ||
+vuṭṭhibhūtā upajīvanti || ye pāṇā pathaviṃ sitā ti || ||
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

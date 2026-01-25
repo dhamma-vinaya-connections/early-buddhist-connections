@@ -1,0 +1,40 @@
+---
+sutta_code: "SN8.4-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.4-PALI]]
+> ◄  [[sn8.3-pali-pts]] 📜  [[sn8.5-pali-pts]] ►
+
+## Saṃyutta Nikāya
+## SN8.4: Ānanda
+
+PTS: S i 188
+
+Ekaṃ samayam āyasmā Ānando Sāvatthiyaṃ viharati Jetavane Anāthapiṇḍikassa ārāme || ||
+Atha kho āyasmā Ānando pubbaṇha-samayaṃ nivāsetvā pattacīvaram ādāya Sāvatthiṃ piṇḍāya pāvisi āyasmatā Vaṅgīsena pacchāsamaṇena || ||
+Tena kho pana samayena āyasmato Vaṅgīsassa anabhirati uppannā hoti || rāgo cittam anuddhaṃseti || ||
+Atha kho āyasmā Vaṅgīso āyasmantam Ānandam gāthāya ajjhabhāsi || ||
+Kāmarāgena ḍayhāmi || cittam me pariḍayhati ||
+sādhu nibbāpanaṃ brūhi || anukampāya Gotamā ti || ||
+Saññāya vipariyesā || cittan-te pariḍayhati ||
+nimittam parivajjehi || subhaṃ rāgūpasaṃhitaṃ ||
+Saṅkhāre parato passa || dukkhato mā ca attato ||
+nibbāpehi mahārāgaṃ || mā ḍayhittho punappunaṃ || ||
+asubhāya cittaṃ bhāvehi || ekaggaṃ susamāhitaṃ ||
+sati kāyagatā ty-atthu || nibbidā-bahulo bhava || ||
+animittaṃ ca bhāvehi || mānānusayam ujjaha ||
+tato mānābhisamayā || upasanto carissasī ti || ||
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

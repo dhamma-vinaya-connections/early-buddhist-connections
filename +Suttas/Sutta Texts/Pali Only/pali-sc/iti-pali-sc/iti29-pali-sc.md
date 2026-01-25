@@ -1,0 +1,32 @@
+---
+sutta_code: "ITI29-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI29-PALI]]
+> ◄  [[iti28-pali-sc]] 📜  [[iti30-pali-sc]] ►
+
+# Iti 29. Tapanīyasuttaṃ
+
+Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –
+
+‘‘Dveme, bhikkhave, dhammā tapanīyā. Katame dve? Idha, bhikkhave, ekacco akatakalyāṇo hoti, akatakusalo, akatabhīruttāṇo, katapāpo, kataluddo, katakibbiso. So ‘akataṃ me kalyāṇa’ntipi tappati, ‘kataṃ me pāpa’ntipi tappati. Ime kho, bhikkhave, dve dhammā tapanīyā’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –
+
+‘‘Kāyaduccaritaṃ katvā, vacīduccaritāni ca;Manoduccaritaṃ katvā, yañcaññaṃ dosasañhitaṃ.
+
+‘‘Akatvā kusalaṃ kammaṃ, katvānākusalaṃ bahuṃ;Kāyassa bhedā duppañño, nirayaṃ sopapajjatī’’ti [nirayaṃ so upapajjatīti (sī. syā. kaṃ. pī.)].
+
+Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

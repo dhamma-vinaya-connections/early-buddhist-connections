@@ -1,0 +1,28 @@
+---
+sutta_code: "AN3.80-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.80-PALI]]
+> ◄  [[an3.79-pali-pts]] 📜  [[an3.81-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN3.80: Cūḷanikā
+
+PTS: A i 226
+
+Katamaṃ pana taṃ bhante gandhajātaṃ yassa anuvātam pi gandho gacchati paṭivātam pi gandho gacchati anuvātapaṭivātam pi gandho gacchatī ti?
+Idh'; Ānanda yasmiṃ gāme vā nigame vā itthī vā puriso vā buddhaṃ saraṇaṃ gato hoti, dhammaṃ saraṇaṃ gato hoti, saṅghaṃ saraṇaṃ gato hoti, pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesu micchācārā paṭivirato hoti, musāvādā paṭivirato hoti, surāmerayamajjapamādaṭṭhānā paṭivirato hoti, sīlavā hoti kalyāṇadhammo, vigatamalamaccherena cetasā agāraṃ ajjhāvasati, muttacāgo payatapāṇī vossaggarato yācayogo dānasaṃvibhāgarato. Tassa disāsu samaṇabrāhmaṇā vaṇṇaṃ bhāsanti:-- asukasmiṃ nāma gāme vā nigame vā itthī vā puriso vā buddhaṃ saraṇaṃ gato dhammaṃ saraṇaṃ gato saṅghaṃ saraṇaṃ gato pāṇātipātā paṭivirato adinnādānā paṭivirato kāmesu micchācārā paṭivirato musāvādā paṭivirato surāmerayamajjapamādaṭṭhānā paṭivirato sīlavā kalyāṇadhammo vigatamalamaccherena cetasā agāraṃ ajjhāvasati muttacāgo payatapāṇī vossaggarato yācayogo dānasaṃvibhāgarato ti. Devatā pi'; ssa amanussā vaṇṇaṃ bhāsanti:-- asukasmiṃ nāma gāme vā nigame vā itthī vā puriso vā buddhaṃ saraṇaṃ gato hoti . . . pe . . . dānasaṃvibhāgarato ti. Idaṃ kho taṃ Ānanda gandhajātaṃ yassa anuvātaṃ pi gandho gacchati paṭivātam pi gandho gacchati anuvātapaṭivātam pi gandho gacchatī ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

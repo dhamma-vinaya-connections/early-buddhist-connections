@@ -1,0 +1,89 @@
+---
+vin_code: "BU-PJ1"
+vin_pts: "Vin.3.1–3.40"
+vin_type:
+  - "Parajika "
+  - "Expulsion"
+vin_title:
+  - "Methunadhamma"
+  - "Sexual Intercourse"
+vin_chapter:
+  - ""
+  - ""
+vin_theme:
+  - "#rule_theme/celibacy"
+vin_topic:
+  - "#rule_topic/sex"
+vin_critics:
+  - "#critics/bhikkhus"
+vin_purpose:
+  - "#purpose/self-restraint"
+vin_severity:
+  - "#severity/full-grave-offense-wrong-doing"
+vin_sangha_acts:
+  - ""
+vin_gender: "Monks"
+vin_gender-corr: "BNI-PJ1"
+---
+> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄   🌐 [[BU-PJ2]] ►
+
+# Monks - Parajika - Expulsion
+##  - 
+## BU-PJ1 - Methunadhamma - Sexual Intercourse
+
+### 🌐Overview
+
+| Rule in Pali  | Rule in English  |
+| :-----------: | :--------------: |
+| Yo pana bhikkhu bhikkhūnaṃ sikkhāsājīvasamāpanno sikkhaṃ appaccakkhāya dubbalyaṃ anāvikatvā methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatāyapi, pārājiko hoti asaṃvāso | Whatever bhikkhu while undertaking the rules of training of bhikkhus, who has not announced his inability and has not given up the training, should engage in sexual intercourse even with an animal then that bhikkhu is one who has committed a parajika offence, and one who is no longer permitted to remain in the bhikkhu sangha |
+
+
+> [!Info] Analisis of the rule
+> 
+> >[!info]- Offence Factors 
+> > 
+> > > From BMC1
+> > 
+> > 1. Effort - one sexual organ enters the other, even to the extent of a sesame seed. 2. Objects - human, as well as non-human (deva, yakkha or peta) and animal. 3. Knowledge - knowledge that the act is occuring (i.e. not asleep). 4. Consent - must be given mentally at least
+> 
+> > [!info]- No Offence 
+> > > From Vibhanga
+> > 
+> > For one who does not know, for one who does not consent, for one who is insane, for one who is deranged, for one who is overwhelmed by pain, for the first offender
+> 
+> > [!info]- Useful Notes
+> > > From various authors
+> > 
+> > A bhikkhu engaging in genital, oral, or anal intercourse is subject to this rule regardless if there is a covering, such as a condom, which role he plays, of whether he is actively or passively involved, and whether any of the parties involved reaches orgasm. intercourse as part of a tantric ritual incurs the full penalty, as well as If one puts up no struggle when assaulted and feels mental consent, even if only fleetingly during the act
+> 
+> 
+---
+## 🌿 Rule Connections
+
+> [!done] Click for **[Available texts and translations ](obsidian://search?query=file:bu-pj1-)**
+>| Vibhanga | BMC    | Ven Ñanatusita                 |
+>| --------------------- | -------- | -------------------------- |
+>| [[bu-pj1-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PJ1]] |
+>| [[bu-pj1-deepseek-pali]]      |          | [[ñanatusita-analysis#^PJ1]]    |
+
+> [!done]-  Monk - Nuns Rule Correlation and PTS reference
+> 
+> | Monks      | Nuns            | PTS ref |
+> | ---------- | --------------- | ------- |
+> | BU-PJ1 | [[BNI-PJ1]] | Vin.3.1–3.40 |
+
+>[!example]- Relevant texts
+>  - [[BU-SS1]], [[BU-SS4]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PJ1%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a *link to this sutta* **and** have *the property [contribution]*
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBU-PJ1%5D%5D%22%23mynotes%20-file%3Abu-pj1-%20-file%3A%22BU-PJ1%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
+
+> [!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-pj?view=normal
+
+> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄   🌐 [[BU-PJ2]] ►

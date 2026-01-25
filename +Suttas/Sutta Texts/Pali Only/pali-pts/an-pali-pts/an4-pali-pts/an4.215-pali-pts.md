@@ -1,0 +1,25 @@
+---
+sutta_code: "AN4.215-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.215-PALI]]
+> ◄  [[an4.214-pali-pts]] 📜  [[an4.216-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN4.215: Parisā
+
+PTS: A ii 226
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

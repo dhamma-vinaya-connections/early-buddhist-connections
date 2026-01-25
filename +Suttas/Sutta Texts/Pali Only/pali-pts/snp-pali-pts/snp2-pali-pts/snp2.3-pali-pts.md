@@ -1,0 +1,40 @@
+---
+sutta_code: "SNP2.3-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.3-PALI]]
+> ◄  [[snp2.2-pali-pts]] 📜  [[snp2.4-pali-pts]] ►
+
+# SNP2.3 Hirisutta
+
+253. Hirin tarantaṃ vijigucchamānaṃ
+"sakhāham asmi" iti bhāsamānaṃ
+sayhāni kammāni anādiyantaṃ
+‘n'; eso manan'; ti iti naṃ vijaññā. || Sn_II,3.1 ||
+254. Ananvayaṃ piyaṃ vācaṃ yo mittesu pakubbati,
+akarontaṃ bhāsamānaṃ parijānanti paṇḍitā. || Sn_II,3.2 ||
+
+[page 046]
+255. Na so mitto yo sadā appamatto
+bhedāsaṃkī randham evānupassī,
+yasmiṃ ca seti urasīva putto,
+sa ve mitto yo parehi abhejjo. || Sn_II,3.3 ||
+256. Pāmujjakaraṇaṃ ṭhānaṃ pasaṃsāvahanaṃ sukhaṃ
+phalānisaṃso bhāveti vahanto porisaṃ dhuraṃ. || Sn_II,3.4 ||
+257. Pavivekarasam pītvā rasaṃ upasamassa ca
+niddaro hoti nippāpo dhammapitirasaṃ pivan ti || Sn_II,3.5 ||
+HIRISUTTAṂ NIṬṬHITAṂ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

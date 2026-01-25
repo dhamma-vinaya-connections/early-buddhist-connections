@@ -1,0 +1,58 @@
+---
+sutta_code: "AN6.52-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.52-PALI]]
+> ◄  [[an6.51-pali-sc]] 📜  [[an6.53-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 6: The Book of the Sixes
+### AN 6.52: Khattiyasutta — Aristocrats
+
+1Atha kho jāṇussoṇi brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho jāṇussoṇi brāhmaṇo bhagavantaṁ etadavoca: 
+
+
+2"Khattiyā, bho gotama, kiṁadhippāyā, kiṁupavicārā, kiṁadhiṭṭhānā, kiṁabhinivesā, kiṁpariyosānā"ti?
+
+"Khattiyā kho, brāhmaṇa, bhogādhippāyā paññūpavicārā balādhiṭṭhānā pathavībhinivesā issariyapariyosānā"ti. (1)
+
+3"Brāhmaṇā pana, bho gotama, kiṁadhippāyā, kiṁupavicārā, kiṁadhiṭṭhānā, kiṁabhinivesā, kiṁpariyosānā"ti?
+
+"Brāhmaṇā kho, brāhmaṇa, bhogādhippāyā paññūpavicārā mantādhiṭṭhānā yaññābhinivesā brahmalokapariyosānā"ti. (2)
+
+4"Gahapatikā pana, bho gotama, kiṁadhippāyā, kiṁupavicārā, kiṁadhiṭṭhānā, kiṁabhinivesā, kiṁpariyosānā"ti?
+
+"Gahapatikā kho, brāhmaṇa, bhogādhippāyā paññūpavicārā sippādhiṭṭhānā kammantābhinivesā niṭṭhitakammantapariyosānā"ti. (3)
+
+5"Itthī pana, bho gotama, kiṁadhippāyā, kiṁupavicārā, kiṁadhiṭṭhānā, kiṁabhinivesā, kiṁpariyosānā"ti?
+
+"Itthī kho, brāhmaṇa, purisādhippāyā alaṅkārūpavicārā puttādhiṭṭhānā asapattībhinivesā issariyapariyosānā"ti. (4)
+
+6"Corā pana, bho gotama, kiṁadhippāyā, kiṁupavicārā, kiṁadhiṭṭhānā, kiṁabhinivesā, kiṁpariyosānā"ti?
+
+"Corā kho, brāhmaṇa, ādānādhippāyā gahanūpavicārā satthādhiṭṭhānā andhakārābhinivesā adassanapariyosānā"ti. (5)
+
+7"Samaṇā pana, bho gotama, kiṁadhippāyā, kiṁupavicārā, kiṁadhiṭṭhānā, kiṁabhinivesā, kiṁpariyosānā"ti?
+
+"Samaṇā kho, brāhmaṇa, khantisoraccādhippāyā paññūpavicārā sīlādhiṭṭhānā ākiñcaññābhinivesā nibbānapariyosānā"ti. (6)
+
+
+8"Acchariyaṁ, bho gotama, abbhutaṁ, bho gotama. Khattiyānampi bhavaṁ gotamo jānāti adhippāyañca upavicārañca adhiṭṭhānañca abhinivesañca pariyosānañca. Brāhmaṇānampi bhavaṁ gotamo jānāti … pe … gahapatīnampi bhavaṁ gotamo jānāti … itthīnampi bhavaṁ gotamo jānāti … corānampi bhavaṁ gotamo jānāti … samaṇānampi bhavaṁ gotamo jānāti adhippāyañca upavicārañca adhiṭṭhānañca abhinivesañca pariyosānañca.
+
+Abhikkantaṁ, bho gotama … pe … upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan"ti.
+
+Dasamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

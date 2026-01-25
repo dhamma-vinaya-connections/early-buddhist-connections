@@ -1,0 +1,28 @@
+---
+sutta_code: "AN3.94-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.94-PALI]]
+> ◄  [[an3.93-pali-pts]] 📜  [[an3.95-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN3.94: Sarada
+
+PTS: A i 242
+
+Seyyathāpi bhikkhave saradasamaye viddhe vigatavalāhake deve ādicco nabhaṃ abbhussukkamāno sabbaṃ ākāsagataṃ tamaṃ abhivihacca bhāsate ca tapate ca virocati ca, evam eva kho bhikkhave yato ariyasāvakassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi sahadassanuppādā bhikkhave ariyasāvakassa tīṇi saṃyojanāni pahīyanti sakkāyadiṭṭhi vicikicchā sīlabbata-parāmāso, athāparaṃ dvīhi dhammehi niyyāti abhijjhāya ca vyāpādena ca. So vivicc'; eva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamajjhānaṃ upasampajja viharati.
+Tasmiṃ bhikkhave samaye ariyasāvako kālaṃ kareyya n'; atthi taṃ saṃyojanaṃ yena saṃyojanena saṃyutto ariyasāvako puna imaṃ lokaṃ āgaccheyyā ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

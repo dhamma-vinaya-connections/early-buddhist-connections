@@ -1,0 +1,96 @@
+---
+sutta_code: "EA8.2"
+sutta_pts: ""
+sutta_title:
+  - "EA 8.2 "
+  - "Beneficial"
+nikaya:
+  - "EA "
+  - "Ekottara Āgama"
+sutta_chapter:
+  - "EA8"
+  - "T125"
+  - "EA8"
+  - ""
+sutta_theme:
+  - "Buddha"
+sutta_topic:
+  - "Buddhas qualities"
+sutta_training:
+  - "Paññā"
+sutta_stage:
+  - "Beginning"
+sutta_method:
+  - "Lecture"
+sutta_aspect:
+  - "Inspiration"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: ""
+parallels_nikaya:
+  - "[[AN1.170]]"
+parallels_agama:
+  - "[[EA8.2]]"
+parallels_partilal:
+  - "[[EA8.2]]"
+  - "[[AN1.170]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.1]]  🌐 [[EA8.3]] ►
+
+# EA8.2 - EA 8.2 - Beneficial
+## 🌐 Overview
+
+> [!info] Summary
+> The realized one, the perfected one, the fully awakened Buddha . This Is the one person with all these qualities
+
+> [!info] Key Excerpts 
+> Arises in the world for the welfare and happiness, whose appearance is rare, is an incredible human being, whose death is regretted by many people,  unique, without peer or counterpart, incomparable, matchless, unrivaled, unequaled, without equal, the best of bipeds
+> 
+> Whose appearance brings the appearance of a great eye, a great light, a great radiance, and the six unsurpassable things; the realization of the four kinds of textual analysis; the penetration of many and diverse elements; the realization of the fruit of knowledge and release; the realization of the fruits of stream-entry, once-return, non-return and Arahant ,
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN1.170]] | [[EA8.2]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[EA8.2]], [[AN1.170]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BEA8.2%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BEA8.2%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BEA8.2%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BEA8.2%5D%5D%22%23mynotes%20-file%3Aea8.2-%20-file%3A%22EA8.1%22%20-file%3A%22EA8.3%22%20-file%3A%22EA8.2%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/ea8.2/en/patton?lang=en&layout=plain&script=latin
+> - Dhamma Gift: 
+> - The Buddhas Words: 
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.1]]  🌐 [[EA8.3]] ►

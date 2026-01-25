@@ -1,0 +1,48 @@
+---
+sutta_code: "AN6.83"
+sutta_title:
+  - "Aggadhamma "
+  - "Best Thing"
+sutta-version: "Ven. Thanissaro"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.83]]
+> ◄  [[an6.78-thanissaro]] 📜  [[an6.86-thanissaro]] ►
+
+## AN6.83 The Foremost State
+
+## ## Aggadhamma Sutta
+
+
+“Monks, endowed with six qualities, a monk is incapable of attaining arahantship, the foremost state. Which six?
+
+“There is the case where a monk is without conviction, is shameless, is without compunction, is lazy, is undiscerning, and is concerned with his body & life.
+
+“Endowed with these six qualities, a monk is incapable of attaining arahantship, the foremost state.
+
+“Monks, endowed with six qualities, a monk is capable of attaining arahantship, the foremost state. Which six?
+
+“There is the case where a monk has conviction, has a sense of shame, has compunction, has his persistence aroused, is discerning, and is unconcerned with his body & life.
+
+“Endowed with these six qualities, a monk is capable of attaining arahantship, the foremost state.”
+
+See also: []; []; []; []
+
+> **Edition Notice**  
+Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 433 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.83]]
+> ◄  [[an6.78-thanissaro]] 📜  [[an6.86-thanissaro]] ►

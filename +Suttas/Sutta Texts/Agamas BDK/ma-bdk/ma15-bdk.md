@@ -1,0 +1,52 @@
+---
+sutta_code: "MA15"
+sutta_title:
+  - "思 "
+  - "Intention"
+sutta-version: "BDK"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA15]]
+> ◄  [[ma14-bdk]] 📜  [[ma16-bdk]] ►
+
+### 15. The Discourse on Intention
+
+Thus have I heard: At one time, the Buddha was staying at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s Park.
+
+At that time, the World-honored One told the monks:
+
+If a person does an action intentionally, then he will have to experience its result, either in this life or in the next life, I say. If a person does an action unintentionally, then he will not have to experience the result, I say. In this connection, there are three intentionally done bodily actions that are unwholesome, have suffering as their fruit, and result in the experience of suffering. There are four [intentionally done] verbal actions and three [intentionally done] mental actions that are unwholesome, have suffering as their fruit, and result in the experience of suffering. What are the three intentionally done bodily actions that are unwholesome, have suffering as their fruit, and result in the experience of suffering? The first is killing living beings: someone is extremely evil and bloodthirsty, has the desire to harm, and has no compassion toward [any kind of] living being, including insects. The second is taking what is not given: someone has attachment to another’s property and, with thieving intent, takes it. The third is sexual misconduct: someone has sexual relations with a woman who is under the protection of her father, or under the protection of her mother, or under the protection of both father and mother, or under the protection of her sisters, or under the protection of her brothers, or under the protection of her parents-in-law, or under the protection of her relatives, or under the protection of her clan; or with a woman who is married to another man, [in spite of] the fear of being punished, or with [a woman] who has been garlanded as a sign of betrothal. These are the three intentionally done bodily actions that are unwholesome, have suffering as their fruit, and result in the experience of suffering. What are the four intentionally done verbal actions that are unwholesome, have suffering as their fruit, and result in the expe rience of suffering? The first is false speech: someone, perhaps in an assembly, or among one’s retainers, or in the king’s palace, on being told “Say what you know!”, claims to know what he does not know, or claims not to know what he does know; claims to have seen what he has not seen,
+
+or claims not to have seen what he did see; be it for his own sake, or for the sake of others, or for the sake of profit, he knowingly speaks falsehood. The second is divisive speech: someone wishes to divide others; hearing something from this person he tells it to that person, in order to harm this person; hearing something from that person he tells it to this person, in order to harm that person. He desires to divide those who are united, and to further split those who are already divided; he creates factions, delights in factions, and praises factions. The third is harsh speech: someone utters speech that is rough and rude in tone, offensive words that grate on the ear, that people neither enjoy nor desire; he utters such speech as causes others suffering and vexation, that is not conductive to concentration. The fourth is frivolous speech: someone makes talk that is untimely, untrue talk, meaningless talk, talk that is contrary to the Dharma, that is not calming; furthermore he praises what is not conductive to calming, and teaches and admonishes others in an untimely and unwholesome way. These are the four intentionally done verbal actions that are unwholesome, have suffering as their fruit, and result in the experience of suffering. What are the three intentionally done mental actions that are unwholesome, have suffering as their fruit, and result in the experience of suffering? The first is covetousness: someone views another’s wealth and lifestyle, constantly longing for them and wishing: “If only I could get that!” The second is ill will: someone’s mind is filled with ill will and he thinks: “Those beings should be killed, bound, arrested, removed, or banished.” His wish is for them to experience immeasurable suffering. The third is wrong view: someone holds distorted views. Views such as these, tenets such as these: There is no offering, no sacrifice, there are no incantations; no wholesome or unwholesome actions, no results of wholesome or unwholesome actions; there is neither this world nor another world,
+
+there are no father and mother; there are no True Persons in the world who are headed for a supreme attainment, who are well gone and well directed, who have known and realized for themselves this world and the other world, and who dwell having personally realized. These are the three intentionally done mental actions that are unwholesome, have suffering as their fruit, and result in the experience of suffering. A learned noble disciple abandons unwholesome bodily actions and practices wholesome bodily actions; he abandons unwholesome verbal and mental actions and practices wholesome verbal and mental actions. That learned noble disciple, endowed with diligence and virtue in this way, achieves pure bodily actions, pure verbal actions, and pure mental actions. He abandons ill will and quarrel, discards sloth and torpor, is without restlessness and conceit, he cuts off doubt; he tran- scends arrogance, has right mindfulness and right attentiveness, and is without confusion. With a mind imbued with loving-kindness, he dwells pervading one direction, likewise the second, the third, and the fourth direction, and also the four intermediate directions, above, and below, all around, everywhere. With a mind imbued with loving-kindness, free from fetters or resentment, without ill will or quarrel, he dwells pervading the entire world [with a mind] that is boundless, exalted, immeasurable and well cultivated. He thinks: “Formerly my mind was narrow and not well cul- tivated; now my mind is immeasurable and well cultivated.” If the learned noble disciple, whose mind is [now] thus immeas- urable and well cultivated, had earlier neglected his practice because of bad friends and done unwholesome actions, then he will no longer be led along by them. They cannot corrupt him and will not accompany him further. Suppose there were a young boy or a young girl who, since birth, had been able to practice liberation of the mind through loving-kindness. Would he or she later perform unwholesome bodily, verbal, or mental actions? The monks replied: “No, World-honored One. And why not? Since he or she has never done an evil deed, how could evil deeds arise?”
+
+[The Buddha continued:] Therefore, a man or woman, whether layperson or renunciant, should always diligently practice liberation of the mind through loving-kind ness. If that man or woman, whether layperson or renunciant, practices liberation of the mind through loving-kindness, [since] when going toward the other world [he or she] will not take this body along, [he or she] will proceed [just] in accordance with [the developed quality of his or her] mind. Monks, you should think like this: “Formerly, I was negligent, and did unwholesome deeds. Let all their results be experienced now, not in the next life!” One who practices liberation of the mind through loving-kindness in this way, immeasurable and well cultivated, will definitely attain the fruit of non-returning, or else attain that which is still higher. [It is the same] with compassion, with empathic joy, and with equanimity. Free from fetters or resentment, without ill will or quarrel, he dwells pervading the entire world [with a mind] boundless, exalted, immeasurable and well cultivated. He thinks: “Formerly, my mind was narrow and not well cultivated; now my mind is immeasurable and well cultivated.” If the learned noble disciple, whose mind is [now] thus immeas urable and well cultivated, had earlier neglected his practice because of bad friends and done unwholesome actions, then he will no longer be led along by them. They cannot corrupt him and will not accompany him further. Suppose there were a young boy or a young girl who, since birth, had been able to practice liberation of the mind through equanimity. Would he or she later perform unwholesome bodily, verbal, or mental actions? The monks replied: “No, World-honored One. And why not? Since he or she has never done an evil deed, how could evil deeds arise?” [The Buddha continued:] Therefore, a man or woman, whether layperson or renunciant, should always diligently practice liberation of the mind through equanimity.
+
+If that man or woman, whether layperson or renunciant, practices lib- eration of the mind through equanimity, [since] when going toward the other world [he or she] will not take this body along, [he or she] will proceed [just] in accordance with [the developed quality of their] mind. Monks, you should think like this: “Formerly, I was negligent and did unwholesome deeds. Let all their results be experienced now, not in the next life!” One who practices liberation of the mind through equanimity in this way, immeasurable and well cultivated, will defi- nitely attain the fruit of non-returning, or else attain that which is still higher. This is what the Buddha said. Having heard the Buddha’s words, the monks were delighted and remembered them well.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN10.217-219]] | [[EA48.1]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[EA24.10]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.100]], [[MA11]]
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA15]]
+> ◄  [[ma14-bdk]] 📜  [[ma16-bdk]] ►

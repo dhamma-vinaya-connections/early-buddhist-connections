@@ -1,0 +1,98 @@
+---
+sutta_code: "AN3.61"
+sutta_pts: "A i 173"
+sutta_title:
+  - "Titthāyatana "
+  - "Sectarian Tenets"
+nikaya:
+  - "AN "
+  - "Aṅguttara Nikāya"
+sutta_chapter:
+  - "AN3"
+  - "Mahvagga"
+  - "Great"
+  - ""
+sutta_theme:
+  - "Views"
+sutta_topic:
+  - "Doctrines types"
+sutta_training:
+  - "Paññā"
+sutta_stage:
+  - "Final"
+sutta_method:
+  - "Mixed"
+sutta_aspect:
+  - "Doctrinal"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Detail"
+sutta_formula:
+  - "Noble Eightfold Path"
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: ""
+parallels_nikaya:
+  - ""
+parallels_agama:
+  - "[[MA13]]"
+parallels_partilal:
+  - "[[MA13]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.60]]  🌐 [[AN3.62]] ►
+
+# AN3.61 - Titthāyatana - Sectarian Tenets
+## 🌐 Overview
+
+> [!info] Summary
+> The Buddha  explains how three common views about pain and pleasure can, if followed to their logical conclusion, lead to a life of inaction. He then shows how pain and pleasure actually do come about and how they can be transcended.
+
+> [!info] Key Excerpts 
+> The beliefs that everything is caused by past karma, by a creator god, or by chance all lead to inaction. The Buddha  teaches dependent origination
+> 
+> The Dhamma that I’ve taught is irrefutable, uncorruptedr: 6 elements, 6 bases of contact, 18 mental preoccupations and 4 noble truths
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA13]] | A i 173 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA13]] |
+| ------------------------ |
+
+>[!example]- Suggestions by Ven. Thanissaro
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN101]], [[MA19]]
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN3.61%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN3.61%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BAN3.61%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.61%5D%5D%22%23mynotes%20-file%3Aan3.61-%20-file%3A%22AN3.60%22%20-file%3A%22AN3.62%22%20-file%3A%22AN3.61%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/an3.61/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=an3.61
+> - The Buddhas Words: https://thebuddhaswords.net/an/an3.61.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.60]]  🌐 [[AN3.62]] ►

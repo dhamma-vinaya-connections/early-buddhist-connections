@@ -1,0 +1,58 @@
+---
+sutta_code: "SN5.5-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.5-PALI]]
+> ◄  [[sn5.4-pali-sc]] 📜  [[sn5.6-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+## 5. Bhikkhunīsaṁyutta: With Nuns
+### I. Nuns — SN5.5: With Uppalavaṇṇā
+
+1Sāvatthinidānaṁ.
+
+Atha kho uppalavaṇṇā bhikkhunī pubbaṇhasamayaṁ nivāsetvā … pe … aññatarasmiṁ supupphitasālarukkhamūle aṭṭhāsi.
+
+Atha kho māro pāpimā uppalavaṇṇāya bhikkhuniyā bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo samādhimhā cāvetukāmo yena uppalavaṇṇā bhikkhunī tenupasaṅkami; upasaṅkamitvā uppalavaṇṇaṁ bhikkhuniṁ gāthāya ajjhabhāsi: 
+
+2"Supupphitaggaṁ upāgamma bhikkhuni,  
+Ekā tuvaṁ tiṭṭhasi sālamūle;  
+Na catthi te dutiyā vaṇṇadhātu,  
+Bāle na tvaṁ bhāyasi dhuttakānan"ti.
+
+3Atha kho uppalavaṇṇāya bhikkhuniyā etadahosi: "ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī"ti?
+
+Atha kho uppalavaṇṇāya bhikkhuniyā etadahosi: "māro kho ayaṁ pāpimā mama bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo samādhimhā cāvetukāmo gāthaṁ bhāsatī"ti.
+
+Atha kho uppalavaṇṇā bhikkhunī "māro ayaṁ pāpimā" iti viditvā māraṁ pāpimantaṁ gāthāhi paccabhāsi: 
+
+4"Sataṁ sahassānipi dhuttakānaṁ,  
+Idhāgatā tādisakā bhaveyyuṁ;  
+Lomaṁ na iñjāmi na santasāmi,  
+Na māra bhāyāmi tamekikāpi.
+
+5Esā antaradhāyāmi,  
+kucchiṁ vā pavisāmi te;  
+Pakhumantarikāyampi,  
+tiṭṭhantiṁ maṁ na dakkhasi.
+
+6Cittasmiṁ vasībhūtāmhi,  
+iddhipādā subhāvitā;  
+Sabbabandhanamuttāmhi,  
+na taṁ bhāyāmi āvuso"ti.
+
+7Atha kho māro pāpimā "jānāti maṁ uppalavaṇṇā bhikkhunī"ti dukkhī dummano tatthevantaradhāyīti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

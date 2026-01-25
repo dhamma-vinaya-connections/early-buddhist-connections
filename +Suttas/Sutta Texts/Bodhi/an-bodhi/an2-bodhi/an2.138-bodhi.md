@@ -1,0 +1,32 @@
+---
+sutta_code: "AN2.138"
+sutta_title:
+  - "Āyācana "
+  - "Aspiration"
+sutta-version: "Ven. Bodhi"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.138]]
+> ◄  [[an2.137-bodhi]] 📜  [[an2.139-bodhi]] ►
+
+# AN2.138
+
+> **Division:** XII. ASPIRING
+
+“Bhikkhus, there are these two things. What two? Cleansing one’s own mind and one does not cling to anything in the world. These are the two things.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 91 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.138]]
+> ◄  [[an2.137-bodhi]] 📜  [[an2.139-bodhi]] ►

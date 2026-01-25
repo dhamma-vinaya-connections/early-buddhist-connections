@@ -1,0 +1,47 @@
+---
+sutta_code: "AN6.23-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.23-PALI]]
+> ◄  [[an6.22-pali-sc]] 📜  [[an6.24-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 6: The Book of the Sixes
+### AN 6.23: Bhayasutta — Dangers
+
+1"‘Bhayan’ti, bhikkhave, kāmānametaṁ adhivacanaṁ; ‘dukkhan’ti, bhikkhave, kāmānametaṁ adhivacanaṁ; ‘rogo’ti, bhikkhave, kāmānametaṁ adhivacanaṁ; ‘gaṇḍo’ti, bhikkhave, kāmānametaṁ adhivacanaṁ; ‘saṅgo’ti, bhikkhave, kāmānametaṁ adhivacanaṁ; ‘paṅko’ti, bhikkhave, kāmānametaṁ adhivacanaṁ.
+
+
+2Kasmā ca, bhikkhave, ‘bhayan’ti kāmānametaṁ adhivacanaṁ? Kāmarāgarattāyaṁ, bhikkhave, chandarāgavinibaddho diṭṭhadhammikāpi bhayā na parimuccati, samparāyikāpi bhayā na parimuccati, tasmā ‘bhayan’ti kāmānametaṁ adhivacanaṁ.
+
+Kasmā ca, bhikkhave, dukkhanti … pe … rogoti … gaṇḍoti … saṅgoti … paṅkoti kāmānametaṁ adhivacanaṁ? Kāmarāgarattāyaṁ, bhikkhave, chandarāgavinibaddho diṭṭhadhammikāpipaṅkā na parimuccati, samparāyikāpipaṅkā na parimuccati, tasmā ‘paṅko’ti kāmānametaṁ adhivacananti.
+
+
+3Bhayaṁ dukkhaṁ rogo gaṇḍo,  
+saṅgo paṅko ca ubhayaṁ;  
+Ete kāmā pavuccanti,  
+
+4Upādāne bhayaṁ disvā,  
+jātimaraṇasambhave;  
+Anupādā vimuccanti,  
+jātimaraṇasaṅkhaye.
+
+5Te khemappattā sukhino,  
+diṭṭhadhammābhinibbutā;  
+Sabbaverabhayātītā,  
+
+Tatiyaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

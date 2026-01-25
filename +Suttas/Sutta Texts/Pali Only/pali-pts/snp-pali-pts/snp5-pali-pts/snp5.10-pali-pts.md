@@ -1,0 +1,41 @@
+---
+sutta_code: "SNP5.10-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.10-PALI]]
+> ◄  [[snp5.9-pali-pts]] 📜  [[snp5.11-pali-pts]] ►
+
+# SNP5.10 Todeyyamāṇavapucchā (9)
+
+1088. "Yasmiṃ kāmā na vasanti,
+icc-āyasmā Todeyyo
+taṇhā yassa na vijjati,
+kathaṃkathā ca yo tiṇṇo, vinokho tassa kīdiso". || Sn_V,10.1 ||
+
+[page 211]
+1089. "Yasmiṃ kāmā na vasanti, Todeyyā ti Bhagavā
+taṇhā yassa na vijjati,
+kathaṃkathā ca yo tiṇṇo, vimokho tassa naparo". || Sn_V,10.2 ||
+1090. "Nirāsayo so uda āsasāno,
+paññāṇavā so uda paññakappī:
+muniṃ ahaṃ Sakka yathā vijaññaṃ,
+tam me viyācikkha samantacakkhu". || Sn_V,10.3 ||
+1091. "Nirāsayo so na so āsasāno,
+paññāṇavā so na ca paññakappī:
+evam pi Todeyya muniṃ vijāna
+akiñcanaṃ kāmabhave asattan" ti || Sn_V,10.4 ||
+TODEYYAMĀṆAVAPUCCHĀ NIṬṬHITĀ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

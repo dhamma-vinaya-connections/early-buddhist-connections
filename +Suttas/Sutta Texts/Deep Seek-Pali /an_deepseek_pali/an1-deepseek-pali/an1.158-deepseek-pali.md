@@ -1,0 +1,26 @@
+---
+sutta_code: "AN1.158"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.158]]
+> ◄  [[an1.157-deepseek-pali]] 📜  [[an1.159-deepseek-pali]] ►
+
+# AN 1.158
+
+237. … Iddhimantīnaṃ yadidaṃ uppalavaṇṇā.
+
+237.Among those who possess psychic power, Uppalavaṇṇā is foremost.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

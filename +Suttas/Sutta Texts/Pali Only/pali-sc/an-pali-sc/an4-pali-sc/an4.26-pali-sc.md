@@ -1,0 +1,36 @@
+---
+sutta_code: "AN4.26-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.26-PALI]]
+> ◄  [[an4.25-pali-sc]] 📜  [[an4.27-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 4: The Book of the Fours
+### AN 4.26: Kuhasutta — Deceivers
+
+1"Ye te, bhikkhave, bhikkhū kuhā thaddhā lapā siṅgī unnaḷā asamāhitā, na me te, bhikkhave, bhikkhū māmakā. Apagatā ca te, bhikkhave, bhikkhū imasmā dhammavinayā, na ca te imasmiṁ dhammavinaye vuddhiṁ viruḷhiṁ vepullaṁ āpajjanti.
+
+Ye ca kho te, bhikkhave, bhikkhū nikkuhā nillapā dhīrā atthaddhā susamāhitā, te kho me, bhikkhave, bhikkhū māmakā. Anapagatā ca te, bhikkhave, bhikkhū imasmā dhammavinayā. Te ca imasmiṁ dhammavinaye vuddhiṁ viruḷhiṁ vepullaṁ āpajjantīti.
+
+2Kuhā thaddhā lapā siṅgī,  
+unnaḷā asamāhitā;  
+
+3Nikkuhā nillapā dhīrā,  
+atthaddhā susamāhitā;  
+
+Chaṭṭhaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

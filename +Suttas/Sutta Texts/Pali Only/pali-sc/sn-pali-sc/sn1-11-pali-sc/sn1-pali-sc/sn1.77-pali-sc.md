@@ -1,0 +1,68 @@
+---
+sutta_code: "SN1.77-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.77-PALI]]
+> ◄  [[sn1.76-pali-sc]] 📜  [[sn1.78-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+
+## 1. On Deities
+
+### VIII. Incinerated — SN1.77: Authority
+#### B. Sujato
+
+
+1“What is authority in the world?  
+What’s the best of valuables?  
+What in the world is a rusty sword?  
+Who is a plague on the world?
+
+2Who gets arrested when they take things away?  
+And who is loved when they take things away?  
+And who is approved by the astute  
+when they come again and again?”
+
+3“Power is authority in the world.  
+A woman is the best of valuables.  
+Anger in the world is a rusty sword.  
+A bandit is a plague on the world.
+
+4A bandit gets arrested when they take things away.  
+And an ascetic is loved when they take things away.  
+An ascetic is approved by the astute  
+when they come again and again.”
+
+1"Kiṁsu issariyaṁ loke,  
+kiṁsu bhaṇḍānamuttamaṁ;  
+Kiṁsu satthamalaṁ loke,  
+kiṁsu lokasmimabbudaṁ.
+
+2Kiṁsu harantaṁ vārenti,  
+haranto pana ko piyo;  
+Kiṁsu punappunāyantaṁ,  
+abhinandanti paṇḍitā"ti.
+
+3"Vaso issariyaṁ loke,  
+itthī bhaṇḍānamuttamaṁ;  
+Kodho satthamalaṁ loke,  
+corā lokasmimabbudā.
+
+4Coraṁ harantaṁ vārenti,  
+haranto samaṇo piyo;  
+Samaṇaṁ punappunāyantaṁ,  
+abhinandanti paṇḍitā"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

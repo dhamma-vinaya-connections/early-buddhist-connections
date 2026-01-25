@@ -1,0 +1,34 @@
+---
+sutta_code: "AN2.39-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.39-PALI]]
+> ◄  [[an2.38-pali-sc]] 📜  [[an2.40-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 2: The Book of the Twos
+### 39
+
+1"Yasmiṁ, bhikkhave, samaye corā balavanto honti, rājāno tasmiṁ samaye dubbalā honti. Tasmiṁ, bhikkhave, samaye rañño na phāsu hoti atiyātuṁ vā niyyātuṁ vā paccantime vā janapade anusaññātuṁ. Brāhmaṇagahapatikānampi tasmiṁ samaye na phāsu hoti atiyātuṁ vā niyyātuṁ vā bāhirāni vā kammantāni paṭivekkhituṁ.
+
+
+Evamevaṁ kho, bhikkhave, yasmiṁ samaye pāpabhikkhū balavanto honti, pesalā bhikkhū tasmiṁ samaye dubbalā honti. Tasmiṁ, bhikkhave, samaye pesalā bhikkhū tuṇhībhūtā tuṇhībhūtāva saṅghamajjhe saṅkasāyanti paccantime vā janapade acchanti. Tayidaṁ, bhikkhave, hoti bahujanāhitāya bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ.
+
+2Yasmiṁ, bhikkhave, samaye rājāno balavanto honti, corā tasmiṁ samaye dubbalā honti. Tasmiṁ, bhikkhave, samaye rañño phāsu hoti atiyātuṁ vā niyyātuṁ vā paccantime vā janapade anusaññātuṁ. Brāhmaṇagahapatikānampi tasmiṁ samaye phāsu hoti atiyātuṁ vā niyyātuṁ vā bāhirāni vā kammantāni paṭivekkhituṁ.
+
+
+Evamevaṁ kho, bhikkhave, yasmiṁ samaye pesalā bhikkhū balavanto honti, pāpabhikkhū tasmiṁ samaye dubbalā honti. Tasmiṁ, bhikkhave, samaye pāpabhikkhū tuṇhībhūtā tuṇhībhūtāva saṅghamajjhe saṅkasāyanti, yena vā pana tena pakkamanti. Tayidaṁ, bhikkhave, hoti bahujanahitāya bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānan"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

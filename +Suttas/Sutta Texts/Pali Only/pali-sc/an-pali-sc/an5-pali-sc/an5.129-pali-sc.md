@@ -1,0 +1,28 @@
+---
+sutta_code: "AN5.129-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.129-PALI]]
+> ◄  [[an5.128-pali-sc]] 📜  [[an5.130-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 5: The Book of the Fives
+### AN 5.129: Parikuppasutta — Fatal Wounds
+
+1"Pañcime, bhikkhave, āpāyikā nerayikā parikuppā atekicchā. Katame pañca? Mātā jīvitā voropitā hoti, pitā jīvitā voropito hoti, arahaṁ jīvitā voropito hoti, tathāgatassa duṭṭhena cittena lohitaṁ uppāditaṁ hoti, saṅgho bhinno hoti. Ime kho, bhikkhave, pañca āpāyikā nerayikā parikuppā atekicchā"ti.
+
+Navamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

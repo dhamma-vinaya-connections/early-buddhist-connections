@@ -1,0 +1,36 @@
+---
+sutta_code: "AN1.495"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.495]]
+> ◄  [[an1.485-sujato-pali]] 📜  [[an1.535-sujato-pali]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+
+## 1: The Book of the Ones
+
+### 495–534
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+1They develop the faculty of faith together with the first absorption … the faculty of energy … the faculty of mindfulness … the faculty of immersion … the faculty of wisdom … the power of faith … the power of energy … the power of mindfulness … the power of immersion … the power of wisdom together with the first absorption …
+
+#### Pali
+
+1Paṭhamajjhānasahagataṁ saddhindriyaṁ bhāveti … vīriyindriyaṁ bhāveti … satindriyaṁ bhāveti … samādhindriyaṁ bhāveti … paññindriyaṁ bhāveti … saddhābalaṁ bhāveti … vīriyabalaṁ bhāveti … satibalaṁ bhāveti … samādhibalaṁ bhāveti … paññābalaṁ bhāveti … .
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,64 @@
+---
+sutta_code: "SN1.2"
+sutta_title:
+  - "Nimokkhasutta "
+  - "Emancipation"
+sutta-version: "Ven. Thanissaro"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.2]]
+> ◄  [[sn1.1-thanissaro]] 📜  [[sn1.7-thanissaro]] ►
+
+## SN1.2 Freedom
+
+## ## Nimokkha Sutta
+
+Near Sāvatthī… Then a certain devatā, in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta’s Grove, went to the Blessed One. On arrival, having bowed down to him, she stood to one side. As she was standing there, she said to him, “Do you know, dear sir, freedom, liberation, seclusion for beings?”
+
+“Yes, friend, I know freedom, liberation, seclusion for beings.”
+
+“But how, dear sir, do you know freedom, liberation, seclusion for beings?”
+
+The Buddha:
+
+“From the destruction of delight in becoming,
+
+from the ending of perception & consciousness,
+
+from the cessation, stilling, of feelings:
+
+That’s how I know
+
+freedom,
+
+liberation,
+
+seclusion
+
+for beings.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.179]], [[SA1268]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.179]], [[SA1268]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN12.38 AND SN12.64]]
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.2]]
+> ◄  [[sn1.1-thanissaro]] 📜  [[sn1.7-thanissaro]] ►

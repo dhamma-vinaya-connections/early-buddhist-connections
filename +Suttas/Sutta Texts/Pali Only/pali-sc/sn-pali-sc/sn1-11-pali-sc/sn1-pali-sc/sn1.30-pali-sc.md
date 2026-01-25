@@ -1,0 +1,63 @@
+---
+sutta_code: "SN1.30-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.30-PALI]]
+> ◄  [[sn1.29-pali-sc]] 📜  [[sn1.31-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+
+## 1. On Deities
+
+### III. A Sword — SN1.30: Antelope Calves
+#### B. Sujato
+
+
+1“O hero so lean, with antelope calves,  
+not greedy, eating little,  
+living alone like a lion or an elephant,  
+you’re not concerned for sensual pleasures.  
+We’ve come to ask a question:  
+How is one released from all suffering?”
+
+2“There are five kinds of sensual stimulation in the world,  
+and the mind is said to be the sixth.  
+When you’ve discarded desire for these,  
+you’re released from all suffering.”
+
+
+1"Eṇijaṅghaṁ kisaṁ vīraṁ,  
+appāhāraṁ alolupaṁ;  
+Sīhaṁvekacaraṁ nāgaṁ,  
+kāmesu anapekkhinaṁ;  
+Upasaṅkamma pucchāma,  
+kathaṁ dukkhā pamuccatī"ti.
+
+2"Pañca kāmaguṇā loke,  
+manochaṭṭhā paveditā;  
+Ettha chandaṁ virājetvā,  
+evaṁ dukkhā pamuccatī"ti.
+
+
+Sattivaggo tatiyo.
+
+3Sattiyā phusati ceva,  
+jaṭā manonivāraṇā;  
+Arahantena pajjoto,  
+sarā mahaddhanena ca;  
+Catucakkena navamaṁ,  
+eṇijaṅghena te dasāti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

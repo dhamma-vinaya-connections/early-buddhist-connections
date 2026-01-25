@@ -1,0 +1,28 @@
+---
+sutta_code: "AN5.205-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.205-PALI]]
+> ◄  [[an5.204-pali-pts]] 📜  [[an5.206-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN5.205: Cetokhila
+
+PTS: A iii 248
+
+Ajjavena, javena, maddavena, khantiyā, soraccena.
+Imehi kho bhikkhave pañcahi aṅgehi samannāgato rañño bhaddo assājāniyo rājāraho hoti rājabhoggo, rañño aṅgan tveva saṃkhaṃ gacchati.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,59 @@
+---
+sutta_code: "AN5.78"
+sutta_title:
+  - "Anagata-Bhayani "
+  - "Future Perils 2nd"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.78]]
+> ◄  [[an5.77-deepseek-pali]] 📜  [[an5.79-deepseek-pali]] ►
+
+# AN 5.78 Dutiyaanāgatabhayasuttaṃ
+
+## AN 5.78 The Second Discourse on Future Dangers
+
+78. ‘‘Pañcimāni, bhikkhave, anāgatabhayāni sampassamānena alameva bhikkhunā appamattena ātāpinā pahitattena viharituṃ appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya. Katamāni pañca? Idha, bhikkhave, bhikkhu iti paṭisañcikkhati – ‘ahaṃ kho etarahi daharo yuvā susukāḷakeso bhadrena yobbanena samannāgato paṭhamena vayasā. Hoti kho pana so samayo yaṃ imaṃ kāyaṃ jarā phusati. Jiṇṇena kho pana jarāya abhibhūtena na sukaraṃ buddhānaṃ sāsanaṃ manasi kātuṃ, na sukarāni araññavanapatthāni pantāni senāsanāni paṭisevituṃ. Purā maṃ so dhammo āgacchati aniṭṭho akanto amanāpo; handāhaṃ paṭikacceva [paṭigacceva (sī.)] vīriyaṃ ārabhāmi appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya, yenāhaṃ dhammena samannāgato jiṇṇakopi phāsuṃ [phāsu (pī. ka.)] viharissāmī’ti. Idaṃ, bhikkhave, paṭhamaṃ anāgatabhayaṃ sampassamānena alameva bhikkhunā appamattena ātāpinā pahitattena viharituṃ appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya.
+
+78.“Bhikkhus, by contemplating these five future dangers, it is enough for a bhikkhu to dwell heedful, ardent, and resolute for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized. What are the five? Here, bhikkhus, a bhikkhu reflects thus: ‘Now I am young, youthful, with jet-black hair, endowed with the blessing of youth, in the prime of life. But there comes a time when this body is touched by old age. When old, overcome by old age, it will not be easy to attend to the Buddha’s Dispensation, nor easy to frequent remote forest and woodland dwellings, secluded resting places. Before that undesirable, unloved, and disagreeable state comes upon me, let me first arouse energy for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized, so that, endowed with the Dhamma, I may dwell at ease even in old age.’ This, bhikkhus, is the first future danger, contemplating which it is enough for a bhikkhu to dwell heedful, ardent, and resolute for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized.
+
+‘‘Puna caparaṃ, bhikkhave, bhikkhu iti paṭisañcikkhati – ‘ahaṃ kho etarahi appābādho appātaṅko samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya majjhimāya padhānakkhamāya. Hoti kho pana so samayo yaṃ imaṃ kāyaṃ byādhi phusati. Byādhitena kho pana byādhinā abhibhūtena [byādhābhibhūtena (sī. pī. ka.)] na sukaraṃ buddhānaṃ sāsanaṃ manasi kātuṃ, na sukarāni araññavanapatthāni pantāni senāsanāni paṭisevituṃ. Purā maṃ so dhammo āgacchati aniṭṭho akanto amanāpo; handāhaṃ paṭikacceva vīriyaṃ ārabhāmi appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya, yenāhaṃ dhammena samannāgato byādhitopi phāsuṃ viharissāmī’ti. Idaṃ, bhikkhave, dutiyaṃ anāgatabhayaṃ sampassamānena alameva bhikkhunā appamattena ātāpinā pahitattena viharituṃ appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya.
+
+“Furthermore, bhikkhus, a bhikkhu reflects thus: ‘At present, I am free from illness and affliction, possessing a balanced digestion that is neither too cold nor too hot, but moderate and suitable for exertion. But there comes a time when illness strikes this body. When overcome by illness, it is not easy to attend to the Buddha’s Dispensation, nor easy to frequent remote forest and woodland dwellings, secluded resting places. Before that undesirable, unloved, and disagreeable state comes upon me, let me first arouse energy for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized, so that, endowed with the Dhamma, I may dwell at ease even when afflicted.’ This, bhikkhus, is the second future danger, contemplating which it is enough for a bhikkhu to dwell heedful, ardent, and resolute for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized.
+
+‘‘Puna caparaṃ, bhikkhave, bhikkhu iti paṭisañcikkhati – ‘etarahi kho subhikkhaṃ susassaṃ sulabhapiṇḍaṃ, sukaraṃ uñchena paggahena yāpetuṃ. Hoti kho pana so samayo yaṃ dubbhikkhaṃ hoti dussassaṃ dullabhapiṇḍaṃ, na sukaraṃ uñchena paggahena yāpetuṃ. Dubbhikkhe kho pana manussā yena subhikkhaṃ tena saṅkamanti [tenupasaṅkamanti (ka.)]. Tattha saṅgaṇikavihāro hoti ākiṇṇavihāro. Saṅgaṇikavihāre kho pana sati ākiṇṇavihāre na sukaraṃ buddhānaṃ sāsanaṃ manasi kātuṃ, na sukarāni araññavanapatthāni pantāni senāsanāni paṭisevituṃ. Purā maṃ so dhammo āgacchati aniṭṭho akanto amanāpo; handāhaṃ paṭikacceva vīriyaṃ ārabhāmi appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya, yenāhaṃ dhammena samannāgato dubbhikkhepi phāsu viharissāmī’ti. Idaṃ, bhikkhave, tatiyaṃ anāgatabhayaṃ sampassamānena alameva bhikkhunā appamattena ātāpinā pahitattena viharituṃ appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya.
+
+“Furthermore, bhikkhus, a bhikkhu reflects thus: ‘At present, food is plentiful, the harvest is good, and alms are easy to obtain. It is easy to sustain oneself by gleaning and gathering alms. But there comes a time of famine, when crops are poor and alms are hard to obtain. In times of famine, people migrate to places where food is plentiful. There, dwelling becomes crowded and congested. In such crowded and congested conditions, it is not easy to attend to the Buddha’s Dispensation, nor easy to frequent remote forest and woodland dwellings, secluded resting places. Before that undesirable, unloved, and disagreeable state comes upon me, let me first arouse energy for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized, so that, endowed with the Dhamma, I may dwell at ease even in times of famine.’ This, bhikkhus, is the third future danger, contemplating which it is enough for a bhikkhu to dwell heedful, ardent, and resolute for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized.
+
+‘‘Puna caparaṃ, bhikkhave, bhikkhu iti paṭisañcikkhati – ‘etarahi kho manussā samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṃ piyacakkhūhi sampassantā viharanti. Hoti kho pana so samayo yaṃ bhayaṃ hoti aṭavisaṅkopo, cakkasamārūḷhā jānapadā pariyāyanti. Bhaye kho pana sati manussā yena khemaṃ tena saṅkamanti. Tattha saṅgaṇikavihāro hoti ākiṇṇavihāro. Saṅgaṇikavihāre kho pana sati ākiṇṇavihāre na sukaraṃ buddhānaṃ sāsanaṃ manasi kātuṃ, na sukarāni araññavanapatthāni pantāni senāsanāni paṭisevituṃ. Purā maṃ so dhammo āgacchati aniṭṭho akanto amanāpo; handāhaṃ paṭikacceva vīriyaṃ ārabhāmi appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya, yenāhaṃ dhammena samannāgato bhayepi phāsuṃ viharissāmī’ti. Idaṃ, bhikkhave, catutthaṃ anāgatabhayaṃ sampassamānena alameva bhikkhunā appamattena ātāpinā pahitattena viharituṃ appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya.
+
+“Furthermore, bhikkhus, a bhikkhu reflects thus: ‘At present, people live in harmony, in concord, without contention, like milk and water, regarding each other with loving eyes. But there comes a time when there is danger—a forest upheaval—and people will travel through the countryside mounted on vehicles. When there is danger, people will migrate to wherever there is safety. There, dwelling will be crowded and congested. In crowded and congested conditions, it is not easy to attend to the Buddha’s Dispensation, nor easy to frequent remote forest and woodland dwellings, secluded resting places. Before that undesirable, unloved, and disagreeable state comes upon me, let me first arouse energy for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized, so that, endowed with the Dhamma, I may dwell at ease even in times of danger.’ This, bhikkhus, is the fourth future danger, contemplating which it is enough for a bhikkhu to dwell heedful, ardent, and resolute for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized.
+
+‘‘Puna caparaṃ, bhikkhave, bhikkhu iti paṭisañcikkhati – ‘etarahi kho saṅgho samaggo sammodamāno avivadamāno ekuddeso phāsu viharati. Hoti kho pana so samayo yaṃ saṅgho bhijjati. Saṅghe kho pana bhinne na sukaraṃ buddhānaṃ sāsanaṃ manasi kātuṃ, na sukarāni araññavanapatthāni pantāni senāsanāni paṭisevituṃ. Purā maṃ so dhammo āgacchati aniṭṭho akanto amanāpo; handāhaṃ paṭikacceva vīriyaṃ ārabhāmi appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya, yenāhaṃ dhammena samannāgato bhinnepi saṅghe phāsuṃ viharissāmī’ti. Idaṃ, bhikkhave, pañcamaṃ anāgatabhayaṃ sampassamānena alameva bhikkhunā appamattena ātāpinā pahitattena viharituṃ appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya.
+
+“Furthermore, bhikkhus, a bhikkhu reflects thus: ‘At present, the Saṅgha lives in concord, rejoicing together, without contention, with a single recitation, dwelling at ease. But there comes a time when the Saṅgha is split. When the Saṅgha is split, it is not easy to attend to the Buddha’s Dispensation, nor easy to frequent remote forest and woodland dwellings, secluded resting places. Before that undesirable, unloved, and disagreeable state comes upon me, let me first arouse energy for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized, so that, endowed with the Dhamma, I may dwell at ease even when the Saṅgha is split.’ This, bhikkhus, is the fifth future danger, contemplating which it is enough for a bhikkhu to dwell heedful, ardent, and resolute for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized.
+
+‘‘Imāni kho, bhikkhave, pañca anāgatabhayāni sampassamānena alameva bhikkhunā appamattena ātāpinā pahitattena viharituṃ appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāyā’’ti. Aṭṭhamaṃ.
+
+“These, bhikkhus, are the five future dangers, contemplating which it is enough for a bhikkhu to dwell heedful, ardent, and resolute for the attainment of the unattained, the achievement of the unachieved, and the realization of the unrealized.” Eighth.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 103 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5.77]], [[AN5.79]], [[AN5.80]]
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.78]]
+> ◄  [[an5.77-deepseek-pali]] 📜  [[an5.79-deepseek-pali]] ►

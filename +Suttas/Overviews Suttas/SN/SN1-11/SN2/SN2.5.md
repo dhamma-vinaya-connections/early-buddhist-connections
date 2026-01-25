@@ -1,0 +1,102 @@
+---
+sutta_code: "SN2.5"
+sutta_pts: ""
+sutta_title:
+  - "Dāmalisutta "
+  - "Damali"
+nikaya:
+  - "SN "
+  - "Saṃyutta Nikāya"
+sutta_chapter:
+  - "SN2"
+  - "Devaputtasaṁyutta"
+  - "Young Devas"
+  - "SN1-11"
+sutta_theme:
+  - "Noble ones"
+sutta_topic:
+  - "Noble ones types"
+sutta_training:
+  - "Vimutti"
+sutta_stage:
+  - "End"
+sutta_method:
+  - "Verses"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - "Medium"
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Devas"
+sutta_simile: "River crossing, like reaching the goal"
+parallels_nikaya:
+  - ""
+parallels_agama:
+  - "[[SA-2.310]]"
+  - "[[SA1311]]"
+parallels_partilal:
+  - "[[SA-2.310]]"
+  - "[[SA1311]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.4]]  🌐 [[SN2.6]] ►
+
+# SN2.5 - Dāmalisutta - Damali
+## 🌐 Overview
+
+> [!info] Summary
+> Dāmali the god suggests that a true brahmin must strive to abandon desire. The Buddha  disagrees, saying that a true holy one has already completed their work
+
+> [!info] Key Excerpts 
+> A meditator who has ended defilements.
+Since they’ve reached the end of rebirth and death,
+They need not strive, for they have reached the far shore
+> 
+> Someone who has gained a footing and stands on dry land
+Need not strive, for they have reached the far shore
+> 
+
+> [!info] Similes
+> River crossing, like reaching the goal
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.310]], [[SA1311]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.310]], [[SA1311]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN2.5%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN2.5%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BSN2.5%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.5%5D%5D%22%23mynotes%20-file%3Asn2.5-%20-file%3A%22SN2.4%22%20-file%3A%22SN2.6%22%20-file%3A%22SN2.5%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/sn2.5/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=sn2.5
+> - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.5.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.4]]  🌐 [[SN2.6]] ►

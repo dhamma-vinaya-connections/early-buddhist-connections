@@ -1,0 +1,36 @@
+---
+sutta_code: "AN1.475"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.475]]
+> ◄  [[an1.465-sujato-pali]] 📜  [[an1.485-sujato-pali]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+
+## 1: The Book of the Ones
+
+### 475–484
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+1They develop the perception of impermanence … the perception of not-self … the perception of death … the perception of the repulsiveness of food … the perception of dissatisfaction with the whole world … the perception of a skeleton … the perception of the worm-infested corpse … the perception of the livid corpse … the perception of the split open corpse … the perception of the bloated corpse …
+
+#### Pali
+
+1Aniccasaññaṁ bhāveti … anattasaññaṁ bhāveti … maraṇasaññaṁ bhāveti … āhāre paṭikūlasaññaṁ bhāveti … sabbaloke anabhiratisaññaṁ bhāveti … aṭṭhikasaññaṁ bhāveti … puḷavakasaññaṁ bhāveti … vinīlakasaññaṁ bhāveti … vicchiddakasaññaṁ bhāveti … uddhumātakasaññaṁ bhāveti … .
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

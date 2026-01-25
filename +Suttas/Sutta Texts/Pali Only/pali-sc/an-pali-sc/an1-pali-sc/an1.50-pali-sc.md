@@ -1,0 +1,28 @@
+---
+sutta_code: "AN1.50-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.50-PALI]]
+> ◄  [[an1.49-pali-sc]] 📜  [[an1.51-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 1: The Book of the Ones
+### 1. Obsession of the Mind - 50
+
+Dasamaṁ.
+
+Paṇihitaacchavaggo pañcamo.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

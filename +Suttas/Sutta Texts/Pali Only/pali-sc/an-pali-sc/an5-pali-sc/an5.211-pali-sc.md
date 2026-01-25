@@ -1,0 +1,29 @@
+---
+sutta_code: "AN5.211-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.211-PALI]]
+> ◄  [[an5.210-pali-sc]] 📜  [[an5.212-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 5: The Book of the Fives
+
+1"Yo so, bhikkhave, bhikkhu akkosakaparibhāsako ariyūpavādī sabrahmacārīnaṁ, tassa pañca ādīnavā pāṭikaṅkhā. Katame pañca?
+
+Pārājiko vā hoti chinnaparipantho, aññataraṁ vā saṅkiliṭṭhaṁ āpattiṁ āpajjati, bāḷhaṁ vā rogātaṅkaṁ phusati, sammūḷho kālaṁ karoti, kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. Yo so, bhikkhave, bhikkhu akkosakaparibhāsako ariyūpavādī sabrahmacārīnaṁ, tassa ime pañca ādīnavā pāṭikaṅkhā"ti.
+
+Paṭhamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

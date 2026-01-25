@@ -1,0 +1,49 @@
+---
+sutta_code: "AN5.220"
+sutta_title:
+  - "Aggi "
+  - "Fire"
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.220]]
+> ◄  [[an5.219-sujato-pali]] 📜  [[an5.221-sujato-pali]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+
+## 5: The Book of the Fives
+
+### XXII. Abuse — AN 5.220: About Madhurā
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+1“Mendicants, there are these five drawbacks of Madhurā. What five? The ground is uneven and dusty, the dogs are fierce, the native spirits are vicious, and it’s hard to get almsfood. These are the five drawbacks of Madhurā.”
+
+1"Pañcime, bhikkhave, ādīnavā madhurāyaṁ. Katame pañca? Visamā, bahurajā, caṇḍasunakhā, vāḷayakkhā, dullabhapiṇḍā. Ime kho, bhikkhave, pañca ādīnavā madhurāyan"ti.
+
+Dasamaṁ.
+
+Akkosakavaggo dutiyo.
+
+> 2Akkosabhaṇḍanasīlaṁ,  
+> bahubhāṇī dve akhantiyo;  
+> Apāsādikā dve vuttā,  
+> aggismiṁ madhurena cāti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 256 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.220]]
+> ◄  [[an5.219-sujato-pali]] 📜  [[an5.221-sujato-pali]] ►

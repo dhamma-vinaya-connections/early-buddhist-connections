@@ -1,0 +1,39 @@
+---
+sutta_code: "AN9.50"
+sutta_title:
+  - "大因 "
+  - "Greater Causality"
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.50]]
+> ◄  [[an9.49-sujato-pali]] 📜  [[an9.51-sujato-pali]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+
+## 9: The Book of the Nines
+
+### V. Similarity — AN 9.50: Extinguishment in a Certain Respect
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+1“Reverend, they speak of ‘extinguishment in a certain respect’. …”
+
+1"‘Tadaṅganibbānaṁ, tadaṅganibbānan’ti, āvuso, vuccati … pe … .
+
+Navamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.50]]
+> ◄  [[an9.49-sujato-pali]] 📜  [[an9.51-sujato-pali]] ►

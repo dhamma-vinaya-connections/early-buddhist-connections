@@ -1,0 +1,100 @@
+---
+sutta_code: "ITI27"
+sutta_pts: ""
+sutta_title:
+  - "Mettābhāvanā "
+  - "Development Of Loving Kindness"
+nikaya:
+  - "ITI "
+  - "Itivuttaka"
+sutta_chapter:
+  - "ITI1-27"
+  - "1 Ekakanipatavagga"
+  - "Ones"
+  - ""
+sutta_theme:
+  - "Love"
+sutta_topic:
+  - "Merits"
+sutta_training:
+  - "Samādhi"
+sutta_stage:
+  - "Beginning"
+sutta_method:
+  - "Mixed"
+sutta_aspect:
+  - "Training"
+sutta_prominence:
+  - "Medium"
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: ""
+parallels_nikaya:
+  - ""
+parallels_agama:
+  - ""
+parallels_partilal:
+  - "[[AN8.1]]"
+  - "[[JA451]]"
+  - "[[PE3]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI26]]  🌐 [[ITI28]] ►
+
+# ITI27 - Mettābhāvanā - Development Of Loving Kindness
+## 🌐 Overview
+
+> [!info] Summary
+> Acts of merit” is a synonym for what is blissful, desirable, pleasing, endearing, charming. The Buddha recalls the results he himself has experienced from doing meritorious deeds
+
+> [!info] Key Excerpts 
+> Heedfulness with regard to skillful qualities keeps both kinds of benefit secure: benefit in this live and benefit in lives to come.
+> 
+> Goodwill far outshines all other ways of making merit.
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.1]], [[JA451]], [[PE3]] |
+| ------------------------ |
+
+>[!example]- Suggestions by Ven. Thanissaro
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.113]], [[AN6:19]], [[AN10:15]], [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[SN3:4]], [[SN3:17]], [[AN3:66]], [[AN5.27]], [[AN11.16]], [[KHP9]], [[AN3:20]], [[SN3:25]], [[AN§60]]
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BITI27%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BITI27%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BITI27%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI27%5D%5D%22%23mynotes%20-file%3Aiti27-%20-file%3A%22ITI26%22%20-file%3A%22ITI28%22%20-file%3A%22ITI27%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/iti27/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=iti27
+> - The Buddhas Words: https://thebuddhaswords.net/iti/iti27.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI26]]  🌐 [[ITI28]] ►

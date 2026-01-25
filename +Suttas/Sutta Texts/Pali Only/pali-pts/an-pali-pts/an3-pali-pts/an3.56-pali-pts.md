@@ -1,0 +1,35 @@
+---
+sutta_code: "AN3.56-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.56-PALI]]
+> ◄  [[an3.55-pali-pts]] 📜  [[an3.57-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN3.56: Paloka
+
+PTS: A i 159
+
+Atha kho aññataro brāhmaṇo mahāsālo yena Bhagavā ten'; upasaṅkami . . . pe . . . Ekamantaṃ nisinno kho so brāhmaṇo mahāsālo Bhagavantaṃ etad avoca:
+Sutaṃ me taṃ bho Gotama pubbakānaṃ brāhmaṇānaṃ vuḍḍhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ pubb'; assudaṃ ayaṃ loko avīci maññe phuṭo ahosi manussehi kukkuṭasampātikā gāmanigamarājadhāniyo ti.
+Ko nu kho bho Gotama hetu ko paccayo yen'; etarahi manussānaṃ khayo hoti tanuttaṃ paññāyati gāmā pi agāmā honti nigamā pi anigamā honti nagarā pi anagarā honti janapadā pi ajanapadā hontī ti?
+
+Etarahi brāhmaṇa manussā adhammarāgarattā visamalobhābhibhūtā micchādhammaparetā. Te adhammarāgarattā visamalobhābhibhūtā micchādhammaparetā tiṇhāni satthāni gahetvā aññamaññassa jīvitā voropenti. Tena bahū manussā kālaṃ karonti. Ayam pi kho brāhmaṇa hetu ayaṃ paccayo yen'; etarahi manussānaṃ khayo hoti tanuttaṃ paññāyati gāmā pi agāmā honti nigamā pi anigamā honti nagarā pi anagarā honti janapadā pi ajanapadā honti.
+Puna ca paraṃ brāhmaṇa etarahi manussā adhammarāgarattā visamalobhābhibhūtā micchādhammaparetā. Tesaṃ adhammarāgarattānaṃ visamalobhābhibhūtānaṃ micchādhammaparetānaṃ devo na sammā dhāraṃ anuppavecchati.
+Tena dubbhikkhaṃ hoti dussassaṃ setaṭṭhikaṃ salākāvuttaṃ tena bahū manussā kālaṃ karonti. Ayam pi kho brāhmaṇa hetu ayaṃ paccayo yen'; etarahi manussānaṃ khayo hoti tanuttaṃ paññāyati gāmā pi agāmā honti nigamā pi anigamā honti nagarā pi anagarā honti janapadā pi ajanapadā honti.
+Puna ca paraṃ brāhmaṇa etarahi manussā adhammarāgarattā visamalobhābhibhūtā micchādhammaparetā. Tesaṃ adhammarāgarattānaṃ visamalobhābhibhūtānaṃ micchādhammaparetānaṃ yakkhā vāḷe amanusse ossajjanti. Tena bahū manussā kālaṃ karonti. Ayam pi kho brāhmaṇa hetu ayaṃ paccayo yen'; etarahi manussānaṃ khayo hoti tanuttaṃ paññāyati gāmā pi agāmā honti nigamā pi anigamā honti nagarā pi anagarā honti janapadā pi ajanapadā honti.
+Abhikkantaṃ bho Gotama . . . pe . . . Upāsakaṃ maṃ bhavaṃ Gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

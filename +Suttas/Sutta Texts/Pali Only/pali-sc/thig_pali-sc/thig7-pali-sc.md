@@ -1,0 +1,137 @@
+---
+sutta_code: "THIG7-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG7-PALI]]
+> ◄  [[thig6-pali-sc]] 📜  [[thig8-pali-sc]] ►
+
+## Khuddaka Nikāya - The Minor Texts
+## Therigatha - The Verses of the Elder Nuns
+### Chapter 7: The Book of the Sevens
+
+##### 7.1 Uttarātherīgāthā
+
+"Musalāni gahetvāna,
+dhaññaṁ koṭṭenti māṇavā;
+Puttadārāni posentā,
+dhanaṁ vindanti māṇavā.
+
+Ghaṭetha buddhasāsane,
+yaṁ katvā nānutappati;
+Khippaṁ pādāni dhovitvā,
+ekamantaṁ nisīdatha.
+
+---
+
+Cittaṁ upaṭṭhapetvāna,
+ekaggaṁ susamāhitaṁ;
+Paccavekkhatha saṅkhāre,
+parato no ca attato".
+
+"Tassāhaṁ vacanaṁ sutvā,
+paṭācārānusāsaniṁ;
+Pāde pakkhālayitvāna,
+ekamante upāvisiṁ.
+
+Rattiyā purime yāme,
+pubbajātimanussariṁ;
+Rattiyā majjhime yāme,
+dibbacakkhuṁ visodhayiṁ.
+
+Rattiyā pacchime yāme,
+tamokhandhaṁ padālayiṁ;
+Tevijjā atha vuṭṭhāsiṁ,
+katā te anusāsanī.
+
+Sakkaṁva devā tidasā,
+saṅgāme aparājitaṁ;
+Purakkhatvā vihassāmi,
+tevijjāmhi anāsavā".
+
+##### 7.2 Cālātherīgāthā
+
+"Satiṁ upaṭṭhapetvāna,
+bhikkhunī bhāvitindriyā;
+Paṭivijjhi padaṁ santaṁ,
+saṅkhārūpasamaṁ sukhaṁ".
+
+"Kaṁ nu uddissa muṇḍāsi,
+samaṇī viya dissasi;
+Na ca rocesi pāsaṇḍe,
+kimidaṁ carasi momuhā".
+
+"Ito bahiddhā pāsaṇḍā,
+diṭṭhiyo upanissitā;
+Na te dhammaṁ vijānanti,
+na te dhammassa kovidā.
+
+Atthi sakyakule jāto,
+buddho appaṭipuggalo;
+So me dhammamadesesi,
+diṭṭhīnaṁ samatikkamaṁ.
+
+Dukkhaṁ dukkhasamuppādaṁ,
+Dukkhassa ca atikkamaṁ;
+Ariyaṁ caṭṭhaṅgikaṁ maggaṁ,
+Dukkhūpasamagāminaṁ.
+
+Tassāhaṁ vacanaṁ sutvā,
+vihariṁ sāsane ratā;
+Tisso vijjā anuppattā,
+kataṁ buddhassa sāsanaṁ.
+
+Sabbattha vihatā nandī,
+tamokhandho padālito;
+Evaṁ jānāhi pāpima,
+nihato tvamasi antaka".
+
+##### 7.3 Upacālātherīgāthā
+
+"Satimatī cakkhumatī,
+bhikkhunī bhāvitindriyā;
+Paṭivijjhi padaṁ santaṁ,
+akāpurisasevitaṁ".
+
+"Kiṁ nu jātiṁ na rocesi,
+jāto kāmāni bhuñjati;
+Bhuñjāhi kāmaratiyo,
+māhu pacchānutāpinī".
+
+"Jātassa maraṇaṁ hoti,
+hatthapādāna chedanaṁ;
+Vadhabandhapariklesaṁ,
+jāto dukkhaṁ nigacchati.
+
+Atthi sakyakule jāto,
+sambuddho aparājito;
+So me dhammamadesesi,
+jātiyā samatikkamaṁ.
+
+Dukkhaṁ dukkhasamuppādaṁ,
+dukkhassa ca atikkamaṁ;
+Ariyaṁ caṭṭhaṅgikaṁ maggaṁ,
+dukkhūpasamagāminaṁ.
+
+Tassāhaṁ vacanaṁ sutvā,
+vihariṁ sāsane ratā;
+Tisso vijjā anuppattā,
+kataṁ buddhassa sāsanaṁ.
+
+Sabbattha vihatā nandī,
+tamokhandho padālito;
+Evaṁ jānāhi pāpima,
+nihato tvamasi antaka".
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

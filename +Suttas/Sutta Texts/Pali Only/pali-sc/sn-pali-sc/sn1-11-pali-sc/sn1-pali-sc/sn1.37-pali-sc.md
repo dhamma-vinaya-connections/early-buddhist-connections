@@ -1,0 +1,59 @@
+---
+sutta_code: "SN1.37-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.37-PALI]]
+> ◄  [[sn1.36-pali-sc]] 📜  [[sn1.38-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+## 1. On Deities
+### IV. The Satullapa Group — SN1.37: The Congregation
+
+1Evaṁ me sutaṁ — ekaṁ samayaṁ bhagavā sakkesu vihārati kapilavatthusmiṁ mahāvane mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṁ dassanāya bhikkhusaṅghañca.
+
+Atha kho catunnaṁ suddhāvāsakāyikānaṁ devatānaṁ etadahosi: "Ayaṁ kho bhagavā sakkesu vihārati kapilavatthusmiṁ mahāvane mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṁ dassanāya bhikkhusaṅghañca. Yannūna mayampi yena bhagavā tenupasaṅkameyyāma; upasaṅkamitvā bhagavato santike paccekaṁ gāthaṁ bhāseyyāmā"ti.
+
+
+2Atha kho tā devatā – seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya pasāritaṁ vā bāhaṁ samiñjeyya; evameva – suddhāvāsesu devesu antarahitā bhagavato purato pāturahesuṁ. Atha kho tā devatā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho ekā devatā bhagavato santike imaṁ gāthaṁ abhāsi: 
+
+
+3"Mahāsamayo pavanasmiṁ,  
+Devakāyā samāgatā;  
+Āgatamha imaṁ dhammasamayaṁ,  
+Dakkhitāye aparājitasaṅghan"ti.
+
+4Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi: 
+
+5"Tatra bhikkhavo samādahaṁsu,  
+Cittamattano ujukaṁ akaṁsu;  
+Sārathīva nettāni gahetvā,  
+Indriyāni rakkhanti paṇḍitā"ti.
+
+6Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi: 
+
+
+7"Chetvā khīlaṁ chetvā palighaṁ,  
+Indakhīlaṁ ūhacca manejā;  
+Te caranti suddhā vimalā,  
+Cakkhumatā sudantā susunāgā"ti.
+
+8Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi: 
+
+9"Ye keci buddhaṁ saraṇaṁ gatāse,  
+Na te gamissanti apāyabhūmiṁ;  
+Pahāya mānusaṁ dehaṁ,  
+Devakāyaṁ paripūressantī"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

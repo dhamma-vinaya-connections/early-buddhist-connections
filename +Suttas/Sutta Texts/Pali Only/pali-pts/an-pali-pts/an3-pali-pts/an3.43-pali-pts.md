@@ -1,0 +1,28 @@
+---
+sutta_code: "AN3.43-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.43-PALI]]
+> ◄  [[an3.42-pali-pts]] 📜  [[an3.44-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN3.43: Kathāpavatti
+
+PTS: A i 151
+
+Tayo bhikkhave atthavase sampassamānena alam eva paresaṃ dhammaṃ desetuṃ. Katame tayo?
+Yo dhammaṃ deseti so attha-paṭisaṃvedī ca hoti dhammapaṭisaṃvedī ca, yo dhammaṃ suṇāti so atthapaṭisaṃvedī ca hoti dhammapaṭisaṃvedī ca, yo c'; eva dhammaṃ deseti yo ca dhammaṃ suṇāti ubho atthapaṭisaṃvedino ca honti dhammapaṭisaṃvedino ca. Ime kho bhikkhave tayo atthavase sampassamānena alaṃ eva paresaṃ dhammaṃ desetun ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

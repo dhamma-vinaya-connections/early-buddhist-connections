@@ -1,0 +1,82 @@
+---
+sutta_code: "SNP4.8-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.8-PALI]]
+> ◄  [[snp4.7-pali-sc]] 📜  [[snp4.9-pali-sc]] ►
+
+## Khuddaka Nikāya - The Minor Texts
+## Sutta Nipata
+## Sutta Nipata Chapter 4: The Chapter of the Eights - Aṭṭhakavagga
+### 4:8 With Pasūra
+## 4:8 With Pasūra
+## Pasūrasutta
+
+824Idheva suddhī iti vādayanti,  
+Nāññesu dhammesu visuddhimāhu;  
+Yaṁ nissitā tattha subhaṁ vadānā,  
+Paccekasaccesu puthū niviṭṭhā.
+
+825 Te vādakāmā parisaṁ vigayha,  
+Bālaṁ dahantī mithu aññamaññaṁ;  
+Vadanti te aññasitā kathojjaṁ,  
+Pasaṁsakāmā kusalā vadānā.
+
+826 Yutto kathāyaṁ parisāya majjhe,  
+Pasaṁsamicchaṁ vinighāti hoti;  
+Apāhatasmiṁ pana maṅku hoti,  
+Nindāya so kuppati randhamesī.
+
+827 Yamassa vādaṁ parihīnamāhu,  
+Apāhataṁ pañhavimaṁsakāse;  
+Paridevati socati hīnavādo,  
+Upaccagā manti anutthunāti.
+
+828 Ete vivādā samaṇesu jātā,  
+Etesu ugghātinighāti hoti;  
+Etampi disvā virame kathojjaṁ,  
+Na haññadatthatthi pasaṁsalābhā.
+
+
+829 Pasaṁsito vā pana tattha hoti,  
+Akkhāya vādaṁ parisāya majjhe;  
+So hassatī unnamatī ca tena,  
+Pappuyya tamatthaṁ yathā mano ahu.
+
+830 Yā unnatī sāssa vighātabhūmi,  
+Mānātimānaṁ vadate paneso;  
+Etampi disvā na vivādayetha,  
+Na hi tena suddhiṁ kusalā vadanti.
+
+831 Sūro yathā rājakhādāya puṭṭho,  
+Abhigajjameti paṭisūramicchaṁ;  
+Pubbeva natthi yadidaṁ yudhāya.
+
+832 Ye diṭṭhimuggayha vivādayanti,  
+Te tvaṁ vadassū na hi tedha atthi,  
+Vādamhi jāte paṭisenikattā.
+
+Diṭṭhīhi diṭṭhiṁ avirujjhamānā;  
+Tesu tvaṁ kiṁ labhetho pasūra,  
+Yesīdha natthī paramuggahītaṁ.
+
+834 Atha tvaṁ pavitakkamāgamā,  
+Manasā diṭṭhigatāni cintayanto;  
+Dhonena yugaṁ samāgamā,  
+Na hi tvaṁ sakkhasi sampayātaveti.
+
+Pasūrasuttaṁ aṭṭhamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

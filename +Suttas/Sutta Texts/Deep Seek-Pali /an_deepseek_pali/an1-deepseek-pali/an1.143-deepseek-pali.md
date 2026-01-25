@@ -1,0 +1,26 @@
+---
+sutta_code: "AN1.143"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.143]]
+> ◄  [[an1.142-deepseek-pali]] 📜  [[an1.144-deepseek-pali]] ►
+
+# AN 1.143
+
+221. … Gatimantānaṃ yadidaṃ ānando.
+
+221.… Among those possessed of comprehension, Ānanda is foremost.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

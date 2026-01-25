@@ -1,0 +1,29 @@
+---
+sutta_code: "AN2.5-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.5-PALI]]
+> ◄  [[an2.4-pali-pts]] 📜  [[an2.6-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN2.5: Upaññāta
+
+PTS: A i 50
+
+Dvinnāhaṃ bhikkhave dhammānaṃ upaññāsiṃ yā ca asantuṭṭhitā kusalesu dhammesu yā ca appaṭivāṇitā padhānasmiṃ. Appaṭivāṇaṃ sudāhaṃ bhikkhave padahāmi -- kāmaṃ taco ca nahāru ca aṭṭhi ca avasissatu sarīre upasussatu maṃsalohitaṃ yan tam purisa-thāmena purisa-viriyena purisa-parakkamena pattabbaṃ na taṃ apāpuṇitvā viriyassa saṇṭhānaṃ bhavissatī ti. Tassa mayhaṃ bhikkhave appamādādhigatā bodhi appamādādhigato anuttaro yogakkhemo.
+Tumhe ce pi bhikkhave appaṭivāṇaṃ padaheyyātha -- kāmaṃ taco ca nahāru ca aṭṭhi ca avasissatu sarīre upasussatu maṃsalohitaṃ yan taṃ purisa-thāmena purisaviriyena purisa-parakkamena pattabbaṃ na taṃ apāpuṇitvā viriyassa saṇṭhānaṃ bhavissatī ti -- tumhe pi bhikkhave na cirass'; eva yass'; atthāya kulaputtā sammad eva agārasmā anagāriyaṃ pabbajanti tad anuttaraṃ brahmacariyapariyosānaṃ diṭṭh'; eva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissatha.
+Tasmāt iha bhikkhave evaṃ sikkhitabbaṃ: appaṭivāṇaṃ padahissāma -- kāmaṃ taco ca nahāru ca aṭṭhi ca avasissatu sarīre upasussatu maṃsalohitaṃ yan taṃ purisa-thāmena purisaviriyena purisa-parakkamena pattabbaṃ na taṃ apāpuṇitvā viriyassa saṇṭhānaṃ bhavissatī ti. Evaṃ hi vo bhikkhave sikkhitabban ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

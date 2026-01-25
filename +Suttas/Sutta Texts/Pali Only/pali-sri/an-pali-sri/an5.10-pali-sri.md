@@ -1,0 +1,61 @@
+---
+sutta_code: "AN5.10-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sri"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.10-PALI]]
+> ◄  [[an5.9-pali-sri]] 📜  [[an5.11-pali-sri]] ►
+
+# 8:10 Samannavaggo - Pali
+
+[BJT Page 360.]
+
+
+Aṅguttaranikāyo
+
+Pañcamo bhāgo
+
+Aṭṭhakanipāto
+
+Dutiyo paṇṇāsako
+
+10. Sāmaññavaggo
+
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+8. 2. 10. 1 27
+
+(Sāvatthinidānaṃ)
+
+Atha kho bojjhā upāsikā pe sirimā padumā sudhanā manujā uttarā muttā khemā somā1 ruci cundī rājakumāri bimbī2 upāsikā sumanā rājakumārī mallikā [PTS Page 348] devī tissā upāsikā tissāya mātā3 soṇā soṇāya mātā4 kāṇā kāṇāya mātā5 uttarā nandamātā visākhā migāramātā bujjuttarā upāsikā sāmāvatī upāsikā suppavāsā koliyaṭhitā6 suppiyā upāsikā nakulamātā gahapatāni pe*
+
+Sāmaññavaggo dasamo.
+
+Dutiyo paṇṇāsako samatto.
+
+1. Somā iti machasaṃ potthakesu na dissate.
+
+2. Vimabi. Sīmu
+
+3. Tismatātā machasaṃ
+
+4. Soṇamātā machasaṃ
+
+5. Kāṇamātā machasaṃ
+
+6. Koḷiyaṭhitā syā. [PTS]
+
+* "Imāsaṃ ettakānaṃ aṭṭhaṅgasamannāgata uposathakamma meva kathitaṃ" iti aṭṭhakathāyaṃ dissati icchantena heṭṭhā 192 piṭṭhe bojjhajuposatha sutte vuttana yena vitthāretvā kathetabbaṃ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

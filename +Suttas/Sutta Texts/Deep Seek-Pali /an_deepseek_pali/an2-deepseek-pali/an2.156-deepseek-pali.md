@@ -1,0 +1,30 @@
+---
+sutta_code: "AN2.156"
+sutta_title:
+  - "Adhikaraṇa "
+  - "Issues"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.156]]
+> ◄  [[an2.155-deepseek-pali]] 📜  [[an2.157-deepseek-pali]] ►
+
+# AN 2.156
+
+156."Monks, there are these two quests. Which two? The quest for material things and the quest for the Dhamma. These, monks, are the two quests. Of these two quests, the quest for the Dhamma is the foremost."
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 56 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.156]]
+> ◄  [[an2.155-deepseek-pali]] 📜  [[an2.157-deepseek-pali]] ►

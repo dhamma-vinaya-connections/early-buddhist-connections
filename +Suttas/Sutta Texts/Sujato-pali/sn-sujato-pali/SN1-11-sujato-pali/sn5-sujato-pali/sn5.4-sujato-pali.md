@@ -1,0 +1,114 @@
+---
+sutta_code: "SN5.4"
+sutta_title:
+  - "Vijayāsutta "
+  - "Vijaya"
+sutta-version: "Sujato"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
+> ◄  [[sn5.3-sujato-pali]] 📜  [[sn5.5-sujato-pali]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+
+## 5. Bhikkhunīsaṁyutta: With Nuns
+
+### I. Nuns — SN5.4: With Vijayā
+#### B. Sujato
+
+
+- © Translated from the Pali by Bhante Sujato. 
+
+1At Sāvatthī.
+
+Then the nun Vijayā robed up in the morning … and sat at the root of a tree for the day’s meditation.
+
+Then Māra the Wicked, wanting to make the nun Vijayā feel fear, terror, and goosebumps, wanting to make her fall away from immersion, went up to her and addressed her in verse:
+
+2“You’re so young and beautiful,  
+and I’m a youth in my prime.  
+Come, my lady, let us enjoy  
+the music of a five-piece band.”
+
+3Then the nun Vijayā thought: “Who’s speaking this verse, a human or a non-human?”
+
+Then she thought: “This is Māra the Wicked, wanting to make me feel fear, terror, and goosebumps, wanting to make me fall away from immersion!”
+
+
+Then Vijayā, knowing that this was Māra the Wicked, replied to him in verse:
+
+4“Sights, sounds, tastes, smells,  
+and touches so delightful.  
+I hand them right back to you, Māra,  
+for I have no use for them.
+
+5This body is foul,  
+decaying and fragile.  
+I’m horrified and repelled by it,  
+and I’ve eradicated sensual craving.
+
+6There are beings in the realm of luminous form,  
+others established in the formless,  
+and also those peaceful attainments:  
+I’ve destroyed the darkness regarding all of them.”
+
+7Then Māra the Wicked, thinking: “The nun Vijayā knows me!” miserable and sad, vanished right there.
+
+#### Pali
+
+1Sāvatthinidānaṁ.
+
+Atha kho vijayā bhikkhunī pubbaṇhasamayaṁ nivāsetvā … pe … aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi.
+
+Atha kho māro pāpimā vijayāya bhikkhuniyā bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo samādhimhā cāvetukāmo yena vijayā bhikkhunī tenupasaṅkami; upasaṅkamitvā vijayaṁ bhikkhuniṁ gāthāya ajjhabhāsi: 
+
+2"Daharā tvaṁ rūpavatī,  
+ahañca daharo susu;  
+Pañcaṅgikena turiyena,  
+ehayyebhiramāmase"ti.
+
+3Atha kho vijayāya bhikkhuniyā etadahosi: "ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī"ti?
+
+Atha kho vijayāya bhikkhuniyā etadahosi: "māro kho ayaṁ pāpimā mama bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo samādhimhā cāvetukāmo gāthaṁ bhāsatī"ti.
+
+
+Atha kho vijayā bhikkhunī "māro ayaṁ pāpimā" iti viditvā māraṁ pāpimantaṁ gāthāhi paccabhāsi: 
+
+4"Rūpā saddā rasā gandhā,  
+phoṭṭhabbā ca manoramā;  
+Niyyātayāmi tuyheva,  
+māra nāhaṁ tenatthikā.
+
+5Iminā pūtikāyena,  
+bhindanena pabhaṅgunā;  
+Aṭṭīyāmi harāyāmi,  
+kāmataṇhā samūhatā.
+
+6Ye ca rūpūpagā sattā,  
+ye ca arūpaṭṭhāyino;  
+Yā ca santā samāpatti,  
+sabbattha vihato tamo"ti.
+
+7Atha kho māro pāpimā "jānāti maṁ vijayā bhikkhunī"ti dukkhī dummano tatthevantaradhāyīti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.220]], [[SA1204]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.220]], [[SA1204]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
+> ◄  [[sn5.3-sujato-pali]] 📜  [[sn5.5-sujato-pali]] ►

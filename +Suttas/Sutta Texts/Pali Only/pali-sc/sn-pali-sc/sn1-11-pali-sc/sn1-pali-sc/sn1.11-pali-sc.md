@@ -1,0 +1,44 @@
+---
+sutta_code: "SN1.11-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.11-PALI]]
+> ◄  [[sn1.10-pali-sc]] 📜  [[sn1.12-pali-sc]] ►
+
+## Saṁyutta Nikāya — The Linked Discourses
+## 1. On Deities
+### II. The Garden of Delight — SN1.11: The Garden of Delight
+
+1Evaṁ me sutaṁ — ekaṁ samayaṁ bhagavā sāvatthiyaṁ vihārati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: "bhikkhavo"ti.
+
+"Bhadante"ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: 
+
+2"Bhūtapubbaṁ, bhikkhave, aññatarā tāvatiṁsakāyikā devatā nandane vane accharāsaṅghaparivutā dibbehi pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārayamānā tāyaṁ velāyaṁ imaṁ gāthaṁ abhāsi: 
+
+3‘Na te sukhaṁ pajānanti,  
+ye na passanti nandanaṁ;  
+Āvāsaṁ naradevānaṁ,  
+tidasānaṁ yasassinan’ti.
+
+4Evaṁ vutte, bhikkhave, aññatarā devatā taṁ devataṁ gāthāya paccabhāsi: 
+
+5‘Na tvaṁ bāle pajānāsi,  
+yathā arahataṁ vaco;  
+Aniccā sabbasaṅkhārā,  
+up pāda vayadhammino;  
+Uppajjitvā nirujjhanti,  
+tesaṁ vūpasamo sukho’"ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

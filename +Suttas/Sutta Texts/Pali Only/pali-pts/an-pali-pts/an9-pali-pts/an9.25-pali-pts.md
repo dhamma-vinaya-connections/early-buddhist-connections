@@ -1,0 +1,27 @@
+---
+sutta_code: "AN9.25-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.25-PALI]]
+> ◄  [[an9.24-pali-pts]] 📜  [[an9.26-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN9.25: Paññā
+
+PTS: A iv 402
+
+Yato kho bhikkhave bhikkhuno paññāya cittaṃ suparicitaṃ hoti, tass'; etaṃ bhikkhave bhikkhuno kallaṃ vacanāya ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā ti pajānāmī'; ti. Kathañ ca bhikkhave bhikkhuno paññāya cittaṃ suparicitaṃ hoti?
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

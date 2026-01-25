@@ -1,0 +1,26 @@
+---
+sutta_code: "AN1.145"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.145]]
+> ◄  [[an1.144-deepseek-pali]] 📜  [[an1.146-deepseek-pali]] ►
+
+# AN 1.145
+
+223. … Upaṭṭhākānaṃ yadidaṃ ānando.
+
+223.… Among those who attend the Blessed One, Ānanda is foremost.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

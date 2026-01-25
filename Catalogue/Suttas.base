@@ -1,0 +1,128 @@
+properties:
+  note.sutta_training:
+    displayName: training
+  note.sutta_stage:
+    displayName: stage
+  note.sutta_method:
+    displayName: method
+  note.sutta_aspect:
+    displayName: aspect
+  note.sutta_prominence:
+    displayName: prominence
+  note.sutta_length:
+    displayName: length
+  note.sutta_teacher:
+    displayName: teacher
+  note.sutta_audience:
+    displayName: audience
+views:
+  - type: table
+    name: catalogue
+    order:
+      - file.name
+      - sutta_title
+      - sutta_theme
+      - sutta_topic
+      - sutta_training
+      - sutta_prominence
+      - sutta_aspect
+      - sutta_stage
+      - sutta_teacher
+      - sutta_audience
+      - sutta_method
+      - sutta_length
+    sort:
+      - property: sutta_theme
+        direction: DESC
+      - property: file.name
+        direction: DESC
+      - property: sutta_title
+        direction: DESC
+      - property: sutta_prominence
+        direction: DESC
+      - property: sutta_length
+        direction: DESC
+    limit: 2
+    columnSize:
+      file.name: 74
+      note.sutta_title: 193
+      note.sutta_theme: 133
+      note.sutta_topic: 144
+      note.sutta_training: 79
+      note.sutta_prominence: 81
+      note.sutta_aspect: 97
+      note.sutta_stage: 96
+      note.sutta_teacher: 94
+      note.sutta_audience: 102
+      note.sutta_method: 89
+      note.sutta_length: 119
+  - type: table
+    name: suttas-themes
+    filters:
+      and:
+        - sutta_theme == this.sutta_theme
+    groupBy:
+      property: sutta_theme
+      direction: ASC
+    order:
+      - file.name
+      - Themes
+      - topics
+    limit: 10
+  - type: list
+    name: sutta-index
+    filters:
+      and:
+        - nikaya == this.nikaya
+    groupBy:
+      property: sutta_chapter
+      direction: ASC
+    order:
+      - file.name
+      - sutta_title
+      - sutta_chapter
+      - sutta_theme
+    limit: 10
+    columnSize:
+      file.name: 74
+      note.sutta_title: 220
+      note.sutta_chapter: 193
+      note.sutta_theme: 133
+  - type: list
+    name: suttas-texts
+    filters:
+      and:
+        - sutta_code == this.sutta_code
+    groupBy:
+      property: sutta_title
+      direction: ASC
+    order:
+      - file.name
+      - language
+      - translator
+      - sutta_title
+    columnSize:
+      file.name: 84
+      note.sutta_title: 246
+      note.translator: 209
+    indentProperties: false
+  - type: table
+    name: vin-index
+    filters:
+      and:
+        - file.folder.contains("Rule Overviews")
+    order:
+      - file.name
+      - vin_gender
+      - vin_gender-corr
+      - vin_title
+    sort:
+      - property: vin_gender
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    limit: 30
+    columnSize:
+      file.name: 74
+      note.vin_gender: 64
+      note.vin_gender-corr: 96

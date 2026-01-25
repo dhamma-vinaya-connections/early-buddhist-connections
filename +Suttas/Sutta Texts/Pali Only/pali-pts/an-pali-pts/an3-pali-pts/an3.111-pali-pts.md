@@ -1,0 +1,30 @@
+---
+sutta_code: "AN3.111-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.111-PALI]]
+> ◄  [[an3.110-pali-pts]] 📜  [[an3.112-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN3.111: Nidāna
+
+PTS: A i 263
+
+Tīṇ'; imāni bhikkhave nidānāni kammānaṃ samudayāya.
+Katamāni tīṇi?
+Lobho nidānaṃ kammānaṃ samudayāya, doso nidānaṃ . . . samudayāya, moho nidānaṃ kammānaṃ samudayāya.
+Yaṃ bhikkhave lobhapakataṃ kammaṃ lobhajaṃ lobhanidānaṃ lobhasamudayaṃ taṃ kammaṃ akusalaṃ taṃ kammaṃ sāvajjaṃ taṃ kammaṃ dukkhavipākaṃ taṃ kammaṃ kammasamudayāya saṃvattati na taṃ kammaṃ kammanirodhāya saṃvattati. Yaṃ bhikkhave dosapakataṃ kammaṃ . . . pe . . . Yaṃ bhikkhave mohapakataṃ kammaṃ mohajaṃ mohanidānaṃ mohasamudayaṃ taṃ kammaṃ akusalaṃ taṃ kammaṃ sāvajjaṃ taṃ kammaṃ dukkhavipākaṃ taṃ kammaṃ kammasamudayāya saṃvattati na taṃ kammaṃ kammanirodhāya saṃvattati. Imāni kho bhikkhave tīṇi nidānāni kammānaṃ samudayāyā ti.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

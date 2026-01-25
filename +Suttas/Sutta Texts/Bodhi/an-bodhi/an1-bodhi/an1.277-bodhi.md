@@ -1,0 +1,38 @@
+---
+sutta_code: "AN1.277"
+sutta_title:
+  - "Aṭṭhāna "
+  - "Impossible"
+sutta-version: "Ven. Bodhi"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.277]]
+> ◄  [[an1.271-bodhi]] 📜  [[an1.278-bodhi]] ►
+
+# AN1.277
+
+> **Division:** XV. IMPOSSIBLE
+
+“It is impossible and inconceivable, bhikkhus, that two arahants who are perfectly enlightened Buddhas \[28\] could arise contemporaneously in one world system; there is no such possibility. But it is possible that one arahant who is a perfectly enlightened Buddha might arise in one world system; there is such a possibility.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN115]] | [[MA181]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[MN115]], [[MA181]] |
+| ------------------------ |
+
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.277]]
+> ◄  [[an1.271-bodhi]] 📜  [[an1.278-bodhi]] ►

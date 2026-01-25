@@ -1,0 +1,32 @@
+---
+sutta_code: "ITI17-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI17-PALI]]
+> ◄  [[iti16-pali-sc]] 📜  [[iti18-pali-sc]] ►
+
+# Iti 17. Saṅghabhedasuttaṃ
+
+
+Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –
+
+‘‘Ekadhammo, bhikkhave, loke uppajjamāno uppajjati bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ. Katamo ekadhammo? Saṅghabhedo. Saṅghe kho pana, bhikkhave, bhinne aññamaññaṃ bhaṇḍanāni ceva honti, aññamaññaṃ paribhāsā ca honti, aññamaññaṃ parikkhepā ca honti, aññamaññaṃ pariccajanā ca honti. Tattha appasannā ceva nappasīdanti, pasannānañca ekaccānaṃ aññathattaṃ hotī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –
+
+‘‘Āpāyiko nerayiko, kappaṭṭho saṅghabhedako;Vaggārāmo adhammaṭṭho, yogakkhemā padhaṃsati [yogakkhemato dhaṃsati (syā. pī.), yogakkhemā vimaṃsati (sī. ka.)];Saṅghaṃ samaggaṃ bhetvāna [bhitvāna (sī. ka.), bhinditvā (cūḷava. 354; a. ni. 10.39)], kappaṃ nirayamhi paccatī’’ti.
+
+
+Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

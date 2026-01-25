@@ -1,0 +1,37 @@
+---
+sutta_code: "AN8.44-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.44-PALI]]
+> ◄  [[an8.43-pali-sc]] 📜  [[an8.45-pali-sc]] ►
+
+## Aṅguttara Nikāya - The Numerical Discourses
+## 8: The Book of the Eights
+### AN 8.44: Vāseṭṭhasutta — With Vāseṭṭha on the Sabbath
+
+1Ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Atha kho vāseṭṭho upāsako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho vāseṭṭhaṁ upāsakaṁ bhagavā etadavoca: 
+
+"Aṭṭhaṅgasamannāgato, vāseṭṭha, uposatho upavuttho mahapphalo hoti … pe … aninditā saggamupenti ṭhānan"ti.
+
+
+2Evaṁ vutte, vāseṭṭho upāsako bhagavantaṁ etadavoca: 
+
+"piyā me, bhante, ñātisālohitā aṭṭhaṅgasamannāgataṁ uposathaṁ upavaseyyuṁ, piyānampi me assa ñātisālohitānaṁ dīgharattaṁ hitāya sukhāya. Sabbe cepi, bhante, khattiyā aṭṭhaṅgasamannāgataṁ uposathaṁ upavaseyyuṁ, sabbesampissa khattiyānaṁ dīgharattaṁ hitāya sukhāya. Sabbe cepi, bhante, brāhmaṇā … pe … vessā … suddā aṭṭhaṅgasamannāgataṁ uposathaṁ upavaseyyuṁ, sabbesampissa suddānaṁ dīgharattaṁ hitāya sukhāyā"ti.
+
+3"Evametaṁ, vāseṭṭha, evametaṁ, vāseṭṭha. Sabbe cepi, vāseṭṭha, khattiyā aṭṭhaṅgasamannāgataṁ uposathaṁ upavaseyyuṁ, sabbesampissa khattiyānaṁ dīgharattaṁ hitāya sukhāya. Sabbe cepi, vāseṭṭha, brāhmaṇā … pe … vessā … suddā aṭṭhaṅgasamannāgataṁ uposathaṁ upavaseyyuṁ, sabbesampissa suddānaṁ dīgharattaṁ hitāya sukhāya. Sadevako cepi, vāseṭṭha, loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā aṭṭhaṅgasamannāgataṁ uposathaṁ upavaseyyuṁ, sadevakassapissa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya dīgharattaṁ hitāya sukhāya. Ime cepi, vāseṭṭha, mahāsālā aṭṭhaṅgasamannāgataṁ uposathaṁ upavaseyyuṁ, imesampissa mahāsālānaṁ dīgharattaṁ hitāya sukhāya (). Ko pana vādo manussabhūtassā"ti.
+
+Catutthaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

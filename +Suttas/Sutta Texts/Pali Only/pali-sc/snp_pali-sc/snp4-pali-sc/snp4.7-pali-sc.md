@@ -1,0 +1,80 @@
+---
+sutta_code: "SNP4.7-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.7-PALI]]
+> ◄  [[snp4.6-pali-sc]] 📜  [[snp4.8-pali-sc]] ►
+
+## Khuddaka Nikāya - The Minor Texts
+## Sutta Nipata
+## Sutta Nipata Chapter 4: The Chapter of the Eights - Aṭṭhakavagga
+### 4:7 With Tissametteyya
+## 4:7 With Tissametteyya
+## Tissametteyyasutta
+
+(iccāyasmā tisso metteyyo):
+
+Vighātaṁ brūhi mārisa;  
+Sutvāna tava sāsanaṁ,  
+Viveke sikkhissāmase".
+
+
+(metteyyāti bhagavā):
+
+Mussate vāpi sāsanaṁ;  
+Micchā ca paṭipajjati,  
+Etaṁ tasmiṁ anāriyaṁ.
+
+816 Eko pubbe caritvāna,  
+methunaṁ yo nisevati;  
+Yānaṁ bhantaṁva taṁ loke,  
+hīnamāhu puthujjanaṁ.
+
+817 Yaso kitti ca yā pubbe,  
+hāyate vāpi tassa sā;  
+methunaṁ vippahātave.
+
+
+818 Saṅkappehi pareto so,  
+kapaṇo viya jhāyati;  
+Sutvā paresaṁ nigghosaṁ,  
+maṅku hoti tathāvidho.
+
+819 Atha satthāni kurute,  
+paravādehi codito;  
+Esa khvassa mahāgedho,  
+mosavajjaṁ pagāhati.
+
+820 Paṇḍitoti samaññāto,  
+ekacariyaṁ adhiṭṭhito;  
+Athāpi methune yutto,  
+
+821 Etamādīnavaṁ ñatvā,  
+Muni pubbāpare idha;  
+Ekacariyaṁ daḷhaṁ kayirā,  
+Na nisevetha methunaṁ.
+
+822 Vivekaññeva sikkhetha,  
+etaṁ ariyānamuttamaṁ;  
+Na tena seṭṭho maññetha,  
+sa ve nibbānasantike.
+
+Kāmesu anapekkhino;  
+Oghatiṇṇassa pihayanti,  
+Kāmesu gadhitā pajā"ti.
+
+Tissametteyyasuttaṁ sattamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

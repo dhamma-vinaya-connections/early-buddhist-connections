@@ -1,0 +1,98 @@
+---
+sutta_code: "ITI30"
+sutta_pts: ""
+sutta_title:
+  - "Tapanīya "
+  - "Mortifying"
+nikaya:
+  - "ITI "
+  - "Itivuttaka"
+sutta_chapter:
+  - "ITI28-49"
+  - "2 Dukanipatavagga"
+  - "Twos"
+  - ""
+sutta_theme:
+  - "Ethics"
+sutta_topic:
+  - "Remorse"
+sutta_training:
+  - "Sīla"
+sutta_stage:
+  - "Intro"
+sutta_method:
+  - "Mixed"
+sutta_aspect:
+  - "Practical"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: ""
+parallels_nikaya:
+  - "[[DHP140]]"
+parallels_agama:
+  - ""
+parallels_partilal:
+  - "[[DHP140]]"
+  - "[[AN5.174]]"
+  - "[[ITI64]]"
+  - "[[AN6.45]]"
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI29]]  🌐 [[ITI31]] ►
+
+# ITI30 - Tapanīya - Mortifying
+## 🌐 Overview
+
+> [!info] Summary
+> Two things that cause remorse
+
+> [!info] Key Excerpts 
+> person who has not done what is admirable, has not done what is skillful, has not given protection to those in fear, instead has done what is evil, savage, & cruel.
+> 
+> To lack ardency and compunction makes you incapable of unbinding.
+> 
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP140]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]] |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BITI30%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BITI30%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BITI30%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI30%5D%5D%22%23mynotes%20-file%3Aiti30-%20-file%3A%22ITI29%22%20-file%3A%22ITI31%22%20-file%3A%22ITI30%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/iti30/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=iti30
+> - The Buddhas Words: https://thebuddhaswords.net/iti/iti30.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI29]]  🌐 [[ITI31]] ►

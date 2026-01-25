@@ -1,0 +1,38 @@
+---
+sutta_code: "SN7.6-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.6-PALI]]
+> ◄  [[sn7.5-pali-pts]] 📜  [[sn7.7-pali-pts]] ►
+
+## Saṃyutta Nikāya
+## SN7.6: Paccanīka
+
+PTS: S i 179
+
+Sāvatthi nidānaṃ || ||
+Tena kho pana samayena Paccanīkasāto nāma brāhmaṇo Sāvatthiyaṃ pativasati || ||
+Atha kho Paccanīkasātassa brāhmaṇassa etad ahosi || ||
+Yaṃ nūnāhaṃ yena samaṇo Gotamo ten-upasaṅkameyyaṃ ||
+yaṃ yad eva samaṇo Gotamo bhāsissati || taṃ tad ev-assāhaṃ paccanīkassan ti || ||
+Tena kho pana samayena Bhagavā ajjhokāse caṅkamati || ||
+Atha kho Paccanīkasāto brāhmaṇo yena Bhagavā ten-upasaṅkami || upasaṅkamitvā Bhagavantam caṅkamantam anucaṅkamamāno Bhagavantam etad avoca || || Bhaṇa samaṇa dhamman ti || ||
+Na Paccanīkasātena || suvijānaṃ subhāsitaṃ ||
+upakkiliṭṭhacittena || sārabbhabahulena ca || ||
+Yo ca vineyya sārabbhaṃ || appasādañ ca cetaso ||
+āghātaṃ paṭinissajja || sa ve jaññā subhāsitan ti || ||
+Evaṃ vutte Paccanīkasāto brāhmaṇo Bhagavantam etad avoca || || Abhikkantam bho Gotama || pa || Upāsakam mam bhavaṃ Gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan ti || ||
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

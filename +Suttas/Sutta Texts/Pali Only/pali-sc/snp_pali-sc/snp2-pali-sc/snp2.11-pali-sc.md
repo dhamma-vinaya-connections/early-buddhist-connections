@@ -1,0 +1,70 @@
+---
+sutta_code: "SNP2.11-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.11-PALI]]
+> ◄  [[snp2.10-pali-sc]] 📜  [[snp2.12-pali-sc]] ►
+
+## Khuddaka Nikāya - The Minor Texts
+## Sutta Nipata
+## Sutta Nipata 2: The Lesser Chapter
+### 2:11 With Rāhula
+## 2:11 With Rāhula
+## Rāhulasutta
+
+335"Kacci abhiṇhasaṁvāsā,  
+nāvajānāsi paṇḍitaṁ;  
+Ukkādhāro manussānaṁ,  
+kacci apacito tayā".
+
+336 "Nāhaṁ abhiṇhasaṁvāsā,  
+avajānāmi paṇḍitaṁ;  
+Ukkādhāro manussānaṁ,  
+niccaṁ apacito mayā".
+
+337 "Pañca kāmaguṇe hitvā,  
+piyarūpe manorame;  
+Saddhāya gharā nikkhamma,  
+
+338 Mitte bhajassu kalyāṇe,  
+pantañca sayanāsanaṁ;  
+Vivittaṁ appanigghosaṁ,  
+mattaññū hohi bhojane.
+
+339 Cīvare piṇḍapāte ca,  
+paccaye sayanāsane;  
+Etesu taṇhaṁ mākāsi,  
+mā lokaṁ punarāgami.
+
+340 Saṁvuto pātimokkhasmiṁ,  
+indriyesu ca pañcasu;  
+Sati kāyagatā tyatthu,  
+nibbidābahulo bhava.
+
+341 Nimittaṁ parivajjehi,  
+subhaṁ rāgūpasañhitaṁ;  
+Asubhāya cittaṁ bhāvehi,  
+ekaggaṁ susamāhitaṁ.
+
+342 Animittañca bhāvehi,  
+Mānānusayamujjaha;  
+Tato mānābhisamayā,  
+Upasanto carissatī"ti.
+
+Itthaṁ sudaṁ bhagavā āyasmantaṁ rāhulaṁ imāhi gāthāhi abhiṇhaṁ ovadatīti.
+
+Rāhulasuttaṁ ekādasamaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,219 @@
+---
+sutta_code: "MN114-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Sc"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114-PALI]]
+> ◄  [[mn113-pali-sc]] 📜  [[mn115-pali-sc]] ►
+
+## Majjhima Nikāya
+## MN114: Sevitabbāsevitabbasutta - What Should and Should Not Be Cultivated
+
+1Evaṁ me sutaṁ — ​ ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: "bhikkhavo"ti.
+
+
+"sevitabbāsevitabbaṁ vo, bhikkhave, dhammapariyāyaṁ desessāmi. Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī"ti.
+
+
+
+2"Kāyasamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ kāyasamācāraṁ.
+
+Vacīsamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ vacīsamācāraṁ.
+
+Manosamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ manosamācāraṁ.
+
+Cittuppādampāhaṁ, bhikkhave, duvidhena vadāmi –  sevitabbampi, asevitabbampi; tañca aññamaññaṁ cittuppādaṁ.
+
+Saññāpaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ saññāpaṭilābhaṁ.
+
+Diṭṭhipaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ diṭṭhipaṭilābhaṁ.
+
+Attabhāvapaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ attabhāvapaṭilābhan"ti.
+
+3Evaṁ vutte āyasmā sāriputto bhagavantaṁ etadavoca: "imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāmi.
+
+
+4‘Kāyasamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ kāyasamācāran’ti — iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+Yathārūpaṁ, bhante, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpo kāyasamācāro na sevitabbo; yathārūpañca kho, bhante, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti, evarūpo kāyasamācāro sevitabbo.
+
+5Kathaṁrūpaṁ, bhante, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco pāṇātipātī hoti luddo lohitapāṇi hatappahate niviṭṭho adayāpanno pāṇabhūtesu; adinnādāyī kho pana hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā taṁ adinnaṁ theyyasaṅkhātaṁ ādātā hoti; kāmesumicchācārī kho pana hoti, yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu cārittaṁ āpajjitā hoti — evarūpaṁ, bhante, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.
+
+6Kathaṁrūpaṁ, bhante, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati; adinnādānaṁ pahāya adinnādānā paṭivirato hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā taṁ nādinnaṁ theyyasaṅkhātaṁ ādātā hoti; kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti, yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu na cārittaṁ āpajjitā hoti — evarūpaṁ, bhante, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.
+
+‘Kāyasamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ kāyasamācāran’ti — iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.
+
+
+7‘Vacīsamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ vacīsamācāran’ti — iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+Yathārūpaṁ, bhante, vacīsamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpo vacīsamācāro na sevitabbo; yathārūpañca kho, bhante, vacīsamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo vacīsamācāro sevitabbo.
+
+8Kathaṁrūpaṁ, bhante, vacīsamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco musāvādī hoti. Sabhāgato vā parisāgato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho: ‘ehambho purisa, yaṁ jānāsi taṁ vadehī’ti so ajānaṁ vā āha: ‘jānāmī’ti, jānaṁ vā āha: ‘Na jānāmī’ti; apassaṁ vā āha: ‘passāmī’ti, passaṁ vā āha: ‘Na passāmī’ti — iti attahetu vā parahetu vā āmisakiñcikkhahetu vā sampajānamusā bhāsitā hoti; pisuṇavāco kho pana hoti, ito sutvā amutra akkhātā imesaṁ bhedāya, amutra vā sutvā imesaṁ akkhātā amūsaṁ bhedāya — iti samaggānaṁ vā bhettā, bhinnānaṁ vā anuppadātā, vaggārāmo, vaggarato, vagganandī, vaggakaraṇiṁ vācaṁ bhāsitā hoti; pharusavāco kho pana hoti, yā sā vācā kaṇḍakā kakkasā pharusā parakaṭukā parābhisajjanī kodhasāmantā asamādhisaṁvattanikā, tathārūpiṁ vācaṁ bhāsitā hoti; samphappalāpī kho pana hoti akālavādī abhūtavādī anatthavādī adhammavādī avinayavādī, anidhānavatiṁ vācaṁ bhāsitā hoti akālena anapadesaṁ apariyantavatiṁ anatthasaṁhitaṁ — evarūpaṁ, bhante, vacīsamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.
+
+9Kathaṁrūpaṁ, bhante, vacīsamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco musāvādaṁ pahāya musāvādā paṭivirato hoti sabhāgato vā parisāgato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho: ‘ehambho purisa, yaṁ jānāsi taṁ vadehī’ti so ajānaṁ vā āha: ‘Na jānāmī’ti, jānaṁ vā āha: ‘jānāmī’ti, apassaṁ vā āha: ‘Na passāmī’ti, passaṁ vā āha: ‘passāmī’ti — iti attahetu vā parahetu vā āmisakiñcikkhahetu vā na sampajānamusā bhāsitā hoti; pisuṇaṁ vācaṁ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā imesaṁ bhedāya, amutra vā sutvā na imesaṁ akkhātā amūsaṁ bhedāya — iti bhinnānaṁ vā sandhātā sahitānaṁ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṁ vācaṁ bhāsitā hoti; pharusaṁ vācaṁ pahāya pharusāya vācāya paṭivirato hoti, yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṁ vācaṁ bhāsitā hoti; samphappalāpaṁ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, nidhānavatiṁ vācaṁ bhāsitā hoti kālena sāpadesaṁ pariyantavatiṁ atthasaṁhitaṁ — evarūpaṁ, bhante, vacīsamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.
+
+‘Vacīsamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ vacīsamācāran’ti — iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.
+
+10‘Manosamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ manosamācāran’ti — iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+Yathārūpaṁ, bhante, manosamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo manosamācāro na sevitabbo; yathārūpañca kho, bhante, manosamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo manosamācāro sevitabbo.
+
+11Kathaṁrūpaṁ, bhante, manosamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco abhijjhālu hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ taṁ abhijjhātā hoti: ‘aho vata yaṁ parassa taṁ mamassā’ti; byāpannacitto kho pana hoti paduṭṭhamanasaṅkappo: ‘ime sattā haññantu vā vajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesun’ti — evarūpaṁ, bhante, manosamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.
+
+12Kathaṁrūpaṁ, bhante, manosamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco anabhijjhālu hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ taṁ nābhijjhātā hoti: ‘aho vata yaṁ parassa taṁ mamassā’ti; abyāpannacitto kho pana hoti appaduṭṭhamanasaṅkappo: ‘ime sattā averā abyābajjhā anīghā sukhī attānaṁ pariharantū’ti — evarūpaṁ, bhante, manosamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.
+
+‘Manosamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ manosamācāran’ti — iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.
+
+13‘Cittuppādampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ cittuppādan’ti — iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+Yathārūpaṁ, bhante, cittuppādaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo cittuppādo na sevitabbo; yathārūpañca kho, bhante, cittuppādaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo cittuppādo sevitabbo.
+
+14Kathaṁrūpaṁ, bhante, cittuppādaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco abhijjhālu hoti, abhijjhāsahagatena cetasā viharati; byāpādavā hoti, byāpādasahagatena cetasā viharati; vihesavā hoti, vihesāsahagatena cetasā viharati — evarūpaṁ, bhante, cittuppādaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.
+
+15Kathaṁrūpaṁ, bhante, cittuppādaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco anabhijjhālu hoti, anabhijjhāsahagatena cetasā viharati; abyāpādavā hoti, abyāpādasahagatena cetasā viharati; avihesavā hoti, avihesāsahagatena cetasā viharati — evarūpaṁ, bhante, cittuppādaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.
+
+‘Cittuppādampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ cittuppādan’ti — iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.
+
+16‘Saññāpaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ saññāpaṭilābhan’ti — iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+Yathārūpaṁ, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo saññāpaṭilābho na sevitabbo; yathārūpañca kho, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo saññāpaṭilābho sevitabbo.
+
+17Kathaṁrūpaṁ, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco abhijjhālu hoti, abhijjhāsahagatāya saññāya viharati; byāpādavā hoti, byāpādasahagatāya saññāya viharati; vihesavā hoti, vihesāsahagatāya saññāya viharati — evarūpaṁ, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.
+
+18Kathaṁrūpaṁ, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco anabhijjhālu hoti, anabhijjhāsahagatāya saññāya viharati; abyāpādavā hoti, abyāpādasahagatāya saññāya viharati; avihesavā hoti, avihesāsahagatāya saññāya viharati –  evarūpaṁ, bhante, saññāpaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.
+
+‘Saññāpaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi –  sevitabbampi, asevitabbampi; tañca aññamaññaṁ saññāpaṭilābhan’ti — iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.
+
+19‘Diṭṭhipaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ diṭṭhipaṭilābhan’ti — iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+Yathārūpaṁ, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo diṭṭhipaṭilābho na sevitabbo; yathārūpañca kho, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti — evarūpo diṭṭhipaṭilābho sevitabbo.
+
+20Kathaṁrūpaṁ, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco evaṁdiṭṭhiko hoti: ‘Natthi dinnaṁ, natthi yiṭṭhaṁ, natthi hutaṁ, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko, natthi ayaṁ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṁ parañca lokaṁ sayaṁ abhiññā sacchikatvā pavedentī’ti — evarūpaṁ, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.
+
+21Kathaṁrūpaṁ, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco evaṁdiṭṭhiko hoti: ‘atthi dinnaṁ, atthi yiṭṭhaṁ, atthi hutaṁ, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko, atthi ayaṁ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṁ parañca lokaṁ sayaṁ abhiññā sacchikatvā pavedentī’ti — evarūpaṁ, bhante, diṭṭhipaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti.
+
+‘Diṭṭhipaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi –  sevitabbampi, asevitabbampi; tañca aññamaññaṁ diṭṭhipaṭilābhan’ti — iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.
+
+
+22‘Attabhāvapaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ attabhāvapaṭilābhan’ti — iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+Yathārūpaṁ, bhante, attabhāvapaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti — evarūpo attabhāvapaṭilābho na sevitabbo; yathārūpañca kho, bhante, attabhāvapaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti — evarūpo attabhāvapaṭilābho sevitabbo.
+
+23Kathaṁrūpaṁ, bhante, attabhāvapaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti?
+
+Sabyābajjhaṁ, bhante, attabhāvapaṭilābhaṁ abhinibbattayato apariniṭṭhitabhāvāya akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti;
+
+abyābajjhaṃ, bhante, attabhāvapaṭilābhaṃ abhinibbattayato pariniṭṭhitabhāvāya akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Attabhāvapaṭilābhampāhaṃ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṃ attabhāvapaṭilābhan’ti — iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ.
+
+‘Attabhāvapaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ attabhāvapaṭilābhan’ti — iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.
+
+24Imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāmī"ti.
+
+
+25"Sādhu sādhu, sāriputta. Sādhu kho tvaṁ, sāriputta, imassa mayā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāsi.
+
+26‘Kāyasamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ kāyasamācāran’ti — iti kho panetaṁ vuttaṁ mayā. Kiñcetaṁ paṭicca vuttaṁ? Yathārūpaṁ, sāriputta, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo kāyasamācāro na sevitabbo; yathārūpañca kho, sāriputta, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti — evarūpo kāyasamācāro sevitabbo.
+
+27Kathaṁrūpaṁ, sāriputta, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, sāriputta, ekacco pāṇātipātī hoti luddo lohitapāṇi hatappahate niviṭṭho adayāpanno pāṇabhūtesu; adinnādāyī kho pana hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā taṁ adinnaṁ theyyasaṅkhātaṁ ādātā hoti; kāmesumicchācārī kho pana hoti, yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu cārittaṁ āpajjitā hoti — evarūpaṁ, sāriputta, kāyasamācāraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.
+
+28Kathaṁrūpaṁ, sāriputta, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, sāriputta, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati; adinnādānaṁ pahāya adinnādānā paṭivirato hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ gāmagataṁ vā araññagataṁ vā taṁ nādinnaṁ theyyasaṅkhātaṁ ādātā hoti; kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti, yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu na cārittaṁ āpajjitā hoti — evarūpaṁ, sāriputta, kāyasamācāraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Kāyasamācārampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ kāyasamācāran’ti — iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ.
+
+29Vacīsamācārampāhaṁ, bhikkhave, duvidhena vadāmi … pe … manosamācārampāhaṁ, bhikkhave, duvidhena vadāmi … pe … cittuppādampāhaṁ, bhikkhave, duvidhena vadāmi … pe … saññāpaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi … pe … diṭṭhipaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi … pe … .
+
+30‘Attabhāvapaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ attabhāvapaṭilābhan’ti — iti kho panetaṁ vuttaṁ mayā. Kiñcetaṁ paṭicca vuttaṁ? Yathārūpaṁ, sāriputta, attabhāvapaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo attabhāvapaṭilābho na sevitabbo; yathārūpañca kho, sāriputta, attabhāvapaṭilābhaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti — evarūpo attabhāvapaṭilābho sevitabbo.
+
+31Kathaṁrūpaṁ, sāriputta, attabhāvapaṭilābhaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Sabyābajjhaṁ, sāriputta, attabhāvapaṭilābhaṁ abhinibbattayato apariniṭṭhitabhāvāya akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti; abyābajjhaṁ, sāriputta, attabhāvapaṭilābhaṁ abhinibbattayato pariniṭṭhitabhāvāya akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Attabhāvapaṭilābhampāhaṁ, bhikkhave, duvidhena vadāmi — sevitabbampi, asevitabbampi; tañca aññamaññaṁ attabhāvapaṭilābhan’ti — iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ. Imassa kho, sāriputta, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo.
+
+
+32Cakkhuviññeyyaṁ rūpampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampi; sotaviññeyyaṁ saddampāhaṁ, sāriputta, duvidhena vadāmi –  sevitabbampi asevitabbampi; ghānaviññeyyaṁ gandhampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampi; jivhāviññeyyaṁ rasampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampi; kāyaviññeyyaṁ phoṭṭhabbampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampi; manoviññeyyaṁ dhammampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī"ti.
+
+
+33Evaṁ vutte, āyasmā sāriputto bhagavantaṁ etadavoca:
+
+"imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāmi.
+
+‘Cakkhuviññeyyaṁ rūpampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti — iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+Yathārūpaṁ, bhante, cakkhuviññeyyaṁ rūpaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṁ cakkhuviññeyyaṁ rūpaṁ na sevitabbaṁ; yathārūpañca kho, bhante, cakkhuviññeyyaṁ rūpaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṁ cakkhuviññeyyaṁ rūpaṁ sevitabbaṁ.
+
+‘Cakkhuviññeyyaṁ rūpampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti — iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.
+
+
+34Sotaviññeyyaṁ saddampāhaṁ, sāriputta … pe … evarūpo sotaviññeyyo saddo na sevitabbo … evarūpo sotaviññeyyo saddo sevitabbo …
+
+evarūpo ghānaviññeyyo gandho na sevitabbo … evarūpo ghānaviññeyyo gandho sevitabbo …
+
+evarūpo jivhāviññeyyo raso na sevitabbo … evarūpo jivhāviññeyyo raso sevitabbo …
+
+kāyaviññeyyaṁ phoṭṭhabbampāhaṁ, sāriputta … evarūpo kāyaviññeyyo phoṭṭhabbo na sevitabbo … evarūpo kāyaviññeyyo phoṭṭhabbo sevitabbo.
+
+35‘Manoviññeyyaṁ dhammampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti — iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+
+Yathārūpaṁ, bhante, manoviññeyyaṁ dhammaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo manoviññeyyo dhammo na sevitabbo; yathārūpañca kho, bhante, manoviññeyyaṁ dhammaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo manoviññeyyo dhammo sevitabbo.
+
+‘Manoviññeyyaṁ dhammampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti — iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.
+
+Imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāmī"ti.
+
+
+36"Sādhu sādhu, sāriputta. Sādhu kho tvaṁ, sāriputta, imassa mayā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāsi. ‘Cakkhuviññeyyaṁ rūpampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti — iti kho panetaṁ vuttaṁ mayā. Kiñcetaṁ paṭicca vuttaṁ? Yathārūpaṁ, sāriputta, cakkhuviññeyyaṁ rūpaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṁ cakkhuviññeyyaṁ rūpaṁ na sevitabbaṁ; yathārūpañca kho, sāriputta, cakkhuviññeyyaṁ rūpaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṁ cakkhuviññeyyaṁ rūpaṁ sevitabbaṁ. ‘Cakkhuviññeyyaṁ rūpampāhaṁ, sāriputta, duvidhena vadāmi –  sevitabbampi, asevitabbampī’ti — iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ.
+
+37Sotaviññeyyaṁ saddampāhaṁ, sāriputta … pe … evarūpo sotaviññeyyo saddo na sevitabbo … evarūpo sotaviññeyyo saddo sevitabbo … evarūpo ghānaviññeyyo gandho na sevitabbo … evarūpo ghānaviññeyyo gandho sevitabbo … evarūpo jivhāviññeyyo raso na sevitabbo … evarūpo jivhāviññeyyo raso sevitabbo … evarūpo kāyaviññeyyo phoṭṭhabbo na sevitabbo … evarūpo kāyaviññeyyo phoṭṭhabbo sevitabbo.
+
+38Manoviññeyyaṁ dhammampāhaṁ, sāriputta … pe … evarūpo manoviññeyyo dhammo na sevitabbo … evarūpo manoviññeyyo dhammo sevitabbo. ‘Manoviññeyyaṁ dhammampāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti — iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ. Imassa kho, sāriputta, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo.
+
+
+39Cīvaraṁpāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampi … pe … piṇḍapātaṁpāhaṁ, sāriputta … senāsanaṁpāhaṁ, sāriputta … gāmampāhaṁ, sāriputta … nigamampāhaṁ, sāriputta … nagarampāhaṁ, sāriputta … janapadampāhaṁ, sāriputta … puggalaṁpāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī"ti.
+
+
+40Evaṁ vutte, āyasmā sāriputto bhagavantaṁ etadavoca: "imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa, evaṁ vitthārena atthaṁ ājānāmi.
+
+‘Cīvaraṁpāhaṁ, sāriputta, duvidhena vadāmi –  sevitabbampi, asevitabbampī’ti — iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+Yathārūpaṁ, bhante, cīvaraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṁ cīvaraṁ na sevitabbaṁ; yathārūpañca kho, bhante, cīvaraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṁ cīvaraṁ sevitabbaṁ.
+
+‘Cīvaraṁpāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti — iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttaṁ.
+
+41Piṇḍapātaṁpāhaṁ, sāriputta … pe … evarūpo piṇḍapāto na sevitabbo … evarūpo piṇḍapāto sevitabbo …
+
+senāsanaṁpāhaṁ, sāriputta … pe … evarūpaṁ senāsanaṁ na sevitabbaṁ … evarūpaṁ senāsanaṁ sevitabbaṁ …
+
+gāmampāhaṁ, sāriputta … pe … evarūpo gāmo na sevitabbo … evarūpo gāmo sevitabbo …
+
+
+evarūpaṁ nagaraṁ na sevitabbaṁ … evarūpaṁ nagaraṁ sevitabbaṁ …
+
+
+42‘Puggalaṁpāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti –  iti kho panetaṁ vuttaṁ bhagavatā. Kiñcetaṁ paṭicca vuttaṁ?
+
+Yathārūpaṁ, bhante, puggalaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo puggalo na sevitabbo; yathārūpañca kho, bhante, puggalaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo puggalo sevitabbo.
+
+‘Puggalaṁpāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti –  iti yaṁ taṁ vuttaṁ bhagavatā idametaṁ paṭicca vuttanti.
+
+Imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa evaṁ vitthārena atthaṁ ājānāmī"ti.
+
+
+43"Sādhu sādhu, sāriputta. Sādhu kho tvaṁ, sāriputta, imassa mayā saṅkhittena bhāsitassa, vitthārena atthaṁ avibhattassa evaṁ vitthārena atthaṁ ājānāsi. ‘Cīvaraṁpāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti –  iti kho panetaṁ vuttaṁ mayā. Kiñcetaṁ paṭicca vuttaṁ? Yathārūpaṁ, sāriputta, cīvaraṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṁ cīvaraṁ na sevitabbaṁ; yathārūpañca kho, sāriputta, cīvaraṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṁ cīvaraṁ sevitabbaṁ. ‘Cīvaraṁpāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti –  iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ. (Yathā paṭhamaṁ tathā vitthāretabbaṁ) Evarūpo piṇḍapāto … evarūpaṁ senāsanaṁ … evarūpo gāmo … evarūpo nigamo … evarūpaṁ nagaraṁ … evarūpo janapado.
+
+44‘Puggalaṁpāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti –  iti kho panetaṁ vuttaṁ mayā. Kiñcetaṁ paṭicca vuttaṁ? Yathārūpaṁ, sāriputta, puggalaṁ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo puggalo na sevitabbo; yathārūpañca kho, sāriputta, puggalaṁ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo puggalo sevitabbo. ‘Puggalaṁpāhaṁ, sāriputta, duvidhena vadāmi — sevitabbampi, asevitabbampī’ti –  iti yaṁ taṁ vuttaṁ mayā idametaṁ paṭicca vuttaṁ. Imassa kho, sāriputta, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo.
+
+45Sabbepi ce, sāriputta, khattiyā imassa mayā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājāneyyuṁ, sabbesānampissa khattiyānaṁ dīgharattaṁ hitāya sukhāya. Sabbepi ce, sāriputta, brāhmaṇā … pe … sabbepi ce, sāriputta, vessā … sabbepi ce, sāriputta, suddā imassa mayā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājāneyyuṁ, sabbesānampissa suddānaṁ dīgharattaṁ hitāya sukhāya. Sadevakopi ce, sāriputta, loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā imassa mayā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājāneyya, sadevakassapissa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya dīgharattaṁ hitāya sukhāyā"ti.
+
+
+46Idamavoca bhagavā. Attamano āyasmā sāriputto bhagavato bhāsitaṁ abhinandīti.
+
+### Sevitabbāsevitabbasuttaṁ niṭṭhitaṁ catutthaṁ.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,34 @@
+---
+sutta_code: "AN5.70"
+sutta_title:
+  - "Āsavakkhayasutta "
+  - "Ending of Defilements"
+sutta-version: "Ven. Bodhi"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.70]]
+> ◄  [[an5.69-bodhi]] 📜  [[an5.71-bodhi]] ►
+
+# AN5.70 Destruction of the Taints
+
+> **Division:** II. PERCEPTIONS
+
+“Bhikkhus, these five things, when developed and cultivated, lead to the destruction of the taints. What five? Here, a bhikkhu dwells contemplating the unattractiveness of the body, perceiving the repulsiveness of food, perceiving non-delight in the entire world, contemplating impermanence in all conditioned phenomena; and he has the perception of death well established internally. These five things, when developed and cultivated, lead to the destruction of the taints.” \[84\]
+
+## III. FUTURE PERILS
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 83 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.70]]
+> ◄  [[an5.69-bodhi]] 📜  [[an5.71-bodhi]] ►

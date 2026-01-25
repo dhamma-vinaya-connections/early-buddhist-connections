@@ -1,0 +1,30 @@
+---
+sutta_code: "AN2.143"
+sutta_title:
+  - "Santhāra "
+  - "Welcome"
+sutta-version: "Deep Seek"
+language: "Pali"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.143]]
+> ◄  [[an2.142-deepseek-pali]] 📜  [[an2.144-deepseek-pali]] ►
+
+# AN 2.143
+
+143."Monks, there are these two sacrifices. Which two? The sacrifice of material things and the sacrifice of the Dhamma. These, monks, are the two sacrifices. Of these two sacrifices, the sacrifice of the Dhamma is the foremost."
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 92 |
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.143]]
+> ◄  [[an2.142-deepseek-pali]] 📜  [[an2.144-deepseek-pali]] ►

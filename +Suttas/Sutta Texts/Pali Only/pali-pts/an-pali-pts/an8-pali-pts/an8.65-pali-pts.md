@@ -1,0 +1,27 @@
+---
+sutta_code: "AN8.65-PALI"
+sutta_title:
+  - " "
+  - ""
+sutta-version: "Ven. Pts"
+language: "English"
+---
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.65-PALI]]
+> ◄  [[an8.64-pali-pts]] 📜  [[an8.66-pali-pts]] ►
+
+## Aṅguttara Nikāya
+## AN8.65: Abhibhāyatana
+
+PTS: A iv 305
+
+Aṭṭh'; imāni bhikkhave abhibhāyatanāni. Katamāni aṭṭha?
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+

@@ -1,0 +1,97 @@
+---
+sutta_code: "AN1.48"
+sutta_pts: "A i 10"
+sutta_title:
+  - "Paṇihitaaccha "
+  - "Spike"
+nikaya:
+  - "AN "
+  - "Aṅguttara Nikāya"
+sutta_chapter:
+  - "AN1"
+  - "Paṇihitaacchvagga"
+  - "Spike"
+  - ""
+sutta_theme:
+  - "Mind traits"
+sutta_topic:
+  - "Mind radiant"
+sutta_training:
+  - "Samādhi"
+sutta_stage:
+  - "Beginning"
+sutta_method:
+  - "Lecture"
+sutta_aspect:
+  - "Doctrinal"
+sutta_prominence:
+  - ""
+sutta_length:
+  - "Brief"
+sutta_formula:
+  - ""
+sutta_teacher:
+  - "Buddha"
+sutta_audience:
+  - "Bhikkhus"
+sutta_simile: "Lake that was transparent, clear, and unclouded a person can see through like mind is not clouded would know what’s for their own and others  good, or they would realize any superhuman distinction in knowledge and vision"
+parallels_nikaya:
+  - ""
+parallels_agama:
+  - ""
+parallels_partilal:
+  - ""
+---
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.47]]  🌐 [[AN1.49]] ►
+
+# AN1.48 - Paṇihitaaccha - Spike
+## 🌐 Overview
+
+> [!info] Summary
+> This mind, mendicants, is radiant. But It’s corrupted by passing corruptions
+
+> [!info] Key Excerpts 
+> I do not see a single thing that’s as quick to change as the mind but when mind is pointing the right way can break ignorance,
+> 
+> Depravity of mind is the reason to reborn in bad place, and clarity of mind to reborn in good place
+> 
+
+> [!info] Similes
+> Lake that was transparent, clear, and unclouded a person can see through like mind is not clouded would know what’s for their own and others  good, or they would realize any superhuman distinction in knowledge and vision
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Sutta texts and translations
+> ![[Suttas.base#suttas-texts]]
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 10 |
+> > [!check]- Partial parallels 
+> > 
+|  |
+| ------------------------ |
+
+
+> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
+> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+
+> [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN1.48%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN1.48%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
+> 
+> Search for any community contributions like books, selections, anthologies, etc. That have a link to this sutta **and** have the property [contribution]
+
+> [!example]- [🔍Indexes](obsidian://search?query=%22%5B%5BAN1.48%5D%5D%22%20%5Bcontribution%3Aindex%5D) by subject, similes or nikayas
+
+> [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.48%5D%5D%22%23mynotes%20-file%3Aan1.48-%20-file%3A%22AN1.47%22%20-file%3A%22AN1.49%22%20-file%3A%22AN1.48%22) (expand for info)
+> This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
+
+>[!info]- Expand for more [[Online Resources]]
+>
+> - Sutta Central: https://suttacentral.net/an1.48/en/sujato
+> - Dhamma Gift: https://dhamma.gift/read/?q=an1.48
+> - The Buddhas Words: https://thebuddhaswords.net/an/an1.48.html
+
+> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.47]]  🌐 [[AN1.49]] ►
