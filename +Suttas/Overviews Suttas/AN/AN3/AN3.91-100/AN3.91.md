@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.83]], [[AN3.84]], [[SN54.10]]"
 parallels_agama: "[[SA813]], [[SA829]], [[SA830-831]], [[SA966]]"
 parallels_partilal: "[[SA830-831]], [[AN3.84]], [[SA829]], [[SN54.10]], [[SA813]], [[AN10.83]], [[SA966]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.90]]  🌐 [[AN3.92]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.90]]  🌐 [[AN3.92]] ►
 
 # AN3.91 - Saṅkavā - At Paṅkadhā
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA830-831]], [[AN3.84]], [[SA829]], [[SN54.10]], [[SA813]
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.91%5D%5D%22%23mynotes%20-file%3Aan3.91-%20-file%3A%22AN3.90%22%20-file%3A%22AN3.92%22%20-file%3A%22AN3.91%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.91/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.91
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.91.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.90]]  🌐 [[AN3.92]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.90]]  🌐 [[AN3.92]] ►

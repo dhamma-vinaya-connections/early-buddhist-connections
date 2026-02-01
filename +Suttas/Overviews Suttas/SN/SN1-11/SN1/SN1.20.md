@@ -38,7 +38,7 @@ parallels_nikaya: "[[JA167]]"
 parallels_agama: "[[SA-2.17]], [[SA1078]]"
 parallels_partilal: "[[ITI63]], [[SA-2.17]], [[SA1078]], [[JA167]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.19]]  🌐 [[SN1.21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.19]]  🌐 [[SN1.21]] ►
 
 # SN1.20 - Samiddhisutta - Samiddhi
 ## 🌐 Overview
@@ -84,10 +84,10 @@ Having given up sensual pleasures, mindful and aware,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.20%5D%5D%22%23mynotes%20-file%3Asn1.20-%20-file%3A%22SN1.19%22%20-file%3A%22SN1.21%22%20-file%3A%22SN1.20%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.20
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.20.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.19]]  🌐 [[SN1.21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.19]]  🌐 [[SN1.21]] ►

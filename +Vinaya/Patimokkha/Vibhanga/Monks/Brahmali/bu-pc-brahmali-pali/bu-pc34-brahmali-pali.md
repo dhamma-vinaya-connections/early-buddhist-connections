@@ -4,7 +4,7 @@ vin_title: "Dvittipattapūrapaṭiggahaṇa - Accepting Two or Three Bowls Full"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
 > ◄  [[bu-pc33-brahmali-pali]] 📜  [[bu-pc35-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -164,5 +164,5 @@ Atha kho tassa upāsakassa pātheyyaṁ paṭiyādetvā pacchā gacchantassa cor
 >|       |          | [[ñanatusita-analysis#^PC34]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
 > ◄  [[bu-pc33-brahmali-pali]] 📜  [[bu-pc35-brahmali-pali]] ►

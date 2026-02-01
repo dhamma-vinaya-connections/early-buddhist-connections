@@ -4,7 +4,7 @@ vin_title: "Vikālagāmappavisana - Entering a Village at the Wrong Time"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
 > ◄  [[bu-pc84-brahmali-pali]] 📜  [[bu-pc86-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -204,5 +204,5 @@ Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 >|       |          | [[ñanatusita-analysis#^PC85]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
 > ◄  [[bu-pc84-brahmali-pali]] 📜  [[bu-pc86-brahmali-pali]] ►

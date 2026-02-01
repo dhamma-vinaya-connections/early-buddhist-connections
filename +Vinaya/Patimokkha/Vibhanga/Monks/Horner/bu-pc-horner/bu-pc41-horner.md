@@ -4,7 +4,7 @@ vin_title: "Acelaka - Food Giving to Ascetics"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
 > ◄  [[bu-pc40-horner]] 📜  [[bu-pc42-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 41
@@ -89,5 +89,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC41]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
 > ◄  [[bu-pc40-horner]] 📜  [[bu-pc42-horner]] ►

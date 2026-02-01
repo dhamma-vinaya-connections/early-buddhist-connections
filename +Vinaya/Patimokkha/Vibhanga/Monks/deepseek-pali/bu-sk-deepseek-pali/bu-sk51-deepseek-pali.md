@@ -4,7 +4,7 @@ vin_title: "Surusurukāraka - Slurping"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK51]]
 > ◄  [[bu-sk50-deepseek-pali]] 📜  [[bu-sk52-deepseek-pali]] ►
 
 # BU-SK 51
@@ -43,5 +43,5 @@ The ninth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK51]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK51]]
 > ◄  [[bu-sk50-deepseek-pali]] 📜  [[bu-sk52-deepseek-pali]] ►

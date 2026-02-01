@@ -4,7 +4,7 @@ vin_title: "Vikālabhojana - Eating at Wrong Time"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC120]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC120]]
 > ◄  [[bni-pc119-brahmali-pali]] 📜  [[bni-pc121-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -126,5 +126,5 @@ Kāle vikālasaññī, āpatti dukkaṭassa. Kāle vematiko, āpatti dukkaṭass
 >|       |          | [[ñanatusita-analysis#^-PC120]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC120]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC120]]
 > ◄  [[bni-pc119-brahmali-pali]] 📜  [[bni-pc121-brahmali-pali]] ►

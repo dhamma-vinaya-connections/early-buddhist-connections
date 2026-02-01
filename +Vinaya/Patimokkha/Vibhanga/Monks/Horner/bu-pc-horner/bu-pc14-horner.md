@@ -4,7 +4,7 @@ vin_title: "Mañcasanthārana - Leaving Furniture Outside"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
 > ◄  [[bu-pc13-horner]] 📜  [[bu-pc15-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 14
@@ -81,5 +81,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC14]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
 > ◄  [[bu-pc13-horner]] 📜  [[bu-pc15-horner]] ►

@@ -4,7 +4,7 @@ vin_title: "Pesuñña - Divisive Talebearing"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
 > ◄  [[bu-pc2-deepseek-pali]] 📜  [[bu-pc4-deepseek-pali]] ►
 
 # BU-PC 3
@@ -179,5 +179,5 @@ The third training rule on tale-bearing is concluded.
 >|       |          | [[ñanatusita-analysis#^PC3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
 > ◄  [[bu-pc2-deepseek-pali]] 📜  [[bu-pc4-deepseek-pali]] ►

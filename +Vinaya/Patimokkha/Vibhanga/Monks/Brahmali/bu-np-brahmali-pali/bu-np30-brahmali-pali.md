@@ -4,7 +4,7 @@ vin_title: "Pariṇata - Offerings Intended for the Sangha"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP30]]
 > ◄  [[bu-np29-brahmali-pali]] 📜  [[BU-PC1]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -182,5 +182,5 @@ sāsaṅkaṁ saṇghikena cāti.
 >|       |          | [[ñanatusita-analysis#^NP30]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP30]]
 > ◄  [[bu-np29-brahmali-pali]] 📜  [[BU-PC1]] ►

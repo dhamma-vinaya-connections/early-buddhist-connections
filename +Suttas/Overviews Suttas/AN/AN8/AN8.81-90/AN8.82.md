@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.83]]"
 parallels_agama: "[[SA966]]"
 parallels_partilal: "[[AN10.83]], [[SA966]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.81]]  🌐 [[AN8.83]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.81]]  🌐 [[AN8.83]] ►
 
 # AN8.82 - Puṇṇiya - With Puṇṇiya
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN10.83]], [[SA966]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.82%5D%5D%22%23mynotes%20-file%3Aan8.82-%20-file%3A%22AN8.81%22%20-file%3A%22AN8.83%22%20-file%3A%22AN8.82%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.82/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.82
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.82.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.81]]  🌐 [[AN8.83]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.81]]  🌐 [[AN8.83]] ►

@@ -4,7 +4,7 @@ vin_title: "Kayavikkaya - Bartering"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP20]]
 > ◄  [[bu-np19-horner]] 📜  [[bu-np21-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 20
@@ -84,5 +84,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP20]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP20]]
 > ◄  [[bu-np19-horner]] 📜  [[bu-np21-horner]] ►

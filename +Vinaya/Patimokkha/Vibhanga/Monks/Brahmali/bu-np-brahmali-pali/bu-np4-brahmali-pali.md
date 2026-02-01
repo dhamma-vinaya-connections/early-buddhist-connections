@@ -4,7 +4,7 @@ vin_title: "Purāṇacīvara - Robes Used"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
 > ◄  [[bu-np3-brahmali-pali]] 📜  [[bu-np5-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -162,5 +162,5 @@ Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhi
 >|       |          | [[ñanatusita-analysis#^NP4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
 > ◄  [[bu-np3-brahmali-pali]] 📜  [[bu-np5-brahmali-pali]] ►

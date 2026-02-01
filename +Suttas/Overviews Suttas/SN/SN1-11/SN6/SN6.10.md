@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN6.9]]"
 parallels_agama: "[[EA21.5]], [[SA-2.276]], [[SA1278]]"
 parallels_partilal: "[[SN6.9]], [[AN10.89]], [[SNP3.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.9]]  🌐 [[SN6.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.9]]  🌐 [[SN6.11]] ►
 
 # SN6.10 - Kokālikasutta - Kokalika (2)
 ## 🌐 Overview
@@ -86,10 +86,10 @@ You’ll never find happiness that way
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN6.10%5D%5D%22%23mynotes%20-file%3Asn6.10-%20-file%3A%22SN6.9%22%20-file%3A%22SN6.11%22%20-file%3A%22SN6.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn6.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.9]]  🌐 [[SN6.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.9]]  🌐 [[SN6.11]] ►

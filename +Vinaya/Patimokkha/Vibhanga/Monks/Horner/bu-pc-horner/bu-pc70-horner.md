@@ -4,7 +4,7 @@ vin_title: "Samaṇuddesaantarāyika - Obstructions and a Novice"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC70]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC70]]
 > ◄  [[bu-pc69-horner]] 📜  [[bu-pc71-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 70
@@ -100,5 +100,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC70]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC70]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC70]]
 > ◄  [[bu-pc69-horner]] 📜  [[bu-pc71-horner]] ►

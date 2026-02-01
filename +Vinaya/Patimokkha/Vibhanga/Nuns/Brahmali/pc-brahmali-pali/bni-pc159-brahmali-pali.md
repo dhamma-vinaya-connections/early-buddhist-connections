@@ -4,7 +4,7 @@ vin_title: "Dubbala - Criticizing Robe Distribution"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC159]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC159]]
 > ◄  [[bni-pc158-brahmali-pali]] 📜  [[bni-pc160-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -124,5 +124,5 @@ Adhammakamme dhammakammasaññī, āpatti dukkaṭassa. Adhammakamme vematiko, �
 >|       |          | [[ñanatusita-analysis#^-PC159]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC159]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC159]]
 > ◄  [[bni-pc158-brahmali-pali]] 📜  [[bni-pc160-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP386]], [[DHP403]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP386]], [[MN98]], [[SNP3.9]], [[DHP403]], [[AN3.33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.13]]  🌐 [[SNP5.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.13]]  🌐 [[SNP5.15]] ►
 
 # SNP5.14 - Udayamāṇavapucchā - Questions of the Student Udaya
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[DHP386]], [[MN98]], [[SNP3.9]], [[DHP403]], [[AN3.33]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP5.14%5D%5D%22%23mynotes%20-file%3Asnp5.14-%20-file%3A%22SNP5.13%22%20-file%3A%22SNP5.15%22%20-file%3A%22SNP5.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp5.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.14
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.13]]  🌐 [[SNP5.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.13]]  🌐 [[SNP5.15]] ►

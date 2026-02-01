@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.21]], [[MN12]], [[SN12.21-22]], [[SN52.15-24]]"
 parallels_agama: "[[EA27.6]], [[EA31.8]], [[EA46.4]], [[EA50.6]], [[SA612]], [[SA684]], [[SA701]]"
 parallels_partilal: "[[EA27.6]], [[MN12]], [[AN10.21]], [[EA46.4]], [[SA684]], [[SA701]], [[EA31.8]], [[EA50.6]], [[SA612]], [[SN12.21-22]], [[SN52.15-24]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.7]]  🌐 [[AN4.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.7]]  🌐 [[AN4.9]] ►
 
 # AN4.8 - Vesārajja - Self Assured
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA27.6]], [[MN12]], [[AN10.21]], [[EA46.4]], [[SA684]], [
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.8%5D%5D%22%23mynotes%20-file%3Aan4.8-%20-file%3A%22AN4.7%22%20-file%3A%22AN4.9%22%20-file%3A%22AN4.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.8
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.7]]  🌐 [[AN4.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.7]]  🌐 [[AN4.9]] ►

@@ -4,7 +4,7 @@ vin_title: "Attakāmpāricariya - Encouraging Someone to Serve One’s Desires"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
 > ◄  [[bu-ss3-brahmali-pali]] 📜  [[bu-ss5-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -406,5 +406,5 @@ Tassa kukkuccaṁ ahosi … pe … "āpattiṁ tvaṁ, bhikkhu, āpanno saṅgh�
 >|       |          | [[ñanatusita-analysis#^SS4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
 > ◄  [[bu-ss3-brahmali-pali]] 📜  [[bu-ss5-brahmali-pali]] ►

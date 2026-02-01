@@ -4,7 +4,7 @@ vin_title: "Anāhaṭa - Without Bringing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK41]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK41]]
 > ◄  [[bni-sk40-brahmali-pali]] 📜  [[bni-sk42-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -60,5 +60,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^-SK41]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK41]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK41]]
 > ◄  [[bni-sk40-brahmali-pali]] 📜  [[bni-sk42-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN7.55]]"
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA5]]  🌐 [[MA7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA5]]  🌐 [[MA7]] ►
 
 # MA6 - 善人往 - Destination of a Good Person
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMA6%5D%5D%22%23mynotes%20-file%3Ama6-%20-file%3A%22MA5%22%20-file%3A%22MA7%22%20-file%3A%22MA6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ma6/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA5]]  🌐 [[MA7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA5]]  🌐 [[MA7]] ►

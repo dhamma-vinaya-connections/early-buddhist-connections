@@ -4,7 +4,7 @@ vin_title: "Upakkhata - Robes Fine Request From Robe Fund"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP8]]
 > ◄  [[bu-np7-deepseek-pali]] 📜  [[bu-np9-deepseek-pali]] ►
 
 # BU-NP 8
@@ -123,5 +123,5 @@ The eighth training rule, concerning what is prepared, is concluded.
 >|       |          | [[ñanatusita-analysis#^NP8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP8]]
 > ◄  [[bu-np7-deepseek-pali]] 📜  [[bu-np9-deepseek-pali]] ►

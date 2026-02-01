@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN7.13]]"
 parallels_agama: ""
 parallels_partilal: "[[AN7.13]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.16]]  🌐 [[AN9.18]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.16]]  🌐 [[AN9.18]] ►
 
 # AN9.17 - Devatā - Deity
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN7.13]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.17%5D%5D%22%23mynotes%20-file%3Aan9.17-%20-file%3A%22AN9.16%22%20-file%3A%22AN9.18%22%20-file%3A%22AN9.17%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.17/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.17
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.17.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.16]]  🌐 [[AN9.18]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.16]]  🌐 [[AN9.18]] ►

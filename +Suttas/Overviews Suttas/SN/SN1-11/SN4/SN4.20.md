@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP186-187]]"
 parallels_agama: "[[SA1098]]"
 parallels_partilal: "[[SA1098]], [[DHP186-187]], [[JA258]], [[SN4.21]], [[PE1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.19]]  🌐 [[SN4.21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.19]]  🌐 [[SN4.21]] ►
 
 # SN4.20 - Rajjasutta - Rulership
 ## 🌐 Overview
@@ -83,10 +83,10 @@ A person should train for its removal
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.20%5D%5D%22%23mynotes%20-file%3Asn4.20-%20-file%3A%22SN4.19%22%20-file%3A%22SN4.21%22%20-file%3A%22SN4.20%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.20
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.20.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.19]]  🌐 [[SN4.21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.19]]  🌐 [[SN4.21]] ►

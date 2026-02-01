@@ -4,7 +4,7 @@ vin_title: "Sabbahattha - Whole Hand"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK42]]
 > ◄  [[bu-sk41-deepseek-pali]] 📜  [[bu-sk43-deepseek-pali]] ►
 
 # BU-SK 42
@@ -51,5 +51,5 @@ The fourth chapter is the chapter on Respectful Conduct.
 >|       |          | [[ñanatusita-analysis#^SK42]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK42]]
 > ◄  [[bu-sk41-deepseek-pali]] 📜  [[bu-sk43-deepseek-pali]] ►

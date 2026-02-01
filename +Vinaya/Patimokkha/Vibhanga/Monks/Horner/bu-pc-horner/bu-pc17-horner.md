@@ -4,7 +4,7 @@ vin_title: "Nikkaḍḍhana - Throwing Out"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
 > ◄  [[bu-pc16-horner]] 📜  [[bu-pc18-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 17
@@ -93,5 +93,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC17]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
 > ◄  [[bu-pc16-horner]] 📜  [[bu-pc18-horner]] ►

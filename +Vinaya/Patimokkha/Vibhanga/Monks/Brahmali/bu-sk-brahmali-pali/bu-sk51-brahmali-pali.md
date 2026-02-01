@@ -4,7 +4,7 @@ vin_title: "Surusurukāraka - Slurping"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK51]]
 > ◄  [[bu-sk50-brahmali-pali]] 📜  [[bu-sk52-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -86,5 +86,5 @@ Atha kho bhagavā taṁ bhikkhuṁ anekapariyāyena vigarahitvā dubbharatāya �
 >|       |          | [[ñanatusita-analysis#^SK51]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK51]]
 > ◄  [[bu-sk50-brahmali-pali]] 📜  [[bu-sk52-brahmali-pali]] ►

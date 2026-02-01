@@ -38,7 +38,7 @@ parallels_nikaya: "[[MN2]]"
 parallels_agama: "[[EA40.6]], [[MA10]]"
 parallels_partilal: "[[MN2]], [[EA40.6]], [[MA10]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.57]]  🌐 [[AN6.59]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.57]]  🌐 [[AN6.59]] ►
 
 # AN6.58 - Āsava - Defilements
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MN2]], [[EA40.6]], [[MA10]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.58%5D%5D%22%23mynotes%20-file%3Aan6.58-%20-file%3A%22AN6.57%22%20-file%3A%22AN6.59%22%20-file%3A%22AN6.58%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.58/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.58
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.58.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.57]]  🌐 [[AN6.59]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.57]]  🌐 [[AN6.59]] ►

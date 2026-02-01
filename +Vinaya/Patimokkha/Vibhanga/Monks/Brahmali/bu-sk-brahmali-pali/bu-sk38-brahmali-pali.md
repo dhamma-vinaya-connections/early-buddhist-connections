@@ -4,7 +4,7 @@ vin_title: "Ujjhānasaññī - Finding Fault"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK38]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK38]]
 > ◄  [[bu-sk37-brahmali-pali]] 📜  [[bu-sk39-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -60,5 +60,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^SK38]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK38]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK38]]
 > ◄  [[bu-sk37-brahmali-pali]] 📜  [[bu-sk39-brahmali-pali]] ►

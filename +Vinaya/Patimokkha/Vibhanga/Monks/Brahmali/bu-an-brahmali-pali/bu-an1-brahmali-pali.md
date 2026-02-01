@@ -4,7 +4,7 @@ vin_title: "Paṭhamaaniyata - Undetermined Offense 1st"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
 > ◄  [[BU-SS13]] 📜  [[bu-an2-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -174,5 +174,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṁ, moghapurisa, mātug�
 >|       |          | [[ñanatusita-analysis#^AN1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
 > ◄  [[BU-SS13]] 📜  [[bu-an2-brahmali-pali]] ►

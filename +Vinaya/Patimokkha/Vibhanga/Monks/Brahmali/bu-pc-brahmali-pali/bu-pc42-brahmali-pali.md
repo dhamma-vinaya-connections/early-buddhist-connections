@@ -4,7 +4,7 @@ vin_title: "Uyyojana - Sending a Bhikkhu Back from Almsround"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
 > ◄  [[bu-pc41-brahmali-pali]] 📜  [[bu-pc43-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -116,5 +116,5 @@ Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko,
 >|       |          | [[ñanatusita-analysis#^PC42]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
 > ◄  [[bu-pc41-brahmali-pali]] 📜  [[bu-pc43-brahmali-pali]] ►

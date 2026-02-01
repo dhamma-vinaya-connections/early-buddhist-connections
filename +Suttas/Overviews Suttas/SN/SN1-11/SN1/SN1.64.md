@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.237]], [[SA1010]]"
 parallels_partilal: "[[SA-2.237]], [[SA1010]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.63]]  🌐 [[SN1.65]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.63]]  🌐 [[SN1.65]] ►
 
 # SN1.64 - Saṁyojanasutta - Fetter
 ## 🌐 Overview
@@ -86,10 +86,10 @@ To cut off all bondage.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.64%5D%5D%22%23mynotes%20-file%3Asn1.64-%20-file%3A%22SN1.63%22%20-file%3A%22SN1.65%22%20-file%3A%22SN1.64%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.64/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.64
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.64.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.63]]  🌐 [[SN1.65]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.63]]  🌐 [[SN1.65]] ►

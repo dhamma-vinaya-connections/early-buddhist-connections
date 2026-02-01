@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-3.6]]"
 parallels_partilal: "[[SA-3.6]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.19]]  🌐 [[AN3.21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.19]]  🌐 [[AN3.21]] ►
 
 # AN3.20 - Paṭhamapāpaṇika - Shopkeeper
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-3.6]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.20%5D%5D%22%23mynotes%20-file%3Aan3.20-%20-file%3A%22AN3.19%22%20-file%3A%22AN3.21%22%20-file%3A%22AN3.20%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.20
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.20.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.19]]  🌐 [[AN3.21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.19]]  🌐 [[AN3.21]] ►

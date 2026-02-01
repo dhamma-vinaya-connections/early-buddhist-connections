@@ -4,7 +4,7 @@ index:
 rule_type: "BNI-AS - Adhikarana samatha - Settling issues"
 vin_gender: "Nuns"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-AS 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-AS 
 
 # BNI-AS - Adhikarana samatha - Settling issues
 

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.41]]  🌐 [[AN4.43]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.41]]  🌐 [[AN4.43]] ►
 
 # AN4.42 - Pañhabyākaraṇa - Answering Questions
 ## 🌐 Overview
@@ -86,10 +86,10 @@ In the four types of questions
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.42%5D%5D%22%23mynotes%20-file%3Aan4.42-%20-file%3A%22AN4.41%22%20-file%3A%22AN4.43%22%20-file%3A%22AN4.42%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.42/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.42
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.42.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.41]]  🌐 [[AN4.43]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.41]]  🌐 [[AN4.43]] ►

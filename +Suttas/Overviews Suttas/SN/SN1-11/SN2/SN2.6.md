@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.312]], [[SA1313]]"
 parallels_partilal: "[[SA-2.312]], [[SA1313]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.5]]  🌐 [[SN2.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.5]]  🌐 [[SN2.7]] ►
 
 # SN2.6 - Kāmadasutta - Kamada
 ## 🌐 Overview
@@ -83,10 +83,10 @@ Contentment brings happiness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.6%5D%5D%22%23mynotes%20-file%3Asn2.6-%20-file%3A%22SN2.5%22%20-file%3A%22SN2.7%22%20-file%3A%22SN2.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.6
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.5]]  🌐 [[SN2.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.5]]  🌐 [[SN2.7]] ►

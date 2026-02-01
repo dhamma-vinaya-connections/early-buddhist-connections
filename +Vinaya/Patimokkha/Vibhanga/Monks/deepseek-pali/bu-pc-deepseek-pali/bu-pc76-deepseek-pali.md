@@ -4,7 +4,7 @@ vin_title: "Amūlaka - Groundless Accusation"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC76]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC76]]
 > ◄  [[bu-pc75-deepseek-pali]] 📜  [[bu-pc77-deepseek-pali]] ►
 
 # BU-PC 76
@@ -71,5 +71,5 @@ The Training Rule on Groundless Accusation, the sixth, is concluded.
 >|       |          | [[ñanatusita-analysis#^PC76]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC76]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC76]]
 > ◄  [[bu-pc75-deepseek-pali]] 📜  [[bu-pc77-deepseek-pali]] ►

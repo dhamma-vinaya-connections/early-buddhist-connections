@@ -40,7 +40,7 @@ parallels_nikaya: "[[SN1.23]]"
 parallels_agama: "[[SA-2.100]], [[SA-2.173]], [[SA1186-1187]], [[SA599]]"
 parallels_partilal: "[[SA-2.100]], [[SA1186-1187]], [[SN1.23]], [[JA497]], [[SN11.19]], [[SA-2.173]], [[SA599]], [[PE2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.5]]  🌐 [[SN7.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.5]]  🌐 [[SN7.7]] ►
 
 # SN7.6 - Jaṭāsutta - Tangle
 ## 🌐 Overview
@@ -90,10 +90,10 @@ You’ll attain the highest happiness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.6%5D%5D%22%23mynotes%20-file%3Asn7.6-%20-file%3A%22SN7.5%22%20-file%3A%22SN7.7%22%20-file%3A%22SN7.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.6
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.5]]  🌐 [[SN7.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.5]]  🌐 [[SN7.7]] ►

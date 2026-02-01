@@ -4,7 +4,7 @@ vin_title: "Kosiya - Blanket Silk"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP11]]
 > ◄  [[bu-np10-brahmali-pali]] 📜  [[bu-np12-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -116,5 +116,5 @@ Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhi
 >|       |          | [[ñanatusita-analysis#^NP11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP11]]
 > ◄  [[bu-np10-brahmali-pali]] 📜  [[bu-np12-brahmali-pali]] ►

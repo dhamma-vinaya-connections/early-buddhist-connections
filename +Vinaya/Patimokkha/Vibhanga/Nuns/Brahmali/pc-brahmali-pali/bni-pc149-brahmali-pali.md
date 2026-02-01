@@ -4,7 +4,7 @@ vin_title: "Sahadhammika - Legitimate Correction"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC149]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC149]]
 > ◄  [[bni-pc148-brahmali-pali]] 📜  [[bni-pc150-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -138,5 +138,5 @@ Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko,
 >|       |          | [[ñanatusita-analysis#^-PC149]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC149]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC149]]
 > ◄  [[bni-pc148-brahmali-pali]] 📜  [[bni-pc150-brahmali-pali]] ►

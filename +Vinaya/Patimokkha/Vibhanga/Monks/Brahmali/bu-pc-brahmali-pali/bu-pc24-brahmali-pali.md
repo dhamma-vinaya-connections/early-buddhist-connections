@@ -4,7 +4,7 @@ vin_title: "Āmisa - Teaching Nuns for Profit"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC24]]
 > ◄  [[bu-pc23-brahmali-pali]] 📜  [[bu-pc25-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -96,5 +96,5 @@ Adhammakamme dhammakammasaññī, āpatti dukkaṭassa. Adhammakamme vematiko, �
 >|       |          | [[ñanatusita-analysis#^PC24]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC24]]
 > ◄  [[bu-pc23-brahmali-pali]] 📜  [[bu-pc25-brahmali-pali]] ►

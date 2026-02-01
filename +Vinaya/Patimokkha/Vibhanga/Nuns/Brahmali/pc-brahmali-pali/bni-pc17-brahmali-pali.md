@@ -4,7 +4,7 @@ vin_title: "Anāpucchāsantharaṇa - Laying Bedding Without Permission"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC17]]
 > ◄  [[bni-pc16-brahmali-pali]] 📜  [[bni-pc18-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -142,5 +142,5 @@ p_2V_2758Sattamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC17]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC17]]
 > ◄  [[bni-pc16-brahmali-pali]] 📜  [[bni-pc18-brahmali-pali]] ►

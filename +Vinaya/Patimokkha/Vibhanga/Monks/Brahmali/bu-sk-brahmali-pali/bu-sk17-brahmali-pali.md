@@ -4,7 +4,7 @@ vin_title: "Bāhuppacālaka - Arms Swinging"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK17]]
 > ◄  [[bu-sk16-brahmali-pali]] 📜  [[bu-sk18-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -60,5 +60,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^SK17]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK17]]
 > ◄  [[bu-sk16-brahmali-pali]] 📜  [[bu-sk18-brahmali-pali]] ►

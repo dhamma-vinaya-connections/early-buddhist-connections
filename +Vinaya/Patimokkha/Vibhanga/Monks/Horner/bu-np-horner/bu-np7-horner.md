@@ -4,7 +4,7 @@ vin_title: "Tatuttari - Robes Accept to Many"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
 > ◄  [[bu-np6-horner]] 📜  [[bu-np8-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 7
@@ -85,5 +85,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
 > ◄  [[bu-np6-horner]] 📜  [[bu-np8-horner]] ►

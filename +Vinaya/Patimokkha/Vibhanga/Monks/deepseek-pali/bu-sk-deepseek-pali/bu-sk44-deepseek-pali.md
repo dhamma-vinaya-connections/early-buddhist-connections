@@ -4,7 +4,7 @@ vin_title: "Piṇḍukkhepaka - Lifted Lump"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK44]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK44]]
 > ◄  [[bu-sk43-deepseek-pali]] 📜  [[bu-sk45-deepseek-pali]] ►
 
 # BU-SK 44
@@ -43,5 +43,5 @@ The second training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK44]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK44]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK44]]
 > ◄  [[bu-sk43-deepseek-pali]] 📜  [[bu-sk45-deepseek-pali]] ►

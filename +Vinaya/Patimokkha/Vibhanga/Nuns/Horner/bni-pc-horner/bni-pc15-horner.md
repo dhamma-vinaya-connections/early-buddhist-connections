@@ -4,7 +4,7 @@ vin_title: "Anāpucchāpakkamana - Departing Without Taking Leave"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC15]]
 > ◄  [[bni-pc14-horner]] 📜  [[bni-pc16-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 15
@@ -71,5 +71,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC15]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC15]]
 > ◄  [[bni-pc14-horner]] 📜  [[bni-pc16-horner]] ►

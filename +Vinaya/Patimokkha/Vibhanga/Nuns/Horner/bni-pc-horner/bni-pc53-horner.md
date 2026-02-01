@@ -4,7 +4,7 @@ vin_title: "Gaṇaparibhāsana - Reviling a Group"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC53]]
 > ◄  [[bni-pc52-horner]] 📜  [[bni-pc54-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 53
@@ -55,5 +55,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC53]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC53]]
 > ◄  [[bni-pc52-horner]] 📜  [[bni-pc54-horner]] ►

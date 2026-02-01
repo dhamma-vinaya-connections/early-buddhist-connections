@@ -4,7 +4,7 @@ vin_title: "Kāyappacālaka - Swaying"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK16]]
 > ◄  [[bni-sk15-brahmali-pali]] 📜  [[bni-sk17-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -60,5 +60,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^-SK16]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK16]]
 > ◄  [[bni-sk15-brahmali-pali]] 📜  [[bni-sk17-brahmali-pali]] ►

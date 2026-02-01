@@ -40,7 +40,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.80]]  🌐 [[AN3.82]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.80]]  🌐 [[AN3.82]] ►
 
 # AN3.81 - Samaṇa - Ascetics
 ## 🌐 Overview
@@ -84,10 +84,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.81%5D%5D%22%23mynotes%20-file%3Aan3.81-%20-file%3A%22AN3.80%22%20-file%3A%22AN3.82%22%20-file%3A%22AN3.81%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.81/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.81
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.81.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.80]]  🌐 [[AN3.82]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.80]]  🌐 [[AN3.82]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP386]], [[DHP396]], [[DHP397]], [[DHP398]], [[DHP399]], [
 parallels_agama: ""
 parallels_partilal: "[[MN98]], [[DHP386]], [[SNP5.14]], [[DHP396]], [[DHP397]], [[DHP398]], [[DHP399]], [[DHP400]], [[DHP401]], [[DHP402]], [[DHP403]], [[DHP404]], [[DHP405]], [[DHP406]], [[DHP407]], [[DHP408]], [[DHP409]], [[DHP410]], [[DHP411]], [[DHP412]], [[DHP413]], [[DHP414]], [[DHP415]], [[DHP416]], [[DHP417]], [[DHP418]], [[DHP419]], [[DHP420]], [[DHP421]], [[DHP422]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[SN7.13]], [[SN7.8]], [[THIG4.1]], [[THAG12.2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.8]]  🌐 [[SNP3.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.8]]  🌐 [[SNP3.10]] ►
 
 # SNP3.9 - Vāseṭṭhasutta - With Vāseṭṭha
 ## 🌐 Overview
@@ -90,10 +90,10 @@ He’s what I call a brahman.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP3.9%5D%5D%22%23mynotes%20-file%3Asnp3.9-%20-file%3A%22SNP3.8%22%20-file%3A%22SNP3.10%22%20-file%3A%22SNP3.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp3.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.9
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.8]]  🌐 [[SNP3.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.8]]  🌐 [[SNP3.10]] ►

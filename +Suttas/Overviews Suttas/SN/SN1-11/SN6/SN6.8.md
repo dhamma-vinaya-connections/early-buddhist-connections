@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.106]], [[SA-3.5]], [[SA1193]]"
 parallels_partilal: "[[SA-2.106]], [[SA-3.5]], [[SA1193]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.7]]  🌐 [[SN6.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.7]]  🌐 [[SN6.9]] ►
 
 # SN6.8 - Katamodakatissasutta - Tissaka
 ## 🌐 Overview
@@ -86,10 +86,10 @@ You’ll never find happiness that way
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN6.8%5D%5D%22%23mynotes%20-file%3Asn6.8-%20-file%3A%22SN6.7%22%20-file%3A%22SN6.9%22%20-file%3A%22SN6.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn6.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.7]]  🌐 [[SN6.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.7]]  🌐 [[SN6.9]] ►

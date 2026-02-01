@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN4.49]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI57]]  🌐 [[ITI59]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI57]]  🌐 [[ITI59]] ►
 
 # ITI58 - Tanha - Craving
 ## 🌐 Overview
@@ -87,10 +87,10 @@ have gone  beyond.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI58%5D%5D%22%23mynotes%20-file%3Aiti58-%20-file%3A%22ITI57%22%20-file%3A%22ITI59%22%20-file%3A%22ITI58%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti58/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti58
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti58.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI57]]  🌐 [[ITI59]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI57]]  🌐 [[ITI59]] ►

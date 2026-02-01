@@ -4,7 +4,7 @@ vin_title: "Ukkhittaka - Robes lifted up"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK10]]
 > ◄  [[bu-sk9-brahmali-pali]] 📜  [[bu-sk11-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -60,5 +60,5 @@ Parimaṇḍalavaggo paṭhamo.
 >|       |          | [[ñanatusita-analysis#^SK10]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK10]]
 > ◄  [[bu-sk9-brahmali-pali]] 📜  [[bu-sk11-brahmali-pali]] ►

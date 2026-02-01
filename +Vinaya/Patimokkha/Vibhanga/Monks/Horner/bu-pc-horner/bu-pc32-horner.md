@@ -4,7 +4,7 @@ vin_title: "Gaṇabhojana - Eating in Group"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
 > ◄  [[bu-pc31-horner]] 📜  [[bu-pc33-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 32
@@ -171,5 +171,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC32]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
 > ◄  [[bu-pc31-horner]] 📜  [[bu-pc33-horner]] ►

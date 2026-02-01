@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN1.12]]"
 parallels_agama: "[[SA-2.142]], [[SA1004]]"
 parallels_partilal: "[[SN1.12]], [[SA-2.142]], [[SA1004]], [[SNP1.2]], [[PE2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.7]]  🌐 [[SN4.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.7]]  🌐 [[SN4.9]] ►
 
 # SN4.8 - Nandatisutta - He Delights
 ## 🌐 Overview
@@ -82,10 +82,10 @@ For attachments are a man’s sorrow
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.8%5D%5D%22%23mynotes%20-file%3Asn4.8-%20-file%3A%22SN4.7%22%20-file%3A%22SN4.9%22%20-file%3A%22SN4.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.7]]  🌐 [[SN4.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.7]]  🌐 [[SN4.9]] ►

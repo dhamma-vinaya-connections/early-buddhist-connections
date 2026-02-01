@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.13]], [[AN4.275]]"
 parallels_agama: "[[SA875]], [[SA876]]"
 parallels_partilal: "[[AN4.13]], [[SA875]], [[SA876]], [[AN4.275]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.68]]  🌐 [[AN4.70]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.68]]  🌐 [[AN4.70]] ►
 
 # AN4.69 - Padhāna - Effort
 ## 🌐 Overview
@@ -81,10 +81,10 @@ May attain the ending of suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.69%5D%5D%22%23mynotes%20-file%3Aan4.69-%20-file%3A%22AN4.68%22%20-file%3A%22AN4.70%22%20-file%3A%22AN4.69%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.69/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.69
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.69.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.68]]  🌐 [[AN4.70]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.68]]  🌐 [[AN4.70]] ►

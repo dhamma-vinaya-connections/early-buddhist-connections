@@ -4,7 +4,7 @@ vin_title: "Pavattinī-nānubandhana - Not Following Mentor"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC69]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC69]]
 > ◄  [[bni-pc68-brahmali-pali]] 📜  [[bni-pc70-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -84,5 +84,5 @@ p_2V_3284Navamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC69]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC69]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC69]]
 > ◄  [[bni-pc68-brahmali-pali]] 📜  [[bni-pc70-brahmali-pali]] ►

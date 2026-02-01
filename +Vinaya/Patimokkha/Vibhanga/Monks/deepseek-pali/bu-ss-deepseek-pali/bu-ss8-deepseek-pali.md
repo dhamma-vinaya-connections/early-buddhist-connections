@@ -4,7 +4,7 @@ vin_title: "Duṭṭhadosa - Groundless Out of Anger"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS8]]
 > ◄  [[bu-ss7-deepseek-pali]] 📜  [[bu-ss9-deepseek-pali]] ►
 
 # BU-SN 8
@@ -295,5 +295,5 @@ The eighth training rule concerning malicious accusation is concluded.
 >|       |          | [[ñanatusita-analysis#^SS8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS8]]
 > ◄  [[bu-ss7-deepseek-pali]] 📜  [[bu-ss9-deepseek-pali]] ►

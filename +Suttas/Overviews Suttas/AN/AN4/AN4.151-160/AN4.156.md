@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA50.9]]"
 parallels_partilal: "[[EA50.9]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.155]]  🌐 [[AN4.157]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.155]]  🌐 [[AN4.157]] ►
 
 # AN4.156 - Kappa - Eons
 ## 🌐 Overview
@@ -81,10 +81,10 @@ How many years, how many hundreds or thousands or hundreds of thousands of years
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.156%5D%5D%22%23mynotes%20-file%3Aan4.156-%20-file%3A%22AN4.155%22%20-file%3A%22AN4.157%22%20-file%3A%22AN4.156%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.156/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.156
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.156.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.155]]  🌐 [[AN4.157]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.155]]  🌐 [[AN4.157]] ►

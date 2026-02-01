@@ -25,7 +25,7 @@ vin_sangha_acts:
 vin_gender: "Monks"
 vin_gender-corr: "BNI-PC99"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC2]] 🌐 [[BU-PC4]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC2]] 🌐 [[BU-PC4]] ►
 
 # Monks - Pacittiya - Confession
 ## 1 Musāvāda-Vaggo - 1 Lies
@@ -88,8 +88,8 @@ vin_gender-corr: "BNI-PC99"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBU-PC3%5D%5D%22%23mynotes%20-file%3Abu-pc3-%20-file%3A%22BU-PC3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+> [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-pc?view=normal
 
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC2]] 🌐 [[BU-PC4]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC2]] 🌐 [[BU-PC4]] ►

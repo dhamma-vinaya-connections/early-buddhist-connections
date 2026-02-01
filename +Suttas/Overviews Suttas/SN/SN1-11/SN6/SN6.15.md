@@ -38,7 +38,7 @@ parallels_nikaya: "[[JA95]]"
 parallels_agama: "[[SA-2.110]], [[SA1197]]"
 parallels_partilal: "[[SA-2.110]], [[SA1197]], [[DN16]], [[THAG16.9]], [[JA95]], [[DN17]], [[SN15.20]], [[THAG20.1]], [[SN1.11]], [[THAG17.3]], [[JA547]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.14]]  🌐 [[SN7.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.14]]  🌐 [[SN7.1]] ►
 
 # SN6.15 - Parinibbānasutta - Final Nibbāna
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SA-2.110]], [[SA1197]], [[DN16]], [[THAG16.9]], [[JA95]],
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN6.15%5D%5D%22%23mynotes%20-file%3Asn6.15-%20-file%3A%22SN6.14%22%20-file%3A%22SN7.1%22%20-file%3A%22SN6.15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn6.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.15
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.15.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.14]]  🌐 [[SN7.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.14]]  🌐 [[SN7.1]] ►

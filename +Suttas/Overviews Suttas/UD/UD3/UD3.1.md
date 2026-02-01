@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.10]]  🌐 [[UD3.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.10]]  🌐 [[UD3.2]] ►
 
 # UD3.1 - Kamma Sutta - Former Action/Action
 ## 🌐 Overview
@@ -92,10 +92,10 @@ trembles not at pleasure and pain.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD3.1%5D%5D%22%23mynotes%20-file%3Aud3.1-%20-file%3A%22UD2.10%22%20-file%3A%22UD3.2%22%20-file%3A%22UD3.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud3.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud3.1
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud3.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.10]]  🌐 [[UD3.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.10]]  🌐 [[UD3.2]] ►

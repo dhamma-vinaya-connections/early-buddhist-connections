@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.7]]  🌐 [[SNP5.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.7]]  🌐 [[SNP5.9]] ►
 
 # SNP5.8 - Nandamāṇavapucchā - Questions of the Student Nanda
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP5.8%5D%5D%22%23mynotes%20-file%3Asnp5.8-%20-file%3A%22SNP5.7%22%20-file%3A%22SNP5.9%22%20-file%3A%22SNP5.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp5.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.8
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.7]]  🌐 [[SNP5.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.7]]  🌐 [[SNP5.9]] ►

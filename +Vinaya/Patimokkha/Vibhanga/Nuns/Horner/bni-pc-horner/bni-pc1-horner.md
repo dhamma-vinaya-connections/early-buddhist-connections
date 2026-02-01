@@ -4,7 +4,7 @@ vin_title: "Lasuṇa - Garlic"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC1]]
 > ◄  [[BNI-NP30]] 📜  [[bni-pc2-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 1
@@ -70,5 +70,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC1]]
 > ◄  [[BNI-NP30]] 📜  [[bni-pc2-horner]] ►

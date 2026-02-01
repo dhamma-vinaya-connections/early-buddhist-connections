@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.77]]  🌐 [[SN1.79]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.77]]  🌐 [[SN1.79]] ►
 
 # SN1.78 - Kāmasutta - Love
 ## 🌐 Overview
@@ -86,10 +86,10 @@ The most excellent of speakers is the Buddha .
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.78%5D%5D%22%23mynotes%20-file%3Asn1.78-%20-file%3A%22SN1.77%22%20-file%3A%22SN1.79%22%20-file%3A%22SN1.78%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.78/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.78
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.78.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.77]]  🌐 [[SN1.79]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.77]]  🌐 [[SN1.79]] ►

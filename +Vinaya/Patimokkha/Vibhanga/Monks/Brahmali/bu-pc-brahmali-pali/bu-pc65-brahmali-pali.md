@@ -4,7 +4,7 @@ vin_title: "Ūnavīsativassa - Ordaining Under 20"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
 > ◄  [[bu-pc64-brahmali-pali]] 📜  [[bu-pc66-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -151,5 +151,5 @@ Paripuṇṇavīsativasse ūnavīsativassasaññī, āpatti dukkaṭassa. Paripu
 >|       |          | [[ñanatusita-analysis#^PC65]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
 > ◄  [[bu-pc64-brahmali-pali]] 📜  [[bu-pc66-brahmali-pali]] ►

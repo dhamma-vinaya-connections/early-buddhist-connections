@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[THAG18.1]], [[AN2.8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI41]]  🌐 [[ITI43]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI41]]  🌐 [[ITI43]] ►
 
 # ITI42 - Sukkadhamma - Bright Protectors
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[THAG18.1]], [[AN2.8]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI42%5D%5D%22%23mynotes%20-file%3Aiti42-%20-file%3A%22ITI41%22%20-file%3A%22ITI43%22%20-file%3A%22ITI42%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti42/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti42
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti42.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI41]]  🌐 [[ITI43]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI41]]  🌐 [[ITI43]] ►

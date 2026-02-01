@@ -4,7 +4,7 @@ vin_title: "Kammapaṭibāhana - Obstructive Legal Procedure"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC79]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC79]]
 > ◄  [[bu-pc78-brahmali-pali]] 📜  [[bu-pc80-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -111,5 +111,5 @@ Adhammakamme dhammakammasaññī, āpatti dukkaṭassa. Adhammakamme vematiko, �
 >|       |          | [[ñanatusita-analysis#^PC79]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC79]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC79]]
 > ◄  [[bu-pc78-brahmali-pali]] 📜  [[bu-pc80-brahmali-pali]] ►

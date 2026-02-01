@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PE3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP7]]  🌐 [[DHP9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP7]]  🌐 [[DHP9]] ►
 
 # DHP8 - Sahassavagga - Thousands
 ## 🌐 Overview
@@ -88,10 +88,10 @@ unethical and lacking immersion.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP8%5D%5D%22%23mynotes%20-file%3Adhp8-%20-file%3A%22DHP7%22%20-file%3A%22DHP9%22%20-file%3A%22DHP8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp8
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP7]]  🌐 [[DHP9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP7]]  🌐 [[DHP9]] ►

@@ -4,7 +4,7 @@ vin_title: "Mahāpesakāra - Bribing Weavers"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP27]]
 > ◄  [[bu-np26-horner]] 📜  [[bu-np28-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 27
@@ -105,5 +105,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP27]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP27]]
 > ◄  [[bu-np26-horner]] 📜  [[bu-np28-horner]] ►

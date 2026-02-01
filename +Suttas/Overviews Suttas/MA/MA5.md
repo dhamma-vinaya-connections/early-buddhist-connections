@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN7.72]]"
 parallels_agama: "[[EA33.10]]"
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA4]]  🌐 [[MA6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA4]]  🌐 [[MA6]] ►
 
 # MA5 - 木積喻 - Parable of the Heap of Wood
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMA5%5D%5D%22%23mynotes%20-file%3Ama5-%20-file%3A%22MA4%22%20-file%3A%22MA6%22%20-file%3A%22MA5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ma5/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA4]]  🌐 [[MA6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA4]]  🌐 [[MA6]] ►

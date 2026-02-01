@@ -4,7 +4,7 @@ vin_title: "Gaṇaparibhāsana - Reviling a Group"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC53]]
 > ◄  [[bni-pc52-brahmali-pali]] 📜  [[bni-pc54-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -122,5 +122,5 @@ p_2V_3123Tatiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC53]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC53]]
 > ◄  [[bni-pc52-brahmali-pali]] 📜  [[bni-pc54-brahmali-pali]] ►

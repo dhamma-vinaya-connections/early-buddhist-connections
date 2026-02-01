@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA9.6]]"
 parallels_partilal: "[[EA9.6]], [[ITI21]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.43]]  🌐 [[AN1.45]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.43]]  🌐 [[AN1.45]] ►
 
 # AN1.44 - Paṇihitaaccha - Spike
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[EA9.6]], [[ITI21]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.44%5D%5D%22%23mynotes%20-file%3Aan1.44-%20-file%3A%22AN1.43%22%20-file%3A%22AN1.45%22%20-file%3A%22AN1.44%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.44/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.44
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.44.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.43]]  🌐 [[AN1.45]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.43]]  🌐 [[AN1.45]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SN3.2]], [[SN3.23]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI49]]  🌐 [[ITI51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI49]]  🌐 [[ITI51]] ►
 
 # ITI50 - Mūla - Roots
 ## 🌐 Overview
@@ -86,10 +86,10 @@ of the bamboo.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI50%5D%5D%22%23mynotes%20-file%3Aiti50-%20-file%3A%22ITI49%22%20-file%3A%22ITI51%22%20-file%3A%22ITI50%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti50/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti50
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti50.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI49]]  🌐 [[ITI51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI49]]  🌐 [[ITI51]] ►

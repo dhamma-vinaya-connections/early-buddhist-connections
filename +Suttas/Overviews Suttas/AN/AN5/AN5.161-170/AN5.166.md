@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA22]]"
 parallels_partilal: "[[MA22]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.165]]  🌐 [[AN5.167]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.165]]  🌐 [[AN5.167]] ►
 
 # AN5.166 - Nirodha - Cessation
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MA22]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.166%5D%5D%22%23mynotes%20-file%3Aan5.166-%20-file%3A%22AN5.165%22%20-file%3A%22AN5.167%22%20-file%3A%22AN5.166%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.166/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.166
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.166.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.165]]  🌐 [[AN5.167]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.165]]  🌐 [[AN5.167]] ►

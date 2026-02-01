@@ -4,7 +4,7 @@ vin_title: "Ekamañcatuvaṭṭana - Lying on the Same Bed"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC31]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC31]]
 > ◄  [[bni-pc30-brahmali-pali]] 📜  [[bni-pc32-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -84,5 +84,5 @@ p_2V_2891Paṭhamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC31]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC31]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC31]]
 > ◄  [[bni-pc30-brahmali-pali]] 📜  [[bni-pc32-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN4.68]], [[PLI-TV-KD17]], [[SN17.35]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.11]]  🌐 [[SN6.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.11]]  🌐 [[SN6.13]] ►
 
 # SN6.12 - Andhakavindasutta - Andhakavinda
 ## 🌐 Overview
@@ -82,10 +82,10 @@ So do honours destroy the scoundrel
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN6.12%5D%5D%22%23mynotes%20-file%3Asn6.12-%20-file%3A%22SN6.11%22%20-file%3A%22SN6.13%22%20-file%3A%22SN6.12%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn6.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.12
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.12.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.11]]  🌐 [[SN6.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.11]]  🌐 [[SN6.13]] ►

@@ -4,7 +4,7 @@ vin_title: "Surāpāna - Alcohol Drinking"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
 > ◄  [[bu-pc50-deepseek-pali]] 📜  [[bu-pc52-deepseek-pali]] ►
 
 # BU-PC 51
@@ -75,5 +75,5 @@ The first training rule on intoxicants is finished.
 >|       |          | [[ñanatusita-analysis#^PC51]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
 > ◄  [[bu-pc50-deepseek-pali]] 📜  [[bu-pc52-deepseek-pali]] ►

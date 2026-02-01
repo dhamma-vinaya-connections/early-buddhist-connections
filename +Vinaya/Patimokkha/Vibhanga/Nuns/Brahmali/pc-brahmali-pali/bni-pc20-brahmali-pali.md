@@ -4,7 +4,7 @@ vin_title: "Rodana - Crying"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC20]]
 > ◄  [[bni-pc19-brahmali-pali]] 📜  [[bni-pc21-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -85,5 +85,5 @@ Andhakāravaggo dutiyo.
 >|       |          | [[ñanatusita-analysis#^-PC20]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC20]]
 > ◄  [[bni-pc19-brahmali-pali]] 📜  [[bni-pc21-brahmali-pali]] ►

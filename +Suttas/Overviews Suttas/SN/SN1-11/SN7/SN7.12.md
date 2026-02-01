@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.80]], [[SA1157]]"
 parallels_partilal: "[[SA-2.80]], [[SA1157]], [[THAG10.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.11]]  🌐 [[SN7.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.11]]  🌐 [[SN7.13]] ►
 
 # SN7.12 - Udayasutta - Udaya
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Of not becoming over again
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.12%5D%5D%22%23mynotes%20-file%3Asn7.12-%20-file%3A%22SN7.11%22%20-file%3A%22SN7.13%22%20-file%3A%22SN7.12%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.12
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.12.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.11]]  🌐 [[SN7.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.11]]  🌐 [[SN7.13]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[JA424]], [[JA450]], [[SN1.32]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.32]]  🌐 [[SN1.34]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.32]]  🌐 [[SN1.34]] ►
 
 # SN1.33 - Sādhusutta - Good
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[JA424]], [[JA450]], [[SN1.32]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.33%5D%5D%22%23mynotes%20-file%3Asn1.33-%20-file%3A%22SN1.32%22%20-file%3A%22SN1.34%22%20-file%3A%22SN1.33%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.33/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.33
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.33.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.32]]  🌐 [[SN1.34]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.32]]  🌐 [[SN1.34]] ►

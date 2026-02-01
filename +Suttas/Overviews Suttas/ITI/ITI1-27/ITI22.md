@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN7.62]], [[ITI60]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI21]]  🌐 [[ITI23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI21]]  🌐 [[ITI23]] ►
 
 # ITI22 - Metta - Benefits of love
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[AN7.62]], [[ITI60]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI22%5D%5D%22%23mynotes%20-file%3Aiti22-%20-file%3A%22ITI21%22%20-file%3A%22ITI23%22%20-file%3A%22ITI22%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti22/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti22
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti22.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI21]]  🌐 [[ITI23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI21]]  🌐 [[ITI23]] ►

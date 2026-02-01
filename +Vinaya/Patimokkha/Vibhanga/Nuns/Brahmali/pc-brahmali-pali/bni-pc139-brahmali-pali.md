@@ -4,7 +4,7 @@ vin_title: "Dubbaṇṇakaraṇa - Stains Making"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC139]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC139]]
 > ◄  [[bni-pc138-brahmali-pali]] 📜  [[bni-pc140-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -124,5 +124,5 @@ Bhikkhū na sañjānanti. Te ujjhāyanti khiyyanti vipācenti:
 >|       |          | [[ñanatusita-analysis#^-PC139]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC139]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC139]]
 > ◄  [[bni-pc138-brahmali-pali]] 📜  [[bni-pc140-brahmali-pali]] ►

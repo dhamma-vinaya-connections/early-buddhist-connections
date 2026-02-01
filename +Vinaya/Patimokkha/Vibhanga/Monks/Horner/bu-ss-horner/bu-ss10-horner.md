@@ -4,7 +4,7 @@ vin_title: "Saṅghabheda - Schism in the Saṅgha"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS10]]
 > ◄  [[bu-ss9-horner]] 📜  [[bu-ss11-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 10
@@ -107,5 +107,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS10]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS10]]
 > ◄  [[bu-ss9-horner]] 📜  [[bu-ss11-horner]] ►

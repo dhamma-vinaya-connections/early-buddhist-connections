@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.218]], [[SA1202]]"
 parallels_partilal: "[[SA-2.218]], [[SA1202]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.9]]  🌐 [[SN6.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.9]]  🌐 [[SN6.1]] ►
 
 # SN5.10 - Vajirāsutta - Vajira
 ## 🌐 Overview
@@ -88,10 +88,10 @@ So too, when the aggregates are present
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN5.10%5D%5D%22%23mynotes%20-file%3Asn5.10-%20-file%3A%22SN5.9%22%20-file%3A%22SN6.1%22%20-file%3A%22SN5.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn5.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.9]]  🌐 [[SN6.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.9]]  🌐 [[SN6.1]] ►

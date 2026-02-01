@@ -4,7 +4,7 @@ vin_title: "Antovassa - During the Rainy Season"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC39]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC39]]
 > ◄  [[bni-pc38-brahmali-pali]] 📜  [[bni-pc40-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -88,5 +88,5 @@ p_2V_2981Navamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC39]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC39]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC39]]
 > ◄  [[bni-pc38-brahmali-pali]] 📜  [[bni-pc40-brahmali-pali]] ►

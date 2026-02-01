@@ -4,7 +4,7 @@ vin_title: "Susaṁvuta - Being well-restrained"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK6]]
 > ◄  [[bu-sk5-deepseek-pali]] 📜  [[bu-sk7-deepseek-pali]] ►
 
 # BU-SK 6
@@ -43,5 +43,5 @@ The fifth training rule is complete.
 >|       |          | [[ñanatusita-analysis#^SK6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK6]]
 > ◄  [[bu-sk5-deepseek-pali]] 📜  [[bu-sk7-deepseek-pali]] ►

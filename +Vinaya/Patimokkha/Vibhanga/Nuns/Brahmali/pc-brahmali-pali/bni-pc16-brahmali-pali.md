@@ -4,7 +4,7 @@ vin_title: "Anāpucchāabhinisīdana - Sitting Without Permission"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC16]]
 > ◄  [[bni-pc15-brahmali-pali]] 📜  [[bni-pc17-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -116,5 +116,5 @@ p_2V_2746Chaṭṭhasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC16]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC16]]
 > ◄  [[bni-pc15-brahmali-pali]] 📜  [[bni-pc17-brahmali-pali]] ►

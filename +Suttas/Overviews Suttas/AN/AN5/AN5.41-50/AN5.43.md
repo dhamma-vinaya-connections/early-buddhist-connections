@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[ITI23]], [[SN3.17]], [[SN3.18]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.42]]  🌐 [[AN5.44]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.42]]  🌐 [[AN5.44]] ►
 
 # AN5.43 - Ittha - Likable
 ## 🌐 Overview
@@ -81,10 +81,10 @@ In making merit
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.43%5D%5D%22%23mynotes%20-file%3Aan5.43-%20-file%3A%22AN5.42%22%20-file%3A%22AN5.44%22%20-file%3A%22AN5.43%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.43/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.43
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.43.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.42]]  🌐 [[AN5.44]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.42]]  🌐 [[AN5.44]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.131-139]]  🌐 [[AN1.150]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.131-139]]  🌐 [[AN1.150]] ►
 
 # AN1.140 - Adhamma - Not The Teachings
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.140%5D%5D%22%23mynotes%20-file%3Aan1.140-%20-file%3A%22AN1.131-139%22%20-file%3A%22AN1.150%22%20-file%3A%22AN1.140%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.140/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.140
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.140.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.131-139]]  🌐 [[AN1.150]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.131-139]]  🌐 [[AN1.150]] ►

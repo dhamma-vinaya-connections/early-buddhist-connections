@@ -4,7 +4,7 @@ vin_title: "Bhikkhunī-ummaddāpana - Getting Nuns to Massage"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC90]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC90]]
 > ◄  [[bni-pc89-brahmali-pali]] 📜  [[bni-pc91-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -84,5 +84,5 @@ p_2V_3489Sattamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC90]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC90]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC90]]
 > ◄  [[bni-pc89-brahmali-pali]] 📜  [[bni-pc91-brahmali-pali]] ►

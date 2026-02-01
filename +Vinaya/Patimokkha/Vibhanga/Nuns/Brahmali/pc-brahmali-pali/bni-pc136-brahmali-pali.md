@@ -4,7 +4,7 @@ vin_title: "Bhiṁsāpana - Scaring"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC136]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC136]]
 > ◄  [[bni-pc135-brahmali-pali]] 📜  [[bni-pc137-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -110,5 +110,5 @@ Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko,
 >|       |          | [[ñanatusita-analysis#^-PC136]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC136]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC136]]
 > ◄  [[bni-pc135-brahmali-pali]] 📜  [[bni-pc137-brahmali-pali]] ►

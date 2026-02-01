@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.306-315]]  🌐 [[AN1.333-346]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.306-315]]  🌐 [[AN1.333-346]] ►
 
 # AN1.316-332 - Tatiya - Third
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.316-332%5D%5D%22%23mynotes%20-file%3Aan1.316-332-%20-file%3A%22AN1.306-315%22%20-file%3A%22AN1.333-346%22%20-file%3A%22AN1.316-332%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.316-332/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.316-332
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.316-332.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.306-315]]  🌐 [[AN1.333-346]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.306-315]]  🌐 [[AN1.333-346]] ►

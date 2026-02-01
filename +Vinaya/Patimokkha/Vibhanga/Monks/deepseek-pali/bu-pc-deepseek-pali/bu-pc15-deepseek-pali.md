@@ -4,7 +4,7 @@ vin_title: "Seyyasanthārana - Leaving Bedding Outside"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
 > ◄  [[bu-pc14-deepseek-pali]] 📜  [[bu-pc16-deepseek-pali]] ►
 
 # BU-PC 15
@@ -83,5 +83,5 @@ The second training rule concerning lodgings, the fifth, is finished.
 >|       |          | [[ñanatusita-analysis#^PC15]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
 > ◄  [[bu-pc14-deepseek-pali]] 📜  [[bu-pc16-deepseek-pali]] ►

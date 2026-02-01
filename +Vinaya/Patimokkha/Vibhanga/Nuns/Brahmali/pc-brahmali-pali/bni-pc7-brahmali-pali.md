@@ -4,7 +4,7 @@ vin_title: "Āmakadhañña - Raw Grain"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC7]]
 > ◄  [[bni-pc6-brahmali-pali]] 📜  [[bni-pc8-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -102,5 +102,5 @@ p_2V_2634Sattamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC7]]
 > ◄  [[bni-pc6-brahmali-pali]] 📜  [[bni-pc8-brahmali-pali]] ►

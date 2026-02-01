@@ -4,7 +4,7 @@ vin_title: "Uyyodhika - Army on Action Seeing"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
 > ◄  [[bu-pc49-deepseek-pali]] 📜  [[bu-pc51-deepseek-pali]] ►
 
 # BU-PC 50
@@ -83,5 +83,5 @@ Cakes, the story of Upananda, three, the one who sets forth, Mahānāma, Pasenad
 >|       |          | [[ñanatusita-analysis#^PC50]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
 > ◄  [[bu-pc49-deepseek-pali]] 📜  [[bu-pc51-deepseek-pali]] ►

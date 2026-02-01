@@ -4,7 +4,7 @@ vin_title: "Veṭhita - Headdress"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK66]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK66]]
 > ◄  [[bu-sk65-brahmali-pali]] 📜  [[bu-sk67-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -66,5 +66,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^SK66]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK66]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK66]]
 > ◄  [[bu-sk65-brahmali-pali]] 📜  [[bu-sk67-brahmali-pali]] ►

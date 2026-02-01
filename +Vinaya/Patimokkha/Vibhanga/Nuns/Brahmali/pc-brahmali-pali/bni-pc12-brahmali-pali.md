@@ -4,7 +4,7 @@ vin_title: "Paṭicchannokāsa - Concealed Places"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC12]]
 > ◄  [[bni-pc11-brahmali-pali]] 📜  [[bni-pc13-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -100,5 +100,5 @@ p_2V_2694Dutiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC12]]
 > ◄  [[bni-pc11-brahmali-pali]] 📜  [[bni-pc13-brahmali-pali]] ►

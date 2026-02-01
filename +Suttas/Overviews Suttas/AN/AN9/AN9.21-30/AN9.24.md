@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA44.1]]"
 parallels_partilal: "[[EA44.1]], [[DN33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.23]]  🌐 [[AN9.25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.23]]  🌐 [[AN9.25]] ►
 
 # AN9.24 - Sattāvāsa - Abodes Of Sentient Beings
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[EA44.1]], [[DN33]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.24%5D%5D%22%23mynotes%20-file%3Aan9.24-%20-file%3A%22AN9.23%22%20-file%3A%22AN9.25%22%20-file%3A%22AN9.24%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.24/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.24
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.24.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.23]]  🌐 [[AN9.25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.23]]  🌐 [[AN9.25]] ►

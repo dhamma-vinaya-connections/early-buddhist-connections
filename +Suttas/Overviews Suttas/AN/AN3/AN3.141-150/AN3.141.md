@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN3.140]], [[AN3.142]], [[AN9.22]]"
 parallels_agama: "[[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]]"
 parallels_partilal: "[[AN3.140]], [[SA-2.143]], [[SA917]], [[AN9.22]], [[SA-2.144]], [[SA918]], [[AN3.142]], [[SA919]], [[SA-2.145]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.140]]  🌐 [[AN3.142]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.140]]  🌐 [[AN3.142]] ►
 
 # AN3.141 - Assaparassa - Excellent Horses
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[AN3.140]], [[SA-2.143]], [[SA917]], [[AN9.22]], [[SA-2.14
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.141%5D%5D%22%23mynotes%20-file%3Aan3.141-%20-file%3A%22AN3.140%22%20-file%3A%22AN3.142%22%20-file%3A%22AN3.141%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.141/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.141
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.141.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.140]]  🌐 [[AN3.142]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.140]]  🌐 [[AN3.142]] ►

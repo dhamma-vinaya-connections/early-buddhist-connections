@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA497]]"
 parallels_partilal: "[[SA497]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.166]]  🌐 [[AN5.168]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.166]]  🌐 [[AN5.168]] ►
 
 # AN5.167 - Codanā - Accusation
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA497]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.167%5D%5D%22%23mynotes%20-file%3Aan5.167-%20-file%3A%22AN5.166%22%20-file%3A%22AN5.168%22%20-file%3A%22AN5.167%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.167/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.167
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.167.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.166]]  🌐 [[AN5.168]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.166]]  🌐 [[AN5.168]] ►

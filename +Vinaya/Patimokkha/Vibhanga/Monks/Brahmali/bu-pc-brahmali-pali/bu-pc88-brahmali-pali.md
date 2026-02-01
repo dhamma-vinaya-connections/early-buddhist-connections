@@ -4,7 +4,7 @@ vin_title: "Tūlonaddha - Upholstery"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
 > ◄  [[bu-pc87-brahmali-pali]] 📜  [[bu-pc89-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -108,5 +108,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, mañcam
 >|       |          | [[ñanatusita-analysis#^PC88]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
 > ◄  [[bu-pc87-brahmali-pali]] 📜  [[bu-pc89-brahmali-pali]] ►

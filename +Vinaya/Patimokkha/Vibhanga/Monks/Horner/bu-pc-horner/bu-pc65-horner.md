@@ -4,7 +4,7 @@ vin_title: "Ūnavīsativassa - Ordaining Under 20"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
 > ◄  [[bu-pc64-horner]] 📜  [[bu-pc66-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 65
@@ -81,5 +81,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC65]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
 > ◄  [[bu-pc64-horner]] 📜  [[bu-pc66-horner]] ►

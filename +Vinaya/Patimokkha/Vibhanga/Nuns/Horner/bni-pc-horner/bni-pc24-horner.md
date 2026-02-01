@@ -4,7 +4,7 @@ vin_title: "Saṅghāṭicāra - Moving Robes"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC24]]
 > ◄  [[bni-pc23-horner]] 📜  [[bni-pc25-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 24
@@ -55,5 +55,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC24]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC24]]
 > ◄  [[bni-pc23-horner]] 📜  [[bni-pc25-horner]] ►

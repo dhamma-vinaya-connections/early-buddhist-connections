@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG8]]  🌐 [[THAG10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG8]]  🌐 [[THAG10]] ►
 
 # THAG9 - Navakanipātavagga - Nines Book
 ## 🌐 Overview
@@ -92,10 +92,10 @@ There is no greater pleasure than this.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHAG9%5D%5D%22%23mynotes%20-file%3Athag9-%20-file%3A%22THAG8%22%20-file%3A%22THAG10%22%20-file%3A%22THAG9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thag9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag9
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG8]]  🌐 [[THAG10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG8]]  🌐 [[THAG10]] ►

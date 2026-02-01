@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP66]], [[DHP67]], [[DHP68]]"
 parallels_agama: "[[SA-2.274]], [[SA1276]]"
 parallels_partilal: "[[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.21]]  🌐 [[SN2.23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.21]]  🌐 [[SN2.23]] ►
 
 # SN2.22 - Khemasutta - Khema
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.22%5D%5D%22%23mynotes%20-file%3Asn2.22-%20-file%3A%22SN2.21%22%20-file%3A%22SN2.23%22%20-file%3A%22SN2.22%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.22/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.22
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.22.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.21]]  🌐 [[SN2.23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.21]]  🌐 [[SN2.23]] ►

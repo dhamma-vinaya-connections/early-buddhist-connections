@@ -4,7 +4,7 @@ vin_title: "Catumāsappaccayapavāraṇā - Invitation for Four Months"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
 > ◄  [[bu-pc46-brahmali-pali]] 📜  [[bu-pc48-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -244,5 +244,5 @@ Tatuttari tatuttarisaññī bhesajjaṁ viññāpeti, āpatti pācittiyassa. Tat
 >|       |          | [[ñanatusita-analysis#^PC47]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
 > ◄  [[bu-pc46-brahmali-pali]] 📜  [[bu-pc48-brahmali-pali]] ►

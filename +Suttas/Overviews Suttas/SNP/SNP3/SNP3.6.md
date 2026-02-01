@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DN2]], [[DN21]], [[MN92]], [[SNP3.7]], [[THAG16.6]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.5]]  🌐 [[SNP3.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.5]]  🌐 [[SNP3.7]] ►
 
 # SNP3.6 - Sabhiyasutta - Sabhiya's Questions
 ## 🌐 Overview
@@ -90,10 +90,10 @@ he has attained the ending of birth: He is called awakened.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP3.6%5D%5D%22%23mynotes%20-file%3Asnp3.6-%20-file%3A%22SNP3.5%22%20-file%3A%22SNP3.7%22%20-file%3A%22SNP3.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp3.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.6
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.5]]  🌐 [[SNP3.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.5]]  🌐 [[SNP3.7]] ►

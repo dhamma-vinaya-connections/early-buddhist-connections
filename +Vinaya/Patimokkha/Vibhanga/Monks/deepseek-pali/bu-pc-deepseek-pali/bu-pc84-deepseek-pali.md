@@ -4,7 +4,7 @@ vin_title: "Ratana - Precious Things"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC84]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC84]]
 > ◄  [[bu-pc83-deepseek-pali]] 📜  [[bu-pc85-deepseek-pali]] ►
 
 # BU-PC 84
@@ -107,5 +107,5 @@ The second training rule on jewels is concluded.
 >|       |          | [[ñanatusita-analysis#^PC84]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC84]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC84]]
 > ◄  [[bu-pc83-deepseek-pali]] 📜  [[bu-pc85-deepseek-pali]] ►

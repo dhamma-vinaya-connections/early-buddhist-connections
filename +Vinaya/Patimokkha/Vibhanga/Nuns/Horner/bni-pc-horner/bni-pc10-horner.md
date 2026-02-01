@@ -4,7 +4,7 @@ vin_title: "Naccagīta - Dancing and Singing"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC10]]
 > ◄  [[bni-pc9-horner]] 📜  [[bni-pc11-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 10
@@ -55,5 +55,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC10]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC10]]
 > ◄  [[bni-pc9-horner]] 📜  [[bni-pc11-horner]] ►

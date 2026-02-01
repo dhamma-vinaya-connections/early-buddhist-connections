@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN6.20]]"
 parallels_agama: ""
 parallels_partilal: "[[AN6.20]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.73]]  🌐 [[AN8.75]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.73]]  🌐 [[AN8.75]] ►
 
 # AN8.74 - Maraṇassati - Mindfulness Of Death 2nd
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[AN6.20]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.74%5D%5D%22%23mynotes%20-file%3Aan8.74-%20-file%3A%22AN8.73%22%20-file%3A%22AN8.75%22%20-file%3A%22AN8.74%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.74/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.74
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.74.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.73]]  🌐 [[AN8.75]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.73]]  🌐 [[AN8.75]] ►

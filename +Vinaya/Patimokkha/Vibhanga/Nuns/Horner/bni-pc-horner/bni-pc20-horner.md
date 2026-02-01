@@ -4,7 +4,7 @@ vin_title: "Rodana - Crying"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC20]]
 > ◄  [[bni-pc19-horner]] 📜  [[bni-pc21-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 20
@@ -55,5 +55,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC20]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC20]]
 > ◄  [[bni-pc19-horner]] 📜  [[bni-pc21-horner]] ►

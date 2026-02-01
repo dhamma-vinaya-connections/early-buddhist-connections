@@ -4,7 +4,7 @@ vin_title: "Talasattika - Rising a Hand"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC75]]
 > ◄  [[bu-pc74-deepseek-pali]] 📜  [[bu-pc76-deepseek-pali]] ►
 
 # BU-PC 75
@@ -67,5 +67,5 @@ The fifth training rule on striking with the flat of the hand is concluded.
 >|       |          | [[ñanatusita-analysis#^PC75]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC75]]
 > ◄  [[bu-pc74-deepseek-pali]] 📜  [[bu-pc76-deepseek-pali]] ►

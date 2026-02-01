@@ -4,7 +4,7 @@ vin_title: "Kabaḷāvacchedaka - Breaking Lumps"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK45]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK45]]
 > ◄  [[bu-sk44-deepseek-pali]] 📜  [[bu-sk46-deepseek-pali]] ►
 
 # BU-SK 45
@@ -43,5 +43,5 @@ The third training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK45]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK45]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK45]]
 > ◄  [[bu-sk44-deepseek-pali]] 📜  [[bu-sk46-deepseek-pali]] ►

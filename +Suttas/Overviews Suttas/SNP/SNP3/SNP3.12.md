@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[ITI73]], [[SN5.6]], [[ITI41]], [[UD4.9]], [[AN4.9]], [[ITI105]], [[ITI15]], [[JA493]], [[SN35.136]], [[PE1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.11]]  🌐 [[SNP4.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.11]]  🌐 [[SNP4.1]] ►
 
 # SNP3.12 - Dvayatānupassanāsutta - Contemplating Pairs
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[ITI73]], [[SN5.6]], [[ITI41]], [[UD4.9]], [[AN4.9]], [[IT
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP3.12%5D%5D%22%23mynotes%20-file%3Asnp3.12-%20-file%3A%22SNP3.11%22%20-file%3A%22SNP4.1%22%20-file%3A%22SNP3.12%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp3.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.12
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.12.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.11]]  🌐 [[SNP4.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.11]]  🌐 [[SNP4.1]] ►

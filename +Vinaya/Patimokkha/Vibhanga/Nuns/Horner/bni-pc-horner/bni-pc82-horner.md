@@ -4,7 +4,7 @@ vin_title: "Anuvassa - Every Year"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC82]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC82]]
 > ◄  [[bni-pc81-horner]] 📜  [[bni-pc83-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 82
@@ -53,5 +53,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC82]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC82]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC82]]
 > ◄  [[bni-pc81-horner]] 📜  [[bni-pc83-horner]] ►

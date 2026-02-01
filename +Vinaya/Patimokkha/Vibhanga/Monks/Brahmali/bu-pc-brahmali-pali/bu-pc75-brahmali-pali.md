@@ -4,7 +4,7 @@ vin_title: "Talasattika - Rising a Hand"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC75]]
 > ◄  [[bu-pc74-brahmali-pali]] 📜  [[bu-pc76-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -112,5 +112,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, kupitā
 >|       |          | [[ñanatusita-analysis#^PC75]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC75]]
 > ◄  [[bu-pc74-brahmali-pali]] 📜  [[bu-pc76-brahmali-pali]] ►

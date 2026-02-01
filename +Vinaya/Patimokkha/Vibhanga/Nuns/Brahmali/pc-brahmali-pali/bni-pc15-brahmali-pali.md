@@ -4,7 +4,7 @@ vin_title: "Anāpucchāpakkamana - Departing Without Taking Leave"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC15]]
 > ◄  [[bni-pc14-brahmali-pali]] 📜  [[bni-pc16-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -118,5 +118,5 @@ p_2V_2732Pañcamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC15]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC15]]
 > ◄  [[bni-pc14-brahmali-pali]] 📜  [[bni-pc16-brahmali-pali]] ►

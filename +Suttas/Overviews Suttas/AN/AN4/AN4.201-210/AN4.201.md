@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA1055]]"
 parallels_partilal: "[[SA1055]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.200]]  🌐 [[AN4.202]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.200]]  🌐 [[AN4.202]] ►
 
 # AN4.201 - Sikkhāpada - Training Rules
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA1055]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.201%5D%5D%22%23mynotes%20-file%3Aan4.201-%20-file%3A%22AN4.200%22%20-file%3A%22AN4.202%22%20-file%3A%22AN4.201%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.201/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.201
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.201.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.200]]  🌐 [[AN4.202]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.200]]  🌐 [[AN4.202]] ►

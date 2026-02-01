@@ -4,7 +4,7 @@ vin_title: "Dutiyapāṭidesanīya - Letting a Nun Order Food"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD2]]
 > ◄  [[bu-pd1-brahmali-pali]] 📜  [[bu-pd3-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -116,5 +116,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, bhikkhu
 >|       |          | [[ñanatusita-analysis#^PD2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD2]]
 > ◄  [[bu-pd1-brahmali-pali]] 📜  [[bu-pd3-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Aññavādaka - Speech Evasive"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
 > ◄  [[bu-pc11-brahmali-pali]] 📜  [[bu-pc13-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -172,5 +172,5 @@ Adhammakamme dhammakammasaññī, āpatti dukkaṭassa. Adhammakamme vematiko, �
 >|       |          | [[ñanatusita-analysis#^PC12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
 > ◄  [[bu-pc11-brahmali-pali]] 📜  [[bu-pc13-brahmali-pali]] ►

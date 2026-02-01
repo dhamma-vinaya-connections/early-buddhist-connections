@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA33.1]], [[SA-2.72]], [[SA1149]]"
 parallels_partilal: "[[EA33.1]], [[SA-2.72]], [[SA1149]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.11]]  🌐 [[SN3.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.11]]  🌐 [[SN3.13]] ►
 
 # SN3.12 - Pañcarājasutta - Five Kings
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA33.1]], [[SA-2.72]], [[SA1149]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.12%5D%5D%22%23mynotes%20-file%3Asn3.12-%20-file%3A%22SN3.11%22%20-file%3A%22SN3.13%22%20-file%3A%22SN3.12%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.12
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.12.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.11]]  🌐 [[SN3.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.11]]  🌐 [[SN3.13]] ►

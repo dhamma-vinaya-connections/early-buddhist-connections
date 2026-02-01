@@ -4,7 +4,7 @@ index:
 rule_type: "BNI-PJ - Parajika - Expulsion"
 vin_gender: "Nuns"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-PJ 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-PJ 
 
 # BNI-PJ - Parajika - Expulsion
 

@@ -4,7 +4,7 @@ vin_title: "Chamā - On the Ground"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK68]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK68]]
 > ◄  [[bu-sk67-deepseek-pali]] 📜  [[bu-sk69-deepseek-pali]] ►
 
 # BU-SK 68
@@ -43,5 +43,5 @@ The fifth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK68]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK68]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK68]]
 > ◄  [[bu-sk67-deepseek-pali]] 📜  [[bu-sk69-deepseek-pali]] ►

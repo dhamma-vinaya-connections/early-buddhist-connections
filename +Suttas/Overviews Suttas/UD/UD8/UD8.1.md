@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.10]]  🌐 [[UD8.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.10]]  🌐 [[UD8.2]] ►
 
 # UD8.1 - Pathamanibbana Sutta - Nibbāna (1)
 ## 🌐 Overview
@@ -86,10 +86,10 @@ who knows and sees, there is nothing
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD8.1%5D%5D%22%23mynotes%20-file%3Aud8.1-%20-file%3A%22UD7.10%22%20-file%3A%22UD8.2%22%20-file%3A%22UD8.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud8.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.1
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.10]]  🌐 [[UD8.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.10]]  🌐 [[UD8.2]] ►

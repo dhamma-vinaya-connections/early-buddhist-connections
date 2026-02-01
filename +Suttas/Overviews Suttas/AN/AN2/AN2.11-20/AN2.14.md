@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.13]]  🌐 [[AN2.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.13]]  🌐 [[AN2.15]] ►
 
 # AN2.14 - Adhikaraṇa - Powers
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.14%5D%5D%22%23mynotes%20-file%3Aan2.14-%20-file%3A%22AN2.13%22%20-file%3A%22AN2.15%22%20-file%3A%22AN2.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.14
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.13]]  🌐 [[AN2.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.13]]  🌐 [[AN2.15]] ►

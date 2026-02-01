@@ -25,7 +25,7 @@ vin_sangha_acts:
 vin_gender: "Nuns"
 vin_gender-corr: "BU-PC20"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC115]] 🌐 [[BNI-PC117]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC115]] 🌐 [[BNI-PC117]] ►
 
 # Nuns - Pacittiya - Confession
 ## 11 Bhūtagāma-Vaggo - 11 Plants
@@ -82,8 +82,8 @@ vin_gender-corr: "BU-PC20"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBNI-PC116%5D%5D%22%23mynotes%20-file%3Abni-pc116-%20-file%3A%22BNI-PC116%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+> [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-pc?view=normal
 
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC115]] 🌐 [[BNI-PC117]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC115]] 🌐 [[BNI-PC117]] ►

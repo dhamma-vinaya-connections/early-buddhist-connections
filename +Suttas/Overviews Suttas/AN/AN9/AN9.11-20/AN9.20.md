@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA27.3]], [[MA155]]"
 parallels_partilal: "[[EA27.3]], [[MA155]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.19]]  🌐 [[AN9.21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.19]]  🌐 [[AN9.21]] ►
 
 # AN9.20 - Velāma - About Velāma
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA27.3]], [[MA155]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.20%5D%5D%22%23mynotes%20-file%3Aan9.20-%20-file%3A%22AN9.19%22%20-file%3A%22AN9.21%22%20-file%3A%22AN9.20%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.20
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.20.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.19]]  🌐 [[AN9.21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.19]]  🌐 [[AN9.21]] ►

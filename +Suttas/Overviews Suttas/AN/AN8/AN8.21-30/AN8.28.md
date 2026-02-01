@@ -40,7 +40,7 @@ parallels_nikaya: "[[AN10.90]], [[SN50.1-12]]"
 parallels_agama: "[[SA694-698]]"
 parallels_partilal: "[[AN10.90]], [[SN50.1-12]], [[SA694-698]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.27]]  🌐 [[AN8.29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.27]]  🌐 [[AN8.29]] ►
 
 # AN8.28 - Dutiyabala - Powers
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[AN10.90]], [[SN50.1-12]], [[SA694-698]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.28%5D%5D%22%23mynotes%20-file%3Aan8.28-%20-file%3A%22AN8.27%22%20-file%3A%22AN8.29%22%20-file%3A%22AN8.28%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.28/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.28
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.28.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.27]]  🌐 [[AN8.29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.27]]  🌐 [[AN8.29]] ►

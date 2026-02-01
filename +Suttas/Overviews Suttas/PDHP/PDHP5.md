@@ -44,7 +44,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP4]]  🌐 [[PDHP6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP4]]  🌐 [[PDHP6]] ►
 
 # PDHP5 - Bhikṣuvagga - Bhikkhus
 ## 🌐 Overview
@@ -97,10 +97,10 @@ the monastic is called one at peace.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BPDHP5%5D%5D%22%23mynotes%20-file%3Apdhp5-%20-file%3A%22PDHP4%22%20-file%3A%22PDHP6%22%20-file%3A%22PDHP5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pdhp5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp5
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP4]]  🌐 [[PDHP6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP4]]  🌐 [[PDHP6]] ►

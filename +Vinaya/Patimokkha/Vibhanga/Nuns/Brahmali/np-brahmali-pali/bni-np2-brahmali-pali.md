@@ -4,7 +4,7 @@ vin_title: "Akālacīvara - Sharing Out-of-Season Robe Cloth"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP2]]
 > ◄  [[bni-np1-brahmali-pali]] 📜  [[bni-np3-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -134,5 +134,5 @@ Kālacīvare akālacīvarasaññā, āpatti dukkaṭassa. Kālacīvare vematikā
 >|       |          | [[ñanatusita-analysis#^-NP2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP2]]
 > ◄  [[bni-np1-brahmali-pali]] 📜  [[bni-np3-brahmali-pali]] ►

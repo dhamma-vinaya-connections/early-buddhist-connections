@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.248-257]]  🌐 [[AN1.268]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.248-257]]  🌐 [[AN1.268]] ►
 
 # AN1.258-267 - Etadagga - Foremost
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.258-267%5D%5D%22%23mynotes%20-file%3Aan1.258-267-%20-file%3A%22AN1.248-257%22%20-file%3A%22AN1.268%22%20-file%3A%22AN1.258-267%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.258-267/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.258-267
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.258-267.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.248-257]]  🌐 [[AN1.268]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.248-257]]  🌐 [[AN1.268]] ►

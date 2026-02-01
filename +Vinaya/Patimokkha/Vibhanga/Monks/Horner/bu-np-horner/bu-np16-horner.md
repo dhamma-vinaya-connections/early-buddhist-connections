@@ -4,7 +4,7 @@ vin_title: "Eḷakaloma - Carrying Wool"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP16]]
 > ◄  [[bu-np15-horner]] 📜  [[bu-np17-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 16
@@ -67,5 +67,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP16]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP16]]
 > ◄  [[bu-np15-horner]] 📜  [[bu-np17-horner]] ►

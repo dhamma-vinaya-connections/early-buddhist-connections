@@ -4,7 +4,7 @@ vin_title: "Tatiyapāṭidesanīya - Receiving Food From Designated Families"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD3]]
 > ◄  [[bu-pd2-brahmali-pali]] 📜  [[bu-pd4-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -200,5 +200,5 @@ Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 >|       |          | [[ñanatusita-analysis#^PD3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD3]]
 > ◄  [[bu-pd2-brahmali-pali]] 📜  [[bu-pd4-brahmali-pali]] ►

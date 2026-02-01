@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.65]], [[SA1238]]"
 parallels_partilal: "[[SA1238]], [[SA-2.65]], [[AN5.43]], [[ITI23]], [[SN3.17]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.17]]  🌐 [[SN3.19]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.17]]  🌐 [[SN3.19]] ►
 
 # SN3.18 - Kalyāṇamittasutta - Diligence (2)
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA1238]], [[SA-2.65]], [[AN5.43]], [[ITI23]], [[SN3.17]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.18%5D%5D%22%23mynotes%20-file%3Asn3.18-%20-file%3A%22SN3.17%22%20-file%3A%22SN3.19%22%20-file%3A%22SN3.18%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.18/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.18
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.18.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.17]]  🌐 [[SN3.19]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.17]]  🌐 [[SN3.19]] ►

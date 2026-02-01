@@ -4,7 +4,7 @@ vin_title: "Kāyasaṁsagga - Physical Contact"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
 > ◄  [[bu-ss1-brahmali-pali]] 📜  [[bu-ss3-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -700,5 +700,5 @@ Vigarahi buddho bhagavā: "Ananucchavikaṁ, moghapurisa, ananulomikaṁ appatir
 >|       |          | [[ñanatusita-analysis#^SS2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
 > ◄  [[bu-ss1-brahmali-pali]] 📜  [[bu-ss3-brahmali-pali]] ►

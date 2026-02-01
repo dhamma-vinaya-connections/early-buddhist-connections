@@ -25,7 +25,7 @@ vin_sangha_acts:
 vin_gender: "Monks"
 vin_gender-corr: "BNI-SK17"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BNI-SK18]] 🌐 [[BU-SK18]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BNI-SK18]] 🌐 [[BU-SK18]] ►
 
 # Monks - Sekhiya - Training
 ## Ujjagghikavaggo - Loud laughter
@@ -66,8 +66,8 @@ vin_gender-corr: "BNI-SK17"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBU-SK17%5D%5D%22%23mynotes%20-file%3Abu-sk17-%20-file%3A%22BU-SK17%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+> [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-sk?view=normal
 
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BNI-SK18]] 🌐 [[BU-SK18]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BNI-SK18]] 🌐 [[BU-SK18]] ►

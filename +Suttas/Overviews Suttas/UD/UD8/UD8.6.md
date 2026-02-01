@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN5.213]], [[AN8.68-70]], [[DN16]], [[SN51.10]], [[UD6.1]],
 parallels_agama: ""
 parallels_partilal: "[[DN16]], [[AN8.68-70]], [[DA2]], [[UD6.1]], [[UD8.5]], [[SN51.10]], [[PLI-TV-KD6]], [[AN5.213]], [[DN33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.5]]  🌐 [[UD8.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.5]]  🌐 [[UD8.7]] ►
 
 # UD8.6 - Pataligamiya Sutta - At Pāṭaligā Village
 ## 🌐 Overview
@@ -86,10 +86,10 @@ intelligent people have crossed over
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD8.6%5D%5D%22%23mynotes%20-file%3Aud8.6-%20-file%3A%22UD8.5%22%20-file%3A%22UD8.7%22%20-file%3A%22UD8.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud8.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.6
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.5]]  🌐 [[UD8.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.5]]  🌐 [[UD8.7]] ►

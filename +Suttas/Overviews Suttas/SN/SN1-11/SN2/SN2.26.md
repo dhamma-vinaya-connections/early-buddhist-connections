@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.45]], [[AN4.46]]"
 parallels_agama: "[[EA43.1]], [[SA-2.306]], [[SA1307]]"
 parallels_partilal: "[[AN4.45]], [[AN4.46]], [[SA-2.306]], [[SA1307]], [[EA43.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.25]]  🌐 [[SN2.27]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.25]]  🌐 [[SN2.27]] ►
 
 # SN2.26 - Rohitassasutta - Rohitassa
 ## 🌐 Overview
@@ -83,10 +83,10 @@ There is no release from suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.26%5D%5D%22%23mynotes%20-file%3Asn2.26-%20-file%3A%22SN2.25%22%20-file%3A%22SN2.27%22%20-file%3A%22SN2.26%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.26/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.26
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.26.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.25]]  🌐 [[SN2.27]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.25]]  🌐 [[SN2.27]] ►

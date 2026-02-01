@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA33.3]]"
 parallels_partilal: "[[EA33.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.74]]  🌐 [[AN5.76]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.74]]  🌐 [[AN5.76]] ►
 
 # AN5.75 - Yodhajiva - Warriors 1st
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA33.3]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.75%5D%5D%22%23mynotes%20-file%3Aan5.75-%20-file%3A%22AN5.74%22%20-file%3A%22AN5.76%22%20-file%3A%22AN5.75%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.75/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.75
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.75.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.74]]  🌐 [[AN5.76]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.74]]  🌐 [[AN5.76]] ►

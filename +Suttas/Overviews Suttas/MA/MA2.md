@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN7.69]]"
 parallels_agama: "[[EA39.2]]"
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA1]]  🌐 [[MA3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA1]]  🌐 [[MA3]] ►
 
 # MA2 - 晝度樹 - Coral Tree
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMA2%5D%5D%22%23mynotes%20-file%3Ama2-%20-file%3A%22MA1%22%20-file%3A%22MA3%22%20-file%3A%22MA2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ma2/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA1]]  🌐 [[MA3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA1]]  🌐 [[MA3]] ►

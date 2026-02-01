@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[UD2.10]], [[PLI-TV-KD17]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SN56.61-131]]  🌐 [[SNP1.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SN56.61-131]]  🌐 [[SNP1.2]] ►
 
 # SNP1.1 - Uraga - Snake
 ## 🌐 Overview
@@ -90,10 +90,10 @@ as a serpent sheds its old worn-out skin.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP1.1%5D%5D%22%23mynotes%20-file%3Asnp1.1-%20-file%3A%22SN56.61-131%22%20-file%3A%22SNP1.2%22%20-file%3A%22SNP1.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp1.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.1
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SN56.61-131]]  🌐 [[SNP1.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SN56.61-131]]  🌐 [[SNP1.2]] ►

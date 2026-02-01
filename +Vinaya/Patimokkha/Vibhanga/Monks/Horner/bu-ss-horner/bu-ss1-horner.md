@@ -4,7 +4,7 @@ vin_title: "Sukkavisaṭṭhi - Masturbation"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
 > ◄  [[BU-PJ4]] 📜  [[bu-ss2-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 1
@@ -116,5 +116,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
 > ◄  [[BU-PJ4]] 📜  [[bu-ss2-horner]] ►

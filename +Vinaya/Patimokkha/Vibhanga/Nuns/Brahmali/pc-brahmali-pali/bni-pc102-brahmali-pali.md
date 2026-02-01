@@ -4,7 +4,7 @@ vin_title: "Mātugāmasahaseyya - Lying Down with a Woman"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC102]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC102]]
 > ◄  [[bni-pc101-brahmali-pali]] 📜  [[bni-pc103-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -150,5 +150,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṁ, anuruddha, mātugām
 >|       |          | [[ñanatusita-analysis#^-PC102]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC102]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC102]]
 > ◄  [[bni-pc101-brahmali-pali]] 📜  [[bni-pc103-brahmali-pali]] ►

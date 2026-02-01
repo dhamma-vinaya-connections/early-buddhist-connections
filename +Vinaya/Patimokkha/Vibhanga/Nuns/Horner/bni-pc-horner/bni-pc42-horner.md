@@ -4,7 +4,7 @@ vin_title: "Āsandiparibhuñjana - Using High Couches"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC42]]
 > ◄  [[bni-pc41-horner]] 📜  [[bni-pc43-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 42
@@ -55,5 +55,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC42]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC42]]
 > ◄  [[bni-pc41-horner]] 📜  [[bni-pc43-horner]] ►

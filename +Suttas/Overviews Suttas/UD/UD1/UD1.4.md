@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PLI-TV-KD1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.3]]  🌐 [[UD1.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.3]]  🌐 [[UD1.5]] ►
 
 # UD1.4 - Nigrodha Sutta - The Banyan Tree
 ## 🌐 Overview
@@ -84,10 +84,10 @@ As the sun (dwells) lighting up the firmament.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD1.4%5D%5D%22%23mynotes%20-file%3Aud1.4-%20-file%3A%22UD1.3%22%20-file%3A%22UD1.5%22%20-file%3A%22UD1.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud1.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud1.4
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud1.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.3]]  🌐 [[UD1.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.3]]  🌐 [[UD1.5]] ►

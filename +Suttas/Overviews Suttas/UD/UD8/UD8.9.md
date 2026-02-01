@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.8]]  🌐 [[UD8.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.8]]  🌐 [[UD8.10]] ►
 
 # UD8.9 - Pathamadabba Sutta - Dabba Mallaputta (1)
 ## 🌐 Overview
@@ -97,10 +97,10 @@ unwavering bliss.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD8.9%5D%5D%22%23mynotes%20-file%3Aud8.9-%20-file%3A%22UD8.8%22%20-file%3A%22UD8.10%22%20-file%3A%22UD8.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud8.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.9
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.8]]  🌐 [[UD8.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.8]]  🌐 [[UD8.10]] ►

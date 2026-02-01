@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.310-479]]  🌐 [[AN3.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.310-479]]  🌐 [[AN3.2]] ►
 
 # AN3.1 - Bhaya - Perils
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.1%5D%5D%22%23mynotes%20-file%3Aan3.1-%20-file%3A%22AN2.310-479%22%20-file%3A%22AN3.2%22%20-file%3A%22AN3.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.1
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.310-479]]  🌐 [[AN3.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.310-479]]  🌐 [[AN3.2]] ►

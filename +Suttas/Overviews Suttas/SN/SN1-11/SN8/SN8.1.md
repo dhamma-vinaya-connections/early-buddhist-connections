@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.250]], [[SA1215]]"
 parallels_partilal: "[[SA-2.250]], [[SA1215]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.22]]  🌐 [[SN8.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.22]]  🌐 [[SN8.2]] ►
 
 # SN8.1 - Nikkhantasutta - Renounced
 ## 🌐 Overview
@@ -83,10 +83,10 @@ That’s attractive, provoking lust
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN8.1%5D%5D%22%23mynotes%20-file%3Asn8.1-%20-file%3A%22SN7.22%22%20-file%3A%22SN8.2%22%20-file%3A%22SN8.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn8.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.22]]  🌐 [[SN8.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.22]]  🌐 [[SN8.2]] ►

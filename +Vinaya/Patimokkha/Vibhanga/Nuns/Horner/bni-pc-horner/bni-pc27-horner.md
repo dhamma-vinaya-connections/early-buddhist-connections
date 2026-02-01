@@ -4,7 +4,7 @@ vin_title: "Paṭibāhana - Blocking Robe Distribution"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC27]]
 > ◄  [[bni-pc26-horner]] 📜  [[bni-pc28-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 27
@@ -59,5 +59,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC27]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC27]]
 > ◄  [[bni-pc26-horner]] 📜  [[bni-pc28-horner]] ►

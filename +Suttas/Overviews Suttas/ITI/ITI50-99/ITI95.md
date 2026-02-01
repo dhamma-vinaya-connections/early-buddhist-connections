@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI94]]  🌐 [[ITI96]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI94]]  🌐 [[ITI96]] ►
 
 # ITI95 - Kāmūpapatti - Sensual Desire
 ## 🌐 Overview
@@ -85,10 +85,10 @@ those who delight in creation,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI95%5D%5D%22%23mynotes%20-file%3Aiti95-%20-file%3A%22ITI94%22%20-file%3A%22ITI96%22%20-file%3A%22ITI95%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti95/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti95
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti95.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI94]]  🌐 [[ITI96]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI94]]  🌐 [[ITI96]] ►

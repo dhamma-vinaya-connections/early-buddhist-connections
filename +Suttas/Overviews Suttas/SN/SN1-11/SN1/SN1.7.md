@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.164]], [[SA579]]"
 parallels_partilal: "[[SA-2.164]], [[SA579]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.6]]  🌐 [[SN1.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.6]]  🌐 [[SN1.8]] ►
 
 # SN1.7 - Appaṭividitasutta - Not Penetrated
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.164]], [[SA579]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.7%5D%5D%22%23mynotes%20-file%3Asn1.7-%20-file%3A%22SN1.6%22%20-file%3A%22SN1.8%22%20-file%3A%22SN1.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.7
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.6]]  🌐 [[SN1.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.6]]  🌐 [[SN1.8]] ►

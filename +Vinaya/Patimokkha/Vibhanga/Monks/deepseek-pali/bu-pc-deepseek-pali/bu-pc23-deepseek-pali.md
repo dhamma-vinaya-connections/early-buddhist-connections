@@ -4,7 +4,7 @@ vin_title: "Bhikkhunupassaya - Instructing Nuns in a Nunnery"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC23]]
 > ◄  [[bu-pc22-deepseek-pali]] 📜  [[bu-pc24-deepseek-pali]] ►
 
 # BU-PC 23
@@ -91,5 +91,5 @@ The third training rule concerning nuns’ quarters is concluded.
 >|       |          | [[ñanatusita-analysis#^PC23]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC23]]
 > ◄  [[bu-pc22-deepseek-pali]] 📜  [[bu-pc24-deepseek-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.259]], [[SA93]]"
 parallels_partilal: "[[SA-2.259]], [[SA93]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.46]]  🌐 [[AN7.48]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.46]]  🌐 [[AN7.48]] ►
 
 # AN7.47 - Aggi - Fires
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.259]], [[SA93]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.47%5D%5D%22%23mynotes%20-file%3Aan7.47-%20-file%3A%22AN7.46%22%20-file%3A%22AN7.48%22%20-file%3A%22AN7.47%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.47/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.47
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.47.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.46]]  🌐 [[AN7.48]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.46]]  🌐 [[AN7.48]] ►

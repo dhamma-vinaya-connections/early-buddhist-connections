@@ -4,7 +4,7 @@ vin_title: "Nikkaḍḍhana - Throwing Out a Monastic"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC35]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC35]]
 > ◄  [[bni-pc34-horner]] 📜  [[bni-pc36-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 35
@@ -67,5 +67,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC35]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC35]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC35]]
 > ◄  [[bni-pc34-horner]] 📜  [[bni-pc36-horner]] ►

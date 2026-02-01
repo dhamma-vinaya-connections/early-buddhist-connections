@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.9]]  🌐 [[UD8.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.9]]  🌐 [[UD8.1]] ►
 
 # UD7.10 - Udena Sutta - About King Udena
 ## 🌐 Overview
@@ -96,10 +96,10 @@ but for one who sees, there is nothing.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD7.10%5D%5D%22%23mynotes%20-file%3Aud7.10-%20-file%3A%22UD7.9%22%20-file%3A%22UD8.1%22%20-file%3A%22UD7.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud7.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.10
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.9]]  🌐 [[UD8.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.9]]  🌐 [[UD8.1]] ►

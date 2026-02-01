@@ -4,7 +4,7 @@ vin_title: "Pasākhejāta - Medical Treament Below the Navel"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC60]]
 > ◄  [[bni-pc59-brahmali-pali]] 📜  [[bni-pc61-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -138,5 +138,5 @@ p_2V_3180Dasamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC60]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC60]]
 > ◄  [[bni-pc59-brahmali-pali]] 📜  [[bni-pc61-brahmali-pali]] ►

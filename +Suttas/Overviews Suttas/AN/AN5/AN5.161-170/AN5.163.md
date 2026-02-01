@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN5.164]], [[AN5.65]], [[AN5.66]]"
 parallels_agama: ""
 parallels_partilal: "[[AN5.65]], [[AN5.164]], [[AN5.66]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.162]]  🌐 [[AN5.164]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.162]]  🌐 [[AN5.164]] ►
 
 # AN5.163 - Sākaccha - Discussions
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN5.65]], [[AN5.164]], [[AN5.66]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.163%5D%5D%22%23mynotes%20-file%3Aan5.163-%20-file%3A%22AN5.162%22%20-file%3A%22AN5.164%22%20-file%3A%22AN5.163%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.163/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.163
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.163.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.162]]  🌐 [[AN5.164]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.162]]  🌐 [[AN5.164]] ►

@@ -4,7 +4,7 @@ vin_title: "Āvasathacīvara - Monastery Robes"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC47]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC47]]
 > ◄  [[bni-pc46-brahmali-pali]] 📜  [[bni-pc48-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -98,5 +98,5 @@ p_2V_3060Sattamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC47]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC47]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC47]]
 > ◄  [[bni-pc46-brahmali-pali]] 📜  [[bni-pc48-brahmali-pali]] ►

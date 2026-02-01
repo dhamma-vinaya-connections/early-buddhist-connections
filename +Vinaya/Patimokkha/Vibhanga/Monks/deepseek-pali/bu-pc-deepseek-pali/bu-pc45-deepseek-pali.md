@@ -4,7 +4,7 @@ vin_title: "Rahonisajja - Sitting in Private"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC45]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC45]]
 > ◄  [[bu-pc44-deepseek-pali]] 📜  [[bu-pc46-deepseek-pali]] ►
 
 # BU-PC 45
@@ -75,5 +75,5 @@ The fifth training rule concerning sitting in private is concluded.
 >|       |          | [[ñanatusita-analysis#^PC45]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC45]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC45]]
 > ◄  [[bu-pc44-deepseek-pali]] 📜  [[bu-pc46-deepseek-pali]] ►

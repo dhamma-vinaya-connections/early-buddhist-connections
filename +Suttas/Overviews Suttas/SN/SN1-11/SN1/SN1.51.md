@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.242]], [[SA1015]]"
 parallels_partilal: "[[SA-2.242]], [[SA1015]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.50]]  🌐 [[SN1.52]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.50]]  🌐 [[SN1.52]] ►
 
 # SN1.51 - Jarāsutta - Old Age
 ## 🌐 Overview
@@ -89,10 +89,10 @@ Is released from all suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.51%5D%5D%22%23mynotes%20-file%3Asn1.51-%20-file%3A%22SN1.50%22%20-file%3A%22SN1.52%22%20-file%3A%22SN1.51%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.51/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.51
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.51.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.50]]  🌐 [[SN1.52]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.50]]  🌐 [[SN1.52]] ►

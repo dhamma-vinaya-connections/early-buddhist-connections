@@ -4,7 +4,7 @@ vin_title: "Kāyasaṁsagga - Physical Contact"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
 > ◄  [[bu-ss1-deepseek-pali]] 📜  [[bu-ss3-deepseek-pali]] ►
 
 # BU-SN 2
@@ -591,5 +591,5 @@ The second training rule on physical contact is concluded.
 >|       |          | [[ñanatusita-analysis#^SS2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
 > ◄  [[bu-ss1-deepseek-pali]] 📜  [[bu-ss3-deepseek-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[JA221]], [[JA514]], [[THAG17.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP8]]  🌐 [[DHP10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP8]]  🌐 [[DHP10]] ►
 
 # DHP9 - Pāpavagga - Evil
 ## 🌐 Overview
@@ -91,10 +91,10 @@ piled up bit by bit.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP9%5D%5D%22%23mynotes%20-file%3Adhp9-%20-file%3A%22DHP8%22%20-file%3A%22DHP10%22%20-file%3A%22DHP9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp9
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP8]]  🌐 [[DHP10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP8]]  🌐 [[DHP10]] ►

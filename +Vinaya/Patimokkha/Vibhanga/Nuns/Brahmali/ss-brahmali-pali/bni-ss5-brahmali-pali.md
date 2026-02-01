@@ -4,7 +4,7 @@ vin_title: "Avassutāavassutassa - Receiving Food with Lust"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS5]]
 > ◄  [[bni-ss4-brahmali-pali]] 📜  [[bni-ss6-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -144,5 +144,5 @@ Ekatoavassute “khādissāmi bhuñjissāmī”ti paṭiggaṇhāti, āpatti duk
 >|       |          | [[ñanatusita-analysis#^-SS5]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS5]]
 > ◄  [[bni-ss4-brahmali-pali]] 📜  [[bni-ss6-brahmali-pali]] ►

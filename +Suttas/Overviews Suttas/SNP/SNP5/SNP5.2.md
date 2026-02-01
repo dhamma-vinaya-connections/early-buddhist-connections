@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PE1]], [[PE5]], [[SN12.31]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.1]]  🌐 [[SNP5.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.1]]  🌐 [[SNP5.3]] ►
 
 # SNP5.2 - Ajitamāṇavapucchā - Questions of the Student Ajita
 ## 🌐 Overview
@@ -95,10 +95,10 @@ mindfully.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP5.2%5D%5D%22%23mynotes%20-file%3Asnp5.2-%20-file%3A%22SNP5.1%22%20-file%3A%22SNP5.3%22%20-file%3A%22SNP5.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp5.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.2
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.2.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.1]]  🌐 [[SNP5.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.1]]  🌐 [[SNP5.3]] ►

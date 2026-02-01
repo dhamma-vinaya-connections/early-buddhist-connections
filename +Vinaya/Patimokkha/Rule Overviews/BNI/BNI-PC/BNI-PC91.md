@@ -25,7 +25,7 @@ vin_sangha_acts:
 vin_gender: "Nuns"
 vin_gender-corr: ""
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC90]] 🌐 [[BNI-PC92]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC90]] 🌐 [[BNI-PC92]] ►
 
 # Nuns - Pacittiya - Confession
 ## 9 Chattupāhanavaggo - 9 Sunshade and Leather Footwear
@@ -66,8 +66,8 @@ vin_gender-corr: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBNI-PC91%5D%5D%22%23mynotes%20-file%3Abni-pc91-%20-file%3A%22BNI-PC91%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+> [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bi-vb-pc?view=dense
 
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC90]] 🌐 [[BNI-PC92]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC90]] 🌐 [[BNI-PC92]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN22.52]], [[SN35.158-159]]"
 parallels_agama: "[[SA2]]"
 parallels_partilal: "[[SA2]], [[SN22.52]], [[SN35.158-159]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[SA1]]  🌐 [[SA3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[SA1]]  🌐 [[SA3]] ►
 
 # SA2 - SA 1.5 - Correctly Contemplated
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA2]], [[SN22.52]], [[SN35.158-159]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSA2%5D%5D%22%23mynotes%20-file%3Asa2-%20-file%3A%22SA1%22%20-file%3A%22SA3%22%20-file%3A%22SA2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sa2/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[SA1]]  🌐 [[SA3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[SA1]]  🌐 [[SA3]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP306]], [[UD2.4]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP306]], [[ITI48]], [[SNP3.10]], [[UD2.4]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.7]]  🌐 [[UD4.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.7]]  🌐 [[UD4.9]] ►
 
 # UD4.8 - Sundari Sutta - Sundarī
 ## 🌐 Overview
@@ -94,10 +94,10 @@ a mendicant should endure with no anger in heart.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD4.8%5D%5D%22%23mynotes%20-file%3Aud4.8-%20-file%3A%22UD4.7%22%20-file%3A%22UD4.9%22%20-file%3A%22UD4.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud4.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.8
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.7]]  🌐 [[UD4.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.7]]  🌐 [[UD4.9]] ►

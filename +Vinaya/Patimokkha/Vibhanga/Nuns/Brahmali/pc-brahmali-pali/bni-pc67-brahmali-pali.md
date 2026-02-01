@@ -4,7 +4,7 @@ vin_title: "Paripuṇṇadvādasavassa-sikkhita-gihigata-asammata - Ordaining Tr
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC67]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC67]]
 > ◄  [[bni-pc66-brahmali-pali]] 📜  [[bni-pc68-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -150,5 +150,5 @@ p_2V_3268Sattamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC67]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC67]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC67]]
 > ◄  [[bni-pc66-brahmali-pali]] 📜  [[bni-pc68-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Anupakhajja - Encroaching"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC16]]
 > ◄  [[bu-pc15-horner]] 📜  [[bu-pc17-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 16
@@ -71,5 +71,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC16]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC16]]
 > ◄  [[bu-pc15-horner]] 📜  [[bu-pc17-horner]] ►

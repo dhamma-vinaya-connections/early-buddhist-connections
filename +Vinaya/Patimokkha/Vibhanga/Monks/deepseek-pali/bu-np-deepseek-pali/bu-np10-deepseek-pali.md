@@ -4,7 +4,7 @@ vin_title: "Rāja - Robe Fund Excessive Prompting"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP10]]
 > ◄  [[bu-np9-deepseek-pali]] 📜  [[bu-np11-deepseek-pali]] ►
 
 # BU-NP 10
@@ -131,5 +131,5 @@ The Kathina is lifted for three [reasons]; washing and receiving; and three are 
 >|       |          | [[ñanatusita-analysis#^NP10]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP10]]
 > ◄  [[bu-np9-deepseek-pali]] 📜  [[bu-np11-deepseek-pali]] ►

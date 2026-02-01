@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI83]]  🌐 [[ITI85]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI83]]  🌐 [[ITI85]] ►
 
 # ITI84 - Bahujanahita - For Welfare of People
 ## 🌐 Overview
@@ -87,10 +87,10 @@ throw open the door to the Deathless,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI84%5D%5D%22%23mynotes%20-file%3Aiti84-%20-file%3A%22ITI83%22%20-file%3A%22ITI85%22%20-file%3A%22ITI84%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti84/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti84
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti84.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI83]]  🌐 [[ITI85]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI83]]  🌐 [[ITI85]] ►

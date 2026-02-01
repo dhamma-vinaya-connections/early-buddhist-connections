@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.68]], [[SA1145]]"
 parallels_partilal: "[[SA-2.68]], [[SA1145]], [[AN5.31]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.23]]  🌐 [[SN3.25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.23]]  🌐 [[SN3.25]] ►
 
 # SN3.24 - Issattasutta - Archery
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SA-2.68]], [[SA1145]], [[AN5.31]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.24%5D%5D%22%23mynotes%20-file%3Asn3.24-%20-file%3A%22SN3.23%22%20-file%3A%22SN3.25%22%20-file%3A%22SN3.24%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.24/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.24
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.24.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.23]]  🌐 [[SN3.25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.23]]  🌐 [[SN3.25]] ►

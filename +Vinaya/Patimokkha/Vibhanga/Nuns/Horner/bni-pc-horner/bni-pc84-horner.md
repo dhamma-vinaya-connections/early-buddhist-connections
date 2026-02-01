@@ -4,7 +4,7 @@ vin_title: "Chattupāhana - Sunshades and Sandals"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC84]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC84]]
 > ◄  [[bni-pc83-horner]] 📜  [[bni-pc85-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 84
@@ -69,5 +69,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC84]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC84]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC84]]
 > ◄  [[bni-pc83-horner]] 📜  [[bni-pc85-horner]] ►

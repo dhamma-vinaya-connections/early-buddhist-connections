@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.261]], [[SA-3.2]], [[SA95]]"
 parallels_partilal: "[[SA-2.261]], [[SA-3.2]], [[SA95]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.56]]  🌐 [[AN3.58]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.56]]  🌐 [[AN3.58]] ►
 
 # AN3.57 - Vacchagotta - With Vacchagotta
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SA-2.261]], [[SA-3.2]], [[SA95]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.57%5D%5D%22%23mynotes%20-file%3Aan3.57-%20-file%3A%22AN3.56%22%20-file%3A%22AN3.58%22%20-file%3A%22AN3.57%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.57/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.57
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.57.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.56]]  🌐 [[AN3.58]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.56]]  🌐 [[AN3.58]] ►

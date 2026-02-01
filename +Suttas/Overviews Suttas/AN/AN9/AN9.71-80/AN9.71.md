@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN5.205]], [[AN5.206]], [[AN9.72]], [[AN9.82]], [[AN9.92]],
 parallels_agama: "[[EA51.4]], [[MA206]]"
 parallels_partilal: "[[AN5.205]], [[DN33]], [[MN16]], [[DN34]], [[DA10]], [[AN10.14]], [[EA51.4]], [[MA206]], [[AN5.206]], [[AN9.72]], [[AN9.82]], [[AN9.92]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.70]]  🌐 [[AN9.72]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.70]]  🌐 [[AN9.72]] ►
 
 # AN9.71 - Cetokhila - Emotional Barrenness
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN5.205]], [[DN33]], [[MN16]], [[DN34]], [[DA10]], [[AN10
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.71%5D%5D%22%23mynotes%20-file%3Aan9.71-%20-file%3A%22AN9.70%22%20-file%3A%22AN9.72%22%20-file%3A%22AN9.71%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.71/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.71
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.71.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.70]]  🌐 [[AN9.72]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.70]]  🌐 [[AN9.72]] ►

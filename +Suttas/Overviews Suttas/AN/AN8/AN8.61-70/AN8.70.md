@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN51.10]], [[UD6.1]]"
 parallels_agama: "[[EA42.5]], [[MA36]]"
 parallels_partilal: "[[UD6.1]], [[DN16]], [[SN51.10]], [[MA36]], [[EA42.5]], [[PE3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.69]]  🌐 [[AN8.71]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.69]]  🌐 [[AN8.71]] ►
 
 # AN8.70 - Bhūmicāla - Earthquakes
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[UD6.1]], [[DN16]], [[SN51.10]], [[MA36]], [[EA42.5]], [[P
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.70%5D%5D%22%23mynotes%20-file%3Aan8.70-%20-file%3A%22AN8.69%22%20-file%3A%22AN8.71%22%20-file%3A%22AN8.70%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.70/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.70
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.70.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.69]]  🌐 [[AN8.71]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.69]]  🌐 [[AN8.71]] ►

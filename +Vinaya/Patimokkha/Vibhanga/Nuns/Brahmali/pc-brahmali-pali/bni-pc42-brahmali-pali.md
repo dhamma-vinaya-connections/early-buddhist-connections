@@ -4,7 +4,7 @@ vin_title: "Āsandiparibhuñjana - Using High Couches"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC42]]
 > ◄  [[bni-pc41-brahmali-pali]] 📜  [[bni-pc43-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -96,5 +96,5 @@ p_2V_3010Dutiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC42]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC42]]
 > ◄  [[bni-pc41-brahmali-pali]] 📜  [[bni-pc43-brahmali-pali]] ►

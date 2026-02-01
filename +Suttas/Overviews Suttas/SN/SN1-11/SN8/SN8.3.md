@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.251]], [[SA1216]]"
 parallels_partilal: "[[SA-2.251]], [[SA1216]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.2]]  🌐 [[SN8.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.2]]  🌐 [[SN8.4]] ►
 
 # SN8.3 - Pesalasutta - Well Behaved
 ## 🌐 Overview
@@ -84,10 +84,10 @@ Then with conceit given up completely,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN8.3%5D%5D%22%23mynotes%20-file%3Asn8.3-%20-file%3A%22SN8.2%22%20-file%3A%22SN8.4%22%20-file%3A%22SN8.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn8.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.3
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.2]]  🌐 [[SN8.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.2]]  🌐 [[SN8.4]] ►

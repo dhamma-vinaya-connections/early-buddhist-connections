@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.287]]  🌐 [[AN1.293-295]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.287]]  🌐 [[AN1.293-295]] ►
 
 # AN1.290-292 - Aṭṭhāna - Impossible
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.290-292%5D%5D%22%23mynotes%20-file%3Aan1.290-292-%20-file%3A%22AN1.287%22%20-file%3A%22AN1.293-295%22%20-file%3A%22AN1.290-292%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.290-292/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.290-292
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.290-292.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.287]]  🌐 [[AN1.293-295]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.287]]  🌐 [[AN1.293-295]] ►

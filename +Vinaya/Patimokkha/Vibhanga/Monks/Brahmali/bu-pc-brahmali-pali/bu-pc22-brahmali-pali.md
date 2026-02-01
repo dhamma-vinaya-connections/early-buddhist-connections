@@ -4,7 +4,7 @@ vin_title: "Atthaṅgata - Instructing Nuns After Sunset"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
 > ◄  [[bu-pc21-brahmali-pali]] 📜  [[bu-pc23-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -140,5 +140,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṁ, cūḷapanthaka, att
 >|       |          | [[ñanatusita-analysis#^PC22]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
 > ◄  [[bu-pc21-brahmali-pali]] 📜  [[bu-pc23-brahmali-pali]] ►

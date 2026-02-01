@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DN33]], [[PLI-TV-PVR7]], [[PLI-TV-PVR17]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.129]]  🌐 [[AN5.131]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.129]]  🌐 [[AN5.131]] ►
 
 # AN5.130 - Byasana - Loss
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[DN33]], [[PLI-TV-PVR7]], [[PLI-TV-PVR17]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.130%5D%5D%22%23mynotes%20-file%3Aan5.130-%20-file%3A%22AN5.129%22%20-file%3A%22AN5.131%22%20-file%3A%22AN5.130%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.130/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.130
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.130.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.129]]  🌐 [[AN5.131]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.129]]  🌐 [[AN5.131]] ►

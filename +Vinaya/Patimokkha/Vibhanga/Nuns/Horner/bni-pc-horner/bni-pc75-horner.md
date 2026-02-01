@@ -4,7 +4,7 @@ vin_title: "Paripuṇṇadvādasavassa-asammata - Twelve Years of Seniority With
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC75]]
 > ◄  [[bni-pc74-horner]] 📜  [[bni-pc76-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 75
@@ -49,5 +49,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC75]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC75]]
 > ◄  [[bni-pc74-horner]] 📜  [[bni-pc76-horner]] ►

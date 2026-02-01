@@ -4,7 +4,7 @@ vin_title: "Paraujjhāpanaka - Complaining About Others"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC18]]
 > ◄  [[bni-pc17-brahmali-pali]] 📜  [[bni-pc19-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -105,5 +105,5 @@ p_2V_2769Aṭṭhamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC18]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC18]]
 > ◄  [[bni-pc17-brahmali-pali]] 📜  [[bni-pc19-brahmali-pali]] ►

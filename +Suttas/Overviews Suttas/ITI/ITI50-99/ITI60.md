@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.36]]"
 parallels_agama: ""
 parallels_partilal: "[[AN8.36]], [[ITI22]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI59]]  🌐 [[ITI61]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI59]]  🌐 [[ITI61]] ►
 
 # ITI60 - Puññakiriyavatthu - Grounds for Making Merit
 ## 🌐 Overview
@@ -87,10 +87,10 @@ a mind of good will.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI60%5D%5D%22%23mynotes%20-file%3Aiti60-%20-file%3A%22ITI59%22%20-file%3A%22ITI61%22%20-file%3A%22ITI60%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti60/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti60
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti60.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI59]]  🌐 [[ITI61]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI59]]  🌐 [[ITI61]] ►

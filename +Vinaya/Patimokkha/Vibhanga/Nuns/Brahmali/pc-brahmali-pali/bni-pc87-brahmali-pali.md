@@ -4,7 +4,7 @@ vin_title: "Itthālaṅkāra - Jewellery"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC87]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC87]]
 > ◄  [[bni-pc86-brahmali-pali]] 📜  [[bni-pc88-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -88,5 +88,5 @@ p_2V_3468Catutthasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC87]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC87]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC87]]
 > ◄  [[bni-pc86-brahmali-pali]] 📜  [[bni-pc88-brahmali-pali]] ►

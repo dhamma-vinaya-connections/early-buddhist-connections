@@ -4,7 +4,7 @@ vin_title: "Pathavīkhaṇana - Digging Earth"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC10]]
 > ◄  [[bu-pc9-horner]] 📜  [[bu-pc11-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 10
@@ -74,5 +74,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC10]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC10]]
 > ◄  [[bu-pc9-horner]] 📜  [[bu-pc11-horner]] ►

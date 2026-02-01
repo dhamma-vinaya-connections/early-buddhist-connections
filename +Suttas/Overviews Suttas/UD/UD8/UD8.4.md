@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SN35.87]], [[PE5]], [[PE1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.3]]  🌐 [[UD8.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.3]]  🌐 [[UD8.5]] ►
 
 # UD8.4 - Catutthanibbana Sutta - Nibbāna (4)
 ## 🌐 Overview
@@ -86,10 +86,10 @@ who knows and sees, there is nothing
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD8.4%5D%5D%22%23mynotes%20-file%3Aud8.4-%20-file%3A%22UD8.3%22%20-file%3A%22UD8.5%22%20-file%3A%22UD8.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud8.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.4
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.3]]  🌐 [[UD8.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.3]]  🌐 [[UD8.5]] ►

@@ -4,7 +4,7 @@ vin_title: "Aññavādaka - Speech Evasive"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
 > ◄  [[bu-pc11-horner]] 📜  [[bu-pc13-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 12
@@ -81,5 +81,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
 > ◄  [[bu-pc11-horner]] 📜  [[bu-pc13-horner]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA36.1]]"
 parallels_partilal: "[[EA36.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.201]]  🌐 [[AN5.203]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.201]]  🌐 [[AN5.203]] ►
 
 # AN5.202 - Kimila - Listening To The Teaching
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA36.1]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.202%5D%5D%22%23mynotes%20-file%3Aan5.202-%20-file%3A%22AN5.201%22%20-file%3A%22AN5.203%22%20-file%3A%22AN5.202%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.202/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.202
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.202.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.201]]  🌐 [[AN5.203]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.201]]  🌐 [[AN5.203]] ►

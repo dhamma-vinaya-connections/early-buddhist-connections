@@ -4,7 +4,7 @@ vin_title: "Rāja - Robe Fund Excessive Prompting"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP20]]
 > ◄  [[bni-np19-brahmali-pali]] 📜  [[bni-np21-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -246,5 +246,5 @@ ubhinnaṁ dūtakena cāti.
 >|       |          | [[ñanatusita-analysis#^-NP20]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP20]]
 > ◄  [[bni-np19-brahmali-pali]] 📜  [[bni-np21-brahmali-pali]] ►

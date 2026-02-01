@@ -4,7 +4,7 @@ vin_title: "Upassuti - Eavesdropping"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC78]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC78]]
 > ◄  [[bu-pc77-deepseek-pali]] 📜  [[bu-pc79-deepseek-pali]] ►
 
 # BU-PC 78
@@ -71,5 +71,5 @@ The eighth training rule on eavesdropping is concluded.
 >|       |          | [[ñanatusita-analysis#^PC78]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC78]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC78]]
 > ◄  [[bu-pc77-deepseek-pali]] 📜  [[bu-pc79-deepseek-pali]] ►

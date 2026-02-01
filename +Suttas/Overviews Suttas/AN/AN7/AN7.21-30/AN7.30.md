@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.29]]  🌐 [[AN7.31]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.29]]  🌐 [[AN7.31]] ►
 
 # AN7.30 - Dutiyaparihāni - Non-Decline For Lay Follower
 ## 🌐 Overview
@@ -81,10 +81,10 @@ Doesn’t fall away from the true teaching
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.30%5D%5D%22%23mynotes%20-file%3Aan7.30-%20-file%3A%22AN7.29%22%20-file%3A%22AN7.31%22%20-file%3A%22AN7.30%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.30/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.30
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.30.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.29]]  🌐 [[AN7.31]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.29]]  🌐 [[AN7.31]] ►

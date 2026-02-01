@@ -4,7 +4,7 @@ vin_title: "Udakeuccāra - In Water"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK75]]
 > ◄  [[BU-SK74]] 📜  [[BU-SK75]] ►
 
 # Nuns’ Training (_Sekhiya_) 1–75
@@ -77,5 +77,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-SK75]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK75]]
 > ◄  [[BU-SK74]] 📜  [[BU-SK75]] ►

@@ -4,7 +4,7 @@ vin_title: "Pesuñña - Divisive Talebearing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
 > ◄  [[bu-pc2-brahmali-pali]] 📜  [[bu-pc4-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -244,5 +244,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, bhikkh�
 >|       |          | [[ñanatusita-analysis#^PC3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
 > ◄  [[bu-pc2-brahmali-pali]] 📜  [[bu-pc4-brahmali-pali]] ►

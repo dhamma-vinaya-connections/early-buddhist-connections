@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP180]]"
 parallels_agama: "[[SA-2.26]], [[SA1087]]"
 parallels_partilal: "[[SA-2.26]], [[SA1087]], [[DHP180]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.6]]  🌐 [[SN4.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.6]]  🌐 [[SN4.8]] ►
 
 # SN4.7 - Supatisutta - Sleep
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.26]], [[SA1087]], [[DHP180]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.7%5D%5D%22%23mynotes%20-file%3Asn4.7-%20-file%3A%22SN4.6%22%20-file%3A%22SN4.8%22%20-file%3A%22SN4.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.7
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.6]]  🌐 [[SN4.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.6]]  🌐 [[SN4.8]] ►

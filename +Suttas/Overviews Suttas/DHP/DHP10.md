@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[JA221]], [[JA514]], [[THAG17.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP9]]  🌐 [[DHP11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP9]]  🌐 [[DHP11]] ►
 
 # DHP10 - Daṇḍavagga - Weapons
 ## 🌐 Overview
@@ -89,10 +89,10 @@ and the rod may spring back on you
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP10%5D%5D%22%23mynotes%20-file%3Adhp10-%20-file%3A%22DHP9%22%20-file%3A%22DHP11%22%20-file%3A%22DHP10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp10
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP9]]  🌐 [[DHP11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP9]]  🌐 [[DHP11]] ►

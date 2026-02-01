@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PLI-TV-KD11]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.88]]  🌐 [[AN8.90]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.88]]  🌐 [[AN8.90]] ►
 
 # AN8.89 - Appasādapavedanīya - Proclamation Of No Confidence
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[PLI-TV-KD11]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.89%5D%5D%22%23mynotes%20-file%3Aan8.89-%20-file%3A%22AN8.88%22%20-file%3A%22AN8.90%22%20-file%3A%22AN8.89%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.89/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.89
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.89.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.88]]  🌐 [[AN8.90]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.88]]  🌐 [[AN8.90]] ►

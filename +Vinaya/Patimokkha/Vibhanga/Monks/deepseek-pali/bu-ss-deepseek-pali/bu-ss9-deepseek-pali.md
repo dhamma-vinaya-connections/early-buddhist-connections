@@ -4,7 +4,7 @@ vin_title: "Aññabhāgiya - Accusation Out of Anger on an Irrelevant Pretext"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
 > ◄  [[bu-ss8-deepseek-pali]] 📜  [[bu-ss10-deepseek-pali]] ►
 
 # BU-SN 9
@@ -211,5 +211,5 @@ The second training rule on malicious accusation is concluded, the ninth.
 >|       |          | [[ñanatusita-analysis#^SS9]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
 > ◄  [[bu-ss8-deepseek-pali]] 📜  [[bu-ss10-deepseek-pali]] ►

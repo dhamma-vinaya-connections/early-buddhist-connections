@@ -4,7 +4,7 @@ vin_title: "Cārikanapakkamana - Going Wandering"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC40]]
 > ◄  [[bni-pc39-horner]] 📜  [[bni-pc41-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 40
@@ -49,5 +49,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC40]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC40]]
 > ◄  [[bni-pc39-horner]] 📜  [[bni-pc41-horner]] ►

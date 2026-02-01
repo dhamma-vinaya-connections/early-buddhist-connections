@@ -4,7 +4,7 @@ vin_title: "Gaṇabhojana - Eating in Group"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
 > ◄  [[bu-pc31-deepseek-pali]] 📜  [[bu-pc33-deepseek-pali]] ►
 
 # BU-PC 32
@@ -175,5 +175,5 @@ The second training rule concerning group meals is finished.
 >|       |          | [[ñanatusita-analysis#^PC32]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
 > ◄  [[bu-pc31-deepseek-pali]] 📜  [[bu-pc33-deepseek-pali]] ►

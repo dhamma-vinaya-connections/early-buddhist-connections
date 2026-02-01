@@ -4,7 +4,7 @@ vin_title: "Vikappana - Shared Ownership"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC59]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC59]]
 > ◄  [[bu-pc58-deepseek-pali]] 📜  [[bu-pc60-deepseek-pali]] ►
 
 # BU-PC 59
@@ -99,5 +99,5 @@ The ninth training rule on Assignment is finished.
 >|       |          | [[ñanatusita-analysis#^PC59]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC59]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC59]]
 > ◄  [[bu-pc58-deepseek-pali]] 📜  [[bu-pc60-deepseek-pali]] ►

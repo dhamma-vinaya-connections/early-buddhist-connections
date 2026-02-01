@@ -4,7 +4,7 @@ vin_title: "Harituccārachaḍḍana - Disposing Feces on Plants"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC9]]
 > ◄  [[bni-pc8-brahmali-pali]] 📜  [[bni-pc10-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -116,5 +116,5 @@ p_2V_2662Navamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC9]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC9]]
 > ◄  [[bni-pc8-brahmali-pali]] 📜  [[bni-pc10-brahmali-pali]] ►

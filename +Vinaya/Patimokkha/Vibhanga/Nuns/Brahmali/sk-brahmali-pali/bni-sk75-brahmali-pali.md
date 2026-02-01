@@ -4,7 +4,7 @@ vin_title: "Udakeuccāra - In Water"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK75]]
 > ◄  [[bni-sk74-brahmali-pali]] 📜  [[BU-SK75]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -106,5 +106,5 @@ Sekhiyakaṇḍaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-SK75]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK75]]
 > ◄  [[bni-sk74-brahmali-pali]] 📜  [[BU-SK75]] ►

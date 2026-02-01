@@ -4,7 +4,7 @@ vin_title: "Sokāvāsa - Temperamental to Live With"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC79]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC79]]
 > ◄  [[bni-pc78-horner]] 📜  [[bni-pc80-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 79
@@ -65,5 +65,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC79]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC79]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC79]]
 > ◄  [[bni-pc78-horner]] 📜  [[bni-pc80-horner]] ►

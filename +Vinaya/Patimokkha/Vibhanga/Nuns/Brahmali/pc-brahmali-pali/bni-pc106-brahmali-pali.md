@@ -4,7 +4,7 @@ vin_title: "Pathavīkhaṇana - Digging Earth"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC106]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC106]]
 > ◄  [[bni-pc105-brahmali-pali]] 📜  [[bni-pc107-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -136,5 +136,5 @@ duṭṭhullāpatti khaṇanāti.
 >|       |          | [[ñanatusita-analysis#^-PC106]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC106]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC106]]
 > ◄  [[bni-pc105-brahmali-pali]] 📜  [[bni-pc107-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Lasuṇa - Garlic"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC1]]
 > ◄  [[BNI-NP30]] 📜  [[bni-pc2-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -134,5 +134,5 @@ Suvaṇṇā parihāyathā”ti.
 >|       |          | [[ñanatusita-analysis#^-PC1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC1]]
 > ◄  [[BNI-NP30]] 📜  [[bni-pc2-brahmali-pali]] ►

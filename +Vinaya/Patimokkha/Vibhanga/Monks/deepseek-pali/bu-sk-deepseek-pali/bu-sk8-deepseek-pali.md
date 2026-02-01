@@ -4,7 +4,7 @@ vin_title: "Okkhittacakkhu - Eyes cast down"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK8]]
 > ◄  [[bu-sk7-deepseek-pali]] 📜  [[bu-sk9-deepseek-pali]] ►
 
 # BU-SK 8
@@ -47,5 +47,5 @@ The seventh training rule is complete.
 >|       |          | [[ñanatusita-analysis#^SK8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK8]]
 > ◄  [[bu-sk7-deepseek-pali]] 📜  [[bu-sk9-deepseek-pali]] ►

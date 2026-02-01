@@ -4,7 +4,7 @@ vin_title: "Cīvarasibbana - Robes Sewing"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC26]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC26]]
 > ◄  [[bu-pc25-deepseek-pali]] 📜  [[bu-pc27-deepseek-pali]] ►
 
 # BU-PC 26
@@ -79,5 +79,5 @@ The sixth training rule on robe-sewing is concluded.
 >|       |          | [[ñanatusita-analysis#^PC26]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC26]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC26]]
 > ◄  [[bu-pc25-deepseek-pali]] 📜  [[bu-pc27-deepseek-pali]] ►

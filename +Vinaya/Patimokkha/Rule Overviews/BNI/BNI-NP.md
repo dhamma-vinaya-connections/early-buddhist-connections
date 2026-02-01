@@ -4,7 +4,7 @@ index:
 rule_type: "BNI-NP - Nissaggiya Pacittiya - Relinquish with confession"
 vin_gender: "Nuns"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-NP 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-NP 
 
 # BNI-NP - Nissaggiya Pacittiya - Relinquish with confession
 

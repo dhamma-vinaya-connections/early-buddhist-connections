@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA985]]"
 parallels_partilal: "[[SA985]], [[MN109]], [[MN44]], [[SN22.44]], [[SN41.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.199]]  🌐 [[AN4.201]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.199]]  🌐 [[AN4.201]] ►
 
 # AN4.200 - Pema - Affection
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SA985]], [[MN109]], [[MN44]], [[SN22.44]], [[SN41.3]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.200%5D%5D%22%23mynotes%20-file%3Aan4.200-%20-file%3A%22AN4.199%22%20-file%3A%22AN4.201%22%20-file%3A%22AN4.200%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.200/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.200
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.200.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.199]]  🌐 [[AN4.201]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.199]]  🌐 [[AN4.201]] ►

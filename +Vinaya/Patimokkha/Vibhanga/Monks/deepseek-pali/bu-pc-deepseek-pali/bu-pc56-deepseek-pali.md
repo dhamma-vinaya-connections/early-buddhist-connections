@@ -4,7 +4,7 @@ vin_title: "Jotika - Fire Kindling"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC56]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC56]]
 > ◄  [[bu-pc55-deepseek-pali]] 📜  [[bu-pc57-deepseek-pali]] ►
 
 # BU-PC 56
@@ -107,5 +107,5 @@ The sixth training rule on fire is concluded.
 >|       |          | [[ñanatusita-analysis#^PC56]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC56]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC56]]
 > ◄  [[bu-pc55-deepseek-pali]] 📜  [[bu-pc57-deepseek-pali]] ►

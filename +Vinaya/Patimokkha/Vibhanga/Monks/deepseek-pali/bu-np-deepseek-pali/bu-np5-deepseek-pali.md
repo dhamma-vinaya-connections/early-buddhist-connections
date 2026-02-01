@@ -4,7 +4,7 @@ vin_title: "Cīvarapaṭiggahana - Robe Cloth Receiving"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP5]]
 > ◄  [[bu-np4-deepseek-pali]] 📜  [[bu-np6-deepseek-pali]] ►
 
 # BU-NP 5
@@ -91,5 +91,5 @@ The fifth training rule, on receiving robes, is finished.
 >|       |          | [[ñanatusita-analysis#^NP5]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP5]]
 > ◄  [[bu-np4-deepseek-pali]] 📜  [[bu-np6-deepseek-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SNP5.4]], [[AN3.32]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.40]]  🌐 [[AN4.42]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.40]]  🌐 [[AN4.42]] ►
 
 # AN4.41 - Samadhi - Samadhi
 ## 🌐 Overview
@@ -86,10 +86,10 @@ They’ve crossed over birth and old age, I declare
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.41%5D%5D%22%23mynotes%20-file%3Aan4.41-%20-file%3A%22AN4.40%22%20-file%3A%22AN4.42%22%20-file%3A%22AN4.41%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.41/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.41
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.41.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.40]]  🌐 [[AN4.42]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.40]]  🌐 [[AN4.42]] ►

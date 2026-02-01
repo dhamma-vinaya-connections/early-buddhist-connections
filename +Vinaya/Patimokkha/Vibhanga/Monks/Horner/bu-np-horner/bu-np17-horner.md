@@ -4,7 +4,7 @@ vin_title: "Eḷakalomadhovāpana - Bhikkhuni Made to Wash Wool"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP17]]
 > ◄  [[bu-np16-horner]] 📜  [[bu-np18-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 17
@@ -75,5 +75,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP17]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP17]]
 > ◄  [[bu-np16-horner]] 📜  [[bu-np18-horner]] ►

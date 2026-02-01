@@ -4,7 +4,7 @@ vin_title: "Ūnadvādasavassa-gihigata - Ordaining Married Girls Under Twelve"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC65]]
 > ◄  [[bni-pc64-horner]] 📜  [[bni-pc66-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 65
@@ -59,5 +59,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC65]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC65]]
 > ◄  [[bni-pc64-horner]] 📜  [[bni-pc66-horner]] ►

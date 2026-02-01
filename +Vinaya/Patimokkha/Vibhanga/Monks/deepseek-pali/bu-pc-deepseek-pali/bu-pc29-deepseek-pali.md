@@ -4,7 +4,7 @@ vin_title: "Paripācita - Food Prepared on a Nun’s Instruction"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
 > ◄  [[bu-pc28-deepseek-pali]] 📜  [[bu-pc30-deepseek-pali]] ►
 
 # BU-PC 29
@@ -95,5 +95,5 @@ The ninth training rule on procuring is concluded.
 >|       |          | [[ñanatusita-analysis#^PC29]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
 > ◄  [[bu-pc28-deepseek-pali]] 📜  [[bu-pc30-deepseek-pali]] ►

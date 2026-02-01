@@ -4,7 +4,7 @@ vin_title: "Sañcaritta - Matchmaking"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
 > ◄  [[bu-ss4-brahmali-pali]] 📜  [[bu-ss6-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -1140,5 +1140,5 @@ Tassa kukkuccaṁ ahosi … pe … "anāpatti, bhikkhu, saṅghādisesassa; āpa
 >|       |          | [[ñanatusita-analysis#^SS5]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
 > ◄  [[bu-ss4-brahmali-pali]] 📜  [[bu-ss6-brahmali-pali]] ►

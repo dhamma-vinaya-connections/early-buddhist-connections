@@ -4,7 +4,7 @@ vin_title: "Kammapaṭibāhana - Obstructive Legal Procedure"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC79]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC79]]
 > ◄  [[bu-pc78-deepseek-pali]] 📜  [[bu-pc80-deepseek-pali]] ►
 
 # BU-PC 79
@@ -55,5 +55,5 @@ The Ninth Training Rule on the Rejection of a Sangha Act is finished.
 >|       |          | [[ñanatusita-analysis#^PC79]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC79]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC79]]
 > ◄  [[bu-pc78-deepseek-pali]] 📜  [[bu-pc80-deepseek-pali]] ►

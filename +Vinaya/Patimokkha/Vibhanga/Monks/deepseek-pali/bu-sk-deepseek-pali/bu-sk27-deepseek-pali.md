@@ -4,7 +4,7 @@ vin_title: "Sakkaccapaṭiggahaṇa - Receiving Respectfully"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK27]]
 > ◄  [[bu-sk26-deepseek-pali]] 📜  [[bu-sk28-deepseek-pali]] ►
 
 # BU-SK 27
@@ -47,5 +47,5 @@ The sixth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK27]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK27]]
 > ◄  [[bu-sk26-deepseek-pali]] 📜  [[bu-sk28-deepseek-pali]] ►

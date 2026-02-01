@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP17]]  🌐 [[PDHP19]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP17]]  🌐 [[PDHP19]] ►
 
 # PDHP18 - Āsavavagga - Defilements
 ## 🌐 Overview
@@ -91,10 +91,10 @@ the pollutants are laid to rest.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BPDHP18%5D%5D%22%23mynotes%20-file%3Apdhp18-%20-file%3A%22PDHP17%22%20-file%3A%22PDHP19%22%20-file%3A%22PDHP18%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pdhp18/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp18
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp18.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP17]]  🌐 [[PDHP19]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP17]]  🌐 [[PDHP19]] ►

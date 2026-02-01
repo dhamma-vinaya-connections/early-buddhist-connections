@@ -4,7 +4,7 @@ vin_title: "Patta - Bowl Extra"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
 > ◄  [[bu-np20-deepseek-pali]] 📜  [[bu-np22-deepseek-pali]] ►
 
 # BU-NP 21
@@ -103,5 +103,5 @@ The first training rule on the bowl is concluded.
 >|       |          | [[ñanatusita-analysis#^NP21]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
 > ◄  [[bu-np20-deepseek-pali]] 📜  [[bu-np22-deepseek-pali]] ►

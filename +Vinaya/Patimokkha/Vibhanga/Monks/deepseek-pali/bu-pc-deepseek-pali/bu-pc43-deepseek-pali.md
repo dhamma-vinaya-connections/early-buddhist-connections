@@ -4,7 +4,7 @@ vin_title: "Sabhojana - Intruding on a Couple Enjoying Themselves"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC43]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC43]]
 > ◄  [[bu-pc42-deepseek-pali]] 📜  [[bu-pc44-deepseek-pali]] ►
 
 # BU-PC 43
@@ -71,5 +71,5 @@ The third training rule concerning a private dwelling is concluded.
 >|       |          | [[ñanatusita-analysis#^PC43]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC43]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC43]]
 > ◄  [[bu-pc42-deepseek-pali]] 📜  [[bu-pc44-deepseek-pali]] ►

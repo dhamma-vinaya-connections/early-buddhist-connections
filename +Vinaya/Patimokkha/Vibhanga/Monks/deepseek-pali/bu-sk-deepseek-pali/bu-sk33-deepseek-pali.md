@@ -4,7 +4,7 @@ vin_title: "Sapadāna - Eating in Order"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK33]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK33]]
 > ◄  [[bu-sk32-deepseek-pali]] 📜  [[bu-sk34-deepseek-pali]] ►
 
 # BU-SK 33
@@ -43,5 +43,5 @@ The second training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK33]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK33]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK33]]
 > ◄  [[bu-sk32-deepseek-pali]] 📜  [[bu-sk34-deepseek-pali]] ►

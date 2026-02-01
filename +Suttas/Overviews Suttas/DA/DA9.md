@@ -38,7 +38,7 @@ parallels_nikaya: "[[DN30]], [[DN33]], [[DN34]]"
 parallels_agama: "[[DA10]], [[DA11]], [[MA59]]"
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA8]]  🌐 [[DA10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA8]]  🌐 [[DA10]] ►
 
 # DA9 - 眾集 - Numerically Assembled Doctrines
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDA9%5D%5D%22%23mynotes%20-file%3Ada9-%20-file%3A%22DA8%22%20-file%3A%22DA10%22%20-file%3A%22DA9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/da9/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA8]]  🌐 [[DA10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA8]]  🌐 [[DA10]] ►

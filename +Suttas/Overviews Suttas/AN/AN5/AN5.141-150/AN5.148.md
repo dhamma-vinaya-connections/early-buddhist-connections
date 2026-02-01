@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.147]]  🌐 [[AN5.149]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.147]]  🌐 [[AN5.149]] ►
 
 # AN5.148 - Asappurisadāna - Gifts Of A Bad Person
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.148%5D%5D%22%23mynotes%20-file%3Aan5.148-%20-file%3A%22AN5.147%22%20-file%3A%22AN5.149%22%20-file%3A%22AN5.148%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.148/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.148
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.148.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.147]]  🌐 [[AN5.149]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.147]]  🌐 [[AN5.149]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.256]]"
 parallels_agama: "[[MA40]]"
 parallels_partilal: "[[MA40]], [[AN4.256]], [[AN4.32]], [[DN33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.23]]  🌐 [[AN8.25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.23]]  🌐 [[AN8.25]] ►
 
 # AN8.24 - Dutiyahatthaka - With Hatthaka
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[MA40]], [[AN4.256]], [[AN4.32]], [[DN33]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.24%5D%5D%22%23mynotes%20-file%3Aan8.24-%20-file%3A%22AN8.23%22%20-file%3A%22AN8.25%22%20-file%3A%22AN8.24%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.24/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.24
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.24.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.23]]  🌐 [[AN8.25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.23]]  🌐 [[AN8.25]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP3]]  🌐 [[DHP5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP3]]  🌐 [[DHP5]] ►
 
 # DHP4 - Pupphavagga - Flowers
 ## 🌐 Overview
@@ -89,10 +89,10 @@ what you’ve done or left undone
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP4%5D%5D%22%23mynotes%20-file%3Adhp4-%20-file%3A%22DHP3%22%20-file%3A%22DHP5%22%20-file%3A%22DHP4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp4
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP3]]  🌐 [[DHP5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP3]]  🌐 [[DHP5]] ►

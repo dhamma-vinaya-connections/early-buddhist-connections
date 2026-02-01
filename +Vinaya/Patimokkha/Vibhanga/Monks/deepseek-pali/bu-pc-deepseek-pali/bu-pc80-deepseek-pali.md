@@ -4,7 +4,7 @@ vin_title: "Chandaṁadatvāgamana - Leaving Without Giving Consent"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC80]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC80]]
 > ◄  [[bu-pc79-deepseek-pali]] 📜  [[bu-pc81-deepseek-pali]] ►
 
 # BU-PC 80
@@ -59,5 +59,5 @@ The Tenth Training Rule on Going Without Giving Consent is finished.
 >|       |          | [[ñanatusita-analysis#^PC80]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC80]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC80]]
 > ◄  [[bu-pc79-deepseek-pali]] 📜  [[bu-pc81-deepseek-pali]] ►

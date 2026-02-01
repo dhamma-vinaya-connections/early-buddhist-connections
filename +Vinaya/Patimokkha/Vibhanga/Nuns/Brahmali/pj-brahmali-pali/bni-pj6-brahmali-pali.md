@@ -4,7 +4,7 @@ vin_title: "Vajjappaṭicchādikā - Conceal Offenses"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ6]]
 > ◄  [[bni-pj5-brahmali-pali]] 📜  [[bni-pj7-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -153,5 +153,5 @@ Kathañhi nāma, bhikkhave, thullanandā bhikkhunī jānaṁ pārājikaṁ dhamm
 >|       |          | [[ñanatusita-analysis#^-PJ6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ6]]
 > ◄  [[bni-pj5-brahmali-pali]] 📜  [[bni-pj7-brahmali-pali]] ►

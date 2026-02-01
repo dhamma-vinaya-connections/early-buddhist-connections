@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.316]], [[SA1317]]"
 parallels_partilal: "[[SA-2.316]], [[SA1317]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.81]]  🌐 [[SN2.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.81]]  🌐 [[SN2.2]] ►
 
 # SN2.1 - Paṭhamakassapasutta - Kassapa (1)
 ## 🌐 Overview
@@ -82,10 +82,10 @@ Healthy-minded, independent, that is their reward
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.1%5D%5D%22%23mynotes%20-file%3Asn2.1-%20-file%3A%22SN1.81%22%20-file%3A%22SN2.2%22%20-file%3A%22SN2.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.81]]  🌐 [[SN2.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.81]]  🌐 [[SN2.2]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.139]]"
 parallels_partilal: "[[SA-2.139]], [[SN2.27]], [[JA509]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.3]]  🌐 [[SN1.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.3]]  🌐 [[SN1.5]] ►
 
 # SN1.4 - Accenti - Time Flies
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.139]], [[SN2.27]], [[JA509]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.4%5D%5D%22%23mynotes%20-file%3Asn1.4-%20-file%3A%22SN1.3%22%20-file%3A%22SN1.5%22%20-file%3A%22SN1.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.3]]  🌐 [[SN1.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.3]]  🌐 [[SN1.5]] ►

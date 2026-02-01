@@ -4,7 +4,7 @@ vin_title: "Bhedānuvattaka - Schismatic Followers"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS15]]
 > ◄  [[bni-ss14-brahmali-pali]] 📜  [[bni-ss16-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -194,5 +194,5 @@ Te bhikkhū samanubhāsitabbā.
 >|       |          | [[ñanatusita-analysis#^-SS15]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS15]]
 > ◄  [[bni-ss14-brahmali-pali]] 📜  [[bni-ss16-brahmali-pali]] ►

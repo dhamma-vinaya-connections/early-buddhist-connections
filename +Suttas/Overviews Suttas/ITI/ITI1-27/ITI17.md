@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI16]]  🌐 [[ITI18]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI16]]  🌐 [[ITI18]] ►
 
 # ITI17 - Sekha - Good Friend
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI17%5D%5D%22%23mynotes%20-file%3Aiti17-%20-file%3A%22ITI16%22%20-file%3A%22ITI18%22%20-file%3A%22ITI17%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti17/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti17
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti17.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI16]]  🌐 [[ITI18]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI16]]  🌐 [[ITI18]] ►

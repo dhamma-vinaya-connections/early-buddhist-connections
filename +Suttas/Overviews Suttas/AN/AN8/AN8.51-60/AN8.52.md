@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PLI-TV-BU-VB-PC21]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.51]]  🌐 [[AN8.53]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.51]]  🌐 [[AN8.53]] ►
 
 # AN8.52 - Ovada - Nuns Advisers
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[PLI-TV-BU-VB-PC21]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.52%5D%5D%22%23mynotes%20-file%3Aan8.52-%20-file%3A%22AN8.51%22%20-file%3A%22AN8.53%22%20-file%3A%22AN8.52%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.52/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.52
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.52.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.51]]  🌐 [[AN8.53]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.51]]  🌐 [[AN8.53]] ►

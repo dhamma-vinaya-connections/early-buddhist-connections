@@ -4,7 +4,7 @@ vin_title: "Ūnadvādasavassa-gihigata - Ordaining Married Girls Under Twelve"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC65]]
 > ◄  [[bni-pc64-brahmali-pali]] 📜  [[bni-pc66-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -100,5 +100,5 @@ p_2V_3239Pañcamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC65]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC65]]
 > ◄  [[bni-pc64-brahmali-pali]] 📜  [[bni-pc66-brahmali-pali]] ►

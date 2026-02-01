@@ -4,7 +4,7 @@ vin_title: "Dubbaṇṇakaraṇa - Stains Making"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC58]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC58]]
 > ◄  [[bu-pc57-horner]] 📜  [[bu-pc59-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 58
@@ -69,5 +69,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC58]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC58]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC58]]
 > ◄  [[bu-pc57-horner]] 📜  [[bu-pc59-horner]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.9]]  🌐 [[UD5.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.9]]  🌐 [[UD5.1]] ►
 
 # UD4.10 - Sariputta Sutta - Sāriputta
 ## 🌐 Overview
@@ -92,10 +92,10 @@ they’re freed from Māra’s bonds.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD4.10%5D%5D%22%23mynotes%20-file%3Aud4.10-%20-file%3A%22UD4.9%22%20-file%3A%22UD5.1%22%20-file%3A%22UD4.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud4.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.10
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.9]]  🌐 [[UD5.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.9]]  🌐 [[UD5.1]] ►

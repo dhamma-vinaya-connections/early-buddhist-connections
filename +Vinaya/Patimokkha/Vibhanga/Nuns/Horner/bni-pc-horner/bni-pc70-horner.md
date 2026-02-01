@@ -4,7 +4,7 @@ vin_title: "Sahajīvinī-avūpakāsana - Not Departing With Disciple"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC70]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC70]]
 > ◄  [[bni-pc69-horner]] 📜  [[bni-pc71-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 70
@@ -59,5 +59,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC70]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC70]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC70]]
 > ◄  [[bni-pc69-horner]] 📜  [[bni-pc71-horner]] ►

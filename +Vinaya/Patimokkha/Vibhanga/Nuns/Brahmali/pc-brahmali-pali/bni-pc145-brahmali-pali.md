@@ -4,7 +4,7 @@ vin_title: "Theyyasattha - Traveling with Thieves"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC145]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC145]]
 > ◄  [[bni-pc144-brahmali-pali]] 📜  [[bni-pc146-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -128,5 +128,5 @@ Bhikkhu saṁvidahati, manussā na saṁvidahanti, āpatti dukkaṭassa. Atheyya
 >|       |          | [[ñanatusita-analysis#^-PC145]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC145]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC145]]
 > ◄  [[bni-pc144-brahmali-pali]] 📜  [[bni-pc146-brahmali-pali]] ►

@@ -40,7 +40,7 @@ parallels_nikaya: "[[MN24]]"
 parallels_agama: "[[EA39.10]]"
 parallels_partilal: "[[JA403]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA8]]  🌐 [[MA10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA8]]  🌐 [[MA10]] ►
 
 # MA9 - 七車 - Seven Chariots
 ## 🌐 Overview
@@ -90,10 +90,10 @@ Purification of ethics is only for the sake of purification of mind,  is only fo
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMA9%5D%5D%22%23mynotes%20-file%3Ama9-%20-file%3A%22MA8%22%20-file%3A%22MA10%22%20-file%3A%22MA9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ma9/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA8]]  🌐 [[MA10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA8]]  🌐 [[MA10]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN9.13]]"
 parallels_agama: "[[SA-2.363]], [[SA1343]]"
 parallels_partilal: "[[SA-2.363]], [[SA1343]], [[SN9.13]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.24]]  🌐 [[SN2.26]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.24]]  🌐 [[SN2.26]] ►
 
 # SN2.25 - Jantusutta - Jantu
 ## 🌐 Overview
@@ -87,10 +87,10 @@ Infatuated in others’ homes
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.25%5D%5D%22%23mynotes%20-file%3Asn2.25-%20-file%3A%22SN2.24%22%20-file%3A%22SN2.26%22%20-file%3A%22SN2.25%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.25
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.25.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.24]]  🌐 [[SN2.26]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.24]]  🌐 [[SN2.26]] ►

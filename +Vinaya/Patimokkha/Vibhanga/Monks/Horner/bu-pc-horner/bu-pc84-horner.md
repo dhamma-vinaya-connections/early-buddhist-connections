@@ -4,7 +4,7 @@ vin_title: "Ratana - Precious Things"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC84]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC84]]
 > ◄  [[bu-pc83-horner]] 📜  [[bu-pc85-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 84
@@ -93,5 +93,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC84]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC84]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC84]]
 > ◄  [[bu-pc83-horner]] 📜  [[bu-pc85-horner]] ►

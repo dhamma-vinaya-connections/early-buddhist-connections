@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG12]]  🌐 [[THAG14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG12]]  🌐 [[THAG14]] ►
 
 # THAG13 - Terasanipātavagga - Thirteens Book
 ## 🌐 Overview
@@ -93,10 +93,10 @@ and the end of grasping;
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHAG13%5D%5D%22%23mynotes%20-file%3Athag13-%20-file%3A%22THAG12%22%20-file%3A%22THAG14%22%20-file%3A%22THAG13%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thag13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag13
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag13.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG12]]  🌐 [[THAG14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG12]]  🌐 [[THAG14]] ►

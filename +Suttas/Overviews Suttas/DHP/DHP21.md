@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[JA520]], [[PE5]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP20]]  🌐 [[DHP22]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP20]]  🌐 [[DHP22]] ►
 
 # DHP21 - Pakiṇṇakavagga - Miscellaneous
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[JA520]], [[PE5]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP21%5D%5D%22%23mynotes%20-file%3Adhp21-%20-file%3A%22DHP20%22%20-file%3A%22DHP22%22%20-file%3A%22DHP21%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp21/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp21
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp21.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP20]]  🌐 [[DHP22]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP20]]  🌐 [[DHP22]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.18]]  🌐 [[SN4.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.18]]  🌐 [[SN4.20]] ►
 
 # SN4.19 - Kassakasutta - Farmer
 ## 🌐 Overview
@@ -89,10 +89,10 @@ Thus one is detached from it
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.19%5D%5D%22%23mynotes%20-file%3Asn4.19-%20-file%3A%22SN4.18%22%20-file%3A%22SN4.20%22%20-file%3A%22SN4.19%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.19/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.19
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.19.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.18]]  🌐 [[SN4.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.18]]  🌐 [[SN4.20]] ►

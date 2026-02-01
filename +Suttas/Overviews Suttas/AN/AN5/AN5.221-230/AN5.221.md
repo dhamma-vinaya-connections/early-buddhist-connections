@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA33.7]]"
 parallels_partilal: "[[EA33.7]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.220]]  🌐 [[AN5.222]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.220]]  🌐 [[AN5.222]] ►
 
 # AN5.221 - Dīghacārika - Long Wandering
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA33.7]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.221%5D%5D%22%23mynotes%20-file%3Aan5.221-%20-file%3A%22AN5.220%22%20-file%3A%22AN5.222%22%20-file%3A%22AN5.221%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.221/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.221
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.221.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.220]]  🌐 [[AN5.222]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.220]]  🌐 [[AN5.222]] ►

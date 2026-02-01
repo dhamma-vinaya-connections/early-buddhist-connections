@@ -4,7 +4,7 @@ vin_title: "Bhiṁsāpana - Scaring"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC55]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC55]]
 > ◄  [[bu-pc54-deepseek-pali]] 📜  [[bu-pc56-deepseek-pali]] ►
 
 # BU-PC 55
@@ -63,5 +63,5 @@ The Training Rule on Frightening has been concluded, the fifth.
 >|       |          | [[ñanatusita-analysis#^PC55]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC55]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC55]]
 > ◄  [[bu-pc54-deepseek-pali]] 📜  [[bu-pc56-deepseek-pali]] ►

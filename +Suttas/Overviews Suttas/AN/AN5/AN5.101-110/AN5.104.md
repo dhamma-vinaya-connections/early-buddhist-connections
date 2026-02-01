@@ -40,7 +40,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN4.87]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.103]]  🌐 [[AN5.105]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.103]]  🌐 [[AN5.105]] ►
 
 # AN5.104 - Samaṇasukhumāla - Exquisite Ascetic
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[AN4.87]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.104%5D%5D%22%23mynotes%20-file%3Aan5.104-%20-file%3A%22AN5.103%22%20-file%3A%22AN5.105%22%20-file%3A%22AN5.104%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.104/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.104
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.104.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.103]]  🌐 [[AN5.105]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.103]]  🌐 [[AN5.105]] ►

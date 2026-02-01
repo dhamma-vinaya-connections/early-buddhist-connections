@@ -4,7 +4,7 @@ vin_title: "Pattasaññīpaṭiggahaṇa - Receiving With Attention on the Bowl"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK28]]
 > ◄  [[bu-sk27-deepseek-pali]] 📜  [[bu-sk29-deepseek-pali]] ►
 
 # BU-SK 28
@@ -43,5 +43,5 @@ The seventh training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK28]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK28]]
 > ◄  [[bu-sk27-deepseek-pali]] 📜  [[bu-sk29-deepseek-pali]] ►

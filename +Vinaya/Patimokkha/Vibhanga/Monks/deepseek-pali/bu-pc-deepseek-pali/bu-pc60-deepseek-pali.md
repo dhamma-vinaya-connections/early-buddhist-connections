@@ -4,7 +4,7 @@ vin_title: "Cīvaraapanidhāna - Robes Hiding"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC60]]
 > ◄  [[bu-pc59-deepseek-pali]] 📜  [[bu-pc61-deepseek-pali]] ►
 
 # BU-PC 60
@@ -107,5 +107,5 @@ Alcohol, finger-snapping, joking, disrespect, frightening, kindling lights, bath
 >|       |          | [[ñanatusita-analysis#^PC60]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC60]]
 > ◄  [[bu-pc59-deepseek-pali]] 📜  [[bu-pc61-deepseek-pali]] ►

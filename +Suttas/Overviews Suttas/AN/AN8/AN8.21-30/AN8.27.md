@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA38.1]], [[SA692]], [[SA693]]"
 parallels_partilal: "[[SA692]], [[SA693]], [[EA38.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.26]]  🌐 [[AN8.28]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.26]]  🌐 [[AN8.28]] ►
 
 # AN8.27 - Mahānāma - With Mahānāma
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA692]], [[SA693]], [[EA38.1]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.27%5D%5D%22%23mynotes%20-file%3Aan8.27-%20-file%3A%22AN8.26%22%20-file%3A%22AN8.28%22%20-file%3A%22AN8.27%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.27/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.27
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.27.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.26]]  🌐 [[AN8.28]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.26]]  🌐 [[AN8.28]] ►

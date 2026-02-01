@@ -4,7 +4,7 @@ vin_title: "Rūpiyasaṁvohāra - Trading With Money"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP22]]
 > ◄  [[bni-np21-brahmali-pali]] 📜  [[bni-np23-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -158,5 +158,5 @@ Arūpiye rūpiyasaññī rūpiyaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Arū
 >|       |          | [[ñanatusita-analysis#^-NP22]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP22]]
 > ◄  [[bni-np21-brahmali-pali]] 📜  [[bni-np23-brahmali-pali]] ►

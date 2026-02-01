@@ -4,7 +4,7 @@ vin_title: "Cīvarapaṭiggahana - Robe Cloth Receiving"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP5]]
 > ◄  [[bu-np4-horner]] 📜  [[bu-np6-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 5
@@ -105,5 +105,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP5]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP5]]
 > ◄  [[bu-np4-horner]] 📜  [[bu-np6-horner]] ►

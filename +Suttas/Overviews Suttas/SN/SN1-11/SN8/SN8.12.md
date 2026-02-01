@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.252]], [[SA1217]]"
 parallels_partilal: "[[SA-2.252]], [[SA1217]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.11]]  🌐 [[SN9.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.11]]  🌐 [[SN9.1]] ►
 
 # SN8.12 - Vaṅgīsasutta - Vangisa
 ## 🌐 Overview
@@ -86,10 +86,10 @@ In the Buddha ’s teaching.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN8.12%5D%5D%22%23mynotes%20-file%3Asn8.12-%20-file%3A%22SN8.11%22%20-file%3A%22SN9.1%22%20-file%3A%22SN8.12%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn8.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.12
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.12.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.11]]  🌐 [[SN9.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.11]]  🌐 [[SN9.1]] ►

@@ -4,7 +4,7 @@ vin_title: "Dhammadesanā - Teaching to a Woman"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC103]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC103]]
 > ◄  [[bni-pc102-brahmali-pali]] 📜  [[bni-pc104-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -196,5 +196,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, aviññ
 >|       |          | [[ñanatusita-analysis#^-PC103]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC103]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC103]]
 > ◄  [[bni-pc102-brahmali-pali]] 📜  [[bni-pc104-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Abhikkhukāvāsa - Staying Apart From Monks"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC56]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC56]]
 > ◄  [[bni-pc55-brahmali-pali]] 📜  [[bni-pc57-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -90,5 +90,5 @@ p_2V_3151Chaṭṭhasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC56]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC56]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC56]]
 > ◄  [[bni-pc55-brahmali-pali]] 📜  [[bni-pc57-brahmali-pali]] ►

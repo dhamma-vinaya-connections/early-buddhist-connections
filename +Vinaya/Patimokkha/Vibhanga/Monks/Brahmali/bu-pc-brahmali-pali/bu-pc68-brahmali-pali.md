@@ -4,7 +4,7 @@ vin_title: "Antarāyika - Obstructions"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC68]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC68]]
 > ◄  [[bu-pc67-brahmali-pali]] 📜  [[bu-pc69-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -186,5 +186,5 @@ Dutiyampi etamatthaṁ vadāmi … pe … tatiyampi etamatthaṁ vadāmi— su�
 >|       |          | [[ñanatusita-analysis#^PC68]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC68]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC68]]
 > ◄  [[bu-pc67-brahmali-pali]] 📜  [[bu-pc69-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Cīvarasibbana - Sewing Robes"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC23]]
 > ◄  [[bni-pc22-brahmali-pali]] 📜  [[bni-pc24-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -140,5 +140,5 @@ p_2V_2814Tatiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC23]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC23]]
 > ◄  [[bni-pc22-brahmali-pali]] 📜  [[bni-pc24-brahmali-pali]] ►

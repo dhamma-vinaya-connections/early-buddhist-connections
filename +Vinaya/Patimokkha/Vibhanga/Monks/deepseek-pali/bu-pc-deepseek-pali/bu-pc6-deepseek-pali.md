@@ -4,7 +4,7 @@ vin_title: "Mātugāmasahaseyya - Lying Down with a Woman"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC6]]
 > ◄  [[bu-pc5-deepseek-pali]] 📜  [[bu-pc7-deepseek-pali]] ►
 
 # BU-PC 6
@@ -79,5 +79,5 @@ The Second Training Rule on Sharing a Sleeping Place is finished.
 >|       |          | [[ñanatusita-analysis#^PC6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC6]]
 > ◄  [[bu-pc5-deepseek-pali]] 📜  [[bu-pc7-deepseek-pali]] ►

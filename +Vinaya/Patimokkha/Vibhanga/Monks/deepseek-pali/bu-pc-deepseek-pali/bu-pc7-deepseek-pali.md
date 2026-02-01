@@ -4,7 +4,7 @@ vin_title: "Dhammadesanā - Teaching to a Woman"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC7]]
 > ◄  [[bu-pc6-deepseek-pali]] 📜  [[bu-pc8-deepseek-pali]] ►
 
 # BU-PC 7
@@ -111,5 +111,5 @@ The seventh training rule on teaching the Dhamma is finished.
 >|       |          | [[ñanatusita-analysis#^PC7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC7]]
 > ◄  [[bu-pc6-deepseek-pali]] 📜  [[bu-pc8-deepseek-pali]] ►

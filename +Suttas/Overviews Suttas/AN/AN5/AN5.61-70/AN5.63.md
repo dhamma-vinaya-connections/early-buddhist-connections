@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.74]], [[AN5.64]]"
 parallels_agama: ""
 parallels_partilal: "[[AN10.74]], [[AN5.64]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.62]]  🌐 [[AN5.64]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.62]]  🌐 [[AN5.64]] ►
 
 # AN5.63 - Vaḍḍhi - Growth
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN10.74]], [[AN5.64]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.63%5D%5D%22%23mynotes%20-file%3Aan5.63-%20-file%3A%22AN5.62%22%20-file%3A%22AN5.64%22%20-file%3A%22AN5.63%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.63/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.63
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.63.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.62]]  🌐 [[AN5.64]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.62]]  🌐 [[AN5.64]] ►

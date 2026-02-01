@@ -4,7 +4,7 @@ vin_title: "Saṅghāṇi - Ornamentations of the hip"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC86]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC86]]
 > ◄  [[bni-pc85-brahmali-pali]] 📜  [[bni-pc87-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -90,5 +90,5 @@ p_2V_3461Tatiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC86]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC86]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC86]]
 > ◄  [[bni-pc85-brahmali-pali]] 📜  [[bni-pc87-brahmali-pali]] ►

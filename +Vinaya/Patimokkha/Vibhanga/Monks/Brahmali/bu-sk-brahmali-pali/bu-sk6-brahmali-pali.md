@@ -4,7 +4,7 @@ vin_title: "Susaṁvuta - Being well-restrained"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK6]]
 > ◄  [[bu-sk5-brahmali-pali]] 📜  [[bu-sk7-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -58,5 +58,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^SK6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK6]]
 > ◄  [[bu-sk5-brahmali-pali]] 📜  [[bu-sk7-brahmali-pali]] ►

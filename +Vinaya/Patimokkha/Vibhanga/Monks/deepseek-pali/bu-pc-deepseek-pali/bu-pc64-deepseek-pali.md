@@ -4,7 +4,7 @@ vin_title: "Duṭṭhulla - Concealing a Grave Offense"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
 > ◄  [[bu-pc63-deepseek-pali]] 📜  [[bu-pc65-deepseek-pali]] ►
 
 # BU-PC 64
@@ -71,5 +71,5 @@ The fourth training rule on grave offenses is concluded.
 >|       |          | [[ñanatusita-analysis#^PC64]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
 > ◄  [[bu-pc63-deepseek-pali]] 📜  [[bu-pc65-deepseek-pali]] ►

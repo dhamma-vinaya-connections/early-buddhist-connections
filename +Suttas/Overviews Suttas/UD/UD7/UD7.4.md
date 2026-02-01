@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP334]]"
 parallels_agama: ""
 parallels_partilal: "[[THAG4.8]], [[DHP334]], [[PE2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.3]]  🌐 [[UD7.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.3]]  🌐 [[UD7.5]] ►
 
 # UD7.4 - Dutiyasatta Sutta - Attached to Sensual Pleasures (2)
 ## 🌐 Overview
@@ -93,10 +93,10 @@ like a suckling calf its mother
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD7.4%5D%5D%22%23mynotes%20-file%3Aud7.4-%20-file%3A%22UD7.3%22%20-file%3A%22UD7.5%22%20-file%3A%22UD7.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud7.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.4
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.3]]  🌐 [[UD7.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.3]]  🌐 [[UD7.5]] ►

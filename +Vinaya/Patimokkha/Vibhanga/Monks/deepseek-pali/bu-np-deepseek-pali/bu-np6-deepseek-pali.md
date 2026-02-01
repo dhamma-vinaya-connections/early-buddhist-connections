@@ -4,7 +4,7 @@ vin_title: "Aññātakaviññatti - Robe Asking to Unrelated People"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
 > ◄  [[bu-np5-deepseek-pali]] 📜  [[bu-np7-deepseek-pali]] ►
 
 # BU-NP 6
@@ -103,5 +103,5 @@ The sixth training rule concerning requesting from unacquainted persons is finis
 >|       |          | [[ñanatusita-analysis#^NP6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
 > ◄  [[bu-np5-deepseek-pali]] 📜  [[bu-np7-deepseek-pali]] ►

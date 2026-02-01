@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP315]], [[THIG1.5]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP315]], [[THAG17.2]], [[AN8.29]], [[THAG14.1]], [[THIG1.5]], [[THAG6.5]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.9]]  🌐 [[SNP2.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.9]]  🌐 [[SNP2.11]] ►
 
 # SNP2.10 - Uṭṭhānasutta - Get up make effort
 ## 🌐 Overview
@@ -91,10 +91,10 @@ comes from heedlessness,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP2.10%5D%5D%22%23mynotes%20-file%3Asnp2.10-%20-file%3A%22SNP2.9%22%20-file%3A%22SNP2.11%22%20-file%3A%22SNP2.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp2.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.10
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.9]]  🌐 [[SNP2.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.9]]  🌐 [[SNP2.11]] ►

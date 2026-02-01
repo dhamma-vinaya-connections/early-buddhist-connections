@@ -4,7 +4,7 @@ vin_title: "Upakkhata - Robes Fine Request From Robe Fund"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP8]]
 > ◄  [[bu-np7-horner]] 📜  [[bu-np9-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 8
@@ -105,5 +105,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP8]]
 > ◄  [[bu-np7-horner]] 📜  [[bu-np9-horner]] ►

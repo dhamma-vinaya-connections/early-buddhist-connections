@@ -4,7 +4,7 @@ vin_title: "Capucapukāraka - Crunching"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK50]]
 > ◄  [[bni-sk49-brahmali-pali]] 📜  [[bni-sk51-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -62,5 +62,5 @@ Kabaḷavaggo pañcamo.
 >|       |          | [[ñanatusita-analysis#^-SK50]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK50]]
 > ◄  [[bni-sk49-brahmali-pali]] 📜  [[bni-sk51-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Thūpakata - Making Food into a Monument"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK35]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK35]]
 > ◄  [[bu-sk34-deepseek-pali]] 📜  [[bu-sk36-deepseek-pali]] ►
 
 # BU-SK 35
@@ -43,5 +43,5 @@ The fourth training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK35]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK35]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK35]]
 > ◄  [[bu-sk34-deepseek-pali]] 📜  [[bu-sk36-deepseek-pali]] ►

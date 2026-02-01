@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PLI-TV-KD1]], [[PE2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.10]]  🌐 [[UD2.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.10]]  🌐 [[UD2.2]] ►
 
 # UD2.1 - Muccalinda Sutta - Mucalinda
 ## 🌐 Overview
@@ -92,10 +92,10 @@ after death you will find happiness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD2.1%5D%5D%22%23mynotes%20-file%3Aud2.1-%20-file%3A%22UD1.10%22%20-file%3A%22UD2.2%22%20-file%3A%22UD2.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud2.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.1
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.10]]  🌐 [[UD2.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.10]]  🌐 [[UD2.2]] ►

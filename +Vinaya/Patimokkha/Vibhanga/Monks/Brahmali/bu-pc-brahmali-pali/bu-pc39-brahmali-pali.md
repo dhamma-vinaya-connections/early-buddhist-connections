@@ -4,7 +4,7 @@ vin_title: "Paṇītabhojana - Food Fine Asking"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC39]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC39]]
 > ◄  [[bu-pc38-brahmali-pali]] 📜  [[bu-pc40-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -192,5 +192,5 @@ Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 >|       |          | [[ñanatusita-analysis#^PC39]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC39]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC39]]
 > ◄  [[bu-pc38-brahmali-pali]] 📜  [[bu-pc40-brahmali-pali]] ►

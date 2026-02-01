@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.171]], [[SA587]]"
 parallels_partilal: "[[SA-2.171]], [[SA587]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.45]]  🌐 [[SN1.47]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.45]]  🌐 [[SN1.47]] ►
 
 # SN1.46 - Accharāsutta - Nymphs
 ## 🌐 Overview
@@ -89,10 +89,10 @@ With right view running out in front
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.46%5D%5D%22%23mynotes%20-file%3Asn1.46-%20-file%3A%22SN1.45%22%20-file%3A%22SN1.47%22%20-file%3A%22SN1.46%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.46/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.46
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.46.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.45]]  🌐 [[SN1.47]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.45]]  🌐 [[SN1.47]] ►

@@ -4,7 +4,7 @@ vin_title: "Uttarimanussadhamma - False Claim to Superhuman Attainments"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ4]]
 > ◄  [[bu-pj3-horner]] 📜  [[BU-SS1]] ►
 
 # Monks’ Expulsion (_Pārājika_) 4
@@ -759,5 +759,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PJ4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ4]]
 > ◄  [[bu-pj3-horner]] 📜  [[BU-SS1]] ►

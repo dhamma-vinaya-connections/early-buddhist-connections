@@ -4,7 +4,7 @@ vin_title: "Nisīdanasanthata - Sitting Blanket"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
 > ◄  [[bu-np14-brahmali-pali]] 📜  [[bu-np16-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -216,5 +216,5 @@ Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhi
 >|       |          | [[ñanatusita-analysis#^NP15]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
 > ◄  [[bu-np14-brahmali-pali]] 📜  [[bu-np16-brahmali-pali]] ►

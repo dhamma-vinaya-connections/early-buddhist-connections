@@ -4,7 +4,7 @@ vin_title: "Adhikarana samatha - Settling issues"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AS1-]] I 🌐 [[BU-AS1-7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AS1-]] I 🌐 [[BU-AS1-7]]
 > ◄  [[BU-SK75]] 📜  [[BNI-PJ1]] ►
 
 # BU-AS 1-7
@@ -51,5 +51,5 @@ Venerable sirs, the introduction has been recited; the four rules entailing defe
 >|       |          | [[ñanatusita-analysis#^AS1-7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AS1-]] I 🌐 [[BU-AS1-7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AS1-]] I 🌐 [[BU-AS1-7]]
 > ◄  [[BU-SK75]] 📜  [[BNI-PJ1]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN7.73]], [[AN7.73-74]]"
 parallels_agama: "[[EA40.1]], [[MA160]], [[MA8]]"
 parallels_partilal: "[[EA40.1]], [[MA8]], [[AN7.73-74]], [[MA160]], [[AN6.54]], [[AN7.73]], [[DN16]], [[AN4.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.65]]  🌐 [[AN7.67]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.65]]  🌐 [[AN7.67]] ►
 
 # AN7.66 - Sattasūriya - Seven Suns
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA40.1]], [[MA8]], [[AN7.73-74]], [[MA160]], [[AN6.54]], 
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.66%5D%5D%22%23mynotes%20-file%3Aan7.66-%20-file%3A%22AN7.65%22%20-file%3A%22AN7.67%22%20-file%3A%22AN7.66%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.66/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.66
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.66.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.65]]  🌐 [[AN7.67]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.65]]  🌐 [[AN7.67]] ►

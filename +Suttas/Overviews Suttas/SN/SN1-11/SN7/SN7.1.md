@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.81]], [[SA1158]]"
 parallels_partilal: "[[SN2.3]], [[SN1.71]], [[SN11.21]], [[SA1309]], [[SA-2.308]], [[SA1158]], [[SA-2.81]], [[SA1116]], [[SA-2.45]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.15]]  🌐 [[SN7.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.15]]  🌐 [[SN7.2]] ►
 
 # SN7.1 - Dhanañjānīsutta - Dhanañjani
 ## 🌐 Overview
@@ -84,10 +84,10 @@ You win a battle hard to win
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.1%5D%5D%22%23mynotes%20-file%3Asn7.1-%20-file%3A%22SN6.15%22%20-file%3A%22SN7.2%22%20-file%3A%22SN7.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.15]]  🌐 [[SN7.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.15]]  🌐 [[SN7.2]] ►

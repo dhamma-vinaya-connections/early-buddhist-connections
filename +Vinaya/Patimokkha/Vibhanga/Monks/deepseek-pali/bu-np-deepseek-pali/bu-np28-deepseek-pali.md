@@ -4,7 +4,7 @@ vin_title: "Accekacīvara - Robe in Urgency"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP28]]
 > ◄  [[bu-np27-deepseek-pali]] 📜  [[bu-np29-deepseek-pali]] ►
 
 # BU-NP 28
@@ -79,5 +79,5 @@ The eighth training rule on the emergency robe is concluded.
 >|       |          | [[ñanatusita-analysis#^NP28]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP28]]
 > ◄  [[bu-np27-deepseek-pali]] 📜  [[bu-np29-deepseek-pali]] ►

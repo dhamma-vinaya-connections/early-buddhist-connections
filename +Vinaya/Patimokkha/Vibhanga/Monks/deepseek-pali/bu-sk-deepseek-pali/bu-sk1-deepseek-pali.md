@@ -4,7 +4,7 @@ vin_title: "Parimaṇḍala - Being even all around"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK1]]
 > ◄  [[BNI-SK2]] 📜  [[bu-sk2-deepseek-pali]] ►
 
 # BU-SK 1
@@ -35,5 +35,5 @@ that come up for recitation.
 >|       |          | [[ñanatusita-analysis#^SK1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK1]]
 > ◄  [[BNI-SK2]] 📜  [[bu-sk2-deepseek-pali]] ►

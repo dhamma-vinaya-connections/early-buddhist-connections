@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA446]], [[SA448]]"
 parallels_partilal: "[[SN14.16]], [[THAG2.14]], [[THAG3.16]], [[SA446]], [[SA448]], [[SN14.15]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI77]]  🌐 [[ITI79]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI77]]  🌐 [[ITI79]] ►
 
 # ITI78 - Dhātusosaṁsandana - Converging elements
 ## 🌐 Overview
@@ -87,10 +87,10 @@ their persistence constantly aroused the wise.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI78%5D%5D%22%23mynotes%20-file%3Aiti78-%20-file%3A%22ITI77%22%20-file%3A%22ITI79%22%20-file%3A%22ITI78%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti78/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti78
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti78.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI77]]  🌐 [[ITI79]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI77]]  🌐 [[ITI79]] ►

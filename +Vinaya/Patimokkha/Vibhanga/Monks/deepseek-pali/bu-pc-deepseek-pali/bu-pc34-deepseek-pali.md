@@ -4,7 +4,7 @@ vin_title: "Dvittipattapūrapaṭiggahaṇa - Accepting Two or Three Bowls Full"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
 > ◄  [[bu-pc33-deepseek-pali]] 📜  [[bu-pc35-deepseek-pali]] ►
 
 # BU-PC 34
@@ -103,5 +103,5 @@ The fourth training rule concerning Kāṇamātā is concluded.
 >|       |          | [[ñanatusita-analysis#^PC34]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
 > ◄  [[bu-pc33-deepseek-pali]] 📜  [[bu-pc35-deepseek-pali]] ►

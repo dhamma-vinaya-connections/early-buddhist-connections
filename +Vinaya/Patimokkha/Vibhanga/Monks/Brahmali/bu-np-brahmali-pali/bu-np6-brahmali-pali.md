@@ -4,7 +4,7 @@ vin_title: "Aññātakaviññatti - Robe Asking to Unrelated People"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
 > ◄  [[bu-np5-brahmali-pali]] 📜  [[bu-np7-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -226,5 +226,5 @@ Evañca pana, bhikkhave, nissajjitabbaṁ … pe …
 >|       |          | [[ñanatusita-analysis#^NP6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
 > ◄  [[bu-np5-brahmali-pali]] 📜  [[bu-np7-brahmali-pali]] ►

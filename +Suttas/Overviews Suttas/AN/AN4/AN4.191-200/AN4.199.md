@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN3.33]]"
 parallels_agama: "[[SA983]], [[SA984]]"
 parallels_partilal: "[[SA984]], [[AN3.33]], [[SA983]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.198]]  🌐 [[AN4.200]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.198]]  🌐 [[AN4.200]] ►
 
 # AN4.199 - Taṇhā - Craving
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SA984]], [[AN3.33]], [[SA983]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.199%5D%5D%22%23mynotes%20-file%3Aan4.199-%20-file%3A%22AN4.198%22%20-file%3A%22AN4.200%22%20-file%3A%22AN4.199%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.199/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.199
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.199.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.198]]  🌐 [[AN4.200]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.198]]  🌐 [[AN4.200]] ►

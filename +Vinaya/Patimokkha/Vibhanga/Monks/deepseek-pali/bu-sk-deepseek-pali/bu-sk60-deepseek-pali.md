@@ -4,7 +4,7 @@ vin_title: "Āvudhapāṇi - Holding Weapon"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK60]]
 > ◄  [[bu-sk59-deepseek-pali]] 📜  [[bu-sk61-deepseek-pali]] ►
 
 # BU-SK 60
@@ -51,5 +51,5 @@ The seventh training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK60]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK60]]
 > ◄  [[bu-sk59-deepseek-pali]] 📜  [[bu-sk61-deepseek-pali]] ►

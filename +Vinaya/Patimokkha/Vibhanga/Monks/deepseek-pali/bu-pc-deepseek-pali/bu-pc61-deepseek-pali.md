@@ -4,7 +4,7 @@ vin_title: "Sañcicca - Killing Intentionally"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC61]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC61]]
 > ◄  [[bu-pc60-deepseek-pali]] 📜  [[bu-pc62-deepseek-pali]] ►
 
 # BU-PC 61
@@ -63,5 +63,5 @@ The first training rule on intentionally depriving of life is finished.
 >|       |          | [[ñanatusita-analysis#^PC61]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC61]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC61]]
 > ◄  [[bu-pc60-deepseek-pali]] 📜  [[bu-pc62-deepseek-pali]] ►

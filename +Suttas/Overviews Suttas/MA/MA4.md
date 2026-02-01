@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN7.15]]"
 parallels_agama: "[[EA39.3]]"
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA3]]  🌐 [[MA5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA3]]  🌐 [[MA5]] ►
 
 # MA4 - 水喻 - Water Parable
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMA4%5D%5D%22%23mynotes%20-file%3Ama4-%20-file%3A%22MA3%22%20-file%3A%22MA5%22%20-file%3A%22MA4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ma4/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA3]]  🌐 [[MA5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA3]]  🌐 [[MA5]] ►

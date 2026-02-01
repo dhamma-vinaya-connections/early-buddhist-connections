@@ -38,7 +38,7 @@ parallels_nikaya: "[[MN123]]"
 parallels_agama: "[[MA32]]"
 parallels_partilal: "[[MA32]], [[MN123]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.126]]  🌐 [[AN4.128]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.126]]  🌐 [[AN4.128]] ►
 
 # AN4.127 - Tathāgataacchariya - Incredible Things About The Realized One
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MA32]], [[MN123]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.127%5D%5D%22%23mynotes%20-file%3Aan4.127-%20-file%3A%22AN4.126%22%20-file%3A%22AN4.128%22%20-file%3A%22AN4.127%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.127/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.127
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.127.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.126]]  🌐 [[AN4.128]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.126]]  🌐 [[AN4.128]] ►

@@ -4,7 +4,7 @@ vin_title: "Tiracchānavijjāpariyāpuṇana - Learning Pointless Knowledge"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC49]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC49]]
 > ◄  [[bni-pc48-horner]] 📜  [[bni-pc50-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 49
@@ -53,5 +53,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC49]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC49]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC49]]
 > ◄  [[bni-pc48-horner]] 📜  [[bni-pc50-horner]] ►

@@ -40,7 +40,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.13]]  🌐 [[SNP4.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.13]]  🌐 [[SNP4.15]] ►
 
 # SNP4.14 - Tuvaṭakasutta - Speedy
 ## 🌐 Overview
@@ -95,10 +95,10 @@ as mine.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP4.14%5D%5D%22%23mynotes%20-file%3Asnp4.14-%20-file%3A%22SNP4.13%22%20-file%3A%22SNP4.15%22%20-file%3A%22SNP4.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp4.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.14
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.13]]  🌐 [[SNP4.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.13]]  🌐 [[SNP4.15]] ►

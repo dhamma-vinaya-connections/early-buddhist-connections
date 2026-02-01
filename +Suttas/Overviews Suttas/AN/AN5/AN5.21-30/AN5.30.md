@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.86]]"
 parallels_agama: "[[SA1250]]"
 parallels_partilal: "[[AN8.86]], [[SA1250]], [[AN6.42]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.29]]  🌐 [[AN5.31]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.29]]  🌐 [[AN5.31]] ►
 
 # AN5.30 - Nāgita - With Nāgita
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[AN8.86]], [[SA1250]], [[AN6.42]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.30%5D%5D%22%23mynotes%20-file%3Aan5.30-%20-file%3A%22AN5.29%22%20-file%3A%22AN5.31%22%20-file%3A%22AN5.30%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.30/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.30
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.30.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.29]]  🌐 [[AN5.31]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.29]]  🌐 [[AN5.31]] ►

@@ -4,7 +4,7 @@ vin_title: "Tatuttari - Robes Accept to Many"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
 > ◄  [[bu-np6-brahmali-pali]] 📜  [[bu-np8-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -168,5 +168,5 @@ Evañca pana, bhikkhave, nissajjitabbaṁ … pe …
 >|       |          | [[ñanatusita-analysis#^NP7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
 > ◄  [[bu-np6-brahmali-pali]] 📜  [[bu-np8-brahmali-pali]] ►

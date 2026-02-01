@@ -4,7 +4,7 @@ vin_title: "Sannidhikāraka - Food Storing"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC38]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC38]]
 > ◄  [[bu-pc37-horner]] 📜  [[bu-pc39-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 38
@@ -63,5 +63,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC38]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC38]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC38]]
 > ◄  [[bu-pc37-horner]] 📜  [[bu-pc39-horner]] ►

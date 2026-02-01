@@ -4,7 +4,7 @@ vin_title: "Ekagāmantara - Walking Alone to the Next Village"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS3]]
 > ◄  [[bni-ss2-brahmali-pali]] 📜  [[bni-ss4-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -295,5 +295,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma, bhikkhave, bhikkhunī ekā 
 >|       |          | [[ñanatusita-analysis#^-SS3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS3]]
 > ◄  [[bni-ss2-brahmali-pali]] 📜  [[bni-ss4-brahmali-pali]] ►

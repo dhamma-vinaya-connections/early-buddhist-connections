@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA249]]"
 parallels_partilal: "[[SA249]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.172]]  🌐 [[AN4.174]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.172]]  🌐 [[AN4.174]] ►
 
 # AN4.173 - Mahākoṭṭhita - With Mahākoṭṭhita
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA249]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.173%5D%5D%22%23mynotes%20-file%3Aan4.173-%20-file%3A%22AN4.172%22%20-file%3A%22AN4.174%22%20-file%3A%22AN4.173%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.173/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.173
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.173.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.172]]  🌐 [[AN4.174]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.172]]  🌐 [[AN4.174]] ►

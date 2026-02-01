@@ -4,7 +4,7 @@ vin_title: "Bhūtagāma - Plants damaging"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
 > ◄  [[bu-pc10-brahmali-pali]] 📜  [[bu-pc12-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -112,5 +112,5 @@ Bīje abījasaññī chindati vā chedāpeti vā, bhindati vā bhedāpeti vā, p
 >|       |          | [[ñanatusita-analysis#^PC11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
 > ◄  [[bu-pc10-brahmali-pali]] 📜  [[bu-pc12-brahmali-pali]] ►

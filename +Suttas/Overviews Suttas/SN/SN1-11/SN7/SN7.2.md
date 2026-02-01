@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP96]]"
 parallels_agama: "[[SA-2.75]], [[SA1152-1153]]"
 parallels_partilal: "[[SA-2.75]], [[SA1152-1153]], [[DHP96]], [[THAG6.12]], [[SN7.3]], [[SN11.4]], [[SN11.5]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.1]]  🌐 [[SN7.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.1]]  🌐 [[SN7.3]] ►
 
 # SN7.2 - Akkosasutta - Abuse
 ## 🌐 Overview
@@ -84,10 +84,10 @@ You win a battle hard to win
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.2%5D%5D%22%23mynotes%20-file%3Asn7.2-%20-file%3A%22SN7.1%22%20-file%3A%22SN7.3%22%20-file%3A%22SN7.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.2
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.2.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.1]]  🌐 [[SN7.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.1]]  🌐 [[SN7.3]] ►

@@ -4,7 +4,7 @@ vin_title: "Saṁvidhāna - Travelling by Arrangement with Woman"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC67]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC67]]
 > ◄  [[bu-pc66-deepseek-pali]] 📜  [[bu-pc68-deepseek-pali]] ►
 
 # BU-PC 67
@@ -71,5 +71,5 @@ The seventh training rule on arrangements is finished.
 >|       |          | [[ñanatusita-analysis#^PC67]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC67]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC67]]
 > ◄  [[bu-pc66-deepseek-pali]] 📜  [[bu-pc68-deepseek-pali]] ►

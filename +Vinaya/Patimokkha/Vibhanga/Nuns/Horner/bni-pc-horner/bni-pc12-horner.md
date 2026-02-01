@@ -4,7 +4,7 @@ vin_title: "Paṭicchannokāsa - Concealed Places"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC12]]
 > ◄  [[bni-pc11-horner]] 📜  [[bni-pc13-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 12
@@ -41,5 +41,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC12]]
 > ◄  [[bni-pc11-horner]] 📜  [[bni-pc13-horner]] ►

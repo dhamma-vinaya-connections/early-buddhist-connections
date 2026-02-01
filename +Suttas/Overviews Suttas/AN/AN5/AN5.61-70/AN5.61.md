@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.56]], [[AN7.48]], [[AN9.16]]"
 parallels_agama: "[[EA46.9]]"
 parallels_partilal: "[[AN10.56]], [[EA46.9]], [[AN7.48]], [[AN9.16]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.60]]  🌐 [[AN5.62]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.60]]  🌐 [[AN5.62]] ►
 
 # AN5.61 - Saññā - Perceptions
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[AN10.56]], [[EA46.9]], [[AN7.48]], [[AN9.16]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.61%5D%5D%22%23mynotes%20-file%3Aan5.61-%20-file%3A%22AN5.60%22%20-file%3A%22AN5.62%22%20-file%3A%22AN5.61%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.61/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.61
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.61.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.60]]  🌐 [[AN5.62]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.60]]  🌐 [[AN5.62]] ►

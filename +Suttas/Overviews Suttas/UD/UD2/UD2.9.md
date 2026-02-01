@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.8]]  🌐 [[UD2.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.8]]  🌐 [[UD2.10]] ►
 
 # UD2.9 - Visakha Sutta - Visākhā
 ## 🌐 Overview
@@ -86,10 +86,10 @@ He who is without fear, happy, and griefless.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD2.9%5D%5D%22%23mynotes%20-file%3Aud2.9-%20-file%3A%22UD2.8%22%20-file%3A%22UD2.10%22%20-file%3A%22UD2.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud2.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.9
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.8]]  🌐 [[UD2.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.8]]  🌐 [[UD2.10]] ►

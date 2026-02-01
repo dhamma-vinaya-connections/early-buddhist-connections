@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.5]]  🌐 [[SNP5.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.5]]  🌐 [[SNP5.7]] ►
 
 # SNP5.6 - Dhotakamāṇavapucchā - Questions of the Student Dhotaka
 ## 🌐 Overview
@@ -91,10 +91,10 @@ for becoming or non-.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP5.6%5D%5D%22%23mynotes%20-file%3Asnp5.6-%20-file%3A%22SNP5.5%22%20-file%3A%22SNP5.7%22%20-file%3A%22SNP5.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp5.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.6
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.5]]  🌐 [[SNP5.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.5]]  🌐 [[SNP5.7]] ►

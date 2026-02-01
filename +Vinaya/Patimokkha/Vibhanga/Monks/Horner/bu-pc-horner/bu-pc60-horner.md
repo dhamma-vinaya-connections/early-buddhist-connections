@@ -4,7 +4,7 @@ vin_title: "Cīvaraapanidhāna - Robes Hiding"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC60]]
 > ◄  [[bu-pc59-horner]] 📜  [[bu-pc61-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 60
@@ -89,5 +89,5 @@ The Sixth Division: that on drinking fermented liquor
 >|       |          | [[ñanatusita-analysis#^PC60]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC60]]
 > ◄  [[bu-pc59-horner]] 📜  [[bu-pc61-horner]] ►

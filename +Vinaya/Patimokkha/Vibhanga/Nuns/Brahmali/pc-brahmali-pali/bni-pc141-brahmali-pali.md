@@ -4,7 +4,7 @@ vin_title: "Cīvaraapanidhāna - Robes Hiding"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC141]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC141]]
 > ◄  [[bni-pc140-brahmali-pali]] 📜  [[bni-pc142-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -176,5 +176,5 @@ sāmaṁ apanidhena cāti.
 >|       |          | [[ñanatusita-analysis#^-PC141]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC141]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC141]]
 > ◄  [[bni-pc140-brahmali-pali]] 📜  [[bni-pc142-brahmali-pali]] ►

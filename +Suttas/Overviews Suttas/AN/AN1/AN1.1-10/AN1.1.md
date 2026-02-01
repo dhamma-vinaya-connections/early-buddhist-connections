@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA9.7]]"
 parallels_partilal: "[[EA9.7]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[]]  🌐 [[AN1.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[]]  🌐 [[AN1.2]] ►
 
 # AN1.1 - Rupa - Sights
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA9.7]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.1%5D%5D%22%23mynotes%20-file%3Aan1.1-%20-file%3A%22AN1.2%22%20-file%3A%22AN1.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.1
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[]]  🌐 [[AN1.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[]]  🌐 [[AN1.2]] ►

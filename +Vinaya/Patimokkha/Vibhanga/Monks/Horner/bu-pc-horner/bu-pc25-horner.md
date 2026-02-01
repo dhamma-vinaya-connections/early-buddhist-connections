@@ -4,7 +4,7 @@ vin_title: "Cīvaradāna - Robes Giving"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC25]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC25]]
 > ◄  [[bu-pc24-horner]] 📜  [[bu-pc26-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 25
@@ -89,5 +89,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC25]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC25]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC25]]
 > ◄  [[bu-pc24-horner]] 📜  [[bu-pc26-horner]] ►

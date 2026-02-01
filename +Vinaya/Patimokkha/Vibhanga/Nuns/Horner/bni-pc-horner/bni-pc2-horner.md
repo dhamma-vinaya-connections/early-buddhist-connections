@@ -4,7 +4,7 @@ vin_title: "Sambādhaloma - Pubic Hair"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC2]]
 > ◄  [[bni-pc1-horner]] 📜  [[bni-pc3-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 2
@@ -51,5 +51,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC2]]
 > ◄  [[bni-pc1-horner]] 📜  [[bni-pc3-horner]] ►

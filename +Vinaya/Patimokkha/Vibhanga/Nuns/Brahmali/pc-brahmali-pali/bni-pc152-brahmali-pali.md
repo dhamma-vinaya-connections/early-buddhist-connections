@@ -4,7 +4,7 @@ vin_title: "Pahāra - Hitting"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC152]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC152]]
 > ◄  [[bni-pc151-brahmali-pali]] 📜  [[bni-pc153-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -106,5 +106,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, kupitā
 >|       |          | [[ñanatusita-analysis#^-PC152]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC152]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC152]]
 > ◄  [[bni-pc151-brahmali-pali]] 📜  [[bni-pc153-brahmali-pali]] ►

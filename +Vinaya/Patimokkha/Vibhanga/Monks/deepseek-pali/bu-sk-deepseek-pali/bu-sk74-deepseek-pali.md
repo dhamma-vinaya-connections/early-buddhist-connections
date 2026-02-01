@@ -4,7 +4,7 @@ vin_title: "Hariteuccāra - On Plants"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK74]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK74]]
 > ◄  [[bu-sk73-deepseek-pali]] 📜  [[bu-sk75-deepseek-pali]] ►
 
 # BU-SK 74
@@ -43,5 +43,5 @@ The tenth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK74]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK74]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK74]]
 > ◄  [[bu-sk73-deepseek-pali]] 📜  [[bu-sk75-deepseek-pali]] ►

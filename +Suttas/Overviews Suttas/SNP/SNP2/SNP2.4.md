@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.3]]  🌐 [[SNP2.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.3]]  🌐 [[SNP2.5]] ►
 
 # SNP2.4 - Maṅgalasutta - Blessings
 ## 🌐 Overview
@@ -89,10 +89,10 @@ this is the highest blessing.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP2.4%5D%5D%22%23mynotes%20-file%3Asnp2.4-%20-file%3A%22SNP2.3%22%20-file%3A%22SNP2.5%22%20-file%3A%22SNP2.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp2.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.4
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.3]]  🌐 [[SNP2.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.3]]  🌐 [[SNP2.5]] ►

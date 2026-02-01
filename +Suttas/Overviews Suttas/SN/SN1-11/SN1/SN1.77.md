@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN1.79]]"
 parallels_agama: "[[SA-2.290]], [[SA1292]]"
 parallels_partilal: "[[SA-2.290]], [[SN1.79]], [[SA1292]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.76]]  🌐 [[SN1.78]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.76]]  🌐 [[SN1.78]] ►
 
 # SN1.77 - Issariyasutta - Sovereignty
 ## 🌐 Overview
@@ -86,10 +86,10 @@ The most excellent of speakers is the Buddha .
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.77%5D%5D%22%23mynotes%20-file%3Asn1.77-%20-file%3A%22SN1.76%22%20-file%3A%22SN1.78%22%20-file%3A%22SN1.77%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.77/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.77
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.77.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.76]]  🌐 [[SN1.78]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.76]]  🌐 [[SN1.78]] ►

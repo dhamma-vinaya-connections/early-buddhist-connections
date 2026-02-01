@@ -4,7 +4,7 @@ vin_title: "Ekavassa - One Year"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC83]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC83]]
 > ◄  [[bni-pc82-horner]] 📜  [[bni-pc84-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 83
@@ -49,5 +49,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC83]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC83]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC83]]
 > ◄  [[bni-pc82-horner]] 📜  [[bni-pc84-horner]] ►

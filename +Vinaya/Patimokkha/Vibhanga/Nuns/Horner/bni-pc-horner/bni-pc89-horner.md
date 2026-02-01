@@ -4,7 +4,7 @@ vin_title: "Vāsitaka - What is Scented"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC89]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC89]]
 > ◄  [[bni-pc88-horner]] 📜  [[bni-pc90-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 89
@@ -47,5 +47,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC89]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC89]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC89]]
 > ◄  [[bni-pc88-horner]] 📜  [[bni-pc90-horner]] ►

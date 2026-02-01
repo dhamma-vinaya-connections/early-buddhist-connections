@@ -4,7 +4,7 @@ vin_title: "Manussaviggaha - Murder"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
 > ◄  [[bu-pj2-deepseek-pali]] 📜  [[bu-pj4-deepseek-pali]] ►
 
 # BU-PJ 3
@@ -623,5 +623,5 @@ The third offense entailing defeat is complete.
 >|       |          | [[ñanatusita-analysis#^PJ3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
 > ◄  [[bu-pj2-deepseek-pali]] 📜  [[bu-pj4-deepseek-pali]] ►

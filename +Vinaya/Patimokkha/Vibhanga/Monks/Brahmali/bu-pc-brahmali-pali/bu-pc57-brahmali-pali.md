@@ -4,7 +4,7 @@ vin_title: "Nahāna - Bathing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
 > ◄  [[bu-pc56-brahmali-pali]] 📜  [[bu-pc58-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -262,5 +262,5 @@ Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 >|       |          | [[ñanatusita-analysis#^PC57]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
 > ◄  [[bu-pc56-brahmali-pali]] 📜  [[bu-pc58-brahmali-pali]] ►

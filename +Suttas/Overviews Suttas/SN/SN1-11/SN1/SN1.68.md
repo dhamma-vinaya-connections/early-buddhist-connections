@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.238]], [[SA1011]]"
 parallels_partilal: "[[SA-2.238]], [[SA1011]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.67]]  🌐 [[SN1.69]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.67]]  🌐 [[SN1.69]] ►
 
 # SN1.68 - Pihitasutta - Shut In
 ## 🌐 Overview
@@ -86,10 +86,10 @@ To cut off all bondage.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.68%5D%5D%22%23mynotes%20-file%3Asn1.68-%20-file%3A%22SN1.67%22%20-file%3A%22SN1.69%22%20-file%3A%22SN1.68%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.68/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.68
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.68.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.67]]  🌐 [[SN1.69]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.67]]  🌐 [[SN1.69]] ►

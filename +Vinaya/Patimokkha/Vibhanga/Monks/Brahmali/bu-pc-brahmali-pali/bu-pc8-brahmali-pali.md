@@ -4,7 +4,7 @@ vin_title: "Bhūtārocana - Disclose Attainment"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
 > ◄  [[bu-pc7-brahmali-pali]] 📜  [[bu-pc9-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -420,5 +420,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, bhikkhave, udarassa k
 >|       |          | [[ñanatusita-analysis#^PC8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
 > ◄  [[bu-pc7-brahmali-pali]] 📜  [[bu-pc9-brahmali-pali]] ►

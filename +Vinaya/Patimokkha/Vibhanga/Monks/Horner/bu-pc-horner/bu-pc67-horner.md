@@ -4,7 +4,7 @@ vin_title: "Saṁvidhāna - Travelling by Arrangement with Woman"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC67]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC67]]
 > ◄  [[bu-pc66-horner]] 📜  [[bu-pc68-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 67
@@ -75,5 +75,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC67]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC67]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC67]]
 > ◄  [[bu-pc66-horner]] 📜  [[bu-pc68-horner]] ►

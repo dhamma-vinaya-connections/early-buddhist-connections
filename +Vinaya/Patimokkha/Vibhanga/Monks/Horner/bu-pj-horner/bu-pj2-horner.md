@@ -4,7 +4,7 @@ vin_title: "Adinnādāna - Theft"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ2]]
 > ◄  [[bu-pj1-horner]] 📜  [[bu-pj3-horner]] ►
 
 # Monks’ Expulsion (_Pārājika_) 2
@@ -805,5 +805,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PJ2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ2]]
 > ◄  [[bu-pj1-horner]] 📜  [[bu-pj3-horner]] ►

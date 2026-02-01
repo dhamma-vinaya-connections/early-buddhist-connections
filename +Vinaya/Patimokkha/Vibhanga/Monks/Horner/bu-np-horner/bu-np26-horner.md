@@ -4,7 +4,7 @@ vin_title: "Suttaviññatti - Thread Asking"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
 > ◄  [[bu-np25-horner]] 📜  [[bu-np27-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 26
@@ -63,5 +63,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP26]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
 > ◄  [[bu-np25-horner]] 📜  [[bu-np27-horner]] ►

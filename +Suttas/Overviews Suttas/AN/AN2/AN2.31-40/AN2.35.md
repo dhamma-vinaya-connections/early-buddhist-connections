@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA42.8]], [[MA127]], [[SA992]]"
 parallels_partilal: "[[MA127]], [[SA992]], [[EA42.8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.34]]  🌐 [[AN2.36]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.34]]  🌐 [[AN2.36]] ►
 
 # AN2.35 - Kiriya - Action And Inaction
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MA127]], [[SA992]], [[EA42.8]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.35%5D%5D%22%23mynotes%20-file%3Aan2.35-%20-file%3A%22AN2.34%22%20-file%3A%22AN2.36%22%20-file%3A%22AN2.35%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.35/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.35
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.35.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.34]]  🌐 [[AN2.36]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.34]]  🌐 [[AN2.36]] ►

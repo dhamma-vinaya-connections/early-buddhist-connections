@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.127]]  🌐 [[AN2.129]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.127]]  🌐 [[AN2.129]] ►
 
 # AN2.128 - Āsāduppajaha - Hopes That Are Hard To Give Up
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.128%5D%5D%22%23mynotes%20-file%3Aan2.128-%20-file%3A%22AN2.127%22%20-file%3A%22AN2.129%22%20-file%3A%22AN2.128%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.128/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.128
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.128.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.127]]  🌐 [[AN2.129]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.127]]  🌐 [[AN2.129]] ►

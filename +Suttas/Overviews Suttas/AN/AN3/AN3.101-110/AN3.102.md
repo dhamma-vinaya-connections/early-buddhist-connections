@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA1247]]"
 parallels_partilal: "[[SA1247]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.101]]  🌐 [[AN3.103]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.101]]  🌐 [[AN3.103]] ►
 
 # AN3.102 - Nimitta - Themes
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[SA1247]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.102%5D%5D%22%23mynotes%20-file%3Aan3.102-%20-file%3A%22AN3.101%22%20-file%3A%22AN3.103%22%20-file%3A%22AN3.102%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.102/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.102
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.102.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.101]]  🌐 [[AN3.103]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.101]]  🌐 [[AN3.103]] ►

@@ -4,7 +4,7 @@ vin_title: "Odanappaṭicchādana - Covering with Rise"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK36]]
 > ◄  [[bu-sk35-deepseek-pali]] 📜  [[bu-sk37-deepseek-pali]] ►
 
 # BU-SK 36
@@ -43,5 +43,5 @@ The fifth training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK36]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK36]]
 > ◄  [[bu-sk35-deepseek-pali]] 📜  [[bu-sk37-deepseek-pali]] ►

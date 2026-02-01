@@ -4,7 +4,7 @@ vin_title: "Saṁsaṭṭha - Socializing"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC36]]
 > ◄  [[bni-pc35-horner]] 📜  [[bni-pc37-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 36
@@ -61,5 +61,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC36]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC36]]
 > ◄  [[bni-pc35-horner]] 📜  [[bni-pc37-horner]] ►

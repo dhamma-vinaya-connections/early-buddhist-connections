@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.223]], [[SA1207]]"
 parallels_partilal: "[[SA-2.223]], [[SA1207]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.7]]  🌐 [[SN5.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.7]]  🌐 [[SN5.9]] ►
 
 # SN5.8 - Sīsupacālāsutta - Sisupacala
 ## 🌐 Overview
@@ -89,10 +89,10 @@ He has attained the end of all deeds
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN5.8%5D%5D%22%23mynotes%20-file%3Asn5.8-%20-file%3A%22SN5.7%22%20-file%3A%22SN5.9%22%20-file%3A%22SN5.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn5.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.7]]  🌐 [[SN5.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.7]]  🌐 [[SN5.9]] ►

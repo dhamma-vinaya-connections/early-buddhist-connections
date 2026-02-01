@@ -4,7 +4,7 @@ vin_title: "Upassuti - Eavesdropping"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC156]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC156]]
 > ◄  [[bni-pc155-brahmali-pali]] 📜  [[bni-pc157-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -122,5 +122,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, bhikkh�
 >|       |          | [[ñanatusita-analysis#^-PC156]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC156]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC156]]
 > ◄  [[bni-pc155-brahmali-pali]] 📜  [[bni-pc157-brahmali-pali]] ►

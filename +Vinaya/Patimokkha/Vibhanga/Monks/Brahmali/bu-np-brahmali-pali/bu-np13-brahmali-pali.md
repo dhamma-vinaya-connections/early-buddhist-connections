@@ -4,7 +4,7 @@ vin_title: "Dvebhāga - Blanket of Mixed Colors"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP13]]
 > ◄  [[bu-np12-brahmali-pali]] 📜  [[bu-np14-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -126,5 +126,5 @@ Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa. Aññena kata�
 >|       |          | [[ñanatusita-analysis#^NP13]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP13]]
 > ◄  [[bu-np12-brahmali-pali]] 📜  [[bu-np14-brahmali-pali]] ►

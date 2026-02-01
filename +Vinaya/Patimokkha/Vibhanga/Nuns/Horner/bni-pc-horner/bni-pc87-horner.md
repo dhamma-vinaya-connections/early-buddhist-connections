@@ -4,7 +4,7 @@ vin_title: "Itthālaṅkāra - Jewellery"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC87]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC87]]
 > ◄  [[bni-pc86-horner]] 📜  [[bni-pc88-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 87
@@ -53,5 +53,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC87]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC87]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC87]]
 > ◄  [[bni-pc86-horner]] 📜  [[bni-pc88-horner]] ►

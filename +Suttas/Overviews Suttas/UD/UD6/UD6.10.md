@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.9]]  🌐 [[UD7.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.9]]  🌐 [[UD7.1]] ►
 
 # UD6.10 - Tathagatuppada Sutta - They Appear
 ## 🌐 Overview
@@ -94,10 +94,10 @@ Having bad views, they are not freed from suffering.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD6.10%5D%5D%22%23mynotes%20-file%3Aud6.10-%20-file%3A%22UD6.9%22%20-file%3A%22UD7.1%22%20-file%3A%22UD6.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud6.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.10
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.9]]  🌐 [[UD7.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.9]]  🌐 [[UD7.1]] ►

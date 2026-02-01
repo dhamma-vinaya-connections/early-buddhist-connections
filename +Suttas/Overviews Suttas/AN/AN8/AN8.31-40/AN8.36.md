@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[ITI60]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.35]]  🌐 [[AN8.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.35]]  🌐 [[AN8.37]] ►
 
 # AN8.36 - Puññakiriyavatthu - Making Merit Grounds
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[ITI60]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.36%5D%5D%22%23mynotes%20-file%3Aan8.36-%20-file%3A%22AN8.35%22%20-file%3A%22AN8.37%22%20-file%3A%22AN8.36%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.36
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.36.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.35]]  🌐 [[AN8.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.35]]  🌐 [[AN8.37]] ►

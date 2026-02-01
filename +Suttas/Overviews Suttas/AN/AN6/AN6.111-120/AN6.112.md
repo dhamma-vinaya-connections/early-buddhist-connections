@@ -41,7 +41,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.111]]  🌐 [[AN6.113]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.111]]  🌐 [[AN6.113]] ►
 
 # AN6.112 - Assāda - Gratification
 ## 🌐 Overview
@@ -86,10 +86,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.112%5D%5D%22%23mynotes%20-file%3Aan6.112-%20-file%3A%22AN6.111%22%20-file%3A%22AN6.113%22%20-file%3A%22AN6.112%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.112/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.112
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.112.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.111]]  🌐 [[AN6.113]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.111]]  🌐 [[AN6.113]] ►

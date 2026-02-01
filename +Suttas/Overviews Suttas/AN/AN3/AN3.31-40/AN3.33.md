@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.199]]"
 parallels_agama: "[[SA-3.8]], [[SA983]], [[SA984]]"
 parallels_partilal: "[[SA983]], [[SA-3.8]], [[AN4.199]], [[SA984]], [[SNP5.14]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.32]]  🌐 [[AN3.34]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.32]]  🌐 [[AN3.34]] ►
 
 # AN3.33 - Ānanda - Ananda
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA983]], [[SA-3.8]], [[AN4.199]], [[SA984]], [[SNP5.14]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.33%5D%5D%22%23mynotes%20-file%3Aan3.33-%20-file%3A%22AN3.32%22%20-file%3A%22AN3.34%22%20-file%3A%22AN3.33%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.33/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.33
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.33.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.32]]  🌐 [[AN3.34]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.32]]  🌐 [[AN3.34]] ►

@@ -4,7 +4,7 @@ vin_title: "Ujjagghika - Laughing Loud"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK11]]
 > ◄  [[bni-sk10-brahmali-pali]] 📜  [[bni-sk12-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -58,5 +58,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^-SK11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK11]]
 > ◄  [[bni-sk10-brahmali-pali]] 📜  [[bni-sk12-brahmali-pali]] ►

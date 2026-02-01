@@ -4,7 +4,7 @@ vin_title: "Paraujjhāpanaka - Complaining About Others"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC18]]
 > ◄  [[bni-pc17-horner]] 📜  [[bni-pc19-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 18
@@ -59,5 +59,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC18]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC18]]
 > ◄  [[bni-pc17-horner]] 📜  [[bni-pc19-horner]] ►

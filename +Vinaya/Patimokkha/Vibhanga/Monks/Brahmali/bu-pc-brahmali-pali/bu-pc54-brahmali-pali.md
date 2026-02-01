@@ -4,7 +4,7 @@ vin_title: "Anādariya - Disrespect"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
 > ◄  [[bu-pc53-brahmali-pali]] 📜  [[bu-pc55-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -102,5 +102,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṁ, moghapurisa, anādar
 >|       |          | [[ñanatusita-analysis#^PC54]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
 > ◄  [[bu-pc53-brahmali-pali]] 📜  [[bu-pc55-brahmali-pali]] ►

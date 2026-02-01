@@ -4,7 +4,7 @@ vin_title: "Sabhojana - Intruding on a Couple Enjoying Themselves"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC124]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC124]]
 > ◄  [[bni-pc123-brahmali-pali]] 📜  [[bni-pc125-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -154,5 +154,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṁ, moghapurisa, sabhoja
 >|       |          | [[ñanatusita-analysis#^-PC124]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC124]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC124]]
 > ◄  [[bni-pc123-brahmali-pali]] 📜  [[bni-pc125-brahmali-pali]] ►

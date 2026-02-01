@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[THAG1.68]], [[PLI-TV-BU-VB-PC22]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.6]]  🌐 [[UD4.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.6]]  🌐 [[UD4.8]] ►
 
 # UD4.7 - Sariputta Sutta - Sāriputta
 ## 🌐 Overview
@@ -91,10 +91,10 @@ calm and ever mindful
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD4.7%5D%5D%22%23mynotes%20-file%3Aud4.7-%20-file%3A%22UD4.6%22%20-file%3A%22UD4.8%22%20-file%3A%22UD4.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud4.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.7
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.6]]  🌐 [[UD4.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.6]]  🌐 [[UD4.8]] ►

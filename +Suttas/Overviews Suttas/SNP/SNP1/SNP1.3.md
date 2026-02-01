@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP328]], [[DHP329]], [[JA12]]"
 parallels_agama: ""
 parallels_partilal: "[[JA12]], [[DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[MA72]], [[DHP329]], [[THAG16.4]], [[MN82]], [[PE2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.2]]  🌐 [[SNP1.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.2]]  🌐 [[SNP1.4]] ►
 
 # SNP1.3 - Khaggavisāṇa - Rhinoceros Horn
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[JA12]], [[DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]]
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP1.3%5D%5D%22%23mynotes%20-file%3Asnp1.3-%20-file%3A%22SNP1.2%22%20-file%3A%22SNP1.4%22%20-file%3A%22SNP1.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp1.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.3
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.2]]  🌐 [[SNP1.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.2]]  🌐 [[SNP1.4]] ►

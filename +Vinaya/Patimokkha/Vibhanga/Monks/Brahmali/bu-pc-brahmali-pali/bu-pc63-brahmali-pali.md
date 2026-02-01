@@ -4,7 +4,7 @@ vin_title: "Ukkoṭana - Legal Issue Reopening"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC63]]
 > ◄  [[bu-pc62-brahmali-pali]] 📜  [[bu-pc64-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -110,5 +110,5 @@ Adhammakamme dhammakammasaññī, āpatti dukkaṭassa. Adhammakamme vematiko, �
 >|       |          | [[ñanatusita-analysis#^PC63]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC63]]
 > ◄  [[bu-pc62-brahmali-pali]] 📜  [[bu-pc64-brahmali-pali]] ►

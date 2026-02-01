@@ -39,7 +39,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.85]]  🌐 [[AN2.87]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.85]]  🌐 [[AN2.87]] ►
 
 # AN2.86 - Sanimitta - With A Foundation
 ## 🌐 Overview
@@ -81,10 +81,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.86%5D%5D%22%23mynotes%20-file%3Aan2.86-%20-file%3A%22AN2.85%22%20-file%3A%22AN2.87%22%20-file%3A%22AN2.86%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.86/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.86
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.86.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.85]]  🌐 [[AN2.87]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.85]]  🌐 [[AN2.87]] ►

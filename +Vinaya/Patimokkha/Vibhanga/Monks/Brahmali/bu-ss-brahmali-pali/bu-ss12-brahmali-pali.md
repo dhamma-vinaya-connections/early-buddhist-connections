@@ -4,7 +4,7 @@ vin_title: "Dubbaca - Difficult to Correct"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS12]]
 > ◄  [[bu-ss11-brahmali-pali]] 📜  [[bu-ss13-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -200,5 +200,5 @@ So bhikkhu samanubhāsitabbo.
 >|       |          | [[ñanatusita-analysis#^SS12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS12]]
 > ◄  [[bu-ss11-brahmali-pali]] 📜  [[bu-ss13-brahmali-pali]] ►

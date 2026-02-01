@@ -4,7 +4,7 @@ vin_title: "Patta - Bowl Extra"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
 > ◄  [[bu-np20-horner]] 📜  [[bu-np22-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 21
@@ -79,5 +79,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP21]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
 > ◄  [[bu-np20-horner]] 📜  [[bu-np22-horner]] ►

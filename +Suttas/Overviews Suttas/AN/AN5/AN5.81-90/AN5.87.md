@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.86]]  🌐 [[AN5.88]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.86]]  🌐 [[AN5.88]] ►
 
 # AN5.87 - Thera - Senior Bhikkhus
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.87%5D%5D%22%23mynotes%20-file%3Aan5.87-%20-file%3A%22AN5.86%22%20-file%3A%22AN5.88%22%20-file%3A%22AN5.87%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.87/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.87
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.87.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.86]]  🌐 [[AN5.88]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.86]]  🌐 [[AN5.88]] ►

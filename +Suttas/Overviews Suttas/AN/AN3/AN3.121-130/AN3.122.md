@@ -40,7 +40,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[ITI67]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.121]]  🌐 [[AN3.123]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.121]]  🌐 [[AN3.123]] ►
 
 # AN3.122 - Soceyya - Purity
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[ITI67]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.122%5D%5D%22%23mynotes%20-file%3Aan3.122-%20-file%3A%22AN3.121%22%20-file%3A%22AN3.123%22%20-file%3A%22AN3.122%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.122/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.122
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.122.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.121]]  🌐 [[AN3.123]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.121]]  🌐 [[AN3.123]] ►

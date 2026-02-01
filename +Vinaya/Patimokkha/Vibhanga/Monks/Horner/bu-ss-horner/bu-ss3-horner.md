@@ -4,7 +4,7 @@ vin_title: "Duṭṭhullavācā - Indecent Speech"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
 > ◄  [[bu-ss2-horner]] 📜  [[bu-ss4-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 3
@@ -222,5 +222,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
 > ◄  [[bu-ss2-horner]] 📜  [[bu-ss4-horner]] ►

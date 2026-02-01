@@ -4,7 +4,7 @@ vin_title: "Vihārakāra - Building a Dwelling"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
 > ◄  [[bu-ss6-horner]] 📜  [[bu-ss8-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 7
@@ -101,5 +101,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
 > ◄  [[bu-ss6-horner]] 📜  [[bu-ss8-horner]] ►

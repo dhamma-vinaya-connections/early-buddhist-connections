@@ -4,7 +4,7 @@ vin_title: "Suttaviññatti - Thread Asking"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
 > ◄  [[bu-np25-brahmali-pali]] 📜  [[bu-np27-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -114,5 +114,5 @@ Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhi
 >|       |          | [[ñanatusita-analysis#^NP26]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
 > ◄  [[bu-np25-brahmali-pali]] 📜  [[bu-np27-brahmali-pali]] ►

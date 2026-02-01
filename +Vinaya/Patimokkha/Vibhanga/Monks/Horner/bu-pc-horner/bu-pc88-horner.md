@@ -4,7 +4,7 @@ vin_title: "Tūlonaddha - Upholstery"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
 > ◄  [[bu-pc87-horner]] 📜  [[bu-pc89-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 88
@@ -63,5 +63,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC88]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
 > ◄  [[bu-pc87-horner]] 📜  [[bu-pc89-horner]] ►

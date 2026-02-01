@@ -4,7 +4,7 @@ vin_title: "Sūcighara - Needle Cases"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC86]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC86]]
 > ◄  [[bu-pc85-deepseek-pali]] 📜  [[bu-pc87-deepseek-pali]] ►
 
 # BU-PC 86
@@ -71,5 +71,5 @@ The fourth training rule on the needle-case is concluded.
 >|       |          | [[ñanatusita-analysis#^PC86]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC86]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC86]]
 > ◄  [[bu-pc85-deepseek-pali]] 📜  [[bu-pc87-deepseek-pali]] ►

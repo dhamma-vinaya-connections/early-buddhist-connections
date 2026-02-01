@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.34]], [[ITI90]]"
 parallels_agama: "[[EA21.1]], [[SA902-904]]"
 parallels_partilal: "[[AN4.34]], [[EA21.1]], [[ITI90]], [[SA902-904]], [[SN45.139]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.31]]  🌐 [[AN5.33]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.31]]  🌐 [[AN5.33]] ►
 
 # AN5.32 - Cundī - With Cundī
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Fame, reputation, happiness, and strength
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.32%5D%5D%22%23mynotes%20-file%3Aan5.32-%20-file%3A%22AN5.31%22%20-file%3A%22AN5.33%22%20-file%3A%22AN5.32%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.32/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.32
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.32.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.31]]  🌐 [[AN5.33]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.31]]  🌐 [[AN5.33]] ►

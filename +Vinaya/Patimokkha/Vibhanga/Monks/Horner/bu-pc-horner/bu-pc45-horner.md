@@ -4,7 +4,7 @@ vin_title: "Rahonisajja - Sitting in Private"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC45]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC45]]
 > ◄  [[bu-pc44-horner]] 📜  [[bu-pc46-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 45
@@ -63,5 +63,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC45]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC45]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC45]]
 > ◄  [[bu-pc44-horner]] 📜  [[bu-pc46-horner]] ►

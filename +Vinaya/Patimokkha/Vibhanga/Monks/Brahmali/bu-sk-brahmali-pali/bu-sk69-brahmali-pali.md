@@ -4,7 +4,7 @@ vin_title: "Nīcāsana - Low Seats"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK69]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK69]]
 > ◄  [[bu-sk68-brahmali-pali]] 📜  [[bu-sk70-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -152,5 +152,5 @@ asmā kumbhamivābhidā’ti.
 >|       |          | [[ñanatusita-analysis#^SK69]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK69]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK69]]
 > ◄  [[bu-sk68-brahmali-pali]] 📜  [[bu-sk70-brahmali-pali]] ►

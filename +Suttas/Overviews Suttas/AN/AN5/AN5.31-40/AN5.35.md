@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.34]]  🌐 [[AN5.36]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.34]]  🌐 [[AN5.36]] ►
 
 # AN5.35 - Danānisaṃsa - Benefits Of Giving
 ## 🌐 Overview
@@ -84,10 +84,10 @@ Having driven out the stain of stinginess
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.35%5D%5D%22%23mynotes%20-file%3Aan5.35-%20-file%3A%22AN5.34%22%20-file%3A%22AN5.36%22%20-file%3A%22AN5.35%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.35/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.35
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.35.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.34]]  🌐 [[AN5.36]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.34]]  🌐 [[AN5.36]] ►

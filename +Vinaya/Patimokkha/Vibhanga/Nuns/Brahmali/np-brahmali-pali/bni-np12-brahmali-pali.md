@@ -4,7 +4,7 @@ vin_title: "Lahupāvuraṇa - Light Cloaks"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP12]]
 > ◄  [[bni-np11-brahmali-pali]] 📜  [[bni-np13-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -132,5 +132,5 @@ Nissajjitabbaṁ saṁghassa vā gaṇassa vā ekabhikkhuniyā vā. Evañca pana
 >|       |          | [[ñanatusita-analysis#^-NP12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP12]]
 > ◄  [[bni-np11-brahmali-pali]] 📜  [[bni-np13-brahmali-pali]] ►

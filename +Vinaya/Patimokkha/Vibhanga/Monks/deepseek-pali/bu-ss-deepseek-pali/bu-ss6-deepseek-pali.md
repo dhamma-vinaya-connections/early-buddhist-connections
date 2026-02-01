@@ -4,7 +4,7 @@ vin_title: "Kuṭikāra - Building a Hut"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
 > ◄  [[bu-ss5-deepseek-pali]] 📜  [[bu-ss7-deepseek-pali]] ►
 
 # BU-SN 6
@@ -399,5 +399,5 @@ The training rule concerning the building of a hut, the sixth, is finished.
 >|       |          | [[ñanatusita-analysis#^SS6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
 > ◄  [[bu-ss5-deepseek-pali]] 📜  [[bu-ss7-deepseek-pali]] ►

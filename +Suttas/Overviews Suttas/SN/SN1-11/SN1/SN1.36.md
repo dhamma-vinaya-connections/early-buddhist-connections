@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP221]], [[DHP26]], [[DHP27]]"
 parallels_agama: "[[SA-2.284]], [[SA1286]]"
 parallels_partilal: "[[SA-2.284]], [[SA1286]], [[DHP221]], [[SN1.34]], [[DHP26]], [[MN86]], [[THAG16.8]], [[DHP27]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.35]]  🌐 [[SN1.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.35]]  🌐 [[SN1.37]] ►
 
 # SN1.36 - Saddhāsutta - Faith
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.284]], [[SA1286]], [[DHP221]], [[SN1.34]], [[DHP26]]
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.36%5D%5D%22%23mynotes%20-file%3Asn1.36-%20-file%3A%22SN1.35%22%20-file%3A%22SN1.37%22%20-file%3A%22SN1.36%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.36
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.36.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.35]]  🌐 [[SN1.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.35]]  🌐 [[SN1.37]] ►

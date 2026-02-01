@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP15]]  🌐 [[DHP17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP15]]  🌐 [[DHP17]] ►
 
 # DHP16 - Piyavagga - Dear
 ## 🌐 Overview
@@ -89,10 +89,10 @@ has no sorrow, let alone fear
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP16%5D%5D%22%23mynotes%20-file%3Adhp16-%20-file%3A%22DHP15%22%20-file%3A%22DHP17%22%20-file%3A%22DHP16%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp16
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp16.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP15]]  🌐 [[DHP17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP15]]  🌐 [[DHP17]] ►

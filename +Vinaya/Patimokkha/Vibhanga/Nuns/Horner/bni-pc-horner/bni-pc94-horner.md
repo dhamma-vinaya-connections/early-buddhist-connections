@@ -4,7 +4,7 @@ vin_title: "Anāpucchā - Not Asking Permission"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC94]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC94]]
 > ◄  [[bni-pc93-horner]] 📜  [[bni-pc95-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 94
@@ -59,5 +59,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC94]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC94]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC94]]
 > ◄  [[bni-pc93-horner]] 📜  [[bni-pc95-horner]] ►

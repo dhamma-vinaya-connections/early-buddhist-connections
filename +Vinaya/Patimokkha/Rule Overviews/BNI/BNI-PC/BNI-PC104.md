@@ -25,7 +25,7 @@ vin_sangha_acts:
 vin_gender: "Nuns"
 vin_gender-corr: "BU-PC8"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC103]] 🌐 [[BNI-PC105]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC103]] 🌐 [[BNI-PC105]] ►
 
 # Nuns - Pacittiya - Confession
 ## 10 Musāvāda-Vaggo - 10 Lies
@@ -77,8 +77,8 @@ vin_gender-corr: "BU-PC8"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBNI-PC104%5D%5D%22%23mynotes%20-file%3Abni-pc104-%20-file%3A%22BNI-PC104%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+> [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-pc?view=normal
 
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC103]] 🌐 [[BNI-PC105]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC103]] 🌐 [[BNI-PC105]] ►

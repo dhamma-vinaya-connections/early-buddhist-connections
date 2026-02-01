@@ -4,7 +4,7 @@ vin_title: "Sannidhikāraka - Food Storing"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC38]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC38]]
 > ◄  [[bu-pc37-deepseek-pali]] 📜  [[bu-pc39-deepseek-pali]] ►
 
 # BU-PC 38
@@ -71,5 +71,5 @@ The training rule concerning stored-up food is finished, the eighth.
 >|       |          | [[ñanatusita-analysis#^PC38]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC38]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC38]]
 > ◄  [[bu-pc37-deepseek-pali]] 📜  [[bu-pc39-deepseek-pali]] ►

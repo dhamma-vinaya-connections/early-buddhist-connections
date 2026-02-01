@@ -4,7 +4,7 @@ vin_title: "Sambādhaloma - Pubic Hair"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC2]]
 > ◄  [[bni-pc1-brahmali-pali]] 📜  [[bni-pc3-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -90,5 +90,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma, bhikkhave, chabbaggiyā bhi
 >|       |          | [[ñanatusita-analysis#^-PC2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC2]]
 > ◄  [[bni-pc1-brahmali-pali]] 📜  [[bni-pc3-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP345]], [[DHP346]], [[THAG2.34]]"
 parallels_agama: "[[SA-2.62]], [[SA1235]]"
 parallels_partilal: "[[SA-2.62]], [[SA1235]], [[DHP345]], [[JA201]], [[PE2]], [[DHP346]], [[THAG2.34]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.9]]  🌐 [[SN3.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.9]]  🌐 [[SN3.11]] ►
 
 # SN3.10 - Bandhanasutta - Bondage
 ## 🌐 Overview
@@ -82,10 +82,10 @@ Concern for your partners and children:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.10%5D%5D%22%23mynotes%20-file%3Asn3.10-%20-file%3A%22SN3.9%22%20-file%3A%22SN3.11%22%20-file%3A%22SN3.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.9]]  🌐 [[SN3.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.9]]  🌐 [[SN3.11]] ►

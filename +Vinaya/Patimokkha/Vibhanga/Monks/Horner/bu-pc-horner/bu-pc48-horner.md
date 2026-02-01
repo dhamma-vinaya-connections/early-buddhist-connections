@@ -4,7 +4,7 @@ vin_title: "Uyyuttasenā - Army on Duty Visiting"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC48]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC48]]
 > ◄  [[bu-pc47-horner]] 📜  [[bu-pc49-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 48
@@ -89,5 +89,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC48]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC48]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC48]]
 > ◄  [[bu-pc47-horner]] 📜  [[bu-pc49-horner]] ►

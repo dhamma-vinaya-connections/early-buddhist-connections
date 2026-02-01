@@ -4,7 +4,7 @@ vin_title: "Talaghātaka - Masturbation"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC3]]
 > ◄  [[bni-pc2-horner]] 📜  [[bni-pc4-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 3
@@ -47,5 +47,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC3]]
 > ◄  [[bni-pc2-horner]] 📜  [[bni-pc4-horner]] ►

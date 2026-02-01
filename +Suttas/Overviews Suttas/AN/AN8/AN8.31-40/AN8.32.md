@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.31]]  🌐 [[AN8.33]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.31]]  🌐 [[AN8.33]] ►
 
 # AN8.32 - Dana - Giving
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.32%5D%5D%22%23mynotes%20-file%3Aan8.32-%20-file%3A%22AN8.31%22%20-file%3A%22AN8.33%22%20-file%3A%22AN8.32%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.32/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.32
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.32.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.31]]  🌐 [[AN8.33]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.31]]  🌐 [[AN8.33]] ►

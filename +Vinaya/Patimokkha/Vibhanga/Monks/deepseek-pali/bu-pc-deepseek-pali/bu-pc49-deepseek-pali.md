@@ -4,7 +4,7 @@ vin_title: "Senāvāsa - Army Staying"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
 > ◄  [[bu-pc48-deepseek-pali]] 📜  [[bu-pc50-deepseek-pali]] ►
 
 # BU-PC 49
@@ -63,5 +63,5 @@ The Ninth Training Rule Concerning Lodging is concluded.
 >|       |          | [[ñanatusita-analysis#^PC49]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
 > ◄  [[bu-pc48-deepseek-pali]] 📜  [[bu-pc50-deepseek-pali]] ►

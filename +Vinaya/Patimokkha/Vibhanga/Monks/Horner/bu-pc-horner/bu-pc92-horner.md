@@ -4,7 +4,7 @@ vin_title: "Sugatacīvara - Robes Size"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC92]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC92]]
 > ◄  [[bu-pc91-horner]] 📜  [[BU-PD1]] ►
 
 # Monks’ Expiation (_Pācittiya_) 92
@@ -2840,5 +2840,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC92]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC92]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC92]]
 > ◄  [[bu-pc91-horner]] 📜  [[BU-PD1]] ►

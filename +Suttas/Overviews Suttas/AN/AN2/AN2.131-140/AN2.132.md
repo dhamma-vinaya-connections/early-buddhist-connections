@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.176]]"
 parallels_agama: ""
 parallels_partilal: "[[AN4.176]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.131]]  🌐 [[AN2.133]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.131]]  🌐 [[AN2.133]] ►
 
 # AN2.132 - Āyācana - Aspiration
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN4.176]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.132%5D%5D%22%23mynotes%20-file%3Aan2.132-%20-file%3A%22AN2.131%22%20-file%3A%22AN2.133%22%20-file%3A%22AN2.132%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.132/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.132
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.132.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.131]]  🌐 [[AN2.133]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.131]]  🌐 [[AN2.133]] ►

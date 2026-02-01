@@ -4,7 +4,7 @@ vin_title: "Asikkhita-sikkhamānā - Ordaining Untrained Candidate"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC63]]
 > ◄  [[bni-pc62-brahmali-pali]] 📜  [[bni-pc64-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -138,5 +138,5 @@ p_2V_3215Tatiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC63]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC63]]
 > ◄  [[bni-pc62-brahmali-pali]] 📜  [[bni-pc64-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Theyyasattha - Traveling with Thieves"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC66]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC66]]
 > ◄  [[bu-pc65-deepseek-pali]] 📜  [[bu-pc67-deepseek-pali]] ►
 
 # BU-PC 66
@@ -71,5 +71,5 @@ The training rule concerning a thieving caravan: the sixth is concluded.
 >|       |          | [[ñanatusita-analysis#^PC66]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC66]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC66]]
 > ◄  [[bu-pc65-deepseek-pali]] 📜  [[bu-pc67-deepseek-pali]] ►

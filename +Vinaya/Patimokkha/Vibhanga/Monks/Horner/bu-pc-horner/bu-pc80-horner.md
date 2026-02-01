@@ -4,7 +4,7 @@ vin_title: "Chandaṁadatvāgamana - Leaving Without Giving Consent"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC80]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC80]]
 > ◄  [[bu-pc79-horner]] 📜  [[bu-pc81-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 80
@@ -59,5 +59,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC80]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC80]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC80]]
 > ◄  [[bu-pc79-horner]] 📜  [[bu-pc81-horner]] ►

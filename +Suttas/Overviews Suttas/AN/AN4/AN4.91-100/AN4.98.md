@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.97]]  🌐 [[AN4.99]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.97]]  🌐 [[AN4.99]] ►
 
 # AN4.98 - Attahita - Benefit Oneself
 ## 🌐 Overview
@@ -85,10 +85,10 @@ One who practices to benefit both themselves and others.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.98%5D%5D%22%23mynotes%20-file%3Aan4.98-%20-file%3A%22AN4.97%22%20-file%3A%22AN4.99%22%20-file%3A%22AN4.98%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.98/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.98
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.98.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.97]]  🌐 [[AN4.99]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.97]]  🌐 [[AN4.99]] ►

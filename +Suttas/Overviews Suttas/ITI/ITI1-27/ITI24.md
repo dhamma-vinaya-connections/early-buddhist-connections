@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP191]], [[SN15.10]]"
 parallels_agama: "[[SA-2.340]], [[SA-3.11]], [[SA947]]"
 parallels_partilal: "[[SN15.10]], [[SA-2.340]], [[SA-3.11]], [[SA947]], [[DHP191]], [[THAG21.1]], [[THIG7.2]], [[THIG7.3]], [[THIG13.3]], [[THIG13.4]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI23]]  🌐 [[ITI25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI23]]  🌐 [[ITI25]] ►
 
 # ITI24 - Aṭṭhipuñja - Heap of bones
 ## 🌐 Overview
@@ -92,10 +92,10 @@ he makes an end of stress.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI24%5D%5D%22%23mynotes%20-file%3Aiti24-%20-file%3A%22ITI23%22%20-file%3A%22ITI25%22%20-file%3A%22ITI24%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti24/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti24
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti24.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI23]]  🌐 [[ITI25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI23]]  🌐 [[ITI25]] ►

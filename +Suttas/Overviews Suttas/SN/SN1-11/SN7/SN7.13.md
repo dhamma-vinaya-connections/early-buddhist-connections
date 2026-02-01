@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP423]]"
 parallels_agama: "[[SA-2.95]], [[SA1181]]"
 parallels_partilal: "[[SA-2.95]], [[SA1181]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.12]]  🌐 [[SN7.14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.12]]  🌐 [[SN7.14]] ►
 
 # SN7.13 - Devahitasutta - Devahita
 ## 🌐 Overview
@@ -86,10 +86,10 @@ An offering brings success
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.13%5D%5D%22%23mynotes%20-file%3Asn7.13-%20-file%3A%22SN7.12%22%20-file%3A%22SN7.14%22%20-file%3A%22SN7.13%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.13
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.13.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.12]]  🌐 [[SN7.14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.12]]  🌐 [[SN7.14]] ►

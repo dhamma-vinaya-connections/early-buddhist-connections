@@ -4,7 +4,7 @@ vin_title: "Naupaṭṭhāpana - Not Nursing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC34]]
 > ◄  [[bni-pc33-brahmali-pali]] 📜  [[bni-pc35-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -104,5 +104,5 @@ p_2V_2922Catutthasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC34]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC34]]
 > ◄  [[bni-pc33-brahmali-pali]] 📜  [[bni-pc35-brahmali-pali]] ►

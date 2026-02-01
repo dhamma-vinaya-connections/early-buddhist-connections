@@ -4,7 +4,7 @@ vin_title: "Samasūpakapaṭiggahaṇa - Receiving in Proportion"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK29]]
 > ◄  [[bni-sk28-brahmali-pali]] 📜  [[bni-sk30-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -66,5 +66,5 @@ Hatthahāriyo samasūpako piṇḍapāto paṭiggahetabbo. Yo anādariyaṁ pa�
 >|       |          | [[ñanatusita-analysis#^-SK29]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK29]]
 > ◄  [[bni-sk28-brahmali-pali]] 📜  [[bni-sk30-brahmali-pali]] ►

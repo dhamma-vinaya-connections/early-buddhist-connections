@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA126]]"
 parallels_partilal: "[[AN4.61]], [[MA126]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.40]]  🌐 [[AN5.42]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.40]]  🌐 [[AN5.42]] ►
 
 # AN5.41 - Ādiya - Getting Rich
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[AN4.61]], [[MA126]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.41%5D%5D%22%23mynotes%20-file%3Aan5.41-%20-file%3A%22AN5.40%22%20-file%3A%22AN5.42%22%20-file%3A%22AN5.41%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.41/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.41
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.41.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.40]]  🌐 [[AN5.42]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.40]]  🌐 [[AN5.42]] ►

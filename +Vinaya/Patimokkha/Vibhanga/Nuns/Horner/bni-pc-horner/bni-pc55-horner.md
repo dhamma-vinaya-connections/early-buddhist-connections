@@ -4,7 +4,7 @@ vin_title: "Kulamaccharinī - Stingy With Families"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC55]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC55]]
 > ◄  [[bni-pc54-horner]] 📜  [[bni-pc56-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 55
@@ -53,5 +53,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC55]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC55]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC55]]
 > ◄  [[bni-pc54-horner]] 📜  [[bni-pc56-horner]] ►

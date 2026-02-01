@@ -40,7 +40,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.79]], [[SA-3.26]], [[SA1156]]"
 parallels_partilal: "[[SA-2.79]], [[SA-3.26]], [[SA1156]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.4]]  🌐 [[SN7.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.4]]  🌐 [[SN7.6]] ►
 
 # SN7.5 - Ahiṁsakasutta - Ahiṁsaka
 ## 🌐 Overview
@@ -90,10 +90,10 @@ You’ll attain the highest happiness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.5%5D%5D%22%23mynotes%20-file%3Asn7.5-%20-file%3A%22SN7.4%22%20-file%3A%22SN7.6%22%20-file%3A%22SN7.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.5
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.4]]  🌐 [[SN7.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.4]]  🌐 [[SN7.6]] ►

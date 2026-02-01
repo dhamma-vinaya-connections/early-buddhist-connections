@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[MN64]], [[MN52]], [[AN11.16]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.35]]  🌐 [[AN9.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.35]]  🌐 [[AN9.37]] ►
 
 # AN9.36 - Jhāna - Absorption
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[MN64]], [[MN52]], [[AN11.16]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.36%5D%5D%22%23mynotes%20-file%3Aan9.36-%20-file%3A%22AN9.35%22%20-file%3A%22AN9.37%22%20-file%3A%22AN9.36%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.36
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.36.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.35]]  🌐 [[AN9.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.35]]  🌐 [[AN9.37]] ►

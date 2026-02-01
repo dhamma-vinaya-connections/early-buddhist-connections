@@ -4,7 +4,7 @@ vin_title: "Sasitthaka - Washing Water with Rise"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK56]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK56]]
 > ◄  [[bni-sk55-brahmali-pali]] 📜  [[bni-sk57-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -82,5 +82,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma te, bhikkhave, moghapurisā 
 >|       |          | [[ñanatusita-analysis#^-SK56]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK56]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK56]]
 > ◄  [[bni-sk55-brahmali-pali]] 📜  [[bni-sk57-brahmali-pali]] ►

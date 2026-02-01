@@ -4,7 +4,7 @@ vin_title: "Vassikasāṭika - Robes Rainy Season"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP24]]
 > ◄  [[bu-np23-deepseek-pali]] 📜  [[bu-np25-deepseek-pali]] ►
 
 # BU-NP 24
@@ -75,5 +75,5 @@ The fourth training rule on the rains-bathing robe is finished.
 >|       |          | [[ñanatusita-analysis#^NP24]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP24]]
 > ◄  [[bu-np23-deepseek-pali]] 📜  [[bu-np25-deepseek-pali]] ►

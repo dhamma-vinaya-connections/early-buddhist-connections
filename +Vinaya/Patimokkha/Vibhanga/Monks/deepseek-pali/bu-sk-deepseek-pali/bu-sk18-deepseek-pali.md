@@ -4,7 +4,7 @@ vin_title: "Bāhuppacālaka - Arms Swinging"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK18]]
 > ◄  [[bu-sk17-deepseek-pali]] 📜  [[bu-sk19-deepseek-pali]] ►
 
 # BU-SK 18
@@ -43,5 +43,5 @@ The seventh training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK18]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK18]]
 > ◄  [[bu-sk17-deepseek-pali]] 📜  [[bu-sk19-deepseek-pali]] ►

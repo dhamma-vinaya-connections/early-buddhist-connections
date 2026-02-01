@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP16]]  🌐 [[DHP18]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP16]]  🌐 [[DHP18]] ►
 
 # DHP17 - Kodhavagga - Anger
 ## 🌐 Overview
@@ -86,10 +86,10 @@ conduct yourself well in body, speech and mind
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP17%5D%5D%22%23mynotes%20-file%3Adhp17-%20-file%3A%22DHP16%22%20-file%3A%22DHP18%22%20-file%3A%22DHP17%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp17/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp17
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp17.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP16]]  🌐 [[DHP18]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP16]]  🌐 [[DHP18]] ►

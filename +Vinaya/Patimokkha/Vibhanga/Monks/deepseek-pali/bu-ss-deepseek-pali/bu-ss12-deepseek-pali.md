@@ -4,7 +4,7 @@ vin_title: "Dubbaca - Difficult to Correct"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS12]]
 > ◄  [[bu-ss11-deepseek-pali]] 📜  [[bu-ss13-deepseek-pali]] ►
 
 # BU-SN 12
@@ -119,5 +119,5 @@ The training rule on being difficult to admonish is concluded, the twelfth.
 >|       |          | [[ñanatusita-analysis#^SS12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS12]]
 > ◄  [[bu-ss11-deepseek-pali]] 📜  [[bu-ss13-deepseek-pali]] ►

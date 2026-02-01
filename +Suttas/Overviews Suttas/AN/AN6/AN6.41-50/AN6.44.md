@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.75]]"
 parallels_agama: "[[SA990]], [[SA991]]"
 parallels_partilal: "[[AN10.75]], [[SA990]], [[SA991]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.43]]  🌐 [[AN6.45]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.43]]  🌐 [[AN6.45]] ►
 
 # AN6.44 - Migasālā - With Migasālā
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN10.75]], [[SA990]], [[SA991]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.44%5D%5D%22%23mynotes%20-file%3Aan6.44-%20-file%3A%22AN6.43%22%20-file%3A%22AN6.45%22%20-file%3A%22AN6.44%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.44/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.44
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.44.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.43]]  🌐 [[AN6.45]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.43]]  🌐 [[AN6.45]] ►

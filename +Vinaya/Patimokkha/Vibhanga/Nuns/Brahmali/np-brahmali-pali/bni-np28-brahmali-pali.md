@@ -4,7 +4,7 @@ vin_title: "Mahāpesakāra - Bribing Weavers"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP28]]
 > ◄  [[bni-np27-brahmali-pali]] 📜  [[bni-np29-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -216,5 +216,5 @@ Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhi
 >|       |          | [[ñanatusita-analysis#^-NP28]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP28]]
 > ◄  [[bni-np27-brahmali-pali]] 📜  [[bni-np29-brahmali-pali]] ►

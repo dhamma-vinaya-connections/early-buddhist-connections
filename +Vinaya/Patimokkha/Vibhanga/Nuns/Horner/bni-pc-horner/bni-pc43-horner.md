@@ -4,7 +4,7 @@ vin_title: "Suttakantana - Spinning Yarn"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC43]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC43]]
 > ◄  [[bni-pc42-horner]] 📜  [[bni-pc44-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 43
@@ -53,5 +53,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC43]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC43]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC43]]
 > ◄  [[bni-pc42-horner]] 📜  [[bni-pc44-horner]] ►

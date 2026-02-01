@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.73]]"
 parallels_agama: "[[EA40.8]]"
 parallels_partilal: "[[EA40.8]], [[AN8.73]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.18]]  🌐 [[AN6.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.18]]  🌐 [[AN6.20]] ►
 
 # AN6.19 - Paṭhamamaraṇassati - Mindfulness Of Death (1st)
 ## 🌐 Overview
@@ -87,10 +87,10 @@ To live as long as it takes to chew and swallow a single mouthful … or to liv
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.19%5D%5D%22%23mynotes%20-file%3Aan6.19-%20-file%3A%22AN6.18%22%20-file%3A%22AN6.20%22%20-file%3A%22AN6.19%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.19/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.19
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.19.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.18]]  🌐 [[AN6.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.18]]  🌐 [[AN6.20]] ►

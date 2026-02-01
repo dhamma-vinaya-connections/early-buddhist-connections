@@ -4,7 +4,7 @@ vin_title: "Omasavāda - Speech Abusive"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC2]]
 > ◄  [[bu-pc1-deepseek-pali]] 📜  [[bu-pc3-deepseek-pali]] ►
 
 # BU-PC 2
@@ -357,5 +357,5 @@ The second training rule on malicious speech is finished.
 >|       |          | [[ñanatusita-analysis#^PC2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC2]]
 > ◄  [[bu-pc1-deepseek-pali]] 📜  [[bu-pc3-deepseek-pali]] ►

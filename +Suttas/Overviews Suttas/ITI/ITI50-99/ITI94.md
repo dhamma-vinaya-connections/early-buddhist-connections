@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI93]]  🌐 [[ITI95]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI93]]  🌐 [[ITI95]] ►
 
 # ITI94 - Upaparikkha - Examination
 ## 🌐 Overview
@@ -87,10 +87,10 @@ is finished;
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI94%5D%5D%22%23mynotes%20-file%3Aiti94-%20-file%3A%22ITI93%22%20-file%3A%22ITI95%22%20-file%3A%22ITI94%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti94/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti94
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti94.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI93]]  🌐 [[ITI95]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI93]]  🌐 [[ITI95]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SN41.5]], [[PE2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.4]]  🌐 [[UD7.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.4]]  🌐 [[UD7.6]] ►
 
 # UD7.5 - Lakuntakabhaddiya Sutta - Another Discourse about Bhaddiya the Dwarf/The Dwarf
 ## 🌐 Overview
@@ -92,10 +92,10 @@ with stream cut, unbound.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD7.5%5D%5D%22%23mynotes%20-file%3Aud7.5-%20-file%3A%22UD7.4%22%20-file%3A%22UD7.6%22%20-file%3A%22UD7.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud7.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.5
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.4]]  🌐 [[UD7.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.4]]  🌐 [[UD7.6]] ►

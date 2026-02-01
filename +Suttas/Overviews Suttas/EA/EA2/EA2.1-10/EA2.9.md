@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.95]]"
 parallels_agama: ""
 parallels_partilal: "[[AN4.95]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA2.8]]  🌐 [[EA2.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA2.8]]  🌐 [[EA2.10]] ►
 
 # EA2.9 - EA 2.9 - The Body
 ## 🌐 Overview
@@ -85,10 +85,10 @@ One who practices to benefit both themselves and others.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BEA2.9%5D%5D%22%23mynotes%20-file%3Aea2.9-%20-file%3A%22EA2.8%22%20-file%3A%22EA2.10%22%20-file%3A%22EA2.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ea2.9/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA2.8]]  🌐 [[EA2.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA2.8]]  🌐 [[EA2.10]] ►

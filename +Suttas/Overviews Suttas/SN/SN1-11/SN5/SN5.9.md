@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.219]], [[SA1203]]"
 parallels_partilal: "[[SA-2.219]], [[SA1203]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.8]]  🌐 [[SN5.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.8]]  🌐 [[SN5.10]] ►
 
 # SN5.9 - Selāsutta - Sela
 ## 🌐 Overview
@@ -88,10 +88,10 @@ So too, when the aggregates are present
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN5.9%5D%5D%22%23mynotes%20-file%3Asn5.9-%20-file%3A%22SN5.8%22%20-file%3A%22SN5.10%22%20-file%3A%22SN5.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn5.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.9
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.8]]  🌐 [[SN5.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.8]]  🌐 [[SN5.10]] ►

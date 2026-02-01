@@ -4,7 +4,7 @@ vin_title: "Avagaṇḍakāraka - Stuffing Cheeks"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK46]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK46]]
 > ◄  [[bu-sk45-deepseek-pali]] 📜  [[bu-sk47-deepseek-pali]] ►
 
 # BU-SK 46
@@ -43,5 +43,5 @@ The fourth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK46]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK46]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK46]]
 > ◄  [[bu-sk45-deepseek-pali]] 📜  [[bu-sk47-deepseek-pali]] ►

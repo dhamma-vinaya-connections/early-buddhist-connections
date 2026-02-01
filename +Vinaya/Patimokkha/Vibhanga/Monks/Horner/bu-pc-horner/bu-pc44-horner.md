@@ -4,7 +4,7 @@ vin_title: "Rahopaṭicchanna - Sitting in Concealed Place"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC44]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC44]]
 > ◄  [[bu-pc43-horner]] 📜  [[bu-pc45-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 44
@@ -71,5 +71,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC44]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC44]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC44]]
 > ◄  [[bu-pc43-horner]] 📜  [[bu-pc45-horner]] ►

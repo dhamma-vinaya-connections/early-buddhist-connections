@@ -4,7 +4,7 @@ vin_title: "Hasadhamma - Playing"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
 > ◄  [[bu-pc52-deepseek-pali]] 📜  [[bu-pc54-deepseek-pali]] ►
 
 # BU-PC 53
@@ -59,5 +59,5 @@ The Training Rule Concerning Water-Play, the third, is concluded.
 >|       |          | [[ñanatusita-analysis#^PC53]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
 > ◄  [[bu-pc52-deepseek-pali]] 📜  [[bu-pc54-deepseek-pali]] ►

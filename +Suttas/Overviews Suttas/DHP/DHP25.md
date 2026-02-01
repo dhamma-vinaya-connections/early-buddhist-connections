@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP24]]  🌐 [[DHP26]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP24]]  🌐 [[DHP26]] ►
 
 # DHP25 - Bhikkhuvagga - Bhikkhus
 ## 🌐 Overview
@@ -83,10 +83,10 @@ good is restraint of the tongue
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP25%5D%5D%22%23mynotes%20-file%3Adhp25-%20-file%3A%22DHP24%22%20-file%3A%22DHP26%22%20-file%3A%22DHP25%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp25
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp25.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP24]]  🌐 [[DHP26]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP24]]  🌐 [[DHP26]] ►

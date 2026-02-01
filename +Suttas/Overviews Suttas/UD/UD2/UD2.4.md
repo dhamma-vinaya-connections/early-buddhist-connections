@@ -38,7 +38,7 @@ parallels_nikaya: "[[UD4.8]]"
 parallels_agama: ""
 parallels_partilal: "[[UD4.8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.3]]  🌐 [[UD2.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.3]]  🌐 [[UD2.5]] ►
 
 # UD2.4 - Sakkara Sutta - Veneration
 ## 🌐 Overview
@@ -92,10 +92,10 @@ He is a person who is in a state of bondage in regard to (other) people.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD2.4%5D%5D%22%23mynotes%20-file%3Aud2.4-%20-file%3A%22UD2.3%22%20-file%3A%22UD2.5%22%20-file%3A%22UD2.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud2.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.4
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.3]]  🌐 [[UD2.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.3]]  🌐 [[UD2.5]] ►

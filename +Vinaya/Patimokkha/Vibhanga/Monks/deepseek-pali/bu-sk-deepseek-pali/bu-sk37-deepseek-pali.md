@@ -4,7 +4,7 @@ vin_title: "Sūpodanaviññatti - Asking for Rice and Curry"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK37]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK37]]
 > ◄  [[bu-sk36-deepseek-pali]] 📜  [[bu-sk38-deepseek-pali]] ►
 
 # BU-SK 37
@@ -43,5 +43,5 @@ The sixth training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK37]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK37]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK37]]
 > ◄  [[bu-sk36-deepseek-pali]] 📜  [[bu-sk38-deepseek-pali]] ►

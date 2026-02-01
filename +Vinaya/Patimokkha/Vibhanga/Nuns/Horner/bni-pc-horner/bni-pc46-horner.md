@@ -4,7 +4,7 @@ vin_title: "Bhojanadāna - Giving Food"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC46]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC46]]
 > ◄  [[bni-pc45-horner]] 📜  [[bni-pc47-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 46
@@ -49,5 +49,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC46]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC46]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC46]]
 > ◄  [[bni-pc45-horner]] 📜  [[bni-pc47-horner]] ►

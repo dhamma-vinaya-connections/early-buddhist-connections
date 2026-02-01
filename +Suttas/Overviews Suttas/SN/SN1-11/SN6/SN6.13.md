@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.104]], [[SA1191]]"
 parallels_partilal: "[[SA-2.104]], [[SA1191]], [[THAG2.11]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.12]]  🌐 [[SN6.14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.12]]  🌐 [[SN6.14]] ►
 
 # SN6.13 - Devadattasutta - Devadatta
 ## 🌐 Overview
@@ -89,10 +89,10 @@ Freed from fear, liberated in the fearless
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN6.13%5D%5D%22%23mynotes%20-file%3Asn6.13-%20-file%3A%22SN6.12%22%20-file%3A%22SN6.14%22%20-file%3A%22SN6.13%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn6.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.13
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.13.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.12]]  🌐 [[SN6.14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.12]]  🌐 [[SN6.14]] ►

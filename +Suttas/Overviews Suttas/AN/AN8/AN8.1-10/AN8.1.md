@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN11.15]]"
 parallels_agama: "[[EA49.10]]"
 parallels_partilal: "[[AN11.15]], [[EA49.10]], [[PLI-TV-PVR7]], [[ITI27]], [[JA451]], [[PE3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.95-614]]  🌐 [[AN8.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.95-614]]  🌐 [[AN8.2]] ►
 
 # AN8.1 - Mettā - Benefits Of Love
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN11.15]], [[EA49.10]], [[PLI-TV-PVR7]], [[ITI27]], [[JA4
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.1%5D%5D%22%23mynotes%20-file%3Aan8.1-%20-file%3A%22AN7.95-614%22%20-file%3A%22AN8.2%22%20-file%3A%22AN8.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.1
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.95-614]]  🌐 [[AN8.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.95-614]]  🌐 [[AN8.2]] ►

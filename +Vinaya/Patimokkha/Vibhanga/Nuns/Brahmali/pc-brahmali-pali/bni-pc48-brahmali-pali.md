@@ -4,7 +4,7 @@ vin_title: "Āvasathavihāra - Lodgings"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC48]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC48]]
 > ◄  [[bni-pc47-brahmali-pali]] 📜  [[bni-pc49-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -112,5 +112,5 @@ p_2V_3070Aṭṭhamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC48]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC48]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC48]]
 > ◄  [[bni-pc47-brahmali-pali]] 📜  [[bni-pc49-brahmali-pali]] ►

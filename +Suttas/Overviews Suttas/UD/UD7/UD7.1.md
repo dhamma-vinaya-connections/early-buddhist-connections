@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PE2]], [[PE8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.10]]  🌐 [[UD7.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.10]]  🌐 [[UD7.2]] ►
 
 # UD7.1 - Pathamabhaddiya Sutta - Bhaddiya (1)
 ## 🌐 Overview
@@ -92,10 +92,10 @@ with stream cut, unbound.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD7.1%5D%5D%22%23mynotes%20-file%3Aud7.1-%20-file%3A%22UD6.10%22%20-file%3A%22UD7.2%22%20-file%3A%22UD7.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud7.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.1
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.10]]  🌐 [[UD7.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.10]]  🌐 [[UD7.2]] ►

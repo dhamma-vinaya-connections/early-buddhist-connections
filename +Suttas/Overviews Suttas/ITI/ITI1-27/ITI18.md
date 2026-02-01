@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN10.39]], [[PLI-TV-KD17]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI17]]  🌐 [[ITI19]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI17]]  🌐 [[ITI19]] ►
 
 # ITI18 - Saṁghabheda - Schism in Sangha
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN10.39]], [[PLI-TV-KD17]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI18%5D%5D%22%23mynotes%20-file%3Aiti18-%20-file%3A%22ITI17%22%20-file%3A%22ITI19%22%20-file%3A%22ITI18%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti18/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti18
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti18.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI17]]  🌐 [[ITI19]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI17]]  🌐 [[ITI19]] ►

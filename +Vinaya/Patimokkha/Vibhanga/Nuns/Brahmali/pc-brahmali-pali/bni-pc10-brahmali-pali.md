@@ -4,7 +4,7 @@ vin_title: "Naccagīta - Dancing and Singing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC10]]
 > ◄  [[bni-pc9-brahmali-pali]] 📜  [[bni-pc11-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -92,5 +92,5 @@ Lasuṇavaggo paṭhamo.
 >|       |          | [[ñanatusita-analysis#^-PC10]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC10]]
 > ◄  [[bni-pc9-brahmali-pali]] 📜  [[bni-pc11-brahmali-pali]] ►

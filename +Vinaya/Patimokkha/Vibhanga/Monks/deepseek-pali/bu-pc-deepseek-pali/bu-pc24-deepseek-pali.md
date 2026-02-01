@@ -4,7 +4,7 @@ vin_title: "Āmisa - Teaching Nuns for Profit"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC24]]
 > ◄  [[bu-pc23-deepseek-pali]] 📜  [[bu-pc25-deepseek-pali]] ►
 
 # BU-PC 24
@@ -63,5 +63,5 @@ The Fourth Training Rule Concerning Material Gain is concluded.
 >|       |          | [[ñanatusita-analysis#^PC24]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC24]]
 > ◄  [[bu-pc23-deepseek-pali]] 📜  [[bu-pc25-deepseek-pali]] ►

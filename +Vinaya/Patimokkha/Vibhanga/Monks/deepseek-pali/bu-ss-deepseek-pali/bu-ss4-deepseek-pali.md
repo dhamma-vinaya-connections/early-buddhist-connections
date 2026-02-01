@@ -4,7 +4,7 @@ vin_title: "Attakāmpāricariya - Encouraging Someone to Serve One’s Desires"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
 > ◄  [[bu-ss3-deepseek-pali]] 📜  [[bu-ss5-deepseek-pali]] ►
 
 # BU-SN 4
@@ -187,5 +187,5 @@ The fourth training rule, on attending to one's own desires, is concluded.
 >|       |          | [[ñanatusita-analysis#^SS4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
 > ◄  [[bu-ss3-deepseek-pali]] 📜  [[bu-ss5-deepseek-pali]] ►

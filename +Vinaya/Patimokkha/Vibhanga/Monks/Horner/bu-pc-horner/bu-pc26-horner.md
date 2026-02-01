@@ -4,7 +4,7 @@ vin_title: "Cīvarasibbana - Robes Sewing"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC26]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC26]]
 > ◄  [[bu-pc25-horner]] 📜  [[bu-pc27-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 26
@@ -89,5 +89,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC26]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC26]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC26]]
 > ◄  [[bu-pc25-horner]] 📜  [[bu-pc27-horner]] ►

@@ -4,7 +4,7 @@ vin_title: "Aṅgulipatodaka - Tinkling"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC52]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC52]]
 > ◄  [[bu-pc51-deepseek-pali]] 📜  [[bu-pc53-deepseek-pali]] ►
 
 # BU-PC 52
@@ -55,5 +55,5 @@ The second Training Rule on Poking with a Finger is concluded.
 >|       |          | [[ñanatusita-analysis#^PC52]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC52]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC52]]
 > ◄  [[bu-pc51-deepseek-pali]] 📜  [[bu-pc53-deepseek-pali]] ►

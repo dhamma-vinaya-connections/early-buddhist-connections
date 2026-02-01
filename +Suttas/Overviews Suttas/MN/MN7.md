@@ -47,7 +47,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA13.5]]; [[MA93]]; [[SA-2.98]]; [[SA1185]]"
 parallels_partilal: "[[EA13.5]]; [[MA93]]; [[SA-2.98]]; [[SA1185]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN6]]  🌐 [[MN8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN6]]  🌐 [[MN8]] ►
 
 # MN7 - Vattha Sutta - Simile of the Cloth
 ## 🌐 Overview
@@ -107,10 +107,10 @@ They meditate spreading a heart full of love, compassion, rejoice and equanimity
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN7%5D%5D%22%23mynotes%20-file%3Amn7-%20-file%3A%22MN6%22%20-file%3A%22MN8%22%20-file%3A%22MN7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn7
 > - The Buddhas Words: https://thebuddhaswords.net/mn/mn7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN6]]  🌐 [[MN8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN6]]  🌐 [[MN8]] ►

@@ -4,7 +4,7 @@ vin_title: "Samasūpaka - Even Measure of Curry"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK34]]
 > ◄  [[bu-sk33-deepseek-pali]] 📜  [[bu-sk35-deepseek-pali]] ►
 
 # BU-SK 34
@@ -43,5 +43,5 @@ The third training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK34]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK34]]
 > ◄  [[bu-sk33-deepseek-pali]] 📜  [[bu-sk35-deepseek-pali]] ►

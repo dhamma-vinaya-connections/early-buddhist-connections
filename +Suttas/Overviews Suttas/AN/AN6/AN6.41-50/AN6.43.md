@@ -38,7 +38,7 @@ parallels_nikaya: "[[THAG15.2]]"
 parallels_agama: "[[MA118]]"
 parallels_partilal: "[[MA118]], [[THAG15.2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.42]]  🌐 [[AN6.44]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.42]]  🌐 [[AN6.44]] ►
 
 # AN6.43 - Naga - Giant
 ## 🌐 Overview
@@ -86,10 +86,10 @@ He’s freed like gold from stone
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.43%5D%5D%22%23mynotes%20-file%3Aan6.43-%20-file%3A%22AN6.42%22%20-file%3A%22AN6.44%22%20-file%3A%22AN6.43%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.43/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.43
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.43.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.42]]  🌐 [[AN6.44]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.42]]  🌐 [[AN6.44]] ►

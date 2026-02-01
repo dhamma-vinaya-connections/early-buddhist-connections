@@ -4,7 +4,7 @@ vin_title: "Gihinī-ummaddāpana - Getting Laywomen to Massage"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC93]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC93]]
 > ◄  [[bni-pc92-brahmali-pali]] 📜  [[bni-pc94-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -102,5 +102,5 @@ p_2V_3500Aṭṭhama-navama-dasamasikkhāpadāni niṭṭhitāni.
 >|       |          | [[ñanatusita-analysis#^-PC93]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC93]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC93]]
 > ◄  [[bni-pc92-brahmali-pali]] 📜  [[bni-pc94-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Kuṭikāra - Building a Hut"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
 > ◄  [[bu-ss5-horner]] 📜  [[bu-ss7-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 6
@@ -280,5 +280,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
 > ◄  [[bu-ss5-horner]] 📜  [[bu-ss7-horner]] ►

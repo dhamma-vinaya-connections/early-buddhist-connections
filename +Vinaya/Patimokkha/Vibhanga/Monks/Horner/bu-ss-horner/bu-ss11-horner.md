@@ -4,7 +4,7 @@ vin_title: "Bhedānuvattaka - Schismatic Followers"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS11]]
 > ◄  [[bu-ss10-horner]] 📜  [[bu-ss12-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 11
@@ -81,5 +81,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS11]]
 > ◄  [[bu-ss10-horner]] 📜  [[bu-ss12-horner]] ►

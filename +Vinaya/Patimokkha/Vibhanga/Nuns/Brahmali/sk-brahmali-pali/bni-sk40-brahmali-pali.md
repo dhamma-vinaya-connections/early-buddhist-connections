@@ -4,7 +4,7 @@ vin_title: "Parimaṇḍala - Round Mouthful"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK40]]
 > ◄  [[bni-sk39-brahmali-pali]] 📜  [[bni-sk41-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -62,5 +62,5 @@ Sakkaccavaggo catuttho.
 >|       |          | [[ñanatusita-analysis#^-SK40]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK40]]
 > ◄  [[bni-sk39-brahmali-pali]] 📜  [[bni-sk41-brahmali-pali]] ►

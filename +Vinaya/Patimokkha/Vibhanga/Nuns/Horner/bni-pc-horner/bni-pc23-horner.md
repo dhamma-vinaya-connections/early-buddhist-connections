@@ -4,7 +4,7 @@ vin_title: "Cīvarasibbana - Sewing Robes"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC23]]
 > ◄  [[bni-pc22-horner]] 📜  [[bni-pc24-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 23
@@ -75,5 +75,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC23]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC23]]
 > ◄  [[bni-pc22-horner]] 📜  [[bni-pc24-horner]] ►

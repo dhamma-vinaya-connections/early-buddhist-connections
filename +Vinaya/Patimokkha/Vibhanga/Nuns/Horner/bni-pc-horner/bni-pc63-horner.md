@@ -4,7 +4,7 @@ vin_title: "Asikkhita-sikkhamānā - Ordaining Untrained Candidate"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC63]]
 > ◄  [[bni-pc62-horner]] 📜  [[bni-pc64-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 63
@@ -65,5 +65,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC63]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC63]]
 > ◄  [[bni-pc62-horner]] 📜  [[bni-pc64-horner]] ►

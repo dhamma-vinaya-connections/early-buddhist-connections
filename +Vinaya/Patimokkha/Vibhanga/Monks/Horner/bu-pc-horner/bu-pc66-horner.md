@@ -4,7 +4,7 @@ vin_title: "Theyyasattha - Traveling with Thieves"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC66]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC66]]
 > ◄  [[bu-pc65-horner]] 📜  [[bu-pc67-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 66
@@ -73,5 +73,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC66]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC66]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC66]]
 > ◄  [[bu-pc65-horner]] 📜  [[bu-pc67-horner]] ►

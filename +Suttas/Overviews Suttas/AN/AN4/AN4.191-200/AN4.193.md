@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN3.65]], [[AN8.44]], [[MN56]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.192]]  🌐 [[AN4.194]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.192]]  🌐 [[AN4.194]] ►
 
 # AN4.193 - Bhaddiya - With Bhaddiya
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN3.65]], [[AN8.44]], [[MN56]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.193%5D%5D%22%23mynotes%20-file%3Aan4.193-%20-file%3A%22AN4.192%22%20-file%3A%22AN4.194%22%20-file%3A%22AN4.193%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.193/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.193
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.193.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.192]]  🌐 [[AN4.194]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.192]]  🌐 [[AN4.194]] ►

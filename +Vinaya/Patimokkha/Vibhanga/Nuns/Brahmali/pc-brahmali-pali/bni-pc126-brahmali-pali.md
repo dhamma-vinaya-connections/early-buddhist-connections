@@ -4,7 +4,7 @@ vin_title: "Rahonisajja - Sitting in Private"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC126]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC126]]
 > ◄  [[bni-pc125-brahmali-pali]] 📜  [[bni-pc127-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -126,5 +126,5 @@ Amātugāme mātugāmasaññī, āpatti dukkaṭassa. Amātugāme vematiko, āpa
 >|       |          | [[ñanatusita-analysis#^-PC126]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC126]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC126]]
 > ◄  [[bni-pc125-brahmali-pali]] 📜  [[bni-pc127-brahmali-pali]] ►

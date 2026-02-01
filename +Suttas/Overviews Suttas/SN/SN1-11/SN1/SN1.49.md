@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.48]]  🌐 [[SN1.50]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.48]]  🌐 [[SN1.50]] ►
 
 # SN1.49 - Maccharisutta - Stingy
 ## 🌐 Overview
@@ -88,10 +88,10 @@ These brighten up the heavens
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.49%5D%5D%22%23mynotes%20-file%3Asn1.49-%20-file%3A%22SN1.48%22%20-file%3A%22SN1.50%22%20-file%3A%22SN1.49%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.49/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.49
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.49.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.48]]  🌐 [[SN1.50]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.48]]  🌐 [[SN1.50]] ►

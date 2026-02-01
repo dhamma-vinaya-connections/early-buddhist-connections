@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA37.9]]"
 parallels_partilal: "[[EA37.9]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.49]]  🌐 [[AN7.51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.49]]  🌐 [[AN7.51]] ►
 
 # AN7.50 - Methuna - Sex
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA37.9]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.50%5D%5D%22%23mynotes%20-file%3Aan7.50-%20-file%3A%22AN7.49%22%20-file%3A%22AN7.51%22%20-file%3A%22AN7.50%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.50/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.50
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.50.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.49]]  🌐 [[AN7.51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.49]]  🌐 [[AN7.51]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP140]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP140]], [[AN5.174]], [[ITI30]], [[AN6.45]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI63]]  🌐 [[ITI65]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI63]]  🌐 [[ITI65]] ►
 
 # ITI64 - Addhā - Time
 ## 🌐 Overview
@@ -90,10 +90,10 @@ is said to be bathe   of evil.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI64%5D%5D%22%23mynotes%20-file%3Aiti64-%20-file%3A%22ITI63%22%20-file%3A%22ITI65%22%20-file%3A%22ITI64%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti64/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti64
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti64.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI63]]  🌐 [[ITI65]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI63]]  🌐 [[ITI65]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI27]]  🌐 [[ITI29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI27]]  🌐 [[ITI29]] ►
 
 # ITI28 - Dukkhavihara - Living in suffering
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI28%5D%5D%22%23mynotes%20-file%3Aiti28-%20-file%3A%22ITI27%22%20-file%3A%22ITI29%22%20-file%3A%22ITI28%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti28/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti28
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti28.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI27]]  🌐 [[ITI29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI27]]  🌐 [[ITI29]] ►

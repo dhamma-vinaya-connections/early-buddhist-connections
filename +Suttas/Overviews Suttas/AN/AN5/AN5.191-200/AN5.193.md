@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN46.55]]"
 parallels_agama: ""
 parallels_partilal: "[[SN46.55]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.192]]  🌐 [[AN5.194]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.192]]  🌐 [[AN5.194]] ►
 
 # AN5.193 - Saṅgārava - With Saṅgārava
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[SN46.55]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.193%5D%5D%22%23mynotes%20-file%3Aan5.193-%20-file%3A%22AN5.192%22%20-file%3A%22AN5.194%22%20-file%3A%22AN5.193%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.193/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.193
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.193.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.192]]  🌐 [[AN5.194]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.192]]  🌐 [[AN5.194]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[MN86]], [[SN1.36]], [[THAG16.8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP25]]  🌐 [[DN1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP25]]  🌐 [[DN1]] ►
 
 # DHP26 - Brāhmaṇavagga - Brahmins
 ## 🌐 Overview
@@ -94,10 +94,10 @@ that’s who I call a brahmin
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP26%5D%5D%22%23mynotes%20-file%3Adhp26-%20-file%3A%22DHP25%22%20-file%3A%22DN1%22%20-file%3A%22DHP26%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp26/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp26
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp26.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP25]]  🌐 [[DN1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP25]]  🌐 [[DN1]] ►

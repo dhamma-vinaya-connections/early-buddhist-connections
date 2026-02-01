@@ -4,7 +4,7 @@ vin_title: "Vikappana - Shared Ownership"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC140]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC140]]
 > ◄  [[bni-pc139-brahmali-pali]] 📜  [[bni-pc141-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -143,5 +143,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṁ, moghapurisa, bhikkhu
 >|       |          | [[ñanatusita-analysis#^-PC140]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC140]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC140]]
 > ◄  [[bni-pc139-brahmali-pali]] 📜  [[bni-pc141-brahmali-pali]] ►

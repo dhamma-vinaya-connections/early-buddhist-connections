@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.287]], [[SA1289]]"
 parallels_partilal: "[[SA-2.287]], [[SA1289]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.37]]  🌐 [[SN1.39]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.37]]  🌐 [[SN1.39]] ►
 
 # SN1.38 - Sakalikasutta - The Stone Splinter
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SA-2.287]], [[SA1289]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.38%5D%5D%22%23mynotes%20-file%3Asn1.38-%20-file%3A%22SN1.37%22%20-file%3A%22SN1.39%22%20-file%3A%22SN1.38%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.38/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.38
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.38.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.37]]  🌐 [[SN1.39]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.37]]  🌐 [[SN1.39]] ►

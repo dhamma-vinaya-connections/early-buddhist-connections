@@ -4,7 +4,7 @@ vin_title: "Sappāṇaka - Water Living Creatures Pouring"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
 > ◄  [[bu-pc61-brahmali-pali]] 📜  [[bu-pc63-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -92,5 +92,5 @@ Appāṇake sappāṇakasaññī, āpatti dukkaṭassa. Appāṇake vematiko, ā
 >|       |          | [[ñanatusita-analysis#^PC62]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
 > ◄  [[bu-pc61-brahmali-pali]] 📜  [[bu-pc63-brahmali-pali]] ►

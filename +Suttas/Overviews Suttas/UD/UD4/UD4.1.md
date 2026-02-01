@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN9.3]]"
 parallels_agama: "[[MA56]]"
 parallels_partilal: "[[AN9.3]], [[MA56]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.10]]  🌐 [[UD4.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.10]]  🌐 [[UD4.2]] ►
 
 # UD4.1 - Meghiya Sutta - Meghiya
 ## 🌐 Overview
@@ -87,10 +87,10 @@ a mendicant who has overcome dullness and drowsiness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD4.1%5D%5D%22%23mynotes%20-file%3Aud4.1-%20-file%3A%22UD3.10%22%20-file%3A%22UD4.2%22%20-file%3A%22UD4.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud4.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.1
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.10]]  🌐 [[UD4.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.10]]  🌐 [[UD4.2]] ►

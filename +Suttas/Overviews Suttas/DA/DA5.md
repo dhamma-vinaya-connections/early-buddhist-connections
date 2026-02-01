@@ -42,7 +42,7 @@ parallels_nikaya: "[[DN27]]"
 parallels_agama: "[[MA154]]"
 parallels_partilal: "[[DA18]], [[SN47.12]], [[AN1.277]], [[MN115]], [[DN1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA4]]  🌐 [[DA6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA4]]  🌐 [[DA6]] ►
 
 # DA5 - 弊宿 - Lesser Causality
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Because of enjoying taste, craving was born in beings, then vanity arouse, then 
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDA5%5D%5D%22%23mynotes%20-file%3Ada5-%20-file%3A%22DA4%22%20-file%3A%22DA6%22%20-file%3A%22DA5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/da5/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA4]]  🌐 [[DA6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA4]]  🌐 [[DA6]] ►

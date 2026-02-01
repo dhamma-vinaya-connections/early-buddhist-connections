@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN1.43]]"
 parallels_agama: "[[SA-2.136]], [[SA999]]"
 parallels_partilal: "[[SN1.43]], [[SA-2.136]], [[SA999]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[AN5.36]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.22]]  🌐 [[SN2.24]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.22]]  🌐 [[SN2.24]] ►
 
 # SN2.23 - Serīsutta - Seri
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SN1.43]], [[SA-2.136]], [[SA999]], [[SN3.22]], [[SN3.4]],
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.23%5D%5D%22%23mynotes%20-file%3Asn2.23-%20-file%3A%22SN2.22%22%20-file%3A%22SN2.24%22%20-file%3A%22SN2.23%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.23/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.23
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.23.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.22]]  🌐 [[SN2.24]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.22]]  🌐 [[SN2.24]] ►

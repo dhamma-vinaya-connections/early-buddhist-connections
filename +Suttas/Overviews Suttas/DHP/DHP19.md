@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP18]]  🌐 [[DHP20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP18]]  🌐 [[DHP20]] ►
 
 # DHP19 - Dhammaṭṭhavagga - Just
 ## 🌐 Overview
@@ -86,10 +86,10 @@ if they’re jealous, stingy, and devious
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP19%5D%5D%22%23mynotes%20-file%3Adhp19-%20-file%3A%22DHP18%22%20-file%3A%22DHP20%22%20-file%3A%22DHP19%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp19/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp19
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp19.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP18]]  🌐 [[DHP20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP18]]  🌐 [[DHP20]] ►

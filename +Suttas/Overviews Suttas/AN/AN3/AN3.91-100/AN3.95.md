@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN55.38]]"
 parallels_agama: ""
 parallels_partilal: "[[AN10.61]], [[AN10.62]], [[AN4.147]], [[SN55.38]], [[SN12.23]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.94]]  🌐 [[AN3.96]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.94]]  🌐 [[AN3.96]] ►
 
 # AN3.95 - Parisā - Assemblies
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[AN10.61]], [[AN10.62]], [[AN4.147]], [[SN55.38]], [[SN12.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.95%5D%5D%22%23mynotes%20-file%3Aan3.95-%20-file%3A%22AN3.94%22%20-file%3A%22AN3.96%22%20-file%3A%22AN3.95%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.95/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.95
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.95.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.94]]  🌐 [[AN3.96]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.94]]  🌐 [[AN3.96]] ►

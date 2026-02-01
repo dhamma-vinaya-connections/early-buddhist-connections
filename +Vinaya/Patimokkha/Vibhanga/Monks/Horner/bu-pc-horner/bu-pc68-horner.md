@@ -4,7 +4,7 @@ vin_title: "Antarāyika - Obstructions"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC68]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC68]]
 > ◄  [[bu-pc67-horner]] 📜  [[bu-pc69-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 68
@@ -81,5 +81,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC68]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC68]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC68]]
 > ◄  [[bu-pc67-horner]] 📜  [[bu-pc69-horner]] ►

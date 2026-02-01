@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN3.39]]"
 parallels_agama: "[[EA22.8]], [[MA117]]"
 parallels_partilal: "[[AN3.39]], [[MA117]], [[EA22.8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.56]]  🌐 [[AN5.58]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.56]]  🌐 [[AN5.58]] ►
 
 # AN5.57 - Abhiṇhapaccavekkhitabbaṭhāna - Subjects For Regular Reviewing
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN3.39]], [[MA117]], [[EA22.8]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.57%5D%5D%22%23mynotes%20-file%3Aan5.57-%20-file%3A%22AN5.56%22%20-file%3A%22AN5.58%22%20-file%3A%22AN5.57%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.57/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.57
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.57.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.56]]  🌐 [[AN5.58]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.56]]  🌐 [[AN5.58]] ►

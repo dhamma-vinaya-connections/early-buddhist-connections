@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA12]]"
 parallels_partilal: "[[MA12]], [[SN42.12]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.194]]  🌐 [[AN4.196]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.194]]  🌐 [[AN4.196]] ►
 
 # AN4.195 - With Vappa - With Vappa
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MA12]], [[SN42.12]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.195%5D%5D%22%23mynotes%20-file%3Aan4.195-%20-file%3A%22AN4.194%22%20-file%3A%22AN4.196%22%20-file%3A%22AN4.195%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.195/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.195
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.195.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.194]]  🌐 [[AN4.196]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.194]]  🌐 [[AN4.196]] ►

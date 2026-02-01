@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI60]]  🌐 [[ITI62]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI60]]  🌐 [[ITI62]] ►
 
 # ITI61 - Cakkhu - Eyes
 ## 🌐 Overview
@@ -85,10 +85,10 @@ the eye of discernment unsurpassed:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI61%5D%5D%22%23mynotes%20-file%3Aiti61-%20-file%3A%22ITI60%22%20-file%3A%22ITI62%22%20-file%3A%22ITI61%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti61/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti61
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti61.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI60]]  🌐 [[ITI62]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI60]]  🌐 [[ITI62]] ►

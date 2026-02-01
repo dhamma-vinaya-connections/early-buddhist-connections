@@ -4,7 +4,7 @@ vin_title: "Sikkhaṁpaccācikkhaṇa - Renouncing the Training"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS10]]
 > ◄  [[bni-ss9-brahmali-pali]] 📜  [[bni-ss11-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -180,5 +180,5 @@ Evañca pana, bhikkhave, samanubhāsitabbā. Byattāya bhikkhuniyā paṭibalāy
 >|       |          | [[ñanatusita-analysis#^-SS10]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS10]]
 > ◄  [[bni-ss9-brahmali-pali]] 📜  [[bni-ss11-brahmali-pali]] ►

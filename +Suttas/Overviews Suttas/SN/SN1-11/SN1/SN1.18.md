@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP143]]"
 parallels_agama: "[[SA-2.163]], [[SA578]]"
 parallels_partilal: "[[SA-2.163]], [[SA578]], [[DHP143]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.17]]  🌐 [[SN1.19]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.17]]  🌐 [[SN1.19]] ►
 
 # SN1.18 - Hirīsutta - A Sense of Shame
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Discontent, and grogginess, uncontrolled mind, conscience and shame
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.18%5D%5D%22%23mynotes%20-file%3Asn1.18-%20-file%3A%22SN1.17%22%20-file%3A%22SN1.19%22%20-file%3A%22SN1.18%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.18/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.18
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.18.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.17]]  🌐 [[SN1.19]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.17]]  🌐 [[SN1.19]] ►

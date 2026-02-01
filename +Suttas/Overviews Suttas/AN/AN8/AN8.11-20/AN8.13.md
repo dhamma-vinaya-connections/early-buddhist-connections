@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.14]]"
 parallels_agama: "[[SA-2.149]], [[SA-2.150]], [[SA924]], [[SA925]]"
 parallels_partilal: "[[SA-2.150]], [[SA925]], [[AN8.14]], [[SA-2.149]], [[SA924]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.12]]  🌐 [[AN8.14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.12]]  🌐 [[AN8.14]] ►
 
 # AN8.13 - Assājānīya - Thoroughbred
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[SA-2.150]], [[SA925]], [[AN8.14]], [[SA-2.149]], [[SA924]
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.13%5D%5D%22%23mynotes%20-file%3Aan8.13-%20-file%3A%22AN8.12%22%20-file%3A%22AN8.14%22%20-file%3A%22AN8.13%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.13
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.13.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.12]]  🌐 [[AN8.14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.12]]  🌐 [[AN8.14]] ►

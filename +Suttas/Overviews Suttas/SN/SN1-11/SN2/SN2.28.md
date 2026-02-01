@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN1.29]]"
 parallels_agama: "[[SA-2.172]], [[SA588]]"
 parallels_partilal: "[[SN1.29]], [[SA-2.172]], [[SA588]], [[PE5]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.27]]  🌐 [[SN2.29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.27]]  🌐 [[SN2.29]] ►
 
 # SN2.28 - Nandivisālasutta - Nandivisala
 ## 🌐 Overview
@@ -83,10 +83,10 @@ There is no release from suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.28%5D%5D%22%23mynotes%20-file%3Asn2.28-%20-file%3A%22SN2.27%22%20-file%3A%22SN2.29%22%20-file%3A%22SN2.28%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.28/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.28
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.28.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.27]]  🌐 [[SN2.29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.27]]  🌐 [[SN2.29]] ►

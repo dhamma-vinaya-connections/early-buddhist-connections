@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN4.38]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI54]]  🌐 [[ITI56]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI54]]  🌐 [[ITI56]] ►
 
 # ITI55 - Esanā - Searches
 ## 🌐 Overview
@@ -88,10 +88,10 @@ of longing.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI55%5D%5D%22%23mynotes%20-file%3Aiti55-%20-file%3A%22ITI54%22%20-file%3A%22ITI56%22%20-file%3A%22ITI55%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti55/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti55
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti55.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI54]]  🌐 [[ITI56]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI54]]  🌐 [[ITI56]] ►

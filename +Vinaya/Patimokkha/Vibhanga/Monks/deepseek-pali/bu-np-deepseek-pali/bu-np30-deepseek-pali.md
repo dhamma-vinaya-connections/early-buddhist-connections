@@ -4,7 +4,7 @@ vin_title: "Pariṇata - Offerings Intended for the Sangha"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP30]]
 > ◄  [[bu-np29-deepseek-pali]] 📜  [[BU-PC1]] ►
 
 # BU-NP 30
@@ -99,5 +99,5 @@ The Pārājika Pāḷi is concluded.
 >|       |          | [[ñanatusita-analysis#^NP30]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP30]]
 > ◄  [[bu-np29-deepseek-pali]] 📜  [[BU-PC1]] ►

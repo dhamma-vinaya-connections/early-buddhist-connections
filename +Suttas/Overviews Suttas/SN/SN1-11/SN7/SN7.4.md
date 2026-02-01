@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP125]]"
 parallels_agama: "[[SA-2.77]], [[SA1154]]"
 parallels_partilal: "[[SA-2.77]], [[SA1154]], [[DHP125]], [[JA367]], [[SN1.22]], [[SNP3.10]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.3]]  🌐 [[SN7.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.3]]  🌐 [[SN7.5]] ►
 
 # SN7.4 - Bilaṅgikasutta - Bilangika
 ## 🌐 Overview
@@ -84,10 +84,10 @@ You win a battle hard to win
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.4%5D%5D%22%23mynotes%20-file%3Asn7.4-%20-file%3A%22SN7.3%22%20-file%3A%22SN7.5%22%20-file%3A%22SN7.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.3]]  🌐 [[SN7.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.3]]  🌐 [[SN7.5]] ►

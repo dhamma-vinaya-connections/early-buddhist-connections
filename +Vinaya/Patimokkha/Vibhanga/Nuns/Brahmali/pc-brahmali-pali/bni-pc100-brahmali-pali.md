@@ -4,7 +4,7 @@ vin_title: "Padasodhamma - Dhamma Memorizing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC100]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC100]]
 > ◄  [[bni-pc99-brahmali-pali]] 📜  [[bni-pc101-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -118,5 +118,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, upāsak
 >|       |          | [[ñanatusita-analysis#^-PC100]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC100]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC100]]
 > ◄  [[bni-pc99-brahmali-pali]] 📜  [[bni-pc101-brahmali-pali]] ►

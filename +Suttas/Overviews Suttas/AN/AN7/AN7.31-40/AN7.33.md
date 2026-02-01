@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN6.33]], [[DHP32]]"
 parallels_agama: ""
 parallels_partilal: "[[AN6.33]], [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.32]]  🌐 [[AN7.34]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.32]]  🌐 [[AN7.34]] ►
 
 # AN7.33 - Appamādagārava - Diligence Respect
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN6.33]], [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], 
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.33%5D%5D%22%23mynotes%20-file%3Aan7.33-%20-file%3A%22AN7.32%22%20-file%3A%22AN7.34%22%20-file%3A%22AN7.33%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.33/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.33
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.33.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.32]]  🌐 [[AN7.34]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.32]]  🌐 [[AN7.34]] ►

@@ -4,7 +4,7 @@ vin_title: "Pasākhejāta - Medical Treament Below the Navel"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC60]]
 > ◄  [[bni-pc59-horner]] 📜  [[bni-pc61-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 60
@@ -73,5 +73,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC60]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC60]]
 > ◄  [[bni-pc59-horner]] 📜  [[bni-pc61-horner]] ►

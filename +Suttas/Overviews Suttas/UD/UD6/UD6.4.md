@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.3]]  🌐 [[UD6.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.3]]  🌐 [[UD6.5]] ►
 
 # UD6.4 - Pathamananatitthiya Sutta - Sectarians (1)
 ## 🌐 Overview
@@ -94,10 +94,10 @@ they don’t escape transmigration
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD6.4%5D%5D%22%23mynotes%20-file%3Aud6.4-%20-file%3A%22UD6.3%22%20-file%3A%22UD6.5%22%20-file%3A%22UD6.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud6.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.4
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.3]]  🌐 [[UD6.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.3]]  🌐 [[UD6.5]] ►

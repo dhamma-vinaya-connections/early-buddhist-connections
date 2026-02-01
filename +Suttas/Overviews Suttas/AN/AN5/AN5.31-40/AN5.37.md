@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA32.11]]"
 parallels_partilal: "[[EA32.11]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.36]]  🌐 [[AN5.38]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.36]]  🌐 [[AN5.38]] ►
 
 # AN5.37 - Bhojana - Food
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA32.11]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.37%5D%5D%22%23mynotes%20-file%3Aan5.37-%20-file%3A%22AN5.36%22%20-file%3A%22AN5.38%22%20-file%3A%22AN5.37%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.37/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.37
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.37.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.36]]  🌐 [[AN5.38]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.36]]  🌐 [[AN5.38]] ►

@@ -4,7 +4,7 @@ vin_title: "Ubbhajāṇumaṇḍalikā - Above the knees"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ5]]
 > ◄  [[bni-pj4-brahmali-pali]] 📜  [[bni-pj6-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -298,5 +298,5 @@ p_2V_2132 Nissaggiyena kāyaṁ āmasati, āpatti dukkaṭassa. Nissaggiyena kā
 >|       |          | [[ñanatusita-analysis#^-PJ5]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ5]]
 > ◄  [[bni-pj4-brahmali-pali]] 📜  [[bni-pj6-brahmali-pali]] ►

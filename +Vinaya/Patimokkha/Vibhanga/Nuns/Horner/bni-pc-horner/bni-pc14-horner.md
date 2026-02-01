@@ -4,7 +4,7 @@ vin_title: "Dutiyikauyyojana - Dismissing a Companion"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC14]]
 > ◄  [[bni-pc13-horner]] 📜  [[bni-pc15-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 14
@@ -71,5 +71,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC14]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC14]]
 > ◄  [[bni-pc13-horner]] 📜  [[bni-pc15-horner]] ►

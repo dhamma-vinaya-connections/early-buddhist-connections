@@ -4,7 +4,7 @@ vin_title: "Ukkhittānuvattikā - Siding with One Ejected"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ7]]
 > ◄  [[bni-pj6-brahmali-pali]] 📜  [[bni-pj8-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -192,5 +192,5 @@ Sā bhikkhunī samanubhāsitabbā. Evañca pana, bhikkhave, samanubhāsitabbā. 
 >|       |          | [[ñanatusita-analysis#^-PJ7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ7]]
 > ◄  [[bni-pj6-brahmali-pali]] 📜  [[bni-pj8-brahmali-pali]] ►

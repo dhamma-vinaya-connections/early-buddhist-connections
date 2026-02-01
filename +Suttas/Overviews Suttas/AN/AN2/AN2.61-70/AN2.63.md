@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.62]]  🌐 [[AN2.64]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.62]]  🌐 [[AN2.64]] ►
 
 # AN2.63 - Puggala - Persons
 ## 🌐 Overview
@@ -81,10 +81,10 @@ Long, fractious, and troublesome
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.63%5D%5D%22%23mynotes%20-file%3Aan2.63-%20-file%3A%22AN2.62%22%20-file%3A%22AN2.64%22%20-file%3A%22AN2.63%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.63/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.63
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.63.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.62]]  🌐 [[AN2.64]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.62]]  🌐 [[AN2.64]] ►

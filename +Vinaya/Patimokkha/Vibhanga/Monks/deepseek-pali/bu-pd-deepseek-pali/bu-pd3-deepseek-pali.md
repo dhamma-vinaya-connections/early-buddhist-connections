@@ -4,7 +4,7 @@ vin_title: "Tatiyapāṭidesanīya - Receiving Food From Designated Families"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD3]]
 > ◄  [[bu-pd2-deepseek-pali]] 📜  [[bu-pd4-deepseek-pali]] ►
 
 # BU-PD 3
@@ -131,5 +131,5 @@ The Third Training Rule Requiring Acknowledgment is concluded.
 >|       |          | [[ñanatusita-analysis#^PD3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD3]]
 > ◄  [[bu-pd2-deepseek-pali]] 📜  [[bu-pd4-deepseek-pali]] ►

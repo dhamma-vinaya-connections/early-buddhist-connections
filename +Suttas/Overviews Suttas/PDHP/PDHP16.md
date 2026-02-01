@@ -42,7 +42,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP15]]  🌐 [[PDHP17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP15]]  🌐 [[PDHP17]] ►
 
 # PDHP16 - Śaraṇavagga - Refuge
 ## 🌐 Overview
@@ -93,10 +93,10 @@ That is a secure refuge,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BPDHP16%5D%5D%22%23mynotes%20-file%3Apdhp16-%20-file%3A%22PDHP15%22%20-file%3A%22PDHP17%22%20-file%3A%22PDHP16%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pdhp16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp16
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp16.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP15]]  🌐 [[PDHP17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP15]]  🌐 [[PDHP17]] ►

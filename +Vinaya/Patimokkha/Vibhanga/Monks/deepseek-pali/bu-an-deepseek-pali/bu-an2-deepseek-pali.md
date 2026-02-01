@@ -4,7 +4,7 @@ vin_title: "Dutiyaaniyata - Undetermined Offense 2nd"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN2]]
 > ◄  [[bu-an1-deepseek-pali]] 📜  [[BU-NP1]] ►
 
 # BU-AN 2
@@ -151,5 +151,5 @@ The Section on the Indeterminate Rules is Concluded.
 >|       |          | [[ñanatusita-analysis#^AN2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN2]]
 > ◄  [[bu-an1-deepseek-pali]] 📜  [[BU-NP1]] ►

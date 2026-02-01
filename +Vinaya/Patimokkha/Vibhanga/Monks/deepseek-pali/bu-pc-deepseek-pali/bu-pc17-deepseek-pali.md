@@ -4,7 +4,7 @@ vin_title: "Nikkaḍḍhana - Throwing Out"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
 > ◄  [[bu-pc16-deepseek-pali]] 📜  [[bu-pc18-deepseek-pali]] ►
 
 # BU-PC 17
@@ -83,5 +83,5 @@ The Seventh Training Rule on Expulsion is finished.
 >|       |          | [[ñanatusita-analysis#^PC17]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
 > ◄  [[bu-pc16-deepseek-pali]] 📜  [[bu-pc18-deepseek-pali]] ►

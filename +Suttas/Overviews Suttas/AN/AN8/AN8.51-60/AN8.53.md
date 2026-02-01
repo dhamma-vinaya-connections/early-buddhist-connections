@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PLI-TV-KD20]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.52]]  🌐 [[AN8.54]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.52]]  🌐 [[AN8.54]] ►
 
 # AN8.53 - Saṃkhitta - Advice To Gotamī
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[PLI-TV-KD20]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.53%5D%5D%22%23mynotes%20-file%3Aan8.53-%20-file%3A%22AN8.52%22%20-file%3A%22AN8.54%22%20-file%3A%22AN8.53%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.53/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.53
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.53.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.52]]  🌐 [[AN8.54]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.52]]  🌐 [[AN8.54]] ►

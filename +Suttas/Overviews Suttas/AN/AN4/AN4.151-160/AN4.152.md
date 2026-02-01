@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-3.18]], [[SA667]]"
 parallels_partilal: "[[SA-3.18]], [[SA667]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.151]]  🌐 [[AN4.153]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.151]]  🌐 [[AN4.153]] ►
 
 # AN4.152 - Indriya - Faculties
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-3.18]], [[SA667]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.152%5D%5D%22%23mynotes%20-file%3Aan4.152-%20-file%3A%22AN4.151%22%20-file%3A%22AN4.153%22%20-file%3A%22AN4.152%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.152/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.152
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.152.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.151]]  🌐 [[AN4.153]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.151]]  🌐 [[AN4.153]] ►

@@ -4,7 +4,7 @@ vin_title: "Aphāsukaraṇa - Making Ill at Ease"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC33]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC33]]
 > ◄  [[bni-pc32-brahmali-pali]] 📜  [[bni-pc34-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -106,5 +106,5 @@ p_2V_2911Tatiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC33]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC33]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC33]]
 > ◄  [[bni-pc32-brahmali-pali]] 📜  [[bni-pc34-brahmali-pali]] ►

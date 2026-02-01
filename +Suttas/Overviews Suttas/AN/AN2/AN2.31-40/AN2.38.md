@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA19.9]], [[SA547]]"
 parallels_partilal: "[[EA19.9]], [[SA547]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.37]]  🌐 [[AN2.39]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.37]]  🌐 [[AN2.39]] ►
 
 # AN2.38 - Kandarayana - Kandarayana
 ## 🌐 Overview
@@ -84,10 +84,10 @@ They are reckoned as a child, not a senior
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.38%5D%5D%22%23mynotes%20-file%3Aan2.38-%20-file%3A%22AN2.37%22%20-file%3A%22AN2.39%22%20-file%3A%22AN2.38%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.38/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.38
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.38.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.37]]  🌐 [[AN2.39]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.37]]  🌐 [[AN2.39]] ►

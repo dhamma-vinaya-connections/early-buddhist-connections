@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN1.1-5]]"
 parallels_agama: "[[EA9.7]]"
 parallels_partilal: "[[EA9.7]], [[AN1.1-5]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA9.6]]  🌐 [[EA9.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA9.6]]  🌐 [[EA9.8]] ►
 
 # EA9.7 - EA 9.7 - A Man’s Perception
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA9.7]], [[AN1.1-5]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BEA9.7%5D%5D%22%23mynotes%20-file%3Aea9.7-%20-file%3A%22EA9.6%22%20-file%3A%22EA9.8%22%20-file%3A%22EA9.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ea9.7/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA9.6]]  🌐 [[EA9.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA9.6]]  🌐 [[EA9.8]] ►

@@ -4,7 +4,7 @@ vin_title: "Adinnādāna - Theft"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ2]]
 > ◄  [[bu-pj1-deepseek-pali]] 📜  [[bu-pj3-deepseek-pali]] ►
 
 # BU-PJ 2
@@ -745,5 +745,5 @@ The second Pārājika is concluded.
 >|       |          | [[ñanatusita-analysis#^PJ2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ2]]
 > ◄  [[bu-pj1-deepseek-pali]] 📜  [[bu-pj3-deepseek-pali]] ►

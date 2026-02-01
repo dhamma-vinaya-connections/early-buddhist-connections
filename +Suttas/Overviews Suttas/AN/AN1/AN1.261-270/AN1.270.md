@@ -38,7 +38,7 @@ parallels_nikaya: "[[MN115]]"
 parallels_agama: "[[MA181]]"
 parallels_partilal: "[[MN115]], [[MA181]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.269]]  🌐 [[AN1.271-276]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.269]]  🌐 [[AN1.271-276]] ►
 
 # AN1.270 - Aṭṭhāna - Impossible
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MN115]], [[MA181]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.270%5D%5D%22%23mynotes%20-file%3Aan1.270-%20-file%3A%22AN1.269%22%20-file%3A%22AN1.271-276%22%20-file%3A%22AN1.270%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.270/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.270
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.270.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.269]]  🌐 [[AN1.271-276]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.269]]  🌐 [[AN1.271-276]] ►

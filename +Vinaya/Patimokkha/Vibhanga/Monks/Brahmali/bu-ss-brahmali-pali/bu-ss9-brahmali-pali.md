@@ -4,7 +4,7 @@ vin_title: "Aññabhāgiya - Accusation Out of Anger on an Irrelevant Pretext"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
 > ◄  [[bu-ss8-brahmali-pali]] 📜  [[bu-ss10-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -302,5 +302,5 @@ Vivādādhikaraṇaṁ anuvādādhikaraṇassa āpattādhikaraṇassa kiccādhik
 >|       |          | [[ñanatusita-analysis#^SS9]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
 > ◄  [[bu-ss8-brahmali-pali]] 📜  [[bu-ss10-brahmali-pali]] ►

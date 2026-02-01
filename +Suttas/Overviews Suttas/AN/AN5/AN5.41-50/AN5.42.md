@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.38]], [[DHP230]]"
 parallels_agama: ""
 parallels_partilal: "[[AN8.38]], [[DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.41]]  🌐 [[AN5.43]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.41]]  🌐 [[AN5.43]] ►
 
 # AN5.42 - Sappurisa - Good Person
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[AN8.38]], [[DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.42%5D%5D%22%23mynotes%20-file%3Aan5.42-%20-file%3A%22AN5.41%22%20-file%3A%22AN5.43%22%20-file%3A%22AN5.42%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.42/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.42
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.42.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.41]]  🌐 [[AN5.43]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.41]]  🌐 [[AN5.43]] ►

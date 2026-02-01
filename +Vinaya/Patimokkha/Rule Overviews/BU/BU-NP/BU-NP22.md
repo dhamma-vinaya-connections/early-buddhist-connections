@@ -25,7 +25,7 @@ vin_sangha_acts:
 vin_gender: "Monks"
 vin_gender-corr: "BNI-NP24"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP21]] 🌐 [[BU-NP23]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP21]] 🌐 [[BU-NP23]] ►
 
 # Monks - Nissaggiya Pacittiya - Relinquish with confession
 ## Pattavagga - Bowl
@@ -88,8 +88,8 @@ vin_gender-corr: "BNI-NP24"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBU-NP22%5D%5D%22%23mynotes%20-file%3Abu-np22-%20-file%3A%22BU-NP22%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+> [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-np?view=normal
 
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP21]] 🌐 [[BU-NP23]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-NP21]] 🌐 [[BU-NP23]] ►

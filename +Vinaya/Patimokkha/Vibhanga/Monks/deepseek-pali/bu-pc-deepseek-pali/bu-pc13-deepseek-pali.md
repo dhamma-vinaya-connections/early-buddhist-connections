@@ -4,7 +4,7 @@ vin_title: "Ujjhāpanaka - Complaining"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
 > ◄  [[bu-pc12-deepseek-pali]] 📜  [[bu-pc14-deepseek-pali]] ►
 
 # BU-PC 13
@@ -63,5 +63,5 @@ The third training rule on finding fault is finished.
 >|       |          | [[ñanatusita-analysis#^PC13]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
 > ◄  [[bu-pc12-deepseek-pali]] 📜  [[bu-pc14-deepseek-pali]] ►

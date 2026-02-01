@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SNP3.12]], [[PE1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.8]]  🌐 [[UD4.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.8]]  🌐 [[UD4.10]] ►
 
 # UD4.9 - Upasena Vangantaputta Sutta - Upasena Vangantaputta
 ## 🌐 Overview
@@ -92,10 +92,10 @@ they’re freed from Māra’s bonds.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD4.9%5D%5D%22%23mynotes%20-file%3Aud4.9-%20-file%3A%22UD4.8%22%20-file%3A%22UD4.10%22%20-file%3A%22UD4.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud4.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.9
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.8]]  🌐 [[UD4.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.8]]  🌐 [[UD4.10]] ►

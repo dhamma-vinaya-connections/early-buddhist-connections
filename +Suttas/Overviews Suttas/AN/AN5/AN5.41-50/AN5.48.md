@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA34.6]]"
 parallels_partilal: "[[EA34.6]], [[JA368]], [[AN5.50]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.47]]  🌐 [[AN5.49]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.47]]  🌐 [[AN5.49]] ►
 
 # AN5.48 - Alabbhanīyaṭhāna - Cannot Be Had
 ## 🌐 Overview
@@ -82,10 +82,10 @@ As they’re able to assess what’s beneficial
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.48%5D%5D%22%23mynotes%20-file%3Aan5.48-%20-file%3A%22AN5.47%22%20-file%3A%22AN5.49%22%20-file%3A%22AN5.48%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.48/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.48
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.48.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.47]]  🌐 [[AN5.49]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.47]]  🌐 [[AN5.49]] ►

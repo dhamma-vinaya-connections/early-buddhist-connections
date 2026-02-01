@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.313]], [[SA-2.323]], [[SA1314]], [[SA1324]]"
 parallels_partilal: "[[SA-2.323]], [[SA-2.313]], [[SA1324]], [[SA1314]], [[SN10.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.4]]  🌐 [[SNP2.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.4]]  🌐 [[SNP2.6]] ►
 
 # SNP2.5 - Sūciloma - Spiky Spirit
 ## 🌐 Overview
@@ -92,10 +92,10 @@ of a banyan tree, attached to sensuality,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP2.5%5D%5D%22%23mynotes%20-file%3Asnp2.5-%20-file%3A%22SNP2.4%22%20-file%3A%22SNP2.6%22%20-file%3A%22SNP2.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp2.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.5
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.4]]  🌐 [[SNP2.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.4]]  🌐 [[SNP2.6]] ►

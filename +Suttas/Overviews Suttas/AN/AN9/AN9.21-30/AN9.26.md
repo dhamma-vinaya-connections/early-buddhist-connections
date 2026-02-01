@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA499]]"
 parallels_partilal: "[[SA499]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.25]]  🌐 [[AN9.27]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.25]]  🌐 [[AN9.27]] ►
 
 # AN9.26 - Paññā - Consolidated By Wisdom
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[SA499]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.26%5D%5D%22%23mynotes%20-file%3Aan9.26-%20-file%3A%22AN9.25%22%20-file%3A%22AN9.27%22%20-file%3A%22AN9.26%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.26/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.26
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.26.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.25]]  🌐 [[AN9.27]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.25]]  🌐 [[AN9.27]] ►

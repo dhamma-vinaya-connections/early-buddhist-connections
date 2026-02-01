@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN6.24]], [[AN7.40]]"
 parallels_agama: ""
 parallels_partilal: "[[AN6.24]], [[AN7.40]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.71]]  🌐 [[AN6.73]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.71]]  🌐 [[AN6.73]] ►
 
 # AN6.72 - Bala - Strength
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN6.24]], [[AN7.40]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.72%5D%5D%22%23mynotes%20-file%3Aan6.72-%20-file%3A%22AN6.71%22%20-file%3A%22AN6.73%22%20-file%3A%22AN6.72%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.72/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.72
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.72.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.71]]  🌐 [[AN6.73]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.71]]  🌐 [[AN6.73]] ►

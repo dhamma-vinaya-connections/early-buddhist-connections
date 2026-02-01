@@ -4,7 +4,7 @@ vin_title: "Pahāra - Hitting"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC74]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC74]]
 > ◄  [[bu-pc73-deepseek-pali]] 📜  [[bu-pc75-deepseek-pali]] ►
 
 # BU-PC 74
@@ -67,5 +67,5 @@ The fourth training rule on striking is concluded.
 >|       |          | [[ñanatusita-analysis#^PC74]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC74]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC74]]
 > ◄  [[bu-pc73-deepseek-pali]] 📜  [[bu-pc75-deepseek-pali]] ►

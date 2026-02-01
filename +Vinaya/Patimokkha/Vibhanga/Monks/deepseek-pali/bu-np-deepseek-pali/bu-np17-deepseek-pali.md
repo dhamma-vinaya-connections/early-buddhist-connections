@@ -4,7 +4,7 @@ vin_title: "Eḷakalomadhovāpana - Bhikkhuni Made to Wash Wool"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP17]]
 > ◄  [[bu-np16-deepseek-pali]] 📜  [[bu-np18-deepseek-pali]] ►
 
 # BU-NP 17
@@ -79,5 +79,5 @@ The seventh training rule, that on having wool washed, is concluded.
 >|       |          | [[ñanatusita-analysis#^NP17]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP17]]
 > ◄  [[bu-np16-deepseek-pali]] 📜  [[bu-np18-deepseek-pali]] ►

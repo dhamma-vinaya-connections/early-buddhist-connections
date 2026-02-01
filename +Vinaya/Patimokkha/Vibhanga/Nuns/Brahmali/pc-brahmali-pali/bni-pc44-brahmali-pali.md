@@ -4,7 +4,7 @@ vin_title: "Gihiveyyāvacca - Serving Householders"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC44]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC44]]
 > ◄  [[bni-pc43-brahmali-pali]] 📜  [[bni-pc45-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -80,5 +80,5 @@ p_2V_3024Catutthasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC44]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC44]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC44]]
 > ◄  [[bni-pc43-brahmali-pali]] 📜  [[bni-pc45-brahmali-pali]] ►

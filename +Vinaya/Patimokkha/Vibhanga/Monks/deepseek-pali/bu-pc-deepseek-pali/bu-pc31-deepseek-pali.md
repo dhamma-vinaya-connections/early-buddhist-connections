@@ -4,7 +4,7 @@ vin_title: "Āvasathapiṇḍa - Eating at a Public Guest-house"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC31]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC31]]
 > ◄  [[bu-pc30-deepseek-pali]] 📜  [[bu-pc32-deepseek-pali]] ►
 
 # BU-PC 31
@@ -79,5 +79,5 @@ The first training rule, concerning almsfood at a lodging, is finished.
 >|       |          | [[ñanatusita-analysis#^PC31]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC31]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC31]]
 > ◄  [[bu-pc30-deepseek-pali]] 📜  [[bu-pc32-deepseek-pali]] ►

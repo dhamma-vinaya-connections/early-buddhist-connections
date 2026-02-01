@@ -4,7 +4,7 @@ vin_title: "Ūnavīsativassa - Ordaining Under 20"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
 > ◄  [[bu-pc64-deepseek-pali]] 📜  [[bu-pc66-deepseek-pali]] ►
 
 # BU-PC 65
@@ -71,5 +71,5 @@ The fifth training rule, concerning one under twenty years of age, is finished.
 >|       |          | [[ñanatusita-analysis#^PC65]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]
 > ◄  [[bu-pc64-deepseek-pali]] 📜  [[bu-pc66-deepseek-pali]] ►

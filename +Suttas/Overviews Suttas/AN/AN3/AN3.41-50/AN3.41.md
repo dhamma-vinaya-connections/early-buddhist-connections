@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA24.7]]"
 parallels_partilal: "[[EA24.7]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.40]]  🌐 [[AN3.42]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.40]]  🌐 [[AN3.42]] ►
 
 # AN3.41 - Sammukhībhāva - Present
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA24.7]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.41%5D%5D%22%23mynotes%20-file%3Aan3.41-%20-file%3A%22AN3.40%22%20-file%3A%22AN3.42%22%20-file%3A%22AN3.41%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.41/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.41
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.41.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.40]]  🌐 [[AN3.42]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.40]]  🌐 [[AN3.42]] ►

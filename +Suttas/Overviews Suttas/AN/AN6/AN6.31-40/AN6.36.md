@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DN33]], [[MN104]], [[PLI-TV-KD14]], [[PLI-TV-PVR4]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.35]]  🌐 [[AN6.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.35]]  🌐 [[AN6.37]] ►
 
 # AN6.36 - Vivādamūla - Roots Of Quarrels
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[DN33]], [[MN104]], [[PLI-TV-KD14]], [[PLI-TV-PVR4]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.36%5D%5D%22%23mynotes%20-file%3Aan6.36-%20-file%3A%22AN6.35%22%20-file%3A%22AN6.37%22%20-file%3A%22AN6.36%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.36
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.36.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.35]]  🌐 [[AN6.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.35]]  🌐 [[AN6.37]] ►

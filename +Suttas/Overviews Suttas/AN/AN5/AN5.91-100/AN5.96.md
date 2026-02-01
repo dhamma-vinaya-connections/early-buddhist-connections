@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA801]]"
 parallels_partilal: "[[SA801]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.95]]  🌐 [[AN5.97]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.95]]  🌐 [[AN5.97]] ►
 
 # AN5.96 - Sutadhara - Remembering What You’ve Learned
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA801]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.96%5D%5D%22%23mynotes%20-file%3Aan5.96-%20-file%3A%22AN5.95%22%20-file%3A%22AN5.97%22%20-file%3A%22AN5.96%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.96/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.96
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.96.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.95]]  🌐 [[AN5.97]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.95]]  🌐 [[AN5.97]] ►

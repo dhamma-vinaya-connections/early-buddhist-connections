@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.182]], [[SA597]]"
 parallels_partilal: "[[SA-2.182]], [[SA597]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.13]]  🌐 [[SN2.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.13]]  🌐 [[SN2.15]] ►
 
 # SN2.14 - Nandanasutta - Nandana
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Crosses the flood so hard to cross.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.14%5D%5D%22%23mynotes%20-file%3Asn2.14-%20-file%3A%22SN2.13%22%20-file%3A%22SN2.15%22%20-file%3A%22SN2.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.14
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.13]]  🌐 [[SN2.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.13]]  🌐 [[SN2.15]] ►

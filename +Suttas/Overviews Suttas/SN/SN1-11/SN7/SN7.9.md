@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.99]], [[SA1184]]"
 parallels_partilal: "[[SA-2.99]], [[SA1184]], [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.8]]  🌐 [[SN7.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.8]]  🌐 [[SN7.10]] ►
 
 # SN7.9 - Sundarikasutta - Sundarika
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Is a thoroughbred checked by conscience.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.9%5D%5D%22%23mynotes%20-file%3Asn7.9-%20-file%3A%22SN7.8%22%20-file%3A%22SN7.10%22%20-file%3A%22SN7.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.9
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.8]]  🌐 [[SN7.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.8]]  🌐 [[SN7.10]] ►

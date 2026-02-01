@@ -4,7 +4,7 @@ vin_title: "Vihārakāra - Building a Dwelling"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
 > ◄  [[bu-ss6-brahmali-pali]] 📜  [[bu-ss8-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -276,5 +276,5 @@ Dutiyampi yācitabbā. Tatiyampi yācitabbā. Byattena bhikkhunā paṭibalena s
 >|       |          | [[ñanatusita-analysis#^SS7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
 > ◄  [[bu-ss6-brahmali-pali]] 📜  [[bu-ss8-brahmali-pali]] ►

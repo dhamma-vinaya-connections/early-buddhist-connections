@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP376]]"
 parallels_agama: "[[SA-2.354]], [[SA1334]]"
 parallels_partilal: "[[SA-2.354]], [[SA1334]], [[DHP376]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.10]]  🌐 [[SN9.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.10]]  🌐 [[SN9.12]] ►
 
 # SN9.11 - Akusalavitakkasutta - Unwholesome Thoughts
 ## 🌐 Overview
@@ -85,10 +85,10 @@ You’ll find gladness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.11%5D%5D%22%23mynotes%20-file%3Asn9.11-%20-file%3A%22SN9.10%22%20-file%3A%22SN9.12%22%20-file%3A%22SN9.11%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.11
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.11.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.10]]  🌐 [[SN9.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.10]]  🌐 [[SN9.12]] ►

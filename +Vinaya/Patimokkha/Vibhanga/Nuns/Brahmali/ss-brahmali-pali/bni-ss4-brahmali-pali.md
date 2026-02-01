@@ -4,7 +4,7 @@ vin_title: "Ukkhittakaosāraṇa - Reinstating One Ejected"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS4]]
 > ◄  [[bni-ss3-brahmali-pali]] 📜  [[bni-ss5-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -178,5 +178,5 @@ Kathañhi nāma, bhikkhave, thullanandā bhikkhunī samaggena saṁghena ukkhitt
 >|       |          | [[ñanatusita-analysis#^-SS4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS4]]
 > ◄  [[bni-ss3-brahmali-pali]] 📜  [[bni-ss5-brahmali-pali]] ►

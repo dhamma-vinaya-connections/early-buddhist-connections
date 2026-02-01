@@ -25,7 +25,7 @@ vin_sangha_acts:
 vin_gender: "Monks"
 vin_gender-corr: ""
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PJ4]] 🌐 [[BU-SS2]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PJ4]] 🌐 [[BU-SS2]] ►
 
 # Monks - Sanghadisesa - Suspension
 ##  - 1 Admonition
@@ -82,8 +82,8 @@ vin_gender-corr: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBU-SS1%5D%5D%22%23mynotes%20-file%3Abu-ss1-%20-file%3A%22BU-SS1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+> [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-ss?view=normal
 
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PJ4]] 🌐 [[BU-SS2]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PJ4]] 🌐 [[BU-SS2]] ►

@@ -4,7 +4,7 @@ vin_title: "Nāvābhiruhana - Travelling on a Boat With a Nun"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC28]]
 > ◄  [[bu-pc27-deepseek-pali]] 📜  [[bu-pc29-deepseek-pali]] ►
 
 # BU-PC 28
@@ -99,5 +99,5 @@ The eighth training rule, on embarking on a boat, is finished.
 >|       |          | [[ñanatusita-analysis#^PC28]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC28]]
 > ◄  [[bu-pc27-deepseek-pali]] 📜  [[bu-pc29-deepseek-pali]] ►

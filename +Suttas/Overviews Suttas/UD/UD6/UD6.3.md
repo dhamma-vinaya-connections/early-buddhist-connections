@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP228]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP228]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.2]]  🌐 [[UD6.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.2]]  🌐 [[UD6.4]] ►
 
 # UD6.3 - Paccavekkhana Sutta - It Was
 ## 🌐 Overview
@@ -86,10 +86,10 @@ It wasn’t, won’t be,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD6.3%5D%5D%22%23mynotes%20-file%3Aud6.3-%20-file%3A%22UD6.2%22%20-file%3A%22UD6.4%22%20-file%3A%22UD6.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud6.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.3
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.2]]  🌐 [[UD6.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.2]]  🌐 [[UD6.4]] ►

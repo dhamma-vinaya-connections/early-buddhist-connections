@@ -4,7 +4,7 @@ vin_title: "Mahallakavihāra - Dwelling Construction"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC19]]
 > ◄  [[bu-pc18-deepseek-pali]] 📜  [[bu-pc20-deepseek-pali]] ►
 
 # BU-PC 19
@@ -83,5 +83,5 @@ The training rule concerning a large dwelling, the ninth, is finished.
 >|       |          | [[ñanatusita-analysis#^PC19]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC19]]
 > ◄  [[bu-pc18-deepseek-pali]] 📜  [[bu-pc20-deepseek-pali]] ►

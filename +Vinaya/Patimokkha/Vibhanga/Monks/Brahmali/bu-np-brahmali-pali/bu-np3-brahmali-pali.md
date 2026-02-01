@@ -4,7 +4,7 @@ vin_title: "Akālacīvara - Robe Cloth Out-of-Season"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP3]]
 > ◄  [[bu-np2-brahmali-pali]] 📜  [[bu-np4-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -206,5 +206,5 @@ Anadhiṭṭhite adhiṭṭhitasaññī … pe … avikappite vikappitasaññī 
 >|       |          | [[ñanatusita-analysis#^NP3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP3]]
 > ◄  [[bu-np2-brahmali-pali]] 📜  [[bu-np4-brahmali-pali]] ►

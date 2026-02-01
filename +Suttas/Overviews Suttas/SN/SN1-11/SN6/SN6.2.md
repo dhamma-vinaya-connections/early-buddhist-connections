@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.101]], [[SA1188]]"
 parallels_partilal: "[[AN4.21]], [[SA-2.101]], [[SA1188]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.1]]  🌐 [[SN6.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.1]]  🌐 [[SN6.3]] ►
 
 # SN6.2 - Gāravasutta - Reverence
 ## 🌐 Overview
@@ -83,10 +83,10 @@ Remembering the instructions of the Buddha s
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN6.2%5D%5D%22%23mynotes%20-file%3Asn6.2-%20-file%3A%22SN6.1%22%20-file%3A%22SN6.3%22%20-file%3A%22SN6.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn6.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.2
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.2.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.1]]  🌐 [[SN6.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.1]]  🌐 [[SN6.3]] ►

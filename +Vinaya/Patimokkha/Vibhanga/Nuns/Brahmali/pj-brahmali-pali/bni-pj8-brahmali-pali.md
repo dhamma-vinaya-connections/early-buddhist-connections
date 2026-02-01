@@ -4,7 +4,7 @@ vin_title: "Aṭṭhavatthukā - Eight Factors"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ8]]
 > ◄  [[bni-pj7-brahmali-pali]] 📜  [[BNI-SS1]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -148,5 +148,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma, bhikkhave, chabbaggiyā bhi
 >|       |          | [[ñanatusita-analysis#^-PJ8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ8]]
 > ◄  [[bni-pj7-brahmali-pali]] 📜  [[BNI-SS1]] ►

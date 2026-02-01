@@ -4,7 +4,7 @@ vin_title: "Cīvaradāna - Giving Robes"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC28]]
 > ◄  [[bni-pc27-brahmali-pali]] 📜  [[bni-pc29-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -98,5 +98,5 @@ p_2V_2860Aṭṭhamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC28]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC28]]
 > ◄  [[bni-pc27-brahmali-pali]] 📜  [[bni-pc29-brahmali-pali]] ►

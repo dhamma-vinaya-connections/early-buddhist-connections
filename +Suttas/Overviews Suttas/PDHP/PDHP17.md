@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP16]]  🌐 [[PDHP18]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP16]]  🌐 [[PDHP18]] ►
 
 # PDHP17 - Khāntivagga - Acceptance
 ## 🌐 Overview
@@ -89,10 +89,10 @@ he has no one who is hated.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BPDHP17%5D%5D%22%23mynotes%20-file%3Apdhp17-%20-file%3A%22PDHP16%22%20-file%3A%22PDHP18%22%20-file%3A%22PDHP17%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pdhp17/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp17
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp17.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP16]]  🌐 [[PDHP18]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP16]]  🌐 [[PDHP18]] ►

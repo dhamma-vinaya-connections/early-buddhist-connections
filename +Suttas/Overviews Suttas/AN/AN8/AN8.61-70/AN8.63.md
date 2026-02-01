@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN47.3]]"
 parallels_agama: "[[MA76]]"
 parallels_partilal: "[[MA76]], [[SN47.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.62]]  🌐 [[AN8.64]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.62]]  🌐 [[AN8.64]] ►
 
 # AN8.63 - Saṃkhitta - Dhamma In Brief
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[MA76]], [[SN47.3]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.63%5D%5D%22%23mynotes%20-file%3Aan8.63-%20-file%3A%22AN8.62%22%20-file%3A%22AN8.64%22%20-file%3A%22AN8.63%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.63/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.63
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.63.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.62]]  🌐 [[AN8.64]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.62]]  🌐 [[AN8.64]] ►

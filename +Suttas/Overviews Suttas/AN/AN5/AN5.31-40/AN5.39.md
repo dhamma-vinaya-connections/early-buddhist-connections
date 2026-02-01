@@ -39,7 +39,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.38]]  🌐 [[AN5.40]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.38]]  🌐 [[AN5.40]] ►
 
 # AN5.39 - Putta - Child
 ## 🌐 Overview
@@ -84,10 +84,10 @@ Such a child is praiseworthy
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.39%5D%5D%22%23mynotes%20-file%3Aan5.39-%20-file%3A%22AN5.38%22%20-file%3A%22AN5.40%22%20-file%3A%22AN5.39%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.39/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.39
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.39.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.38]]  🌐 [[AN5.40]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.38]]  🌐 [[AN5.40]] ►

@@ -3,21 +3,21 @@ filters:
     - file.folder.contains("Overviews Suttas")
 properties:
   note.sutta_training:
-    displayName: training
+    displayName: sutta_training
   note.sutta_stage:
-    displayName: stage
+    displayName: sutta_stage
   note.sutta_method:
-    displayName: method
+    displayName: sutta_method
   note.sutta_aspect:
-    displayName: aspect
+    displayName: sutta_aspect
   note.sutta_prominence:
-    displayName: prominence
+    displayName: sutta_prominence
   note.sutta_length:
-    displayName: length
+    displayName: sutta_length
   note.sutta_teacher:
-    displayName: teacher
+    displayName: sutta_teacher
   note.sutta_audience:
-    displayName: audience
+    displayName: sutta_audience
 views:
   - type: table
     name: catalogue
@@ -26,14 +26,14 @@ views:
       - sutta_title
       - sutta_theme
       - sutta_topic
-      - sutta_training
       - sutta_prominence
-      - sutta_aspect
       - sutta_stage
-      - sutta_teacher
       - sutta_audience
       - sutta_method
       - sutta_length
+      - sutta_training
+      - sutta_teacher
+      - sutta_aspect
     sort:
       - property: sutta_theme
         direction: DESC

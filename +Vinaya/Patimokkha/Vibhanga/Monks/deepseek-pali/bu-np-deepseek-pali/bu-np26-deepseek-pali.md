@@ -4,7 +4,7 @@ vin_title: "Suttaviññatti - Thread Asking"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
 > ◄  [[bu-np25-deepseek-pali]] 📜  [[bu-np27-deepseek-pali]] ►
 
 # BU-NP 26
@@ -71,5 +71,5 @@ The sixth training rule concerning the requesting of thread is concluded.
 >|       |          | [[ñanatusita-analysis#^NP26]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]
 > ◄  [[bu-np25-deepseek-pali]] 📜  [[bu-np27-deepseek-pali]] ►

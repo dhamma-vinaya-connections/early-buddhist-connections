@@ -4,7 +4,7 @@ vin_title: "Pahāra - Hitting"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC74]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC74]]
 > ◄  [[bu-pc73-horner]] 📜  [[bu-pc75-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 74
@@ -63,5 +63,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC74]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC74]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC74]]
 > ◄  [[bu-pc73-horner]] 📜  [[bu-pc75-horner]] ►

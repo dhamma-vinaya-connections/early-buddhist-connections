@@ -38,7 +38,7 @@ parallels_nikaya: "[[DN25]]"
 parallels_agama: "[[MA104]]"
 parallels_partilal: "[[DA19]], [[]], [[SN1.37]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA7]]  🌐 [[DA9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA7]]  🌐 [[DA9]] ►
 
 # DA8 - 散陀那 - Sandhāna
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[DA19]], [[]], [[SN1.37]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDA8%5D%5D%22%23mynotes%20-file%3Ada8-%20-file%3A%22DA7%22%20-file%3A%22DA9%22%20-file%3A%22DA8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/da8/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA7]]  🌐 [[DA9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA7]]  🌐 [[DA9]] ►

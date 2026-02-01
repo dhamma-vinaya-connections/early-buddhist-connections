@@ -4,7 +4,7 @@ vin_title: "Vikālabhojana - Eating at Wrong Time"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC37]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC37]]
 > ◄  [[bu-pc36-horner]] 📜  [[bu-pc38-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 37
@@ -75,5 +75,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC37]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC37]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC37]]
 > ◄  [[bu-pc36-horner]] 📜  [[bu-pc38-horner]] ►

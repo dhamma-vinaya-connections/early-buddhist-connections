@@ -4,7 +4,7 @@ vin_title: "Gaṇabhojana - Eating in Group"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
 > ◄  [[bu-pc31-brahmali-pali]] 📜  [[bu-pc33-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -304,5 +304,5 @@ Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 >|       |          | [[ñanatusita-analysis#^PC32]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC32]]
 > ◄  [[bu-pc31-brahmali-pali]] 📜  [[bu-pc33-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Duṭṭhulla - Concealing a Grave Offense"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
 > ◄  [[bu-pc63-brahmali-pali]] 📜  [[bu-pc65-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -154,5 +154,5 @@ Aduṭṭhullāya āpattiyā vematiko, āpatti dukkaṭassa. Aduṭṭhullāya �
 >|       |          | [[ñanatusita-analysis#^PC64]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
 > ◄  [[bu-pc63-brahmali-pali]] 📜  [[bu-pc65-brahmali-pali]] ►

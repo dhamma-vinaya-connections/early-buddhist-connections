@@ -4,7 +4,7 @@ vin_title: "Duṭṭhulla - Concealing a Grave Offense"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
 > ◄  [[bu-pc63-horner]] 📜  [[bu-pc65-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 64
@@ -83,5 +83,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC64]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]
 > ◄  [[bu-pc63-horner]] 📜  [[bu-pc65-horner]] ►

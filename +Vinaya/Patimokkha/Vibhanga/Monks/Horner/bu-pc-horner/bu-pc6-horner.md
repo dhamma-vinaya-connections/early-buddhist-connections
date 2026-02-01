@@ -4,7 +4,7 @@ vin_title: "Mātugāmasahaseyya - Lying Down with a Woman"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC6]]
 > ◄  [[bu-pc5-horner]] 📜  [[bu-pc7-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 6
@@ -107,5 +107,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC6]]
 > ◄  [[bu-pc5-horner]] 📜  [[bu-pc7-horner]] ►

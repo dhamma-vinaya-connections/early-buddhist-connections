@@ -4,7 +4,7 @@ vin_title: "Ukkhittasambhoga - Living With an Ejected Bhikkhu"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC69]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC69]]
 > ◄  [[bu-pc68-deepseek-pali]] 📜  [[bu-pc70-deepseek-pali]] ►
 
 # BU-PC 69
@@ -79,5 +79,5 @@ The ninth training rule on associating with one who has been suspended is finish
 >|       |          | [[ñanatusita-analysis#^PC69]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC69]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC69]]
 > ◄  [[bu-pc68-deepseek-pali]] 📜  [[bu-pc70-deepseek-pali]] ►

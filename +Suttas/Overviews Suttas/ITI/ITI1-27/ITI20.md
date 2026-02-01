@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN1.43]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI19]]  🌐 [[ITI21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI19]]  🌐 [[ITI21]] ►
 
 # ITI20 - Paduṭṭhacitta - Corrupted mind
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN1.43]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI20%5D%5D%22%23mynotes%20-file%3Aiti20-%20-file%3A%22ITI19%22%20-file%3A%22ITI21%22%20-file%3A%22ITI20%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti20
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti20.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI19]]  🌐 [[ITI21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI19]]  🌐 [[ITI21]] ►

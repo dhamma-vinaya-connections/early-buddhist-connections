@@ -25,7 +25,7 @@ vin_sangha_acts:
 vin_gender: "Monks"
 vin_gender-corr: "BNI-PC159"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC80]] 🌐 [[BU-PC82]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC80]] 🌐 [[BU-PC82]] ►
 
 # Monks - Pacittiya - Confession
 ## 8 Saha-Dhammika-Vaggo - 8 Legitimate Correction
@@ -82,8 +82,8 @@ vin_gender-corr: "BNI-PC159"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBU-PC81%5D%5D%22%23mynotes%20-file%3Abu-pc81-%20-file%3A%22BU-PC81%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+> [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-pc?view=normal
 
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC80]] 🌐 [[BU-PC82]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC80]] 🌐 [[BU-PC82]] ►

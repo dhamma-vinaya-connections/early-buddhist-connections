@@ -4,7 +4,7 @@ vin_title: "Purāṇacīvara - Robes Used"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
 > ◄  [[bu-np3-deepseek-pali]] 📜  [[bu-np5-deepseek-pali]] ►
 
 # BU-NP 4
@@ -79,5 +79,5 @@ The training rule on using cast-off robes, the fourth, is finished.
 >|       |          | [[ñanatusita-analysis#^NP4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
 > ◄  [[bu-np3-deepseek-pali]] 📜  [[bu-np5-deepseek-pali]] ►

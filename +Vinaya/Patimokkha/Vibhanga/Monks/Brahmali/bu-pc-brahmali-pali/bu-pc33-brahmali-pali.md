@@ -4,7 +4,7 @@ vin_title: "Paramparabhojana - Eating Successive Meals"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
 > ◄  [[bu-pc32-brahmali-pali]] 📜  [[bu-pc34-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -264,5 +264,5 @@ Evañca pana, bhikkhave, vikappetabbaṁ— ‘mayhaṁ bhattapaccāsaṁ itthan
 >|       |          | [[ñanatusita-analysis#^PC33]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
 > ◄  [[bu-pc32-brahmali-pali]] 📜  [[bu-pc34-brahmali-pali]] ►

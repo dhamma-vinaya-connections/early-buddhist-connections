@@ -4,7 +4,7 @@ vin_title: "Attakāmpāricariya - Encouraging Someone to Serve One’s Desires"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
 > ◄  [[bu-ss3-horner]] 📜  [[bu-ss5-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 4
@@ -173,5 +173,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]
 > ◄  [[bu-ss3-horner]] 📜  [[bu-ss5-horner]] ►

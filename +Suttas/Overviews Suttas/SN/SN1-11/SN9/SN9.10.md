@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.357]], [[SA1337]]"
 parallels_partilal: "[[SA-2.357]], [[SA1337]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.9]]  🌐 [[SN9.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.9]]  🌐 [[SN9.11]] ►
 
 # SN9.10 - Sajjhāyasutta - Reciting
 ## 🌐 Overview
@@ -83,10 +83,10 @@ Whatever is seen, heard, and thought
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.10%5D%5D%22%23mynotes%20-file%3Asn9.10-%20-file%3A%22SN9.9%22%20-file%3A%22SN9.11%22%20-file%3A%22SN9.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.9]]  🌐 [[SN9.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.9]]  🌐 [[SN9.11]] ►

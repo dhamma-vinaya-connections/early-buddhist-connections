@@ -4,7 +4,7 @@ vin_title: "Udosita - Robes Staying Apart"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP2]]
 > ◄  [[bu-np1-horner]] 📜  [[bu-np3-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 2
@@ -147,5 +147,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP2]]
 > ◄  [[bu-np1-horner]] 📜  [[bu-np3-horner]] ►

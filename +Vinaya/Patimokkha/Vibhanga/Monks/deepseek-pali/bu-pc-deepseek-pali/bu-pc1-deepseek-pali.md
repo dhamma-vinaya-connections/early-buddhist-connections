@@ -4,7 +4,7 @@ vin_title: "Musāvāda - Lying"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC1]]
 > ◄  [[BU-NP30]] 📜  [[bu-pc2-deepseek-pali]] ►
 
 # BU-PC 1
@@ -154,5 +154,5 @@ The first training rule on false speech is concluded.
 >|       |          | [[ñanatusita-analysis#^PC1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC1]]
 > ◄  [[BU-NP30]] 📜  [[bu-pc2-deepseek-pali]] ►

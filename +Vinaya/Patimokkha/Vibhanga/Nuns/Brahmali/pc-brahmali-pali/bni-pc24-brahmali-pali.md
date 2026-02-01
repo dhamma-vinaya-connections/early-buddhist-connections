@@ -4,7 +4,7 @@ vin_title: "Saṅghāṭicāra - Moving Robes"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC24]]
 > ◄  [[bni-pc23-brahmali-pali]] 📜  [[bni-pc25-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -100,5 +100,5 @@ p_2V_2823Catutthasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC24]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC24]]
 > ◄  [[bni-pc23-brahmali-pali]] 📜  [[bni-pc25-brahmali-pali]] ►

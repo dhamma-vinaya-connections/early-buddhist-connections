@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP221]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.33]]  🌐 [[SN1.35]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.33]]  🌐 [[SN1.35]] ►
 
 # SN1.34 - Nasantisutta - There Are No
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.34%5D%5D%22%23mynotes%20-file%3Asn1.34-%20-file%3A%22SN1.33%22%20-file%3A%22SN1.35%22%20-file%3A%22SN1.34%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.34/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.34
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.34.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.33]]  🌐 [[SN1.35]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.33]]  🌐 [[SN1.35]] ►

@@ -4,7 +4,7 @@ vin_title: "Suddhakāla - Blanket Black"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP12]]
 > ◄  [[bu-np11-horner]] 📜  [[bu-np13-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 12
@@ -51,5 +51,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP12]]
 > ◄  [[bu-np11-horner]] 📜  [[bu-np13-horner]] ►

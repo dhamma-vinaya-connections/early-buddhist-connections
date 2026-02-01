@@ -4,7 +4,7 @@ vin_title: "Methunadhamma - Sexual Intercourse"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ1]]
 > ◄   📜  [[bu-pj2-horner]] ►
 
 # Monks’ Expulsion (_Pārājika_) 1
@@ -775,5 +775,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PJ1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ1]]
 > ◄   📜  [[bu-pj2-horner]] ►

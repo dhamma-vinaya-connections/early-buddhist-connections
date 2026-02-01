@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN35.69]], [[JA203]]"
 parallels_agama: "[[SA252]]"
 parallels_partilal: "[[SN35.69]], [[SA252]], [[JA203]], [[PLI-TV-KD15]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.66]]  🌐 [[AN4.68]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.66]]  🌐 [[AN4.68]] ►
 
 # AN4.67 - Ahirāja - Snake King
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SN35.69]], [[SA252]], [[JA203]], [[PLI-TV-KD15]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.67%5D%5D%22%23mynotes%20-file%3Aan4.67-%20-file%3A%22AN4.66%22%20-file%3A%22AN4.68%22%20-file%3A%22AN4.67%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.67/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.67
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.67.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.66]]  🌐 [[AN4.68]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.66]]  🌐 [[AN4.68]] ►

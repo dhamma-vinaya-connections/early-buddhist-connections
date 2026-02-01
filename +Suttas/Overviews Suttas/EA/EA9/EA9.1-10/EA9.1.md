@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN17.24]], [[SN17.6]], [[SN17.23]]"
 parallels_agama: "[[EA9.1]], [[EA9.2]]"
 parallels_partilal: "[[EA9.1]], [[SN17.24]], [[EA9.2]], [[SN17.6]], [[SN17.23]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.10]]  🌐 [[EA9.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.10]]  🌐 [[EA9.2]] ►
 
 # EA9.1 - EA 9.1 - The Laywoman
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[EA9.1]], [[SN17.24]], [[EA9.2]], [[SN17.6]], [[SN17.23]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BEA9.1%5D%5D%22%23mynotes%20-file%3Aea9.1-%20-file%3A%22EA8.10%22%20-file%3A%22EA9.2%22%20-file%3A%22EA9.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ea9.1/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.10]]  🌐 [[EA9.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.10]]  🌐 [[EA9.2]] ►

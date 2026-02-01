@@ -42,7 +42,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA44.6]]; [[MA106]]"
 parallels_partilal: "[[MA106]]; [[EA44.6]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MA222]]  🌐 [[MN2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MA222]]  🌐 [[MN2]] ►
 
 # MN1 - Mūlapariyāya Sutta - Root of All Things
 ## 🌐 Overview
@@ -90,10 +90,10 @@ He has understood that relishing is the root of suffering, and that rebirth com
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN1%5D%5D%22%23mynotes%20-file%3Amn1-%20-file%3A%22MA222%22%20-file%3A%22MN2%22%20-file%3A%22MN1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn1
 > - The Buddhas Words: https://thebuddhaswords.net/mn/mn1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MA222]]  🌐 [[MN2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MA222]]  🌐 [[MN2]] ►

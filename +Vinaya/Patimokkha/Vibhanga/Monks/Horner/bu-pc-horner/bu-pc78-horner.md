@@ -4,7 +4,7 @@ vin_title: "Upassuti - Eavesdropping"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC78]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC78]]
 > ◄  [[bu-pc77-horner]] 📜  [[bu-pc79-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 78
@@ -69,5 +69,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC78]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC78]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC78]]
 > ◄  [[bu-pc77-horner]] 📜  [[bu-pc79-horner]] ►

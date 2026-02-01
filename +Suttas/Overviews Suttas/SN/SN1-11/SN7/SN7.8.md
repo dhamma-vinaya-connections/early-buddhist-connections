@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP423]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[THIG4.1]], [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.9]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.7]]  🌐 [[SN7.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.7]]  🌐 [[SN7.9]] ►
 
 # SN7.8 - Aggikasutta - Aggika
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Is a thoroughbred checked by conscience.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.8%5D%5D%22%23mynotes%20-file%3Asn7.8-%20-file%3A%22SN7.7%22%20-file%3A%22SN7.9%22%20-file%3A%22SN7.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.7]]  🌐 [[SN7.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.7]]  🌐 [[SN7.9]] ►

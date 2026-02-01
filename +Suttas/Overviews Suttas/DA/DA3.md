@@ -42,7 +42,7 @@ parallels_nikaya: "[[DN19]]"
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA2]]  🌐 [[DA4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA2]]  🌐 [[DA4]] ►
 
 # DA3 - 典尊 - Great Treasury Councilor
 ## 🌐 Overview
@@ -90,10 +90,10 @@ Greed, hate, pride, and delusion, and refraining from sex.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDA3%5D%5D%22%23mynotes%20-file%3Ada3-%20-file%3A%22DA2%22%20-file%3A%22DA4%22%20-file%3A%22DA3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/da3/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA2]]  🌐 [[DA4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA2]]  🌐 [[DA4]] ►

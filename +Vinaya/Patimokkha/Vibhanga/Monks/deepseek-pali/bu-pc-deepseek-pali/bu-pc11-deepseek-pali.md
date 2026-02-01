@@ -4,7 +4,7 @@ vin_title: "Bhūtagāma - Plants damaging"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
 > ◄  [[bu-pc10-deepseek-pali]] 📜  [[bu-pc12-deepseek-pali]] ►
 
 # BU-PC 11
@@ -75,5 +75,5 @@ The first training rule on injuring seeds and plants is concluded.
 >|       |          | [[ñanatusita-analysis#^PC11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
 > ◄  [[bu-pc10-deepseek-pali]] 📜  [[bu-pc12-deepseek-pali]] ►

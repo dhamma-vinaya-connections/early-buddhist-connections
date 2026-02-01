@@ -46,7 +46,7 @@ parallels_nikaya: "[[DN14]], [[SN12.65]]"
 parallels_agama: "[[EA38.4]], [[EA48.4]], [[SA287]]"
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[AN11.982-1151]]  🌐 [[DA2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[AN11.982-1151]]  🌐 [[DA2]] ►
 
 # DA1 - 大本 - Great Origin
 ## 🌐 Overview
@@ -110,10 +110,10 @@ This is the instruction of the Buddha s.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDA1%5D%5D%22%23mynotes%20-file%3Ada1-%20-file%3A%22AN11.982-1151%22%20-file%3A%22DA2%22%20-file%3A%22DA1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/da1/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[AN11.982-1151]]  🌐 [[DA2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[AN11.982-1151]]  🌐 [[DA2]] ►

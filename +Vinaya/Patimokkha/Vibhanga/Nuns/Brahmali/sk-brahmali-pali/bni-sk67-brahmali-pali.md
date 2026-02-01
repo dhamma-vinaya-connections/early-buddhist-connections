@@ -4,7 +4,7 @@ vin_title: "Oguṇṭhita - Covering Head"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK67]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK67]]
 > ◄  [[bni-sk66-brahmali-pali]] 📜  [[bni-sk68-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -66,5 +66,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^-SK67]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK67]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK67]]
 > ◄  [[bni-sk66-brahmali-pali]] 📜  [[bni-sk68-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Uyyojana - Sending a Bhikkhu Back from Almsround"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
 > ◄  [[bu-pc41-deepseek-pali]] 📜  [[bu-pc43-deepseek-pali]] ►
 
 # BU-PC 42
@@ -79,5 +79,5 @@ The second training rule on dismissing is finished.
 >|       |          | [[ñanatusita-analysis#^PC42]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
 > ◄  [[bu-pc41-deepseek-pali]] 📜  [[bu-pc43-deepseek-pali]] ►

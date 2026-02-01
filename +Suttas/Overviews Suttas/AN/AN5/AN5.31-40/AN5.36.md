@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA32.12]]"
 parallels_partilal: "[[EA32.12]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[SN1.43]], [[SN2.23]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.35]]  🌐 [[AN5.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.35]]  🌐 [[AN5.37]] ►
 
 # AN5.36 - Kaladana - Timely Gifts
 ## 🌐 Overview
@@ -87,10 +87,10 @@ Support them in the next world
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.36%5D%5D%22%23mynotes%20-file%3Aan5.36-%20-file%3A%22AN5.35%22%20-file%3A%22AN5.37%22%20-file%3A%22AN5.36%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.36
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.36.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.35]]  🌐 [[AN5.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.35]]  🌐 [[AN5.37]] ►

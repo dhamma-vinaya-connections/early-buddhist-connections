@@ -4,7 +4,7 @@ vin_title: "Kālaatikkamana - Letting the Time Expire"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC29]]
 > ◄  [[bni-pc28-horner]] 📜  [[bni-pc30-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 29
@@ -61,5 +61,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC29]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC29]]
 > ◄  [[bni-pc28-horner]] 📜  [[bni-pc30-horner]] ►

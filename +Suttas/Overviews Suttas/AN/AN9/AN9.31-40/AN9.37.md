@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA557]]"
 parallels_partilal: "[[SA557]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.36]]  🌐 [[AN9.38]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.36]]  🌐 [[AN9.38]] ►
 
 # AN9.37 - Ānanda - Ananda
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SA557]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.37%5D%5D%22%23mynotes%20-file%3Aan9.37-%20-file%3A%22AN9.36%22%20-file%3A%22AN9.38%22%20-file%3A%22AN9.37%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.37/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.37
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.37.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.36]]  🌐 [[AN9.38]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.36]]  🌐 [[AN9.38]] ►

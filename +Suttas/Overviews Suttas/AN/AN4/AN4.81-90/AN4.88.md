@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA28.7]]"
 parallels_partilal: "[[EA28.7]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.87]]  🌐 [[AN4.89]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.87]]  🌐 [[AN4.89]] ►
 
 # AN4.88 - Saṃyojana - Fetters
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA28.7]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.88%5D%5D%22%23mynotes%20-file%3Aan4.88-%20-file%3A%22AN4.87%22%20-file%3A%22AN4.89%22%20-file%3A%22AN4.88%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.88/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.88
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.88.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.87]]  🌐 [[AN4.89]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.87]]  🌐 [[AN4.89]] ►

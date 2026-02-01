@@ -4,7 +4,7 @@ vin_title: "Ārāmapavisana - Entering Monasteries"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC51]]
 > ◄  [[bni-pc50-brahmali-pali]] 📜  [[bni-pc52-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -138,5 +138,5 @@ p_2V_3102Paṭhamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC51]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC51]]
 > ◄  [[bni-pc50-brahmali-pali]] 📜  [[bni-pc52-brahmali-pali]] ►

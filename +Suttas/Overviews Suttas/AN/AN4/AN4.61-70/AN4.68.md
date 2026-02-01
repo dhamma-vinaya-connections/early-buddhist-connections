@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN17.35-36]]"
 parallels_agama: "[[EA12.7]], [[EA23.7]], [[SA-2.3]], [[SA1064]]"
 parallels_partilal: "[[EA12.7]], [[SN17.35-36]], [[PLI-TV-KD17]], [[SA1064]], [[EA23.7]], [[SA-2.3]], [[SN17.35]], [[SN6.12]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.67]]  🌐 [[AN4.69]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.67]]  🌐 [[AN4.69]] ►
 
 # AN4.68 - Devadatta - Devadatta
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[EA12.7]], [[SN17.35-36]], [[PLI-TV-KD17]], [[SA1064]], [[
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.68%5D%5D%22%23mynotes%20-file%3Aan4.68-%20-file%3A%22AN4.67%22%20-file%3A%22AN4.69%22%20-file%3A%22AN4.68%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.68/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.68
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.68.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.67]]  🌐 [[AN4.69]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.67]]  🌐 [[AN4.69]] ►

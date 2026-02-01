@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA16]]"
 parallels_partilal: "[[MA16]], [[AN4.193]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.64]]  🌐 [[AN3.66]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.64]]  🌐 [[AN3.66]] ►
 
 # AN3.65 - Kalama - With The Kālāmas
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MA16]], [[AN4.193]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.65%5D%5D%22%23mynotes%20-file%3Aan3.65-%20-file%3A%22AN3.64%22%20-file%3A%22AN3.66%22%20-file%3A%22AN3.65%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.65/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.65
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.65.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.64]]  🌐 [[AN3.66]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.64]]  🌐 [[AN3.66]] ►

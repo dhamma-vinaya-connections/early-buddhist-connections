@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.213]]  🌐 [[AN5.215]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.213]]  🌐 [[AN5.215]] ►
 
 # AN5.214 - Bahubhāṇi - Talks A Lot
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.214%5D%5D%22%23mynotes%20-file%3Aan5.214-%20-file%3A%22AN5.213%22%20-file%3A%22AN5.215%22%20-file%3A%22AN5.214%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.214/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.214
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.214.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.213]]  🌐 [[AN5.215]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.213]]  🌐 [[AN5.215]] ►

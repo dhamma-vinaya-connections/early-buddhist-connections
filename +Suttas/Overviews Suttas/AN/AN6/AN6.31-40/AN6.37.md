@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA37.4]]"
 parallels_partilal: "[[EA37.4]], [[AN4.40]], [[AN8.37]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.36]]  🌐 [[AN6.38]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.36]]  🌐 [[AN6.38]] ►
 
 # AN6.37 - Chaḷaṅgadāna - Gift With Six Factors
 ## 🌐 Overview
@@ -87,10 +87,10 @@ Feeling uplifted after giving; and recipients are free of greed, hate, and delus
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.37%5D%5D%22%23mynotes%20-file%3Aan6.37-%20-file%3A%22AN6.36%22%20-file%3A%22AN6.38%22%20-file%3A%22AN6.37%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.37/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.37
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.37.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.36]]  🌐 [[AN6.38]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.36]]  🌐 [[AN6.38]] ►

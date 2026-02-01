@@ -4,7 +4,7 @@ vin_title: "Sukkavisaṭṭhi - Masturbation"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
 > ◄  [[BU-PJ4]] 📜  [[bu-ss2-deepseek-pali]] ►
 
 # BU-SN 1
@@ -935,5 +935,5 @@ The first training rule on seminal emission is finished.
 >|       |          | [[ñanatusita-analysis#^SS1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
 > ◄  [[BU-PJ4]] 📜  [[bu-ss2-deepseek-pali]] ►

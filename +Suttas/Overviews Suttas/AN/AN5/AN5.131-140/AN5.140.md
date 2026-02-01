@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.114]]"
 parallels_agama: ""
 parallels_partilal: "[[AN4.114]], [[MN2]], [[MN125]], [[AN4.157]], [[AN4.165]], [[PLI-TV-KD1]], [[PLI-TV-BU-VB-PC65]], [[PLI-TV-BI-VB-PC71]], [[AN4.164]], [[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.198]], [[AN5.76]], [[AN10.99]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.139]]  🌐 [[AN5.141]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.139]]  🌐 [[AN5.141]] ►
 
 # AN5.140 - Appaṃsupati - Sleep Little
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[AN4.114]], [[MN2]], [[MN125]], [[AN4.157]], [[AN4.165]], 
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.140%5D%5D%22%23mynotes%20-file%3Aan5.140-%20-file%3A%22AN5.139%22%20-file%3A%22AN5.141%22%20-file%3A%22AN5.140%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.140/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.140
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.140.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.139]]  🌐 [[AN5.141]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.139]]  🌐 [[AN5.141]] ►

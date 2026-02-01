@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.80]]"
 parallels_agama: ""
 parallels_partilal: "[[AN10.80]], [[AN10.79]], [[AN9.29]], [[DN33]], [[DN34]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.29]]  🌐 [[AN9.31]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.29]]  🌐 [[AN9.31]] ►
 
 # AN9.30 - Āghātavatthu - Resentment Grounds
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN10.80]], [[AN10.79]], [[AN9.29]], [[DN33]], [[DN34]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.30%5D%5D%22%23mynotes%20-file%3Aan9.30-%20-file%3A%22AN9.29%22%20-file%3A%22AN9.31%22%20-file%3A%22AN9.30%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.30/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.30
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.30.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.29]]  🌐 [[AN9.31]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.29]]  🌐 [[AN9.31]] ►

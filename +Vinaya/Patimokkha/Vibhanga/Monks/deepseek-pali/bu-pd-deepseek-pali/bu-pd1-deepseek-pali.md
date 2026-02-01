@@ -4,7 +4,7 @@ vin_title: "Paṭhamapāṭidesanīya - Receiving a Nun’s Food"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD1]]
 > ◄  [[BU-PC92]] 📜  [[bu-pd2-deepseek-pali]] ►
 
 # BU-PD 1
@@ -87,5 +87,5 @@ The First Pāṭidesanīya Training Rule is finished.
 >|       |          | [[ñanatusita-analysis#^PD1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD1]]
 > ◄  [[BU-PC92]] 📜  [[bu-pd2-deepseek-pali]] ►

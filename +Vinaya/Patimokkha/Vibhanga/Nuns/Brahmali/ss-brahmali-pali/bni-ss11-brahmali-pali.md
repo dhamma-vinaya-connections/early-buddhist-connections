@@ -4,7 +4,7 @@ vin_title: "Adhikaraṇakupita - Getting Angry Over a Legal Issue"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS11]]
 > ◄  [[bni-ss10-brahmali-pali]] 📜  [[bni-ss12-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -199,5 +199,5 @@ sikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-SS11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS11]]
 > ◄  [[bni-ss10-brahmali-pali]] 📜  [[bni-ss12-brahmali-pali]] ►

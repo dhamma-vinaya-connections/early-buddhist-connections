@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.256]]"
 parallels_agama: "[[SA669]]"
 parallels_partilal: "[[SA669]], [[AN4.256]], [[AN8.24]], [[DN33]], [[DN31]], [[JA532]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.31]]  🌐 [[AN4.33]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.31]]  🌐 [[AN4.33]] ►
 
 # AN4.32 - Saṅgaha - Inclusion
 ## 🌐 Overview
@@ -82,10 +82,10 @@ And are praised
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.32%5D%5D%22%23mynotes%20-file%3Aan4.32-%20-file%3A%22AN4.31%22%20-file%3A%22AN4.33%22%20-file%3A%22AN4.32%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.32/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.32
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.32.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.31]]  🌐 [[AN4.33]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.31]]  🌐 [[AN4.33]] ►

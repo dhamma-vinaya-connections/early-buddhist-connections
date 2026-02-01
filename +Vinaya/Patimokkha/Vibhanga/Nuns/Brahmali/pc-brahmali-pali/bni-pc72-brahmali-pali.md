@@ -4,7 +4,7 @@ vin_title: "Paripuṇṇavīsativassa-asikkhita-kumāribhūta - Ordaining Untrai
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC72]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC72]]
 > ◄  [[bni-pc71-brahmali-pali]] 📜  [[bni-pc73-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -138,5 +138,5 @@ p_2V_3315Dutiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC72]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC72]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC72]]
 > ◄  [[bni-pc71-brahmali-pali]] 📜  [[bni-pc73-brahmali-pali]] ►

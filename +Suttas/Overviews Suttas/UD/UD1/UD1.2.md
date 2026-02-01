@@ -38,7 +38,7 @@ parallels_nikaya: "[[UD1.1]], [[UD1.3]]"
 parallels_agama: ""
 parallels_partilal: "[[PLI-TV-KD1]], [[UD1.1]], [[UD1.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.1]]  🌐 [[UD1.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.1]]  🌐 [[UD1.3]] ►
 
 # UD1.2 - Dutiyabodhi Sutta - The Bodhi Tree (2)
 ## 🌐 Overview
@@ -84,10 +84,10 @@ As the sun (dwells) lighting up the firmament.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD1.2%5D%5D%22%23mynotes%20-file%3Aud1.2-%20-file%3A%22UD1.1%22%20-file%3A%22UD1.3%22%20-file%3A%22UD1.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud1.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud1.2
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud1.2.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.1]]  🌐 [[UD1.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.1]]  🌐 [[UD1.3]] ►

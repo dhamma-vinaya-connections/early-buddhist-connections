@@ -4,7 +4,7 @@ vin_title: "Ananuññāta - Ordaining Without Permission"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC80]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC80]]
 > ◄  [[bni-pc79-brahmali-pali]] 📜  [[bni-pc81-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -88,5 +88,5 @@ p_2V_3400Dasamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC80]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC80]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC80]]
 > ◄  [[bni-pc79-brahmali-pali]] 📜  [[bni-pc81-brahmali-pali]] ►

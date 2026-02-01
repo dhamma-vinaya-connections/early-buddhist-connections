@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP125]], [[DHP306]], [[SN6.10]], [[SN6.9]]"
 parallels_agama: "[[EA21.5]], [[SA-2.276]], [[SA1278]]"
 parallels_partilal: "[[DHP125]], [[JA367]], [[SN1.22]], [[SN7.4]], [[DHP306]], [[ITI48]], [[UD4.8]], [[SN6.9]], [[AN10.89]], [[SN6.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.9]]  🌐 [[SNP3.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.9]]  🌐 [[SNP3.11]] ►
 
 # SNP3.10 - Kokālikasutta - To  Kokāliya on the Results of Slander
 ## 🌐 Overview
@@ -90,10 +90,10 @@ finds no ease.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP3.10%5D%5D%22%23mynotes%20-file%3Asnp3.10-%20-file%3A%22SNP3.9%22%20-file%3A%22SNP3.11%22%20-file%3A%22SNP3.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp3.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.10
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.9]]  🌐 [[SNP3.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.9]]  🌐 [[SNP3.11]] ►

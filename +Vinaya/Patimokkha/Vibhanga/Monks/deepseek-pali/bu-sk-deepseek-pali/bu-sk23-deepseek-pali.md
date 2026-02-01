@@ -4,7 +4,7 @@ vin_title: "Oguṇṭhita - Covering Head"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK23]]
 > ◄  [[bu-sk22-deepseek-pali]] 📜  [[bu-sk24-deepseek-pali]] ►
 
 # BU-SK 23
@@ -43,5 +43,5 @@ The second training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK23]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK23]]
 > ◄  [[bu-sk22-deepseek-pali]] 📜  [[bu-sk24-deepseek-pali]] ►

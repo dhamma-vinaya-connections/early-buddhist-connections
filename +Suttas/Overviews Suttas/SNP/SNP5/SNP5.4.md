@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN3.32]], [[AN4.41]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.3]]  🌐 [[SNP5.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.3]]  🌐 [[SNP5.5]] ►
 
 # SNP5.4 - Puṇṇakamāṇavapucchā - Questions of the Student Puṇṇaka
 ## 🌐 Overview
@@ -96,10 +96,10 @@ he, I tell you, has crossed over birth &aging.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP5.4%5D%5D%22%23mynotes%20-file%3Asnp5.4-%20-file%3A%22SNP5.3%22%20-file%3A%22SNP5.5%22%20-file%3A%22SNP5.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp5.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.4
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.3]]  🌐 [[SNP5.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.3]]  🌐 [[SNP5.5]] ►

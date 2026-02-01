@@ -4,7 +4,7 @@ vin_title: "Corīvuṭṭhāpikā - Ordaining a Criminal"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS2]]
 > ◄  [[bni-ss1-brahmali-pali]] 📜  [[bni-ss3-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -223,5 +223,5 @@ Acoriyā corisaññā, āpatti dukkaṭassa. Acoriyā vematikā, āpatti dukka�
 >|       |          | [[ñanatusita-analysis#^-SS2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS2]]
 > ◄  [[bni-ss1-brahmali-pali]] 📜  [[bni-ss3-brahmali-pali]] ►

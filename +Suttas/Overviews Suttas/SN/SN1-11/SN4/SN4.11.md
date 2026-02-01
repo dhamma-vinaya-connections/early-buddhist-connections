@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.27]], [[SA1088]]"
 parallels_partilal: "[[SA-2.27]], [[SA1088]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.10]]  🌐 [[SN4.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.10]]  🌐 [[SN4.12]] ►
 
 # SN4.11 - Pāsāṇasutta - Boulder
 ## 🌐 Overview
@@ -86,10 +86,10 @@ You’re defeated, end-maker
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.11%5D%5D%22%23mynotes%20-file%3Asn4.11-%20-file%3A%22SN4.10%22%20-file%3A%22SN4.12%22%20-file%3A%22SN4.11%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.11
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.11.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.10]]  🌐 [[SN4.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.10]]  🌐 [[SN4.12]] ►

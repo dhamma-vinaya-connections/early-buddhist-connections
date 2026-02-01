@@ -4,7 +4,7 @@ vin_title: "Rūpiyasaṁvohāra - Trading With Money"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP19]]
 > ◄  [[bu-np18-horner]] 📜  [[bu-np20-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 19
@@ -61,5 +61,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP19]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP19]]
 > ◄  [[bu-np18-horner]] 📜  [[bu-np20-horner]] ►

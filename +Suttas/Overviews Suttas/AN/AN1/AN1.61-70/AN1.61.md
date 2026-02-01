@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.60]]  🌐 [[AN1.62]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.60]]  🌐 [[AN1.62]] ►
 
 # AN1.61 - Vīriyārambhādi - Energy Arousing
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.61%5D%5D%22%23mynotes%20-file%3Aan1.61-%20-file%3A%22AN1.60%22%20-file%3A%22AN1.62%22%20-file%3A%22AN1.61%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.61/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.61
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.61.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.60]]  🌐 [[AN1.62]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.60]]  🌐 [[AN1.62]] ►

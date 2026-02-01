@@ -4,7 +4,7 @@ vin_title: "Suppaṭicchanna - Being well covered"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK3]]
 > ◄  [[bni-sk2-brahmali-pali]] 📜  [[bni-sk4-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -59,5 +59,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^-SK3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK3]]
 > ◄  [[bni-sk2-brahmali-pali]] 📜  [[bni-sk4-brahmali-pali]] ►

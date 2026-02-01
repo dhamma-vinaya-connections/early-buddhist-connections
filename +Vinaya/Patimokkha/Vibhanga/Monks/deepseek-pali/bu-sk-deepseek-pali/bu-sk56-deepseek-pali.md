@@ -4,7 +4,7 @@ vin_title: "Sasitthaka - Washing Water with Rise"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK56]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK56]]
 > ◄  [[bu-sk55-deepseek-pali]] 📜  [[bu-sk57-deepseek-pali]] ►
 
 # BU-SK 56
@@ -43,5 +43,5 @@ The fourth training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK56]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK56]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK56]]
 > ◄  [[bu-sk55-deepseek-pali]] 📜  [[bu-sk57-deepseek-pali]] ►

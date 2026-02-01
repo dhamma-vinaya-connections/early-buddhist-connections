@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP205]], [[JA363]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP205]], [[JA363]], [[JA361]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.2]]  🌐 [[SNP2.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.2]]  🌐 [[SNP2.4]] ►
 
 # SNP2.3 - Hiri - Conscience
 ## 🌐 Overview
@@ -90,10 +90,10 @@ That’s a true friend
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP2.3%5D%5D%22%23mynotes%20-file%3Asnp2.3-%20-file%3A%22SNP2.2%22%20-file%3A%22SNP2.4%22%20-file%3A%22SNP2.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp2.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.3
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.2]]  🌐 [[SNP2.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.2]]  🌐 [[SNP2.4]] ►

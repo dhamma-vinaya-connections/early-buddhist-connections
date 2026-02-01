@@ -41,7 +41,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA42.4]], [[MA35]]"
 parallels_partilal: "[[EA42.4]], [[MA35]], [[PLI-TV-KD19]], [[UD5.5]], [[AN8.20]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.18]]  🌐 [[AN8.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.18]]  🌐 [[AN8.20]] ►
 
 # AN8.19 - Uposatha - Sabbath
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[EA42.4]], [[MA35]], [[PLI-TV-KD19]], [[UD5.5]], [[AN8.20]
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.19%5D%5D%22%23mynotes%20-file%3Aan8.19-%20-file%3A%22AN8.18%22%20-file%3A%22AN8.20%22%20-file%3A%22AN8.19%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.19/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.19
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.19.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.18]]  🌐 [[AN8.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.18]]  🌐 [[AN8.20]] ►

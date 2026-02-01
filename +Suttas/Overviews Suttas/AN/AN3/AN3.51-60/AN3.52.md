@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN3.51]]"
 parallels_agama: "[[SA-2.86]], [[SA-2.87]]"
 parallels_partilal: "[[SA-2.86]], [[AN3.51]], [[SA-2.87]], [[JA424]], [[SN1.41]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.51]]  🌐 [[AN3.53]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.51]]  🌐 [[AN3.53]] ►
 
 # AN3.52 - Dvebrāhmaṇa - Two Brahmins
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.86]], [[AN3.51]], [[SA-2.87]], [[JA424]], [[SN1.41]]
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.52%5D%5D%22%23mynotes%20-file%3Aan3.52-%20-file%3A%22AN3.51%22%20-file%3A%22AN3.53%22%20-file%3A%22AN3.52%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.52/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.52
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.52.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.51]]  🌐 [[AN3.53]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.51]]  🌐 [[AN3.53]] ►

@@ -41,7 +41,7 @@ parallels_nikaya: "[[DN23]]"
 parallels_agama: "[[MA71]]"
 parallels_partilal: "[[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]], [[MN77]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA6]]  🌐 [[DA8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA6]]  🌐 [[DA8]] ►
 
 # DA7 - 弊宿 - With Pāyāsi
 ## 🌐 Overview
@@ -90,10 +90,10 @@ Give gifts carefully, thoughtfully, with your own hands, not giving the dregs
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDA7%5D%5D%22%23mynotes%20-file%3Ada7-%20-file%3A%22DA6%22%20-file%3A%22DA8%22%20-file%3A%22DA7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/da7/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA6]]  🌐 [[DA8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA6]]  🌐 [[DA8]] ►

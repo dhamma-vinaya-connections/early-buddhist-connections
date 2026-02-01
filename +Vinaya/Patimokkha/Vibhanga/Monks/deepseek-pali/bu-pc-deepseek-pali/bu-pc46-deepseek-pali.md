@@ -4,7 +4,7 @@ vin_title: "Cāritta - Visiting Families Before a Meal"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC46]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC46]]
 > ◄  [[bu-pc45-deepseek-pali]] 📜  [[bu-pc47-deepseek-pali]] ►
 
 # BU-PC 46
@@ -155,5 +155,5 @@ The sixth training rule concerning conduct is concluded.
 >|       |          | [[ñanatusita-analysis#^PC46]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC46]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC46]]
 > ◄  [[bu-pc45-deepseek-pali]] 📜  [[bu-pc47-deepseek-pali]] ►

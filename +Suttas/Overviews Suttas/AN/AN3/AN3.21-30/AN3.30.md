@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.29]]  🌐 [[AN3.31]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.29]]  🌐 [[AN3.31]] ►
 
 # AN3.30 - Avakujja - Upside-Down
 ## 🌐 Overview
@@ -84,10 +84,10 @@ Would make an end of suffering.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.30%5D%5D%22%23mynotes%20-file%3Aan3.30-%20-file%3A%22AN3.29%22%20-file%3A%22AN3.31%22%20-file%3A%22AN3.30%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.30/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.30
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.30.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.29]]  🌐 [[AN3.31]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.29]]  🌐 [[AN3.31]] ►

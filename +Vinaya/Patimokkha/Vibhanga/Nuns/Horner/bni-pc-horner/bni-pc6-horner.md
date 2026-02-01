@@ -4,7 +4,7 @@ vin_title: "Upatiṭṭhana - Attending a Monk"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC6]]
 > ◄  [[bni-pc5-horner]] 📜  [[bni-pc7-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 6
@@ -67,5 +67,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC6]]
 > ◄  [[bni-pc5-horner]] 📜  [[bni-pc7-horner]] ►

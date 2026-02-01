@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN9.12]]"
 parallels_agama: "[[SA-2.355]], [[SA1335]]"
 parallels_partilal: "[[SA-2.355]], [[SA1335]], [[SN9.12]], [[JA547]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.14]]  🌐 [[SN1.16]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.14]]  🌐 [[SN1.16]] ►
 
 # SN1.15 - Saṇamānasutta - Murmuring
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.355]], [[SA1335]], [[SN9.12]], [[JA547]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.15%5D%5D%22%23mynotes%20-file%3Asn1.15-%20-file%3A%22SN1.14%22%20-file%3A%22SN1.16%22%20-file%3A%22SN1.15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.15
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.15.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.14]]  🌐 [[SN1.16]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.14]]  🌐 [[SN1.16]] ►

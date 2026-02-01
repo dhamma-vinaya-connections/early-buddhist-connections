@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN6.2]]"
 parallels_agama: "[[SA-2.101]], [[SA1188]]"
 parallels_partilal: "[[SN6.2]], [[SA-2.101]], [[SA1188]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.20]]  🌐 [[AN4.22]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.20]]  🌐 [[AN4.22]] ►
 
 # AN4.21 - Paṭhamauruvela - At Uruvelā
 ## 🌐 Overview
@@ -81,10 +81,10 @@ And since the saṅgha has also achieved greatness, I also respect the saṅgha.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.21%5D%5D%22%23mynotes%20-file%3Aan4.21-%20-file%3A%22AN4.20%22%20-file%3A%22AN4.22%22%20-file%3A%22AN4.21%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.21/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.21
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.21.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.20]]  🌐 [[AN4.22]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.20]]  🌐 [[AN4.22]] ►

@@ -4,7 +4,7 @@ vin_title: "Nikkaḍḍhana - Throwing Out"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC113]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC113]]
 > ◄  [[bni-pc112-brahmali-pali]] 📜  [[bni-pc114-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -144,5 +144,5 @@ Ye te bhikkhū appicchā … pe … te ujjhāyanti khiyyanti vipācenti: "Katha�
 >|       |          | [[ñanatusita-analysis#^-PC113]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC113]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC113]]
 > ◄  [[bni-pc112-brahmali-pali]] 📜  [[bni-pc114-brahmali-pali]] ►

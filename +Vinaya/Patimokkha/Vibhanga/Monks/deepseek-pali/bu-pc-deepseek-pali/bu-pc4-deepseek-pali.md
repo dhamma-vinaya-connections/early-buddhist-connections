@@ -4,7 +4,7 @@ vin_title: "Padasodhamma - Dhamma Memorizing"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC4]]
 > ◄  [[bu-pc3-deepseek-pali]] 📜  [[bu-pc5-deepseek-pali]] ►
 
 # BU-PC 4
@@ -79,5 +79,5 @@ The fourth training rule concerning teaching the Dhamma word by word is finished
 >|       |          | [[ñanatusita-analysis#^PC4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC4]]
 > ◄  [[bu-pc3-deepseek-pali]] 📜  [[bu-pc5-deepseek-pali]] ►

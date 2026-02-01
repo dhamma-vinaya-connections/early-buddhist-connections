@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA681-683]]"
 parallels_partilal: "[[SA681-683]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.4]]  🌐 [[AN5.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.4]]  🌐 [[AN5.6]] ►
 
 # AN5.5 - Vitthata - In Detail
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[SA681-683]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.5%5D%5D%22%23mynotes%20-file%3Aan5.5-%20-file%3A%22AN5.4%22%20-file%3A%22AN5.6%22%20-file%3A%22AN5.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.5
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.4]]  🌐 [[AN5.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.4]]  🌐 [[AN5.6]] ►

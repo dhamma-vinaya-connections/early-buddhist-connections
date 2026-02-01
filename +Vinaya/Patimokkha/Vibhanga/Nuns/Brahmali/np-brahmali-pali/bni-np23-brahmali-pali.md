@@ -4,7 +4,7 @@ vin_title: "Kayavikkaya - Bartering"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP23]]
 > ◄  [[bni-np22-brahmali-pali]] 📜  [[bni-np24-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -174,5 +174,5 @@ ubho nānappakārakāti.
 >|       |          | [[ñanatusita-analysis#^-NP23]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP23]]
 > ◄  [[bni-np22-brahmali-pali]] 📜  [[bni-np24-brahmali-pali]] ►

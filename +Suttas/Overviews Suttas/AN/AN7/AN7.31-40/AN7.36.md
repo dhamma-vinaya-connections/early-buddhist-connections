@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN3.135]]"
 parallels_agama: ""
 parallels_partilal: "[[AN3.135]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.35]]  🌐 [[AN7.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.35]]  🌐 [[AN7.37]] ►
 
 # AN7.36 - Mitta - Friend
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN3.135]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.36%5D%5D%22%23mynotes%20-file%3Aan7.36-%20-file%3A%22AN7.35%22%20-file%3A%22AN7.37%22%20-file%3A%22AN7.36%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.36
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.36.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.35]]  🌐 [[AN7.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.35]]  🌐 [[AN7.37]] ►

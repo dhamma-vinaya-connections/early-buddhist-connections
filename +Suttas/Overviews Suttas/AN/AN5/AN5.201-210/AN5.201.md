@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN6.40]], [[AN7.59]]"
 parallels_agama: ""
 parallels_partilal: "[[AN6.40]], [[AN7.59]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.200]]  🌐 [[AN5.202]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.200]]  🌐 [[AN5.202]] ►
 
 # AN5.201 - Kimila - With Kimbila
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN6.40]], [[AN7.59]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.201%5D%5D%22%23mynotes%20-file%3Aan5.201-%20-file%3A%22AN5.200%22%20-file%3A%22AN5.202%22%20-file%3A%22AN5.201%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.201/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.201
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.201.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.200]]  🌐 [[AN5.202]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.200]]  🌐 [[AN5.202]] ►

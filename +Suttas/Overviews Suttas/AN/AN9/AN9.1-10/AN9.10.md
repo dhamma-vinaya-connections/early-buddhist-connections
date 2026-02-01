@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.16]]"
 parallels_agama: "[[EA44.8]]"
 parallels_partilal: "[[AN10.16]], [[EA44.8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.9]]  🌐 [[AN9.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.9]]  🌐 [[AN9.11]] ►
 
 # AN9.10 - Puggala - Persons
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN10.16]], [[EA44.8]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.10%5D%5D%22%23mynotes%20-file%3Aan9.10-%20-file%3A%22AN9.9%22%20-file%3A%22AN9.11%22%20-file%3A%22AN9.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.10
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.9]]  🌐 [[AN9.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.9]]  🌐 [[AN9.11]] ►

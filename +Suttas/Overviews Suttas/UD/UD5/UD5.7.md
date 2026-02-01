@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.6]]  🌐 [[UD5.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.6]]  🌐 [[UD5.8]] ►
 
 # UD5.7 - Revata Sutta - About Revata
 ## 🌐 Overview
@@ -97,10 +97,10 @@ he goes where the King of Death can’t see.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD5.7%5D%5D%22%23mynotes%20-file%3Aud5.7-%20-file%3A%22UD5.6%22%20-file%3A%22UD5.8%22%20-file%3A%22UD5.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud5.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud5.7
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud5.7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.6]]  🌐 [[UD5.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.6]]  🌐 [[UD5.8]] ►

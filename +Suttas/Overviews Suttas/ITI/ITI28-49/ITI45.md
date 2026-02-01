@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI44]]  🌐 [[ITI46]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI44]]  🌐 [[ITI46]] ►
 
 # ITI45 - Paṭisallāna - Living In Seclusion
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI45%5D%5D%22%23mynotes%20-file%3Aiti45-%20-file%3A%22ITI44%22%20-file%3A%22ITI46%22%20-file%3A%22ITI45%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti45/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti45
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti45.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI44]]  🌐 [[ITI46]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI44]]  🌐 [[ITI46]] ►

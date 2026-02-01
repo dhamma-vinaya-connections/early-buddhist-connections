@@ -4,7 +4,7 @@ vin_title: "Khiyyanadhamma - Criticizing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC76]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC76]]
 > ◄  [[bni-pc75-brahmali-pali]] 📜  [[bni-pc77-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -88,5 +88,5 @@ p_2V_3360Chaṭṭhasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC76]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC76]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC76]]
 > ◄  [[bni-pc75-brahmali-pali]] 📜  [[bni-pc77-brahmali-pali]] ►

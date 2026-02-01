@@ -4,7 +4,7 @@ vin_title: "Anupakhajja - Encroaching"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC16]]
 > ◄  [[bu-pc15-deepseek-pali]] 📜  [[bu-pc17-deepseek-pali]] ►
 
 # BU-PC 16
@@ -75,5 +75,5 @@ The sixth training rule on encroaching is completed.
 >|       |          | [[ñanatusita-analysis#^PC16]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC16]]
 > ◄  [[bu-pc15-deepseek-pali]] 📜  [[bu-pc17-deepseek-pali]] ►

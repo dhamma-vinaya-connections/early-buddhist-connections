@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN22.51]], [[SN22.12-14]], [[SN35.156-157]]"
 parallels_agama: "[[SA1]]"
 parallels_partilal: "[[SA1]], [[SN22.51]], [[SN22.12-14]], [[SN35.156-157]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[PDHP25]]  🌐 [[SA2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[PDHP25]]  🌐 [[SA2]] ►
 
 # SA1 - SA 1.1-4 - Impermanent, Painful, Empty, and Not Self
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA1]], [[SN22.51]], [[SN22.12-14]], [[SN35.156-157]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSA1%5D%5D%22%23mynotes%20-file%3Asa1-%20-file%3A%22PDHP25%22%20-file%3A%22SA2%22%20-file%3A%22SA1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sa1/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[PDHP25]]  🌐 [[SA2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[PDHP25]]  🌐 [[SA2]] ►

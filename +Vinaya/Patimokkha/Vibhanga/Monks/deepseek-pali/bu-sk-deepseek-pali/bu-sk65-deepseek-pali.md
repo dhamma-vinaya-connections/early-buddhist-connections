@@ -4,7 +4,7 @@ vin_title: "Pallatthika - Knee Clasping"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK65]]
 > ◄  [[bu-sk64-deepseek-pali]] 📜  [[bu-sk66-deepseek-pali]] ►
 
 # BU-SK 65
@@ -43,5 +43,5 @@ The second training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK65]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK65]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK65]]
 > ◄  [[bu-sk64-deepseek-pali]] 📜  [[bu-sk66-deepseek-pali]] ►

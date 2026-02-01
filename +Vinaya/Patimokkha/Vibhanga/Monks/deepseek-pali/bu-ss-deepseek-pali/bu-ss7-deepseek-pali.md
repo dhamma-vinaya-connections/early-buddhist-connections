@@ -4,7 +4,7 @@ vin_title: "Vihārakāra - Building a Dwelling"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
 > ◄  [[bu-ss6-deepseek-pali]] 📜  [[bu-ss8-deepseek-pali]] ►
 
 # BU-SN 7
@@ -195,5 +195,5 @@ The training rule on building dwellings, the seventh, is finished.
 >|       |          | [[ñanatusita-analysis#^SS7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]
 > ◄  [[bu-ss6-deepseek-pali]] 📜  [[bu-ss8-deepseek-pali]] ►

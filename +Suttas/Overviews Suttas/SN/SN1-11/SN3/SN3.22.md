@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA26.7]], [[SA-2.54]], [[SA1227]]"
 parallels_partilal: "[[EA26.7]], [[SA-2.54]], [[SA1227]], [[PE1]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[SN1.43]], [[SN2.23]], [[AN5.36]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.21]]  🌐 [[SN3.23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.21]]  🌐 [[SN3.23]] ►
 
 # SN3.22 - Ayyikāsutta - Grandmother
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[EA26.7]], [[SA-2.54]], [[SA1227]], [[PE1]], [[SN3.4]], [[
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.22%5D%5D%22%23mynotes%20-file%3Asn3.22-%20-file%3A%22SN3.21%22%20-file%3A%22SN3.23%22%20-file%3A%22SN3.22%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.22/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.22
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.22.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.21]]  🌐 [[SN3.23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.21]]  🌐 [[SN3.23]] ►

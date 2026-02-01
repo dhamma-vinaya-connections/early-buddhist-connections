@@ -42,7 +42,7 @@ parallels_nikaya: "[[MN20]]; [[MN85]]"
 parallels_agama: "[[EA31.1]]; [[MA101]]"
 parallels_partilal: "[[EA31.1]]; [[MN100]]; [[MN26]]; [[MN36]]; [[MN85]]; [[MN20]]; [[MA101]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN3]]  🌐 [[MN5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN3]]  🌐 [[MN5]] ►
 
 # MN4 - Bhayabherava Sutta - Fear and Dread
 ## 🌐 Overview
@@ -87,10 +87,10 @@ If there’s anyone of whom it may be rightly said that a being not liable to d
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN4%5D%5D%22%23mynotes%20-file%3Amn4-%20-file%3A%22MN3%22%20-file%3A%22MN5%22%20-file%3A%22MN4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn4
 > - The Buddhas Words: https://thebuddhaswords.net/mn/mn4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN3]]  🌐 [[MN5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN3]]  🌐 [[MN5]] ►

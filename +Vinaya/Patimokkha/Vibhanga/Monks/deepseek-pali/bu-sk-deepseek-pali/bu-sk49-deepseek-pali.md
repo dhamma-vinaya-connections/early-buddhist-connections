@@ -4,7 +4,7 @@ vin_title: "Jivhānicchāraka - Poking Tongue"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK49]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK49]]
 > ◄  [[bu-sk48-deepseek-pali]] 📜  [[bu-sk50-deepseek-pali]] ►
 
 # BU-SK 49
@@ -43,5 +43,5 @@ The seventh training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK49]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK49]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK49]]
 > ◄  [[bu-sk48-deepseek-pali]] 📜  [[bu-sk50-deepseek-pali]] ►

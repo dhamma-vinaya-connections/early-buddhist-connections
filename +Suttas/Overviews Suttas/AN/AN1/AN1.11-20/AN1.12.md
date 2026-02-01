@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA9.9]]"
 parallels_partilal: "[[EA9.9]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.11]]  🌐 [[AN1.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.11]]  🌐 [[AN1.13]] ►
 
 # AN1.12 - Nīvaraṇappahāna - Giving Up The Hindrances
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA9.9]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.12%5D%5D%22%23mynotes%20-file%3Aan1.12-%20-file%3A%22AN1.11%22%20-file%3A%22AN1.13%22%20-file%3A%22AN1.12%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.12
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.12.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.11]]  🌐 [[AN1.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.11]]  🌐 [[AN1.13]] ►

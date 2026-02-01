@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.364]], [[SA1344]]"
 parallels_partilal: "[[SA-2.364]], [[SA1344]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.7]]  🌐 [[SN9.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.7]]  🌐 [[SN9.9]] ►
 
 # SN9.8 - Kulagharaṇīsutta - Mistress of the House
 ## 🌐 Overview
@@ -87,10 +87,10 @@ Sheds that clingy dust with a shake
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.8%5D%5D%22%23mynotes%20-file%3Asn9.8-%20-file%3A%22SN9.7%22%20-file%3A%22SN9.9%22%20-file%3A%22SN9.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.7]]  🌐 [[SN9.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.7]]  🌐 [[SN9.9]] ►

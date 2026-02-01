@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN1.170]]"
 parallels_agama: "[[EA8.2]]"
 parallels_partilal: "[[EA8.2]], [[AN1.170]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.1]]  🌐 [[EA8.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.1]]  🌐 [[EA8.3]] ►
 
 # EA8.2 - EA 8.2 - Beneficial
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA8.2]], [[AN1.170]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BEA8.2%5D%5D%22%23mynotes%20-file%3Aea8.2-%20-file%3A%22EA8.1%22%20-file%3A%22EA8.3%22%20-file%3A%22EA8.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ea8.2/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.1]]  🌐 [[EA8.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.1]]  🌐 [[EA8.3]] ►

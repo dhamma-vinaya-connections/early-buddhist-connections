@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN2.24]]"
 parallels_agama: "[[SA-2.189]], [[SA595]]"
 parallels_partilal: "[[SN2.24]], [[SA-2.189]], [[SA595]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.49]]  🌐 [[SN1.51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.49]]  🌐 [[SN1.51]] ►
 
 # SN1.50 - Ghaṭīkārasutta - Ghaṭikara
 ## 🌐 Overview
@@ -89,10 +89,10 @@ They cut through the bondage of existence.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.50%5D%5D%22%23mynotes%20-file%3Asn1.50-%20-file%3A%22SN1.49%22%20-file%3A%22SN1.51%22%20-file%3A%22SN1.50%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.50/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.50
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.50.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.49]]  🌐 [[SN1.51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.49]]  🌐 [[SN1.51]] ►

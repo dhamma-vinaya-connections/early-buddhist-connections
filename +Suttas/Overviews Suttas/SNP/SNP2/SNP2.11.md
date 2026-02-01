@@ -44,7 +44,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.10]]  🌐 [[SNP2.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.10]]  🌐 [[SNP2.12]] ►
 
 # SNP2.11 - Rāhulasutta - With Rāhula
 ## 🌐 Overview
@@ -96,10 +96,10 @@ be one who’s cultivated disenchantment.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP2.11%5D%5D%22%23mynotes%20-file%3Asnp2.11-%20-file%3A%22SNP2.10%22%20-file%3A%22SNP2.12%22%20-file%3A%22SNP2.11%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp2.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.11
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.11.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.10]]  🌐 [[SNP2.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.10]]  🌐 [[SNP2.12]] ►

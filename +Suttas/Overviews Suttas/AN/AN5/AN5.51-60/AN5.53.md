@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.52]]  🌐 [[AN5.54]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.52]]  🌐 [[AN5.54]] ►
 
 # AN5.53 - Padhāniyaṅga - Factors That Support Meditation
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.53%5D%5D%22%23mynotes%20-file%3Aan5.53-%20-file%3A%22AN5.52%22%20-file%3A%22AN5.54%22%20-file%3A%22AN5.53%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.53/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.53
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.53.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.52]]  🌐 [[AN5.54]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.52]]  🌐 [[AN5.54]] ►

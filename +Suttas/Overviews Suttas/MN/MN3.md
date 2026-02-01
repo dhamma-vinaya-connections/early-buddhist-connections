@@ -42,7 +42,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA18.3]]; [[MA88]]"
 parallels_partilal: "[[EA18.3]]; [[MA88]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN2]]  🌐 [[MN4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN2]]  🌐 [[MN4]] ►
 
 # MN3 - Dhammadāyāda Sutta - Heirs in the Teaching
 ## 🌐 Overview
@@ -91,10 +91,10 @@ The disciples of a teacher who lives in seclusion train in seclusion. They Give
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN3%5D%5D%22%23mynotes%20-file%3Amn3-%20-file%3A%22MN2%22%20-file%3A%22MN4%22%20-file%3A%22MN3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn3
 > - The Buddhas Words: https://thebuddhaswords.net/mn/mn3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN2]]  🌐 [[MN4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN2]]  🌐 [[MN4]] ►

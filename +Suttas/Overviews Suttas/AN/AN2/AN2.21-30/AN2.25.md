@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA18.9]]"
 parallels_partilal: "[[EA18.9]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.24]]  🌐 [[AN2.26]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.24]]  🌐 [[AN2.26]] ►
 
 # AN2.25 - Neyyatha - Meaning To Be Inferred
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA18.9]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.25%5D%5D%22%23mynotes%20-file%3Aan2.25-%20-file%3A%22AN2.24%22%20-file%3A%22AN2.26%22%20-file%3A%22AN2.25%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.25
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.25.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.24]]  🌐 [[AN2.26]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.24]]  🌐 [[AN2.26]] ►

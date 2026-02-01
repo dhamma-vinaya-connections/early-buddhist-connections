@@ -4,7 +4,7 @@ vin_title: "Pāyantī - Ordaining a Breastfeeding Woman"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC62]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC62]]
 > ◄  [[bni-pc61-brahmali-pali]] 📜  [[bni-pc63-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -100,5 +100,5 @@ p_2V_3200Dutiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC62]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC62]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC62]]
 > ◄  [[bni-pc61-brahmali-pali]] 📜  [[bni-pc63-brahmali-pali]] ►

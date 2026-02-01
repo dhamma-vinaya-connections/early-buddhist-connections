@@ -4,7 +4,7 @@ index:
 rule_type: "BU-AS - Adhikarana samatha - Settling issues"
 vin_gender: "Monks"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-AS 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-AS 
 
 # BU-AS - Adhikarana samatha - Settling issues
 

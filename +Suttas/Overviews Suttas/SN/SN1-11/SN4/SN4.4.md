@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN4.15]], [[SN4.5]]"
 parallels_agama: "[[SA-2.25]], [[SA1086]], [[SA1096]]"
 parallels_partilal: "[[PLI-TV-KD1]], [[SN4.15]], [[SA-2.25]], [[SA1086]], [[SN4.5]], [[SA1096]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.3]]  🌐 [[SN4.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.3]]  🌐 [[SN4.5]] ►
 
 # SN4.4 - Paṭhamamārapāsasutta - Māra's Snare (1)
 ## 🌐 Overview
@@ -84,10 +84,10 @@ Don’t fall under Māra’s sway
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.4%5D%5D%22%23mynotes%20-file%3Asn4.4-%20-file%3A%22SN4.3%22%20-file%3A%22SN4.5%22%20-file%3A%22SN4.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.3]]  🌐 [[SN4.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.3]]  🌐 [[SN4.5]] ►

@@ -4,7 +4,7 @@ vin_title: "Pattasaññī - Eating With Attention on the Bowl"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK32]]
 > ◄  [[bu-sk31-deepseek-pali]] 📜  [[bu-sk33-deepseek-pali]] ►
 
 # BU-SK 32
@@ -47,5 +47,5 @@ The first training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK32]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK32]]
 > ◄  [[bu-sk31-deepseek-pali]] 📜  [[bu-sk33-deepseek-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Puggalikacetāpana - Exchanging Personal Property"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP10]]
 > ◄  [[bni-np9-brahmali-pali]] 📜  [[bni-np11-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -128,5 +128,5 @@ Nissajjitabbaṁ saṁghassa vā gaṇassa vā ekabhikkhuniyā vā. Evañca pana
 >|       |          | [[ñanatusita-analysis#^-NP10]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP10]]
 > ◄  [[bni-np9-brahmali-pali]] 📜  [[bni-np11-brahmali-pali]] ►

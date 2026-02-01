@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.85]]"
 parallels_agama: "[[SA-2.69]], [[SA1146]]"
 parallels_partilal: "[[SA-2.69]], [[SA1146]], [[AN4.85]], [[PE8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.20]]  🌐 [[SN3.22]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.20]]  🌐 [[SN3.22]] ►
 
 # SN3.21 - Puggalasutta - Persons
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.69]], [[SA1146]], [[AN4.85]], [[PE8]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.21%5D%5D%22%23mynotes%20-file%3Asn3.21-%20-file%3A%22SN3.20%22%20-file%3A%22SN3.22%22%20-file%3A%22SN3.21%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.21/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.21
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.21.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.20]]  🌐 [[SN3.22]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.20]]  🌐 [[SN3.22]] ►

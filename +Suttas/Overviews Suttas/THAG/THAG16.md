@@ -44,7 +44,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG15]]  🌐 [[THAG17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG15]]  🌐 [[THAG17]] ►
 
 # THAG16 - Vīsatinipātavagga - Twenties Book
 ## 🌐 Overview
@@ -95,10 +95,10 @@ this is the best happiness.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHAG16%5D%5D%22%23mynotes%20-file%3Athag16-%20-file%3A%22THAG15%22%20-file%3A%22THAG17%22%20-file%3A%22THAG16%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thag16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag16
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag16.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG15]]  🌐 [[THAG17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG15]]  🌐 [[THAG17]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PE1]], [[PE2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.2]]  🌐 [[UD7.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.2]]  🌐 [[UD7.4]] ►
 
 # UD7.3 - Satta Sutta - Attached to Sensual Pleasures (1)
 ## 🌐 Overview
@@ -93,10 +93,10 @@ like a suckling calf its mother
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD7.3%5D%5D%22%23mynotes%20-file%3Aud7.3-%20-file%3A%22UD7.2%22%20-file%3A%22UD7.4%22%20-file%3A%22UD7.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud7.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.3
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.2]]  🌐 [[UD7.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.2]]  🌐 [[UD7.4]] ►

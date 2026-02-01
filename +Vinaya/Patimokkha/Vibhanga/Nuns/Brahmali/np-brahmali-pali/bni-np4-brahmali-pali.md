@@ -4,7 +4,7 @@ vin_title: "Aññaviññāpana - Asking for Something Else"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP4]]
 > ◄  [[bni-np3-brahmali-pali]] 📜  [[bni-np5-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -136,5 +136,5 @@ Nissajjitabbaṁ saṁghassa vā gaṇassa vā ekabhikkhuniyā vā. Evañca pana
 >|       |          | [[ñanatusita-analysis#^-NP4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP4]]
 > ◄  [[bni-np3-brahmali-pali]] 📜  [[bni-np5-brahmali-pali]] ►

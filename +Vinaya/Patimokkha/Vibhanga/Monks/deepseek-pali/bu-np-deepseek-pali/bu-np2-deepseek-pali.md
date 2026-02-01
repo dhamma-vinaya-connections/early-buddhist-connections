@@ -4,7 +4,7 @@ vin_title: "Udosita - Robes Staying Apart"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP2]]
 > ◄  [[bu-np1-deepseek-pali]] 📜  [[bu-np3-deepseek-pali]] ►
 
 # BU-NP 2
@@ -175,5 +175,5 @@ The second training rule concerning dwelling apart from the robe is concluded.
 >|       |          | [[ñanatusita-analysis#^NP2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP2]]
 > ◄  [[bu-np1-deepseek-pali]] 📜  [[bu-np3-deepseek-pali]] ►

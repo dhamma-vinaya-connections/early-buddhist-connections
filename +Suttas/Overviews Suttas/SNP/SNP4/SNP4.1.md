@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[JA467]], [[PE2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.12]]  🌐 [[SNP4.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.12]]  🌐 [[SNP4.2]] ►
 
 # SNP4.1 - Kāmasutta - Sensual Pleasures
 ## 🌐 Overview
@@ -94,10 +94,10 @@ has reached the far shore.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP4.1%5D%5D%22%23mynotes%20-file%3Asnp4.1-%20-file%3A%22SNP3.12%22%20-file%3A%22SNP4.2%22%20-file%3A%22SNP4.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp4.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.1
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.12]]  🌐 [[SNP4.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.12]]  🌐 [[SNP4.2]] ►

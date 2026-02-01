@@ -4,7 +4,7 @@ vin_title: "Omasavāda - Speech Abusive"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC2]]
 > ◄  [[bu-pc1-horner]] 📜  [[bu-pc3-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 2
@@ -164,5 +164,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC2]]
 > ◄  [[bu-pc1-horner]] 📜  [[bu-pc3-horner]] ►

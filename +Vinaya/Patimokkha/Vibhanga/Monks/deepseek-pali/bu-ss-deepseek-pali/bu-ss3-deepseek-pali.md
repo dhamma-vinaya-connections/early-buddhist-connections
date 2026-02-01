@@ -4,7 +4,7 @@ vin_title: "Duṭṭhullavācā - Indecent Speech"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
 > ◄  [[bu-ss2-deepseek-pali]] 📜  [[bu-ss4-deepseek-pali]] ►
 
 # BU-SN 3
@@ -219,5 +219,5 @@ The third training rule on lewd speech is concluded.
 >|       |          | [[ñanatusita-analysis#^SS3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
 > ◄  [[bu-ss2-deepseek-pali]] 📜  [[bu-ss4-deepseek-pali]] ►

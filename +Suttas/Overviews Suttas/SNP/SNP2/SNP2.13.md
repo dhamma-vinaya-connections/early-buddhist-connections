@@ -44,7 +44,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.12]]  🌐 [[SNP2.14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.12]]  🌐 [[SNP2.14]] ►
 
 # SNP2.13 - Sammāparibbājanīyasutta - Rightly Wander
 ## 🌐 Overview
@@ -92,10 +92,10 @@ they’d rightly wander the world.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP2.13%5D%5D%22%23mynotes%20-file%3Asnp2.13-%20-file%3A%22SNP2.12%22%20-file%3A%22SNP2.14%22%20-file%3A%22SNP2.13%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp2.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.13
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.13.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.12]]  🌐 [[SNP2.14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.12]]  🌐 [[SNP2.14]] ►

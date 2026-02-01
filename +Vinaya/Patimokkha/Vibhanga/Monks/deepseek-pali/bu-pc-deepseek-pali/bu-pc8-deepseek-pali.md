@@ -4,7 +4,7 @@ vin_title: "Bhūtārocana - Disclose Attainment"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
 > ◄  [[bu-pc7-deepseek-pali]] 📜  [[bu-pc9-deepseek-pali]] ►
 
 # BU-PC 8
@@ -327,5 +327,5 @@ The eighth training rule on truthful disclosure is concluded.
 >|       |          | [[ñanatusita-analysis#^PC8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
 > ◄  [[bu-pc7-deepseek-pali]] 📜  [[bu-pc9-deepseek-pali]] ►

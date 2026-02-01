@@ -4,7 +4,7 @@ vin_title: "Anādariya - Disrespect"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
 > ◄  [[bu-pc53-horner]] 📜  [[bu-pc55-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 54
@@ -59,5 +59,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC54]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
 > ◄  [[bu-pc53-horner]] 📜  [[bu-pc55-horner]] ►

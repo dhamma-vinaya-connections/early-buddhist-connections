@@ -4,7 +4,7 @@ vin_title: "Kaṇḍuppaṭicchādi - Bandage"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC90]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC90]]
 > ◄  [[bu-pc89-deepseek-pali]] 📜  [[bu-pc91-deepseek-pali]] ►
 
 # BU-PC 90
@@ -59,5 +59,5 @@ The eighth training rule concerning an itch-covering is concluded.
 >|       |          | [[ñanatusita-analysis#^PC90]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC90]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC90]]
 > ◄  [[bu-pc89-deepseek-pali]] 📜  [[bu-pc91-deepseek-pali]] ►

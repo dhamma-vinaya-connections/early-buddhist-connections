@@ -4,7 +4,7 @@ vin_title: "Anubandha-sikkhamānana-vuṭṭhāpana - Not Ordaining Trainees Aft
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC78]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC78]]
 > ◄  [[bni-pc77-brahmali-pali]] 📜  [[bni-pc79-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -104,5 +104,5 @@ p_2V_3383Aṭṭhamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC78]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC78]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC78]]
 > ◄  [[bni-pc77-brahmali-pali]] 📜  [[bni-pc79-brahmali-pali]] ►

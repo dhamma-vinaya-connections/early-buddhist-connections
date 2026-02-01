@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA11.6]]"
 parallels_partilal: "[[EA11.6]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.29]]  🌐 [[AN1.31]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.29]]  🌐 [[AN1.31]] ►
 
 # AN1.30 - Akammaniya - Useless
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA11.6]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.30%5D%5D%22%23mynotes%20-file%3Aan1.30-%20-file%3A%22AN1.29%22%20-file%3A%22AN1.31%22%20-file%3A%22AN1.30%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.30/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.30
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.30.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.29]]  🌐 [[AN1.31]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.29]]  🌐 [[AN1.31]] ►

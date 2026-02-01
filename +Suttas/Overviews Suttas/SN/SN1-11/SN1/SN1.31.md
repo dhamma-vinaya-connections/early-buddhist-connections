@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.285]], [[SA1287]]"
 parallels_partilal: "[[SA-2.285]], [[SA1287]], [[SN2.21]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.30]]  🌐 [[SN1.32]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.30]]  🌐 [[SN1.32]] ►
 
 # SN1.31 - Sabbhisutta - With the Good
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.285]], [[SA1287]], [[SN2.21]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.31%5D%5D%22%23mynotes%20-file%3Asn1.31-%20-file%3A%22SN1.30%22%20-file%3A%22SN1.32%22%20-file%3A%22SN1.31%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.31/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.31
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.31.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.30]]  🌐 [[SN1.32]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.30]]  🌐 [[SN1.32]] ►

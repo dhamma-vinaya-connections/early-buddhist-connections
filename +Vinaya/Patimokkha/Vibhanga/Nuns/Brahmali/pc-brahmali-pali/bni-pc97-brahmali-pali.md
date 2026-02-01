@@ -4,7 +4,7 @@ vin_title: "Musāvāda - Lying"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC97]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC97]]
 > ◄  [[bni-pc96-brahmali-pali]] 📜  [[bni-pc98-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -189,5 +189,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṁ, moghapurisa, titthiy
 >|       |          | [[ñanatusita-analysis#^-PC97]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC97]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC97]]
 > ◄  [[bni-pc96-brahmali-pali]] 📜  [[bni-pc98-brahmali-pali]] ►

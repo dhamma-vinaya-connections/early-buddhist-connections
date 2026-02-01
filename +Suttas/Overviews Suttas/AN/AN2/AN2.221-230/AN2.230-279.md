@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.180-229]]  🌐 [[AN2.280-309]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.180-229]]  🌐 [[AN2.280-309]] ►
 
 # AN2.230-279 - Akusala Peyyāla - Abbreviated Texts With Unskillful
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.230-279%5D%5D%22%23mynotes%20-file%3Aan2.230-279-%20-file%3A%22AN2.180-229%22%20-file%3A%22AN2.280-309%22%20-file%3A%22AN2.230-279%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.230-279/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.230-279
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.230-279.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.180-229]]  🌐 [[AN2.280-309]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.180-229]]  🌐 [[AN2.280-309]] ►

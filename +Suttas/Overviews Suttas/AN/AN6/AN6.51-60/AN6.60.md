@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA82]]"
 parallels_partilal: "[[MA82]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.59]]  🌐 [[AN6.61]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.59]]  🌐 [[AN6.61]] ►
 
 # AN6.60 - Hatthisāriputta - With Hatthisāriputta
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[MA82]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.60%5D%5D%22%23mynotes%20-file%3Aan6.60-%20-file%3A%22AN6.59%22%20-file%3A%22AN6.61%22%20-file%3A%22AN6.60%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.60/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.60
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.60.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.59]]  🌐 [[AN6.61]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.59]]  🌐 [[AN6.61]] ►

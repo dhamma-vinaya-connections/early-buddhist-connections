@@ -4,7 +4,7 @@ vin_title: "Saṁsaṭṭhānuvattaka - Siding with Socializing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS13]]
 > ◄  [[bni-ss12-brahmali-pali]] 📜  [[bni-ss14-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -232,5 +232,5 @@ Bhikkhunīvibhaṅge saṁghādisesakaṇḍaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-SS13]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS13]]
 > ◄  [[bni-ss12-brahmali-pali]] 📜  [[bni-ss14-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA8.2]]"
 parallels_partilal: "[[EA8.2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.161]]  🌐 [[AN1.171-174]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.161]]  🌐 [[AN1.171-174]] ►
 
 # AN1.170 - Ekapuggala - One Person
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA8.2]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.170%5D%5D%22%23mynotes%20-file%3Aan1.170-%20-file%3A%22AN1.161%22%20-file%3A%22AN1.171-174%22%20-file%3A%22AN1.170%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.170/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.170
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.170.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.161]]  🌐 [[AN1.171-174]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.161]]  🌐 [[AN1.171-174]] ►

@@ -4,7 +4,7 @@ vin_title: "Samaṇuddesaantarāyika - Obstructions and a Novice"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC70]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC70]]
 > ◄  [[bu-pc69-deepseek-pali]] 📜  [[bu-pc71-deepseek-pali]] ►
 
 # BU-PC 70
@@ -127,5 +127,5 @@ Intentional killing of living beings, bribery, concealing a grave offense; less 
 >|       |          | [[ñanatusita-analysis#^PC70]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC70]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC70]]
 > ◄  [[bu-pc69-deepseek-pali]] 📜  [[bu-pc71-deepseek-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.70]], [[SA1147]]"
 parallels_partilal: "[[SA-2.70]], [[SA1147]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.24]]  🌐 [[SN4.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.24]]  🌐 [[SN4.1]] ►
 
 # SN3.25 - Pabbatūpamasutta - The Simile of the Mountain
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[SA-2.70]], [[SA1147]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.25%5D%5D%22%23mynotes%20-file%3Asn3.25-%20-file%3A%22SN3.24%22%20-file%3A%22SN4.1%22%20-file%3A%22SN3.25%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.25
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.25.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.24]]  🌐 [[SN4.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.24]]  🌐 [[SN4.1]] ►

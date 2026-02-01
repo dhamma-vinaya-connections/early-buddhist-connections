@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA28.2]]"
 parallels_partilal: "[[EA28.2]], [[PLI-TV-KD22]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.49]]  🌐 [[AN4.51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.49]]  🌐 [[AN4.51]] ►
 
 # AN4.50 - Upakkilesa - Obscurations
 ## 🌐 Overview
@@ -85,10 +85,10 @@ Impure, dirty creatures
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.50%5D%5D%22%23mynotes%20-file%3Aan4.50-%20-file%3A%22AN4.49%22%20-file%3A%22AN4.51%22%20-file%3A%22AN4.50%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.50/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.50
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.50.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.49]]  🌐 [[AN4.51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.49]]  🌐 [[AN4.51]] ►

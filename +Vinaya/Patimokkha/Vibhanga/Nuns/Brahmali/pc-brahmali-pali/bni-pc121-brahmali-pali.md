@@ -4,7 +4,7 @@ vin_title: "Sannidhikāraka - Food Storing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC121]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC121]]
 > ◄  [[bni-pc120-brahmali-pali]] 📜  [[bni-pc122-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -122,5 +122,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṁ, belaṭṭhasīsa, s
 >|       |          | [[ñanatusita-analysis#^-PC121]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC121]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC121]]
 > ◄  [[bni-pc120-brahmali-pali]] 📜  [[bni-pc122-brahmali-pali]] ►

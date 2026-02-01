@@ -38,7 +38,7 @@ parallels_nikaya: "[[MN9]]"
 parallels_agama: "[[MA29]], [[SA344]]"
 parallels_partilal: "[[MA29]], [[SA344]], [[MN9]], [[MN101]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.12]]  🌐 [[AN9.14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.12]]  🌐 [[AN9.14]] ►
 
 # AN9.13 - Koṭṭhika - Kotthita
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[MA29]], [[SA344]], [[MN9]], [[MN101]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.13%5D%5D%22%23mynotes%20-file%3Aan9.13-%20-file%3A%22AN9.12%22%20-file%3A%22AN9.14%22%20-file%3A%22AN9.13%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.13
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.13.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.12]]  🌐 [[AN9.14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.12]]  🌐 [[AN9.14]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DN33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.30]]  🌐 [[AN9.32]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.30]]  🌐 [[AN9.32]] ►
 
 # AN9.31 - Anupubbavihārasamāpatti - Meditation Progressions
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[DN33]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.31%5D%5D%22%23mynotes%20-file%3Aan9.31-%20-file%3A%22AN9.30%22%20-file%3A%22AN9.32%22%20-file%3A%22AN9.31%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.31/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.31
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.31.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.30]]  🌐 [[AN9.32]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.30]]  🌐 [[AN9.32]] ►

@@ -4,7 +4,7 @@ vin_title: "Kāyasaṁsagga - Physical Contact"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
 > ◄  [[bu-ss1-horner]] 📜  [[bu-ss3-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 2
@@ -309,5 +309,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS2]]
 > ◄  [[bu-ss1-horner]] 📜  [[bu-ss3-horner]] ►

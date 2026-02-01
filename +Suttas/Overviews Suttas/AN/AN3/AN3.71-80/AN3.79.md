@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP54]]"
 parallels_agama: "[[EA23.5]], [[SA-2.12]], [[SA1073]]"
 parallels_partilal: "[[EA23.5]], [[SA-2.12]], [[SA1073]], [[DHP54]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.78]]  🌐 [[AN3.80]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.78]]  🌐 [[AN3.80]] ►
 
 # AN3.79 - Gandhajāta - Fragrances
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA23.5]], [[SA-2.12]], [[SA1073]], [[DHP54]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.79%5D%5D%22%23mynotes%20-file%3Aan3.79-%20-file%3A%22AN3.78%22%20-file%3A%22AN3.80%22%20-file%3A%22AN3.79%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.79/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.79
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.79.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.78]]  🌐 [[AN3.80]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.78]]  🌐 [[AN3.80]] ►

@@ -4,7 +4,7 @@ vin_title: "Bhesajja - Tonics Five"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
 > ◄  [[bu-np22-deepseek-pali]] 📜  [[bu-np24-deepseek-pali]] ►
 
 # BU-NP 23
@@ -79,5 +79,5 @@ The third training rule on medicines is concluded.
 >|       |          | [[ñanatusita-analysis#^NP23]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
 > ◄  [[bu-np22-deepseek-pali]] 📜  [[bu-np24-deepseek-pali]] ►

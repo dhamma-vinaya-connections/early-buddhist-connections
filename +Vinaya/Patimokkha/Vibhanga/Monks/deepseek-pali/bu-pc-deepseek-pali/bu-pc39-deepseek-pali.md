@@ -4,7 +4,7 @@ vin_title: "Paṇītabhojana - Food Fine Asking"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC39]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC39]]
 > ◄  [[bu-pc38-deepseek-pali]] 📜  [[bu-pc40-deepseek-pali]] ►
 
 # BU-PC 39
@@ -119,5 +119,5 @@ The ninth training rule on choice foods is finished.
 >|       |          | [[ñanatusita-analysis#^PC39]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC39]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC39]]
 > ◄  [[bu-pc38-deepseek-pali]] 📜  [[bu-pc40-deepseek-pali]] ►

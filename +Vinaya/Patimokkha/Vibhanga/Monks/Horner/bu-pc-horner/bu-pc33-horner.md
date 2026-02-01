@@ -4,7 +4,7 @@ vin_title: "Paramparabhojana - Eating Successive Meals"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
 > ◄  [[bu-pc32-horner]] 📜  [[bu-pc34-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 33
@@ -123,5 +123,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC33]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
 > ◄  [[bu-pc32-horner]] 📜  [[bu-pc34-horner]] ►

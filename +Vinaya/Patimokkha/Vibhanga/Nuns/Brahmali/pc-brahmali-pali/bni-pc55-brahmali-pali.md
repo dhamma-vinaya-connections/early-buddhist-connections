@@ -4,7 +4,7 @@ vin_title: "Kulamaccharinī - Stingy With Families"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC55]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC55]]
 > ◄  [[bni-pc54-brahmali-pali]] 📜  [[bni-pc56-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -94,5 +94,5 @@ p_2V_3144Pañcamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC55]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC55]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC55]]
 > ◄  [[bni-pc54-brahmali-pali]] 📜  [[bni-pc56-brahmali-pali]] ►

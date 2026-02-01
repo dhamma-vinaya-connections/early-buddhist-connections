@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN5.56]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.16]]  🌐 [[AN6.18]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.16]]  🌐 [[AN6.18]] ►
 
 # AN6.17 - Soppa - Sleep
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[AN5.56]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.17%5D%5D%22%23mynotes%20-file%3Aan6.17-%20-file%3A%22AN6.16%22%20-file%3A%22AN6.18%22%20-file%3A%22AN6.17%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.17/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.17
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.17.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.16]]  🌐 [[AN6.18]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.16]]  🌐 [[AN6.18]] ►

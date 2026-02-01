@@ -4,7 +4,7 @@ vin_title: "Pariṇāmana - Diverting Gains"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC82]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC82]]
 > ◄  [[bu-pc81-brahmali-pali]] 📜  [[bu-pc83-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -148,5 +148,5 @@ dabbañca pariṇāmananti.
 >|       |          | [[ñanatusita-analysis#^PC82]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC82]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC82]]
 > ◄  [[bu-pc81-brahmali-pali]] 📜  [[bu-pc83-brahmali-pali]] ►

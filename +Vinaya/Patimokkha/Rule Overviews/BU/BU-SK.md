@@ -4,7 +4,7 @@ index:
 rule_type: "BU-SK - Sekhiya - Training"
 vin_gender: "Monks"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-SK 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-SK 
 
 # BU-SK - Sekhiya - Training
 

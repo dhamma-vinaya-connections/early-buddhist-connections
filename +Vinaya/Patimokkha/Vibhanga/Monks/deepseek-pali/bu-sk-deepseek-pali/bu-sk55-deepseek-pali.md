@@ -4,7 +4,7 @@ vin_title: "Sāmisa - Soiling"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK55]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK55]]
 > ◄  [[bu-sk54-deepseek-pali]] 📜  [[bu-sk56-deepseek-pali]] ►
 
 # BU-SK 55
@@ -43,5 +43,5 @@ The third training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK55]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK55]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK55]]
 > ◄  [[bu-sk54-deepseek-pali]] 📜  [[bu-sk56-deepseek-pali]] ►

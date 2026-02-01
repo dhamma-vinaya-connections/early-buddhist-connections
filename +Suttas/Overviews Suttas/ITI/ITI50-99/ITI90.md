@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.34]]"
 parallels_agama: "[[EA21.1]], [[SA902-904]]"
 parallels_partilal: "[[AN4.34]], [[EA21.1]], [[AN5.32]], [[SA902-904]], [[SN45.139]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI89]]  🌐 [[ITI91]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI89]]  🌐 [[ITI91]] ►
 
 # ITI90 - Aggappasāda - Confidence best
 ## 🌐 Overview
@@ -84,10 +84,10 @@ realizing the supreme Dhamma to be supreme;
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI90%5D%5D%22%23mynotes%20-file%3Aiti90-%20-file%3A%22ITI89%22%20-file%3A%22ITI91%22%20-file%3A%22ITI90%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti90/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti90
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti90.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI89]]  🌐 [[ITI91]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI89]]  🌐 [[ITI91]] ►

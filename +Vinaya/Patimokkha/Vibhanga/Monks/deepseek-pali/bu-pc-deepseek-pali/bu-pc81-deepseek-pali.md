@@ -4,7 +4,7 @@ vin_title: "Dubbala - Criticizing Robe Distribution"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC81]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC81]]
 > ◄  [[bu-pc80-deepseek-pali]] 📜  [[bu-pc82-deepseek-pali]] ►
 
 # BU-PC 81
@@ -83,5 +83,5 @@ The eleventh training rule, concerning weakness, is concluded.
 >|       |          | [[ñanatusita-analysis#^PC81]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC81]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC81]]
 > ◄  [[bu-pc80-deepseek-pali]] 📜  [[bu-pc82-deepseek-pali]] ►

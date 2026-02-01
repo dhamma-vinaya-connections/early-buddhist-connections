@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[THAG3.13]], [[DN16]], [[PE3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.13]]  🌐 [[SN6.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.13]]  🌐 [[SN6.15]] ►
 
 # SN6.14 - Aruṇavatīsutta - Aruṇavati
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Will make an end to suffering.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN6.14%5D%5D%22%23mynotes%20-file%3Asn6.14-%20-file%3A%22SN6.13%22%20-file%3A%22SN6.15%22%20-file%3A%22SN6.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn6.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.14
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.13]]  🌐 [[SN6.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.13]]  🌐 [[SN6.15]] ►

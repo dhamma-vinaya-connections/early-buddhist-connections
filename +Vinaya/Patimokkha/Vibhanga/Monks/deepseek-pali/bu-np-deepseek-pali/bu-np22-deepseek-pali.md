@@ -4,7 +4,7 @@ vin_title: "Ūnapañcabandhana - Bowl With Fewer Than 5 Mends"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP22]]
 > ◄  [[bu-np21-deepseek-pali]] 📜  [[bu-np23-deepseek-pali]] ►
 
 # BU-NP 22
@@ -151,5 +151,5 @@ The second training rule, concerning fewer than five bands, is concluded.
 >|       |          | [[ñanatusita-analysis#^NP22]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP22]]
 > ◄  [[bu-np21-deepseek-pali]] 📜  [[bu-np23-deepseek-pali]] ►

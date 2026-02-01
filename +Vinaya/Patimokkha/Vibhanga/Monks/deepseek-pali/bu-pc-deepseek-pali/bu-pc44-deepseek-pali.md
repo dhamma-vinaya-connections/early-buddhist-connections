@@ -4,7 +4,7 @@ vin_title: "Rahopaṭicchanna - Sitting in Concealed Place"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC44]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC44]]
 > ◄  [[bu-pc43-deepseek-pali]] 📜  [[bu-pc45-deepseek-pali]] ►
 
 # BU-PC 44
@@ -75,5 +75,5 @@ The training rule concerning a secluded and concealed seat, the fourth, is concl
 >|       |          | [[ñanatusita-analysis#^PC44]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC44]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC44]]
 > ◄  [[bu-pc43-deepseek-pali]] 📜  [[bu-pc45-deepseek-pali]] ►

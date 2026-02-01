@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG7]]  🌐 [[THIG9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG7]]  🌐 [[THIG9]] ►
 
 # THIG8 - Aṭṭhakanipātavagga - Eights Book
 ## 🌐 Overview
@@ -89,10 +89,10 @@ my mind adores that place
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHIG8%5D%5D%22%23mynotes%20-file%3Athig8-%20-file%3A%22THIG7%22%20-file%3A%22THIG9%22%20-file%3A%22THIG8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thig8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig8
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG7]]  🌐 [[THIG9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG7]]  🌐 [[THIG9]] ►

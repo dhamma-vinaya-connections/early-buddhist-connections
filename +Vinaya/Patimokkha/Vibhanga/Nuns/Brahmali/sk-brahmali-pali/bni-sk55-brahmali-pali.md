@@ -4,7 +4,7 @@ vin_title: "Sāmisa - Soiling"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK55]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK55]]
 > ◄  [[bni-sk54-brahmali-pali]] 📜  [[bni-sk56-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -78,5 +78,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma te, bhikkhave, moghapurisā 
 >|       |          | [[ñanatusita-analysis#^-SK55]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK55]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK55]]
 > ◄  [[bni-sk54-brahmali-pali]] 📜  [[bni-sk56-brahmali-pali]] ►

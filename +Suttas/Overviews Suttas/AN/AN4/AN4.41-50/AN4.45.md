@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.46]], [[SN2.26]]"
 parallels_agama: "[[EA43.1]], [[SA-2.306]], [[SA1307]]"
 parallels_partilal: "[[AN4.46]], [[SA-2.306]], [[SA1307]], [[SN2.26]], [[EA43.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.44]]  🌐 [[AN4.46]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.44]]  🌐 [[AN4.46]] ►
 
 # AN4.45 - Rohitassa - Rohitassa
 ## 🌐 Overview
@@ -88,10 +88,10 @@ There’s no release from suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.45%5D%5D%22%23mynotes%20-file%3Aan4.45-%20-file%3A%22AN4.44%22%20-file%3A%22AN4.46%22%20-file%3A%22AN4.45%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.45/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.45
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.45.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.44]]  🌐 [[AN4.46]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.44]]  🌐 [[AN4.46]] ►

@@ -4,7 +4,7 @@ vin_title: "Duṭṭhullārocana - Disclose Others Offense"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC9]]
 > ◄  [[bu-pc8-horner]] 📜  [[bu-pc10-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 9
@@ -83,5 +83,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC9]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC9]]
 > ◄  [[bu-pc8-horner]] 📜  [[bu-pc10-horner]] ►

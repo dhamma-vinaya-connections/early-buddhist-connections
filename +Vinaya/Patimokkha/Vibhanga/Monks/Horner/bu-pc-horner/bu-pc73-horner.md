@@ -4,7 +4,7 @@ vin_title: "Mohana - Deception"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
 > ◄  [[bu-pc72-horner]] 📜  [[bu-pc74-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 73
@@ -69,5 +69,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC73]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
 > ◄  [[bu-pc72-horner]] 📜  [[bu-pc74-horner]] ►

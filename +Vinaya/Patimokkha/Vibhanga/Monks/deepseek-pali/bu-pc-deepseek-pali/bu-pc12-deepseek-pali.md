@@ -4,7 +4,7 @@ vin_title: "Aññavādaka - Speech Evasive"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
 > ◄  [[bu-pc11-deepseek-pali]] 📜  [[bu-pc13-deepseek-pali]] ►
 
 # BU-PC 12
@@ -103,5 +103,5 @@ The second training rule on evasive speech is finished.
 >|       |          | [[ñanatusita-analysis#^PC12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC12]]
 > ◄  [[bu-pc11-deepseek-pali]] 📜  [[bu-pc13-deepseek-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.84]]  🌐 [[AN7.86]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.84]]  🌐 [[AN7.86]] ►
 
 # AN7.85 - Bhikkhu - Mendicant
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.85%5D%5D%22%23mynotes%20-file%3Aan7.85-%20-file%3A%22AN7.84%22%20-file%3A%22AN7.86%22%20-file%3A%22AN7.85%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.85/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.85
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.85.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.84]]  🌐 [[AN7.86]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.84]]  🌐 [[AN7.86]] ►

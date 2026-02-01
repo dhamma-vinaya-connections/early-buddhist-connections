@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.89]]  🌐 [[AN6.91]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.89]]  🌐 [[AN6.91]] ►
 
 # AN6.90 - Pahīna - Given Up
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.90%5D%5D%22%23mynotes%20-file%3Aan6.90-%20-file%3A%22AN6.89%22%20-file%3A%22AN6.91%22%20-file%3A%22AN6.90%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.90/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.90
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.90.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.89]]  🌐 [[AN6.91]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.89]]  🌐 [[AN6.91]] ►

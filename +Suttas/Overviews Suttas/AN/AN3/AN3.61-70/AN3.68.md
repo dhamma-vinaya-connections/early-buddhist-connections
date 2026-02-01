@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.108]]"
 parallels_agama: "[[EA21.7]]"
 parallels_partilal: "[[AN10.108]], [[EA21.7]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.67]]  🌐 [[AN3.69]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.67]]  🌐 [[AN3.69]] ►
 
 # AN3.68 - Aññatitthiya - Followers Of Other Paths
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[AN10.108]], [[EA21.7]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.68%5D%5D%22%23mynotes%20-file%3Aan3.68-%20-file%3A%22AN3.67%22%20-file%3A%22AN3.69%22%20-file%3A%22AN3.68%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.68/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.68
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.68.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.67]]  🌐 [[AN3.69]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.67]]  🌐 [[AN3.69]] ►

@@ -4,7 +4,7 @@ vin_title: "Uyyuttasenā - Army on Duty Visiting"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC129]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC129]]
 > ◄  [[bni-pc128-brahmali-pali]] 📜  [[bni-pc130-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -158,5 +158,5 @@ Anuyyutte uyyuttasaññī, āpatti dukkaṭassa. Anuyyutte vematiko, āpatti duk
 >|       |          | [[ñanatusita-analysis#^-PC129]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC129]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC129]]
 > ◄  [[bni-pc128-brahmali-pali]] 📜  [[bni-pc130-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA691]]"
 parallels_partilal: "[[SA691]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.3]]  🌐 [[AN7.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.3]]  🌐 [[AN7.5]] ►
 
 # AN7.4 - Vitthatabala - Powers In Detail
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA691]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.4%5D%5D%22%23mynotes%20-file%3Aan7.4-%20-file%3A%22AN7.3%22%20-file%3A%22AN7.5%22%20-file%3A%22AN7.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.4
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.3]]  🌐 [[AN7.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.3]]  🌐 [[AN7.5]] ►

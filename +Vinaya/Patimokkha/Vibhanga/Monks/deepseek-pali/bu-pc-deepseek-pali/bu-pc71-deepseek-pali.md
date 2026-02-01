@@ -4,7 +4,7 @@ vin_title: "Sahadhammika - Legitimate Correction"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC71]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC71]]
 > ◄  [[bu-pc70-deepseek-pali]] 📜  [[bu-pc72-deepseek-pali]] ►
 
 # BU-PC 71
@@ -87,5 +87,5 @@ The training rule concerning those of the same Dhamma, the first, is concluded.
 >|       |          | [[ñanatusita-analysis#^PC71]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC71]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC71]]
 > ◄  [[bu-pc70-deepseek-pali]] 📜  [[bu-pc72-deepseek-pali]] ►

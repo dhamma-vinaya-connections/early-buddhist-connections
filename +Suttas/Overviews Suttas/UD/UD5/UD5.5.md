@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[THAG6.13]], [[PLI-TV-KD19]], [[AN8.19]], [[AN8.20]], [[PLI-TV-PVR10]], [[PE2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.4]]  🌐 [[UD5.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.4]]  🌐 [[UD5.6]] ►
 
 # UD5.5 - Uposatha Sutta - The Observance Day/Uposatha
 ## 🌐 Overview
@@ -88,10 +88,10 @@ so the rain will not saturate it.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD5.5%5D%5D%22%23mynotes%20-file%3Aud5.5-%20-file%3A%22UD5.4%22%20-file%3A%22UD5.6%22%20-file%3A%22UD5.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud5.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud5.5
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud5.5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.4]]  🌐 [[UD5.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.4]]  🌐 [[UD5.6]] ►

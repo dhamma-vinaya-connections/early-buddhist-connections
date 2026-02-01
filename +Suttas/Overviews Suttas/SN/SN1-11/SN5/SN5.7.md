@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.222]], [[SA1206]]"
 parallels_partilal: "[[SA-2.222]], [[SA1206]], [[THIG8.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.6]]  🌐 [[SN5.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.6]]  🌐 [[SN5.8]] ►
 
 # SN5.7 - Upacālāsutta - Upacala
 ## 🌐 Overview
@@ -89,10 +89,10 @@ He has attained the end of all deeds
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN5.7%5D%5D%22%23mynotes%20-file%3Asn5.7-%20-file%3A%22SN5.6%22%20-file%3A%22SN5.8%22%20-file%3A%22SN5.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn5.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.7
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.6]]  🌐 [[SN5.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.6]]  🌐 [[SN5.8]] ►

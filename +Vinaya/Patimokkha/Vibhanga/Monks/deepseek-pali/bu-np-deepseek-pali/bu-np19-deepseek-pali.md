@@ -4,7 +4,7 @@ vin_title: "Rūpiyasaṁvohāra - Trading With Money"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP19]]
 > ◄  [[bu-np18-deepseek-pali]] 📜  [[bu-np20-deepseek-pali]] ►
 
 # BU-NP 19
@@ -83,5 +83,5 @@ The Ninth Training Rule on Monetary Transactions is finished.
 >|       |          | [[ñanatusita-analysis#^NP19]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP19]]
 > ◄  [[bu-np18-deepseek-pali]] 📜  [[bu-np20-deepseek-pali]] ►

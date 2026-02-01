@@ -4,7 +4,7 @@ vin_title: "Catumāsappaccayapavāraṇā - Invitation for Four Months"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
 > ◄  [[bu-pc46-horner]] 📜  [[bu-pc48-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 47
@@ -127,5 +127,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC47]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
 > ◄  [[bu-pc46-horner]] 📜  [[bu-pc48-horner]] ►

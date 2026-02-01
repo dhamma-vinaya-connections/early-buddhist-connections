@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.112]]"
 parallels_agama: ""
 parallels_partilal: "[[AN4.112]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.202]]  🌐 [[AN5.204]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.202]]  🌐 [[AN5.204]] ►
 
 # AN5.203 - Assājānīya - Thoroughbred
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[AN4.112]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.203%5D%5D%22%23mynotes%20-file%3Aan5.203-%20-file%3A%22AN5.202%22%20-file%3A%22AN5.204%22%20-file%3A%22AN5.203%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.203/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.203
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.203.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.202]]  🌐 [[AN5.204]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.202]]  🌐 [[AN5.204]] ►

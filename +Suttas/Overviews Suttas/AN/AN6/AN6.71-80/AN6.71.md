@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.70]]  🌐 [[AN6.72]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.70]]  🌐 [[AN6.72]] ►
 
 # AN6.71 - Sakkhibhabba - Capable Of Realizing
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.71%5D%5D%22%23mynotes%20-file%3Aan6.71-%20-file%3A%22AN6.70%22%20-file%3A%22AN6.72%22%20-file%3A%22AN6.71%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.71/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.71
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.71.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.70]]  🌐 [[AN6.72]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.70]]  🌐 [[AN6.72]] ►

@@ -40,7 +40,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA565]]"
 parallels_partilal: "[[SA565]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.193]]  🌐 [[AN4.195]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.193]]  🌐 [[AN4.195]] ►
 
 # AN4.194 - Sāpūga - At Sāpūga
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[SA565]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.194%5D%5D%22%23mynotes%20-file%3Aan4.194-%20-file%3A%22AN4.193%22%20-file%3A%22AN4.195%22%20-file%3A%22AN4.194%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.194/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.194
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.194.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.193]]  🌐 [[AN4.195]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.193]]  🌐 [[AN4.195]] ►

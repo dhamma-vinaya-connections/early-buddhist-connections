@@ -4,7 +4,7 @@ vin_title: "Vehāsakuṭi - Upper Story"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC114]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC114]]
 > ◄  [[bni-pc113-brahmali-pali]] 📜  [[bni-pc115-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -122,5 +122,5 @@ Puggalike puggalikasaññī aññassa puggalike, āpatti dukkaṭassa. Attano pu
 >|       |          | [[ñanatusita-analysis#^-PC114]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC114]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC114]]
 > ◄  [[bni-pc113-brahmali-pali]] 📜  [[bni-pc115-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[MN120]]"
 parallels_agama: "[[MA168]]"
 parallels_partilal: "[[MA168]], [[MN120]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.122]]  🌐 [[AN4.124]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.122]]  🌐 [[AN4.124]] ►
 
 # AN4.123 - Nānākaraṇa - Difference
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MA168]], [[MN120]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.123%5D%5D%22%23mynotes%20-file%3Aan4.123-%20-file%3A%22AN4.122%22%20-file%3A%22AN4.124%22%20-file%3A%22AN4.123%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.123/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.123
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.123.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.122]]  🌐 [[AN4.124]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.122]]  🌐 [[AN4.124]] ►

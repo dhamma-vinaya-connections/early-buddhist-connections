@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PE1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP14]]  🌐 [[DHP16]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP14]]  🌐 [[DHP16]] ►
 
 # DHP15 - Sukhavagga - Happiness
 ## 🌐 Overview
@@ -83,10 +83,10 @@ extinguishment is the ultimate happiness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP15%5D%5D%22%23mynotes%20-file%3Adhp15-%20-file%3A%22DHP14%22%20-file%3A%22DHP16%22%20-file%3A%22DHP15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp15
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp15.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP14]]  🌐 [[DHP16]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP14]]  🌐 [[DHP16]] ►

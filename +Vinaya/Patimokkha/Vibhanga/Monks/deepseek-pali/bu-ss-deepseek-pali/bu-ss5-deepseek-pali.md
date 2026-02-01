@@ -4,7 +4,7 @@ vin_title: "Sañcaritta - Matchmaking"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
 > ◄  [[bu-ss4-deepseek-pali]] 📜  [[bu-ss6-deepseek-pali]] ►
 
 # BU-SN 5
@@ -791,5 +791,5 @@ The fifth training rule on intimacy is concluded.
 >|       |          | [[ñanatusita-analysis#^SS5]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
 > ◄  [[bu-ss4-deepseek-pali]] 📜  [[bu-ss6-deepseek-pali]] ►

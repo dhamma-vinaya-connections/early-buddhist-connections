@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.66]]  🌐 [[AN9.68]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.66]]  🌐 [[AN9.68]] ►
 
 # AN9.67 - Orambhāgiya - Fetters
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.67%5D%5D%22%23mynotes%20-file%3Aan9.67-%20-file%3A%22AN9.66%22%20-file%3A%22AN9.68%22%20-file%3A%22AN9.67%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.67/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.67
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.67.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.66]]  🌐 [[AN9.68]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.66]]  🌐 [[AN9.68]] ►

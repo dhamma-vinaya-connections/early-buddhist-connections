@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG8]]  🌐 [[THIG10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG8]]  🌐 [[THIG10]] ►
 
 # THIG9 - Navakanipātavagga - Nines Book
 ## 🌐 Overview
@@ -89,10 +89,10 @@ for the attainment of safety from bondage
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHIG9%5D%5D%22%23mynotes%20-file%3Athig9-%20-file%3A%22THIG8%22%20-file%3A%22THIG10%22%20-file%3A%22THIG9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thig9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig9
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG8]]  🌐 [[THIG10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG8]]  🌐 [[THIG10]] ►

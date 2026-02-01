@@ -4,7 +4,7 @@ vin_title: "Vilekhana - Annoyance"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC72]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC72]]
 > ◄  [[bu-pc71-deepseek-pali]] 📜  [[bu-pc73-deepseek-pali]] ►
 
 # BU-PC 72
@@ -67,5 +67,5 @@ The second training rule on disparagement is concluded.
 >|       |          | [[ñanatusita-analysis#^PC72]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC72]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC72]]
 > ◄  [[bu-pc71-deepseek-pali]] 📜  [[bu-pc73-deepseek-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Kuṭikāra - Building a Hut"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
 > ◄  [[bu-ss5-brahmali-pali]] 📜  [[bu-ss7-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -588,5 +588,5 @@ Dutiyampi yācitabbā. Tatiyampi yācitabbā. "Byattena bhikkhunā paṭibalena 
 >|       |          | [[ñanatusita-analysis#^SS6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS6]]
 > ◄  [[bu-ss5-brahmali-pali]] 📜  [[bu-ss7-brahmali-pali]] ►

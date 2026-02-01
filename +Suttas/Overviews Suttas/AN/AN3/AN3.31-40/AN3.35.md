@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA28.3]]"
 parallels_partilal: "[[EA28.3]], [[PLI-TV-KD16]], [[SN10.8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.34]]  🌐 [[AN3.36]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.34]]  🌐 [[AN3.36]] ►
 
 # AN3.35 - Hatthaka - With Hatthaka
 ## 🌐 Overview
@@ -85,10 +85,10 @@ The peaceful sleep well
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.35%5D%5D%22%23mynotes%20-file%3Aan3.35-%20-file%3A%22AN3.34%22%20-file%3A%22AN3.36%22%20-file%3A%22AN3.35%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.35/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.35
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.35.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.34]]  🌐 [[AN3.36]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.34]]  🌐 [[AN3.36]] ►

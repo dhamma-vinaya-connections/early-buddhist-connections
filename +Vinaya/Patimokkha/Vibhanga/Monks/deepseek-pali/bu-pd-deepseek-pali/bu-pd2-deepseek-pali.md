@@ -4,7 +4,7 @@ vin_title: "Dutiyapāṭidesanīya - Letting a Nun Order Food"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD2]]
 > ◄  [[bu-pd1-deepseek-pali]] 📜  [[bu-pd3-deepseek-pali]] ►
 
 # BU-PD 2
@@ -79,5 +79,5 @@ The Second Rule to be Confessed is concluded.
 >|       |          | [[ñanatusita-analysis#^PD2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD2]]
 > ◄  [[bu-pd1-deepseek-pali]] 📜  [[bu-pd3-deepseek-pali]] ►

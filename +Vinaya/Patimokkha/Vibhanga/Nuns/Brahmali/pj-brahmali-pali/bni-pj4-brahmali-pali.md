@@ -4,7 +4,7 @@ vin_title: "Uttarimanussadhamma - False Claim to Superhuman Attainments"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ4]]
 > ◄  [[bni-pj3-brahmali-pali]] 📜  [[bni-pj5-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -1614,5 +1614,5 @@ chejjavatthū asaṁsayāti.
 >|       |          | [[ñanatusita-analysis#^-PJ4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ4]]
 > ◄  [[bni-pj3-brahmali-pali]] 📜  [[bni-pj5-brahmali-pali]] ►

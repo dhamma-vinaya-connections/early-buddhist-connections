@@ -4,7 +4,7 @@ vin_title: "Khambhakata - Arms Akimbo"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK21]]
 > ◄  [[bu-sk20-deepseek-pali]] 📜  [[bu-sk22-deepseek-pali]] ►
 
 # BU-SK 21
@@ -51,5 +51,5 @@ The Chapter on Giggling, the Second.
 >|       |          | [[ñanatusita-analysis#^SK21]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK21]]
 > ◄  [[bu-sk20-deepseek-pali]] 📜  [[bu-sk22-deepseek-pali]] ►

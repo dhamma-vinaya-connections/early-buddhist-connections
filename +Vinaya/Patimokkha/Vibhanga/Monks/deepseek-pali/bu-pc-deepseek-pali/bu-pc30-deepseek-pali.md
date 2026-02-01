@@ -4,7 +4,7 @@ vin_title: "Rahonisajja - Sitting in Private"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC30]]
 > ◄  [[bu-pc29-deepseek-pali]] 📜  [[bu-pc31-deepseek-pali]] ►
 
 # BU-PC 30
@@ -96,5 +96,5 @@ Sewing, journey, boat, eating, alone with one—these ten.
 >|       |          | [[ñanatusita-analysis#^PC30]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC30]]
 > ◄  [[bu-pc29-deepseek-pali]] 📜  [[bu-pc31-deepseek-pali]] ►

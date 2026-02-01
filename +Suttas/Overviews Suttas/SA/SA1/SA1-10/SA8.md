@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN22.9-11]]"
 parallels_agama: "[[SA79]], [[SA8]]"
 parallels_partilal: "[[SA79]], [[SA8]], [[SN22.9-11]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[SA7]]  🌐 [[SA9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[SA7]]  🌐 [[SA9]] ►
 
 # SA8 - SA 1.11-14 - The Past Is Impermanent, Painful, Empty, and Not Self
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA79]], [[SA8]], [[SN22.9-11]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSA8%5D%5D%22%23mynotes%20-file%3Asa8-%20-file%3A%22SA7%22%20-file%3A%22SA9%22%20-file%3A%22SA8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sa8/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[SA7]]  🌐 [[SA9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[SA7]]  🌐 [[SA9]] ►

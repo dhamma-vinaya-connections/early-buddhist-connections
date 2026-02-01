@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN48.8]]"
 parallels_agama: "[[SA646]], [[SA675]]"
 parallels_partilal: "[[SA675]], [[SA646]], [[SN48.8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.13]]  🌐 [[AN5.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.13]]  🌐 [[AN5.15]] ►
 
 # AN5.14 - Kūṭa - Peak
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA675]], [[SA646]], [[SN48.8]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.14%5D%5D%22%23mynotes%20-file%3Aan5.14-%20-file%3A%22AN5.13%22%20-file%3A%22AN5.15%22%20-file%3A%22AN5.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.14
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.13]]  🌐 [[AN5.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.13]]  🌐 [[AN5.15]] ►

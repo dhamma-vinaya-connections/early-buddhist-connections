@@ -4,7 +4,7 @@ vin_title: "Sahadhammika - Legitimate Correction"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC71]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC71]]
 > ◄  [[bu-pc70-horner]] 📜  [[bu-pc72-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 71
@@ -75,5 +75,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC71]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC71]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC71]]
 > ◄  [[bu-pc70-horner]] 📜  [[bu-pc72-horner]] ►

@@ -4,7 +4,7 @@ vin_title: "Chattapāṇi - Holding Sunshade"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK57]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK57]]
 > ◄  [[bni-sk56-brahmali-pali]] 📜  [[bni-sk58-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -120,5 +120,5 @@ Na chattapāṇissa agilānassa dhammo desetabbo. Yo anādariyaṁ paṭicca cha
 >|       |          | [[ñanatusita-analysis#^-SK57]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK57]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK57]]
 > ◄  [[bni-sk56-brahmali-pali]] 📜  [[bni-sk58-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Khambhakata - Arms Akimbo"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK22]]
 > ◄  [[bu-sk21-deepseek-pali]] 📜  [[bu-sk23-deepseek-pali]] ►
 
 # BU-SK 22
@@ -43,5 +43,5 @@ The first training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK22]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK22]]
 > ◄  [[bu-sk21-deepseek-pali]] 📜  [[bu-sk23-deepseek-pali]] ►

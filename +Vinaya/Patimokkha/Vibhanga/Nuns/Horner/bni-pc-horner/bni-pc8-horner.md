@@ -4,7 +4,7 @@ vin_title: "Tirokuṭṭuccārachaḍḍana - Disposing Feces"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC8]]
 > ◄  [[bni-pc7-horner]] 📜  [[bni-pc9-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 8
@@ -73,5 +73,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC8]]
 > ◄  [[bni-pc7-horner]] 📜  [[bni-pc9-horner]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA423-425]]"
 parallels_partilal: "[[SA423-425]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.79]]  🌐 [[AN3.81]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.79]]  🌐 [[AN3.81]] ►
 
 # AN3.80 - Cūḷanikā - Lesser
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA423-425]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.80%5D%5D%22%23mynotes%20-file%3Aan3.80-%20-file%3A%22AN3.79%22%20-file%3A%22AN3.81%22%20-file%3A%22AN3.80%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.80/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.80
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.80.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.79]]  🌐 [[AN3.81]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.79]]  🌐 [[AN3.81]] ►

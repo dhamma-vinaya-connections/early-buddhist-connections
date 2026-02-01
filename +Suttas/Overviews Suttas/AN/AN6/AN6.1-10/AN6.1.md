@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DN33]], [[MN140]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.307-1152]]  🌐 [[AN6.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.307-1152]]  🌐 [[AN6.2]] ►
 
 # AN6.1 - Paṭhamaāhuneyya - Worthy Of Offerings
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[DN33]], [[MN140]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.1%5D%5D%22%23mynotes%20-file%3Aan6.1-%20-file%3A%22AN5.307-1152%22%20-file%3A%22AN6.2%22%20-file%3A%22AN6.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.1
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.307-1152]]  🌐 [[AN6.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.307-1152]]  🌐 [[AN6.2]] ►

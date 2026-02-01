@@ -4,7 +4,7 @@ vin_title: "Cīvaraacchindana - Robe-Cloth Taking Back"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP25]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP25]]
 > ◄  [[bu-np24-brahmali-pali]] 📜  [[bu-np26-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -154,5 +154,5 @@ Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko,
 >|       |          | [[ñanatusita-analysis#^NP25]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP25]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP25]]
 > ◄  [[bu-np24-brahmali-pali]] 📜  [[bu-np26-brahmali-pali]] ►

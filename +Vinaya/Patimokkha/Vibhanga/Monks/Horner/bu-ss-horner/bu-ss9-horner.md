@@ -4,7 +4,7 @@ vin_title: "Aññabhāgiya - Accusation Out of Anger on an Irrelevant Pretext"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
 > ◄  [[bu-ss8-horner]] 📜  [[bu-ss10-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 9
@@ -133,5 +133,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS9]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS9]]
 > ◄  [[bu-ss8-horner]] 📜  [[bu-ss10-horner]] ►

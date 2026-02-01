@@ -4,7 +4,7 @@ vin_title: "Nahāna - Bathing"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
 > ◄  [[bu-pc56-deepseek-pali]] 📜  [[bu-pc58-deepseek-pali]] ►
 
 # BU-PC 57
@@ -147,5 +147,5 @@ The seventh training rule on bathing is finished.
 >|       |          | [[ñanatusita-analysis#^PC57]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
 > ◄  [[bu-pc56-deepseek-pali]] 📜  [[bu-pc58-deepseek-pali]] ►

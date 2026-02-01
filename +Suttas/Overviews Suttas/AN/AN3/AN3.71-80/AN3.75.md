@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA21.4]]"
 parallels_partilal: "[[EA21.4]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.74]]  🌐 [[AN3.76]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.74]]  🌐 [[AN3.76]] ►
 
 # AN3.75 - Nivesaka - Support
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA21.4]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.75%5D%5D%22%23mynotes%20-file%3Aan3.75-%20-file%3A%22AN3.74%22%20-file%3A%22AN3.76%22%20-file%3A%22AN3.75%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.75/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.75
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.75.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.74]]  🌐 [[AN3.76]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.74]]  🌐 [[AN3.76]] ►

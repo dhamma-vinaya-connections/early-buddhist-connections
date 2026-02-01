@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA37.8]], [[MA149]]"
 parallels_partilal: "[[EA37.8]], [[MA149]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.51]]  🌐 [[AN6.53]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.51]]  🌐 [[AN6.53]] ►
 
 # AN6.52 - Khattiya - Aristocrats
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA37.8]], [[MA149]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.52%5D%5D%22%23mynotes%20-file%3Aan6.52-%20-file%3A%22AN6.51%22%20-file%3A%22AN6.53%22%20-file%3A%22AN6.52%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.52/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.52
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.52.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.51]]  🌐 [[AN6.53]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.51]]  🌐 [[AN6.53]] ►

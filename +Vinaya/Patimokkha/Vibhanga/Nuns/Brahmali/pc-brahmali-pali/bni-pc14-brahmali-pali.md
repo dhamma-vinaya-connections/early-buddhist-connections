@@ -4,7 +4,7 @@ vin_title: "Dutiyikauyyojana - Dismissing a Companion"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC14]]
 > ◄  [[bni-pc13-brahmali-pali]] 📜  [[bni-pc15-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -140,5 +140,5 @@ p_2V_2720Catutthasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC14]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC14]]
 > ◄  [[bni-pc13-brahmali-pali]] 📜  [[bni-pc15-brahmali-pali]] ►

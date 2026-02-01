@@ -4,7 +4,7 @@ vin_title: "Samasūpaka - Even Measure of Curry"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK34]]
 > ◄  [[bu-sk33-brahmali-pali]] 📜  [[bu-sk35-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -66,5 +66,5 @@ Samasūpako piṇḍapāto bhuñjitabbo. Yo anādariyaṁ paṭicca sūpaññeva
 >|       |          | [[ñanatusita-analysis#^SK34]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK34]]
 > ◄  [[bu-sk33-brahmali-pali]] 📜  [[bu-sk35-brahmali-pali]] ►

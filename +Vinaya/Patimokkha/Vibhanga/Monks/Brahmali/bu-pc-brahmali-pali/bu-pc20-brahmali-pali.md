@@ -4,7 +4,7 @@ vin_title: "Sappāṇaka - Water Living Creatures Use"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC20]]
 > ◄  [[bu-pc19-brahmali-pali]] 📜  [[bu-pc21-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -118,5 +118,5 @@ dvāraṁ sappāṇakena cāti.
 >|       |          | [[ñanatusita-analysis#^PC20]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC20]]
 > ◄  [[bu-pc19-brahmali-pali]] 📜  [[bu-pc21-brahmali-pali]] ►

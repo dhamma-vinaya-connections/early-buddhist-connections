@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.71]]; [[AN2.36:2.1]]"
 parallels_agama: "[[MA105]]"
 parallels_partilal: "[[AN10.71]]; [[MA105]]; [[AN2.36:2.1]]; [[DN2]]; [[SN47.46]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN5]]  🌐 [[MN7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN5]]  🌐 [[MN7]] ►
 
 # MN6 - Ākaṅkheyya Sutta - One Might Wish
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN10.71]]; [[MA105]]; [[AN2.36:2.1]]; [[DN2]]; [[SN47.46]
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN6%5D%5D%22%23mynotes%20-file%3Amn6-%20-file%3A%22MN5%22%20-file%3A%22MN7%22%20-file%3A%22MN6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn6
 > - The Buddhas Words: https://thebuddhaswords.net/mn/mn6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN5]]  🌐 [[MN7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN5]]  🌐 [[MN7]] ►

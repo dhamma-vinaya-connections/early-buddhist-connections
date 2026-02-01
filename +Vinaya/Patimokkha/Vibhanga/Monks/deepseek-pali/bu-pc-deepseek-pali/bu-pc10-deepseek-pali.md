@@ -4,7 +4,7 @@ vin_title: "Pathavīkhaṇana - Digging Earth"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC10]]
 > ◄  [[bu-pc9-deepseek-pali]] 📜  [[bu-pc11-deepseek-pali]] ►
 
 # BU-PC 10
@@ -99,5 +99,5 @@ False speech, abusive speech, and divisive speech; And two on sleeping arrangeme
 >|       |          | [[ñanatusita-analysis#^PC10]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC10]]
 > ◄  [[bu-pc9-deepseek-pali]] 📜  [[bu-pc11-deepseek-pali]] ►

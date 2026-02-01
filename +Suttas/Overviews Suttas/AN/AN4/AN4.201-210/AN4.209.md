@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA1053]]"
 parallels_partilal: "[[SA1053]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.208]]  🌐 [[AN4.211]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.208]]  🌐 [[AN4.211]] ►
 
 # AN4.209 - Pāpadhammasutta - Bad Character
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA1053]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.209%5D%5D%22%23mynotes%20-file%3Aan4.209-%20-file%3A%22AN4.208%22%20-file%3A%22AN4.211%22%20-file%3A%22AN4.209%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.209/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.209
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.209.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.208]]  🌐 [[AN4.211]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.208]]  🌐 [[AN4.211]] ►

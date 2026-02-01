@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN6.25]]"
 parallels_agama: "[[SA-2.156]], [[SA931]]"
 parallels_partilal: "[[AN6.25]], [[SA-2.156]], [[SA931]], [[AN11.11]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.9]]  🌐 [[AN6.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.9]]  🌐 [[AN6.11]] ►
 
 # AN6.10 - Anussatiṭṭhāna - Topics For Recollection
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN6.25]], [[SA-2.156]], [[SA931]], [[AN11.11]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.10%5D%5D%22%23mynotes%20-file%3Aan6.10-%20-file%3A%22AN6.9%22%20-file%3A%22AN6.11%22%20-file%3A%22AN6.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.10
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.10.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.9]]  🌐 [[AN6.11]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.9]]  🌐 [[AN6.11]] ►

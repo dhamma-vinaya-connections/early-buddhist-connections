@@ -40,7 +40,7 @@ parallels_nikaya: "[[AN4.259]]"
 parallels_agama: ""
 parallels_partilal: "[[AN4.259]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.95]]  🌐 [[AN3.97]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.95]]  🌐 [[AN3.97]] ►
 
 # AN3.96 - Ājānīya - Thoroughbred
 ## 🌐 Overview
@@ -84,10 +84,10 @@ parallels_partilal: "[[AN4.259]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.96%5D%5D%22%23mynotes%20-file%3Aan3.96-%20-file%3A%22AN3.95%22%20-file%3A%22AN3.97%22%20-file%3A%22AN3.96%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.96/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.96
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.96.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.95]]  🌐 [[AN3.97]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.95]]  🌐 [[AN3.97]] ►

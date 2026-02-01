@@ -4,7 +4,7 @@ vin_title: "Paripuṇṇadvādasavassa-asikkhita-gihigata - Ordaining Untrained 
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC66]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC66]]
 > ◄  [[bni-pc65-horner]] 📜  [[bni-pc67-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 66
@@ -51,5 +51,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC66]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC66]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC66]]
 > ◄  [[bni-pc65-horner]] 📜  [[bni-pc67-horner]] ►

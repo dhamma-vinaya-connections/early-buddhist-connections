@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.1]]  🌐 [[UD4.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.1]]  🌐 [[UD4.3]] ►
 
 # UD4.2 - Uddhata Sutta - High Strung
 ## 🌐 Overview
@@ -87,10 +87,10 @@ a mendicant who has overcome dullness and drowsiness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD4.2%5D%5D%22%23mynotes%20-file%3Aud4.2-%20-file%3A%22UD4.1%22%20-file%3A%22UD4.3%22%20-file%3A%22UD4.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud4.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.2
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.2.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.1]]  🌐 [[UD4.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.1]]  🌐 [[UD4.3]] ►

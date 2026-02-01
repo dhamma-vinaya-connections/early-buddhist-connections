@@ -4,7 +4,7 @@ vin_title: "Paripuṇṇavīsativassa-sikkhita-kumāribhūta-asammata - Ordainin
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC73]]
 > ◄  [[bni-pc72-horner]] 📜  [[bni-pc74-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 73
@@ -51,5 +51,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC73]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC73]]
 > ◄  [[bni-pc72-horner]] 📜  [[bni-pc74-horner]] ►

@@ -4,7 +4,7 @@ vin_title: "Jotika - Fire Kindling"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC56]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC56]]
 > ◄  [[bu-pc55-horner]] 📜  [[bu-pc57-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 56
@@ -95,5 +95,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC56]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC56]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC56]]
 > ◄  [[bu-pc55-horner]] 📜  [[bu-pc57-horner]] ►

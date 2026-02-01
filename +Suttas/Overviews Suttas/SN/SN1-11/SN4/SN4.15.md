@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN4.4]], [[SN4.5]]"
 parallels_agama: "[[SA-2.25]], [[SA1086]], [[SA1096]]"
 parallels_partilal: "[[PLI-TV-KD1]], [[SA-2.25]], [[SA1086]], [[SN4.4]], [[SN4.5]], [[SA1096]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.14]]  🌐 [[SN4.16]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.14]]  🌐 [[SN4.16]] ►
 
 # SN4.15 - Mānasasutta - Mental
 ## 🌐 Overview
@@ -86,10 +86,10 @@ You’re defeated, end-maker
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.15%5D%5D%22%23mynotes%20-file%3Asn4.15-%20-file%3A%22SN4.14%22%20-file%3A%22SN4.16%22%20-file%3A%22SN4.15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.15
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.15.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.14]]  🌐 [[SN4.16]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.14]]  🌐 [[SN4.16]] ►

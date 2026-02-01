@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.74]], [[SA-3.25]], [[SA1151]]"
 parallels_partilal: "[[SA-2.74]], [[SA-3.25]], [[SA1151]], [[SN7.2]], [[SN11.4]], [[SN11.5]], [[THAG6.12]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.2]]  🌐 [[SN7.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.2]]  🌐 [[SN7.4]] ►
 
 # SN7.3 - Asurindakasutta - Asurindaka
 ## 🌐 Overview
@@ -84,10 +84,10 @@ You win a battle hard to win
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.3%5D%5D%22%23mynotes%20-file%3Asn7.3-%20-file%3A%22SN7.2%22%20-file%3A%22SN7.4%22%20-file%3A%22SN7.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.3
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.2]]  🌐 [[SN7.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.2]]  🌐 [[SN7.4]] ►

@@ -4,7 +4,7 @@ vin_title: "Sañcicca - Killing Intentionally"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC61]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC61]]
 > ◄  [[bu-pc60-horner]] 📜  [[bu-pc62-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 61
@@ -67,5 +67,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC61]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC61]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC61]]
 > ◄  [[bu-pc60-horner]] 📜  [[bu-pc62-horner]] ►

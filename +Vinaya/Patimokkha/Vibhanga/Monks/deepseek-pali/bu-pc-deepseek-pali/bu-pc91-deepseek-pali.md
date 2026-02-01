@@ -4,7 +4,7 @@ vin_title: "Vassikasāṭikā - Rains Cloths"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
 > ◄  [[bu-pc90-deepseek-pali]] 📜  [[bu-pc92-deepseek-pali]] ►
 
 # BU-PC 91
@@ -59,5 +59,5 @@ The ninth training rule concerning a rains-bathing cloth is concluded.
 >|       |          | [[ñanatusita-analysis#^PC91]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
 > ◄  [[bu-pc90-deepseek-pali]] 📜  [[bu-pc92-deepseek-pali]] ►

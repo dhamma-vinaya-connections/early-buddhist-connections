@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.33]]  🌐 [[AN6.35]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.33]]  🌐 [[AN6.35]] ►
 
 # AN6.34 - Mahamoggallāna - With Mahmoggallana
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.34%5D%5D%22%23mynotes%20-file%3Aan6.34-%20-file%3A%22AN6.33%22%20-file%3A%22AN6.35%22%20-file%3A%22AN6.34%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.34/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.34
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.34.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.33]]  🌐 [[AN6.35]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.33]]  🌐 [[AN6.35]] ►

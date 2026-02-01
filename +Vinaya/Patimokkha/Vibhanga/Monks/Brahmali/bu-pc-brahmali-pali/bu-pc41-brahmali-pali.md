@@ -4,7 +4,7 @@ vin_title: "Acelaka - Food Giving to Ascetics"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
 > ◄  [[bu-pc40-brahmali-pali]] 📜  [[bu-pc42-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -170,5 +170,5 @@ Atha kho te upāsakā bhagavatā dhammiyā kathāya sandassitā samādapitā sam
 >|       |          | [[ñanatusita-analysis#^PC41]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
 > ◄  [[bu-pc40-brahmali-pali]] 📜  [[bu-pc42-brahmali-pali]] ►

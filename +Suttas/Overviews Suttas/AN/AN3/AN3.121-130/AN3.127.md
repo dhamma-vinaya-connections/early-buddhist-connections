@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.188]], [[SA594]]"
 parallels_partilal: "[[SA-2.188]], [[SA594]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.126]]  🌐 [[AN3.128]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.126]]  🌐 [[AN3.128]] ►
 
 # AN3.127 - Hatthaka - With Hatthaka
 ## 🌐 Overview
@@ -84,10 +84,10 @@ Loving to hear the true teaching,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.127%5D%5D%22%23mynotes%20-file%3Aan3.127-%20-file%3A%22AN3.126%22%20-file%3A%22AN3.128%22%20-file%3A%22AN3.127%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.127/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.127
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.127.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.126]]  🌐 [[AN3.128]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.126]]  🌐 [[AN3.128]] ►

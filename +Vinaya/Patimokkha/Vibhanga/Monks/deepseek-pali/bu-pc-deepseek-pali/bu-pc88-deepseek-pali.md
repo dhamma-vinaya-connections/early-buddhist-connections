@@ -4,7 +4,7 @@ vin_title: "Tūlonaddha - Upholstery"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
 > ◄  [[bu-pc87-deepseek-pali]] 📜  [[bu-pc89-deepseek-pali]] ►
 
 # BU-PC 88
@@ -71,5 +71,5 @@ The Training Rule on Cotton-Stuffed Articles: the Sixth.
 >|       |          | [[ñanatusita-analysis#^PC88]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC88]]
 > ◄  [[bu-pc87-deepseek-pali]] 📜  [[bu-pc89-deepseek-pali]] ►

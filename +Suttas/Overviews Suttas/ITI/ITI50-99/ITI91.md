@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP307]], [[DHP308]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP307]], [[ITI48]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI90]]  🌐 [[ITI92]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI90]]  🌐 [[ITI92]] ►
 
 # ITI91 - Jivika - Lifestyle
 ## 🌐 Overview
@@ -88,10 +88,10 @@ on the householder’s enjoyment
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI91%5D%5D%22%23mynotes%20-file%3Aiti91-%20-file%3A%22ITI90%22%20-file%3A%22ITI92%22%20-file%3A%22ITI91%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti91/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti91
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti91.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI90]]  🌐 [[ITI92]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI90]]  🌐 [[ITI92]] ►

@@ -4,7 +4,7 @@ vin_title: "Dvebhāga - Blanket of Mixed Colors"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP13]]
 > ◄  [[bu-np12-deepseek-pali]] 📜  [[bu-np14-deepseek-pali]] ►
 
 # BU-NP 13
@@ -79,5 +79,5 @@ The training rule on two parts is finished, the third [is next].
 >|       |          | [[ñanatusita-analysis#^NP13]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP13]]
 > ◄  [[bu-np12-deepseek-pali]] 📜  [[bu-np14-deepseek-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN7.14]]"
 parallels_agama: "[[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]]"
 parallels_partilal: "[[SN7.14]], [[SA-2.262]], [[SA96]], [[SA-2.258]], [[SA92]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.14]]  🌐 [[SN7.16]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.14]]  🌐 [[SN7.16]] ►
 
 # SN7.15 - Mānatthaddhasutta - Manatthaddha
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Towards these one should avoid conceit
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.15%5D%5D%22%23mynotes%20-file%3Asn7.15-%20-file%3A%22SN7.14%22%20-file%3A%22SN7.16%22%20-file%3A%22SN7.15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.15
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.15.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.14]]  🌐 [[SN7.16]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.14]]  🌐 [[SN7.16]] ►

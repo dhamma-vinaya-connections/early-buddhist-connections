@@ -4,7 +4,7 @@ vin_title: "Kathina - Robe Making Season"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
 > ◄  [[BU-AN2]] 📜  [[bu-np2-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 1
@@ -89,5 +89,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
 > ◄  [[BU-AN2]] 📜  [[bu-np2-horner]] ►

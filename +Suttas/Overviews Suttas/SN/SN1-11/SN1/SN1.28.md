@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.183]], [[SA589]]"
 parallels_partilal: "[[SA-2.183]], [[SA589]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.27]]  🌐 [[SN1.29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.27]]  🌐 [[SN1.29]] ►
 
 # SN1.28 - Mahaddhanasutta - Those of Great Wealth
 ## 🌐 Overview
@@ -82,10 +82,10 @@ You’re released from all suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.28%5D%5D%22%23mynotes%20-file%3Asn1.28-%20-file%3A%22SN1.27%22%20-file%3A%22SN1.29%22%20-file%3A%22SN1.28%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.28/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.28
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.28.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.27]]  🌐 [[SN1.29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.27]]  🌐 [[SN1.29]] ►

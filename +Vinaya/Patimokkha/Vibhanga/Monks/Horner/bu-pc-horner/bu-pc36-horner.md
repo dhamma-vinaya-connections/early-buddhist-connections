@@ -4,7 +4,7 @@ vin_title: "Dutiyapavāraṇā - Eating More After Refusing an Invitation Encour
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
 > ◄  [[bu-pc35-horner]] 📜  [[bu-pc37-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 36
@@ -85,5 +85,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC36]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
 > ◄  [[bu-pc35-horner]] 📜  [[bu-pc37-horner]] ►

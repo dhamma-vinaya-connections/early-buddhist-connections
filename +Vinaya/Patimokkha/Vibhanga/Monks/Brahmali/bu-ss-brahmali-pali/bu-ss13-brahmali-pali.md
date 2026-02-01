@@ -4,7 +4,7 @@ vin_title: "Kuladūsaka - Corrupter of Families"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS13]]
 > ◄  [[bu-ss12-brahmali-pali]] 📜  [[BU-AN1]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -376,5 +376,5 @@ saṅghādisesā terasāti.
 >|       |          | [[ñanatusita-analysis#^SS13]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS13]]
 > ◄  [[bu-ss12-brahmali-pali]] 📜  [[BU-AN1]] ►

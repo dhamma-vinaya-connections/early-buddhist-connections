@@ -4,7 +4,7 @@ vin_title: "Capucapukāraka - Crunching"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK50]]
 > ◄  [[bu-sk49-deepseek-pali]] 📜  [[bu-sk51-deepseek-pali]] ►
 
 # BU-SK 50
@@ -43,5 +43,5 @@ The eighth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK50]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK50]]
 > ◄  [[bu-sk49-deepseek-pali]] 📜  [[bu-sk51-deepseek-pali]] ►

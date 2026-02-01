@@ -4,7 +4,7 @@ vin_title: "Ratana - Precious Things"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC161]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC161]]
 > ◄  [[bni-pc160-brahmali-pali]] 📜  [[bni-pc162-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -190,5 +190,5 @@ Bhikkhū passitvā— "Sace mayaṁ gamissāma nassissatāyaṁ aṅgulimuddikā
 >|       |          | [[ñanatusita-analysis#^-PC161]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC161]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC161]]
 > ◄  [[bni-pc160-brahmali-pali]] 📜  [[bni-pc162-brahmali-pali]] ►

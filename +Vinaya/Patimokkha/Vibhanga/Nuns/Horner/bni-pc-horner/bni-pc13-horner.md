@@ -4,7 +4,7 @@ vin_title: "Ajjhokāsasallapana - Talking In the Open"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC13]]
 > ◄  [[bni-pc12-horner]] 📜  [[bni-pc14-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 13
@@ -41,5 +41,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC13]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC13]]
 > ◄  [[bni-pc12-horner]] 📜  [[bni-pc14-horner]] ►

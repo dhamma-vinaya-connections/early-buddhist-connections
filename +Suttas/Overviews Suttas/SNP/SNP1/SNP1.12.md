@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.11]]  🌐 [[SNP2.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.11]]  🌐 [[SNP2.1]] ►
 
 # SNP1.12 - Muni - Sage
 ## 🌐 Overview
@@ -93,10 +93,10 @@ released
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP1.12%5D%5D%22%23mynotes%20-file%3Asnp1.12-%20-file%3A%22SNP1.11%22%20-file%3A%22SNP2.1%22%20-file%3A%22SNP1.12%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp1.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.12
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.12.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.11]]  🌐 [[SNP2.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.11]]  🌐 [[SNP2.1]] ►

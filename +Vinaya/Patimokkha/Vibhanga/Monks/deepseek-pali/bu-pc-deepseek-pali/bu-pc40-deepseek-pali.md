@@ -4,7 +4,7 @@ vin_title: "Dantapona - Eating Unoffered Food"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
 > ◄  [[bu-pc39-deepseek-pali]] 📜  [[bu-pc41-deepseek-pali]] ►
 
 # BU-PC 40
@@ -103,5 +103,5 @@ Almsfood, a group meal, another, pastry, and two invitations declared; untimely 
 >|       |          | [[ñanatusita-analysis#^PC40]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
 > ◄  [[bu-pc39-deepseek-pali]] 📜  [[bu-pc41-deepseek-pali]] ►

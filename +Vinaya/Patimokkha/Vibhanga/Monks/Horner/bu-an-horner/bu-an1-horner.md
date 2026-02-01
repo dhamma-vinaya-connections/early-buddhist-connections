@@ -4,7 +4,7 @@ vin_title: "Paṭhamaaniyata - Undetermined Offense 1st"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
 > ◄  [[BU-SS13]] 📜  [[bu-an2-horner]] ►
 
 # Monks’ Undetermined (_Aniyata_) 1
@@ -119,5 +119,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^AN1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
 > ◄  [[BU-SS13]] 📜  [[bu-an2-horner]] ►

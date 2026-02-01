@@ -4,7 +4,7 @@ vin_title: "Accekacīvara - Robe in Urgency"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP28]]
 > ◄  [[bu-np27-horner]] 📜  [[bu-np29-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 28
@@ -79,5 +79,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP28]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP28]]
 > ◄  [[bu-np27-horner]] 📜  [[bu-np29-horner]] ►

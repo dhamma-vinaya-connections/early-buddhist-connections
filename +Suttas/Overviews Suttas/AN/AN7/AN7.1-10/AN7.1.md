@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.3]]"
 parallels_agama: ""
 parallels_partilal: "[[AN8.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.117-649]]  🌐 [[AN7.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.117-649]]  🌐 [[AN7.2]] ►
 
 # AN7.1 - Paṭhamapiya - Pleasing
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN8.3]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.1%5D%5D%22%23mynotes%20-file%3Aan7.1-%20-file%3A%22AN6.117-649%22%20-file%3A%22AN7.2%22%20-file%3A%22AN7.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.1
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.117-649]]  🌐 [[AN7.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.117-649]]  🌐 [[AN7.2]] ►

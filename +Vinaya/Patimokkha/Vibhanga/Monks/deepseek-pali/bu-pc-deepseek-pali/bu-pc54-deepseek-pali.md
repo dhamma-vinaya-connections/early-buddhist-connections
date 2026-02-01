@@ -4,7 +4,7 @@ vin_title: "Anādariya - Disrespect"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
 > ◄  [[bu-pc53-deepseek-pali]] 📜  [[bu-pc55-deepseek-pali]] ►
 
 # BU-PC 54
@@ -67,5 +67,5 @@ The fourth training rule on disrespect is finished.
 >|       |          | [[ñanatusita-analysis#^PC54]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]
 > ◄  [[bu-pc53-deepseek-pali]] 📜  [[bu-pc55-deepseek-pali]] ►

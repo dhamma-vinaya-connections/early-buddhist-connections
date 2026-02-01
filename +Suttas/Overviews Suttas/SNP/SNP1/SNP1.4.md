@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN7.11]]"
 parallels_agama: "[[SA-2.264]], [[SA-3.1]], [[SA98]]"
 parallels_partilal: "[[SN7.11]], [[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP3.4]], [[SN7.8]], [[SN7.9]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.3]]  🌐 [[SNP1.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.3]]  🌐 [[SNP1.5]] ►
 
 # SNP1.4 - Kasibhāradvājasutta - With Bhāradvāja the Farmer
 ## 🌐 Overview
@@ -91,10 +91,10 @@ and gentleness is my release.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP1.4%5D%5D%22%23mynotes%20-file%3Asnp1.4-%20-file%3A%22SNP1.3%22%20-file%3A%22SNP1.5%22%20-file%3A%22SNP1.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp1.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.4
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.3]]  🌐 [[SNP1.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.3]]  🌐 [[SNP1.5]] ►

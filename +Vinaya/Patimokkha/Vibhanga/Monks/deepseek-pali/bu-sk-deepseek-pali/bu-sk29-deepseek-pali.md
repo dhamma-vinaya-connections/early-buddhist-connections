@@ -4,7 +4,7 @@ vin_title: "Samasūpakapaṭiggahaṇa - Receiving in Proportion"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK29]]
 > ◄  [[bu-sk28-deepseek-pali]] 📜  [[bu-sk30-deepseek-pali]] ►
 
 # BU-SK 29
@@ -43,5 +43,5 @@ The eighth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK29]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK29]]
 > ◄  [[bu-sk28-deepseek-pali]] 📜  [[bu-sk30-deepseek-pali]] ►

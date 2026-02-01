@@ -4,7 +4,7 @@ vin_title: "Pattanillehaka - Licking Bowl"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK53]]
 > ◄  [[bu-sk52-deepseek-pali]] 📜  [[bu-sk54-deepseek-pali]] ►
 
 # BU-SK 53
@@ -43,5 +43,5 @@ The first training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK53]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK53]]
 > ◄  [[bu-sk52-deepseek-pali]] 📜  [[bu-sk54-deepseek-pali]] ►

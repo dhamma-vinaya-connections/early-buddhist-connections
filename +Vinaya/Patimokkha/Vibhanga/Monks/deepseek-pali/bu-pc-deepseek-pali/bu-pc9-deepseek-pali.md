@@ -4,7 +4,7 @@ vin_title: "Duṭṭhullārocana - Disclose Others Offense"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC9]]
 > ◄  [[bu-pc8-deepseek-pali]] 📜  [[bu-pc10-deepseek-pali]] ►
 
 # BU-PC 9
@@ -127,5 +127,5 @@ The ninth training rule on disclosing a grave offense is finished.
 >|       |          | [[ñanatusita-analysis#^PC9]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC9]]
 > ◄  [[bu-pc8-deepseek-pali]] 📜  [[bu-pc10-deepseek-pali]] ►

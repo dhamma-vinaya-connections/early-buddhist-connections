@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.89]], [[SA89]]"
 parallels_partilal: "[[SA-2.89]], [[SA89]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.38]]  🌐 [[AN4.40]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.38]]  🌐 [[AN4.40]] ►
 
 # AN4.39 - Udāyī - With Udāyī
 ## 🌐 Overview
@@ -83,10 +83,10 @@ In the fertile field of spiritual practitioners
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.39%5D%5D%22%23mynotes%20-file%3Aan4.39-%20-file%3A%22AN4.38%22%20-file%3A%22AN4.40%22%20-file%3A%22AN4.39%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.39/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.39
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.39.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.38]]  🌐 [[AN4.40]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.38]]  🌐 [[AN4.40]] ►

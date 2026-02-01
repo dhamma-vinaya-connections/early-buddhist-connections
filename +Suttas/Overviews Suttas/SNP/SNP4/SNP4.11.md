@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.10]]  🌐 [[SNP4.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.10]]  🌐 [[SNP4.12]] ►
 
 # SNP4.11 - Kalahavivādasutta - Quarrels and Disputes
 ## 🌐 Overview
@@ -92,10 +92,10 @@ for the sake of a person’s next life.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP4.11%5D%5D%22%23mynotes%20-file%3Asnp4.11-%20-file%3A%22SNP4.10%22%20-file%3A%22SNP4.12%22%20-file%3A%22SNP4.11%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp4.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.11
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.11.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.10]]  🌐 [[SNP4.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.10]]  🌐 [[SNP4.12]] ►

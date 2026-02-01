@@ -42,7 +42,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA25.6]]; [[MA87]]"
 parallels_partilal: "[[EA25.6]]; [[MA87]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN4]]  🌐 [[MN6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN4]]  🌐 [[MN6]] ►
 
 # MN5 - Anaṅgaṇa Sutta - Unblemished
 ## 🌐 Overview
@@ -95,10 +95,10 @@ rim planed out the crooks, bends, and flaws, like someone who makes an effort t
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN5%5D%5D%22%23mynotes%20-file%3Amn5-%20-file%3A%22MN4%22%20-file%3A%22MN6%22%20-file%3A%22MN5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn5
 > - The Buddhas Words: https://thebuddhaswords.net/mn/mn5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN4]]  🌐 [[MN6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN4]]  🌐 [[MN6]] ►

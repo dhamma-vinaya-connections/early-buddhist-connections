@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA40.3]]"
 parallels_partilal: "[[EA40.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.11]]  🌐 [[AN7.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.11]]  🌐 [[AN7.13]] ►
 
 # AN7.12 - Anusaya - Underlying Tendencies
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[EA40.3]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.12%5D%5D%22%23mynotes%20-file%3Aan7.12-%20-file%3A%22AN7.11%22%20-file%3A%22AN7.13%22%20-file%3A%22AN7.12%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.12
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.12.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.11]]  🌐 [[AN7.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.11]]  🌐 [[AN7.13]] ►

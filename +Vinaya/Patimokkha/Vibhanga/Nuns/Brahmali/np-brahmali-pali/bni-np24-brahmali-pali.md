@@ -4,7 +4,7 @@ vin_title: "Ūnapañcabandhana - Bowl With Fewer Than 5 Mends"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP24]]
 > ◄  [[bni-np23-brahmali-pali]] 📜  [[bni-np25-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -268,5 +268,5 @@ Yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo— "
 >|       |          | [[ñanatusita-analysis#^-NP24]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP24]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP24]]
 > ◄  [[bni-np23-brahmali-pali]] 📜  [[bni-np25-brahmali-pali]] ►

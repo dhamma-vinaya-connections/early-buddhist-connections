@@ -4,7 +4,7 @@ vin_title: "Ovāda - Instructions"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
 > ◄  [[bu-pc20-horner]] 📜  [[bu-pc22-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 21
@@ -139,5 +139,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC21]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
 > ◄  [[bu-pc20-horner]] 📜  [[bu-pc22-horner]] ►

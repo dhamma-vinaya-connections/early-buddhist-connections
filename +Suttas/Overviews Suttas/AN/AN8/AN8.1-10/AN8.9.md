@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.6]], [[SA1066]], [[SA275]]"
 parallels_partilal: "[[SA-2.6]], [[SA1066]], [[SA275]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.8]]  🌐 [[AN8.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.8]]  🌐 [[AN8.10]] ►
 
 # AN8.9 - Nanda - Nanda
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[SA-2.6]], [[SA1066]], [[SA275]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.9%5D%5D%22%23mynotes%20-file%3Aan8.9-%20-file%3A%22AN8.8%22%20-file%3A%22AN8.10%22%20-file%3A%22AN8.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.9
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.8]]  🌐 [[AN8.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.8]]  🌐 [[AN8.10]] ►

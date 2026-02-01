@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.68-70]], [[AN8.70]], [[DN16]], [[SN51.10]], [[UD8.5]], 
 parallels_agama: "[[EA42.5]], [[MA36]]"
 parallels_partilal: "[[DN16]], [[AN8.70]], [[SN51.10]], [[AN8.68-70]], [[DA2]], [[UD8.5]], [[UD8.6]], [[MA36]], [[EA42.5]], [[PE3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.10]]  🌐 [[UD6.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.10]]  🌐 [[UD6.2]] ►
 
 # UD6.1 - Ayusankharavossajana Sutta - Relinquishment of the Life Force
 ## 🌐 Overview
@@ -86,10 +86,10 @@ he shattered self-creation like a suit of armor
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD6.1%5D%5D%22%23mynotes%20-file%3Aud6.1-%20-file%3A%22UD5.10%22%20-file%3A%22UD6.2%22%20-file%3A%22UD6.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud6.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.1
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.10]]  🌐 [[UD6.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.10]]  🌐 [[UD6.2]] ►

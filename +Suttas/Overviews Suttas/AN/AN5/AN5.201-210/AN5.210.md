@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PLI-TV-KD8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.209]]  🌐 [[AN5.211]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.209]]  🌐 [[AN5.211]] ►
 
 # AN5.210 - Muṭṭhassati - Unmindful
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[PLI-TV-KD8]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.210%5D%5D%22%23mynotes%20-file%3Aan5.210-%20-file%3A%22AN5.209%22%20-file%3A%22AN5.211%22%20-file%3A%22AN5.210%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.210/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.210
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.210.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.209]]  🌐 [[AN5.211]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.209]]  🌐 [[AN5.211]] ►

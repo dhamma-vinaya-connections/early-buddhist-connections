@@ -4,7 +4,7 @@ vin_title: "Bhikkhuakkosana - Abusing Monks"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC52]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC52]]
 > ◄  [[bni-pc51-brahmali-pali]] 📜  [[bni-pc53-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -110,5 +110,5 @@ p_2V_3114Dutiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC52]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC52]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC52]]
 > ◄  [[bni-pc51-brahmali-pali]] 📜  [[bni-pc53-brahmali-pali]] ►

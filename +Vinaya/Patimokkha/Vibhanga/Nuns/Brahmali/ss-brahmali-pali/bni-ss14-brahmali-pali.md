@@ -4,7 +4,7 @@ vin_title: "Saṅghabheda - Schism in the Saṅgha"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS14]]
 > ◄  [[bni-ss13-brahmali-pali]] 📜  [[bni-ss15-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -268,5 +268,5 @@ So bhikkhu samanubhāsitabbo—
 >|       |          | [[ñanatusita-analysis#^-SS14]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS14]]
 > ◄  [[bni-ss13-brahmali-pali]] 📜  [[bni-ss15-brahmali-pali]] ►

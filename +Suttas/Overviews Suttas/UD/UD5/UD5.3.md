@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.2]]  🌐 [[UD5.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.2]]  🌐 [[UD5.4]] ►
 
 # UD5.3 - Suppabuddhakutthi Sutta - The Leper
 ## 🌐 Overview
@@ -89,10 +89,10 @@ though you fly away and flee
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD5.3%5D%5D%22%23mynotes%20-file%3Aud5.3-%20-file%3A%22UD5.2%22%20-file%3A%22UD5.4%22%20-file%3A%22UD5.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud5.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud5.3
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud5.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.2]]  🌐 [[UD5.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.2]]  🌐 [[UD5.4]] ►

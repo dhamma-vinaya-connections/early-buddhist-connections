@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.82]]  🌐 [[AN5.84]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.82]]  🌐 [[AN5.84]] ►
 
 # AN5.83 - Kuhaka - Deceiver
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.83%5D%5D%22%23mynotes%20-file%3Aan5.83-%20-file%3A%22AN5.82%22%20-file%3A%22AN5.84%22%20-file%3A%22AN5.83%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.83/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.83
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.83.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.82]]  🌐 [[AN5.84]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.82]]  🌐 [[AN5.84]] ►

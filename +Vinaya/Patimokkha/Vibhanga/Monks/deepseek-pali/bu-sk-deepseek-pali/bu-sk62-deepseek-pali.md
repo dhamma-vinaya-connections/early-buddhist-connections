@@ -4,7 +4,7 @@ vin_title: "Upāhanāruḷha - Sandals"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK62]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK62]]
 > ◄  [[bu-sk61-deepseek-pali]] 📜  [[bu-sk63-deepseek-pali]] ►
 
 # BU-SK 62
@@ -47,5 +47,5 @@ The ninth training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK62]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK62]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK62]]
 > ◄  [[bu-sk61-deepseek-pali]] 📜  [[bu-sk63-deepseek-pali]] ►

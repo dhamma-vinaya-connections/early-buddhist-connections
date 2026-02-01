@@ -4,7 +4,7 @@ vin_title: "Sāmaṇerī-gihinī-ummaddāpana - Getting Novices to Massage"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC92]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC92]]
 > ◄  [[bni-pc91-horner]] 📜  [[bni-pc93-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 91–93
@@ -51,5 +51,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC92]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC92]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC92]]
 > ◄  [[bni-pc91-horner]] 📜  [[bni-pc93-horner]] ►

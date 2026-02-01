@@ -4,7 +4,7 @@ vin_title: "Yāna - Vehicle"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK63]]
 > ◄  [[bni-sk62-brahmali-pali]] 📜  [[bni-sk64-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -66,5 +66,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^-SK63]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK63]]
 > ◄  [[bni-sk62-brahmali-pali]] 📜  [[bni-sk64-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Chattapāṇi - Holding Sunshade"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK57]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK57]]
 > ◄  [[bu-sk56-deepseek-pali]] 📜  [[bu-sk58-deepseek-pali]] ►
 
 # BU-SK 57
@@ -43,5 +43,5 @@ The fifth training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK57]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK57]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK57]]
 > ◄  [[bu-sk56-deepseek-pali]] 📜  [[bu-sk58-deepseek-pali]] ►

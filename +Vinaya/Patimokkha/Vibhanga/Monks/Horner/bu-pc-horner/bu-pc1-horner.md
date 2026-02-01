@@ -4,7 +4,7 @@ vin_title: "Musāvāda - Lying"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC1]]
 > ◄  [[BU-NP30]] 📜  [[bu-pc2-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 1
@@ -109,5 +109,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC1]]
 > ◄  [[BU-NP30]] 📜  [[bu-pc2-horner]] ►

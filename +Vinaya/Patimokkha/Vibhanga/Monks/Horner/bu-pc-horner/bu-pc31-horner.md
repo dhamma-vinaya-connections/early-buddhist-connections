@@ -4,7 +4,7 @@ vin_title: "Āvasathapiṇḍa - Eating at a Public Guest-house"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC31]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC31]]
 > ◄  [[bu-pc30-horner]] 📜  [[bu-pc32-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 31
@@ -77,5 +77,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC31]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC31]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC31]]
 > ◄  [[bu-pc30-horner]] 📜  [[bu-pc32-horner]] ►

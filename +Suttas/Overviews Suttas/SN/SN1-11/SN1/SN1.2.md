@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.179]], [[SA1268]]"
 parallels_partilal: "[[SA-2.179]], [[SA1268]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.1]]  🌐 [[SN1.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.1]]  🌐 [[SN1.3]] ►
 
 # SN1.2 - Nimokkhasutta - Emancipation
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SA-2.179]], [[SA1268]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.2%5D%5D%22%23mynotes%20-file%3Asn1.2-%20-file%3A%22SN1.1%22%20-file%3A%22SN1.3%22%20-file%3A%22SN1.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.2
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.2.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.1]]  🌐 [[SN1.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.1]]  🌐 [[SN1.3]] ►

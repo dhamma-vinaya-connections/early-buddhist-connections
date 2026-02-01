@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.63]]"
 parallels_agama: ""
 parallels_partilal: "[[AN4.63]], [[ITI106]], [[JA532]], [[SN7.19]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.30]]  🌐 [[AN3.32]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.30]]  🌐 [[AN3.32]] ►
 
 # AN3.31 - Sabrahmaka - Brahma
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN4.63]], [[ITI106]], [[JA532]], [[SN7.19]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.31%5D%5D%22%23mynotes%20-file%3Aan3.31-%20-file%3A%22AN3.30%22%20-file%3A%22AN3.32%22%20-file%3A%22AN3.31%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.31/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.31
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.31.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.30]]  🌐 [[AN3.32]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.30]]  🌐 [[AN3.32]] ►

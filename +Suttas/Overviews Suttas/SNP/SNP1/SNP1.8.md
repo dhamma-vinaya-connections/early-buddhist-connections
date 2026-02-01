@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.7]]  🌐 [[SNP1.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.7]]  🌐 [[SNP1.9]] ►
 
 # SNP1.8 - Metta - Love
 ## 🌐 Overview
@@ -89,10 +89,10 @@ no one should wish suffering for another.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP1.8%5D%5D%22%23mynotes%20-file%3Asnp1.8-%20-file%3A%22SNP1.7%22%20-file%3A%22SNP1.9%22%20-file%3A%22SNP1.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp1.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.8
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.7]]  🌐 [[SNP1.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.7]]  🌐 [[SNP1.9]] ►

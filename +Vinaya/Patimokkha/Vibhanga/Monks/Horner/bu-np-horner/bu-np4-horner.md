@@ -4,7 +4,7 @@ vin_title: "Purāṇacīvara - Robes Used"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
 > ◄  [[bu-np3-horner]] 📜  [[bu-np5-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 4
@@ -87,5 +87,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]
 > ◄  [[bu-np3-horner]] 📜  [[bu-np5-horner]] ►

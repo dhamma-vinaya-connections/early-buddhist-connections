@@ -4,7 +4,7 @@ vin_title: "Āvudhapāṇi - Holding Weapon"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK60]]
 > ◄  [[bu-sk59-brahmali-pali]] 📜  [[bu-sk61-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -68,5 +68,5 @@ Surusuruvaggo chaṭṭho.
 >|       |          | [[ñanatusita-analysis#^SK60]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK60]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK60]]
 > ◄  [[bu-sk59-brahmali-pali]] 📜  [[bu-sk61-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Paraabhisapana - Cursing Another"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC19]]
 > ◄  [[bni-pc18-horner]] 📜  [[bni-pc20-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 19
@@ -65,5 +65,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC19]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC19]]
 > ◄  [[bni-pc18-horner]] 📜  [[bni-pc20-horner]] ►

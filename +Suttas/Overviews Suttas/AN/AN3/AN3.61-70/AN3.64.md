@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.93]], [[AN10.96]], [[AN4.185]]"
 parallels_agama: "[[SA-2.201]], [[SA-2.202]], [[SA-2.204]], [[SA967]], [[SA968]], [[SA970]]"
 parallels_partilal: "[[SA-2.204]], [[SA970]], [[AN10.93]], [[SA-2.202]], [[SA968]], [[AN10.96]], [[SA-2.201]], [[SA967]], [[AN4.185]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.63]]  🌐 [[AN3.65]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.63]]  🌐 [[AN3.65]] ►
 
 # AN3.64 - Sarabha - With Sarabha
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[SA-2.204]], [[SA970]], [[AN10.93]], [[SA-2.202]], [[SA968
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.64%5D%5D%22%23mynotes%20-file%3Aan3.64-%20-file%3A%22AN3.63%22%20-file%3A%22AN3.65%22%20-file%3A%22AN3.64%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.64/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.64
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.64.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.63]]  🌐 [[AN3.65]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.63]]  🌐 [[AN3.65]] ►

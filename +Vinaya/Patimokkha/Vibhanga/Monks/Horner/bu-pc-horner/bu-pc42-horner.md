@@ -4,7 +4,7 @@ vin_title: "Uyyojana - Sending a Bhikkhu Back from Almsround"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
 > ◄  [[bu-pc41-horner]] 📜  [[bu-pc43-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 42
@@ -65,5 +65,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC42]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC42]]
 > ◄  [[bu-pc41-horner]] 📜  [[bu-pc43-horner]] ►

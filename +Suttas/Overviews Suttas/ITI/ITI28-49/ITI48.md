@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP306]], [[DHP307]], [[DHP308]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP307]], [[ITI91]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI47]]  🌐 [[ITI49]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI47]]  🌐 [[ITI49]] ►
 
 # ITI48 - Āpāyika - Bound for loss
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP307]], [[ITI91]], 
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI48%5D%5D%22%23mynotes%20-file%3Aiti48-%20-file%3A%22ITI47%22%20-file%3A%22ITI49%22%20-file%3A%22ITI48%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti48/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti48
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti48.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI47]]  🌐 [[ITI49]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI47]]  🌐 [[ITI49]] ►

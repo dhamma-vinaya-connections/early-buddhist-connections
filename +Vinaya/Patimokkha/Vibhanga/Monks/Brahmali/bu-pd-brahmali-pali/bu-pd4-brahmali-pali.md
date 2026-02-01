@@ -4,7 +4,7 @@ vin_title: "Catutthapāṭidesanīya - Receiving Food in a Dangerous Region"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD4]]
 > ◄  [[bu-pd3-brahmali-pali]] 📜  [[BNI-SK1]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -182,5 +182,5 @@ Yāguyā paṭisaṁvidite tassā parivāro āhariyyati, etaṁ paṭisaṁvidit
 >|       |          | [[ñanatusita-analysis#^PD4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD4]]
 > ◄  [[bu-pd3-brahmali-pali]] 📜  [[BNI-SK1]] ►

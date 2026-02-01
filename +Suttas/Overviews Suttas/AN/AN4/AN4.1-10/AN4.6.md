@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP230]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP230]], [[AN4.28]], [[AN5.42]], [[UD7.6]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.5]]  🌐 [[AN4.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.5]]  🌐 [[AN4.7]] ►
 
 # AN4.6 - Appassuta - Little Learning
 ## 🌐 Overview
@@ -82,10 +82,10 @@ Such a person is said to beautify the saṅgha
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.6%5D%5D%22%23mynotes%20-file%3Aan4.6-%20-file%3A%22AN4.5%22%20-file%3A%22AN4.7%22%20-file%3A%22AN4.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.6
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.5]]  🌐 [[AN4.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.5]]  🌐 [[AN4.7]] ►

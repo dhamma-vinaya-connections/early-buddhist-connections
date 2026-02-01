@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.248]]  🌐 [[AN4.250]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.248]]  🌐 [[AN4.250]] ►
 
 # AN4.249 - Paññāvuddhi - Wisdom Growth
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.249%5D%5D%22%23mynotes%20-file%3Aan4.249-%20-file%3A%22AN4.248%22%20-file%3A%22AN4.250%22%20-file%3A%22AN4.249%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.249/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.249
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.249.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.248]]  🌐 [[AN4.250]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.248]]  🌐 [[AN4.250]] ►

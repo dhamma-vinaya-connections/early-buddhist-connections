@@ -4,7 +4,7 @@ vin_title: "Vehāsakuṭi - Upper Story"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC18]]
 > ◄  [[bu-pc17-deepseek-pali]] 📜  [[bu-pc19-deepseek-pali]] ►
 
 # BU-PC 18
@@ -75,5 +75,5 @@ The training rule concerning the upper-story dwelling is finished, the eighth.
 >|       |          | [[ñanatusita-analysis#^PC18]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC18]]
 > ◄  [[bu-pc17-deepseek-pali]] 📜  [[bu-pc19-deepseek-pali]] ►

@@ -4,7 +4,7 @@ index:
 rule_type: "BNI-SS - Sanghadisesa - Suspension"
 vin_gender: "Nuns"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-SS 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-SS 
 
 # BNI-SS - Sanghadisesa - Suspension
 

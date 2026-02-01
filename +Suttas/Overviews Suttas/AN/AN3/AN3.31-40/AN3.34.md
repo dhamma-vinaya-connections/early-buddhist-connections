@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.33]]  🌐 [[AN3.35]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.33]]  🌐 [[AN3.35]] ►
 
 # AN3.34 - Nidāna - Sources
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.34%5D%5D%22%23mynotes%20-file%3Aan3.34-%20-file%3A%22AN3.33%22%20-file%3A%22AN3.35%22%20-file%3A%22AN3.34%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.34/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.34
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.34.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.33]]  🌐 [[AN3.35]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.33]]  🌐 [[AN3.35]] ►

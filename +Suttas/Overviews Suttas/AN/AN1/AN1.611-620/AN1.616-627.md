@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.575-615]]  🌐 [[AN2.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.575-615]]  🌐 [[AN2.1]] ►
 
 # AN1.616-627 - Amata - Deathless
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.616-627%5D%5D%22%23mynotes%20-file%3Aan1.616-627-%20-file%3A%22AN1.575-615%22%20-file%3A%22AN2.1%22%20-file%3A%22AN1.616-627%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.616-627/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.616-627
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.616-627.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.575-615]]  🌐 [[AN2.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.575-615]]  🌐 [[AN2.1]] ►

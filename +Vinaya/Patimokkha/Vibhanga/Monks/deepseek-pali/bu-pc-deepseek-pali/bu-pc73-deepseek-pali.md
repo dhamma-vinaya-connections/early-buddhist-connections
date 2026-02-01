@@ -4,7 +4,7 @@ vin_title: "Mohana - Deception"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
 > ◄  [[bu-pc72-deepseek-pali]] 📜  [[bu-pc74-deepseek-pali]] ►
 
 # BU-PC 73
@@ -87,5 +87,5 @@ The third training rule on delusion is concluded.
 >|       |          | [[ñanatusita-analysis#^PC73]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
 > ◄  [[bu-pc72-deepseek-pali]] 📜  [[bu-pc74-deepseek-pali]] ►

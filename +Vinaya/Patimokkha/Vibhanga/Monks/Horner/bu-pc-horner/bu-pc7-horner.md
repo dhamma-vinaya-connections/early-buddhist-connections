@@ -4,7 +4,7 @@ vin_title: "Dhammadesanā - Teaching to a Woman"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC7]]
 > ◄  [[bu-pc6-horner]] 📜  [[bu-pc8-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 7
@@ -133,5 +133,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC7]]
 > ◄  [[bu-pc6-horner]] 📜  [[bu-pc8-horner]] ►

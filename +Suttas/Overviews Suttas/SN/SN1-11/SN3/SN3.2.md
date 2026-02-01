@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN3.23]]"
 parallels_agama: "[[SA-2.4]], [[SA1065]]"
 parallels_partilal: "[[SA-2.4]], [[SA1065]], [[SN3.23]], [[ITI50]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.1]]  🌐 [[SN3.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.1]]  🌐 [[SN3.3]] ►
 
 # SN3.2 - Purisasutta - Person
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.4]], [[SA1065]], [[SN3.23]], [[ITI50]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.2%5D%5D%22%23mynotes%20-file%3Asn3.2-%20-file%3A%22SN3.1%22%20-file%3A%22SN3.3%22%20-file%3A%22SN3.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.2
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.2.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.1]]  🌐 [[SN3.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.1]]  🌐 [[SN3.3]] ►

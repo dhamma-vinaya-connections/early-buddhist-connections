@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.8]], [[AN9.4]]"
 parallels_agama: ""
 parallels_partilal: "[[AN10.8]], [[AN9.4]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.70]]  🌐 [[AN8.72]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.70]]  🌐 [[AN8.72]] ►
 
 # AN8.71 - Saddhā - Inspiring All Around
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN10.8]], [[AN9.4]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.71%5D%5D%22%23mynotes%20-file%3Aan8.71-%20-file%3A%22AN8.70%22%20-file%3A%22AN8.72%22%20-file%3A%22AN8.71%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.71/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.71
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.71.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.70]]  🌐 [[AN8.72]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.70]]  🌐 [[AN8.72]] ►

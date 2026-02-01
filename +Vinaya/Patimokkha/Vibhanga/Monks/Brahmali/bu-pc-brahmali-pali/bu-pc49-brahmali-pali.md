@@ -4,7 +4,7 @@ vin_title: "Senāvāsa - Army Staying"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
 > ◄  [[bu-pc48-brahmali-pali]] 📜  [[bu-pc50-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -101,5 +101,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, atireka
 >|       |          | [[ñanatusita-analysis#^PC49]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
 > ◄  [[bu-pc48-brahmali-pali]] 📜  [[bu-pc50-brahmali-pali]] ►

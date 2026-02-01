@@ -40,7 +40,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA820]]"
 parallels_partilal: "[[SA820]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.86]]  🌐 [[AN3.88]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.86]]  🌐 [[AN3.88]] ►
 
 # AN3.87 - Sikkhā - Training
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[SA820]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.87%5D%5D%22%23mynotes%20-file%3Aan3.87-%20-file%3A%22AN3.86%22%20-file%3A%22AN3.88%22%20-file%3A%22AN3.87%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.87/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.87
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.87.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.86]]  🌐 [[AN3.88]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.86]]  🌐 [[AN3.88]] ►

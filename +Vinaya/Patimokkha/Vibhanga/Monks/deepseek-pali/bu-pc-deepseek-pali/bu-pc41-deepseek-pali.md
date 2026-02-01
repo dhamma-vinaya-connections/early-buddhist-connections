@@ -4,7 +4,7 @@ vin_title: "Acelaka - Food Giving to Ascetics"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
 > ◄  [[bu-pc40-deepseek-pali]] 📜  [[bu-pc42-deepseek-pali]] ►
 
 # BU-PC 41
@@ -83,5 +83,5 @@ The first training rule concerning naked ascetics is concluded.
 >|       |          | [[ñanatusita-analysis#^PC41]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]
 > ◄  [[bu-pc40-deepseek-pali]] 📜  [[bu-pc42-deepseek-pali]] ►

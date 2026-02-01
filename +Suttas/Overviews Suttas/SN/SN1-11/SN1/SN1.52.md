@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.289]], [[SA1291]]"
 parallels_partilal: "[[SA1291]], [[SA-2.289]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.51]]  🌐 [[SN1.53]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.51]]  🌐 [[SN1.53]] ►
 
 # SN1.52 - Ajarasāsutta - Undecaying
 ## 🌐 Overview
@@ -89,10 +89,10 @@ Is released from all suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.52%5D%5D%22%23mynotes%20-file%3Asn1.52-%20-file%3A%22SN1.51%22%20-file%3A%22SN1.53%22%20-file%3A%22SN1.52%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.52/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.52
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.52.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.51]]  🌐 [[SN1.53]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.51]]  🌐 [[SN1.53]] ►

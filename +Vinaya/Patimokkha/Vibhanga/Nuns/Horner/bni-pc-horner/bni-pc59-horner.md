@@ -4,7 +4,7 @@ vin_title: "Ovādūpasaṅkamana - Going to the Instruction"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC59]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC59]]
 > ◄  [[bni-pc58-horner]] 📜  [[bni-pc60-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 59
@@ -51,5 +51,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC59]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC59]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC59]]
 > ◄  [[bni-pc58-horner]] 📜  [[bni-pc60-horner]] ►

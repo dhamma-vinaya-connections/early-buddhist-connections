@@ -49,7 +49,7 @@ parallels_nikaya: ""
 parallels_agama: "[[DA25]]"
 parallels_partilal: "[[DA25]], [[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]], [[SN42.12]], [[DN25]], [[MN12]], [[MN45]], [[AN3.156-162]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DN7]]  🌐 [[DN9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DN7]]  🌐 [[DN9]] ►
 
 # DN8 - Mahāsīhanāda Sutta - Longer Discourse on the Lion’s Roar
 ## 🌐 Overview
@@ -93,10 +93,10 @@ Gradual training abbreviated
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDN8%5D%5D%22%23mynotes%20-file%3Adn8-%20-file%3A%22DN7%22%20-file%3A%22DN9%22%20-file%3A%22DN8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dn8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dn8
 > - The Buddhas Words: https://thebuddhaswords.net/dn/dn8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DN7]]  🌐 [[DN9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DN7]]  🌐 [[DN9]] ►

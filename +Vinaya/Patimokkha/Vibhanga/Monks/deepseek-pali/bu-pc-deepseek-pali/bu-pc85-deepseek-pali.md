@@ -4,7 +4,7 @@ vin_title: "Vikālagāmappavisana - Entering a Village at the Wrong Time"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
 > ◄  [[bu-pc84-deepseek-pali]] 📜  [[bu-pc86-deepseek-pali]] ►
 
 # BU-PC 85
@@ -115,5 +115,5 @@ The third training rule on entering a village at an unseasonable time is conclud
 >|       |          | [[ñanatusita-analysis#^PC85]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
 > ◄  [[bu-pc84-deepseek-pali]] 📜  [[bu-pc86-deepseek-pali]] ►

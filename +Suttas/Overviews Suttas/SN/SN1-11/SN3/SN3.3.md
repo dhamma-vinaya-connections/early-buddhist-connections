@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP151]]"
 parallels_agama: "[[EA26.6]], [[SA-2.67]], [[SA1240]]"
 parallels_partilal: "[[EA26.6]], [[SA-2.67]], [[SA1240]], [[DHP151]], [[JA537]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.2]]  🌐 [[SN3.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.2]]  🌐 [[SN3.4]] ►
 
 # SN3.3 - Jarāmaraṇasutta - Aging and Death
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA26.6]], [[SA-2.67]], [[SA1240]], [[DHP151]], [[JA537]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.3%5D%5D%22%23mynotes%20-file%3Asn3.3-%20-file%3A%22SN3.2%22%20-file%3A%22SN3.4%22%20-file%3A%22SN3.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.3
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.2]]  🌐 [[SN3.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.2]]  🌐 [[SN3.4]] ►

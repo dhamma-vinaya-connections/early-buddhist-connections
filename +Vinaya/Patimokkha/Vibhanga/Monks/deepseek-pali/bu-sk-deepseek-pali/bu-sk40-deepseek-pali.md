@@ -4,7 +4,7 @@ vin_title: "Parimaṇḍala - Round Mouthful"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK40]]
 > ◄  [[bu-sk39-deepseek-pali]] 📜  [[bu-sk41-deepseek-pali]] ►
 
 # BU-SK 40
@@ -43,5 +43,5 @@ The eighth training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK40]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK40]]
 > ◄  [[bu-sk39-deepseek-pali]] 📜  [[bu-sk41-deepseek-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP230]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP230]], [[AN4.6]], [[AN5.42]], [[UD7.6]], [[DN33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.27]]  🌐 [[AN4.29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.27]]  🌐 [[AN4.29]] ►
 
 # AN4.28 - Santuṭṭhi - Contentment
 ## 🌐 Overview
@@ -84,10 +84,10 @@ For the wise one is not beaten by discontent
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.28%5D%5D%22%23mynotes%20-file%3Aan4.28-%20-file%3A%22AN4.27%22%20-file%3A%22AN4.29%22%20-file%3A%22AN4.28%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.28/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.28
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.28.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.27]]  🌐 [[AN4.29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.27]]  🌐 [[AN4.29]] ►

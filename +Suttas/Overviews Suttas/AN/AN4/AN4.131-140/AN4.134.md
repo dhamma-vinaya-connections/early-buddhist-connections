@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.133]]  🌐 [[AN4.135]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.133]]  🌐 [[AN4.135]] ►
 
 # AN4.134 - Uṭṭhānaphala - Initiative Fruits
 ## 🌐 Overview
@@ -83,10 +83,10 @@ One who lives off the fruit of neither initiative nor deeds
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.134%5D%5D%22%23mynotes%20-file%3Aan4.134-%20-file%3A%22AN4.133%22%20-file%3A%22AN4.135%22%20-file%3A%22AN4.134%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.134/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.134
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.134.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.133]]  🌐 [[AN4.135]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.133]]  🌐 [[AN4.135]] ►

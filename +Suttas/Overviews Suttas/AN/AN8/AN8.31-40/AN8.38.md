@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN5.42]]"
 parallels_agama: ""
 parallels_partilal: "[[AN5.42]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.37]]  🌐 [[AN8.39]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.37]]  🌐 [[AN8.39]] ►
 
 # AN8.38 - Sappurisadāna - Good Person Gifts
 ## 🌐 Overview
@@ -88,10 +88,10 @@ They’ll enjoy a world of grace
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.38%5D%5D%22%23mynotes%20-file%3Aan8.38-%20-file%3A%22AN8.37%22%20-file%3A%22AN8.39%22%20-file%3A%22AN8.38%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.38/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.38
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.38.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.37]]  🌐 [[AN8.39]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.37]]  🌐 [[AN8.39]] ►

@@ -4,7 +4,7 @@ vin_title: "Udosita - Robes Staying Apart"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP14]]
 > ◄  [[bni-np13-brahmali-pali]] 📜  [[bni-np15-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -305,5 +305,5 @@ Appaccuddhaṭe paccuddhaṭasaññī … pe … avissajjite vissajjitasaññī 
 >|       |          | [[ñanatusita-analysis#^-NP14]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP14]]
 > ◄  [[bni-np13-brahmali-pali]] 📜  [[bni-np15-brahmali-pali]] ►

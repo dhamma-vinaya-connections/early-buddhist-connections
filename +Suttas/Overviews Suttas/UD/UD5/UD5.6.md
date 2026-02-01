@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PLI-TV-KD5]], [[SNP4.1-16]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.5]]  🌐 [[UD5.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.5]]  🌐 [[UD5.7]] ►
 
 # UD5.6 - Sona Sutta - Soṇa
 ## 🌐 Overview
@@ -97,10 +97,10 @@ he goes where the King of Death can’t see.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD5.6%5D%5D%22%23mynotes%20-file%3Aud5.6-%20-file%3A%22UD5.5%22%20-file%3A%22UD5.7%22%20-file%3A%22UD5.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud5.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud5.6
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud5.6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.5]]  🌐 [[UD5.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.5]]  🌐 [[UD5.7]] ►

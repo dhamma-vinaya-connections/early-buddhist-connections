@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.170]]  🌐 [[AN5.172]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.170]]  🌐 [[AN5.172]] ►
 
 # AN5.171 - Sārajja - Timidity
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.171%5D%5D%22%23mynotes%20-file%3Aan5.171-%20-file%3A%22AN5.170%22%20-file%3A%22AN5.172%22%20-file%3A%22AN5.171%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.171/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.171
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.171.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.170]]  🌐 [[AN5.172]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.170]]  🌐 [[AN5.172]] ►

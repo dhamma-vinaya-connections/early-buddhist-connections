@@ -4,7 +4,7 @@ vin_title: "Saṁsaṭṭha - Socializing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC36]]
 > ◄  [[bni-pc35-brahmali-pali]] 📜  [[bni-pc37-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -156,5 +156,5 @@ p_2V_2951Chaṭṭhasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC36]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC36]]
 > ◄  [[bni-pc35-brahmali-pali]] 📜  [[bni-pc37-brahmali-pali]] ►

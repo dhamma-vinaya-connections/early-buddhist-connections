@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[MN114]], [[MN41]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.27]]  🌐 [[AN3.29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.27]]  🌐 [[AN3.29]] ►
 
 # AN3.28 - Gūthabhāṇī - Speech Like Dung
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[MN114]], [[MN41]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.28%5D%5D%22%23mynotes%20-file%3Aan3.28-%20-file%3A%22AN3.27%22%20-file%3A%22AN3.29%22%20-file%3A%22AN3.28%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.28/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.28
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.28.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.27]]  🌐 [[AN3.29]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.27]]  🌐 [[AN3.29]] ►

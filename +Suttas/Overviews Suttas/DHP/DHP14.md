@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[THAG2.7]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP13]]  🌐 [[DHP15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP13]]  🌐 [[DHP15]] ►
 
 # DHP14 - Buddhavagga - Buddha
 ## 🌐 Overview
@@ -89,10 +89,10 @@ with right understanding
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP14%5D%5D%22%23mynotes%20-file%3Adhp14-%20-file%3A%22DHP13%22%20-file%3A%22DHP15%22%20-file%3A%22DHP14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp14
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP13]]  🌐 [[DHP15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP13]]  🌐 [[DHP15]] ►

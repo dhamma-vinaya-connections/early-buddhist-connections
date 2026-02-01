@@ -46,7 +46,7 @@ parallels_nikaya: "[[AN9.13]]"
 parallels_agama: "[[MA29]]; [[SA344]]"
 parallels_partilal: "[[AN9.13]]; [[MA29]]; [[SA344]]; [[DN22]]; [[MN10]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN8]]  🌐 [[MN10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN8]]  🌐 [[MN10]] ►
 
 # MN9 - Sammaditthi Sutta - Right View
 ## 🌐 Overview
@@ -100,10 +100,10 @@ Defilements – ignorance - choices- conciousness- mind-body - 6 senses - contac
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN9%5D%5D%22%23mynotes%20-file%3Amn9-%20-file%3A%22MN8%22%20-file%3A%22MN10%22%20-file%3A%22MN9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn9
 > - The Buddhas Words: https://thebuddhaswords.net/mn/mn9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN8]]  🌐 [[MN10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN8]]  🌐 [[MN10]] ►

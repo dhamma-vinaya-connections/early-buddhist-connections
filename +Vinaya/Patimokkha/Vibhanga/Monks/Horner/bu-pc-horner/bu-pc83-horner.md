@@ -4,7 +4,7 @@ vin_title: "Antepura - Royal Compounds"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
 > ◄  [[bu-pc82-horner]] 📜  [[bu-pc84-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 83
@@ -116,5 +116,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC83]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
 > ◄  [[bu-pc82-horner]] 📜  [[bu-pc84-horner]] ►

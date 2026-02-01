@@ -4,7 +4,7 @@ vin_title: "Mañcasanthārana - Leaving Furniture Outside"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
 > ◄  [[bu-pc13-brahmali-pali]] 📜  [[bu-pc15-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -142,5 +142,5 @@ Puggalike saṇghikasaññī, āpatti dukkaṭassa. Puggalike vematiko, āpatti 
 >|       |          | [[ñanatusita-analysis#^PC14]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
 > ◄  [[bu-pc13-brahmali-pali]] 📜  [[bu-pc15-brahmali-pali]] ►

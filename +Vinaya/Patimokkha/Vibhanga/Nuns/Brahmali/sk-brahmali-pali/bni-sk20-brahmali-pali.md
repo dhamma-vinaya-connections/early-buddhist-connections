@@ -4,7 +4,7 @@ vin_title: "Sīsappacālaka - Swaying Head"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK20]]
 > ◄  [[bni-sk19-brahmali-pali]] 📜  [[bni-sk21-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -62,5 +62,5 @@ Ujjagghikavaggo dutiyo.
 >|       |          | [[ñanatusita-analysis#^-SK20]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK20]]
 > ◄  [[bni-sk19-brahmali-pali]] 📜  [[bni-sk21-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.88]], [[SA88]]"
 parallels_partilal: "[[SA-2.88]], [[SA88]], [[AN3.31]], [[AN4.63]], [[ITI106]], [[JA532]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.18]]  🌐 [[SN7.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.18]]  🌐 [[SN7.20]] ►
 
 # SN7.19 - Mātuposakasutta - Mother Supporter
 ## 🌐 Overview
@@ -86,10 +86,10 @@ And after death he rejoices in heaven.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.19%5D%5D%22%23mynotes%20-file%3Asn7.19-%20-file%3A%22SN7.18%22%20-file%3A%22SN7.20%22%20-file%3A%22SN7.19%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.19/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.19
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.19.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.18]]  🌐 [[SN7.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.18]]  🌐 [[SN7.20]] ►

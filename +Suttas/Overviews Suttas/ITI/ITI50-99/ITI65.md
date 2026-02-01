@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[ITI31]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI64]]  🌐 [[ITI66]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI64]]  🌐 [[ITI66]] ►
 
 # ITI65 - Sucarita - Good Conduct
 ## 🌐 Overview
@@ -90,10 +90,10 @@ is said to be bathe   of evil.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI65%5D%5D%22%23mynotes%20-file%3Aiti65-%20-file%3A%22ITI64%22%20-file%3A%22ITI66%22%20-file%3A%22ITI65%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti65/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti65
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti65.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI64]]  🌐 [[ITI66]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI64]]  🌐 [[ITI66]] ►

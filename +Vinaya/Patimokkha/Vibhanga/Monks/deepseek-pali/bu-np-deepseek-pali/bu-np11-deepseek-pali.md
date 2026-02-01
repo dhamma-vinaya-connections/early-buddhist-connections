@@ -4,7 +4,7 @@ vin_title: "Kosiya - Blanket Silk"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP11]]
 > ◄  [[bu-np10-deepseek-pali]] 📜  [[bu-np12-deepseek-pali]] ►
 
 # BU-NP 11
@@ -63,5 +63,5 @@ The first training rule on silk is concluded.
 >|       |          | [[ñanatusita-analysis#^NP11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP11]]
 > ◄  [[bu-np10-deepseek-pali]] 📜  [[bu-np12-deepseek-pali]] ►

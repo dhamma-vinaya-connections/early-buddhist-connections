@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA73]]"
 parallels_partilal: "[[MA73]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.63]]  🌐 [[AN8.65]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.63]]  🌐 [[AN8.65]] ►
 
 # AN8.64 - Gayāsīsa - At Gāyā Head
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[MA73]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.64%5D%5D%22%23mynotes%20-file%3Aan8.64-%20-file%3A%22AN8.63%22%20-file%3A%22AN8.65%22%20-file%3A%22AN8.64%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.64/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.64
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.64.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.63]]  🌐 [[AN8.65]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.63]]  🌐 [[AN8.65]] ►

@@ -4,7 +4,7 @@ vin_title: "Hasadhamma - Playing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
 > ◄  [[bu-pc52-brahmali-pali]] 📜  [[bu-pc54-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -126,5 +126,5 @@ Bhājanagataṁ udakaṁ vā kañjikaṁ vā khīraṁ vā takkaṁ vā rajana�
 >|       |          | [[ñanatusita-analysis#^PC53]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
 > ◄  [[bu-pc52-brahmali-pali]] 📜  [[bu-pc54-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Sukkavisaṭṭhi - Masturbation"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
 > ◄  [[BU-PJ4]] 📜  [[bu-ss2-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -1073,5 +1073,5 @@ Na ca, bhikkhave, sārattena mātugāmassa aṅgajātaṁ upanijjhāyitabbaṁ. 
 >|       |          | [[ñanatusita-analysis#^SS1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS1]]
 > ◄  [[BU-PJ4]] 📜  [[bu-ss2-brahmali-pali]] ►

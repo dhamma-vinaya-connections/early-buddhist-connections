@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN4.25]], [[ITI35]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI35]]  🌐 [[ITI37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI35]]  🌐 [[ITI37]] ►
 
 # ITI36 - Jananakuhana - Deceit and flattery
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN4.25]], [[ITI35]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI36%5D%5D%22%23mynotes%20-file%3Aiti36-%20-file%3A%22ITI35%22%20-file%3A%22ITI37%22%20-file%3A%22ITI36%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti36
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti36.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI35]]  🌐 [[ITI37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI35]]  🌐 [[ITI37]] ►

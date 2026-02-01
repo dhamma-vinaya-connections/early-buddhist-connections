@@ -4,7 +4,7 @@ vin_title: "Surāpāna - Alcohol Drinking"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
 > ◄  [[bu-pc50-horner]] 📜  [[bu-pc52-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 51
@@ -97,5 +97,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC51]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
 > ◄  [[bu-pc50-horner]] 📜  [[bu-pc52-horner]] ►

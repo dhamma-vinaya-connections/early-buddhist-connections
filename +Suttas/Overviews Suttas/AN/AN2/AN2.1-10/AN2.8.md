@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[ITI42]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.7]]  🌐 [[AN2.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.7]]  🌐 [[AN2.9]] ►
 
 # AN2.8 - Cariya - Conduct
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[ITI42]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.8%5D%5D%22%23mynotes%20-file%3Aan2.8-%20-file%3A%22AN2.7%22%20-file%3A%22AN2.9%22%20-file%3A%22AN2.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.8
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.7]]  🌐 [[AN2.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.7]]  🌐 [[AN2.9]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.76]]  🌐 [[AN5.78]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.76]]  🌐 [[AN5.78]] ►
 
 # AN5.77 - Anagata-Bhayani - Future Perils (1st
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.77%5D%5D%22%23mynotes%20-file%3Aan5.77-%20-file%3A%22AN5.76%22%20-file%3A%22AN5.78%22%20-file%3A%22AN5.77%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.77/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.77
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.77.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.76]]  🌐 [[AN5.78]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.76]]  🌐 [[AN5.78]] ►

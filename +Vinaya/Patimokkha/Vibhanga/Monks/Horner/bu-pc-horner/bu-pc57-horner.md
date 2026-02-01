@@ -4,7 +4,7 @@ vin_title: "Nahāna - Bathing"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
 > ◄  [[bu-pc56-horner]] 📜  [[bu-pc58-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 57
@@ -129,5 +129,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC57]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC57]]
 > ◄  [[bu-pc56-horner]] 📜  [[bu-pc58-horner]] ►

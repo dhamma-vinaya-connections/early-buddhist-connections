@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA23.3]], [[MA123]], [[SA254]]"
 parallels_partilal: "[[EA23.3]], [[MA123]], [[SA254]], [[PLI-TV-KD5]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.54]]  🌐 [[AN6.56]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.54]]  🌐 [[AN6.56]] ►
 
 # AN6.55 - Sona - With Sona
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[EA23.3]], [[MA123]], [[SA254]], [[PLI-TV-KD5]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.55%5D%5D%22%23mynotes%20-file%3Aan6.55-%20-file%3A%22AN6.54%22%20-file%3A%22AN6.56%22%20-file%3A%22AN6.55%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.55/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.55
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.55.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.54]]  🌐 [[AN6.56]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.54]]  🌐 [[AN6.56]] ►

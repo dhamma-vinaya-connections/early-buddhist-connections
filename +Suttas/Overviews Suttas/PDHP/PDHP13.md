@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP12]]  🌐 [[PDHP14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP12]]  🌐 [[PDHP14]] ►
 
 # PDHP13 - Bālavagga - Fools
 ## 🌐 Overview
@@ -88,10 +88,10 @@ he is said to be a fool indeed.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BPDHP13%5D%5D%22%23mynotes%20-file%3Apdhp13-%20-file%3A%22PDHP12%22%20-file%3A%22PDHP14%22%20-file%3A%22PDHP13%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pdhp13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp13
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp13.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP12]]  🌐 [[PDHP14]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP12]]  🌐 [[PDHP14]] ►

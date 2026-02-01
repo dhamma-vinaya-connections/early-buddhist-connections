@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.243]], [[SA1016]]"
 parallels_partilal: "[[SA-2.243]], [[SA1016]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.55]]  🌐 [[SN1.57]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.55]]  🌐 [[SN1.57]] ►
 
 # SN1.56 - Dutiyajanasutta - Produces (2)
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Kamma determines his destiny
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.56%5D%5D%22%23mynotes%20-file%3Asn1.56-%20-file%3A%22SN1.55%22%20-file%3A%22SN1.57%22%20-file%3A%22SN1.56%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.56/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.56
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.56.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.55]]  🌐 [[SN1.57]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.55]]  🌐 [[SN1.57]] ►

@@ -39,7 +39,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.107]]  🌐 [[AN6.109]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.107]]  🌐 [[AN6.109]] ►
 
 # AN6.108 - Rāga - Greed
 ## 🌐 Overview
@@ -84,10 +84,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.108%5D%5D%22%23mynotes%20-file%3Aan6.108-%20-file%3A%22AN6.107%22%20-file%3A%22AN6.109%22%20-file%3A%22AN6.108%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.108/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.108
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.108.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.107]]  🌐 [[AN6.109]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.107]]  🌐 [[AN6.109]] ►

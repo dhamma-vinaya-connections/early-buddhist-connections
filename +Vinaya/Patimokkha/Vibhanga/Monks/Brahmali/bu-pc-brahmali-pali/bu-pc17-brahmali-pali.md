@@ -4,7 +4,7 @@ vin_title: "Nikkaḍḍhana - Throwing Out"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
 > ◄  [[bu-pc16-brahmali-pali]] 📜  [[bu-pc18-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -154,5 +154,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, kupitā
 >|       |          | [[ñanatusita-analysis#^PC17]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC17]]
 > ◄  [[bu-pc16-brahmali-pali]] 📜  [[bu-pc18-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.360]], [[SA1340]]"
 parallels_partilal: "[[SA-2.360]], [[SA1340]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.8]]  🌐 [[SN9.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.8]]  🌐 [[SN9.10]] ►
 
 # SN9.9 - Vajjiputtasutta - Vajjian Prince or Vesālī
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Who are attached to divine maidens
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.9%5D%5D%22%23mynotes%20-file%3Asn9.9-%20-file%3A%22SN9.8%22%20-file%3A%22SN9.10%22%20-file%3A%22SN9.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.9
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.8]]  🌐 [[SN9.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.8]]  🌐 [[SN9.10]] ►

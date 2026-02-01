@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.216]], [[SA1200]]"
 parallels_partilal: "[[SA-2.216]], [[SA1200]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.2]]  🌐 [[SN5.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.2]]  🌐 [[SN5.4]] ►
 
 # SN5.3 - Kisāgotamīsutta - Gotami
 ## 🌐 Overview
@@ -91,10 +91,10 @@ I’m free from all bonds,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN5.3%5D%5D%22%23mynotes%20-file%3Asn5.3-%20-file%3A%22SN5.2%22%20-file%3A%22SN5.4%22%20-file%3A%22SN5.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn5.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.3
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.2]]  🌐 [[SN5.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.2]]  🌐 [[SN5.4]] ►

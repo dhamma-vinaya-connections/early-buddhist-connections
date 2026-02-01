@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA25]]"
 parallels_partilal: "[[MA25]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.161]]  🌐 [[AN5.163]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.161]]  🌐 [[AN5.163]] ►
 
 # AN5.162 - Āghātapaṭivinaya - Getting Rid Of Resentment
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[MA25]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.162%5D%5D%22%23mynotes%20-file%3Aan5.162-%20-file%3A%22AN5.161%22%20-file%3A%22AN5.163%22%20-file%3A%22AN5.162%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.162/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.162
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.162.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.161]]  🌐 [[AN5.163]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.161]]  🌐 [[AN5.163]] ►

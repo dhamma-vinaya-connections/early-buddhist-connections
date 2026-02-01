@@ -4,7 +4,7 @@ vin_title: "Ūnapañcabandhana - Bowl With Fewer Than 5 Mends"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP22]]
 > ◄  [[bu-np21-horner]] 📜  [[bu-np23-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 22
@@ -87,5 +87,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP22]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP22]]
 > ◄  [[bu-np21-horner]] 📜  [[bu-np23-horner]] ►

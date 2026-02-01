@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.72]]  🌐 [[AN9.74-432]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.72]]  🌐 [[AN9.74-432]] ►
 
 # AN9.73 - Sikkha - Training
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.73%5D%5D%22%23mynotes%20-file%3Aan9.73-%20-file%3A%22AN9.72%22%20-file%3A%22AN9.74-432%22%20-file%3A%22AN9.73%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.73/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.73
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.73.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.72]]  🌐 [[AN9.74-432]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.72]]  🌐 [[AN9.74-432]] ►

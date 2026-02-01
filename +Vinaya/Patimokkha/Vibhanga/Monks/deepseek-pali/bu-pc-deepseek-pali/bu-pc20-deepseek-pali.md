@@ -4,7 +4,7 @@ vin_title: "Sappāṇaka - Water Living Creatures Use"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC20]]
 > ◄  [[bu-pc19-deepseek-pali]] 📜  [[bu-pc21-deepseek-pali]] ►
 
 # BU-PC 20
@@ -79,5 +79,5 @@ Knowing living beings, complaining, the two who departed; having previously pull
 >|       |          | [[ñanatusita-analysis#^PC20]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC20]]
 > ◄  [[bu-pc19-deepseek-pali]] 📜  [[bu-pc21-deepseek-pali]] ►

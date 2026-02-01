@@ -4,7 +4,7 @@ vin_title: "Uyyodhika - Army on Action Seeing"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
 > ◄  [[bu-pc49-brahmali-pali]] 📜  [[bu-pc51-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -141,5 +141,5 @@ senāviddho ime dasāti.
 >|       |          | [[ñanatusita-analysis#^PC50]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
 > ◄  [[bu-pc49-brahmali-pali]] 📜  [[bu-pc51-brahmali-pali]] ►

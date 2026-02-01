@@ -4,7 +4,7 @@ vin_title: "Adhikaraṇa - Legal Issues"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC45]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC45]]
 > ◄  [[bni-pc44-brahmali-pali]] 📜  [[bni-pc46-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -118,5 +118,5 @@ p_2V_3038Pañcamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC45]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC45]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC45]]
 > ◄  [[bni-pc44-brahmali-pali]] 📜  [[bni-pc46-brahmali-pali]] ►

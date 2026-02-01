@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA29.6]], [[SA406-407]]"
 parallels_partilal: "[[EA29.6]], [[SA406-407]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.76]]  🌐 [[AN4.78]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.76]]  🌐 [[AN4.78]] ►
 
 # AN4.77 - Acinteyya - Unthinkable
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Speculation about the world
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.77%5D%5D%22%23mynotes%20-file%3Aan4.77-%20-file%3A%22AN4.76%22%20-file%3A%22AN4.78%22%20-file%3A%22AN4.77%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.77/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.77
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.77.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.76]]  🌐 [[AN4.78]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.76]]  🌐 [[AN4.78]] ►

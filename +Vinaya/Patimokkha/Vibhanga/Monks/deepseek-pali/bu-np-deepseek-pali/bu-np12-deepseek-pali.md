@@ -4,7 +4,7 @@ vin_title: "Suddhakāla - Blanket Black"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP12]]
 > ◄  [[bu-np11-deepseek-pali]] 📜  [[bu-np13-deepseek-pali]] ►
 
 # BU-NP 12
@@ -67,5 +67,5 @@ The second training rule on pure black wool is concluded.
 >|       |          | [[ñanatusita-analysis#^NP12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP12]]
 > ◄  [[bu-np11-deepseek-pali]] 📜  [[bu-np13-deepseek-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Vikappana - Shared Ownership"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC59]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC59]]
 > ◄  [[bu-pc58-horner]] 📜  [[bu-pc60-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 59
@@ -79,5 +79,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC59]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC59]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC59]]
 > ◄  [[bu-pc58-horner]] 📜  [[bu-pc60-horner]] ►

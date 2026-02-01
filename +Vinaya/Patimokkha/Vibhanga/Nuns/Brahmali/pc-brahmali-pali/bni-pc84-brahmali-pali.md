@@ -4,7 +4,7 @@ vin_title: "Chattupāhana - Sunshades and Sandals"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC84]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC84]]
 > ◄  [[bni-pc83-brahmali-pali]] 📜  [[bni-pc85-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -120,5 +120,5 @@ p_2V_3438Paṭhamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC84]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC84]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC84]]
 > ◄  [[bni-pc83-brahmali-pali]] 📜  [[bni-pc85-brahmali-pali]] ►

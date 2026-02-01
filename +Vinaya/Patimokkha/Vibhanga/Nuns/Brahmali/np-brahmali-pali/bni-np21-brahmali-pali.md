@@ -4,7 +4,7 @@ vin_title: "Rūpiya - Money"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP21]]
 > ◄  [[bni-np20-brahmali-pali]] 📜  [[bni-np22-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -184,5 +184,5 @@ Sace so chaḍḍeti, iccetaṁ kusalaṁ; no ce chaḍḍeti, pañcahaṅgehi s
 >|       |          | [[ñanatusita-analysis#^-NP21]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP21]]
 > ◄  [[bni-np20-brahmali-pali]] 📜  [[bni-np22-brahmali-pali]] ►

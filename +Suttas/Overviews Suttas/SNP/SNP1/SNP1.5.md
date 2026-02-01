@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DA2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.4]]  🌐 [[SNP1.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.4]]  🌐 [[SNP1.6]] ►
 
 # SNP1.5 - Cunda - With Cunda the smith
 ## 🌐 Overview
@@ -88,10 +88,10 @@ For how could one equate the undefiled with the defiled, the pure with the impur
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP1.5%5D%5D%22%23mynotes%20-file%3Asnp1.5-%20-file%3A%22SNP1.4%22%20-file%3A%22SNP1.6%22%20-file%3A%22SNP1.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp1.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.5
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.4]]  🌐 [[SNP1.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.4]]  🌐 [[SNP1.6]] ►

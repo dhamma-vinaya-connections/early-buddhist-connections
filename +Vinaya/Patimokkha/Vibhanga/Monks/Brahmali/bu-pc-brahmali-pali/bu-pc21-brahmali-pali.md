@@ -4,7 +4,7 @@ vin_title: "Ovāda - Instructions"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
 > ◄  [[bu-pc20-brahmali-pali]] 📜  [[bu-pc22-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -332,5 +332,5 @@ Ayampi dhammo … pe … ajjatagge ovaṭo bhikkhunīnaṁ bhikkhūsu vacanapath
 >|       |          | [[ñanatusita-analysis#^PC21]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
 > ◄  [[bu-pc20-brahmali-pali]] 📜  [[bu-pc22-brahmali-pali]] ►

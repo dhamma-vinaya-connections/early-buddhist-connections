@@ -4,7 +4,7 @@ vin_title: "Mañcapīṭha - Beds and Benches"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC87]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC87]]
 > ◄  [[bu-pc86-horner]] 📜  [[bu-pc88-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 87
@@ -57,5 +57,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC87]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC87]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC87]]
 > ◄  [[bu-pc86-horner]] 📜  [[bu-pc88-horner]] ►

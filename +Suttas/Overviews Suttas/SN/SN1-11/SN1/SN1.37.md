@@ -38,7 +38,7 @@ parallels_nikaya: "[[DN20]]"
 parallels_agama: "[[DA19]], [[SA-2.105]], [[SA1192]]"
 parallels_partilal: "[[DN20]], [[DA19]], [[SA-2.105]], [[SA1192]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.36]]  🌐 [[SN1.38]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.36]]  🌐 [[SN1.38]] ►
 
 # SN1.37 - Samayasutta - Concourse
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[DN20]], [[DA19]], [[SA-2.105]], [[SA1192]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.37%5D%5D%22%23mynotes%20-file%3Asn1.37-%20-file%3A%22SN1.36%22%20-file%3A%22SN1.38%22%20-file%3A%22SN1.37%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.37/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.37
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.37.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.36]]  🌐 [[SN1.38]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.36]]  🌐 [[SN1.38]] ►

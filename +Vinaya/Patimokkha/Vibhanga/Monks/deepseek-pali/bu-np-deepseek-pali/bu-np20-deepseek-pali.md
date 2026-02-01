@@ -4,7 +4,7 @@ vin_title: "Kayavikkaya - Bartering"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP20]]
 > ◄  [[bu-np19-deepseek-pali]] 📜  [[bu-np21-deepseek-pali]] ►
 
 # BU-NP 20
@@ -86,5 +86,5 @@ Both of different sorts.
 >|       |          | [[ñanatusita-analysis#^NP20]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP20]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP20]]
 > ◄  [[bu-np19-deepseek-pali]] 📜  [[bu-np21-deepseek-pali]] ►

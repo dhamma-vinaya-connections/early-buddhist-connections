@@ -4,7 +4,7 @@ vin_title: "Aṅgulipatodaka - Tinkling"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC52]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC52]]
 > ◄  [[bu-pc51-horner]] 📜  [[bu-pc53-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 52
@@ -57,5 +57,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC52]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC52]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC52]]
 > ◄  [[bu-pc51-horner]] 📜  [[bu-pc53-horner]] ►

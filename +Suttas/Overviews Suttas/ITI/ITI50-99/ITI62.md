@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN4.16]], [[AN3.85]], [[ITI102]], [[PE3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI61]]  🌐 [[ITI63]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI61]]  🌐 [[ITI63]] ►
 
 # ITI62 - Indriya - Faculties
 ## 🌐 Overview
@@ -89,10 +89,10 @@ the gnosis of  one released
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI62%5D%5D%22%23mynotes%20-file%3Aiti62-%20-file%3A%22ITI61%22%20-file%3A%22ITI63%22%20-file%3A%22ITI62%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti62/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti62
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti62.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI61]]  🌐 [[ITI63]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI61]]  🌐 [[ITI63]] ►

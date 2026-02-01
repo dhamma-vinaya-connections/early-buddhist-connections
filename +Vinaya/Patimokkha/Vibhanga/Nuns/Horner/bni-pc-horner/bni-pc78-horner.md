@@ -4,7 +4,7 @@ vin_title: "Anubandha-sikkhamānana-vuṭṭhāpana - Not Ordaining Trainees Aft
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC78]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC78]]
 > ◄  [[bni-pc77-horner]] 📜  [[bni-pc79-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 78
@@ -45,5 +45,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC78]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC78]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC78]]
 > ◄  [[bni-pc77-horner]] 📜  [[bni-pc79-horner]] ►

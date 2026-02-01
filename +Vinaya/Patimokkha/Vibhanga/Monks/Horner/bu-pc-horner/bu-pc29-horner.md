@@ -4,7 +4,7 @@ vin_title: "Paripācita - Food Prepared on a Nun’s Instruction"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
 > ◄  [[bu-pc28-horner]] 📜  [[bu-pc30-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 29
@@ -105,5 +105,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC29]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
 > ◄  [[bu-pc28-horner]] 📜  [[bu-pc30-horner]] ►

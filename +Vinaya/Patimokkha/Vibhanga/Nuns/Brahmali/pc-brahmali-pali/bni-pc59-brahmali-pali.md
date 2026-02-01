@@ -4,7 +4,7 @@ vin_title: "Ovādūpasaṅkamana - Going to the Instruction"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC59]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC59]]
 > ◄  [[bni-pc58-brahmali-pali]] 📜  [[bni-pc60-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -80,5 +80,5 @@ p_2V_3172Navamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC59]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC59]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC59]]
 > ◄  [[bni-pc58-brahmali-pali]] 📜  [[bni-pc60-brahmali-pali]] ►

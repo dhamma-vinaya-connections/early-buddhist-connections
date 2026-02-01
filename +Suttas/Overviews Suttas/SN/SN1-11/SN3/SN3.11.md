@@ -38,7 +38,7 @@ parallels_nikaya: "[[UD6.2]]"
 parallels_agama: "[[SA-2.71]], [[SA1148]]"
 parallels_partilal: "[[SA-2.71]], [[SA1148]], [[UD6.2]], [[AN4.192]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.10]]  🌐 [[SN3.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.10]]  🌐 [[SN3.12]] ►
 
 # SN3.11 - Sattajaṭilasutta - Seven Jaṭilas
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA-2.71]], [[SA1148]], [[UD6.2]], [[AN4.192]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.11%5D%5D%22%23mynotes%20-file%3Asn3.11-%20-file%3A%22SN3.10%22%20-file%3A%22SN3.12%22%20-file%3A%22SN3.11%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.11
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.11.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.10]]  🌐 [[SN3.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.10]]  🌐 [[SN3.12]] ►

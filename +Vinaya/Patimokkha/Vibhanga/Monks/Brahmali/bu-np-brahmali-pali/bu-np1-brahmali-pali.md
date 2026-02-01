@@ -4,7 +4,7 @@ vin_title: "Kathina - Robe Making Season"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
 > ◄  [[BU-AN2]] 📜  [[bu-np2-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -200,5 +200,5 @@ Avikappite vikappitasaññī, nissaggiyaṁ pācittiyaṁ. Avissajjite vissajjit
 >|       |          | [[ñanatusita-analysis#^NP1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
 > ◄  [[BU-AN2]] 📜  [[bu-np2-brahmali-pali]] ►

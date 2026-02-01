@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PE1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.6]]  🌐 [[SNP4.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.6]]  🌐 [[SNP4.8]] ►
 
 # SNP4.7 - Tissametteyyasutta - To Tissametteyya
 ## 🌐 Overview
@@ -92,10 +92,10 @@ a person run-of-the-mill.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP4.7%5D%5D%22%23mynotes%20-file%3Asnp4.7-%20-file%3A%22SNP4.6%22%20-file%3A%22SNP4.8%22%20-file%3A%22SNP4.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp4.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.7
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.6]]  🌐 [[SNP4.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.6]]  🌐 [[SNP4.8]] ►

@@ -4,7 +4,7 @@ vin_title: "Vassikasāṭikā - Rains Cloths"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
 > ◄  [[bu-pc90-brahmali-pali]] 📜  [[bu-pc92-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -90,5 +90,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, appamā
 >|       |          | [[ñanatusita-analysis#^PC91]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
 > ◄  [[bu-pc90-brahmali-pali]] 📜  [[bu-pc92-brahmali-pali]] ►

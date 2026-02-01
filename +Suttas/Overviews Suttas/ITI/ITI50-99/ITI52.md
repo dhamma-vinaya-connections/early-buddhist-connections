@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SN36.1]], [[ITI54]], [[ITI56]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI51]]  🌐 [[ITI53]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI51]]  🌐 [[ITI53]] ►
 
 # ITI52 - Vedana - Feelings
 ## 🌐 Overview
@@ -87,10 +87,10 @@ he is a monk who’s seen rightly.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI52%5D%5D%22%23mynotes%20-file%3Aiti52-%20-file%3A%22ITI51%22%20-file%3A%22ITI53%22%20-file%3A%22ITI52%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti52/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti52
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti52.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI51]]  🌐 [[ITI53]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI51]]  🌐 [[ITI53]] ►

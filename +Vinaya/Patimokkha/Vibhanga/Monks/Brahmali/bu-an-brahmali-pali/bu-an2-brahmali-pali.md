@@ -4,7 +4,7 @@ vin_title: "Dutiyaaniyata - Undetermined Offense 2nd"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN2]]
 > ◄  [[bu-an1-brahmali-pali]] 📜  [[BU-NP1]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -210,5 +210,5 @@ buddhaseṭṭhena tādināti.
 >|       |          | [[ñanatusita-analysis#^AN2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN2]]
 > ◄  [[bu-an1-brahmali-pali]] 📜  [[BU-NP1]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN7.67]]"
 parallels_agama: "[[EA39.4]]"
 parallels_partilal: "[[THAG17.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA2]]  🌐 [[MA4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA2]]  🌐 [[MA4]] ►
 
 # MA3 - 城喻 - Parable of the [Border] Town
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[THAG17.3]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMA3%5D%5D%22%23mynotes%20-file%3Ama3-%20-file%3A%22MA2%22%20-file%3A%22MA4%22%20-file%3A%22MA3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ma3/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA2]]  🌐 [[MA4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA2]]  🌐 [[MA4]] ►

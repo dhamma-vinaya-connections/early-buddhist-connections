@@ -4,7 +4,7 @@ vin_title: "Anāpucchāabhinisīdana - Sitting Without Permission"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC16]]
 > ◄  [[bni-pc15-horner]] 📜  [[bni-pc17-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 16
@@ -67,5 +67,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC16]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC16]]
 > ◄  [[bni-pc15-horner]] 📜  [[bni-pc17-horner]] ►

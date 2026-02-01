@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.163-182]]  🌐 [[AN3.183-352]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.163-182]]  🌐 [[AN3.183-352]] ►
 
 # AN3.182 - Rāgādipeyyāla - Abbreviated Texts Beginning With Greed
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.182%5D%5D%22%23mynotes%20-file%3Aan3.182-%20-file%3A%22AN3.163-182%22%20-file%3A%22AN3.183-352%22%20-file%3A%22AN3.182%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.182/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.182
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.182.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.163-182]]  🌐 [[AN3.183-352]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.163-182]]  🌐 [[AN3.183-352]] ►

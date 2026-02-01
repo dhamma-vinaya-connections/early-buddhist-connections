@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[MN70]], [[SN12.22]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.4]]  🌐 [[AN2.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.4]]  🌐 [[AN2.6]] ►
 
 # AN2.5 - Upaññāta - Learned For Myself
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MN70]], [[SN12.22]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.5%5D%5D%22%23mynotes%20-file%3Aan2.5-%20-file%3A%22AN2.4%22%20-file%3A%22AN2.6%22%20-file%3A%22AN2.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.5
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.4]]  🌐 [[AN2.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.4]]  🌐 [[AN2.6]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP22]]  🌐 [[DHP24]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP22]]  🌐 [[DHP24]] ►
 
 # DHP23 - Nāgavagga - Elephants
 ## 🌐 Overview
@@ -89,10 +89,10 @@ or giant tuskers.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP23%5D%5D%22%23mynotes%20-file%3Adhp23-%20-file%3A%22DHP22%22%20-file%3A%22DHP24%22%20-file%3A%22DHP23%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp23/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp23
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp23.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP22]]  🌐 [[DHP24]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP22]]  🌐 [[DHP24]] ►

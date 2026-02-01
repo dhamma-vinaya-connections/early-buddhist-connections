@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA43.10]]"
 parallels_partilal: "[[EA43.10]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.59]]  🌐 [[AN8.61]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.59]]  🌐 [[AN8.61]] ►
 
 # AN8.60 - Atthapuggala - Individuals Eight
 ## 🌐 Overview
@@ -82,10 +82,10 @@ With wisdom, ethics, and unified mind
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.60%5D%5D%22%23mynotes%20-file%3Aan8.60-%20-file%3A%22AN8.59%22%20-file%3A%22AN8.61%22%20-file%3A%22AN8.60%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.60/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.60
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.60.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.59]]  🌐 [[AN8.61]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.59]]  🌐 [[AN8.61]] ►

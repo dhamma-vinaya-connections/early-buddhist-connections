@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.21]]  🌐 [[AN4.23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.21]]  🌐 [[AN4.23]] ►
 
 # AN4.22 - Dutiyauruvela - At Uruvelā
 ## 🌐 Overview
@@ -84,10 +84,10 @@ They’re far from seniority
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.22%5D%5D%22%23mynotes%20-file%3Aan4.22-%20-file%3A%22AN4.21%22%20-file%3A%22AN4.23%22%20-file%3A%22AN4.22%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.22/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.22
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.22.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.21]]  🌐 [[AN4.23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.21]]  🌐 [[AN4.23]] ►

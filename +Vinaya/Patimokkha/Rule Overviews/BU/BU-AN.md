@@ -4,7 +4,7 @@ index:
 rule_type: "BU-AN - Aniyata - Undetermined"
 vin_gender: "Monks"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-AN 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-AN 
 
 # BU-AN - Aniyata - Undetermined
 

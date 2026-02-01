@@ -4,7 +4,7 @@ vin_title: "Anupasampannasahaseyya - Lying Down with Unordained One"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC5]]
 > ◄  [[bu-pc4-deepseek-pali]] 📜  [[bu-pc6-deepseek-pali]] ►
 
 # BU-PC 5
@@ -87,5 +87,5 @@ The fifth training rule on joint sleeping is finished.
 >|       |          | [[ñanatusita-analysis#^PC5]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC5]]
 > ◄  [[bu-pc4-deepseek-pali]] 📜  [[bu-pc6-deepseek-pali]] ►

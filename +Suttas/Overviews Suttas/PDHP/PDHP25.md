@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP24]]  🌐 [[SA1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP24]]  🌐 [[SA1]] ►
 
 # PDHP25 - Uragavagga - Snake
 ## 🌐 Overview
@@ -91,10 +91,10 @@ like a snake who has abandoned its old, worn-out skin.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BPDHP25%5D%5D%22%23mynotes%20-file%3Apdhp25-%20-file%3A%22PDHP24%22%20-file%3A%22SA1%22%20-file%3A%22PDHP25%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pdhp25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp25
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp25.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP24]]  🌐 [[SA1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP24]]  🌐 [[SA1]] ►

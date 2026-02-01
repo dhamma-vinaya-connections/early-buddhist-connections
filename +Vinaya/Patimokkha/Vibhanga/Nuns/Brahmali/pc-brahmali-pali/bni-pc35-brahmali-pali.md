@@ -4,7 +4,7 @@ vin_title: "Nikkaḍḍhana - Throwing Out a Monastic"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC35]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC35]]
 > ◄  [[bni-pc34-brahmali-pali]] 📜  [[bni-pc36-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -130,5 +130,5 @@ p_2V_2933Pañcamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC35]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC35]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC35]]
 > ◄  [[bni-pc34-brahmali-pali]] 📜  [[bni-pc36-brahmali-pali]] ►

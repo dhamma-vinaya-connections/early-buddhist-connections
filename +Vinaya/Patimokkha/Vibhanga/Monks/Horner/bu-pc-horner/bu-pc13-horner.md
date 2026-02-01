@@ -4,7 +4,7 @@ vin_title: "Ujjhāpanaka - Complaining"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
 > ◄  [[bu-pc12-horner]] 📜  [[bu-pc14-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 13
@@ -73,5 +73,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC13]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
 > ◄  [[bu-pc12-horner]] 📜  [[bu-pc14-horner]] ►

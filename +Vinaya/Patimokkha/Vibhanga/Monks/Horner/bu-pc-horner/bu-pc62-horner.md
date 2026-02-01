@@ -4,7 +4,7 @@ vin_title: "Sappāṇaka - Water Living Creatures Pouring"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
 > ◄  [[bu-pc61-horner]] 📜  [[bu-pc63-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 62
@@ -61,5 +61,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC62]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
 > ◄  [[bu-pc61-horner]] 📜  [[bu-pc63-horner]] ►

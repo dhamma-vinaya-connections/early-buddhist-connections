@@ -43,7 +43,7 @@ parallels_nikaya: "[[SN2.15]]"
 parallels_agama: "[[SA-2.178]], [[SA-2.315]], [[SA-2.328]], [[SA1269]], [[SA1316]], [[SA1329]]"
 parallels_partilal: "[[SA-2.178]], [[SA1269]], [[SA-2.315]], [[SA1316]], [[SN2.15]], [[SN1.30]], [[SA1329]], [[SA-2.328]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.8]]  🌐 [[SNP1.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.8]]  🌐 [[SNP1.10]] ►
 
 # SNP1.9 - Hemavata - With Hemavata
 ## 🌐 Overview
@@ -91,10 +91,10 @@ the Buddha has the vision of phenomena.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP1.9%5D%5D%22%23mynotes%20-file%3Asnp1.9-%20-file%3A%22SNP1.8%22%20-file%3A%22SNP1.10%22%20-file%3A%22SNP1.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp1.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.9
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.8]]  🌐 [[SNP1.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.8]]  🌐 [[SNP1.10]] ►

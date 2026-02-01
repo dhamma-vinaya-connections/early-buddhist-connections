@@ -4,7 +4,7 @@ vin_title: "Sīsappacālaka - Swaying Head"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK19]]
 > ◄  [[bu-sk18-deepseek-pali]] 📜  [[bu-sk20-deepseek-pali]] ►
 
 # BU-SK 19
@@ -43,5 +43,5 @@ The eighth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK19]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK19]]
 > ◄  [[bu-sk18-deepseek-pali]] 📜  [[bu-sk20-deepseek-pali]] ►

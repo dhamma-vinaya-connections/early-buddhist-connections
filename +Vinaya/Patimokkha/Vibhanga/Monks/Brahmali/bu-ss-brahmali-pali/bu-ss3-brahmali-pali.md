@@ -4,7 +4,7 @@ vin_title: "Duṭṭhullavācā - Indecent Speech"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
 > ◄  [[bu-ss2-brahmali-pali]] 📜  [[bu-ss4-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -422,5 +422,5 @@ Tassa kukkuccaṁ ahosi … pe … "anāpatti, bhikkhu, saṅghādisesassa; āpa
 >|       |          | [[ñanatusita-analysis#^SS3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS3]]
 > ◄  [[bu-ss2-brahmali-pali]] 📜  [[bu-ss4-brahmali-pali]] ►

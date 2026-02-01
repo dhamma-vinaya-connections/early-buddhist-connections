@@ -4,7 +4,7 @@ vin_title: "Omasavāda - Speech Abusive"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC98]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC98]]
 > ◄  [[bni-pc97-brahmali-pali]] 📜  [[bni-pc99-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -506,5 +506,5 @@ tena cattamano ahūti.
 >|       |          | [[ñanatusita-analysis#^-PC98]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC98]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC98]]
 > ◄  [[bni-pc97-brahmali-pali]] 📜  [[bni-pc99-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[JA403]]"
 parallels_agama: "[[SA-2.351]], [[SA1331]]"
 parallels_partilal: "[[JA403]], [[SA-2.351]], [[SA1331]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.3]]  🌐 [[SN9.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.3]]  🌐 [[SN9.5]] ►
 
 # SN9.4 - Sambahulasutta - A Number
 ## 🌐 Overview
@@ -85,10 +85,10 @@ Practice absorption, gotama, don’t be negligent
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.4%5D%5D%22%23mynotes%20-file%3Asn9.4-%20-file%3A%22SN9.3%22%20-file%3A%22SN9.5%22%20-file%3A%22SN9.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.3]]  🌐 [[SN9.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.3]]  🌐 [[SN9.5]] ►

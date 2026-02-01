@@ -4,7 +4,7 @@ vin_title: "Sahajīvinī-ananuggahaṇa - Not Guiding Disciple After Ordination"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC68]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC68]]
 > ◄  [[bni-pc67-brahmali-pali]] 📜  [[bni-pc69-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -96,5 +96,5 @@ p_2V_3277Aṭṭhamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC68]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC68]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC68]]
 > ◄  [[bni-pc67-brahmali-pali]] 📜  [[bni-pc69-brahmali-pali]] ►

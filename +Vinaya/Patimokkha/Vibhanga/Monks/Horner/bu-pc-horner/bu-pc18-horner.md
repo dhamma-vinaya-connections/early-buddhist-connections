@@ -4,7 +4,7 @@ vin_title: "Vehāsakuṭi - Upper Story"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC18]]
 > ◄  [[bu-pc17-horner]] 📜  [[bu-pc19-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 18
@@ -71,5 +71,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC18]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC18]]
 > ◄  [[bu-pc17-horner]] 📜  [[bu-pc19-horner]] ►

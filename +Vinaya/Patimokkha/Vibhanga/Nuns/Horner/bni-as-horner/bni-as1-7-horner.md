@@ -4,7 +4,7 @@ vin_title: "Adhikarana samatha - Settling issues"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-AS1-]] I 🌐 [[BNI-AS1-7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-AS1-]] I 🌐 [[BNI-AS1-7]]
 > ◄  [[BNI-PD1-8]] 📜  [[BNI-SK1-2]] ►
 
 # Nuns’ Deciding of Legal Questions (_Adhikaraṇasamatha_)
@@ -45,5 +45,5 @@ Told are both Analyses[^2] *Vin.4.352*
 >|       |          | [[ñanatusita-analysis#^-AS1-7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-AS1-]] I 🌐 [[BNI-AS1-7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-AS1-]] I 🌐 [[BNI-AS1-7]]
 > ◄  [[BNI-PD1-8]] 📜  [[BNI-SK1-2]] ►

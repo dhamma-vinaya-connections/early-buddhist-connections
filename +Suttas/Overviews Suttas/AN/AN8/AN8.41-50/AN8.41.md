@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN9.18]]"
 parallels_agama: "[[EA43.2]]"
 parallels_partilal: "[[EA43.2]], [[AN9.18]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.40]]  🌐 [[AN8.42]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.40]]  🌐 [[AN8.42]] ►
 
 # AN8.41 - Uposatha - Sabbath
 ## 🌐 Overview
@@ -89,10 +89,10 @@ You should sleep on a low bed
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.41%5D%5D%22%23mynotes%20-file%3Aan8.41-%20-file%3A%22AN8.40%22%20-file%3A%22AN8.42%22%20-file%3A%22AN8.41%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.41/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.41
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.41.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.40]]  🌐 [[AN8.42]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.40]]  🌐 [[AN8.42]] ►

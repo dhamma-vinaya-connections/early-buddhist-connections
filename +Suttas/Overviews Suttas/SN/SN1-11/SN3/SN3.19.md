@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA23.4]], [[SA-2.59]], [[SA1232]]"
 parallels_partilal: "[[EA23.4]], [[SA-2.59]], [[SA1232]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.18]]  🌐 [[SN3.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.18]]  🌐 [[SN3.20]] ►
 
 # SN3.19 - Paṭhamaaputtakasutta - Childless (1)
 ## 🌐 Overview
@@ -91,10 +91,10 @@ Merits are the support for living beings
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.19%5D%5D%22%23mynotes%20-file%3Asn3.19-%20-file%3A%22SN3.18%22%20-file%3A%22SN3.20%22%20-file%3A%22SN3.19%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.19/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.19
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.19.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.18]]  🌐 [[SN3.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.18]]  🌐 [[SN3.20]] ►

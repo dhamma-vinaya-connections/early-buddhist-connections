@@ -4,7 +4,7 @@ vin_title: "Akālacīvara - Robe Cloth Out-of-Season"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP3]]
 > ◄  [[bu-np2-deepseek-pali]] 📜  [[bu-np4-deepseek-pali]] ►
 
 # BU-NP 3
@@ -103,5 +103,5 @@ The third training rule concerning the kathina is concluded.
 >|       |          | [[ñanatusita-analysis#^NP3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP3]]
 > ◄  [[bu-np2-deepseek-pali]] 📜  [[bu-np4-deepseek-pali]] ►

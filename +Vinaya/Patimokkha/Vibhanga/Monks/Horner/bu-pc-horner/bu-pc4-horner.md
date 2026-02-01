@@ -4,7 +4,7 @@ vin_title: "Padasodhamma - Dhamma Memorizing"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC4]]
 > ◄  [[bu-pc3-horner]] 📜  [[bu-pc5-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 4
@@ -65,5 +65,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC4]]
 > ◄  [[bu-pc3-horner]] 📜  [[bu-pc5-horner]] ►

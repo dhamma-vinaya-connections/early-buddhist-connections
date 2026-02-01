@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.70]]  🌐 [[AN2.72]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.70]]  🌐 [[AN2.72]] ►
 
 # AN2.71 - Sukha - Happiness
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.71%5D%5D%22%23mynotes%20-file%3Aan2.71-%20-file%3A%22AN2.70%22%20-file%3A%22AN2.72%22%20-file%3A%22AN2.71%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.71/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.71
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.71.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.70]]  🌐 [[AN2.72]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.70]]  🌐 [[AN2.72]] ►

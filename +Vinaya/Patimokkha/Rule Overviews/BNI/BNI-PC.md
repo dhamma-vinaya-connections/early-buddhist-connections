@@ -4,7 +4,7 @@ index:
 rule_type: "BNI-PC - Pacittiya - Confession"
 vin_gender: "Nuns"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-PC 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-PC 
 
 # BNI-PC - Pacittiya - Confession
 

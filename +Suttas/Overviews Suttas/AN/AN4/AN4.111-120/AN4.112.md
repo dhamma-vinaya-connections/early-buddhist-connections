@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN5.203]]"
 parallels_agama: ""
 parallels_partilal: "[[AN5.203]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.111]]  🌐 [[AN4.113]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.111]]  🌐 [[AN4.113]] ►
 
 # AN4.112 - Kesi - With Kesi
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[AN5.203]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.112%5D%5D%22%23mynotes%20-file%3Aan4.112-%20-file%3A%22AN4.111%22%20-file%3A%22AN4.113%22%20-file%3A%22AN4.112%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.112/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.112
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.112.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.111]]  🌐 [[AN4.113]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.111]]  🌐 [[AN4.113]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG15]]  🌐 [[UD1.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG15]]  🌐 [[UD1.1]] ►
 
 # THIG16 - Mahānipātavagga - Great Book
 ## 🌐 Overview
@@ -89,10 +89,10 @@ but not without striving.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHIG16%5D%5D%22%23mynotes%20-file%3Athig16-%20-file%3A%22THIG15%22%20-file%3A%22UD1.1%22%20-file%3A%22THIG16%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thig16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig16
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig16.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG15]]  🌐 [[UD1.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG15]]  🌐 [[UD1.1]] ►

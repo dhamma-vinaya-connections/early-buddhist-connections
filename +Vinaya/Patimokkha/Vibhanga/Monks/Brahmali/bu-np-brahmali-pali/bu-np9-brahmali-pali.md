@@ -4,7 +4,7 @@ vin_title: "Dutiyaupakkhata - Robes Fine Request From Combined Robe Fund"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP9]]
 > ◄  [[bu-np8-brahmali-pali]] 📜  [[bu-np10-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -226,5 +226,5 @@ Evañca pana, bhikkhave, nissajjitabbaṁ … pe …
 >|       |          | [[ñanatusita-analysis#^NP9]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP9]]
 > ◄  [[bu-np8-brahmali-pali]] 📜  [[bu-np10-brahmali-pali]] ►

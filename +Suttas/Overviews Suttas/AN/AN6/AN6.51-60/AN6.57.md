@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DN33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.56]]  🌐 [[AN6.58]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.56]]  🌐 [[AN6.58]] ►
 
 # AN6.57 - Chaḷabhijāti - Classes Of Rebirth
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[DN33]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.57%5D%5D%22%23mynotes%20-file%3Aan6.57-%20-file%3A%22AN6.56%22%20-file%3A%22AN6.58%22%20-file%3A%22AN6.57%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.57/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.57
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.57.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.56]]  🌐 [[AN6.58]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.56]]  🌐 [[AN6.58]] ►

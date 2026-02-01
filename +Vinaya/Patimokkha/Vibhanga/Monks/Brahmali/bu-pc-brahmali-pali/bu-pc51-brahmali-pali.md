@@ -4,7 +4,7 @@ vin_title: "Surāpāna - Alcohol Drinking"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
 > ◄  [[bu-pc50-brahmali-pali]] 📜  [[bu-pc52-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -186,5 +186,5 @@ Atha kho kosambikā upāsakā ghare ghare kāpotikaṁ pasannaṁ paṭiyādetv�
 >|       |          | [[ñanatusita-analysis#^PC51]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC51]]
 > ◄  [[bu-pc50-brahmali-pali]] 📜  [[bu-pc52-brahmali-pali]] ►

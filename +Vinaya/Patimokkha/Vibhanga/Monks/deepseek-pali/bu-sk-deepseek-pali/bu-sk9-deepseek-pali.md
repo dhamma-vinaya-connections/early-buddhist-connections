@@ -4,7 +4,7 @@ vin_title: "Ukkhittaka - Robes lifted up"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK9]]
 > ◄  [[bu-sk8-deepseek-pali]] 📜  [[bu-sk10-deepseek-pali]] ►
 
 # BU-SK 9
@@ -47,5 +47,5 @@ The eighth training rule is complete.
 >|       |          | [[ñanatusita-analysis#^SK9]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK9]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK9]]
 > ◄  [[bu-sk8-deepseek-pali]] 📜  [[bu-sk10-deepseek-pali]] ►

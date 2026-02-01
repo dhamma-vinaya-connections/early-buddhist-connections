@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.37]]  🌐 [[AN5.39]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.37]]  🌐 [[AN5.39]] ►
 
 # AN5.38 - Saddha - Faith
 ## 🌐 Overview
@@ -88,10 +88,10 @@ Sweet, friendly, and tender.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.38%5D%5D%22%23mynotes%20-file%3Aan5.38-%20-file%3A%22AN5.37%22%20-file%3A%22AN5.39%22%20-file%3A%22AN5.38%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.38/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.38
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.38.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.37]]  🌐 [[AN5.39]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.37]]  🌐 [[AN5.39]] ►

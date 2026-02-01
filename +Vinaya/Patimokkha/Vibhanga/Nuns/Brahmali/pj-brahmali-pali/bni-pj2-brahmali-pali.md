@@ -4,7 +4,7 @@ vin_title: "Adinnādāna - Theft"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ2]]
 > ◄  [[bni-pj1-brahmali-pali]] 📜  [[bni-pj3-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -1474,5 +1474,5 @@ Taṁ uttiṇṇaṁ gopālikā passitvā etadavoca: "ehi, bhante, methunaṁ dh
 >|       |          | [[ñanatusita-analysis#^-PJ2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ2]]
 > ◄  [[bni-pj1-brahmali-pali]] 📜  [[bni-pj3-brahmali-pali]] ►

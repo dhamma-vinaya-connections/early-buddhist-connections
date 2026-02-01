@@ -4,7 +4,7 @@ vin_title: "Dantapona - Eating Unoffered Food"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
 > ◄  [[bu-pc39-brahmali-pali]] 📜  [[bu-pc41-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -162,5 +162,5 @@ Bhojanavaggo catuttho.
 >|       |          | [[ñanatusita-analysis#^PC40]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
 > ◄  [[bu-pc39-brahmali-pali]] 📜  [[bu-pc41-brahmali-pali]] ►

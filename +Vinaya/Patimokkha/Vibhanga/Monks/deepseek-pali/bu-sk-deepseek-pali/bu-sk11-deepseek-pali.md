@@ -4,7 +4,7 @@ vin_title: "Ujjagghika - Laughing Loud"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK11]]
 > ◄  [[bu-sk10-deepseek-pali]] 📜  [[bu-sk12-deepseek-pali]] ►
 
 # BU-SK 11
@@ -51,5 +51,5 @@ The First Chapter on Proper Robe-Wearing.
 >|       |          | [[ñanatusita-analysis#^SK11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK11]]
 > ◄  [[bu-sk10-deepseek-pali]] 📜  [[bu-sk12-deepseek-pali]] ►

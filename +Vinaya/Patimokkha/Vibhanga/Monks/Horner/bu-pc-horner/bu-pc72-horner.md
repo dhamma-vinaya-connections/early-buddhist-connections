@@ -4,7 +4,7 @@ vin_title: "Vilekhana - Annoyance"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC72]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC72]]
 > ◄  [[bu-pc71-horner]] 📜  [[bu-pc73-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 72
@@ -65,5 +65,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC72]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC72]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC72]]
 > ◄  [[bu-pc71-horner]] 📜  [[bu-pc73-horner]] ►

@@ -4,7 +4,7 @@ vin_title: "Pattasannicaya - Collecting Bowls"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP1]]
 > ◄  [[BNI-SS17]] 📜  [[bni-np2-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -170,5 +170,5 @@ Nissajjitvā āpatti desetabbā. Tāya bhikkhuniyā āpatti paṭiggahetabbā. N
 >|       |          | [[ñanatusita-analysis#^-NP1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP1]]
 > ◄  [[BNI-SS17]] 📜  [[bni-np2-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[ITI110]]"
 parallels_agama: ""
 parallels_partilal: "[[ITI110]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.10]]  🌐 [[AN4.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.10]]  🌐 [[AN4.12]] ►
 
 # AN4.11 - Cara - Walking
 ## 🌐 Overview
@@ -85,10 +85,10 @@ Lost among things that delude
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.11%5D%5D%22%23mynotes%20-file%3Aan4.11-%20-file%3A%22AN4.10%22%20-file%3A%22AN4.12%22%20-file%3A%22AN4.11%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.11
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.11.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.10]]  🌐 [[AN4.12]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.10]]  🌐 [[AN4.12]] ►

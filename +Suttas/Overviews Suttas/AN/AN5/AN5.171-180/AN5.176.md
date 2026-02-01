@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA482]]"
 parallels_partilal: "[[SA482]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.175]]  🌐 [[AN5.177]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.175]]  🌐 [[AN5.177]] ►
 
 # AN5.176 - Pīti - Rapture
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SA482]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.176%5D%5D%22%23mynotes%20-file%3Aan5.176-%20-file%3A%22AN5.175%22%20-file%3A%22AN5.177%22%20-file%3A%22AN5.176%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.176/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.176
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.176.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.175]]  🌐 [[AN5.177]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.175]]  🌐 [[AN5.177]] ►

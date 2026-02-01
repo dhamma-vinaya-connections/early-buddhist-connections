@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP2]]  🌐 [[PDHP4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP2]]  🌐 [[PDHP4]] ►
 
 # PDHP3 - Apramādavagga - Diligence
 ## 🌐 Overview
@@ -88,10 +88,10 @@ one should not foster worldliness.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BPDHP3%5D%5D%22%23mynotes%20-file%3Apdhp3-%20-file%3A%22PDHP2%22%20-file%3A%22PDHP4%22%20-file%3A%22PDHP3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pdhp3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp3
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP2]]  🌐 [[PDHP4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP2]]  🌐 [[PDHP4]] ►

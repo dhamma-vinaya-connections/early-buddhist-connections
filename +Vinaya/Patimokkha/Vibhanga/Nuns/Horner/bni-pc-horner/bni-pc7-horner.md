@@ -4,7 +4,7 @@ vin_title: "Āmakadhañña - Raw Grain"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC7]]
 > ◄  [[bni-pc6-horner]] 📜  [[bni-pc8-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 7
@@ -65,5 +65,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC7]]
 > ◄  [[bni-pc6-horner]] 📜  [[bni-pc8-horner]] ►

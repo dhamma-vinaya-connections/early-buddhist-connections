@@ -4,7 +4,7 @@ vin_title: "Antepura - Royal Compounds"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
 > ◄  [[bu-pc82-deepseek-pali]] 📜  [[bu-pc84-deepseek-pali]] ►
 
 # BU-PC 83
@@ -135,5 +135,5 @@ The first training rule concerning the inner palace is concluded.
 >|       |          | [[ñanatusita-analysis#^PC83]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
 > ◄  [[bu-pc82-deepseek-pali]] 📜  [[bu-pc84-deepseek-pali]] ►

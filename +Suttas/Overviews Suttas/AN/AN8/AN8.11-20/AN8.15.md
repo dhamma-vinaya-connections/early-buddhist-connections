@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP241]], [[DHP242]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP241]], [[DHP242]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.14]]  🌐 [[AN8.16]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.14]]  🌐 [[AN8.16]] ►
 
 # AN8.15 - Mala - Stains
 ## 🌐 Overview
@@ -81,10 +81,10 @@ Is ignorance, the worst of stains
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.15%5D%5D%22%23mynotes%20-file%3Aan8.15-%20-file%3A%22AN8.14%22%20-file%3A%22AN8.16%22%20-file%3A%22AN8.15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.15
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.15.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.14]]  🌐 [[AN8.16]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.14]]  🌐 [[AN8.16]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP131]], [[DHP132]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP131]], [[DHP132]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.2]]  🌐 [[UD2.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.2]]  🌐 [[UD2.4]] ►
 
 # UD2.3 - Danda Sutta - The Stick
 ## 🌐 Overview
@@ -92,10 +92,10 @@ after death you will find happiness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD2.3%5D%5D%22%23mynotes%20-file%3Aud2.3-%20-file%3A%22UD2.2%22%20-file%3A%22UD2.4%22%20-file%3A%22UD2.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud2.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.3
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.2]]  🌐 [[UD2.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.2]]  🌐 [[UD2.4]] ►

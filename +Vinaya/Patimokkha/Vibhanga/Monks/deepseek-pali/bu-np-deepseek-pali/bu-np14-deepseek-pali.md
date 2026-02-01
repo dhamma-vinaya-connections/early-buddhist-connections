@@ -4,7 +4,7 @@ vin_title: "Chabbassa - Blanket Kept for 6 Years"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP14]]
 > ◄  [[bu-np13-deepseek-pali]] 📜  [[bu-np15-deepseek-pali]] ►
 
 # BU-NP 14
@@ -111,5 +111,5 @@ The training rule concerning six years, the fourth, is concluded.
 >|       |          | [[ñanatusita-analysis#^NP14]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP14]]
 > ◄  [[bu-np13-deepseek-pali]] 📜  [[bu-np15-deepseek-pali]] ►

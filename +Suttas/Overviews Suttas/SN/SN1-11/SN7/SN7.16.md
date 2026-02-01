@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.78]], [[SA-3.7]], [[SA1155]]"
 parallels_partilal: "[[SA-2.78]], [[SA-3.7]], [[SA1155]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.15]]  🌐 [[SN7.17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.15]]  🌐 [[SN7.17]] ►
 
 # SN7.16 - Paccanīkasutta - Paccanika
 ## 🌐 Overview
@@ -86,10 +86,10 @@ One can understand well-spoken counsel
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.16%5D%5D%22%23mynotes%20-file%3Asn7.16-%20-file%3A%22SN7.15%22%20-file%3A%22SN7.17%22%20-file%3A%22SN7.16%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.16
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.16.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.15]]  🌐 [[SN7.17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.15]]  🌐 [[SN7.17]] ►

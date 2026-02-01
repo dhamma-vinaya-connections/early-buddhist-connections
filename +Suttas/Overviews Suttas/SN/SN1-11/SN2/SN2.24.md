@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN1.50]]"
 parallels_agama: "[[SA-2.189]], [[SA595]]"
 parallels_partilal: "[[SA-2.189]], [[SA595]], [[SN1.50]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.23]]  🌐 [[SN2.25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.23]]  🌐 [[SN2.25]] ►
 
 # SN2.24 - Ghaṭīkārasutta - Ghaṭikara
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SA-2.189]], [[SA595]], [[SN1.50]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.24%5D%5D%22%23mynotes%20-file%3Asn2.24-%20-file%3A%22SN2.23%22%20-file%3A%22SN2.25%22%20-file%3A%22SN2.24%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.24/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.24
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.24.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.23]]  🌐 [[SN2.25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.23]]  🌐 [[SN2.25]] ►

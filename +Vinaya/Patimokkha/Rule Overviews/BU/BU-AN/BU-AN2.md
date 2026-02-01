@@ -25,7 +25,7 @@ vin_sangha_acts:
 vin_gender: "Monks"
 vin_gender-corr: ""
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-AN1]] 🌐 [[BU-NP1]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-AN1]] 🌐 [[BU-NP1]] ►
 
 # Monks - Aniyata - Undetermined
 ##  - 
@@ -72,8 +72,8 @@ vin_gender-corr: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBU-AN2%5D%5D%22%23mynotes%20-file%3Abu-an2-%20-file%3A%22BU-AN2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+> [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-ay?view=normal
 
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-AN1]] 🌐 [[BU-NP1]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-AN1]] 🌐 [[BU-NP1]] ►

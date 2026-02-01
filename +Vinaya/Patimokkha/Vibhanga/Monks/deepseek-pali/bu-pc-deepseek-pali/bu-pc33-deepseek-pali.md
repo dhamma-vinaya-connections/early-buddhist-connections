@@ -4,7 +4,7 @@ vin_title: "Paramparabhojana - Eating Successive Meals"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
 > ◄  [[bu-pc32-deepseek-pali]] 📜  [[bu-pc34-deepseek-pali]] ►
 
 # BU-PC 33
@@ -135,5 +135,5 @@ The third training rule on eating in succession is finished.
 >|       |          | [[ñanatusita-analysis#^PC33]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]
 > ◄  [[bu-pc32-deepseek-pali]] 📜  [[bu-pc34-deepseek-pali]] ►

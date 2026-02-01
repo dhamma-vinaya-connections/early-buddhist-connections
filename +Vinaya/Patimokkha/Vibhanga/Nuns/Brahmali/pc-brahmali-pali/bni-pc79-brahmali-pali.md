@@ -4,7 +4,7 @@ vin_title: "Sokāvāsa - Temperamental to Live With"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC79]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC79]]
 > ◄  [[bni-pc78-brahmali-pali]] 📜  [[bni-pc80-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -92,5 +92,5 @@ p_2V_3392Navamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC79]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC79]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC79]]
 > ◄  [[bni-pc78-brahmali-pali]] 📜  [[bni-pc80-brahmali-pali]] ►

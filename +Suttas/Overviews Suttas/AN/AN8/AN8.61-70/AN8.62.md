@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.78]]"
 parallels_agama: ""
 parallels_partilal: "[[AN8.78]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.61]]  🌐 [[AN8.63]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.61]]  🌐 [[AN8.63]] ►
 
 # AN8.62 - Alaṃ - Good Enough
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN8.78]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.62%5D%5D%22%23mynotes%20-file%3Aan8.62-%20-file%3A%22AN8.61%22%20-file%3A%22AN8.63%22%20-file%3A%22AN8.62%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.62/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.62
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.62.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.61]]  🌐 [[AN8.63]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.61]]  🌐 [[AN8.63]] ►

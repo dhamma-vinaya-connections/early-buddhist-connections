@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN7.66]], [[DN16]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.183-352]]  🌐 [[AN4.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.183-352]]  🌐 [[AN4.2]] ►
 
 # AN4.1 - AnuBuddha - Understood
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN7.66]], [[DN16]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.1%5D%5D%22%23mynotes%20-file%3Aan4.1-%20-file%3A%22AN3.183-352%22%20-file%3A%22AN4.2%22%20-file%3A%22AN4.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.1
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.183-352]]  🌐 [[AN4.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.183-352]]  🌐 [[AN4.2]] ►

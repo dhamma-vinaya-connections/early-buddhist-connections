@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SN35.26]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI6]]  🌐 [[ITI8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI6]]  🌐 [[ITI8]] ►
 
 # ITI7 - Sabbapariññāsutta - Complete Understanding of All
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SN35.26]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI7%5D%5D%22%23mynotes%20-file%3Aiti7-%20-file%3A%22ITI6%22%20-file%3A%22ITI8%22%20-file%3A%22ITI7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti7
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI6]]  🌐 [[ITI8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI6]]  🌐 [[ITI8]] ►

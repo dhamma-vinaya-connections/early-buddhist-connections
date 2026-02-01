@@ -4,7 +4,7 @@ vin_title: "Rattandhakāra - Dark of the Night"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC11]]
 > ◄  [[bni-pc10-horner]] 📜  [[bni-pc12-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 11
@@ -63,5 +63,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC11]]
 > ◄  [[bni-pc10-horner]] 📜  [[bni-pc12-horner]] ►

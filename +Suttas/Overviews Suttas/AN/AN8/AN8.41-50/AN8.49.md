@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN8.50]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.48]]  🌐 [[AN8.50]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.48]]  🌐 [[AN8.50]] ►
 
 # AN8.49 - Visākhā - Loveable Gods
 ## 🌐 Overview
@@ -83,10 +83,10 @@ Called ‘loveable
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.49%5D%5D%22%23mynotes%20-file%3Aan8.49-%20-file%3A%22AN8.48%22%20-file%3A%22AN8.50%22%20-file%3A%22AN8.49%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.49/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.49
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.49.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.48]]  🌐 [[AN8.50]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.48]]  🌐 [[AN8.50]] ►

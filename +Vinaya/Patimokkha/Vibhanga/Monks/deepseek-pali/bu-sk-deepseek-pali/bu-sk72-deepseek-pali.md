@@ -4,7 +4,7 @@ vin_title: "Uppathenagamana - Off the Path"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK72]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK72]]
 > ◄  [[bu-sk71-deepseek-pali]] 📜  [[bu-sk73-deepseek-pali]] ►
 
 # BU-SK 72
@@ -27,5 +27,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^SK72]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK72]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK72]]
 > ◄  [[bu-sk71-deepseek-pali]] 📜  [[bu-sk73-deepseek-pali]] ►

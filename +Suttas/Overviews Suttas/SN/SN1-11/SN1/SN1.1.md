@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.180]], [[SA1267]]"
 parallels_partilal: "[[SN2.18]], [[SA-2.180]], [[SA1267]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SA1266]]  🌐 [[SN1.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SA1266]]  🌐 [[SN1.2]] ►
 
 # SN1.1 - Oghataraṇa - Crossing The Flood
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SN2.18]], [[SA-2.180]], [[SA1267]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.1%5D%5D%22%23mynotes%20-file%3Asn1.1-%20-file%3A%22SA1266%22%20-file%3A%22SN1.2%22%20-file%3A%22SN1.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SA1266]]  🌐 [[SN1.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SA1266]]  🌐 [[SN1.2]] ►

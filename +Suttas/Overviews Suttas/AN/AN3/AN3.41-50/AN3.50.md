@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN5.103]]"
 parallels_agama: ""
 parallels_partilal: "[[AN5.103]], [[PLI-TV-BU-VB-PJ4]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.49]]  🌐 [[AN3.51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.49]]  🌐 [[AN3.51]] ►
 
 # AN3.50 - Mahācora - Thief Master
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[AN5.103]], [[PLI-TV-BU-VB-PJ4]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.50%5D%5D%22%23mynotes%20-file%3Aan3.50-%20-file%3A%22AN3.49%22%20-file%3A%22AN3.51%22%20-file%3A%22AN3.50%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.50/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.50
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.50.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.49]]  🌐 [[AN3.51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.49]]  🌐 [[AN3.51]] ►

@@ -4,7 +4,7 @@ vin_title: "Oṭṭhanillehaka - Licking Lips"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK54]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK54]]
 > ◄  [[bu-sk53-deepseek-pali]] 📜  [[bu-sk55-deepseek-pali]] ►
 
 # BU-SK 54
@@ -43,5 +43,5 @@ The second training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK54]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK54]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK54]]
 > ◄  [[bu-sk53-deepseek-pali]] 📜  [[bu-sk55-deepseek-pali]] ►

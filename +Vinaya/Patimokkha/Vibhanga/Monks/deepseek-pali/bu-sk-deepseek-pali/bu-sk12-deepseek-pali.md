@@ -4,7 +4,7 @@ vin_title: "Ujjagghika - Laughing Loud"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK12]]
 > ◄  [[bu-sk11-deepseek-pali]] 📜  [[bu-sk13-deepseek-pali]] ►
 
 # BU-SK 12
@@ -43,5 +43,5 @@ The first training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK12]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK12]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK12]]
 > ◄  [[bu-sk11-deepseek-pali]] 📜  [[bu-sk13-deepseek-pali]] ►

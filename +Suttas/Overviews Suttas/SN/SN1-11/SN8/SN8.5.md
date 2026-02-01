@@ -38,7 +38,7 @@ parallels_nikaya: "[[SNP3.3]]"
 parallels_agama: "[[SA-2.253]], [[SA1218]]"
 parallels_partilal: "[[SNP3.3]], [[SA-2.253]], [[SA1218]], [[THAG21.1]], [[PE3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.4]]  🌐 [[SN8.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.4]]  🌐 [[SN8.6]] ►
 
 # SN8.5 - Subhāsitasutta - Well Spoken
 ## 🌐 Overview
@@ -86,10 +86,10 @@ That bring nothing bad to others.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN8.5%5D%5D%22%23mynotes%20-file%3Asn8.5-%20-file%3A%22SN8.4%22%20-file%3A%22SN8.6%22%20-file%3A%22SN8.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn8.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.5
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.4]]  🌐 [[SN8.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.4]]  🌐 [[SN8.6]] ►

@@ -4,7 +4,7 @@ vin_title: "Satthapāṇi - Holding Knife"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK59]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK59]]
 > ◄  [[bu-sk58-deepseek-pali]] 📜  [[bu-sk60-deepseek-pali]] ►
 
 # BU-SK 59
@@ -35,5 +35,5 @@ Thus was this training rule laid down for the monks by the Blessed One.
 >|       |          | [[ñanatusita-analysis#^SK59]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK59]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK59]]
 > ◄  [[bu-sk58-deepseek-pali]] 📜  [[bu-sk60-deepseek-pali]] ►

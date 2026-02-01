@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN1.3]]"
 parallels_agama: "[[SA-2.138]], [[SA1001]]"
 parallels_partilal: "[[SN1.3]], [[SA-2.138]], [[SA1001]], [[AN3.51]], [[JA498]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.18]]  🌐 [[SN2.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.18]]  🌐 [[SN2.20]] ►
 
 # SN2.19 - Uttarasutta - Uttarā
 ## 🌐 Overview
@@ -86,10 +86,10 @@ That’s how you should know me, friend
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.19%5D%5D%22%23mynotes%20-file%3Asn2.19-%20-file%3A%22SN2.18%22%20-file%3A%22SN2.20%22%20-file%3A%22SN2.19%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.19/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.19
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.19.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.18]]  🌐 [[SN2.20]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.18]]  🌐 [[SN2.20]] ►

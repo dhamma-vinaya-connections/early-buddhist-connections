@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP364]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP364]], [[THAG17.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI85]]  🌐 [[ITI87]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI85]]  🌐 [[ITI87]] ►
 
 # ITI86 - Dhammānudhammapaṭipanna - Practicing in line with the Dhamma
 ## 🌐 Overview
@@ -88,10 +88,10 @@ from true Dhamma.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI86%5D%5D%22%23mynotes%20-file%3Aiti86-%20-file%3A%22ITI85%22%20-file%3A%22ITI87%22%20-file%3A%22ITI86%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti86/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti86
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti86.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI85]]  🌐 [[ITI87]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI85]]  🌐 [[ITI87]] ►

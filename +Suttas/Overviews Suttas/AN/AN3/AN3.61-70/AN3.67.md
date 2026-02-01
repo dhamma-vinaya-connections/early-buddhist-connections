@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA119]]"
 parallels_partilal: "[[MA119]], [[DN33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.66]]  🌐 [[AN3.68]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.66]]  🌐 [[AN3.68]] ►
 
 # AN3.67 - Kathāvatthu - Discussion Topics
 ## 🌐 Overview
@@ -88,10 +88,10 @@ For the sake of knowledge and clarity.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.67%5D%5D%22%23mynotes%20-file%3Aan3.67-%20-file%3A%22AN3.66%22%20-file%3A%22AN3.68%22%20-file%3A%22AN3.67%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.67/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.67
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.67.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.66]]  🌐 [[AN3.68]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.66]]  🌐 [[AN3.68]] ►

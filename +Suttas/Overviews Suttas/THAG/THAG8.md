@@ -42,7 +42,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG7]]  🌐 [[THAG9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG7]]  🌐 [[THAG9]] ►
 
 # THAG8 - Aṭṭhakanipātavagga - Eights Book
 ## 🌐 Overview
@@ -93,10 +93,10 @@ even a rich person doesn’t really live.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHAG8%5D%5D%22%23mynotes%20-file%3Athag8-%20-file%3A%22THAG7%22%20-file%3A%22THAG9%22%20-file%3A%22THAG8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thag8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag8
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG7]]  🌐 [[THAG9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG7]]  🌐 [[THAG9]] ►

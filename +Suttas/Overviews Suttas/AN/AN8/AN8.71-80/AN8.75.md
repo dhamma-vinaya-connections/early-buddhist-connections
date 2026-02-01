@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN8.54]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.74]]  🌐 [[AN8.76]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.74]]  🌐 [[AN8.76]] ►
 
 # AN8.75 - Sampadā - Accomplishments
 ## 🌐 Overview
@@ -83,10 +83,10 @@ Merit grows by generosity
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.75%5D%5D%22%23mynotes%20-file%3Aan8.75-%20-file%3A%22AN8.74%22%20-file%3A%22AN8.76%22%20-file%3A%22AN8.75%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.75/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.75
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.75.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.74]]  🌐 [[AN8.76]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.74]]  🌐 [[AN8.76]] ►

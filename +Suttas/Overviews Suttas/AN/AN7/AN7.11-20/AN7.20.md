@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN7.42]], [[DN33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.19]]  🌐 [[AN7.21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.19]]  🌐 [[AN7.21]] ►
 
 # AN7.20 - Niddasavatthu - Graduation Qualifications
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN7.42]], [[DN33]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.20%5D%5D%22%23mynotes%20-file%3Aan7.20-%20-file%3A%22AN7.19%22%20-file%3A%22AN7.21%22%20-file%3A%22AN7.20%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.20
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.20.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.19]]  🌐 [[AN7.21]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.19]]  🌐 [[AN7.21]] ►

@@ -4,7 +4,7 @@ vin_title: "Adhikarana samatha - Settling issues"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-AS1-]] I 🌐 [[BNI-AS1-7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-AS1-]] I 🌐 [[BNI-AS1-7]]
 > ◄  [[BNI-PD1-8]] 📜  [[BNI-SK1-2]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -78,5 +78,5 @@ p_2V_2095Uddiṭṭhā kho, āyasmanto, satta adhika­ra­ṇa­sama­thā dhamm
 >|       |          | [[ñanatusita-analysis#^-AS1-7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-AS1-]] I 🌐 [[BNI-AS1-7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-AS1-]] I 🌐 [[BNI-AS1-7]]
 > ◄  [[BNI-PD1-8]] 📜  [[BNI-SK1-2]] ►

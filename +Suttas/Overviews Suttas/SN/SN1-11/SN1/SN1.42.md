@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.135]], [[SA998]]"
 parallels_partilal: "[[SA-2.135]], [[SA998]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.41]]  🌐 [[SN1.43]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.41]]  🌐 [[SN1.43]] ►
 
 # SN1.42 - Kiṁdadasutta - Giving What?
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Merits are the support for living beings
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.42%5D%5D%22%23mynotes%20-file%3Asn1.42-%20-file%3A%22SN1.41%22%20-file%3A%22SN1.43%22%20-file%3A%22SN1.42%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.42/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.42
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.42.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.41]]  🌐 [[SN1.43]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.41]]  🌐 [[SN1.43]] ►

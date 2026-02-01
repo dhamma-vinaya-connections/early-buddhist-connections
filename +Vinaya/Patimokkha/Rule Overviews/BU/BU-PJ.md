@@ -4,7 +4,7 @@ index:
 rule_type: "BU-PJ - Parajika - Expulsion"
 vin_gender: "Monks"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-PJ 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-PJ 
 
 # BU-PJ - Parajika - Expulsion
 

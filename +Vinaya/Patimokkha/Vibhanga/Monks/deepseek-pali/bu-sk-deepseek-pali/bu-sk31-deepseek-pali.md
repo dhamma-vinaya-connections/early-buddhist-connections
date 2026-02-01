@@ -4,7 +4,7 @@ vin_title: "Sakkacca - Eating Respectfully"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK31]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK31]]
 > ◄  [[bu-sk30-deepseek-pali]] 📜  [[bu-sk32-deepseek-pali]] ►
 
 # BU-SK 31
@@ -51,5 +51,5 @@ The Chapter on Arms Akimbo is the third.
 >|       |          | [[ñanatusita-analysis#^SK31]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK31]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK31]]
 > ◄  [[bu-sk30-deepseek-pali]] 📜  [[bu-sk32-deepseek-pali]] ►

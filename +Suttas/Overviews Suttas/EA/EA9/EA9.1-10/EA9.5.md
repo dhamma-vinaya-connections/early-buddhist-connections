@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN1.43]]"
 parallels_agama: "[[EA9.5]]"
 parallels_partilal: "[[EA9.5]], [[ITI20]], [[AN1.43]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA9.4]]  🌐 [[EA9.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA9.4]]  🌐 [[EA9.6]] ►
 
 # EA9.5 - EA 9.5 - Downfall
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[EA9.5]], [[ITI20]], [[AN1.43]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BEA9.5%5D%5D%22%23mynotes%20-file%3Aea9.5-%20-file%3A%22EA9.4%22%20-file%3A%22EA9.6%22%20-file%3A%22EA9.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ea9.5/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA9.4]]  🌐 [[EA9.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA9.4]]  🌐 [[EA9.6]] ►

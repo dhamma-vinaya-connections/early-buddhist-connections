@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP387]], [[SN1.26]]"
 parallels_agama: "[[SA-2.309]], [[SA1310]]"
 parallels_partilal: "[[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP387]], [[SN21.11]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.3]]  🌐 [[SN2.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.3]]  🌐 [[SN2.5]] ►
 
 # SN2.4 - Māgadhasutta - Magadha
 ## 🌐 Overview
@@ -85,10 +85,10 @@ Need not strive, for they have reached the far shore
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.4%5D%5D%22%23mynotes%20-file%3Asn2.4-%20-file%3A%22SN2.3%22%20-file%3A%22SN2.5%22%20-file%3A%22SN2.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.3]]  🌐 [[SN2.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.3]]  🌐 [[SN2.5]] ►

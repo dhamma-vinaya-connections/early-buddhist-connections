@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.249]]  🌐 [[AN4.251]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.249]]  🌐 [[AN4.251]] ►
 
 # AN4.250 - Vohārasutta - Expressions
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.250%5D%5D%22%23mynotes%20-file%3Aan4.250-%20-file%3A%22AN4.249%22%20-file%3A%22AN4.251%22%20-file%3A%22AN4.250%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.250/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.250
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.250.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.249]]  🌐 [[AN4.251]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.249]]  🌐 [[AN4.251]] ►

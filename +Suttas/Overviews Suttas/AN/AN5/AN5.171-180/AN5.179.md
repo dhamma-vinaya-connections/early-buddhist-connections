@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA128]]"
 parallels_partilal: "[[MA128]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.178]]  🌐 [[AN5.180]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.178]]  🌐 [[AN5.180]] ►
 
 # AN5.179 - Gihi - Layperson
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[MA128]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.179%5D%5D%22%23mynotes%20-file%3Aan5.179-%20-file%3A%22AN5.178%22%20-file%3A%22AN5.180%22%20-file%3A%22AN5.179%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.179/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.179
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.179.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.178]]  🌐 [[AN5.180]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.178]]  🌐 [[AN5.180]] ►

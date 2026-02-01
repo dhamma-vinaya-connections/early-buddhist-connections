@@ -4,7 +4,7 @@ vin_title: "Ukkhittasambhoga - Living With an Ejected Bhikkhu"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC147]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC147]]
 > ◄  [[bni-pc146-brahmali-pali]] 📜  [[bni-pc148-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -122,5 +122,5 @@ Anukkhittake ukkhittakasaññī, āpatti dukkaṭassa. Anukkhittake vematiko, ā
 >|       |          | [[ñanatusita-analysis#^-PC147]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC147]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC147]]
 > ◄  [[bni-pc146-brahmali-pali]] 📜  [[bni-pc148-brahmali-pali]] ►

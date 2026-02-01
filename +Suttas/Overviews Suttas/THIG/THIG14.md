@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG13]]  🌐 [[THIG15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG13]]  🌐 [[THIG15]] ►
 
 # THIG14 - Tiṁsanipātavagga - Thirties Book
 ## 🌐 Overview
@@ -89,10 +89,10 @@ and gave it to the man right then.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHIG14%5D%5D%22%23mynotes%20-file%3Athig14-%20-file%3A%22THIG13%22%20-file%3A%22THIG15%22%20-file%3A%22THIG14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thig14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig14
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG13]]  🌐 [[THIG15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG13]]  🌐 [[THIG15]] ►

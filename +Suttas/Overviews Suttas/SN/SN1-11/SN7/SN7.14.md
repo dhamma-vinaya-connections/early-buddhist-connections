@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN7.15]]"
 parallels_agama: "[[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]]"
 parallels_partilal: "[[SA-2.262]], [[SA96]], [[SN7.15]], [[SA-2.258]], [[SA92]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.13]]  🌐 [[SN7.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.13]]  🌐 [[SN7.15]] ►
 
 # SN7.14 - Mahāsālasutta - The Affluent One
 ## 🌐 Overview
@@ -86,10 +86,10 @@ And after death he rejoices in heaven.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.14%5D%5D%22%23mynotes%20-file%3Asn7.14-%20-file%3A%22SN7.13%22%20-file%3A%22SN7.15%22%20-file%3A%22SN7.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.14
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.13]]  🌐 [[SN7.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.13]]  🌐 [[SN7.15]] ►

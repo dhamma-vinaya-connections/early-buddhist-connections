@@ -4,7 +4,7 @@ vin_title: "Hasadhamma - Playing"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
 > ◄  [[bu-pc52-horner]] 📜  [[bu-pc54-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 53
@@ -71,5 +71,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC53]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]
 > ◄  [[bu-pc52-horner]] 📜  [[bu-pc54-horner]] ►

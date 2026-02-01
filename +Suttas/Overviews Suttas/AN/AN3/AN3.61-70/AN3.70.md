@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.42]], [[AN8.43]]"
 parallels_agama: "[[EA24.6]], [[MA202]], [[SA861-863]]"
 parallels_partilal: "[[MA202]], [[SA861-863]], [[AN8.42]], [[AN8.43]], [[EA24.6]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.69]]  🌐 [[AN3.71]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.69]]  🌐 [[AN3.71]] ►
 
 # AN3.70 - Uposatha - Sabbath
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[MA202]], [[SA861-863]], [[AN8.42]], [[AN8.43]], [[EA24.6]
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.70%5D%5D%22%23mynotes%20-file%3Aan3.70-%20-file%3A%22AN3.69%22%20-file%3A%22AN3.71%22%20-file%3A%22AN3.70%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.70/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.70
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.70.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.69]]  🌐 [[AN3.71]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.69]]  🌐 [[AN3.71]] ►

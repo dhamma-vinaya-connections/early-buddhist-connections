@@ -4,7 +4,7 @@ vin_title: "Samatittika - Receiving Even Level"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK30]]
 > ◄  [[bu-sk29-brahmali-pali]] 📜  [[bu-sk31-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -62,5 +62,5 @@ Khambhakatavaggo tatiyo.
 >|       |          | [[ñanatusita-analysis#^SK30]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK30]]
 > ◄  [[bu-sk29-brahmali-pali]] 📜  [[bu-sk31-brahmali-pali]] ►

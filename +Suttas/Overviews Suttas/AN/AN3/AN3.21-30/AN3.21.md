@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.20]]  🌐 [[AN3.22]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.20]]  🌐 [[AN3.22]] ►
 
 # AN3.21 - Samiddha - With Saviṭṭha
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.21%5D%5D%22%23mynotes%20-file%3Aan3.21-%20-file%3A%22AN3.20%22%20-file%3A%22AN3.22%22%20-file%3A%22AN3.21%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.21/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.21
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.21.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.20]]  🌐 [[AN3.22]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.20]]  🌐 [[AN3.22]] ►

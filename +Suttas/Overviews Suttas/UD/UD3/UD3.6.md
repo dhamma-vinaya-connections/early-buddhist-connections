@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SNP3.4]], [[PE1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.5]]  🌐 [[UD3.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.5]]  🌐 [[UD3.7]] ►
 
 # UD3.6 - Pilindivaccha Sutta - Pilinda
 ## 🌐 Overview
@@ -94,10 +94,10 @@ they are a brahmin, an ascetic, a mendicant
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD3.6%5D%5D%22%23mynotes%20-file%3Aud3.6-%20-file%3A%22UD3.5%22%20-file%3A%22UD3.7%22%20-file%3A%22UD3.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud3.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud3.6
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud3.6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.5]]  🌐 [[UD3.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.5]]  🌐 [[UD3.7]] ►

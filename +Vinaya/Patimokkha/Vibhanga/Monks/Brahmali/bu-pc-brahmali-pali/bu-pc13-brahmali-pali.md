@@ -4,7 +4,7 @@ vin_title: "Ujjhāpanaka - Complaining"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
 > ◄  [[bu-pc12-brahmali-pali]] 📜  [[bu-pc14-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -136,5 +136,5 @@ Adhammakamme adhammakammasaññī āpatti dukkaṭassa.
 >|       |          | [[ñanatusita-analysis#^PC13]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]
 > ◄  [[bu-pc12-brahmali-pali]] 📜  [[bu-pc14-brahmali-pali]] ►

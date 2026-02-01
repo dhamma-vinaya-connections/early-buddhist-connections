@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN10.92]], [[SN12.41]], [[SN55.28]]"
 parallels_agama: "[[SA846]]"
 parallels_partilal: "[[AN10.92]], [[SN55.28]], [[SA846]], [[SN12.41]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.26]]  🌐 [[AN9.28]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.26]]  🌐 [[AN9.28]] ►
 
 # AN9.27 - Paṭhamavera - Dangers And Threats
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN10.92]], [[SN55.28]], [[SA846]], [[SN12.41]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.27%5D%5D%22%23mynotes%20-file%3Aan9.27-%20-file%3A%22AN9.26%22%20-file%3A%22AN9.28%22%20-file%3A%22AN9.27%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.27/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.27
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.27.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.26]]  🌐 [[AN9.28]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.26]]  🌐 [[AN9.28]] ►

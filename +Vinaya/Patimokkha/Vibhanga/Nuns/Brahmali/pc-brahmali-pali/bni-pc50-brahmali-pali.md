@@ -4,7 +4,7 @@ vin_title: "Tiracchānavijjāvācana - Teaching Pointless Knowledge"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC50]]
 > ◄  [[bni-pc49-brahmali-pali]] 📜  [[bni-pc51-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -86,5 +86,5 @@ Cittāgāravaggo pañcamo.
 >|       |          | [[ñanatusita-analysis#^-PC50]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC50]]
 > ◄  [[bni-pc49-brahmali-pali]] 📜  [[bni-pc51-brahmali-pali]] ►

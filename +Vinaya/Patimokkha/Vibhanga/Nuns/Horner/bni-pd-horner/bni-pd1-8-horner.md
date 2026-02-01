@@ -4,7 +4,7 @@ vin_title: "Asking for Ghee, Oil, Honey, Molases, Fish, Meat, Milk, Curd - Viñ�
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PD1-]] I 🌐 [[BNI-PD1-8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PD1-]] I 🌐 [[BNI-PD1-8]]
 > ◄  [[BNI-PC166]] 📜  [[BNI-AS1-7]] ►
 
 # Nuns’ Confession (_Pāṭidesaniya_) 1
@@ -102,5 +102,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PD1-8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PD1-]] I 🌐 [[BNI-PD1-8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PD1-]] I 🌐 [[BNI-PD1-8]]
 > ◄  [[BNI-PC166]] 📜  [[BNI-AS1-7]] ►

@@ -4,7 +4,7 @@ vin_title: "Nisīdana - Sitting Mats"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC89]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC89]]
 > ◄  [[bu-pc88-deepseek-pali]] 📜  [[bu-pc90-deepseek-pali]] ►
 
 # BU-PC 89
@@ -71,5 +71,5 @@ The seventh training rule concerning sitting cloths is concluded.
 >|       |          | [[ñanatusita-analysis#^PC89]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC89]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC89]]
 > ◄  [[bu-pc88-deepseek-pali]] 📜  [[bu-pc90-deepseek-pali]] ►

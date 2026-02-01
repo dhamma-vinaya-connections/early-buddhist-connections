@@ -4,7 +4,7 @@ vin_title: "Udakeuccāra - In Water"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK75]]
 > ◄  [[bu-sk74-deepseek-pali]] 📜  [[BU-AS1-7]] ►
 
 # BU-SK 75
@@ -160,5 +160,5 @@ The Chapter on Training Rules is concluded.
 >|       |          | [[ñanatusita-analysis#^SK75]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK75]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK75]]
 > ◄  [[bu-sk74-deepseek-pali]] 📜  [[BU-AS1-7]] ►

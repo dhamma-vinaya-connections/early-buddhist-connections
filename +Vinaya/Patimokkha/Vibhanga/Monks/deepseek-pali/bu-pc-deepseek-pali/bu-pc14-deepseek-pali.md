@@ -4,7 +4,7 @@ vin_title: "Mañcasanthārana - Leaving Furniture Outside"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
 > ◄  [[bu-pc13-deepseek-pali]] 📜  [[bu-pc15-deepseek-pali]] ►
 
 # BU-PC 14
@@ -103,5 +103,5 @@ The first training rule on lodgings, the fourth, is finished.
 >|       |          | [[ñanatusita-analysis#^PC14]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]
 > ◄  [[bu-pc13-deepseek-pali]] 📜  [[bu-pc15-deepseek-pali]] ►

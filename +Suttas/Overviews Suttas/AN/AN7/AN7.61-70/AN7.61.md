@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA83]]"
 parallels_partilal: "[[MA83]], [[MN37]], [[EA19.3]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.60]]  🌐 [[AN7.62]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.60]]  🌐 [[AN7.62]] ►
 
 # AN7.61 - Pacalāyamāna - Nodding Off
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MA83]], [[MN37]], [[EA19.3]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.61%5D%5D%22%23mynotes%20-file%3Aan7.61-%20-file%3A%22AN7.60%22%20-file%3A%22AN7.62%22%20-file%3A%22AN7.61%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.61/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.61
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.61.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.60]]  🌐 [[AN7.62]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.60]]  🌐 [[AN7.62]] ►

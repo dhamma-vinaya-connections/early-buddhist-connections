@@ -4,7 +4,7 @@ vin_title: "Kathinuddhāra - Ending the Robe-Making Season"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC30]]
 > ◄  [[bni-pc29-brahmali-pali]] 📜  [[bni-pc31-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -134,5 +134,5 @@ Naggavaggo tatiyo.
 >|       |          | [[ñanatusita-analysis#^-PC30]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC30]]
 > ◄  [[bni-pc29-brahmali-pali]] 📜  [[bni-pc31-brahmali-pali]] ►

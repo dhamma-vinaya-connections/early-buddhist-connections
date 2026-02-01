@@ -4,7 +4,7 @@ vin_title: "Samaṇuddesaantarāyika - Obstructions and a Novice"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC148]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC148]]
 > ◄  [[bni-pc147-brahmali-pali]] 📜  [[bni-pc149-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -214,5 +214,5 @@ dasa sikkhāpadā imeti.
 >|       |          | [[ñanatusita-analysis#^-PC148]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC148]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC148]]
 > ◄  [[bni-pc147-brahmali-pali]] 📜  [[bni-pc149-brahmali-pali]] ►

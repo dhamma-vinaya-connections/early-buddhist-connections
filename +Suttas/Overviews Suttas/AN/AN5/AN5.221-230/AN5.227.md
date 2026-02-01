@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.226]]  🌐 [[AN5.228]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.226]]  🌐 [[AN5.228]] ►
 
 # AN5.227 - Bhoga - Riches
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.227%5D%5D%22%23mynotes%20-file%3Aan5.227-%20-file%3A%22AN5.226%22%20-file%3A%22AN5.228%22%20-file%3A%22AN5.227%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.227/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.227
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.227.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.226]]  🌐 [[AN5.228]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.226]]  🌐 [[AN5.228]] ►

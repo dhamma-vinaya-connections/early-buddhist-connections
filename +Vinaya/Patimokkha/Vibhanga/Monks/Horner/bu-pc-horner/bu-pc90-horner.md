@@ -4,7 +4,7 @@ vin_title: "Kaṇḍuppaṭicchādi - Bandage"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC90]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC90]]
 > ◄  [[bu-pc89-horner]] 📜  [[bu-pc91-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 90
@@ -51,5 +51,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC90]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC90]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC90]]
 > ◄  [[bu-pc89-horner]] 📜  [[bu-pc91-horner]] ►

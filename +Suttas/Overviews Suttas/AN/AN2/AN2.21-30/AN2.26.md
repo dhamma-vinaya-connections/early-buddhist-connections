@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA18.9]]"
 parallels_partilal: "[[EA18.9]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.25]]  🌐 [[AN2.27]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.25]]  🌐 [[AN2.27]] ►
 
 # AN2.26 - Bala-Pandita - Fools & Wise
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[EA18.9]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.26%5D%5D%22%23mynotes%20-file%3Aan2.26-%20-file%3A%22AN2.25%22%20-file%3A%22AN2.27%22%20-file%3A%22AN2.26%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.26/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.26
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.26.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.25]]  🌐 [[AN2.27]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.25]]  🌐 [[AN2.27]] ►

@@ -4,7 +4,7 @@ vin_title: "Samatittika - Receiving Even Level"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK30]]
 > ◄  [[bu-sk29-deepseek-pali]] 📜  [[bu-sk31-deepseek-pali]] ►
 
 # BU-SK 30
@@ -43,5 +43,5 @@ The ninth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK30]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK30]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK30]]
 > ◄  [[bu-sk29-deepseek-pali]] 📜  [[bu-sk31-deepseek-pali]] ►

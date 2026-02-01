@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA220]]"
 parallels_partilal: "[[MA220]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.53]]  🌐 [[AN7.55]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.53]]  🌐 [[AN7.55]] ►
 
 # AN7.54 - Abyākata - Undeclared Points
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[MA220]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.54%5D%5D%22%23mynotes%20-file%3Aan7.54-%20-file%3A%22AN7.53%22%20-file%3A%22AN7.55%22%20-file%3A%22AN7.54%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.54/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.54
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.54.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.53]]  🌐 [[AN7.55]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.53]]  🌐 [[AN7.55]] ►

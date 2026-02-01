@@ -4,7 +4,7 @@ vin_title: "Paṭhamaaniyata - Undetermined Offense 1st"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
 > ◄  [[BU-SS13]] 📜  [[bu-an2-deepseek-pali]] ►
 
 # BU-AN 1
@@ -139,5 +139,5 @@ The first Aniyata is concluded.
 >|       |          | [[ñanatusita-analysis#^AN1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]
 > ◄  [[BU-SS13]] 📜  [[bu-an2-deepseek-pali]] ►

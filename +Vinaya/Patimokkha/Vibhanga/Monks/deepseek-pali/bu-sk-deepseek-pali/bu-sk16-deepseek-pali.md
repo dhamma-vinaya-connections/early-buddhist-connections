@@ -4,7 +4,7 @@ vin_title: "Kāyappacālaka - Swaying"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK16]]
 > ◄  [[bu-sk15-deepseek-pali]] 📜  [[bu-sk17-deepseek-pali]] ►
 
 # BU-SK 16
@@ -43,5 +43,5 @@ The fifth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK16]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK16]]
 > ◄  [[bu-sk15-deepseek-pali]] 📜  [[bu-sk17-deepseek-pali]] ►

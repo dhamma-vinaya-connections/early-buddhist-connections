@@ -4,7 +4,7 @@ vin_title: "Uttarimanussadhamma - False Claim to Superhuman Attainments"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ4]]
 > ◄  [[bu-pj3-deepseek-pali]] 📜  [[BU-SS1]] ►
 
 # BU-PJ 4
@@ -999,5 +999,5 @@ The Pārājika Section is concluded.
 >|       |          | [[ñanatusita-analysis#^PJ4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ4]]
 > ◄  [[bu-pj3-deepseek-pali]] 📜  [[BU-SS1]] ►

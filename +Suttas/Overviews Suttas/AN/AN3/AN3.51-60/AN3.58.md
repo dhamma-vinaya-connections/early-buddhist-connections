@@ -39,7 +39,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA884-885]]"
 parallels_partilal: "[[SA884-885]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.57]]  🌐 [[AN3.59]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.57]]  🌐 [[AN3.59]] ►
 
 # AN3.58 - Tikaṇṇa - With Tikaṇṇa
 ## 🌐 Overview
@@ -81,10 +81,10 @@ parallels_partilal: "[[SA884-885]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.58%5D%5D%22%23mynotes%20-file%3Aan3.58-%20-file%3A%22AN3.57%22%20-file%3A%22AN3.59%22%20-file%3A%22AN3.58%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.58/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.58
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.58.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.57]]  🌐 [[AN3.59]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.57]]  🌐 [[AN3.59]] ►

@@ -4,7 +4,7 @@ vin_title: "Mohana - Deception"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
 > ◄  [[bu-pc72-brahmali-pali]] 📜  [[bu-pc74-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -130,5 +130,5 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, pātimo
 >|       |          | [[ñanatusita-analysis#^PC73]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]
 > ◄  [[bu-pc72-brahmali-pali]] 📜  [[bu-pc74-brahmali-pali]] ►

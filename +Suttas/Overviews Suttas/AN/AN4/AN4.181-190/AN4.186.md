@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN1.62]]"
 parallels_agama: "[[MA172]], [[SA-2.236]], [[SA1009]]"
 parallels_partilal: "[[MA172]], [[SN1.62]], [[SA-2.236]], [[SA1009]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.185]]  🌐 [[AN4.187]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.185]]  🌐 [[AN4.187]] ►
 
 # AN4.186 - Ummagga - Approach
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MA172]], [[SN1.62]], [[SA-2.236]], [[SA1009]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.186%5D%5D%22%23mynotes%20-file%3Aan4.186-%20-file%3A%22AN4.185%22%20-file%3A%22AN4.187%22%20-file%3A%22AN4.186%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.186/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.186
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.186.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.185]]  🌐 [[AN4.187]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.185]]  🌐 [[AN4.187]] ►

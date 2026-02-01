@@ -4,7 +4,7 @@ vin_title: "Parimaṇḍala - Being even all around"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK2]]
 > ◄  [[bni-sk1-brahmali-pali]] 📜  [[bni-sk3-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -58,5 +58,5 @@ language: "Pali - English"
 >|       |          | [[ñanatusita-analysis#^-SK2]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK2]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK2]]
 > ◄  [[bni-sk1-brahmali-pali]] 📜  [[bni-sk3-brahmali-pali]] ►

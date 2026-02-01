@@ -4,7 +4,7 @@ vin_title: "Nāvābhiruhana - Travelling on a Boat With a Nun"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC28]]
 > ◄  [[bu-pc27-horner]] 📜  [[bu-pc29-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 28
@@ -93,5 +93,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC28]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC28]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC28]]
 > ◄  [[bu-pc27-horner]] 📜  [[bu-pc29-horner]] ►

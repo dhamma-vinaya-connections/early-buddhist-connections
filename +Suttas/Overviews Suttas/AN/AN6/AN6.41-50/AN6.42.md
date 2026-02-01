@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA1250-1251]]"
 parallels_partilal: "[[SA1250-1251]], [[AN5.30]], [[AN8.86]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.41]]  🌐 [[AN6.43]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.41]]  🌐 [[AN6.43]] ►
 
 # AN6.42 - Nagita - Nagita
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SA1250-1251]], [[AN5.30]], [[AN8.86]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.42%5D%5D%22%23mynotes%20-file%3Aan6.42-%20-file%3A%22AN6.41%22%20-file%3A%22AN6.43%22%20-file%3A%22AN6.42%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.42/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.42
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.42.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.41]]  🌐 [[AN6.43]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.41]]  🌐 [[AN6.43]] ►

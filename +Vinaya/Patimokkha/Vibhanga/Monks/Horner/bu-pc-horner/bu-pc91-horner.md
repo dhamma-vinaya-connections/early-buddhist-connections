@@ -4,7 +4,7 @@ vin_title: "Vassikasāṭikā - Rains Cloths"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
 > ◄  [[bu-pc90-horner]] 📜  [[bu-pc92-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 91
@@ -41,5 +41,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC91]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC91]]
 > ◄  [[bu-pc90-horner]] 📜  [[bu-pc92-horner]] ►

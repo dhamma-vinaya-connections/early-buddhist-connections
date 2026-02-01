@@ -39,7 +39,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.33]]  🌐 [[AN9.35]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.33]]  🌐 [[AN9.35]] ►
 
 # AN9.34 - Nibbana - Unbinding
 ## 🌐 Overview
@@ -84,10 +84,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.34%5D%5D%22%23mynotes%20-file%3Aan9.34-%20-file%3A%22AN9.33%22%20-file%3A%22AN9.35%22%20-file%3A%22AN9.34%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.34/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.34
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.34.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.33]]  🌐 [[AN9.35]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.33]]  🌐 [[AN9.35]] ►

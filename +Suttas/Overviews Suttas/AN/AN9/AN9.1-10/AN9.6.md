@@ -38,7 +38,7 @@ parallels_nikaya: "[[MN114]], [[MN17]]"
 parallels_agama: "[[EA45.3]], [[MA107]], [[MA107-108]]"
 parallels_partilal: "[[EA45.3]], [[MA107]], [[MN114]], [[MN17]], [[MA107-108]], [[MA109]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.5]]  🌐 [[AN9.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.5]]  🌐 [[AN9.7]] ►
 
 # AN9.6 - Sevanā - Association
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[EA45.3]], [[MA107]], [[MN114]], [[MN17]], [[MA107-108]], 
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.6%5D%5D%22%23mynotes%20-file%3Aan9.6-%20-file%3A%22AN9.5%22%20-file%3A%22AN9.7%22%20-file%3A%22AN9.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.6
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.5]]  🌐 [[AN9.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.5]]  🌐 [[AN9.7]] ►

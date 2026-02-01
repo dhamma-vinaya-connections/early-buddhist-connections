@@ -4,7 +4,7 @@ vin_title: "Sañcicca - Killing Intentionally"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC142]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC142]]
 > ◄  [[bni-pc141-brahmali-pali]] 📜  [[bni-pc143-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -114,5 +114,5 @@ Appāṇe pāṇasaññī, āpatti dukkaṭahtmlssa. Appāṇe vematiko, āpatti
 >|       |          | [[ñanatusita-analysis#^-PC142]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC142]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC142]]
 > ◄  [[bni-pc141-brahmali-pali]] 📜  [[bni-pc143-brahmali-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA13]]"
 parallels_partilal: "[[MA13]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.60]]  🌐 [[AN3.62]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.60]]  🌐 [[AN3.62]] ►
 
 # AN3.61 - Titthāyatana - Sectarian Tenets
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[MA13]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.61%5D%5D%22%23mynotes%20-file%3Aan3.61-%20-file%3A%22AN3.60%22%20-file%3A%22AN3.62%22%20-file%3A%22AN3.61%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.61/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.61
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.61.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.60]]  🌐 [[AN3.62]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.60]]  🌐 [[AN3.62]] ►

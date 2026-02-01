@@ -4,7 +4,7 @@ vin_title: "Atthaṅgata - Instructing Nuns After Sunset"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
 > ◄  [[bu-pc21-deepseek-pali]] 📜  [[bu-pc23-deepseek-pali]] ►
 
 # BU-PC 22
@@ -79,5 +79,5 @@ The second training rule on sunset is concluded.
 >|       |          | [[ñanatusita-analysis#^PC22]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
 > ◄  [[bu-pc21-deepseek-pali]] 📜  [[bu-pc23-deepseek-pali]] ►

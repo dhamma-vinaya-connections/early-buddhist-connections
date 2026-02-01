@@ -4,7 +4,7 @@ vin_title: "Saṅghabheda - Schism in the Saṅgha"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS10]]
 > ◄  [[bu-ss9-deepseek-pali]] 📜  [[bu-ss11-deepseek-pali]] ►
 
 # BU-SN 10
@@ -139,5 +139,5 @@ The training-rule on creating schism in the Saṅgha, the tenth, is concluded.
 >|       |          | [[ñanatusita-analysis#^SS10]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS10]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS10]]
 > ◄  [[bu-ss9-deepseek-pali]] 📜  [[bu-ss11-deepseek-pali]] ►

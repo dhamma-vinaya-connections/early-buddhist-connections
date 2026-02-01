@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN9.8]], [[DN29]]"
 parallels_agama: "[[DA17]]"
 parallels_partilal: "[[DN29]], [[DA17]], [[AN9.8]], [[MN76]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.6]]  🌐 [[AN9.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.6]]  🌐 [[AN9.8]] ►
 
 # AN9.7 - Sutavā - With Sutavā The Wanderer
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[DN29]], [[DA17]], [[AN9.8]], [[MN76]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.7%5D%5D%22%23mynotes%20-file%3Aan9.7-%20-file%3A%22AN9.6%22%20-file%3A%22AN9.8%22%20-file%3A%22AN9.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.7
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.6]]  🌐 [[AN9.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.6]]  🌐 [[AN9.8]] ►

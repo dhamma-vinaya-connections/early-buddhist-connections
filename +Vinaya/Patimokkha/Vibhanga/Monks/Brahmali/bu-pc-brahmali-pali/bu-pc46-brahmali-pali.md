@@ -4,7 +4,7 @@ vin_title: "Cāritta - Visiting Families Before a Meal"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC46]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC46]]
 > ◄  [[bu-pc45-brahmali-pali]] 📜  [[bu-pc47-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -291,5 +291,5 @@ Nimantite vematiko santaṁ bhikkhuṁ anāpucchā purebhattaṁ vā pacchābhat
 >|       |          | [[ñanatusita-analysis#^PC46]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC46]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC46]]
 > ◄  [[bu-pc45-brahmali-pali]] 📜  [[bu-pc47-brahmali-pali]] ►

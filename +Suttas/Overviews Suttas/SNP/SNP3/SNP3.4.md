@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[UD3.6]], [[SN7.9]], [[SNP1.4]], [[SN7.11]], [[SN7.8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.3]]  🌐 [[SNP3.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.3]]  🌐 [[SNP3.5]] ►
 
 # SNP3.4 - Pūraḷāsa sundarikabhāradvāja - With Bhāradvāja of Sundarika on the Sacrificial Cake
 ## 🌐 Overview
@@ -93,10 +93,10 @@ from doubt
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP3.4%5D%5D%22%23mynotes%20-file%3Asnp3.4-%20-file%3A%22SNP3.3%22%20-file%3A%22SNP3.5%22%20-file%3A%22SNP3.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp3.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.4
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.4.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.3]]  🌐 [[SNP3.5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.3]]  🌐 [[SNP3.5]] ►

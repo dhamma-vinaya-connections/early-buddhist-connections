@@ -4,7 +4,7 @@ vin_title: "Gandhavaṇṇaka - Scents and Colors"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC88]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC88]]
 > ◄  [[bni-pc87-brahmali-pali]] 📜  [[bni-pc89-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -80,5 +80,5 @@ p_2V_3475Pañcamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC88]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC88]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC88]]
 > ◄  [[bni-pc87-brahmali-pali]] 📜  [[bni-pc89-brahmali-pali]] ►

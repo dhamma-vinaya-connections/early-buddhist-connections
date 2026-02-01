@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP176]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP176]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI24]]  🌐 [[ITI26]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI24]]  🌐 [[ITI26]] ►
 
 # ITI25 - Musāvāda - Lying
 ## 🌐 Overview
@@ -85,10 +85,10 @@ there’s no evil not to be done.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI25%5D%5D%22%23mynotes%20-file%3Aiti25-%20-file%3A%22ITI24%22%20-file%3A%22ITI26%22%20-file%3A%22ITI25%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti25
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti25.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI24]]  🌐 [[ITI26]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI24]]  🌐 [[ITI26]] ►

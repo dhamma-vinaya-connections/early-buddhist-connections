@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DN14]], [[MN85]], [[MN26]], [[SN6.1]], [[PLI-TV-KD1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI37]]  🌐 [[ITI39]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI37]]  🌐 [[ITI39]] ►
 
 # ITI38 - Vitakka - Thoughts
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[DN14]], [[MN85]], [[MN26]], [[SN6.1]], [[PLI-TV-KD1]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI38%5D%5D%22%23mynotes%20-file%3Aiti38-%20-file%3A%22ITI37%22%20-file%3A%22ITI39%22%20-file%3A%22ITI38%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti38/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti38
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti38.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI37]]  🌐 [[ITI39]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI37]]  🌐 [[ITI39]] ►

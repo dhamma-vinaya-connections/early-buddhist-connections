@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN1.15]]"
 parallels_agama: "[[SA-2.355]], [[SA1335]]"
 parallels_partilal: "[[SN1.15]], [[SA-2.355]], [[SA1335]], [[JA547]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.11]]  🌐 [[SN9.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.11]]  🌐 [[SN9.13]] ►
 
 # SN9.12 - Majjhanhikasutta - Noon
 ## 🌐 Overview
@@ -85,10 +85,10 @@ You’ll find gladness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.12%5D%5D%22%23mynotes%20-file%3Asn9.12-%20-file%3A%22SN9.11%22%20-file%3A%22SN9.13%22%20-file%3A%22SN9.12%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.12
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.12.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.11]]  🌐 [[SN9.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.11]]  🌐 [[SN9.13]] ►

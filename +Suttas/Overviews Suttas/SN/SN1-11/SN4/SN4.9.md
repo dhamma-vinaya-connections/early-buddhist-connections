@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.23]], [[SA1084]]"
 parallels_partilal: "[[DN19]], [[SA-2.23]], [[SA1084]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.8]]  🌐 [[SN4.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.8]]  🌐 [[SN4.10]] ►
 
 # SN4.9 - Paṭhamaāyusutta - Life Span (1)
 ## 🌐 Overview
@@ -82,10 +82,10 @@ For attachments are a man’s sorrow
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.9%5D%5D%22%23mynotes%20-file%3Asn4.9-%20-file%3A%22SN4.8%22%20-file%3A%22SN4.10%22%20-file%3A%22SN4.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.9
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.8]]  🌐 [[SN4.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.8]]  🌐 [[SN4.10]] ►

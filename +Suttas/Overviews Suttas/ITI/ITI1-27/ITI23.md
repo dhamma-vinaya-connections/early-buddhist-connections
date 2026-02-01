@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN5.43]], [[SN3.17]], [[SN3.18]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI22]]  🌐 [[ITI24]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI22]]  🌐 [[ITI24]] ►
 
 # ITI23 - Ubhayatthasuttaubhayatthasutta - Diligence
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[AN5.43]], [[SN3.17]], [[SN3.18]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI23%5D%5D%22%23mynotes%20-file%3Aiti23-%20-file%3A%22ITI22%22%20-file%3A%22ITI24%22%20-file%3A%22ITI23%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti23/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti23
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti23.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI22]]  🌐 [[ITI24]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI22]]  🌐 [[ITI24]] ►

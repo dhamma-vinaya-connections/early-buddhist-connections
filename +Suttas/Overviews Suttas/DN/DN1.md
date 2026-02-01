@@ -54,7 +54,7 @@ parallels_nikaya: ""
 parallels_agama: "[[DA21]]"
 parallels_partilal: "[[DA21]], [[SN41.3]], [[PLI-TV-KD21]], [[AN10.69]], [[DN2]], [[MN76]], [[PLI-TV-BU-VB-PC85]], [[SN56.10]], [[PLI-TV-KD5]], [[DN28]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DHP26]]  🌐 [[DN2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DHP26]]  🌐 [[DN2]] ►
 
 # DN1 - Brahmajāla Sutta - Prime Net
 ## 🌐 Overview
@@ -120,10 +120,10 @@ When a mendicant truly understands the six fields of contacts’ origin, ending,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDN1%5D%5D%22%23mynotes%20-file%3Adn1-%20-file%3A%22DHP26%22%20-file%3A%22DN2%22%20-file%3A%22DN1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dn1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dn1
 > - The Buddhas Words: https://thebuddhaswords.net/dn/dn1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DHP26]]  🌐 [[DN2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DHP26]]  🌐 [[DN2]] ►

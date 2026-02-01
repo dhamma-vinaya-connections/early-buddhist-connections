@@ -4,7 +4,7 @@ vin_title: "Tirokuṭṭuccārachaḍḍana - Disposing Feces"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC8]]
 > ◄  [[bni-pc7-brahmali-pali]] 📜  [[bni-pc9-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -128,5 +128,5 @@ p_2V_2648Aṭṭhamasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC8]]
 > ◄  [[bni-pc7-brahmali-pali]] 📜  [[bni-pc9-brahmali-pali]] ►

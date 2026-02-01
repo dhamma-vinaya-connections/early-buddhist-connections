@@ -4,7 +4,7 @@ vin_title: "Paripācita - Food Prepared on a Nun’s Instruction"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
 > ◄  [[bu-pc28-brahmali-pali]] 📜  [[bu-pc30-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -196,5 +196,5 @@ Ekatoupasampannāya paripācitaṁ bhuñjati, aññatra pubbe gihisamārambhā, 
 >|       |          | [[ñanatusita-analysis#^PC29]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC29]]
 > ◄  [[bu-pc28-brahmali-pali]] 📜  [[bu-pc30-brahmali-pali]] ►

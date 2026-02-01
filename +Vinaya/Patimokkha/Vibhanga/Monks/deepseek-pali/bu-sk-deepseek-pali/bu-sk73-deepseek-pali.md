@@ -4,7 +4,7 @@ vin_title: "Ṭhitouccāra - While Standing"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK73]]
 > ◄  [[bu-sk72-deepseek-pali]] 📜  [[bu-sk74-deepseek-pali]] ►
 
 # BU-SK 73
@@ -63,5 +63,5 @@ The ninth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK73]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK73]]
 > ◄  [[bu-sk72-deepseek-pali]] 📜  [[bu-sk74-deepseek-pali]] ►

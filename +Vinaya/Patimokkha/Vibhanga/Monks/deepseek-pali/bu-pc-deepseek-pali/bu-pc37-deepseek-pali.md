@@ -4,7 +4,7 @@ vin_title: "Vikālabhojana - Eating at Wrong Time"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC37]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC37]]
 > ◄  [[bu-pc36-deepseek-pali]] 📜  [[bu-pc38-deepseek-pali]] ►
 
 # BU-PC 37
@@ -71,5 +71,5 @@ The Training Rule on Eating at the Wrong Time, the seventh, is finished.
 >|       |          | [[ñanatusita-analysis#^PC37]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC37]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC37]]
 > ◄  [[bu-pc36-deepseek-pali]] 📜  [[bu-pc38-deepseek-pali]] ►

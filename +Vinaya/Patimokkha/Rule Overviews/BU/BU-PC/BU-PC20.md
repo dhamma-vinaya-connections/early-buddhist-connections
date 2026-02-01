@@ -25,7 +25,7 @@ vin_sangha_acts:
 vin_gender: "Monks"
 vin_gender-corr: "BNI-PC116"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC19]] 🌐 [[BU-PC21]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC19]] 🌐 [[BU-PC21]] ►
 
 # Monks - Pacittiya - Confession
 ## 2 Bhūtagāma-Vaggo - 2 Plants
@@ -82,8 +82,8 @@ vin_gender-corr: "BNI-PC116"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBU-PC20%5D%5D%22%23mynotes%20-file%3Abu-pc20-%20-file%3A%22BU-PC20%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+> [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-pc?view=normal
 
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC19]] 🌐 [[BU-PC21]] ►
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-PC19]] 🌐 [[BU-PC21]] ►

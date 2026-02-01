@@ -4,7 +4,7 @@ vin_title: "Ārāmapavisana - Entering Monasteries"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC51]]
 > ◄  [[bni-pc50-horner]] 📜  [[bni-pc52-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 51
@@ -79,5 +79,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC51]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC51]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC51]]
 > ◄  [[bni-pc50-horner]] 📜  [[bni-pc52-horner]] ►

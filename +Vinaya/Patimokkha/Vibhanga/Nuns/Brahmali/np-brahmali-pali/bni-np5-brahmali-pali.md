@@ -4,7 +4,7 @@ vin_title: "Aññacetāpana - Exchanging for Something Else"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP5]]
 > ◄  [[bni-np4-brahmali-pali]] 📜  [[bni-np6-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -158,5 +158,5 @@ Nissajjitabbaṁ saṁghassa vā gaṇassa vā ekabhikkhuniyā vā. Evañca pana
 >|       |          | [[ñanatusita-analysis#^-NP5]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP5]]
 > ◄  [[bni-np4-brahmali-pali]] 📜  [[bni-np6-brahmali-pali]] ►

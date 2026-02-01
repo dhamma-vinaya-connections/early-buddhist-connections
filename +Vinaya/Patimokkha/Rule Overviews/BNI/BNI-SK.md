@@ -4,7 +4,7 @@ index:
 rule_type: "BNI-SK - Sekhiya - Training"
 vin_gender: "Nuns"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-SK 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BNI-SK 
 
 # BNI-SK - Sekhiya - Training
 

@@ -4,7 +4,7 @@ vin_title: "Seyyasanthārana - Leaving Bedding Outside"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
 > ◄  [[bu-pc14-horner]] 📜  [[bu-pc16-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 15
@@ -73,5 +73,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC15]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
 > ◄  [[bu-pc14-horner]] 📜  [[bu-pc16-horner]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP186-187]]"
 parallels_agama: "[[SA1099]]"
 parallels_partilal: "[[SA1099]], [[DHP186-187]], [[JA258]], [[SN4.20]], [[PE1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.20]]  🌐 [[SN4.22]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.20]]  🌐 [[SN4.22]] ►
 
 # SN4.21 - Sambahulasutta - A Number
 ## 🌐 Overview
@@ -91,10 +91,10 @@ But you will never make me tremble.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.21%5D%5D%22%23mynotes%20-file%3Asn4.21-%20-file%3A%22SN4.20%22%20-file%3A%22SN4.22%22%20-file%3A%22SN4.21%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.21/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.21
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.21.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.20]]  🌐 [[SN4.22]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.20]]  🌐 [[SN4.22]] ►

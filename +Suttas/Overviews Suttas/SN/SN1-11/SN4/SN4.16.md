@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA1102]]"
 parallels_partilal: "[[SA1102]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.15]]  🌐 [[SN4.17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.15]]  🌐 [[SN4.17]] ►
 
 # SN4.16 - Pattasutta - Almsbowls
 ## 🌐 Overview
@@ -89,10 +89,10 @@ Thus one is detached from it
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.16%5D%5D%22%23mynotes%20-file%3Asn4.16-%20-file%3A%22SN4.15%22%20-file%3A%22SN4.17%22%20-file%3A%22SN4.16%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.16
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.16.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.15]]  🌐 [[SN4.17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.15]]  🌐 [[SN4.17]] ►

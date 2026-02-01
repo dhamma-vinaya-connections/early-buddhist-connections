@@ -4,7 +4,7 @@ vin_title: "Bhedānuvattaka - Schismatic Followers"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS11]]
 > ◄  [[bu-ss10-deepseek-pali]] 📜  [[bu-ss12-deepseek-pali]] ►
 
 # BU-SN 11
@@ -123,5 +123,5 @@ The training rule concerning following schismatics is finished, the eleventh.
 >|       |          | [[ñanatusita-analysis#^SS11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS11]]
 > ◄  [[bu-ss10-deepseek-pali]] 📜  [[bu-ss12-deepseek-pali]] ►

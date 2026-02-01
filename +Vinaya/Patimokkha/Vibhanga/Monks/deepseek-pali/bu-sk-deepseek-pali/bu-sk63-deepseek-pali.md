@@ -4,7 +4,7 @@ vin_title: "Yāna - Vehicle"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK63]]
 > ◄  [[bu-sk62-deepseek-pali]] 📜  [[bu-sk64-deepseek-pali]] ►
 
 # BU-SK 63
@@ -55,5 +55,5 @@ The sixth section, the Surusuru Division, is completed.
 >|       |          | [[ñanatusita-analysis#^SK63]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK63]]
 > ◄  [[bu-sk62-deepseek-pali]] 📜  [[bu-sk64-deepseek-pali]] ►

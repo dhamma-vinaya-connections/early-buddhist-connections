@@ -38,7 +38,7 @@ parallels_nikaya: "[[JA100]]"
 parallels_agama: ""
 parallels_partilal: "[[JA100]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.7]]  🌐 [[UD2.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.7]]  🌐 [[UD2.9]] ►
 
 # UD2.8 - Suppavasa Sutta - Suppavāsā
 ## 🌐 Overview
@@ -92,10 +92,10 @@ Overcome the heedless one.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD2.8%5D%5D%22%23mynotes%20-file%3Aud2.8-%20-file%3A%22UD2.7%22%20-file%3A%22UD2.9%22%20-file%3A%22UD2.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud2.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.8
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.7]]  🌐 [[UD2.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.7]]  🌐 [[UD2.9]] ►

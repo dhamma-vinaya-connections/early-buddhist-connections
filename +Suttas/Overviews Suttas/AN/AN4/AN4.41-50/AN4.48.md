@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN21.7]]"
 parallels_agama: "[[SA-2.8]], [[SA1069]]"
 parallels_partilal: "[[SN21.7]], [[SA-2.8]], [[SA1069]], [[JA537]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.47]]  🌐 [[AN4.49]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.47]]  🌐 [[AN4.49]] ►
 
 # AN4.48 - Visākha - With Visākha
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[SN21.7]], [[SA-2.8]], [[SA1069]], [[JA537]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.48%5D%5D%22%23mynotes%20-file%3Aan4.48-%20-file%3A%22AN4.47%22%20-file%3A%22AN4.49%22%20-file%3A%22AN4.48%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.48/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.48
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.48.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.47]]  🌐 [[AN4.49]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.47]]  🌐 [[AN4.49]] ►

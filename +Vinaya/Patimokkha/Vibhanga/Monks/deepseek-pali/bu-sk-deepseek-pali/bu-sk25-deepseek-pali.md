@@ -4,7 +4,7 @@ vin_title: "Ukkuṭika - Squatting"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK25]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK25]]
 > ◄  [[bu-sk24-deepseek-pali]] 📜  [[bu-sk26-deepseek-pali]] ►
 
 # BU-SK 25
@@ -43,5 +43,5 @@ The fourth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK25]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK25]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK25]]
 > ◄  [[bu-sk24-deepseek-pali]] 📜  [[bu-sk26-deepseek-pali]] ►

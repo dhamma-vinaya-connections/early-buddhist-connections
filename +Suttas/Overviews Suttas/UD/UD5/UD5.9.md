@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[MN128]], [[JA428]], [[PLI-TV-KD10]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.8]]  🌐 [[UD5.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.8]]  🌐 [[UD5.10]] ►
 
 # UD5.9 - Saddhayamana Sutta - Jeering
 ## 🌐 Overview
@@ -85,10 +85,10 @@ Are led on by what they don't understand.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD5.9%5D%5D%22%23mynotes%20-file%3Aud5.9-%20-file%3A%22UD5.8%22%20-file%3A%22UD5.10%22%20-file%3A%22UD5.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud5.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud5.9
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud5.9.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.8]]  🌐 [[UD5.10]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.8]]  🌐 [[UD5.10]] ►

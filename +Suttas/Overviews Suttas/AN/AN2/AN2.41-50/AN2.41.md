@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.40]]  🌐 [[AN2.42]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.40]]  🌐 [[AN2.42]] ►
 
 # AN2.41 -  - Memorizing
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.41%5D%5D%22%23mynotes%20-file%3Aan2.41-%20-file%3A%22AN2.40%22%20-file%3A%22AN2.42%22%20-file%3A%22AN2.41%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.41/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.41
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.41.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.40]]  🌐 [[AN2.42]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.40]]  🌐 [[AN2.42]] ►

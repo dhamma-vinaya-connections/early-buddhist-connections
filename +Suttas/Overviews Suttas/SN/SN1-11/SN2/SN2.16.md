@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN1.21]]"
 parallels_agama: "[[SA-2.170]], [[SA586]]"
 parallels_partilal: "[[SN1.21]], [[SA-2.170]], [[SA586]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.15]]  🌐 [[SN2.17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.15]]  🌐 [[SN2.17]] ►
 
 # SN2.16 - Vāsudattasutta - Vasudatta
 ## 🌐 Overview
@@ -86,10 +86,10 @@ That’s how you should know me, friend
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.16%5D%5D%22%23mynotes%20-file%3Asn2.16-%20-file%3A%22SN2.15%22%20-file%3A%22SN2.17%22%20-file%3A%22SN2.16%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.16
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.16.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.15]]  🌐 [[SN2.17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.15]]  🌐 [[SN2.17]] ►

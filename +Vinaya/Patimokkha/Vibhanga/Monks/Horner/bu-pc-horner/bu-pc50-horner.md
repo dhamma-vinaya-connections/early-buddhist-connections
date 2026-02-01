@@ -4,7 +4,7 @@ vin_title: "Uyyodhika - Army on Action Seeing"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
 > ◄  [[bu-pc49-horner]] 📜  [[bu-pc51-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 50
@@ -80,5 +80,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC50]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]
 > ◄  [[bu-pc49-horner]] 📜  [[bu-pc51-horner]] ►

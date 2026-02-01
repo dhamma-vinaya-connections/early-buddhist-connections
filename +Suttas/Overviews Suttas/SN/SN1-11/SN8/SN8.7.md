@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA32.5]], [[MA121]], [[SA-2.228]], [[SA1212]]"
 parallels_partilal: "[[EA32.5]], [[MA121]], [[SA-2.228]], [[SA1212]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.6]]  🌐 [[SN8.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.6]]  🌐 [[SN8.8]] ►
 
 # SN8.7 - Pavāraṇāsutta - Pavaraṇa
 ## 🌐 Overview
@@ -86,10 +86,10 @@ In the Buddha ’s teaching.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN8.7%5D%5D%22%23mynotes%20-file%3Asn8.7-%20-file%3A%22SN8.6%22%20-file%3A%22SN8.8%22%20-file%3A%22SN8.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn8.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.7
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.6]]  🌐 [[SN8.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.6]]  🌐 [[SN8.8]] ►

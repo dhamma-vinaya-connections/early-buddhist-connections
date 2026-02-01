@@ -4,7 +4,7 @@ vin_title: "Dutiyapavāraṇā - Eating More After Refusing an Invitation Encour
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
 > ◄  [[bu-pc35-deepseek-pali]] 📜  [[bu-pc37-deepseek-pali]] ►
 
 # BU-PC 36
@@ -91,5 +91,5 @@ The second training rule concerning invitation, the sixth, is finished.
 >|       |          | [[ñanatusita-analysis#^PC36]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
 > ◄  [[bu-pc35-deepseek-pali]] 📜  [[bu-pc37-deepseek-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Bhūtagāma - Plants damaging"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
 > ◄  [[bu-pc10-horner]] 📜  [[bu-pc12-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 11
@@ -83,5 +83,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC11]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]
 > ◄  [[bu-pc10-horner]] 📜  [[bu-pc12-horner]] ►

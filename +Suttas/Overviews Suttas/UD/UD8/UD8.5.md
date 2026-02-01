@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.68-70]], [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.6]]"
 parallels_agama: ""
 parallels_partilal: "[[DN16]], [[AN8.68-70]], [[DA2]], [[UD6.1]], [[UD8.6]], [[SN51.10]], [[AN10.176]], [[PE2]], [[PE8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.4]]  🌐 [[UD8.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.4]]  🌐 [[UD8.6]] ►
 
 # UD8.5 - Cunda Sutta - Cunda
 ## 🌐 Overview
@@ -94,10 +94,10 @@ is totally unbound.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD8.5%5D%5D%22%23mynotes%20-file%3Aud8.5-%20-file%3A%22UD8.4%22%20-file%3A%22UD8.6%22%20-file%3A%22UD8.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud8.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.5
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.4]]  🌐 [[UD8.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.4]]  🌐 [[UD8.6]] ►

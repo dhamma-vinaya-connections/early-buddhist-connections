@@ -4,7 +4,7 @@ vin_title: "Ukkhittasambhoga - Living With an Ejected Bhikkhu"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC69]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC69]]
 > ◄  [[bu-pc68-horner]] 📜  [[bu-pc70-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 69
@@ -71,5 +71,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC69]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC69]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC69]]
 > ◄  [[bu-pc68-horner]] 📜  [[bu-pc70-horner]] ►

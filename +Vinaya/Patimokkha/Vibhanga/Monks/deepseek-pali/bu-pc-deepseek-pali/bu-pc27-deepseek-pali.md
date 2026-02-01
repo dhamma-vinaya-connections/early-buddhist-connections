@@ -4,7 +4,7 @@ vin_title: "Saṃvidhāna - Travelling by Arrangement"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC27]]
 > ◄  [[bu-pc26-deepseek-pali]] 📜  [[bu-pc28-deepseek-pali]] ►
 
 # BU-PC 27
@@ -99,5 +99,5 @@ The seventh training rule on arrangements is finished.
 >|       |          | [[ñanatusita-analysis#^PC27]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC27]]
 > ◄  [[bu-pc26-deepseek-pali]] 📜  [[bu-pc28-deepseek-pali]] ►

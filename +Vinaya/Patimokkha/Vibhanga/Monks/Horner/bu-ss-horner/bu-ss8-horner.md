@@ -4,7 +4,7 @@ vin_title: "Duṭṭhadosa - Groundless Out of Anger"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS8]]
 > ◄  [[bu-ss7-horner]] 📜  [[bu-ss9-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 8
@@ -259,5 +259,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS8]]
 > ◄  [[bu-ss7-horner]] 📜  [[bu-ss9-horner]] ►

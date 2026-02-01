@@ -4,7 +4,7 @@ vin_title: "Pesuñña - Divisive Talebearing"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
 > ◄  [[bu-pc2-horner]] 📜  [[bu-pc4-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 3
@@ -79,5 +79,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC3]]
 > ◄  [[bu-pc2-horner]] 📜  [[bu-pc4-horner]] ►

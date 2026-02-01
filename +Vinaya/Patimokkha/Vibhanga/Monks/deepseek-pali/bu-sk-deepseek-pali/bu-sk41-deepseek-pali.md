@@ -4,7 +4,7 @@ vin_title: "Anāhaṭa - Without Bringing"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK41]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK41]]
 > ◄  [[bu-sk40-deepseek-pali]] 📜  [[bu-sk42-deepseek-pali]] ►
 
 # BU-SK 41
@@ -43,5 +43,5 @@ The ninth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK41]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK41]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK41]]
 > ◄  [[bu-sk40-deepseek-pali]] 📜  [[bu-sk42-deepseek-pali]] ►

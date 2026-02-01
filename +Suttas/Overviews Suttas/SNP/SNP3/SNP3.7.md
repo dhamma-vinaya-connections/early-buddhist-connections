@@ -38,7 +38,7 @@ parallels_nikaya: "[[MN92]]"
 parallels_agama: "[[EA49.6]]"
 parallels_partilal: "[[MN92]], [[PLI-TV-KD6]], [[EA49.6]], [[ITI100]], [[THAG16.6]], [[SNP3.6]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.6]]  🌐 [[SNP3.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.6]]  🌐 [[SNP3.8]] ►
 
 # SNP3.7 - Selasutta - With Sela
 ## 🌐 Overview
@@ -91,10 +91,10 @@ Therefore, I’m awakened, brahman.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP3.7%5D%5D%22%23mynotes%20-file%3Asnp3.7-%20-file%3A%22SNP3.6%22%20-file%3A%22SNP3.8%22%20-file%3A%22SNP3.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp3.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.7
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.7.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.6]]  🌐 [[SNP3.8]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.6]]  🌐 [[SNP3.8]] ►

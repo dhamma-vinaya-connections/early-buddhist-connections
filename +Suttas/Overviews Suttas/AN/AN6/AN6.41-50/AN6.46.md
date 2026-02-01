@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.45]]  🌐 [[AN6.47]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.45]]  🌐 [[AN6.47]] ►
 
 # AN6.46 - Cunda - Cunda
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.46%5D%5D%22%23mynotes%20-file%3Aan6.46-%20-file%3A%22AN6.45%22%20-file%3A%22AN6.47%22%20-file%3A%22AN6.46%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.46/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.46
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.46.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.45]]  🌐 [[AN6.47]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.45]]  🌐 [[AN6.47]] ►

@@ -4,7 +4,7 @@ vin_title: "Ukkoṭana - Legal Issue Reopening"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC63]]
 > ◄  [[bu-pc62-horner]] 📜  [[bu-pc64-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 63
@@ -67,5 +67,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC63]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC63]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC63]]
 > ◄  [[bu-pc62-horner]] 📜  [[bu-pc64-horner]] ►

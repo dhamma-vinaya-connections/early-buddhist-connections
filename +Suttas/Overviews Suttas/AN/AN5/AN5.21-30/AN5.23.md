@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN3.101]], [[SN46.33]]"
 parallels_agama: "[[SA1246]]"
 parallels_partilal: "[[SN46.33]], [[AN3.101]], [[SA1246]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.22]]  🌐 [[AN5.24]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.22]]  🌐 [[AN5.24]] ►
 
 # AN5.23 - Upakkilesa - Corruptions
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[SN46.33]], [[AN3.101]], [[SA1246]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.23%5D%5D%22%23mynotes%20-file%3Aan5.23-%20-file%3A%22AN5.22%22%20-file%3A%22AN5.24%22%20-file%3A%22AN5.23%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.23/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.23
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.23.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.22]]  🌐 [[AN5.24]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.22]]  🌐 [[AN5.24]] ►

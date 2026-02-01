@@ -4,7 +4,7 @@ vin_title: "Sūcighara - Needle Cases"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC86]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC86]]
 > ◄  [[bu-pc85-horner]] 📜  [[bu-pc87-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 86
@@ -59,5 +59,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC86]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC86]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC86]]
 > ◄  [[bu-pc85-horner]] 📜  [[bu-pc87-horner]] ►

@@ -4,7 +4,7 @@ vin_title: "Paripuṇṇavīsativassa-asikkhita-kumāribhūta - Ordaining Untrai
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC72]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC72]]
 > ◄  [[bni-pc71-horner]] 📜  [[bni-pc73-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 72
@@ -47,5 +47,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC72]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC72]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC72]]
 > ◄  [[bni-pc71-horner]] 📜  [[bni-pc73-horner]] ►

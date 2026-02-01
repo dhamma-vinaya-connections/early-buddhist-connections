@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI10-13]]  🌐 [[ITI15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI10-13]]  🌐 [[ITI15]] ►
 
 # ITI14 - Avijjānīvaraṇasutta - Hindrance of ignorance
 ## 🌐 Overview
@@ -84,10 +84,10 @@ lives the mendicant life.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI14%5D%5D%22%23mynotes%20-file%3Aiti14-%20-file%3A%22ITI10-13%22%20-file%3A%22ITI15%22%20-file%3A%22ITI14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti14
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI10-13]]  🌐 [[ITI15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI10-13]]  🌐 [[ITI15]] ►

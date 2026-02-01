@@ -4,7 +4,7 @@ vin_title: "Vikālagāmappavisana - Entering a Village at the Wrong Time"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
 > ◄  [[bu-pc84-horner]] 📜  [[bu-pc86-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 85
@@ -99,5 +99,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC85]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC85]]
 > ◄  [[bu-pc84-horner]] 📜  [[bu-pc86-horner]] ►

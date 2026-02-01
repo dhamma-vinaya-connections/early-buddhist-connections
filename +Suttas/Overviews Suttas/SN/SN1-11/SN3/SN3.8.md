@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[UD5.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.7]]  🌐 [[SN3.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.7]]  🌐 [[SN3.9]] ►
 
 # SN3.8 - Mallikāsutta - Mallika
 ## 🌐 Overview
@@ -83,10 +83,10 @@ One finds no-one dearer than oneself.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.8%5D%5D%22%23mynotes%20-file%3Asn3.8-%20-file%3A%22SN3.7%22%20-file%3A%22SN3.9%22%20-file%3A%22SN3.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.7]]  🌐 [[SN3.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.7]]  🌐 [[SN3.9]] ►

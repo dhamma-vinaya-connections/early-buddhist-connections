@@ -4,7 +4,7 @@ vin_title: "Bhūtārocana - Disclose Attainment"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
 > ◄  [[bu-pc7-horner]] 📜  [[bu-pc9-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 8
@@ -187,5 +187,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC8]]
 > ◄  [[bu-pc7-horner]] 📜  [[bu-pc9-horner]] ►

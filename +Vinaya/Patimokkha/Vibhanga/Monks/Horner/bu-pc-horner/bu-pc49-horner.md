@@ -4,7 +4,7 @@ vin_title: "Senāvāsa - Army Staying"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
 > ◄  [[bu-pc48-horner]] 📜  [[bu-pc50-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 49
@@ -65,5 +65,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC49]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]
 > ◄  [[bu-pc48-horner]] 📜  [[bu-pc50-horner]] ►

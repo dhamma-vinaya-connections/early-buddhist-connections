@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[JA428]], [[MN128]], [[PLI-TV-KD10]], [[THAG4.3]], [[THAG8.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP5]]  🌐 [[DHP7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP5]]  🌐 [[DHP7]] ►
 
 # DHP6 - Paṇḍitavagga - Astute
 ## 🌐 Overview
@@ -95,10 +95,10 @@ Good people give up everything
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP6%5D%5D%22%23mynotes%20-file%3Adhp6-%20-file%3A%22DHP5%22%20-file%3A%22DHP7%22%20-file%3A%22DHP6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp6
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP5]]  🌐 [[DHP7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP5]]  🌐 [[DHP7]] ►

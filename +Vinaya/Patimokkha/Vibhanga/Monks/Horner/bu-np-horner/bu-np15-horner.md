@@ -4,7 +4,7 @@ vin_title: "Nisīdanasanthata - Sitting Blanket"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
 > ◄  [[bu-np14-horner]] 📜  [[bu-np16-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 15
@@ -95,5 +95,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP15]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
 > ◄  [[bu-np14-horner]] 📜  [[bu-np16-horner]] ►

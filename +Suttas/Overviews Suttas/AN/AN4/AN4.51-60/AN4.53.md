@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.52]]  🌐 [[AN4.54]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.52]]  🌐 [[AN4.54]] ►
 
 # AN4.53 - Saṃvāsa - Living Together
 ## 🌐 Overview
@@ -81,10 +81,10 @@ Disciplined, living properly,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.53%5D%5D%22%23mynotes%20-file%3Aan4.53-%20-file%3A%22AN4.52%22%20-file%3A%22AN4.54%22%20-file%3A%22AN4.53%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.53/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.53
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.53.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.52]]  🌐 [[AN4.54]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.52]]  🌐 [[AN4.54]] ►

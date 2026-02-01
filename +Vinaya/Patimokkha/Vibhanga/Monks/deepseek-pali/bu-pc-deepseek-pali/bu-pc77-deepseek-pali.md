@@ -4,7 +4,7 @@ vin_title: "Sañcicca - Anxiety Making"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC77]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC77]]
 > ◄  [[bu-pc76-deepseek-pali]] 📜  [[bu-pc78-deepseek-pali]] ►
 
 # BU-PC 77
@@ -71,5 +71,5 @@ The Training Rule on Intentionally Causing Anxiety, the seventh, is concluded.
 >|       |          | [[ñanatusita-analysis#^PC77]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC77]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC77]]
 > ◄  [[bu-pc76-deepseek-pali]] 📜  [[bu-pc78-deepseek-pali]] ►

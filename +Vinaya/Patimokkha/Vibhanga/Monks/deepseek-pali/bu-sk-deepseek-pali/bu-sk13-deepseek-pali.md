@@ -4,7 +4,7 @@ vin_title: "Appasadda - Not Noisy"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK13]]
 > ◄  [[bu-sk12-deepseek-pali]] 📜  [[bu-sk14-deepseek-pali]] ►
 
 # BU-SK 13
@@ -43,5 +43,5 @@ The second training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK13]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK13]]
 > ◄  [[bu-sk12-deepseek-pali]] 📜  [[bu-sk14-deepseek-pali]] ►

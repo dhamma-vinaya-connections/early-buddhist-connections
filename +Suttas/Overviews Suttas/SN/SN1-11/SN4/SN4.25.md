@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.31]], [[SA1092]]"
 parallels_partilal: "[[AN10.26]], [[SA-2.31]], [[SA1092]], [[PLI-TV-KD1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.24]]  🌐 [[SN5.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.24]]  🌐 [[SN5.1]] ►
 
 # SN4.25 - Māradhītusutta - Māra's Daughters
 ## 🌐 Overview
@@ -86,10 +86,10 @@ He does not erupt, or drift, or stiffen
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.25%5D%5D%22%23mynotes%20-file%3Asn4.25-%20-file%3A%22SN4.24%22%20-file%3A%22SN5.1%22%20-file%3A%22SN4.25%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.25
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.25.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.24]]  🌐 [[SN5.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.24]]  🌐 [[SN5.1]] ►

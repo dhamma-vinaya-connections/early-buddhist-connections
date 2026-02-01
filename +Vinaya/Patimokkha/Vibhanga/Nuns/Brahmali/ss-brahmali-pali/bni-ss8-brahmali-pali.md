@@ -4,7 +4,7 @@ vin_title: "Duṭṭhadosa - Groundless Out of Anger"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS8]]
 > ◄  [[bni-ss7-brahmali-pali]] 📜  [[bni-ss9-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -528,5 +528,5 @@ Vigarahi buddho bhagavā … pe … "Kathañhi nāma tumhe, moghapurisā, dabba�
 >|       |          | [[ñanatusita-analysis#^-SS8]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS8]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS8]]
 > ◄  [[bni-ss7-brahmali-pali]] 📜  [[bni-ss9-brahmali-pali]] ►

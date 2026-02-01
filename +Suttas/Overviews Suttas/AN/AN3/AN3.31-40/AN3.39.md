@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN5.57]]"
 parallels_agama: "[[EA22.8]], [[MA117]]"
 parallels_partilal: "[[MA117]], [[EA22.8]], [[AN5.57]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.38]]  🌐 [[AN3.40]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.38]]  🌐 [[AN3.40]] ►
 
 # AN3.39 - Sukhumāla - Delicate Lifestyle
 ## 🌐 Overview
@@ -86,10 +86,10 @@ As I looked to extinguishment
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.39%5D%5D%22%23mynotes%20-file%3Aan3.39-%20-file%3A%22AN3.38%22%20-file%3A%22AN3.40%22%20-file%3A%22AN3.39%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.39/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.39
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.39.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.38]]  🌐 [[AN3.40]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.38]]  🌐 [[AN3.40]] ►

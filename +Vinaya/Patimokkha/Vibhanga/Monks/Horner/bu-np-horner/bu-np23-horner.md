@@ -4,7 +4,7 @@ vin_title: "Bhesajja - Tonics Five"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
 > ◄  [[bu-np22-horner]] 📜  [[bu-np24-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 23
@@ -119,5 +119,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP23]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
 > ◄  [[bu-np22-horner]] 📜  [[bu-np24-horner]] ►

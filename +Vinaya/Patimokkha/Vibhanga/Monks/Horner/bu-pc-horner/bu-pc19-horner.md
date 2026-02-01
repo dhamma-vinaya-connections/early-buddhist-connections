@@ -4,7 +4,7 @@ vin_title: "Mahallakavihāra - Dwelling Construction"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC19]]
 > ◄  [[bu-pc18-horner]] 📜  [[bu-pc20-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 19
@@ -73,5 +73,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC19]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC19]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC19]]
 > ◄  [[bu-pc18-horner]] 📜  [[bu-pc20-horner]] ►

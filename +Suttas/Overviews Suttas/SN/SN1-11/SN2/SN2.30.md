@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.307]], [[SA1308]]"
 parallels_partilal: "[[SA-2.307]], [[SA1308]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.29]]  🌐 [[SN3.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.29]]  🌐 [[SN3.1]] ►
 
 # SN2.30 - Nānātitthiyasāvaka - Various Sectarians
 ## 🌐 Overview
@@ -89,10 +89,10 @@ The Buddha  is declared supreme
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.30%5D%5D%22%23mynotes%20-file%3Asn2.30-%20-file%3A%22SN2.29%22%20-file%3A%22SN3.1%22%20-file%3A%22SN2.30%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.30/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.30
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.30.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.29]]  🌐 [[SN3.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.29]]  🌐 [[SN3.1]] ►

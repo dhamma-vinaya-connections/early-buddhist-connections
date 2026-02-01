@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN7.33]], [[DHP32]]"
 parallels_agama: ""
 parallels_partilal: "[[AN7.33]], [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.32]]  🌐 [[AN6.34]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.32]]  🌐 [[AN6.34]] ►
 
 # AN6.33 - Aparihāna - Non-Decline
 ## 🌐 Overview
@@ -85,10 +85,10 @@ And has drawn near to extinguishmen
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.33%5D%5D%22%23mynotes%20-file%3Aan6.33-%20-file%3A%22AN6.32%22%20-file%3A%22AN6.34%22%20-file%3A%22AN6.33%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.33/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.33
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.33.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.32]]  🌐 [[AN6.34]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.32]]  🌐 [[AN6.34]] ►

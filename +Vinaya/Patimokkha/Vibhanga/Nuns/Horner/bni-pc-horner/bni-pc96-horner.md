@@ -4,7 +4,7 @@ vin_title: "Saṁkakṣikā - Chest Wraps"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC96]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC96]]
 > ◄  [[bni-pc95-horner]] 📜  [[BNI-PC97]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 96
@@ -61,5 +61,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC96]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC96]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC96]]
 > ◄  [[bni-pc95-horner]] 📜  [[BNI-PC97]] ►

@@ -41,7 +41,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.13]]  🌐 [[SNP3.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.13]]  🌐 [[SNP3.1]] ►
 
 # SNP2.14 - Dhammika - With Dhammika
 ## 🌐 Overview
@@ -90,10 +90,10 @@ We don’t praise those of limited discernment.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP2.14%5D%5D%22%23mynotes%20-file%3Asnp2.14-%20-file%3A%22SNP2.13%22%20-file%3A%22SNP3.1%22%20-file%3A%22SNP2.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp2.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.14
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.13]]  🌐 [[SNP3.1]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.13]]  🌐 [[SNP3.1]] ►

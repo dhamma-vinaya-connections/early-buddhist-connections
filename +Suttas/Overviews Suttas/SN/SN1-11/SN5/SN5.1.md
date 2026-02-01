@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.214]], [[SA1198]]"
 parallels_partilal: "[[SA-2.214]], [[SA1198]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.25]]  🌐 [[SN5.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.25]]  🌐 [[SN5.2]] ►
 
 # SN5.1 - Āḷavikāsutta - Āḷavikā
 ## 🌐 Overview
@@ -91,10 +91,10 @@ I’m free from all bonds,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN5.1%5D%5D%22%23mynotes%20-file%3Asn5.1-%20-file%3A%22SN4.25%22%20-file%3A%22SN5.2%22%20-file%3A%22SN5.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn5.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.25]]  🌐 [[SN5.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.25]]  🌐 [[SN5.2]] ►

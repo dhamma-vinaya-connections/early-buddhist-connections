@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[MN152]]  🌐 [[PDHP2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[MN152]]  🌐 [[PDHP2]] ►
 
 # PDHP1 - Jamavarggaḥ - Pairs
 ## 🌐 Overview
@@ -90,10 +90,10 @@ their hatred is never appeased.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BPDHP1%5D%5D%22%23mynotes%20-file%3Apdhp1-%20-file%3A%22MN152%22%20-file%3A%22PDHP2%22%20-file%3A%22PDHP1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pdhp1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp1
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[MN152]]  🌐 [[PDHP2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[MN152]]  🌐 [[PDHP2]] ►

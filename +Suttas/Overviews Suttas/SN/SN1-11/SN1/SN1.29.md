@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN2.28]]"
 parallels_agama: "[[SA-2.172]], [[SA588]]"
 parallels_partilal: "[[SA-2.172]], [[SA588]], [[SN2.28]], [[PE5]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.28]]  🌐 [[SN1.30]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.28]]  🌐 [[SN1.30]] ►
 
 # SN1.29 - Catucakkasutta - Four Wheels
 ## 🌐 Overview
@@ -82,10 +82,10 @@ You’re released from all suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.29%5D%5D%22%23mynotes%20-file%3Asn1.29-%20-file%3A%22SN1.28%22%20-file%3A%22SN1.30%22%20-file%3A%22SN1.29%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.29/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.29
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.29.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.28]]  🌐 [[SN1.30]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.28]]  🌐 [[SN1.30]] ►

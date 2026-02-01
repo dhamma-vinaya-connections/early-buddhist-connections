@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.49]]  🌐 [[AN9.51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.49]]  🌐 [[AN9.51]] ►
 
 # AN9.50 - Sandiṭṭhikanibbāna - Nibbana Is Visible In This Very Life
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN9.50%5D%5D%22%23mynotes%20-file%3Aan9.50-%20-file%3A%22AN9.49%22%20-file%3A%22AN9.51%22%20-file%3A%22AN9.50%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an9.50/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.50
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.50.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.49]]  🌐 [[AN9.51]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.49]]  🌐 [[AN9.51]] ►

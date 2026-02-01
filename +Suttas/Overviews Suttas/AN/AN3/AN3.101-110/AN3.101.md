@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN46.33]]"
 parallels_agama: "[[SA1246]]"
 parallels_partilal: "[[SN46.33]], [[AN5.23]], [[SA1246]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.100]]  🌐 [[AN3.102]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.100]]  🌐 [[AN3.102]] ►
 
 # AN3.101 - Paṃsudhovaka - Dirt Washer
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[SN46.33]], [[AN5.23]], [[SA1246]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.101%5D%5D%22%23mynotes%20-file%3Aan3.101-%20-file%3A%22AN3.100%22%20-file%3A%22AN3.102%22%20-file%3A%22AN3.101%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.101/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.101
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.101.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.100]]  🌐 [[AN3.102]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.100]]  🌐 [[AN3.102]] ►

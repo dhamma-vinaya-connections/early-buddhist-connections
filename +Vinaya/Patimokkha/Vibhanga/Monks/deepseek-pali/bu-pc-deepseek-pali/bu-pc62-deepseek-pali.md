@@ -4,7 +4,7 @@ vin_title: "Sappāṇaka - Water Living Creatures Pouring"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
 > ◄  [[bu-pc61-deepseek-pali]] 📜  [[bu-pc63-deepseek-pali]] ►
 
 # BU-PC 62
@@ -55,5 +55,5 @@ The second training rule on water containing living beings is finished.
 >|       |          | [[ñanatusita-analysis#^PC62]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]
 > ◄  [[bu-pc61-deepseek-pali]] 📜  [[bu-pc63-deepseek-pali]] ►

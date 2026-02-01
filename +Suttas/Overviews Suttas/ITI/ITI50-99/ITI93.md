@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI92]]  🌐 [[ITI94]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI92]]  🌐 [[ITI94]] ►
 
 # ITI93 - Aggi - Fires
 ## 🌐 Overview
@@ -86,10 +86,10 @@ unreleased from Māra’s shackles,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI93%5D%5D%22%23mynotes%20-file%3Aiti93-%20-file%3A%22ITI92%22%20-file%3A%22ITI94%22%20-file%3A%22ITI93%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti93/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti93
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti93.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI92]]  🌐 [[ITI94]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI92]]  🌐 [[ITI94]] ►

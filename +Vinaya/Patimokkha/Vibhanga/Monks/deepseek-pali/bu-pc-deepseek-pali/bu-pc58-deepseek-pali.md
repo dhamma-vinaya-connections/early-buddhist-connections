@@ -4,7 +4,7 @@ vin_title: "Dubbaṇṇakaraṇa - Stains Making"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC58]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC58]]
 > ◄  [[bu-pc57-deepseek-pali]] 📜  [[bu-pc59-deepseek-pali]] ►
 
 # BU-PC 58
@@ -79,5 +79,5 @@ The eighth training rule on discolouring is finished.
 >|       |          | [[ñanatusita-analysis#^PC58]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC58]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC58]]
 > ◄  [[bu-pc57-deepseek-pali]] 📜  [[bu-pc59-deepseek-pali]] ►

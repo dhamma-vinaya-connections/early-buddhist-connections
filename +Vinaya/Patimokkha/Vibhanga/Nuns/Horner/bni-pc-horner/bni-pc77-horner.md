@@ -4,7 +4,7 @@ vin_title: "Cīvaradāna-sikkhamānana-vuṭṭhāpana - Not Ordaining Trainees 
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC77]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC77]]
 > ◄  [[bni-pc76-horner]] 📜  [[bni-pc78-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 77
@@ -61,5 +61,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC77]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC77]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC77]]
 > ◄  [[bni-pc76-horner]] 📜  [[bni-pc78-horner]] ►

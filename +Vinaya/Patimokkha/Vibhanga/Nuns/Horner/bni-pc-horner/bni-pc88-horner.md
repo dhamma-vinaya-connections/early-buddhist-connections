@@ -4,7 +4,7 @@ vin_title: "Gandhavaṇṇaka - Scents and Colors"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC88]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC88]]
 > ◄  [[bni-pc87-horner]] 📜  [[bni-pc89-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 88
@@ -47,5 +47,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC88]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC88]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC88]]
 > ◄  [[bni-pc87-horner]] 📜  [[bni-pc89-horner]] ►

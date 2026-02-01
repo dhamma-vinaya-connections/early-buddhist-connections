@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN46.40]]"
 parallels_agama: "[[SA706]]"
 parallels_partilal: "[[SN46.40]], [[SA706]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI86]]  🌐 [[ITI88]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI86]]  🌐 [[ITI88]] ►
 
 # ITI87 - Andhakaraṇa - Destroyers of Sight
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[SN46.40]], [[SA706]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI87%5D%5D%22%23mynotes%20-file%3Aiti87-%20-file%3A%22ITI86%22%20-file%3A%22ITI88%22%20-file%3A%22ITI87%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti87/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti87
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti87.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI86]]  🌐 [[ITI88]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI86]]  🌐 [[ITI88]] ►

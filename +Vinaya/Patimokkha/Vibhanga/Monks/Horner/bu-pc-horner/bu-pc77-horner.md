@@ -4,7 +4,7 @@ vin_title: "Sañcicca - Anxiety Making"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC77]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC77]]
 > ◄  [[bu-pc76-horner]] 📜  [[bu-pc78-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 77
@@ -67,5 +67,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC77]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC77]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC77]]
 > ◄  [[bu-pc76-horner]] 📜  [[bu-pc78-horner]] ►

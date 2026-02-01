@@ -38,7 +38,7 @@ parallels_nikaya: "[[SN22.101]]"
 parallels_agama: "[[SA263]]"
 parallels_partilal: "[[SN22.101]], [[SA263]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.70]]  🌐 [[AN7.72]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.70]]  🌐 [[AN7.72]] ►
 
 # AN7.71 - Bhāvanā - Development Commitment
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[SN22.101]], [[SA263]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.71%5D%5D%22%23mynotes%20-file%3Aan7.71-%20-file%3A%22AN7.70%22%20-file%3A%22AN7.72%22%20-file%3A%22AN7.71%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.71/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.71
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.71.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.70]]  🌐 [[AN7.72]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.70]]  🌐 [[AN7.72]] ►

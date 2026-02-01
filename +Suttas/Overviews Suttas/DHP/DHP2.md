@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[EA52.7]], [[PE2]], [[PE8]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP1]]  🌐 [[DHP3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP1]]  🌐 [[DHP3]] ►
 
 # DHP2 - Appamādavagga - Diligence
 ## 🌐 Overview
@@ -89,10 +89,10 @@ burning up fetters big and small
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP2%5D%5D%22%23mynotes%20-file%3Adhp2-%20-file%3A%22DHP1%22%20-file%3A%22DHP3%22%20-file%3A%22DHP2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp2
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp2.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP1]]  🌐 [[DHP3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP1]]  🌐 [[DHP3]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.143]]  🌐 [[AN2.145]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.143]]  🌐 [[AN2.145]] ►
 
 # AN2.144 - Santhāra - Welcome
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.144%5D%5D%22%23mynotes%20-file%3Aan2.144-%20-file%3A%22AN2.143%22%20-file%3A%22AN2.145%22%20-file%3A%22AN2.144%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.144/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.144
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.144.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.143]]  🌐 [[AN2.145]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.143]]  🌐 [[AN2.145]] ►

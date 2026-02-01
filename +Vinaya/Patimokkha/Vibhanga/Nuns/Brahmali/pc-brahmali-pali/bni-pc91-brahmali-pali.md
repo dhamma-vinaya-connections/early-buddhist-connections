@@ -4,7 +4,7 @@ vin_title: "Sikkhamānā-ummaddāpana - Getting Trainees to Massage"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC91]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC91]]
 > ◄  [[bni-pc90-brahmali-pali]] 📜  [[bni-pc92-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -104,5 +104,5 @@ p_2V_3500Aṭṭhama-navama-dasamasikkhāpadāni niṭṭhitāni.
 >|       |          | [[ñanatusita-analysis#^-PC91]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC91]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC91]]
 > ◄  [[bni-pc90-brahmali-pali]] 📜  [[bni-pc92-brahmali-pali]] ►

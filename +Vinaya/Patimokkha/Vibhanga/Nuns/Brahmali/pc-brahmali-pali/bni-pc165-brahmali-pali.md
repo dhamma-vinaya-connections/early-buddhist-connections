@@ -4,7 +4,7 @@ vin_title: "Kaṇḍuppaṭicchādi - Bandage"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC165]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC165]]
 > ◄  [[bni-pc164-brahmali-pali]] 📜  [[bni-pc166-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -94,5 +94,5 @@ Kathañhi nāma tumhe, moghapurisā, appamāṇikāyo kaṇḍuppaṭicchādiyo 
 >|       |          | [[ñanatusita-analysis#^-PC165]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC165]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC165]]
 > ◄  [[bni-pc164-brahmali-pali]] 📜  [[bni-pc166-brahmali-pali]] ►

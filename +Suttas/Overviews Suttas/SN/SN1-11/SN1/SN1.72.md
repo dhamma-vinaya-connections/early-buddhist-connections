@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.249]], [[SA1022]]"
 parallels_partilal: "[[SA-2.249]], [[SA1022]], [[JA547]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.71]]  🌐 [[SN1.73]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.71]]  🌐 [[SN1.73]] ►
 
 # SN1.72 - Rathasutta - Chariot
 ## 🌐 Overview
@@ -86,10 +86,10 @@ The most excellent of speakers is the Buddha .
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.72%5D%5D%22%23mynotes%20-file%3Asn1.72-%20-file%3A%22SN1.71%22%20-file%3A%22SN1.73%22%20-file%3A%22SN1.72%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.72/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.72
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.72.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.71]]  🌐 [[SN1.73]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.71]]  🌐 [[SN1.73]] ►

@@ -4,7 +4,7 @@ vin_title: "Patta - Bowl Extra"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
 > ◄  [[bu-np20-brahmali-pali]] 📜  [[bu-np22-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -202,5 +202,5 @@ Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṁ pācittiyaṁ. Avikappite
 >|       |          | [[ñanatusita-analysis#^NP21]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]
 > ◄  [[bu-np20-brahmali-pali]] 📜  [[bu-np22-brahmali-pali]] ►

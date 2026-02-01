@@ -4,7 +4,7 @@ vin_title: "Aññātakaviññatti - Robe Asking to Unrelated People"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
 > ◄  [[bu-np5-horner]] 📜  [[bu-np7-horner]] ►
 
 # Monks’ Forfeiture (_Nissaggiya_) 6
@@ -123,5 +123,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^NP6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]
 > ◄  [[bu-np5-horner]] 📜  [[bu-np7-horner]] ►

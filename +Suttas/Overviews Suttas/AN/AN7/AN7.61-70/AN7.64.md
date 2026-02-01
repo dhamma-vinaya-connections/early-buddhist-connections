@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA129]]"
 parallels_partilal: "[[MA129]], [[ITI88]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.63]]  🌐 [[AN7.65]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.63]]  🌐 [[AN7.65]] ►
 
 # AN7.64 - Kodhana - Angry Person
 ## 🌐 Overview
@@ -83,10 +83,10 @@ He suffers as if burned with fire
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.64%5D%5D%22%23mynotes%20-file%3Aan7.64-%20-file%3A%22AN7.63%22%20-file%3A%22AN7.65%22%20-file%3A%22AN7.64%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.64/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.64
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.64.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.63]]  🌐 [[AN7.65]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.63]]  🌐 [[AN7.65]] ►

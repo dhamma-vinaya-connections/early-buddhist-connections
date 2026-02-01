@@ -4,7 +4,7 @@ vin_title: "Dvittipattapūrapaṭiggahaṇa - Accepting Two or Three Bowls Full"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
 > ◄  [[bu-pc33-horner]] 📜  [[bu-pc35-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 34
@@ -85,5 +85,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC34]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC34]]
 > ◄  [[bu-pc33-horner]] 📜  [[bu-pc35-horner]] ►

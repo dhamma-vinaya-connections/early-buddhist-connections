@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.54]]  🌐 [[AN1.56]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.54]]  🌐 [[AN1.56]] ►
 
 # AN1.55 - Accharāsaṅghāta - Finger Snap
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.55%5D%5D%22%23mynotes%20-file%3Aan1.55-%20-file%3A%22AN1.54%22%20-file%3A%22AN1.56%22%20-file%3A%22AN1.55%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.55/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.55
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.55.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.54]]  🌐 [[AN1.56]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.54]]  🌐 [[AN1.56]] ►

@@ -4,7 +4,7 @@ vin_title: "Kathina - Robe Making Season"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
 > ◄  [[BU-AN2]] 📜  [[bu-np2-deepseek-pali]] ►
 
 # BU-NP 1
@@ -115,5 +115,5 @@ The first training rule concerning the Kathina is concluded.
 >|       |          | [[ñanatusita-analysis#^NP1]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP1]]
 > ◄  [[BU-AN2]] 📜  [[bu-np2-deepseek-pali]] ►

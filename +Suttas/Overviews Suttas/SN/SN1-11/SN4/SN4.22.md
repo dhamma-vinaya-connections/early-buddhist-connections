@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA1100]]"
 parallels_partilal: "[[SA1100]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.21]]  🌐 [[SN4.23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.21]]  🌐 [[SN4.23]] ►
 
 # SN4.22 - Samiddhisutta - Samiddhi
 ## 🌐 Overview
@@ -91,10 +91,10 @@ But you will never make me tremble.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.22%5D%5D%22%23mynotes%20-file%3Asn4.22-%20-file%3A%22SN4.21%22%20-file%3A%22SN4.23%22%20-file%3A%22SN4.22%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.22/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.22
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.22.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.21]]  🌐 [[SN4.23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.21]]  🌐 [[SN4.23]] ►

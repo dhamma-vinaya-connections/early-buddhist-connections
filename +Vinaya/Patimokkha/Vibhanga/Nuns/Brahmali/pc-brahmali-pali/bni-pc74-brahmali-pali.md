@@ -4,7 +4,7 @@ vin_title: "Ūnadvādasavassa - Under Twelve Years of Seniority"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC74]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC74]]
 > ◄  [[bni-pc73-brahmali-pali]] 📜  [[bni-pc75-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -92,5 +92,5 @@ p_2V_3338Catutthasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC74]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC74]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC74]]
 > ◄  [[bni-pc73-brahmali-pali]] 📜  [[bni-pc75-brahmali-pali]] ►

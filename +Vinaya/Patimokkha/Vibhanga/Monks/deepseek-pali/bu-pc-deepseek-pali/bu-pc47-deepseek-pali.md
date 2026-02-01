@@ -4,7 +4,7 @@ vin_title: "Catumāsappaccayapavāraṇā - Invitation for Four Months"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
 > ◄  [[bu-pc46-deepseek-pali]] 📜  [[bu-pc48-deepseek-pali]] ►
 
 # BU-PC 47
@@ -91,5 +91,5 @@ The seventh training rule concerning Mahānāma is concluded.
 >|       |          | [[ñanatusita-analysis#^PC47]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC47]]
 > ◄  [[bu-pc46-deepseek-pali]] 📜  [[bu-pc48-deepseek-pali]] ►

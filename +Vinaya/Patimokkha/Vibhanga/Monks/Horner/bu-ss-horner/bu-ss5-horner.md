@@ -4,7 +4,7 @@ vin_title: "Sañcaritta - Matchmaking"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
 > ◄  [[bu-ss4-horner]] 📜  [[bu-ss6-horner]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 5
@@ -368,5 +368,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS5]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]
 > ◄  [[bu-ss4-horner]] 📜  [[bu-ss6-horner]] ►

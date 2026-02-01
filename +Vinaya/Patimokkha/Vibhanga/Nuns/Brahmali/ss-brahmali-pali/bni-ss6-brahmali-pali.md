@@ -4,7 +4,7 @@ vin_title: "Kiṁteavassutovāanavassutovā - Encouraging Receiving Food with Lu
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS6]]
 > ◄  [[bni-ss5-brahmali-pali]] 📜  [[bni-ss7-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -132,5 +132,5 @@ Kathañhi nāma, bhikkhave, bhikkhunī evaṁ vakkhati— ‘kiṁ te, ayye, eso
 >|       |          | [[ñanatusita-analysis#^-SS6]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS6]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS6]]
 > ◄  [[bni-ss5-brahmali-pali]] 📜  [[bni-ss7-brahmali-pali]] ►

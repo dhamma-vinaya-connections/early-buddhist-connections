@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.1]]  🌐 [[SN4.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.1]]  🌐 [[SN4.3]] ►
 
 # SN4.2 - Hatthirājavaṇṇasutta - The King Elephant
 ## 🌐 Overview
@@ -84,10 +84,10 @@ Don’t fall under Māra’s sway
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.2%5D%5D%22%23mynotes%20-file%3Asn4.2-%20-file%3A%22SN4.1%22%20-file%3A%22SN4.3%22%20-file%3A%22SN4.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.2
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.2.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.1]]  🌐 [[SN4.3]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.1]]  🌐 [[SN4.3]] ►

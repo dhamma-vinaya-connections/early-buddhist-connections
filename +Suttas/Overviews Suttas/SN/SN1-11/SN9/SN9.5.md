@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.361]], [[SA1341]]"
 parallels_partilal: "[[SA-2.361]], [[SA1341]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.4]]  🌐 [[SN9.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.4]]  🌐 [[SN9.6]] ►
 
 # SN9.5 - Ānandasutta - Ānanda
 ## 🌐 Overview
@@ -85,10 +85,10 @@ Practice absorption, gotama, don’t be negligent
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.5%5D%5D%22%23mynotes%20-file%3Asn9.5-%20-file%3A%22SN9.4%22%20-file%3A%22SN9.6%22%20-file%3A%22SN9.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.5
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.5.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.4]]  🌐 [[SN9.6]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.4]]  🌐 [[SN9.6]] ►

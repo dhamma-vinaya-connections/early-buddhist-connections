@@ -4,7 +4,7 @@ vin_title: "Ekattharaṇatuvaṭṭana - Lying on the Same Sheet"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC32]]
 > ◄  [[bni-pc31-horner]] 📜  [[bni-pc33-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 32
@@ -49,5 +49,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC32]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC32]]
 > ◄  [[bni-pc31-horner]] 📜  [[bni-pc33-horner]] ►

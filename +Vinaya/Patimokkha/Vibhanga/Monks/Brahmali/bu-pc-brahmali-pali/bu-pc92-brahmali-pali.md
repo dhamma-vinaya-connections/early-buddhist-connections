@@ -4,7 +4,7 @@ vin_title: "Sugatacīvara - Robes Size"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC92]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC92]]
 > ◄  [[bu-pc91-brahmali-pali]] 📜  [[BU-PD1]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -132,5 +132,5 @@ Pācittiyakaṇḍaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^PC92]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC92]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC92]]
 > ◄  [[bu-pc91-brahmali-pali]] 📜  [[BU-PD1]] ►

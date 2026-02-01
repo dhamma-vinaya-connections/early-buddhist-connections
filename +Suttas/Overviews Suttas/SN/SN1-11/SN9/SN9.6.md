@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.356]], [[SA1336]]"
 parallels_partilal: "[[SA-2.356]], [[SA1336]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.5]]  🌐 [[SN9.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.5]]  🌐 [[SN9.7]] ►
 
 # SN9.6 - Anuruddhasutta - Anuruddha
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Who are attached to divine maidens
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.6%5D%5D%22%23mynotes%20-file%3Asn9.6-%20-file%3A%22SN9.5%22%20-file%3A%22SN9.7%22%20-file%3A%22SN9.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.6
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.6.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.5]]  🌐 [[SN9.7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.5]]  🌐 [[SN9.7]] ►

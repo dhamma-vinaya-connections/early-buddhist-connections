@@ -4,7 +4,7 @@ vin_title: "Rūpiya - Money"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP18]]
 > ◄  [[bu-np17-deepseek-pali]] 📜  [[bu-np19-deepseek-pali]] ►
 
 # BU-NP 18
@@ -99,5 +99,5 @@ The eighth training rule, concerning money, is concluded.
 >|       |          | [[ñanatusita-analysis#^NP18]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP18]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP18]]
 > ◄  [[bu-np17-deepseek-pali]] 📜  [[bu-np19-deepseek-pali]] ►

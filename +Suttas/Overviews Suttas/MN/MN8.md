@@ -40,7 +40,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA47.9]]; [[MA91]]"
 parallels_partilal: "[[MA91]]; [[EA47.9]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN7]]  🌐 [[MN9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN7]]  🌐 [[MN9]] ►
 
 # MN8 - Sallekha Sutta - Self-Effacement
 ## 🌐 Overview
@@ -87,10 +87,10 @@ parallels_partilal: "[[MA91]]; [[EA47.9]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN8%5D%5D%22%23mynotes%20-file%3Amn8-%20-file%3A%22MN7%22%20-file%3A%22MN9%22%20-file%3A%22MN8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn8
 > - The Buddhas Words: https://thebuddhaswords.net/mn/mn8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN7]]  🌐 [[MN9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN7]]  🌐 [[MN9]] ►

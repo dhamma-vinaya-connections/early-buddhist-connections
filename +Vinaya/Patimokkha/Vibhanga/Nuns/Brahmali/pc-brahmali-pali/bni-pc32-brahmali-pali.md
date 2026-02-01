@@ -4,7 +4,7 @@ vin_title: "Ekattharaṇatuvaṭṭana - Lying on the Same Sheet"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC32]]
 > ◄  [[bni-pc31-brahmali-pali]] 📜  [[bni-pc33-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -94,5 +94,5 @@ p_2V_2900Dutiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC32]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC32]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC32]]
 > ◄  [[bni-pc31-brahmali-pali]] 📜  [[bni-pc33-brahmali-pali]] ►

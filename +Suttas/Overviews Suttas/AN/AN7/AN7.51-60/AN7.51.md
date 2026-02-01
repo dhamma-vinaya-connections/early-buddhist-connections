@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.50]]  🌐 [[AN7.52]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.50]]  🌐 [[AN7.52]] ►
 
 # AN7.51 - Saṃyoga - Bound And Unbound
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.51%5D%5D%22%23mynotes%20-file%3Aan7.51-%20-file%3A%22AN7.50%22%20-file%3A%22AN7.52%22%20-file%3A%22AN7.51%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.51/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.51
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.51.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.50]]  🌐 [[AN7.52]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.50]]  🌐 [[AN7.52]] ►

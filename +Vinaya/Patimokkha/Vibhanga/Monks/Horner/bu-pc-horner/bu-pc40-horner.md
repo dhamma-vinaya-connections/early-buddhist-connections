@@ -4,7 +4,7 @@ vin_title: "Dantapona - Eating Unoffered Food"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
 > ◄  [[bu-pc39-horner]] 📜  [[bu-pc41-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 40
@@ -90,5 +90,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC40]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC40]]
 > ◄  [[bu-pc39-horner]] 📜  [[bu-pc41-horner]] ►

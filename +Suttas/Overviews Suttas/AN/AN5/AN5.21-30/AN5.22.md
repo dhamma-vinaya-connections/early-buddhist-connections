@@ -40,7 +40,7 @@ parallels_nikaya: "[[AN10.3]], [[AN10.4]], [[AN11.3]], [[AN11.4]], [[AN5.168]], 
 parallels_agama: "[[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]]"
 parallels_partilal: "[[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[MA45]], [[AN7.65]], [[AN6.50]], [[MA48]], [[AN11.4]], [[AN5.21]], [[MA49]], [[MA50]], [[AN5.24]], [[AN5.168]], [[MA46]], [[SA495]], [[AN10.4]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.21]]  🌐 [[AN5.23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.21]]  🌐 [[AN5.23]] ►
 
 # AN5.22 - Paṭhamaagārava - Disrespect
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[M
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.22%5D%5D%22%23mynotes%20-file%3Aan5.22-%20-file%3A%22AN5.21%22%20-file%3A%22AN5.23%22%20-file%3A%22AN5.22%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.22/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.22
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.22.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.21]]  🌐 [[AN5.23]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.21]]  🌐 [[AN5.23]] ►

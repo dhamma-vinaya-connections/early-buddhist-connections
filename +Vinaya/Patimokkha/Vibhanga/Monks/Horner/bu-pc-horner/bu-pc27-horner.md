@@ -4,7 +4,7 @@ vin_title: "Saṃvidhāna - Travelling by Arrangement"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC27]]
 > ◄  [[bu-pc26-horner]] 📜  [[bu-pc28-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 27
@@ -95,5 +95,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC27]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC27]]
 > ◄  [[bu-pc26-horner]] 📜  [[bu-pc28-horner]] ►

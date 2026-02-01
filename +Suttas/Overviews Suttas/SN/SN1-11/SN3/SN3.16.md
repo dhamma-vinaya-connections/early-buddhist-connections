@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.15]]  🌐 [[SN3.17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.15]]  🌐 [[SN3.17]] ►
 
 # SN3.16 - Mallikāsutta - Daughter
 ## 🌐 Overview
@@ -92,10 +92,10 @@ In doing deeds of merit.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.16%5D%5D%22%23mynotes%20-file%3Asn3.16-%20-file%3A%22SN3.15%22%20-file%3A%22SN3.17%22%20-file%3A%22SN3.16%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.16
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.16.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.15]]  🌐 [[SN3.17]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.15]]  🌐 [[SN3.17]] ►

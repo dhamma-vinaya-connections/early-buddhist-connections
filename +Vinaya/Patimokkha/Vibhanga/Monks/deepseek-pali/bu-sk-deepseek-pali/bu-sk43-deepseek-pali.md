@@ -4,7 +4,7 @@ vin_title: "Sakabaḷa - Mouth Full"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK43]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK43]]
 > ◄  [[bu-sk42-deepseek-pali]] 📜  [[bu-sk44-deepseek-pali]] ►
 
 # BU-SK 43
@@ -43,5 +43,5 @@ The first training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK43]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK43]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK43]]
 > ◄  [[bu-sk42-deepseek-pali]] 📜  [[bu-sk44-deepseek-pali]] ►

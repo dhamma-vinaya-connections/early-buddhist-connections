@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN7.40]]"
 parallels_agama: ""
 parallels_partilal: "[[AN6.72]], [[AN7.40]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.23]]  🌐 [[AN6.25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.23]]  🌐 [[AN6.25]] ►
 
 # AN6.24 - Himavanta - Mastery Of The Mind
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN6.72]], [[AN7.40]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.24%5D%5D%22%23mynotes%20-file%3Aan6.24-%20-file%3A%22AN6.23%22%20-file%3A%22AN6.25%22%20-file%3A%22AN6.24%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.24/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.24
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.24.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.23]]  🌐 [[AN6.25]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.23]]  🌐 [[AN6.25]] ►

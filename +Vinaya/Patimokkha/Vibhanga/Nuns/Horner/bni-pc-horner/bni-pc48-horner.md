@@ -4,7 +4,7 @@ vin_title: "Āvasathavihāra - Lodgings"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC48]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC48]]
 > ◄  [[bni-pc47-horner]] 📜  [[bni-pc49-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 48
@@ -65,5 +65,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC48]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC48]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC48]]
 > ◄  [[bni-pc47-horner]] 📜  [[bni-pc49-horner]] ►

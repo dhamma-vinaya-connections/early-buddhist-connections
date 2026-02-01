@@ -4,7 +4,7 @@ vin_title: "Nīcāsana - Low Seats"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK69]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK69]]
 > ◄  [[bu-sk68-deepseek-pali]] 📜  [[bu-sk70-deepseek-pali]] ►
 
 # BU-SK 69
@@ -47,5 +47,5 @@ The sixth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK69]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK69]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK69]]
 > ◄  [[bu-sk68-deepseek-pali]] 📜  [[bu-sk70-deepseek-pali]] ►

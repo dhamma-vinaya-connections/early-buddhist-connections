@@ -4,7 +4,7 @@ vin_title: "Paripuṇṇavīsativassa-sikkhita-kumāribhūta-asammata - Ordainin
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC73]]
 > ◄  [[bni-pc72-brahmali-pali]] 📜  [[bni-pc74-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -132,5 +132,5 @@ p_2V_3329Tatiyasikkhāpadaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC73]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC73]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC73]]
 > ◄  [[bni-pc72-brahmali-pali]] 📜  [[bni-pc74-brahmali-pali]] ►

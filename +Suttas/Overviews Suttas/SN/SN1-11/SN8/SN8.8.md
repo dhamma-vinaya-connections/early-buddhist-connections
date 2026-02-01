@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA1219]]"
 parallels_partilal: "[[SA1219]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.7]]  🌐 [[SN8.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.7]]  🌐 [[SN8.9]] ►
 
 # SN8.8 - Parosahassasutta - Over a Thousand
 ## 🌐 Overview
@@ -86,10 +86,10 @@ In the Buddha ’s teaching.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN8.8%5D%5D%22%23mynotes%20-file%3Asn8.8-%20-file%3A%22SN8.7%22%20-file%3A%22SN8.9%22%20-file%3A%22SN8.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn8.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.7]]  🌐 [[SN8.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.7]]  🌐 [[SN8.9]] ►

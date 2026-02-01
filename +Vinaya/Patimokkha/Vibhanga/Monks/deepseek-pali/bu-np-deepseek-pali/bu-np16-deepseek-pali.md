@@ -4,7 +4,7 @@ vin_title: "Eḷakaloma - Carrying Wool"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP16]]
 > ◄  [[bu-np15-deepseek-pali]] 📜  [[bu-np17-deepseek-pali]] ►
 
 # BU-NP 16
@@ -75,5 +75,5 @@ The sixth training rule concerning goat hair is concluded.
 >|       |          | [[ñanatusita-analysis#^NP16]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP16]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP16]]
 > ◄  [[bu-np15-deepseek-pali]] 📜  [[bu-np17-deepseek-pali]] ►

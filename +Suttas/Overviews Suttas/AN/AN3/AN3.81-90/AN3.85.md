@@ -40,7 +40,7 @@ parallels_nikaya: "[[SN48.23]]"
 parallels_agama: "[[SA642]], [[SA824]]"
 parallels_partilal: "[[AN6.45]], [[SA824]], [[SA642]], [[SN48.23]], [[ITI102]], [[ITI62]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.84]]  🌐 [[AN3.86]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.84]]  🌐 [[AN3.86]] ►
 
 # AN3.85 - Sekkha - Trainee
 ## 🌐 Overview
@@ -84,10 +84,10 @@ Enlightenment follows in the same lifetime.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.85%5D%5D%22%23mynotes%20-file%3Aan3.85-%20-file%3A%22AN3.84%22%20-file%3A%22AN3.86%22%20-file%3A%22AN3.85%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.85/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.85
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.85.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.84]]  🌐 [[AN3.86]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.84]]  🌐 [[AN3.86]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA116]]"
 parallels_partilal: "[[PLI-TV-KD20]], [[MA116]], [[PLI-TV-BU-VB-PC21]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.50]]  🌐 [[AN8.52]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.50]]  🌐 [[AN8.52]] ►
 
 # AN8.51 - Gotamī - With Gotamī
 ## 🌐 Overview
@@ -85,10 +85,10 @@ parallels_partilal: "[[PLI-TV-KD20]], [[MA116]], [[PLI-TV-BU-VB-PC21]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.51%5D%5D%22%23mynotes%20-file%3Aan8.51-%20-file%3A%22AN8.50%22%20-file%3A%22AN8.52%22%20-file%3A%22AN8.51%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.51/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.51
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.51.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.50]]  🌐 [[AN8.52]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.50]]  🌐 [[AN8.52]] ►

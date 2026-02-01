@@ -4,7 +4,7 @@ vin_title: "Pariṇāmana - Diverting Gains"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC82]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC82]]
 > ◄  [[bu-pc81-deepseek-pali]] 📜  [[bu-pc83-deepseek-pali]] ►
 
 # BU-PC 82
@@ -83,5 +83,5 @@ What Is in Accordance with the Dhamma, disparagement, causing bewilderment, stri
 >|       |          | [[ñanatusita-analysis#^PC82]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC82]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC82]]
 > ◄  [[bu-pc81-deepseek-pali]] 📜  [[bu-pc83-deepseek-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[ITI90]]"
 parallels_agama: "[[EA21.1]], [[SA902-904]]"
 parallels_partilal: "[[EA21.1]], [[AN5.32]], [[ITI90]], [[SA902-904]], [[SN45.139]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.33]]  🌐 [[AN4.35]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.33]]  🌐 [[AN4.35]] ►
 
 # AN4.34 - Aggappasāda - Best Kinds Of Confidence
 ## 🌐 Overview
@@ -83,10 +83,10 @@ They rejoice at reaching the best
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.34%5D%5D%22%23mynotes%20-file%3Aan4.34-%20-file%3A%22AN4.33%22%20-file%3A%22AN4.35%22%20-file%3A%22AN4.34%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.34/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.34
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.34.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.33]]  🌐 [[AN4.35]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.33]]  🌐 [[AN4.35]] ►

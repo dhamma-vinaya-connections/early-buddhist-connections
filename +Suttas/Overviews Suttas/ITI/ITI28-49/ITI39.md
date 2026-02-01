@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI38]]  🌐 [[ITI40]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI38]]  🌐 [[ITI40]] ►
 
 # ITI39 - Desanāsutta - Teaching
 ## 🌐 Overview
@@ -82,10 +82,10 @@ you will make an end of suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI39%5D%5D%22%23mynotes%20-file%3Aiti39-%20-file%3A%22ITI38%22%20-file%3A%22ITI40%22%20-file%3A%22ITI39%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti39/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti39
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti39.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI38]]  🌐 [[ITI40]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI38]]  🌐 [[ITI40]] ►

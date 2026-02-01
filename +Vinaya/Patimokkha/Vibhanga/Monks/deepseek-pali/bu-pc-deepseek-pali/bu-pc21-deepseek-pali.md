@@ -4,7 +4,7 @@ vin_title: "Ovāda - Instructions"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
 > ◄  [[bu-pc20-deepseek-pali]] 📜  [[bu-pc22-deepseek-pali]] ►
 
 # BU-PC 21
@@ -159,5 +159,5 @@ The first training rule on advice is concluded.
 >|       |          | [[ñanatusita-analysis#^PC21]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC21]]
 > ◄  [[bu-pc20-deepseek-pali]] 📜  [[bu-pc22-deepseek-pali]] ►

@@ -40,7 +40,7 @@ parallels_nikaya: "[[AN3.89]]"
 parallels_agama: "[[SA816]], [[SA817]], [[SA832]]"
 parallels_partilal: "[[SA816]], [[AN3.89]], [[SA817]], [[SA832]], [[THAG6.4]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.89]]  🌐 [[AN3.91]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.89]]  🌐 [[AN3.91]] ►
 
 # AN3.90 - Sikkhattaya - Three Trainings
 ## 🌐 Overview
@@ -83,10 +83,10 @@ They call a ‘Buddha ’ in the world.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.90%5D%5D%22%23mynotes%20-file%3Aan3.90-%20-file%3A%22AN3.89%22%20-file%3A%22AN3.91%22%20-file%3A%22AN3.90%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.90/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.90
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.90.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.89]]  🌐 [[AN3.91]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.89]]  🌐 [[AN3.91]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[DN14]], [[MN26]], [[MN85]]"
 parallels_agama: "[[EA19.1]], [[EA24.5]], [[MA204]]"
 parallels_partilal: "[[MN85]], [[PLI-TV-KD15]], [[DN14]], [[MA204]], [[MN100]], [[MN26]], [[MN36]], [[ITI38]], [[PLI-TV-KD1]], [[SN11.17]], [[EA19.1]], [[EA24.5]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.10]]  🌐 [[SN6.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.10]]  🌐 [[SN6.2]] ►
 
 # SN6.1 - Brahmāyācanasutta - Brahma's Request
 ## 🌐 Overview
@@ -88,10 +88,10 @@ The sophisticated, sublime Dhamma among humans
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN6.1%5D%5D%22%23mynotes%20-file%3Asn6.1-%20-file%3A%22SN5.10%22%20-file%3A%22SN6.2%22%20-file%3A%22SN6.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn6.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.10]]  🌐 [[SN6.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.10]]  🌐 [[SN6.2]] ►

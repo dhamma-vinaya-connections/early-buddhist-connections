@@ -4,7 +4,7 @@ vin_title: "Atthaṅgata - Instructing Nuns After Sunset"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
 > ◄  [[bu-pc21-horner]] 📜  [[bu-pc23-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 22
@@ -94,5 +94,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC22]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]
 > ◄  [[bu-pc21-horner]] 📜  [[bu-pc23-horner]] ►

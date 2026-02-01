@@ -4,7 +4,7 @@ vin_title: "Mañcapīṭha - Beds and Benches"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC163]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC163]]
 > ◄  [[bni-pc162-brahmali-pali]] 📜  [[bni-pc164-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -102,5 +102,5 @@ Aññena kataṁ paṭilabhitvā paribhuñjati, āpatti dukkaṭassa.
 >|       |          | [[ñanatusita-analysis#^-PC163]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC163]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC163]]
 > ◄  [[bni-pc162-brahmali-pali]] 📜  [[bni-pc164-brahmali-pali]] ►

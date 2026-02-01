@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA25.10]]"
 parallels_partilal: "[[EA25.10]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.101]]  🌐 [[AN4.103]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.101]]  🌐 [[AN4.103]] ►
 
 # AN4.102 - Mūsika - Mice
 ## 🌐 Overview
@@ -88,10 +88,10 @@ One both makes a hole and lives in it.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.102%5D%5D%22%23mynotes%20-file%3Aan4.102-%20-file%3A%22AN4.101%22%20-file%3A%22AN4.103%22%20-file%3A%22AN4.102%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.102/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.102
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.102.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.101]]  🌐 [[AN4.103]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.101]]  🌐 [[AN4.103]] ►

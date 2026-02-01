@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PLI-TV-KD6]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.206]]  🌐 [[AN5.208]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.206]]  🌐 [[AN5.208]] ►
 
 # AN5.207 - Dantakaṭṭha - Chew Sticks
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[PLI-TV-KD6]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.207%5D%5D%22%23mynotes%20-file%3Aan5.207-%20-file%3A%22AN5.206%22%20-file%3A%22AN5.208%22%20-file%3A%22AN5.207%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.207/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.207
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.207.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.206]]  🌐 [[AN5.208]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.206]]  🌐 [[AN5.208]] ►

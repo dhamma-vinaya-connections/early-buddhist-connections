@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA21]]"
 parallels_partilal: "[[MA21]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.35]]  🌐 [[AN2.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.35]]  🌐 [[AN2.37]] ►
 
 # AN2.36 - Anagami - Non Returner
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MA21]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.36%5D%5D%22%23mynotes%20-file%3Aan2.36-%20-file%3A%22AN2.35%22%20-file%3A%22AN2.37%22%20-file%3A%22AN2.36%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.36
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.36.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.35]]  🌐 [[AN2.37]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.35]]  🌐 [[AN2.37]] ►

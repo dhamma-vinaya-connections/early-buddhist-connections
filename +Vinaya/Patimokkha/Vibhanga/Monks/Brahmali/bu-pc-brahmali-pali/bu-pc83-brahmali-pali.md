@@ -4,7 +4,7 @@ vin_title: "Antepura - Royal Compounds"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
 > ◄  [[bu-pc82-brahmali-pali]] 📜  [[bu-pc84-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -264,5 +264,5 @@ Atha kho bhagavā āyasmantaṁ ānandaṁ anekapariyāyena vigarahitvā dubbhar
 >|       |          | [[ñanatusita-analysis#^PC83]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC83]]
 > ◄  [[bu-pc82-brahmali-pali]] 📜  [[bu-pc84-brahmali-pali]] ►

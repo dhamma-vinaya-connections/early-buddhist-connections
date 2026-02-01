@@ -47,7 +47,7 @@ parallels_nikaya: "[[DN26]]"
 parallels_agama: "[[MA70]]"
 parallels_partilal: "[[DA15]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA5]]  🌐 [[DA7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA5]]  🌐 [[DA7]] ►
 
 # DA6 - 轉輪聖王修行 - Universal Ruler
 ## 🌐 Overview
@@ -99,10 +99,10 @@ Decadence starts from not paying money to the penniless then poverty, theft, s
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDA6%5D%5D%22%23mynotes%20-file%3Ada6-%20-file%3A%22DA5%22%20-file%3A%22DA7%22%20-file%3A%22DA6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/da6/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA5]]  🌐 [[DA7]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA5]]  🌐 [[DA7]] ►

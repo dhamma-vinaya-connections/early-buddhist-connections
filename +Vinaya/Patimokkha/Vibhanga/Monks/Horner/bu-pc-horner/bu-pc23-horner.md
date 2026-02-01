@@ -4,7 +4,7 @@ vin_title: "Bhikkhunupassaya - Instructing Nuns in a Nunnery"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC23]]
 > ◄  [[bu-pc22-horner]] 📜  [[bu-pc24-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 23
@@ -99,5 +99,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC23]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC23]]
 > ◄  [[bu-pc22-horner]] 📜  [[bu-pc24-horner]] ►

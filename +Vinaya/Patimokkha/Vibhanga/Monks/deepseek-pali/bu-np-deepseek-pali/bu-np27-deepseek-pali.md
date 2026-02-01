@@ -4,7 +4,7 @@ vin_title: "Mahāpesakāra - Bribing Weavers"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP27]]
 > ◄  [[bu-np26-deepseek-pali]] 📜  [[bu-np28-deepseek-pali]] ►
 
 # BU-NP 27
@@ -111,5 +111,5 @@ The seventh training rule, that on making large robes, is concluded.
 >|       |          | [[ñanatusita-analysis#^NP27]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP27]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP27]]
 > ◄  [[bu-np26-deepseek-pali]] 📜  [[bu-np28-deepseek-pali]] ►

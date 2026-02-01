@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[MN2]], [[MN125]], [[AN4.114]], [[AN4.165]], [[AN5.140]], [[PLI-TV-KD1]], [[PLI-TV-BU-VB-PC65]], [[PLI-TV-BI-VB-PC71]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.156]]  🌐 [[AN4.158]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.156]]  🌐 [[AN4.158]] ►
 
 # AN4.157 - Roga - Illness
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[MN2]], [[MN125]], [[AN4.114]], [[AN4.165]], [[AN5.140]], 
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.157%5D%5D%22%23mynotes%20-file%3Aan4.157-%20-file%3A%22AN4.156%22%20-file%3A%22AN4.158%22%20-file%3A%22AN4.157%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.157/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.157
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.157.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.156]]  🌐 [[AN4.158]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.156]]  🌐 [[AN4.158]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: "[[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.5]], [[UD8.6]]"
 parallels_agama: ""
 parallels_partilal: "[[DN16]], [[DA2]], [[UD6.1]], [[UD8.5]], [[UD8.6]], [[SN51.10]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.68]]  🌐 [[AN8.70]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.68]]  🌐 [[AN8.70]] ►
 
 # AN8.69 - Parisā - Assemblies
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[DN16]], [[DA2]], [[UD6.1]], [[UD8.5]], [[UD8.6]], [[SN51.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.69%5D%5D%22%23mynotes%20-file%3Aan8.69-%20-file%3A%22AN8.68%22%20-file%3A%22AN8.70%22%20-file%3A%22AN8.69%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.69/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.69
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.69.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.68]]  🌐 [[AN8.70]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.68]]  🌐 [[AN8.70]] ►

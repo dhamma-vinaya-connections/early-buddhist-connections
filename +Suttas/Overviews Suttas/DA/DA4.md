@@ -48,7 +48,7 @@ parallels_nikaya: "[[DN18]]"
 parallels_agama: ""
 parallels_partilal: "[[SN9.11]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA3]]  🌐 [[DA5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA3]]  🌐 [[DA5]] ►
 
 # DA4 - 闍尼沙 - Janavasabha’s Exhortation
 ## 🌐 Overview
@@ -96,10 +96,10 @@ Observing them keen, aware, and mindful, rid of desire and aversion for the worl
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDA4%5D%5D%22%23mynotes%20-file%3Ada4-%20-file%3A%22DA3%22%20-file%3A%22DA5%22%20-file%3A%22DA4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/da4/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA3]]  🌐 [[DA5]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA3]]  🌐 [[DA5]] ►

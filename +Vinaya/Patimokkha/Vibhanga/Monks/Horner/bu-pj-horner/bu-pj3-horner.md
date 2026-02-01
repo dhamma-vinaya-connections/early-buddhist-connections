@@ -4,7 +4,7 @@ vin_title: "Manussaviggaha - Murder"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
 > ◄  [[bu-pj2-horner]] 📜  [[bu-pj4-horner]] ►
 
 # Monks’ Expulsion (_Pārājika_) 3
@@ -557,5 +557,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PJ3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
 > ◄  [[bu-pj2-horner]] 📜  [[bu-pj4-horner]] ►

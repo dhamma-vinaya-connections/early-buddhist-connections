@@ -4,7 +4,7 @@ vin_title: "Sabhojana - Intruding on a Couple Enjoying Themselves"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC43]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC43]]
 > ◄  [[bu-pc42-horner]] 📜  [[bu-pc44-horner]] ►
 
 # Monks’ Expiation (_Pācittiya_) 43
@@ -83,5 +83,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^PC43]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC43]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC43]]
 > ◄  [[bu-pc42-horner]] 📜  [[bu-pc44-horner]] ►

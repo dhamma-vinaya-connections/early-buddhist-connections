@@ -4,7 +4,7 @@ vin_title: "Kuladūsaka - Corrupter of Families"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS13]]
 > ◄  [[bu-ss12-horner]] 📜  [[BU-AN1]] ►
 
 # Monks’ Formal Meeting (_Saṅghādisesa_) 13
@@ -171,5 +171,5 @@ Monks’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^SS13]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS13]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS13]]
 > ◄  [[bu-ss12-horner]] 📜  [[BU-AN1]] ►

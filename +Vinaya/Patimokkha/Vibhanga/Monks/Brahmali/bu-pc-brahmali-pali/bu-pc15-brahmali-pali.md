@@ -4,7 +4,7 @@ vin_title: "Seyyasanthārana - Leaving Bedding Outside"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
 > ◄  [[bu-pc14-brahmali-pali]] 📜  [[bu-pc16-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -124,5 +124,5 @@ Vihārassa upacāre vā upaṭṭhānasālāyaṁ vā maṇḍape vā rukkhamūl
 >|       |          | [[ñanatusita-analysis#^PC15]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC15]]
 > ◄  [[bu-pc14-brahmali-pali]] 📜  [[bu-pc16-brahmali-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Tatuttari - Robes Accept to Many"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
 > ◄  [[bu-np6-deepseek-pali]] 📜  [[bu-np8-deepseek-pali]] ►
 
 # BU-NP 7
@@ -87,5 +87,5 @@ The seventh training rule concerning exceeding the limit is finished.
 >|       |          | [[ñanatusita-analysis#^NP7]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP7]]
 > ◄  [[bu-np6-deepseek-pali]] 📜  [[bu-np8-deepseek-pali]] ►

@@ -4,7 +4,7 @@ vin_title: "Ujjhānasaññī - Finding Fault"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK38]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK38]]
 > ◄  [[bu-sk37-deepseek-pali]] 📜  [[bu-sk39-deepseek-pali]] ►
 
 # BU-SK 38
@@ -35,5 +35,5 @@ Thus was this training rule laid down by the Blessed One for the bhikkhus.
 >|       |          | [[ñanatusita-analysis#^SK38]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK38]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK38]]
 > ◄  [[bu-sk37-deepseek-pali]] 📜  [[bu-sk39-deepseek-pali]] ►

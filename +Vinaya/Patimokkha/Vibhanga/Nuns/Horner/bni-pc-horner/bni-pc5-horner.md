@@ -4,7 +4,7 @@ vin_title: "Udakasuddhika - Douching"
 sutta-version: "Horner"
 language: "English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC5]]
 > ◄  [[bni-pc4-horner]] 📜  [[bni-pc6-horner]] ►
 
 # Nuns’ Expiation (_Pācittiya_) 5
@@ -63,5 +63,5 @@ Nuns’ rules and their analysis
 >|       |          | [[ñanatusita-analysis#^-PC5]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC5]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC5]]
 > ◄  [[bni-pc4-horner]] 📜  [[bni-pc6-horner]] ►

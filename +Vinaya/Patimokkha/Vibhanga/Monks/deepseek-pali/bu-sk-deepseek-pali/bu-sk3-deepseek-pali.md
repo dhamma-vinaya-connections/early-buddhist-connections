@@ -4,7 +4,7 @@ vin_title: "Suppaṭicchanna - Being well covered"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK3]]
 > ◄  [[bu-sk2-deepseek-pali]] 📜  [[bu-sk4-deepseek-pali]] ►
 
 # BU-SK 3
@@ -47,5 +47,5 @@ The second training rule is complete.
 >|       |          | [[ñanatusita-analysis#^SK3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK3]]
 > ◄  [[bu-sk2-deepseek-pali]] 📜  [[bu-sk4-deepseek-pali]] ►

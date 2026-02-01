@@ -4,7 +4,7 @@ vin_title: "Bhesajja - Tonics Five"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
 > ◄  [[bu-np22-brahmali-pali]] 📜  [[bu-np24-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -270,5 +270,5 @@ Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṁ pācittiyaṁ. Avissajjit
 >|       |          | [[ñanatusita-analysis#^NP23]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP23]]
 > ◄  [[bu-np22-brahmali-pali]] 📜  [[bu-np24-brahmali-pali]] ►

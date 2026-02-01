@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PE1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.7]]  🌐 [[UD8.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.7]]  🌐 [[UD8.9]] ►
 
 # UD8.8 - Visakha Sutta - Visākhā
 ## 🌐 Overview
@@ -90,10 +90,10 @@ dear in the world anywhere.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD8.8%5D%5D%22%23mynotes%20-file%3Aud8.8-%20-file%3A%22UD8.7%22%20-file%3A%22UD8.9%22%20-file%3A%22UD8.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud8.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.8
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.8.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.7]]  🌐 [[UD8.9]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.7]]  🌐 [[UD8.9]] ►

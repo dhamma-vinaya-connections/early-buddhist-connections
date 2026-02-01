@@ -4,7 +4,7 @@ index:
 rule_type: "BU-NP - Nissaggiya Pacittiya - Relinquish with confession"
 vin_gender: "Monks"
 ---
-> [!tip] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-NP 
+> [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 BU-NP 
 
 # BU-NP - Nissaggiya Pacittiya - Relinquish with confession
 

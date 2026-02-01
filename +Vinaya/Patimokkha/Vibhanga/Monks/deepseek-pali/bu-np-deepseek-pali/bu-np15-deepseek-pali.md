@@ -4,7 +4,7 @@ vin_title: "Nisīdanasanthata - Sitting Blanket"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
 > ◄  [[bu-np14-deepseek-pali]] 📜  [[bu-np16-deepseek-pali]] ►
 
 # BU-NP 15
@@ -91,5 +91,5 @@ The fifth training rule concerning the sitting cloth is concluded.
 >|       |          | [[ñanatusita-analysis#^NP15]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP15]]
 > ◄  [[bu-np14-deepseek-pali]] 📜  [[bu-np16-deepseek-pali]] ►

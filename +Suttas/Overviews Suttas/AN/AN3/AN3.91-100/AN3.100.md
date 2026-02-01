@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[MA11]]"
 parallels_partilal: "[[MA11]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.99]]  🌐 [[AN3.101]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.99]]  🌐 [[AN3.101]] ►
 
 # AN3.100 - Loṇakapalla - Lump Of Salt
 ## 🌐 Overview
@@ -88,10 +88,10 @@ having done unwholesome actions, must experience little suffering as their fruit
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.100%5D%5D%22%23mynotes%20-file%3Aan3.100-%20-file%3A%22AN3.99%22%20-file%3A%22AN3.101%22%20-file%3A%22AN3.100%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.100/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.100
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.100.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.99]]  🌐 [[AN3.101]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.99]]  🌐 [[AN3.101]] ►

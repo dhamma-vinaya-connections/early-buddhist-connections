@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG2]]  🌐 [[THAG4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG2]]  🌐 [[THAG4]] ►
 
 # THAG3 - Tikanipātavagga - Trees Book
 ## 🌐 Overview
@@ -89,10 +89,10 @@ Mindful, I found peace
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHAG3%5D%5D%22%23mynotes%20-file%3Athag3-%20-file%3A%22THAG2%22%20-file%3A%22THAG4%22%20-file%3A%22THAG3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thag3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag3
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG2]]  🌐 [[THAG4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG2]]  🌐 [[THAG4]] ►

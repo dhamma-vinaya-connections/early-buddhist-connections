@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN8.54]]"
 parallels_agama: "[[SA-2.91]], [[SA91]]"
 parallels_partilal: "[[AN8.54]], [[SA-2.91]], [[SA91]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.54]]  🌐 [[AN8.56]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.54]]  🌐 [[AN8.56]] ►
 
 # AN8.55 - Dīghajāṇu - With Dīghajāṇu
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[AN8.54]], [[SA-2.91]], [[SA91]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.55%5D%5D%22%23mynotes%20-file%3Aan8.55-%20-file%3A%22AN8.54%22%20-file%3A%22AN8.56%22%20-file%3A%22AN8.55%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.55/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.55
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.55.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.54]]  🌐 [[AN8.56]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.54]]  🌐 [[AN8.56]] ►

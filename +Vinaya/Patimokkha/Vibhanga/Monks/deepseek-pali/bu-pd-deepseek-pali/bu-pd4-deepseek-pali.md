@@ -4,7 +4,7 @@ vin_title: "Catutthapāṭidesanīya - Receiving Food in a Dangerous Region"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD4]]
 > ◄  [[bu-pd3-deepseek-pali]] 📜  [[BNI-SK1]] ►
 
 # BU-PD 4
@@ -123,5 +123,5 @@ The section on rules requiring acknowledgment is finished.
 >|       |          | [[ñanatusita-analysis#^PD4]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD4]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD4]]
 > ◄  [[bu-pd3-deepseek-pali]] 📜  [[BNI-SK1]] ►

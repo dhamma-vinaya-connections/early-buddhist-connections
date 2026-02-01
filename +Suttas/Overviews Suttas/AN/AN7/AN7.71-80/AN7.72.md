@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA33.10]], [[MA5]]"
 parallels_partilal: "[[EA33.10]], [[MA5]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.71]]  🌐 [[AN7.73]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.71]]  🌐 [[AN7.73]] ►
 
 # AN7.72 - Aggikkhandhopama - Bonfire Simile
 ## 🌐 Overview
@@ -82,10 +82,10 @@ parallels_partilal: "[[EA33.10]], [[MA5]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.72%5D%5D%22%23mynotes%20-file%3Aan7.72-%20-file%3A%22AN7.71%22%20-file%3A%22AN7.73%22%20-file%3A%22AN7.72%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.72/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.72
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.72.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.71]]  🌐 [[AN7.73]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.71]]  🌐 [[AN7.73]] ►

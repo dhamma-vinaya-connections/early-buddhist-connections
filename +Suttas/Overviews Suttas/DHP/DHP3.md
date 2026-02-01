@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP2]]  🌐 [[DHP4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP2]]  🌐 [[DHP4]] ►
 
 # DHP3 - Cittavagga - Mind
 ## 🌐 Overview
@@ -89,10 +89,10 @@ guard your success, and do not be attached.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP3%5D%5D%22%23mynotes%20-file%3Adhp3-%20-file%3A%22DHP2%22%20-file%3A%22DHP4%22%20-file%3A%22DHP3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp3
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP2]]  🌐 [[DHP4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP2]]  🌐 [[DHP4]] ►

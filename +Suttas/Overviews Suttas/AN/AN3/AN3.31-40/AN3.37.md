@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[EA24.6]], [[SA-2.46]], [[SA1117]]"
 parallels_partilal: "[[EA24.6]], [[SA-2.46]], [[SA1117]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.36]]  🌐 [[AN3.38]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.36]]  🌐 [[AN3.38]] ►
 
 # AN3.37 - Catumahārāja - Four Great Kings
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: "[[EA24.6]], [[SA-2.46]], [[SA1117]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.37%5D%5D%22%23mynotes%20-file%3Aan3.37-%20-file%3A%22AN3.36%22%20-file%3A%22AN3.38%22%20-file%3A%22AN3.37%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.37/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.37
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.37.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.36]]  🌐 [[AN3.38]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.36]]  🌐 [[AN3.38]] ►

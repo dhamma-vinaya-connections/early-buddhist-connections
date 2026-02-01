@@ -4,7 +4,7 @@ vin_title: "Cārikanapakkamana - Going Wandering"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC40]]
 > ◄  [[bni-pc39-brahmali-pali]] 📜  [[bni-pc41-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -80,5 +80,5 @@ Tuvaṭṭavaggo catuttho.
 >|       |          | [[ñanatusita-analysis#^-PC40]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC40]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC40]]
 > ◄  [[bni-pc39-brahmali-pali]] 📜  [[bni-pc41-brahmali-pali]] ►

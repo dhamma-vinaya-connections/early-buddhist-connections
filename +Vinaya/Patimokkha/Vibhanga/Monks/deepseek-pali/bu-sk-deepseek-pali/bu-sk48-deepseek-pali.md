@@ -4,7 +4,7 @@ vin_title: "Sitthāvakāraka - Scattering Rise"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK48]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK48]]
 > ◄  [[bu-sk47-deepseek-pali]] 📜  [[bu-sk49-deepseek-pali]] ►
 
 # BU-SK 48
@@ -43,5 +43,5 @@ The sixth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK48]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK48]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK48]]
 > ◄  [[bu-sk47-deepseek-pali]] 📜  [[bu-sk49-deepseek-pali]] ►

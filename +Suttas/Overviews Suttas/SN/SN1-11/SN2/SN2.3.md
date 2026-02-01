@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.308]], [[SA1309]]"
 parallels_partilal: "[[SN1.71]], [[SN7.1]], [[SN11.21]], [[SA1309]], [[SA-2.308]], [[SA1158]], [[SA-2.81]], [[SA1116]], [[SA-2.45]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.2]]  🌐 [[SN2.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.2]]  🌐 [[SN2.4]] ►
 
 # SN2.3 - Māghasutta - Magha
 ## 🌐 Overview
@@ -82,10 +82,10 @@ And a honey tip
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.3%5D%5D%22%23mynotes%20-file%3Asn2.3-%20-file%3A%22SN2.2%22%20-file%3A%22SN2.4%22%20-file%3A%22SN2.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.3
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.3.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.2]]  🌐 [[SN2.4]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.2]]  🌐 [[SN2.4]] ►

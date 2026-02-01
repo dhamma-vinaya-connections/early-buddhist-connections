@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN4.123]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.115]]  🌐 [[AN3.117]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.115]]  🌐 [[AN3.117]] ►
 
 # AN3.116 - Āneñja - Imperturbable
 ## 🌐 Overview
@@ -80,10 +80,10 @@ parallels_partilal: "[[AN4.123]]"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.116%5D%5D%22%23mynotes%20-file%3Aan3.116-%20-file%3A%22AN3.115%22%20-file%3A%22AN3.117%22%20-file%3A%22AN3.116%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.116/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.116
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.116.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.115]]  🌐 [[AN3.117]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.115]]  🌐 [[AN3.117]] ►

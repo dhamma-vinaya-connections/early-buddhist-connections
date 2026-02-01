@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.102]]  🌐 [[AN2.104]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.102]]  🌐 [[AN2.104]] ►
 
 # AN2.103 - Bāla - Fools
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.103%5D%5D%22%23mynotes%20-file%3Aan2.103-%20-file%3A%22AN2.102%22%20-file%3A%22AN2.104%22%20-file%3A%22AN2.103%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.103/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.103
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.103.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.102]]  🌐 [[AN2.104]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.102]]  🌐 [[AN2.104]] ►

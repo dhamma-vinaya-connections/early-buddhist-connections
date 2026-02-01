@@ -4,7 +4,7 @@ vin_title: "Saṁkakṣikā - Chest Wraps"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC96]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC96]]
 > ◄  [[bni-pc95-brahmali-pali]] 📜  [[bni-pc97-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -108,5 +108,5 @@ Bhikkhunīvibhaṅge pācittiyakaṇḍaṁ niṭṭhitaṁ.
 >|       |          | [[ñanatusita-analysis#^-PC96]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC96]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC96]]
 > ◄  [[bni-pc95-brahmali-pali]] 📜  [[bni-pc97-brahmali-pali]] ►

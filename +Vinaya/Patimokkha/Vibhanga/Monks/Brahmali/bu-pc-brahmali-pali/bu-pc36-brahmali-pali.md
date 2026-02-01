@@ -4,7 +4,7 @@ vin_title: "Dutiyapavāraṇā - Eating More After Refusing an Invitation Encour
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
 > ◄  [[bu-pc35-brahmali-pali]] 📜  [[bu-pc37-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -162,5 +162,5 @@ Appavārite pavāritasaññī, āpatti dukkaṭassa. Appavārite vematiko, āpat
 >|       |          | [[ñanatusita-analysis#^PC36]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC36]]
 > ◄  [[bu-pc35-brahmali-pali]] 📜  [[bu-pc37-brahmali-pali]] ►

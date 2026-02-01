@@ -38,7 +38,7 @@ parallels_nikaya: "[[AN4.36]]"
 parallels_agama: "[[SA-2.267]], [[SA101]], [[SA879]]"
 parallels_partilal: "[[SA879]], [[AN4.36]], [[SA-2.267]], [[SA101]], [[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.13]]  🌐 [[AN4.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.13]]  🌐 [[AN4.15]] ►
 
 # AN4.14 - Padhāna - Effort
 ## 🌐 Overview
@@ -81,10 +81,10 @@ May attain the ending of suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.14%5D%5D%22%23mynotes%20-file%3Aan4.14-%20-file%3A%22AN4.13%22%20-file%3A%22AN4.15%22%20-file%3A%22AN4.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.14
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.14.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.13]]  🌐 [[AN4.15]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.13]]  🌐 [[AN4.15]] ►

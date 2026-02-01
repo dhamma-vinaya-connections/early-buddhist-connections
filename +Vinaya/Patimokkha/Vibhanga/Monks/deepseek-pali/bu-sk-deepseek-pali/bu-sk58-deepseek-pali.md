@@ -4,7 +4,7 @@ vin_title: "Daṇḍapāṇi - Holding Staff"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK58]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK58]]
 > ◄  [[bu-sk57-deepseek-pali]] 📜  [[bu-sk59-deepseek-pali]] ►
 
 # BU-SK 58
@@ -43,5 +43,5 @@ The sixth training rule is completed.
 >|       |          | [[ñanatusita-analysis#^SK58]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK58]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK58]]
 > ◄  [[bu-sk57-deepseek-pali]] 📜  [[bu-sk59-deepseek-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: "[[SA-2.353]], [[SA1333]]"
 parallels_partilal: "[[SA-2.353]], [[SA1333]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.12]]  🌐 [[SN9.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.12]]  🌐 [[SN9.2]] ►
 
 # SN9.1 - Vivekasutta - Seclusion
 ## 🌐 Overview
@@ -87,10 +87,10 @@ Sheds that clingy dust with a shake
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.1%5D%5D%22%23mynotes%20-file%3Asn9.1-%20-file%3A%22SN8.12%22%20-file%3A%22SN9.2%22%20-file%3A%22SN9.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.1.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.12]]  🌐 [[SN9.2]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.12]]  🌐 [[SN9.2]] ►

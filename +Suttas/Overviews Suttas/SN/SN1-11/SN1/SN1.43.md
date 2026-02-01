@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SN2.23]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[AN5.36]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.42]]  🌐 [[SN1.44]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.42]]  🌐 [[SN1.44]] ►
 
 # SN1.43 - Annasutta - Food
 ## 🌐 Overview
@@ -86,10 +86,10 @@ Merits are the support for living beings
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.43%5D%5D%22%23mynotes%20-file%3Asn1.43-%20-file%3A%22SN1.42%22%20-file%3A%22SN1.44%22%20-file%3A%22SN1.43%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.43/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.43
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.43.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.42]]  🌐 [[SN1.44]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.42]]  🌐 [[SN1.44]] ►

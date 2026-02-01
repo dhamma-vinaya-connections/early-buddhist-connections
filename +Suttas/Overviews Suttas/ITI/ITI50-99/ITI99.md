@@ -38,7 +38,7 @@ parallels_nikaya: "[[DHP423]]"
 parallels_agama: ""
 parallels_partilal: "[[DHP423]], [[AN3.58]], [[AN3.59]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4.1]]"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI98]]  🌐 [[ITI100]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI98]]  🌐 [[ITI100]] ►
 
 # ITI99 - Tevijja - Three Knowledges
 ## 🌐 Overview
@@ -88,10 +88,10 @@ citing, reciting.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI99%5D%5D%22%23mynotes%20-file%3Aiti99-%20-file%3A%22ITI98%22%20-file%3A%22ITI100%22%20-file%3A%22ITI99%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti99/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti99
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti99.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI98]]  🌐 [[ITI100]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI98]]  🌐 [[ITI100]] ►

@@ -4,7 +4,7 @@ vin_title: "Manussaviggaha - Murder"
 sutta-version: "Ven. Brahmali"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
 > ◄  [[bu-pj2-brahmali-pali]] 📜  [[bu-pj4-brahmali-pali]] ►
 
 ## Vinaya Piṭaka - Monastic Rules
@@ -1010,5 +1010,5 @@ Te taṁ loṇasovīrakaṁ pāyesuṁ. So kālamakāsi. Tassā kukkuccaṁ ahos
 >|       |          | [[ñanatusita-analysis#^PJ3]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ3]]
 > ◄  [[bu-pj2-brahmali-pali]] 📜  [[bu-pj4-brahmali-pali]] ►

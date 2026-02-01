@@ -4,7 +4,7 @@ vin_title: "Pacchatogamana - Walking Behind"
 sutta-version: "Deepseek"
 language: "Pali - English"
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK71]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK71]]
 > ◄  [[bu-sk70-deepseek-pali]] 📜  [[bu-sk72-deepseek-pali]] ►
 
 # BU-SK 71
@@ -43,5 +43,5 @@ The eighth training rule is concluded.
 >|       |          | [[ñanatusita-analysis#^SK71]]    |
 
 
-> [!important] ☸️ [[ebt-source/Static just copy/Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK71]]
+> [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK71]]
 > ◄  [[bu-sk70-deepseek-pali]] 📜  [[bu-sk72-deepseek-pali]] ►

@@ -38,7 +38,7 @@ parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.11]]  🌐 [[SNP5.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.11]]  🌐 [[SNP5.13]] ►
 
 # SNP5.12 - Jatukaṇṇimāṇavapucchā - Questions of the Student Jatukaṇṇī
 ## 🌐 Overview
@@ -83,10 +83,10 @@ parallels_partilal: ""
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP5.12%5D%5D%22%23mynotes%20-file%3Asnp5.12-%20-file%3A%22SNP5.11%22%20-file%3A%22SNP5.13%22%20-file%3A%22SNP5.12%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
+>[!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp5.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.12
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.12.html
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.11]]  🌐 [[SNP5.13]] ►
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.11]]  🌐 [[SNP5.13]] ►
