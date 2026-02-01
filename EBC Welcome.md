@@ -54,20 +54,20 @@ Click in any box to expand it.
 > 
 > | Nikaya | KN       | Āgama    |
 > | ------ | -------- | -------- |
-> | [[early-buddhist-connections/+Suttas/Indexes Suttas/AN]] | [[DHP]]  | [[DA]]   |
+> | [[AN]] | [[DHP]]  | [[DA]]   |
 > | [[DN]] | [[UD]]   | [[MA]]   |
-> | [[MN]] | [[ITI]]  | [[early-buddhist-connections/+Suttas/Indexes Suttas/EA]]   |
-> | [[early-buddhist-connections/+Suttas/Indexes Suttas/SN]] | [[SNP]]  | [[early-buddhist-connections/+Suttas/Indexes Suttas/SA]]   |
+> | [[MN]] | [[ITI]]  | [[EA]]   |
+> | [[SN]] | [[SNP]]  | [[SA]]   |
 > |        | [[THAG]] | [[T]]    |
 > |        | [[THIG]] | [[PDHP]] |
 > #### Topic Indexes: 
 >  Navigate to the Subjects folder to browse by Dhamma topic.
-> - [[early-buddhist-connections/+Suttas/Indexes Suttas/Web indexes/✅Suttafriends Topics Index]]
-> - [[early-buddhist-connections/+Suttas/Indexes Suttas/Web indexes/ATI INDEX/✅ ATI Similes Index]]
-> - [[early-buddhist-connections/+Suttas/Indexes Suttas/Web indexes/ATI INDEX/✅ATI General Index]]
-> - [[early-buddhist-connections/+Suttas/Indexes Suttas/Web indexes/ATI INDEX/✅ATI Index by Number]]
-> - [[early-buddhist-connections/+Suttas/Indexes Suttas/Web indexes/✅Readingfaithfully.org Sutta Index]]
-> - [[early-buddhist-connections/+Suttas/Indexes Suttas/Web indexes/✅Suttafriends Simile Index]]
+> - [[✅Suttafriends Topics Index]]
+> - [[ATI INDEX/✅ ATI Similes Index]]
+> - [[ATI INDEX/✅ATI General Index]]
+> - [[ATI INDEX/✅ATI Index by Number]]
+> - [[✅Readingfaithfully.org Sutta Index]]
+> - [[✅Suttafriends Simile Index]]
 > - [[✅Gradual Training Outline 1.4]]
 
 > [!summary]- 2. The File Explorer
@@ -122,17 +122,17 @@ Click in any box to expand it.
 >     * English (Charles Patton)
 
 ### Vinaya
-**Quick Links:** [[early-buddhist-connections/+Vinaya/Patimokkha/BU]] Bhikkhu Pātimokkha | [[early-buddhist-connections/+Vinaya/Patimokkha/BNI]] Bhikkhunī Pātimokkha
+**Quick Links:** [[BU]] Bhikkhu Pātimokkha | [[BNI]] Bhikkhunī Pātimokkha
 
 > [!summary]- Patimokkha
 > **Overviews include:**
 > * *Info:* Rule in Pali and English, non-offense clauses, offense factors.
 > * *Links:*
 >     * Canonical Vibhanga.
->     * [[early-buddhist-connections/+Vinaya/Patimokkha/bmc1]] – *Buddhist Monastic Code I* (Ven. Thanissaro).
+>     * [[bmc1]] – *Buddhist Monastic Code I* (Ven. Thanissaro).
 >     * [[Analysis of the Pātimokkha]] (Ven. Ñāṇatusita).
 >     * [[Translation of the Pātimokkha]] (Ven. Ñāṇatusita).
 
 > [!summary]- Khandhakas
 > Includes mutual links between each chapter in the **Mahavagga** & **Cullavagga** and:
-> * [[early-buddhist-connections/+Vinaya/Khandhakas/bmc2]] – *Buddhist Monastic Code II* (Ven. Thanissaro).. Thanissaro).
+> * [[bmc2]] – *Buddhist Monastic Code II* (Ven. Thanissaro).. Thanissaro).

@@ -48,7 +48,7 @@ vin_gender-corr: "BNI-SK61"
 >| Vibhanga | BMC    | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk61-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK61]] |
->| [[bu-sk61-deepseek-pali]]      |          | [[ñanatusita-analysis#^SK61]]    |
+>| [[bu-sk61-deepseek-pali]]      |   [[The_Concise_Buddhist_Monastic_Code_1.pdf|BMC1 Concise]]       | [[ñanatusita-analysis#^SK61]]    |
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 

@@ -48,7 +48,7 @@ vin_gender-corr: ""
 >| Vibhanga | BMC    | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc10-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC10]] |
->| [[bni-pc10-deepseek-pali]]      |          | [[ñanatusita-analysis#^-PC10]]    |
+>| [[bni-pc10-deepseek-pali]]      |   [[The_Concise_Buddhist_Monastic_Code_1.pdf|BMC1 Concise]]       | [[ñanatusita-analysis#^-PC10]]    |
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 

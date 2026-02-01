@@ -70,7 +70,7 @@ vin_gender-corr: "BNI-SS8"
 >| Vibhanga | BMC    | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-ss8-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SS8]] |
->| [[bu-ss8-deepseek-pali]]      |          | [[ñanatusita-analysis#^SS8]]    |
+>| [[bu-ss8-deepseek-pali]]      |   [[The_Concise_Buddhist_Monastic_Code_1.pdf|BMC1 Concise]]       | [[ñanatusita-analysis#^SS8]]    |
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
