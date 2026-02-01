@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA104]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA104]]
 > ◄  [[ma103-bdk]] 📜  [[ma105-bdk]] ►
 
 ### 104. The Discourse in the Udumbara [Forest]
@@ -69,8 +69,7 @@ honest, and without deception, will, after having been taught by me and having f
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma104-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,6 +80,5 @@ honest, and without deception, will, after having been taught by me and having f
 | [[DA14]], [[MA134]], [[SNP3.6]], [[SN22.4]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA104]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA104]]
 > ◄  [[ma103-bdk]] 📜  [[ma105-bdk]] ►

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA124]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA124]]
 > ◄  [[ma123-bdk]] 📜  [[ma125-bdk]] ►
 
 ### 124. The Discourse on Eight Obstacles
@@ -41,12 +41,11 @@ And respectfully follows the teaching of the World-honored One, Then one must ha
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma124-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > | [[AN8.29]] | [[EA42.1]] |  |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA124]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA124]]
 > ◄  [[ma123-bdk]] 📜  [[ma125-bdk]] ►

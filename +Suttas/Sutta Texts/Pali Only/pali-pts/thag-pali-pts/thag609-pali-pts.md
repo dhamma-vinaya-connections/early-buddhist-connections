@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG609-PALI"
+sutta_code: "THAG609"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG609-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG609]]
 > ◄  [[thag608-pali-pts]] 📜  [[thag610-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sīlavā hi bahū mitte saññamenādhigacchati,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag609-) 
 

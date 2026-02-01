@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG418-PALI"
+sutta_code: "THIG418"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG418-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG418]]
 > ◄  [[thig417-pali-pts]] 📜  [[thig419-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ te maṃ pitu gharaṃ paṭi nayiṃsu vimanā dukkhena |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig418-) 
 

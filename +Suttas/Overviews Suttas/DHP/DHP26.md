@@ -34,15 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[MN86]]"
-  - "[[SN1.36]]"
-  - "[[THAG16.8]]"
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: "[[MN86]], [[SN1.36]], [[THAG16.8]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP25]]  🌐 [[DN1]] ►
 
@@ -77,8 +71,7 @@ that’s who I call a brahmin
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -90,8 +83,7 @@ that’s who I call a brahmin
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BDHP26%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BDHP26%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -102,7 +94,7 @@ that’s who I call a brahmin
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDHP26%5D%5D%22%23mynotes%20-file%3Adhp26-%20-file%3A%22DHP25%22%20-file%3A%22DN1%22%20-file%3A%22DHP26%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/dhp26/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp26

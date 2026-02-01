@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG450-PALI"
+sutta_code: "THIG450"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG450-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG450]]
 > ◄  [[thig449-pali-pts]] 📜  [[thig451-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ kāmā kaṭukā āsīvisūpamā yesu mucchitā bālā |.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig450-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.213-PALI"
+sutta_code: "AN5.213"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sīla "
+  - "Ethics"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.213-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.213]]
 > ◄  [[an5.212-pali-sc]] 📜  [[an5.214-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -51,6 +51,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.213-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[UD8.6]] |  | A iii 252 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN33]], [[PLI-TV-KD6]], [[UD8.6]], [[DN16]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.213]]
+> ◄  [[an5.212-pali-sc]] 📜  [[an5.214-pali-sc]] ►

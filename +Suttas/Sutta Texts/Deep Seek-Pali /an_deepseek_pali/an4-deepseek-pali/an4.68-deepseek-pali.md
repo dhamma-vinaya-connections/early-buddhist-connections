@@ -4,10 +4,10 @@ sutta_title:
   - "Devadatta "
   - "Devadatta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.68]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.68]]
 > ◄  [[an4.67-deepseek-pali]] 📜  [[an4.69-deepseek-pali]] ►
 
 # AN 4.68 Devadattasuttaṃ
@@ -43,8 +43,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.68-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ language: "Pali"
 | [[EA12.7]], [[SN17.35-36]], [[PLI-TV-KD17]], [[SA1064]], [[EA23.7]], [[SA-2.3]], [[SN17.35]], [[SN6.12]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.68]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.68]]
 > ◄  [[an4.67-deepseek-pali]] 📜  [[an4.69-deepseek-pali]] ►

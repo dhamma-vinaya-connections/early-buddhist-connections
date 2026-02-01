@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG468-PALI"
+sutta_code: "THAG468"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG468-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG468]]
 > ◄  [[thag467-pali-pts]] 📜  [[thag469-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ye maṃ rūpena pāmiṃsu ye ca ghosena anvagū
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag468-) 
 

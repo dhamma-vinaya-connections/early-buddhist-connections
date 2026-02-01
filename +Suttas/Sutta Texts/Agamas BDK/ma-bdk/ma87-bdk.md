@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA87]]
 > ◄  [[ma86-bdk]] 📜  [[ma88-bdk]] ►
 
 ### 87. The Discourse on Defilements
@@ -51,8 +51,7 @@ When they hear the Dharma taught by Venerable Sāriputta, then just like food fo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma87-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -62,6 +61,5 @@ When they hear the Dharma taught by Venerable Sāriputta, then just like food fo
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA88]], [[MA93]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA87]]
 > ◄  [[ma86-bdk]] 📜  [[ma88-bdk]] ►

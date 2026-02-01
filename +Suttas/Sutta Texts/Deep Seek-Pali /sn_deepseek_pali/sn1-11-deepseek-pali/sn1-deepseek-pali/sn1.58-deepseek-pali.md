@@ -4,10 +4,10 @@ sutta_title:
   - "Uppathasutta "
   - "The Deviant Path"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
 > ◄  [[sn1.57-deepseek-pali]] 📜  [[sn1.59-deepseek-pali]] ►
 
 # SN 1.58 Uppathasuttaṃ
@@ -29,8 +29,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.58-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ language: "Pali"
 | [[SA-2.246]], [[SA1019]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
 > ◄  [[sn1.57-deepseek-pali]] 📜  [[sn1.59-deepseek-pali]] ►

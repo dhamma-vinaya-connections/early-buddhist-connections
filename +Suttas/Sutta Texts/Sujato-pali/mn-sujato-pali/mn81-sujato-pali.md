@@ -3,11 +3,11 @@ sutta_code: "MN81"
 sutta_title:
   - "Ghaṭikāra Sutta "
   - "With Ghaṭikāra"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-sujato-pali]] 📜  [[mn82-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -371,8 +371,7 @@ Ghaṭikārasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn81-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -383,6 +382,5 @@ Ghaṭikārasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 | [[MA63]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-sujato-pali]] 📜  [[mn82-sujato-pali]] ►

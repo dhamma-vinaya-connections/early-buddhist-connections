@@ -4,10 +4,10 @@ sutta_title:
   - "Nandasutta "
   - "Nanda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.27]]
 > ◄  [[sn2.26-deepseek-pali]] 📜  [[sn2.28-deepseek-pali]] ►
 
 # SN 2.27 Nandasuttaṃ
@@ -31,8 +31,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ language: "Pali"
 | [[SN1.4]], [[JA509]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.27]]
 > ◄  [[sn2.26-deepseek-pali]] 📜  [[sn2.28-deepseek-pali]] ►

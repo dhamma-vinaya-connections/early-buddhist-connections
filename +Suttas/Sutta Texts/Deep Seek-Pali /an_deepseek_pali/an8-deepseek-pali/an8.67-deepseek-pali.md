@@ -4,10 +4,10 @@ sutta_title:
   - "Anariyavohāra "
   - "Expressions Noble And Ignoble"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.67]]
 > ◄  [[an8.66-deepseek-pali]] 📜  [[an8.68-deepseek-pali]] ►
 
 # AN 8.67 Anariyavohārasuttaṃ
@@ -23,12 +23,11 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.67-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 307 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.67]]
 > ◄  [[an8.66-deepseek-pali]] 📜  [[an8.68-deepseek-pali]] ►

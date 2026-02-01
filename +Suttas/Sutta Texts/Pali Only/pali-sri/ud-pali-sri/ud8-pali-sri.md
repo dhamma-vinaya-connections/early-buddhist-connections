@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD8-PALI"
+sutta_code: "UD8"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8]]
 > ◄  [[ud7-pali-sri]] 📜  [[]] ►
 
 # Udanapali 8: Pataligamiyavaggo - BJT
@@ -395,6 +395,5 @@ Uttīrṇā medhāvino janā— (Divyāvadāna 3. 1).
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8-) 
 

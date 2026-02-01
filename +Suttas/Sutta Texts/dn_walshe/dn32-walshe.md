@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
 > ◄  [[dn31-walshe]] 📜  [[dn33-walshe]] ►
 
 # DN32 Āṭānāṭiya Sutta: The Āṭānātā Protective Verses
@@ -257,12 +257,11 @@ Thus the Lord spoke. And the monks were delighted and rejoiced at his words.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn32-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | D iii 194 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
 > ◄  [[dn31-walshe]] 📜  [[dn33-walshe]] ►

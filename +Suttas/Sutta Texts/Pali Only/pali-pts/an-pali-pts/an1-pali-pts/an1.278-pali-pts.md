@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.278-PALI"
+sutta_code: "AN1.278"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Aṭṭhāna "
+  - "Impossible"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.278-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.278]]
 > ◄  [[an1.268-pali-pts]] 📜  [[an1.287-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,11 @@ Aṭṭhānaṃ etaṃ bhikkhave anavakāso yaṃ ekissā lokadhātuyā dve rāj
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.278-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 28 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.278]]
+> ◄  [[an1.268-pali-pts]] 📜  [[an1.287-pali-pts]] ►

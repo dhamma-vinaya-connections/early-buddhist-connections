@@ -3,11 +3,11 @@ sutta_code: "MN97"
 sutta_title:
   - "Dhanañjāni Sutta "
   - "With Dhanañjāni"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN97]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN97]]
 > ◄  [[mn96-sujato-pali]] 📜  [[mn98-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -373,8 +373,7 @@ Dhanañjānisuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn97-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -389,6 +388,5 @@ Dhanañjānisuttaṁ niṭṭhitaṁ sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN143]]; [[SN3.17]]; [[SN41.7]]; [[SN41.10]]; [[AN4.178]]; [[AN10.15]], [[MN99]], [[MA152]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN97]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN97]]
 > ◄  [[mn96-sujato-pali]] 📜  [[mn98-sujato-pali]] ►

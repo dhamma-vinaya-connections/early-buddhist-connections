@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP3-PALI"
+sutta_code: "SNP3"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3]]
 > ◄  [[snp2-pali-sri]] 📜  [[snp4-pali-sri]] ►
 
 # 3. Maha-vagga - Pali
@@ -2565,6 +2565,5 @@ Dvādasetāni suttāni mahāvaggoti vuccatiti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3-) 
 

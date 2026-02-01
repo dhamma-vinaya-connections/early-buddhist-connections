@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN57-PALI"
+sutta_code: "MN57"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Kukkuravatika Sutta "
+  - "Ascetic Who Behaved Like a Dog"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
 > ◄  [[mn56-pali-sri]] 📜  [[mn58-pali-sri]] ►
 
 # 57. Kukkuravatiya Sutta - Pali
@@ -102,6 +102,20 @@ Kukkuravatiya2 suttaṃ sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn57-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.232]]; [[AN4.233]] |  | M i 387 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.233]]; [[AN4.232]]; [[DN33]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.235]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
+> ◄  [[mn56-pali-sri]] 📜  [[mn58-pali-sri]] ►

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA205]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA205]]
 > ◄  [[ma204-bdk]] 📜  [[ma206-bdk]] ►
 
 ### 205. The Discourse on the Five Lower Fetters
@@ -35,8 +35,7 @@ from the taints, [how he has] explained going beyond and crossing over the taint
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma205-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ from the taints, [how he has] explained going beyond and crossing over the taint
 | [[DN14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA205]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA205]]
 > ◄  [[ma204-bdk]] 📜  [[ma206-bdk]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Uddesavibhaṅga Sutta "
   - "Analysis of a Recitation Passage"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138]]
 > ◄  [[mn137-deepseek-pali]] 📜  [[mn139-deepseek-pali]] ►
 
 # 138. Dhātuvibhaṅgasuttaṃ
@@ -167,8 +167,7 @@ The Discourse on the Analysis of the Elements, the tenth, is completed.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn138-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -183,6 +182,5 @@ The Discourse on the Analysis of the Elements, the tenth, is completed.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.192]]; [[AN7.64]]; [[AN8.54]]; [[UD6.2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138]]
 > ◄  [[mn137-deepseek-pali]] 📜  [[mn139-deepseek-pali]] ►

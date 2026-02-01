@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-anigha]] 📜  [[mn57-anigha]] ►
 
 # MN 56 - With Upāli
@@ -295,8 +295,7 @@ Unable to bear this honor paid to the Auspicious One, the Jain Nāṭaputta spew
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn56-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -307,6 +306,5 @@ Unable to bear this honor paid to the Auspicious One, the Jain Nāṭaputta spew
 | [[MA133]]; [[AN4.193]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-anigha]] 📜  [[mn57-anigha]] ►

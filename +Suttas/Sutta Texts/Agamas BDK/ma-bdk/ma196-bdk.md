@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA196]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA196]]
 > ◄  [[ma195-bdk]] 📜  [[ma197-bdk]] ►
 
 ### 196. The Discourse to Cuṇḍa
@@ -51,8 +51,7 @@ Whatever moral conduct is not deficient, not defective, not defiled, not otherwi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma196-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -62,6 +61,5 @@ Whatever moral conduct is not deficient, not defective, not defiled, not otherwi
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN103]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA196]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA196]]
 > ◄  [[ma195-bdk]] 📜  [[ma197-bdk]] ►

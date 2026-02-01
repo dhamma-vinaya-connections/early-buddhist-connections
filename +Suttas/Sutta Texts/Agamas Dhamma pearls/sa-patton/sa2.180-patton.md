@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA2.180]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA2.180]]
 > ◄  [[sa2-patton]] 📜  [[sa3-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -49,8 +49,7 @@ The Buddha said, “I really did.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2.180-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -61,6 +60,5 @@ The Buddha said, “I really did.”
 | [[SA2]], [[SN22.52]], [[SN35.158-159]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA2.180]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA2.180]]
 > ◄  [[sa2-patton]] 📜  [[sa3-patton]] ►

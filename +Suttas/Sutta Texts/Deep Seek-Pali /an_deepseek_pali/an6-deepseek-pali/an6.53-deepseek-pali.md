@@ -4,10 +4,10 @@ sutta_title:
   - "Appamāda "
   - "Diligence"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.53]]
 > ◄  [[an6.52-deepseek-pali]] 📜  [[an6.54-deepseek-pali]] ►
 
 # AN 6.53 Appamādasuttaṃ
@@ -63,12 +63,11 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.53-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 364 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.53]]
 > ◄  [[an6.52-deepseek-pali]] 📜  [[an6.54-deepseek-pali]] ►

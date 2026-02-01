@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
 > ◄  [[mn57-bodhi]] 📜  [[mn59-bodhi]] ►
 
 # MN58 Abhayarājakumāra Sutta - To Prince Abhaya
@@ -63,8 +63,7 @@ Prince Abhaya then reported to the Blessed One his entire conversation with the 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn58-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -74,6 +73,5 @@ Prince Abhaya then reported to the Blessed One his entire conversation with the 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.24]]; [[AN4.42]]; [[AN4.183]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
 > ◄  [[mn57-bodhi]] 📜  [[mn59-bodhi]] ►

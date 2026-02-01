@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG386-PALI"
+sutta_code: "THAG386"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG386-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG386]]
 > ◄  [[thag385-pali-pts]] 📜  [[thag387-pali-pts]] ►
 
 ## Theragāthā
@@ -24,6 +24,5 @@ Yassa sabrahmacārīsu gāravo n'; ūpalabbhati,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag386-) 
 

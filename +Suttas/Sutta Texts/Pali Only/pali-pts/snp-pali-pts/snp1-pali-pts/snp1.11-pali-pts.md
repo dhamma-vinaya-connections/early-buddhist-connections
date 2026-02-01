@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.11-PALI"
+sutta_code: "SNP1.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vijaya "
+  - "Victory"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.11]]
 > ◄  [[snp1.10-pali-pts]] 📜  [[snp1.12-pali-pts]] ►
 
 # SNP1.11 Vijayasutta
@@ -49,6 +49,7 @@ VIJAYASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.11]]
+> ◄  [[snp1.10-pali-pts]] 📜  [[snp1.12-pali-pts]] ►

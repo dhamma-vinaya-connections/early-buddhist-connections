@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.225]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.225]]
 > ◄  [[an5.224-bodhi]] 📜  [[an5.226-bodhi]] ►
 
 # AN5.225 One Who Visits Families (1)
@@ -21,12 +21,11 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.225-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 258 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.225]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.225]]
 > ◄  [[an5.224-bodhi]] 📜  [[an5.226-bodhi]] ►

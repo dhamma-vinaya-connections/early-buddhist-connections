@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG721-PALI"
+sutta_code: "THAG721"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG721-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG721]]
 > ◄  [[thag720-pali-pts]] 📜  [[thag722-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sabbaññū sabbadassāvī jino ācariyo mama
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag721-) 
 

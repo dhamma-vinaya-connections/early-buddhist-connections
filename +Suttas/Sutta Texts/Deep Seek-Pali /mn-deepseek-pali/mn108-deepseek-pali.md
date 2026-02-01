@@ -4,10 +4,10 @@ sutta_title:
   - "Gopakamoggallāna Sutta "
   - "With Moggallāna the Guardian"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-deepseek-pali]] 📜  [[mn109-deepseek-pali]] ►
 
 # 108. Mahāpuṇṇamasuttaṃ
@@ -83,8 +83,7 @@ The Great Full Moon Discourse, the ninth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn108-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ The Great Full Moon Discourse, the ninth, is concluded.
 | [[MA145]]; [[SN22.58]]; [[DN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-deepseek-pali]] 📜  [[mn109-deepseek-pali]] ►

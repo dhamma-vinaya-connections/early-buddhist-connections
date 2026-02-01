@@ -3,11 +3,11 @@ sutta_code: "MN93"
 sutta_title:
   - "Assalāyana Sutta "
   - "With Assalāyana"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn92-sujato-pali]] 📜  [[mn94-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -411,8 +411,7 @@ Assalāyanasuttaṁ niṭṭhitaṁ tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn93-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -423,6 +422,5 @@ Assalāyanasuttaṁ niṭṭhitaṁ tatiyaṁ.
 | [[EA40.9]]; [[MA151]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn92-sujato-pali]] 📜  [[mn94-sujato-pali]] ►

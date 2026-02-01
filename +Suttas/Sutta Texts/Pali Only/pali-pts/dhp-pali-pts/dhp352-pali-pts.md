@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP352-PALI"
+sutta_code: "DHP352"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP352-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP352]]
 > ◄  [[dhp351-pali-pts]] 📜  [[dhp353-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ sabbābhibhū sabbavidū 'ham asmi sabbesu dhammesu anūpalitto /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp352-) 
 

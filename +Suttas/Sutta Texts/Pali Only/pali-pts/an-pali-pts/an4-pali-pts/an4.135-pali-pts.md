@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.135-PALI"
+sutta_code: "AN4.135"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Uṭṭhānaphala "
+  - "Initiative Fruits"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.135-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.135]]
 > ◄  [[an4.134-pali-pts]] 📜  [[an4.136-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,11 @@ Uṭṭhānaphalūpajīvī na kammaphalūpajīvī, kammaphalūpajīvī na uṭ�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.135-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 135 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.135]]
+> ◄  [[an4.134-pali-pts]] 📜  [[an4.136-pali-pts]] ►

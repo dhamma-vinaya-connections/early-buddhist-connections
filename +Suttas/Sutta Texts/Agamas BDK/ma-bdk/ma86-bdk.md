@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA86]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA86]]
 > ◄  [[ma85-bdk]] 📜  [[ma87-bdk]] ►
 
 ### 86. The Discourse Explaining the Bases
@@ -59,6 +59,5 @@ Go and sit in meditation and contemplation in a secluded place, on a mountain, i
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma86-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI73-PALI"
+sutta_code: "ITI73"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Santatara "
+  - "More Peaceful"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI73-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI73]]
 > ◄  [[iti72-pali-pts]] 📜  [[iti74-pali-pts]] ►
 
 ## Itivuttaka
@@ -34,6 +34,20 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||4||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti73-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SNP3.12]], [[SN5.6]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5:200.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI73]]
+> ◄  [[iti72-pali-pts]] 📜  [[iti74-pali-pts]] ►

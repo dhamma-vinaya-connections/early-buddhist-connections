@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN29-PALI"
+sutta_code: "MN29"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahāsāropama Sutta "
+  - "Longer Simile of the Heartwood"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29]]
 > ◄  [[mn28-pali-sc]] 📜  [[mn30-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -80,6 +80,20 @@ Aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ so bhikkhu tāya asamayavimutti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn29-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN30]] | [[EA43.4]] | M i 192 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA43.4]]; [[MN30]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN30]]; [[SN17.3]]; [[SN17.5]]; [[SN17.8]]; [[AN8.7]]; [[AN8.8]]; [[AN10.58]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29]]
+> ◄  [[mn28-pali-sc]] 📜  [[mn30-pali-sc]] ►

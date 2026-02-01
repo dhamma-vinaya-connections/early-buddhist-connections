@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA95]]
 > ◄  [[ma92-patton]] 📜  [[ma96-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -85,8 +85,7 @@ End of the ninth _sūtra_, _Abiding in Qualities_ (631 Chinese characters) ^ma95
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma95-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -101,6 +100,5 @@ End of the ninth _sūtra_, _Abiding in Qualities_ (631 Chinese characters) ^ma95
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA93]], [[MA96]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA95]]
 > ◄  [[ma92-patton]] 📜  [[ma96-patton]] ►

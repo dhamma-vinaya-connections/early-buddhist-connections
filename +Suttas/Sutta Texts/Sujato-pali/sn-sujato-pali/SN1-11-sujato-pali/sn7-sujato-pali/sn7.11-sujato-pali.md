@@ -3,11 +3,11 @@ sutta_code: "SN7.11"
 sutta_title:
   - "Kasibhāradvājasutta "
   - "Kasi Bharadvaja"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
 > ◄  [[sn7.10-sujato-pali]] 📜  [[sn7.12-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -137,8 +137,7 @@ Khettañhi taṁ puññapekkhassa hotī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -149,6 +148,5 @@ Khettañhi taṁ puññapekkhassa hotī"ti.
 | [[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP1.4]], [[SNP3.4]], [[SN7.8]], [[SN7.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
 > ◄  [[sn7.10-sujato-pali]] 📜  [[sn7.12-sujato-pali]] ►

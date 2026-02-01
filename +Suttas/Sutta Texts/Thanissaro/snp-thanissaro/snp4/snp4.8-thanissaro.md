@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
 > ◄  [[snp4.7-thanissaro]] 📜  [[snp4.9-thanissaro]] ►
 
 # 4:8  To Pasūra
@@ -135,9 +135,7 @@ vv. 824–834
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.8-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
 > ◄  [[snp4.7-thanissaro]] 📜  [[snp4.9-thanissaro]] ►

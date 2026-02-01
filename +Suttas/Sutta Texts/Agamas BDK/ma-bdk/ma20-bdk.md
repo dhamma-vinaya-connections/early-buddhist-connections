@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA20]]
 > ◄  [[ma19-bdk]] 📜  [[ma21-bdk]] ►
 
 ### 20. The Discourse to Pāṭaliya
@@ -77,8 +77,7 @@ the entire world [with a mind that is] boundless, exalted, immeasurable and well
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,6 +88,5 @@ the entire world [with a mind that is] boundless, exalted, immeasurable and well
 | [[AN8.29]], [[MA124]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA20]]
 > ◄  [[ma19-bdk]] 📜  [[ma21-bdk]] ►

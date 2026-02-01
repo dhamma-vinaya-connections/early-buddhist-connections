@@ -4,10 +4,10 @@ sutta_title:
   - "Accharāsutta "
   - "Nymphs"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.46]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.46]]
 > ◄  [[sn1.45-deepseek-pali]] 📜  [[sn1.47-deepseek-pali]] ►
 
 # SN 1.46 Accharāsuttaṃ
@@ -37,8 +37,7 @@ Whoever, woman or man, has such a vehicle, he or she is indeed close to Nibbana 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.46-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -53,6 +52,5 @@ Whoever, woman or man, has such a vehicle, he or she is indeed close to Nibbana 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN54.4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.46]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.46]]
 > ◄  [[sn1.45-deepseek-pali]] 📜  [[sn1.47-deepseek-pali]] ►

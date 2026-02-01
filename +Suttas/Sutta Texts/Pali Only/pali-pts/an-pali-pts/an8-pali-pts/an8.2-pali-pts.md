@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.2-PALI"
+sutta_code: "AN8.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paññā "
+  - "Wisdom"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.2]]
 > ◄  [[an8.1-pali-pts]] 📜  [[an8.3-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,11 @@ Aṭṭh'; ime bhikkhave hetū aṭṭha paccayā ādibrahmacariyikāya paññā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 151 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.2]]
+> ◄  [[an8.1-pali-pts]] 📜  [[an8.3-pali-pts]] ►

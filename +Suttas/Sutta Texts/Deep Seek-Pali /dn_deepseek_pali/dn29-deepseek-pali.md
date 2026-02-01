@@ -4,10 +4,10 @@ sutta_title:
   - "Pāsādika Sutta "
   - "An Impressive Discourse"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
 > ◄  [[dn28-deepseek-pali]] 📜  [[dn30-deepseek-pali]] ►
 
 # Pāsādikasuttaṃ
@@ -331,8 +331,7 @@ The Pāsādika Sutta: The Sixth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -343,6 +342,5 @@ The Pāsādika Sutta: The Sixth.
 | [[AN9.7]], [[DA17]], [[AN9.8]], [[MN76]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
 > ◄  [[dn28-deepseek-pali]] 📜  [[dn30-deepseek-pali]] ►

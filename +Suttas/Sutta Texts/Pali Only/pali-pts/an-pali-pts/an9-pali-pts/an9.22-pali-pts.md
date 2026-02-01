@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.22-PALI"
+sutta_code: "AN9.22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Assakhaḷuṅka "
+  - "Wild Colt"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.22]]
 > ◄  [[an9.21-pali-pts]] 📜  [[an9.23-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,16 @@ Bhagavā etad avoca:--
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.140]], [[AN3.141]], [[AN3.142]] | [[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]] | A iv 397 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN3.140]], [[SA-2.143]], [[SA917]], [[AN3.141]], [[SA-2.144]], [[SA918]], [[AN3.142]], [[SA-2.145]], [[SA919]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.22]]
+> ◄  [[an9.21-pali-pts]] 📜  [[an9.23-pali-pts]] ►

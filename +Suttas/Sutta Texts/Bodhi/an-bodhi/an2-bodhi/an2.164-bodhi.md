@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.164]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.164]]
 > ◄  [[an2.163-bodhi]] 📜  [[an2.180-bodhi]] ►
 
 # AN2.164-179
@@ -23,6 +23,5 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.164-) 
 

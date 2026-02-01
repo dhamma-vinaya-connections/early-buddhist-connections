@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.33-PALI"
+sutta_code: "AN3.33"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ānanda "
+  - "Ananda"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.33-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.33]]
 > ◄  [[an3.32-pali-sc]] 📜  [[an3.34-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -43,6 +43,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.33-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.199]] | [[SA-3.8]], [[SA983]], [[SA984]] | A i 133 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA983]], [[SA-3.8]], [[AN4.199]], [[SA984]], [[SNP5.14]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.33]]
+> ◄  [[an3.32-pali-sc]] 📜  [[an3.34-pali-sc]] ►

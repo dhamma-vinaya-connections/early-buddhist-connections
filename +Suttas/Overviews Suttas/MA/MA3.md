@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Fortress similes like skillful qualities"
-parallels_nikaya:
-  - "[[AN7.67]]"
-parallels_agama:
-  - "[[EA39.4]]"
-parallels_partilal:
-  - "[[THAG17.3]]"
+parallels_nikaya: "[[AN7.67]]"
+parallels_agama: "[[EA39.4]]"
+parallels_partilal: "[[THAG17.3]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MA]] | ◄  [[MA2]]  🌐 [[MA4]] ►
 
@@ -63,8 +59,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -76,8 +71,7 @@ parallels_partilal:
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BMA3%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BMA3%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -88,7 +82,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMA3%5D%5D%22%23mynotes%20-file%3Ama3-%20-file%3A%22MA2%22%20-file%3A%22MA4%22%20-file%3A%22MA3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ma3/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.75]]
 > ◄  [[sn1.74-bodhi]] 📜  [[sn1.76-bodhi]] ►
 
 # SN1.75 Afraid
@@ -44,8 +44,7 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.75-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -56,6 +55,5 @@ language: "English"
 | [[JA458]], [[SA-2.314]], [[SA1315]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.75]]
 > ◄  [[sn1.74-bodhi]] 📜  [[sn1.76-bodhi]] ►

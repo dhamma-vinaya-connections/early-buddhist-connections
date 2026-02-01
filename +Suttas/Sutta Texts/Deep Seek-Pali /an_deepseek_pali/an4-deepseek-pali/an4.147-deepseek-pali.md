@@ -4,10 +4,10 @@ sutta_title:
   - "Kāla "
   - "Times"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.147]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.147]]
 > ◄  [[an4.146-deepseek-pali]] 📜  [[an4.148-deepseek-pali]] ►
 
 # AN 4.147 Dutiyakālasuttaṃ
@@ -27,8 +27,7 @@ Just as, monks, when thick raindrops fall from the sky on a mountain top, the wa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.147-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ Just as, monks, when thick raindrops fall from the sky on a mountain top, the wa
 | [[AN10.61]], [[AN3.95]], [[AN10.62]], [[SN55.38]], [[SN12.23]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.147]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.147]]
 > ◄  [[an4.146-deepseek-pali]] 📜  [[an4.148-deepseek-pali]] ►

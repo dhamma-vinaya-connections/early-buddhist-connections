@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN23-PALI"
+sutta_code: "DN23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pāyāsi Sutta "
+  - "With Pāyāsi"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-pali-pts]] 📜  [[dn24-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -308,6 +308,16 @@ Satipaṭṭhāna-Pāyāsi Mahāvaggassa saṅgaho.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn23-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA7]], [[MA71]] | D ii 316 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA7]], [[MA71]], [[JA91]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
+> ◄  [[dn22-pali-pts]] 📜  [[dn24-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.197-PALI"
+sutta_code: "AN4.197"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mallikādevī "
+  - "Queen Mallikā"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.197-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.197]]
 > ◄  [[an4.196-pali-sc]] 📜  [[an4.198-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -56,6 +56,11 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.197-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 202 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.197]]
+> ◄  [[an4.196-pali-sc]] 📜  [[an4.198-pali-sc]] ►

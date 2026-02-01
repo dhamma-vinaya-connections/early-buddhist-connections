@@ -4,10 +4,10 @@ sutta_title:
   - "Vassa "
   - "Rain Obstacles"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.197]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.197]]
 > ◄  [[an5.196-deepseek-pali]] 📜  [[an5.198-deepseek-pali]] ►
 
 # AN 5.197 Vassasuttaṃ
@@ -39,12 +39,11 @@ Furthermore, Bhikkhus, people are unrighteous. This, Bhikkhus, is the fifth obst
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.197-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 243 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.197]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.197]]
 > ◄  [[an5.196-deepseek-pali]] 📜  [[an5.198-deepseek-pali]] ►

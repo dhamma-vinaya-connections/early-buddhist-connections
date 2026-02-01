@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1228-PALI"
+sutta_code: "THAG1228"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1228-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1228]]
 > ◄  [[thag1227-pali-pts]] 📜  [[thag1229-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ saccaṃ ve amatā vācā, esa dhammo sanantano;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1228-) 
 

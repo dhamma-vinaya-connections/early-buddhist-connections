@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.87-PALI"
+sutta_code: "AN4.87"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Saṃyojana "
+  - "Fetters"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.87-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.87]]
 > ◄  [[an4.86-pali-sc]] 📜  [[an4.88-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -40,6 +40,16 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.87-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.104]] |  | A ii 86 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.104]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.87]]
+> ◄  [[an4.86-pali-sc]] 📜  [[an4.88-pali-sc]] ►

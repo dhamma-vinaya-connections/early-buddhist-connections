@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA201]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA201]]
 > ◄  [[sa200-patton]] 📜  [[sa202-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -30,8 +30,7 @@ _Thus, [there are more]_ sūtra_s teaching a certain monk. The differences are: 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa201-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -42,6 +41,5 @@ _Thus, [there are more]_ sūtra_s teaching a certain monk. The differences are: 
 | [[SN35.53-59]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA201]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA201]]
 > ◄  [[sa200-patton]] 📜  [[sa202-patton]] ►

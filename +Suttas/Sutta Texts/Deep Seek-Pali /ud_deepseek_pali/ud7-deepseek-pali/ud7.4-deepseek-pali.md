@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyasatta Sutta "
   - "Attached to Sensual Pleasures (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.4]]
 > ◄  [[ud7.3-deepseek-pali]] 📜  [[ud7.5-deepseek-pali]] ►
 
 # Ud 7.4 Dutiyasattasuttaṃ
@@ -35,8 +35,7 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG4.8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.4]]
 > ◄  [[ud7.3-deepseek-pali]] 📜  [[ud7.5-deepseek-pali]] ►

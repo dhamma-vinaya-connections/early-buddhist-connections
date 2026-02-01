@@ -3,11 +3,11 @@ sutta_code: "AN5.125"
 sutta_title:
   - "Anāyussā "
   - "Longevity"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.125]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.125]]
 > ◄  [[an5.124-sujato-pali]] 📜  [[an5.126-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -35,12 +35,11 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.125-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 145 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.125]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.125]]
 > ◄  [[an5.124-sujato-pali]] 📜  [[an5.126-sujato-pali]] ►

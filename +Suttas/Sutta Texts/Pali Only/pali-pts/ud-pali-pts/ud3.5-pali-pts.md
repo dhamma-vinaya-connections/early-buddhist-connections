@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD3.5-PALI"
+sutta_code: "UD3.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kolita Sutta "
+  - "Mahā Moggallāna"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.5]]
 > ◄  [[ud3.3-pali-pts]] 📜  [[ud3.7-pali-pts]] ►
 
 ## Udāna
@@ -30,6 +30,20 @@ addasā kho Sakko devānam indo āyasmantaṃ Mahākassapaṃ dūrato 'va āgacc
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[PE1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[THAG17:2]], [[MN119]], [[SN47:20]], [[SN21:4]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.5]]
+> ◄  [[ud3.3-pali-pts]] 📜  [[ud3.7-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.133-PALI"
+sutta_code: "AN3.133"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Yodhājīva "
+  - "Warrior"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.133-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.133]]
 > ◄  [[an3.132-pali-sc]] 📜  [[an3.134-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -34,6 +34,16 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.133-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.181]] |  | A i 284 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.181]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.133]]
+> ◄  [[an3.132-pali-sc]] 📜  [[an3.134-pali-sc]] ►

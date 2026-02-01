@@ -4,10 +4,10 @@ sutta_title:
   - "Janavasabha Sutta "
   - "With Janavasabha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
 > ◄  [[dn17-deepseek-pali]] 📜  [[dn19-deepseek-pali]] ►
 
 # Janavasabhasuttaṃ
@@ -239,8 +239,7 @@ This matter was heard by the yakkha Janavasabha in King Vessavaṇa’s own asse
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -251,6 +250,5 @@ This matter was heard by the yakkha Janavasabha in King Vessavaṇa’s own asse
 | [[DA4]], [[THAG16.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
 > ◄  [[dn17-deepseek-pali]] 📜  [[dn19-deepseek-pali]] ►

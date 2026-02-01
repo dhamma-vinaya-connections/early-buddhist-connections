@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.16-PALI"
+sutta_code: "SN4.16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pattasutta "
+  - "Almsbowls"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
 > ◄  [[sn4.15-pali-sc]] 📜  [[sn4.17-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -45,6 +45,16 @@ mārasenāpi nājjhagā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.16-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1102]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1102]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
+> ◄  [[sn4.15-pali-sc]] 📜  [[sn4.17-pali-sc]] ►

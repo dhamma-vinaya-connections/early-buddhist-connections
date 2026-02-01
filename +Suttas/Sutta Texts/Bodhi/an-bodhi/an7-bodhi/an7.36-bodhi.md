@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.36]]
 > ◄  [[an7.35-bodhi]] 📜  [[an7.37-bodhi]] ►
 
 # AN7.36 A Friend (1)
@@ -45,8 +45,7 @@ should resort to such a person. \[32\]
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ should resort to such a person. \[32\]
 | [[AN3.135]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.36]]
 > ◄  [[an7.35-bodhi]] 📜  [[an7.37-bodhi]] ►

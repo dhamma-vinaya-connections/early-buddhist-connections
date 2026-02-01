@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG17-PALI"
+sutta_code: "THIG17"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG17]]
 > ◄  [[thig16-pali-pts]] 📜  [[thig18-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ hitvā rāgañ ca dosañ ca avijjañ ca virājiya |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig17-) 
 

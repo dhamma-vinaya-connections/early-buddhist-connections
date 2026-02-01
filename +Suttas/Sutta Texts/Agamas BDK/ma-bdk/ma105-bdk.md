@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA105]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA105]]
 > ◄  [[ma104-bdk]] 📜  [[ma106-bdk]] ►
 
 ### 105. The Discourse on Wishes Thus have I heard. At one time the Buddha was staying at Sāvatthī, in Jeta’s Grove, Anāthapiṇḍika’s Park. At that time there was a monk who was living alone, in seclusion, staying in a remote and quiet place.^295 While sitting in meditation and reflecting, he had this thought, “The World-honored One has comforted me with his words and taught me the Dharma. [Accordingly,] I have fulfilled the precepts, do not neglect absorption, am accomplished in insight, and dwell in empty and quiet places.” Then, having had this thought, in the late afternoon that monk rose from sitting in meditation and approached the Buddha.^296 On seeing that monk coming in the distance, the World-honored One, on account of that monk [who was approaching], told the [assembled] monks: Should you wish, “May the World-honored One comfort me with his words and teach me the Dharma!”, then fulfill the precepts, do not neglect absorp- tion, be accomplished in insight, and dwell in empty and quiet places.^297 Monks, should you wish, “On my account may my relatives, on the breaking up of the body at death, definitely ascend to a good realm of existence by being reborn in a heavenly realm!”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, “The donors who supply me with robes and blankets, food and drink, beds and bedding, and medicine, all the requisites, may they on account of these gifts [come to] possess great merit, great brilliance, and obtain great fruits!”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places. Monks, should you wish, “May I be able to endure hunger and thirst, cold and heat, mosquitoes and gadflies, flies and fleas, the impact of wind and sun, evil words and [even] being beaten with sticks; may I also be able to bear disease that afflicts the body with extreme pain and suffering, enough to make me wish to end my life; also any [other] disagreeable [experience]—may I be able to bear them all!”, then fulfill the precepts, do not neglect absorption, be accomplished in insight, and dwell in empty and quiet places.
@@ -21,8 +21,7 @@ Monks, should you wish, “May I attain the peaceful liberations that transcend 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma105-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -33,6 +32,5 @@ Monks, should you wish, “May I attain the peaceful liberations that transcend 
 | [[SN12.29]], [[SN12.30]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA105]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA105]]
 > ◄  [[ma104-bdk]] 📜  [[ma106-bdk]] ►

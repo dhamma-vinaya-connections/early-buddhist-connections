@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.56]]
 > ◄  [[an7.55-bodhi]] 📜  [[an7.57-bodhi]] ►
 
 # AN7.56 Tissa
@@ -65,12 +65,11 @@ Then, having delighted and rejoiced in the words of the brahmā Tissa, just as a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.56-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 74 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.56]]
 > ◄  [[an7.55-bodhi]] 📜  [[an7.57-bodhi]] ►

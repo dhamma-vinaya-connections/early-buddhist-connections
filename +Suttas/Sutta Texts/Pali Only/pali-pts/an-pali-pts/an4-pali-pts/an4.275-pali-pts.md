@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.275-PALI"
+sutta_code: "AN4.275"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sammappadhāna "
+  - "Effort, Right"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.275-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.275]]
 > ◄  [[an4.274-pali-pts]] 📜  [[]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Rāgassa bhikkhave abhiññāya ime cattāro dhammā bhāvetabbā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.275-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.13]], [[AN4.69]] | [[SA875]], [[SA876]] | A ii 256 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.13]], [[AN4.69]], [[SA875]], [[SA876]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.275]]
+> ◄  [[an4.274-pali-pts]] 📜  [[]] ►

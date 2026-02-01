@@ -4,10 +4,10 @@ sutta_title:
   - "Sambahulasutta "
   - "A Number"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.21]]
 > ◄  [[sn4.20-deepseek-pali]] 📜  [[sn4.22-deepseek-pali]] ►
 
 # SN 4.21 Sambahulasuttaṃ
@@ -35,8 +35,7 @@ Then those monks approached the Blessed One; having approached, they paid homage
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then those monks approached the Blessed One; having approached, they paid homage
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.20]], [[SN4.17]], [[SN35.127]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.21]]
 > ◄  [[sn4.20-deepseek-pali]] 📜  [[sn4.22-deepseek-pali]] ►

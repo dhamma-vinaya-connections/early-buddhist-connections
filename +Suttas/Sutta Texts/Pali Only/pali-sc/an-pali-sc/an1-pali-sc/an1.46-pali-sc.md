@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.46-PALI"
+sutta_code: "AN1.46"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paṇihitaaccha "
+  - "Spike"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.46-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.46]]
 > ◄  [[an1.45-pali-sc]] 📜  [[an1.47-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -23,6 +23,11 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.46-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 9 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.46]]
+> ◄  [[an1.45-pali-sc]] 📜  [[an1.47-pali-sc]] ►

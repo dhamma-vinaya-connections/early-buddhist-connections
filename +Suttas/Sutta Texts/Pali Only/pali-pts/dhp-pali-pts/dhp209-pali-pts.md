@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP209-PALI"
+sutta_code: "DHP209"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP209-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP209]]
 > ◄  [[dhp208-pali-pts]] 📜  [[dhp210-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ mā piyehi samāgañchi appiyehi kudācanaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp209-) 
 

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.12]]
 > ◄  [[sn8.11-bodhi]] 📜  [[]] ►
 
 # SN8.12 Vaṅgīsa
@@ -71,8 +71,7 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ language: "English"
 | [[SA-2.252]], [[SA1217]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.12]]
 > ◄  [[sn8.11-bodhi]] 📜  [[]] ►

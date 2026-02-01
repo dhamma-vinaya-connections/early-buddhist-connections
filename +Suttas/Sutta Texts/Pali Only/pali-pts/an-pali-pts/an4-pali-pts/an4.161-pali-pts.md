@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.161-PALI"
+sutta_code: "AN4.161"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vitthāra "
+  - "Modes Of Practice"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.161-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.161]]
 > ◄  [[an4.160-pali-pts]] 📜  [[an4.162-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,11 @@ Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā sukh�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.161-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 149 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.161]]
+> ◄  [[an4.160-pali-pts]] 📜  [[an4.162-pali-pts]] ►

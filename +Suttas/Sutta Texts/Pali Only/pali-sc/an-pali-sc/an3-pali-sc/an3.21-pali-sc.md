@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.21-PALI"
+sutta_code: "AN3.21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Samiddha "
+  - "With Saviṭṭha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.21]]
 > ◄  [[an3.20-pali-sc]] 📜  [[an3.22-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -62,6 +62,11 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.21-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 118 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.21]]
+> ◄  [[an3.20-pali-sc]] 📜  [[an3.22-pali-sc]] ►

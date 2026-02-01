@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.36-PALI"
+sutta_code: "AN8.36"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Puññakiriyavatthu "
+  - "Making Merit Grounds"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.36-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.36]]
 > ◄  [[an8.35-pali-sc]] 📜  [[an8.37-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -41,6 +41,20 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.36-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 241 |
+> > [!check]- Partial parallels 
+> > 
+| [[ITI60]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN8.35]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.36]]
+> ◄  [[an8.35-pali-sc]] 📜  [[an8.37-pali-sc]] ►

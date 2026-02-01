@@ -3,11 +3,11 @@ sutta_code: "AN8.5"
 sutta_title:
   - "Dutiyalokadhamma "
   - "Worldly Conditions"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
 > ◄  [[an8.4-sujato-pali]] 📜  [[an8.6-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -63,8 +63,7 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Pañcamaṁ.
 | [[EA43.8]], [[DN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
 > ◄  [[an8.4-sujato-pali]] 📜  [[an8.6-sujato-pali]] ►

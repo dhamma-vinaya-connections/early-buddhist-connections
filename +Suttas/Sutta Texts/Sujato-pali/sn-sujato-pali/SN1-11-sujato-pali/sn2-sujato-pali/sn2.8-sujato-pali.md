@@ -3,11 +3,11 @@ sutta_code: "SN2.8"
 sutta_title:
   - "Tāyanasutta "
   - "Tayana"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
 > ◄  [[sn2.7-sujato-pali]] 📜  [[sn2.9-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -138,8 +138,7 @@ na taṁ hoti mahapphalan’ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -150,6 +149,5 @@ na taṁ hoti mahapphalan’ti.
 | [[DHP311]], [[DHP312]], [[THAG4.3]], [[DHP313]], [[DHP314]], [[DHP383]], [[SN2.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
 > ◄  [[sn2.7-sujato-pali]] 📜  [[sn2.9-sujato-pali]] ►

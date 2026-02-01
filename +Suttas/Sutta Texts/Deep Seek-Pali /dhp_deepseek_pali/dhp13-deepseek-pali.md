@@ -4,10 +4,10 @@ sutta_title:
   - "Lokavagga "
   - "World"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP13]]
 > ◄  [[dhp12-deepseek-pali]] 📜  [[dhp14-deepseek-pali]] ►
 
 # Dhp 13. Lokavaggo
@@ -80,8 +80,7 @@ The Chapter on the World, the Thirteenth, is Finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -92,6 +91,5 @@ The Chapter on the World, the Thirteenth, is Finished.
 | [[THAG2.7]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP13]]
 > ◄  [[dhp12-deepseek-pali]] 📜  [[dhp14-deepseek-pali]] ►

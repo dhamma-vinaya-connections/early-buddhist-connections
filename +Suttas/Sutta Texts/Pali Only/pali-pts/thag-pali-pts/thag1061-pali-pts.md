@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1061-PALI"
+sutta_code: "THAG1061"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1061-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1061]]
 > ◄  [[thag1060-pali-pts]] 📜  [[thag1062-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ karerimālāvitatā bhūmibhāgā manoramā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1061-) 
 

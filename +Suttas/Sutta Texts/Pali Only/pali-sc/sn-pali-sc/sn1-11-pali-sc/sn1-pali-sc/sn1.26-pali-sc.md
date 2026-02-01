@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.26-PALI"
+sutta_code: "SN1.26"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pajjotasutta "
+  - "Sources of Light"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.26-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
 > ◄  [[sn1.25-pali-sc]] 📜  [[sn1.27-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -53,6 +53,16 @@ esā ābhā anuttarā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.26-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP387]], [[SN2.4]] | [[SA-2.309]], [[SA1310]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.309]], [[SA1310]], [[SN2.4]], [[DHP387]], [[SN21.11]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
+> ◄  [[sn1.25-pali-sc]] 📜  [[sn1.27-pali-sc]] ►

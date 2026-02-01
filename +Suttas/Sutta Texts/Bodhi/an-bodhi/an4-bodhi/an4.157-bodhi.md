@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.157]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.157]]
 > ◄  [[an4.156-bodhi]] 📜  [[an4.158-bodhi]] ►
 
 # AN4.157 Illness
@@ -25,8 +25,7 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.157-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -37,6 +36,5 @@ language: "English"
 | [[MN2]], [[MN125]], [[AN4.114]], [[AN4.165]], [[AN5.140]], [[PLI-TV-KD1]], [[PLI-TV-BU-VB-PC65]], [[PLI-TV-BI-VB-PC71]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.157]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.157]]
 > ◄  [[an4.156-bodhi]] 📜  [[an4.158-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN5.3-PALI"
+sutta_code: "SN5.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kisāgotamīsutta "
+  - "Gotami"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
 > ◄  [[sn5.2-pali-pts]] 📜  [[sn5.4-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -40,6 +40,16 @@ Atha kho Māro pāpimā || jānāti maṃ Kisā-Gotamī bhikkhunīti dukkhī dum
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.216]], [[SA1200]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.216]], [[SA1200]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
+> ◄  [[sn5.2-pali-pts]] 📜  [[sn5.4-pali-pts]] ►

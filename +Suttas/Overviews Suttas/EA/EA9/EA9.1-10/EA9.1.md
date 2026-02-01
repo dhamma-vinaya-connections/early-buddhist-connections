@@ -34,20 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Hook, turtle struck by a harpoon,  long-haired goat, dung beetle, thunderbolt, poisoned dart, jackals, gale winds, like the dangers of gain, praise and honor"
-parallels_nikaya:
-  - "[[SN17.24]]"
-  - "[[SN17.6]]"
-  - "[[SN17.23]]"
-parallels_agama:
-  - "[[EA9.1]]"
-  - "[[EA9.2]]"
-parallels_partilal:
-  - "[[EA9.1]]"
-  - "[[SN17.24]]"
-  - "[[EA9.2]]"
-  - "[[SN17.6]]"
-  - "[[SN17.23]]"
+parallels_nikaya: "[[SN17.24]], [[SN17.6]], [[SN17.23]]"
+parallels_agama: "[[EA9.1]], [[EA9.2]]"
+parallels_partilal: "[[EA9.1]], [[SN17.24]], [[EA9.2]], [[SN17.6]], [[SN17.23]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA8.10]]  🌐 [[EA9.2]] ►
 
@@ -70,8 +59,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ea9.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,8 +71,7 @@ parallels_partilal:
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BEA9.1%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BEA9.1%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -95,7 +82,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BEA9.1%5D%5D%22%23mynotes%20-file%3Aea9.1-%20-file%3A%22EA8.10%22%20-file%3A%22EA9.2%22%20-file%3A%22EA9.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ea9.1/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 

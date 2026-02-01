@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
 > ◄  [[mn12-bodhi]] 📜  [[mn14-bodhi]] ►
 
 # MN13 Mahādukkhakkhandha Sutta - The Greater Discourse
@@ -88,8 +88,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -104,6 +103,5 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN14]], [[MN54]]]]; [[[[SN35.63]]]]; [[[[SN35.115]]]]; [[[[SN35.189]]]]; [[[[AN6.63]]]]; [[[[AN9.34]]]]; [[[[AN9.36]]]]; [[[[THIG13.1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
 > ◄  [[mn12-bodhi]] 📜  [[mn14-bodhi]] ►

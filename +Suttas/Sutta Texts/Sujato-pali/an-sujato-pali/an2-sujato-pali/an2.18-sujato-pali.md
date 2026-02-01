@@ -3,11 +3,11 @@ sutta_code: "AN2.18"
 sutta_title:
   - "Neyyatha "
   - "Meaning To Be Inferred"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.18]]
 > ◄  [[an2.17-sujato-pali]] 📜  [[an2.19-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -51,12 +51,11 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A i 60 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.18]]
 > ◄  [[an2.17-sujato-pali]] 📜  [[an2.19-sujato-pali]] ►

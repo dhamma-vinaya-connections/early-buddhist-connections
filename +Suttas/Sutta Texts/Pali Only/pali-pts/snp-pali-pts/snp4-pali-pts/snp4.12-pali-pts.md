@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.12-PALI"
+sutta_code: "SNP4.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Cūḷabyūhasutta "
+  - "Shorter Discourse on Arrayed For Battle"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.12]]
 > ◄  [[snp4.11-pali-pts]] 📜  [[snp4.13-pali-pts]] ►
 
 # SNP4.12 Cūḷaviyūhasutta
@@ -93,6 +93,7 @@ CŪḶAVIYŪHASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.12]]
+> ◄  [[snp4.11-pali-pts]] 📜  [[snp4.13-pali-pts]] ►

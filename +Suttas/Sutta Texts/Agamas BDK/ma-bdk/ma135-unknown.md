@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA135]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA135]]
 > ◄  [[ma134]] 📜  [[ma136]] ►
 
 ### 135. The Discourse on Sujāta
@@ -115,8 +115,7 @@ Do not give money To one who is violent and aggressive. The east is parents; The
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma135-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -127,6 +126,5 @@ Do not give money To one who is violent and aggressive. The east is parents; The
 | [[SNP3.12]], [[PE2]], [[PE3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA135]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA135]]
 > ◄  [[ma134]] 📜  [[ma136]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Vitakka "
   - "Thoughts"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI38]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI38]]
 > ◄  [[iti37-deepseek-pali]] 📜  [[iti39-deepseek-pali]] ►
 
 # Iti 38 Desanāsuttaṃ
@@ -29,8 +29,7 @@ This meaning too was spoken by the Blessed One, thus I have heard. Second.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti38-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This meaning too was spoken by the Blessed One, thus I have heard. Second.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DHP28]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI38]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI38]]
 > ◄  [[iti37-deepseek-pali]] 📜  [[iti39-deepseek-pali]] ►

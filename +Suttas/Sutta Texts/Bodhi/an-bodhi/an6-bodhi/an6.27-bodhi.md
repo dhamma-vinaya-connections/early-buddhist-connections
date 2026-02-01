@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.27]]
 > ◄  [[an6.26-bodhi]] 📜  [[an6.28-bodhi]] ►
 
 # AN6.27 Occasion (1)
@@ -37,12 +37,11 @@ Then a certain bhikkhu approached the Blessed One, paid homage to him, sat down 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 317 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.27]]
 > ◄  [[an6.26-bodhi]] 📜  [[an6.28-bodhi]] ►

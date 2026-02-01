@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN21-PALI"
+sutta_code: "DN21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sakkapañha Sutta "
+  - "Sakka’s Questions"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
 > ◄  [[dn20-pali-pts]] 📜  [[dn22-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -285,6 +285,16 @@ SAKKA-PAÑHA-SUTTANTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn21-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA14]], [[MA134]] | D ii 263 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA14]], [[MA134]], [[SNP3.6]], [[SN22.4]], [[SA552]], [[SA505]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
+> ◄  [[dn20-pali-pts]] 📜  [[dn22-pali-pts]] ►

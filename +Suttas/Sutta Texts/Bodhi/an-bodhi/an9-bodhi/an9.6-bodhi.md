@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.6]]
 > ◄  [[an9.5-bodhi]] 📜  [[an9.7-bodhi]] ►
 
 # AN9.6 Association
@@ -45,8 +45,7 @@ There the Venerable Sāriputta addressed the bhikkhus: “Friends, bhikkhus!”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -61,6 +60,5 @@ There the Venerable Sāriputta addressed the bhikkhus: “Friends, bhikkhus!”
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN17]], [[MN3]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.6]]
 > ◄  [[an9.5-bodhi]] 📜  [[an9.7-bodhi]] ►

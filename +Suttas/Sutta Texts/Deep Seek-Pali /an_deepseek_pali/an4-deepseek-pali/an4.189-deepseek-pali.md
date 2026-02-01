@@ -4,10 +4,10 @@ sutta_title:
   - "Sacchikaraṇīya "
   - "Things To Be Realized"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.189]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.189]]
 > ◄  [[an4.188-deepseek-pali]] 📜  [[an4.190-deepseek-pali]] ►
 
 # AN 4.189 Sacchikaraṇīyasuttaṃ
@@ -35,12 +35,11 @@ And what, monks, are the things to be directly experienced by the eye? The passi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.189-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A ii 182 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.189]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.189]]
 > ◄  [[an4.188-deepseek-pali]] 📜  [[an4.190-deepseek-pali]] ►

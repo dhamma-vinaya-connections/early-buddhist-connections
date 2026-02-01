@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.33-PALI"
+sutta_code: "AN6.33"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Aparihāna "
+  - "Non-Decline"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.33-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.33]]
 > ◄  [[an6.32-pali-pts]] 📜  [[an6.34-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,20 @@ abhabbo parihānāya nibbānass'eva santike ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.33-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN7.33]], [[DHP32]] |  | A iii 331 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN7.33]], [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN6.31]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.33]]
+> ◄  [[an6.32-pali-pts]] 📜  [[an6.34-pali-pts]] ►

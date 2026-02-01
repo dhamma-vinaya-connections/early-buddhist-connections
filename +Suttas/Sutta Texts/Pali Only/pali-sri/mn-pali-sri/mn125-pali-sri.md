@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN125-PALI"
+sutta_code: "MN125"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Dantabhūmi Sutta "
+  - "Level of the Tamed"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN125-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN125]]
 > ◄  [[mn124-pali-sri]] 📜  [[mn126-pali-sri]] ►
 
 # 125. Dantabhumi - Pali
@@ -164,6 +164,20 @@ Dantabhūmi suttaṃ pañcamaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn125-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA198]] | M iii 128 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN2]]; [[AN4.114]]; [[AN4.157]]; [[AN4.165]]; [[AN5.140]]; [[PLI-TV-KD1]]; [[PLI-TV-BU-VB-PC65]]; [[PLI-TV-BI-VB-PC71]]; [[MN107]]; [[MA198]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN8.9]], [[AN4.111]], [[MN107]], [[MN65]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN125]]
+> ◄  [[mn124-pali-sri]] 📜  [[mn126-pali-sri]] ►

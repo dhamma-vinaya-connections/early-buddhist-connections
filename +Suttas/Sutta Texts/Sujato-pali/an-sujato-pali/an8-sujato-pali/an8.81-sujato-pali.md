@@ -3,11 +3,11 @@ sutta_code: "AN8.81"
 sutta_title:
   - "Satisampajañña "
   - "Mindfulness And Situational Awareness"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.81]]
 > ◄  [[an8.80-sujato-pali]] 📜  [[an8.82-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -53,8 +53,7 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.81-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -65,6 +64,5 @@ Paṭhamaṁ.
 | [[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[MA45]], [[AN7.65]], [[AN6.50]], [[MA48]], [[AN11.4]], [[AN5.21]], [[MA49]], [[AN5.22]], [[MA50]], [[AN5.24]], [[AN5.168]], [[MA46]], [[SA495]], [[AN10.4]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.81]]
 > ◄  [[an8.80-sujato-pali]] 📜  [[an8.82-sujato-pali]] ►

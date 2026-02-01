@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN150-PALI"
+sutta_code: "MN150"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Nagaravindeyya Sutta "
+  - "With the People of Nagaravinda"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
 > ◄  [[mn149-pali-sri]] 📜  [[mn151-pali-sri]] ►
 
 # 150. Nagaravindeyya Sutta - Pali
@@ -72,6 +72,16 @@ Next Sutta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn150-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA280]] | M iii 290 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA280]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
+> ◄  [[mn149-pali-sri]] 📜  [[mn151-pali-sri]] ►

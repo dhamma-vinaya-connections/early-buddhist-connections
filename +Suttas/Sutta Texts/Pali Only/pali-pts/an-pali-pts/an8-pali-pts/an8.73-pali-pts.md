@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.73-PALI"
+sutta_code: "AN8.73"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Maraṇassati "
+  - "Mindfulness Of Death 1st"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.73-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
 > ◄  [[an8.72-pali-pts]] 📜  [[an8.74-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Bhikkhavo ti. Bhadante ti te bhikkhū Bhagavato paccassosuṃ. Bhagavā etad avo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.73-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN6.19]] | [[EA40.8]] | A iv 316 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN6.19]], [[EA40.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
+> ◄  [[an8.72-pali-pts]] 📜  [[an8.74-pali-pts]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
 > ◄  [[sn7.14-bodhi]] 📜  [[sn7.16-bodhi]] ►
 
 # SN7.15 Mānatthaddha
@@ -74,8 +74,7 @@ When this was said, the brahmin Mānatthaddha said to the Blessed One: “Magnif
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -86,6 +85,5 @@ When this was said, the brahmin Mānatthaddha said to the Blessed One: “Magnif
 | [[SN7.14]], [[SA-2.262]], [[SA96]], [[SA-2.258]], [[SA92]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
 > ◄  [[sn7.14-bodhi]] 📜  [[sn7.16-bodhi]] ►

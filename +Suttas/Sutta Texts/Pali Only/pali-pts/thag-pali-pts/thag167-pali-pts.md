@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG167-PALI"
+sutta_code: "THAG167"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG167-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG167]]
 > ◄  [[thag166-pali-pts]] 📜  [[thag168-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tvañ ca me maggam akkhāhi añjasaṃ amatogadhaṃ;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag167-) 
 

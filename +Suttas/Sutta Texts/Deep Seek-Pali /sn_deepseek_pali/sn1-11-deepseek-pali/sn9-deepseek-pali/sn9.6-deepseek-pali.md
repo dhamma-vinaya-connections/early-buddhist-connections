@@ -4,10 +4,10 @@ sutta_title:
   - "Anuruddhasutta "
   - "Anuruddha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.6]]
 > ◄  [[sn9.5-deepseek-pali]] 📜  [[sn9.7-deepseek-pali]] ►
 
 # SN 9.6 Anuruddhasuttaṃ
@@ -43,8 +43,7 @@ There is now no more return, Jālinī, to the world of gods. Destroyed is the ro
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ There is now no more return, Jālinī, to the world of gods. Destroyed is the ro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.1]], [[SN9.14.SN5.7]], [[SN6.15.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.6]]
 > ◄  [[sn9.5-deepseek-pali]] 📜  [[sn9.7-deepseek-pali]] ►

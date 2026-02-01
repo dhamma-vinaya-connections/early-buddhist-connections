@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG336-PALI"
+sutta_code: "THAG336"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG336-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG336]]
 > ◄  [[thag335-pali-pts]] 📜  [[thag337-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ajjhattañ ca bahiddhā ca ye me vijjiṃsu āsavā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag336-) 
 

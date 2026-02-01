@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.14-PALI"
+sutta_code: "SNP4.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Tuvaṭakasutta "
+  - "Speedy"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.14]]
 > ◄  [[snp4.13-pali-sc]] 📜  [[snp4.15-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -115,6 +115,7 @@ Tuvaṭakasuttaṁ cuddasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.14-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.14]]
+> ◄  [[snp4.13-pali-sc]] 📜  [[snp4.15-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG10-PALI"
+sutta_code: "THAG10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dasakanipātavagga "
+  - "Tens Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG10]]
 > ◄  [[thag9-pali-sc]] 📜  [[thag11-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -387,6 +387,5 @@ Etaṁ samaṇassa patirūpan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag10-) 
 

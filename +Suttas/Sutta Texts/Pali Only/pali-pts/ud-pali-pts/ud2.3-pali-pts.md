@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD2.3-PALI"
+sutta_code: "UD2.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Danda Sutta "
+  - "The Stick"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
 > ◄  [[ud1.10-pali-pts]] 📜  [[ud2.6-pali-pts]] ►
 
 ## Udāna
@@ -35,6 +35,16 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP131]], [[DHP132]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP131]], [[DHP132]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
+> ◄  [[ud1.10-pali-pts]] 📜  [[ud2.6-pali-pts]] ►

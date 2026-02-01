@@ -4,10 +4,10 @@ sutta_title:
   - "Asubhānupassī "
   - "Contemplating Foulness"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI85]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI85]]
 > ◄  [[iti84-deepseek-pali]] 📜  [[iti86-deepseek-pali]] ►
 
 # Iti 85 Dhammānudhammapaṭipannasuttaṃ
@@ -29,9 +29,7 @@ This too is the meaning spoken by the Blessed One, so I have heard. The seventh.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti85-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI85]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI85]]
 > ◄  [[iti84-deepseek-pali]] 📜  [[iti86-deepseek-pali]] ►

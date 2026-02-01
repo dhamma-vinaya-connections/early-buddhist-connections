@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI108-PALI"
+sutta_code: "ITI108"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kuha "
+  - "Deceivers"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI108-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI108]]
 > ◄  [[iti107-pali-sc]] 📜  [[iti109-pali-sc]] ►
 
 # Iti 108. Carasuttaṃ
@@ -43,6 +43,16 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Ekādasamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti108-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.26]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.26]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI108]]
+> ◄  [[iti107-pali-sc]] 📜  [[iti109-pali-sc]] ►

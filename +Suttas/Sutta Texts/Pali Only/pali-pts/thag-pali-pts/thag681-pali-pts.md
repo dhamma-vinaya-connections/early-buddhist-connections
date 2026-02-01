@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG681-PALI"
+sutta_code: "THAG681"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG681-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG681]]
 > ◄  [[thag680-pali-pts]] 📜  [[thag682-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ anuddhato acapalo nipako saṃvutindriyo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag681-) 
 

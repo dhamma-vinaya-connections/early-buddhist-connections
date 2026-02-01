@@ -4,10 +4,10 @@ sutta_title:
   - "Paṇḍita "
   - "Wise"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.32]]
 > ◄  [[an3.31-deepseek-pali]] 📜  [[an3.33-deepseek-pali]] ►
 
 # AN 3.32 Ānandasuttaṃ
@@ -43,8 +43,7 @@ Having weighed the high and low in the world, in whom there is no wavering anywh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.32-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Having weighed the high and low in the world, in whom there is no wavering anywh
 | [[SA982]], [[SNP5.4]], [[AN4.41]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.32]]
 > ◄  [[an3.31-deepseek-pali]] 📜  [[an3.33-deepseek-pali]] ►

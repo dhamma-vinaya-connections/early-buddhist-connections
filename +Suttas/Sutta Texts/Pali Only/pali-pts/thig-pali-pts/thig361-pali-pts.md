@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG361-PALI"
+sutta_code: "THIG361"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG361-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG361]]
 > ◄  [[thig360-pali-pts]] 📜  [[thig362-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ imaṃ passatha dhammaṭṭhaṃ Subbaṃ kammāradhītaraṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig361-) 
 

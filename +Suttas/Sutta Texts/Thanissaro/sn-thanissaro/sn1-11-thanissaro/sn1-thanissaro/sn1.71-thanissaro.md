@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.71]]
 > ◄  [[sn1.69-thanissaro]] 📜  [[sn1.73-thanissaro]] ►
 
 ## SN1.71 Having Killed
@@ -57,8 +57,7 @@ you do not grieve.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.71-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ you do not grieve.”
 | [[SN2.3]], [[SN7.1]], [[SN11.21]], [[SA1309]], [[SA-2.308]], [[SA1158]], [[SA-2.81]], [[SA1116]], [[SA-2.45]], [[SA-2.283]], [[SA1285]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.71]]
 > ◄  [[sn1.69-thanissaro]] 📜  [[sn1.73-thanissaro]] ►

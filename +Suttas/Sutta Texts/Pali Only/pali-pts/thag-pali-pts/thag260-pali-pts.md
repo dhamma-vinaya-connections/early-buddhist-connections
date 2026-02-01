@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG260-PALI"
+sutta_code: "THAG260"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG260-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG260]]
 > ◄  [[thag259-pali-pts]] 📜  [[thag264-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ Pāpamitte vivajjetvā bhajeyy'; uttamapuggale
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag260-) 
 

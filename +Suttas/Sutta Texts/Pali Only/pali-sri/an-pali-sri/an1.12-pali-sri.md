@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.12-PALI"
+sutta_code: "AN1.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Nīvaraṇappahāna "
+  - "Giving Up The Hindrances"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.12]]
 > ◄  [[an1.11-pali-sri]] 📜  [[an1.13-pali-sri]] ►
 
 # 3:12 Apayikavaggo - Pali
@@ -308,6 +308,16 @@ Muniṃ moneyyasampannaṃ āhu sabbappahāyinanti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA9.9]] | A i 3 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA9.9]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.12]]
+> ◄  [[an1.11-pali-sri]] 📜  [[an1.13-pali-sri]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Samiddhisutta "
   - "Samiddhi"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
 > ◄  [[sn1.19-deepseek-pali]] 📜  [[sn1.21-deepseek-pali]] ►
 
 # SN 1.20 Samiddhisuttaṃ
@@ -141,8 +141,7 @@ The pleasure grove indeed delights, but not like having a son. A warrior and the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -157,6 +156,5 @@ The pleasure grove indeed delights, but not like having a son. A warrior and the
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]], [[SN5.1]], [[SN5.4]], [[SN5.7]], [[SN5.6]], [[ALSOSN4.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
 > ◄  [[sn1.19-deepseek-pali]] 📜  [[sn1.21-deepseek-pali]] ►

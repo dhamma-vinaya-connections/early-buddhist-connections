@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG18-PALI"
+sutta_code: "THAG18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paññāsanipātavagga "
+  - "Fifties Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG18]]
 > ◄  [[thag17-pali-sc]] 📜  [[thag19-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -245,6 +245,5 @@ sadā carati nibbuto"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag18-) 
 

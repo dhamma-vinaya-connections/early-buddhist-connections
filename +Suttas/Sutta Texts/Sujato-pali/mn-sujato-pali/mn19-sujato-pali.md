@@ -3,11 +3,11 @@ sutta_code: "MN19"
 sutta_title:
   - "Dvedhāvitakka Sutta "
   - "Two Kinds of Thought"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
 > ◄  [[mn18-sujato-pali]] 📜  [[mn20-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -157,8 +157,7 @@ Dvedhāvitakkasuttaṁ niṭṭhitaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -173,6 +172,5 @@ Dvedhāvitakkasuttaṁ niṭṭhitaṁ navamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.259]], [[MN20]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
 > ◄  [[mn18-sujato-pali]] 📜  [[mn20-sujato-pali]] ►

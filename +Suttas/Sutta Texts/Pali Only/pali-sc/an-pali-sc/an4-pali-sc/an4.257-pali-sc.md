@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.257-PALI"
+sutta_code: "AN4.257"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Abhiññā "
+  - "Insight"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.257-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.257]]
 > ◄  [[an4.256-pali-sc]] 📜  [[an4.258-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -39,6 +39,11 @@ Catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.257-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 248 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.257]]
+> ◄  [[an4.256-pali-sc]] 📜  [[an4.258-pali-sc]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Kāmasutta "
   - "Love"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.78]]
 > ◄  [[sn1.77-deepseek-pali]] 📜  [[sn1.79-deepseek-pali]] ►
 
 # SN 1.78 Kāmasuttaṃ
@@ -29,6 +29,5 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.78-) 
 

@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA82]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA82]]
 > ◄  [[ma81-patton]] 📜  [[ma83-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -95,8 +95,7 @@ Citra’s friends answered, “No. Why is that? After a night has passed and the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma82-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -107,6 +106,5 @@ Citra’s friends answered, “No. Why is that? After a night has passed and the
 | [[SN11.15]], [[THAG17.2]], [[JA355]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA82]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA82]]
 > ◄  [[ma81-patton]] 📜  [[ma83-patton]] ►

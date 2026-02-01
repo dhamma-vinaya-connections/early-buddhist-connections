@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG832-PALI"
+sutta_code: "THAG832"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG832-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG832]]
 > ◄  [[thag831-pali-pts]] 📜  [[thag833-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Brahmabhūtaṃ atitulaṃ Mārasenappamaddanaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag832-) 
 

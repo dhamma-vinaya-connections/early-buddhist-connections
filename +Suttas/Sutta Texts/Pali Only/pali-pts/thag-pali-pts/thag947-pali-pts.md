@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG947-PALI"
+sutta_code: "THAG947"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG947-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG947]]
 > ◄  [[thag946-pali-pts]] 📜  [[thag948-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ idaṃ vatvā sālavane samaṇo bhāvitindriyo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag947-) 
 

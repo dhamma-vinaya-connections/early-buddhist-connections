@@ -3,11 +3,11 @@ sutta_code: "SN2.10"
 sutta_title:
   - "Sūriyasutta "
   - "Suriya"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.10]]
 > ◄  [[sn2.9-sujato-pali]] 📜  [[sn2.11-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -104,6 +104,5 @@ Candimasūriyena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.10-) 
 

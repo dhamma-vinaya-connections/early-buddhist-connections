@@ -4,10 +4,10 @@ sutta_title:
   - "Cittasutta "
   - "Mind"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.62]]
 > ◄  [[sn1.61-deepseek-pali]] 📜  [[sn1.63-deepseek-pali]] ►
 
 # SN 1.62 Cittasuttaṃ
@@ -29,8 +29,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.62-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ language: "Pali"
 | [[SA-2.236]], [[SA1009]], [[AN4.186]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.62]]
 > ◄  [[sn1.61-deepseek-pali]] 📜  [[sn1.63-deepseek-pali]] ►

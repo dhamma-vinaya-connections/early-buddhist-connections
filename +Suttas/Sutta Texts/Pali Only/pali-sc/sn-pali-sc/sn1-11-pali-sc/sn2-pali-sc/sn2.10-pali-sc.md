@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.10-PALI"
+sutta_code: "SN2.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sūriyasutta "
+  - "Suriya"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.10]]
 > ◄  [[sn2.9-pali-sc]] 📜  [[sn2.11-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -61,6 +61,5 @@ Candimasūriyena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.10-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Saṅgārava Sutta "
   - "With Saṅgārava"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
 > ◄  [[mn99-deepseek-pali]] 📜  [[mn101-deepseek-pali]] ►
 
 # 100. Saṅgāravasuttaṃ
@@ -159,8 +159,7 @@ The Middle Fifty is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn100-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -171,6 +170,5 @@ The Middle Fifty is concluded.
 | [[MN85]]; [[MN36]]; [[EA31.8]]; [[DA20]]; [[DA21]]; [[DA22]]; [[PLI-TV-KD15]]; [[DN14]]; [[SN6.1]]; [[MA204]]; [[MN26]]; [[MN20]]; [[MN4]]; [[MA101]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
 > ◄  [[mn99-deepseek-pali]] 📜  [[mn101-deepseek-pali]] ►

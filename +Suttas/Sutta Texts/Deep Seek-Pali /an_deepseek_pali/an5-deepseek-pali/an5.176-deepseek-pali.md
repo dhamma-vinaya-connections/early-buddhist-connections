@@ -4,10 +4,10 @@ sutta_title:
   - "Pīti "
   - "Rapture"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.176]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.176]]
 > ◄  [[an5.175-deepseek-pali]] 📜  [[an5.177-deepseek-pali]] ►
 
 # AN 5.176 Pītisuttaṃ
@@ -35,8 +35,7 @@ When this was said, Venerable Sāriputta said to the Blessed One: “It is wonde
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.176-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ When this was said, Venerable Sāriputta said to the Blessed One: “It is wonde
 | [[SA482]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.176]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.176]]
 > ◄  [[an5.175-deepseek-pali]] 📜  [[an5.177-deepseek-pali]] ►

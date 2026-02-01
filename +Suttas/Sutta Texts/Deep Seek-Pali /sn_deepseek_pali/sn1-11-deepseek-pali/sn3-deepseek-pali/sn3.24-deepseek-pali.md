@@ -4,10 +4,10 @@ sutta_title:
   - "Issattasutta "
   - "Archery"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
 > ◄  [[sn3.23-deepseek-pali]] 📜  [[sn3.25-deepseek-pali]] ►
 
 # SN 3.24 Issattasuttaṃ
@@ -63,8 +63,7 @@ Just so, the faithful, learned, wise one, having prepared food thoughtfully, del
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Just so, the faithful, learned, wise one, having prepared food thoughtfully, del
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.57]], [[ITI76.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
 > ◄  [[sn3.23-deepseek-pali]] 📜  [[sn3.25-deepseek-pali]] ►

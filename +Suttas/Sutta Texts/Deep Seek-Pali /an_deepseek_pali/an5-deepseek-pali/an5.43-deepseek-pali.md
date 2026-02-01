@@ -4,10 +4,10 @@ sutta_title:
   - "Ittha "
   - "Likable"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.43]]
 > ◄  [[an5.42-deepseek-pali]] 📜  [[an5.44-deepseek-pali]] ►
 
 # AN 5.43 Iṭṭhasuttaṃ
@@ -63,8 +63,7 @@ By realizing the benefit in this very life and the benefit in the life to come, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.43-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ By realizing the benefit in this very life and the benefit in the life to come, 
 | [[ITI23]], [[SN3.17]], [[SN3.18]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.43]]
 > ◄  [[an5.42-deepseek-pali]] 📜  [[an5.44-deepseek-pali]] ►

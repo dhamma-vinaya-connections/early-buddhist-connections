@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG17-PALI"
+sutta_code: "THAG17"
 sutta_title:
-  - " "
-  - ""
+  - "Tiṁsanipātavagga "
+  - "Thirties Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG17]]
 > ◄  [[thag16-pali-eng]] 📜  [[thag18-pali-eng]] ►
 
 # Thag 17. Tiṃsanipāto
@@ -531,6 +531,5 @@ The Teacher has been served by me, the Buddha’s teaching has been done; the he
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag17-) 
 

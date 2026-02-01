@@ -3,11 +3,11 @@ sutta_code: "AN4.195"
 sutta_title:
   - "With Vappa "
   - "With Vappa"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.195]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.195]]
 > ◄  [[an4.194-sujato-pali]] 📜  [[an4.196-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -131,8 +131,7 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.195-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -143,6 +142,5 @@ Pañcamaṁ.
 | [[MA12]], [[SN42.12]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.195]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.195]]
 > ◄  [[an4.194-sujato-pali]] 📜  [[an4.196-sujato-pali]] ►

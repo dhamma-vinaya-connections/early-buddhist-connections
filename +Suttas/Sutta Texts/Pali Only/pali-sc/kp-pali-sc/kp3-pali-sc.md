@@ -1,13 +1,13 @@
 ---
-sutta_code: "KP3-PALI"
+sutta_code: "KP3"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP3]]
 > ◄  [[kp2-pali-sc]] 📜  [[kp4-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -34,6 +34,5 @@ assu, vasā, kheḷo, siṅghānikā, lasikā, muttaṁ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp3-) 
 

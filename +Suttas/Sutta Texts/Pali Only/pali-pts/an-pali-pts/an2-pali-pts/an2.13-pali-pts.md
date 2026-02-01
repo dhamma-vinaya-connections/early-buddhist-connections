@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.13-PALI"
+sutta_code: "AN2.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Āyācana "
+  - "Aspiration"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.13]]
 > ◄  [[an2.9-pali-pts]] 📜  [[an2.14-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -28,6 +28,11 @@ Idha bhikkhave bhikkhu vivicc'; eva kāmehi vivicca akusalehi dhammehi savitakka
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 91 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.13]]
+> ◄  [[an2.9-pali-pts]] 📜  [[an2.14-pali-pts]] ►

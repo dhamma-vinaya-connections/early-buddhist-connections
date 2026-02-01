@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI9-PALI"
+sutta_code: "ITI9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "馬邑 "
+  - "Discourse at Assapura 2"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI9]]
 > ◄  [[iti8-pali-pts]] 📜  [[iti10-pali-pts]] ►
 
 ## Itivuttaka
@@ -25,6 +25,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||9||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti9-) 
 

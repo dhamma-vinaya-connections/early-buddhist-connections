@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.73-PALI"
+sutta_code: "AN1.73"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vīriyārambhādi "
+  - "Energy Arousing"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.73-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.73]]
 > ◄  [[an1.72-pali-pts]] 📜  [[an1.74-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,11 @@ Anuyogā bhikkhave kusalā dhammā ananuyogā akusalānaṃ dhammānaṃ anuppan
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.73-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 14 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.73]]
+> ◄  [[an1.72-pali-pts]] 📜  [[an1.74-pali-pts]] ►

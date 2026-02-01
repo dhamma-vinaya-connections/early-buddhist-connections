@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_6]]
 > ◄  [[SA3_5]] 📜  [[SA3_7]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -43,6 +43,5 @@ He replied, “Venerable Śāriputra, that awareness is not made by oneself, not
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa3_6-) 
 

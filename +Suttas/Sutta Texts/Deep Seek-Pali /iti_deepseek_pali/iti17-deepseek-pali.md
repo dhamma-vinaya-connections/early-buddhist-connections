@@ -4,10 +4,10 @@ sutta_title:
   - "Sekha "
   - "Good Friend"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI17]]
 > ◄  [[iti16-deepseek-pali]] 📜  [[iti18-deepseek-pali]] ►
 
 # Iti 17 Saṅghabhedasuttaṃ
@@ -27,6 +27,5 @@ This too was said by the Blessed One, so I heard. Eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti17-) 
 

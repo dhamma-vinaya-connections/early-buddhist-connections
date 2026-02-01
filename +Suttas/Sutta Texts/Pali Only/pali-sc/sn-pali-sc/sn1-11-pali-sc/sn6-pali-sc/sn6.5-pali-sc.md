@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.5-PALI"
+sutta_code: "SN6.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Aññatarabrahmasutta "
+  - "A Certain Brahma Another View"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.5]]
 > ◄  [[sn6.4-pali-sc]] 📜  [[sn6.6-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -75,6 +75,16 @@ bahū buddhassa sāvakā’"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.109]], [[SA1196]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.109]], [[SA1196]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.5]]
+> ◄  [[sn6.4-pali-sc]] 📜  [[sn6.6-pali-sc]] ►

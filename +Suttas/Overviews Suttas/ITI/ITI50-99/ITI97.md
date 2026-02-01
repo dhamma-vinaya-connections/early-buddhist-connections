@@ -36,15 +36,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP391]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[DHP391]]"
-  - "[[JA348]]"
-  - "[[JA435]]"
+parallels_nikaya: "[[DHP391]]"
+parallels_agama: ""
+parallels_partilal: "[[DHP391]], [[JA348]], [[JA435]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI96]]  🌐 [[ITI98]] ►
 
@@ -67,8 +61,7 @@ he’s called a person of admirable virtue,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti97-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -80,8 +73,7 @@ he’s called a person of admirable virtue,
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BITI97%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BITI97%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -92,7 +84,7 @@ he’s called a person of admirable virtue,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI97%5D%5D%22%23mynotes%20-file%3Aiti97-%20-file%3A%22ITI96%22%20-file%3A%22ITI98%22%20-file%3A%22ITI97%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti97/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti97

@@ -4,10 +4,10 @@ sutta_title:
   - "Vammika Sutta "
   - "Ant-Hill"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
 > ◄  [[mn22-deepseek-pali]] 📜  [[mn24-deepseek-pali]] ►
 
 # 23. Vammikasuttaṃ
@@ -91,8 +91,7 @@ The Ant-hill Sutta, the third, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ The Ant-hill Sutta, the third, is finished.
 | [[EA39.9]]; [[SA-2.18]]; [[SA1079]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
 > ◄  [[mn22-deepseek-pali]] 📜  [[mn24-deepseek-pali]] ►

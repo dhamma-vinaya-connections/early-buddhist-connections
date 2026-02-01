@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG5-PALI"
+sutta_code: "THIG5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pañcakanipātavagga "
+  - "Fives Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG5]]
 > ◄  [[thig4-pali-sc]] 📜  [[thig6-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -355,6 +355,5 @@ tevijjāmhi anāsavā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig5-) 
 

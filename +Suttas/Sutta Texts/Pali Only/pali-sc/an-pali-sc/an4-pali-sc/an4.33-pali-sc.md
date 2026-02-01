@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.33-PALI"
+sutta_code: "AN4.33"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Siha "
+  - "Lion"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.33-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.33]]
 > ◄  [[an4.32-pali-sc]] 📜  [[an4.34-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -50,6 +50,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.33-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN22.78]] |  | A ii 33 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN22.78]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.33]]
+> ◄  [[an4.32-pali-sc]] 📜  [[an4.34-pali-sc]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Aṭṭhakanāgara Sutta "
   - "Man From the City of Aṭṭhaka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
 > ◄  [[mn51-deepseek-pali]] 📜  [[mn53-deepseek-pali]] ►
 
 # 52. Aṭṭhakanāgarasuttaṃ
@@ -79,8 +79,7 @@ Thus ends the Aṭṭhakanāgara Sutta, the second.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn52-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ Thus ends the Aṭṭhakanāgara Sutta, the second.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.36]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
 > ◄  [[mn51-deepseek-pali]] 📜  [[mn53-deepseek-pali]] ►

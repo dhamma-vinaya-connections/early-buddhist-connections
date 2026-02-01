@@ -3,11 +3,11 @@ sutta_code: "MN6"
 sutta_title:
   - "Ākaṅkheyya Sutta "
   - "One Might Wish"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
 > ◄  [[mn5-sujato-pali]] 📜  [[mn7-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -111,8 +111,7 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -123,6 +122,5 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
 | [[AN10.71]]; [[MA105]]; [[AN2.36:2.1]]; [[DN2]]; [[SN47.46]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
 > ◄  [[mn5-sujato-pali]] 📜  [[mn7-sujato-pali]] ►

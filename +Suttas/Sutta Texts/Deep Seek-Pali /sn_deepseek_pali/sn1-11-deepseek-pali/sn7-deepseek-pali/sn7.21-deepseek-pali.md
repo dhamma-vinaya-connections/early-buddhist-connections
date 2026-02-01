@@ -4,10 +4,10 @@ sutta_title:
   - "Saṅgāravasutta "
   - "Sangarava"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.21]]
 > ◄  [[sn7.20-deepseek-pali]] 📜  [[sn7.22-deepseek-pali]] ►
 
 # SN 7.21 Saṅgāravasuttaṃ
@@ -35,6 +35,5 @@ When this was said, the brahmin Sangarava said to the Blessed One: "Excellent, M
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.21-) 
 

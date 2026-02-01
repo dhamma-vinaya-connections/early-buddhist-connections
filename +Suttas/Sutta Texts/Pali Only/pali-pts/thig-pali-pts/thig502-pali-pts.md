@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG502-PALI"
+sutta_code: "THIG502"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG502-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG502]]
 > ◄  [[thig501-pali-pts]] 📜  [[thig503-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ amatamhi vijjamāne kin tava pañcakaṭukena pītena |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig502-) 
 

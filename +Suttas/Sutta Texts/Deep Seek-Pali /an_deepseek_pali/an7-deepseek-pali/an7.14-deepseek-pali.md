@@ -4,10 +4,10 @@ sutta_title:
   - "Puggala "
   - "Persons"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.14]]
 > ◄  [[an7.13-deepseek-pali]] 📜  [[an7.15-deepseek-pali]] ►
 
 # AN 7.14 Puggalasuttaṃ
@@ -23,12 +23,11 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 10 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.14]]
 > ◄  [[an7.13-deepseek-pali]] 📜  [[an7.15-deepseek-pali]] ►

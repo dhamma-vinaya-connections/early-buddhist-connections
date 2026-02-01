@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.52-PALI"
+sutta_code: "AN3.52"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dvebrāhmaṇa "
+  - "Two Brahmins"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.52-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.52]]
 > ◄  [[an3.51-pali-pts]] 📜  [[an3.53-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -31,6 +31,16 @@ Yaṃ jīvamāno pakaroti puññan ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.52-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.51]] | [[SA-2.86]], [[SA-2.87]] | A i 156 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.86]], [[AN3.51]], [[SA-2.87]], [[JA424]], [[SN1.41]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.52]]
+> ◄  [[an3.51-pali-pts]] 📜  [[an3.53-pali-pts]] ►

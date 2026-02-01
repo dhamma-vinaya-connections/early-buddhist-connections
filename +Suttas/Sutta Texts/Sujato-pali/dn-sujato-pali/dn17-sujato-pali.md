@@ -3,11 +3,11 @@ sutta_code: "DN17"
 sutta_title:
   - "Mahāsudassana Sutta "
   - "King Mahāsudassana"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
 > ◄  [[dn16-sujato-pali]] 📜  [[dn18-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -554,8 +554,7 @@ Mahāsudassanasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -570,6 +569,5 @@ Mahāsudassanasuttaṁ niṭṭhitaṁ catutthaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]], [[DA2]], [[MA70]], [[MA67]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
 > ◄  [[dn16-sujato-pali]] 📜  [[dn18-sujato-pali]] ►

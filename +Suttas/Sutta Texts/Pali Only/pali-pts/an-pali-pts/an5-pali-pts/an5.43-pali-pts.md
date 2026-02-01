@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.43-PALI"
+sutta_code: "AN5.43"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ittha "
+  - "Likable"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.43-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.43]]
 > ◄  [[an5.42-pali-pts]] 📜  [[an5.44-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Atha kho Anāthapiṇḍiko gahapati yena Bhagavā ten'; upasaṅkami, upasaṅk
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.43-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 47 |
+> > [!check]- Partial parallels 
+> > 
+| [[ITI23]], [[SN3.17]], [[SN3.18]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.43]]
+> ◄  [[an5.42-pali-pts]] 📜  [[an5.44-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.45-PALI"
+sutta_code: "AN6.45"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ina "
+  - "Debt"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.45-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.45]]
 > ◄  [[an6.44-pali-sc]] 📜  [[an6.46-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -138,6 +138,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.45-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA125]] | A iii 351 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN3.85]], [[MA125]], [[ITI30]], [[ITI64]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.45]]
+> ◄  [[an6.44-pali-sc]] 📜  [[an6.46-pali-sc]] ►

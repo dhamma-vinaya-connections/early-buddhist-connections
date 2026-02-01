@@ -3,11 +3,11 @@ sutta_code: "MN33"
 sutta_title:
   - "Mahāgopālaka Sutta "
   - "Longer Discourse on the Cowherd"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
 > ◄  [[mn32-sujato-pali]] 📜  [[mn34-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -153,8 +153,7 @@ Mahāgopālakasuttaṁ niṭṭhitaṁ tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -169,6 +168,5 @@ Mahāgopālakasuttaṁ niṭṭhitaṁ tatiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THIS SUTTA ALSO APPEARS AT AN11.18]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
 > ◄  [[mn32-sujato-pali]] 📜  [[mn34-sujato-pali]] ►

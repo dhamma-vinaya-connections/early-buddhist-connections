@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.20-PALI"
+sutta_code: "AN1.20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nīvaraṇappahāna "
+  - "Giving Up The Hindrances"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.20]]
 > ◄  [[an1.19-pali-sc]] 📜  [[an1.21-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -25,6 +25,16 @@ Nīvaraṇappahānavaggo dutiyo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.20-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA9.10]] | A i 4 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA9.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.20]]
+> ◄  [[an1.19-pali-sc]] 📜  [[an1.21-pali-sc]] ►

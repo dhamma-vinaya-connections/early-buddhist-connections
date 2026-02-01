@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1259-PALI"
+sutta_code: "THAG1259"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1259-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1259]]
 > ◄  [[thag1258-pali-pts]] 📜  [[thag1260-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ evam ete tathā vuttā, diṭṭhā me te yathātathā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1259-) 
 

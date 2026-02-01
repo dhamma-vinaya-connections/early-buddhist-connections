@@ -4,10 +4,10 @@ sutta_title:
   - " "
   - ""
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.188]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.188]]
 > ◄  [[an5.187-deepseek-pali]] 📜  [[an5.189-deepseek-pali]] ►
 
 # AN 5.188 Ekāsanikasuttaṃ
@@ -23,6 +23,5 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.188-) 
 

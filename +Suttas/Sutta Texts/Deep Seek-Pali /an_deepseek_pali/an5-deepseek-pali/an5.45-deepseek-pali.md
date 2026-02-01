@@ -4,10 +4,10 @@ sutta_title:
   - "Puññābhisanda "
   - "Merit Overflowing"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.45]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.45]]
 > ◄  [[an5.44-deepseek-pali]] 📜  [[an5.46-deepseek-pali]] ►
 
 # AN 5.45 Puññābhisandasuttaṃ
@@ -51,8 +51,7 @@ Thus, to the person who gives food, drink, and clothing, Who provides beds, seat
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.45-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Thus, to the person who gives food, drink, and clothing, Who provides beds, seat
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.37]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.45]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.45]]
 > ◄  [[an5.44-deepseek-pali]] 📜  [[an5.46-deepseek-pali]] ►

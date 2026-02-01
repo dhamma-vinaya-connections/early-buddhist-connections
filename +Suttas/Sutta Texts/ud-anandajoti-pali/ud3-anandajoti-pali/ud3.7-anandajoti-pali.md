@@ -3,11 +3,11 @@ sutta_code: "UD3.7"
 sutta_title:
   - "Kassapa Sutta "
   - "Kassapa"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7]]
 > ◄  [[ud3.6-anandajoti-pali]] 📜  [[ud3.8-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -94,9 +94,7 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.7-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7]]
 > ◄  [[ud3.6-anandajoti-pali]] 📜  [[ud3.8-anandajoti-pali]] ►

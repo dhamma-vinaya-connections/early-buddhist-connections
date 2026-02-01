@@ -3,11 +3,11 @@ sutta_code: "AN7.36"
 sutta_title:
   - "Mitta "
   - "Friend"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.36]]
 > ◄  [[an7.35-sujato-pali]] 📜  [[an7.37-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -63,8 +63,7 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Pañcamaṁ.
 | [[AN3.135]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.36]]
 > ◄  [[an7.35-sujato-pali]] 📜  [[an7.37-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.43-PALI"
+sutta_code: "AN2.43"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Puggala "
+  - "Persons"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.43-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.43]]
 > ◄  [[an2.42-pali-sc]] 📜  [[an2.44-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -27,6 +27,11 @@ Imā kho, bhikkhave, dve parisā. Etadaggaṁ, bhikkhave, imāsaṁ dvinnaṁ pa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.43-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 77 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.43]]
+> ◄  [[an2.42-pali-sc]] 📜  [[an2.44-pali-sc]] ►

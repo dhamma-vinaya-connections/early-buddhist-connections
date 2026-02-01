@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyabodhi Sutta "
   - "The Bodhi Tree (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.2]]
 > ◄  [[ud1.1-deepseek-pali]] 📜  [[ud1.3-deepseek-pali]] ►
 
 # Ud 1.2 Dutiyabodhisuttaṃ
@@ -35,8 +35,7 @@ Then, the Blessed One, having realized this truth, on that occasion, uttered thi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then, the Blessed One, having realized this truth, on that occasion, uttered thi
 | [[PLI-TV-KD1]], [[UD1.1]], [[UD1.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.2]]
 > ◄  [[ud1.1-deepseek-pali]] 📜  [[ud1.3-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Saṅgārava "
   - "With Saṅgārava"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.193]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.193]]
 > ◄  [[an5.192-deepseek-pali]] 📜  [[an5.194-deepseek-pali]] ►
 
 # AN 5.193 Saṅgāravasuttaṃ
@@ -71,8 +71,7 @@ Magnificent, Master Gotama!... Let Master Gotama remember me as a lay follower w
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.193-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ Magnificent, Master Gotama!... Let Master Gotama remember me as a lay follower w
 | [[SN46.55]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.193]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.193]]
 > ◄  [[an5.192-deepseek-pali]] 📜  [[an5.194-deepseek-pali]] ►

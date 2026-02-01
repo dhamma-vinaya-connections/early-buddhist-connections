@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP10-PALI"
+sutta_code: "DHP10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Daṇḍavagga "
+  - "Weapons"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP10]]
 > ◄  [[dhp9-pali-pts]] 📜  [[dhp11-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,16 @@ asāre sāramatino sāre cāsāradassino /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 37 |
+> > [!check]- Partial parallels 
+> > 
+| [[JA221]], [[JA514]], [[THAG17.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP10]]
+> ◄  [[dhp9-pali-pts]] 📜  [[dhp11-pali-pts]] ►

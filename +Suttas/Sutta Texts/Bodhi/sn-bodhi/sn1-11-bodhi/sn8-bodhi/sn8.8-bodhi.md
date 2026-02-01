@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
 > ◄  [[sn8.7-bodhi]] 📜  [[sn8.9-bodhi]] ►
 
 # SN8.8 Over a Thousand
@@ -117,8 +117,7 @@ Then the Venerable Vaṅgīsa extolled the Blessed One to his face with suitable
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -129,6 +128,5 @@ Then the Venerable Vaṅgīsa extolled the Blessed One to his face with suitable
 | [[SA1219]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
 > ◄  [[sn8.7-bodhi]] 📜  [[sn8.9-bodhi]] ►

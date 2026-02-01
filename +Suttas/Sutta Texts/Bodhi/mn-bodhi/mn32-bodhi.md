@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
 > ◄  [[mn31-bodhi]] 📜  [[mn33-bodhi]] ►
 
 # MN32 Mahāgosinga Sutta - The Greater Discourse in Gosinga
@@ -83,8 +83,7 @@ That is what the Blessed One said. Those venerable ones were satisfied and delig
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn32-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ That is what the Blessed One said. Those venerable ones were satisfied and delig
 | [[EA37.3]]; [[MA184]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
 > ◄  [[mn31-bodhi]] 📜  [[mn33-bodhi]] ►

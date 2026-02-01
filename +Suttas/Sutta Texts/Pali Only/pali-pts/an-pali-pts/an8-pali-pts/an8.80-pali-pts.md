@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.80-PALI"
+sutta_code: "AN8.80"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kusītārambhavatthu "
+  - "Laziness Grounds And Arousing Energy"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.80-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
 > ◄  [[an8.79-pali-pts]] 📜  [[an8.81-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Aṭṭh'; imāni bhikkhave kusītavatthūni. Katamāni aṭṭha?
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.80-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 332 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN33]], [[DN34]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
+> ◄  [[an8.79-pali-pts]] 📜  [[an8.81-pali-pts]] ►

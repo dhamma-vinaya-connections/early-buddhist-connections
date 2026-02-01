@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.195]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.195]]
 > ◄  [[an4.194-bodhi]] 📜  [[an4.196-bodhi]] ►
 
 # AN4.195 Vappa
@@ -63,8 +63,7 @@ When this was said, Vappa the Sakyan, a disciple of the Nigaṇṭhas, said to t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.195-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ When this was said, Vappa the Sakyan, a disciple of the Nigaṇṭhas, said to t
 | [[MA12]], [[SN42.12]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.195]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.195]]
 > ◄  [[an4.194-bodhi]] 📜  [[an4.196-bodhi]] ►

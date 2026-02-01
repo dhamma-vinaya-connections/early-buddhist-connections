@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.70-PALI"
+sutta_code: "AN6.70"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Samadhi "
+  - "Samadhi"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.70-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.70]]
 > ◄  [[an6.69-pali-pts]] 📜  [[an6.71-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,11 @@ So vata bhikkhave bhikkhu na santena samādhinā na paṇītena na paṭippassad
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.70-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 425 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.70]]
+> ◄  [[an6.69-pali-pts]] 📜  [[an6.71-pali-pts]] ►

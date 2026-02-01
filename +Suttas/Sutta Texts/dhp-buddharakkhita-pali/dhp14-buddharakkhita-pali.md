@@ -3,11 +3,11 @@ sutta_code: "DHP14-BUDDHARAKKHITA"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pali"
+sutta-version: "Pali"
 language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP14-BUDDHARAKKHITA]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP14-BUDDHARAKKHITA]]
 > ◄  [[dhp13-buddharakkhita-pali]] 📜  [[dhp15-buddharakkhita-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -156,6 +156,5 @@ Paṭhamabhāṇavāraṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp14-buddharakkhita-) 
 

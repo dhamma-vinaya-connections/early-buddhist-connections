@@ -34,19 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Lay followers"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[AN4.34]]"
-  - "[[ITI90]]"
-parallels_agama:
-  - "[[EA21.1]]"
-  - "[[SA902-904]]"
-parallels_partilal:
-  - "[[AN4.34]]"
-  - "[[EA21.1]]"
-  - "[[ITI90]]"
-  - "[[SA902-904]]"
-  - "[[SN45.139]]"
+parallels_nikaya: "[[AN4.34]], [[ITI90]]"
+parallels_agama: "[[EA21.1]], [[SA902-904]]"
+parallels_partilal: "[[AN4.34]], [[EA21.1]], [[ITI90]], [[SA902-904]], [[SN45.139]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.31]]  🌐 [[AN5.33]] ►
 
@@ -70,8 +60,7 @@ Fame, reputation, happiness, and strength
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.32-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -86,8 +75,7 @@ Fame, reputation, happiness, and strength
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.31]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN5.32%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN5.32%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -98,7 +86,7 @@ Fame, reputation, happiness, and strength
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.32%5D%5D%22%23mynotes%20-file%3Aan5.32-%20-file%3A%22AN5.31%22%20-file%3A%22AN5.33%22%20-file%3A%22AN5.32%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.32/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.32

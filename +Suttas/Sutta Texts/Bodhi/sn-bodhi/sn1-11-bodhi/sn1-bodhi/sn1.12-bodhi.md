@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.12]]
 > ◄  [[sn1.11-bodhi]] 📜  [[sn1.13-bodhi]] ►
 
 # SN1.12 Delight
@@ -37,8 +37,7 @@ At Sāvatthī. Standing to one side, that devatā recited this verse in the p
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ At Sāvatthī. Standing to one side, that devatā recited this verse in the p
 | [[SA-2.142]], [[SA1004]], [[SN4.8]], [[SNP1.2]], [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.12]]
 > ◄  [[sn1.11-bodhi]] 📜  [[sn1.13-bodhi]] ►

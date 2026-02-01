@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.6-PALI"
+sutta_code: "SNP5.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dhotakamāṇavapucchā "
+  - "Questions of the Student Dhotaka"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.6]]
 > ◄  [[snp5.5-pali-pts]] 📜  [[snp5.7-pali-pts]] ►
 
 # SNP5.6 Dhotakamāṇavapucchā (5)
@@ -52,6 +52,7 @@ DHOTAKAMĀṆAVAPUCCHĀ NIṬṬHITĀ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.6]]
+> ◄  [[snp5.5-pali-pts]] 📜  [[snp5.7-pali-pts]] ►

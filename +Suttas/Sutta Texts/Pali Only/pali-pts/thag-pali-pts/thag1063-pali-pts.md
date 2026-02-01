@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1063-PALI"
+sutta_code: "THAG1063"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1063-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1063]]
 > ◄  [[thag1062-pali-pts]] 📜  [[thag1064-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ nīlabbhakūṭasadisā kūṭāgāravarūpamā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1063-) 
 

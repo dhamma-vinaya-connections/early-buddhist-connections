@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN84-PALI"
+sutta_code: "MN84"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Madhura Sutta "
+  - "At Madhurā"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
 > ◄  [[mn83-pali-sri]] 📜  [[mn85-pali-sri]] ►
 
 # 84. Madhura Sutta - Pali
@@ -184,6 +184,16 @@ Madhurasuttaṃ catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn84-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA548]] | M ii 83 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA548]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
+> ◄  [[mn83-pali-sri]] 📜  [[mn85-pali-sri]] ►

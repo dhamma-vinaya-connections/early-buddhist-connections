@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG429-PALI"
+sutta_code: "THAG429"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG429-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG429]]
 > ◄  [[thag428-pali-pts]] 📜  [[thag430-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ upajjhayassa udakaṃ Anotattā mahāsarā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag429-) 
 

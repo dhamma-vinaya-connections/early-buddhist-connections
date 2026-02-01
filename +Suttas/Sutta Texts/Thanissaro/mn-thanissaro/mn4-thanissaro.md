@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
 > ◄  [[mn2-thanissaro]] 📜  [[mn5-thanissaro]] ►
 
 ## MN4 Fear & Terror
@@ -85,8 +85,7 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -97,6 +96,5 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 | [[EA31.1]]; [[MN100]]; [[MN26]]; [[MN36]]; [[MN85]]; [[MN20]]; [[MA101]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
 > ◄  [[mn2-thanissaro]] 📜  [[mn5-thanissaro]] ►

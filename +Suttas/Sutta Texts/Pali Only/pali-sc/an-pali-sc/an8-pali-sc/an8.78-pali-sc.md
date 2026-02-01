@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.78-PALI"
+sutta_code: "AN8.78"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Icchā "
+  - "Desires"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.78-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.78]]
 > ◄  [[an8.77-pali-sc]] 📜  [[an8.79-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -39,6 +39,16 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.78-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.62]] |  | A iv 328 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.62]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.78]]
+> ◄  [[an8.77-pali-sc]] 📜  [[an8.79-pali-sc]] ►

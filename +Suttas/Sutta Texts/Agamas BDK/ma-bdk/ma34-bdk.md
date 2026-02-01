@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA34]]
 > ◄  [[ma33-bdk]] 📜  [[ma35-bdk]] ►
 
 ### 34. The Discourse by Bakkula
@@ -25,8 +25,7 @@ Again, Venerable Bakkula declared: Venerable friends, during my eighty years of 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -37,6 +36,5 @@ Again, Venerable Bakkula declared: Venerable friends, during my eighty years of 
 | [[SN9.13]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA34]]
 > ◄  [[ma33-bdk]] 📜  [[ma35-bdk]] ►

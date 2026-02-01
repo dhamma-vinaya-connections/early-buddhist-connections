@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP154-PALI"
+sutta_code: "DHP154"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP154-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP154]]
 > ◄  [[dhp153-pali-pts]] 📜  [[dhp155-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp154-) 
 

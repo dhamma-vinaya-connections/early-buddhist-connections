@@ -4,10 +4,10 @@ sutta_title:
   - "Kumaraka Sutta "
   - "Boys"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.4]]
 > ◄  [[ud5.3-deepseek-pali]] 📜  [[ud5.5-deepseek-pali]] ►
 
 # Ud 5.4 Kumārakasuttaṃ
@@ -39,8 +39,7 @@ If you do an evil deed, or if you are doing one, there is no escape from sufferi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ If you do an evil deed, or if you are doing one, there is no escape from sufferi
 | [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.4]]
 > ◄  [[ud5.3-deepseek-pali]] 📜  [[ud5.5-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP3.5-PALI"
+sutta_code: "SNP3.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Māghasutta "
+  - "With Magha on Giving"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.5]]
 > ◄  [[snp3.4-pali-pts]] 📜  [[snp3.6-pali-pts]] ►
 
 # SNP3.5 Māghasutta
@@ -124,6 +124,7 @@ MĀGHASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.5]]
+> ◄  [[snp3.4-pali-pts]] 📜  [[snp3.6-pali-pts]] ►

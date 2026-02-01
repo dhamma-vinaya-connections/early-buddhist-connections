@@ -4,10 +4,10 @@ sutta_title:
   - "Aggikasutta "
   - "Aggika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.8]]
 > ◄  [[sn7.7-deepseek-pali]] 📜  [[sn7.9-deepseek-pali]] ►
 
 # SN 7.8 Aggikasuttaṃ
@@ -59,8 +59,7 @@ When this was said, the brahmin Aggikabhāradvāja said to the Blessed One: “E
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ When this was said, the brahmin Aggikabhāradvāja said to the Blessed One: “E
 | [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[THIG4.1]], [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.8]]
 > ◄  [[sn7.7-deepseek-pali]] 📜  [[sn7.9-deepseek-pali]] ►

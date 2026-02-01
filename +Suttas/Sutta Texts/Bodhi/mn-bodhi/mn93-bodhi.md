@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn92-bodhi]] 📜  [[mn94-bodhi]] ►
 
 # MN93 Assalāyana Sutta - To Assalāyana
@@ -151,8 +151,7 @@ When this was said, the brahmin student Assalāyana sat silent and dismayed, wi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn93-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -163,6 +162,5 @@ When this was said, the brahmin student Assalāyana sat silent and dismayed, wi
 | [[EA40.9]]; [[MA151]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn92-bodhi]] 📜  [[mn94-bodhi]] ►

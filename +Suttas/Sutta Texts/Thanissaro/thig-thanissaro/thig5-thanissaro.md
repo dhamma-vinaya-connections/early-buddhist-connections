@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG5]]
 > ◄  [[thig3-thanissaro]] 📜  [[thig6-thanissaro]] ►
 
 ## Thig5.10  Paṭācārā
@@ -383,6 +383,5 @@ There is now no further becoming.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig5-) 
 

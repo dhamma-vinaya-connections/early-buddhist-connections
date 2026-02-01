@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.94-PALI"
+sutta_code: "AN3.94"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sarada "
+  - "Springtime"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.94-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.94]]
 > ◄  [[an3.93-pali-pts]] 📜  [[an3.95-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,11 @@ Tasmiṃ bhikkhave samaye ariyasāvako kālaṃ kareyya n'; atthi taṃ saṃyoj
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.94-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 242 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.94]]
+> ◄  [[an3.93-pali-pts]] 📜  [[an3.95-pali-pts]] ►

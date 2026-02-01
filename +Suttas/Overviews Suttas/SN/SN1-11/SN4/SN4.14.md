@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA1097]]"
-parallels_partilal:
-  - "[[SA1097]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA1097]]"
+parallels_partilal: "[[SA1097]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.13]]  🌐 [[SN4.15]] ►
 
@@ -67,8 +63,7 @@ From attraction and repulsion
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -80,8 +75,7 @@ From attraction and repulsion
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN4.14%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN4.14%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -92,7 +86,7 @@ From attraction and repulsion
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.14%5D%5D%22%23mynotes%20-file%3Asn4.14-%20-file%3A%22SN4.13%22%20-file%3A%22SN4.15%22%20-file%3A%22SN4.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.14

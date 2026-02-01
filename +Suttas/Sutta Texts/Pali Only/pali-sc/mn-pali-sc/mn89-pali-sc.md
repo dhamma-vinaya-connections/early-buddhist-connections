@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN89-PALI"
+sutta_code: "MN89"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dhammacetiya Sutta "
+  - "Shrines to the Teaching"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
 > ◄  [[mn88-pali-sc]] 📜  [[mn90-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -86,6 +86,16 @@ Atha kho rājā pasenadi kosalo uṭṭhāyāsanā bhagavantaṁ abhivādetvā p
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn89-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN10.30]] | [[EA38.10]]; [[MA213]] | M ii 118 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.30]]; [[EA38.10]]; [[MA213]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
+> ◄  [[mn88-pali-sc]] 📜  [[mn90-pali-sc]] ►

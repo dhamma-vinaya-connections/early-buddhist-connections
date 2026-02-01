@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.73-PALI"
+sutta_code: "AN7.73"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sattasūriya "
+  - "Seven Suns"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.73-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.73]]
 > ◄  [[an7.72-pali-sc]] 📜  [[an7.74-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -35,6 +35,16 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.73-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA160]] | A iv 135 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA160]], [[AN7.66]], [[AN6.54]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.73]]
+> ◄  [[an7.72-pali-sc]] 📜  [[an7.74-pali-sc]] ►

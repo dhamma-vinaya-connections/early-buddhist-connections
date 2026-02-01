@@ -3,11 +3,11 @@ sutta_code: "SNP5.5"
 sutta_title:
   - "Mettagūmāṇavapucchā "
   - "Questions of the Student Mettagū"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.5]]
 > ◄  [[snp5.4-sujato-pali]] 📜  [[snp5.6-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -172,6 +172,5 @@ Mettagūmāṇavapucchā catutthī.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.5-) 
 

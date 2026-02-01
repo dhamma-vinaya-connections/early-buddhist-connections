@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP2-PALI"
+sutta_code: "DHP2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Appamādavagga "
+  - "Diligence"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP2]]
 > ◄  [[dhp1-pali-pts]] 📜  [[dhp3-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,16 @@ tato naṃ sukham anveti chāyā va anapāyinī.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 7 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA52.7]], [[PE2]], [[PE8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP2]]
+> ◄  [[dhp1-pali-pts]] 📜  [[dhp3-pali-pts]] ►

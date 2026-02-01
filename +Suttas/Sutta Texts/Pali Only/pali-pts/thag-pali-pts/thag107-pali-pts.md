@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG107-PALI"
+sutta_code: "THAG107"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG107-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG107]]
 > ◄  [[thag106-pali-pts]] 📜  [[thag108-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Savīsaṃvassasatiko pabbajiṃ anagāriyaṃ;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag107-) 
 

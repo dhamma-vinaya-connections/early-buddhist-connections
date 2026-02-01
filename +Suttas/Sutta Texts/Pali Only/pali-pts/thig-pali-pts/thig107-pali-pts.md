@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG107-PALI"
+sutta_code: "THIG107"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG107-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG107]]
 > ◄  [[thig106-pali-pts]] 📜  [[thig108-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ divāvihārā nikkhamma Gijjhakūṭamhi pabbate |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig107-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1049-PALI"
+sutta_code: "THAG1049"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1049-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1049]]
 > ◄  [[thag1048-pali-pts]] 📜  [[thag1050-pali-pts]] ►
 
 ## Theragāthā
@@ -20,6 +20,5 @@ saddhammādhārako thero Ānando ratanākaro.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1049-) 
 

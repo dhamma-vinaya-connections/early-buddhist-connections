@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.123-PALI"
+sutta_code: "AN4.123"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nānākaraṇa "
+  - "Difference"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.123-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.123]]
 > ◄  [[an4.122-pali-sc]] 📜  [[an4.124-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -34,6 +34,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.123-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN120]] | [[MA168]] | A ii 126 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA168]], [[MN120]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.123]]
+> ◄  [[an4.122-pali-sc]] 📜  [[an4.124-pali-sc]] ►

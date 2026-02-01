@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN127-PALI"
+sutta_code: "MN127"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Anuruddha Sutta "
+  - "With Anuruddha"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN127-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN127]]
 > ◄  [[mn126-pali-sri]] 📜  [[mn128-pali-sri]] ►
 
 # 127. Anuruddha - Pali
@@ -136,6 +136,20 @@ Anuruddha suttaṃ sattamaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn127-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA79]] | M iii 144 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA79]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN128]], [[AN10.29]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN127]]
+> ◄  [[mn126-pali-sri]] 📜  [[mn128-pali-sri]] ►

@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA24]]
 > ◄  [[sa23-patton]] 📜  [[sa25-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -41,8 +41,7 @@ Summary Verse
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -53,6 +52,5 @@ Summary Verse
 | [[SN22.92]], [[SA24]], [[SN18.22]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA24]]
 > ◄  [[sa23-patton]] 📜  [[sa25-patton]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN68-PALI"
+sutta_code: "MN68"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Naḷakapāna Sutta "
+  - "At Naḷakapāna"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN68-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN68]]
 > ◄  [[mn67-pali-sri]] 📜  [[mn69-pali-sri]] ►
 
 # 68. Nalakapana - Pali
@@ -126,6 +126,20 @@ Naḷakapāna suttaṃ aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn68-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA77]] | M i 462 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA77]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN2]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN68]]
+> ◄  [[mn67-pali-sri]] 📜  [[mn69-pali-sri]] ►

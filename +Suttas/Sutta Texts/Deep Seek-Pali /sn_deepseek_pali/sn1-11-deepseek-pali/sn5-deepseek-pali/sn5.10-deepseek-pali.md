@@ -4,10 +4,10 @@ sutta_title:
   - "Vajirāsutta "
   - "Vajira"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
 > ◄  [[sn5.9-deepseek-pali]] 📜  [[]] ►
 
 # SN 5.10 Vajirāsuttaṃ
@@ -59,8 +59,7 @@ Its summary:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Its summary:
 | [[SA-2.218]], [[SA1202]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
 > ◄  [[sn5.9-deepseek-pali]] 📜  [[]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Uposatha "
   - "Sabbath"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.42]]
 > ◄  [[an8.41-deepseek-pali]] 📜  [[an8.43-deepseek-pali]] ►
 
 # AN 8.42 Vitthatūposathasuttaṃ
@@ -97,8 +97,7 @@ Second Discourse.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.42-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -113,6 +112,5 @@ Second Discourse.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.70]], [[AN10.46]], [[UD2.10]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.42]]
 > ◄  [[an8.41-deepseek-pali]] 📜  [[an8.43-deepseek-pali]] ►

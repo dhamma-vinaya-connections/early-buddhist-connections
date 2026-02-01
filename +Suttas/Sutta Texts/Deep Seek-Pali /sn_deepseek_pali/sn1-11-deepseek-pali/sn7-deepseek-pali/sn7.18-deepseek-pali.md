@@ -4,10 +4,10 @@ sutta_title:
   - "Kaṭṭhahārasutta "
   - "Wood Gatherers"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.18]]
 > ◄  [[sn7.17-deepseek-pali]] 📜  [[sn7.19-deepseek-pali]] ►
 
 # SN 7.18 Kaṭṭhahārasuttaṃ
@@ -47,8 +47,7 @@ When this was said, the brahmin of the Bhāradvāja clan said to the Blessed One
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ When this was said, the brahmin of the Bhāradvāja clan said to the Blessed One
 | [[SA-2.97]], [[SA1183]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.18]]
 > ◄  [[sn7.17-deepseek-pali]] 📜  [[sn7.19-deepseek-pali]] ►

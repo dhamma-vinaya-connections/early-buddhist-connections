@@ -4,10 +4,10 @@ sutta_title:
   - "Sikkhānisaṁsa "
   - "Training benefits"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI46]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI46]]
 > ◄  [[iti45-deepseek-pali]] 📜  [[iti47-deepseek-pali]] ►
 
 # Iti 46 Jāgariyasuttaṃ
@@ -31,9 +31,7 @@ This meaning, too, was spoken by the Blessed One, thus I heard. Tenth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti46-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI46]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI46]]
 > ◄  [[iti45-deepseek-pali]] 📜  [[iti47-deepseek-pali]] ►

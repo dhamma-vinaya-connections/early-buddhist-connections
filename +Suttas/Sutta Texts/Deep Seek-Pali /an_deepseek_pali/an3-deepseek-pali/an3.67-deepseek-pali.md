@@ -4,10 +4,10 @@ sutta_title:
   - "Kathāvatthu "
   - "Discussion Topics"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.67]]
 > ◄  [[an3.66-deepseek-pali]] 📜  [[an3.68-deepseek-pali]] ►
 
 # AN 3.67 Kathāvatthusuttaṃ
@@ -71,8 +71,7 @@ Those who converse antagonistically, entrenched and arrogant, Engaging in ignobl
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.67-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ Those who converse antagonistically, entrenched and arrogant, Engaging in ignobl
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.42]], [[AN5.165]], [[SN4.8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.67]]
 > ◄  [[an3.66-deepseek-pali]] 📜  [[an3.68-deepseek-pali]] ►

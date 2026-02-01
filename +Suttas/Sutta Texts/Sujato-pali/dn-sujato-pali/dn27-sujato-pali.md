@@ -3,11 +3,11 @@ sutta_code: "DN27"
 sutta_title:
   - "Aggañña Sutta "
   - "Origin of the World"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
 > ◄  [[dn26-sujato-pali]] 📜  [[dn28-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -422,8 +422,7 @@ Aggaññasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -438,6 +437,5 @@ Aggaññasuttaṁ niṭṭhitaṁ catutthaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
 > ◄  [[dn26-sujato-pali]] 📜  [[dn28-sujato-pali]] ►

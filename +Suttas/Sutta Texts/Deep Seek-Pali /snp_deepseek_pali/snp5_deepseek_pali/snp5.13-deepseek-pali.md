@@ -4,10 +4,10 @@ sutta_title:
   - "Bhadrāvudhamāṇavapucchā "
   - "Questions of the Student Bhadrāvudha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.13]]
 > ◄  [[snp5.12-deepseek-pali]] 📜  [[snp5.14-deepseek-pali]] ►
 
 # Snp 5.13 Bhadrāvudhamāṇavapucchā
@@ -53,9 +53,7 @@ The The Questions of the Young Man Bhadrāvudha, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.13-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.13]]
 > ◄  [[snp5.12-deepseek-pali]] 📜  [[snp5.14-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG3-PALI"
+sutta_code: "THIG3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Tikanipātavagga "
+  - "Trees Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG3]]
 > ◄  [[thig2-pali-pts]] 📜  [[thig4-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ Tisse sikkhassu sikkhāya mā taṃ yogā upaccaguṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig3-) 
 

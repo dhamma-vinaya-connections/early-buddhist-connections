@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.9-PALI"
+sutta_code: "SN9.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vajjiputtasutta "
+  - "Vajjian Prince or Vesālī"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.9]]
 > ◄  [[sn9.8-pali-sc]] 📜  [[sn9.10-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -37,6 +37,20 @@ Nerayikā viya saggagāminan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.360]], [[SA1340]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.360]], [[SA1340]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN9.1]], [[SN9.14.SN5.7]], [[SN6.15.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.9]]
+> ◄  [[sn9.8-pali-sc]] 📜  [[sn9.10-pali-sc]] ►

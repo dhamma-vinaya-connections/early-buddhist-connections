@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.13]]
 > ◄  [[snp5.12-thanissaro]] 📜  [[snp5.14-thanissaro]] ►
 
 # 5:13  Udaya’s Questions
@@ -123,9 +123,7 @@ vv. 1105–1111
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.13-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.13]]
 > ◄  [[snp5.12-thanissaro]] 📜  [[snp5.14-thanissaro]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.59-PALI"
+sutta_code: "AN6.59"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dārukammika "
+  - "With Dārukammik"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.59-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.59]]
 > ◄  [[an6.58-pali-pts]] 📜  [[an6.61-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,11 @@ Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā Nādike viharati Giñjakāvasathe. At
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.59-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 391 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.59]]
+> ◄  [[an6.58-pali-pts]] 📜  [[an6.61-pali-pts]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Nadīsota "
   - "River"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI109]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI109]]
 > ◄  [[iti108-deepseek-pali]] 📜  [[iti110-deepseek-pali]] ►
 
 # Iti 109 Sampannasīlasuttaṃ
@@ -49,9 +49,7 @@ This, too, is the meaning of what was said by the Blessed One, and so I have hea
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti109-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI109]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI109]]
 > ◄  [[iti108-deepseek-pali]] 📜  [[iti110-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "AN3.32"
 sutta_title:
   - "Paṇḍita "
   - "Wise"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.32]]
 > ◄  [[an3.31-sujato-pali]] 📜  [[an3.33-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -73,8 +73,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.32-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,6 +84,5 @@ Dutiyaṁ.
 | [[SA982]], [[SNP5.4]], [[AN4.41]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.32]]
 > ◄  [[an3.31-sujato-pali]] 📜  [[an3.33-sujato-pali]] ►

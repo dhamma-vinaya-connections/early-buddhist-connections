@@ -3,11 +3,11 @@ sutta_code: "MN39"
 sutta_title:
   - "Mahāassapura Sutta "
   - "Discourse at Assapura Longer"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
 > ◄  [[mn38-sujato-pali]] 📜  [[mn40-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -233,8 +233,7 @@ Mahāassapurasuttaṁ niṭṭhitaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn39-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -249,6 +248,5 @@ Mahāassapurasuttaṁ niṭṭhitaṁ navamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN2]]; [[DHP XXVI. AN8.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
 > ◄  [[mn38-sujato-pali]] 📜  [[mn40-sujato-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Cūḷakammavibhaṅga Sutta "
   - "Shorter Analysis of Deeds"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN135]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN135]]
 > ◄  [[mn134-deepseek-pali]] 📜  [[mn136-deepseek-pali]] ►
 
 # 135. Saḷāyatanavibhaṅgasuttaṃ
@@ -127,8 +127,7 @@ The seventh discourse, the Saḷāyatanavibhaṅga Sutta, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn135-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -143,6 +142,5 @@ The seventh discourse, the Saḷāyatanavibhaṅga Sutta, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN136]], [[AN8.40]], [[AN5.199]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN135]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN135]]
 > ◄  [[mn134-deepseek-pali]] 📜  [[mn136-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.60-PALI"
+sutta_code: "AN4.60"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pāṇātipāta "
+  - "Killing Living Creatures"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.60-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.60]]
 > ◄  [[an4.59-pali-pts]] 📜  [[an4.61-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -33,6 +33,11 @@ Dve puññābhisandā dve {saṃvāsā} dve va honti samajīvino Suppavāsā sud
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.60-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 83 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.60]]
+> ◄  [[an4.59-pali-pts]] 📜  [[an4.61-pali-pts]] ►

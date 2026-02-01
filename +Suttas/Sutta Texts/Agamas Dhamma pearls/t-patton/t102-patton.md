@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[T1]]  / 🌐 [[T102]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[T1]]  / 🌐 [[T102]]
 > ◄  [[t101.15-patton]] 📜  [[t109-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -42,6 +42,5 @@ They said, “Virtuous sir, form is impermanent.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:t102-) 
 

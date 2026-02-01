@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.207-PALI"
+sutta_code: "AN5.207"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dantakaṭṭha "
+  - "Chew Sticks"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.207-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.207]]
 > ◄  [[an5.206-pali-pts]] 📜  [[an5.208-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Pañc'ime bhikkhave ānisaṃsā yāguyā. Katame pañca?
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.207-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 250 |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.207]]
+> ◄  [[an5.206-pali-pts]] 📜  [[an5.208-pali-pts]] ►

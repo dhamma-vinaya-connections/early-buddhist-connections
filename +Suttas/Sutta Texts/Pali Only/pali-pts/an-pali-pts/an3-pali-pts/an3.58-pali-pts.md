@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.58-PALI"
+sutta_code: "AN3.58"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mahānāmasakka "
+  - "With Mahānāma The Sakyan"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.58-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.58]]
 > ◄  [[an3.57-pali-pts]] 📜  [[an3.59-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,16 @@ PTS: A i 163
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.58-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA884-885]] | A i 219 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA884-885]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.58]]
+> ◄  [[an3.57-pali-pts]] 📜  [[an3.59-pali-pts]] ►

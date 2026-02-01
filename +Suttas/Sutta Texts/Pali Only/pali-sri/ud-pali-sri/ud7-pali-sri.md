@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD7-PALI"
+sutta_code: "UD7"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7]]
 > ◄  [[ud6-pali-sri]] 📜  [[ud8-pali-sri]] ►
 
 # Udanapali 7: Cullavaggo - BJT
@@ -188,6 +188,5 @@ Sat saditi pa÷yanti ~ pa÷yatāṃ nàsti kiñcana
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7-) 
 

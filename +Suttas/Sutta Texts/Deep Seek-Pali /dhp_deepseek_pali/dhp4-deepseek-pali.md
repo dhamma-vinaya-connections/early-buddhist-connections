@@ -4,10 +4,10 @@ sutta_title:
   - "Pupphavagga "
   - "Flowers"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP4]]
 > ◄  [[dhp3-deepseek-pali]] 📜  [[dhp5-deepseek-pali]] ►
 
 # Dhp 4. Pupphavaggo
@@ -101,8 +101,7 @@ The Chapter on Flowers, the Fourth, is Concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -113,6 +112,5 @@ The Chapter on Flowers, the Fourth, is Concluded.
 | [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP4]]
 > ◄  [[dhp3-deepseek-pali]] 📜  [[dhp5-deepseek-pali]] ►

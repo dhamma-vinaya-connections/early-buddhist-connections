@@ -4,10 +4,10 @@ sutta_title:
   - "Catutthanibbana Sutta "
   - "Nibbāna (4)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.4]]
 > ◄  [[ud8.3-deepseek-pali]] 📜  [[ud8.5-deepseek-pali]] ►
 
 # Ud 8.4 Catutthanibbānapaṭisaṃyuttasuttaṃ
@@ -31,8 +31,7 @@ For one who is dependent, there is agitation; for one who is independent, there 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ For one who is dependent, there is agitation; for one who is independent, there 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]], [[MN49]], [[SN35:117]], [[ITI43]], [[MN144]], [[ANDSN35:87]], [[MN140]], [[SN22.53]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.4]]
 > ◄  [[ud8.3-deepseek-pali]] 📜  [[ud8.5-deepseek-pali]] ►

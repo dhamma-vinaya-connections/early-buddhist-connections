@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
 > ◄  [[an9.10-bodhi]] 📜  [[an9.12-bodhi]] ►
 
 # AN9.11 Lion’s Roar
@@ -65,8 +65,7 @@ The Blessed One then addressed the Venerable Sāriputta: “Sāriputta, pardon t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,6 +76,5 @@ The Blessed One then addressed the Venerable Sāriputta: “Sāriputta, pardon t
 | [[EA37.6]], [[MA24]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
 > ◄  [[an9.10-bodhi]] 📜  [[an9.12-bodhi]] ►

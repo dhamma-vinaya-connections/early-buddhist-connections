@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāhatthipadopama Sutta "
   - "Longer Simile of the Elephant’s Footprint"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
 > ◄  [[mn27-deepseek-pali]] 📜  [[mn29-deepseek-pali]] ►
 
 # 28. Mahāhatthipadopamasuttaṃ
@@ -111,8 +111,7 @@ The Great Elephant Footprint Simile Discourse, the eighth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn28-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -127,6 +126,5 @@ The Great Elephant Footprint Simile Discourse, the eighth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN21]], [[MA193]], [[MA8]], [[AN7.62]], [[AN5.197]], [[SN22.5]]; [[SN4.9]], [[MA31]], [[MN141]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
 > ◄  [[mn27-deepseek-pali]] 📜  [[mn29-deepseek-pali]] ►

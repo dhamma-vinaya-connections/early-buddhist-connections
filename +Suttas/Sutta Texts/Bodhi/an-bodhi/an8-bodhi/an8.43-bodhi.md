@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.43]]
 > ◄  [[an8.42-bodhi]] 📜  [[an8.44-bodhi]] ►
 
 # AN8.43 Visākhā (1)
@@ -25,8 +25,7 @@ On one occasion the Blessed One was dwelling at Sāvatthī in Migāramātā’s 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.43-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ On one occasion the Blessed One was dwelling at Sāvatthī in Migāramātā’s 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.70]], [[AN10.46]], [[UD2.10]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.43]]
 > ◄  [[an8.42-bodhi]] 📜  [[an8.44-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.122-PALI"
+sutta_code: "AN4.122"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ūmibhaya "
+  - "Danger Of Waves"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.122-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.122]]
 > ◄  [[an4.121-pali-sc]] 📜  [[an4.123-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -36,6 +36,16 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.122-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 123 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN67]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.122]]
+> ◄  [[an4.121-pali-sc]] 📜  [[an4.123-pali-sc]] ►

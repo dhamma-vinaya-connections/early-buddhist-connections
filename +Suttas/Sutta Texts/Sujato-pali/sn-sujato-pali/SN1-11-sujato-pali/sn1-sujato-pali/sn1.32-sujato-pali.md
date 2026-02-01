@@ -3,11 +3,11 @@ sutta_code: "SN1.32"
 sutta_title:
   - "Maccharisutta "
   - "Stinginess"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.32]]
 > ◄  [[sn1.31-sujato-pali]] 📜  [[sn1.33-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -177,8 +177,7 @@ Kalampi nāgghanti tathāvidhassa te"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.32-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -189,6 +188,5 @@ Kalampi nāgghanti tathāvidhassa te"ti.
 | [[SA-2.286]], [[SA1288]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[JA450]], [[SN1.43]], [[SN2.23]], [[AN5.36]], [[JA180]], [[JA547]], [[SN1.33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.32]]
 > ◄  [[sn1.31-sujato-pali]] 📜  [[sn1.33-sujato-pali]] ►

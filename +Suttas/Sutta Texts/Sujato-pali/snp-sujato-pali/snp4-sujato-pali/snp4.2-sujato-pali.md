@@ -3,11 +3,11 @@ sutta_code: "SNP4.2"
 sutta_title:
   - "Guhaṭṭhakasutta "
   - "Eight on the Cave"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
 > ◄  [[snp4.1-sujato-pali]] 📜  [[snp4.3-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -115,8 +115,7 @@ Guhaṭṭhakasuttaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -131,6 +130,5 @@ Guhaṭṭhakasuttaṁ dutiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.189]], [[THAG16.4]], [[SN4.15]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
 > ◄  [[snp4.1-sujato-pali]] 📜  [[snp4.3-sujato-pali]] ►

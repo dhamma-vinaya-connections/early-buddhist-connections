@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG740-PALI"
+sutta_code: "THAG740"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG740-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG740]]
 > ◄  [[thag739-pali-pts]] 📜  [[thag741-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ atho sīdati saññuttaṃ vajje kiccaṃ niratthakaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag740-) 
 

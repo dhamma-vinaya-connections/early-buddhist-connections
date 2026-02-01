@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA156]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA156]]
 > ◄  [[ma155]] 📜  [[ma157]] ►
 
 ### 156. The Discourse to the Pārāyana Brahmins
@@ -57,6 +57,5 @@ This custom of undertaking sacrifices Was the principal transgression. There is 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma156-) 
 

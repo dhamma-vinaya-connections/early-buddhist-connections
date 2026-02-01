@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.87-PALI"
+sutta_code: "AN3.87"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sikkhā "
+  - "Training"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.87-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.87]]
 > ◄  [[an3.86-pali-pts]] 📜  [[an3.88-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Idha pana bhikkhave bhikkhu sīlesu paripūrakārī hoti samādhismiṃ mattaso 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.87-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA820]] | A i 232 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA820]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.87]]
+> ◄  [[an3.86-pali-pts]] 📜  [[an3.88-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG457-PALI"
+sutta_code: "THIG457"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG457-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG457]]
 > ◄  [[thig456-pali-pts]] 📜  [[thig458-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ kiṃ bhavagatena abhinanditena kāyakalinā asārena |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig457-) 
 

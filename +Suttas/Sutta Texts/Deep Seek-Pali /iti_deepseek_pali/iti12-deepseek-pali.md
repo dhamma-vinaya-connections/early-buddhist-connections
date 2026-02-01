@@ -4,10 +4,10 @@ sutta_title:
   - " "
   - ""
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI12]]
 > ◄  [[iti11-deepseek-pali]] 📜  [[iti13-deepseek-pali]] ►
 
 # Iti 12 Kodhapariññāsuttaṃ
@@ -39,6 +39,5 @@ This too was stated by the Blessed One, so I have heard. The Third.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti12-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Candimasasutta "
   - "Candimasa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.11]]
 > ◄  [[sn2.10-deepseek-pali]] 📜  [[sn2.12-deepseek-pali]] ►
 
 # SN 2.11 Candimasasuttaṃ
@@ -31,8 +31,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ language: "Pali"
 | [[SA-2.302]], [[SA1303]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.11]]
 > ◄  [[sn2.10-deepseek-pali]] 📜  [[sn2.12-deepseek-pali]] ►

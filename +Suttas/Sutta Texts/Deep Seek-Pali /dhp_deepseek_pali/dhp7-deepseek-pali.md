@@ -4,10 +4,10 @@ sutta_title:
   - "Arahantavagga "
   - "Perfected Ones"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP7]]
 > ◄  [[dhp6-deepseek-pali]] 📜  [[dhp8-deepseek-pali]] ►
 
 # Dhp 7. Arahantavaggo
@@ -70,12 +70,11 @@ The Chapter on Arahants, the Seventh, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | Dh 26 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP7]]
 > ◄  [[dhp6-deepseek-pali]] 📜  [[dhp8-deepseek-pali]] ►

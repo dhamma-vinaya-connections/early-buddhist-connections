@@ -3,11 +3,11 @@ sutta_code: "AN4.87"
 sutta_title:
   - "Saṃyojana "
   - "Fetters"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.87]]
 > ◄  [[an4.86-sujato-pali]] 📜  [[an4.88-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -65,8 +65,7 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.87-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,6 +76,5 @@ Sattamaṁ.
 | [[AN5.104]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.87]]
 > ◄  [[an4.86-sujato-pali]] 📜  [[an4.88-sujato-pali]] ►

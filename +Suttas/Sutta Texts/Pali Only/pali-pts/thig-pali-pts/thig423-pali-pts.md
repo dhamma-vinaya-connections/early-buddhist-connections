@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG423-PALI"
+sutta_code: "THIG423"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG423-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG423]]
 > ◄  [[thig422-pali-pts]] 📜  [[thig424-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ atha naṃ bhaṇati tāto ammā sabbo ca me ñātigaṇavaggo |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig423-) 
 

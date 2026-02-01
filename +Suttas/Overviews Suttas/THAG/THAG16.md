@@ -40,13 +40,9 @@ sutta_teacher:
   - "Bhikkhus"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - ""
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: ""
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG15]]  🌐 [[THAG17]] ►
 
@@ -76,8 +72,7 @@ this is the best happiness.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,8 +84,7 @@ this is the best happiness.
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BTHAG16%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BTHAG16%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -101,7 +95,7 @@ this is the best happiness.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHAG16%5D%5D%22%23mynotes%20-file%3Athag16-%20-file%3A%22THAG15%22%20-file%3A%22THAG17%22%20-file%3A%22THAG16%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thag16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag16

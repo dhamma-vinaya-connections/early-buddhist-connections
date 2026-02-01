@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.1-PALI"
+sutta_code: "AN1.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Rupa "
+  - "Sights"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.1]]
 > ◄  [[]] 📜  [[an1.2-pali-sri]] ►
 
 # 3:1 Balavaggo - Pali
@@ -118,6 +118,16 @@ Akusalañca sāvajjaṃ-sabyajjhakataṃ balaṃti-machasaṃ. Syā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA9.7]] | A i 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA9.7]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.1]]
+> ◄  [[]] 📜  [[an1.2-pali-sri]] ►

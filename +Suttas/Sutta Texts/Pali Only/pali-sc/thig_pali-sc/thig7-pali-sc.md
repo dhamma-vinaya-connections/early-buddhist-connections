@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG7-PALI"
+sutta_code: "THIG7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sattakanipātavagga "
+  - "Sevens Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG7]]
 > ◄  [[thig6-pali-sc]] 📜  [[thig8-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -132,6 +132,5 @@ nihato tvamasi antaka".
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig7-) 
 

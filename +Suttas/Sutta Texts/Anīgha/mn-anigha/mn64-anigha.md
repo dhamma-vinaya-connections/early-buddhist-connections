@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-anigha]] 📜  [[mn107-anigha]] ►
 
 # MN 64 - The Longer Discourse With Māluṅkya
@@ -81,8 +81,7 @@ That is what the Auspicious One said. Pleased, Venerable Ānanda delighted in wh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn64-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -93,6 +92,5 @@ That is what the Auspicious One said. Pleased, Venerable Ānanda delighted in wh
 | [[MA205]]; [[MN52]]; [[AN9.36]]; [[AN11.16]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-anigha]] 📜  [[mn107-anigha]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Maccharisutta "
   - "Stingy"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.49]]
 > ◄  [[sn1.48-deepseek-pali]] 📜  [[sn1.50-deepseek-pali]] ►
 
 # SN 1.49 Maccharisuttaṃ
@@ -61,6 +61,5 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.49-) 
 

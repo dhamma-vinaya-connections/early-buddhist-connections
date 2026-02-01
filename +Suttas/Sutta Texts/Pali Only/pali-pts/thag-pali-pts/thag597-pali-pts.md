@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG597-PALI"
+sutta_code: "THAG597"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG597-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG597]]
 > ◄  [[thag596-pali-pts]] 📜  [[thag598-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yathā abbhāni verambo vāto nudati pāvuse,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag597-) 
 

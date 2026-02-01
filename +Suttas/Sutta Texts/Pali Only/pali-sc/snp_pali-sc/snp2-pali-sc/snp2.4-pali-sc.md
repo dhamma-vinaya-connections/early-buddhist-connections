@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.4-PALI"
+sutta_code: "SNP2.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Maṅgalasutta "
+  - "Blessings"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
 > ◄  [[snp2.3-pali-sc]] 📜  [[snp2.5-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -86,6 +86,7 @@ Maṅgalasuttaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
+> ◄  [[snp2.3-pali-sc]] 📜  [[snp2.5-pali-sc]] ►

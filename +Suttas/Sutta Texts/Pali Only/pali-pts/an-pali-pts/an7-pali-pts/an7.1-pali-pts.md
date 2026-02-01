@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.1-PALI"
+sutta_code: "AN7.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṭhamapiya "
+  - "Pleasing"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.1]]
 > ◄  [[]] 📜  [[an7.2-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.3]] |  | A iv 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.1]]
+> ◄  [[]] 📜  [[an7.2-pali-pts]] ►

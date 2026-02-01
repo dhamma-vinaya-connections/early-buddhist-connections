@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.211-PALI"
+sutta_code: "AN5.211"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Akkosaka "
+  - "Abuse"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.211-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.211]]
 > ◄  [[an5.210-pali-pts]] 📜  [[an5.212-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,11 @@ Katame pañca?
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.211-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 252 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.211]]
+> ◄  [[an5.210-pali-pts]] 📜  [[an5.212-pali-pts]] ►

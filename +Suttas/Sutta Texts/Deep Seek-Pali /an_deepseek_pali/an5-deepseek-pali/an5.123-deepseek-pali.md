@@ -4,10 +4,10 @@ sutta_title:
   - "Upaṭṭhāka "
   - "Carer"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.123]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.123]]
 > ◄  [[an5.122-deepseek-pali]] 📜  [[an5.124-deepseek-pali]] ►
 
 # AN 5.123 Paṭhamaupaṭṭhākasuttaṃ
@@ -27,8 +27,7 @@ Monks, a sick person endowed with five qualities is easy to tend to. What five? 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.123-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ Monks, a sick person endowed with five qualities is easy to tend to. What five? 
 | [[EA32.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.123]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.123]]
 > ◄  [[an5.122-deepseek-pali]] 📜  [[an5.124-deepseek-pali]] ►

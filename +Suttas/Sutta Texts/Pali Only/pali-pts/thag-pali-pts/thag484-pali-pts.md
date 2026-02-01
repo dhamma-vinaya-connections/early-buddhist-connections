@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG484-PALI"
+sutta_code: "THAG484"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG484-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG484]]
 > ◄  [[thag483-pali-pts]] 📜  [[thag485-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ajjadagge maṃ Sopāka dassanāyopasaṃkama,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag484-) 
 

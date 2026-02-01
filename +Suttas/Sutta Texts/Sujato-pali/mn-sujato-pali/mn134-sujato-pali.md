@@ -3,11 +3,11 @@ sutta_code: "MN134"
 sutta_title:
   - "Lomasakaṅgiyabhaddekaratta Sutta "
   - "Lomasakaṅgiya and One Fine Night"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN134]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN134]]
 > ◄  [[mn133-sujato-pali]] 📜  [[mn135-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -244,8 +244,7 @@ Lomasakaṅgiyabhaddekarattasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn134-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -260,6 +259,5 @@ Lomasakaṅgiyabhaddekarattasuttaṁ niṭṭhitaṁ catutthaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN131]] - 134, [[MA164]]- 167]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN134]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN134]]
 > ◄  [[mn133-sujato-pali]] 📜  [[mn135-sujato-pali]] ►

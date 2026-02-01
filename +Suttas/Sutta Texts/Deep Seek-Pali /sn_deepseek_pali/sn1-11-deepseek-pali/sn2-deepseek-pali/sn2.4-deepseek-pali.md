@@ -4,10 +4,10 @@ sutta_title:
   - "Māgadhasutta "
   - "Magadha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
 > ◄  [[sn2.3-deepseek-pali]] 📜  [[sn2.5-deepseek-pali]] ►
 
 # SN 2.4 Māgadhasuttaṃ
@@ -35,8 +35,7 @@ Then fire shines day and night, here and there; the Perfectly Enlightened One is
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then fire shines day and night, here and there; the Perfectly Enlightened One is
 | [[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP387]], [[SN21.11]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
 > ◄  [[sn2.3-deepseek-pali]] 📜  [[sn2.5-deepseek-pali]] ►

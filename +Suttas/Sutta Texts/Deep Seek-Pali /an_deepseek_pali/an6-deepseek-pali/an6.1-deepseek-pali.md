@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamaāhuneyya "
   - "Worthy Of Offerings"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.1]]
 > ◄  [[]] 📜  [[an6.2-deepseek-pali]] ►
 
 # AN 6.1 Paṭhamaāhuneyyasuttaṃ
@@ -31,8 +31,7 @@ Thus spoke the Blessed One. The monks were satisfied and rejoiced in the Blessed
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Thus spoke the Blessed One. The monks were satisfied and rejoiced in the Blessed
 | [[DN33]], [[MN140]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.1]]
 > ◄  [[]] 📜  [[an6.2-deepseek-pali]] ►

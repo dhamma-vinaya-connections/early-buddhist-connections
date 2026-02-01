@@ -4,10 +4,10 @@ sutta_title:
   - "Bahukāra "
   - "Very Helpful"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI107]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI107]]
 > ◄  [[iti106-deepseek-pali]] 📜  [[iti108-deepseek-pali]] ►
 
 # Iti 107 Nadīsotasuttaṃ
@@ -35,8 +35,7 @@ This matter, too, was spoken by the Blessed One: so I have heard. Tenth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti107-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ This matter, too, was spoken by the Blessed One: so I have heard. Tenth.
 | [[AN3.48]], [[AN5.40]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI107]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI107]]
 > ◄  [[iti106-deepseek-pali]] 📜  [[iti108-deepseek-pali]] ►

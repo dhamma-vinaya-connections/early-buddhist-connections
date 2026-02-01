@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG881-PALI"
+sutta_code: "THAG881"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG881-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG881]]
 > ◄  [[thag880-pali-pts]] 📜  [[thag882-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tādisaṃ kammaṃ katvāna bahuṃ duggatigāminaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag881-) 
 

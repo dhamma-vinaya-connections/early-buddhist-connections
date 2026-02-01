@@ -4,10 +4,10 @@ sutta_title:
   - "Vitthatabala "
   - "Powers In Detail"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.3]]
 > ◄  [[an7.2-deepseek-pali]] 📜  [[an7.4-deepseek-pali]] ►
 
 # AN 7.3 Saṃkhittabalasuttaṃ
@@ -33,8 +33,7 @@ A bhikkhu strong with these powers lives happily, a wise one.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ A bhikkhu strong with these powers lives happily, a wise one.”
 | [[SA688]], [[SA689]], [[SA690]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.3]]
 > ◄  [[an7.2-deepseek-pali]] 📜  [[an7.4-deepseek-pali]] ►

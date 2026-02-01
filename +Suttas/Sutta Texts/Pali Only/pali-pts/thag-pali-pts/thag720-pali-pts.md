@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG720-PALI"
+sutta_code: "THAG720"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG720-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG720]]
 > ◄  [[thag719-pali-pts]] 📜  [[thag721-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ kiṃ bhaddante karitvāna, ko vā ācariyo tava,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag720-) 
 

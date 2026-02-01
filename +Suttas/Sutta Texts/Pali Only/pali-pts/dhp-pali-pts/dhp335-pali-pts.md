@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP335-PALI"
+sutta_code: "DHP335"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP335-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP335]]
 > ◄  [[dhp334-pali-pts]] 📜  [[dhp336-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yo c'; etaṃ sahatī jammiṃ taṇhaṃ loke duraccayaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp335-) 
 

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI89]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI89]]
 > ◄  [[iti88-thanissaro]] 📜  [[iti90-thanissaro]] ►
 
 # Itivuttaka 89
@@ -102,8 +102,7 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti89-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -118,6 +117,5 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[ITI18]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI89]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI89]]
 > ◄  [[iti88-thanissaro]] 📜  [[iti90-thanissaro]] ►

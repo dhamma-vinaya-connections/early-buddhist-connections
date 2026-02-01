@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.7-PALI"
+sutta_code: "AN2.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sanimitta "
+  - "With A Foundation"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.7]]
 > ◄  [[an2.6-pali-sc]] 📜  [[an2.8-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -23,6 +23,7 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.7]]
+> ◄  [[an2.6-pali-sc]] 📜  [[an2.8-pali-sc]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Sangamaji Sutta "
   - "Sangamaji"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.8]]
 > ◄  [[ud1.7-deepseek-pali]] 📜  [[ud1.9-deepseek-pali]] ►
 
 # Ud 1.8 Saṅgāmajisuttaṃ
@@ -51,6 +51,5 @@ Then the Blessed One, having understood this matter, on that occasion uttered th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.8-) 
 

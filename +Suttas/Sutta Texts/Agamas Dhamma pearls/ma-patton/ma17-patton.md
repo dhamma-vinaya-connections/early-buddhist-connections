@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA17]]
 > ◄  [[ma16-patton]] 📜  [[ma25-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -79,8 +79,7 @@ Gāminī answered, “No, Bhagavān.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ Gāminī answered, “No, Bhagavān.”
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.176.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA17]]
 > ◄  [[ma16-patton]] 📜  [[ma25-patton]] ►

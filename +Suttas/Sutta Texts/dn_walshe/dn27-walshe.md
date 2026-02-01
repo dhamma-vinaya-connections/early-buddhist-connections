@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
 > ◄  [[dn26-walshe]] 📜  [[dn28-walshe]] ►
 
 # DN27 Aggañña Sutta: On Knowledge of Beginnings
@@ -114,8 +114,7 @@ Thus the Lord spoke, and Vasettha and Bharadvaja were derighted and rejoiced at 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -130,6 +129,5 @@ Thus the Lord spoke, and Vasettha and Bharadvaja were derighted and rejoiced at 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
 > ◄  [[dn26-walshe]] 📜  [[dn28-walshe]] ►

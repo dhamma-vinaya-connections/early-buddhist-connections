@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG148-PALI"
+sutta_code: "THIG148"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG148-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG148]]
 > ◄  [[thig147-pali-pts]] 📜  [[thig149-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sutvā ca kho mahesissa saccaṃ sampaṭivijjh'; ahaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig148-) 
 

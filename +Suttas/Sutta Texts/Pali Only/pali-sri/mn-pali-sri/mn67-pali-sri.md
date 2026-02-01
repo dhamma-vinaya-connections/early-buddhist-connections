@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN67-PALI"
+sutta_code: "MN67"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cātuma Sutta "
+  - "At Cātumā"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
 > ◄  [[mn66-pali-sri]] 📜  [[mn68-pali-sri]] ►
 
 # 68. Catuma Sutta - Pali
@@ -104,6 +104,16 @@ Cātuma suttaṃ sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn67-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.122]] | [[EA45.2]] | M i 456 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN22.80]]; [[EA45.2]]; [[AN4.122]]; [[UD3.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
+> ◄  [[mn66-pali-sri]] 📜  [[mn68-pali-sri]] ►

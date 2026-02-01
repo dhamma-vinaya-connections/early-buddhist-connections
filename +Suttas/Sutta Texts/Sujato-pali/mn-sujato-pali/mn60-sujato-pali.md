@@ -3,11 +3,11 @@ sutta_code: "MN60"
 sutta_title:
   - "Apaṇṇaka Sutta "
   - "Guaranteed"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
 > ◄  [[mn59-sujato-pali]] 📜  [[mn61-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -318,8 +318,7 @@ Bahu­veda­nī­yāpaṇṇa­kato dasamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -334,6 +333,5 @@ Bahu­veda­nī­yāpaṇṇa­kato dasamo.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN45]]; [[MN95]], [[DN2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
 > ◄  [[mn59-sujato-pali]] 📜  [[mn61-sujato-pali]] ►

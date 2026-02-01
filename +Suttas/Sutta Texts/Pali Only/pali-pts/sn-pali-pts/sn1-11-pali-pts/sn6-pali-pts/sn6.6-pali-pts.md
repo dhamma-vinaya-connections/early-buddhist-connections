@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.6-PALI"
+sutta_code: "SN6.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Brahmalokasutta "
+  - "A Brahma World Negligence"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
 > ◄  [[sn6.5-pali-pts]] 📜  [[sn6.7-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -49,6 +49,16 @@ Agamāsi ca kho so brahmā aparena samayena Bhagavato upaṭṭhānam arahato sa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.107]], [[SA1194]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.107]], [[SA1194]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
+> ◄  [[sn6.5-pali-pts]] 📜  [[sn6.7-pali-pts]] ►

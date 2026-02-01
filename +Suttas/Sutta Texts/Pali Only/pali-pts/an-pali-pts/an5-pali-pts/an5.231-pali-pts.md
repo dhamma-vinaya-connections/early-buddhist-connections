@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.231-PALI"
+sutta_code: "AN5.231"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Āvāsika "
+  - "Resident Mendicant"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.231-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.231]]
 > ◄  [[an5.230-pali-pts]] 📜  [[an5.232-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,11 @@ Evam eva kho bhikkhave pañc'ime ādīnavā mātugāme Katame pañca?
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.231-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 261 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.231]]
+> ◄  [[an5.230-pali-pts]] 📜  [[an5.232-pali-pts]] ►

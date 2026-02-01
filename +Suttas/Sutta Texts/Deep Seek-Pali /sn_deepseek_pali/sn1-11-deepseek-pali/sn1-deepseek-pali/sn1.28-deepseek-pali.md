@@ -4,10 +4,10 @@ sutta_title:
   - "Mahaddhanasutta "
   - "Those of Great Wealth"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.28]]
 > ◄  [[sn1.27-deepseek-pali]] 📜  [[sn1.29-deepseek-pali]] ►
 
 # SN 1.28 Mahaddhanasuttaṃ
@@ -33,8 +33,7 @@ Among those who are filled with longing, following the stream of becoming, who h
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.28-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ Among those who are filled with longing, following the stream of becoming, who h
 | [[SA-2.183]], [[SA589]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.28]]
 > ◄  [[sn1.27-deepseek-pali]] 📜  [[sn1.29-deepseek-pali]] ►

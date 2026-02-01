@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
 > ◄  [[mn72-bodhi]] 📜  [[mn74-bodhi]] ►
 
 # MN73 Mahāvacchagotta Sutta - The Greater Discourse to Vacchagotta
@@ -101,8 +101,7 @@ That is what the Blessed One said. Those bhikkhus were satisfied and delighted i
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn73-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -113,6 +112,5 @@ That is what the Blessed One said. Those bhikkhus were satisfied and delighted i
 | [[SA-2.198]]; [[SA964]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
 > ◄  [[mn72-bodhi]] 📜  [[mn74-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.4-PALI"
+sutta_code: "AN3.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Accaya "
+  - "Mistakes"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.4]]
 > ◄  [[an3.3-pali-sri]] 📜  [[an3.5-pali-sri]] ►
 
 # 5:4 Sumanavaggo - Pali
@@ -424,6 +424,16 @@ Kāla bhojana saddhāya puttasālehi te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA22.6]] | A i 103 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA22.6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.4]]
+> ◄  [[an3.3-pali-sri]] 📜  [[an3.5-pali-sri]] ►

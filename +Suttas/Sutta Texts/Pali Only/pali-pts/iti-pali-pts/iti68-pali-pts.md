@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI68-PALI"
+sutta_code: "ITI68"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "梵摩 "
+  - "With Brahmāyu"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI68-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI68]]
 > ◄  [[iti67-pali-pts]] 📜  [[iti69-pali-pts]] ►
 
 ## Itivuttaka
@@ -27,6 +27,7 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||9||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti68-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI68]]
+> ◄  [[iti67-pali-pts]] 📜  [[iti69-pali-pts]] ►

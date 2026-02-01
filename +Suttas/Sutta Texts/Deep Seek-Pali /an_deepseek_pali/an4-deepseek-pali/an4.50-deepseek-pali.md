@@ -4,10 +4,10 @@ sutta_title:
   - "Upakkilesa "
   - "Obscurations"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.50]]
 > ◄  [[an4.49-deepseek-pali]] 📜  [[an4.51-deepseek-pali]] ►
 
 # AN 4.50 Upakkilesasuttaṃ
@@ -91,8 +91,7 @@ The First Fifty Concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.50-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ The First Fifty Concluded.
 | [[EA28.2]], [[PLI-TV-KD22]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.50]]
 > ◄  [[an4.49-deepseek-pali]] 📜  [[an4.51-deepseek-pali]] ►

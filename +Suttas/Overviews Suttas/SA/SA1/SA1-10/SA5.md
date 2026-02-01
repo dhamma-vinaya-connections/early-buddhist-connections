@@ -34,24 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[SN22.29]]"
-  - "[[SN22.24]]"
-parallels_agama:
-  - "[[SA3]]"
-  - "[[SA4]]"
-  - "[[SA5]]"
-  - "[[SA6]]"
-  - "[[SA7]]"
-parallels_partilal:
-  - "[[SA3]]"
-  - "[[SA4]]"
-  - "[[SA5]]"
-  - "[[SA6]]"
-  - "[[SA7]]"
-  - "[[SN22.29]]"
-  - "[[SN22.24]]"
+parallels_nikaya: "[[SN22.29]], [[SN22.24]]"
+parallels_agama: "[[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]]"
+parallels_partilal: "[[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]], [[SN22.29]], [[SN22.24]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[SA4]]  🌐 [[SA6]] ►
 
@@ -72,8 +57,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,8 +69,7 @@ parallels_partilal:
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSA5%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSA5%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -97,7 +80,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSA5%5D%5D%22%23mynotes%20-file%3Asa5-%20-file%3A%22SA4%22%20-file%3A%22SA6%22%20-file%3A%22SA5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sa5/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 

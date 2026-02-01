@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG259-PALI"
+sutta_code: "THAG259"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG259-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG259]]
 > ◄  [[thag258-pali-pts]] 📜  [[thag260-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sambhavā suviditā asārakā saṃkhatā pacalitā sad'; eritā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag259-) 
 

@@ -3,11 +3,11 @@ sutta_code: "UD5.8"
 sutta_title:
   - "Ananda Sutta "
   - "Ānanda"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.8]]
 > ◄  [[ud5.7-anandajoti-pali]] 📜  [[ud5.9-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -55,8 +55,7 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Aṭṭhamaṁ.
 | [[PLI-TV-KD17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.8]]
 > ◄  [[ud5.7-anandajoti-pali]] 📜  [[ud5.9-anandajoti-pali]] ►

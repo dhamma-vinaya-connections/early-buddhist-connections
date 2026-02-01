@@ -4,10 +4,10 @@ sutta_title:
   - "Cātuma Sutta "
   - "At Cātumā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
 > ◄  [[mn66-deepseek-pali]] 📜  [[mn68-deepseek-pali]] ►
 
 # 67. Cātumasuttaṃ
@@ -63,8 +63,7 @@ The Cātuma Sutta, the seventh, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn67-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ The Cātuma Sutta, the seventh, is concluded.
 | [[SN22.80]]; [[EA45.2]]; [[AN4.122]]; [[UD3.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
 > ◄  [[mn66-deepseek-pali]] 📜  [[mn68-deepseek-pali]] ►

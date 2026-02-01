@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI5-PALI"
+sutta_code: "ITI5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Makkha "
+  - "Contempt"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI5]]
 > ◄  [[iti4-pali-pts]] 📜  [[iti6-pali-pts]] ►
 
 ## Itivuttaka
@@ -26,6 +26,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||5||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti5-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Tiṭhāna "
   - "Three Particulars"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.21]]
 > ◄  [[an9.20-deepseek-pali]] 📜  [[an9.22-deepseek-pali]] ►
 
 # AN 9.21 Tiṭhānasuttaṃ
@@ -31,12 +31,11 @@ Bhikkhus, on three grounds the humans of Jambudīpa surpass the humans of Uttara
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 396 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.21]]
 > ◄  [[an9.20-deepseek-pali]] 📜  [[an9.22-deepseek-pali]] ►

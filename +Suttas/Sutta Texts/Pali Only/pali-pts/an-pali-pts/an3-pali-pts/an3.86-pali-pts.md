@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.86-PALI"
+sutta_code: "AN3.86"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sikkhā "
+  - "Training"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.86-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.86]]
 > ◄  [[an3.85-pali-pts]] 📜  [[an3.87-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -30,6 +30,16 @@ Akuppā me vimuttī ti bhavasaññojanakkhaye ti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.86-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA821]] | A i 231 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA821]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.86]]
+> ◄  [[an3.85-pali-pts]] 📜  [[an3.87-pali-pts]] ►

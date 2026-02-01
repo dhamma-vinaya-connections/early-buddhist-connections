@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI6-PALI"
+sutta_code: "ITI6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Māna "
+  - "Conceit"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI6]]
 > ◄  [[iti5-pali-pts]] 📜  [[iti7-pali-pts]] ►
 
 ## Itivuttaka
@@ -26,6 +26,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||6||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti6-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Aggañña Sutta "
   - "Origin of the World"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
 > ◄  [[dn26-deepseek-pali]] 📜  [[dn28-deepseek-pali]] ►
 
 # Aggaññasuttaṃ
@@ -280,8 +280,7 @@ The Aggañña Sutta is concluded, the fourth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -296,6 +295,5 @@ The Aggañña Sutta is concluded, the fourth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
 > ◄  [[dn26-deepseek-pali]] 📜  [[dn28-deepseek-pali]] ►

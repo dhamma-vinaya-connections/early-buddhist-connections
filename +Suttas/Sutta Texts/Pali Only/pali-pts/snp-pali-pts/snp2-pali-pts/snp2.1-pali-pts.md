@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.1-PALI"
+sutta_code: "SNP2.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ratana "
+  - "Gems"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.1]]
 > ◄  [[]] 📜  [[snp2.2-pali-pts]] ►
 
 # SNP2.1 Ratanasutta
@@ -115,6 +115,7 @@ RATANASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.1]]
+> ◄  [[]] 📜  [[snp2.2-pali-pts]] ►

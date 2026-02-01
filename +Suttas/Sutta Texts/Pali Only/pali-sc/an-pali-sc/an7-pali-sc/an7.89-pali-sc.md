@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.89-PALI"
+sutta_code: "AN7.89"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bhikkhu "
+  - "Mendicant"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.89-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.89]]
 > ◄  [[an7.88-pali-sc]] 📜  [[an7.90-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -23,6 +23,11 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.89-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 144 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.89]]
+> ◄  [[an7.88-pali-sc]] 📜  [[an7.90-pali-sc]] ►

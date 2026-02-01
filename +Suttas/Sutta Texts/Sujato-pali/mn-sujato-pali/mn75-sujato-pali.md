@@ -3,11 +3,11 @@ sutta_code: "MN75"
 sutta_title:
   - "Māgaṇḍiya Sutta "
   - "Māgaṇḍiya"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
 > ◄  [[mn74-sujato-pali]] 📜  [[mn76-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -359,8 +359,7 @@ Māgaṇḍiyasuttaṁ niṭṭhitaṁ pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn75-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -371,6 +370,5 @@ Māgaṇḍiyasuttaṁ niṭṭhitaṁ pañcamaṁ.
 | [[MA153]]; [[DHP204]]; [[MN75]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
 > ◄  [[mn74-sujato-pali]] 📜  [[mn76-sujato-pali]] ►

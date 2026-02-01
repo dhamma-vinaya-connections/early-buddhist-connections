@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG702-PALI"
+sutta_code: "THAG702"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG702-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG702]]
 > ◄  [[thag701-pali-pts]] 📜  [[thag703-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ atthassāyaṃ viññāpanī upamā viññūhi desitā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag702-) 
 

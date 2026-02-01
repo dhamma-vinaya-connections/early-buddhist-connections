@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG225-PALI"
+sutta_code: "THAG225"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG225-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG225]]
 > ◄  [[thag224-pali-pts]] 📜  [[thag226-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yañ hi kayirā tañ hi vade, yaṃ na kayirā na taṃ vade.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag225-) 
 

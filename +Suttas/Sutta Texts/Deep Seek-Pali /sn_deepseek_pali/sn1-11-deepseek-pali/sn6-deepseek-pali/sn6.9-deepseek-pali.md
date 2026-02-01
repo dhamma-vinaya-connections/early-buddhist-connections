@@ -4,10 +4,10 @@ sutta_title:
   - "Turūbrahmasutta "
   - "Brahma Tudu"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
 > ◄  [[sn6.8-deepseek-pali]] 📜  [[sn6.10-deepseek-pali]] ►
 
 # SN 6.9 Turūbrahmasuttaṃ
@@ -39,8 +39,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ language: "Pali"
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
 > ◄  [[sn6.8-deepseek-pali]] 📜  [[sn6.10-deepseek-pali]] ►

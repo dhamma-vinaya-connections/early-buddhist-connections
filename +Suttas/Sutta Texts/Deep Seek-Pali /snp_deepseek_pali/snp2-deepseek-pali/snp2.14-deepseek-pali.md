@@ -4,10 +4,10 @@ sutta_title:
   - "Dhammika "
   - "With Dhammika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.14]]
 > ◄  [[snp2.13-deepseek-pali]] 📜  [[]] ►
 
 # Snp 2.14 Dhammikasuttaṃ
@@ -217,9 +217,7 @@ Rāhula and Kappa too, and the Paribbājaka likewise, and Dhammika: these, the w
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.14-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.14]]
 > ◄  [[snp2.13-deepseek-pali]] 📜  [[]] ►

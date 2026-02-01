@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
 > ◄  [[sn8.6-bodhi]] 📜  [[sn8.8-bodhi]] ►
 
 # SN8.7 Pavāraṇā
@@ -74,8 +74,7 @@ Then the Venerable Vaṅgīsa extolled the Blessed One to his face with suitable
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -86,6 +85,5 @@ Then the Venerable Vaṅgīsa extolled the Blessed One to his face with suitable
 | [[EA32.5]], [[MA121]], [[SA-2.228]], [[SA1212]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
 > ◄  [[sn8.6-bodhi]] 📜  [[sn8.8-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN80-PALI"
+sutta_code: "MN80"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vekhanasa Sutta "
+  - "With Vekhanasa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
 > ◄  [[mn79-pali-sc]] 📜  [[mn81-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -119,6 +119,16 @@ Maṇiko tathākaccāno varavaggo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn80-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA209]] | M ii 40 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA209]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
+> ◄  [[mn79-pali-sc]] 📜  [[mn81-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.42-PALI"
+sutta_code: "AN9.42"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sandiṭṭhikanibbāna "
+  - "Nibbana Is Visible In This Very Life"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.42-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.42]]
 > ◄  [[an9.41-pali-pts]] 📜  [[an9.43-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,20 @@ Katamo nu kho āvuso sambādho, katamo sambādhe okāsādhigamo vutto Bhagavatā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.42-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 449 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN2.7]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN121]], [[AN9.34]], [[SN2.7]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.42]]
+> ◄  [[an9.41-pali-pts]] 📜  [[an9.43-pali-pts]] ►

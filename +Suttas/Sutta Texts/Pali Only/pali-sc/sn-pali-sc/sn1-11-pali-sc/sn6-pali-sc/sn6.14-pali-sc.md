@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.14-PALI"
+sutta_code: "SN6.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Aruṇavatīsutta "
+  - "Aruṇavati"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.14]]
 > ◄  [[sn6.13-pali-sc]] 📜  [[sn6.15-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -91,6 +91,16 @@ dukkhassantaṁ karissatī’ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[THAG3.13]], [[DN16]], [[PE3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.14]]
+> ◄  [[sn6.13-pali-sc]] 📜  [[sn6.15-pali-sc]] ►

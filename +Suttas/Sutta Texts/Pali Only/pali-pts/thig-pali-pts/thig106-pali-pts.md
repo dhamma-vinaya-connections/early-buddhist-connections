@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG106-PALI"
+sutta_code: "THIG106"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG106-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG106]]
 > ◄  [[thig105-pali-pts]] 📜  [[thig107-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ lūnakesī paṅkadharī ekasāṭī pure cariṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig106-) 
 

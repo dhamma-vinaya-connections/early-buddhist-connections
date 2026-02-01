@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN31]]
 > ◄  [[mn30-bodhi]] 📜  [[mn32-bodhi]] ►
 
 # MN31 Cūḷagosinga Sutta - The Shorter Discourse in Gosinga
@@ -87,8 +87,7 @@ That is what the Blessed One said. The spirit Dīgha Parajana was satisfied and 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn31-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ That is what the Blessed One said. The spirit Dīgha Parajana was satisfied and 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN128]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN31]]
 > ◄  [[mn30-bodhi]] 📜  [[mn32-bodhi]] ►

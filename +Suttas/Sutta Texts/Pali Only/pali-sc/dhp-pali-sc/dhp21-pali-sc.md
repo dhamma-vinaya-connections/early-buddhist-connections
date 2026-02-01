@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP21-PALI"
+sutta_code: "DHP21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pakiṇṇakavagga "
+  - "Miscellaneous"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP21]]
 > ◄  [[dhp20-pali-sc]] 📜  [[dhp22-pali-sc]] ►
 
 # PAKINNAKA VAGGA
@@ -81,6 +81,16 @@ Ekāsanaṃ ekaseyyaṃ, eko caramatandito; eko damayamattānaṃ, vanante ramit
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp21-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 82 |
+> > [!check]- Partial parallels 
+> > 
+| [[JA520]], [[PE5]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP21]]
+> ◄  [[dhp20-pali-sc]] 📜  [[dhp22-pali-sc]] ►

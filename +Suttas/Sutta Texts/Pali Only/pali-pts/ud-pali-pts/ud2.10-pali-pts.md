@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD2.10-PALI"
+sutta_code: "UD2.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bhadiya Kaligodha Sutta "
+  - "Bhaddiya"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
 > ◄  [[ud2.8-pali-pts]] 📜  [[ud3.2-pali-pts]] ►
 
 ## Udāna
@@ -30,6 +30,16 @@ atha kho aññataro bhikkhu yena bhagavā ten'; upasaṅkami, upasaṅkamitvā b
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD17]], [[SNP1.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
+> ◄  [[ud2.8-pali-pts]] 📜  [[ud3.2-pali-pts]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Bahujanahita "
   - "For Welfare of People"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI84]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI84]]
 > ◄  [[iti83-deepseek-pali]] 📜  [[iti85-deepseek-pali]] ►
 
 # Iti 84 Asubhānupassīsuttaṃ
@@ -29,6 +29,5 @@ This too is the meaning spoken by the Blessed One, so I have heard. The sixth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti84-) 
 

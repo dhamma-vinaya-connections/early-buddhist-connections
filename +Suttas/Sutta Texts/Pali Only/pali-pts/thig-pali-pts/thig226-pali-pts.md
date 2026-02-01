@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG226-PALI"
+sutta_code: "THIG226"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG226-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG226]]
 > ◄  [[thig225-pali-pts]] 📜  [[thig227-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ pubbenivāsaṃ jānāmi dibbacakkhuṃ visodhitaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig226-) 
 

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA19]]
 > ◄  [[da18-bdk]] 📜  [[da20-bdk]] ►
 
 ### A Great Assembly
@@ -274,8 +274,7 @@ tation, were delighted and respectfully received the teaching.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -286,6 +285,5 @@ tation, were delighted and respectfully received the teaching.
 | [[MN98]], [[SNP3.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA19]]
 > ◄  [[da18-bdk]] 📜  [[da20-bdk]] ►

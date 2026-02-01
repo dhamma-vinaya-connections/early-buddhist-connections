@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG659-PALI"
+sutta_code: "THAG659"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG659-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG659]]
 > ◄  [[thag658-pali-pts]] 📜  [[thag660-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ evaṃ paññāya ye tittā samuddo vārinā yathā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag659-) 
 

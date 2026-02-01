@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG236-PALI"
+sutta_code: "THIG236"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG236-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG236]]
 > ◄  [[thig235-pali-pts]] 📜  [[thig237-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ kassa brāhmaṇa tvaṃ bhīto sadā udakam otari |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig236-) 
 

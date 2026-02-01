@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.91]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.91]]
 > ◄  [[an8.90-bodhi]] 📜  [[an8.118-bodhi]] ►
 
 # AN8.91-117
@@ -23,6 +23,5 @@ Then the female lay follower Bojjhā … Sirimā … Padumā … Sutanā … Man
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.91-) 
 

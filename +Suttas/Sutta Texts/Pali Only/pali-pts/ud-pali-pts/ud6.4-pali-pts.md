@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD6.4-PALI"
+sutta_code: "UD6.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pathamananatitthiya Sutta "
+  - "Sectarians (1)"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.4]]
 > ◄  [[ud6.2-pali-pts]] 📜  [[ud6.5-pali-pts]] ►
 
 ## Udāna
@@ -34,6 +34,7 @@ sassataṃ sukhadukkhaṃ attā ca loko ca . . . ti. santi pan'; eke . . .: asas
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.4]]
+> ◄  [[ud6.2-pali-pts]] 📜  [[ud6.5-pali-pts]] ►

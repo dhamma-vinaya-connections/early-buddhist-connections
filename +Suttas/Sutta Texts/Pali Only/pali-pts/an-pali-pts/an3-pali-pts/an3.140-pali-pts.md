@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.140-PALI"
+sutta_code: "AN3.140"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Assaparassa "
+  - "Excellent Horses"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.140-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.140]]
 > ◄  [[an3.139-pali-pts]] 📜  [[an3.141-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Seyyathāpi bhikkhave nadī-mukhe khipaṃ uḍḍeyya bahunnaṃ macchānaṃ a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.140-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.141]], [[AN3.142]], [[AN9.22]] | [[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]] | A i 287 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.143]], [[SA917]], [[AN3.141]], [[AN9.22]], [[SA-2.144]], [[SA918]], [[AN3.142]], [[SA919]], [[SA-2.145]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.140]]
+> ◄  [[an3.139-pali-pts]] 📜  [[an3.141-pali-pts]] ►

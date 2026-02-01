@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.3]]
 > ◄  [[sn8.2-bodhi]] 📜  [[sn8.4-bodhi]] ►
 
 # SN8.3 Well Behaved
@@ -62,8 +62,7 @@ Then the Venerable Vaṅgīsa, having aroused remorse in himself, on that occasi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -74,6 +73,5 @@ Then the Venerable Vaṅgīsa, having aroused remorse in himself, on that occasi
 | [[SA-2.251]], [[SA1216]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.3]]
 > ◄  [[sn8.2-bodhi]] 📜  [[sn8.4-bodhi]] ►

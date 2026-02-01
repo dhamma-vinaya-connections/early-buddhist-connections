@@ -4,10 +4,10 @@ sutta_title:
   - "Aggikkhandhopama "
   - "Bonfire Simile"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.72]]
 > ◄  [[an7.71-deepseek-pali]] 📜  [[an7.73-deepseek-pali]] ►
 
 # AN 7.72 Aggikkhandhopamasuttaṃ
@@ -91,8 +91,7 @@ This is what the Blessed One said. While this exposition was being delivered, ho
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.72-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ This is what the Blessed One said. While this exposition was being delivered, ho
 | [[EA33.10]], [[MA5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.72]]
 > ◄  [[an7.71-deepseek-pali]] 📜  [[an7.73-deepseek-pali]] ►

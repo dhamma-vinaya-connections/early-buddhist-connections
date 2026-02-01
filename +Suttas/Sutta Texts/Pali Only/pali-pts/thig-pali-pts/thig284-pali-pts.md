@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG284-PALI"
+sutta_code: "THIG284"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG284-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG284]]
 > ◄  [[thig283-pali-pts]] 📜  [[thig285-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ nānākulā pabbajitā nānājanapadehi ca |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig284-) 
 

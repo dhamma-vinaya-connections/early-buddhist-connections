@@ -3,11 +3,11 @@ sutta_code: "AN9.8"
 sutta_title:
   - "Sajjha "
   - "Sajjha"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.8]]
 > ◄  [[an9.7-sujato-pali]] 📜  [[an9.9-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -41,8 +41,7 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -53,6 +52,5 @@ Aṭṭhamaṁ.
 | [[DN29]], [[DA17]], [[AN9.8]], [[MN76]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.8]]
 > ◄  [[an9.7-sujato-pali]] 📜  [[an9.9-sujato-pali]] ►

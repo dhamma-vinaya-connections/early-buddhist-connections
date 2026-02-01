@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG129-PALI"
+sutta_code: "THAG129"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG129-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG129]]
 > ◄  [[thag128-pali-pts]] 📜  [[thag130-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ yo ca kho annapānassa lābhī hoti 'dha puggalo,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag129-) 
 

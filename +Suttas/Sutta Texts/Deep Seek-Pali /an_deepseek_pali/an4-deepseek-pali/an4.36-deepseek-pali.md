@@ -4,10 +4,10 @@ sutta_title:
   - "Doṇa "
   - "Dona"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
 > ◄  [[an4.35-deepseek-pali]] 📜  [[an4.37-deepseek-pali]] ►
 
 # AN 4.36 Doṇasuttaṃ
@@ -43,8 +43,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ language: "Pali"
 | [[SA-2.267]], [[SA101]], [[EA38.3]], [[AN4.14]], [[SA879]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
 > ◄  [[an4.35-deepseek-pali]] 📜  [[an4.37-deepseek-pali]] ►

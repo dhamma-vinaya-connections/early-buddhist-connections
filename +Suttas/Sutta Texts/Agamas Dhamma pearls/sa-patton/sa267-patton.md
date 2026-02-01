@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA267]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA267]]
 > ◄  [[sa266-patton]] 📜  [[sa268-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -34,8 +34,7 @@ They answered, “We’ve seen it, Bhagavān.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa267-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -46,6 +45,5 @@ They answered, “We’ve seen it, Bhagavān.”
 | [[SA267]], [[SN22.100]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA267]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA267]]
 > ◄  [[sa266-patton]] 📜  [[sa268-patton]] ►

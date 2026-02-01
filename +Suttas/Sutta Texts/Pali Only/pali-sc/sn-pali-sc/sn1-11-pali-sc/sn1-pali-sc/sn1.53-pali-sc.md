@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.53-PALI"
+sutta_code: "SN1.53"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mittasutta "
+  - "The Friend"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.53-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
 > ◄  [[sn1.52-pali-sc]] 📜  [[sn1.54-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -47,6 +47,16 @@ taṁ mittaṁ samparāyikan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.53-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.137]], [[SA1000]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.137]], [[SA1000]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
+> ◄  [[sn1.52-pali-sc]] 📜  [[sn1.54-pali-sc]] ►

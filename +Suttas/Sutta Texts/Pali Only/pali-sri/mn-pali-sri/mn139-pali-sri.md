@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN139-PALI"
+sutta_code: "MN139"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Araṇavibhaṅga Sutta "
+  - "Analysis of Non-Conflict"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN139-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN139]]
 > ◄  [[mn138-pali-sri]] 📜  [[mn140-pali-sri]] ►
 
 # 139. Aranavibhanga - Pali
@@ -168,6 +168,16 @@ Araṇavibhaṅgasuttaṃ navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn139-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA169]] | M iii 230 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA169]]; [[MN122]]; [[MN13]]; [[MN14]]; [[SN36.20]]; [[SN36.19]]; [[AN6.63]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN139]]
+> ◄  [[mn138-pali-sri]] 📜  [[mn140-pali-sri]] ►

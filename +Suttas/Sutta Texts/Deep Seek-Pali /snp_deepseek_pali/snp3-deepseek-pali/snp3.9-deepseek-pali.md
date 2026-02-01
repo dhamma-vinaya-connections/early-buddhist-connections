@@ -4,10 +4,10 @@ sutta_title:
   - "Vāseṭṭhasutta "
   - "With Vāseṭṭha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.9]]
 > ◄  [[snp3.8-deepseek-pali]] 📜  [[snp3.10-deepseek-pali]] ►
 
 # Snp 3.9 Vāseṭṭhasuttaṃ
@@ -425,8 +425,7 @@ The Vāseṭṭha Sutta, the ninth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -441,6 +440,5 @@ The Vāseṭṭha Sutta, the ninth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN23:2]], [[AN11:10]], [[ANDDHP92]], [[ANDDHP93]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.9]]
 > ◄  [[snp3.8-deepseek-pali]] 📜  [[snp3.10-deepseek-pali]] ►

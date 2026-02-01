@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG55-PALI"
+sutta_code: "THAG55"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG55-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG55]]
 > ◄  [[thag54-pali-pts]] 📜  [[thag56-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Ko kuṭikāyaṃ. bhikkhu kuṭikāyaṃ vītarāgo susamāhitacitto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag55-) 
 

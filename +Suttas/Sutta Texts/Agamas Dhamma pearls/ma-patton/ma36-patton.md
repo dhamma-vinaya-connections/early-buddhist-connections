@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA36]]
 > ◄  [[ma34-patton]] 📜  [[ma41-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -81,8 +81,7 @@ The Bhagavān said to Venerable Ānanda, “Yes, Ānanda! Yes, Ānanda! The virt
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -97,6 +96,5 @@ The Bhagavān said to Venerable Ānanda, “Yes, Ānanda! Yes, Ānanda! The virt
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[MN123]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA36]]
 > ◄  [[ma34-patton]] 📜  [[ma41-patton]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG178-PALI"
+sutta_code: "THIG178"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG178-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG178]]
 > ◄  [[thig177-pali-pts]] 📜  [[thig179-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ rattiyā purime yāme pubbajātim anussariṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig178-) 
 

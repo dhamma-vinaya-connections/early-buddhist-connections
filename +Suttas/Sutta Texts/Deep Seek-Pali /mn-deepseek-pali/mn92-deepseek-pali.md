@@ -4,10 +4,10 @@ sutta_title:
   - "Sela Sutta "
   - "With Sela"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
 > ◄  [[mn91-deepseek-pali]] 📜  [[mn93-deepseek-pali]] ►
 
 # 92. Selasuttaṃ
@@ -187,8 +187,7 @@ The Selasutta, the second, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn92-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -199,6 +198,5 @@ The Selasutta, the second, is concluded.
 | [[SNP3.7]]; [[PLI-TV-KD6]]; [[EA49.6]]; [[ITI100]]; [[THAG16.6]]; [[SNP3.6]]; [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
 > ◄  [[mn91-deepseek-pali]] 📜  [[mn93-deepseek-pali]] ►

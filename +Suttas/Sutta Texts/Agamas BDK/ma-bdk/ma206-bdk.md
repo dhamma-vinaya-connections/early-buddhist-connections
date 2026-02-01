@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA206]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA206]]
 > ◄  [[ma205-bdk]] 📜  [[ma207-bdk]] ►
 
 ### 206. The Discourse on Mental Defilements
@@ -29,8 +29,7 @@ inclining toward the uncreated. They should cultivate the basis for supernormal 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma206-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ inclining toward the uncreated. They should cultivate the basis for supernormal 
 | [[AN10.1]], [[MA42]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA206]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA206]]
 > ◄  [[ma205-bdk]] 📜  [[ma207-bdk]] ►

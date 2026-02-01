@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-bodhi]] 📜  [[mn35-bodhi]] ►
 
 # MN34 Cūḷagopālaka Sutta - The Shorter Discourse on the Cowherd
@@ -64,8 +64,7 @@ The Shorter Discourse on the Cowherd
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -76,6 +75,5 @@ The Shorter Discourse on the Cowherd
 | [[EA43.6]]; [[SA1248]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-bodhi]] 📜  [[mn35-bodhi]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-bodhi]] 📜  [[mn150-bodhi]] ►
 
 # MN149 Mahāsaḷāyatanika Sutta - The Great Sixfold Base
@@ -57,8 +57,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn149-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 | [[SA305]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-bodhi]] 📜  [[mn150-bodhi]] ►

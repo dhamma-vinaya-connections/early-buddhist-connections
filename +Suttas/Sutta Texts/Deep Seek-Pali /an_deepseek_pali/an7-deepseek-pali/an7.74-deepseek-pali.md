@@ -4,10 +4,10 @@ sutta_title:
   - "Araka "
   - "About Araka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.74]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.74]]
 > ◄  [[an7.73-deepseek-pali]] 📜  [[an7.75-deepseek-pali]] ►
 
 # AN 7.74 Arakasuttaṃ
@@ -79,8 +79,7 @@ Shame (is like) the sun, the wise (are like) the pāricchattaka tree; respectful
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.74-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ Shame (is like) the sun, the wise (are like) the pāricchattaka tree; respectful
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN54]], [[AN6.19]], [[AN6.20]], [[SN4.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.74]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.74]]
 > ◄  [[an7.73-deepseek-pali]] 📜  [[an7.75-deepseek-pali]] ►

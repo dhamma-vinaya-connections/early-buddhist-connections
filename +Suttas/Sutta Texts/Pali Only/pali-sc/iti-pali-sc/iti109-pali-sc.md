@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI109-PALI"
+sutta_code: "ITI109"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nadīsota "
+  - "River"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI109-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI109]]
 > ◄  [[iti108-pali-sc]] 📜  [[iti110-pali-sc]] ►
 
 # Iti 109. Sampannasīlasuttaṃ
@@ -40,6 +40,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dvādasamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti109-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI109]]
+> ◄  [[iti108-pali-sc]] 📜  [[iti110-pali-sc]] ►

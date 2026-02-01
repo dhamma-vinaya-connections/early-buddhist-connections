@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.96-PALI"
+sutta_code: "AN3.96"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ājānīya "
+  - "Thoroughbred"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.96-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.96]]
 > ◄  [[an3.95-pali-sc]] 📜  [[an3.97-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -33,6 +33,16 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.96-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.259]] |  | A i 244 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.259]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.96]]
+> ◄  [[an3.95-pali-sc]] 📜  [[an3.97-pali-sc]] ►

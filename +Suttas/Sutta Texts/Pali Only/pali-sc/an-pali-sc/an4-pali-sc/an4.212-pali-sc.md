@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.212-PALI"
+sutta_code: "AN4.212"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Diṭṭhi "
+  - "View"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.212-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.212]]
 > ◄  [[an4.211-pali-sc]] 📜  [[an4.213-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -25,6 +25,11 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.212-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 226 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.212]]
+> ◄  [[an4.211-pali-sc]] 📜  [[an4.213-pali-sc]] ►

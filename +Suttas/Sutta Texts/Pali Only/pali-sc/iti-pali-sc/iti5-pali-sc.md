@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI5-PALI"
+sutta_code: "ITI5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Makkha "
+  - "Contempt"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI5]]
 > ◄  [[iti4-pali-sc]] 📜  [[iti6-pali-sc]] ►
 
 # Iti 5. Makkhasuttaṃ
@@ -25,6 +25,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti5-) 
 

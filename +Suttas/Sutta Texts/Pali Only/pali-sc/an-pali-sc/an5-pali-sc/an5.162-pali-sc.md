@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.162-PALI"
+sutta_code: "AN5.162"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Āghātapaṭivinaya "
+  - "Getting Rid Of Resentment"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.162-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
 > ◄  [[an5.161-pali-sc]] 📜  [[an5.163-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -53,6 +53,16 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.162-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA25]] | A iii 186 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA25]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
+> ◄  [[an5.161-pali-sc]] 📜  [[an5.163-pali-sc]] ►

@@ -3,11 +3,11 @@ sutta_code: "SN3.18"
 sutta_title:
   - "Kalyāṇamittasutta "
   - "Diligence (2)"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
 > ◄  [[sn3.17-sujato-pali]] 📜  [[sn3.19-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -115,8 +115,7 @@ paṇḍitoti pavuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -127,6 +126,5 @@ paṇḍitoti pavuccatī"ti.
 | [[SA1238]], [[SA-2.65]], [[AN5.43]], [[ITI23]], [[SN3.17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
 > ◄  [[sn3.17-sujato-pali]] 📜  [[sn3.19-sujato-pali]] ►

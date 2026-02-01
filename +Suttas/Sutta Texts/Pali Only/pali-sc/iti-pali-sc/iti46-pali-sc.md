@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI46-PALI"
+sutta_code: "ITI46"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sikkhānisaṁsa "
+  - "Training benefits"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI46-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI46]]
 > ◄  [[iti45-pali-sc]] 📜  [[iti47-pali-sc]] ►
 
 # Iti 46. Jāgariyasuttaṃ
@@ -29,6 +29,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dasamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti46-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI46]]
+> ◄  [[iti45-pali-sc]] 📜  [[iti47-pali-sc]] ►

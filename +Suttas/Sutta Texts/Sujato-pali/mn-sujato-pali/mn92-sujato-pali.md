@@ -3,11 +3,11 @@ sutta_code: "MN92"
 sutta_title:
   - "Sela Sutta "
   - "With Sela"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
 > ◄  [[mn91-sujato-pali]] 📜  [[mn93-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -457,8 +457,7 @@ Selasuttaṁ niṭṭhitaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn92-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -469,6 +468,5 @@ Selasuttaṁ niṭṭhitaṁ dutiyaṁ.
 | [[SNP3.7]]; [[PLI-TV-KD6]]; [[EA49.6]]; [[ITI100]]; [[THAG16.6]]; [[SNP3.6]]; [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
 > ◄  [[mn91-sujato-pali]] 📜  [[mn93-sujato-pali]] ►

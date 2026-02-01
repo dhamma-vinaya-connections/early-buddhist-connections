@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.27-PALI"
+sutta_code: "AN8.27"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahānāma "
+  - "With Mahānāma"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.27-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.27]]
 > ◄  [[an8.26-pali-sc]] 📜  [[an8.28-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -25,6 +25,16 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.27-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA38.1]], [[SA692]], [[SA693]] | A iv 223 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA692]], [[SA693]], [[EA38.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.27]]
+> ◄  [[an8.26-pali-sc]] 📜  [[an8.28-pali-sc]] ►

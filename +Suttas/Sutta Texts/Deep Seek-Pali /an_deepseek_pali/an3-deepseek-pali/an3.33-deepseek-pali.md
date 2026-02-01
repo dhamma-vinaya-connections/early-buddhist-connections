@@ -4,10 +4,10 @@ sutta_title:
   - "Ānanda "
   - "Ananda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.33]]
 > ◄  [[an3.32-deepseek-pali]] 📜  [[an3.34-deepseek-pali]] ►
 
 # AN 3.33 Sāriputtasuttaṃ
@@ -39,8 +39,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ language: "Pali"
 | [[SA983]], [[SA-3.8]], [[AN4.199]], [[SA984]], [[SNP5.14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.33]]
 > ◄  [[an3.32-deepseek-pali]] 📜  [[an3.34-deepseek-pali]] ►

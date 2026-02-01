@@ -3,11 +3,11 @@ sutta_code: "SNP4.8"
 sutta_title:
   - "Pasūrasutta "
   - "To Pasūra on Debate"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
 > ◄  [[snp4.7-sujato-pali]] 📜  [[snp4.9-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -145,9 +145,7 @@ Pasūrasuttaṁ aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.8-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
 > ◄  [[snp4.7-sujato-pali]] 📜  [[snp4.9-sujato-pali]] ►

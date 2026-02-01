@@ -3,11 +3,11 @@ sutta_code: "AN5.30"
 sutta_title:
   - "Nāgita "
   - "With Nāgita"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.30]]
 > ◄  [[an5.29-sujato-pali]] 📜  [[an5.31-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -94,8 +94,7 @@ Pañcaṅgikavaggo tatiyo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.30-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -106,6 +105,5 @@ Pañcaṅgikavaggo tatiyo.
 | [[AN8.86]], [[SA1250]], [[AN6.42]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.30]]
 > ◄  [[an5.29-sujato-pali]] 📜  [[an5.31-sujato-pali]] ►

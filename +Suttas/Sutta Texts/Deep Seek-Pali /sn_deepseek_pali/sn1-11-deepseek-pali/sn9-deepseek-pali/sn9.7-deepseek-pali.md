@@ -4,10 +4,10 @@ sutta_title:
   - "Nāgadattasutta "
   - "Nagadatta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.7]]
 > ◄  [[sn9.6-deepseek-pali]] 📜  [[sn9.8-deepseek-pali]] ►
 
 # SN 9.7 Nāgadattasuttaṃ
@@ -35,8 +35,7 @@ Then Venerable Nāgadatta, stirred by that deity, experienced spiritual urgency.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then Venerable Nāgadatta, stirred by that deity, experienced spiritual urgency.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.7]]
 > ◄  [[sn9.6-deepseek-pali]] 📜  [[sn9.8-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG291-PALI"
+sutta_code: "THIG291"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG291-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG291]]
 > ◄  [[thig290-pali-pts]] 📜  [[thig292-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sumattaṃ maṃ maññamānā Cāpā puttam atosayi |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig291-) 
 

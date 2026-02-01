@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.11-PALI"
+sutta_code: "SN6.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sanaṅkumārasutta "
+  - "Sanankumara"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
 > ◄  [[sn6.10-pali-sc]] 📜  [[sn6.12-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -31,6 +31,20 @@ so seṭṭho devamānuse"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.103]], [[SA1190]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.103]], [[SA1190]], [[AN11.10]], [[DN27]], [[DN3]], [[MN53]], [[SN21.11]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN17.35]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
+> ◄  [[sn6.10-pali-sc]] 📜  [[sn6.12-pali-sc]] ►

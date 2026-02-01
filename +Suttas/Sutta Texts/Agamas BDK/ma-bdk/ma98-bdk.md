@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA98]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA98]]
 > ◄  [[ma97-bdk]] 📜  [[ma99-bdk]] ►
 
 ### 98. The Discourse on the Establishments of Mindfulness
@@ -41,8 +41,7 @@ contemplates dharmas in this way even for a short time, then this is reck- oned 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma98-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ contemplates dharmas in this way even for a short time, then this is reck- oned 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA81]], [[MN118]], [[MN119]], [[SN47]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA98]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA98]]
 > ◄  [[ma97-bdk]] 📜  [[ma99-bdk]] ►

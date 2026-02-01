@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA15]]
 > ◄  [[sa14-patton]] 📜  [[sa16-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -37,8 +37,7 @@ The monk said to the Buddha, “I’ve understood, Bhagavān! I’ve understood,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ The monk said to the Buddha, “I’ve understood, Bhagavān! I’ve understood,
 | [[SA15]], [[SN22.63-65]], [[SN22.36]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA15]]
 > ◄  [[sa14-patton]] 📜  [[sa16-patton]] ►

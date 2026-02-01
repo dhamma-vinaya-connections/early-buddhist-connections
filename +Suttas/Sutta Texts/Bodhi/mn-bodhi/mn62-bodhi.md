@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
 > ◄  [[mn61-bodhi]] 📜  [[mn63-bodhi]] ►
 
 # MN62 Mahārāhulovāda Sutta - The Greater Discourse of
@@ -90,8 +90,7 @@ That is what the Blessed One said. The venerable Rāhula was satisfied and deli
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn62-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -106,6 +105,5 @@ That is what the Blessed One said. The venerable Rāhula was satisfied and deli
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN28]]; [[MN61]]; [[MN140]]; [[MN147]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
 > ◄  [[mn61-bodhi]] 📜  [[mn63-bodhi]] ►

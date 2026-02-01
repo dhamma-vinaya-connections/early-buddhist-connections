@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG142-PALI"
+sutta_code: "THIG142"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG142-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG142]]
 > ◄  [[thig141-pali-pts]] 📜  [[thig143-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ nakkhattāni namassantā aggiṃ paricaraṃ vane ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig142-) 
 

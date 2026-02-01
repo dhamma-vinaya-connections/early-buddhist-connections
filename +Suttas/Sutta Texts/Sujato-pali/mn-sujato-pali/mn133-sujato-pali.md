@@ -3,11 +3,11 @@ sutta_code: "MN133"
 sutta_title:
   - "Mahākaccānabhaddekaratta Sutta "
   - "Mahākaccāna and One Fine Night"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN133]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN133]]
 > ◄  [[mn132-sujato-pali]] 📜  [[mn134-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -351,8 +351,7 @@ Mahākaccānabhaddekarattasuttaṁ niṭṭhitaṁ tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn133-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -367,6 +366,5 @@ Mahākaccānabhaddekarattasuttaṁ niṭṭhitaṁ tatiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN131]], [[MN132]], [[MN133]], [[MN134]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN133]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN133]]
 > ◄  [[mn132-sujato-pali]] 📜  [[mn134-sujato-pali]] ►

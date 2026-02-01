@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.97-PALI"
+sutta_code: "AN3.97"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ājānīya "
+  - "Thoroughbred"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.97-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.97]]
 > ◄  [[an3.96-pali-pts]] 📜  [[an3.98-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,16 @@ PTS: A i 245
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.97-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.146]], [[SA920]] | A i 245 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.146]], [[SA920]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.97]]
+> ◄  [[an3.96-pali-pts]] 📜  [[an3.98-pali-pts]] ►

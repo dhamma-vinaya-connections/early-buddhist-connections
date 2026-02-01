@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG695-PALI"
+sutta_code: "THAG695"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG695-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG695]]
 > ◄  [[thag694-pali-pts]] 📜  [[thag697-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ sayaṃ samāhito nāgo, nisinno pi samāhito:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag695-) 
 

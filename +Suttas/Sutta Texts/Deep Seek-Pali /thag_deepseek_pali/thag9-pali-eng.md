@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG9-PALI"
+sutta_code: "THAG9"
 sutta_title:
-  - " "
-  - ""
+  - "Navakanipātavagga "
+  - "Nines Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
 > ◄  [[thag8-pali-eng]] 📜  [[thag10-pali-eng]] ►
 
 # Thag 9. Navakanipāto
@@ -63,6 +63,7 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
+> ◄  [[thag8-pali-eng]] 📜  [[thag10-pali-eng]] ►

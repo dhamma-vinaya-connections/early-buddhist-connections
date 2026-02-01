@@ -4,10 +4,10 @@ sutta_title:
   - "Kusinārā "
   - "At Kusinārā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.76]]
 > ◄  [[an4.75-deepseek-pali]] 📜  [[an4.77-deepseek-pali]] ►
 
 # AN 4.76 Kusinārasuttaṃ
@@ -35,8 +35,7 @@ Then the Blessed One addressed the monks: "Monks, perhaps out of respect for the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.76-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then the Blessed One addressed the monks: "Monks, perhaps out of respect for the
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.76]]
 > ◄  [[an4.75-deepseek-pali]] 📜  [[an4.77-deepseek-pali]] ►

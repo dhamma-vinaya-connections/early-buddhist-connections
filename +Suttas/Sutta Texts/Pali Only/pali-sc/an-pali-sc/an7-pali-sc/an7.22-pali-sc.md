@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.22-PALI"
+sutta_code: "AN7.22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sārandada "
+  - "At Sārandada"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
 > ◄  [[an7.21-pali-sc]] 📜  [[an7.23-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -93,6 +93,16 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA40.2]], [[MA142]] | A iv 17 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA40.2]], [[MA142]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
+> ◄  [[an7.21-pali-sc]] 📜  [[an7.23-pali-sc]] ►

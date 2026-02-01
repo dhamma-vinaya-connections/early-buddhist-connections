@@ -4,10 +4,10 @@ sutta_title:
   - "Pathamananatitthiya Sutta "
   - "Sectarians (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.4]]
 > ◄  [[ud6.3-deepseek-pali]] 📜  [[ud6.5-deepseek-pali]] ►
 
 # Ud 6.4 Paṭhamanānātitthiyasuttaṃ
@@ -115,9 +115,7 @@ Indeed, some ascetics and brahmins cling to these views; they dispute, quarrelin
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.4-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.4]]
 > ◄  [[ud6.3-deepseek-pali]] 📜  [[ud6.5-deepseek-pali]] ►

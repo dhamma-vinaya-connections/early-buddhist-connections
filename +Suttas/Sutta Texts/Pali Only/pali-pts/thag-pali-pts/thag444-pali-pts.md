@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG444-PALI"
+sutta_code: "THAG444"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG444-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG444]]
 > ◄  [[thag443-pali-pts]] 📜  [[thag445-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ uppajjate sace kodhe, āvajja kakacūpamaṃ;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag444-) 
 

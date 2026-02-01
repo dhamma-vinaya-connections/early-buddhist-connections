@@ -4,10 +4,10 @@ sutta_title:
   - "Parisa "
   - "Assemblies"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.48]]
 > ◄  [[an2.47-deepseek-pali]] 📜  [[an2.49-deepseek-pali]] ►
 
 # AN 2.48 ‘‘Dvemā, bhikkhave, parisā. Katamā dve? Okkācitavinītā parisā nopaṭipucchāvinītā, paṭipucchāvinītā parisā nookkācitavinītā. Katamā ca, bhikkhave, okkācitavinītā parisā nopaṭipucchāvinītā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṃyuttā tesu bhaññamānesu na sussūsanti na sotaṃ odahanti na aññā cittaṃ upaṭṭhapenti na ca te dhamme uggahetabbaṃ pariyāpuṇitabbaṃ maññanti. Ye pana te suttantā kavitā [kavikatā (sabbattha) ṭīkā oloketabbā] kāveyyā cittakkharā cittabyañjanā bāhirakā sāvakabhāsitā tesu bhaññamānesu sussūsanti sotaṃ odahanti aññā cittaṃ upaṭṭhapenti, te dhamme uggahetabbaṃ pariyāpuṇitabbaṃ maññanti, te ca taṃ dhammaṃ pariyāpuṇitvā na ceva aññamaññaṃ paṭipucchanti na ca paṭivicaranti – ‘idaṃ kathaṃ, imassa ko attho’ti? Te avivaṭañceva na vivaranti, anuttānīkatañca na uttānīkaronti, anekavihitesu ca kaṅkhāṭhāniyesu dhammesu kaṅkhaṃ na paṭivinodenti. Ayaṃ vuccati, bhikkhave, okkācitavinītā parisā no paṭipucchāvinītā.
@@ -23,12 +23,11 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.48-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A i 73 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.48]]
 > ◄  [[an2.47-deepseek-pali]] 📜  [[an2.49-deepseek-pali]] ►

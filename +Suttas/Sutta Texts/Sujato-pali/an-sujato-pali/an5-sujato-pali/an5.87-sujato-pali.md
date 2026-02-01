@@ -3,11 +3,11 @@ sutta_code: "AN5.87"
 sutta_title:
   - "Thera "
   - "Senior Bhikkhus"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.87]]
 > ◄  [[an5.86-sujato-pali]] 📜  [[an5.88-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -55,8 +55,7 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.87-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -66,6 +65,5 @@ Sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.81]], [[AN5.82]], [[AN5.83]], [[AN5.84]], [[AN5.85]], [[AN5.86]], [[AN5.87]], [[AN5.88]], [[AN5.89]], [[AN5.90]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.87]]
 > ◄  [[an5.86-sujato-pali]] 📜  [[an5.88-sujato-pali]] ►

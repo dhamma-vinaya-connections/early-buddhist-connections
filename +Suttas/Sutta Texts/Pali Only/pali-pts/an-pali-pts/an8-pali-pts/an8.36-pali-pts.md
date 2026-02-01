@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.36-PALI"
+sutta_code: "AN8.36"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Puññakiriyavatthu "
+  - "Making Merit Grounds"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.36-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.36]]
 > ◄  [[an8.35-pali-pts]] 📜  [[an8.37-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,20 @@ Tīṇ'; imāni bhikkhave puññakiriyavatthūni. Katamāni tīṇi?
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.36-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 241 |
+> > [!check]- Partial parallels 
+> > 
+| [[ITI60]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN8.35]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.36]]
+> ◄  [[an8.35-pali-pts]] 📜  [[an8.37-pali-pts]] ►

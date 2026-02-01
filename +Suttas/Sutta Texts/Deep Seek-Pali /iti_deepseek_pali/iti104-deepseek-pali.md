@@ -4,10 +4,10 @@ sutta_title:
   - "Sīlasampanna "
   - "Excelling In Virtue"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI104]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI104]]
 > ◄  [[iti103-deepseek-pali]] 📜  [[iti105-deepseek-pali]] ►
 
 # Iti 104 Sabrahmakasuttaṃ
@@ -33,9 +33,7 @@ This too is the meaning that was stated by the Blessed One: so I have heard. Sev
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti104-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI104]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI104]]
 > ◄  [[iti103-deepseek-pali]] 📜  [[iti105-deepseek-pali]] ►

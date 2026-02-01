@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāgopālaka Sutta "
   - "Longer Discourse on the Cowherd"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
 > ◄  [[mn32-deepseek-pali]] 📜  [[mn34-deepseek-pali]] ►
 
 # 33. Mahāgopālakasuttaṃ
@@ -135,8 +135,7 @@ The Great Cowherd Discourse, the third, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -151,6 +150,5 @@ The Great Cowherd Discourse, the third, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THIS SUTTA ALSO APPEARS AT AN11.18]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
 > ◄  [[mn32-deepseek-pali]] 📜  [[mn34-deepseek-pali]] ►

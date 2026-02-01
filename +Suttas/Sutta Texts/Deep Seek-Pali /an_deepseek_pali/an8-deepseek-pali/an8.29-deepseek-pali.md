@@ -4,10 +4,10 @@ sutta_title:
   - "Akkhaṇa "
   - "Lost Opportunities"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.29]]
 > ◄  [[an8.28-deepseek-pali]] 📜  [[an8.30-deepseek-pali]] ►
 
 # AN 8.29 Akkhaṇasuttaṃ
@@ -95,8 +95,7 @@ Having cut off all latent tendencies, having relinquished Māra's dominion and n
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -107,6 +106,5 @@ Having cut off all latent tendencies, having relinquished Māra's dominion and n
 | [[EA42.1]], [[MA124]], [[DHP315]], [[THAG17.2]], [[SNP2.10]], [[THAG14.1]], [[THIG1.5]], [[DN34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.29]]
 > ◄  [[an8.28-deepseek-pali]] 📜  [[an8.30-deepseek-pali]] ►

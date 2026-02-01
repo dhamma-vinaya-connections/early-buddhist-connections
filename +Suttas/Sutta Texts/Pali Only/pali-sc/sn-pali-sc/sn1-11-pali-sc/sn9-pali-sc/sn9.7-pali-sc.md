@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.7-PALI"
+sutta_code: "SN9.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nāgadattasutta "
+  - "Nagadatta"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.7]]
 > ◄  [[sn9.6-pali-sc]] 📜  [[sn9.8-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -36,6 +36,20 @@ Antakassa vasaṁ upesī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.362]], [[SA1342]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.362]], [[SA1342]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN9.9]], [[SN9.14.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.7]]
+> ◄  [[sn9.6-pali-sc]] 📜  [[sn9.8-pali-sc]] ►

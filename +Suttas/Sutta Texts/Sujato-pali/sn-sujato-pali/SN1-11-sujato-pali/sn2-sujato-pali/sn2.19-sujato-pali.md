@@ -3,11 +3,11 @@ sutta_code: "SN2.19"
 sutta_title:
   - "Uttarasutta "
   - "Uttarā"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
 > ◄  [[sn2.18-sujato-pali]] 📜  [[sn2.20-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -51,8 +51,7 @@ Lokāmisaṁ pajahe santipekkho"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ Lokāmisaṁ pajahe santipekkho"ti.
 | [[SN1.3]], [[SA-2.138]], [[SA1001]], [[AN3.51]], [[JA498]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
 > ◄  [[sn2.18-sujato-pali]] 📜  [[sn2.20-sujato-pali]] ►

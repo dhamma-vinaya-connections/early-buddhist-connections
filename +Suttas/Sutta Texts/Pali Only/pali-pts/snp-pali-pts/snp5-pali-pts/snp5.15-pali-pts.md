@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.15-PALI"
+sutta_code: "SNP5.15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Posālamāṇavapucchā "
+  - "Questions of the Student Posala"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.15]]
 > ◄  [[snp5.14-pali-pts]] 📜  [[snp5.16-pali-pts]] ►
 
 # SNP5.15 Posālamāṇavapucchā (14)
@@ -35,6 +35,7 @@ POSĀLAMĀṆAVAPUCCHĀ NIṬṬHITĀ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.15-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.15]]
+> ◄  [[snp5.14-pali-pts]] 📜  [[snp5.16-pali-pts]] ►

@@ -3,11 +3,11 @@ sutta_code: "SNP2.5"
 sutta_title:
   - "Sūciloma "
   - "Spiky Spirit"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
 > ◄  [[snp2.4-sujato-pali]] 📜  [[snp2.6-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -103,8 +103,7 @@ Sūcilomasuttaṁ pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -119,6 +118,5 @@ Sūcilomasuttaṁ pañcamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN21]], [[SNP4:11]], [[DHP1]], [[DHP2]], [[DHP347]], [[UD1.7]], [[UD4.4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
 > ◄  [[snp2.4-sujato-pali]] 📜  [[snp2.6-sujato-pali]] ►

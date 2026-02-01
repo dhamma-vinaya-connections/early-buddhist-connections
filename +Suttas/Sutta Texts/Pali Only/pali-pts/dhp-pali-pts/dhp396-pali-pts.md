@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP396-PALI"
+sutta_code: "DHP396"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP396-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP396]]
 > ◄  [[dhp395-pali-pts]] 📜  [[dhp397-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ sabbasaṃyojanaṃ chetvā yo ve na paritassati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp396-) 
 

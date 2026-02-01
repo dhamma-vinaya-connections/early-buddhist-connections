@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA750]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA750]]
 > ◄  [[sa749-patton]] 📜  [[sa751-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -40,6 +40,5 @@ Last Revised: 1 November 2022
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa750-) 
 

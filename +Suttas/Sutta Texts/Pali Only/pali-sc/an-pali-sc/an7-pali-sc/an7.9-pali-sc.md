@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.9-PALI"
+sutta_code: "AN7.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Saṃyojana "
+  - "Fetters"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.9]]
 > ◄  [[an7.8-pali-sc]] 📜  [[an7.10-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -25,6 +25,11 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 7 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.9]]
+> ◄  [[an7.8-pali-sc]] 📜  [[an7.10-pali-sc]] ►

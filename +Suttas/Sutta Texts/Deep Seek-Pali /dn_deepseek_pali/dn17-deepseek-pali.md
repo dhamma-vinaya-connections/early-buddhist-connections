@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsudassana Sutta "
   - "King Mahāsudassana"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
 > ◄  [[dn16-deepseek-pali]] 📜  [[dn18-deepseek-pali]] ►
 
 # Mahāsudassanasuttaṃ
@@ -307,8 +307,7 @@ Then, Ānanda, King Mahāsudassana approached the Great Array Hall. Having appro
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -323,6 +322,5 @@ Then, Ānanda, King Mahāsudassana approached the Great Array Hall. Having appro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]], [[DA2]], [[MA70]], [[MA67]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
 > ◄  [[dn16-deepseek-pali]] 📜  [[dn18-deepseek-pali]] ►

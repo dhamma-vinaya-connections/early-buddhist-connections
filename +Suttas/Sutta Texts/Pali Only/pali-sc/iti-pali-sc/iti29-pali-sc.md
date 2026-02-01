@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI29-PALI"
+sutta_code: "ITI29"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sukhavihāra "
+  - "Living In Comfort"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI29-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI29]]
 > ◄  [[iti28-pali-sc]] 📜  [[iti30-pali-sc]] ►
 
 # Iti 29. Tapanīyasuttaṃ
@@ -27,6 +27,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti29-) 
 

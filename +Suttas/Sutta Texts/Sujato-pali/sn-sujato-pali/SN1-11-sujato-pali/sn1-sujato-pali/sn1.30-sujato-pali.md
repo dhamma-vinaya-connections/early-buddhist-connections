@@ -3,11 +3,11 @@ sutta_code: "SN1.30"
 sutta_title:
   - "Eṇijaṅghasutta "
   - "Antelope Calves"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.30]]
 > ◄  [[sn1.29-sujato-pali]] 📜  [[sn1.31-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -60,8 +60,7 @@ eṇijaṅghena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.30-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -72,6 +71,5 @@ eṇijaṅghena te dasāti.
 | [[SA-2.177]], [[SA602]], [[SNP1.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.30]]
 > ◄  [[sn1.29-sujato-pali]] 📜  [[sn1.31-sujato-pali]] ►

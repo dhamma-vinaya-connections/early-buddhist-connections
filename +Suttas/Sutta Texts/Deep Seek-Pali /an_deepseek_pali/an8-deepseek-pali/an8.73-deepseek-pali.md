@@ -4,10 +4,10 @@ sutta_title:
   - "Maraṇassati "
   - "Mindfulness Of Death 1st"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
 > ◄  [[an8.72-deepseek-pali]] 📜  [[an8.74-deepseek-pali]] ►
 
 # AN 8.73 Paṭhamamaraṇassatisuttaṃ
@@ -67,8 +67,7 @@ When this was said, the Blessed One addressed the monks: "Monks, a monk who cult
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.73-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ When this was said, the Blessed One addressed the monks: "Monks, a monk who cult
 | [[AN6.19]], [[EA40.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
 > ◄  [[an8.72-deepseek-pali]] 📜  [[an8.74-deepseek-pali]] ►

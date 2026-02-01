@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.48-PALI"
+sutta_code: "AN4.48"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Visākha "
+  - "With Visākha"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.48-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.48]]
 > ◄  [[an4.47-pali-pts]] 📜  [[an4.49-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,16 @@ Khippaṃ hi veti asataṃ samāgamo tasmā sataṃ dhammo asabbhi ārakāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.48-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN21.7]] | [[SA-2.8]], [[SA1069]] | A ii 51 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN21.7]], [[SA-2.8]], [[SA1069]], [[JA537]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.48]]
+> ◄  [[an4.47-pali-pts]] 📜  [[an4.49-pali-pts]] ►

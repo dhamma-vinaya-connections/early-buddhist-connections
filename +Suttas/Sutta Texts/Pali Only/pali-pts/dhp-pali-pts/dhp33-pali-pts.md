@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP33-PALI"
+sutta_code: "DHP33"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP33-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP33]]
 > ◄  [[dhp32-pali-pts]] 📜  [[dhp34-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ vārijo va thale khitto okamokata ubbhato /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp33-) 
 

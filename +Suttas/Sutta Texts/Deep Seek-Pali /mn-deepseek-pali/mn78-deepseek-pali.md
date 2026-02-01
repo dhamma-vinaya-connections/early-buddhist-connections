@@ -4,10 +4,10 @@ sutta_title:
   - "Samaṇamuṇḍika Sutta "
   - "With Uggāhamāna Samaṇamuṇḍika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN78]]
 > ◄  [[mn77-deepseek-pali]] 📜  [[mn79-deepseek-pali]] ►
 
 # 78. Samaṇamuṇḍikasuttaṃ
@@ -139,8 +139,7 @@ Samaṇamuṇḍikasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn78-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -155,6 +154,5 @@ Samaṇamuṇḍikasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.116]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN78]]
 > ◄  [[mn77-deepseek-pali]] 📜  [[mn79-deepseek-pali]] ►

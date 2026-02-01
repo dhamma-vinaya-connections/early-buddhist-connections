@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.13-PALI"
+sutta_code: "SN4.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sakalikasutta "
+  - "The Splinter"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
 > ◄  [[sn4.12-pali-sc]] 📜  [[sn4.14-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -48,6 +48,20 @@ Tasmā supe sabbabhūtānukampī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.29]], [[SA1090]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.29]], [[SA1090]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN1.38]], [[SN36.6]], [[AN5.129]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
+> ◄  [[sn4.12-pali-sc]] 📜  [[sn4.14-pali-sc]] ►

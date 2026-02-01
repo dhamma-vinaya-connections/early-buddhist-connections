@@ -7,16 +7,11 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA18]]
 > ◄  [[da17-patton]] 📜  [[da19-patton]] ►
 
-# [Dharma Pearls](../../index-2.html)
-
-## Translating Classical Buddhism to Modern English
-
-[What’s New](../../whats-new.html) [Translations](../../translations.html) [Resources](../../resources.html) [About](../../about.html)
-
-# [The Long Discourses](index.html)
+# The Long Discourses
+Translated by Charles Patton
 
 ## Part II
 
@@ -171,8 +166,7 @@ He replied, “I don’t know them.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -183,6 +177,5 @@ He replied, “I don’t know them.”
 | [[AN4.9]], [[ITI105]], [[SNP3.12]], [[JA493]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA18]]
 > ◄  [[da17-patton]] 📜  [[da19-patton]] ►

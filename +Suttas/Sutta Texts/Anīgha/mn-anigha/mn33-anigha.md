@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
 > ◄  [[mn32-anigha]] 📜  [[mn34-anigha]] ►
 
 # MN 33 - The Longer Discourse on the Cowherd
@@ -79,8 +79,7 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THIS SUTTA ALSO APPEARS AT AN11.18]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
 > ◄  [[mn32-anigha]] 📜  [[mn34-anigha]] ►

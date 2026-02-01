@@ -3,11 +3,11 @@ sutta_code: "MN30"
 sutta_title:
   - "Cūḷasāropama Sutta "
   - "Shorter Simile of the Heartwood"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN30]]
 > ◄  [[mn29-sujato-pali]] 📜  [[mn31-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -170,8 +170,7 @@ Sārūpamo puna piṅgalakoccho.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn30-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -186,6 +185,5 @@ Sārūpamo puna piṅgalakoccho.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN29]]; [[SN17.3]]; [[SN17.5]]; [[SN17.8]]; [[AN8.7]]; [[AN8.8]]; [[AN10.58.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN30]]
 > ◄  [[mn29-sujato-pali]] 📜  [[mn31-sujato-pali]] ►

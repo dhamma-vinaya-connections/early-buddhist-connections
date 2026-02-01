@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.41-PALI"
+sutta_code: "AN1.41"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṇihitaaccha "
+  - "Spike"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.41-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.41]]
 > ◄  [[an1.40-pali-pts]] 📜  [[an1.42-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,11 @@ Taṃ kissa hetu? Micchā paṇihitattā bhikkhave cittassā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.41-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 8 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.41]]
+> ◄  [[an1.40-pali-pts]] 📜  [[an1.42-pali-pts]] ►

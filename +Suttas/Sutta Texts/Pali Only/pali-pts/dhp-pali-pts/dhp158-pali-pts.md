@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP158-PALI"
+sutta_code: "DHP158"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP158-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP158]]
 > ◄  [[dhp157-pali-pts]] 📜  [[dhp159-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ attānañ ce tathā kayirā yath'; aññam anusāsati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp158-) 
 

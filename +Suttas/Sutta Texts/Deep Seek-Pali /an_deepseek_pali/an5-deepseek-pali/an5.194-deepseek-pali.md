@@ -4,10 +4,10 @@ sutta_title:
   - "Kāraṇapālī "
   - "With Kāraṇapālī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.194]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.194]]
 > ◄  [[an5.193-deepseek-pali]] 📜  [[an5.195-deepseek-pali]] ►
 
 # AN 5.194 Kāraṇapālīsuttaṃ
@@ -59,12 +59,11 @@ Magnificent, venerable Piṅgiyānī! Magnificent, venerable Piṅgiyānī! Just
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.194-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 236 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.194]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.194]]
 > ◄  [[an5.193-deepseek-pali]] 📜  [[an5.195-deepseek-pali]] ►

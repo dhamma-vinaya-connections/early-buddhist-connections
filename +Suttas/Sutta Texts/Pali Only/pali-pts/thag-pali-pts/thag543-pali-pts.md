@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG543-PALI"
+sutta_code: "THAG543"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG543-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG543]]
 > ◄  [[thag542-pali-pts]] 📜  [[thag544-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ mālute upavāyante sīte surabhigandhake
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag543-) 
 

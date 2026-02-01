@@ -4,10 +4,10 @@ sutta_title:
   - "Maṅgalasutta "
   - "Blessings"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
 > ◄  [[snp2.3-deepseek-pali]] 📜  [[snp2.5-deepseek-pali]] ►
 
 # Snp 2.4 Maṅgalasuttaṃ
@@ -99,9 +99,7 @@ The Maṅgala Sutta, the fourth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.4-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
 > ◄  [[snp2.3-deepseek-pali]] 📜  [[snp2.5-deepseek-pali]] ►

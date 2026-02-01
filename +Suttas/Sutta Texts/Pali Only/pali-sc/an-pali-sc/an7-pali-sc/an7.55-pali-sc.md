@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.55-PALI"
+sutta_code: "AN7.55"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Purisagati "
+  - "Reborn Places"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.55-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.55]]
 > ◄  [[an7.54-pali-sc]] 📜  [[an7.56-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -60,6 +60,16 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.55-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA6]] | A iv 70 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.55]]
+> ◄  [[an7.54-pali-sc]] 📜  [[an7.56-pali-sc]] ►

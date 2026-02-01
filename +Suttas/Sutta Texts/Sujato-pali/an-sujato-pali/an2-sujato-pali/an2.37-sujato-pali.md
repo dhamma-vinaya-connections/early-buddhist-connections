@@ -3,11 +3,11 @@ sutta_code: "AN2.37"
 sutta_title:
   - "Vivadanti "
   - "Fight"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.37]]
 > ◄  [[an2.36-sujato-pali]] 📜  [[an2.38-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -99,8 +99,7 @@ Then the brahmin Ārāmadaṇḍa went up to Mahākaccāna, and exchanged greeti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.37-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ Then the brahmin Ārāmadaṇḍa went up to Mahākaccāna, and exchanged greeti
 | [[SA546]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.37]]
 > ◄  [[an2.36-sujato-pali]] 📜  [[an2.38-sujato-pali]] ►

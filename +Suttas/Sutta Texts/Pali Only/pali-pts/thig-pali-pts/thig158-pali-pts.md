@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG158-PALI"
+sutta_code: "THIG158"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG158-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG158]]
 > ◄  [[thig157-pali-pts]] 📜  [[thig159-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ mātā putto pitā bhātā ayyikā ca pure ahuṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig158-) 
 

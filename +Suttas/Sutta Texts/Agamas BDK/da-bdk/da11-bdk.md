@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA11]]
 > ◄  [[da10-bdk]] 📜  [[da12-bdk]] ►
 
 ### The Gradual Increase
@@ -478,12 +478,11 @@ were delighted and carried out what was taught by the Buddha.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > | [[DN33]], [[DN34]] | [[DA10]], [[DA9]] |  |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA11]]
 > ◄  [[da10-bdk]] 📜  [[da12-bdk]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Mogharājamāṇavapucchā "
   - "Questions of the Student Mogharāja"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.16]]
 > ◄  [[snp5.15-deepseek-pali]] 📜  [[snp5.17-deepseek-pali]] ►
 
 # Snp 5.16 Mogharājamāṇavapucchā
@@ -53,8 +53,7 @@ The The Questions of the Young Man Mogharāja, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -65,6 +64,5 @@ The The Questions of the Young Man Mogharāja, the nth is finished.
 | [[DHP170]], [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.16]]
 > ◄  [[snp5.15-deepseek-pali]] 📜  [[snp5.17-deepseek-pali]] ►

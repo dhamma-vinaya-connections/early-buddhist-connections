@@ -3,11 +3,11 @@ sutta_code: "SN1.58"
 sutta_title:
   - "Uppathasutta "
   - "The Deviant Path"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
 > ◄  [[sn1.57-sujato-pali]] 📜  [[sn1.59-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -49,8 +49,7 @@ Taṁ sinānamanodakan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.58-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -61,6 +60,5 @@ Taṁ sinānamanodakan"ti.
 | [[SA-2.246]], [[SA1019]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
 > ◄  [[sn1.57-sujato-pali]] 📜  [[sn1.59-sujato-pali]] ►

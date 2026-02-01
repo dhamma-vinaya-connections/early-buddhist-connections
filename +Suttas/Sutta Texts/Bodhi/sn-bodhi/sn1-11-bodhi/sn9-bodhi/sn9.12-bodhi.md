@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
 > ◄  [[sn9.11-bodhi]] 📜  [[sn9.13-bodhi]] ►
 
 # SN9.12 Noon
@@ -37,8 +37,7 @@ On one occasion a certain bhikkhu was dwelling among the Kosalans in a certain w
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ On one occasion a certain bhikkhu was dwelling among the Kosalans in a certain w
 | [[SN1.15]], [[SA-2.355]], [[SA1335]], [[JA547]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
 > ◄  [[sn9.11-bodhi]] 📜  [[sn9.13-bodhi]] ►

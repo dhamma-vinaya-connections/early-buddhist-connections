@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG997-PALI"
+sutta_code: "THAG997"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG997-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG997]]
 > ◄  [[thag996-pali-pts]] 📜  [[thag998-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ rukkhamūlaṃ va nissāya muṇḍo saṃghāṭipāruto
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag997-) 
 

@@ -3,11 +3,11 @@ sutta_code: "SN1.49"
 sutta_title:
   - "Maccharisutta "
   - "Stingy"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.49]]
 > ◄  [[sn1.48-sujato-pali]] 📜  [[sn1.50-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -137,6 +137,5 @@ samparāye ca suggatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.49-) 
 

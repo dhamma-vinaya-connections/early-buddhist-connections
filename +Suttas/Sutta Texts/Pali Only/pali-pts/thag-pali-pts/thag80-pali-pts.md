@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG80-PALI"
+sutta_code: "THAG80"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG80-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG80]]
 > ◄  [[thag79-pali-pts]] 📜  [[thag81-pali-pts]] ►
 
 ## Theragāthā
@@ -25,6 +25,5 @@ Yaṃ mayā pakataṃ pāpaṃ pubbe aññāsu jātisu,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag80-) 
 

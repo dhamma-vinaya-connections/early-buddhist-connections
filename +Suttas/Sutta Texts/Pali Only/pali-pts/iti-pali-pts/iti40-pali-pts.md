@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI40-PALI"
+sutta_code: "ITI40"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vijjā "
+  - "Wisdom"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI40-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI40]]
 > ◄  [[iti39-pali-pts]] 📜  [[iti41-pali-pts]] ►
 
 ## Itivuttaka
@@ -36,6 +36,5 @@ Paṭhamabhāṇavāraṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti40-) 
 

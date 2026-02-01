@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Sun light compared with glowworm,like the Buddha compared with reasoners"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - ""
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: ""
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.9]]  🌐 [[UD7.1]] ►
 
@@ -72,8 +68,7 @@ Having bad views, they are not freed from suffering.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -88,8 +83,7 @@ Having bad views, they are not freed from suffering.”
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN1]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD6.10%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD6.10%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -100,7 +94,7 @@ Having bad views, they are not freed from suffering.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD6.10%5D%5D%22%23mynotes%20-file%3Aud6.10-%20-file%3A%22UD6.9%22%20-file%3A%22UD7.1%22%20-file%3A%22UD6.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud6.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.10

@@ -4,10 +4,10 @@ sutta_title:
   - "Dhotakamāṇavapucchā "
   - "Questions of the Student Dhotaka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.6]]
 > ◄  [[snp5.5-deepseek-pali]] 📜  [[snp5.7-deepseek-pali]] ►
 
 # Snp 5.6 Dhotakamāṇavapucchā
@@ -77,9 +77,7 @@ The The Questions of the Young Man Dhotaka, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.6-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.6]]
 > ◄  [[snp5.5-deepseek-pali]] 📜  [[snp5.7-deepseek-pali]] ►

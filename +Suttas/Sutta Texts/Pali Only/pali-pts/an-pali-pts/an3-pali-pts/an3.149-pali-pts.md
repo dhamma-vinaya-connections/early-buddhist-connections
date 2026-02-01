@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.149-PALI"
+sutta_code: "AN3.149"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Rāgādipeyyāla "
+  - "Abbreviated Texts Beginning With Greed"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.149-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.149]]
 > ◄  [[an3.148-pali-pts]] 📜  [[an3.150-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,5 @@ sucinā manokammena. Imehi kho bhikkhave tīhi dhammehi samannāgato yathābhata
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.149-) 
 

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG15]]
 > ◄  [[thag14-thanissaro]] 📜  [[thag16-thanissaro]] ►
 
 ## Thag15.2  Udāyin
@@ -157,6 +157,5 @@ totally unbind.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag15-) 
 

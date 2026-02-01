@@ -4,10 +4,10 @@ sutta_title:
   - "Uposatha "
   - "Sabbath"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
 > ◄  [[an8.18-deepseek-pali]] 📜  [[an8.20-deepseek-pali]] ►
 
 # AN 8.19 Pahārādasuttaṃ
@@ -91,8 +91,7 @@ Just as, Pahārāda, the great ocean is rich in many treasures, a multitude of t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ Just as, Pahārāda, the great ocean is rich in many treasures, a multitude of t
 | [[EA42.4]], [[MA35]], [[PLI-TV-KD19]], [[UD5.5]], [[AN8.20]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
 > ◄  [[an8.18-deepseek-pali]] 📜  [[an8.20-deepseek-pali]] ►

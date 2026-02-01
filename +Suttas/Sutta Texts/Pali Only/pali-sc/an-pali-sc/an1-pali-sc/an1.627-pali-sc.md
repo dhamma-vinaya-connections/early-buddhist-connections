@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.627-PALI"
+sutta_code: "AN1.627"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.627-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.627]]
 > ◄  [[an1.626-pali-sc]] 📜  [[]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -26,6 +26,5 @@ Ekakanipātapāḷi niṭṭhitā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.627-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Puggala "
   - "Persons"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.42]]
 > ◄  [[an2.41-deepseek-pali]] 📜  [[an2.43-deepseek-pali]] ►
 
 # AN 2.42 ‘‘Ye te, bhikkhave, bhikkhū duggahitehi suttantehi byañjanappatirūpakehi atthañca dhammañca paṭivāhanti te, bhikkhave, bhikkhū bahujanāhitāya paṭipannā bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ. Bahuñca te, bhikkhave, bhikkhū apuññaṃ pasavanti, te cimaṃ saddhammaṃ antaradhāpenti.
@@ -31,12 +31,11 @@ The Chapter on Even-mindedness is the Fourth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.42-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A i 76 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.42]]
 > ◄  [[an2.41-deepseek-pali]] 📜  [[an2.43-deepseek-pali]] ►

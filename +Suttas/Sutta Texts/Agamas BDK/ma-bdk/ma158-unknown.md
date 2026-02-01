@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA158]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA158]]
 > ◄  [[ma157]] 📜  [[ma159]] ►
 
 ### 158. The Discourse to Doṇa
@@ -31,8 +31,7 @@ Doṇa, for what reason does a brahmin not approach [a woman] who is pregnant? S
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma158-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Doṇa, for what reason does a brahmin not approach [a woman] who is pregnant? S
 | [[AN1.314]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA158]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA158]]
 > ◄  [[ma157]] 📜  [[ma159]] ►

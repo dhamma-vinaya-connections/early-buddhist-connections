@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI47-PALI"
+sutta_code: "ITI47"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Jāgariya "
+  - "Vigilance"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI47-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI47]]
 > ◄  [[iti46-pali-pts]] 📜  [[iti48-pali-pts]] ►
 
 ## Itivuttaka
@@ -35,6 +35,7 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||10||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti47-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI47]]
+> ◄  [[iti46-pali-pts]] 📜  [[iti48-pali-pts]] ►

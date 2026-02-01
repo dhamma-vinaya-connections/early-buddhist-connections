@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-bodhi]] 📜  [[mn109-bodhi]] ►
 
 # MN108 Gopakamoggallāna Sutta - With Gopaka Moggallāna
@@ -107,8 +107,7 @@ Then the brahmin Vassakāra, the minister of Magadha, having delighted and rejo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn108-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -119,6 +118,5 @@ Then the brahmin Vassakāra, the minister of Magadha, having delighted and rejo
 | [[MA145]]; [[SN22.58]]; [[DN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-bodhi]] 📜  [[mn109-bodhi]] ►

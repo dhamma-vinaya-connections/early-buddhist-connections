@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
 > ◄  [[sn8.5-bodhi]] 📜  [[sn8.7-bodhi]] ►
 
 # SN8.6 Sāriputta
@@ -61,8 +61,7 @@ Then the Venerable Vaṅgīsa extolled the Venerable Sāriputta to his face with
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -73,6 +72,5 @@ Then the Venerable Vaṅgīsa extolled the Venerable Sāriputta to his face with
 | [[SA-2.226]], [[SA1210]], [[THAG21.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
 > ◄  [[sn8.5-bodhi]] 📜  [[sn8.7-bodhi]] ►

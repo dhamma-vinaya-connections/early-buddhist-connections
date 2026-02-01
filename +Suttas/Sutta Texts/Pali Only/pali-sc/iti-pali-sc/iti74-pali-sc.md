@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI74-PALI"
+sutta_code: "ITI74"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Putta "
+  - "Child"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI74-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI74]]
 > ◄  [[iti73-pali-sc]] 📜  [[iti75-pali-sc]] ►
 
 # Iti 74. Avuṭṭhikasuttaṃ
@@ -39,6 +39,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti74-) 
 

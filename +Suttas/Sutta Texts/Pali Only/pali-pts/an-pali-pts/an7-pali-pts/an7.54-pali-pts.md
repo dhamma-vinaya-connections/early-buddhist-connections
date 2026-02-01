@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.54-PALI"
+sutta_code: "AN7.54"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Abyākata "
+  - "Undeclared Points"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.54-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.54]]
 > ◄  [[an7.53-pali-pts]] 📜  [[an7.55-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -28,6 +28,20 @@ Tass'; uddānaṃ:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.54-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA220]] | A iv 67 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA220]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN63]], [[MN72]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.54]]
+> ◄  [[an7.53-pali-pts]] 📜  [[an7.55-pali-pts]] ►

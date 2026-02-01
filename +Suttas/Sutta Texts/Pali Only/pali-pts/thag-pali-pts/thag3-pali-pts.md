@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG3-PALI"
+sutta_code: "THAG3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Tikanipātavagga "
+  - "Trees Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG3]]
 > ◄  [[thag2-pali-pts]] 📜  [[thag4-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ atthaṃ mahantaṃ gambhīraṃ duddasaṃ nipuṇaṃ aṇuṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag3-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.145-PALI"
+sutta_code: "AN3.145"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Moranivāpa "
+  - "At The Peacocks’ Feeding Ground"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.145-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.145]]
 > ◄  [[an3.144-pali-pts]] 📜  [[an3.146-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Yodhājīvavaggo catuttho.2
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.145-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN11.10]] |  | A i 292 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN11.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.145]]
+> ◄  [[an3.144-pali-pts]] 📜  [[an3.146-pali-pts]] ►

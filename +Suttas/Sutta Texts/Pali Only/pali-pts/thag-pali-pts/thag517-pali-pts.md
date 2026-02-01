@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG517-PALI"
+sutta_code: "THAG517"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG517-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG517]]
 > ◄  [[thag516-pali-pts]] 📜  [[thag518-pali-pts]] ►
 
 ## Theragāthā
@@ -28,6 +28,5 @@ Yadā dukkhaṃ jarāmaraṇan ti paṇḍito aviddasū yattha sitā puthujjanā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag517-) 
 

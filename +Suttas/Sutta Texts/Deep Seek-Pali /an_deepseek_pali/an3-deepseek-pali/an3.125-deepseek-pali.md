@@ -4,10 +4,10 @@ sutta_title:
   - "Gotamakacetiya "
   - "Gotamaka Shrine"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.125]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.125]]
 > ◄  [[an3.124-deepseek-pali]] 📜  [[an3.126-deepseek-pali]] ►
 
 # AN 3.125 Gotamakacetiyasuttaṃ
@@ -31,8 +31,7 @@ This the Blessed One said. Those monks were gratified and delighted in the Bless
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.125-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ This the Blessed One said. Those monks were gratified and delighted in the Bless
 | [[PLI-TV-KD21]], [[DN16]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.125]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.125]]
 > ◄  [[an3.124-deepseek-pali]] 📜  [[an3.126-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Mahamoggallāna "
   - "With Mahmoggallana"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.34]]
 > ◄  [[an6.33-deepseek-pali]] 📜  [[an6.35-deepseek-pali]] ►
 
 # AN 6.34 Mahāmoggallānasuttaṃ
@@ -47,12 +47,11 @@ Then the Venerable Mahāmoggallāna, having rejoiced in and approved the words o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 331 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.34]]
 > ◄  [[an6.33-deepseek-pali]] 📜  [[an6.35-deepseek-pali]] ►

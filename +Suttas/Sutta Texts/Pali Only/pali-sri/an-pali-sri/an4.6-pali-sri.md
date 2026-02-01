@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.6-PALI"
+sutta_code: "AN4.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Appassuta "
+  - "Little Learning"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.6]]
 > ◄  [[an4.5-pali-sri]] 📜  [[an4.7-pali-sri]] ►
 
 # 7:6 Abyakatavaggo - Pali
@@ -722,6 +722,16 @@ Sattapacalāyana māpuñña bhariyākodhanekādasā, ti. 2
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP230]] |  | A ii 6 |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP230]], [[AN4.28]], [[AN5.42]], [[UD7.6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.6]]
+> ◄  [[an4.5-pali-sri]] 📜  [[an4.7-pali-sri]] ►

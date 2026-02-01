@@ -4,10 +4,10 @@ sutta_title:
   - "Majjhe "
   - "Middle"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.61]]
 > ◄  [[an6.60-deepseek-pali]] 📜  [[an6.62-deepseek-pali]] ►
 
 # AN 6.61 Majjhesuttaṃ
@@ -63,8 +63,7 @@ When this was said, a certain bhikkhu said to the elder bhikkhus: “Friends, we
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.61-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ When this was said, a certain bhikkhu said to the elder bhikkhus: “Friends, we
 | [[SA1164]], [[SNP5.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.61]]
 > ◄  [[an6.60-deepseek-pali]] 📜  [[an6.62-deepseek-pali]] ►

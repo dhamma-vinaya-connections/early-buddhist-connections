@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1220-PALI"
+sutta_code: "THAG1220"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1220-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1220]]
 > ◄  [[thag1219-pali-pts]] 📜  [[thag1221-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ na hi socati bhikkhu kadāci maggajino sammā paṭipanno,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1220-) 
 

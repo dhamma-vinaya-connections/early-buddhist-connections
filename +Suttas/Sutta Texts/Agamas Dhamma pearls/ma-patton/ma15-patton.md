@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA15]]
 > ◄  [[ma13-patton]] 📜  [[ma16-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -91,8 +91,7 @@ The monks answered, “No, Bhagavān. Why is that? They wouldn’t commit bad de
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -107,6 +106,5 @@ The monks answered, “No, Bhagavān. Why is that? They wouldn’t commit bad de
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.100]], [[MA11]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA15]]
 > ◄  [[ma13-patton]] 📜  [[ma16-patton]] ►

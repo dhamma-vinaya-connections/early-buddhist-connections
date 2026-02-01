@@ -3,11 +3,11 @@ sutta_code: "SN1.59"
 sutta_title:
   - "Dutiyasutta "
   - "Partner"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.59]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.59]]
 > ◄  [[sn1.58-sujato-pali]] 📜  [[sn1.60-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -45,8 +45,7 @@ Sabbadukkhā pamuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.59-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ Sabbadukkhā pamuccatī"ti.
 | [[SA-2.241]], [[SA1014]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.59]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.59]]
 > ◄  [[sn1.58-sujato-pali]] 📜  [[sn1.60-sujato-pali]] ►

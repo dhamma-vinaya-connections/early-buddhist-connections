@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG38-PALI"
+sutta_code: "THAG38"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG38-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG38]]
 > ◄  [[thag37-pali-pts]] 📜  [[thag39-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Sattiyā viya omaṭṭho ḍayhamāne va matthake
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag38-) 
 

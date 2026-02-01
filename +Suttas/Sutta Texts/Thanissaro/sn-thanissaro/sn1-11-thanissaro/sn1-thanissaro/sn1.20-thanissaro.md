@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
 > ◄  [[sn1.18-thanissaro]] 📜  [[sn1.21-thanissaro]] ►
 
 ## SN1.20 About Samiddhi
@@ -195,8 +195,7 @@ to the goal.”[4](#sn1.20note04)
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -211,6 +210,5 @@ to the goal.”[4](#sn1.20note04)
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]], [[SN5.1]], [[SN5.4]], [[SN5.7]], [[SN5.6]], [[ALSOSN4.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
 > ◄  [[sn1.18-thanissaro]] 📜  [[sn1.21-thanissaro]] ►

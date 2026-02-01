@@ -3,11 +3,11 @@ sutta_code: "SN4.16"
 sutta_title:
   - "Pattasutta "
   - "Almsbowls"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
 > ◄  [[sn4.15-sujato-pali]] 📜  [[sn4.17-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -79,8 +79,7 @@ mārasenāpi nājjhagā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ mārasenāpi nājjhagā"ti.
 | [[SA1102]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
 > ◄  [[sn4.15-sujato-pali]] 📜  [[sn4.17-sujato-pali]] ►

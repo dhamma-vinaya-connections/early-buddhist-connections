@@ -4,10 +4,10 @@ sutta_title:
   - "Appamādagārava "
   - "Diligence Respect"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.33]]
 > ◄  [[an7.32-deepseek-pali]] 📜  [[an7.34-deepseek-pali]] ►
 
 # AN 7.33 Hirīgāravasuttaṃ
@@ -31,8 +31,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ language: "Pali"
 | [[AN6.33]], [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.33]]
 > ◄  [[an7.32-deepseek-pali]] 📜  [[an7.34-deepseek-pali]] ►

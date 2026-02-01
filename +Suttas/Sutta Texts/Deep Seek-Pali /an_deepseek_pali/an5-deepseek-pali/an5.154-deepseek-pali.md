@@ -4,10 +4,10 @@ sutta_title:
   - "Saddhammasammosa "
   - "Decline Of The True Teaching ("
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.154]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.154]]
 > ◄  [[an5.153-deepseek-pali]] 📜  [[an5.155-deepseek-pali]] ►
 
 # AN 5.154 Paṭhamasaddhammasammosasuttaṃ
@@ -27,12 +27,11 @@ Monks, these five things lead to the stability, non-confusion, and non-disappear
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.154-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 176 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.154]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.154]]
 > ◄  [[an5.153-deepseek-pali]] 📜  [[an5.155-deepseek-pali]] ►

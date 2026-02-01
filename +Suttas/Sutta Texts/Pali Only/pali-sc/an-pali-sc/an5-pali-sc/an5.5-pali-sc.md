@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.5-PALI"
+sutta_code: "AN5.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vitthata "
+  - "In Detail"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.5]]
 > ◄  [[an5.4-pali-sc]] 📜  [[an5.6-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -25,6 +25,16 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA681-683]] | A iii 4 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA681-683]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.5]]
+> ◄  [[an5.4-pali-sc]] 📜  [[an5.6-pali-sc]] ►

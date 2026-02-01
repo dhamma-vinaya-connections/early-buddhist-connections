@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG25-PALI"
+sutta_code: "THIG25"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG25-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG25]]
 > ◄  [[thig24-pali-pts]] 📜  [[thig26-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ mā puna jātisaṃsāraṃ sandhāveyyaṃ punappunaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig25-) 
 

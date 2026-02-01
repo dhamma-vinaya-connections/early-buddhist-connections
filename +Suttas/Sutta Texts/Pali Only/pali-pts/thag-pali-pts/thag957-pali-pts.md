@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG957-PALI"
+sutta_code: "THAG957"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG957-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG957]]
 > ◄  [[thag956-pali-pts]] 📜  [[thag958-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ujjhānasaññino bālā sīlesu asamāhitā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag957-) 
 

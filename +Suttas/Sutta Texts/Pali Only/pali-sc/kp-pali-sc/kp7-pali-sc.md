@@ -1,13 +1,13 @@
 ---
-sutta_code: "KP7-PALI"
+sutta_code: "KP7"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP7]]
 > ◄  [[kp6-pali-sc]] 📜  [[kp8-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -87,6 +87,5 @@ tumhehi puññaṁ pasutaṁ anappakaṁ!
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp7-) 
 

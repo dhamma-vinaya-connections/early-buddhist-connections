@@ -3,11 +3,11 @@ sutta_code: "DN26"
 sutta_title:
   - "Cakkavatti Sutta "
   - "Wheel-Turning Monarch"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
 > ◄  [[dn25-sujato-pali]] 📜  [[dn27-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -474,8 +474,7 @@ Cakkavattisuttaṁ niṭṭhitaṁ tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -490,6 +489,5 @@ Cakkavattisuttaṁ niṭṭhitaṁ tatiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47.6]]-7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
 > ◄  [[dn25-sujato-pali]] 📜  [[dn27-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP287-PALI"
+sutta_code: "DHP287"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP287-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP287]]
 > ◄  [[dhp286-pali-pts]] 📜  [[dhp288-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ na santi puttā tāṇāya na pitā na pi bandhavā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp287-) 
 

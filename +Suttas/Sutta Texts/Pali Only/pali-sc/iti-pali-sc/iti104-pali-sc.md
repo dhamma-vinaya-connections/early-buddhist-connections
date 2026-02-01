@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI104-PALI"
+sutta_code: "ITI104"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sīlasampanna "
+  - "Excelling In Virtue"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI104-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI104]]
 > ◄  [[iti103-pali-sc]] 📜  [[iti105-pali-sc]] ►
 
 # Iti 104. Sabrahmakasuttaṃ
@@ -39,6 +39,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti104-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI104]]
+> ◄  [[iti103-pali-sc]] 📜  [[iti105-pali-sc]] ►

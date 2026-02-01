@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.7-PALI"
+sutta_code: "SN4.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Supatisutta "
+  - "Sleep"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.7]]
 > ◄  [[sn4.6-pali-sc]] 📜  [[sn4.8-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -38,6 +38,16 @@ Soppati kiṁ tavettha mārā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP180]] | [[SA-2.26]], [[SA1087]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.26]], [[SA1087]], [[DHP180]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.7]]
+> ◄  [[sn4.6-pali-sc]] 📜  [[sn4.8-pali-sc]] ►

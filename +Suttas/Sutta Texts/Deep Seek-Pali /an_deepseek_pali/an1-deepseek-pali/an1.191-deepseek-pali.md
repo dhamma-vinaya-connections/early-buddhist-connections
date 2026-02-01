@@ -4,10 +4,10 @@ sutta_title:
   - " "
   - ""
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.191]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.191]]
 > ◄  [[an1.190-deepseek-pali]] 📜  [[an1.192-deepseek-pali]] ►
 
 # AN 1.191
@@ -29,6 +29,5 @@ The First Section.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.191-) 
 

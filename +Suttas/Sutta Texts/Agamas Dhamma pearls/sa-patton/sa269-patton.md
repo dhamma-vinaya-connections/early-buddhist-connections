@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA269]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA269]]
 > ◄  [[sa268-patton]] 📜  [[sa270-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -41,8 +41,7 @@ They answered, “No, Bhagavān.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa269-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -53,6 +52,5 @@ They answered, “No, Bhagavān.”
 | [[SA269]], [[SN35.101]], [[SN35.102]], [[SN35.138]], [[SN35.139]], [[SN22.34]], [[SN22.33]], [[SN22.33-34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA269]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA269]]
 > ◄  [[sa268-patton]] 📜  [[sa270-patton]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.95-PALI"
+sutta_code: "AN7.95"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.95-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.95]]
 > ◄  [[an7.94-pali-sc]] 📜  [[an7.96-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -31,6 +31,5 @@ Ime kho, bhikkhave, satta puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjali
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.95-) 
 

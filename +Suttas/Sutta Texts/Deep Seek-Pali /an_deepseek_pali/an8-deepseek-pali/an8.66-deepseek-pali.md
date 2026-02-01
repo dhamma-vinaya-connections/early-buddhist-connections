@@ -4,10 +4,10 @@ sutta_title:
   - "Vimokkha "
   - "Liberations"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.66]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.66]]
 > ◄  [[an8.65-deepseek-pali]] 📜  [[an8.67-deepseek-pali]] ►
 
 # AN 8.66 Vimokkhasuttaṃ
@@ -51,8 +51,7 @@ With the complete surmounting of the dimension of neither perception nor non-per
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.66-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ With the complete surmounting of the dimension of neither perception nor non-per
 | [[AN8.120]], [[AN1.447-454]], [[MN137]], [[DN16]], [[DN15]], [[MN77]], [[DN34]], [[DN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.66]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.66]]
 > ◄  [[an8.65-deepseek-pali]] 📜  [[an8.67-deepseek-pali]] ►

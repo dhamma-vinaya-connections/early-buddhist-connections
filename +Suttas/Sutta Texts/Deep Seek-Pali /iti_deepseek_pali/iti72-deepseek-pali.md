@@ -4,10 +4,10 @@ sutta_title:
   - "Nissaraṇiya "
   - "Escape Elements"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI72]]
 > ◄  [[iti71-deepseek-pali]] 📜  [[iti73-deepseek-pali]] ►
 
 # Iti 72 Santatarasuttaṃ
@@ -31,9 +31,7 @@ This matter, too, was spoken by the Blessed One: so I have heard. Fourth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti72-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI72]]
 > ◄  [[iti71-deepseek-pali]] 📜  [[iti73-deepseek-pali]] ►

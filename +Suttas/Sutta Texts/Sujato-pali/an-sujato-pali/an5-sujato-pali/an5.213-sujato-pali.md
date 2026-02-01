@@ -3,11 +3,11 @@ sutta_code: "AN5.213"
 sutta_title:
   - "Sīla "
   - "Ethics"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.213]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.213]]
 > ◄  [[an5.212-sujato-pali]] 📜  [[an5.214-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -87,8 +87,7 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.213-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ Tatiyaṁ.
 | [[DN33]], [[PLI-TV-KD6]], [[UD8.6]], [[DN16]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.213]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.213]]
 > ◄  [[an5.212-sujato-pali]] 📜  [[an5.214-sujato-pali]] ►

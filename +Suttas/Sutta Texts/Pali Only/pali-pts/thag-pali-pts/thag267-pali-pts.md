@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG267-PALI"
+sutta_code: "THAG267"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG267-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG267]]
 > ◄  [[thag264-pali-pts]] 📜  [[thag268-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ piṇḍikāya paviṭṭho 'haṃ gacchanto naṃ udikkhisaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag267-) 
 

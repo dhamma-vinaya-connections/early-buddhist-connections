@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.5-PALI"
+sutta_code: "SN8.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Subhāsitasutta "
+  - "Well Spoken"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.5]]
 > ◄  [[sn8.4-pali-pts]] 📜  [[sn8.6-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -45,6 +45,16 @@ dukkhassantakiriyāya || sā ve vācānamuttamā ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SNP3.3]] | [[SA-2.253]], [[SA1218]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SNP3.3]], [[SA-2.253]], [[SA1218]], [[THAG21.1]], [[PE3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.5]]
+> ◄  [[sn8.4-pali-pts]] 📜  [[sn8.6-pali-pts]] ►

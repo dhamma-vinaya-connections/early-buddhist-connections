@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG273-PALI"
+sutta_code: "THIG273"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG273-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG273]]
 > ◄  [[thig272-pali-pts]] 📜  [[thig274-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ cirassaṃ vata man tāta samaṇānaṃ paripucchasi |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig273-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Sasaṅkhāra "
   - "Extra Effort"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.169]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.169]]
 > ◄  [[an4.168-deepseek-pali]] 📜  [[an4.170-deepseek-pali]] ►
 
 # AN 4.169 Sasaṅkhārasuttaṃ
@@ -39,12 +39,11 @@ And how, monks, is a person one who attains final Nibbāna without exertion afte
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.169-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A ii 155 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.169]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.169]]
 > ◄  [[an4.168-deepseek-pali]] 📜  [[an4.170-deepseek-pali]] ►

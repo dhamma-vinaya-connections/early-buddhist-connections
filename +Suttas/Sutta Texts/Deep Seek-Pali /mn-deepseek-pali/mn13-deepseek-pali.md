@@ -4,10 +4,10 @@ sutta_title:
   - "Mahādukkhakkhandha Sutta "
   - "Mass of Suffering, Longer Discourse"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
 > ◄  [[mn12-deepseek-pali]] 📜  [[mn14-deepseek-pali]] ►
 
 # 13. Mahādukkhakkhandhasuttaṃ
@@ -139,8 +139,7 @@ The Great Mass of Suffering Discourse, the third, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -155,6 +154,5 @@ The Great Mass of Suffering Discourse, the third, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN14]], [[MN54]]]]; [[[[SN35.63]]]]; [[[[SN35.115]]]]; [[[[SN35.189]]]]; [[[[AN6.63]]]]; [[[[AN9.34]]]]; [[[[AN9.36]]]]; [[[[THIG13.1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
 > ◄  [[mn12-deepseek-pali]] 📜  [[mn14-deepseek-pali]] ►

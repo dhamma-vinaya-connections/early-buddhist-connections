@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI44-PALI"
+sutta_code: "ITI44"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nibbānadhātu "
+  - "Nibbāna Element"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI44-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI44]]
 > ◄  [[iti43-pali-pts]] 📜  [[iti45-pali-pts]] ►
 
 ## Itivuttaka
@@ -33,6 +33,7 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||7||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti44-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI44]]
+> ◄  [[iti43-pali-pts]] 📜  [[iti45-pali-pts]] ►

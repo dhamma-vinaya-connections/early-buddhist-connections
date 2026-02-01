@@ -4,10 +4,10 @@ sutta_title:
   - "Dhātu "
   - "Elements"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI51]]
 > ◄  [[iti50-deepseek-pali]] 📜  [[iti52-deepseek-pali]] ►
 
 # Iti 51 Paṭhamavedanāsuttaṃ
@@ -31,9 +31,7 @@ This too was spoken by the Blessed One, so I heard. This is the third discourse.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti51-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI51]]
 > ◄  [[iti50-deepseek-pali]] 📜  [[iti52-deepseek-pali]] ►

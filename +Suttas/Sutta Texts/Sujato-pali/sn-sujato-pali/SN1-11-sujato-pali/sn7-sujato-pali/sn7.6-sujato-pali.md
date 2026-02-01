@@ -3,11 +3,11 @@ sutta_code: "SN7.6"
 sutta_title:
   - "Jaṭāsutta "
   - "Tangle"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.6]]
 > ◄  [[sn7.5-sujato-pali]] 📜  [[sn7.7-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -83,8 +83,7 @@ etthesā chijjate jaṭā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ etthesā chijjate jaṭā"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG6.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.6]]
 > ◄  [[sn7.5-sujato-pali]] 📜  [[sn7.7-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP178-PALI"
+sutta_code: "DHP178"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP178-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP178]]
 > ◄  [[dhp177-pali-pts]] 📜  [[dhp179-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ yassa jitaṃ nāvajīyati jitaṃ assa no yāti koci loke, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp178-) 
 

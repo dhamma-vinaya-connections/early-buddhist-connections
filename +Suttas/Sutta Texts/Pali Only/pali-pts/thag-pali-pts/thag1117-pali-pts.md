@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1117-PALI"
+sutta_code: "THAG1117"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1117-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1117]]
 > ◄  [[thag1116-pali-pts]] 📜  [[thag1118-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ muṇḍo virūpo abhisāpam āgato kapālahattho 'va kulesu bhikkhasu,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1117-) 
 

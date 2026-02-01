@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.56-PALI"
+sutta_code: "AN3.56"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Channa "
+  - "With Channa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.56-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.56]]
 > ◄  [[an3.55-pali-sc]] 📜  [[an3.57-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -34,6 +34,11 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.56-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 215 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.56]]
+> ◄  [[an3.55-pali-sc]] 📜  [[an3.57-pali-sc]] ►

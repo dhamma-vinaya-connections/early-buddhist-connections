@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_57]]
 > ◄  [[SA2_49-56]] 📜  [[SA2_58-74]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -45,6 +45,5 @@ Rāhula then rejoiced and was gladdened by what the Buddha taught. He bowed to t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_57-) 
 

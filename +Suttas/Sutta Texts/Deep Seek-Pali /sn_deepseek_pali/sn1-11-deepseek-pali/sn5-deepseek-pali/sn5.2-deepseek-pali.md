@@ -4,10 +4,10 @@ sutta_title:
   - "Somāsutta "
   - "Soma"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
 > ◄  [[sn5.1-deepseek-pali]] 📜  [[sn5.3-deepseek-pali]] ►
 
 # SN 5.2 Somāsuttaṃ
@@ -43,8 +43,7 @@ Then Māra the Evil One, realizing, "The bhikkhunī Somā knows me," sad and dis
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then Māra the Evil One, realizing, "The bhikkhunī Somā knows me," sad and dis
 | [[SA-2.215]], [[SA1199]], [[THIG3.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
 > ◄  [[sn5.1-deepseek-pali]] 📜  [[sn5.3-deepseek-pali]] ►

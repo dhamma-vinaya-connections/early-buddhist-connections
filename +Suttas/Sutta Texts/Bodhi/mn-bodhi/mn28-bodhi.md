@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
 > ◄  [[mn27-bodhi]] 📜  [[mn29-bodhi]] ►
 
 # MN28 Mahāhatthipadopama Sutta - The Greater Discourse on the Simile
@@ -92,8 +92,7 @@ That is what the venerable Sāriputta said. The bhikkhus were satisfied and deli
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn28-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -108,6 +107,5 @@ That is what the venerable Sāriputta said. The bhikkhus were satisfied and deli
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN21]], [[MA193]], [[MA8]], [[AN7.62]], [[AN5.197]], [[SN22.5]]; [[SN4.9]], [[MA31]], [[MN141]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
 > ◄  [[mn27-bodhi]] 📜  [[mn29-bodhi]] ►

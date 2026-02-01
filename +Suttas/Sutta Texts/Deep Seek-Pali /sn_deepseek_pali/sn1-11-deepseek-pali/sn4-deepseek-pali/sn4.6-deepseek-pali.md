@@ -4,10 +4,10 @@ sutta_title:
   - "Sappasutta "
   - "Serpent"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
 > ◄  [[sn4.5-deepseek-pali]] 📜  [[sn4.7-deepseek-pali]] ►
 
 # SN 4.6 Sappasuttaṃ
@@ -47,8 +47,7 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 | [[SA-2.28]], [[SA1089]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
 > ◄  [[sn4.5-deepseek-pali]] 📜  [[sn4.7-deepseek-pali]] ►

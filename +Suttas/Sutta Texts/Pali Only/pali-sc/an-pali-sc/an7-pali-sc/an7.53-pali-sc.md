@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.53-PALI"
+sutta_code: "AN7.53"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nandamātā "
+  - "Nanda’s Mother"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.53-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.53]]
 > ◄  [[an7.52-pali-sc]] 📜  [[an7.54-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -102,6 +102,11 @@ Paṇṇāsako samatto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.53-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 63 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.53]]
+> ◄  [[an7.52-pali-sc]] 📜  [[an7.54-pali-sc]] ►

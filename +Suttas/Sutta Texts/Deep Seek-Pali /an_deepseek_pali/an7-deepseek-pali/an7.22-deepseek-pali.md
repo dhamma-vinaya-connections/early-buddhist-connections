@@ -4,10 +4,10 @@ sutta_title:
   - "Sārandada "
   - "At Sārandada"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
 > ◄  [[an7.21-deepseek-pali]] 📜  [[an7.23-deepseek-pali]] ►
 
 # AN 7.22 Vassakārasuttaṃ
@@ -67,8 +67,7 @@ Then the Blessed One addressed Vassakāra the brahmin, the chief minister of Mag
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Then the Blessed One addressed Vassakāra the brahmin, the chief minister of Mag
 | [[EA40.2]], [[MA142]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
 > ◄  [[an7.21-deepseek-pali]] 📜  [[an7.23-deepseek-pali]] ►

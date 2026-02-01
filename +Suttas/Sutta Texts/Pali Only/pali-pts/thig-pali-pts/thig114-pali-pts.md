@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG114-PALI"
+sutta_code: "THIG114"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG114-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG114]]
 > ◄  [[thig113-pali-pts]] 📜  [[thig115-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ tato dīpaṃ gahetvāna vihāraṃ pāvisiṃ ahaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig114-) 
 

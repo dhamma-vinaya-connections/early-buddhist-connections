@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
 > ◄  [[dn17-walshe]] 📜  [[dn19-walshe]] ►
 
 # DN18 Janavasabha Sutta: About janavasabha
@@ -129,8 +129,7 @@ And so the holy life waxed mighty and prospered and spread widely as it was proc
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -141,6 +140,5 @@ And so the holy life waxed mighty and prospered and spread widely as it was proc
 | [[DA4]], [[THAG16.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
 > ◄  [[dn17-walshe]] 📜  [[dn19-walshe]] ►

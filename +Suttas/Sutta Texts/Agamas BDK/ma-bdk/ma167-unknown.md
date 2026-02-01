@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA167]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA167]]
 > ◄  [[ma166]] 📜  [[ma168]] ►
 
 ### 167. The Discourse Spoken by Ānanda
@@ -25,8 +25,7 @@ The World-honored One asked further, “Ānanda, how does a monk cling to phenom
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma167-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ The World-honored One asked further, “Ānanda, how does a monk cling to phenom
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[MA164]], [[MA165]], [[MA166]], [[MA167]], [[MN131]], [[MN132]], [[MN133]], [[MN134]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA167]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA167]]
 > ◄  [[ma166]] 📜  [[ma168]] ►

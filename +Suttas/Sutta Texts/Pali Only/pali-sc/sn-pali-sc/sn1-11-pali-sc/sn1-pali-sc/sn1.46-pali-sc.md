@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.46-PALI"
+sutta_code: "SN1.46"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Accharāsutta "
+  - "Nymphs"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.46-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.46]]
 > ◄  [[sn1.45-pali-sc]] 📜  [[sn1.47-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -63,6 +63,20 @@ nibbānasseva santike"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.46-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.171]], [[SA587]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.171]], [[SA587]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN54.4]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.46]]
+> ◄  [[sn1.45-pali-sc]] 📜  [[sn1.47-pali-sc]] ►

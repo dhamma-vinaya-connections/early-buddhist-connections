@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP62-PALI"
+sutta_code: "DHP62"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP62-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP62]]
 > ◄  [[dhp61-pali-pts]] 📜  [[dhp63-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yo bālo maññatī balyaṃ paṇḍito vāpi tena so, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp62-) 
 

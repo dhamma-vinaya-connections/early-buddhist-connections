@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.10-PALI"
+sutta_code: "AN4.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Yoga "
+  - "Bondage / Yokes"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.10]]
 > ◄  [[an4.9-pali-pts]] 📜  [[an4.11-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,11 @@ PTS: A ii 10
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 10 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.10]]
+> ◄  [[an4.9-pali-pts]] 📜  [[an4.11-pali-pts]] ►

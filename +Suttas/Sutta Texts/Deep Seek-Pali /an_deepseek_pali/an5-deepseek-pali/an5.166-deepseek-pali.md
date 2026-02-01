@@ -4,10 +4,10 @@ sutta_title:
   - "Nirodha "
   - "Cessation"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.166]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.166]]
 > ◄  [[an5.165-deepseek-pali]] 📜  [[an5.167-deepseek-pali]] ►
 
 # AN 5.166 Nirodhasuttaṃ
@@ -75,8 +75,7 @@ Then, soon after the Blessed One had left, the Venerable Ānanda approached the 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.166-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ Then, soon after the Blessed One had left, the Venerable Ānanda approached the 
 | [[MA22]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.166]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.166]]
 > ◄  [[an5.165-deepseek-pali]] 📜  [[an5.167-deepseek-pali]] ►

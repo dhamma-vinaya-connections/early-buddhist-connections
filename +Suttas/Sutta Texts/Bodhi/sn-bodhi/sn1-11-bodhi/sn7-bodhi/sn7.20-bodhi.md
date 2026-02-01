@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
 > ◄  [[sn7.19-bodhi]] 📜  [[sn7.21-bodhi]] ►
 
 # SN7.20 The Mendicant
@@ -42,8 +42,7 @@ When this was said, the mendicant brahmin said to the Blessed One: “Magnificen
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -54,6 +53,5 @@ When this was said, the mendicant brahmin said to the Blessed One: “Magnificen
 | [[SA-2.263]], [[SA97]], [[DHP266]], [[DHP267]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
 > ◄  [[sn7.19-bodhi]] 📜  [[sn7.21-bodhi]] ►

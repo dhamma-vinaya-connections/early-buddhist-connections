@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.22]]
 > ◄  [[sn3.21-bodhi]] 📜  [[sn3.23-bodhi]] ►
 
 # SN3.22 Grandmother
@@ -50,8 +50,7 @@ At Sāvatthī. Then, in the middle of the day, King Pasenadi of Kosala approac
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -62,6 +61,5 @@ At Sāvatthī. Then, in the middle of the day, King Pasenadi of Kosala approac
 | [[EA26.7]], [[SA-2.54]], [[SA1227]], [[PE1]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[SN1.43]], [[SN2.23]], [[AN5.36]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.22]]
 > ◄  [[sn3.21-bodhi]] 📜  [[sn3.23-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG366-PALI"
+sutta_code: "THIG366"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG366-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG366]]
 > ◄  [[thig365-pali-pts]] 📜  [[thig367-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ kiṃ te aparādhitaṃ mayā yaṃ maṃ ovariyāna tiṭṭhasi |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig366-) 
 

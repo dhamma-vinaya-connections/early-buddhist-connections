@@ -4,10 +4,10 @@ sutta_title:
   - "Oghataraṇa "
   - "Crossing The Flood"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
 > ◄  [[]] 📜  [[sn1.2-deepseek-pali]] ►
 
 # SN 1.1 Oghataraṇasuttaṃ
@@ -31,8 +31,7 @@ This the deity said. The Teacher approved. Then that deity, knowing, 'The Teache
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ This the deity said. The Teacher approved. Then that deity, knowing, 'The Teache
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.38 AND SN12.64]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
 > ◄  [[]] 📜  [[sn1.2-deepseek-pali]] ►

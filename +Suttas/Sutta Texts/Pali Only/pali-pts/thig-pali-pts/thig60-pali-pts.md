@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG60-PALI"
+sutta_code: "THIG60"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG60-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG60]]
 > ◄  [[thig59-pali-pts]] 📜  [[thig61-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ itthibhāvo no kiṃ kayirā cittamhi susamāhite |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig60-) 
 

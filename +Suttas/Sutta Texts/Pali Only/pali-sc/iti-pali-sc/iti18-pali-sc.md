@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI18-PALI"
+sutta_code: "ITI18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Saṁghabheda "
+  - "Schism in Sangha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
 > ◄  [[iti17-pali-sc]] 📜  [[iti19-pali-sc]] ►
 
 # Iti 18. Saṅghasāmaggīsuttaṃ
@@ -28,6 +28,16 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.39]], [[PLI-TV-KD17]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
+> ◄  [[iti17-pali-sc]] 📜  [[iti19-pali-sc]] ►

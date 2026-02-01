@@ -3,11 +3,11 @@ sutta_code: "SN3.20"
 sutta_title:
   - "Dutiyaaputtakasutta "
   - "Childless (2)"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.20]]
 > ◄  [[sn3.19-sujato-pali]] 📜  [[sn3.21-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -110,8 +110,7 @@ Vaggo tena pavuccatīti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -126,6 +125,5 @@ Vaggo tena pavuccatīti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.20]], [[AN5.41]], [[AN5.148.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.20]]
 > ◄  [[sn3.19-sujato-pali]] 📜  [[sn3.21-sujato-pali]] ►

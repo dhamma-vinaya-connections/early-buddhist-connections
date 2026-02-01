@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143]]
 > ◄  [[mn142-bodhi]] 📜  [[mn144-bodhi]] ►
 
 # MN143 Anāthapiṇḍikovāda Sutta - Advice to Anāthapiṇḍika
@@ -104,8 +104,7 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn143-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -120,6 +119,5 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN148]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143]]
 > ◄  [[mn142-bodhi]] 📜  [[mn144-bodhi]] ►

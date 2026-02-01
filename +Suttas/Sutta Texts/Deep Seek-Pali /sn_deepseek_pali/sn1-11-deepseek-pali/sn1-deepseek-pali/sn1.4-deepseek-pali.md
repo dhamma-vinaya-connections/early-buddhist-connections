@@ -4,10 +4,10 @@ sutta_title:
   - "Accenti "
   - "Time Flies"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.4]]
 > ◄  [[sn1.3-deepseek-pali]] 📜  [[sn1.5-deepseek-pali]] ►
 
 # SN 1.4 Accentisuttaṃ
@@ -37,8 +37,7 @@ One should abandon worldly allurements, longing for peace."
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ One should abandon worldly allurements, longing for peace."
 | [[SA-2.139]], [[SN2.27]], [[JA509]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.4]]
 > ◄  [[sn1.3-deepseek-pali]] 📜  [[sn1.5-deepseek-pali]] ►

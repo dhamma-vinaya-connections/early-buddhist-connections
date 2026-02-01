@@ -34,22 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[AN10.21]]"
-  - "[[MN12]]"
-parallels_agama:
-  - "[[EA46.4]]"
-  - "[[SA684]]"
-  - "[[SA686-687]]"
-  - "[[SA701]]"
-parallels_partilal:
-  - "[[AN10.21]]"
-  - "[[EA46.4]]"
-  - "[[SA684]]"
-  - "[[SA701]]"
-  - "[[MN12]]"
-  - "[[SA686-687]]"
+parallels_nikaya: "[[AN10.21]], [[MN12]]"
+parallels_agama: "[[EA46.4]], [[SA684]], [[SA686-687]], [[SA701]]"
+parallels_partilal: "[[AN10.21]], [[EA46.4]], [[SA684]], [[SA701]], [[MN12]], [[SA686-687]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.63]]  🌐 [[AN6.65]] ►
 
@@ -71,8 +58,7 @@ And so, mendicants, immersion is the path. No immersion is the wrong path.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.64-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -84,8 +70,7 @@ And so, mendicants, immersion is the path. No immersion is the wrong path.”
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN6.64%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN6.64%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -96,7 +81,7 @@ And so, mendicants, immersion is the path. No immersion is the wrong path.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.64%5D%5D%22%23mynotes%20-file%3Aan6.64-%20-file%3A%22AN6.63%22%20-file%3A%22AN6.65%22%20-file%3A%22AN6.64%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.64/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.64

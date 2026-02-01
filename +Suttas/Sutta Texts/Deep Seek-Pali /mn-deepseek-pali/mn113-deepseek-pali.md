@@ -4,10 +4,10 @@ sutta_title:
   - "Sappurisa Sutta "
   - "Good Person"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN113]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN113]]
 > ◄  [[mn112-deepseek-pali]] 📜  [[mn114-deepseek-pali]] ►
 
 # 113. Sevitabbāsevitabbasuttaṃ
@@ -207,8 +207,7 @@ The Discourse on What Should and Should Not Be Resorted To is concluded, the fou
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn113-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -223,6 +222,5 @@ The Discourse on What Should and Should Not Be Resorted To is concluded, the fou
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.31]], [[AN4.73]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN113]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN113]]
 > ◄  [[mn112-deepseek-pali]] 📜  [[mn114-deepseek-pali]] ►

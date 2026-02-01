@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.7]]
 > ◄  [[sn7.6-bodhi]] 📜  [[sn7.8-bodhi]] ►
 
 # SN7.7 Suddhika
@@ -54,8 +54,7 @@ When this was said, the brahmin Suddhika Bhāradvāja said to the Blessed One: �
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -70,6 +69,5 @@ When this was said, the brahmin Suddhika Bhāradvāja said to the Blessed One: �
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG6.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.7]]
 > ◄  [[sn7.6-bodhi]] 📜  [[sn7.8-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG424-PALI"
+sutta_code: "THIG424"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG424-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG424]]
 > ◄  [[thig423-pali-pts]] 📜  [[thig425-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ evaṃ bhaṇito bhaṇati yadi me attā sakkoti alaṃ mayhaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig424-) 
 

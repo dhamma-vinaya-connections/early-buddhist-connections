@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.23-PALI"
+sutta_code: "AN6.23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Bhaya "
+  - "Dangers"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.23]]
 > ◄  [[an6.22-pali-sri]] 📜  [[]] ►
 
 # 10:23 Ragadipeyyalam - Pali
@@ -154,6 +154,16 @@ Dasanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.23-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.56]] |  | A iii 310 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.56]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.23]]
+> ◄  [[an6.22-pali-sri]] 📜  [[]] ►

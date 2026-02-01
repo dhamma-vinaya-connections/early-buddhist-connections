@@ -4,10 +4,10 @@ sutta_title:
   - "Pāyāsi Sutta "
   - "With Pāyāsi"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-deepseek-pali]] 📜  [[dn24-deepseek-pali]] ►
 
 # Pāyāsisuttaṃ
@@ -350,8 +350,7 @@ The Great Lineage Discourse, the Root Discourse, the Great Discourse on Nibbāna
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -362,6 +361,5 @@ The Great Lineage Discourse, the Root Discourse, the Great Discourse on Nibbāna
 | [[DA7]], [[MA71]], [[JA91]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-deepseek-pali]] 📜  [[dn24-deepseek-pali]] ►

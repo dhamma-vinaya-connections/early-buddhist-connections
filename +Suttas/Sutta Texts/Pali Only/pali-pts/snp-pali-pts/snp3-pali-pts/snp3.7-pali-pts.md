@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP3.7-PALI"
+sutta_code: "SNP3.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Selasutta "
+  - "With Sela"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
 > ◄  [[snp3.6-pali-pts]] 📜  [[snp3.8-pali-pts]] ►
 
 # SNP3.7 Selasutta
@@ -123,6 +123,20 @@ SELASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN92]] | [[EA49.6]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[MN92]], [[PLI-TV-KD6]], [[EA49.6]], [[ITI100]], [[THAG16.6]], [[SNP3.6]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN4.20]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
+> ◄  [[snp3.6-pali-pts]] 📜  [[snp3.8-pali-pts]] ►

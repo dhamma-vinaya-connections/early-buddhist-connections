@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG15-PALI"
+sutta_code: "THIG15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cattālīsanipātavagga "
+  - "Forties Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG15]]
 > ◄  [[thig14-pali-sri]] 📜  [[thig16-pali-sri]] ►
 
 # 40. Chattalisa-nipata - Pali
@@ -461,6 +461,5 @@ Cattālīsatinipāto samatto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig15-) 
 

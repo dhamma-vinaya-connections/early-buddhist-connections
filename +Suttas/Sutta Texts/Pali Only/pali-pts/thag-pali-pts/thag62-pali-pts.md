@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG62-PALI"
+sutta_code: "THAG62"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG62-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG62]]
 > ◄  [[thag61-pali-pts]] 📜  [[thag63-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Cutā patanti patitā giddhā ca punar āgatā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag62-) 
 

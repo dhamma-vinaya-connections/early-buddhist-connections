@@ -34,20 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Deva not stand by his tree’s duty, like a monk not stand by an ascetic’s duty"
-parallels_nikaya:
-  - "[[AN7.73]]"
-  - "[[AN7.73-74]]"
-parallels_agama:
-  - "[[MA130]]"
-  - "[[MA160]]"
-parallels_partilal:
-  - "[[MA130]]"
-  - "[[AN7.73-74]]"
-  - "[[MA160]]"
-  - "[[AN7.66]]"
-  - "[[AN7.73]]"
-  - "[[PE3]]"
+parallels_nikaya: "[[AN7.73]], [[AN7.73-74]]"
+parallels_agama: "[[MA130]], [[MA160]]"
+parallels_partilal: "[[MA130]], [[AN7.73-74]], [[MA160]], [[AN7.66]], [[AN7.73]], [[PE3]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.53]]  🌐 [[AN6.55]] ►
 
@@ -70,8 +59,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.54-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -86,8 +74,7 @@ parallels_partilal:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.62]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN6.54%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN6.54%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -98,7 +85,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.54%5D%5D%22%23mynotes%20-file%3Aan6.54-%20-file%3A%22AN6.53%22%20-file%3A%22AN6.55%22%20-file%3A%22AN6.54%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.54/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.54

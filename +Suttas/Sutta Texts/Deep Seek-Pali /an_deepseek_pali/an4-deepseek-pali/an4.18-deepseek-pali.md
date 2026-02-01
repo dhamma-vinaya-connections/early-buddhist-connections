@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamaagati "
   - "Prejudice"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.18]]
 > ◄  [[an4.17-deepseek-pali]] 📜  [[an4.19-deepseek-pali]] ►
 
 # AN 4.18 Dutiyaagatisuttaṃ
@@ -27,8 +27,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ language: "Pali"
 | [[DN31]], [[AN4.19]], [[JA443]], [[PE3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.18]]
 > ◄  [[an4.17-deepseek-pali]] 📜  [[an4.19-deepseek-pali]] ►

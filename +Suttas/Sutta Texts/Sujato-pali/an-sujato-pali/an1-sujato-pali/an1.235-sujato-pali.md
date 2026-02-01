@@ -3,11 +3,11 @@ sutta_code: "AN1.235"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.235]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.235]]
 > ◄  [[an1.219-sujato-pali]] 📜  [[an1.248-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -85,6 +85,5 @@ Pañcamavagga
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.235-) 
 

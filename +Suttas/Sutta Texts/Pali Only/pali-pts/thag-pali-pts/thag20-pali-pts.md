@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG20-PALI"
+sutta_code: "THAG20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mahāmoggallānattheragāthā "
+  - "Mahāmoggallāna"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG20]]
 > ◄  [[thag19-pali-pts]] 📜  [[thag21-pali-pts]] ►
 
 ## Theragāthā
@@ -25,6 +25,5 @@ Nāhaṃ bhayassa bhāyāmi, satthā no amatassa kovido.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag20-) 
 

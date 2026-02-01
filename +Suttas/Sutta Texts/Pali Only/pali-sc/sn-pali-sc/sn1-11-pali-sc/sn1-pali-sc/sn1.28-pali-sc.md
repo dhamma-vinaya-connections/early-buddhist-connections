@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.28-PALI"
+sutta_code: "SN1.28"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahaddhanasutta "
+  - "Those of Great Wealth"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.28-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.28]]
 > ◄  [[sn1.27-pali-sc]] 📜  [[sn1.29-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -57,6 +57,16 @@ te lokasmiṁ anussukā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.28-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.183]], [[SA589]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.183]], [[SA589]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.28]]
+> ◄  [[sn1.27-pali-sc]] 📜  [[sn1.29-pali-sc]] ►

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA79]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA79]]
 > ◄  [[ma78-bdk]] 📜  [[ma80-bdk]] ►
 
 ### 79. The Discourse on the Existence of Higher Devas
@@ -47,8 +47,7 @@ him. Having taught [Chamberlain Isidatta] the Dharma with countless skillful mea
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma79-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ him. Having taught [Chamberlain Isidatta] the Dharma with countless skillful mea
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.29]], [[MA72]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA79]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA79]]
 > ◄  [[ma78-bdk]] 📜  [[ma80-bdk]] ►

@@ -3,11 +3,11 @@ sutta_code: "SNP5.10"
 sutta_title:
   - "Todeyyamāṇavapucchā "
   - "Questions of the Student Todeyya"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.10]]
 > ◄  [[snp5.9-sujato-pali]] 📜  [[snp5.11-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -83,6 +83,5 @@ Todeyyamāṇavapucchā navamā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.10-) 
 

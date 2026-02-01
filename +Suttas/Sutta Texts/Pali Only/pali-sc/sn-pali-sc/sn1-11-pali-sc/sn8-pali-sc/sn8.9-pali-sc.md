@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.9-PALI"
+sutta_code: "SN8.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Koṇḍaññasutta "
+  - "Koṇḍañña"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.9]]
 > ◄  [[sn8.8-pali-sc]] 📜  [[sn8.10-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -48,6 +48,16 @@ pāde vandati satthuno"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.225]], [[SA1209]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.225]], [[SA1209]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.9]]
+> ◄  [[sn8.8-pali-sc]] 📜  [[sn8.10-pali-sc]] ►

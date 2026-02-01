@@ -4,10 +4,10 @@ sutta_title:
   - "Apaṇṇaka "
   - "Guaranteed"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.16]]
 > ◄  [[an3.15-deepseek-pali]] 📜  [[an3.17-deepseek-pali]] ►
 
 # AN 3.16 Apaṇṇakasuttaṃ
@@ -35,8 +35,7 @@ And how, monks, is a monk devoted to wakefulness? Here, monks, during the day, w
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ And how, monks, is a monk devoted to wakefulness? Here, monks, during the day, w
 | [[EA21.6]], [[SN35.120]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN4.37]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.16]]
 > ◄  [[an3.15-deepseek-pali]] 📜  [[an3.17-deepseek-pali]] ►

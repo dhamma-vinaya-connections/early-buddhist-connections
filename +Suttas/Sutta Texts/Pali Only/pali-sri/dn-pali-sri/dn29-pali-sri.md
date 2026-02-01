@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN29-PALI"
+sutta_code: "DN29"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Pāsādika Sutta "
+  - "An Impressive Discourse"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
 > ◄  [[dn28-pali-sri]] 📜  [[dn30-pali-sri]] ►
 
 # 29. Pasadika sutta - Pali
@@ -286,6 +286,16 @@ Pāsādikasuttaṃniṭṭhitaṃ chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn29-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN9.7]], [[AN9.8]] | [[DA17]] | D iii 117 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN9.7]], [[DA17]], [[AN9.8]], [[MN76]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
+> ◄  [[dn28-pali-sri]] 📜  [[dn30-pali-sri]] ►

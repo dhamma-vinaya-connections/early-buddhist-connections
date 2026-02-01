@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI6-PALI"
+sutta_code: "ITI6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Māna "
+  - "Conceit"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI6]]
 > ◄  [[iti5-pali-sc]] 📜  [[iti7-pali-sc]] ►
 
 # Iti 6. Mānasuttaṃ
@@ -25,6 +25,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti6-) 
 

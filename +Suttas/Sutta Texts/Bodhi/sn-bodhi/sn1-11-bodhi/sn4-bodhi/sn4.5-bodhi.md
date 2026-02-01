@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.5]]
 > ◄  [[sn4.4-bodhi]] 📜  [[sn4.6-bodhi]] ►
 
 # SN4.5 Māra’s Snare (2)
@@ -43,8 +43,7 @@ Then Māra the Evil One approached the Blessed One and addressed him in verse:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then Māra the Evil One approached the Blessed One and addressed him in verse:
 | [[PLI-TV-KD1]], [[SN4.15]], [[SA-2.25]], [[SA1086]], [[SN4.4]], [[SA1096]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.5]]
 > ◄  [[sn4.4-bodhi]] 📜  [[sn4.6-bodhi]] ►

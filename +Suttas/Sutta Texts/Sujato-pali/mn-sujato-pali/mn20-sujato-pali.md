@@ -3,11 +3,11 @@ sutta_code: "MN20"
 sutta_title:
   - "Vitakkasaṇṭhāna Sutta "
   - "Removal of Distracting Thoughts"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN20]]
 > ◄  [[mn19-sujato-pali]] 📜  [[mn21-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -84,8 +84,7 @@ Pañcanimittakathā puna vaggo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -100,6 +99,5 @@ Pañcanimittakathā puna vaggo.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN19]], [[MN10]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN20]]
 > ◄  [[mn19-sujato-pali]] 📜  [[mn21-sujato-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
 > ◄  [[snp4.1-thanissaro]] 📜  [[snp4.3-thanissaro]] ►
 
 # 4:2  The Cave Octet
@@ -143,8 +143,7 @@ vv. 772–779
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -159,6 +158,5 @@ vv. 772–779
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.189]], [[THAG16.4]], [[SN4.15]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
 > ◄  [[snp4.1-thanissaro]] 📜  [[snp4.3-thanissaro]] ►

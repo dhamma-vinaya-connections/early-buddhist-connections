@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.103-PALI"
+sutta_code: "AN5.103"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahācora "
+  - "Master Thief"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.103-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.103]]
 > ◄  [[an5.102-pali-sc]] 📜  [[an5.104-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -45,6 +45,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.103-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.50]] |  | A iii 128 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN3.50]], [[PLI-TV-BU-VB-PJ4]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.103]]
+> ◄  [[an5.102-pali-sc]] 📜  [[an5.104-pali-sc]] ►

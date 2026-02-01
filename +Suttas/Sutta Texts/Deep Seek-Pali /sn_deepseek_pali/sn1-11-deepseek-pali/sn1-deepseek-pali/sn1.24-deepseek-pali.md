@@ -4,10 +4,10 @@ sutta_title:
   - "Manonivāraṇasutta "
   - "Reining in the Mind"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.24]]
 > ◄  [[sn1.23-deepseek-pali]] 📜  [[sn1.25-deepseek-pali]] ►
 
 # SN 1.24 Manonivāraṇasuttaṃ
@@ -31,8 +31,7 @@ From that quarter one does not suffer. He should restrain his mind from everythi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ From that quarter one does not suffer. He should restrain his mind from everythi
 | [[SA-2.279]], [[SA1281]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.24]]
 > ◄  [[sn1.23-deepseek-pali]] 📜  [[sn1.25-deepseek-pali]] ►

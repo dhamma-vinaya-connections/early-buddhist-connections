@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.85]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.85]]
 > ◄  [[an5.84-bodhi]] 📜  [[an5.86-bodhi]] ►
 
 # AN5.85 Cannot Patiently Endure
@@ -23,8 +23,7 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.85-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -34,6 +33,5 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.81]], [[AN5.82]], [[AN5.83]], [[AN5.84]], [[AN5.85]], [[AN5.86]], [[AN5.87]], [[AN5.88]], [[AN5.89]], [[AN5.90]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.85]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.85]]
 > ◄  [[an5.84-bodhi]] 📜  [[an5.86-bodhi]] ►

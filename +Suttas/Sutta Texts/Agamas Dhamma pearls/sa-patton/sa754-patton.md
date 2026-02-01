@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA754]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA754]]
 > ◄  [[sa753-patton]] 📜  [[sa755-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -32,6 +32,5 @@ The Buddha told Śāriputra, “That refers to the seven parts of the right path
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa754-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI75-PALI"
+sutta_code: "ITI75"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Avuṭṭhika "
+  - "Rainless Cloud"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI75-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI75]]
 > ◄  [[iti74-pali-sc]] 📜  [[iti76-pali-sc]] ►
 
 # Iti 75. Sukhapatthanāsuttaṃ
@@ -37,6 +37,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti75-) 
 

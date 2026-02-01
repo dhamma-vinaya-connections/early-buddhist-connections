@@ -3,11 +3,11 @@ sutta_code: "THIG12"
 sutta_title:
   - "Soḷasakanipātavagga "
   - "Sixteens Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG12]]
 > ◄  [[thig11-sujato-pali]] 📜  [[thig13-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -201,6 +201,5 @@ sottiyo camhi nhātako"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig12-) 
 

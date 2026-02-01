@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA129]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA129]]
 > ◄  [[ma128-bdk]] 📜  [[ma130-bdk]] ►
 
 ### 129. The Discourse on the Enemy
@@ -41,8 +41,7 @@ Or hangs himself with a rope, Or takes various kinds of poison. Such is the natu
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma129-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -53,6 +52,5 @@ Or hangs himself with a rope, Or takes various kinds of poison. Such is the natu
 | [[DHP80]], [[MN86]], [[THAG1.19]], [[THAG16.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA129]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA129]]
 > ◄  [[ma128-bdk]] 📜  [[ma130-bdk]] ►

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA29]]
 > ◄  [[ma28-bdk]] 📜  [[ma30-bdk]] ►
 
 ### 29. The Discourse by Mahā Koṭṭhita
@@ -53,8 +53,7 @@ What is knowledge of the cessation of formations as it really is? It is this: wi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -64,6 +63,5 @@ What is knowledge of the cessation of formations as it really is? It is this: wi
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.94]], [[MA30]], [[MN117]], [[MN141]], [[MN61]], [[SN12.11]], [[SN12.12]], [[SN12.15]], [[SN12.63]], [[SN12.64]], [[SN3.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA29]]
 > ◄  [[ma28-bdk]] 📜  [[ma30-bdk]] ►

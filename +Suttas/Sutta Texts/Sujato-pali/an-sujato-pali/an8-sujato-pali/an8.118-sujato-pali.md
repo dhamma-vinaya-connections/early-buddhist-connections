@@ -3,11 +3,11 @@ sutta_code: "AN8.118"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.118]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.118]]
 > ◄  [[an8.91-sujato-pali]] 📜  [[an8.119-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -29,6 +29,5 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.118-) 
 

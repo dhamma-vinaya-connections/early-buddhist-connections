@@ -4,10 +4,10 @@ sutta_title:
   - " "
   - ""
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.272]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.272]]
 > ◄  [[an4.271-deepseek-pali]] 📜  [[an4.273-deepseek-pali]] ►
 
 # AN 4.272 Byāpannacittasuttaṃ
@@ -27,6 +27,5 @@ He himself is without ill will, he encourages others to be without ill will, he 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.272-) 
 

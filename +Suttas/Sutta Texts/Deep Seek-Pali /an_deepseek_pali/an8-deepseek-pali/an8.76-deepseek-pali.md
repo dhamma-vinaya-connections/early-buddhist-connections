@@ -4,10 +4,10 @@ sutta_title:
   - "Sampadā "
   - "Accomplishments"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.76]]
 > ◄  [[an8.75-deepseek-pali]] 📜  [[an8.77-deepseek-pali]] ►
 
 # AN 8.76 Dutiyasampadāsuttaṃ
@@ -67,12 +67,11 @@ Faithful, endowed with virtue, generous, rid of the stain of stinginess, he cons
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.76-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 322 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.76]]
 > ◄  [[an8.75-deepseek-pali]] 📜  [[an8.77-deepseek-pali]] ►

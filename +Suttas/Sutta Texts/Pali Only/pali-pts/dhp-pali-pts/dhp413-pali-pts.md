@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP413-PALI"
+sutta_code: "DHP413"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP413-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP413]]
 > ◄  [[dhp412-pali-pts]] 📜  [[dhp414-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ tiṇṇo pāragato jhāyī anejo akathaṃkathī /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp413-) 
 

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA97]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA97]]
 > ◄  [[ma96-bdk]] 📜  [[ma98-bdk]] ►
 
 ### 97. The Great Discourse on Causality 
@@ -112,8 +112,7 @@ the liberation of the cessation of perception and knowing, and seeing with wisdo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma97-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -123,6 +122,5 @@ the liberation of the cessation of perception and knowing, and seeing with wisdo
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA97]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA97]]
 > ◄  [[ma96-bdk]] 📜  [[ma98-bdk]] ►

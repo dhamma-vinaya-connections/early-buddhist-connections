@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.14-PALI"
+sutta_code: "SN3.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paṭhamasaṅgāmasutta "
+  - "Battle (1)"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.14]]
 > ◄  [[sn3.13-pali-sc]] 📜  [[sn3.15-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -38,6 +38,16 @@ hitvā jayaparājayan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP201]] | [[SA-2.63]], [[SA1236]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.63]], [[SA1236]], [[DHP201]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.14]]
+> ◄  [[sn3.13-pali-sc]] 📜  [[sn3.15-pali-sc]] ►

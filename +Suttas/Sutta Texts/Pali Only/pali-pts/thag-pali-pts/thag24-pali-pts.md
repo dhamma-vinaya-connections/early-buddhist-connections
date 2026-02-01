@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG24-PALI"
+sutta_code: "THAG24"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG24]]
 > ◄  [[thag23-pali-pts]] 📜  [[thag25-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Obhāsajātaṃ phalagaṃ cittaṃ yassa abhiṇhaso,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag24-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Jhāna "
   - "Absorption"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.36]]
 > ◄  [[an9.35-deepseek-pali]] 📜  [[an9.37-deepseek-pali]] ►
 
 # AN 9.36 Jhānasuttaṃ
@@ -59,8 +59,7 @@ Thus, bhikkhus, as far as the attainments involving perception extend, so far ex
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Thus, bhikkhus, as far as the attainments involving perception extend, so far ex
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.34]], [[AN9.10.6-10.7.11.10]], [[AN5.27]], [[AN5.28]], [[MN111]], [[SN22.5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.36]]
 > ◄  [[an9.35-deepseek-pali]] 📜  [[an9.37-deepseek-pali]] ►

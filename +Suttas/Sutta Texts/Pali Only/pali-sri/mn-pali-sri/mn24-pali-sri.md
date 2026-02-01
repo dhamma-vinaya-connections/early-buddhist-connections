@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN24-PALI"
+sutta_code: "MN24"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Rathavinīta Sutta "
+  - "Prepared Chariots"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
 > ◄  [[mn23-pali-sri]] 📜  [[mn25-pali-sri]] ►
 
 # 24. Rathavinita Sutta - Pali
@@ -108,6 +108,20 @@ Rathavinītasuttaṃ catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn24-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA39.10]]; [[MA9]] | M i 145 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA39.10]]; [[MA9]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN10.69]], [[SN4.9]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
+> ◄  [[mn23-pali-sri]] 📜  [[mn25-pali-sri]] ►

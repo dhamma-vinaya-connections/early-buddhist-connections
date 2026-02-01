@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.19-PALI"
+sutta_code: "AN2.19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bala-Pandita "
+  - "Fools & Wise"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.19]]
 > ◄  [[an2.18-pali-pts]] 📜  [[an2.20-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,20 @@ Kusalañ ca h'; idam bhikkhave bhāvitaṃ ahitāya dukkhāya saṃvatteyya nāh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.29]], [[SN22.57]] |  | A i 60 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN22.57]], [[AN3.29]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN12]], [[SN6.1]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.19]]
+> ◄  [[an2.18-pali-pts]] 📜  [[an2.20-pali-pts]] ►

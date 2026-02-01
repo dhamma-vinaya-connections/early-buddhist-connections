@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.3-PALI"
+sutta_code: "SNP4.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Duṭṭhaṭṭhakasutta "
+  - "Eight on Malice"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.3]]
 > ◄  [[snp4.2-pali-sc]] 📜  [[snp4.4-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -60,6 +60,7 @@ Duṭṭhaṭṭhakasuttaṁ tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.3]]
+> ◄  [[snp4.2-pali-sc]] 📜  [[snp4.4-pali-sc]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG12]]
 > ◄  [[thig10-thanissaro]] 📜  [[thig13-thanissaro]] ►
 
 ## Thig 12  Puṇṇikā & the Brahman
@@ -161,6 +161,5 @@ washed clean.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig12-) 
 

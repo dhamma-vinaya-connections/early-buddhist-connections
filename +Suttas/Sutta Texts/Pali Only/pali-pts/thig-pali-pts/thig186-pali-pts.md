@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG186-PALI"
+sutta_code: "THIG186"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG186-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG186]]
 > ◄  [[thig185-pali-pts]] 📜  [[thig187-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ tassāhaṃ vacanaṃ sutvā vihariṃ sāsane ratā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig186-) 
 

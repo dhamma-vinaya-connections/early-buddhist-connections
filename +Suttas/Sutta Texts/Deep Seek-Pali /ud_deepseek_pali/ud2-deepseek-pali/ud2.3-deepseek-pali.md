@@ -4,10 +4,10 @@ sutta_title:
   - "Danda Sutta "
   - "The Stick"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
 > ◄  [[ud2.2-deepseek-pali]] 📜  [[ud2.4-deepseek-pali]] ►
 
 # Ud 2.3 Daṇḍasuttaṃ
@@ -37,8 +37,7 @@ While seeking happiness for oneself, after death one obtains happiness.’’ (T
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ While seeking happiness for oneself, after death one obtains happiness.’’ (T
 | [[DHP131]], [[DHP132]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
 > ◄  [[ud2.2-deepseek-pali]] 📜  [[ud2.4-deepseek-pali]] ►

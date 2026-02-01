@@ -4,10 +4,10 @@ sutta_title:
   - "Jaṭāsutta "
   - "Tangle"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.6]]
 > ◄  [[sn7.5-deepseek-pali]] 📜  [[sn7.7-deepseek-pali]] ►
 
 # SN 7.6 Jaṭāsuttaṃ
@@ -43,8 +43,7 @@ When this was said, the brahmin Jaṭābhāradvāja said to the Blessed One: "Ex
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ When this was said, the brahmin Jaṭābhāradvāja said to the Blessed One: "Ex
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG6.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.6]]
 > ◄  [[sn7.5-deepseek-pali]] 📜  [[sn7.7-deepseek-pali]] ►

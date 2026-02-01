@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD1.10-PALI"
+sutta_code: "UD1.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bahiya Sutta "
+  - "Bahiya"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.10]]
 > ◄  [[ud1.8-pali-pts]] 📜  [[ud2.3-pali-pts]] ►
 
 ## Udāna
@@ -40,6 +40,16 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN35.95]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.10]]
+> ◄  [[ud1.8-pali-pts]] 📜  [[ud2.3-pali-pts]] ►

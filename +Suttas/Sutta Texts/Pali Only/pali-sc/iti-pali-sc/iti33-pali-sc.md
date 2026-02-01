@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI33-PALI"
+sutta_code: "ITI33"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sila "
+  - "Ethics"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI33-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI33]]
 > ◄  [[iti32-pali-sc]] 📜  [[iti34-pali-sc]] ►
 
 # Iti 33. Ātāpīsuttaṃ
@@ -29,6 +29,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti33-) 
 

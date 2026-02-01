@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.75-PALI"
+sutta_code: "AN5.75"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Yodhajiva "
+  - "Warriors 1st"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.75-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
 > ◄  [[an5.74-pali-sc]] 📜  [[an5.76-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -69,6 +69,16 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.75-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA33.3]] | A iii 89 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA33.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
+> ◄  [[an5.74-pali-sc]] 📜  [[an5.76-pali-sc]] ►

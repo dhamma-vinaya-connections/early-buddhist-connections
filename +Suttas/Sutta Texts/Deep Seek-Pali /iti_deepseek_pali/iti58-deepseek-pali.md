@@ -4,10 +4,10 @@ sutta_title:
   - "Tanha "
   - "Craving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI58]]
 > ◄  [[iti57-deepseek-pali]] 📜  [[iti59-deepseek-pali]] ►
 
 # Iti 58 Māradheyyasuttaṃ
@@ -35,8 +35,7 @@ Mūladhātu atha vedanā duve, esanā ca duve āsavā duve;Taṇhāto ca atha [t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti58-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Mūladhātu atha vedanā duve, esanā ca duve āsavā duve;Taṇhāto ca atha [t
 | [[AN4.49]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI58]]
 > ◄  [[iti57-deepseek-pali]] 📜  [[iti59-deepseek-pali]] ►

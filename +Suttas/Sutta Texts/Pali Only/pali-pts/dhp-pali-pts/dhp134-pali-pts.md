@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP134-PALI"
+sutta_code: "DHP134"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP134-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP134]]
 > ◄  [[dhp133-pali-pts]] 📜  [[dhp135-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yathā daṇḍena gopālo gāvo pāceti gocaraṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp134-) 
 

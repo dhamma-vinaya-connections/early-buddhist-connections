@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP26-PALI"
+sutta_code: "DHP26"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Brāhmaṇavagga "
+  - "Brahmins"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP26-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP26]]
 > ◄  [[dhp25-pali-pts]] 📜  [[dhp27-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,16 @@ mā pamādam anuyuñjetha mā kāmaratisanthavaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp26-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 108 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN86]], [[SN1.36]], [[THAG16.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP26]]
+> ◄  [[dhp25-pali-pts]] 📜  [[dhp27-pali-pts]] ►

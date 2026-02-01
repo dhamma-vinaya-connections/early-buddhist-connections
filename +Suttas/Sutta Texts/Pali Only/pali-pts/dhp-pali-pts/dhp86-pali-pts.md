@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP86-PALI"
+sutta_code: "DHP86"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP86-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP86]]
 > ◄  [[dhp85-pali-pts]] 📜  [[dhp87-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ kaṇhaṃ dhammaṃ vippahāya sukkaṃ bhāvetha paṇḍito, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp86-) 
 

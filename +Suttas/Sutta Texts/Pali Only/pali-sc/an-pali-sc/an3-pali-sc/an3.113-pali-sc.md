@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.113-PALI"
+sutta_code: "AN3.113"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Āpāyika "
+  - "Bound For Loss"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.113-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.113]]
 > ◄  [[an3.112-pali-sc]] 📜  [[an3.114-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -27,6 +27,11 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.113-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 265 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.113]]
+> ◄  [[an3.112-pali-sc]] 📜  [[an3.114-pali-sc]] ►

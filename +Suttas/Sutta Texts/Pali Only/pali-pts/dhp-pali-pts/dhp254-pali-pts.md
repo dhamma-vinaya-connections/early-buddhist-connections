@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP254-PALI"
+sutta_code: "DHP254"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP254-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP254]]
 > ◄  [[dhp253-pali-pts]] 📜  [[dhp255-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ papañcābhiratā pajā nippapañcā tathāgatā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp254-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.85-PALI"
+sutta_code: "AN8.85"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Samaṇa "
+  - "Terms For The Realized One"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.85-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.85]]
 > ◄  [[an8.84-pali-pts]] 📜  [[an8.86-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -28,6 +28,11 @@ nāgo 'mhi paramaṃ danto asekho parinibbuto ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.85-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 340 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.85]]
+> ◄  [[an8.84-pali-pts]] 📜  [[an8.86-pali-pts]] ►

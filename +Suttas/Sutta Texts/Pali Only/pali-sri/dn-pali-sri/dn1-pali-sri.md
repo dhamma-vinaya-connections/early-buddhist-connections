@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN1-PALI"
+sutta_code: "DN1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Brahmajāla Sutta "
+  - "Prime Net"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
 > ◄  [[]] 📜  [[dn2-pali-sri]] ►
 
 # 02 Brahmajala Sutta - Pali
@@ -210,6 +210,20 @@ Next Sutta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA21]] | D i 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA21]], [[SN41.3]], [[PLI-TV-KD21]], [[AN10.69]], [[DN2]], [[MN76]], [[PLI-TV-BU-VB-PC85]], [[SN56.10]], [[PLI-TV-KD5]], [[DN28]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN102]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
+> ◄  [[]] 📜  [[dn2-pali-sri]] ►

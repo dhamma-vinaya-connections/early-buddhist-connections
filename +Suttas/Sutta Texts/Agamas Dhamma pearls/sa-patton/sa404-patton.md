@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA404]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA404]]
 > ◄  [[sa389-patton]] 📜  [[sa470-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -38,8 +38,7 @@ The monks said to the Buddha, “Bhagavān, the leaves in your hand are few, but
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa404-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -50,6 +49,5 @@ The monks said to the Buddha, “Bhagavān, the leaves in your hand are few, but
 | [[SN56.31]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA404]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA404]]
 > ◄  [[sa389-patton]] 📜  [[sa470-patton]] ►

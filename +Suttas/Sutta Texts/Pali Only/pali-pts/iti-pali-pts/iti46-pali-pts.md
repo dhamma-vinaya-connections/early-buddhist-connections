@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI46-PALI"
+sutta_code: "ITI46"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sikkhānisaṁsa "
+  - "Training benefits"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI46-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI46]]
 > ◄  [[iti45-pali-pts]] 📜  [[iti47-pali-pts]] ►
 
 ## Itivuttaka
@@ -30,6 +30,7 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||9||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti46-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI46]]
+> ◄  [[iti45-pali-pts]] 📜  [[iti47-pali-pts]] ►

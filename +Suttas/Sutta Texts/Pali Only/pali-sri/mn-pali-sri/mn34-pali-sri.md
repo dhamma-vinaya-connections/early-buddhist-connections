@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN34-PALI"
+sutta_code: "MN34"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cūḷagopālaka Sutta "
+  - "Shorter Discourse on the Cowherd"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-pali-sri]] 📜  [[mn35-pali-sri]] ►
 
 # 34. Cula Gopalaka Sutta - Pali
@@ -90,6 +90,16 @@ Cūḷagopālakasuttaṃ catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn34-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA43.6]]; [[SA1248]] | M i 225 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA43.6]]; [[SA1248]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
+> ◄  [[mn33-pali-sri]] 📜  [[mn35-pali-sri]] ►

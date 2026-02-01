@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.9]]
 > ◄  [[sn7.8-bodhi]] 📜  [[sn7.10-bodhi]] ►
 
 # SN7.9 Sundarika
@@ -133,8 +133,7 @@ When this was said, the brahmin Sundarika Bhāradvāja said to the Blessed One: 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -145,6 +144,5 @@ When this was said, the brahmin Sundarika Bhāradvāja said to the Blessed One: 
 | [[SA-2.99]], [[SA1184]], [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.9]]
 > ◄  [[sn7.8-bodhi]] 📜  [[sn7.10-bodhi]] ►

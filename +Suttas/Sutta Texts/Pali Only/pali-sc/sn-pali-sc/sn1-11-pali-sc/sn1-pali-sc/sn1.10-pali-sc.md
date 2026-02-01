@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.10-PALI"
+sutta_code: "SN1.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Araññasutta "
+  - "Forest"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
 > ◄  [[sn1.9-pali-sc]] 📜  [[sn1.11-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -48,6 +48,16 @@ Vaggo tena pavuccati.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.132]], [[SA995]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.132]], [[SA995]], [[JA538]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
+> ◄  [[sn1.9-pali-sc]] 📜  [[sn1.11-pali-sc]] ►

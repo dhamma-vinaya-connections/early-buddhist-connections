@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN27-PALI"
+sutta_code: "DN27"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Aggañña Sutta "
+  - "Origin of the World"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
 > ◄  [[dn26-pali-pts]] 📜  [[dn28-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -122,6 +122,20 @@ Aggañña-Suttantaṃ Niṭṭhitaṃ Catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn27-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA5]], [[MA154]] | D iii 80 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA5]], [[MA154]], [[AN11.10]], [[DN3]], [[MN53]], [[SN21.11]], [[SN6.11]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN26]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
+> ◄  [[dn26-pali-pts]] 📜  [[dn28-pali-pts]] ►

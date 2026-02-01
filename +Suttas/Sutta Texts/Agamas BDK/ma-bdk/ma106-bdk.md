@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA106]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA106]]
 > ◄  [[ma105-bdk]] 📜  [[ma107-bdk]] ►
 
 ### 106. The Discourse on Perception
@@ -25,8 +25,7 @@ Thus have I heard. At one time the Buddha was staying at Sāvatthī, in Jeta’s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma106-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ Thus have I heard. At one time the Buddha was staying at Sāvatthī, in Jeta’s
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.58]], [[AN4.174]], [[SN35.30]], [[SN35:248]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA106]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA106]]
 > ◄  [[ma105-bdk]] 📜  [[ma107-bdk]] ►

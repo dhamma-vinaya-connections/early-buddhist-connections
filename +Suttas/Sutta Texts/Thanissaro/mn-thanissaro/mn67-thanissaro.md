@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
 > ◄  [[mn66-thanissaro]] 📜  [[mn69-thanissaro]] ►
 
 ## MN67 Near Cātumā
@@ -92,8 +92,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn67-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -104,6 +103,5 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 | [[SN22.80]]; [[EA45.2]]; [[AN4.122]]; [[UD3.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
 > ◄  [[mn66-thanissaro]] 📜  [[mn69-thanissaro]] ►

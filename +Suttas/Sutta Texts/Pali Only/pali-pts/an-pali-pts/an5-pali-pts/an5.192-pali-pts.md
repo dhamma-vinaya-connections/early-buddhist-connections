@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.192-PALI"
+sutta_code: "AN5.192"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Doṇabrāhmaṇa "
+  - "With The Brahmin Doṇa"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.192-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
 > ◄  [[an5.191-pali-pts]] 📜  [[an5.193-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Atha kho Doṇo brāhmaṇo yena Bhagavā ten'; upasaṅkami, upasaṅkamitvā B
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.192-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA158]] | A iii 223 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA158]], [[DN13]], [[DN3]], [[MN95]], [[PLI-TV-KD6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
+> ◄  [[an5.191-pali-pts]] 📜  [[an5.193-pali-pts]] ►

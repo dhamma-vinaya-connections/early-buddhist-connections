@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.24-PALI"
+sutta_code: "AN7.24"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṭhamaparihāni "
+  - "Non-Decline For A Mendicant Trainee"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.24]]
 > ◄  [[an7.23-pali-pts]] 📜  [[an7.25-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Satta vo bhikkhave aparihāniye dhamme desessāmi . . . pe . . .
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.24-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 22 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN16]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.24]]
+> ◄  [[an7.23-pali-pts]] 📜  [[an7.25-pali-pts]] ►

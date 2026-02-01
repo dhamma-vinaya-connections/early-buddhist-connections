@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI72-PALI"
+sutta_code: "ITI72"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nissaraṇiya "
+  - "Escape Elements"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI72-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI72]]
 > ◄  [[iti71-pali-sc]] 📜  [[iti73-pali-sc]] ►
 
 # Iti 72. Santatarasuttaṃ
@@ -29,6 +29,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti72-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI72]]
+> ◄  [[iti71-pali-sc]] 📜  [[iti73-pali-sc]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.19]]
 > ◄  [[sn3.18-bodhi]] 📜  [[sn3.20-bodhi]] ►
 
 # SN3.19 Childless (1)
@@ -48,8 +48,7 @@ At Sāvatthī. Then King Pasenadi of Kosala approached the Blessed One, paid h
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -64,6 +63,5 @@ At Sāvatthī. Then King Pasenadi of Kosala approached the Blessed One, paid h
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.20]], [[AN5.41]], [[AN5.148.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.19]]
 > ◄  [[sn3.18-bodhi]] 📜  [[sn3.20-bodhi]] ►

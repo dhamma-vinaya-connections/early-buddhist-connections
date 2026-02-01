@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI36-PALI"
+sutta_code: "ITI36"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Jananakuhana "
+  - "Deceit and flattery"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI36-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI36]]
 > ◄  [[iti35-pali-pts]] 📜  [[iti37-pali-pts]] ►
 
 ## Itivuttaka
@@ -29,6 +29,16 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||9||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti36-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.25]], [[ITI35]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI36]]
+> ◄  [[iti35-pali-pts]] 📜  [[iti37-pali-pts]] ►

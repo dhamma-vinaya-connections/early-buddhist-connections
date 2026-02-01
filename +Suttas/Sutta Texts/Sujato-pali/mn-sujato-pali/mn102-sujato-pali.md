@@ -3,11 +3,11 @@ sutta_code: "MN102"
 sutta_title:
   - "Pañcattaya Sutta "
   - "Five and Three"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102]]
 > ◄  [[mn101-sujato-pali]] 📜  [[mn103-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -319,8 +319,7 @@ Pañcattayasuttaṁ niṭṭhitaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn102-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -330,6 +329,5 @@ Pañcattayasuttaṁ niṭṭhitaṁ dutiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102]]
 > ◄  [[mn101-sujato-pali]] 📜  [[mn103-sujato-pali]] ►

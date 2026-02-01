@@ -4,10 +4,10 @@ sutta_title:
   - "Parisā "
   - "Assemblies"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.95]]
 > ◄  [[an3.94-deepseek-pali]] 📜  [[an3.96-deepseek-pali]] ►
 
 # AN 3.95 Parisāsuttaṃ
@@ -47,8 +47,7 @@ In the same way, monks, when the monks dwell in harmony, rejoicing together, wit
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.95-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ In the same way, monks, when the monks dwell in harmony, rejoicing together, wit
 | [[AN10.61]], [[AN10.62]], [[AN4.147]], [[SN55.38]], [[SN12.23]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.95]]
 > ◄  [[an3.94-deepseek-pali]] 📜  [[an3.96-deepseek-pali]] ►

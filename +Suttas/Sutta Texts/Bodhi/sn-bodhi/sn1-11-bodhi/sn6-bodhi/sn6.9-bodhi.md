@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
 > ◄  [[sn6.8-bodhi]] 📜  [[sn6.10-bodhi]] ►
 
 # SN6.9 Brahmā Tudu
@@ -70,8 +70,7 @@ At Sāvatthī. Now on that occasion the bhikkhu Kokālika was sick , afflicted ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -82,6 +81,5 @@ At Sāvatthī. Now on that occasion the bhikkhu Kokālika was sick , afflicted ,
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
 > ◄  [[sn6.8-bodhi]] 📜  [[sn6.10-bodhi]] ►

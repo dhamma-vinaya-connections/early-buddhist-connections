@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - ""
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: ""
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.14]]  🌐 [[SNP5.16]] ►
 
@@ -61,8 +57,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,8 +72,7 @@ parallels_partilal:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN15]], [[MN22]], [[MN26]], [[MN49]], [[MN121]], [[SN22.1]], [[SN4.19]], [[SN5.10]], [[SN12.15]], [[SN35.23]], [[SN35.82]], [[SN35.85]], [[AN9.39]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP5.15%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP5.15%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -89,7 +83,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP5.15%5D%5D%22%23mynotes%20-file%3Asnp5.15-%20-file%3A%22SNP5.14%22%20-file%3A%22SNP5.16%22%20-file%3A%22SNP5.15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp5.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.15

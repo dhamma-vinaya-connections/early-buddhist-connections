@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA200]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA200]]
 > ◄  [[ma199-bdk]] 📜  [[ma201-bdk]] ►
 
 ### 200. The Discourse on [the Monk] Ariṭṭha
@@ -53,8 +53,7 @@ My teaching is well spoken, revealed and disseminated without defi- ciency, tran
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma200-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ My teaching is well spoken, revealed and disseminated without defi- ciency, tran
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN63]], [[SN22.23]], [[SN56.31]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA200]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA200]]
 > ◄  [[ma199-bdk]] 📜  [[ma201-bdk]] ►

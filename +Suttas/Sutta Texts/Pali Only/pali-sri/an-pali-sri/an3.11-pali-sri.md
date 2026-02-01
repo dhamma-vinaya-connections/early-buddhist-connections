@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.11-PALI"
+sutta_code: "AN3.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Ñāta "
+  - "Well Known"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.11]]
 > ◄  [[an3.10-pali-sri]] 📜  [[an3.12-pali-sri]] ►
 
 # 5:11 Phasuviharavaggo - Pali
@@ -302,6 +302,11 @@ Sārajjaṃ saṅkito coro sukhumālaṃ phāsu pañcamaṃ1
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 106 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.11]]
+> ◄  [[an3.10-pali-sri]] 📜  [[an3.12-pali-sri]] ►

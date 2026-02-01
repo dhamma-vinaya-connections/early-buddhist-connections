@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - ""
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: ""
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.1]]  🌐 [[UD4.3]] ►
 
@@ -65,8 +61,7 @@ a mendicant who has overcome dullness and drowsiness
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,8 +76,7 @@ a mendicant who has overcome dullness and drowsiness
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN45.2]], [[AN8.2]], [[AN9:1]], [[MN69]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD4.2%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD4.2%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -93,7 +87,7 @@ a mendicant who has overcome dullness and drowsiness
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD4.2%5D%5D%22%23mynotes%20-file%3Aud4.2-%20-file%3A%22UD4.1%22%20-file%3A%22UD4.3%22%20-file%3A%22UD4.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud4.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.2

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG34-PALI"
+sutta_code: "THIG34"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG34-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG34]]
 > ◄  [[thig33-pali-pts]] 📜  [[thig35-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ Abhaye bhiduro kāyo yattha sattā puthujjanā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig34-) 
 

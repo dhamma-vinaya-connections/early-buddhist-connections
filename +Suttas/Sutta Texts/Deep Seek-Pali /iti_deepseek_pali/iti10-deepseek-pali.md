@@ -4,10 +4,10 @@ sutta_title:
   - " "
   - ""
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI10]]
 > ◄  [[iti9-deepseek-pali]] 📜  [[iti11-deepseek-pali]] ►
 
 # Iti 10 Dosapariññāsuttaṃ
@@ -38,6 +38,5 @@ From conceit, greed and hatred, two again, were declared. They call this the fir
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti10-) 
 

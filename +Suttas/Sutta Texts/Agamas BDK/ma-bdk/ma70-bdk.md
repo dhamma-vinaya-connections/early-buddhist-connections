@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA70]]
 > ◄  [[ma69-bdk]] 📜  [[ma71-bdk]] ►
 
 ### 70. The Discourse on the Wheel-turning Monarch
@@ -115,8 +115,7 @@ and awakening, and dwells having personally realized. He understands as it reall
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma70-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -131,6 +130,5 @@ and awakening, and dwells having personally realized. He understands as it reall
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA60]], [[MA67]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA70]]
 > ◄  [[ma69-bdk]] 📜  [[ma71-bdk]] ►

@@ -3,11 +3,11 @@ sutta_code: "AN4.78"
 sutta_title:
   - "Dakkhiṇa "
   - "Religious Donation"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.78]]
 > ◄  [[an4.77-sujato-pali]] 📜  [[an4.79-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -55,8 +55,7 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.78-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Aṭṭhamaṁ.
 | [[MN142]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.78]]
 > ◄  [[an4.77-sujato-pali]] 📜  [[an4.79-sujato-pali]] ►

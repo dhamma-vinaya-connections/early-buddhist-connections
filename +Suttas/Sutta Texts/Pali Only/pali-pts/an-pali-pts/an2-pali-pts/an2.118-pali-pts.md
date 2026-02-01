@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.118-PALI"
+sutta_code: "AN2.118"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bāla "
+  - "Fools"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.118-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.118]]
 > ◄  [[an2.99-pali-pts]] 📜  [[an2.119-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,15 @@ Imesaṃ kho bhikkhave dvinnaṃ āsavā na vaḍḍhantī ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.118-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 86 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN2.21]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.118]]
+> ◄  [[an2.99-pali-pts]] 📜  [[an2.119-pali-pts]] ►

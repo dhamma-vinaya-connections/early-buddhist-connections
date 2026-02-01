@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamaagati "
   - "Prejudice"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.19]]
 > ◄  [[an4.18-deepseek-pali]] 📜  [[an4.20-deepseek-pali]] ►
 
 # AN 4.19 Tatiyaagatisuttaṃ
@@ -35,8 +35,7 @@ Whoever does not transgress the Dhamma through desire, hatred, fear, or delusion
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Whoever does not transgress the Dhamma through desire, hatred, fear, or delusion
 | [[DN31]], [[AN4.17-18]], [[JA443]], [[PE3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.19]]
 > ◄  [[an4.18-deepseek-pali]] 📜  [[an4.20-deepseek-pali]] ►

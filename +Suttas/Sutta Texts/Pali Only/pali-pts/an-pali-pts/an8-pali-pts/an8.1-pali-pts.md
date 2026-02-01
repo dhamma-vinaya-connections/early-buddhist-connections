@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.1-PALI"
+sutta_code: "AN8.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mettā "
+  - "Benefits Of Love"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.1]]
 > ◄  [[]] 📜  [[an8.2-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN11.15]] | [[EA49.10]] | A iv 150 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN11.15]], [[EA49.10]], [[PLI-TV-PVR7]], [[ITI27]], [[JA451]], [[PE3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.1]]
+> ◄  [[]] 📜  [[an8.2-pali-pts]] ►

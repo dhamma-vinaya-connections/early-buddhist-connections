@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP12-PALI"
+sutta_code: "DHP12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Attavagga "
+  - "Self"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP12]]
 > ◄  [[dhp11-pali-sc]] 📜  [[dhp13-pali-sc]] ►
 
 # ATTA VAGGA
@@ -57,6 +57,11 @@ Attadatthaṃ paratthena, bahunāpi na hāpaye; attadatthamabhiññāya, sadatth
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 45 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP12]]
+> ◄  [[dhp11-pali-sc]] 📜  [[dhp13-pali-sc]] ►

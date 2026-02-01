@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG192-PALI"
+sutta_code: "THAG192"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG192-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG192]]
 > ◄  [[thag191-pali-pts]] 📜  [[thag193-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Na tāva supituṃ hoti ratti nakkhattamālinī,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag192-) 
 

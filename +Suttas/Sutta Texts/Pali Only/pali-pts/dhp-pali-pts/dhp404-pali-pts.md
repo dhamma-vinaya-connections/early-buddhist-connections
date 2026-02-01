@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP404-PALI"
+sutta_code: "DHP404"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP404-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP404]]
 > ◄  [[dhp403-pali-pts]] 📜  [[dhp405-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ nidhāya daṇḍaṃ bhūtesu tasesu thāvaresu ca /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp404-) 
 

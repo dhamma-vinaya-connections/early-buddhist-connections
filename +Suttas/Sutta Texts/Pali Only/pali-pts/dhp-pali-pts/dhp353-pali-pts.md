@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP353-PALI"
+sutta_code: "DHP353"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP353-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP353]]
 > ◄  [[dhp352-pali-pts]] 📜  [[dhp354-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ sabbadānaṃ dhammadānaṃ jināti, sabbaṃ rasaṃ dhammaraso jināti, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp353-) 
 

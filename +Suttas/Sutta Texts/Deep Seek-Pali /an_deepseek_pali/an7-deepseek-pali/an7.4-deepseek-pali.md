@@ -4,10 +4,10 @@ sutta_title:
   - "Vitthatabala "
   - "Powers In Detail"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.4]]
 > ◄  [[an7.3-deepseek-pali]] 📜  [[an7.5-deepseek-pali]] ►
 
 # AN 7.4 Vitthatabalasuttaṃ
@@ -61,8 +61,7 @@ Wisely examining the Dhamma, one sees the meaning with wisdom; Like the extingui
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -73,6 +72,5 @@ Wisely examining the Dhamma, one sees the meaning with wisdom; Like the extingui
 | [[SA691]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.4]]
 > ◄  [[an7.3-deepseek-pali]] 📜  [[an7.5-deepseek-pali]] ►

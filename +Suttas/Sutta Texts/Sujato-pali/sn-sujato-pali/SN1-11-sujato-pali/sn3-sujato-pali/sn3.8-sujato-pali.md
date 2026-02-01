@@ -3,11 +3,11 @@ sutta_code: "SN3.8"
 sutta_title:
   - "Mallikāsutta "
   - "Mallika"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
 > ◄  [[sn3.7-sujato-pali]] 📜  [[sn3.9-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -69,8 +69,7 @@ Tasmā na hiṁse paramattakāmo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,6 +80,5 @@ Tasmā na hiṁse paramattakāmo"ti.
 | [[UD5.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
 > ◄  [[sn3.7-sujato-pali]] 📜  [[sn3.9-sujato-pali]] ►

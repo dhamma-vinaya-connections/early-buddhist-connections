@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.166-PALI"
+sutta_code: "AN5.166"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nirodha "
+  - "Cessation"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.166-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.166]]
 > ◄  [[an5.165-pali-sc]] 📜  [[an5.167-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -95,6 +95,16 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.166-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA22]] | A iii 192 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA22]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.166]]
+> ◄  [[an5.165-pali-sc]] 📜  [[an5.167-pali-sc]] ►

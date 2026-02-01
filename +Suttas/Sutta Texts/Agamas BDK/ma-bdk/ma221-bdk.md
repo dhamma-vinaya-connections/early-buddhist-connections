@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA221]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA221]]
 > ◄  [[ma220-bdk]] 📜  [[ma222-bdk]] ►
 
 ### 221. The Discourse with the Simile of the Arrow
@@ -35,8 +35,7 @@ Not to train in the holy life under me because of holding the view “the world 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma221-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Not to train in the holy life under me because of holding the view “the world 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.24]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA221]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA221]]
 > ◄  [[ma220-bdk]] 📜  [[ma222-bdk]] ►

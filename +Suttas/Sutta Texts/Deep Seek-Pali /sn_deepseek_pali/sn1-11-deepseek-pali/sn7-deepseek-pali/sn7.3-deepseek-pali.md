@@ -4,10 +4,10 @@ sutta_title:
   - "Asurindakasutta "
   - "Asurindaka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
 > ◄  [[sn7.2-deepseek-pali]] 📜  [[sn7.4-deepseek-pali]] ►
 
 # SN 7.3 Asurindakasuttaṃ
@@ -43,8 +43,7 @@ When this was said, the brahmin Asurindaka Bhāradvāja said to the Blessed One:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ When this was said, the brahmin Asurindaka Bhāradvāja said to the Blessed One:
 | [[SA-2.74]], [[SA-3.25]], [[SA1151]], [[SN7.2]], [[SN11.4]], [[SN11.5]], [[THAG6.12]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
 > ◄  [[sn7.2-deepseek-pali]] 📜  [[sn7.4-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "MN44"
 sutta_title:
   - "Cūḷavedalla Sutta "
   - "Classification Shorter"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
 > ◄  [[mn43-sujato-pali]] 📜  [[mn45-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -393,8 +393,7 @@ Cūḷavedallasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn44-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -409,6 +408,5 @@ Cūḷavedallasuttaṁ niṭṭhitaṁ catutthaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
 > ◄  [[mn43-sujato-pali]] 📜  [[mn45-sujato-pali]] ►

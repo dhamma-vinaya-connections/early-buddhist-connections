@@ -4,10 +4,10 @@ sutta_title:
   - "Ājānīya "
   - "Thoroughbred"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.80]]
 > ◄  [[an3.79-deepseek-pali]] 📜  [[an3.81-deepseek-pali]] ►
 
 # AN 3.80 Cūḷanikāsuttaṃ
@@ -71,8 +71,7 @@ Channa the Ajivaka, Sakka, Nigantha, and Nivesaka; two on becoming, on moral pra
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.80-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ Channa the Ajivaka, Sakka, Nigantha, and Nivesaka; two on becoming, on moral pra
 | [[SA423-425]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.80]]
 > ◄  [[an3.79-deepseek-pali]] 📜  [[an3.81-deepseek-pali]] ►

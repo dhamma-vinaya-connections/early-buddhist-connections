@@ -3,11 +3,11 @@ sutta_code: "SN1.64"
 sutta_title:
   - "Saṁyojanasutta "
   - "Fetter"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.64]]
 > ◄  [[sn1.63-sujato-pali]] 📜  [[sn1.65-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -45,8 +45,7 @@ nibbānaṁ iti vuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.64-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ nibbānaṁ iti vuccatī"ti.
 | [[SA-2.237]], [[SA1010]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.64]]
 > ◄  [[sn1.63-sujato-pali]] 📜  [[sn1.65-sujato-pali]] ►

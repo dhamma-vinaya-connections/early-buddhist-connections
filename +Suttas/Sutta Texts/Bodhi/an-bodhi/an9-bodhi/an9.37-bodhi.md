@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
 > ◄  [[an9.36-bodhi]] 📜  [[an9.38-bodhi]] ►
 
 # AN9.37
@@ -41,8 +41,7 @@ When this was said, the Venerable Udāyī said this to the Venerable Ānanda: �
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.37-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ When this was said, the Venerable Udāyī said this to the Venerable Ānanda: �
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.34]], [[AN9.36]], [[AN11.1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
 > ◄  [[an9.36-bodhi]] 📜  [[an9.38-bodhi]] ►

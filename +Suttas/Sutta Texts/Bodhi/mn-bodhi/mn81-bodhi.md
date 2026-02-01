@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-bodhi]] 📜  [[mn82-bodhi]] ►
 
 # MN81 Ghaṭīkāra Sutta - Ghaṭīkāra the Potter
@@ -101,8 +101,7 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn81-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -113,6 +112,5 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 | [[MA63]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-bodhi]] 📜  [[mn82-bodhi]] ►

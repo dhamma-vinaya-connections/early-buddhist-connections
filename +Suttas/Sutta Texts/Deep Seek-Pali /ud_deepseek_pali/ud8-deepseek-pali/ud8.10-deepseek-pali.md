@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyadabba Sutta "
   - "Dabba Mallaputta (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.10]]
 > ◄  [[ud8.9-deepseek-pali]] 📜  [[]] ►
 
 # Ud 8.10 Dutiyadabbasuttaṃ
@@ -71,9 +71,7 @@ The Udāna is completed.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.10-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.10]]
 > ◄  [[ud8.9-deepseek-pali]] 📜  [[]] ►

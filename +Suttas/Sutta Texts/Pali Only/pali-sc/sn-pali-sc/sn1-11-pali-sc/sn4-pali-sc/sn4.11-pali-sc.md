@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.11-PALI"
+sutta_code: "SN4.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pāsāṇasutta "
+  - "Boulder"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
 > ◄  [[sn4.10-pali-sc]] 📜  [[sn4.12-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -32,6 +32,16 @@ buddhānaṁ atthi iñjitan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.27]], [[SA1088]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.27]], [[SA1088]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
+> ◄  [[sn4.10-pali-sc]] 📜  [[sn4.12-pali-sc]] ►

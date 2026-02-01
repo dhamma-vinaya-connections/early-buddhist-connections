@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāvaccha Sutta "
   - "Longer Discourse With Vacchagotta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
 > ◄  [[mn72-deepseek-pali]] 📜  [[mn74-deepseek-pali]] ►
 
 # 73. Mahāvacchasuttaṃ
@@ -131,8 +131,7 @@ The Great Vacchagotta Sutta: The Third.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn73-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -143,6 +142,5 @@ The Great Vacchagotta Sutta: The Third.
 | [[SA-2.198]]; [[SA964]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
 > ◄  [[mn72-deepseek-pali]] 📜  [[mn74-deepseek-pali]] ►

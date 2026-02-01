@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD5.6-PALI"
+sutta_code: "UD5.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sona Sutta "
+  - "Soṇa"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.6]]
 > ◄  [[ud5.5-pali-pts]] 📜  [[ud5.7-pali-pts]] ►
 
 ## Udāna
@@ -28,6 +28,20 @@ ariyo na ramati pāpe, pāpe na ramati sucī 'ti. ||6||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD5]], [[SNP4.1-16]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SNP4.1]], [[SNP4.2]], [[SNP4.3]], [[SNP4.4]], [[SNP4.5]], [[SNP4.6]], [[SNP4.7]], [[SNP4.8]], [[SNP4.9]], [[SNP4.10]], [[SNP4.11]], [[SNP4.12]], [[SNP4.13]], [[SNP4.14]], [[SNP4.15]], [[SNP4.16]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.6]]
+> ◄  [[ud5.5-pali-pts]] 📜  [[ud5.7-pali-pts]] ►

@@ -3,11 +3,11 @@ sutta_code: "SN3.21"
 sutta_title:
   - "Puggalasutta "
   - "Persons"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
 > ◄  [[sn3.20-sujato-pali]] 📜  [[sn3.22-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -235,8 +235,7 @@ jotijotiparāyano"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -247,6 +246,5 @@ jotijotiparāyano"ti.
 | [[SA-2.69]], [[SA1146]], [[AN4.85]], [[PE8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
 > ◄  [[sn3.20-sujato-pali]] 📜  [[sn3.22-sujato-pali]] ►

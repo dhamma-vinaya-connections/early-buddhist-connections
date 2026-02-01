@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG495-PALI"
+sutta_code: "THAG495"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG495-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG495]]
 > ◄  [[thag494-pali-pts]] 📜  [[thag496-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ na parass'; upanidhāya kammaṃ maccassa pāpakaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag495-) 
 

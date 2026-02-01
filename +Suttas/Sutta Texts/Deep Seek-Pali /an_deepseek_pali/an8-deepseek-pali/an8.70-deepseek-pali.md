@@ -4,10 +4,10 @@ sutta_title:
   - "Bhūmicāla "
   - "Earthquakes"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.70]]
 > ◄  [[an8.69-deepseek-pali]] 📜  [[an8.71-deepseek-pali]] ►
 
 # AN 8.70 Bhūmicālasuttaṃ
@@ -115,8 +115,7 @@ Desire, enough, and the concise; Gayā, along with the victor; Liberation, two e
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.70-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -131,6 +130,5 @@ Desire, enough, and the concise; Gayā, along with the victor; Liberation, two e
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.70]]
 > ◄  [[an8.69-deepseek-pali]] 📜  [[an8.71-deepseek-pali]] ►

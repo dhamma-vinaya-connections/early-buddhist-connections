@@ -3,11 +3,11 @@ sutta_code: "AN6.106"
 sutta_title:
   - "Bhava "
   - "States Of Existence"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.106]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.106]]
 > ◄  [[an6.105-sujato-pali]] 📜  [[an6.107-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -47,8 +47,7 @@ Dutiyo paṇṇāsako samatto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.106-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -58,6 +57,5 @@ Dutiyo paṇṇāsako samatto.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.89]], [[AN6.90]], [[AN6.91]], [[AN6.92]], [[AN6.93]], [[AN6.94]], [[AN6.95]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.106]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.106]]
 > ◄  [[an6.105-sujato-pali]] 📜  [[an6.107-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI106-PALI"
+sutta_code: "ITI106"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sabrahmaka "
+  - "With Brahma"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI106-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI106]]
 > ◄  [[iti105-pali-sc]] 📜  [[iti107-pali-sc]] ►
 
 # Iti 106. Kuhasuttaṃ
@@ -27,6 +27,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti106-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN3.31]], [[AN4.63]], [[JA532]], [[SN7.19]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN2:31-32]], [[AN4.63]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI106]]
+> ◄  [[iti105-pali-sc]] 📜  [[iti107-pali-sc]] ►

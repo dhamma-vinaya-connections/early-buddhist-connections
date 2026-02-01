@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.195-PALI"
+sutta_code: "AN5.195"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sārandada "
+  - "At Sārandada"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.195-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.195]]
 > ◄  [[an5.194-pali-sc]] 📜  [[an5.196-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -40,6 +40,16 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.195-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 239 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.143]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.195]]
+> ◄  [[an5.194-pali-sc]] 📜  [[an5.196-pali-sc]] ►

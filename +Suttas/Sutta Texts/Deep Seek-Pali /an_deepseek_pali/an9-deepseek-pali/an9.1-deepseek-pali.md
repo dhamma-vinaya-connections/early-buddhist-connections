@@ -4,10 +4,10 @@ sutta_title:
   - "Sambodhi "
   - "Awakening"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.1]]
 > ◄  [[]] 📜  [[an9.2-deepseek-pali]] ►
 
 # AN 9.1 Sambodhisuttaṃ
@@ -75,8 +75,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ language: "Pali"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.1]]
 > ◄  [[]] 📜  [[an9.2-deepseek-pali]] ►

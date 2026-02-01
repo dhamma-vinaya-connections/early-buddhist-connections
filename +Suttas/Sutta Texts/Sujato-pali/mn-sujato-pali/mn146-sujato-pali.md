@@ -3,11 +3,11 @@ sutta_code: "MN146"
 sutta_title:
   - "Nandakovāda Sutta "
   - "Advice from Nandaka"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
 > ◄  [[mn145-sujato-pali]] 📜  [[mn147-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -383,8 +383,7 @@ Nandakovādasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn146-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -399,6 +398,5 @@ Nandakovādasuttaṁ niṭṭhitaṁ catutthaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.101]]; [[AN4.94]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
 > ◄  [[mn145-sujato-pali]] 📜  [[mn147-sujato-pali]] ►

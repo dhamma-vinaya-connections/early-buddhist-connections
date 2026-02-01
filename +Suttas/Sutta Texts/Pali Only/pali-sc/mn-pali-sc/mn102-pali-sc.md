@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN102-PALI"
+sutta_code: "MN102"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pañcattaya Sutta "
+  - "Five and Three"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102]]
 > ◄  [[mn101-pali-sc]] 📜  [[mn103-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -176,6 +176,15 @@ Tayidaṁ, bhikkhave, tathāgato abhijānāti. Ayaṁ kho bhavaṁ samaṇo vā 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn102-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M ii 228 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN1]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102]]
+> ◄  [[mn101-pali-sc]] 📜  [[mn103-pali-sc]] ►

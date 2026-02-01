@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP325-PALI"
+sutta_code: "DHP325"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP325-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP325]]
 > ◄  [[dhp324-pali-pts]] 📜  [[dhp326-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ idaṃ pure cittam acāri cārikaṃ yenicchakaṃ yatthakāmaṃ yathāsukhaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp325-) 
 

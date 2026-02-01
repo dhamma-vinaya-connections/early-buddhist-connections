@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN130]]
 > ◄  [[mn129-bodhi]] 📜  [[mn131-bodhi]] ►
 
 # MN130 Devadūta Sutta - The Divine Messengers
@@ -117,8 +117,7 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn130-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -133,6 +132,5 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA199]], [[MN129]], [[AN3.38]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN130]]
 > ◄  [[mn129-bodhi]] 📜  [[mn131-bodhi]] ►

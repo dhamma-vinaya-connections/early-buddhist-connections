@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.47-PALI"
+sutta_code: "AN2.47"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Parisa "
+  - "Assemblies"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.47-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.47]]
 > ◄  [[an2.46-pali-pts]] 📜  [[an2.48-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -28,6 +28,11 @@ Ayaṃ vuccati bhikkhave paṭipucchāvinītā parisā no ukkācita-vinītā. Im
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.47-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 72 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.47]]
+> ◄  [[an2.46-pali-pts]] 📜  [[an2.48-pali-pts]] ►

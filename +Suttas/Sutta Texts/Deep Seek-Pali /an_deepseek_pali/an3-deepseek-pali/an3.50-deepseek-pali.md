@@ -4,10 +4,10 @@ sutta_title:
   - "Mahācora "
   - "Thief Master"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.50]]
 > ◄  [[an3.49-deepseek-pali]] 📜  [[an3.51-deepseek-pali]] ►
 
 # AN 3.50 Ātappakaraṇīyasuttaṃ
@@ -27,8 +27,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.50-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ language: "Pali"
 | [[AN5.103]], [[PLI-TV-BU-VB-PJ4]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.50]]
 > ◄  [[an3.49-deepseek-pali]] 📜  [[an3.51-deepseek-pali]] ►

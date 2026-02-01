@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD3.2-PALI"
+sutta_code: "UD3.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nanda Sutta "
+  - "Nanda"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
 > ◄  [[ud2.10-pali-pts]] 📜  [[ud3.3-pali-pts]] ►
 
 ## Udāna
@@ -29,6 +29,7 @@ handa mayaṃ āvuso tathā vihāraṃ kappema, yathā no viharataṃ bhagavā a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
+> ◄  [[ud2.10-pali-pts]] 📜  [[ud3.3-pali-pts]] ►

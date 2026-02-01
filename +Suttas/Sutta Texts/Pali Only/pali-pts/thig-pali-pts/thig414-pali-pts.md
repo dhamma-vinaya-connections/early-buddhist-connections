@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG414-PALI"
+sutta_code: "THIG414"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG414-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG414]]
 > ◄  [[thig413-pali-pts]] 📜  [[thig415-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ mā evaṃ putta avaca Isidāsī paṇḍitā paribyattā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig414-) 
 

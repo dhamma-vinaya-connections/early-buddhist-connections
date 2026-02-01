@@ -4,10 +4,10 @@ sutta_title:
   - "說智 "
   - "Declaring the Knowledge [of Awakening]"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI93]]
 > ◄  [[iti92-deepseek-pali]] 📜  [[iti94-deepseek-pali]] ►
 
 # Iti 93 Upaparikkhasuttaṃ
@@ -27,9 +27,7 @@ This meaning too was spoken by the Blessed One, so I have heard. The fifth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti93-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI93]]
 > ◄  [[iti92-deepseek-pali]] 📜  [[iti94-deepseek-pali]] ►

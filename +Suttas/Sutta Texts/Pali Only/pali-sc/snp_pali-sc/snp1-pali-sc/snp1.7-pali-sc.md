@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.7-PALI"
+sutta_code: "SNP1.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vasala "
+  - "Lowlife"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.7]]
 > ◄  [[snp1.6-pali-sc]] 📜  [[snp1.8-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -172,6 +172,20 @@ Vasalasuttaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.268]], [[SA102]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.268]], [[SA102]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5.175]], [[AN10.165]], [[DHP129]], [[DHP130]], [[DHP131]], [[DHP132]], [[DHP133]], [[DHP134]], [[DHP135]], [[DHP136]], [[DHP137]], [[DHP138]], [[DHP139]], [[DHP140]], [[DHP306]], [[DHP307]], [[DHP308]], [[DHP309]], [[DHP310]], [[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP315]], [[DHP316]], [[DHP317]], [[DHP318]], [[DHP319]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.7]]
+> ◄  [[snp1.6-pali-sc]] 📜  [[snp1.8-pali-sc]] ►

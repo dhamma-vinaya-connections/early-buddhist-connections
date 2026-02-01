@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1037-PALI"
+sutta_code: "THAG1037"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1037-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1037]]
 > ◄  [[thag1036-pali-pts]] 📜  [[thag1038-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ dassanāya atikkante nānāverajjake puthū
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1037-) 
 

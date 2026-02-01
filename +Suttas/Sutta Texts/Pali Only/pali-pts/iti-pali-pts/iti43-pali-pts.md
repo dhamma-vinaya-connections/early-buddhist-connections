@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI43-PALI"
+sutta_code: "ITI43"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ajāta "
+  - "Unborn"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI43-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI43]]
 > ◄  [[iti42-pali-pts]] 📜  [[iti44-pali-pts]] ►
 
 ## Itivuttaka
@@ -35,6 +35,7 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||6||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti43-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI43]]
+> ◄  [[iti42-pali-pts]] 📜  [[iti44-pali-pts]] ►

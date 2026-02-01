@@ -3,11 +3,11 @@ sutta_code: "SN1.62"
 sutta_title:
   - "Cittasutta "
   - "Mind"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.62]]
 > ◄  [[sn1.61-sujato-pali]] 📜  [[sn1.63-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -45,8 +45,7 @@ sabbeva vasamanvagū"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.62-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ sabbeva vasamanvagū"ti.
 | [[SA-2.236]], [[SA1009]], [[AN4.186]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.62]]
 > ◄  [[sn1.61-sujato-pali]] 📜  [[sn1.63-sujato-pali]] ►

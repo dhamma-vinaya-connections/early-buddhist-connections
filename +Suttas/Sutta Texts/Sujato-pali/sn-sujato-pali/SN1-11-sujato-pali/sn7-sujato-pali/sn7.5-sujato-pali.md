@@ -3,11 +3,11 @@ sutta_code: "SN7.5"
 sutta_title:
   - "Ahiṁsakasutta "
   - "Ahiṁsaka"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.5]]
 > ◄  [[sn7.4-sujato-pali]] 📜  [[sn7.6-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -57,8 +57,7 @@ yo paraṁ na vihiṁsatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -73,6 +72,5 @@ yo paraṁ na vihiṁsatī"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG6.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.5]]
 > ◄  [[sn7.4-sujato-pali]] 📜  [[sn7.6-sujato-pali]] ►

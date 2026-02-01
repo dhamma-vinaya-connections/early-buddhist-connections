@@ -3,11 +3,11 @@ sutta_code: "SN1.10"
 sutta_title:
   - "Araññasutta "
   - "Forest"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
 > ◄  [[sn1.9-sujato-pali]] 📜  [[sn1.11-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -76,8 +76,7 @@ Vaggo tena pavuccati.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -88,6 +87,5 @@ Vaggo tena pavuccati.
 | [[SA-2.132]], [[SA995]], [[JA538]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
 > ◄  [[sn1.9-sujato-pali]] 📜  [[sn1.11-sujato-pali]] ►

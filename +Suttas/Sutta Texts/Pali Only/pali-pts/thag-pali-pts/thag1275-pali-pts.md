@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1275-PALI"
+sutta_code: "THAG1275"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1275-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1275]]
 > ◄  [[thag1274-pali-pts]] 📜  [[thag1276-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ esa sutvā pasīdāmi vaco te isisattama,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1275-) 
 

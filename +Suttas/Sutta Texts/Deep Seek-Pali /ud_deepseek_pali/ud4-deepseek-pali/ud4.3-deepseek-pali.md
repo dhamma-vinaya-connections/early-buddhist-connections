@@ -4,10 +4,10 @@ sutta_title:
   - "Gopala Sutta "
   - "The Cowherd"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.3]]
 > ◄  [[ud4.2-deepseek-pali]] 📜  [[ud4.4-deepseek-pali]] ►
 
 # Ud 4.3 Gopālakasuttaṃ
@@ -47,8 +47,7 @@ Then, having understood the significance of this, on that occasion the Blessed O
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ Then, having understood the significance of this, on that occasion the Blessed O
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP43]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.3]]
 > ◄  [[ud4.2-deepseek-pali]] 📜  [[ud4.4-deepseek-pali]] ►

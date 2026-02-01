@@ -4,10 +4,10 @@ sutta_title:
   - "Raja Sutta "
   - "Kings"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.2]]
 > ◄  [[ud2.1-deepseek-pali]] 📜  [[ud2.3-deepseek-pali]] ►
 
 # Ud 2.2 Rājasuttaṃ
@@ -46,8 +46,7 @@ Of the bliss of the destruction of craving." (The Second)
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -58,6 +57,5 @@ Of the bliss of the destruction of craving." (The Second)
 | [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.2]]
 > ◄  [[ud2.1-deepseek-pali]] 📜  [[ud2.3-deepseek-pali]] ►

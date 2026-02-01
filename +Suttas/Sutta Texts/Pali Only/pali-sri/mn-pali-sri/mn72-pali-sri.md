@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN72-PALI"
+sutta_code: "MN72"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Aggivaccha Sutta "
+  - "Vacchagotta on Fire"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72]]
 > ◄  [[mn71-pali-sri]] 📜  [[mn73-pali-sri]] ►
 
 # 72. Aggivacchhagotta Sutta - Pali
@@ -130,6 +130,20 @@ Aggivacchagotta suttaṃ dutiyaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn72-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.196]]; [[SA962]] | M i 483 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.196]]; [[SA962]]; [[SN44.1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.24]]; [[AN4.42]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72]]
+> ◄  [[mn71-pali-sri]] 📜  [[mn73-pali-sri]] ►

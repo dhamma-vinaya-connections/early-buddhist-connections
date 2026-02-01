@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.86-PALI"
+sutta_code: "AN8.86"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Yasa "
+  - "Honor"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.86-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.86]]
 > ◄  [[an8.85-pali-pts]] 📜  [[an8.87-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Tatra sudaṃ Bhagavā Icchānaṅgale viharati Icchānaṅgalavanasaṇḍe.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.86-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.30]] | [[SA1250]] | A iv 340 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.30]], [[SA1250]], [[AN6.42]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.86]]
+> ◄  [[an8.85-pali-pts]] 📜  [[an8.87-pali-pts]] ►

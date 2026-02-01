@@ -4,10 +4,10 @@ sutta_title:
   - "Muccalinda Sutta "
   - "Mucalinda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.1]]
 > ◄  [[]] 📜  [[ud2.2-deepseek-pali]] ►
 
 # Ud 2.1 Mucalindasuttaṃ
@@ -44,8 +44,7 @@ Joyful is detachment in the world, the surmounting of sensual pleasures; the sub
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -56,6 +55,5 @@ Joyful is detachment in the world, the surmounting of sensual pleasures; the sub
 | [[PLI-TV-KD1]], [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.1]]
 > ◄  [[]] 📜  [[ud2.2-deepseek-pali]] ►

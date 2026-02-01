@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.210-PALI"
+sutta_code: "AN5.210"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Muṭṭhassati "
+  - "Unmindful"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.210-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.210]]
 > ◄  [[an5.209-pali-sc]] 📜  [[an5.211-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -30,6 +30,16 @@ Dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.210-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 251 |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.210]]
+> ◄  [[an5.209-pali-sc]] 📜  [[an5.211-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.20-PALI"
+sutta_code: "SN3.20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dutiyaaputtakasutta "
+  - "Childless (2)"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.20]]
 > ◄  [[sn3.19-pali-sc]] 📜  [[sn3.21-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -65,6 +65,20 @@ Vaggo tena pavuccatīti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.20-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.60]], [[SA1233]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.60]], [[SA1233]], [[SN3.22]], [[SN3.4]], [[SN1.32]], [[JA450]], [[SN1.43]], [[SN2.23]], [[AN5.36]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN3.20]], [[AN5.41]], [[AN5.148.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.20]]
+> ◄  [[sn3.19-pali-sc]] 📜  [[sn3.21-pali-sc]] ►

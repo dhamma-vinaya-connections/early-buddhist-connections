@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG87-PALI"
+sutta_code: "THAG87"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG87-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG87]]
 > ◄  [[thag86-pali-pts]] 📜  [[thag88-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Asakkhiṃ vata attānaṃ uddhātuṃ udakā thalaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag87-) 
 

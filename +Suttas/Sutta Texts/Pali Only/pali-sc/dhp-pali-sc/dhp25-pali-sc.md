@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP25-PALI"
+sutta_code: "DHP25"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bhikkhuvagga "
+  - "Bhikkhus"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP25-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP25]]
 > ◄  [[dhp24-pali-sc]] 📜  [[dhp26-pali-sc]] ►
 
 # BHIKKHU VAGGA
@@ -109,6 +109,11 @@ Yo have daharo bhikkhu, yuñjati buddhasāsane; somaṃ lokaṃ pabhāseti, abbh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp25-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 102 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP25]]
+> ◄  [[dhp24-pali-sc]] 📜  [[dhp26-pali-sc]] ►

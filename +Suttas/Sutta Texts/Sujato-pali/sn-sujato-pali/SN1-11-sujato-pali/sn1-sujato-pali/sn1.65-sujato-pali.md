@@ -3,11 +3,11 @@ sutta_code: "SN1.65"
 sutta_title:
   - "Bandhanasutta "
   - "Bondage"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.65]]
 > ◄  [[sn1.64-sujato-pali]] 📜  [[sn1.66-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -47,6 +47,5 @@ sabbaṁ chindati bandhanan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.65-) 
 

@@ -3,11 +3,11 @@ sutta_code: "SNP4.11"
 sutta_title:
   - "Kalahavivādasutta "
   - "Quarrels and Disputes"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
 > ◄  [[snp4.10-sujato-pali]] 📜  [[snp4.12-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -243,9 +243,7 @@ Kalahavivādasuttaṁ ekādasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.11-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
 > ◄  [[snp4.10-sujato-pali]] 📜  [[snp4.12-sujato-pali]] ►

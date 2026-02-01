@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA189]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA189]]
 > ◄  [[ma188-bdk]] 📜  [[ma190-bdk]] ►
 
 ### 189. The Discourse on the Noble Path
@@ -33,8 +33,7 @@ world—then they incur the tenth kind of censure in accordance with the Dharma.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma189-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ world—then they incur the tenth kind of censure in accordance with the Dharma.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.25]], [[AN5.28]], [[SN12.15]], [[SN45.1]], [[SN45.8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA189]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA189]]
 > ◄  [[ma188-bdk]] 📜  [[ma190-bdk]] ►

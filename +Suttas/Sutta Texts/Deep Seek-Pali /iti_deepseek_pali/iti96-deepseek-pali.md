@@ -4,10 +4,10 @@ sutta_title:
   - "尼乾 "
   - "to the Nigaṇṭhas"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI96]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI96]]
 > ◄  [[iti95-deepseek-pali]] 📜  [[iti97-deepseek-pali]] ►
 
 # Iti 96 Dānasuttaṃ
@@ -33,9 +33,7 @@ This too is the meaning spoken by the Blessed One, so I have heard. Ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti96-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI96]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI96]]
 > ◄  [[iti95-deepseek-pali]] 📜  [[iti97-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Nasantisutta "
   - "There Are No"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.34]]
 > ◄  [[sn1.33-deepseek-pali]] 📜  [[sn1.35-deepseek-pali]] ►
 
 # SN 1.34 Nasantisuttaṃ
@@ -73,8 +73,7 @@ Those monks also go beyond attachment.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,6 +84,5 @@ Those monks also go beyond attachment.
 | [[DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.34]]
 > ◄  [[sn1.33-deepseek-pali]] 📜  [[sn1.35-deepseek-pali]] ►

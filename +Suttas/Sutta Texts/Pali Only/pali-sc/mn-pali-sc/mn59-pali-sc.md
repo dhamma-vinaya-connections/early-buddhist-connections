@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN59-PALI"
+sutta_code: "MN59"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bahuvedanīya Sutta "
+  - "Many Kinds of Feeling"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN59-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN59]]
 > ◄  [[mn58-pali-sc]] 📜  [[mn60-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -70,6 +70,20 @@ Evaṁvādino, ānanda, aññatitthiyā paribbājakā evamassu vacanīyā: ‘Na
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn59-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN36.19]] | [[SA485]] | M i 396 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA485]]; [[SN36.19]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN137]]; [[AN9.34]], [[SN36.22.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN59]]
+> ◄  [[mn58-pali-sc]] 📜  [[mn60-pali-sc]] ►

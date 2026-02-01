@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI76-PALI"
+sutta_code: "ITI76"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sukhapatthanā "
+  - "Wishing for happiness"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI76-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI76]]
 > ◄  [[iti75-pali-pts]] 📜  [[iti77-pali-pts]] ►
 
 ## Itivuttaka
@@ -51,6 +51,20 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||7||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti76-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[JA545]], [[JA503]], [[THAG12.1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN8.54]], [[AN9.1]], [[UD4:1]], [[ITI78]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI76]]
+> ◄  [[iti75-pali-pts]] 📜  [[iti77-pali-pts]] ►

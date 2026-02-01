@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG554-PALI"
+sutta_code: "THAG554"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG554-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG554]]
 > ◄  [[thag553-pali-pts]] 📜  [[thag555-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ cakkhuṃ sarīraṃ upahanti roṇṇaṃ, nihīyatī vaṇṇabalaṃ matī ca
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag554-) 
 

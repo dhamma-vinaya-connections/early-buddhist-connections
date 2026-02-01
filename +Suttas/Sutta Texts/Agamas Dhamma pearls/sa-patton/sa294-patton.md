@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA294]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA294]]
 > ◄  [[sa293-patton]] 📜  [[sa295-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -31,8 +31,7 @@ The monks said to the Buddha, “The Bhagavān is the Dharma root, Dharma eye, a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa294-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ The monks said to the Buddha, “The Bhagavān is the Dharma root, Dharma eye, a
 | [[SN12.19]], [[SA1]], [[SN22.51]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA294]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA294]]
 > ◄  [[sa293-patton]] 📜  [[sa295-patton]] ►

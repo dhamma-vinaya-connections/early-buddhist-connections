@@ -3,11 +3,11 @@ sutta_code: "MN139"
 sutta_title:
   - "Araṇavibhaṅga Sutta "
   - "Analysis of Non-Conflict"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN139]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN139]]
 > ◄  [[mn138-sujato-pali]] 📜  [[mn140-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -297,8 +297,7 @@ Araṇavibhaṅgasuttaṁ niṭṭhitaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn139-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -309,6 +308,5 @@ Araṇavibhaṅgasuttaṁ niṭṭhitaṁ navamaṁ.
 | [[MA169]]; [[MN122]]; [[MN13]]; [[MN14]]; [[SN36.20]]; [[SN36.19]]; [[AN6.63]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN139]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN139]]
 > ◄  [[mn138-sujato-pali]] 📜  [[mn140-sujato-pali]] ►

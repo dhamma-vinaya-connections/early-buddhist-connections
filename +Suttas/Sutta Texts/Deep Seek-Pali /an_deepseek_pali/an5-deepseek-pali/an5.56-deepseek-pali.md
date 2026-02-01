@@ -4,10 +4,10 @@ sutta_title:
   - "Upajjhāya "
   - "Mentor"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.56]]
 > ◄  [[an5.55-deepseek-pali]] 📜  [[an5.57-deepseek-pali]] ►
 
 # AN 5.56 Upajjhāyasuttaṃ
@@ -43,8 +43,7 @@ Then that bhikkhu, having attained arahantship, approached his own preceptor. Ha
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.56-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then that bhikkhu, having attained arahantship, approached his own preceptor. Ha
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.17]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.56]]
 > ◄  [[an5.55-deepseek-pali]] 📜  [[an5.57-deepseek-pali]] ►

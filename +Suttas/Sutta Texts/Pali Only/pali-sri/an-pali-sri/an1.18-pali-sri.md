@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.18-PALI"
+sutta_code: "AN1.18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Nīvaraṇappahāna "
+  - "Giving Up The Hindrances"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.18]]
 > ◄  [[an1.17-pali-sri]] 📜  [[an2.1-pali-sri]] ►
 
 # 3:18 Ragapeyyalam - Pali
@@ -284,6 +284,16 @@ Tatiyo nipāto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA9.10]] | A i 4 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA9.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.18]]
+> ◄  [[an1.17-pali-sri]] 📜  [[an2.1-pali-sri]] ►

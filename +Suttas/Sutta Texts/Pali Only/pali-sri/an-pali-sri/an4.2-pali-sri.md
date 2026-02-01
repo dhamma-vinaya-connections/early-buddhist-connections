@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.2-PALI"
+sutta_code: "AN4.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "AnuBuddha "
+  - "Understood"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.2]]
 > ◄  [[an4.1-pali-sri]] 📜  [[an4.3-pali-sri]] ►
 
 # 7:2 Anusayavaggo - Pali
@@ -224,6 +224,11 @@ Aniccaṃ dukkhaṃ anattā ca sukha niddasa vatthuhī te dasāti,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 2 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.2]]
+> ◄  [[an4.1-pali-sri]] 📜  [[an4.3-pali-sri]] ►

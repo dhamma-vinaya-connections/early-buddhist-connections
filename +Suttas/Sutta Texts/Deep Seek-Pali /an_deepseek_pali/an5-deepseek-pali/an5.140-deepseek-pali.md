@@ -4,10 +4,10 @@ sutta_title:
   - "Appaṃsupati "
   - "Sleep Little"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.140]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.140]]
 > ◄  [[an5.139-deepseek-pali]] 📜  [[an5.141-deepseek-pali]] ►
 
 # AN 5.140 Sotasuttaṃ
@@ -91,8 +91,7 @@ The Wheel-Turner, the King, In Whatever Quarter, and Two Aspirations; The Little
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.140-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -107,6 +106,5 @@ The Wheel-Turner, the King, In Whatever Quarter, and Two Aspirations; The Little
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN2]], [[AN3.94]], [[AN5.139]], [[AN8.13]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.140]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.140]]
 > ◄  [[an5.139-deepseek-pali]] 📜  [[an5.141-deepseek-pali]] ►

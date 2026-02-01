@@ -3,11 +3,11 @@ sutta_code: "MN64"
 sutta_title:
   - "Mahāmālukya Sutta "
   - "Longer Discourse With Māluṅkya"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-sujato-pali]] 📜  [[mn65-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -213,8 +213,7 @@ Mahāmālukyasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn64-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -225,6 +224,5 @@ Mahāmālukyasuttaṁ niṭṭhitaṁ catutthaṁ.
 | [[MA205]]; [[MN52]]; [[AN9.36]]; [[AN11.16]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-sujato-pali]] 📜  [[mn65-sujato-pali]] ►

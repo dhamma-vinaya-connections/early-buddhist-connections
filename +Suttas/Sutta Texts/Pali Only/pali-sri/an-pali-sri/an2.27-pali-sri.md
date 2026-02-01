@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.27-PALI"
+sutta_code: "AN2.27"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vivadanti "
+  - "Fight"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.27-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.27]]
 > ◄  [[an2.21-pali-sri]] 📜  [[an2.28-pali-sri]] ►
 
 # 4:27 Kammapathavaggo-p.htm - Pali
@@ -204,6 +204,11 @@ Kammapathavaggo sattamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.27-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 65 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.27]]
+> ◄  [[an2.21-pali-sri]] 📜  [[an2.28-pali-sri]] ►

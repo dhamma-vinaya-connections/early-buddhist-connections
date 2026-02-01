@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG384-PALI"
+sutta_code: "THIG384"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG384-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG384]]
 > ◄  [[thig383-pali-pts]] 📜  [[thig385-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ n'; atthi hi loke sadevake rāgo yattha pi dāni me siyā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig384-) 
 

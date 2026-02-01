@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG380-PALI"
+sutta_code: "THIG380"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG380-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG380]]
 > ◄  [[thig379-pali-pts]] 📜  [[thig381-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ akkhīni ca turiyā-r-iva kinnariyā-r-iva pabbatantare |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig380-) 
 

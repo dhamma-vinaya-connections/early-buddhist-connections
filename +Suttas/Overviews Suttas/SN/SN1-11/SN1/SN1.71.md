@@ -34,24 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA-2.283]]"
-  - "[[SA1285]]"
-parallels_partilal:
-  - "[[SN2.3]]"
-  - "[[SN7.1]]"
-  - "[[SN11.21]]"
-  - "[[SA1309]]"
-  - "[[SA-2.308]]"
-  - "[[SA1158]]"
-  - "[[SA-2.81]]"
-  - "[[SA1116]]"
-  - "[[SA-2.45]]"
-  - "[[SA-2.283]]"
-  - "[[SA1285]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA-2.283]], [[SA1285]]"
+parallels_partilal: "[[SN2.3]], [[SN7.1]], [[SN11.21]], [[SA1309]], [[SA-2.308]], [[SA1158]], [[SA-2.81]], [[SA1116]], [[SA-2.45]], [[SA-2.283]], [[SA1285]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.70]]  🌐 [[SN1.72]] ►
 
@@ -76,8 +61,7 @@ For having slain that, one does not sorrow.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.71-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,8 +73,7 @@ For having slain that, one does not sorrow.
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN1.71%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN1.71%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -101,7 +84,7 @@ For having slain that, one does not sorrow.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.71%5D%5D%22%23mynotes%20-file%3Asn1.71-%20-file%3A%22SN1.70%22%20-file%3A%22SN1.72%22%20-file%3A%22SN1.71%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.71/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.71

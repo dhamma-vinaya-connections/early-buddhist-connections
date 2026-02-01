@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA94]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA94]]
 > ◄  [[ma93-bdk]] 📜  [[ma95-bdk]] ►
 
 ### 94. The Discourse on the Monk Kālaka
@@ -27,8 +27,7 @@ good water and fodder, and look after me well!” yet people do tether it in a c
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma94-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ good water and fodder, and look after me well!” yet people do tether it in a c
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA89]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA94]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA94]]
 > ◄  [[ma93-bdk]] 📜  [[ma95-bdk]] ►

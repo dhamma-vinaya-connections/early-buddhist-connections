@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.10-PALI"
+sutta_code: "AN6.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Anussatiṭṭhāna "
+  - "Topics For Recollection"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.10]]
 > ◄  [[an6.9-pali-sri]] 📜  [[an6.11-pali-sri]] ►
 
 # 10:10 Upalivaggo - Pali
@@ -560,6 +560,16 @@ Dutiyo paṇṇāsako niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN6.25]] | [[SA-2.156]], [[SA931]] | A iii 284 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN6.25]], [[SA-2.156]], [[SA931]], [[AN11.11]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.10]]
+> ◄  [[an6.9-pali-sri]] 📜  [[an6.11-pali-sri]] ►

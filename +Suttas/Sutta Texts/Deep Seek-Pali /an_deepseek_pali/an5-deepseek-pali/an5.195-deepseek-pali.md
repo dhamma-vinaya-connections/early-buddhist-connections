@@ -4,10 +4,10 @@ sutta_title:
   - "Sārandada "
   - "At Sārandada"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.195]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.195]]
 > ◄  [[an5.194-deepseek-pali]] 📜  [[an5.196-deepseek-pali]] ►
 
 # AN 5.195 Piṅgiyānīsuttaṃ
@@ -39,8 +39,7 @@ Then the Blessed One addressed the Licchavis, saying: "Licchavis, the manifestat
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.195-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then the Blessed One addressed the Licchavis, saying: "Licchavis, the manifestat
 | [[AN5.143]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.195]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.195]]
 > ◄  [[an5.194-deepseek-pali]] 📜  [[an5.196-deepseek-pali]] ►

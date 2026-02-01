@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.5-PALI"
+sutta_code: "AN8.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dutiyalokadhamma "
+  - "Worldly Conditions"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
 > ◄  [[an8.4-pali-sc]] 📜  [[an8.6-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -39,6 +39,16 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA43.8]] | A iv 156 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA43.8]], [[DN33]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
+> ◄  [[an8.4-pali-sc]] 📜  [[an8.6-pali-sc]] ►

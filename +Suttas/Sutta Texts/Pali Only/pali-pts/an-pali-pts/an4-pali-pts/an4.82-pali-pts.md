@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.82-PALI"
+sutta_code: "AN4.82"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pāṇātipāta "
+  - "Killing Living Creatures"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.82-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.82]]
 > ◄  [[an4.81-pali-pts]] 📜  [[an4.83-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,11 @@ Imehi kho bhikkhave catuhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.82-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 83 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.82]]
+> ◄  [[an4.81-pali-pts]] 📜  [[an4.83-pali-pts]] ►

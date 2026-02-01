@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN119-PALI"
+sutta_code: "MN119"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kāyagatāsati Sutta "
+  - "Mindfulness of the Body"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
 > ◄  [[mn118-pali-sc]] 📜  [[mn120-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -137,6 +137,20 @@ Seyyathāpi, bhikkhave, subhūmiyaṁ catumahāpathe ājaññaratho yutto assa �
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn119-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DN22]]; [[MN10]] | [[EA12.1]]; [[MA31]]; [[MA81]]; [[MA98]] | M iii 88 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN22]]; [[EA12.1]]; [[MA98]]; [[MN10]]; [[MA31]]; [[MA81]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN118]], [[MN10]], [[DN22]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
+> ◄  [[mn118-pali-sc]] 📜  [[mn120-pali-sc]] ►

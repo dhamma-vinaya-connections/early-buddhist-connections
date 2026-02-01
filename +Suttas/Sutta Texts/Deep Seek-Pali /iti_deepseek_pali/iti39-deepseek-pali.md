@@ -4,10 +4,10 @@ sutta_title:
   - "Desanāsutta "
   - "Teaching"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI39]]
 > ◄  [[iti38-deepseek-pali]] 📜  [[iti40-deepseek-pali]] ►
 
 # Iti 39 Vijjāsuttaṃ
@@ -31,6 +31,5 @@ This too was spoken by the Blessed One—thus have I heard. This is the third di
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti39-) 
 

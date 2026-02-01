@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA288]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA288]]
 > ◄  [[sa287-patton]] 📜  [[sa289-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -43,8 +43,7 @@ He replied, “Venerable Śāriputra, that awareness is not made by oneself, not
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa288-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ He replied, “Venerable Śāriputra, that awareness is not made by oneself, not
 | [[AN3.20]], [[SN12.67]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA288]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA288]]
 > ◄  [[sa287-patton]] 📜  [[sa289-patton]] ►

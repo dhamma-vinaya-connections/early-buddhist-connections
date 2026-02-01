@@ -3,11 +3,11 @@ sutta_code: "AN3.33"
 sutta_title:
   - "Ānanda "
   - "Ananda"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.33]]
 > ◄  [[an3.32-sujato-pali]] 📜  [[an3.34-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -77,8 +77,7 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,6 +88,5 @@ Tatiyaṁ.
 | [[SA983]], [[SA-3.8]], [[AN4.199]], [[SA984]], [[SNP5.14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.33]]
 > ◄  [[an3.32-sujato-pali]] 📜  [[an3.34-sujato-pali]] ►

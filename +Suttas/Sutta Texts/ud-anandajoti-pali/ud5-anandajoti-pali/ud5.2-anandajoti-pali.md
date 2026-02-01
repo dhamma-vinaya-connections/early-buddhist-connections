@@ -3,11 +3,11 @@ sutta_code: "UD5.2"
 sutta_title:
   - "Appayuka Sutta "
   - "Short-lived"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
 > ◄  [[ud5.1-anandajoti-pali]] 📜  [[ud5.3-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -59,8 +59,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Dutiyaṁ.
 | [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
 > ◄  [[ud5.1-anandajoti-pali]] 📜  [[ud5.3-anandajoti-pali]] ►

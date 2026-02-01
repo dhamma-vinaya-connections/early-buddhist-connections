@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP128-PALI"
+sutta_code: "DHP128"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP128-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP128]]
 > ◄  [[dhp127-pali-pts]] 📜  [[dhp129-pali-pts]] ►
 
 ## Dhammapada
@@ -25,6 +25,5 @@ sabbe tasanti daṇḍassa sabbe bhāyanti maccuno, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp128-) 
 

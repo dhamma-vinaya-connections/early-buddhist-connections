@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[T1]]  / 🌐 [[T112]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[T1]]  / 🌐 [[T112]]
 > ◄  [[t110-patton]] 📜  [[]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -68,6 +68,5 @@ Thus, then, is the liberation of self and others.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:t112-) 
 

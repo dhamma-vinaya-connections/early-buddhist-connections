@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA180]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA180]]
 > ◄  [[ma179]] 📜  [[ma183-bdk]] ►
 
 ### 180. The Discourse to Gotamī
@@ -31,8 +31,7 @@ Then, the World-honored One spoke these stanzas: A diligent one offers to one wh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma180-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then, the World-honored One spoke these stanzas: A diligent one offers to one wh
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.24]], [[AN4.78]], [[AN6.59]], [[MA182]], [[MN39]], [[SN3.24]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA180]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA180]]
 > ◄  [[ma179]] 📜  [[ma183-bdk]] ►

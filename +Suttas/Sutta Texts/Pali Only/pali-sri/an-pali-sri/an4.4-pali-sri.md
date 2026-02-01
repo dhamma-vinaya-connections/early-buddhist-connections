@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.4-PALI"
+sutta_code: "AN4.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Dutiyakhata "
+  - "Broken"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.4]]
 > ◄  [[an4.3-pali-sri]] 📜  [[an4.5-pali-sri]] ►
 
 # 7:4 Devatavaggo - Pali
@@ -340,6 +340,11 @@ Duve paṭisamahidā ca niddasavatthu pare duveti sīmu.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 4 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.4]]
+> ◄  [[an4.3-pali-sri]] 📜  [[an4.5-pali-sri]] ►

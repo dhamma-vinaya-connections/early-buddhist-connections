@@ -4,10 +4,10 @@ sutta_title:
   - "Piyajātika Sutta "
   - "Born From the Beloved"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
 > ◄  [[mn86-deepseek-pali]] 📜  [[mn88-deepseek-pali]] ►
 
 # 87. Piyajātikasuttaṃ
@@ -79,8 +79,7 @@ The Piyajātika Sutta, the seventh, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn87-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ The Piyajātika Sutta, the seventh, is concluded.
 | [[EA13.3]]; [[MA216]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
 > ◄  [[mn86-deepseek-pali]] 📜  [[mn88-deepseek-pali]] ►

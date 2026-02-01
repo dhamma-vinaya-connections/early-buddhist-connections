@@ -3,11 +3,11 @@ sutta_code: "SN2.26"
 sutta_title:
   - "Rohitassasutta "
   - "Rohitassa"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.26]]
 > ◄  [[sn2.25-sujato-pali]] 📜  [[sn2.27-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -81,8 +81,7 @@ Nāsīsati lokamimaṁ parañcā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -93,6 +92,5 @@ Nāsīsati lokamimaṁ parañcā"ti.
 | [[AN4.45]], [[AN4.46]], [[SA-2.306]], [[SA1307]], [[EA43.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.26]]
 > ◄  [[sn2.25-sujato-pali]] 📜  [[sn2.27-sujato-pali]] ►

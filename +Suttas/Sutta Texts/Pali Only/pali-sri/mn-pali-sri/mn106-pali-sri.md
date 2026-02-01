@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN106-PALI"
+sutta_code: "MN106"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Āneñjasappāya Sutta "
+  - "Conducive to the Imperturbable"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN106-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN106]]
 > ◄  [[mn105-pali-sri]] 📜  [[mn107-pali-sri]] ►
 
 # 106. Anenjasappaya Sutta - Pali
@@ -446,6 +446,20 @@ suttaṃ jaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn106-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA75]] | M ii 261 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA75]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN22.55]]]]; [[[[MN140]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN106]]
+> ◄  [[mn105-pali-sri]] 📜  [[mn107-pali-sri]] ►

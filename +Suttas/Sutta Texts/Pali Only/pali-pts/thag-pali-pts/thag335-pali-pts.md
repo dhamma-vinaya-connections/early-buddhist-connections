@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG335-PALI"
+sutta_code: "THAG335"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG335-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG335]]
 > ◄  [[thag334-pali-pts]] 📜  [[thag336-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ arahā dakkhiṇeyyo 'mhi tevijjo amataddaso;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag335-) 
 

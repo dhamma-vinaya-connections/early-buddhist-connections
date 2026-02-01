@@ -4,10 +4,10 @@ sutta_title:
   - "Araṇasutta "
   - "Without Conflict"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.81]]
 > ◄  [[sn1.80-deepseek-pali]] 📜  [[]] ►
 
 # SN 1.81 Araṇasuttaṃ
@@ -53,6 +53,5 @@ The Saṃyutta of Devatās is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.81-) 
 

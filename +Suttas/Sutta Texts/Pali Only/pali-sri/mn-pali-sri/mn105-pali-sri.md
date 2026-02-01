@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN105-PALI"
+sutta_code: "MN105"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sunakkhatta Sutta "
+  - "With Sunakkhatta"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
 > ◄  [[mn104-pali-sri]] 📜  [[mn106-pali-sri]] ►
 
 # 105. Sunakkhatta - Pali
@@ -182,6 +182,15 @@ Sunakkhatta suttaṃ pañcamaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn105-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M ii 252 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN112]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
+> ◄  [[mn104-pali-sri]] 📜  [[mn106-pali-sri]] ►

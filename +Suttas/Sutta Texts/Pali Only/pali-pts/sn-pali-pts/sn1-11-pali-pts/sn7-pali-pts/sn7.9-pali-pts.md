@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.9-PALI"
+sutta_code: "SN7.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sundarikasutta "
+  - "Sundarika"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.9]]
 > ◄  [[sn7.8-pali-pts]] 📜  [[sn7.10-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -31,6 +31,16 @@ Evaṃ vutte mātuposako brāhmaṇo Bhagavantam etad avoca || || Abhikkantaṃ 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.99]], [[SA1184]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.99]], [[SA1184]], [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.9]]
+> ◄  [[sn7.8-pali-pts]] 📜  [[sn7.10-pali-pts]] ►

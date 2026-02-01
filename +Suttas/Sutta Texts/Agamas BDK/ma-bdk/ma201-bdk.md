@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA201]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA201]]
 > ◄  [[ma200-bdk]] 📜  [[ma202-bdk]] ►
 
 ### 201. The Discourse on [the Monk] Sāti
@@ -95,8 +95,7 @@ In this way he eradicates like or dislike for the feelings he experiences, wheth
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma201-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ In this way he eradicates like or dislike for the feelings he experiences, wheth
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN22]], [[MN2]], [[SN12.31]], [[SN35.206]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA201]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA201]]
 > ◄  [[ma200-bdk]] 📜  [[ma202-bdk]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.194-PALI"
+sutta_code: "AN4.194"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sāpūga "
+  - "At Sāpūga"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.194-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.194]]
 > ◄  [[an4.193-pali-sc]] 📜  [[an4.195-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -35,6 +35,16 @@ Catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.194-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA565]] | A ii 194 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA565]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.194]]
+> ◄  [[an4.193-pali-sc]] 📜  [[an4.195-pali-sc]] ►

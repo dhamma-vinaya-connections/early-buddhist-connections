@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG351-PALI"
+sutta_code: "THAG351"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG351-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG351]]
 > ◄  [[thag350-pali-pts]] 📜  [[thag352-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ bhāvento satipaṭṭhāne indriyāni balāni ca
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag351-) 
 

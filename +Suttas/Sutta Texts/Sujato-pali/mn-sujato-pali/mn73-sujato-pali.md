@@ -3,11 +3,11 @@ sutta_code: "MN73"
 sutta_title:
   - "Mahāvaccha Sutta "
   - "Longer Discourse With Vacchagotta"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
 > ◄  [[mn72-sujato-pali]] 📜  [[mn74-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -235,8 +235,7 @@ Mahāvacchasuttaṁ niṭṭhitaṁ tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn73-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -247,6 +246,5 @@ Mahāvacchasuttaṁ niṭṭhitaṁ tatiyaṁ.
 | [[SA-2.198]]; [[SA964]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
 > ◄  [[mn72-sujato-pali]] 📜  [[mn74-sujato-pali]] ►

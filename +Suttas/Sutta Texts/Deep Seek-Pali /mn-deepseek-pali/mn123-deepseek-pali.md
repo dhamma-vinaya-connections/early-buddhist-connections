@@ -4,10 +4,10 @@ sutta_title:
   - "Acchariyaabbhuta Sutta "
   - "Incredible and Amazing"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN123]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN123]]
 > ◄  [[mn122-deepseek-pali]] 📜  [[mn124-deepseek-pali]] ►
 
 # 123. Bākulasuttaṃ
@@ -79,8 +79,7 @@ The Bākula Sutta, the fourth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn123-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ The Bākula Sutta, the fourth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.127]], [[AN8.70]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN123]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN123]]
 > ◄  [[mn122-deepseek-pali]] 📜  [[mn124-deepseek-pali]] ►

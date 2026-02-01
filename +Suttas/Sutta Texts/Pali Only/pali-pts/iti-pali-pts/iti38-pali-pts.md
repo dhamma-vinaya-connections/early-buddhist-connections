@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI38-PALI"
+sutta_code: "ITI38"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vitakka "
+  - "Thoughts"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI38-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI38]]
 > ◄  [[iti37-pali-pts]] 📜  [[iti39-pali-pts]] ►
 
 ## Itivuttaka
@@ -41,6 +41,20 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||1||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti38-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DN14]], [[MN85]], [[MN26]], [[SN6.1]], [[PLI-TV-KD1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DHP28]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI38]]
+> ◄  [[iti37-pali-pts]] 📜  [[iti39-pali-pts]] ►

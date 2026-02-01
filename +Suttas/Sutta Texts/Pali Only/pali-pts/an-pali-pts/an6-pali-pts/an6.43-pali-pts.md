@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.43-PALI"
+sutta_code: "AN6.43"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Naga "
+  - "Giant"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.43-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.43]]
 > ◄  [[an6.42-pali-pts]] 📜  [[an6.44-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -28,6 +28,16 @@ Nāgito ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.43-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[THAG15.2]] | [[MA118]] | A iii 344 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA118]], [[THAG15.2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.43]]
+> ◄  [[an6.42-pali-pts]] 📜  [[an6.44-pali-pts]] ►

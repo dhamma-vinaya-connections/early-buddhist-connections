@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN45-PALI"
+sutta_code: "MN45"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cūḷadhammasamādāna Sutta "
+  - "Shorter Discourse on Taking Up Practices"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
 > ◄  [[mn44-pali-sc]] 📜  [[mn46-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -47,6 +47,20 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn45-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA174]] | M i 305 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA174]]; [[DN8]]; [[DN25]]; [[MN12]]; [[MN51]]; [[MN60]]; [[AN3.156-162]]; [[AN4.198]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.192]], [[MN25]], [[MN46]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
+> ◄  [[mn44-pali-sc]] 📜  [[mn46-pali-sc]] ►

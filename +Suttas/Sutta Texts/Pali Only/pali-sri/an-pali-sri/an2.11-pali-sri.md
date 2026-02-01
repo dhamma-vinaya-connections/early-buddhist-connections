@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.11-PALI"
+sutta_code: "AN2.11"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.11]]
 > ◄  [[an2.10-pali-sri]] 📜  [[an2.12-pali-sri]] ►
 
 # 4:11 Valahakavaggo - Pali
@@ -308,6 +308,5 @@ Dve valāhakā ca kumbha udakarahadā dve honti ambāni mūsikā balivaddā rukk
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.11-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI77-PALI"
+sutta_code: "ITI77"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bhidura "
+  - "Fragile"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI77-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI77]]
 > ◄  [[iti76-pali-pts]] 📜  [[iti78-pali-pts]] ►
 
 ## Itivuttaka
@@ -26,6 +26,7 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||8||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti77-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI77]]
+> ◄  [[iti76-pali-pts]] 📜  [[iti78-pali-pts]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - " "
   - ""
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.117]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.117]]
 > ◄  [[an6.116-deepseek-pali]] 📜  [[an6.118-deepseek-pali]] ►
 
 # AN 6.117 Kāyānupassīsuttaṃ
@@ -27,6 +27,5 @@ Monks, having abandoned six things, one is capable of dwelling contemplating the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.117-) 
 

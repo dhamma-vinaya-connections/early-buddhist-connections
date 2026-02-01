@@ -3,11 +3,11 @@ sutta_code: "DN19"
 sutta_title:
   - "Mahāgovinda Sutta "
   - "Great Steward"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
 > ◄  [[dn18-sujato-pali]] 📜  [[dn20-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -972,8 +972,7 @@ Mahāgovindasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -984,6 +983,5 @@ Mahāgovindasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 | [[JA498]], [[JA509]], [[DA3]], [[MN91]], [[SN4.9]], [[JA460]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
 > ◄  [[dn18-sujato-pali]] 📜  [[dn20-sujato-pali]] ►

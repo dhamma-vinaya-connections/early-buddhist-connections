@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP60-PALI"
+sutta_code: "DHP60"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP60-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP60]]
 > ◄  [[dhp59-pali-pts]] 📜  [[dhp61-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ carañ ce nādhigaccheyya seyyaṃ sadisam attano /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp60-) 
 

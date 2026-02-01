@@ -3,11 +3,11 @@ sutta_code: "SN9.2"
 sutta_title:
   - "Upaṭṭhānasutta "
   - "Rousing"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.2]]
 > ◄  [[sn9.1-sujato-pali]] 📜  [[sn9.3-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -95,8 +95,7 @@ Kasmā pabbajitaṁ tape"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ Kasmā pabbajitaṁ tape"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.2]]
 > ◄  [[sn9.1-sujato-pali]] 📜  [[sn9.3-sujato-pali]] ►

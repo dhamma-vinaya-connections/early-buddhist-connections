@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA194]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA194]]
 > ◄  [[ma193-bdk]] 📜  [[ma195-bdk]] ►
 
 ### 194. The Discourse to Bhaddāli
@@ -59,8 +59,7 @@ Bhaddāli, it is just as a knowledgeable horse trainer gets a fine thoroughbred 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma194-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Bhaddāli, it is just as a knowledgeable horse trainer gets a fine thoroughbred 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN107]], [[SN16.13]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA194]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA194]]
 > ◄  [[ma193-bdk]] 📜  [[ma195-bdk]] ►

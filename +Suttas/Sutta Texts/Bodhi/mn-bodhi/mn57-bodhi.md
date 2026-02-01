@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
 > ◄  [[mn56-bodhi]] 📜  [[mn58-bodhi]] ►
 
 # MN57 Kukkuravatika Sutta - The Dog-Duty Ascetic
@@ -67,8 +67,7 @@ A second time…And a third time Seniya the naked dog-duty ascetic asked the Ble
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn57-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ A second time…And a third time Seniya the naked dog-duty ascetic asked the Ble
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.235]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
 > ◄  [[mn56-bodhi]] 📜  [[mn58-bodhi]] ►

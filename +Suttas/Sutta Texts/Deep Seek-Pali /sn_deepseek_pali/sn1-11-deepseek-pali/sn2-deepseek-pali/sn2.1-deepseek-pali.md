@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamakassapasutta "
   - "Kassapa (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
 > ◄  [[]] 📜  [[sn2.2-deepseek-pali]] ►
 
 # SN 2.1 Paṭhamakassapasuttaṃ
@@ -31,8 +31,7 @@ Thus spoke Kassapa the devaputta; the Teacher approved. Then, thinking, “The T
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Thus spoke Kassapa the devaputta; the Teacher approved. Then, thinking, “The T
 | [[SA-2.316]], [[SA1317]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
 > ◄  [[]] 📜  [[sn2.2-deepseek-pali]] ►

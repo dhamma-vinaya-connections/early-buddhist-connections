@@ -34,15 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP241]]"
-  - "[[DHP242]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[DHP241]]"
-  - "[[DHP242]]"
+parallels_nikaya: "[[DHP241]], [[DHP242]]"
+parallels_agama: ""
+parallels_partilal: "[[DHP241]], [[DHP242]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.14]]  🌐 [[AN8.16]] ►
 
@@ -64,8 +58,7 @@ Is ignorance, the worst of stains
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,8 +70,7 @@ Is ignorance, the worst of stains
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN8.15%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN8.15%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -89,7 +81,7 @@ Is ignorance, the worst of stains
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.15%5D%5D%22%23mynotes%20-file%3Aan8.15-%20-file%3A%22AN8.14%22%20-file%3A%22AN8.16%22%20-file%3A%22AN8.15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.15

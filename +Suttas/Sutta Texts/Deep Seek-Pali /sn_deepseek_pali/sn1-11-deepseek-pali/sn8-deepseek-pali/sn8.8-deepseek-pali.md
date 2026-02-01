@@ -4,10 +4,10 @@ sutta_title:
   - "Parosahassasutta "
   - "Over a Thousand"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
 > ◄  [[sn8.7-deepseek-pali]] 📜  [[sn8.9-deepseek-pali]] ►
 
 # SN 8.8 Parosahassasuttaṃ
@@ -73,8 +73,7 @@ Ever mindful, revering, one should constantly train.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,6 +84,5 @@ Ever mindful, revering, one should constantly train.”
 | [[SA1219]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
 > ◄  [[sn8.7-deepseek-pali]] 📜  [[sn8.9-deepseek-pali]] ►

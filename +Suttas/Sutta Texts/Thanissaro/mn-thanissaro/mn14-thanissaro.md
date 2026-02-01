@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
 > ◄  [[mn13-thanissaro]] 📜  [[mn17-thanissaro]] ►
 
 ## MN14 The Lesser Mass of Stress
@@ -92,8 +92,7 @@ That is what the Blessed One said. Gratified, Mahānāma the Sakyan delighted in
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -108,6 +107,5 @@ That is what the Blessed One said. Gratified, Mahānāma the Sakyan delighted in
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN13]], [[MN54]]; [[SN35.63]]; [[SN35.115]]; [[SN35.189]]; [[SN36.6]]; [[AN2.30]]; [[AN6.63]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
 > ◄  [[mn13-thanissaro]] 📜  [[mn17-thanissaro]] ►

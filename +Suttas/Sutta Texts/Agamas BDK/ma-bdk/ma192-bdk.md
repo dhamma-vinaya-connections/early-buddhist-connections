@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA192]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA192]]
 > ◄  [[ma191-bdk]] 📜  [[ma193-bdk]] ►
 
 ### 192. The Discourse on Kāḷudāyin
@@ -63,8 +63,7 @@ the sphere of neither-perception-nor-nonperception he still has not attained sep
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma192-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ the sphere of neither-perception-nor-nonperception he still has not attained sep
 | [[MN132]], [[MN133]], [[MN134]], [[JA538]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA192]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA192]]
 > ◄  [[ma191-bdk]] 📜  [[ma193-bdk]] ►

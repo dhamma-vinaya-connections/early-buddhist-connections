@@ -3,11 +3,11 @@ sutta_code: "SN4.4"
 sutta_title:
   - "Paṭhamamārapāsasutta "
   - "Māra's Snare (1)"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.4]]
 > ◄  [[sn4.3-sujato-pali]] 📜  [[sn4.5-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -67,8 +67,7 @@ Nihato tvamasi antakā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Nihato tvamasi antakā"ti.
 | [[PLI-TV-KD1]], [[SN4.15]], [[SA-2.25]], [[SA1086]], [[SN4.5]], [[SA1096]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.4]]
 > ◄  [[sn4.3-sujato-pali]] 📜  [[sn4.5-sujato-pali]] ►

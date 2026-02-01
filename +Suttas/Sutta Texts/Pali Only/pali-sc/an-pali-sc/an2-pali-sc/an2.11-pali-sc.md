@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.11-PALI"
+sutta_code: "AN2.11"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.11]]
 > ◄  [[an2.10-pali-sc]] 📜  [[an2.12-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -25,6 +25,5 @@ Imāni kho, bhikkhave, dve balānī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.11-) 
 

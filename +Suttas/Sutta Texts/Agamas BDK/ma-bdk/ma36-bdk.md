@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA36]]
 > ◄  [[ma35-bdk]] 📜  [[ma37-bdk]] ►
 
 ### 36. The Discourse on Earthquakes
@@ -31,8 +31,7 @@ This is what the Buddha said. Having heard the Buddha’s words, Ven- erable Ān
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ This is what the Buddha said. Having heard the Buddha’s words, Ven- erable Ān
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[MN123]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA36]]
 > ◄  [[ma35-bdk]] 📜  [[ma37-bdk]] ►

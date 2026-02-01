@@ -3,11 +3,11 @@ sutta_code: "MN52"
 sutta_title:
   - "Aṭṭhakanāgara Sutta "
   - "Man From the City of Aṭṭhaka"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
 > ◄  [[mn51-sujato-pali]] 📜  [[mn53-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -127,8 +127,7 @@ Aṭṭhakanāgarasuttaṁ niṭṭhitaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn52-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -143,6 +142,5 @@ Aṭṭhakanāgarasuttaṁ niṭṭhitaṁ dutiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.36]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
 > ◄  [[mn51-sujato-pali]] 📜  [[mn53-sujato-pali]] ►

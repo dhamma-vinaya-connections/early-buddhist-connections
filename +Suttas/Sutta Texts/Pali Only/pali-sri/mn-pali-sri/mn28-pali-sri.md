@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN28-PALI"
+sutta_code: "MN28"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahāhatthipadopama Sutta "
+  - "Longer Simile of the Elephant’s Footprint"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
 > ◄  [[mn27-pali-sri]] 📜  [[mn29-pali-sri]] ►
 
 # 28. Maha Hatthipadopama Sutta - Pali
@@ -152,6 +152,20 @@ Mahāhatthipadopamasuttaṃ aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn28-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA30]] | M i 184 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA30]]; [[MN21]]; [[MN28]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN21]], [[MA193]], [[MA8]], [[AN7.62]], [[AN5.197]], [[SN22.5]]; [[SN4.9]], [[MA31]], [[MN141]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
+> ◄  [[mn27-pali-sri]] 📜  [[mn29-pali-sri]] ►

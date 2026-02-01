@@ -3,11 +3,11 @@ sutta_code: "UD4.5"
 sutta_title:
   - "Naga Sutta "
   - "The Bull Elephant"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.5]]
 > ◄  [[ud4.4-anandajoti-pali]] 📜  [[ud4.6-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -77,8 +77,7 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -93,6 +92,5 @@ Pañcamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.40]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.5]]
 > ◄  [[ud4.4-anandajoti-pali]] 📜  [[ud4.6-anandajoti-pali]] ►

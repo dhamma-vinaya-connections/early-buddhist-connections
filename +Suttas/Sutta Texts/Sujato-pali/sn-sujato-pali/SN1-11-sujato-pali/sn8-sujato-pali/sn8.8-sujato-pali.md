@@ -3,11 +3,11 @@ sutta_code: "SN8.8"
 sutta_title:
   - "Parosahassasutta "
   - "Over a Thousand"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
 > ◄  [[sn8.7-sujato-pali]] 📜  [[sn8.9-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -151,8 +151,7 @@ Appamatto sadā namassamanusikkhe"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -163,6 +162,5 @@ Appamatto sadā namassamanusikkhe"ti.
 | [[SA1219]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
 > ◄  [[sn8.7-sujato-pali]] 📜  [[sn8.9-sujato-pali]] ►

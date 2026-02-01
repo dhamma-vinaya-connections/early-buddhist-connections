@@ -3,11 +3,11 @@ sutta_code: "AN9.92"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.92]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.92]]
 > ◄  [[an9.84-sujato-pali]] 📜  [[an9.93-sujato-pali]] ►
 
 ## Aṅguttara Nikāya – The Numerical Discourses
@@ -29,6 +29,5 @@ To give up these five emotional shackles you should develop the four bases of ps
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.92-) 
 

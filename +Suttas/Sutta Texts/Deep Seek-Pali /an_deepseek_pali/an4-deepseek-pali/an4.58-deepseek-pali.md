@@ -4,10 +4,10 @@ sutta_title:
   - "Bhojana "
   - "Food"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.58]]
 > ◄  [[an4.57-deepseek-pali]] 📜  [[an4.59-deepseek-pali]] ►
 
 # AN 4.58 Sudattasuttaṃ
@@ -35,8 +35,7 @@ That person, the giver of long life, beauty, happiness, and strength, becomes lo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.58-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ That person, the giver of long life, beauty, happiness, and strength, becomes lo
 | [[AN4.59]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.58]]
 > ◄  [[an4.57-deepseek-pali]] 📜  [[an4.59-deepseek-pali]] ►

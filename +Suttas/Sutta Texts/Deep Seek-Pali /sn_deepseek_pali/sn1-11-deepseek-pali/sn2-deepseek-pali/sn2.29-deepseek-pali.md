@@ -4,10 +4,10 @@ sutta_title:
   - "Susimasutta "
   - "Susīma"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
 > ◄  [[sn2.28-deepseek-pali]] 📜  [[sn2.30-deepseek-pali]] ►
 
 # SN 2.29 Susimasuttaṃ
@@ -79,8 +79,7 @@ Then the Blessed One, referring to the Venerable Sāriputta, addressed Susīma t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ Then the Blessed One, referring to the Venerable Sāriputta, addressed Susīma t
 | [[SA-2.305]], [[SA1306]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
 > ◄  [[sn2.28-deepseek-pali]] 📜  [[sn2.30-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "梵摩 "
   - "With Brahmāyu"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI68]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI68]]
 > ◄  [[iti67-deepseek-pali]] 📜  [[iti69-deepseek-pali]] ►
 
 # Iti 68 Dutiyarāgasuttaṃ
@@ -37,9 +37,7 @@ Merit, the eye, and then the faculties, the path and conduct, two on purity; the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti68-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI68]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI68]]
 > ◄  [[iti67-deepseek-pali]] 📜  [[iti69-deepseek-pali]] ►

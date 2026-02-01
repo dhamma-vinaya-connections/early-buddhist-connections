@@ -4,10 +4,10 @@ sutta_title:
   - "Kula "
   - "Families"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.199]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.199]]
 > ◄  [[an5.198-deepseek-pali]] 📜  [[an5.200-deepseek-pali]] ►
 
 # AN 5.199 Kulasuttaṃ
@@ -39,8 +39,7 @@ Bhikkhus, when virtuous renunciants approach a family, and the people there ask 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.199-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -50,6 +49,5 @@ Bhikkhus, when virtuous renunciants approach a family, and the people there ask 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN135]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.199]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.199]]
 > ◄  [[an5.198-deepseek-pali]] 📜  [[an5.200-deepseek-pali]] ►

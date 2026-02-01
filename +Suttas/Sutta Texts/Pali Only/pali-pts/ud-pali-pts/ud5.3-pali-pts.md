@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD5.3-PALI"
+sutta_code: "UD5.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Suppabuddhakutthi Sutta "
+  - "The Leper"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.3]]
 > ◄  [[ud5.2-pali-pts]] 📜  [[ud5.5-pali-pts]] ►
 
 ## Udāna
@@ -29,6 +29,5 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Pubbārāme M
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.3-) 
 

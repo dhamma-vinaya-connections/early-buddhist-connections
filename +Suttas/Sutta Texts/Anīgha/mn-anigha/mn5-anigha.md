@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
 > ◄  [[mn4-anigha]] 📜  [[mn6-anigha]] ►
 
 # MN 5 - Unblemished
@@ -105,8 +105,7 @@ Suppose there was a woman or man who was young, youthful, and fond of adornments
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -121,6 +120,5 @@ Suppose there was a woman or man who was young, youthful, and fond of adornments
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN3]], [[MN7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
 > ◄  [[mn4-anigha]] 📜  [[mn6-anigha]] ►

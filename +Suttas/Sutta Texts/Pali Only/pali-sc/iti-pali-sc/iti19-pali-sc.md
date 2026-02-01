@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI19-PALI"
+sutta_code: "ITI19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Saṅghasāmaggī "
+  - "Unity In The Saṅgha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI19]]
 > ◄  [[iti18-pali-sc]] 📜  [[iti20-pali-sc]] ►
 
 # Iti 19. Paduṭṭhacittasuttaṃ
@@ -35,6 +35,16 @@ Moho kodho atha makkho, vijjā taṇhā sekhaduve ca;Bhedo sāmaggipuggalo [moha
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.40]], [[PLI-TV-KD17]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI19]]
+> ◄  [[iti18-pali-sc]] 📜  [[iti20-pali-sc]] ►

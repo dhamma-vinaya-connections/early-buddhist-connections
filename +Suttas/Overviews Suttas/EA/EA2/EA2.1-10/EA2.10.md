@@ -34,16 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-sutta_simile: "Cloud with/ without thunder and rain, like talkers and doers"
-parallels_nikaya:
-  - "[[AN4.102]]"
-parallels_agama:
-  - "[[EA25.10]]"
-  - "[[EA2.10]]"
-parallels_partilal:
-  - "[[AN4.102]]"
-  - "[[EA25.10]]"
-  - "[[EA2.10]]"
+parallels_nikaya: "[[AN4.102]]"
+parallels_agama: "[[EA25.10]], [[EA2.10]]"
+parallels_partilal: "[[AN4.102]], [[EA25.10]], [[EA2.10]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA2.9]]  🌐 [[EA3.1]] ►
 
@@ -69,8 +62,7 @@ One both makes a hole and lives in it.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ea2.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -82,8 +74,7 @@ One both makes a hole and lives in it.
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BEA2.10%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BEA2.10%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -94,7 +85,7 @@ One both makes a hole and lives in it.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BEA2.10%5D%5D%22%23mynotes%20-file%3Aea2.10-%20-file%3A%22EA2.9%22%20-file%3A%22EA3.1%22%20-file%3A%22EA2.10%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ea2.10/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 

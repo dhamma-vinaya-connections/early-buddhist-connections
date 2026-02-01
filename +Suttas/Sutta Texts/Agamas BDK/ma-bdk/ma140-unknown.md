@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA140]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA140]]
 > ◄  [[ma139]] 📜  [[ma141]] ►
 
 ### 140. The Discourse on the Lowliest
@@ -27,8 +27,7 @@ Ignorant fools lose the desires and pleasures [of sensuality] And also lose the 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma140-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Ignorant fools lose the desires and pleasures [of sensuality] And also lose the 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[ITI91]], [[MN]], [[SN40121.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA140]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA140]]
 > ◄  [[ma139]] 📜  [[ma141]] ►

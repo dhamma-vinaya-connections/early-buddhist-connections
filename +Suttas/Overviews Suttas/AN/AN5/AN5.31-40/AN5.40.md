@@ -34,15 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-sutta_simile: "Tree grows supported by himalayas, like family supported by a faithful family head"
-parallels_nikaya:
-  - "[[AN3.48]]"
-parallels_agama:
-  - "[[EA50.7]]"
-parallels_partilal:
-  - "[[AN3.48]]"
-  - "[[EA50.7]]"
-  - "[[ITI107]]"
+parallels_nikaya: "[[AN3.48]]"
+parallels_agama: "[[EA50.7]]"
+parallels_partilal: "[[AN3.48]], [[EA50.7]], [[ITI107]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.39]]  🌐 [[AN5.41]] ►
 
@@ -69,8 +63,7 @@ Do likewise.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.40-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,8 +78,7 @@ Do likewise.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.38]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN5.40%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN5.40%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -97,7 +89,7 @@ Do likewise.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.40%5D%5D%22%23mynotes%20-file%3Aan5.40-%20-file%3A%22AN5.39%22%20-file%3A%22AN5.41%22%20-file%3A%22AN5.40%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.40/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.40

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
 > ◄  [[mn59-thanissaro]] 📜  [[mn61-thanissaro]] ►
 
 ## MN60 A Safe Bet
@@ -250,8 +250,7 @@ When this was said, the brahman householders of Sāla said, “Magnificent, mast
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -266,6 +265,5 @@ When this was said, the brahman householders of Sāla said, “Magnificent, mast
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN45]]; [[MN95]], [[DN2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
 > ◄  [[mn59-thanissaro]] 📜  [[mn61-thanissaro]] ►

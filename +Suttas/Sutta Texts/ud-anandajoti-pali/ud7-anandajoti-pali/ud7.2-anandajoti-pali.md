@@ -3,11 +3,11 @@ sutta_code: "UD7.2"
 sutta_title:
   - "Dutiyabhaddiya Sutta "
   - "Bhaddiya (2)"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.2]]
 > ◄  [[ud7.1-anandajoti-pali]] 📜  [[ud7.3-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -47,9 +47,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.2-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.2]]
 > ◄  [[ud7.1-anandajoti-pali]] 📜  [[ud7.3-anandajoti-pali]] ►

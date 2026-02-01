@@ -3,11 +3,11 @@ sutta_code: "MN7"
 sutta_title:
   - "Vattha Sutta "
   - "Simile of the Cloth"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7]]
 > ◄  [[mn6-sujato-pali]] 📜  [[mn8-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -195,8 +195,7 @@ Vatthasuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -211,6 +210,5 @@ Vatthasuttaṁ niṭṭhitaṁ sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN3]], [[MN15]], [[MN8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7]]
 > ◄  [[mn6-sujato-pali]] 📜  [[mn8-sujato-pali]] ►

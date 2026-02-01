@@ -3,11 +3,11 @@ sutta_code: "SN8.7"
 sutta_title:
   - "Pavāraṇāsutta "
   - "Pavaraṇa"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
 > ◄  [[sn8.6-sujato-pali]] 📜  [[sn8.8-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -105,8 +105,7 @@ vande ādiccabandhunan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -117,6 +116,5 @@ vande ādiccabandhunan"ti.
 | [[EA32.5]], [[MA121]], [[SA-2.228]], [[SA1212]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
 > ◄  [[sn8.6-sujato-pali]] 📜  [[sn8.8-sujato-pali]] ►

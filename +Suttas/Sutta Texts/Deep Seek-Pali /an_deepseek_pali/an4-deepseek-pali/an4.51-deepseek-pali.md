@@ -4,10 +4,10 @@ sutta_title:
   - "Puññābhisanda "
   - "Overflowing Merit 1st"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.51]]
 > ◄  [[an4.50-deepseek-pali]] 📜  [[an4.52-deepseek-pali]] ►
 
 # AN 4.51 Paṭhamapuññābhisandasuttaṃ
@@ -51,8 +51,7 @@ Monks, when a monk, while using a dwelling, attains to and dwells in immeasurabl
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.51-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ Monks, when a monk, while using a dwelling, attains to and dwells in immeasurabl
 | [[AN5.45]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.51]]
 > ◄  [[an4.50-deepseek-pali]] 📜  [[an4.52-deepseek-pali]] ►

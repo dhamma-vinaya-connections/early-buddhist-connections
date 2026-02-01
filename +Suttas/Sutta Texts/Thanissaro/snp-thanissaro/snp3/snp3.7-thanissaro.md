@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
 > ◄  [[snp3.6-thanissaro]] 📜  [[snp3.8-thanissaro]] ►
 
 # 3:7  Sela
@@ -331,8 +331,7 @@ vv. 548–573
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -347,6 +346,5 @@ vv. 548–573
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN4.20]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
 > ◄  [[snp3.6-thanissaro]] 📜  [[snp3.8-thanissaro]] ►

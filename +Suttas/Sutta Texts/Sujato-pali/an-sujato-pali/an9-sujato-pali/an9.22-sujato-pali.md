@@ -3,11 +3,11 @@ sutta_code: "AN9.22"
 sutta_title:
   - "Assakhaḷuṅka "
   - "Wild Colt"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.22]]
 > ◄  [[an9.21-sujato-pali]] 📜  [[an9.23-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -77,8 +77,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,6 +88,5 @@ Dutiyaṁ.
 | [[AN3.140]], [[SA-2.143]], [[SA917]], [[AN3.141]], [[SA-2.144]], [[SA918]], [[AN3.142]], [[SA-2.145]], [[SA919]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.22]]
 > ◄  [[an9.21-sujato-pali]] 📜  [[an9.23-sujato-pali]] ►

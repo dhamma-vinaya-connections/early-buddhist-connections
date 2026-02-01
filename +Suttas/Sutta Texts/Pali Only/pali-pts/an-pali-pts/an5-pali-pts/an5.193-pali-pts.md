@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.193-PALI"
+sutta_code: "AN5.193"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Saṅgārava "
+  - "With Saṅgārava"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.193-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.193]]
 > ◄  [[an5.192-pali-pts]] 📜  [[an5.194-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Atha kho Saṅgāravo brāhmaṇo yena Bhagavā ten'; upasaṅkami, upasaṅkami
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.193-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN46.55]] |  | A iii 230 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN46.55]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.193]]
+> ◄  [[an5.192-pali-pts]] 📜  [[an5.194-pali-pts]] ►

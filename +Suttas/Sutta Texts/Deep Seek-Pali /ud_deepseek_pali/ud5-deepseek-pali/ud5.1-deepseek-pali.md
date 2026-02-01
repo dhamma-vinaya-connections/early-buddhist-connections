@@ -4,10 +4,10 @@ sutta_title:
   - "Raja Sutta "
   - "The King"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.1]]
 > ◄  [[]] 📜  [[ud5.2-deepseek-pali]] ►
 
 # Ud 5.1 Piyatarasuttaṃ
@@ -43,8 +43,7 @@ Then the Blessed One, having understood this matter, on that occasion uttered th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then the Blessed One, having understood this matter, on that occasion uttered th
 | [[SN3.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.1]]
 > ◄  [[]] 📜  [[ud5.2-deepseek-pali]] ►

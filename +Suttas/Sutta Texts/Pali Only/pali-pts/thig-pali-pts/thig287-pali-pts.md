@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG287-PALI"
+sutta_code: "THIG287"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG287-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG287]]
 > ◄  [[thig286-pali-pts]] 📜  [[thig288-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ upehi buddhaṃ saraṇaṃ dhammaṃ saṅghañ ca tādinaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig287-) 
 

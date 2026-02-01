@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG359-PALI"
+sutta_code: "THIG359"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG359-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG359]]
 > ◄  [[thig358-pali-pts]] 📜  [[thig360-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ raṇaṃ karitvā kāmānaṃ sītibhāvābhikaṅkhinī |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig359-) 
 

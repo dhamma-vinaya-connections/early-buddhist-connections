@@ -4,10 +4,10 @@ sutta_title:
   - "Subhāsitasutta "
   - "Well Spoken"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.5]]
 > ◄  [[sn8.4-deepseek-pali]] 📜  [[sn8.6-deepseek-pali]] ►
 
 # SN 8.5 Subhāsitasuttaṃ
@@ -51,8 +51,7 @@ Then Venerable Vaṅgīsa rose from his seat, arranged his upper robe over one s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ Then Venerable Vaṅgīsa rose from his seat, arranged his upper robe over one s
 | [[SNP3.3]], [[SA-2.253]], [[SA1218]], [[THAG21.1]], [[PE3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.5]]
 > ◄  [[sn8.4-deepseek-pali]] 📜  [[sn8.6-deepseek-pali]] ►

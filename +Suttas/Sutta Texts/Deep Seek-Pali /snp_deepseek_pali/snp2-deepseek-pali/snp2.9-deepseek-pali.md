@@ -4,10 +4,10 @@ sutta_title:
   - "Kiṁsīla "
   - "What Morality?"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.9]]
 > ◄  [[snp2.8-deepseek-pali]] 📜  [[snp2.10-deepseek-pali]] ►
 
 # Snp 2.9 Kiṃsīlasuttaṃ
@@ -65,8 +65,7 @@ The ninth discourse, the Kiṃsīla Sutta, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,6 +80,5 @@ The ninth discourse, the Kiṃsīla Sutta, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN29]], [[MN30]], [[AN5.151]], [[AN5.202]], [[AN6.86]], [[AN8.53]], [[AN10.58]], [[THAG5:10]], [[AN6.26]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.9]]
 > ◄  [[snp2.8-deepseek-pali]] 📜  [[snp2.10-deepseek-pali]] ►

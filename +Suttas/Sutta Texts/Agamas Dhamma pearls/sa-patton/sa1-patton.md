@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA1]]
 > ◄  [[]] 📜  [[sa2-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -30,8 +30,7 @@ _(Like “observe … impermanent,” “pain,” “emptiness,” and “not se
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -42,6 +41,5 @@ _(Like “observe … impermanent,” “pain,” “emptiness,” and “not se
 | [[SA1]], [[SN22.51]], [[SN22.12-14]], [[SN35.156-157]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA1]]
 > ◄  [[]] 📜  [[sa2-patton]] ►

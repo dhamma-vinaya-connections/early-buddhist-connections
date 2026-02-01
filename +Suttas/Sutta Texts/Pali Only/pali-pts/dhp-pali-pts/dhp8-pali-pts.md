@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP8-PALI"
+sutta_code: "DHP8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sahassavagga "
+  - "Thousands"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP8]]
 > ◄  [[dhp7-pali-pts]] 📜  [[dhp9-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,16 @@ anikkasāvo kāsāvaṃ yo vatthaṃ paridahessati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 29 |
+> > [!check]- Partial parallels 
+> > 
+| [[PE3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP8]]
+> ◄  [[dhp7-pali-pts]] 📜  [[dhp9-pali-pts]] ►

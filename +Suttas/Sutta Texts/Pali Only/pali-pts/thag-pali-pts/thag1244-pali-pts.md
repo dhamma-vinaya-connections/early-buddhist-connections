@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1244-PALI"
+sutta_code: "THAG1244"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1244-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1244]]
 > ◄  [[thag1243-pali-pts]] 📜  [[thag1245-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ evaṃ sudesite dhamme ko pamādo vijānataṃ dhammaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1244-) 
 

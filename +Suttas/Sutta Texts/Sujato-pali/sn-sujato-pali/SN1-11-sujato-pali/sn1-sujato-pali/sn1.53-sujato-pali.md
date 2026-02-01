@@ -3,11 +3,11 @@ sutta_code: "SN1.53"
 sutta_title:
   - "Mittasutta "
   - "The Friend"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
 > ◄  [[sn1.52-sujato-pali]] 📜  [[sn1.54-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -49,8 +49,7 @@ taṁ mittaṁ samparāyikan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.53-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -61,6 +60,5 @@ taṁ mittaṁ samparāyikan"ti.
 | [[SA-2.137]], [[SA1000]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
 > ◄  [[sn1.52-sujato-pali]] 📜  [[sn1.54-sujato-pali]] ►

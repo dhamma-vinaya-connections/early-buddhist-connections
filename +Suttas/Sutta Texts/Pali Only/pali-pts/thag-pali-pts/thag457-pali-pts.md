@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG457-PALI"
+sutta_code: "THAG457"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG457-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG457]]
 > ◄  [[thag456-pali-pts]] 📜  [[thag458-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ kāmesv ādīnavaṃ disvā nekkhammaṃ daṭṭhu khemato
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag457-) 
 

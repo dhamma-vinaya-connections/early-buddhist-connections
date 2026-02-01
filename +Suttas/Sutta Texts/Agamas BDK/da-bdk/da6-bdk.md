@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA6]]
 > ◄  [[da5-bdk]] 📜  [[da7-bdk]] ►
 
 ### Sutra 6
@@ -207,8 +207,7 @@ rejoiced, respectfully received it, and carried it out.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -223,6 +222,5 @@ rejoiced, respectfully received it, and carried it out.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA6]]
 > ◄  [[da5-bdk]] 📜  [[da7-bdk]] ►

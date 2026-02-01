@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG10-PALI"
+sutta_code: "THIG10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Ekādasakanipātavagga "
+  - "Elevens Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG10]]
 > ◄  [[thig9-pali-sri]] 📜  [[thig11-pali-sri]] ►
 
 # 11. Ekadasaka-nipata - Pali
@@ -87,6 +87,5 @@ Ekādasanipāto niṭṭhito
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig10-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.12-PALI"
+sutta_code: "SN7.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Udayasutta "
+  - "Udaya"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.12]]
 > ◄  [[sn7.11-pali-sc]] 📜  [[sn7.13-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -48,6 +48,16 @@ Na punappunaṁ jāyati bhūripañño"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.80]], [[SA1157]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.80]], [[SA1157]], [[THAG10.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.12]]
+> ◄  [[sn7.11-pali-sc]] 📜  [[sn7.13-pali-sc]] ►

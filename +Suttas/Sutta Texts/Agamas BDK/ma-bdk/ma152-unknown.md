@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA152]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA152]]
 > ◄  [[ma151]] 📜  [[ma153]] ►
 
 ### 152. The Discourse to Suka
@@ -51,8 +51,7 @@ The young brahmin Suka replied, “It is not far.” The World-honored One said:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma152-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ The young brahmin Suka replied, “It is not far.” The World-honored One said:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.15]], [[AN4.178]], [[MA27]], [[MN135]], [[MN27]], [[MN95]], [[MN97]], [[SN3.17]], [[SN41.10]], [[SN41.7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA152]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA152]]
 > ◄  [[ma151]] 📜  [[ma153]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Appamādavagga "
   - "Diligence"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP2]]
 > ◄  [[dhp1-deepseek-pali]] 📜  [[dhp3-deepseek-pali]] ►
 
 # Dhp 2. Appamādavaggo
@@ -84,8 +84,7 @@ The Chapter on Heedfulness, the Second, is Finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -96,6 +95,5 @@ The Chapter on Heedfulness, the Second, is Finished.
 | [[EA52.7]], [[PE2]], [[PE8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP2]]
 > ◄  [[dhp1-deepseek-pali]] 📜  [[dhp3-deepseek-pali]] ►

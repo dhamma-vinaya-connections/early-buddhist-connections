@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP260-PALI"
+sutta_code: "DHP260"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP260-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP260]]
 > ◄  [[dhp259-pali-pts]] 📜  [[dhp261-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yamhi saccañ ca dhammo ca ahiṃsā saññamo damo /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp260-) 
 

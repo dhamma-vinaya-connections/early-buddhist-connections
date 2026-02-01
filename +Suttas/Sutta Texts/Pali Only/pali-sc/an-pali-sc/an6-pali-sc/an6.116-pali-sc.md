@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.116-PALI"
+sutta_code: "AN6.116"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Uddhacca "
+  - "Restlessness"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.116-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.116]]
 > ◄  [[an6.115-pali-sc]] 📜  [[an6.117-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -27,6 +27,15 @@ Dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.116-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 449 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN6.89]], [[AN6.90]], [[AN6.91]], [[AN6.92]], [[AN6.93]], [[AN6.94]], [[AN6.95]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.116]]
+> ◄  [[an6.115-pali-sc]] 📜  [[an6.117-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG4-PALI"
+sutta_code: "THAG4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Catukkanipātavagga "
+  - "Fours Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG4]]
 > ◄  [[thag3-pali-sri]] 📜  [[thag5-pali-sri]] ►
 
 # 4. Catukka-nipatha - Pali
@@ -468,6 +468,5 @@ Catukkanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag4-) 
 

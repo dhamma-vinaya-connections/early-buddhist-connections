@@ -34,28 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[AN8.68-70]]"
-  - "[[AN8.70]]"
-  - "[[DN16]]"
-  - "[[SN51.10]]"
-  - "[[UD8.5]]"
-  - "[[UD8.6]]"
-parallels_agama:
-  - "[[EA42.5]]"
-  - "[[MA36]]"
-parallels_partilal:
-  - "[[DN16]]"
-  - "[[AN8.70]]"
-  - "[[SN51.10]]"
-  - "[[AN8.68-70]]"
-  - "[[DA2]]"
-  - "[[UD8.5]]"
-  - "[[UD8.6]]"
-  - "[[MA36]]"
-  - "[[EA42.5]]"
-  - "[[PE3]]"
+parallels_nikaya: "[[AN8.68-70]], [[AN8.70]], [[DN16]], [[SN51.10]], [[UD8.5]], [[UD8.6]]"
+parallels_agama: "[[EA42.5]], [[MA36]]"
+parallels_partilal: "[[DN16]], [[AN8.70]], [[SN51.10]], [[AN8.68-70]], [[DA2]], [[UD8.5]], [[UD8.6]], [[MA36]], [[EA42.5]], [[PE3]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.10]]  🌐 [[UD6.2]] ►
 
@@ -79,8 +60,7 @@ he shattered self-creation like a suit of armor
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,8 +75,7 @@ he shattered self-creation like a suit of armor
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[SN51.26]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD6.1%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD6.1%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -107,7 +86,7 @@ he shattered self-creation like a suit of armor
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD6.1%5D%5D%22%23mynotes%20-file%3Aud6.1-%20-file%3A%22UD5.10%22%20-file%3A%22UD6.2%22%20-file%3A%22UD6.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud6.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.1

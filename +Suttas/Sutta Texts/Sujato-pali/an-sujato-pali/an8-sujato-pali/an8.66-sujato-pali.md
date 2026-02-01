@@ -3,11 +3,11 @@ sutta_code: "AN8.66"
 sutta_title:
   - "Vimokkha "
   - "Liberations"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.66]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.66]]
 > ◄  [[an8.65-sujato-pali]] 📜  [[an8.67-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -67,8 +67,7 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.66-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Chaṭṭhaṁ.
 | [[AN8.120]], [[AN1.447-454]], [[MN137]], [[DN16]], [[DN15]], [[MN77]], [[DN34]], [[DN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.66]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.66]]
 > ◄  [[an8.65-sujato-pali]] 📜  [[an8.67-sujato-pali]] ►

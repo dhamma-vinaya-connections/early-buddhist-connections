@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP380-PALI"
+sutta_code: "DHP380"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP380-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP380]]
 > ◄  [[dhp379-pali-pts]] 📜  [[dhp381-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ pāmojjabahulo bhikkhu pasanno Buddhasāsane /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp380-) 
 

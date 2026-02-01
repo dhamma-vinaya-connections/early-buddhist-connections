@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.14-PALI"
+sutta_code: "AN8.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Assakhaḷuṅka "
+  - "Unruly"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.14]]
 > ◄  [[an8.13-pali-sc]] 📜  [[an8.15-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -64,6 +64,16 @@ Catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.13]] | [[SA-2.149]], [[SA-2.150]], [[SA924]], [[SA925]] | A iv 190 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.13]], [[SA-2.150]], [[SA925]], [[SA-2.149]], [[SA924]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.14]]
+> ◄  [[an8.13-pali-sc]] 📜  [[an8.15-pali-sc]] ►

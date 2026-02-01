@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.59-PALI"
+sutta_code: "SN1.59"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dutiyasutta "
+  - "Partner"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.59-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.59]]
 > ◄  [[sn1.58-pali-sc]] 📜  [[sn1.60-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -43,6 +43,16 @@ Sabbadukkhā pamuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.59-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.241]], [[SA1014]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.241]], [[SA1014]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.59]]
+> ◄  [[sn1.58-pali-sc]] 📜  [[sn1.60-pali-sc]] ►

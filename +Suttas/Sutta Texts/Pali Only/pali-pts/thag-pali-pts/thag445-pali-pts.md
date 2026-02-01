@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG445-PALI"
+sutta_code: "THAG445"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG445-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG445]]
 > ◄  [[thag444-pali-pts]] 📜  [[thag446-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sace dhāvati te cittaṃ kāmesu ca bhavesu ca,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag445-) 
 

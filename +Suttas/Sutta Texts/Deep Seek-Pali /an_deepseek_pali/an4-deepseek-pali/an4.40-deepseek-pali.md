@@ -4,10 +4,10 @@ sutta_title:
   - "Udāyī "
   - "With Udāyī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.40]]
 > ◄  [[an4.39-deepseek-pali]] 📜  [[an4.41-deepseek-pali]] ►
 
 # AN 4.40 Udāyīsuttaṃ
@@ -63,8 +63,7 @@ The Wheel, the Assembly, the Lion, Confidence, and Vassakāra as the fifth; Do�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.40-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ The Wheel, the Assembly, the Lion, Confidence, and Vassakāra as the fifth; Do�
 | [[SA-2.90]], [[SA90]], [[AN8.54]], [[AN6.37]], [[AN8.37]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.40]]
 > ◄  [[an4.39-deepseek-pali]] 📜  [[an4.41-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG15-PALI"
+sutta_code: "THAG15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Soḷasakanipātavagga "
+  - "Sixtieens Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG15]]
 > ◄  [[thag14-pali-pts]] 📜  [[thag16-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ gacchati appakasirena, evaṃ rattindivā mama
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag15-) 
 

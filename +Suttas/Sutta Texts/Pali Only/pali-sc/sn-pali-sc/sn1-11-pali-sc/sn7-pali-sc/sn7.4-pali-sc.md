@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.4-PALI"
+sutta_code: "SN7.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bilaṅgikasutta "
+  - "Bilangika"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.4]]
 > ◄  [[sn7.3-pali-sc]] 📜  [[sn7.5-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -30,6 +30,16 @@ Sukhumo rajo paṭivātaṁva khitto"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP125]] | [[SA-2.77]], [[SA1154]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.77]], [[SA1154]], [[DHP125]], [[JA367]], [[SN1.22]], [[SNP3.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.4]]
+> ◄  [[sn7.3-pali-sc]] 📜  [[sn7.5-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.42-PALI"
+sutta_code: "AN7.42"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Niddasa "
+  - "Graduation"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.42-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
 > ◄  [[an7.41-pali-pts]] 📜  [[an7.43-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Katamehi sattahi?
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.42-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 34 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN7.20]], [[DN33]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
+> ◄  [[an7.41-pali-pts]] 📜  [[an7.43-pali-pts]] ►

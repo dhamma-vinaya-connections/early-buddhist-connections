@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG125-PALI"
+sutta_code: "THIG125"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG125-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG125]]
 > ◄  [[thig124-pali-pts]] 📜  [[thig126-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ tassāhaṃ vacanaṃ sutvā akāsiṃ anusāsaniṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig125-) 
 

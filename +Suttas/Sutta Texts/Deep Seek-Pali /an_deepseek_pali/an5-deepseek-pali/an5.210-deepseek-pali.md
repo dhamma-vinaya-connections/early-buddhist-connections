@@ -4,10 +4,10 @@ sutta_title:
   - "Muṭṭhassati "
   - "Unmindful"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.210]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.210]]
 > ◄  [[an5.209-deepseek-pali]] 📜  [[an5.211-deepseek-pali]] ►
 
 # AN 5.210 Muṭṭhassatisuttaṃ
@@ -43,8 +43,7 @@ Chapter 2: The Abuser
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.210-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Chapter 2: The Abuser
 | [[PLI-TV-KD8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.210]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.210]]
 > ◄  [[an5.209-deepseek-pali]] 📜  [[an5.211-deepseek-pali]] ►

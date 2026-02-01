@@ -3,11 +3,11 @@ sutta_code: "SN2.20"
 sutta_title:
   - "Anāthapiṇḍikasutta "
   - "Anāthapiṇḍika"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.20]]
 > ◄  [[sn2.19-sujato-pali]] 📜  [[sn2.21-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -125,8 +125,7 @@ Dasamo anāthapiṇḍikoti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -137,6 +136,5 @@ Dasamo anāthapiṇḍikoti.
 | [[MN143]], [[EA51.8]], [[MA28]], [[SA-2.187]], [[SA1032]], [[SA593]], [[SN1.48]], [[SN55.26]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.20]]
 > ◄  [[sn2.19-sujato-pali]] 📜  [[sn2.21-sujato-pali]] ►

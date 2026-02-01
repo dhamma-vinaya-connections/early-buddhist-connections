@@ -4,10 +4,10 @@ sutta_title:
   - "Subhāsitasutta "
   - "Well Spoken Words"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.3]]
 > ◄  [[snp3.2-deepseek-pali]] 📜  [[snp3.4-deepseek-pali]] ►
 
 # Snp 3.3 Subhāsitasuttaṃ
@@ -65,8 +65,7 @@ The third Subhāsita Sutta is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,6 +80,5 @@ The third Subhāsita Sutta is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN21]], [[MN58]], [[SN11.5]], [[AN4.183]], [[AN5.198]], [[AN8.8]], [[AN10.165]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.3]]
 > ◄  [[snp3.2-deepseek-pali]] 📜  [[snp3.4-deepseek-pali]] ►

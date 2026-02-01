@@ -3,11 +3,11 @@ sutta_code: "AN4.30"
 sutta_title:
   - "Puññābhisanda "
   - "Overflowing Merit 1st"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
 > ◄  [[an4.29-sujato-pali]] 📜  [[an4.31-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -127,8 +127,7 @@ Uruvelavaggo tatiyo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.30-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -139,6 +138,5 @@ Uruvelavaggo tatiyo.
 | [[MN117]], [[SN22.62]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
 > ◄  [[an4.29-sujato-pali]] 📜  [[an4.31-sujato-pali]] ►

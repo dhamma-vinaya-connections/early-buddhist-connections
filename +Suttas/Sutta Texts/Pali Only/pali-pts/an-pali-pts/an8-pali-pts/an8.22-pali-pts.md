@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.22-PALI"
+sutta_code: "AN8.22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṭhamaugga "
+  - "With Ugga Of Vesālī"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.22]]
 > ◄  [[an8.21-pali-pts]] 📜  [[an8.23-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Atha kho so bhikkhu Uggassa gahapatino Vesālikassa nivesane piṇḍapātaṃ g
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA38]] | A iv 212 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA38]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.22]]
+> ◄  [[an8.21-pali-pts]] 📜  [[an8.23-pali-pts]] ►

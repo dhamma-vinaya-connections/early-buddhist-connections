@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG13-PALI"
+sutta_code: "THAG13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Terasanipātavagga "
+  - "Thirteens Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG13]]
 > ◄  [[thag12-pali-sri]] 📜  [[thag14-pali-sri]] ►
 
 # 13. Terasa nipata - Pali
@@ -133,6 +133,5 @@ Terasanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag13-) 
 

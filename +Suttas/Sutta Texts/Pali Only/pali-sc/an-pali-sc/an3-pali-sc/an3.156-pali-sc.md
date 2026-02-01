@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.156-PALI"
+sutta_code: "AN3.156"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pubbaṇha "
+  - "Morning"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.156-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.156]]
 > ◄  [[an3.155-pali-sc]] 📜  [[an3.163-pali-sc]] ►
 
 ## Aṅguttara Nikāya – The Numerical Discourses
@@ -66,6 +66,16 @@ Paṭipadāya yojayeti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.156-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 295 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN8]], [[DN25]], [[MN12]], [[MN45]], [[MN51]], [[MN60]], [[AN4.198]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.156]]
+> ◄  [[an3.155-pali-sc]] 📜  [[an3.163-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN128-PALI"
+sutta_code: "MN128"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Upakkilesa Sutta "
+  - "Corruptions"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
 > ◄  [[mn127-pali-sri]] 📜  [[mn129-pali-sri]] ►
 
 # 128. Upakkilesa - Pali
@@ -222,6 +222,20 @@ Upakkilesasuttaṃ aṭṭhamaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn128-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP3]]; [[DHP328]]; [[DHP329]]; [[DHP330]]; [[DHP4]]; [[DHP5]]; [[DHP6]]; [[MN31]]; [[JA371]]; [[JA428]] | [[EA24.8]]; [[MA185]]; [[MA72]] | M iii 152 |
+> > [!check]- Partial parallels 
+> > 
+| [[JA371]]; [[MA72]]; [[EA24.8]]; [[JA428]]; [[PLI-TV-KD10]]; [[DHP3]]; [[DHP328]]; [[SNP1.3]]; [[DHP329]]; [[DHP330]]; [[DHP4]]; [[DHP5]]; [[DHP6]]; [[THAG4.3]]; [[THAG8.1]]; [[UD5.9]]; [[MN31]]; [[MA185]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN48]], [[MN31]], [[MN127]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
+> ◄  [[mn127-pali-sri]] 📜  [[mn129-pali-sri]] ►

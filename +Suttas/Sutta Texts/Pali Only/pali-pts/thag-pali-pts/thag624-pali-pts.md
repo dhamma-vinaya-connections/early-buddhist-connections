@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG624-PALI"
+sutta_code: "THAG624"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG624-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG624]]
 > ◄  [[thag623-pali-pts]] 📜  [[thag625-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tato kāruṇiko satthā sabbalokānukampako
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag624-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Cālāsutta "
   - "Cala"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
 > ◄  [[sn5.5-deepseek-pali]] 📜  [[sn5.7-deepseek-pali]] ►
 
 # SN 5.6 Cālāsuttaṃ
@@ -43,8 +43,7 @@ Then Māra the Evil One, thinking, "The bhikkhunī Cālā knows me," miserable a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then Māra the Evil One, thinking, "The bhikkhunī Cālā knows me," miserable a
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN6.15]], [[SN9.6.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
 > ◄  [[sn5.5-deepseek-pali]] 📜  [[sn5.7-deepseek-pali]] ►

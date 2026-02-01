@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.4-PALI"
+sutta_code: "AN5.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vitthata "
+  - "In Detail"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.4]]
 > ◄  [[an5.3-pali-sri]] 📜  [[an5.5-pali-sri]] ►
 
 # 8:4 Danavaggo - Pali
@@ -308,6 +308,11 @@ Dve dānāni vatthuñca mettaṃ dānūpapattiyo kiriyaṃ devasappurisā abhisa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 3 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.4]]
+> ◄  [[an5.3-pali-sri]] 📜  [[an5.5-pali-sri]] ►

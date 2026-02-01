@@ -4,10 +4,10 @@ sutta_title:
   - "Paṇḍitavagga "
   - "Astute"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP6]]
 > ◄  [[dhp5-deepseek-pali]] 📜  [[dhp7-deepseek-pali]] ►
 
 # Dhp 6. Paṇḍitavaggo
@@ -90,8 +90,7 @@ The Chapter on the Wise, the Sixth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -102,6 +101,5 @@ The Chapter on the Wise, the Sixth, is finished.
 | [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[THAG4.3]], [[THAG8.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP6]]
 > ◄  [[dhp5-deepseek-pali]] 📜  [[dhp7-deepseek-pali]] ►

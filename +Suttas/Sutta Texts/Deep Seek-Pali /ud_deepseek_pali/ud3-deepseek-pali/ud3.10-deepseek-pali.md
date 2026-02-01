@@ -4,10 +4,10 @@ sutta_title:
   - "Lokavolokana Sutta "
   - "Surveying the World"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.10]]
 > ◄  [[ud3.9-deepseek-pali]] 📜  [[]] ►
 
 # Ud 3.10 Lokasuttaṃ
@@ -67,8 +67,7 @@ Kamma, Nanda, Yasojā, and Sāriputta; Kolita, Pilinda, Kassapa, Piṇḍola; Sk
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ Kamma, Nanda, Yasojā, and Sāriputta; Kolita, Pilinda, Kassapa, Piṇḍola; Sk
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN113]], [[SN1.1]], [[SN12.15]], [[ITI49]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.10]]
 > ◄  [[ud3.9-deepseek-pali]] 📜  [[]] ►

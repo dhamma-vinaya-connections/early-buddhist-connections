@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamasāraṇīya "
   - "Warm-Hearted"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.12]]
 > ◄  [[an6.11-deepseek-pali]] 📜  [[an6.13-deepseek-pali]] ►
 
 # AN 6.12 Dutiyasāraṇīyasuttaṃ
@@ -39,8 +39,7 @@ Furthermore, mendicants, a mendicant abides possessed of that view which is nobl
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Furthermore, mendicants, a mendicant abides possessed of that view which is nobl
 | [[AN6.11]], [[DN33]], [[EA37.1]], [[PLI-TV-PVR4]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.12]]
 > ◄  [[an6.11-deepseek-pali]] 📜  [[an6.13-deepseek-pali]] ►

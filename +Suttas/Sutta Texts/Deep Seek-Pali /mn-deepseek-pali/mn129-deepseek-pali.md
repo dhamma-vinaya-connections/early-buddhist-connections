@@ -4,10 +4,10 @@ sutta_title:
   - "Bālapaṇḍita Sutta "
   - "Foolish and the Astute"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN129]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN129]]
 > ◄  [[mn128-deepseek-pali]] 📜  [[mn130-deepseek-pali]] ►
 
 # 129. Devadūtasuttaṃ
@@ -203,8 +203,7 @@ The summary—Emptiness is twofold, the wonderful Dhamma, and abundance; Acirava
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn129-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -219,6 +218,5 @@ The summary—Emptiness is twofold, the wonderful Dhamma, and abundance; Acirava
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN130]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN129]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN129]]
 > ◄  [[mn128-deepseek-pali]] 📜  [[mn130-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.4-PALI"
+sutta_code: "SNP4.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Suddhaṭṭhakasutta "
+  - "Eight on the Pure"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.4]]
 > ◄  [[snp4.3-pali-sc]] 📜  [[snp4.5-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -60,6 +60,7 @@ Suddhaṭṭhakasuttaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.4]]
+> ◄  [[snp4.3-pali-sc]] 📜  [[snp4.5-pali-sc]] ►

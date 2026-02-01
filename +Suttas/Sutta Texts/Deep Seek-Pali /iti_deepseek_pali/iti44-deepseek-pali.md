@@ -4,10 +4,10 @@ sutta_title:
   - "Nibbānadhātu "
   - "Nibbāna Element"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI44]]
 > ◄  [[iti43-deepseek-pali]] 📜  [[iti45-deepseek-pali]] ►
 
 # Iti 44 Paṭisallānasuttaṃ
@@ -29,9 +29,7 @@ This meaning, too, was spoken by the Blessed One, thus I heard. Eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti44-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI44]]
 > ◄  [[iti43-deepseek-pali]] 📜  [[iti45-deepseek-pali]] ►

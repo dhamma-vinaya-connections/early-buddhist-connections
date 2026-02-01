@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
 > ◄  [[mn74-thanissaro]] 📜  [[mn77-thanissaro]] ►
 
 ## MN75 To Māgaṇḍiya
@@ -192,8 +192,7 @@ Then Māgaṇḍiya the wanderer received the going forth & the acceptance in th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn75-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -204,6 +203,5 @@ Then Māgaṇḍiya the wanderer received the going forth & the acceptance in th
 | [[MA153]]; [[DHP204]]; [[MN75]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
 > ◄  [[mn74-thanissaro]] 📜  [[mn77-thanissaro]] ►

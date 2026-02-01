@@ -4,10 +4,10 @@ sutta_title:
   - "Kaccana Sutta "
   - "Kaccāyana"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8]]
 > ◄  [[ud7.7-deepseek-pali]] 📜  [[ud7.9-deepseek-pali]] ►
 
 # Ud 7.8 Kaccānasuttaṃ
@@ -35,9 +35,7 @@ Then, having understood this matter, the Blessed One on that occasion uttered th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.8-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8]]
 > ◄  [[ud7.7-deepseek-pali]] 📜  [[ud7.9-deepseek-pali]] ►

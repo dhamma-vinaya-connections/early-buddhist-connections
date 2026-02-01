@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI59-PALI"
+sutta_code: "ITI59"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Māradheyya "
+  - "Maras Sway"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI59-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI59]]
 > ◄  [[iti58-pali-pts]] 📜  [[iti60-pali-pts]] ►
 
 ## Itivuttaka
@@ -28,6 +28,5 @@ Mūladhātu (50,51) atha vedanā duve (52,53) esanā ca duve (54,55) āsavā duv
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti59-) 
 

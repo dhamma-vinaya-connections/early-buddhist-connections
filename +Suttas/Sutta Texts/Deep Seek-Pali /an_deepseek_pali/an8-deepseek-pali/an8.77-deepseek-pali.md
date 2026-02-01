@@ -4,10 +4,10 @@ sutta_title:
   - "Icchā "
   - "Desires"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.77]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.77]]
 > ◄  [[an8.76-deepseek-pali]] 📜  [[an8.78-deepseek-pali]] ►
 
 # AN 8.77 Icchāsuttaṃ
@@ -55,8 +55,7 @@ Here, friends, a bhikkhu living secluded, independent in his way of life, a desi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.77-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Here, friends, a bhikkhu living secluded, independent in his way of life, a desi
 | [[AN8.61]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.77]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.77]]
 > ◄  [[an8.76-deepseek-pali]] 📜  [[an8.78-deepseek-pali]] ►

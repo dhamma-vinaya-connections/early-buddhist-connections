@@ -4,10 +4,10 @@ sutta_title:
   - "Cūḷasuññata Sutta "
   - "Emptiness Shorter Discourse"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN121]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN121]]
 > ◄  [[mn120-deepseek-pali]] 📜  [[mn122-deepseek-pali]] ►
 
 # 121. Mahāsuññatasuttaṃ
@@ -119,8 +119,7 @@ Mahāsuññatasuttaṃ niṭṭhitaṃ dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn121-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -135,6 +134,5 @@ Mahāsuññatasuttaṃ niṭṭhitaṃ dutiyaṃ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.42]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN121]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN121]]
 > ◄  [[mn120-deepseek-pali]] 📜  [[mn122-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Somanasa "
   - "Happiness"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI37]]
 > ◄  [[iti36-deepseek-pali]] 📜  [[iti38-deepseek-pali]] ►
 
 # Iti 37 Vitakkasuttaṃ
@@ -37,9 +37,7 @@ This meaning, too, was spoken by the Blessed One, thus I have heard. First.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti37-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI37]]
 > ◄  [[iti36-deepseek-pali]] 📜  [[iti38-deepseek-pali]] ►

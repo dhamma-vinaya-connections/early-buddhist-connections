@@ -4,10 +4,10 @@ sutta_title:
   - "Māgaṇḍiyasutta "
   - "With Māgaṇḍiya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
 > ◄  [[snp4.8-deepseek-pali]] 📜  [[snp4.10-deepseek-pali]] ►
 
 # Snp 4.9 Māgaṇḍiyasuttaṃ
@@ -101,8 +101,7 @@ The Discourse to Māgaṇḍiya, the ninth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -117,6 +116,5 @@ The Discourse to Māgaṇḍiya, the ninth, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN9]], [[MN63]], [[MN72]], [[AN4.194]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
 > ◄  [[snp4.8-deepseek-pali]] 📜  [[snp4.10-deepseek-pali]] ►

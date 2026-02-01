@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI54]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI54]]
 > ◄  [[iti53-thanissaro]] 📜  [[iti55-thanissaro]] ►
 
 # Itivuttaka 54
@@ -48,8 +48,7 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti54-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -64,6 +63,5 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN26]], [[AN3.39]], [[AN4.252]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI54]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI54]]
 > ◄  [[iti53-thanissaro]] 📜  [[iti55-thanissaro]] ►

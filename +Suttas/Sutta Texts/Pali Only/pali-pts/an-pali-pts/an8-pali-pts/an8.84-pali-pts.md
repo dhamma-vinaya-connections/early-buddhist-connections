@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.84-PALI"
+sutta_code: "AN8.84"
 sutta_title:
   - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Master Thief"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.84-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.84]]
 > ◄  [[an8.83-pali-pts]] 📜  [[an8.85-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,11 @@ Aṭṭhahi bhikkhave aṅgehi samannāgato mahācoro khippaṃ pariyāpajjati n
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.84-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 339 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.84]]
+> ◄  [[an8.83-pali-pts]] 📜  [[an8.85-pali-pts]] ►

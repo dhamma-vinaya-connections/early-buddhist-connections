@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
 > ◄  [[mn2-bodhi]] 📜  [[mn4-bodhi]] ►
 
 # MN3 Dhammadāyāda Sutta - Heirs in Dhamma
@@ -67,8 +67,7 @@ That is what the venerable Sāriputta said. The bhikkhus were satisfied and deli
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ That is what the venerable Sāriputta said. The bhikkhus were satisfied and deli
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
 > ◄  [[mn2-bodhi]] 📜  [[mn4-bodhi]] ►

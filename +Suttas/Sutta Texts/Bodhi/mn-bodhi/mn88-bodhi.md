@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
 > ◄  [[mn87-bodhi]] 📜  [[mn89-bodhi]] ►
 
 # MN88 Bāhitika Sutta - The Cloak
@@ -123,8 +123,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn88-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -135,6 +134,5 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 | [[MA214]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
 > ◄  [[mn87-bodhi]] 📜  [[mn89-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP374-PALI"
+sutta_code: "DHP374"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP374-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP374]]
 > ◄  [[dhp373-pali-pts]] 📜  [[dhp375-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ indriyaguttī santuṭṭhī pātimokkhe ca saṃvaro, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp374-) 
 

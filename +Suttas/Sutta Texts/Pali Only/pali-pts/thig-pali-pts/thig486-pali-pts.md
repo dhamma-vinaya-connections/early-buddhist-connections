@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG486-PALI"
+sutta_code: "THIG486"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG486-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG486]]
 > ◄  [[thig485-pali-pts]] 📜  [[thig487-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ satta ratanāni vasseyya vuṭṭhimā dasadisā samantena |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig486-) 
 

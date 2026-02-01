@@ -3,11 +3,11 @@ sutta_code: "DN21"
 sutta_title:
   - "Sakkapañha Sutta "
   - "Sakka’s Questions"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
 > ◄  [[dn20-sujato-pali]] 📜  [[dn22-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -1077,8 +1077,7 @@ Sakkapañhasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -1089,6 +1088,5 @@ Sakkapañhasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 | [[DA14]], [[MA134]], [[SNP3.6]], [[SN22.4]], [[SA552]], [[SA505]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
 > ◄  [[dn20-sujato-pali]] 📜  [[dn22-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.46-PALI"
+sutta_code: "AN4.46"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Rohitassa "
+  - "Rohitassa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.46-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.46]]
 > ◄  [[an4.45-pali-sc]] 📜  [[an4.47-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -39,6 +39,20 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.46-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.45]], [[SN2.26]] | [[EA43.1]], [[SA-2.306]], [[SA1307]] | A ii 49 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.45]], [[SA-2.306]], [[SA1307]], [[SN2.26]], [[EA43.1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN9.38]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.46]]
+> ◄  [[an4.45-pali-sc]] 📜  [[an4.47-pali-sc]] ►

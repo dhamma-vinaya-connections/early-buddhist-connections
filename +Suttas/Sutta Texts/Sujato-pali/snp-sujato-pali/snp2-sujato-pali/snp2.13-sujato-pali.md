@@ -3,11 +3,11 @@ sutta_code: "SNP2.13"
 sutta_title:
   - "Sammāparibbājanīyasutta "
   - "Rightly Wander"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.13]]
 > ◄  [[snp2.12-sujato-pali]] 📜  [[snp2.14-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -222,6 +222,5 @@ Sammāparibbājanīyasuttaṁ terasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.13-) 
 

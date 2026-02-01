@@ -4,10 +4,10 @@ sutta_title:
   - "Niddasa "
   - "Graduation"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
 > ◄  [[an7.41-deepseek-pali]] 📜  [[an7.43-deepseek-pali]] ►
 
 # AN 7.42 Paṭhamaniddasasuttaṃ
@@ -39,8 +39,7 @@ Venerable Sāriputta neither approved nor rejected what those wanderers of other
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.42-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Venerable Sāriputta neither approved nor rejected what those wanderers of other
 | [[AN7.20]], [[DN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
 > ◄  [[an7.41-deepseek-pali]] 📜  [[an7.43-deepseek-pali]] ►

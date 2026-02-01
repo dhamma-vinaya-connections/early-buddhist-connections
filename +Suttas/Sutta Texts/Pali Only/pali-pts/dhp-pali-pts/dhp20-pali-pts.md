@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP20-PALI"
+sutta_code: "DHP20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Maggavagga "
+  - "Path"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP20]]
 > ◄  [[dhp19-pali-pts]] 📜  [[dhp21-pali-pts]] ►
 
 ## Dhammapada
@@ -25,6 +25,11 @@ appamādo amatapadaṃ pamādo maccuno padaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp20-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 77 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP20]]
+> ◄  [[dhp19-pali-pts]] 📜  [[dhp21-pali-pts]] ►

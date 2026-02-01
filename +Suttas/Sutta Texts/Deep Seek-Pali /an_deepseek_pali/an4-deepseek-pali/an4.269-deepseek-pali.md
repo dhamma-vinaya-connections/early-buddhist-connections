@@ -4,10 +4,10 @@ sutta_title:
   - " "
   - ""
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.269]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.269]]
 > ◄  [[an4.268-deepseek-pali]] 📜  [[an4.270-deepseek-pali]] ►
 
 # AN 4.269 Pharusavācāsuttaṃ
@@ -27,6 +27,5 @@ He himself abstains from harsh speech, he encourages others to abstain from hars
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.269-) 
 

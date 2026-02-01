@@ -4,10 +4,10 @@ sutta_title:
   - "Sattaviññāṇaṭṭhiti "
   - "Consciousness Planes"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.44]]
 > ◄  [[an7.43-deepseek-pali]] 📜  [[an7.45-deepseek-pali]] ►
 
 # AN 7.44 Sattaviññāṇaṭṭhitisuttaṃ
@@ -47,8 +47,7 @@ There are, monks, beings who, having entirely transcended the dimension of infin
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.44-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ There are, monks, beings who, having entirely transcended the dimension of infin
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.48]], [[AN10.60]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.44]]
 > ◄  [[an7.43-deepseek-pali]] 📜  [[an7.45-deepseek-pali]] ►

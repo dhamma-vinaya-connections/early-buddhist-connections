@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA12]]  / 🌐 [[SA733]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA12]]  / 🌐 [[SA733]]
 > ◄  [[sa724-patton]] 📜  [[sa736-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -38,8 +38,7 @@ The Buddha told the monk, “The expression ‘factors of awakening’ refers to
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa733-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -50,6 +49,5 @@ The Buddha told the monk, “The expression ‘factors of awakening’ refers to
 | [[SN46.5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA12]]  / 🌐 [[SA733]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA12]]  / 🌐 [[SA733]]
 > ◄  [[sa724-patton]] 📜  [[sa736-patton]] ►

@@ -3,11 +3,11 @@ sutta_code: "SN5.3"
 sutta_title:
   - "Kisāgotamīsutta "
   - "Gotami"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
 > ◄  [[sn5.2-sujato-pali]] 📜  [[sn5.4-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -85,8 +85,7 @@ viharāmi anāsavā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -97,6 +96,5 @@ viharāmi anāsavā"ti.
 | [[SA-2.216]], [[SA1200]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
 > ◄  [[sn5.2-sujato-pali]] 📜  [[sn5.4-sujato-pali]] ►

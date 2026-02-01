@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.1-PALI"
+sutta_code: "SN2.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṭhamakassapasutta "
+  - "Kassapa (1)"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
 > ◄  [[]] 📜  [[sn2.2-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -39,6 +39,16 @@ sataṃ saddhammam aññāya || sabbadukkhā pamuccatīti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.316]], [[SA1317]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.316]], [[SA1317]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
+> ◄  [[]] 📜  [[sn2.2-pali-pts]] ►

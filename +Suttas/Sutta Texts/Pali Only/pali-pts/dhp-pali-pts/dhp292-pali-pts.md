@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP292-PALI"
+sutta_code: "DHP292"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP292-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP292]]
 > ◄  [[dhp291-pali-pts]] 📜  [[dhp293-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ akiccan te na sevanti kicce sātaccakārino, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp292-) 
 

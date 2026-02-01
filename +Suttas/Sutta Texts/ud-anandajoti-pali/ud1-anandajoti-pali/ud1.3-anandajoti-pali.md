@@ -3,11 +3,11 @@ sutta_code: "UD1.3"
 sutta_title:
   - "Tatiyabodhi Sutta "
   - "The Bodhi Tree (3)"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.3]]
 > ◄  [[ud1.2-anandajoti-pali]] 📜  [[ud1.4-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -59,8 +59,7 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Tatiyaṁ.
 | [[PLI-TV-KD1]], [[UD1.1]], [[UD1.2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.3]]
 > ◄  [[ud1.2-anandajoti-pali]] 📜  [[ud1.4-anandajoti-pali]] ►

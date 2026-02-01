@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA24]]
 > ◄  [[da23-bdk]] 📜  [[da25-bdk]] ►
 
 ### Kevaddha
@@ -276,8 +276,7 @@ Buddha taught.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -288,6 +287,5 @@ Buddha taught.
 | [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[SNP1.3]], [[MA72]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA24]]
 > ◄  [[da23-bdk]] 📜  [[da25-bdk]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.23-PALI"
+sutta_code: "SN3.23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Lokasutta "
+  - "World"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.23]]
 > ◄  [[sn3.22-pali-sc]] 📜  [[sn3.24-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -33,6 +33,16 @@ tacasāraṁva samphalan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.23-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN3.2]] | [[SA-2.4]], [[SA1065]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.4]], [[SA1065]], [[SN3.2]], [[ITI50]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.23]]
+> ◄  [[sn3.22-pali-sc]] 📜  [[sn3.24-pali-sc]] ►

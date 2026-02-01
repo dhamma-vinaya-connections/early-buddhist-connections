@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP126-PALI"
+sutta_code: "DHP126"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP126-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP126]]
 > ◄  [[dhp125-pali-pts]] 📜  [[dhp127-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp126-) 
 

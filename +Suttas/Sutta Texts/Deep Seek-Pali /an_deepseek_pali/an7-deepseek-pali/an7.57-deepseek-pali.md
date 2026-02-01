@@ -4,10 +4,10 @@ sutta_title:
   - "Sīhasenāpati "
   - "General Sīha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.57]]
 > ◄  [[an7.56-deepseek-pali]] 📜  [[an7.58-deepseek-pali]] ►
 
 # AN 7.57 Sīhasenāpatisuttaṃ
@@ -59,8 +59,7 @@ Venerable sir, as for these visible fruits of giving declared by the Blessed One
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.57-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Venerable sir, as for these visible fruits of giving declared by the Blessed One
 | [[AN5.34]], [[EA52.6]], [[EA32.10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.57]]
 > ◄  [[an7.56-deepseek-pali]] 📜  [[an7.58-deepseek-pali]] ►

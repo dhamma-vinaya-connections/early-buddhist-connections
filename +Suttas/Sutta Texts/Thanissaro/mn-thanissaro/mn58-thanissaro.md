@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
 > ◄  [[mn56-thanissaro]] 📜  [[mn59-thanissaro]] ►
 
 ## MN58 To Prince Abhaya
@@ -86,8 +86,7 @@ When this was said, Prince Abhaya said to the Blessed One: “Magnificent, lord!
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn58-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -97,6 +96,5 @@ When this was said, Prince Abhaya said to the Blessed One: “Magnificent, lord!
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.24]]; [[AN4.42]]; [[AN4.183]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
 > ◄  [[mn56-thanissaro]] 📜  [[mn59-thanissaro]] ►

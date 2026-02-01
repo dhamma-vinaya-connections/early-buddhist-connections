@@ -4,10 +4,10 @@ sutta_title:
   - "Tapokammasutta "
   - "Mortification"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
 > ◄  [[]] 📜  [[sn4.2-deepseek-pali]] ►
 
 # SN 4.1 Tapokammasuttaṃ
@@ -47,8 +47,7 @@ Then Māra the Evil One, realizing, "The Blessed One knows me; the Fortunate One
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then Māra the Evil One, realizing, "The Blessed One knows me; the Fortunate One
 | [[SA1094]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
 > ◄  [[]] 📜  [[sn4.2-deepseek-pali]] ►

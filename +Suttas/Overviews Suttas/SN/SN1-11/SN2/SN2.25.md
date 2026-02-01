@@ -34,16 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[SN9.13]]"
-parallels_agama:
-  - "[[SA-2.363]]"
-  - "[[SA1343]]"
-parallels_partilal:
-  - "[[SA-2.363]]"
-  - "[[SA1343]]"
-  - "[[SN9.13]]"
+parallels_nikaya: "[[SN9.13]]"
+parallels_agama: "[[SA-2.363]], [[SA1343]]"
+parallels_partilal: "[[SA-2.363]], [[SA1343]], [[SN9.13]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.24]]  🌐 [[SN2.26]] ►
 
@@ -71,8 +64,7 @@ Infatuated in others’ homes
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.25-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -84,8 +76,7 @@ Infatuated in others’ homes
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN2.25%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN2.25%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -96,7 +87,7 @@ Infatuated in others’ homes
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.25%5D%5D%22%23mynotes%20-file%3Asn2.25-%20-file%3A%22SN2.24%22%20-file%3A%22SN2.26%22%20-file%3A%22SN2.25%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.25

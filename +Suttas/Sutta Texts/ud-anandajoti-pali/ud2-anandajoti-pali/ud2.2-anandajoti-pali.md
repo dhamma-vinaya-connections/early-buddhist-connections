@@ -3,11 +3,11 @@ sutta_code: "UD2.2"
 sutta_title:
   - "Raja Sutta "
   - "Kings"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.2]]
 > ◄  [[ud2.1-anandajoti-pali]] 📜  [[ud2.3-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -75,8 +75,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ Dutiyaṁ.
 | [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.2]]
 > ◄  [[ud2.1-anandajoti-pali]] 📜  [[ud2.3-anandajoti-pali]] ►

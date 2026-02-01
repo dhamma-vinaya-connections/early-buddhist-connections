@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG12-PALI"
+sutta_code: "THAG12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dvādasakanipātavagga "
+  - "Twelves Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG12]]
 > ◄  [[thag11-pali-sc]] 📜  [[thag13-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -151,6 +151,5 @@ etaṁ brāhmaṇamuttaman’"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag12-) 
 

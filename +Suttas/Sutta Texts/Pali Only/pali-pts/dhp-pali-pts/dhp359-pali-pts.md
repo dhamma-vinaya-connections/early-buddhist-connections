@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP359-PALI"
+sutta_code: "DHP359"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP359-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP359]]
 > ◄  [[dhp358-pali-pts]] 📜  [[dhp360-pali-pts]] ►
 
 ## Dhammapada
@@ -27,6 +27,5 @@ cakkhunā saṃvaro sādhu, sādhu sotena saṃvaro, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp359-) 
 

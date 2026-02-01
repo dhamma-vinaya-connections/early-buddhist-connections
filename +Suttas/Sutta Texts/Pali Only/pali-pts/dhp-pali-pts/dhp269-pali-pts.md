@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP269-PALI"
+sutta_code: "DHP269"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP269-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP269]]
 > ◄  [[dhp268-pali-pts]] 📜  [[dhp270-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ na tena ariyo hoti yena pāṇāni hiṃsati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp269-) 
 

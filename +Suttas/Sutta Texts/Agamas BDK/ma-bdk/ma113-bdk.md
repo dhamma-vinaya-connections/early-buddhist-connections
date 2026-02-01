@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA113]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA113]]
 > ◄  [[ma112-bdk]] 📜  [[ma114-bdk]] ►
 
 ### 113. The Discourse on the Root of all Phenomena
@@ -21,8 +21,7 @@ If they ask further, “What is their culmination?”, you should answer in this
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma113-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -37,6 +36,5 @@ If they ask further, “What is their culmination?”, you should answer in this
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.60]], [[AN7.48]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA113]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA113]]
 > ◄  [[ma112-bdk]] 📜  [[ma114-bdk]] ►

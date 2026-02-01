@@ -4,10 +4,10 @@ sutta_title:
   - "Sammāparibbājanīyasutta "
   - "Rightly Wander"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.13]]
 > ◄  [[snp2.12-deepseek-pali]] 📜  [[snp2.14-deepseek-pali]] ►
 
 # Snp 2.13 Sammāparibbājanīyasuttaṃ
@@ -125,6 +125,5 @@ The Discourse on Proper Wandering, the thirteenth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.13-) 
 

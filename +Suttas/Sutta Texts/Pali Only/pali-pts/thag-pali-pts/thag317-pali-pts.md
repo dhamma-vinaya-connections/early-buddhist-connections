@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG317-PALI"
+sutta_code: "THAG317"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG317-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG317]]
 > ◄  [[thag316-pali-pts]] 📜  [[thag321-pali-pts]] ►
 
 ## Theragāthā
@@ -25,6 +25,5 @@ abbūḷhaṃ aghataṃ vijitaṃ ekañ ce ossajjeyya kalī va siyā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag317-) 
 

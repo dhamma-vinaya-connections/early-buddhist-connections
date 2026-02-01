@@ -34,22 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP315]]"
-  - "[[THIG1.5]]"
-parallels_agama:
-  - "[[EA42.1]]"
-  - "[[MA124]]"
-parallels_partilal:
-  - "[[EA42.1]]"
-  - "[[MA124]]"
-  - "[[DHP315]]"
-  - "[[THAG17.2]]"
-  - "[[SNP2.10]]"
-  - "[[THAG14.1]]"
-  - "[[THIG1.5]]"
-  - "[[DN34]]"
+parallels_nikaya: "[[DHP315]], [[THIG1.5]]"
+parallels_agama: "[[EA42.1]], [[MA124]]"
+parallels_partilal: "[[EA42.1]], [[MA124]], [[DHP315]], [[THAG17.2]], [[SNP2.10]], [[THAG14.1]], [[THIG1.5]], [[DN34]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.28]]  🌐 [[AN8.30]] ►
 
@@ -77,8 +64,7 @@ For a person who loves themselves
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -90,8 +76,7 @@ For a person who loves themselves
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN8.29%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN8.29%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -102,7 +87,7 @@ For a person who loves themselves
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.29%5D%5D%22%23mynotes%20-file%3Aan8.29-%20-file%3A%22AN8.28%22%20-file%3A%22AN8.30%22%20-file%3A%22AN8.29%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.29/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.29

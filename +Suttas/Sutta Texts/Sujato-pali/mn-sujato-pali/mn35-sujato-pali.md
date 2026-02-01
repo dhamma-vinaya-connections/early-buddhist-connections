@@ -3,11 +3,11 @@ sutta_code: "MN35"
 sutta_title:
   - "Cūḷasaccaka Sutta "
   - "Shorter Discourse With Saccaka"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
 > ◄  [[mn34-sujato-pali]] 📜  [[mn36-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -381,8 +381,7 @@ Cūḷasaccakasuttaṁ niṭṭhitaṁ pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn35-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -393,6 +392,5 @@ Cūḷasaccakasuttaṁ niṭṭhitaṁ pañcamaṁ.
 | [[EA37.10]]; [[SA110]]; [[SN22.15]]; [[SA10]]; [[SA9]]; [[SN22.16]]; [[SN22.17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
 > ◄  [[mn34-sujato-pali]] 📜  [[mn36-sujato-pali]] ►

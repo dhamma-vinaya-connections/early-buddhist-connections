@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.134-PALI"
+sutta_code: "AN2.134"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Āyācana "
+  - "Aspiration"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.134-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.134]]
 > ◄  [[an2.133-pali-pts]] 📜  [[an2.135-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -29,6 +29,16 @@ Imehi kho bhikkhave dvīhi dhammehi samannāgato paṇḍito vyatto sappuriso ak
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.134-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA18.10]] | A i 89 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA18.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.134]]
+> ◄  [[an2.133-pali-pts]] 📜  [[an2.135-pali-pts]] ►

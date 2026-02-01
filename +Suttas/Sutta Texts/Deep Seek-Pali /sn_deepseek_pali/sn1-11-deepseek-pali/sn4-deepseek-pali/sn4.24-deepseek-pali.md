@@ -4,10 +4,10 @@ sutta_title:
   - "Sattavassānubandhasutta "
   - "Seven Years of Pursuit"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.24]]
 > ◄  [[sn4.23-deepseek-pali]] 📜  [[sn4.25-deepseek-pali]] ►
 
 # SN 4.24 Sattavassānubandhasuttaṃ
@@ -59,8 +59,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ language: "Pali"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN234]], [[AN258]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.24]]
 > ◄  [[sn4.23-deepseek-pali]] 📜  [[sn4.25-deepseek-pali]] ►

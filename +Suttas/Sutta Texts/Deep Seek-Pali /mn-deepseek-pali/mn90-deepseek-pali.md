@@ -4,10 +4,10 @@ sutta_title:
   - "Kaṇṇakatthala Sutta "
   - "At Kaṇṇakatthala"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-deepseek-pali]] 📜  [[mn91-deepseek-pali]] ►
 
 # 90. Kaṇṇakatthalasuttaṃ
@@ -87,8 +87,7 @@ Ghaṭikāra, Raṭṭhapāla, Maghadeva, Madhurā, Bodhi, Aṅgulimāla, Piyaj�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn90-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ Ghaṭikāra, Raṭṭhapāla, Maghadeva, Madhurā, Bodhi, Aṅgulimāla, Piyaj�
 | [[MA212]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-deepseek-pali]] 📜  [[mn91-deepseek-pali]] ►

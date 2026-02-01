@@ -4,10 +4,10 @@ sutta_title:
   - "Nandatisutta "
   - "He Delights"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.8]]
 > ◄  [[sn4.7-deepseek-pali]] 📜  [[sn4.9-deepseek-pali]] ►
 
 # SN 4.8 Nandatisuttaṃ
@@ -35,8 +35,7 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 | [[SN1.12]], [[SA-2.142]], [[SA1004]], [[SNP1.2]], [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.8]]
 > ◄  [[sn4.7-deepseek-pali]] 📜  [[sn4.9-deepseek-pali]] ►

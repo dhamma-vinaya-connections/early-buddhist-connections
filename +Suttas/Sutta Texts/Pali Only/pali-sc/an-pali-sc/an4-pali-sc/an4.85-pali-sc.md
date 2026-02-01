@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.85-PALI"
+sutta_code: "AN4.85"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Tamotama "
+  - "Darkness To Darkness"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.85-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.85]]
 > ◄  [[an4.84-pali-sc]] 📜  [[an4.86-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -43,6 +43,16 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.85-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 85 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN3.21]], [[PE8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.85]]
+> ◄  [[an4.84-pali-sc]] 📜  [[an4.86-pali-sc]] ►

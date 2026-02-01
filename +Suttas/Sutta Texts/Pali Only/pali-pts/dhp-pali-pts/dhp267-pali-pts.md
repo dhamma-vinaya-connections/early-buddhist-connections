@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP267-PALI"
+sutta_code: "DHP267"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP267-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP267]]
 > ◄  [[dhp266-pali-pts]] 📜  [[dhp268-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ na monena munī hoti mūḷharūpo aviddasu, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp267-) 
 

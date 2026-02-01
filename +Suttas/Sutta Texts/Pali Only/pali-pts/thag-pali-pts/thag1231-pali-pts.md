@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1231-PALI"
+sutta_code: "THAG1231"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1231-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1231]]
 > ◄  [[thag1230-pali-pts]] 📜  [[thag1232-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ saṃkhittena pi deseti vitthārena pi bhāsati,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1231-) 
 

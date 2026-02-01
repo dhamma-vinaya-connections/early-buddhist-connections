@@ -4,10 +4,10 @@ sutta_title:
   - "Jatila Sutta "
   - "The Jatila Ascetics"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.9]]
 > ◄  [[ud1.8-deepseek-pali]] 📜  [[ud1.10-deepseek-pali]] ►
 
 # Ud 1.9 Jaṭilasuttaṃ
@@ -35,8 +35,7 @@ Not by water is one purified, though many people bathe here; He in whom are trut
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Not by water is one purified, though many people bathe here; He in whom are trut
 | [[DHP393]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.9]]
 > ◄  [[ud1.8-deepseek-pali]] 📜  [[ud1.10-deepseek-pali]] ►

@@ -34,15 +34,9 @@ sutta_teacher:
   - "Bhikkhunis"
 sutta_audience:
   - "Mara"
-sutta_simile: "Chariots concepts like beings concepts"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA-2.219]]"
-  - "[[SA1203]]"
-parallels_partilal:
-  - "[[SA-2.219]]"
-  - "[[SA1203]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA-2.219]], [[SA1203]]"
+parallels_partilal: "[[SA-2.219]], [[SA1203]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.8]]  🌐 [[SN5.10]] ►
 
@@ -71,8 +65,7 @@ So too, when the aggregates are present
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -84,8 +77,7 @@ So too, when the aggregates are present
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN5.9%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN5.9%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -96,7 +88,7 @@ So too, when the aggregates are present
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN5.9%5D%5D%22%23mynotes%20-file%3Asn5.9-%20-file%3A%22SN5.8%22%20-file%3A%22SN5.10%22%20-file%3A%22SN5.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn5.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.9

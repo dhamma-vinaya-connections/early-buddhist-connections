@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.44-PALI"
+sutta_code: "SN1.44"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ekamūlasutta "
+  - "One Root"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.44-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.44]]
 > ◄  [[sn1.43-pali-sc]] 📜  [[sn1.45-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -33,6 +33,7 @@ pātālaṁ atarī isī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.44-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.44]]
+> ◄  [[sn1.43-pali-sc]] 📜  [[sn1.45-pali-sc]] ►

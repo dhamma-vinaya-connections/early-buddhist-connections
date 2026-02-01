@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA165]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA165]]
 > ◄  [[ma164]] 📜  [[ma166]] ►
 
 ### 165. The Discourse on a Deva at the Hot Spring Grove
@@ -53,8 +53,7 @@ This brief instruction that the World-honored One gave without explaining its de
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma165-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ This brief instruction that the World-honored One gave without explaining its de
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[MA164]], [[MA165]], [[MA166]], [[MA167]], [[MN131]], [[MN132]], [[MN133]], [[MN134]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA165]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA165]]
 > ◄  [[ma164]] 📜  [[ma166]] ►

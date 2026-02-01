@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG7-PALI"
+sutta_code: "THIG7"
 sutta_title:
-  - " "
-  - ""
+  - "Sattakanipātavagga "
+  - "Sevens Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG7]]
 > ◄  [[thig6-pali-eng]] 📜  [[thig8-pali-eng]] ►
 
 # Thig 7. Sattakanipāto
@@ -126,6 +126,5 @@ In the last watch of the night, I shattered the mass of darkness; then I arose, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig7-) 
 

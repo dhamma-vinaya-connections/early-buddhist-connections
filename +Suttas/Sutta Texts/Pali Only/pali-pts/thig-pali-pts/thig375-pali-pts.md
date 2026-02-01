@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG375-PALI"
+sutta_code: "THIG375"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG375-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG375]]
 > ◄  [[thig374-pali-pts]] 📜  [[thig376-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ yadi me vacanaṃ karissasi sukhitā ehi agāram āvasa |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig375-) 
 

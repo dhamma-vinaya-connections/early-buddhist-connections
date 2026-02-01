@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP66-PALI"
+sutta_code: "DHP66"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP66-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP66]]
 > ◄  [[dhp65-pali-pts]] 📜  [[dhp67-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ na taṃ kammaṃ kataṃ sādhu yaṃ katvā anutappati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp66-) 
 

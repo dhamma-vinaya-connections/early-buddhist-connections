@@ -4,10 +4,10 @@ sutta_title:
   - "Kakudhathera "
   - "With Kakudha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
 > ◄  [[an5.99-deepseek-pali]] 📜  [[an5.101-deepseek-pali]] ►
 
 # AN 5.100 Kakudhatherasuttaṃ
@@ -87,8 +87,7 @@ The Second Fifty is completed.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.100-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ The Second Fifty is completed.
 | [[PLI-TV-KD17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
 > ◄  [[an5.99-deepseek-pali]] 📜  [[an5.101-deepseek-pali]] ►

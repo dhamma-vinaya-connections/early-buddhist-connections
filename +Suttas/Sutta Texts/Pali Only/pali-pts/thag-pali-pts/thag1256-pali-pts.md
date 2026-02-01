@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1256-PALI"
+sutta_code: "THAG1256"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1256-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1256]]
 > ◄  [[thag1255-pali-pts]] 📜  [[thag1257-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tesaṃ kho vata atthāya bodhiṃ ajjhagamā muni
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1256-) 
 

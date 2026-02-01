@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.170-PALI"
+sutta_code: "AN1.170"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nīvaraṇappahāna "
+  - "Giving Up The Hindrances"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.170-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.170]]
 > ◄  [[an1.150-pali-pts]] 📜  [[an1.187-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Ayaṃ kho bhikkhave ekapuggalo loke uppajjamāno . . . pe . . . devamanussānan
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.170-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA8.2]] | A i 4 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA8.2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.170]]
+> ◄  [[an1.150-pali-pts]] 📜  [[an1.187-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.173-PALI"
+sutta_code: "AN5.173"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sārajja "
+  - "Timidity"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.173-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.173]]
 > ◄  [[an5.172-pali-pts]] 📜  [[an5.174-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,11 @@ Imehi kho bhikkhave pañcahi dhammehi samannāgato upāsako visārado agāraṃ 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.173-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 204 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.173]]
+> ◄  [[an5.172-pali-pts]] 📜  [[an5.174-pali-pts]] ►

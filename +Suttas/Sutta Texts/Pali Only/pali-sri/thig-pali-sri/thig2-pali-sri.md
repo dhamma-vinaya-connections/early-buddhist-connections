@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG2-PALI"
+sutta_code: "THIG2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Dukanipātavagga "
+  - "Twos Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG2]]
 > ◄  [[thig1-pali-sri]] 📜  [[thig3-pali-sri]] ►
 
 # 2. Duka-nipata - Pali
@@ -197,6 +197,5 @@ Dukanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig2-) 
 

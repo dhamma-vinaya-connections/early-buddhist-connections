@@ -4,10 +4,10 @@ sutta_title:
   - "Purābhedasutta "
   - "Before the Breakup"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.10]]
 > ◄  [[snp4.9-deepseek-pali]] 📜  [[snp4.11-deepseek-pali]] ►
 
 # Snp 4.10 Purābhedasuttaṃ
@@ -107,6 +107,5 @@ The Discourse Before the Breakup, the tenth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.10-) 
 

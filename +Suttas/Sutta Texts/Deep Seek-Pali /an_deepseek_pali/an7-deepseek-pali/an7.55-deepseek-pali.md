@@ -4,10 +4,10 @@ sutta_title:
   - "Purisagati "
   - "Reborn Places"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.55]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.55]]
 > ◄  [[an7.54-deepseek-pali]] 📜  [[an7.56-deepseek-pali]] ►
 
 # AN 7.55 Purisagatisuttaṃ
@@ -55,8 +55,7 @@ And what, monks, is final Nibbāna without clinging? Here, monks, a monk is prac
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.55-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ And what, monks, is final Nibbāna without clinging? Here, monks, a monk is prac
 | [[MA6]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.55]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.55]]
 > ◄  [[an7.54-deepseek-pali]] 📜  [[an7.56-deepseek-pali]] ►

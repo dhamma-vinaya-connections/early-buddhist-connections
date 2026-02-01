@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG95-PALI"
+sutta_code: "THAG95"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG95-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG95]]
 > ◄  [[thag94-pali-pts]] 📜  [[thag96-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Ekapupphaṃ cajitvāna asītiṃ vassakoṭiyo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag95-) 
 

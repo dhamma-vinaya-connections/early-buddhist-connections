@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-thanissaro]] 📜  [[mn58-thanissaro]] ►
 
 ## MN56 The Teaching to Upāli
@@ -360,8 +360,7 @@ Then, because the Nigaṇṭha Nāṭaputta could not bear the homage paid to th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn56-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -372,6 +371,5 @@ Then, because the Nigaṇṭha Nāṭaputta could not bear the homage paid to th
 | [[MA133]]; [[AN4.193]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-thanissaro]] 📜  [[mn58-thanissaro]] ►

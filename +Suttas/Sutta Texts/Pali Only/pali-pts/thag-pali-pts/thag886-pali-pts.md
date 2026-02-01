@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG886-PALI"
+sutta_code: "THAG886"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG886-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG886]]
 > ◄  [[thag885-pali-pts]] 📜  [[thag887-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ araññe rukkhamūle vā pabbatesu guhāsu vā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag886-) 
 

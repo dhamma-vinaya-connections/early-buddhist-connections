@@ -3,11 +3,11 @@ sutta_code: "SN6.8"
 sutta_title:
   - "Katamodakatissasutta "
   - "Tissaka"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.8]]
 > ◄  [[sn6.7-sujato-pali]] 📜  [[sn6.9-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -49,8 +49,7 @@ Nivutaṁ taṁ maññe akissavan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -61,6 +60,5 @@ Nivutaṁ taṁ maññe akissavan"ti.
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.8]]
 > ◄  [[sn6.7-sujato-pali]] 📜  [[sn6.9-sujato-pali]] ►

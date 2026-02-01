@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.19-PALI"
+sutta_code: "AN3.19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Paṭhamapāpaṇika "
+  - "Shopkeeper"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.19]]
 > ◄  [[an3.18-pali-sri]] 📜  [[an3.20-pali-sri]] ►
 
 # 5:19 Arannakavaggo - Pali
@@ -212,6 +212,11 @@ Nesajjaṃ satthataṃ ekāsanikaṃ khalupacchāpiṇḍikena cāti machasaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 115 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.19]]
+> ◄  [[an3.18-pali-sri]] 📜  [[an3.20-pali-sri]] ►

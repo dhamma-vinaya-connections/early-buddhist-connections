@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA200]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA200]]
 > ◄  [[sa199-patton]] 📜  [[sa201-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -45,8 +45,7 @@ Rāhula then rejoiced and was gladdened by what the Buddha taught. He bowed to t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa200-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ Rāhula then rejoiced and was gladdened by what the Buddha taught. He bowed to t
 | [[MN147]], [[SN18.1-5]], [[SN35.121]], [[SN3.7]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA200]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA200]]
 > ◄  [[sa199-patton]] 📜  [[sa201-patton]] ►

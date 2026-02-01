@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyaāhuneyya "
   - "Worthy Of Offerings"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.2]]
 > ◄  [[an6.1-deepseek-pali]] 📜  [[an6.3-deepseek-pali]] ►
 
 # AN 6.2 Dutiyaāhuneyyasuttaṃ
@@ -47,8 +47,7 @@ Monks, endowed with these six qualities, a monk is worthy of gifts... an unsurpa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Monks, endowed with these six qualities, a monk is worthy of gifts... an unsurpa
 | [[EA37.5]], [[DN34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.2]]
 > ◄  [[an6.1-deepseek-pali]] 📜  [[an6.3-deepseek-pali]] ►

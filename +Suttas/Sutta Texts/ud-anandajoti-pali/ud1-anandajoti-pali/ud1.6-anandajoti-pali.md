@@ -3,11 +3,11 @@ sutta_code: "UD1.6"
 sutta_title:
   - "Kassapa Sutta "
   - "Mahākassapa"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.6]]
 > ◄  [[ud1.5-anandajoti-pali]] 📜  [[ud1.7-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -57,8 +57,7 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ Chaṭṭhaṁ.
 | [[SN46.14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.6]]
 > ◄  [[ud1.5-anandajoti-pali]] 📜  [[ud1.7-anandajoti-pali]] ►

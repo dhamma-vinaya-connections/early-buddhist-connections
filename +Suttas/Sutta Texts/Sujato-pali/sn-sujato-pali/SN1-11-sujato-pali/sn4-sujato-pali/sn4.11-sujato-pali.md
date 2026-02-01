@@ -3,11 +3,11 @@ sutta_code: "SN4.11"
 sutta_title:
   - "Pāsāṇasutta "
   - "Boulder"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
 > ◄  [[sn4.10-sujato-pali]] 📜  [[sn4.12-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -53,8 +53,7 @@ buddhānaṁ atthi iñjitan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -65,6 +64,5 @@ buddhānaṁ atthi iñjitan"ti.
 | [[SA-2.27]], [[SA1088]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
 > ◄  [[sn4.10-sujato-pali]] 📜  [[sn4.12-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN144-PALI"
+sutta_code: "MN144"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Channovāda Sutta "
+  - "Advice to Channa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
 > ◄  [[mn143-pali-sc]] 📜  [[mn145-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -74,6 +74,16 @@ Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bha
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn144-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN35.87]] | [[SA1266]] | M iii 263 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1266]]; [[SN35.87]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
+> ◄  [[mn143-pali-sc]] 📜  [[mn145-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG90-PALI"
+sutta_code: "THAG90"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG90-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG90]]
 > ◄  [[thag89-pali-pts]] 📜  [[thag91-pali-pts]] ►
 
 ## Theragāthā
@@ -26,6 +26,5 @@ Na tathāmataṃ satarasaṃ sudhannaṃ yaṃ may'; ajja paribhuttaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag90-) 
 

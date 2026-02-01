@@ -4,10 +4,10 @@ sutta_title:
   - "Taṇhāvagga "
   - "Craving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP24]]
 > ◄  [[dhp23-deepseek-pali]] 📜  [[dhp25-deepseek-pali]] ►
 
 # Dhp 24. Taṇhāvaggo
@@ -152,12 +152,11 @@ The Chapter on Craving, the Twenty-Fourth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | Dh 94 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP24]]
 > ◄  [[dhp23-deepseek-pali]] 📜  [[dhp25-deepseek-pali]] ►

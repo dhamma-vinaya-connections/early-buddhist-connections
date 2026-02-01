@@ -4,10 +4,10 @@ sutta_title:
   - "Velāma "
   - "About Velāma"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
 > ◄  [[an9.19-deepseek-pali]] 📜  [[an9.21-deepseek-pali]] ►
 
 # AN 9.20 Velāmasuttaṃ
@@ -71,8 +71,7 @@ Nāda, Saupādisesa, Koṭṭhika, Samiddhi, Gaṇḍa, Saññā, Kula, Mettā, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ Nāda, Saupādisesa, Koṭṭhika, Samiddhi, Gaṇḍa, Saññā, Kula, Mettā, 
 | [[EA27.3]], [[MA155]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
 > ◄  [[an9.19-deepseek-pali]] 📜  [[an9.21-deepseek-pali]] ►

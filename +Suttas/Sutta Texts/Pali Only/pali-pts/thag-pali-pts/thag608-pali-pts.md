@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG608-PALI"
+sutta_code: "THAG608"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG608-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG608]]
 > ◄  [[thag607-pali-pts]] 📜  [[thag609-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sīlaṃ rakkheyya medhāvī patthayāno tayo sukhe:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag608-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.31-PALI"
+sutta_code: "AN5.31"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sumana "
+  - "With Sumana"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.31-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.31]]
 > ◄  [[an5.30-pali-pts]] 📜  [[an5.32-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,20 @@ Ekaṃ samayaṃ Bhagavā Sāvatthiyaṃ viharati Jetavane Anāthapiṇḍikassa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.31-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA17.8]], [[MA148]], [[SA-2.260]], [[SA94]] | A iii 32 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA17.8]], [[MA148]], [[SA94]], [[SA-2.260]], [[SN3.24]], [[JA515]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5.32]], [[AN5.36]], [[AN5.37]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.31]]
+> ◄  [[an5.30-pali-pts]] 📜  [[an5.32-pali-pts]] ►

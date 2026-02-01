@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.91-PALI"
+sutta_code: "AN6.91"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pahīna "
+  - "Given Up"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.91-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.91]]
 > ◄  [[an6.90-pali-pts]] 📜  [[an6.92-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,15 @@ Cha bhikkhave dhamme pahāya bhabbo diṭṭhisampadaṃ sacchikātuṃ. Katame 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.91-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 438 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN6.89]], [[AN6.90]], [[AN6.91]], [[AN6.92]], [[AN6.93]], [[AN6.94]], [[AN6.95]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.91]]
+> ◄  [[an6.90-pali-pts]] 📜  [[an6.92-pali-pts]] ►

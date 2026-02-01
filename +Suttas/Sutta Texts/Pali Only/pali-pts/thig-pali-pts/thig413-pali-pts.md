@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG413-PALI"
+sutta_code: "THIG413"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG413-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG413]]
 > ◄  [[thig412-pali-pts]] 📜  [[thig414-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ so mātarañ ca pitarañ ca bhaṇati āpucch'; āhaṃ gamissāmi |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig413-) 
 

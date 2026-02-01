@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.48-PALI"
+sutta_code: "AN3.48"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pabbatarāja "
+  - "King Of Mountains"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.48-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.48]]
 > ◄  [[an3.47-pali-pts]] 📜  [[an3.49-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -36,6 +36,20 @@ Nandino devalokasmiṃ modanti kāmakāmino ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.48-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.40]] | [[EA50.7]] | A i 152 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.40]], [[EA50.7]], [[ITI107]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5.38]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.48]]
+> ◄  [[an3.47-pali-pts]] 📜  [[an3.49-pali-pts]] ►

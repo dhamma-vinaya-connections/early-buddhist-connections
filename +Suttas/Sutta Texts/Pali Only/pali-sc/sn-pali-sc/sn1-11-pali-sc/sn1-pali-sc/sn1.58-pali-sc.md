@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.58-PALI"
+sutta_code: "SN1.58"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Uppathasutta "
+  - "The Deviant Path"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.58-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
 > ◄  [[sn1.57-pali-sc]] 📜  [[sn1.59-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -47,6 +47,16 @@ Taṁ sinānamanodakan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.58-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.246]], [[SA1019]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.246]], [[SA1019]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
+> ◄  [[sn1.57-pali-sc]] 📜  [[sn1.59-pali-sc]] ►

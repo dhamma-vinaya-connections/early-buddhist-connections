@@ -4,10 +4,10 @@ sutta_title:
   - "Āyācana "
   - "Aspiration"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.130]]
 > ◄  [[an2.129-deepseek-pali]] 📜  [[an2.131-deepseek-pali]] ►
 
 # AN 2.130
@@ -27,8 +27,7 @@ The Chapter on Hopes Hard to Abandon, the First.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.130-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ The Chapter on Hopes Hard to Abandon, the First.
 | [[AN4.176]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.130]]
 > ◄  [[an2.129-deepseek-pali]] 📜  [[an2.131-deepseek-pali]] ►

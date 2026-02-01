@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN5.9-PALI"
+sutta_code: "SN5.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Selāsutta "
+  - "Sela"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
 > ◄  [[sn5.8-pali-sc]] 📜  [[sn5.10-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -54,6 +54,16 @@ hetubhaṅgā nirujjhare"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.219]], [[SA1203]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.219]], [[SA1203]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
+> ◄  [[sn5.8-pali-sc]] 📜  [[sn5.10-pali-sc]] ►

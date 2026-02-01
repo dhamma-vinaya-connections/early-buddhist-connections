@@ -4,10 +4,10 @@ sutta_title:
   - "Tatiyananatitthiya Sutta "
   - "Sectarians (3)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.6]]
 > ◄  [[ud6.5-deepseek-pali]] 📜  [[ud6.7-deepseek-pali]] ►
 
 # Ud 6.6 Tatiyanānātitthiyasuttaṃ
@@ -63,9 +63,7 @@ Then, the Blessed One, having understood the meaning of this, on that occasion u
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.6-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.6]]
 > ◄  [[ud6.5-deepseek-pali]] 📜  [[ud6.7-deepseek-pali]] ►

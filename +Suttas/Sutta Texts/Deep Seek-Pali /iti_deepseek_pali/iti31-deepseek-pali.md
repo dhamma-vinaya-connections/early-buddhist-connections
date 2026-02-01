@@ -4,10 +4,10 @@ sutta_title:
   - "貧窮 "
   - "Poverty"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI31]]
 > ◄  [[iti30-deepseek-pali]] 📜  [[iti32-deepseek-pali]] ►
 
 # Iti 31 Paṭhamasīlasuttaṃ
@@ -27,8 +27,7 @@ This meaning too was spoken by the Blessed One, so I have heard. The Fifth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti31-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The Fifth.
 | [[ITI65]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI31]]
 > ◄  [[iti30-deepseek-pali]] 📜  [[iti32-deepseek-pali]] ►

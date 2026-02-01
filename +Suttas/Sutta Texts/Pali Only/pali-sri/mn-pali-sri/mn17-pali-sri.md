@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN17-PALI"
+sutta_code: "MN17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vanapattha Sutta "
+  - "Jungle Thickets"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN17]]
 > ◄  [[mn16-pali-sri]] 📜  [[mn18-pali-sri]] ►
 
 # 17. Vanapattha Sutta - Pali
@@ -126,6 +126,20 @@ Vanapatthasuttaṃ sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN9.6]] | [[EA45.3]]; [[MA107-108]] | M i 104 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA45.3]]; [[MA107-108]]; [[AN9.6]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN9.6]], [[MN3]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN17]]
+> ◄  [[mn16-pali-sri]] 📜  [[mn18-pali-sri]] ►

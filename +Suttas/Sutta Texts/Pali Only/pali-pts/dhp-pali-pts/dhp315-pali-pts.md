@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP315-PALI"
+sutta_code: "DHP315"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP315-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP315]]
 > ◄  [[dhp314-pali-pts]] 📜  [[dhp316-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ alajjitāye lajjanti lajjitāye na lajjare /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp315-) 
 

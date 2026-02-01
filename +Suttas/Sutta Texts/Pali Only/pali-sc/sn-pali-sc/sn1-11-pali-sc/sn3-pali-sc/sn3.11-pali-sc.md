@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.11-PALI"
+sutta_code: "SN3.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sattajaṭilasutta "
+  - "Seven Jaṭilas"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.11]]
 > ◄  [[sn3.10-pali-sc]] 📜  [[sn3.12-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -59,6 +59,16 @@ Anto asuddhā bahi sobhamānā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[UD6.2]] | [[SA-2.71]], [[SA1148]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.71]], [[SA1148]], [[UD6.2]], [[AN4.192]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.11]]
+> ◄  [[sn3.10-pali-sc]] 📜  [[sn3.12-pali-sc]] ►

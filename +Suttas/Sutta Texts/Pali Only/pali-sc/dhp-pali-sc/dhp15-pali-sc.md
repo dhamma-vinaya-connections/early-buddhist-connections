@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP15-PALI"
+sutta_code: "DHP15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sukhavagga "
+  - "Happiness"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP15]]
 > ◄  [[dhp14-pali-sc]] 📜  [[dhp16-pali-sc]] ►
 
 # SUKHA VAGGA
@@ -65,6 +65,16 @@ Tasmā hi– dhīrañca paññañca bahussutañca, dhorayhasīlaṃ vatavantamar
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp15-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 56 |
+> > [!check]- Partial parallels 
+> > 
+| [[PE1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP15]]
+> ◄  [[dhp14-pali-sc]] 📜  [[dhp16-pali-sc]] ►

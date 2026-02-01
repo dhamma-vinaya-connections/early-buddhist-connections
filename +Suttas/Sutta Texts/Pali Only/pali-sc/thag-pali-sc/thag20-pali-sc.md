@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG20-PALI"
+sutta_code: "THAG20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahāmoggallānattheragāthā "
+  - "Mahāmoggallāna"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG20]]
 > ◄  [[thag19-pali-sc]] 📜  [[thag21-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -417,6 +417,5 @@ tatthevantaradhāyathā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag20-) 
 

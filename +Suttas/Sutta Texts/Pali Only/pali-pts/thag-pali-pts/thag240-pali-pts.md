@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG240-PALI"
+sutta_code: "THAG240"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG240-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG240]]
 > ◄  [[thag239-pali-pts]] 📜  [[thag241-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ niggayha anukampāya coditā ñātayo mayā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag240-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.2-PALI"
+sutta_code: "AN2.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vinaya Peyyāla "
+  - "Abbreviated Texts With Training"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.2]]
 > ◄  [[an2.1-pali-sc]] 📜  [[an2.3-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -27,6 +27,5 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.2-) 
 

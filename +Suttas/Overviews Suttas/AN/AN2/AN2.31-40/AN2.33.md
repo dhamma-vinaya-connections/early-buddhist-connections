@@ -34,16 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Lay followers"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[AN7.63]]"
-parallels_agama:
-  - "[[EA20.11]]"
-  - "[[EA51.9]]"
-parallels_partilal:
-  - "[[EA20.11]]"
-  - "[[AN7.63]]"
-  - "[[EA51.9]]"
+parallels_nikaya: "[[AN7.63]]"
+parallels_agama: "[[EA20.11]], [[EA51.9]]"
+parallels_partilal: "[[EA20.11]], [[AN7.63]], [[EA51.9]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.32]]  🌐 [[AN2.34]] ►
 
@@ -64,8 +57,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -80,8 +72,7 @@ parallels_partilal:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN110]], [[SN7.14]], [[AN4.73]], [[ITI106]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN2.33%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN2.33%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -92,7 +83,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.33%5D%5D%22%23mynotes%20-file%3Aan2.33-%20-file%3A%22AN2.32%22%20-file%3A%22AN2.34%22%20-file%3A%22AN2.33%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.33/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.33

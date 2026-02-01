@@ -4,10 +4,10 @@ sutta_title:
   - "Sariputta Sutta "
   - "Sāriputta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.7]]
 > ◄  [[ud4.6-deepseek-pali]] 📜  [[ud4.8-deepseek-pali]] ►
 
 # Ud 4.7 Sāriputtasuttaṃ
@@ -35,8 +35,7 @@ Then, the Blessed One, having understood this, on that occasion uttered this ins
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then, the Blessed One, having understood this, on that occasion uttered this ins
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG1:685]], [[THAG1:68.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.7]]
 > ◄  [[ud4.6-deepseek-pali]] 📜  [[ud4.8-deepseek-pali]] ►

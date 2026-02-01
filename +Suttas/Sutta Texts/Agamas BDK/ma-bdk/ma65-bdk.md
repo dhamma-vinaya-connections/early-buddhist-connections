@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA65]]
 > ◄  [[ma64-bdk]] 📜  [[ma66-bdk]] ►
 
 ### 65. The Discourse with the Raven Parable
@@ -39,6 +39,5 @@ Being liberated, he knows that he is liberated, and he knows as it really is: �
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma65-) 
 

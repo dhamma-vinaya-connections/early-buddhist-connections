@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāmālukya Sutta "
   - "Longer Discourse With Māluṅkya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-deepseek-pali]] 📜  [[mn65-deepseek-pali]] ►
 
 # 64. Mahāmālukyasuttaṃ
@@ -79,8 +79,7 @@ The Great Discourse on Mālukyaputta, the fourth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn64-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ The Great Discourse on Mālukyaputta, the fourth, is finished.
 | [[MA205]]; [[MN52]]; [[AN9.36]]; [[AN11.16]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-deepseek-pali]] 📜  [[mn65-deepseek-pali]] ►

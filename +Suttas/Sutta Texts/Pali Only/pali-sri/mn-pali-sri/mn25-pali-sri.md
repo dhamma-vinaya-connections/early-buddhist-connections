@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN25-PALI"
+sutta_code: "MN25"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Nivāpa Sutta "
+  - "Fodder"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN25-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN25]]
 > ◄  [[mn24-pali-sri]] 📜  [[mn26-pali-sri]] ►
 
 # 25. Nivapa Sutta - Pali
@@ -166,6 +166,20 @@ Nivāpasuttaṃ pañcamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn25-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA178]] | M i 151 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA178]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN12]], [[AN9.39]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN25]]
+> ◄  [[mn24-pali-sri]] 📜  [[mn26-pali-sri]] ►

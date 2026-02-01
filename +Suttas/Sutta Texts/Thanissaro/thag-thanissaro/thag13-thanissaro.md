@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG13]]
 > ◄  [[thag12-thanissaro]] 📜  [[thag14-thanissaro]] ►
 
 ## Thag 13  Soṇa Koḷivisa
@@ -135,6 +135,5 @@ their passing away.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag13-) 
 

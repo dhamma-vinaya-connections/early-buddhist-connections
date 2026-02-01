@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN23-PALI"
+sutta_code: "MN23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vammika Sutta "
+  - "Ant-Hill"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
 > ◄  [[mn22-pali-sri]] 📜  [[mn24-pali-sri]] ►
 
 # 23. Vammika Sutta - Pali
@@ -104,6 +104,16 @@ Vammikasuttaṃ tatiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn23-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA39.9]]; [[SA-2.18]]; [[SA1079]] | M i 142 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA39.9]]; [[SA-2.18]]; [[SA1079]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
+> ◄  [[mn22-pali-sri]] 📜  [[mn24-pali-sri]] ►

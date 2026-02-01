@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.13-PALI"
+sutta_code: "AN7.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kula "
+  - "Family"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.13]]
 > ◄  [[an7.12-pali-pts]] 📜  [[an7.14-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Sattahi bhikkhave aṅgehi samannāgataṃ kulaṃ anupagantvā vā nālaṃ upa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN9.17]] |  | A iv 10 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN9.17]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.13]]
+> ◄  [[an7.12-pali-pts]] 📜  [[an7.14-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.10-PALI"
+sutta_code: "SNP4.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Purābhedasutta "
+  - "Before the Breakup"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.10]]
 > ◄  [[snp4.9-pali-sc]] 📜  [[snp4.11-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -85,6 +85,5 @@ Purābhedasuttaṁ dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.10-) 
 

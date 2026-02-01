@@ -3,11 +3,11 @@ sutta_code: "SN1.39"
 sutta_title:
   - "Paṭhamapajjunnadhītusutta "
   - "Pajjunna's Daughter (1)"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.39]]
 > ◄  [[sn1.38-sujato-pali]] 📜  [[sn1.40-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -77,8 +77,7 @@ Devakāyaṁ paripūressantī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.39-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -93,6 +92,5 @@ Devakāyaṁ paripūressantī"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN45.139]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.39]]
 > ◄  [[sn1.38-sujato-pali]] 📜  [[sn1.40-sujato-pali]] ►

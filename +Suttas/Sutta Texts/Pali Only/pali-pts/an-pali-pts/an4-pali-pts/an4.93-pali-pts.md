@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.93-PALI"
+sutta_code: "AN4.93"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Samādhi "
+  - "Samadhi"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.93-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.93]]
 > ◄  [[an4.92-pali-pts]] 📜  [[an4.94-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,11 @@ PTS: A ii 92
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.93-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 92 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.93]]
+> ◄  [[an4.92-pali-pts]] 📜  [[an4.94-pali-pts]] ►

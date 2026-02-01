@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP345-PALI"
+sutta_code: "DHP345"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP345-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP345]]
 > ◄  [[dhp344-pali-pts]] 📜  [[dhp346-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ etaṃ daḷhaṃ bandhanam āhu dhīrā ohārinaṃ sithilaṃ duppamuñcaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp345-) 
 

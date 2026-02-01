@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA190]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA190]]
 > ◄  [[ma186-patton]] 📜  [[ma200-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -97,8 +97,7 @@ Last Revised: 27 March 2025
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma190-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -108,6 +107,5 @@ Last Revised: 27 March 2025
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.42]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA190]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA190]]
 > ◄  [[ma186-patton]] 📜  [[ma200-patton]] ►

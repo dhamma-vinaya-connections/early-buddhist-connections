@@ -4,10 +4,10 @@ sutta_title:
   - "Pattasutta "
   - "Almsbowls"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
 > ◄  [[sn4.15-deepseek-pali]] 📜  [[sn4.17-deepseek-pali]] ►
 
 # SN 4.16 Pattasuttaṃ
@@ -43,8 +43,7 @@ Then Māra the Evil One… …vanished right there.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then Māra the Evil One… …vanished right there.
 | [[SA1102]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
 > ◄  [[sn4.15-deepseek-pali]] 📜  [[sn4.17-deepseek-pali]] ►

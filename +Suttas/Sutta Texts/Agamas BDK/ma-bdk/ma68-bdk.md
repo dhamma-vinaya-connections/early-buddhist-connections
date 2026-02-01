@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA68]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA68]]
 > ◄  [[ma67-bdk]] 📜  [[ma69-bdk]] ►
 
 ### 68. The Discourse on Mahāsudassana
@@ -79,8 +79,7 @@ times as a wheel-turning monarch, and now on the seventh [occasion] as a Tathāg
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma68-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ times as a wheel-turning monarch, and now on the seventh [occasion] as a Tathāg
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DA2]], [[DN26]], [[MA67]], [[MA70]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA68]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA68]]
 > ◄  [[ma67-bdk]] 📜  [[ma69-bdk]] ►

@@ -3,11 +3,11 @@ sutta_code: "THIG14"
 sutta_title:
   - "Tiṁsanipātavagga "
   - "Thirties Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG14]]
 > ◄  [[thig13-sujato-pali]] 📜  [[thig15-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -369,6 +369,5 @@ Cakkhu āsi yathā purāṇakanti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig14-) 
 

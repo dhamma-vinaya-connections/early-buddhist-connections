@@ -37,28 +37,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[AN6.58]]"
-parallels_agama:
-  - "[[EA40.6]]"
-  - "[[MA10]]"
-parallels_partilal:
-  - "[[MN125]]"
-  - "[[AN4.114]]"
-  - "[[AN4.157]]"
-  - "[[AN4.165]]"
-  - "[[AN5.140]]"
-  - "[[PLI-TV-KD1]]"
-  - "[[PLI-TV-BU-VB-PC65]]"
-  - "[[PLI-TV-BI-VB-PC71]]"
-  - "[[AN6.58]]"
-  - "[[EA40.6]]"
-  - "[[MA10]]"
-  - "[[SN12.23]]"
-  - "[[ITI102]]"
-  - "[[SN22.101]]"
-  - "[[SN56.25]]"
+parallels_nikaya: "[[AN6.58]]"
+parallels_agama: "[[EA40.6]]; [[MA10]]"
+parallels_partilal: "[[MN125]]; [[AN4.114]]; [[AN4.157]]; [[AN4.165]]; [[AN5.140]]; [[PLI-TV-KD1]]; [[PLI-TV-BU-VB-PC65]]; [[PLI-TV-BI-VB-PC71]]; [[AN6.58]]; [[EA40.6]]; [[MA10]]; [[SN12.23]]; [[ITI102]]; [[SN22.101]]; [[SN56.25]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN1]]  🌐 [[MN3]] ►
 
@@ -82,8 +63,7 @@ The things that, when attention is paid to them, do not give rise to unarisen de
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -98,8 +78,7 @@ The things that, when attention is paid to them, do not give rise to unarisen de
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.24]]; [[AN5.140]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BMN2%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BMN2%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -110,7 +89,7 @@ The things that, when attention is paid to them, do not give rise to unarisen de
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN2%5D%5D%22%23mynotes%20-file%3Amn2-%20-file%3A%22MN1%22%20-file%3A%22MN3%22%20-file%3A%22MN2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn2

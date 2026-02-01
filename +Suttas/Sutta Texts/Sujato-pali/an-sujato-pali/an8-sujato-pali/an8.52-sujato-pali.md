@@ -3,11 +3,11 @@ sutta_code: "AN8.52"
 sutta_title:
   - "Ovada "
   - "Nuns Advisers"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.52]]
 > ◄  [[an8.51-sujato-pali]] 📜  [[an8.53-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -61,8 +61,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.52-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -73,6 +72,5 @@ Dutiyaṁ.
 | [[PLI-TV-BU-VB-PC21]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.52]]
 > ◄  [[an8.51-sujato-pali]] 📜  [[an8.53-sujato-pali]] ►

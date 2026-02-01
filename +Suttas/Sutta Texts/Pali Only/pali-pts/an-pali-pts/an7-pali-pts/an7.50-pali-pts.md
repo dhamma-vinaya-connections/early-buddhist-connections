@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.50-PALI"
+sutta_code: "AN7.50"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Methuna "
+  - "Sex"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.50-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
 > ◄  [[an7.49-pali-pts]] 📜  [[an7.51-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Atha kho Jānussoṇī brāhmaṇo yena Bhagavā ten'; upasaṅkami, upasaṅkam
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.50-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA37.9]] | A iv 54 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA37.9]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
+> ◄  [[an7.49-pali-pts]] 📜  [[an7.51-pali-pts]] ►

@@ -3,11 +3,11 @@ sutta_code: "UD4.10"
 sutta_title:
   - "Sariputta Sutta "
   - "Sāriputta"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.10]]
 > ◄  [[ud4.9-anandajoti-pali]] 📜  [[]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -60,9 +60,7 @@ sāriputto ca te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.10-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.10]]
 > ◄  [[ud4.9-anandajoti-pali]] 📜  [[]] ►

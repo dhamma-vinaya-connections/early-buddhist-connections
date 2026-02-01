@@ -4,10 +4,10 @@ sutta_title:
   - "Udena Sutta "
   - "About King Udena"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.10]]
 > ◄  [[ud7.9-deepseek-pali]] 📜  [[]] ►
 
 # Ud 7.10 Utenasuttaṃ
@@ -51,9 +51,7 @@ The Minor Division, the Seventh, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.10-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.10]]
 > ◄  [[ud7.9-deepseek-pali]] 📜  [[]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Ānāpānassati Sutta "
   - "Mindfulness of Breathing"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN118]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN118]]
 > ◄  [[mn117-deepseek-pali]] 📜  [[mn119-deepseek-pali]] ►
 
 # 118. Kāyagatāsatisuttaṃ
@@ -151,8 +151,7 @@ The Discourse on Mindfulness of the Body is concluded, the ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn118-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -167,6 +166,5 @@ The Discourse on Mindfulness of the Body is concluded, the ninth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN119]], [[MN10]], [[DN22]], [[SN54.8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN118]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN118]]
 > ◄  [[mn117-deepseek-pali]] 📜  [[mn119-deepseek-pali]] ►

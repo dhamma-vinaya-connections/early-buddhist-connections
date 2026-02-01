@@ -4,10 +4,10 @@ sutta_title:
   - "Moha "
   - "Delusion"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI3]]
 > ◄  [[iti2-deepseek-pali]] 📜  [[iti4-deepseek-pali]] ►
 
 # Iti 3 Mohasuttaṃ
@@ -27,6 +27,5 @@ This too was said by the Blessed One, so I have heard. Third.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti3-) 
 

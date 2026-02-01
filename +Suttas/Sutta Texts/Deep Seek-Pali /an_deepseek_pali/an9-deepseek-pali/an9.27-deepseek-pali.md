@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamavera "
   - "Dangers And Threats"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.27]]
 > ◄  [[an9.26-deepseek-pali]] 📜  [[an9.28-deepseek-pali]] ►
 
 # AN 9.27 Paṭhamaverasuttaṃ
@@ -55,8 +55,7 @@ Ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi akamm�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi akamm�
 | [[AN10.92]], [[SN55.28]], [[SA846]], [[SN12.41]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.27]]
 > ◄  [[an9.26-deepseek-pali]] 📜  [[an9.28-deepseek-pali]] ►

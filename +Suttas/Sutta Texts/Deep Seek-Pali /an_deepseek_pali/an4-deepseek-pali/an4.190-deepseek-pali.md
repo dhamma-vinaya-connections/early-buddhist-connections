@@ -4,10 +4,10 @@ sutta_title:
   - "Uposatha "
   - "Sabbath"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.190]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.190]]
 > ◄  [[an4.189-deepseek-pali]] 📜  [[an4.191-deepseek-pali]] ►
 
 # AN 4.190 Uposathasuttaṃ
@@ -63,12 +63,11 @@ The Warrior, Paṭibhoga, the Fearless, the Brahmana's Truth as the fifth; Ummag
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.190-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A ii 183 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.190]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.190]]
 > ◄  [[an4.189-deepseek-pali]] 📜  [[an4.191-deepseek-pali]] ►

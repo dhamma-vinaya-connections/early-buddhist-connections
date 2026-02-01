@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.43-PALI"
+sutta_code: "SN1.43"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Annasutta "
+  - "Food"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.43-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.43]]
 > ◄  [[sn1.42-pali-sc]] 📜  [[sn1.44-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -53,6 +53,16 @@ patiṭṭhā honti pāṇinan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.43-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN2.23]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[AN5.36]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.43]]
+> ◄  [[sn1.42-pali-sc]] 📜  [[sn1.44-pali-sc]] ►

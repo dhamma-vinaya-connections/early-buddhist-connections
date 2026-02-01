@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI15-PALI"
+sutta_code: "ITI15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Taṇhāsaṁyojana "
+  - "Craving"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI15]]
 > ◄  [[iti14-pali-sc]] 📜  [[iti16-pali-sc]] ►
 
 # Iti 15. Paṭhamasekhasuttaṃ
@@ -25,6 +25,16 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti15-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.9]], [[ITI105]], [[SNP3.12]], [[JA493]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI15]]
+> ◄  [[iti14-pali-sc]] 📜  [[iti16-pali-sc]] ►

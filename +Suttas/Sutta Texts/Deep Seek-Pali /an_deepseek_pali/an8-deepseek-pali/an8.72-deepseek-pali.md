@@ -4,10 +4,10 @@ sutta_title:
   - "Saddhā "
   - "Inspiring All Around"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.72]]
 > ◄  [[an8.71-deepseek-pali]] 📜  [[an8.73-deepseek-pali]] ►
 
 # AN 8.72 Dutiyasaddhāsuttaṃ
@@ -31,8 +31,7 @@ But when, bhikkhus, a bhikkhu is faithful, virtuous, learned, a speaker of the D
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.72-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ But when, bhikkhus, a bhikkhu is faithful, virtuous, learned, a speaker of the D
 | [[AN10.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.72]]
 > ◄  [[an8.71-deepseek-pali]] 📜  [[an8.73-deepseek-pali]] ►

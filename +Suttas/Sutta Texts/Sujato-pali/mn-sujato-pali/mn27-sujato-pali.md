@@ -3,11 +3,11 @@ sutta_code: "MN27"
 sutta_title:
   - "Cūḷahatthipadopama Sutta "
   - "Shorter Elephant’s Footprint Simile"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
 > ◄  [[mn26-sujato-pali]] 📜  [[mn28-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -287,8 +287,7 @@ Cūḷahatthipadopamasuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -303,6 +302,5 @@ Cūḷahatthipadopamasuttaṁ niṭṭhitaṁ sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
 > ◄  [[mn26-sujato-pali]] 📜  [[mn28-sujato-pali]] ►

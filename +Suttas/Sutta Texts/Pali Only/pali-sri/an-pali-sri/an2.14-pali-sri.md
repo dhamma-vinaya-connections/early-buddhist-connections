@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.14-PALI"
+sutta_code: "AN2.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Adhikaraṇa "
+  - "Powers"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.14]]
 > ◄  [[an2.13-pali-sri]] 📜  [[an2.15-pali-sri]] ►
 
 # 4:14 Puggalavaggo - Pali
@@ -270,6 +270,11 @@ Sāvajjo dve ca sīlāni nikaṭṭha dhammavādī cāti machasaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 53 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.14]]
+> ◄  [[an2.13-pali-sri]] 📜  [[an2.15-pali-sri]] ►

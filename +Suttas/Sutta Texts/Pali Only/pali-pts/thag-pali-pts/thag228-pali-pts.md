@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG228-PALI"
+sutta_code: "THAG228"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG228-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG228]]
 > ◄  [[thag227-pali-pts]] 📜  [[thag229-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sukhañ ce jīvituṃ icche sāmaññasmiṃ apekkhavā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag228-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.130-PALI"
+sutta_code: "AN2.130"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Āyācana "
+  - "Aspiration"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.130-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.130]]
 > ◄  [[an2.118-pali-sc]] 📜  [[an2.141-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -35,6 +35,16 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.130-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.176]] |  | A i 88 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.176]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.130]]
+> ◄  [[an2.118-pali-sc]] 📜  [[an2.141-pali-sc]] ►

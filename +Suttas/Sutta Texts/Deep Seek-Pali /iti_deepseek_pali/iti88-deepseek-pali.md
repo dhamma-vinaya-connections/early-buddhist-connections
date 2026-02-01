@@ -4,10 +4,10 @@ sutta_title:
   - "多界 "
   - "Many Elements"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI88]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI88]]
 > ◄  [[iti87-deepseek-pali]] 📜  [[iti89-deepseek-pali]] ►
 
 # Iti 88 Devadattasuttaṃ
@@ -47,8 +47,7 @@ Thoughts, honor, sound, decline, the world, the foul; Dhamma, darkness, stain, a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti88-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ Thoughts, honor, sound, decline, the world, the foul; Dhamma, darkness, stain, a
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.28]], [[UD3:10]], [[MN5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI88]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI88]]
 > ◄  [[iti87-deepseek-pali]] 📜  [[iti89-deepseek-pali]] ►

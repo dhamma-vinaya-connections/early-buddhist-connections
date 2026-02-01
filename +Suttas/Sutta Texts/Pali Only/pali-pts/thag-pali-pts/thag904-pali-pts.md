@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG904-PALI"
+sutta_code: "THAG904"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG904-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG904]]
 > ◄  [[thag903-pali-pts]] 📜  [[thag905-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ nāhu assāsapassāso ṭhitacittassa tādino;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag904-) 
 

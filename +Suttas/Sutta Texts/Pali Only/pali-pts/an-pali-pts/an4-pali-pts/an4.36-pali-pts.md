@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.36-PALI"
+sutta_code: "AN4.36"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Doṇa "
+  - "Dona"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.36-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
 > ◄  [[an4.35-pali-pts]] 📜  [[an4.37-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Addhā kho tyāhaṃ brāhmaṇa āsajja upanīyavācā bhāsitā api ca tyāha�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.36-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.14]] | [[EA38.3]], [[SA-2.267]], [[SA101]], [[SA879]] | A ii 37 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.267]], [[SA101]], [[EA38.3]], [[AN4.14]], [[SA879]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
+> ◄  [[an4.35-pali-pts]] 📜  [[an4.37-pali-pts]] ►

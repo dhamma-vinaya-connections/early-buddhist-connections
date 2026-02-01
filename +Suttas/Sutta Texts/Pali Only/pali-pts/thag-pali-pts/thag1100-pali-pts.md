@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1100-PALI"
+sutta_code: "THAG1100"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1100-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1100]]
 > ◄  [[thag1099-pali-pts]] 📜  [[thag1101-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ kadā nu kaṭṭhe ca tiṇe latā ca khandhe ime 'haṃ anite ca dhamme
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1100-) 
 

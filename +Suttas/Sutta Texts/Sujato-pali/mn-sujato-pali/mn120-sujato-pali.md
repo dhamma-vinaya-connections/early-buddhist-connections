@@ -3,11 +3,11 @@ sutta_code: "MN120"
 sutta_title:
   - "Saṅkhārupapatti Sutta "
   - "Rebirth by Choice"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
 > ◄  [[mn119-sujato-pali]] 📜  [[mn121-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -100,8 +100,7 @@ Buddhassa kittināma cattārīsena,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn120-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -112,6 +111,5 @@ Buddhassa kittināma cattārīsena,
 | [[AN4.123-124]]; [[MA168]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
 > ◄  [[mn119-sujato-pali]] 📜  [[mn121-sujato-pali]] ►

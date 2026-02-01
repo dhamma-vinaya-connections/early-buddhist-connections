@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG508-PALI"
+sutta_code: "THIG508"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG508-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG508]]
 > ◄  [[thig507-pali-pts]] 📜  [[thig509-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ kāmaṃ kāmesu damassu tāva sunakho va saṅkhalāboddho |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig508-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.6-PALI"
+sutta_code: "SNP4.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Jarāsutta "
+  - "Old Age"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
 > ◄  [[snp4.5-pali-sc]] 📜  [[snp4.7-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -67,6 +67,20 @@ Jarāsuttaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[PE1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN21.2]], [[AN4.184]], [[DHP21]], [[SN5.16]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
+> ◄  [[snp4.5-pali-sc]] 📜  [[snp4.7-pali-sc]] ►

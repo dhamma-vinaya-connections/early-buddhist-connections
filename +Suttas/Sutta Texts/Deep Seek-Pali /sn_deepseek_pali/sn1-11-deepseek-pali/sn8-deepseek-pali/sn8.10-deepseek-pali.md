@@ -4,10 +4,10 @@ sutta_title:
   - "Moggallānasutta "
   - "Moggallana"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
 > ◄  [[sn8.9-deepseek-pali]] 📜  [[sn8.11-deepseek-pali]] ►
 
 # SN 8.10 Moggallānasuttaṃ
@@ -39,8 +39,7 @@ Then the Venerable Vaṅgīsa rose from his seat, arranged his upper robe over o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then the Venerable Vaṅgīsa rose from his seat, arranged his upper robe over o
 | [[SA-2.227]], [[SA1211]], [[THAG21.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
 > ◄  [[sn8.9-deepseek-pali]] 📜  [[sn8.11-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "AN3.29"
 sutta_title:
   - "Sammukhībhāva "
   - "Present"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.29]]
 > ◄  [[an3.28-sujato-pali]] 📜  [[an3.30-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -113,8 +113,7 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -125,6 +124,5 @@ Navamaṁ.
 | [[SN22.57]], [[AN2.19]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.29]]
 > ◄  [[an3.28-sujato-pali]] 📜  [[an3.30-sujato-pali]] ►

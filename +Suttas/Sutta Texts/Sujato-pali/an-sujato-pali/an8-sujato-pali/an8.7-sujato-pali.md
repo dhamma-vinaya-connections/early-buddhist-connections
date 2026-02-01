@@ -3,11 +3,11 @@ sutta_code: "AN8.7"
 sutta_title:
   - "Devadattavipatti "
   - "Devadatta’s Failure"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
 > ◄  [[an8.6-sujato-pali]] 📜  [[an8.8-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -69,8 +69,7 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,6 +80,5 @@ Sattamaṁ.
 | [[AN6.62]], [[PLI-TV-KD17]], [[PLI-TV-PVR7]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
 > ◄  [[an8.6-sujato-pali]] 📜  [[an8.8-sujato-pali]] ►

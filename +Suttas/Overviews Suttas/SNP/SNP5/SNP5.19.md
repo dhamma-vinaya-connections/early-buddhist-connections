@@ -34,13 +34,9 @@ sutta_teacher:
   - "Bhikkhus"
 sutta_audience:
   - "Brahmins"
-sutta_simile: "bird who has given up a barren woodland for an abundant forest, wise given up those of little wisdom,"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - ""
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: ""
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.18]]  🌐 [[T757]] ►
 
@@ -63,8 +59,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,8 +74,7 @@ parallels_partilal:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.87]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP5.19%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP5.19%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -91,7 +85,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP5.19%5D%5D%22%23mynotes%20-file%3Asnp5.19-%20-file%3A%22SNP5.18%22%20-file%3A%22T757%22%20-file%3A%22SNP5.19%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp5.19/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.19

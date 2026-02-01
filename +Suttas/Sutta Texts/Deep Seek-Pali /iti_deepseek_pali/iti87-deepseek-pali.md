@@ -4,10 +4,10 @@ sutta_title:
   - "瞿曇彌 "
   - "To Gotamī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI87]]
 > ◄  [[iti86-deepseek-pali]] 📜  [[iti88-deepseek-pali]] ►
 
 # Iti 87 Antarāmalasuttaṃ
@@ -43,8 +43,7 @@ This meaning, too, was spoken by the Blessed One, thus have I heard. The ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti87-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ This meaning, too, was spoken by the Blessed One, thus have I heard. The ninth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN19]], [[MN20]], [[ITI110]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI87]]
 > ◄  [[iti86-deepseek-pali]] 📜  [[iti88-deepseek-pali]] ►

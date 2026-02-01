@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP28-PALI"
+sutta_code: "DHP28"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP28-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP28]]
 > ◄  [[dhp27-pali-pts]] 📜  [[dhp29-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ appamatto pamattesu suttesu bahujāgaro /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp28-) 
 

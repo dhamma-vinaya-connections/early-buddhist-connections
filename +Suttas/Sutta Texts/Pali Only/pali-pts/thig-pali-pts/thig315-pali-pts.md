@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG315-PALI"
+sutta_code: "THIG315"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG315-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG315]]
 > ◄  [[thig314-pali-pts]] 📜  [[thig316-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ abbhutaṃ vata Vāseṭṭhi vācaṃ bhāsasi edisaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig315-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.11-PALI"
+sutta_code: "SN9.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Akusalavitakkasutta "
+  - "Unwholesome Thoughts"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
 > ◄  [[sn9.10-pali-pts]] 📜  [[sn9.12-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -31,6 +31,16 @@ Atha kho so bhikkhu tāya devatāya saṃvejito saṃvegam āpādīti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP376]] | [[SA-2.354]], [[SA1334]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.354]], [[SA1334]], [[DHP376]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
+> ◄  [[sn9.10-pali-pts]] 📜  [[sn9.12-pali-pts]] ►

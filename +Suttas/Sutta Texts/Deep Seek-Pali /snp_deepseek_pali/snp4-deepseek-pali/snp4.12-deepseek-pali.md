@@ -4,10 +4,10 @@ sutta_title:
   - "Cūḷabyūhasutta "
   - "Shorter Discourse on Arrayed For Battle"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.12]]
 > ◄  [[snp4.11-deepseek-pali]] 📜  [[snp4.13-deepseek-pali]] ►
 
 # Snp 4.12 Mahābyūhasuttaṃ
@@ -147,9 +147,7 @@ The Great Discourse on the Array, the thirteenth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.12-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.12]]
 > ◄  [[snp4.11-deepseek-pali]] 📜  [[snp4.13-deepseek-pali]] ►

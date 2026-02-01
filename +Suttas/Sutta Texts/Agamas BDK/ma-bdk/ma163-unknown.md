@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA163]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA163]]
 > ◄  [[ma162]] 📜  [[ma164]] ►
 
 ### 163. The Discourse on an Analysis of the Six Sense Spheres
@@ -37,8 +37,7 @@ Completely transcending perceptions of form, with the cessation of perceptions o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma163-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -48,6 +47,5 @@ Completely transcending perceptions of form, with the cessation of perceptions o
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.61]], [[AN3.99]], [[MA162]], [[SN42.8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA163]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA163]]
 > ◄  [[ma162]] 📜  [[ma164]] ►

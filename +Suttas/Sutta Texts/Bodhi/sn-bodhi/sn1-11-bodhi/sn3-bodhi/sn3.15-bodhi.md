@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
 > ◄  [[sn3.14-bodhi]] 📜  [[sn3.16-bodhi]] ►
 
 # SN3.15 Battle (2)
@@ -61,8 +61,7 @@ Then the Blessed One, having understood the meaning of this, on that occasion re
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -73,6 +72,5 @@ Then the Blessed One, having understood the meaning of this, on that occasion re
 | [[SA-2.64]], [[SA1237]], [[JA239]], [[DHP69]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
 > ◄  [[sn3.14-bodhi]] 📜  [[sn3.16-bodhi]] ►

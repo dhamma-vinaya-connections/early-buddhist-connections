@@ -4,10 +4,10 @@ sutta_title:
   - "Samaṇabrāhmaṇa "
   - "Recluses And Brahmins"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI103]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI103]]
 > ◄  [[iti102-deepseek-pali]] 📜  [[iti104-deepseek-pali]] ►
 
 # Iti 103 Taṇhuppādasuttaṃ
@@ -29,9 +29,7 @@ This too is the meaning that was stated by the Blessed One: so I have heard. Six
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti103-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI103]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI103]]
 > ◄  [[iti102-deepseek-pali]] 📜  [[iti104-deepseek-pali]] ►

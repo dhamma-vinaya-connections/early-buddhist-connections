@@ -34,14 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Lake that was transparent, clear, and unclouded a person can see through like mind is not clouded would know what’s for their own and others  good, or they would realize any superhuman distinction in knowledge and vision"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[EA9.5]]"
-parallels_partilal:
-  - "[[EA9.5]]"
-  - "[[ITI20]]"
+parallels_nikaya: ""
+parallels_agama: "[[EA9.5]]"
+parallels_partilal: "[[EA9.5]], [[ITI20]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.42]]  🌐 [[AN1.44]] ►
 
@@ -64,8 +59,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.43-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,8 +71,7 @@ parallels_partilal:
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN1.43%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN1.43%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -89,7 +82,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN1.43%5D%5D%22%23mynotes%20-file%3Aan1.43-%20-file%3A%22AN1.42%22%20-file%3A%22AN1.44%22%20-file%3A%22AN1.43%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an1.43/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.43

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1028-PALI"
+sutta_code: "THAG1028"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1028-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1028]]
 > ◄  [[thag1027-pali-pts]] 📜  [[thag1029-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ khantyā chandikato hoti, ussahitvā tuleti taṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1028-) 
 

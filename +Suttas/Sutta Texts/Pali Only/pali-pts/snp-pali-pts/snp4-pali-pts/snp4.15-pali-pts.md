@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.15-PALI"
+sutta_code: "SNP4.15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Attadaṇḍasutta "
+  - "Taking up Arms"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
 > ◄  [[snp4.14-pali-pts]] 📜  [[snp4.16-pali-pts]] ►
 
 # SNP4.15 Attadaṇḍasutta
@@ -69,6 +69,20 @@ ATTADAṆḌASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.15-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP367]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP367]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[UD2:10.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
+> ◄  [[snp4.14-pali-pts]] 📜  [[snp4.16-pali-pts]] ►

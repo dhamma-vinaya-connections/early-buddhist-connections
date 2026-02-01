@@ -3,11 +3,11 @@ sutta_code: "UD8.8"
 sutta_title:
   - "Visakha Sutta "
   - "Visākhā"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.8]]
 > ◄  [[ud8.7-anandajoti-pali]] 📜  [[ud8.9-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -105,8 +105,7 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -121,6 +120,5 @@ Aṭṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN87]], [[THIG3.5]], [[THIG6.1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.8]]
 > ◄  [[ud8.7-anandajoti-pali]] 📜  [[ud8.9-anandajoti-pali]] ►

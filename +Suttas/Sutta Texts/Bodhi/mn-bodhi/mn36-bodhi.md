@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
 > ◄  [[mn35-bodhi]] 📜  [[mn37-bodhi]] ►
 
 # MN36 Mahāsaccaka Sutta - The Greater Discourse to Saccaka
@@ -137,8 +137,7 @@ Then Saccaka the Nigaṇṭha’s son, having delighted and rejoiced in the Bles
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -153,6 +152,5 @@ Then Saccaka the Nigaṇṭha’s son, having delighted and rejoiced in the Bles
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN25]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
 > ◄  [[mn35-bodhi]] 📜  [[mn37-bodhi]] ►

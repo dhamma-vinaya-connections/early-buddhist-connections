@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG63-PALI"
+sutta_code: "THAG63"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG63-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG63]]
 > ◄  [[thag62-pali-pts]] 📜  [[thag64-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Dumavhayāya uppanno jāto paṇḍaraketunā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag63-) 
 

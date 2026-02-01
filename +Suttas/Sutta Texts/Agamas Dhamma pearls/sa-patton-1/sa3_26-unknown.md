@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_26]]
 > ◄  [[SA3_14]] 📜  [[SA3_71]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -85,6 +85,5 @@ Susīma said to the Buddha, “Extreme pain, Bhagavān. The pain would be diffic
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa3_26-) 
 

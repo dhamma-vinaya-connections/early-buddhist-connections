@@ -4,10 +4,10 @@ sutta_title:
   - "Dāhārasutta "
   - "Young"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.1]]
 > ◄  [[]] 📜  [[sn3.2-deepseek-pali]] ►
 
 # SN 3.1 Daharasuttaṃ
@@ -75,8 +75,7 @@ When this was said, King Pasenadi of Kosala said to the Blessed One: "Excellent,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ When this was said, King Pasenadi of Kosala said to the Blessed One: "Excellent,
 | [[SA-2.53]], [[SA1226]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.1]]
 > ◄  [[]] 📜  [[sn3.2-deepseek-pali]] ►

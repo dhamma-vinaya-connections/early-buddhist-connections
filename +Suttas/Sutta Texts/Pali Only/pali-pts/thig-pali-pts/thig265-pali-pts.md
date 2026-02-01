@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG265-PALI"
+sutta_code: "THIG265"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG265-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG265]]
 > ◄  [[thig264-pali-pts]] 📜  [[thig266-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ kañcanassa phalakaṃ va sumaṭṭhaṃ sobhate su kāyo pure mama |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig265-) 
 

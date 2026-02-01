@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG57-PALI"
+sutta_code: "THAG57"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG57-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG57]]
 > ◄  [[thag56-pali-pts]] 📜  [[thag58-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Ramaṇīyā me kuṭikā saddhādeyyā manoramā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag57-) 
 

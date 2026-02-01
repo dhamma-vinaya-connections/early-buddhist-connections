@@ -4,10 +4,10 @@ sutta_title:
   - "Nigrodha Sutta "
   - "The Banyan Tree"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.4]]
 > ◄  [[ud1.3-deepseek-pali]] 📜  [[ud1.5-deepseek-pali]] ►
 
 # Ud 1.4 Huṃhuṅkasuttaṃ
@@ -35,8 +35,7 @@ Then, understanding this matter, the Blessed One on that occasion uttered this i
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then, understanding this matter, the Blessed One on that occasion uttered this i
 | [[PLI-TV-KD1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.4]]
 > ◄  [[ud1.3-deepseek-pali]] 📜  [[ud1.5-deepseek-pali]] ►

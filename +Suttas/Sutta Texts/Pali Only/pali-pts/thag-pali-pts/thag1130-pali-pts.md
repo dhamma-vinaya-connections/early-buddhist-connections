@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1130-PALI"
+sutta_code: "THAG1130"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1130-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1130]]
 > ◄  [[thag1129-pali-pts]] 📜  [[thag1131-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ satthā ca me lokam imaṃ adhiṭṭhahi aniccato addhuvato asārato;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1130-) 
 

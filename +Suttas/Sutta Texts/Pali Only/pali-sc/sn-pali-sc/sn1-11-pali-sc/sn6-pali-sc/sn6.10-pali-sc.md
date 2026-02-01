@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.10-PALI"
+sutta_code: "SN6.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kokālikasutta "
+  - "Kokalika (2)"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.10]]
 > ◄  [[sn6.9-pali-sc]] 📜  [[sn6.11-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -92,6 +92,16 @@ Turū ca brahmā aparo ca kokālikoti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN6.9]] | [[EA21.5]], [[SA-2.276]], [[SA1278]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN6.9]], [[AN10.89]], [[SNP3.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.10]]
+> ◄  [[sn6.9-pali-sc]] 📜  [[sn6.11-pali-sc]] ►

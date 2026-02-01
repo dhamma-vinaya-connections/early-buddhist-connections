@@ -4,10 +4,10 @@ sutta_title:
   - "Pañcaṅgika "
   - "Five Factors"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.28]]
 > ◄  [[an5.27-deepseek-pali]] 📜  [[an5.29-deepseek-pali]] ►
 
 # AN 5.28 Pañcaṅgikasuttaṃ
@@ -79,8 +79,7 @@ If he wishes: ‘May I, by the destruction of the taints, realize for myself wit
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.28-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -90,6 +89,5 @@ If he wishes: ‘May I, by the destruction of the taints, realize for myself wit
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.36]], [[AN10.7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.28]]
 > ◄  [[an5.27-deepseek-pali]] 📜  [[an5.29-deepseek-pali]] ►

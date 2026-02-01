@@ -4,10 +4,10 @@ sutta_title:
   - "Dhātusosaṁsandana "
   - "Converging elements"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI78]]
 > ◄  [[iti77-deepseek-pali]] 📜  [[iti79-deepseek-pali]] ►
 
 # Iti 78 Parihānasuttaṃ
@@ -48,8 +48,7 @@ And decline make up the ten.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti78-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -64,6 +63,5 @@ And decline make up the ten.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN45.2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI78]]
 > ◄  [[iti77-deepseek-pali]] 📜  [[iti79-deepseek-pali]] ►

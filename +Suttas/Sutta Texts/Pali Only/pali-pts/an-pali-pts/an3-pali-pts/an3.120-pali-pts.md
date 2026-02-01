@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.120-PALI"
+sutta_code: "AN3.120"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vipattisampadā "
+  - "Failures And Accomplishments"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.120-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.120]]
 > ◄  [[an3.119-pali-pts]] 📜  [[an3.121-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,11 @@ Idha bhikkhave ekacco pāṇātipātā paṭivirato hoti . . . pe (115.5) . . . 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.120-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 271 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.120]]
+> ◄  [[an3.119-pali-pts]] 📜  [[an3.121-pali-pts]] ►

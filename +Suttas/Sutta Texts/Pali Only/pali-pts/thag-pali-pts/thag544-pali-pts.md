@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG544-PALI"
+sutta_code: "THAG544"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG544-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG544]]
 > ◄  [[thag543-pali-pts]] 📜  [[thag545-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ vane kusumasañchanne pabbhāre nūna sītale
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag544-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "勝道 "
   - "Noble Path"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI95]]
 > ◄  [[iti94-deepseek-pali]] 📜  [[iti96-deepseek-pali]] ►
 
 # Iti 95 Kāmayogasuttaṃ
@@ -55,9 +55,7 @@ This too is the meaning spoken by the Blessed One, so I have heard. Eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti95-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI95]]
 > ◄  [[iti94-deepseek-pali]] 📜  [[iti96-deepseek-pali]] ►

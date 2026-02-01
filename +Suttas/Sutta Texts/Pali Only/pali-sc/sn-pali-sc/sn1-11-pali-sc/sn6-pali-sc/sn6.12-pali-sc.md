@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.12-PALI"
+sutta_code: "SN6.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Andhakavindasutta "
+  - "Andhakavinda"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.12]]
 > ◄  [[sn6.11-pali-sc]] 📜  [[sn6.13-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -28,6 +28,16 @@ gabbho assatariṁ yathā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.68]], [[PLI-TV-KD17]], [[SN17.35]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.12]]
+> ◄  [[sn6.11-pali-sc]] 📜  [[sn6.13-pali-sc]] ►

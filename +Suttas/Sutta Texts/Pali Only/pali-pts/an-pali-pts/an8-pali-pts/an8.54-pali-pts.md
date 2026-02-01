@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.54-PALI"
+sutta_code: "AN8.54"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dīghajāṇu "
+  - "With Dīghajāṇu"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.54-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.54]]
 > ◄  [[an8.53-pali-pts]] 📜  [[an8.55-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,20 @@ Ekamantaṃ nisinno kho Dīghajānu Koḷiyaputto Bhagavantaṃ etad avoca ‘ma
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.54-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.40]], [[AN8.55]] | [[SA-2.90]], [[SA-2.91]], [[SA90]], [[SA91]] | A iv 281 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.91]], [[SA91]], [[AN8.55]], [[AN4.40]], [[SA-2.90]], [[SA90]], [[AN8.75]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN3.19]], [[SN45.2]], [[AN4.62]], [[AN5.34]], [[AN5.38]], [[AN5.41]], [[AN5.175]], [[AN5.179]], [[AN6.45]], [[AN8.80.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.54]]
+> ◄  [[an8.53-pali-pts]] 📜  [[an8.55-pali-pts]] ►

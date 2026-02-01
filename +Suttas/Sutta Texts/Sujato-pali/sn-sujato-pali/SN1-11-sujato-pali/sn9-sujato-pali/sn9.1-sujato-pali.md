@@ -3,11 +3,11 @@ sutta_code: "SN9.1"
 sutta_title:
   - "Vivekasutta "
   - "Seclusion"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.1]]
 > ◄  [[]] 📜  [[sn9.2-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -70,8 +70,7 @@ Vidhunaṁ pātayati sitaṁ rajan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -86,6 +85,5 @@ Vidhunaṁ pātayati sitaṁ rajan"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.1]]
 > ◄  [[]] 📜  [[sn9.2-sujato-pali]] ►

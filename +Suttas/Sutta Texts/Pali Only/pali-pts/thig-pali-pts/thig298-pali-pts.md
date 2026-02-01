@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG298-PALI"
+sutta_code: "THIG298"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG298-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG298]]
 > ◄  [[thig297-pali-pts]] 📜  [[thig299-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sākunitikko va sakuṇiṃ yathā bandhitum icchati |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig298-) 
 

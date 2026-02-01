@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA212]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA212]]
 > ◄  [[ma211-bdk]] 📜  [[ma213-bdk]] ►
 
 ### 212. The Discourse on Omniscience
@@ -61,8 +61,7 @@ King Pasenadi of Kosala, having heard what the World-honored One had said, recei
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma212-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -73,6 +72,5 @@ King Pasenadi of Kosala, having heard what the World-honored One had said, recei
 | [[AN4.68]], [[PLI-TV-KD17]], [[SN6.12]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA212]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA212]]
 > ◄  [[ma211-bdk]] 📜  [[ma213-bdk]] ►

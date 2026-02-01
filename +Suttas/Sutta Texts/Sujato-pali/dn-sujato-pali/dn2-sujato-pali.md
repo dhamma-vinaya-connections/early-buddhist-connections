@@ -3,11 +3,11 @@ sutta_code: "DN2"
 sutta_title:
   - "Sāmaññaphala Sutta "
   - "Fruits of the Ascetic Life"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN2]]
 > ◄  [[dn1-sujato-pali]] 📜  [[dn3-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -843,8 +843,7 @@ Sāmaññaphalasuttaṁ niṭṭhitaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -859,6 +858,5 @@ Sāmaññaphalasuttaṁ niṭṭhitaṁ dutiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN39]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN2]]
 > ◄  [[dn1-sujato-pali]] 📜  [[dn3-sujato-pali]] ►

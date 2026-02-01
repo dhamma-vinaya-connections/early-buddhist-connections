@@ -3,11 +3,11 @@ sutta_code: "SN8.10"
 sutta_title:
   - "Moggallānasutta "
   - "Moggallana"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
 > ◄  [[sn8.9-sujato-pali]] 📜  [[sn8.11-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -81,8 +81,7 @@ Payirupāsanti gotaman"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -93,6 +92,5 @@ Payirupāsanti gotaman"ti.
 | [[SA-2.227]], [[SA1211]], [[THAG21.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
 > ◄  [[sn8.9-sujato-pali]] 📜  [[sn8.11-sujato-pali]] ►

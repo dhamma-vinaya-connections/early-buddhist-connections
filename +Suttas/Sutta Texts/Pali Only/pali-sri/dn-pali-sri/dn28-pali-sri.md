@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN28-PALI"
+sutta_code: "DN28"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sampasādanīya Sutta "
+  - "Inspiring Confidence"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
 > ◄  [[dn27-pali-sri]] 📜  [[dn29-pali-sri]] ►
 
 # 28. Sampasadaniya sutta- Pali
@@ -242,6 +242,16 @@ Sampasādaniyasuttaṃnīṭṭhitaṃ pañcamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn28-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN47.12]] | [[DA18]], [[SA498]] | D iii 99 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA18]], [[SA498]], [[SN47.12]], [[AN1.277]], [[MN115]], [[DN1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
+> ◄  [[dn27-pali-sri]] 📜  [[dn29-pali-sri]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Kapila "
   - "Righteous Life"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
 > ◄  [[snp2.5-deepseek-pali]] 📜  [[snp2.7-deepseek-pali]] ►
 
 # Snp 2.6 Dhammacariyasuttaṃ
@@ -83,9 +83,7 @@ The Dhamma-Conduct Sutta, the sixth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.6-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
 > ◄  [[snp2.5-deepseek-pali]] 📜  [[snp2.7-deepseek-pali]] ►

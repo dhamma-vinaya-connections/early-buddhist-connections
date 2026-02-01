@@ -4,10 +4,10 @@ sutta_title:
   - "Vipallasa "
   - "Perversions"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.49]]
 > ◄  [[an4.48-deepseek-pali]] 📜  [[an4.50-deepseek-pali]] ►
 
 # AN 4.49 Vipallāsasuttaṃ
@@ -47,8 +47,7 @@ They saw the not-self as not-self, and the unattractive as unattractive; Having 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.49-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ They saw the not-self as not-self, and the unattractive as unattractive; Having 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.48]], [[AN10.60]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.49]]
 > ◄  [[an4.48-deepseek-pali]] 📜  [[an4.50-deepseek-pali]] ►

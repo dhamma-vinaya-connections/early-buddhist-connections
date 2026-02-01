@@ -4,10 +4,10 @@ sutta_title:
   - "Anāthapiṇḍikovāda Sutta "
   - "Advice to Anāthapiṇḍika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143]]
 > ◄  [[mn142-deepseek-pali]] 📜  [[mn144-deepseek-pali]] ►
 
 # 143. Puṇṇovādasuttaṃ
@@ -83,8 +83,7 @@ The Puṇṇovāda Sutta, the third, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn143-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ The Puṇṇovāda Sutta, the third, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN148]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143]]
 > ◄  [[mn142-deepseek-pali]] 📜  [[mn144-deepseek-pali]] ►

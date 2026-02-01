@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.16-PALI"
+sutta_code: "AN1.16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Nīvaraṇappahāna "
+  - "Giving Up The Hindrances"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.16]]
 > ◄  [[an1.15-pali-sri]] 📜  [[an1.17-pali-sri]] ►
 
 # 3:16 Patipadavaggo - Pali
@@ -134,6 +134,16 @@ Imā kho bhikkhave tisso paṭipadāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.16-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA9.10]] | A i 4 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA9.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.16]]
+> ◄  [[an1.15-pali-sri]] 📜  [[an1.17-pali-sri]] ►

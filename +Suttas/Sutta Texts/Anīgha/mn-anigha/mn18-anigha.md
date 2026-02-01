@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
 > ◄  [[mn17-anigha]] 📜  [[mn19-anigha]] ►
 
 # MN 18 - The Lump of Honey
@@ -85,8 +85,7 @@ That is what the Auspicious One said. Pleased, Venerable Ānanda delighted in wh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -101,6 +100,5 @@ That is what the Auspicious One said. Pleased, Venerable Ānanda delighted in wh
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN21]]; [[AN3.72]]; [[SN4.8]], [[SA273]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
 > ◄  [[mn17-anigha]] 📜  [[mn19-anigha]] ►

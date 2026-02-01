@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.83-PALI"
+sutta_code: "AN8.83"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mūlaka "
+  - "Rooted"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.83-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.83]]
 > ◄  [[an8.82-pali-sc]] 📜  [[an8.84-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -35,6 +35,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.83-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN10.58]] | [[MA113]] | A iv 338 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.58]], [[MA113]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.83]]
+> ◄  [[an8.82-pali-sc]] 📜  [[an8.84-pali-sc]] ►

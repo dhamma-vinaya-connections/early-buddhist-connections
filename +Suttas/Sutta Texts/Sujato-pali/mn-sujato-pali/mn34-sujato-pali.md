@@ -3,11 +3,11 @@ sutta_code: "MN34"
 sutta_title:
   - "Cūḷagopālaka Sutta "
   - "Shorter Discourse on the Cowherd"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-sujato-pali]] 📜  [[mn35-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -121,8 +121,7 @@ Cūḷagopālakasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -133,6 +132,5 @@ Cūḷagopālakasuttaṁ niṭṭhitaṁ catutthaṁ.
 | [[EA43.6]]; [[SA1248]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-sujato-pali]] 📜  [[mn35-sujato-pali]] ►

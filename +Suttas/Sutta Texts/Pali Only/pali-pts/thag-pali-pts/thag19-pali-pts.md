@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG19-PALI"
+sutta_code: "THAG19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Tālapuṭattheragāthā "
+  - "Tālapuṭa"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG19]]
 > ◄  [[thag18-pali-pts]] 📜  [[thag20-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Maraṇe me bhayaṃ n'; atthi, nikantī n'; atthi jīvite,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag19-) 
 

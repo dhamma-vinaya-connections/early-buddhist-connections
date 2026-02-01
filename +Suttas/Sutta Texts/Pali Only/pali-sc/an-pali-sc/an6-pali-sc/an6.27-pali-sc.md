@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.27-PALI"
+sutta_code: "AN6.27"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paṭhamasamaya "
+  - "Proper Occasions"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.27-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.27]]
 > ◄  [[an6.26-pali-sc]] 📜  [[an6.28-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -47,6 +47,11 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.27-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 317 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.27]]
+> ◄  [[an6.26-pali-sc]] 📜  [[an6.28-pali-sc]] ►

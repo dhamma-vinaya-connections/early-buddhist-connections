@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.13-PALI"
+sutta_code: "SNP4.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mahābyūhasutta "
+  - "Longer Discourse on Arrayed For Battle"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
 > ◄  [[snp4.12-pali-pts]] 📜  [[snp4.14-pali-pts]] ►
 
 # SNP4.13 Mahāviyūhasutta
@@ -110,6 +110,7 @@ MAHĀVIYŪHASUTTAṂ19 NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
+> ◄  [[snp4.12-pali-pts]] 📜  [[snp4.14-pali-pts]] ►

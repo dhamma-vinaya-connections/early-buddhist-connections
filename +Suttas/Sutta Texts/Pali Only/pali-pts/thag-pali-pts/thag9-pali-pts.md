@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG9-PALI"
+sutta_code: "THAG9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Navakanipātavagga "
+  - "Nines Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
 > ◄  [[thag8-pali-pts]] 📜  [[thag10-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,7 @@ Vihari apekkhaṃ idha vā huraṃ vā yo vedagū samito yatatto
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
+> ◄  [[thag8-pali-pts]] 📜  [[thag10-pali-pts]] ►

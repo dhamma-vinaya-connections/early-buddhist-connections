@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.146-PALI"
+sutta_code: "AN4.146"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kāla "
+  - "Times"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.146-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.146]]
 > ◄  [[an4.145-pali-pts]] 📜  [[an4.147-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,11 @@ Ime kho bhikkhave cattāro kālā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.146-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 140 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.146]]
+> ◄  [[an4.145-pali-pts]] 📜  [[an4.147-pali-pts]] ►

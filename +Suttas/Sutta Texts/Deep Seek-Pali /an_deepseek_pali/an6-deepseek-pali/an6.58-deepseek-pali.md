@@ -4,10 +4,10 @@ sutta_title:
   - "Āsava "
   - "Defilements"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.58]]
 > ◄  [[an6.57-deepseek-pali]] 📜  [[an6.59-deepseek-pali]] ►
 
 # AN 6.58 Āsavasuttaṃ
@@ -55,8 +55,7 @@ And what, monks, are the taints to be abandoned by avoidance, which are abandone
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.58-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ And what, monks, are the taints to be abandoned by avoidance, which are abandone
 | [[MN2]], [[EA40.6]], [[MA10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.58]]
 > ◄  [[an6.57-deepseek-pali]] 📜  [[an6.59-deepseek-pali]] ►

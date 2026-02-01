@@ -4,10 +4,10 @@ sutta_title:
   - "Kappamāṇavapucchā "
   - "Questions of the Student Kappa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.11]]
 > ◄  [[snp5.10-deepseek-pali]] 📜  [[snp5.12-deepseek-pali]] ►
 
 # Snp 5.11 Kappamāṇavapucchā
@@ -53,9 +53,7 @@ The The Questions of the Young Man Kappa, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.11-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.11]]
 > ◄  [[snp5.10-deepseek-pali]] 📜  [[snp5.12-deepseek-pali]] ►

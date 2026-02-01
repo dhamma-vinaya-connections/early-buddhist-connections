@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
 > ◄  [[mn53-thanissaro]] 📜  [[mn55-thanissaro]] ►
 
 ## MN54 To Potaliya (Excerpt)
@@ -70,8 +70,7 @@ _In this passage, the Buddha teaches Potaliya the householder what it means, in 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn54-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -86,6 +85,5 @@ _In this passage, the Buddha teaches Potaliya the householder what it means, in 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN137]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
 > ◄  [[mn53-thanissaro]] 📜  [[mn55-thanissaro]] ►

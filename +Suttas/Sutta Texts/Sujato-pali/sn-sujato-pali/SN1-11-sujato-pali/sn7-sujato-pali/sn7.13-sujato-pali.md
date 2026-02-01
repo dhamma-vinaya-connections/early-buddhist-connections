@@ -3,11 +3,11 @@ sutta_code: "SN7.13"
 sutta_title:
   - "Devahitasutta "
   - "Devahita"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
 > ◄  [[sn7.12-sujato-pali]] 📜  [[sn7.14-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -127,8 +127,7 @@ evaṁ ijjhati dakkhiṇā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -139,6 +138,5 @@ evaṁ ijjhati dakkhiṇā"ti.
 | [[SA-2.95]], [[SA1181]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
 > ◄  [[sn7.12-sujato-pali]] 📜  [[sn7.14-sujato-pali]] ►

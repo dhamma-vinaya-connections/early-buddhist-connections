@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG306-PALI"
+sutta_code: "THAG306"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG306-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG306]]
 > ◄  [[thag305-pali-pts]] 📜  [[thag307-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Yadā balākā sucipaṇḍaracchadā kāḷassa meghassa bhayena tajjitā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag306-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG545-PALI"
+sutta_code: "THAG545"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG545-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG545]]
 > ◄  [[thag544-pali-pts]] 📜  [[thag546-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ so 'haṃ paripuṇṇasaṃkappo cando pannaraso yathā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag545-) 
 

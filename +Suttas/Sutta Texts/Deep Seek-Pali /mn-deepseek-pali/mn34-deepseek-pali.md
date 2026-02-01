@@ -4,10 +4,10 @@ sutta_title:
   - "Cūḷagopālaka Sutta "
   - "Shorter Discourse on the Cowherd"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-deepseek-pali]] 📜  [[mn35-deepseek-pali]] ►
 
 # 34. Cūḷagopālakasuttaṃ
@@ -75,8 +75,7 @@ The Shorter Discourse on the Cowherd, the fourth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ The Shorter Discourse on the Cowherd, the fourth, is finished.
 | [[EA43.6]]; [[SA1248]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-deepseek-pali]] 📜  [[mn35-deepseek-pali]] ►

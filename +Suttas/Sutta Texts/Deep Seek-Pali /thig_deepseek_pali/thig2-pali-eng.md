@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG2-PALI"
+sutta_code: "THIG2"
 sutta_title:
-  - " "
-  - ""
+  - "Dukanipātavagga "
+  - "Twos Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG2]]
 > ◄  [[thig1-pali-eng]] 📜  [[thig3-pali-eng]] ►
 
 # Thig 2. Dukanipāto
@@ -144,6 +144,5 @@ Through many painful experiences, due to delighting in diligence, I have attaine
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig2-) 
 

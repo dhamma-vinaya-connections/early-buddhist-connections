@@ -3,11 +3,11 @@ sutta_code: "DHP13-BUDDHARAKKHITA"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pali"
+sutta-version: "Pali"
 language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP13-BUDDHARAKKHITA]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP13-BUDDHARAKKHITA]]
 > ◄  [[dhp12-buddharakkhita-pali]] 📜  [[dhp14-buddharakkhita-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -108,6 +108,5 @@ Lokavaggo terasamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp13-buddharakkhita-) 
 

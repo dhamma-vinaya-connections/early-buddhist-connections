@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāgovinda Sutta "
   - "Great Steward"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
 > ◄  [[dn18-deepseek-pali]] 📜  [[dn20-deepseek-pali]] ►
 
 # Mahāgovindasuttaṃ
@@ -486,8 +486,7 @@ This the Blessed One said. Pleased, Pañcasikha the gandhabba, delighting in the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -498,6 +497,5 @@ This the Blessed One said. Pleased, Pañcasikha the gandhabba, delighting in the
 | [[JA498]], [[JA509]], [[DA3]], [[MN91]], [[SN4.9]], [[JA460]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
 > ◄  [[dn18-deepseek-pali]] 📜  [[dn20-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Uppalavaṇṇāsutta "
   - "Uppalavaṇṇā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
 > ◄  [[sn5.4-deepseek-pali]] 📜  [[sn5.6-deepseek-pali]] ►
 
 # SN 5.5 Uppalavaṇṇāsuttaṃ
@@ -47,8 +47,7 @@ Then Māra the Evil One, thinking, "The bhikkhunī Uppalavaṇṇā knows me," m
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then Māra the Evil One, thinking, "The bhikkhunī Uppalavaṇṇā knows me," m
 | [[SA-2.217]], [[SA1201]], [[THIG11.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
 > ◄  [[sn5.4-deepseek-pali]] 📜  [[sn5.6-deepseek-pali]] ►

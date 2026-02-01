@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.4-PALI"
+sutta_code: "SNP2.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Maṅgalasutta "
+  - "Blessings"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
 > ◄  [[snp2.3-pali-pts]] 📜  [[snp2.5-pali-pts]] ►
 
 # SNP2.4 Mahāmaṅgalasutta
@@ -49,6 +49,7 @@ MAHĀMAṄGALASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
+> ◄  [[snp2.3-pali-pts]] 📜  [[snp2.5-pali-pts]] ►

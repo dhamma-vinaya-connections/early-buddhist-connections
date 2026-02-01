@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.3-PALI"
+sutta_code: "AN5.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vitthata "
+  - "In Detail"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.3]]
 > ◄  [[an5.2-pali-sri]] 📜  [[an5.4-pali-sri]] ►
 
 # 8:3 Gahapativaggo - Pali
@@ -454,6 +454,11 @@ Dve balā akkhaṇā vuttā anuruddhena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 3 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.3]]
+> ◄  [[an5.2-pali-sri]] 📜  [[an5.4-pali-sri]] ►

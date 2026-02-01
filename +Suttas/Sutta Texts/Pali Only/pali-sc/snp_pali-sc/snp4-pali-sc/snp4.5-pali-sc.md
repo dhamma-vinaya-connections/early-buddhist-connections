@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.5-PALI"
+sutta_code: "SNP4.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paramaṭṭhakasutta "
+  - "Eight on the Ultimate"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.5]]
 > ◄  [[snp4.4-pali-sc]] 📜  [[snp4.6-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -61,6 +61,7 @@ Paramaṭṭhakasuttaṁ pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.5]]
+> ◄  [[snp4.4-pali-sc]] 📜  [[snp4.6-pali-sc]] ►

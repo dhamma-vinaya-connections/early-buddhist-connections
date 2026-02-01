@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI12-PALI"
+sutta_code: "ITI12"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI12]]
 > ◄  [[iti11-pali-pts]] 📜  [[iti13-pali-pts]] ►
 
 ## Itivuttaka
@@ -25,6 +25,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||2||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti12-) 
 

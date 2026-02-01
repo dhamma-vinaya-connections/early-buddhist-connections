@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyasaṅgāmasutta "
   - "Battle (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
 > ◄  [[sn3.14-deepseek-pali]] 📜  [[sn3.16-deepseek-pali]] ►
 
 # SN 3.15 Dutiyasaṅgāmasuttaṃ
@@ -51,8 +51,7 @@ A killer obtains a killer; the victor finds a victor; an abuser obtains abuse; t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ A killer obtains a killer; the victor finds a victor; an abuser obtains abuse; t
 | [[SA-2.64]], [[SA1237]], [[JA239]], [[DHP69]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
 > ◄  [[sn3.14-deepseek-pali]] 📜  [[sn3.16-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Dhammakathika "
   - "Dhamma Speakers"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.140]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.140]]
 > ◄  [[an4.139-deepseek-pali]] 📜  [[an4.141-deepseek-pali]] ►
 
 # AN 4.140 Vādīsuttaṃ
@@ -39,12 +39,11 @@ Fetters, intuition, quick understanding, effort; blameworthy, two kinds of virtu
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.140-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A ii 138 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.140]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.140]]
 > ◄  [[an4.139-deepseek-pali]] 📜  [[an4.141-deepseek-pali]] ►

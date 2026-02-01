@@ -3,11 +3,11 @@ sutta_code: "SN9.11"
 sutta_title:
   - "Akusalavitakkasutta "
   - "Unwholesome Thoughts"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
 > ◄  [[sn9.10-sujato-pali]] 📜  [[sn9.12-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -65,8 +65,7 @@ dukkhassantaṁ karissasī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,6 +76,5 @@ dukkhassantaṁ karissasī"ti.
 | [[SA-2.354]], [[SA1334]], [[DHP376]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
 > ◄  [[sn9.10-sujato-pali]] 📜  [[sn9.12-sujato-pali]] ►

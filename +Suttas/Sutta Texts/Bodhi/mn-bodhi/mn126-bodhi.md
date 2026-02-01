@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
 > ◄  [[mn125-bodhi]] 📜  [[mn127-bodhi]] ►
 
 # MN126 Bhūmija Sutta - Bhūmija
@@ -63,8 +63,7 @@ That is what the Blessed One said. The venerable Bhūmija was satisfied and del
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn126-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ That is what the Blessed One said. The venerable Bhūmija was satisfied and del
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN125]], [[SN12.25]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
 > ◄  [[mn125-bodhi]] 📜  [[mn127-bodhi]] ►

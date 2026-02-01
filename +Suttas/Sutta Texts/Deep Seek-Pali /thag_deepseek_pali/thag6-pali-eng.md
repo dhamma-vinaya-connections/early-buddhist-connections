@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG6-PALI"
+sutta_code: "THAG6"
 sutta_title:
-  - " "
-  - ""
+  - "Chakkanipātavagga "
+  - "Sixes Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG6]]
 > ◄  [[thag5-pali-eng]] 📜  [[thag7-pali-eng]] ►
 
 # Thag 6. Chakkanipāto
@@ -426,6 +426,5 @@ Superiority conceit and inferiority conceit have been abandoned, thoroughly upro
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag6-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.24-PALI"
+sutta_code: "SN3.24"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Issattasutta "
+  - "Archery"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
 > ◄  [[sn3.23-pali-sc]] 📜  [[sn3.25-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -95,6 +95,20 @@ dātāraṁ abhivassatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.24-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.68]], [[SA1145]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.68]], [[SA1145]], [[AN5.31]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.57]], [[ITI76.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
+> ◄  [[sn3.23-pali-sc]] 📜  [[sn3.25-pali-sc]] ►

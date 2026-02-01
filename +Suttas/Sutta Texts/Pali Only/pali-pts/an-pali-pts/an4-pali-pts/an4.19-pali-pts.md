@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.19-PALI"
+sutta_code: "AN4.19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṭhamaagati "
+  - "Prejudice"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.19]]
 > ◄  [[an4.18-pali-pts]] 📜  [[an4.21-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -39,6 +39,16 @@ Sukhumaṃ tayo agati bhattuddesena te dasā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.17-18]] |  | A ii 19 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN31]], [[AN4.17-18]], [[JA443]], [[PE3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.19]]
+> ◄  [[an4.18-pali-pts]] 📜  [[an4.21-pali-pts]] ►

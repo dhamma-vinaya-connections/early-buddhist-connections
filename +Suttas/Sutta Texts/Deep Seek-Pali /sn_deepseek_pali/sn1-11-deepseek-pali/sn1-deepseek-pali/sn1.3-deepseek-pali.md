@@ -4,10 +4,10 @@ sutta_title:
   - "Upanīyasutta "
   - "Reaching"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.3]]
 > ◄  [[sn1.2-deepseek-pali]] 📜  [[sn1.4-deepseek-pali]] ►
 
 # SN 1.3 Upanīyasuttaṃ
@@ -34,8 +34,7 @@ One seeking peace should abandon worldly bait.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -46,6 +45,5 @@ One seeking peace should abandon worldly bait.
 | [[SA-2.138]], [[SA1001]], [[SN2.19]], [[AN3.51]], [[JA498]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.3]]
 > ◄  [[sn1.2-deepseek-pali]] 📜  [[sn1.4-deepseek-pali]] ►

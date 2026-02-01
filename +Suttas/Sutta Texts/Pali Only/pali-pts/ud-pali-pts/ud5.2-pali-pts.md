@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD5.2-PALI"
+sutta_code: "UD5.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Appayuka Sutta "
+  - "Short-lived"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
 > ◄  [[ud4.9-pali-pts]] 📜  [[ud5.3-pali-pts]] ►
 
 ## Udāna
@@ -25,6 +25,16 @@ aham pi dhammaṃ sossāmī 'ti. atha kho bhagavā sabbāvantaṃ parisaṃ ceta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[PE2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
+> ◄  [[ud4.9-pali-pts]] 📜  [[ud5.3-pali-pts]] ►

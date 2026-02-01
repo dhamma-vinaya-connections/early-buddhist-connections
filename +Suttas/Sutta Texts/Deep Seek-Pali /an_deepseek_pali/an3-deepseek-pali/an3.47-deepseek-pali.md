@@ -4,10 +4,10 @@ sutta_title:
   - "Saṅkhatalakkhaṇa "
   - "Conditioned Characteristics"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.47]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.47]]
 > ◄  [[an3.46-deepseek-pali]] 📜  [[an3.48-deepseek-pali]] ►
 
 # AN 3.47 Saṅkhatalakkhaṇasuttaṃ
@@ -23,8 +23,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.47-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -35,6 +34,5 @@ language: "Pali"
 | [[EA22.5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.47]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.47]]
 > ◄  [[an3.46-deepseek-pali]] 📜  [[an3.48-deepseek-pali]] ►

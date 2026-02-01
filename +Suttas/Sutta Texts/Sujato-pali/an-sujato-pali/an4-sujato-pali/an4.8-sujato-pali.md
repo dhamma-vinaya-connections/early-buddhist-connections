@@ -3,11 +3,11 @@ sutta_code: "AN4.8"
 sutta_title:
   - "Vesārajja "
   - "Self Assured"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.8]]
 > ◄  [[an4.7-sujato-pali]] 📜  [[an4.9-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -75,8 +75,7 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ Aṭṭhamaṁ.
 | [[EA27.6]], [[MN12]], [[AN10.21]], [[EA46.4]], [[SA684]], [[SA701]], [[EA31.8]], [[EA50.6]], [[SA612]], [[SN12.21-22]], [[SN52.15-24]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.8]]
 > ◄  [[an4.7-sujato-pali]] 📜  [[an4.9-sujato-pali]] ►

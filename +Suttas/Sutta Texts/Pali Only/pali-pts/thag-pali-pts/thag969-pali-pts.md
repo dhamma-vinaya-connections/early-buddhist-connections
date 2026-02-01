@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG969-PALI"
+sutta_code: "THAG969"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG969-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG969]]
 > ◄  [[thag968-pali-pts]] 📜  [[thag970-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yo ca vantakasāv'; assa sīlesu susamāhito
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag969-) 
 

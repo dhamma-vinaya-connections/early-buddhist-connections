@@ -4,10 +4,10 @@ sutta_title:
   - "Gandhatthenasutta "
   - "The Thief of Scent"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.14]]
 > ◄  [[sn9.13-deepseek-pali]] 📜  [[]] ►
 
 # SN 9.14 Gandhatthenasuttaṃ
@@ -71,8 +71,7 @@ The Vajjian monks of Vesālī, through unwise recitation; At midday, with uncont
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ The Vajjian monks of Vesālī, through unwise recitation; At midday, with uncont
 | [[SA-2.358]], [[SA1338]], [[JA392]], [[THAG14.1]], [[THAG17.2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.14]]
 > ◄  [[sn9.13-deepseek-pali]] 📜  [[]] ►

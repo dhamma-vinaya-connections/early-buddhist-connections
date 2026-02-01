@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
 > ◄  [[mn43-anigha]] 📜  [[mn45-anigha]] ►
 
 # MN 44 - The Shorter Elaboration
@@ -166,8 +166,7 @@ That is what the Auspicious One said. Pleased, the layman Visākha delighted in 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn44-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -182,6 +181,5 @@ That is what the Auspicious One said. Pleased, the layman Visākha delighted in 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
 > ◄  [[mn43-anigha]] 📜  [[mn45-anigha]] ►

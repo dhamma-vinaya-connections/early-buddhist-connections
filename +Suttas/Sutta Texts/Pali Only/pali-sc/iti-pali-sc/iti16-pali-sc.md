@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI16-PALI"
+sutta_code: "ITI16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sekha "
+  - "Trainee"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI16]]
 > ◄  [[iti15-pali-sc]] 📜  [[iti17-pali-sc]] ►
 
 # Iti 16. Dutiyasekhasuttaṃ
@@ -25,6 +25,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti16-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "KP2-PALI"
+sutta_code: "KP2"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP2]]
 > ◄  [[kp1-pali-sc]] 📜  [[kp3-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -42,6 +42,5 @@ Jātarūparajatapaṭiggahaṇā veramaṇīsikkhāpadaṁ samādiyāmi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp2-) 
 

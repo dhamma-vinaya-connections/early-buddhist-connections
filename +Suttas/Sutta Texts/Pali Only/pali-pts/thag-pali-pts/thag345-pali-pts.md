@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG345-PALI"
+sutta_code: "THAG345"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG345-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG345]]
 > ◄  [[thag344-pali-pts]] 📜  [[thag346-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yaṃ mayā pakataṃ pāpaṃ pubbe aññāsu jātisu
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag345-) 
 

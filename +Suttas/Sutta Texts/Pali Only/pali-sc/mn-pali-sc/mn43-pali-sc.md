@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN43-PALI"
+sutta_code: "MN43"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahāvedalla Sutta "
+  - "Classification Great"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
 > ◄  [[mn42-pali-sc]] 📜  [[mn44-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -206,6 +206,20 @@ Ayaṁ kho, āvuso, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā ekatthā by
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn43-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.175]] | [[MA211]]; [[SA251]] | M i 292 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA211]]; [[AN4.175]]; [[SA251]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN44]]; [[MN122]]; [[SN22.23]]; [[SN22.79]], [[MN106]], [[MN121]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
+> ◄  [[mn42-pali-sc]] 📜  [[mn44-pali-sc]] ►

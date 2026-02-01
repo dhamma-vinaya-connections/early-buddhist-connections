@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP186-PALI"
+sutta_code: "DHP186"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP186-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP186]]
 > ◄  [[dhp185-pali-pts]] 📜  [[dhp187-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ api dibbesu kāmesu ratiṃ so nādhigacchati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp186-) 
 

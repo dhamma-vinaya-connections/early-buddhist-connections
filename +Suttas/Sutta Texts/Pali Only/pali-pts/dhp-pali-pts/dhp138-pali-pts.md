@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP138-PALI"
+sutta_code: "DHP138"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP138-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP138]]
 > ◄  [[dhp137-pali-pts]] 📜  [[dhp139-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ rājato va upassaggaṃ abbhakkhānaṃ va dāruṇaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp138-) 
 

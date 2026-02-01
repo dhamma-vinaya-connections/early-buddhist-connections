@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamakhata "
   - "Broken"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.3]]
 > ◄  [[an4.2-deepseek-pali]] 📜  [[an4.4-deepseek-pali]] ►
 
 # AN 4.3 Paṭhamakhatasuttaṃ
@@ -39,8 +39,7 @@ One hundred thousand nirabbudas, thirty-six nirabbudas, and five abbudas—the s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ One hundred thousand nirabbudas, thirty-six nirabbudas, and five abbudas—the s
 | [[SN6.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[SN6.9]], [[SNP3.10]], [[AN10.89]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.3]]
 > ◄  [[an4.2-deepseek-pali]] 📜  [[an4.4-deepseek-pali]] ►

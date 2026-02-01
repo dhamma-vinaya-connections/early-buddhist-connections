@@ -3,11 +3,11 @@ sutta_code: "SN2.29"
 sutta_title:
   - "Susimasutta "
   - "Susīma"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
 > ◄  [[sn2.28-sujato-pali]] 📜  [[sn2.30-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -107,8 +107,7 @@ kālaṁ kaṅkhati sudanto"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -119,6 +118,5 @@ kālaṁ kaṅkhati sudanto"ti.
 | [[SA-2.305]], [[SA1306]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
 > ◄  [[sn2.28-sujato-pali]] 📜  [[sn2.30-sujato-pali]] ►

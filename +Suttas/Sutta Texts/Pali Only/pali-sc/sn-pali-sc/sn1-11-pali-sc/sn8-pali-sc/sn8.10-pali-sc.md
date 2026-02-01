@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.10-PALI"
+sutta_code: "SN8.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Moggallānasutta "
+  - "Moggallana"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
 > ◄  [[sn8.9-pali-sc]] 📜  [[sn8.11-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -46,6 +46,16 @@ Payirupāsanti gotaman"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.227]], [[SA1211]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.227]], [[SA1211]], [[THAG21.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
+> ◄  [[sn8.9-pali-sc]] 📜  [[sn8.11-pali-sc]] ►

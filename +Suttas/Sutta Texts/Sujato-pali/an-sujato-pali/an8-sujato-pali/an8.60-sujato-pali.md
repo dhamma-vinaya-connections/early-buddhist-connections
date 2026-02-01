@@ -3,11 +3,11 @@ sutta_code: "AN8.60"
 sutta_title:
   - "Atthapuggala "
   - "Individuals Eight"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
 > ◄  [[an8.59-sujato-pali]] 📜  [[an8.61-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -62,8 +62,7 @@ dve ca aṭṭha puggalāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -74,6 +73,5 @@ dve ca aṭṭha puggalāti.
 | [[EA43.10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
 > ◄  [[an8.59-sujato-pali]] 📜  [[an8.61-sujato-pali]] ►

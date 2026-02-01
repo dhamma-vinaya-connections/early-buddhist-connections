@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.17-PALI"
+sutta_code: "AN9.17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Devatā "
+  - "Deity"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.17]]
 > ◄  [[an9.16-pali-pts]] 📜  [[an9.18-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Imā kho bhikkhave nava saññā bhāvitā bahulīkatā mahapphalā honti mahān
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN7.13]] |  | A iv 387 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN7.13]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.17]]
+> ◄  [[an9.16-pali-pts]] 📜  [[an9.18-pali-pts]] ►

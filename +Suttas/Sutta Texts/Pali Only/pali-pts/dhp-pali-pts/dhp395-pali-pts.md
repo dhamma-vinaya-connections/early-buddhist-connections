@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP395-PALI"
+sutta_code: "DHP395"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP395-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP395]]
 > ◄  [[dhp394-pali-pts]] 📜  [[dhp396-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ bhovādi nāma so hoti sa ve hoti sakiñcano, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp395-) 
 

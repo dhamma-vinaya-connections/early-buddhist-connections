@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
 > ◄  [[mn114-bodhi]] 📜  [[mn116-bodhi]] ►
 
 # MN115 Bahudhātuka Sutta - The Many Kinds of Elements
@@ -101,8 +101,7 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn115-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -117,6 +116,5 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN33-34]],]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
 > ◄  [[mn114-bodhi]] 📜  [[mn116-bodhi]] ►

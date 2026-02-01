@@ -4,10 +4,10 @@ sutta_title:
   - "Kodhavagga "
   - "Anger"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP17]]
 > ◄  [[dhp16-deepseek-pali]] 📜  [[dhp18-deepseek-pali]] ►
 
 # Dhp 17. Kodhavaggo
@@ -90,12 +90,11 @@ The Chapter on Anger, the Seventeenth, is Finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | Dh 63 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP17]]
 > ◄  [[dhp16-deepseek-pali]] 📜  [[dhp18-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "SN3.5"
 sutta_title:
   - "Attarakkhitasutta "
   - "Self-Protected"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.5]]
 > ◄  [[sn3.4-sujato-pali]] 📜  [[sn3.6-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -65,8 +65,7 @@ rakkhitoti pavuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,6 +76,5 @@ rakkhitoti pavuccatī"ti.
 | [[SA-2.56]], [[SA1229]], [[DHP361]], [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.5]]
 > ◄  [[sn3.4-sujato-pali]] 📜  [[sn3.6-sujato-pali]] ►

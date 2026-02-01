@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG906-PALI"
+sutta_code: "THAG906"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG906-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG906]]
 > ◄  [[thag905-pali-pts]] 📜  [[thag907-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ete pacchimakā dāni munino phassapañcamā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag906-) 
 

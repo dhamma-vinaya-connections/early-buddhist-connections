@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG34-PALI"
+sutta_code: "THAG34"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG34-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG34]]
 > ◄  [[thag33-pali-pts]] 📜  [[thag35-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Sukhaṃ sukhattho labhate tad ācaraṃ, kittiñ ca pappoti, yas'; assa vaḍ�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag34-) 
 

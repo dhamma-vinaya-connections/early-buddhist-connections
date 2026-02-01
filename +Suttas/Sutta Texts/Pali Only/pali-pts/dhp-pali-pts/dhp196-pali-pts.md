@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP196-PALI"
+sutta_code: "DHP196"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP196-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP196]]
 > ◄  [[dhp195-pali-pts]] 📜  [[dhp197-pali-pts]] ►
 
 ## Dhammapada
@@ -26,6 +26,5 @@ susukhaṃ vata jīvāma verinesu averino, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp196-) 
 

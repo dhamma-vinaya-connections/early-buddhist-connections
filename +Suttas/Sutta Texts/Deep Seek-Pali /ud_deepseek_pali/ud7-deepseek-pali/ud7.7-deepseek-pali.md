@@ -4,10 +4,10 @@ sutta_title:
   - "Papancakkhaya Sutta "
   - "The Ending of Objectification"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.7]]
 > ◄  [[ud7.6-deepseek-pali]] 📜  [[ud7.8-deepseek-pali]] ►
 
 # Ud 7.7 Papañcakhayasuttaṃ
@@ -31,9 +31,7 @@ Then, having understood the abandoning of his own perceptions and notions of pro
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.7-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.7]]
 > ◄  [[ud7.6-deepseek-pali]] 📜  [[ud7.8-deepseek-pali]] ►

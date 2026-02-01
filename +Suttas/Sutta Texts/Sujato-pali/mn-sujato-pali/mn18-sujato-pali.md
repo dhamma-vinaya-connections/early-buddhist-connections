@@ -3,11 +3,11 @@ sutta_code: "MN18"
 sutta_title:
   - "Madhupiṇḍika Sutta "
   - "Honey-Cake"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
 > ◄  [[mn17-sujato-pali]] 📜  [[mn19-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -193,8 +193,7 @@ Madhupiṇḍikasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -209,6 +208,5 @@ Madhupiṇḍikasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN21]]; [[AN3.72]]; [[SN4.8]], [[SA273]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
 > ◄  [[mn17-sujato-pali]] 📜  [[mn19-sujato-pali]] ►

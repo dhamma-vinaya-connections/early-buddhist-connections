@@ -3,11 +3,11 @@ sutta_code: "AN2.48"
 sutta_title:
   - "Parisa "
   - "Assemblies"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.48]]
 > ◄  [[an2.47-sujato-pali]] 📜  [[an2.49-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -41,12 +41,11 @@ Imā kho, bhikkhave, dve parisā. Etadaggaṁ, bhikkhave, imāsaṁ dvinnaṁ pa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.48-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A i 73 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.48]]
 > ◄  [[an2.47-sujato-pali]] 📜  [[an2.49-sujato-pali]] ►

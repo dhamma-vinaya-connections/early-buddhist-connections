@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
 > ◄  [[dn25-walshe]] 📜  [[dn27-walshe]] ►
 
 # DN26 Cakkavatti-Sῑhanāda Sutta: The Lion’s Roar on the Turning of the Wheel
@@ -116,8 +116,7 @@ Thus the Lord spoke, and the monks were delighted and rejoiced at his words.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -132,6 +131,5 @@ Thus the Lord spoke, and the monks were delighted and rejoiced at his words.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47.6]]-7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
 > ◄  [[dn25-walshe]] 📜  [[dn27-walshe]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI56-PALI"
+sutta_code: "ITI56"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Asava "
+  - "Defilements"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI56-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI56]]
 > ◄  [[iti55-pali-sc]] 📜  [[iti57-pali-sc]] ►
 
 # Iti 56. Dutiyaāsavasuttaṃ
@@ -27,6 +27,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti56-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN36.1]], [[ITI52]], [[ITI54]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN4]], [[MN9]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI56]]
+> ◄  [[iti55-pali-sc]] 📜  [[iti57-pali-sc]] ►

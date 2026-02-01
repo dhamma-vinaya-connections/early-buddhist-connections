@@ -3,11 +3,11 @@ sutta_code: "SN7.10"
 sutta_title:
   - "Bahudhītarasutta "
   - "Many Daughters"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
 > ◄  [[sn7.9-sujato-pali]] 📜  [[sn7.11-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -198,8 +198,7 @@ rena ca te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -210,6 +209,5 @@ rena ca te dasāti.
 | [[SA-2.93]], [[SA1179]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
 > ◄  [[sn7.9-sujato-pali]] 📜  [[sn7.11-sujato-pali]] ►

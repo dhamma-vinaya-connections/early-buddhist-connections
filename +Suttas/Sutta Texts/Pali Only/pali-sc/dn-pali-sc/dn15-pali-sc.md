@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN15-PALI"
+sutta_code: "DN15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahānidāna Sutta "
+  - "Great Discourse on Causation"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN15]]
 > ◄  [[dn14-pali-sc]] 📜  [[dn16-pali-sc]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -329,6 +329,20 @@ Ime kho, ānanda, aṭṭha vimokkhā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn15-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN1.447]]-454, [[AN8.120]], [[AN8.66]], [[AN9.23]] | [[DA13]], [[MA97]] | D ii 55 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.120]], [[AN1.447-454]], [[MN137]], [[AN8.66]], [[DN16]], [[MN77]], [[DN34]], [[DN33]], [[DA13]], [[MA97]], [[AN9.23]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN12]], [[MN162]], [[MN140]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN15]]
+> ◄  [[dn14-pali-sc]] 📜  [[dn16-pali-sc]] ►

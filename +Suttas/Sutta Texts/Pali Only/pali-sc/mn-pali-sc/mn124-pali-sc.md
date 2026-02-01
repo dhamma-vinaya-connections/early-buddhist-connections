@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN124-PALI"
+sutta_code: "MN124"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bākula Sutta "
+  - "With Bakkula"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
 > ◄  [[mn123-pali-sc]] 📜  [[mn125-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -93,6 +93,16 @@ Acirūpasampanno panāyasmā kassapo eko vūpakaṭṭho appamatto ātāpī pahi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn124-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA34]] | M iii 124 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA34]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
+> ◄  [[mn123-pali-sc]] 📜  [[mn125-pali-sc]] ►

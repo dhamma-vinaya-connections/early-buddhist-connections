@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG263-PALI"
+sutta_code: "THIG263"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG263-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG263]]
 > ◄  [[thig262-pali-pts]] 📜  [[thig264-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ saṇhamuddikāsuvaṇṇamaṇḍitā sobhate su hatthā pure mama |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig263-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN16-PALI"
+sutta_code: "MN16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cetokhila Sutta "
+  - "Emotional Barrenness"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN16]]
 > ◄  [[mn15-pali-sri]] 📜  [[mn17-pali-sri]] ►
 
 # 16. Cetokhila Sutta - Pali
@@ -142,6 +142,16 @@ Cetokhilasuttaṃ chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn16-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.205]]; [[AN5.206]]; [[AN9.71]]; [[AN9.72]]; [[AN9.82]]; [[AN9.92]] | [[EA51.4]]; [[MA206]] | M i 101 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.205]]; [[DN33]]; [[AN9.71]]; [[DN34]]; [[DA10]]; [[AN10.14]]; [[EA51.4]]; [[MA206]]; [[AN5.206]]; [[AN9.72]]; [[AN9.82]]; [[AN9.92]]; [[MN53]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN16]]
+> ◄  [[mn15-pali-sri]] 📜  [[mn17-pali-sri]] ►

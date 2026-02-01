@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG490-PALI"
+sutta_code: "THIG490"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG490-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG490]]
 > ◄  [[thig489-pali-pts]] 📜  [[thig491-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sattisūlūpamā kāmā rogo gaṇḍo aghaṃ nighaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig490-) 
 

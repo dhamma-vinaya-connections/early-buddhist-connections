@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG17]]
 > ◄  [[thag16-thanissaro]] 📜  [[thag18-thanissaro]] ►
 
 ## Thag17.2  Sāriputta
@@ -381,6 +381,5 @@ everywhere.(#)
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag17-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI97-PALI"
+sutta_code: "ITI97"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "小空 "
+  - "Emptiness Shorter Discourse"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI97-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI97]]
 > ◄  [[iti96-pali-sc]] 📜  [[iti98-pali-sc]] ►
 
 # Iti 97. Tevijjasuttaṃ
@@ -43,6 +43,16 @@ Catukkanipāto
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti97-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP391]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP391]], [[JA348]], [[JA435]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI97]]
+> ◄  [[iti96-pali-sc]] 📜  [[iti98-pali-sc]] ►

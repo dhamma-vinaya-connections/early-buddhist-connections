@@ -3,11 +3,11 @@ sutta_code: "UD2.6"
 sutta_title:
   - "Gabhini Sutta "
   - "The Pregnant Woman"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6]]
 > ◄  [[ud2.5-anandajoti-pali]] 📜  [[ud2.7-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -79,9 +79,7 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.6-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6]]
 > ◄  [[ud2.5-anandajoti-pali]] 📜  [[ud2.7-anandajoti-pali]] ►

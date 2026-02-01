@@ -3,11 +3,11 @@ sutta_code: "SN3.12"
 sutta_title:
   - "Pañcarājasutta "
   - "Five Kings"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.12]]
 > ◄  [[sn3.11-sujato-pali]] 📜  [[sn3.13-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -125,8 +125,7 @@ Tapantamādiccamivantalikkhe"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -137,6 +136,5 @@ Tapantamādiccamivantalikkhe"ti.
 | [[EA33.1]], [[SA-2.72]], [[SA1149]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.12]]
 > ◄  [[sn3.11-sujato-pali]] 📜  [[sn3.13-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG16-PALI"
+sutta_code: "THIG16"
 sutta_title:
-  - " "
-  - ""
+  - "Mahānipātavagga "
+  - "Great Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG16]]
 > ◄  [[thig15-pali-eng]] 📜  [[]] ►
 
 # Thig 16. Mahānipāto
@@ -371,6 +371,5 @@ Thus do they act who place faith in the word of the one of noble wisdom. They be
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig16-) 
 

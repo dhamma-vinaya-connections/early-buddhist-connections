@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN19-PALI"
+sutta_code: "DN19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahāgovinda Sutta "
+  - "Great Steward"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
 > ◄  [[dn18-pali-sc]] 📜  [[dn20-pali-sc]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -471,6 +471,16 @@ Iti kho, pañcasikha, sabbesaṁyeva imesaṁ kulaputtānaṁ amoghā pabbajjā 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA3]] | D ii 220 |
+> > [!check]- Partial parallels 
+> > 
+| [[JA498]], [[JA509]], [[DA3]], [[MN91]], [[SN4.9]], [[JA460]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
+> ◄  [[dn18-pali-sc]] 📜  [[dn20-pali-sc]] ►

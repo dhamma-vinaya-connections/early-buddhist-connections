@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG114-PALI"
+sutta_code: "THAG114"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG114-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG114]]
 > ◄  [[thag113-pali-pts]] 📜  [[thag115-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Es'; āvahiyyase pabbatena bahukuṭajasallakikena
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag114-) 
 

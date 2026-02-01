@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI13-PALI"
+sutta_code: "ITI13"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI13]]
 > ◄  [[iti12-pali-sc]] 📜  [[iti14-pali-sc]] ►
 
 # Iti 13. Avijjānīvaraṇasuttaṃ
@@ -27,6 +27,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti13-) 
 

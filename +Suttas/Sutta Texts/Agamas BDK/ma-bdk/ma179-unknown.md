@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA179]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA179]]
 > ◄  [[ma178]] 📜  [[ma180]] ►
 
 ### 179. The Discourse to the Carpenter Pañcakaṅga
@@ -35,8 +35,7 @@ noble disciple who practices like this comes to know as it really is the cessati
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma179-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -46,6 +45,5 @@ noble disciple who practices like this comes to know as it really is the cessati
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.116]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA179]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA179]]
 > ◄  [[ma178]] 📜  [[ma180]] ►

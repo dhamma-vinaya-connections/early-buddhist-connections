@@ -3,11 +3,11 @@ sutta_code: "SNP3.11"
 sutta_title:
   - "Nālakasutta "
   - "Sages Asita and Nālaka"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.11]]
 > ◄  [[snp3.10-sujato-pali]] 📜  [[snp3.12-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -560,8 +560,7 @@ Nālakasuttaṁ ekādasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -576,6 +575,5 @@ Nālakasuttaṁ ekādasamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.123]], [[DHP268]], [[DHP269]], [[ITI66]], [[ITI67]], [[SN1.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.11]]
 > ◄  [[snp3.10-sujato-pali]] 📜  [[snp3.12-sujato-pali]] ►

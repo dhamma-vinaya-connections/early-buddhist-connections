@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsakuludāyi Sutta "
   - "With Sakuludāyī Longer Discourse"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77]]
 > ◄  [[mn76-deepseek-pali]] 📜  [[mn78-deepseek-pali]] ►
 
 # 77. Mahāsakuludāyisuttaṃ
@@ -243,8 +243,7 @@ The Great Sakuludāyī Sutta, the seventh, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn77-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -259,6 +258,5 @@ The Great Sakuludāyī Sutta, the seventh, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN32]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77]]
 > ◄  [[mn76-deepseek-pali]] 📜  [[mn78-deepseek-pali]] ►

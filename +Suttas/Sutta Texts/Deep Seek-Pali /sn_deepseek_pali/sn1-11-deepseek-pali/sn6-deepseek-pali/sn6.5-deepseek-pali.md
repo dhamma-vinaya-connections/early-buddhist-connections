@@ -4,10 +4,10 @@ sutta_title:
   - "Aññatarabrahmasutta "
   - "A Certain Brahma Another View"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.5]]
 > ◄  [[sn6.4-deepseek-pali]] 📜  [[sn6.6-deepseek-pali]] ►
 
 # SN 6.5 Aññatarabrahmasuttaṃ
@@ -71,8 +71,7 @@ Thus spoke that Brahmā of his retinue. And that Brahmā was delighted and rejoi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ Thus spoke that Brahmā of his retinue. And that Brahmā was delighted and rejoi
 | [[SA-2.109]], [[SA1196]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.5]]
 > ◄  [[sn6.4-deepseek-pali]] 📜  [[sn6.6-deepseek-pali]] ►

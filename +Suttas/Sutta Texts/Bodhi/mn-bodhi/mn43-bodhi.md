@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
 > ◄  [[mn42-bodhi]] 📜  [[mn44-bodhi]] ►
 
 # MN43 Mahāvedalla Sutta - The Greater Series of
@@ -198,8 +198,7 @@ That is what the venerable Sāriputta said. The venerable Mahā Koṭṭhita was
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn43-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -214,6 +213,5 @@ That is what the venerable Sāriputta said. The venerable Mahā Koṭṭhita was
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN44]]; [[MN122]]; [[SN22.23]]; [[SN22.79]], [[MN106]], [[MN121]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
 > ◄  [[mn42-bodhi]] 📜  [[mn44-bodhi]] ►

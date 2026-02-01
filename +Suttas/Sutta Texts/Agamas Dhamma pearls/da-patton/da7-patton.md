@@ -7,19 +7,11 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA7]]
 > ◄  [[da6-patton]] 📜  [[da8-patton]] ►
 
-# [Dharma Pearls](../../index-2.html)
-
-## Translating Classical Buddhism to Modern English
-
-[What’s New](../../whats-new.html) [Translations](../../translations.html) [Resources](../../resources.html) [About](../../about.html)
-
-# [The Long Discourses](index.html)
-
-## Part II
-
+# The Long Discourses
+Translated by Charles Patton
 ### 7. Padāśva
 
 1. Once, Kaumāra Kāśyapa traveled with five hundred monks to Kośala. They made their way to the priest town of Śvetikā. Kaumāra Kāśyapa then stopped at the rosewood grove to the north of town.
@@ -424,8 +416,7 @@ The priest then told the wanderer, “From this day forward, give the Saṅgha t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -440,6 +431,5 @@ The priest then told the wanderer, “From this day forward, give the Saṅgha t
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN27]], [[MN83]], [[SN47.6]], [[SN47.7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA7]]
 > ◄  [[da6-patton]] 📜  [[da8-patton]] ►

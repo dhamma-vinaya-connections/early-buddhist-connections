@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG203-PALI"
+sutta_code: "THAG203"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG203-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG203]]
 > ◄  [[thag202-pali-pts]] 📜  [[thag204-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tasmā saddhañ ca sīlañ ca pasādaṃ dhammadassanaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag203-) 
 

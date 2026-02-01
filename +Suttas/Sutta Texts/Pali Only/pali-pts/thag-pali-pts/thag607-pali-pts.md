@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG607-PALI"
+sutta_code: "THAG607"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG607-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG607]]
 > ◄  [[thag606-pali-pts]] 📜  [[thag608-pali-pts]] ►
 
 ## Theragāthā
@@ -29,6 +29,5 @@ Sīlam ev'; idha sikkhetha asmiṃ loke susikkhitaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag607-) 
 

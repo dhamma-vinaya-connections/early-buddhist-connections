@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.49-PALI"
+sutta_code: "SN1.49"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Maccharisutta "
+  - "Stingy"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.49-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.49]]
 > ◄  [[sn1.48-pali-sc]] 📜  [[sn1.50-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -135,6 +135,5 @@ samparāye ca suggatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.49-) 
 

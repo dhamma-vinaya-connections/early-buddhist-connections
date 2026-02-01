@@ -3,11 +3,11 @@ sutta_code: "SNP3.8"
 sutta_title:
   - "Sallasutta "
   - "Dart"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.8]]
 > ◄  [[snp3.7-sujato-pali]] 📜  [[snp3.9-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -247,8 +247,7 @@ Sallasuttaṁ aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -263,6 +262,5 @@ Sallasuttaṁ aṭṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN82]], [[MN87]], [[SN21.2]], [[SN36.6]], [[SN47.13]], [[AN5.49]], [[UD8.8]], [[THIG3.5]], [[THIG6.1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.8]]
 > ◄  [[snp3.7-sujato-pali]] 📜  [[snp3.9-sujato-pali]] ►

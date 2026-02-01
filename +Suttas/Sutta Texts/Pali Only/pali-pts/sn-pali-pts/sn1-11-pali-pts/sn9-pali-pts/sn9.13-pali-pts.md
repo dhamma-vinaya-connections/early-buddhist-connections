@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.13-PALI"
+sutta_code: "SN9.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pākatindriyasutta "
+  - "Loose in Sense Faculties"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
 > ◄  [[sn9.12-pali-pts]] 📜  [[sn9.14-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -36,6 +36,16 @@ Atha kho te bhikkhū tāya devatāya saṃvejitā saṃvegam āpādun ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN2.25]] | [[SA-2.363]], [[SA1343]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN2.25]], [[SA-2.363]], [[SA1343]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
+> ◄  [[sn9.12-pali-pts]] 📜  [[sn9.14-pali-pts]] ►

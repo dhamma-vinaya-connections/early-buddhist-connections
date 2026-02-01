@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA183]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA183]]
 > ◄  [[ma180]] 📜  [[ma184-bdk]] ►
 
 ### 183. The Discourse at Assapura (2)
@@ -29,8 +29,7 @@ What is a noble one? It is one who is far removed from all evil and unwholesome 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma183-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ What is a noble one? It is one who is far removed from all evil and unwholesome 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN15]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA183]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA183]]
 > ◄  [[ma180]] 📜  [[ma184-bdk]] ►

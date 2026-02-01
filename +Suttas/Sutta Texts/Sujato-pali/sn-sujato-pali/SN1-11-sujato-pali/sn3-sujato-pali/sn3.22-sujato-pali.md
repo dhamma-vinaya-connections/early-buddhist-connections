@@ -3,11 +3,11 @@ sutta_code: "SN3.22"
 sutta_title:
   - "Ayyikāsutta "
   - "Grandmother"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.22]]
 > ◄  [[sn3.21-sujato-pali]] 📜  [[sn3.23-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -83,8 +83,7 @@ patiṭṭhā honti pāṇinan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ patiṭṭhā honti pāṇinan"ti.
 | [[EA26.7]], [[SA-2.54]], [[SA1227]], [[PE1]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[SN1.43]], [[SN2.23]], [[AN5.36]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.22]]
 > ◄  [[sn3.21-sujato-pali]] 📜  [[sn3.23-sujato-pali]] ►

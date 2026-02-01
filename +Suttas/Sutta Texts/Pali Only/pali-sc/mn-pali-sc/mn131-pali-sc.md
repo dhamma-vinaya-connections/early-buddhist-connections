@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN131-PALI"
+sutta_code: "MN131"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bhaddekaratta Sutta "
+  - "An Auspicious Day"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN131-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN131]]
 > ◄  [[mn130-pali-sc]] 📜  [[mn132-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -79,6 +79,20 @@ santo ācikkhate munīti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn131-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M iii 187 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN132]]; [[MN133]]; [[MN134]]; [[JA538]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN133]], [[MA165]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN131]]
+> ◄  [[mn130-pali-sc]] 📜  [[mn132-pali-sc]] ►

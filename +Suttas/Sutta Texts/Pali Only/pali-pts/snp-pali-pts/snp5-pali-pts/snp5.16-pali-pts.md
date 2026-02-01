@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.16-PALI"
+sutta_code: "SNP5.16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mogharājamāṇavapucchā "
+  - "Questions of the Student Mogharāja"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.16]]
 > ◄  [[snp5.15-pali-pts]] 📜  [[snp5.17-pali-pts]] ►
 
 # SNP5.16 Mogharājamāṇavapucchā (15)
@@ -32,6 +32,16 @@ MOGHARĀJAMĀṆAVAPUCCHĀ NIṬṬHITĀ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.16-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP170]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP170]], [[PE2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.16]]
+> ◄  [[snp5.15-pali-pts]] 📜  [[snp5.17-pali-pts]] ►

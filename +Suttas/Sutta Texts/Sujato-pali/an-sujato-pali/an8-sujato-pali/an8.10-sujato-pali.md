@@ -3,11 +3,11 @@ sutta_code: "AN8.10"
 sutta_title:
   - "Kāraṇḍava "
   - "Trash"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
 > ◄  [[an8.9-sujato-pali]] 📜  [[an8.11-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -130,8 +130,7 @@ nando kāraṇḍavena cāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -142,6 +141,5 @@ nando kāraṇḍavena cāti.
 | [[MA122]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
 > ◄  [[an8.9-sujato-pali]] 📜  [[an8.11-sujato-pali]] ►

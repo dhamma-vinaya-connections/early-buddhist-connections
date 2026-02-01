@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP3.11-PALI"
+sutta_code: "SNP3.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nālakasutta "
+  - "Sages Asita and Nālaka"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.11]]
 > ◄  [[snp3.10-pali-pts]] 📜  [[snp3.12-pali-pts]] ►
 
 # SNP3.11 Nālakasutta
@@ -168,6 +168,20 @@ NALAKASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP129]], [[DHP130]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP129]], [[DHP130]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.123]], [[DHP268]], [[DHP269]], [[ITI66]], [[ITI67]], [[SN1.12]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.11]]
+> ◄  [[snp3.10-pali-pts]] 📜  [[snp3.12-pali-pts]] ►

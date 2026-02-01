@@ -4,10 +4,10 @@ sutta_title:
   - "Sampasādanīya Sutta "
   - "Inspiring Confidence"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
 > ◄  [[dn27-deepseek-pali]] 📜  [[dn29-deepseek-pali]] ►
 
 # Sampasādanīyasuttaṃ
@@ -271,8 +271,7 @@ The Discourse on Inspiring Confidence (Fifth)
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn28-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -283,6 +282,5 @@ The Discourse on Inspiring Confidence (Fifth)
 | [[DA18]], [[SA498]], [[SN47.12]], [[AN1.277]], [[MN115]], [[DN1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
 > ◄  [[dn27-deepseek-pali]] 📜  [[dn29-deepseek-pali]] ►

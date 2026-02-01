@@ -4,10 +4,10 @@ sutta_title:
   - "Vasala "
   - "Lowlife"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.7]]
 > ◄  [[snp1.6-deepseek-pali]] 📜  [[snp1.8-deepseek-pali]] ►
 
 # Snp 1.7 Vasalasuttaṃ
@@ -201,8 +201,7 @@ The seventh Discourse on Outcasts is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -217,6 +216,5 @@ The seventh Discourse on Outcasts is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.175]], [[AN10.165]], [[DHP129]], [[DHP130]], [[DHP131]], [[DHP132]], [[DHP133]], [[DHP134]], [[DHP135]], [[DHP136]], [[DHP137]], [[DHP138]], [[DHP139]], [[DHP140]], [[DHP306]], [[DHP307]], [[DHP308]], [[DHP309]], [[DHP310]], [[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP315]], [[DHP316]], [[DHP317]], [[DHP318]], [[DHP319]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.7]]
 > ◄  [[snp1.6-deepseek-pali]] 📜  [[snp1.8-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "SN5.10"
 sutta_title:
   - "Vajirāsutta "
   - "Vajira"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
 > ◄  [[sn5.9-sujato-pali]] 📜  [[]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -109,8 +109,7 @@ Bhikkhunīsaṁyuttaṁ samattaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -121,6 +120,5 @@ Bhikkhunīsaṁyuttaṁ samattaṁ.
 | [[SA-2.218]], [[SA1202]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
 > ◄  [[sn5.9-sujato-pali]] 📜  [[]] ►

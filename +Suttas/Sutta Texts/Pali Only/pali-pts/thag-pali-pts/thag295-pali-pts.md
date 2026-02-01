@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG295-PALI"
+sutta_code: "THAG295"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG295-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG295]]
 > ◄  [[thag294-pali-pts]] 📜  [[thag296-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yañ ca me āsavā khīṇā, yañ ca n'; atthi punabbhavo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag295-) 
 

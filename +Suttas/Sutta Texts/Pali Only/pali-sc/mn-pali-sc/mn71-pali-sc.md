@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN71-PALI"
+sutta_code: "MN71"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Tevijjavaccha Sutta "
+  - "Vacchagotta on the Three Knowledges"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-pali-sc]] 📜  [[mn72-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -76,6 +76,16 @@ Ahañhi, vaccha, āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimutti�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn71-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M i 481 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN14]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
+> ◄  [[mn70-pali-sc]] 📜  [[mn72-pali-sc]] ►

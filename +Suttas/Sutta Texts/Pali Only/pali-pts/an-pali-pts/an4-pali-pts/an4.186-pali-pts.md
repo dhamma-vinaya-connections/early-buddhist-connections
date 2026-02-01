@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.186-PALI"
+sutta_code: "AN4.186"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ummagga "
+  - "Approach"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.186-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
 > ◄  [[an4.185-pali-pts]] 📜  [[an4.187-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Puna ca paraṃ paribbājakā brāhmaṇo evam āha: sabbe bhavā aniccā dukkh�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.186-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.62]] | [[MA172]], [[SA-2.236]], [[SA1009]] | A ii 177 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA172]], [[SN1.62]], [[SA-2.236]], [[SA1009]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
+> ◄  [[an4.185-pali-pts]] 📜  [[an4.187-pali-pts]] ►

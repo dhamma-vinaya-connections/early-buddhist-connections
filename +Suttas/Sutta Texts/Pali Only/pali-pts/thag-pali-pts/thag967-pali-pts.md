@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG967-PALI"
+sutta_code: "THAG967"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG967-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG967]]
 > ◄  [[thag966-pali-pts]] 📜  [[thag968-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ chaddanto hi tadā disvā surattaṃ arahaddhajaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag967-) 
 

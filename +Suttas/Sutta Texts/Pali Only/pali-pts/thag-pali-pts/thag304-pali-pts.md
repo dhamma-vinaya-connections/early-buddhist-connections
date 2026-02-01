@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG304-PALI"
+sutta_code: "THAG304"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG304-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG304]]
 > ◄  [[thag303-pali-pts]] 📜  [[thag305-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tasmā hi dhammesu kareyya chandaṃ iti modamāno sugatena tādinā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag304-) 
 

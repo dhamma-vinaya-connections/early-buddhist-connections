@@ -3,11 +3,11 @@ sutta_code: "SN3.16"
 sutta_title:
   - "Mallikāsutta "
   - "Daughter"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.16]]
 > ◄  [[sn3.15-sujato-pali]] 📜  [[sn3.17-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -61,9 +61,7 @@ rajjampi anusāsatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.16-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.16]]
 > ◄  [[sn3.15-sujato-pali]] 📜  [[sn3.17-sujato-pali]] ►

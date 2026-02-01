@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP190-PALI"
+sutta_code: "DHP190"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP190-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP190]]
 > ◄  [[dhp189-pali-pts]] 📜  [[dhp191-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp190-) 
 

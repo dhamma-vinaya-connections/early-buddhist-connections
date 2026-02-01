@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.83-PALI"
+sutta_code: "AN3.83"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Samaṇa "
+  - "Ascetics"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.83-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.83]]
 > ◄  [[an3.82-pali-pts]] 📜  [[an3.84-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Tasmāt iha bhikkhave evaṃ sikkhitabbaṃ -- tibbo no chando bhavissati adhis�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.83-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA827]] | A i 229 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA827]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.83]]
+> ◄  [[an3.82-pali-pts]] 📜  [[an3.84-pali-pts]] ►

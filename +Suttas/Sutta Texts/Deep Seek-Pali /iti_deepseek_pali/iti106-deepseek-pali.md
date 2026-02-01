@@ -4,10 +4,10 @@ sutta_title:
   - "Sabrahmaka "
   - "With Brahma"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI106]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI106]]
 > ◄  [[iti105-deepseek-pali]] 📜  [[iti107-deepseek-pali]] ►
 
 # Iti 106 Kuhasuttaṃ
@@ -29,8 +29,7 @@ This matter, too, was spoken by the Blessed One: so I have heard. Ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti106-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This matter, too, was spoken by the Blessed One: so I have heard. Ninth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2:31-32]], [[AN4.63]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI106]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI106]]
 > ◄  [[iti105-deepseek-pali]] 📜  [[iti107-deepseek-pali]] ►

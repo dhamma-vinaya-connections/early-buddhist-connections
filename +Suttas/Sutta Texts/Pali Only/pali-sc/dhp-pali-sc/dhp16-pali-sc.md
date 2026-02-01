@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP16-PALI"
+sutta_code: "DHP16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Piyavagga "
+  - "Dear"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP16]]
 > ◄  [[dhp15-pali-sc]] 📜  [[dhp17-pali-sc]] ►
 
 # PIYA VAGGA
@@ -65,6 +65,11 @@ Tatheva katapuññampi, asmā lokā paraṃ gataṃ; puññāni paṭigaṇhanti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp16-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 60 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP16]]
+> ◄  [[dhp15-pali-sc]] 📜  [[dhp17-pali-sc]] ►

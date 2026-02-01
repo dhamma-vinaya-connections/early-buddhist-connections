@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
 > ◄  [[dn19-walshe]] 📜  [[dn21-walshe]] ►
 
 # DN20 Mahāsamaya Sutta: The Mighty Gathering
@@ -294,8 +294,7 @@ And another said:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -306,6 +305,5 @@ And another said:
 | [[DA19]], [[SA-2.105]], [[SA1192]], [[SN1.37]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
 > ◄  [[dn19-walshe]] 📜  [[dn21-walshe]] ►

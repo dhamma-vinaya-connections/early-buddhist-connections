@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
 > ◄  [[]] 📜  [[mn2-bodhi]] ►
 
 # MN1 Mūlapariyāya Sutta - The Root of All Things
@@ -119,8 +119,7 @@ That is what the Blessed One said. But those bhikkhus did not delight in the Ble
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -135,6 +134,5 @@ That is what the Blessed One said. But those bhikkhus did not delight in the Ble
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.248]], [[AN4.174]], [[AN10.58]], [[SN35.30]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
 > ◄  [[]] 📜  [[mn2-bodhi]] ►

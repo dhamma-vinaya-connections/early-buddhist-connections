@@ -4,10 +4,10 @@ sutta_title:
   - "Brahmalokasutta "
   - "A Brahma World Negligence"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
 > ◄  [[sn6.5-deepseek-pali]] 📜  [[sn6.7-deepseek-pali]] ►
 
 # SN 6.6 Brahmalokasuttaṃ
@@ -53,8 +53,7 @@ Then the Brahma Subrahmā and the Brahma Suddhāvāsa, having stirred that Brahm
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -65,6 +64,5 @@ Then the Brahma Subrahmā and the Brahma Suddhāvāsa, having stirred that Brahm
 | [[SA-2.107]], [[SA1194]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
 > ◄  [[sn6.5-deepseek-pali]] 📜  [[sn6.7-deepseek-pali]] ►

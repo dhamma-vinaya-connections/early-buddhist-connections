@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG79-PALI"
+sutta_code: "THAG79"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG79-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG79]]
 > ◄  [[thag78-pali-pts]] 📜  [[thag80-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Yaṃ mayā pakataṃ kammaṃ appaṃ vā yadi vā bahu
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag79-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.21-PALI"
+sutta_code: "SN2.21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sivasutta "
+  - "Siva"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.21]]
 > ◄  [[sn2.20-pali-sc]] 📜  [[sn2.22-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -61,6 +61,16 @@ sabbadukkhā pamuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.21-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.301]], [[SA1302]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.301]], [[SA1302]], [[JA537]], [[SN1.31]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.21]]
+> ◄  [[sn2.20-pali-sc]] 📜  [[sn2.22-pali-sc]] ►

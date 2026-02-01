@@ -4,10 +4,10 @@ sutta_title:
   - "Gabhini Sutta "
   - "The Pregnant Woman"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6]]
 > ◄  [[ud2.5-deepseek-pali]] 📜  [[ud2.7-deepseek-pali]] ►
 
 # Ud 2.6 Gabbhinīsuttaṃ
@@ -54,9 +54,7 @@ A person whose mind is bound to others."
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.6-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6]]
 > ◄  [[ud2.5-deepseek-pali]] 📜  [[ud2.7-deepseek-pali]] ►

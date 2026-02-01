@@ -3,11 +3,11 @@ sutta_code: "AN5.100"
 sutta_title:
   - "Kakudhathera "
   - "With Kakudha"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
 > ◄  [[an5.99-sujato-pali]] 📜  [[an5.101-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -116,8 +116,7 @@ Dutiyo paṇṇāsako samatto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.100-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -128,6 +127,5 @@ Dutiyo paṇṇāsako samatto.
 | [[PLI-TV-KD17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
 > ◄  [[an5.99-sujato-pali]] 📜  [[an5.101-sujato-pali]] ►

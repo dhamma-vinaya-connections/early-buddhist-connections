@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.11]]
 > ◄  [[sn3.10-bodhi]] 📜  [[sn3.12-bodhi]] ►
 
 # SN3.11 Seven Jaṭilas
@@ -58,8 +58,7 @@ Then the Blessed One, having understood the meaning of this, on that occasion re
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -70,6 +69,5 @@ Then the Blessed One, having understood the meaning of this, on that occasion re
 | [[SA-2.71]], [[SA1148]], [[UD6.2]], [[AN4.192]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.11]]
 > ◄  [[sn3.10-bodhi]] 📜  [[sn3.12-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP226-PALI"
+sutta_code: "DHP226"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP226-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP226]]
 > ◄  [[dhp225-pali-pts]] 📜  [[dhp227-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ nindanti tuṇhiṃ āsīnaṃ nindanti bahubhāṇinaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp226-) 
 

@@ -3,11 +3,11 @@ sutta_code: "UD5.9"
 sutta_title:
   - "Saddhayamana Sutta "
   - "Jeering"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.9]]
 > ◄  [[ud5.8-anandajoti-pali]] 📜  [[ud5.10-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -41,8 +41,7 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -53,6 +52,5 @@ Navamaṁ.
 | [[MN128]], [[JA428]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.9]]
 > ◄  [[ud5.8-anandajoti-pali]] 📜  [[ud5.10-anandajoti-pali]] ►

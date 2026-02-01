@@ -4,10 +4,10 @@ sutta_title:
   - "Udāyī "
   - "With Udāyī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.159]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.159]]
 > ◄  [[an5.158-deepseek-pali]] 📜  [[an5.160-deepseek-pali]] ►
 
 # AN 5.159 Udāyīsuttaṃ
@@ -27,8 +27,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.159-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -38,6 +37,5 @@ language: "Pali"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN4.8]], [[AN3.72]], [[DN16]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.159]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.159]]
 > ◄  [[an5.158-deepseek-pali]] 📜  [[an5.160-deepseek-pali]] ►

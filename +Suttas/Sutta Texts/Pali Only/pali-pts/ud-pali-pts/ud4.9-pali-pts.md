@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD4.9-PALI"
+sutta_code: "UD4.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Upasena Vangantaputta Sutta "
+  - "Upasena Vangantaputta"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.9]]
 > ◄  [[ud4.8-pali-pts]] 📜  [[ud5.2-pali-pts]] ►
 
 ## Udāna
@@ -37,6 +37,20 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SNP3.12]], [[PE1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SNP3.12]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.9]]
+> ◄  [[ud4.8-pali-pts]] 📜  [[ud5.2-pali-pts]] ►

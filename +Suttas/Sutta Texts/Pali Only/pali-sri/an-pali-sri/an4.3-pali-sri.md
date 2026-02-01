@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.3-PALI"
+sutta_code: "AN4.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Paṭhamakhata "
+  - "Broken"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.3]]
 > ◄  [[an4.2-pali-sri]] 📜  [[an4.4-pali-sri]] ►
 
 # 7:3 Vajjisattakavaggo - Pali
@@ -400,6 +400,16 @@ Bodhisaññaṃ sekho ca parihāni vipattiparābhavo cāti sīmu.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN6.10]], [[SN6.9]] | [[EA21.5]], [[SA-2.276]], [[SA1278]] | A ii 2 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN6.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[SN6.9]], [[SNP3.10]], [[AN10.89]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.3]]
+> ◄  [[an4.2-pali-sri]] 📜  [[an4.4-pali-sri]] ►

@@ -6,14 +6,14 @@ theme:
   - similes
 ---
 
-# ✅ Index – Similes ^top
+# ✅ Index – Similes 
 From https://www.accesstoinsight.org/index-similes.html 
 
 > This is a partial index of the similes and metaphors that appear in the suttas available at Access to Insight. Only the imagery that illustrates points of Dhamma is included here; imagery that serves primarily a literary or narrative function is not included (e.g., [Ambapali's description of her long-lost youthful beauty]The subject of each image is given in the braces {}. The tilde (~) stands for the head-word in a given entry.
 
+## Top
 [[#A|A]] · [[#B|B]] · [[#C|C]] · [[#D|D]] · [[#E|E]] · [[#F|F]] · [[#G|G]] · [[#H|H]] · [[#I|I]] · [[#J|J]] · [[#K|K]] · [[#L|L]] · [[#M|M]] · [[#N|N]] · [[#O|O]] · [[#P|P]] · [[#Q|Q]] · [[#R|R]] · [[#S|S]] · [[#T|T]] · [[#U|U]] · [[#V|V]] · [[#W|W]] · [[#XYZ|XYZ]]
 
-## A
 
 [[#^top|⬆️ Back to top]]
 

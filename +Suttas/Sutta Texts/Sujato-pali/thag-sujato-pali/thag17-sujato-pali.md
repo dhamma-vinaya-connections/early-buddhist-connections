@@ -3,11 +3,11 @@ sutta_code: "THAG17"
 sutta_title:
   - "Tiṁsanipātavagga "
   - "Thirties Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG17]]
 > ◄  [[thag16-sujato-pali]] 📜  [[thag18-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -1163,6 +1163,5 @@ natthi dāni punabbhavo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag17-) 
 

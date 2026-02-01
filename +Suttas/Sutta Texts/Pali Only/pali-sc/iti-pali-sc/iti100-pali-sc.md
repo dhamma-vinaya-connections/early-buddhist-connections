@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI100-PALI"
+sutta_code: "ITI100"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Brāhmaṇadhammayāga "
+  - "Dhamma Offering"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI100-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI100]]
 > ◄  [[iti99-pali-sc]] 📜  [[iti101-pali-sc]] ►
 
 # Iti 100. Āsavakkhayasuttaṃ
@@ -31,6 +31,16 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti100-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[MN92]], [[SNP3.7]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI100]]
+> ◄  [[iti99-pali-sc]] 📜  [[iti101-pali-sc]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
 > ◄  [[mn41-thanissaro]] 📜  [[mn44-thanissaro]] ►
 
 ## MN43 The Greater Set of Questions & Answers
@@ -200,8 +200,7 @@ That is what Ven. Sāriputta said. Gratified, Ven. Mahā Koṭṭhita delighted 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn43-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -216,6 +215,5 @@ That is what Ven. Sāriputta said. Gratified, Ven. Mahā Koṭṭhita delighted 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN44]]; [[MN122]]; [[SN22.23]]; [[SN22.79]], [[MN106]], [[MN121]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
 > ◄  [[mn41-thanissaro]] 📜  [[mn44-thanissaro]] ►

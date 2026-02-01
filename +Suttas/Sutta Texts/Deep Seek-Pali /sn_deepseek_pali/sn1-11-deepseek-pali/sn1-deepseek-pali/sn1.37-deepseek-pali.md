@@ -4,10 +4,10 @@ sutta_title:
   - "Samayasutta "
   - "Concourse"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.37]]
 > ◄  [[sn1.36-deepseek-pali]] 📜  [[sn1.38-deepseek-pali]] ►
 
 # SN 1.37 Samayasuttaṃ
@@ -55,8 +55,7 @@ Then another deity recited this verse in the Blessed One's presence:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.37-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Then another deity recited this verse in the Blessed One's presence:
 | [[DN20]], [[DA19]], [[SA-2.105]], [[SA1192]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.37]]
 > ◄  [[sn1.36-deepseek-pali]] 📜  [[sn1.38-deepseek-pali]] ►

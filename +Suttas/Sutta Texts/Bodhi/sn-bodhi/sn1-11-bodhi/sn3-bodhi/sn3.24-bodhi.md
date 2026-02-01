@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
 > ◄  [[sn3.23-bodhi]] 📜  [[sn3.25-bodhi]] ►
 
 # SN3.24 Archery
@@ -115,8 +115,7 @@ At Sāvatthī. Sitting to one side, King Pasenadi of Kosala said to the Blesse
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -131,6 +130,5 @@ At Sāvatthī. Sitting to one side, King Pasenadi of Kosala said to the Blesse
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.57]], [[ITI76.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
 > ◄  [[sn3.23-bodhi]] 📜  [[sn3.25-bodhi]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - " "
   - ""
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.271]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.271]]
 > ◄  [[an4.270-deepseek-pali]] 📜  [[an4.272-deepseek-pali]] ►
 
 # AN 4.271 Abhijjhālusuttaṃ
@@ -27,6 +27,5 @@ He himself is uncovetous, he encourages others in uncovetousness, he approves of
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.271-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Aṭṭhaṅgika "
   - "Eightfold"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.205]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.205]]
 > ◄  [[an4.204-deepseek-pali]] 📜  [[an4.206-deepseek-pali]] ►
 
 # AN 4.205 Aṭṭhaṅgikasuttaṃ
@@ -39,12 +39,11 @@ And what, Bhikkhus, is one more noble than the noble person? Here, Bhikkhus, som
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.205-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A ii 220 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.205]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.205]]
 > ◄  [[an4.204-deepseek-pali]] 📜  [[an4.206-deepseek-pali]] ►

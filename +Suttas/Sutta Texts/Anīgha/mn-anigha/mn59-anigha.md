@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN59]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN59]]
 > ◄  [[mn58-anigha]] 📜  [[mn60-anigha]] ►
 
 # MN 59 - The Many Kinds of Feeling
@@ -63,8 +63,7 @@ That is what the Auspicious One said. Pleased, Venerable Ānanda delighted in wh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn59-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ That is what the Auspicious One said. Pleased, Venerable Ānanda delighted in wh
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN137]]; [[AN9.34]], [[SN36.22.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN59]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN59]]
 > ◄  [[mn58-anigha]] 📜  [[mn60-anigha]] ►

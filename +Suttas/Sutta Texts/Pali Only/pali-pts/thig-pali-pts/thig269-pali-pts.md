@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG269-PALI"
+sutta_code: "THIG269"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG269-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG269]]
 > ◄  [[thig268-pali-pts]] 📜  [[thig270-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ ediso ahu ayaṃ samussayo jajjaro bahudukkhānam ālayo |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig269-) 
 

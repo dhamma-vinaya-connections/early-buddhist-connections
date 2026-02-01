@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN76-PALI"
+sutta_code: "MN76"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sandaka Sutta "
+  - "With Sandaka"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN76-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN76]]
 > ◄  [[mn75-pali-sc]] 📜  [[mn77-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -163,6 +163,16 @@ Tassa evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccati, bhavāsav�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn76-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M i 513 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN9.8]]; [[AN9.7]]; [[DN29]]; [[AN10.69]]; [[DN1]]; [[DN2]]; [[PLI-TV-BU-VB-PC85]]; [[SN56.10]]; [[PLI-TV-KD5]]; [[MN38]]; [[MN27]]; [[MN94]]; [[MN101]]; [[AN10.99]]; [[SN35.120]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN51]]; [[MN53]]; [[MN60]]; [[MN79]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN4.198]]; [[AN5.76]]; [[AN5.140]]; [[AN11.17]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[MN33]]; [[SN24.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN76]]
+> ◄  [[mn75-pali-sc]] 📜  [[mn77-pali-sc]] ►

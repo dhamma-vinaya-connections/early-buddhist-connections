@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.5]]
 > ◄  [[sn1.4-bodhi]] 📜  [[sn1.6-bodhi]] ►
 
 # SN1.5 How Many Must One Cut?
@@ -37,8 +37,7 @@ At Sāvatthī. Standing to one side, that devatā recited this verse in the p
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ At Sāvatthī. Standing to one side, that devatā recited this verse in the p
 | [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]], [[DHP370]], [[THAG1.15]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.5]]
 > ◄  [[sn1.4-bodhi]] 📜  [[sn1.6-bodhi]] ►

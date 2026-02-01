@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.71-PALI"
+sutta_code: "AN4.71"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Padhāna "
+  - "Effort"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.71-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.71]]
 > ◄  [[an4.70-pali-pts]] 📜  [[an4.72-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,11 @@ Imehi kho bhikkhave catuhi dhammehi samannāgato bhikkhu apaṇṇakataṃ paṭ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.71-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 76 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.71]]
+> ◄  [[an4.70-pali-pts]] 📜  [[an4.72-pali-pts]] ►

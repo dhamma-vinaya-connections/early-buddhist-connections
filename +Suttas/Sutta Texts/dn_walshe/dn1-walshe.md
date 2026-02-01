@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
 > ◄  [[]] 📜  [[dn2-walshe]] ►
 
 # DN1 Brahmajāla Sutta: The Supreme Net
@@ -341,8 +341,7 @@ Thus the Lord spoke, and the monks rejoiced and were delighted at his words. And
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -357,6 +356,5 @@ Thus the Lord spoke, and the monks rejoiced and were delighted at his words. And
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN102]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
 > ◄  [[]] 📜  [[dn2-walshe]] ►

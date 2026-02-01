@@ -3,11 +3,11 @@ sutta_code: "AN7.63"
 sutta_title:
   - "Bhariyā "
   - "Wives Types"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.63]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.63]]
 > ◄  [[an7.62-sujato-pali]] 📜  [[an7.64-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -189,8 +189,7 @@ Dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.63-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -201,6 +200,5 @@ Dasamaṁ.
 | [[AN2.33]], [[EA20.11]], [[EA51.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.63]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.63]]
 > ◄  [[an7.62-sujato-pali]] 📜  [[an7.64-sujato-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Sukhavagga "
   - "Happiness"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP15]]
 > ◄  [[dhp14-deepseek-pali]] 📜  [[dhp16-deepseek-pali]] ►
 
 # Dhp 15. Sukhavaggo
@@ -80,8 +80,7 @@ The Chapter on Happiness: The Fifteenth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -92,6 +91,5 @@ The Chapter on Happiness: The Fifteenth.
 | [[PE1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP15]]
 > ◄  [[dhp14-deepseek-pali]] 📜  [[dhp16-deepseek-pali]] ►

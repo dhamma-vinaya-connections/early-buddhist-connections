@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN140-PALI"
+sutta_code: "MN140"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Dhātuvibhaṅga Sutta "
+  - "Analysis of the Elements"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN140-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN140]]
 > ◄  [[mn139-pali-sri]] 📜  [[mn141-pali-sri]] ►
 
 # 140. Dhatuvibhanga - Pali
@@ -198,6 +198,20 @@ Dhātuvibhaṅgasuttaṃ dasamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn140-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA162]] | M iii 237 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA162]]; [[AN6.1]]; [[DN33]]; [[SN35.248]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN106]], [[SN12]], [[DN15]], [[DA13]], [[MA163]], [[MN137]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN140]]
+> ◄  [[mn139-pali-sri]] 📜  [[mn141-pali-sri]] ►

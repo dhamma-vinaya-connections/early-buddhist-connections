@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.74-PALI"
+sutta_code: "AN7.74"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Araka "
+  - "About Araka"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.74-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.74]]
 > ◄  [[an7.73-pali-pts]] 📜  [[an7.75-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,20 @@ Evaṃ hi vo bhikkhave sikkhitabban ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.74-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA160]] | A iv 136 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA160]], [[AN7.66]], [[AN6.54]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN54]], [[AN6.19]], [[AN6.20]], [[SN4.6]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.74]]
+> ◄  [[an7.73-pali-pts]] 📜  [[an7.75-pali-pts]] ►

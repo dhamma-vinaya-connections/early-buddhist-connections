@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI23]]
 > ◄  [[iti22-thanissaro]] 📜  [[iti24-thanissaro]] ►
 
 # Itivuttaka 23
@@ -42,8 +42,7 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -58,6 +57,5 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.113]], [[AN6:19]], [[AN10:15]], [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[SN3:4]], [[SN3:17]], [[AN3:66]], [[AN5.27]], [[AN11.16]], [[KHP9]], [[AN3:20]], [[SN3:25]], [[AN§60]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI23]]
 > ◄  [[iti22-thanissaro]] 📜  [[iti24-thanissaro]] ►

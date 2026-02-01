@@ -4,10 +4,10 @@ sutta_title:
   - "Dāmalisutta "
   - "Damali"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.5]]
 > ◄  [[sn2.4-deepseek-pali]] 📜  [[sn2.6-deepseek-pali]] ►
 
 # SN 2.5 Dāmalisuttaṃ
@@ -39,8 +39,7 @@ This is the simile, O Dāmali, For the brahmin, one whose taints are destroyed, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ This is the simile, O Dāmali, For the brahmin, one whose taints are destroyed, 
 | [[SA-2.310]], [[SA1311]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.5]]
 > ◄  [[sn2.4-deepseek-pali]] 📜  [[sn2.6-deepseek-pali]] ►

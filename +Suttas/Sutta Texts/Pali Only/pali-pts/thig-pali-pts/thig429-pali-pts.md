@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG429-PALI"
+sutta_code: "THIG429"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG429-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG429]]
 > ◄  [[thig428-pali-pts]] 📜  [[thig430-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ atha maṃ bhaṇati tāto idh'; eva puttaka carāhi taṃ dhammaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig429-) 
 

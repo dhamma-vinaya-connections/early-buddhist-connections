@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1261-PALI"
+sutta_code: "THAG1261"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1261-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1261]]
 > ◄  [[thag1260-pali-pts]] 📜  [[thag1262-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ abhiññāpāramippatto sotadhātuvisodhito
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1261-) 
 

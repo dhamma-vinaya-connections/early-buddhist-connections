@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
 > ◄  [[mn40-anigha]] 📜  [[mn42-anigha]] ►
 
 # MN 41 - The People of Sālā
@@ -89,8 +89,7 @@ When he had spoken, the brahmins and householders of Sālā said to the Auspicio
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn41-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -105,6 +104,5 @@ When he had spoken, the brahmins and householders of Sālā said to the Auspicio
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN9]]; [[MN135]]; [[AN3.71]]; [[AN4.123-126]]; [[AN7.49]]; [[AN8.54]]; [[AN10.176.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
 > ◄  [[mn40-anigha]] 📜  [[mn42-anigha]] ►

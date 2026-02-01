@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.12-PALI"
+sutta_code: "SN4.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kinnusīhasutta "
+  - "Lion"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.12]]
 > ◄  [[sn4.11-pali-sc]] 📜  [[sn4.13-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -38,6 +38,16 @@ tiṇṇā loke visattikan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1101]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1101]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.12]]
+> ◄  [[sn4.11-pali-sc]] 📜  [[sn4.13-pali-sc]] ►

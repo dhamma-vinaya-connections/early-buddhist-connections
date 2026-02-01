@@ -34,18 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[SN1.12]]"
-parallels_agama:
-  - "[[SA-2.142]]"
-  - "[[SA1004]]"
-parallels_partilal:
-  - "[[SN1.12]]"
-  - "[[SA-2.142]]"
-  - "[[SA1004]]"
-  - "[[SNP1.2]]"
-  - "[[PE2]]"
+parallels_nikaya: "[[SN1.12]]"
+parallels_agama: "[[SA-2.142]], [[SA1004]]"
+parallels_partilal: "[[SN1.12]], [[SA-2.142]], [[SA1004]], [[SNP1.2]], [[PE2]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.7]]  🌐 [[SN4.9]] ►
 
@@ -68,8 +59,7 @@ For attachments are a man’s sorrow
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,8 +71,7 @@ For attachments are a man’s sorrow
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN4.8%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN4.8%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -93,7 +82,7 @@ For attachments are a man’s sorrow
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.8%5D%5D%22%23mynotes%20-file%3Asn4.8-%20-file%3A%22SN4.7%22%20-file%3A%22SN4.9%22%20-file%3A%22SN4.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.8

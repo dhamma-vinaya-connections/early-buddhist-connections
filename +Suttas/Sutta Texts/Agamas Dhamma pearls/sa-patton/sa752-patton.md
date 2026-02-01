@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA752]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA752]]
 > ◄  [[sa751-patton]] 📜  [[sa753-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -45,8 +45,7 @@ The Buddha told the monk, “There is the right eightfold path that can end crav
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa752-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ The Buddha told the monk, “There is the right eightfold path that can end crav
 | [[SN45.30]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA752]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA752]]
 > ◄  [[sa751-patton]] 📜  [[sa753-patton]] ►

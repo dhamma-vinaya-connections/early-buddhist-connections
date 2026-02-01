@@ -3,11 +3,11 @@ sutta_code: "AN4.24"
 sutta_title:
   - "Kalaka "
   - "At Kalaka's Park"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.24]]
 > ◄  [[an4.23-sujato-pali]] 📜  [[an4.25-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -95,8 +95,7 @@ Catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -106,6 +105,5 @@ Catutthaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN2]], [[MN58]], [[MN63]], [[MN72]], [[AN10.93]], [[AN10.94]], [[AN10.95]], [[AN10.96]], [[UD1.10]], [[UD8.1.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.24]]
 > ◄  [[an4.23-sujato-pali]] 📜  [[an4.25-sujato-pali]] ►

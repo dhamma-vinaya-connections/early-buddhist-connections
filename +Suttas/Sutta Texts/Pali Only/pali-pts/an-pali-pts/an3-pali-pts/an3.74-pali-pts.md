@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.74-PALI"
+sutta_code: "AN3.74"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nigaṇṭha "
+  - "Jains"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.74-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.74]]
 > ◄  [[an3.73-pali-pts]] 📜  [[an3.75-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,16 @@ catutthajjhānaṃ upasampajja viharati. Ayaṃ vuccati Mahānāma sekho samādh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.74-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA563]] | A i 220 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA563]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.74]]
+> ◄  [[an3.73-pali-pts]] 📜  [[an3.75-pali-pts]] ►

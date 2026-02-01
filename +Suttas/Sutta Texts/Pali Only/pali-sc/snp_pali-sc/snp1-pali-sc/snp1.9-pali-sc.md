@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.9-PALI"
+sutta_code: "SNP1.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Hemavata "
+  - "With Hemavata"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.9]]
 > ◄  [[snp1.8-pali-sc]] 📜  [[snp1.10-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -186,6 +186,16 @@ Hemavatasuttaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN2.15]] | [[SA-2.178]], [[SA-2.315]], [[SA-2.328]], [[SA1269]], [[SA1316]], [[SA1329]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.178]], [[SA1269]], [[SA-2.315]], [[SA1316]], [[SN2.15]], [[SN1.30]], [[SA1329]], [[SA-2.328]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.9]]
+> ◄  [[snp1.8-pali-sc]] 📜  [[snp1.10-pali-sc]] ►

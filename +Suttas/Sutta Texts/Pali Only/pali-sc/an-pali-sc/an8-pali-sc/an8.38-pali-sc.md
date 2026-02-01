@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.38-PALI"
+sutta_code: "AN8.38"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sappurisadāna "
+  - "Good Person Gifts"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.38-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.38]]
 > ◄  [[an8.37-pali-sc]] 📜  [[an8.39-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -42,6 +42,20 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.38-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.42]] |  | A iv 244 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.42]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.40]], [[AN6.37]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.38]]
+> ◄  [[an8.37-pali-sc]] 📜  [[an8.39-pali-sc]] ►

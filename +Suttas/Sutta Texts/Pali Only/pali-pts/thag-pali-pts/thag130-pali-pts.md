@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG130-PALI"
+sutta_code: "THAG130"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG130-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG130]]
 > ◄  [[thag129-pali-pts]] 📜  [[thag131-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Yadāhaṃ dhammam assosiṃ bhāsamānassa satthuno,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag130-) 
 

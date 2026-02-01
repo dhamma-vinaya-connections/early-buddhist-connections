@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI3-PALI"
+sutta_code: "ITI3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Moha "
+  - "Delusion"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI3]]
 > ◄  [[iti2-pali-sri]] 📜  [[iti4-pali-sri]] ►
 
 # Itivuttakapali - Tikanipato-p1 - BJT
@@ -1528,6 +1528,5 @@ End Notes
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti3-) 
 

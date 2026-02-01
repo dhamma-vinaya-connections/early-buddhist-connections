@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138]]
 > ◄  [[mn137-thanissaro]] 📜  [[mn140-thanissaro]] ►
 
 ## MN138 An Analysis of the Statement
@@ -95,8 +95,7 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn138-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.192]]; [[AN7.64]]; [[AN8.54]]; [[UD6.2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138]]
 > ◄  [[mn137-thanissaro]] 📜  [[mn140-thanissaro]] ►

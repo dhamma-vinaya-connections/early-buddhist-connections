@@ -3,11 +3,11 @@ sutta_code: "DN32"
 sutta_title:
   - "Āṭānāṭiya Sutta "
   - "Āṭānāṭiya Protection"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
 > ◄  [[dn31-sujato-pali]] 📜  [[dn33-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -1023,12 +1023,11 @@ Atho serīsako saha.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn32-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | D iii 194 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
 > ◄  [[dn31-sujato-pali]] 📜  [[dn33-sujato-pali]] ►

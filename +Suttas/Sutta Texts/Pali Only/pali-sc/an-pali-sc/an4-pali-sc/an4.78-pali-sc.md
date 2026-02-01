@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.78-PALI"
+sutta_code: "AN4.78"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dakkhiṇa "
+  - "Religious Donation"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.78-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.78]]
 > ◄  [[an4.77-pali-sc]] 📜  [[an4.79-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -34,6 +34,16 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.78-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 80 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN142]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.78]]
+> ◄  [[an4.77-pali-sc]] 📜  [[an4.79-pali-sc]] ►

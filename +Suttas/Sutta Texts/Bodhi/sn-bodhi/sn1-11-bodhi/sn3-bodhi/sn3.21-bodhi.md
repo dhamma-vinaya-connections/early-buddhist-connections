@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
 > ◄  [[sn3.20-bodhi]] 📜  [[sn3.22-bodhi]] ►
 
 # SN3.21 Persons
@@ -150,8 +150,7 @@ At Sāvatthī. Then King Pasenadi of Kosala approached the Blessed One, paid h
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -162,6 +161,5 @@ At Sāvatthī. Then King Pasenadi of Kosala approached the Blessed One, paid h
 | [[SA-2.69]], [[SA1146]], [[AN4.85]], [[PE8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
 > ◄  [[sn3.20-bodhi]] 📜  [[sn3.22-bodhi]] ►

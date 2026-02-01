@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1-PALI"
+sutta_code: "SNP1"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1]]
 > ◄  [[]] 📜  [[snp2-pali-sri]] ►
 
 # 1. Uraga-vagga - Pali
@@ -1603,6 +1603,5 @@ Dvādasetāni suttāni uragavaggoti vuccati.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1-) 
 

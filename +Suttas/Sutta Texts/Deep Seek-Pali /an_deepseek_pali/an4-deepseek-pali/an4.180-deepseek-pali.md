@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāpadesa "
   - "Four Great References"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.180]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.180]]
 > ◄  [[an4.179-deepseek-pali]] 📜  [[an4.181-deepseek-pali]] ►
 
 # AN 4.180 Mahāpadesasuttaṃ
@@ -71,8 +71,7 @@ Intention, Analysis, Compartment, Ānanda, Upavāṇa the fifth; Request, Rāhul
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.180-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ Intention, Analysis, Compartment, Ānanda, Upavāṇa the fifth; Request, Rāhul
 | [[EA28.5]], [[DA2]], [[DN16]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.180]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.180]]
 > ◄  [[an4.179-deepseek-pali]] 📜  [[an4.181-deepseek-pali]] ►

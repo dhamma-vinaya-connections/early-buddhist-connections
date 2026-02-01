@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN11-PALI"
+sutta_code: "DN11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kevaṭṭa Sutta "
+  - "With Kevaddha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN11]]
 > ◄  [[dn10-pali-sc]] 📜  [[dn12-pali-sc]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -149,6 +149,16 @@ etthetaṁ uparujjhatī'"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA24]] | D i 211 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA24]], [[AN3.60]], [[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN11]]
+> ◄  [[dn10-pali-sc]] 📜  [[dn12-pali-sc]] ►

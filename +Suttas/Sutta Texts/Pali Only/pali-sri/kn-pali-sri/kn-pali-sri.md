@@ -1,13 +1,13 @@
 ---
-sutta_code: "KN-PALI"
+sutta_code: "KN"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[KN]]  / 🌐 [[KN-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KN]]  / 🌐 [[KN]]
 > ◄  [[]] 📜  [[]] ►
 
 # [06 Mahali Sutta - Pali
@@ -780,6 +780,5 @@ Khuddatapāṭhapāḷi niṭṭhitā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:kn-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.5-PALI"
+sutta_code: "AN4.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Anusota "
+  - "With The Stream"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
 > ◄  [[an4.4-pali-pts]] 📜  [[an4.6-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,16 @@ PTS: A ii 5
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 5 |
+> > [!check]- Partial parallels 
+> > 
+| [[PE8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
+> ◄  [[an4.4-pali-pts]] 📜  [[an4.6-pali-pts]] ►

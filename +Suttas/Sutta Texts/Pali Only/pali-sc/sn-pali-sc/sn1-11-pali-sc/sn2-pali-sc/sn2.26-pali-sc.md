@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.26-PALI"
+sutta_code: "SN2.26"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Rohitassasutta "
+  - "Rohitassa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.26-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.26]]
 > ◄  [[sn2.25-pali-sc]] 📜  [[sn2.27-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -46,6 +46,16 @@ Nāsīsati lokamimaṁ parañcā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.26-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.45]], [[AN4.46]] | [[EA43.1]], [[SA-2.306]], [[SA1307]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.45]], [[AN4.46]], [[SA-2.306]], [[SA1307]], [[EA43.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.26]]
+> ◄  [[sn2.25-pali-sc]] 📜  [[sn2.27-pali-sc]] ►

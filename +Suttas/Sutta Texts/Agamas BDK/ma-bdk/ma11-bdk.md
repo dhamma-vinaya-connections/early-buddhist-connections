@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA11]]
 > ◄  [[ma10-bdk]] 📜  [[ma12-bdk]] ►
 
 ### 11. The Discourse with the Parable [of the Ounce] of Salt
@@ -29,8 +29,7 @@ another person a hundred coins, is not arrested by the creditor, and would not b
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ another person a hundred coins, is not arrested by the creditor, and would not b
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.217]], [[AN10.218]], [[AN10.219]], [[MA15]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA11]]
 > ◄  [[ma10-bdk]] 📜  [[ma12-bdk]] ►

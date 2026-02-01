@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG765-PALI"
+sutta_code: "THAG765"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG765-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG765]]
 > ◄  [[thag764-pali-pts]] 📜  [[thag766-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yadā ca maggam addakkhiṃ nāvāya abhirūhanaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag765-) 
 

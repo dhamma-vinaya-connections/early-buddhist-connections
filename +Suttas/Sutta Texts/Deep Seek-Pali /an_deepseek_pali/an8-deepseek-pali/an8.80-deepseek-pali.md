@@ -4,10 +4,10 @@ sutta_title:
   - "Kusītārambhavatthu "
   - "Laziness Grounds And Arousing Energy"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
 > ◄  [[an8.79-deepseek-pali]] 📜  [[an8.81-deepseek-pali]] ►
 
 # AN 8.80 Kusītārambhavatthusuttaṃ
@@ -99,8 +99,7 @@ Two on faith, two on mindfulness of death, two on accomplishments, and then othe
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.80-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ Two on faith, two on mindfulness of death, two on accomplishments, and then othe
 | [[DN33]], [[DN34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
 > ◄  [[an8.79-deepseek-pali]] 📜  [[an8.81-deepseek-pali]] ►

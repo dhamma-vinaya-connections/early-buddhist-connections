@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG784-PALI"
+sutta_code: "THAG784"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG784-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG784]]
 > ◄  [[thag783-pali-pts]] 📜  [[thag785-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ upeti gabbhañ ca parañ ca lokaṃ saṃsāram āpajja paramparāya,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag784-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Pindapatika Sutta "
   - "Alms"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.8]]
 > ◄  [[ud3.7-deepseek-pali]] 📜  [[ud3.9-deepseek-pali]] ►
 
 # Ud 3.8 Piṇḍapātikasuttaṃ
@@ -55,9 +55,7 @@ Eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.8-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.8]]
 > ◄  [[ud3.7-deepseek-pali]] 📜  [[ud3.9-deepseek-pali]] ►

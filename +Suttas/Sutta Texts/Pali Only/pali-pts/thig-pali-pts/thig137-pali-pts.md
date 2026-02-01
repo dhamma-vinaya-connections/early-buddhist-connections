@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG137-PALI"
+sutta_code: "THIG137"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG137-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG137]]
 > ◄  [[thig136-pali-pts]] 📜  [[thig138-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sabbe sokā samucchinnā pahīnā etadantikā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig137-) 
 

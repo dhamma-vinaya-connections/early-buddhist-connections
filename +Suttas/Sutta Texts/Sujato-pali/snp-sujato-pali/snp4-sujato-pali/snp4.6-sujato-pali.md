@@ -3,11 +3,11 @@ sutta_code: "SNP4.6"
 sutta_title:
   - "Jarāsutta "
   - "Old Age"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
 > ◄  [[snp4.5-sujato-pali]] 📜  [[snp4.7-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -135,8 +135,7 @@ Jarāsuttaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -151,6 +150,5 @@ Jarāsuttaṁ chaṭṭhaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN21.2]], [[AN4.184]], [[DHP21]], [[SN5.16]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
 > ◄  [[snp4.5-sujato-pali]] 📜  [[snp4.7-sujato-pali]] ►

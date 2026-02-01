@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN1-PALI"
+sutta_code: "MN1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mūlapariyāya Sutta "
+  - "Root of All Things"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
 > ◄  [[]] 📜  [[mn2-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -140,6 +140,20 @@ Tathāgatavasena aṭṭhamanayabhūmiparicchedo niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA44.6]]; [[MA106]] | M i 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA106]]; [[EA44.6]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN35.248]], [[AN4.174]], [[AN10.58]], [[SN35.30]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
+> ◄  [[]] 📜  [[mn2-pali-sc]] ►

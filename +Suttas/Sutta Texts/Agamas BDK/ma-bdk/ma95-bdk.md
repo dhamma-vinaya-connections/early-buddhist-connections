@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA95]]
 > ◄  [[ma94-bdk]] 📜  [[ma96-bdk]] ►
 
 ### 95. The Discourse on Maintaining [Wholesome] States
@@ -23,8 +23,7 @@ same way a monk, wishing to eradicate these evil unwholesome states, will quickl
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma95-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ same way a monk, wishing to eradicate these evil unwholesome states, will quickl
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA93]], [[MA96]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA95]]
 > ◄  [[ma94-bdk]] 📜  [[ma96-bdk]] ►

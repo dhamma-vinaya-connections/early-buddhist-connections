@@ -7,17 +7,11 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA5]]
 > ◄  [[da4-patton]] 📜  [[da6-patton]] ►
 
-# [Dharma Pearls](../../index-2.html)
-
-## Translating Classical Buddhism to Modern English
-
-[What’s New](../../whats-new.html) [Translations](../../translations.html) [Resources](../../resources.html) [About](../../about.html)
-
-# [The Long Discourses](index.html)
-
+# The Long Discourses
+Translated by Charles Patton
 ## Part II
 
 ### 5. The Smaller Teaching on Origination
@@ -193,8 +187,7 @@ He replied, “Indeed! We left home to cultivate the path on account of our grea
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -205,6 +198,5 @@ He replied, “Indeed! We left home to cultivate the path on account of our grea
 | [[DA18]], [[SN47.12]], [[AN1.277]], [[MN115]], [[DN1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA5]]
 > ◄  [[da4-patton]] 📜  [[da6-patton]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Mettā "
   - "Benefits Of Love"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.1]]
 > ◄  [[]] 📜  [[an8.2-deepseek-pali]] ►
 
 # AN 8.1 Mettāsuttaṃ
@@ -47,8 +47,7 @@ One who cultivates loving-kindness, boundless, ever mindful: their fetters becom
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ One who cultivates loving-kindness, boundless, ever mindful: their fetters becom
 | [[AN11.15]], [[EA49.10]], [[PLI-TV-PVR7]], [[ITI27]], [[JA451]], [[PE3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.1]]
 > ◄  [[]] 📜  [[an8.2-deepseek-pali]] ►

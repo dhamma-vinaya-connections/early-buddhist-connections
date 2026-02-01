@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI68-PALI"
+sutta_code: "ITI68"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "梵摩 "
+  - "With Brahmāyu"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI68-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI68]]
 > ◄  [[iti67-pali-sc]] 📜  [[iti69-pali-sc]] ►
 
 # Iti 68. Dutiyarāgasuttaṃ
@@ -35,6 +35,7 @@ Puññaṃ cakkhu atha indriyāni [atthindriyā (syā.)], addhā ca caritaṃ du
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti68-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI68]]
+> ◄  [[iti67-pali-sc]] 📜  [[iti69-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN1-PALI"
+sutta_code: "MN1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mūlapariyāya Sutta "
+  - "Root of All Things"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
 > ◄  [[]] 📜  [[mn2-pali-sri]] ►
 
 # 1. Mulapariyaya Sutta - Pali
@@ -500,6 +500,20 @@ Mūlapariyāyasuttaṃ paṭhamaṃ6
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA44.6]]; [[MA106]] | M i 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA106]]; [[EA44.6]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN35.248]], [[AN4.174]], [[AN10.58]], [[SN35.30]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
+> ◄  [[]] 📜  [[mn2-pali-sri]] ►

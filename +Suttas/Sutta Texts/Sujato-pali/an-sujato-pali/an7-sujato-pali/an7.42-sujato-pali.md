@@ -3,11 +3,11 @@ sutta_code: "AN7.42"
 sutta_title:
   - "Niddasa "
   - "Graduation"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
 > ◄  [[an7.41-sujato-pali]] 📜  [[an7.43-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -73,8 +73,7 @@ Ekādasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.42-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,6 +84,5 @@ Ekādasamaṁ.
 | [[AN7.20]], [[DN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
 > ◄  [[an7.41-sujato-pali]] 📜  [[an7.43-sujato-pali]] ►

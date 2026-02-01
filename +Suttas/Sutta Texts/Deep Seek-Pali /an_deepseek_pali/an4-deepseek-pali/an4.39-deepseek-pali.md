@@ -4,10 +4,10 @@ sutta_title:
   - "Udāyī "
   - "With Udāyī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.39]]
 > ◄  [[an4.38-deepseek-pali]] 📜  [[an4.40-deepseek-pali]] ►
 
 # AN 4.39 Ujjayasuttaṃ
@@ -43,8 +43,7 @@ Let the wise sacrifice this, for this sacrifice is of great fruit. For the one s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.39-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Let the wise sacrifice this, for this sacrifice is of great fruit. For the one s
 | [[SA-2.89]], [[SA89]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.39]]
 > ◄  [[an4.38-deepseek-pali]] 📜  [[an4.40-deepseek-pali]] ►

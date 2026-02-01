@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG11-PALI"
+sutta_code: "THAG11"
 sutta_title:
-  - " "
-  - ""
+  - "Ekādasakanipātavagga "
+  - "Elevens Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG11]]
 > ◄  [[thag10-pali-eng]] 📜  [[thag12-pali-eng]] ►
 
 # Thag 11. Ekādasanipāto
@@ -72,6 +72,5 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag11-) 
 

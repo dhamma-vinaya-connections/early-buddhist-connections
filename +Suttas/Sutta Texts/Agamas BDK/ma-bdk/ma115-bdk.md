@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA115]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA115]]
 > ◄  [[ma114-bdk]] 📜  [[ma116-bdk]] ►
 
 ### 115. The Discourse with the Simile of the Honeyball
@@ -51,8 +51,7 @@ my true Dharma and discipline, whichever part of it he contemplates, he gets the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma115-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ my true Dharma and discipline, whichever part of it he contemplates, he gets the
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.72]], [[DN21]], [[SA273]], [[SN4.8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA115]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA115]]
 > ◄  [[ma114-bdk]] 📜  [[ma116-bdk]] ►

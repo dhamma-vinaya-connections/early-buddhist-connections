@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA35_7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA35_7]]
 > ◄  [[SA35_1]] 📜  [[SA35_40-42]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -62,6 +62,5 @@ Last Revised: 1 November 2023
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa35_7-) 
 

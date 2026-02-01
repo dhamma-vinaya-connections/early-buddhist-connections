@@ -3,11 +3,11 @@ sutta_code: "SN7.18"
 sutta_title:
   - "Kaṭṭhahārasutta "
   - "Wood Gatherers"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.18]]
 > ◄  [[sn7.17-sujato-pali]] 📜  [[sn7.19-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -99,8 +99,7 @@ Jhāyāmahaṁ brahma raho visārado"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ Jhāyāmahaṁ brahma raho visārado"ti.
 | [[SA-2.97]], [[SA1183]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.18]]
 > ◄  [[sn7.17-sujato-pali]] 📜  [[sn7.19-sujato-pali]] ►

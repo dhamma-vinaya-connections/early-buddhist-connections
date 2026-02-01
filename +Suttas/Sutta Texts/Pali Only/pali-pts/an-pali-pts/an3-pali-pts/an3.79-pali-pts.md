@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.79-PALI"
+sutta_code: "AN3.79"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Gandhajāta "
+  - "Fragrances"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.79-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.79]]
 > ◄  [[an3.78-pali-pts]] 📜  [[an3.80-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,16 @@ PTS: A i 225
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.79-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP54]] | [[EA23.5]], [[SA-2.12]], [[SA1073]] | A i 225 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA23.5]], [[SA-2.12]], [[SA1073]], [[DHP54]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.79]]
+> ◄  [[an3.78-pali-pts]] 📜  [[an3.80-pali-pts]] ►

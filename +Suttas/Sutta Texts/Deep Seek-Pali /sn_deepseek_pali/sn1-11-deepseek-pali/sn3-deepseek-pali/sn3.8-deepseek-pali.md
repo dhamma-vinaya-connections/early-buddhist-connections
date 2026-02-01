@@ -4,10 +4,10 @@ sutta_title:
   - "Mallikāsutta "
   - "Mallika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
 > ◄  [[sn3.7-deepseek-pali]] 📜  [[sn3.9-deepseek-pali]] ►
 
 # SN 3.8 Mallikāsuttaṃ
@@ -35,8 +35,7 @@ Then, the Blessed One, having understood this matter, on that occasion recited t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then, the Blessed One, having understood this matter, on that occasion recited t
 | [[UD5.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
 > ◄  [[sn3.7-deepseek-pali]] 📜  [[sn3.9-deepseek-pali]] ►

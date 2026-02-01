@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.54-PALI"
+sutta_code: "AN6.54"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dhammika "
+  - "About Dhammika"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.54-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.54]]
 > ◄  [[an6.53-pali-pts]] 📜  [[an6.55-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,20 @@ Ekaṃ samayaṃ Bhagavā Rājagahe viharati Gijjhakūṭe pabbate. Tena kho pan
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.54-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN7.73]], [[AN7.73-74]] | [[MA130]], [[MA160]] | A iii 366 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA130]], [[AN7.73-74]], [[MA160]], [[AN7.66]], [[AN7.73]], [[PE3]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN7.62]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.54]]
+> ◄  [[an6.53-pali-pts]] 📜  [[an6.55-pali-pts]] ►

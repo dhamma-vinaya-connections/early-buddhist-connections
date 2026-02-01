@@ -4,10 +4,10 @@ sutta_title:
   - "Sārandada "
   - "At Sārandada"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.143]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.143]]
 > ◄  [[an5.142-deepseek-pali]] 📜  [[an5.144-deepseek-pali]] ►
 
 # AN 5.143 Sārandadasuttaṃ
@@ -39,8 +39,7 @@ Then those Licchavis approached the Blessed One; having approached, they paid ho
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.143-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then those Licchavis approached the Blessed One; having approached, they paid ho
 | [[AN5.195]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.143]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.143]]
 > ◄  [[an5.142-deepseek-pali]] 📜  [[an5.144-deepseek-pali]] ►

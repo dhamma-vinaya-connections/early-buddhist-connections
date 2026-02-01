@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA22]]
 > ◄  [[da21-bdk]] 📜  [[da23-bdk]] ►
 
 ### One Who Cultivates Virtue
@@ -556,8 +556,7 @@ delighted to receive it and carried it out as taught by the Buddha.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -572,6 +571,5 @@ delighted to receive it and carried it out as taught by the Buddha.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN102]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA22]]
 > ◄  [[da21-bdk]] 📜  [[da23-bdk]] ►

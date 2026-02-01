@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.162-PALI"
+sutta_code: "AN4.162"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vitthāra "
+  - "Modes Of Practice"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.162-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.162]]
 > ◄  [[an4.161-pali-pts]] 📜  [[an4.163-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,16 @@ PTS: A ii 149
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.162-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA31.3]] | A ii 149 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA31.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.162]]
+> ◄  [[an4.161-pali-pts]] 📜  [[an4.163-pali-pts]] ►

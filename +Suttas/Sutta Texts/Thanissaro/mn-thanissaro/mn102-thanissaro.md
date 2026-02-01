@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102]]
 > ◄  [[mn101-thanissaro]] 📜  [[mn105-thanissaro]] ►
 
 ## MN102 Five & Three
@@ -84,8 +84,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn102-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN102]]
 > ◄  [[mn101-thanissaro]] 📜  [[mn105-thanissaro]] ►

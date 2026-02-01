@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.8-PALI"
+sutta_code: "SNP1.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Metta "
+  - "Love"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.8]]
 > ◄  [[snp1.7-pali-sc]] 📜  [[snp1.9-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -68,6 +68,7 @@ Mettasuttaṁ aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.8]]
+> ◄  [[snp1.7-pali-sc]] 📜  [[snp1.9-pali-sc]] ►

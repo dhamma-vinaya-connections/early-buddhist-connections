@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG516-PALI"
+sutta_code: "THIG516"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG516-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG516]]
 > ◄  [[thig515-pali-pts]] 📜  [[thig517-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ acchariyam abbhutan taṃ nibbānaṃ āsi rājakaññāya |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig516-) 
 

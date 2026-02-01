@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA202]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA202]]
 > ◄  [[ma201-bdk]] 📜  [[ma203-bdk]] ►
 
 ### 202. The Discourse on the Uposatha
@@ -41,8 +41,7 @@ eightfold uposatha will, on the breaking up of the body with the ending of life,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma202-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -52,6 +51,5 @@ eightfold uposatha will, on the breaking up of the body with the ending of life,
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.46]], [[AN3.70]], [[AN8.43]], [[UD2.10]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA202]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA202]]
 > ◄  [[ma201-bdk]] 📜  [[ma203-bdk]] ►

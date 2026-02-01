@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG322-PALI"
+sutta_code: "THAG322"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG322-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG322]]
 > ◄  [[thag321-pali-pts]] 📜  [[thag323-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ agandhakaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag322-) 
 

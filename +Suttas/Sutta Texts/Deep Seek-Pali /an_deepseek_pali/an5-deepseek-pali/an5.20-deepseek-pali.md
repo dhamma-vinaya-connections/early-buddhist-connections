@@ -4,10 +4,10 @@ sutta_title:
   - "Catutthahita "
   - "Welfare Of Both"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.20]]
 > ◄  [[an5.19-deepseek-pali]] 📜  [[an5.21-deepseek-pali]] ►
 
 # AN 5.20 Catutthahitasuttaṃ
@@ -40,8 +40,7 @@ What should be seen, and again the Kūṭa, and the four on welfare.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ What should be seen, and again the Kūṭa, and the four on welfare.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47.19]], [[AN4.95]], [[AN4.96]], [[AN4.99]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.20]]
 > ◄  [[an5.19-deepseek-pali]] 📜  [[an5.21-deepseek-pali]] ►

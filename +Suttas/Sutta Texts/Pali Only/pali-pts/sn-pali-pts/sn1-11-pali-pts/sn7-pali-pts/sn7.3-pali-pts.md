@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.3-PALI"
+sutta_code: "SN7.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Asurindakasutta "
+  - "Asurindaka"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
 > ◄  [[sn7.2-pali-pts]] 📜  [[sn7.4-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -47,6 +47,16 @@ Evaṃ vutte Devahito brāhmaṇo Bhagavantam etad avoca || || Abhikkantam bho G
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.74]], [[SA-3.25]], [[SA1151]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.74]], [[SA-3.25]], [[SA1151]], [[SN7.2]], [[SN11.4]], [[SN11.5]], [[THAG6.12]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
+> ◄  [[sn7.2-pali-pts]] 📜  [[sn7.4-pali-pts]] ►

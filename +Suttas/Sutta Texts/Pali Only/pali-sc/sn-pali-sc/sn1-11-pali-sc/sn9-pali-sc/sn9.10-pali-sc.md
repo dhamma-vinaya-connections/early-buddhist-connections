@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.10-PALI"
+sutta_code: "SN9.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sajjhāyasutta "
+  - "Reciting"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.10]]
 > ◄  [[sn9.9-pali-sc]] 📜  [[sn9.11-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -35,6 +35,16 @@ Aññāya nikkhepanamāhu santo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.357]], [[SA1337]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.357]], [[SA1337]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.10]]
+> ◄  [[sn9.9-pali-sc]] 📜  [[sn9.11-pali-sc]] ►

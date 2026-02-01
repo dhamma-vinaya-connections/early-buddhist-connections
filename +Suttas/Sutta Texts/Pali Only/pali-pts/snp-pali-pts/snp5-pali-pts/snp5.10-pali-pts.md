@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.10-PALI"
+sutta_code: "SNP5.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Todeyyamāṇavapucchā "
+  - "Questions of the Student Todeyya"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.10]]
 > ◄  [[snp5.9-pali-pts]] 📜  [[snp5.11-pali-pts]] ►
 
 # SNP5.10 Todeyyamāṇavapucchā (9)
@@ -36,6 +36,5 @@ TODEYYAMĀṆAVAPUCCHĀ NIṬṬHITĀ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.10-) 
 

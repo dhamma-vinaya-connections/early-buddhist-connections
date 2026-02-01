@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
 > ◄  [[mn104-bodhi]] 📜  [[mn106-bodhi]] ►
 
 # MN105 Sunakkhatta Sutta - To Sunakkhatta
@@ -91,8 +91,7 @@ That is what the Blessed One said. Sunakkhatta, son of the Licchavis, was satisf
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn105-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -102,6 +101,5 @@ That is what the Blessed One said. Sunakkhatta, son of the Licchavis, was satisf
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN112]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
 > ◄  [[mn104-bodhi]] 📜  [[mn106-bodhi]] ►

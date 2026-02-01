@@ -4,10 +4,10 @@ sutta_title:
   - "Dhammacetiya Sutta "
   - "Shrines to the Teaching"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
 > ◄  [[mn88-deepseek-pali]] 📜  [[mn90-deepseek-pali]] ►
 
 # 89. Dhammacetiyasuttaṃ
@@ -71,8 +71,7 @@ The Dhammacetiya Sutta, the ninth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn89-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ The Dhammacetiya Sutta, the ninth, is concluded.
 | [[AN10.30]]; [[EA38.10]]; [[MA213]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
 > ◄  [[mn88-deepseek-pali]] 📜  [[mn90-deepseek-pali]] ►

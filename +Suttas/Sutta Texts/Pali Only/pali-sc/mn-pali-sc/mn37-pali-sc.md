@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN37-PALI"
+sutta_code: "MN37"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cūḷataṇhāsaṅkhaya Sutta "
+  - "Shorter Discourse on the Ending of Craving"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
 > ◄  [[mn36-pali-sc]] 📜  [[mn38-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -89,6 +89,20 @@ Atha kho sakkassa devānamindassa paricārikāyo acirapakkante āyasmante mahām
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn37-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA19.3]]; [[SA505]] | M i 251 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA19.3]]; [[SA505]]; [[AN7.61]]; [[MA83]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN50]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
+> ◄  [[mn36-pali-sc]] 📜  [[mn38-pali-sc]] ►

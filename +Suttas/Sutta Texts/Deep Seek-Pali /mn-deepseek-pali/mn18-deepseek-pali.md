@@ -4,10 +4,10 @@ sutta_title:
   - "Madhupiṇḍika Sutta "
   - "Honey-Cake"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
 > ◄  [[mn17-deepseek-pali]] 📜  [[mn19-deepseek-pali]] ►
 
 # 18. Madhupiṇḍikasuttaṃ
@@ -87,8 +87,7 @@ The Honey-lump Discourse is finished, the eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ The Honey-lump Discourse is finished, the eighth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN21]]; [[AN3.72]]; [[SN4.8]], [[SA273]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
 > ◄  [[mn17-deepseek-pali]] 📜  [[mn19-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "SNP2.4"
 sutta_title:
   - "Maṅgalasutta "
   - "Blessings"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
 > ◄  [[snp2.3-sujato-pali]] 📜  [[snp2.5-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -167,9 +167,7 @@ Maṅgalasuttaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.4-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
 > ◄  [[snp2.3-sujato-pali]] 📜  [[snp2.5-sujato-pali]] ►

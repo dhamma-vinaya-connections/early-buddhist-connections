@@ -4,10 +4,10 @@ sutta_title:
   - "Pathamabhaddiya Sutta "
   - "Bhaddiya (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.1]]
 > ◄  [[]] 📜  [[ud7.2-deepseek-pali]] ►
 
 # Ud 7.1 Paṭhamalakuṇḍakabhaddiyasuttaṃ
@@ -39,8 +39,7 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN21.5]], [[SN41:5]], [[AN]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.1]]
 > ◄  [[]] 📜  [[ud7.2-deepseek-pali]] ►

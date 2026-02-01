@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN149-PALI"
+sutta_code: "MN149"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahāsaḷāyatanika Sutta "
+  - "Great Discourse on the Six Sense Fields"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-pali-sc]] 📜  [[mn150-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -79,6 +79,16 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn149-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA305]] | M iii 287 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA305]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
+> ◄  [[mn148-pali-sc]] 📜  [[mn150-pali-sc]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
 > ◄  [[mn23-bodhi]] 📜  [[mn25-bodhi]] ►
 
 # MN24 Rathavinīta Sutta - The Relay Chariots
@@ -73,8 +73,7 @@ Thus it was that these two great beings rejoiced in each other’s good words.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,6 +88,5 @@ Thus it was that these two great beings rejoiced in each other’s good words.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]], [[SN4.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
 > ◄  [[mn23-bodhi]] 📜  [[mn25-bodhi]] ►

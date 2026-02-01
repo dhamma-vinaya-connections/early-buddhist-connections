@@ -3,11 +3,11 @@ sutta_code: "AN9.34"
 sutta_title:
   - "Nibbana "
   - "Unbinding"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
 > ◄  [[an9.33-sujato-pali]] 📜  [[an9.35-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -93,8 +93,7 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -104,6 +103,5 @@ Tatiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.31]], [[AN9.33]], [[AN9.36]], [[AN9.42]], [[AN11.10MN111]], [[SN22.5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
 > ◄  [[an9.33-sujato-pali]] 📜  [[an9.35-sujato-pali]] ►

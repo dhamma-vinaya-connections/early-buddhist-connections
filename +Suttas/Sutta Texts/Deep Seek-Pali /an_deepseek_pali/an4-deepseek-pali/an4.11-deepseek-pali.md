@@ -4,10 +4,10 @@ sutta_title:
   - "Cara "
   - "Walking"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.11]]
 > ◄  [[an4.10-deepseek-pali]] 📜  [[an4.12-deepseek-pali]] ►
 
 # AN 4.11 Carasuttaṃ
@@ -63,8 +63,7 @@ But whoever, walking or standing, sitting or lying down, has calmed thoughts and
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ But whoever, walking or standing, sitting or lying down, has calmed thoughts and
 | [[ITI110]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.11]]
 > ◄  [[an4.10-deepseek-pali]] 📜  [[an4.12-deepseek-pali]] ►

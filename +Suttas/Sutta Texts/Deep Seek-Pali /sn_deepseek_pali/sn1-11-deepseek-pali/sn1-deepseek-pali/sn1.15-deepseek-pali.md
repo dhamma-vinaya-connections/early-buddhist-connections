@@ -4,10 +4,10 @@ sutta_title:
   - "Saṇamānasutta "
   - "Murmuring"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.15]]
 > ◄  [[sn1.14-deepseek-pali]] 📜  [[sn1.16-deepseek-pali]] ►
 
 # SN 1.15 Saṇamānasuttaṃ
@@ -32,8 +32,7 @@ The great forest resounds—that delight appears to me.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -44,6 +43,5 @@ The great forest resounds—that delight appears to me.
 | [[SA-2.355]], [[SA1335]], [[SN9.12]], [[JA547]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.15]]
 > ◄  [[sn1.14-deepseek-pali]] 📜  [[sn1.16-deepseek-pali]] ►

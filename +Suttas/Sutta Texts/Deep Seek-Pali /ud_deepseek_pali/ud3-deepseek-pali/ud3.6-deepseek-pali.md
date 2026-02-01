@@ -4,10 +4,10 @@ sutta_title:
   - "Pilindivaccha Sutta "
   - "Pilinda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.6]]
 > ◄  [[ud3.5-deepseek-pali]] 📜  [[ud3.7-deepseek-pali]] ►
 
 # Ud 3.6 Pilindavacchasuttaṃ
@@ -43,8 +43,7 @@ Then, the Blessed One, having understood this matter, on that occasion, uttered 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then, the Blessed One, having understood this matter, on that occasion, uttered 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG17:2]], [[MN119]], [[SN47:20]], [[SN21:4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.6]]
 > ◄  [[ud3.5-deepseek-pali]] 📜  [[ud3.7-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN55-PALI"
+sutta_code: "MN55"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Jīvaka Sutta "
+  - "With Jīvaka"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN55-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN55]]
 > ◄  [[mn54-pali-sc]] 📜  [[mn56-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -83,6 +83,11 @@ Yo kho, jīvaka, tathāgataṁ vā tathāgatasāvakaṁ vā uddissa pāṇaṁ �
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn55-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M i 368 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN55]]
+> ◄  [[mn54-pali-sc]] 📜  [[mn56-pali-sc]] ►

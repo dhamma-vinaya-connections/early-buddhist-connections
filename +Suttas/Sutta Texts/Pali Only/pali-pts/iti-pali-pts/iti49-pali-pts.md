@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI49-PALI"
+sutta_code: "ITI49"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Diṭṭhigata "
+  - "Misconceptions"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI49-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI49]]
 > ◄  [[iti48-pali-pts]] 📜  [[iti50-pali-pts]] ►
 
 ## Itivuttaka
@@ -46,6 +46,7 @@ bāvīsati pakāsitā ti ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti49-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI49]]
+> ◄  [[iti48-pali-pts]] 📜  [[iti50-pali-pts]] ►

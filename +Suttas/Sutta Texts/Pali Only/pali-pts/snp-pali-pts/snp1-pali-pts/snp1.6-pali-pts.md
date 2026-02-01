@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.6-PALI"
+sutta_code: "SNP1.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Parābhavasutta "
+  - "Downfalls"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
 > ◄  [[snp1.5-pali-pts]] 📜  [[snp1.7-pali-pts]] ►
 
 # SNP1.6 Parābhavasutta
@@ -78,6 +78,7 @@ Parābhavasuttaṃ niṭṭhitaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
+> ◄  [[snp1.5-pali-pts]] 📜  [[snp1.7-pali-pts]] ►

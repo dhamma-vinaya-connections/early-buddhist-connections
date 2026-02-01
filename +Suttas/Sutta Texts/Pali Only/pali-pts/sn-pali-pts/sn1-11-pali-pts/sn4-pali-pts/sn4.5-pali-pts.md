@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.5-PALI"
+sutta_code: "SN4.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dutiyamārapāsasutta "
+  - "Māra's Snare (2)"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.5]]
 > ◄  [[sn4.4-pali-pts]] 📜  [[sn4.6-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -91,6 +91,16 @@ Dhītaraṃ desitam buddha-saṭṭhena imaṃ Mārapañcakan-ti Māra-samyutta�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN4.15]], [[SN4.4]] | [[SA-2.25]], [[SA1086]], [[SA1096]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD1]], [[SN4.15]], [[SA-2.25]], [[SA1086]], [[SN4.4]], [[SA1096]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.5]]
+> ◄  [[sn4.4-pali-pts]] 📜  [[sn4.6-pali-pts]] ►

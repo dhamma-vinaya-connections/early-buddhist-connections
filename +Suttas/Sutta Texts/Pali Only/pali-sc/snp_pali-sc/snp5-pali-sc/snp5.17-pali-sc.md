@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.17-PALI"
+sutta_code: "SNP5.17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Alarmed by the deterioration of his aging body, Piṅgiya asks the Buddha how to conquer birth and decay. "
+  - "Questions of the Student Piṅgiya"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.17]]
 > ◄  [[snp5.16-pali-sc]] 📜  [[snp5.18-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -56,6 +56,5 @@ Piṅgiyamāṇavapucchā soḷasamā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.17-) 
 

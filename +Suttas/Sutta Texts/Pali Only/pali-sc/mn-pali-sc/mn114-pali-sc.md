@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN114-PALI"
+sutta_code: "MN114"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sevitabbāsevitabba Sutta "
+  - "What Should and Should Not Be Cultivated"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
 > ◄  [[mn113-pali-sc]] 📜  [[mn115-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -214,6 +214,16 @@ Imassa kho ahaṁ, bhante, bhagavatā saṅkhittena bhāsitassa, vitthārena att
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn114-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN9.6]] | [[EA45.3]]; [[MA107]] | M iii 45 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.54]]; [[AN9.6]]; [[EA45.3]]; [[MA107]]; [[MA109]]; [[AN3.28]]; [[MN41]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
+> ◄  [[mn113-pali-sc]] 📜  [[mn115-pali-sc]] ►

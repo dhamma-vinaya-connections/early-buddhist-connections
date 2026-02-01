@@ -44,13 +44,9 @@ sutta_teacher:
   - "Brahma"
 sutta_audience:
   - "Devas"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DN18]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[SN9.11]]"
+parallels_nikaya: "[[DN18]]"
+parallels_agama: ""
+parallels_partilal: "[[SN9.11]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA3]]  🌐 [[DA5]] ►
 
@@ -77,8 +73,7 @@ Observing them keen, aware, and mindful, rid of desire and aversion for the worl
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -90,8 +85,7 @@ Observing them keen, aware, and mindful, rid of desire and aversion for the worl
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BDA4%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BDA4%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -102,7 +96,7 @@ Observing them keen, aware, and mindful, rid of desire and aversion for the worl
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDA4%5D%5D%22%23mynotes%20-file%3Ada4-%20-file%3A%22DA3%22%20-file%3A%22DA5%22%20-file%3A%22DA4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/da4/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 

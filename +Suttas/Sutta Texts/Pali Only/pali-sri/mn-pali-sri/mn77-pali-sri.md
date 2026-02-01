@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN77-PALI"
+sutta_code: "MN77"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahāsakuludāyi Sutta "
+  - "With Sakuludāyī Longer Discourse"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77]]
 > ◄  [[mn76-pali-sri]] 📜  [[mn78-pali-sri]] ►
 
 # 77. Maha Sakuludayi Sutta - Pali
@@ -278,6 +278,20 @@ Mahāsakuludāyi suttaṃ sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn77-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN1.447-454]]; [[AN8.120]]; [[AN8.66]] | [[MA207]] | M ii 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.120]]; [[AN1.447-454]]; [[MN137]]; [[AN8.66]]; [[DN16]]; [[DN15]]; [[DN34]]; [[DN33]]; [[MA207]]; [[AN1.439]]; [[AN8.119]]; [[AN10.29]]; [[AN8.65]]; [[DN10]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN32]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77]]
+> ◄  [[mn76-pali-sri]] 📜  [[mn78-pali-sri]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Saḷāyatanavibhaṅga "
   - "Analysis of the Six Sense Fields"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN137]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN137]]
 > ◄  [[mn136-deepseek-pali]] 📜  [[mn138-deepseek-pali]] ►
 
 # 137. Araṇavibhaṅgasuttaṃ
@@ -151,8 +151,7 @@ The Discourse on the Exposition of Non-Conflict, the ninth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn137-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -167,6 +166,5 @@ The Discourse on the Exposition of Non-Conflict, the ninth, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.61]], [[AN3.99]], [[AN3.99]], [[SN42.8]], [[MN140]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN137]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN137]]
 > ◄  [[mn136-deepseek-pali]] 📜  [[mn138-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.14-PALI"
+sutta_code: "AN6.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Anutappiya "
+  - "Regret"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.14]]
 > ◄  [[an6.13-pali-sri]] 📜  [[an6.15-pali-sri]] ►
 
 # 10:14 Sadhuvaggo - Pali
@@ -154,6 +154,11 @@ Sādhuvaggo catuttho.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 292 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.14]]
+> ◄  [[an6.13-pali-sri]] 📜  [[an6.15-pali-sri]] ►

@@ -34,17 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Elephant attacked by arrows, as monks attacked by abusive words"
-parallels_nikaya:
-  - "[[DHP306]]"
-  - "[[UD2.4]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[DHP306]]"
-  - "[[ITI48]]"
-  - "[[SNP3.10]]"
-  - "[[UD2.4]]"
+parallels_nikaya: "[[DHP306]], [[UD2.4]]"
+parallels_agama: ""
+parallels_partilal: "[[DHP306]], [[ITI48]], [[SNP3.10]], [[UD2.4]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.7]]  🌐 [[UD4.9]] ►
 
@@ -76,8 +68,7 @@ a mendicant should endure with no anger in heart.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -92,8 +83,7 @@ a mendicant should endure with no anger in heart.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DHP306]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD4.8%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD4.8%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -104,7 +94,7 @@ a mendicant should endure with no anger in heart.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD4.8%5D%5D%22%23mynotes%20-file%3Aud4.8-%20-file%3A%22UD4.7%22%20-file%3A%22UD4.9%22%20-file%3A%22UD4.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud4.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.8

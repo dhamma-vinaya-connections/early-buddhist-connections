@@ -3,11 +3,11 @@ sutta_code: "SN5.2"
 sutta_title:
   - "Somāsutta "
   - "Soma"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
 > ◄  [[sn5.1-sujato-pali]] 📜  [[sn5.3-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -85,8 +85,7 @@ Taṁ māro vattumarahatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -97,6 +96,5 @@ Taṁ māro vattumarahatī"ti.
 | [[SA-2.215]], [[SA1199]], [[THIG3.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
 > ◄  [[sn5.1-sujato-pali]] 📜  [[sn5.3-sujato-pali]] ►

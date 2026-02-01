@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG364-PALI"
+sutta_code: "THAG364"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG364-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG364]]
 > ◄  [[thag363-pali-pts]] 📜  [[thag365-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Upasampadā ca me laddhā, vimutto c'; amhi anāsavo,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag364-) 
 

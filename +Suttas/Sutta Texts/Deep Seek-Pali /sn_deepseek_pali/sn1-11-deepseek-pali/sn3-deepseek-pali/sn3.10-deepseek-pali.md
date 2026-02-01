@@ -4,10 +4,10 @@ sutta_title:
   - "Bandhanasutta "
   - "Bondage"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
 > ◄  [[sn3.9-deepseek-pali]] 📜  [[sn3.11-deepseek-pali]] ►
 
 # SN 3.10 Bandhanasuttaṃ
@@ -55,8 +55,7 @@ Young, Man, Old Age, Dear, Self-Protected; Few, Making Half, Mallikā, Sacrifice
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Young, Man, Old Age, Dear, Self-Protected; Few, Making Half, Mallikā, Sacrifice
 | [[SA-2.62]], [[SA1235]], [[DHP345]], [[JA201]], [[PE2]], [[DHP346]], [[THAG2.34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
 > ◄  [[sn3.9-deepseek-pali]] 📜  [[sn3.11-deepseek-pali]] ►

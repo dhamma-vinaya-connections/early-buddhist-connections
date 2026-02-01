@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.42-PALI"
+sutta_code: "AN5.42"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sappurisa "
+  - "Good Person"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.42-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.42]]
 > ◄  [[an5.41-pali-sc]] 📜  [[an5.43-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -35,6 +35,16 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.42-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.38]], [[DHP230]] |  | A iii 46 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.38]], [[DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.42]]
+> ◄  [[an5.41-pali-sc]] 📜  [[an5.43-pali-sc]] ►

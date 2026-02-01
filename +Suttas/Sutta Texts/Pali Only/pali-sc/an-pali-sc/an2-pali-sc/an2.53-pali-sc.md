@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.53-PALI"
+sutta_code: "AN2.53"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sukha "
+  - "Happiness"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.53-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.53]]
 > ◄  [[an2.52-pali-sc]] 📜  [[an2.54-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -19,6 +19,16 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.53-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA17.2]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[EA17.2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.53]]
+> ◄  [[an2.52-pali-sc]] 📜  [[an2.54-pali-sc]] ►

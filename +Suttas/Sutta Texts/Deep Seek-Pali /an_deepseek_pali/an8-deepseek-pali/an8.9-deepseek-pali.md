@@ -4,10 +4,10 @@ sutta_title:
   - "Nanda "
   - "Nanda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.9]]
 > ◄  [[an8.8-deepseek-pali]] 📜  [[an8.10-deepseek-pali]] ►
 
 # AN 8.9 Nandasuttaṃ
@@ -43,8 +43,7 @@ Bhikkhus, this is Nanda’s mindfulness and clear comprehension. Here, bhikkhus,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Bhikkhus, this is Nanda’s mindfulness and clear comprehension. Here, bhikkhus,
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN35]], [[MN59]], [[AN4.37]], [[UD3.2.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.9]]
 > ◄  [[an8.8-deepseek-pali]] 📜  [[an8.10-deepseek-pali]] ►

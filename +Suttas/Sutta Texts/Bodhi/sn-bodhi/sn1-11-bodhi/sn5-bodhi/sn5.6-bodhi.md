@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
 > ◄  [[sn5.5-bodhi]] 📜  [[sn5.7-bodhi]] ►
 
 # SN5.6 Cālā
@@ -65,8 +65,7 @@ Then Māra the Evil One, realizing, “The bhikkhunī Cālā knows me,” sad an
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,6 +80,5 @@ Then Māra the Evil One, realizing, “The bhikkhunī Cālā knows me,” sad an
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN6.15]], [[SN9.6.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
 > ◄  [[sn5.5-bodhi]] 📜  [[sn5.7-bodhi]] ►

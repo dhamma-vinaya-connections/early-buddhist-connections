@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.126-PALI"
+sutta_code: "AN2.126"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Āsāduppajaha "
+  - "Hopes That Are Hard To Give Up"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.126-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.126]]
 > ◄  [[an2.125-pali-pts]] 📜  [[an2.127-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,16 @@ Ime kho bhikkhave dve paccayā sammādiṭṭhiyā uppādāyā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.126-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA15.10]] | A i 87 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA15.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.126]]
+> ◄  [[an2.125-pali-pts]] 📜  [[an2.127-pali-pts]] ►

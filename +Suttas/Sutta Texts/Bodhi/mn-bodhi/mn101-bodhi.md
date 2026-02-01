@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101]]
 > ◄  [[mn100-bodhi]] 📜  [[mn102-bodhi]] ►
 
 # MN101 Devadaha Sutta - At Devadaha
@@ -149,8 +149,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn101-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -165,6 +164,5 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.145]]]]; [[[[SN36.21]]]]; [[[[SN42.8]]]]; [[[[SN42.11]]]]; [[[[AN3.99]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101]]
 > ◄  [[mn100-bodhi]] 📜  [[mn102-bodhi]] ►

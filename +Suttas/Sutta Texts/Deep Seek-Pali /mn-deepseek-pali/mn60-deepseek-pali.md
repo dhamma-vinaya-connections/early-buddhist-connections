@@ -4,10 +4,10 @@ sutta_title:
   - "Apaṇṇaka Sutta "
   - "Guaranteed"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
 > ◄  [[mn59-deepseek-pali]] 📜  [[mn61-deepseek-pali]] ►
 
 # 60. Apaṇṇakasuttaṃ
@@ -143,8 +143,7 @@ Kandaranāgarasekhavato ca, potaliyo puna jīvakabhacco;Upālidamatho kukkuraabh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -159,6 +158,5 @@ Kandaranāgarasekhavato ca, potaliyo puna jīvakabhacco;Upālidamatho kukkuraabh
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN45]]; [[MN95]], [[DN2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
 > ◄  [[mn59-deepseek-pali]] 📜  [[mn61-deepseek-pali]] ►

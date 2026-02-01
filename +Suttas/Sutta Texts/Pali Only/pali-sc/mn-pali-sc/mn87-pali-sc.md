@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN87-PALI"
+sutta_code: "MN87"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Piyajātika Sutta "
+  - "Born From the Beloved"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
 > ◄  [[mn86-pali-sc]] 📜  [[mn88-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -127,6 +127,16 @@ Atha kho rājā pasenadi kosalo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn87-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA13.3]]; [[MA216]] | M ii 106 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA13.3]]; [[MA216]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
+> ◄  [[mn86-pali-sc]] 📜  [[mn88-pali-sc]] ►

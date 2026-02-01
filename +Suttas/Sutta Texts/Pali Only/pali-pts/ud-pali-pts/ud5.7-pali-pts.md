@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD5.7-PALI"
+sutta_code: "UD5.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Revata Sutta "
+  - "About Revata"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.7]]
 > ◄  [[ud5.6-pali-pts]] 📜  [[ud6.1-pali-pts]] ►
 
 ## Udāna
@@ -46,6 +46,7 @@ santi kho pana bhante etarahi bhikkhū bhagavato sāvakā viyattā . . . uggahet
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.7]]
+> ◄  [[ud5.6-pali-pts]] 📜  [[ud6.1-pali-pts]] ►

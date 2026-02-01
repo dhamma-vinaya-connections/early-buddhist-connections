@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG209-PALI"
+sutta_code: "THAG209"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG209-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG209]]
 > ◄  [[thag208-pali-pts]] 📜  [[thag210-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ susukhumanipuṇatthadassinā matikusalena nivātavuttinā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag209-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.11-PALI"
+sutta_code: "SNP2.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Rāhulasutta "
+  - "With Rāhula"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.11]]
 > ◄  [[snp2.10-pali-pts]] 📜  [[snp2.12-pali-pts]] ►
 
 # SNP2.11 Rāhulasutta
@@ -40,6 +40,7 @@ RĀHULASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.11]]
+> ◄  [[snp2.10-pali-pts]] 📜  [[snp2.12-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.28-PALI"
+sutta_code: "SN2.28"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nandivisālasutta "
+  - "Nandivisala"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.28-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.28]]
 > ◄  [[sn2.27-pali-sc]] 📜  [[sn2.29-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -31,6 +31,16 @@ evaṁ yātrā bhavissatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.28-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.29]] | [[SA-2.172]], [[SA588]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN1.29]], [[SA-2.172]], [[SA588]], [[PE5]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.28]]
+> ◄  [[sn2.27-pali-sc]] 📜  [[sn2.29-pali-sc]] ►

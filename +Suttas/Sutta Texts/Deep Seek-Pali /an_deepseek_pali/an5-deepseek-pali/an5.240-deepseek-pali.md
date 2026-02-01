@@ -4,10 +4,10 @@ sutta_title:
   - "Anukampa "
   - "Compassionate Mendicant"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.240]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.240]]
 > ◄  [[an5.239-deepseek-pali]] 📜  [[an5.241-deepseek-pali]] ►
 
 # AN 5.240 Dutiyamacchariyasuttaṃ
@@ -43,12 +43,11 @@ The resident monk, dear and pleasing,Very helpful and compassionate;These three 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.240-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 266 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.240]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.240]]
 > ◄  [[an5.239-deepseek-pali]] 📜  [[an5.241-deepseek-pali]] ►

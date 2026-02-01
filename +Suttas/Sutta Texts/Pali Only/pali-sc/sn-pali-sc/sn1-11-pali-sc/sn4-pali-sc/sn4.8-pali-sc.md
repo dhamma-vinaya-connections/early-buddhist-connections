@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.8-PALI"
+sutta_code: "SN4.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nandatisutta "
+  - "He Delights"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.8]]
 > ◄  [[sn4.7-pali-sc]] 📜  [[sn4.9-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -35,6 +35,16 @@ Na hi so socati yo nirūpadhī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.12]] | [[SA-2.142]], [[SA1004]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN1.12]], [[SA-2.142]], [[SA1004]], [[SNP1.2]], [[PE2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.8]]
+> ◄  [[sn4.7-pali-sc]] 📜  [[sn4.9-pali-sc]] ►

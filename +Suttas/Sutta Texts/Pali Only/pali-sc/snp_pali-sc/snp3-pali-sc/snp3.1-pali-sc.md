@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP3.1-PALI"
+sutta_code: "SNP3.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pabbajjāsutta "
+  - "Going Forth"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.1]]
 > ◄  [[]] 📜  [[snp3.2-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -115,6 +115,7 @@ Pabbajjāsuttaṁ paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.1]]
+> ◄  [[]] 📜  [[snp3.2-pali-sc]] ►

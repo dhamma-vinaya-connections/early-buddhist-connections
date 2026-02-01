@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI1-PALI"
+sutta_code: "ITI1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Lobha "
+  - "Greed"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI1]]
 > ◄  [[]] 📜  [[iti2-pali-sri]] ►
 
 # Itivutaka - Ekakanipato - BJT
@@ -672,6 +672,5 @@ End Notes
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti1-) 
 

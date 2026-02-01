@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.60-PALI"
+sutta_code: "AN3.60"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Saṅgārava "
+  - "With Saṅgārava"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.60-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
 > ◄  [[an3.59-pali-sc]] 📜  [[an3.61-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -100,6 +100,16 @@ Brāhmaṇavaggo paṭhamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.60-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA143]] | A i 168 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA143]], [[DN11]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
+> ◄  [[an3.59-pali-sc]] 📜  [[an3.61-pali-sc]] ►

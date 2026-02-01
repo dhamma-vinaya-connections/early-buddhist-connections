@@ -3,11 +3,11 @@ sutta_code: "SN7.15"
 sutta_title:
   - "Mānatthaddhasutta "
   - "Manatthaddha"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
 > ◄  [[sn7.14-sujato-pali]] 📜  [[sn7.16-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -121,8 +121,7 @@ te namasse anuttare"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -133,6 +132,5 @@ te namasse anuttare"ti.
 | [[SN7.14]], [[SA-2.262]], [[SA96]], [[SA-2.258]], [[SA92]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
 > ◄  [[sn7.14-sujato-pali]] 📜  [[sn7.16-sujato-pali]] ►

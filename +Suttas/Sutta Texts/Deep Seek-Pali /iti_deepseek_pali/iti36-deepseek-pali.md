@@ -4,10 +4,10 @@ sutta_title:
   - "Jananakuhana "
   - "Deceit and flattery"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI36]]
 > ◄  [[iti35-deepseek-pali]] 📜  [[iti37-deepseek-pali]] ►
 
 # Iti 36 Somanassasuttaṃ
@@ -37,8 +37,7 @@ Two bhikkhus, the ardent ones; the ardent ones for the sake of others; the arden
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ Two bhikkhus, the ardent ones; the ardent ones for the sake of others; the arden
 | [[AN4.25]], [[ITI35]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI36]]
 > ◄  [[iti35-deepseek-pali]] 📜  [[iti37-deepseek-pali]] ►

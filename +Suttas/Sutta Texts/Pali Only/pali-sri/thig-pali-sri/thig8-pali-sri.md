@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG8-PALI"
+sutta_code: "THIG8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Aṭṭhakanipātavagga "
+  - "Eights Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG8]]
 > ◄  [[thig7-pali-sri]] 📜  [[thig9-pali-sri]] ►
 
 # 8. Attaka-nipata - Pali
@@ -75,6 +75,5 @@ Aṭṭhakanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig8-) 
 

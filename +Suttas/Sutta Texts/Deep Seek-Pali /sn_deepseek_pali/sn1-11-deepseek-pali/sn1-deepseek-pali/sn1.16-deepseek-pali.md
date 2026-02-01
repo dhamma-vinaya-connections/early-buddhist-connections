@@ -4,10 +4,10 @@ sutta_title:
   - "Niddātandīsutta "
   - "Drowsiness and Lethargy"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.16]]
 > ◄  [[sn1.15-deepseek-pali]] 📜  [[sn1.17-deepseek-pali]] ►
 
 # SN 1.16 Niddātandīsuttaṃ
@@ -31,8 +31,7 @@ By dispelling sleepiness, sloth, yawning, discontent, and the stupor after meals
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ By dispelling sleepiness, sloth, yawning, discontent, and the stupor after meals
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.199]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.16]]
 > ◄  [[sn1.15-deepseek-pali]] 📜  [[sn1.17-deepseek-pali]] ►

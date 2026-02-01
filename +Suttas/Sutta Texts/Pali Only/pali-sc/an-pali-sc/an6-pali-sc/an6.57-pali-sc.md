@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.57-PALI"
+sutta_code: "AN6.57"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Chaḷabhijāti "
+  - "Classes Of Rebirth"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.57-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.57]]
 > ◄  [[an6.56-pali-sc]] 📜  [[an6.58-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -67,6 +67,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.57-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 383 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN33]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.57]]
+> ◄  [[an6.56-pali-sc]] 📜  [[an6.58-pali-sc]] ►

@@ -3,11 +3,11 @@ sutta_code: "MN37"
 sutta_title:
   - "Cūḷataṇhāsaṅkhaya Sutta "
   - "Shorter Discourse on the Ending of Craving"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
 > ◄  [[mn36-sujato-pali]] 📜  [[mn38-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -165,8 +165,7 @@ Cūḷataṇhāsaṅkhayasuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn37-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -181,6 +180,5 @@ Cūḷataṇhāsaṅkhayasuttaṁ niṭṭhitaṁ sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN50]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
 > ◄  [[mn36-sujato-pali]] 📜  [[mn38-sujato-pali]] ►

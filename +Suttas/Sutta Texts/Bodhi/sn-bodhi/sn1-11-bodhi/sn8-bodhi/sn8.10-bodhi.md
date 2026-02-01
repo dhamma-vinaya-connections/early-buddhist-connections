@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
 > ◄  [[sn8.9-bodhi]] 📜  [[sn8.11-bodhi]] ►
 
 # SN8.10 Moggallāna
@@ -57,8 +57,7 @@ Then the Venerable Vaṅgīsa extolled the Venerable Mahāmoggallāna in the Ble
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ Then the Venerable Vaṅgīsa extolled the Venerable Mahāmoggallāna in the Ble
 | [[SA-2.227]], [[SA1211]], [[THAG21.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
 > ◄  [[sn8.9-bodhi]] 📜  [[sn8.11-bodhi]] ►

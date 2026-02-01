@@ -3,11 +3,11 @@ sutta_code: "SN5.4"
 sutta_title:
   - "Vijayāsutta "
   - "Vijaya"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
 > ◄  [[sn5.3-sujato-pali]] 📜  [[sn5.5-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -97,8 +97,7 @@ sabbattha vihato tamo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -109,6 +108,5 @@ sabbattha vihato tamo"ti.
 | [[SA-2.220]], [[SA1204]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
 > ◄  [[sn5.3-sujato-pali]] 📜  [[sn5.5-sujato-pali]] ►

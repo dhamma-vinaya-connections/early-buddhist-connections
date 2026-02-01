@@ -3,11 +3,11 @@ sutta_code: "MN45"
 sutta_title:
   - "Cūḷadhammasamādāna Sutta "
   - "Shorter Discourse on Taking Up Practices"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
 > ◄  [[mn44-sujato-pali]] 📜  [[mn46-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -83,8 +83,7 @@ Cūḷadhammasamādānasuttaṁ niṭṭhitaṁ pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn45-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ Cūḷadhammasamādānasuttaṁ niṭṭhitaṁ pañcamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.192]], [[MN25]], [[MN46]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
 > ◄  [[mn44-sujato-pali]] 📜  [[mn46-sujato-pali]] ►

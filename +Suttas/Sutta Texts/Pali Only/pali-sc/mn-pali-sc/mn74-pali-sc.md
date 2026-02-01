@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN74-PALI"
+sutta_code: "MN74"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dīghanakha Sutta "
+  - "With Dīghanakha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN74-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN74]]
 > ◄  [[mn73-pali-sc]] 📜  [[mn75-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -62,6 +62,20 @@ Dīghanakhassa pana paribbājakassa virajaṁ vītamalaṁ dhammacakkhuṁ udap�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn74-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.203]]; [[SA969]] | M i 497 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.203]]; [[SA969]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN111]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN74]]
+> ◄  [[mn73-pali-sc]] 📜  [[mn75-pali-sc]] ►

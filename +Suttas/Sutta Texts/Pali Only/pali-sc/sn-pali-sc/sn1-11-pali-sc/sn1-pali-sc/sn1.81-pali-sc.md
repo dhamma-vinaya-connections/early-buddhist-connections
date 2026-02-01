@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.81-PALI"
+sutta_code: "SN1.81"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Araṇasutta "
+  - "Without Conflict"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.81-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.81]]
 > ◄  [[sn1.80-pali-sc]] 📜  [[]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -74,6 +74,5 @@ Devatāsaṁyuttaṁ samattaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.81-) 
 

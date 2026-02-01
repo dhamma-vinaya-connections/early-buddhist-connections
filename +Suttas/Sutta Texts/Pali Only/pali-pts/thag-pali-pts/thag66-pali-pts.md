@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG66-PALI"
+sutta_code: "THAG66"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG66-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG66]]
 > ◄  [[thag65-pali-pts]] 📜  [[thag67-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Kilesā jhāpitā mayhaṃ, bhavā sabbe samūhatā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag66-) 
 

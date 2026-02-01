@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP176]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[DHP176]]"
+parallels_nikaya: "[[DHP176]]"
+parallels_agama: ""
+parallels_partilal: "[[DHP176]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI24]]  🌐 [[ITI26]] ►
 
@@ -63,8 +59,7 @@ there’s no evil not to be done.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti25-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,8 +74,7 @@ there’s no evil not to be done.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN61]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BITI25%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BITI25%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -91,7 +85,7 @@ there’s no evil not to be done.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI25%5D%5D%22%23mynotes%20-file%3Aiti25-%20-file%3A%22ITI24%22%20-file%3A%22ITI26%22%20-file%3A%22ITI25%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti25

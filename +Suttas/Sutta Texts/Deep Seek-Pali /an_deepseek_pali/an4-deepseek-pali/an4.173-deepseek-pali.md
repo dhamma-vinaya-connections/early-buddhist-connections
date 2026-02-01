@@ -4,10 +4,10 @@ sutta_title:
   - "Mahākoṭṭhita "
   - "With Mahākoṭṭhita"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.173]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.173]]
 > ◄  [[an4.172-deepseek-pali]] 📜  [[an4.174-deepseek-pali]] ►
 
 # AN 4.173 Mahākoṭṭhikasuttaṃ
@@ -63,8 +63,7 @@ Friend, saying, ‘With the complete fading away and cessation of the six sense 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.173-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Friend, saying, ‘With the complete fading away and cessation of the six sense 
 | [[SA249]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.173]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.173]]
 > ◄  [[an4.172-deepseek-pali]] 📜  [[an4.174-deepseek-pali]] ►

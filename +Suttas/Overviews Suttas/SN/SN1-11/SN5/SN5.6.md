@@ -34,18 +34,9 @@ sutta_teacher:
   - "Bhikkhunis"
 sutta_audience:
   - "Mara"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA-2.221]]"
-  - "[[SA1205]]"
-parallels_partilal:
-  - "[[SA-2.221]]"
-  - "[[SA1205]]"
-  - "[[THIG7.3]]"
-  - "[[ITI73]]"
-  - "[[SNP3.12]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA-2.221]], [[SA1205]]"
+parallels_partilal: "[[SA-2.221]], [[SA1205]], [[THIG7.3]], [[ITI73]], [[SNP3.12]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.5]]  🌐 [[SN5.7]] ►
 
@@ -72,8 +63,7 @@ He has attained the end of all deeds
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -88,8 +78,7 @@ He has attained the end of all deeds
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN6.15]], [[SN9.6.]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN5.6%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN5.6%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -100,7 +89,7 @@ He has attained the end of all deeds
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN5.6%5D%5D%22%23mynotes%20-file%3Asn5.6-%20-file%3A%22SN5.5%22%20-file%3A%22SN5.7%22%20-file%3A%22SN5.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn5.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.6

@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-sutta_simile: "river crossing with a boat, like a teacher who has realized the goal"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - ""
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: ""
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.7]]  🌐 [[SNP2.9]] ►
 
@@ -72,8 +68,7 @@ with your doubts unresolved.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -88,8 +83,7 @@ with your doubts unresolved.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN22]], [[SN35.197]], [[SN4.1]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP2.8%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP2.8%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -100,7 +94,7 @@ with your doubts unresolved.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP2.8%5D%5D%22%23mynotes%20-file%3Asnp2.8-%20-file%3A%22SNP2.7%22%20-file%3A%22SNP2.9%22%20-file%3A%22SNP2.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp2.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.8

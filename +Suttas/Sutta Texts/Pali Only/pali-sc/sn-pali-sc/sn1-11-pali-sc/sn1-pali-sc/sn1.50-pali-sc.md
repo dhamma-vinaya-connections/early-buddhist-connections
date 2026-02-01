@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.50-PALI"
+sutta_code: "SN1.50"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ghaṭīkārasutta "
+  - "Ghaṭikara"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.50-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.50]]
 > ◄  [[sn1.49-pali-sc]] 📜  [[sn1.51-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -170,6 +170,20 @@ maccharena ghaṭīkaroti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.50-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN2.24]] | [[SA-2.189]], [[SA595]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN2.24]], [[SA-2.189]], [[SA595]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN143]], [[MN140]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.50]]
+> ◄  [[sn1.49-pali-sc]] 📜  [[sn1.51-pali-sc]] ►

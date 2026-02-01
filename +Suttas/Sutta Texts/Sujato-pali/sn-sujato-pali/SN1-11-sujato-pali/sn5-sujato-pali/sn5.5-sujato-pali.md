@@ -3,11 +3,11 @@ sutta_code: "SN5.5"
 sutta_title:
   - "Uppalavaṇṇāsutta "
   - "Uppalavaṇṇā"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
 > ◄  [[sn5.4-sujato-pali]] 📜  [[sn5.6-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -95,8 +95,7 @@ na taṁ bhāyāmi āvuso"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -107,6 +106,5 @@ na taṁ bhāyāmi āvuso"ti.
 | [[SA-2.217]], [[SA1201]], [[THIG11.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
 > ◄  [[sn5.4-sujato-pali]] 📜  [[sn5.6-sujato-pali]] ►

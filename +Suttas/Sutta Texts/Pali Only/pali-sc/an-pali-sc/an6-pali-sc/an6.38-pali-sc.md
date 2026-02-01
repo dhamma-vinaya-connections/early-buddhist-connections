@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.38-PALI"
+sutta_code: "AN6.38"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Purisindriyañāṇa "
+  - "Faculties Of Persons"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.38-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.38]]
 > ◄  [[an6.37-pali-sc]] 📜  [[an6.39-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -56,6 +56,16 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.38-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA459]] | A iii 402 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA459]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.38]]
+> ◄  [[an6.37-pali-sc]] 📜  [[an6.39-pali-sc]] ►

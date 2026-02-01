@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI21-PALI"
+sutta_code: "ITI21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pasannacitta "
+  - "Confident Mind"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI21]]
 > ◄  [[iti20-pali-pts]] 📜  [[iti22-pali-pts]] ►
 
 ## Itivuttaka
@@ -33,6 +33,16 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||1||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti21-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN1.44]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI21]]
+> ◄  [[iti20-pali-pts]] 📜  [[iti22-pali-pts]] ►

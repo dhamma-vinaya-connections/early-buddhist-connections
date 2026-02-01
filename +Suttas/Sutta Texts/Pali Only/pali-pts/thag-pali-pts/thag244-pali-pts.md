@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG244-PALI"
+sutta_code: "THAG244"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG244-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG244]]
 > ◄  [[thag243-pali-pts]] 📜  [[thag245-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yathā Brahmā tathā eko, yathā devo tathā duve,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag244-) 
 

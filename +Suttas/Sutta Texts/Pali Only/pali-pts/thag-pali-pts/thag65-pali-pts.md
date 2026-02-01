@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG65-PALI"
+sutta_code: "THAG65"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG65-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG65]]
 > ◄  [[thag64-pali-pts]] 📜  [[thag66-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ tassāhaṃ dhammaṃ sutvāna vihāsiṃ santike rato;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag65-) 
 

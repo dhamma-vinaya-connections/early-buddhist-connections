@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.29-PALI"
+sutta_code: "AN3.29"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sammukhībhāva "
+  - "Present"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.29-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.29]]
 > ◄  [[an3.28-pali-sc]] 📜  [[an3.30-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -53,6 +53,16 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.29-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN2.19]], [[SN22.57]] |  | A i 150 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN22.57]], [[AN2.19]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.29]]
+> ◄  [[an3.28-pali-sc]] 📜  [[an3.30-pali-sc]] ►

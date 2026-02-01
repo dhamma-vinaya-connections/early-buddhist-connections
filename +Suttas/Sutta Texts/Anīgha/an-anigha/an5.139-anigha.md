@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.139]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.139]]
 > ◄  [[an5.114-anigha]] 📜  [[an5.151-anigha]] ►
 
 # AN 5.139 - Cannot Endure
@@ -73,8 +73,7 @@ A bhikkhu with these five qualities is worthy of offerings dedicated to the gods
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.139-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -84,6 +83,5 @@ A bhikkhu with these five qualities is worthy of offerings dedicated to the gods
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN2]], [[AN3.94]], [[AN5.139]], [[AN8.13]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.139]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.139]]
 > ◄  [[an5.114-anigha]] 📜  [[an5.151-anigha]] ►

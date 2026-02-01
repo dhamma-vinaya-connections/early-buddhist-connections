@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG541-PALI"
+sutta_code: "THAG541"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG541-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG541]]
 > ◄  [[thag540-pali-pts]] 📜  [[thag542-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ evaṃ me kattukāmassa adhippāyo samijjhatu;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag541-) 
 

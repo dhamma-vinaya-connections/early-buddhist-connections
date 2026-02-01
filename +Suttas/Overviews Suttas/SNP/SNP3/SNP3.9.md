@@ -34,80 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP386]]"
-  - "[[DHP396]]"
-  - "[[DHP397]]"
-  - "[[DHP398]]"
-  - "[[DHP399]]"
-  - "[[DHP400]]"
-  - "[[DHP401]]"
-  - "[[DHP402]]"
-  - "[[DHP403]]"
-  - "[[DHP404]]"
-  - "[[DHP405]]"
-  - "[[DHP406]]"
-  - "[[DHP407]]"
-  - "[[DHP408]]"
-  - "[[DHP409]]"
-  - "[[DHP410]]"
-  - "[[DHP411]]"
-  - "[[DHP412]]"
-  - "[[DHP413]]"
-  - "[[DHP414]]"
-  - "[[DHP415]]"
-  - "[[DHP416]]"
-  - "[[DHP417]]"
-  - "[[DHP418]]"
-  - "[[DHP419]]"
-  - "[[DHP420]]"
-  - "[[DHP421]]"
-  - "[[DHP422]]"
-  - "[[DHP423]]"
-  - "[[MN98]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[MN98]]"
-  - "[[DHP386]]"
-  - "[[SNP5.14]]"
-  - "[[DHP396]]"
-  - "[[DHP397]]"
-  - "[[DHP398]]"
-  - "[[DHP399]]"
-  - "[[DHP400]]"
-  - "[[DHP401]]"
-  - "[[DHP402]]"
-  - "[[DHP403]]"
-  - "[[DHP404]]"
-  - "[[DHP405]]"
-  - "[[DHP406]]"
-  - "[[DHP407]]"
-  - "[[DHP408]]"
-  - "[[DHP409]]"
-  - "[[DHP410]]"
-  - "[[DHP411]]"
-  - "[[DHP412]]"
-  - "[[DHP413]]"
-  - "[[DHP414]]"
-  - "[[DHP415]]"
-  - "[[DHP416]]"
-  - "[[DHP417]]"
-  - "[[DHP418]]"
-  - "[[DHP419]]"
-  - "[[DHP420]]"
-  - "[[DHP421]]"
-  - "[[DHP422]]"
-  - "[[DHP423]]"
-  - "[[AN3.58]]"
-  - "[[AN3.59]]"
-  - "[[ITI99]]"
-  - "[[MN91]]"
-  - "[[SN7.13]]"
-  - "[[SN7.8]]"
-  - "[[THIG4.1]]"
-  - "[[THAG12.2]]"
+parallels_nikaya: "[[DHP386]], [[DHP396]], [[DHP397]], [[DHP398]], [[DHP399]], [[DHP400]], [[DHP401]], [[DHP402]], [[DHP403]], [[DHP404]], [[DHP405]], [[DHP406]], [[DHP407]], [[DHP408]], [[DHP409]], [[DHP410]], [[DHP411]], [[DHP412]], [[DHP413]], [[DHP414]], [[DHP415]], [[DHP416]], [[DHP417]], [[DHP418]], [[DHP419]], [[DHP420]], [[DHP421]], [[DHP422]], [[DHP423]], [[MN98]]"
+parallels_agama: ""
+parallels_partilal: "[[MN98]], [[DHP386]], [[SNP5.14]], [[DHP396]], [[DHP397]], [[DHP398]], [[DHP399]], [[DHP400]], [[DHP401]], [[DHP402]], [[DHP403]], [[DHP404]], [[DHP405]], [[DHP406]], [[DHP407]], [[DHP408]], [[DHP409]], [[DHP410]], [[DHP411]], [[DHP412]], [[DHP413]], [[DHP414]], [[DHP415]], [[DHP416]], [[DHP417]], [[DHP418]], [[DHP419]], [[DHP420]], [[DHP421]], [[DHP422]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[SN7.13]], [[SN7.8]], [[THIG4.1]], [[THAG12.2]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.8]]  🌐 [[SNP3.10]] ►
 
@@ -135,8 +64,7 @@ He’s what I call a brahman.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -151,8 +79,7 @@ He’s what I call a brahman.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN23:2]], [[AN11:10]], [[ANDDHP92]], [[ANDDHP93]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP3.9%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP3.9%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -163,7 +90,7 @@ He’s what I call a brahman.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP3.9%5D%5D%22%23mynotes%20-file%3Asnp3.9-%20-file%3A%22SNP3.8%22%20-file%3A%22SNP3.10%22%20-file%3A%22SNP3.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp3.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.9

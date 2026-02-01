@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.14-PALI"
+sutta_code: "SN4.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Patirūpasutta "
+  - "Suitable"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.14]]
 > ◄  [[sn4.13-pali-sc]] 📜  [[sn4.15-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -40,6 +40,16 @@ vippamutto tathāgato"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1097]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1097]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.14]]
+> ◄  [[sn4.13-pali-sc]] 📜  [[sn4.15-pali-sc]] ►

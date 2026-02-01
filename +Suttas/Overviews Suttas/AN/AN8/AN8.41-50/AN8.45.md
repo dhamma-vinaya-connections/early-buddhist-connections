@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Lay followers"
-sutta_simile: "Kingship of all humans doesn't compare with deities life"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - ""
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: ""
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.44]]  🌐 [[AN8.46]] ►
 
@@ -67,8 +63,7 @@ You should sleep on a low bed
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.45-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,8 +78,7 @@ You should sleep on a low bed
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.70]], [[AN10.46]], [[UD2.10]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN8.45%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN8.45%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -95,7 +89,7 @@ You should sleep on a low bed
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.45%5D%5D%22%23mynotes%20-file%3Aan8.45-%20-file%3A%22AN8.44%22%20-file%3A%22AN8.46%22%20-file%3A%22AN8.45%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.45/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.45

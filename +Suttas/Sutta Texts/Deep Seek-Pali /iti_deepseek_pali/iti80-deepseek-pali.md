@@ -4,10 +4,10 @@ sutta_title:
   - "Vitakka "
   - "Thoughts"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI80]]
 > ◄  [[iti79-deepseek-pali]] 📜  [[iti81-deepseek-pali]] ►
 
 # Iti 80 Sakkārasuttaṃ
@@ -46,9 +46,7 @@ This too is the meaning of what was said by the Blessed One, so I have heard. Se
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti80-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI80]]
 > ◄  [[iti79-deepseek-pali]] 📜  [[iti81-deepseek-pali]] ►

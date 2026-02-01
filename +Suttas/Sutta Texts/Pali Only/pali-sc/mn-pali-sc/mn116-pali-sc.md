@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN116-PALI"
+sutta_code: "MN116"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Isigili Sutta "
+  - "At Isigili"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116]]
 > ◄  [[mn115-pali-sc]] 📜  [[mn117-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -104,6 +104,16 @@ Te sabbasaṅgātigate mahesī,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn116-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA38.7]] | M iii 68 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA38.7]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116]]
+> ◄  [[mn115-pali-sc]] 📜  [[mn117-pali-sc]] ►

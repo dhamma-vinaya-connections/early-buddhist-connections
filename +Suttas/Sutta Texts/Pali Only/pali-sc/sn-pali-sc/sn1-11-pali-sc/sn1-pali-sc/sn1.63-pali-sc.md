@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.63-PALI"
+sutta_code: "SN1.63"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Taṇhāsutta "
+  - "Craving"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.63-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.63]]
 > ◄  [[sn1.62-pali-sc]] 📜  [[sn1.64-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -43,6 +43,5 @@ sabbeva vasamanvagū"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.63-) 
 

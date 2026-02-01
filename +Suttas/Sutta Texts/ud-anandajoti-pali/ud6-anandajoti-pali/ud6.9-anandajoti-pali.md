@@ -3,11 +3,11 @@ sutta_code: "UD6.9"
 sutta_title:
   - "Upati Sutta "
   - "Like Moths to the Flame/Rushing"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.9]]
 > ◄  [[ud6.8-anandajoti-pali]] 📜  [[ud6.10-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -51,9 +51,7 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.9-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.9]]
 > ◄  [[ud6.8-anandajoti-pali]] 📜  [[ud6.10-anandajoti-pali]] ►

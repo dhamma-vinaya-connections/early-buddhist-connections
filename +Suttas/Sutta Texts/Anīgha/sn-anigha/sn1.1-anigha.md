@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
 > ◄  [[]] 📜  [[sn1.20-anigha]] ►
 
 # SN 1.1 - Crossing the Flood
@@ -32,8 +32,7 @@ This is what that deity said, and the teacher approved. Then that deity, knowing
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -48,6 +47,5 @@ This is what that deity said, and the teacher approved. Then that deity, knowing
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.38 AND SN12.64]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
 > ◄  [[]] 📜  [[sn1.20-anigha]] ►

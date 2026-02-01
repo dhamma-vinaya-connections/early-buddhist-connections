@@ -3,11 +3,11 @@ sutta_code: "THAG2"
 sutta_title:
   - "Dukanipātavagga "
   - "Twos Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG2]]
 > ◄  [[thag1-sujato-pali]] 📜  [[thag3-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -1213,6 +1213,5 @@ patto me āsavakkhayo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag2-) 
 

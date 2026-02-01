@@ -3,11 +3,11 @@ sutta_code: "SNP4.3"
 sutta_title:
   - "Duṭṭhaṭṭhakasutta "
   - "Eight on Malice"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.3]]
 > ◄  [[snp4.2-sujato-pali]] 📜  [[snp4.4-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -115,9 +115,7 @@ Duṭṭhaṭṭhakasuttaṁ tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.3-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.3]]
 > ◄  [[snp4.2-sujato-pali]] 📜  [[snp4.4-sujato-pali]] ►

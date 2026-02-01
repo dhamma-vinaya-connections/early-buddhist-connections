@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.8-PALI"
+sutta_code: "SNP2.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dhamma (nāvā) "
+  - "Boat"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.8]]
 > ◄  [[snp2.7-pali-sc]] 📜  [[snp2.9-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -61,6 +61,7 @@ Nāvāsuttaṁ aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.8]]
+> ◄  [[snp2.7-pali-sc]] 📜  [[snp2.9-pali-sc]] ►

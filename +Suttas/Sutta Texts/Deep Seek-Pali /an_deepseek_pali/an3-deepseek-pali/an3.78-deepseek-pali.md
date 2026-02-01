@@ -4,10 +4,10 @@ sutta_title:
   - "Sīlabbata "
   - "Precepts And Observances"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.78]]
 > ◄  [[an3.77-deepseek-pali]] 📜  [[an3.79-deepseek-pali]] ►
 
 # AN 3.78 Sīlabbatasuttaṃ
@@ -31,8 +31,7 @@ Then the Venerable Ānanda, thinking, “The Teacher has assented to me,” rose
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.78-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -42,6 +41,5 @@ Then the Venerable Ānanda, thinking, “The Teacher has assented to me,” rose
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[AN3.72]], [[AN4.42]], [[AN4.192.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.78]]
 > ◄  [[an3.77-deepseek-pali]] 📜  [[an3.79-deepseek-pali]] ►

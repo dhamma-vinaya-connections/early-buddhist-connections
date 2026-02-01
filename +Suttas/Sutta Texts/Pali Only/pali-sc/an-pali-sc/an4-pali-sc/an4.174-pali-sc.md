@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.174-PALI"
+sutta_code: "AN4.174"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahākoṭṭhita "
+  - "With Mahākoṭṭhita"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.174-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.174]]
 > ◄  [[an4.173-pali-sc]] 📜  [[an4.175-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -48,6 +48,11 @@ Catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.174-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 162 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.174]]
+> ◄  [[an4.173-pali-sc]] 📜  [[an4.175-pali-sc]] ►

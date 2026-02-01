@@ -3,11 +3,11 @@ sutta_code: "MN107"
 sutta_title:
   - "Gaṇakamoggallāna Sutta "
   - "With Moggallāna the Accountant"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN107]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN107]]
 > ◄  [[mn106-sujato-pali]] 📜  [[mn108-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -135,8 +135,7 @@ Gaṇakamoggallānasuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn107-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -151,6 +150,5 @@ Gaṇakamoggallānasuttaṁ niṭṭhitaṁ sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]], [[AN9.64]]-65, [[SN47.4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN107]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN107]]
 > ◄  [[mn106-sujato-pali]] 📜  [[mn108-sujato-pali]] ►

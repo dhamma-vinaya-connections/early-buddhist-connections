@@ -4,10 +4,10 @@ sutta_title:
   - "Saṁghabheda "
   - "Schism in Sangha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
 > ◄  [[iti17-deepseek-pali]] 📜  [[iti19-deepseek-pali]] ►
 
 # Iti 18 Saṅghasāmaggīsuttaṃ
@@ -27,8 +27,7 @@ This too was said by the Blessed One, so I heard. Ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ This too was said by the Blessed One, so I heard. Ninth.
 | [[AN10.39]], [[PLI-TV-KD17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
 > ◄  [[iti17-deepseek-pali]] 📜  [[iti19-deepseek-pali]] ►

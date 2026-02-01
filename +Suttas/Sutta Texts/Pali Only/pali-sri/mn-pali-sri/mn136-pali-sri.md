@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN136-PALI"
+sutta_code: "MN136"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahākammavibhaṅga Sutta "
+  - "Longer Analysis of Deeds"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
 > ◄  [[mn135-pali-sri]] 📜  [[mn137-pali-sri]] ►
 
 # 136. Mahakammavibhanga - Pali
@@ -166,6 +166,20 @@ Mahākammavibhaṅga suttaṃ jaṭṭhaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn136-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA171]] | M iii 207 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA171]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN41]]; [[MN135]]; [[SN42.13]]; [[AN3.61]]; [[AN4.77]]; [[AN6.63]]; [[AN8.40.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
+> ◄  [[mn135-pali-sri]] 📜  [[mn137-pali-sri]] ►

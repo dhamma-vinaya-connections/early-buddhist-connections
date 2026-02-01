@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP90-PALI"
+sutta_code: "DHP90"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP90-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP90]]
 > ◄  [[dhp89-pali-pts]] 📜  [[dhp91-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ uyyuñjanti satīmanto na nikete ramanti te /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp90-) 
 

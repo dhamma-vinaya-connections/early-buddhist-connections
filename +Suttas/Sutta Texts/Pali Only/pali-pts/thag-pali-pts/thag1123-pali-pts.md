@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1123-PALI"
+sutta_code: "THAG1123"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1123-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1123]]
 > ◄  [[thag1122-pali-pts]] 📜  [[thag1124-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ _PAÑÑĀSA-NIPĀTO. 101_
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1123-) 
 

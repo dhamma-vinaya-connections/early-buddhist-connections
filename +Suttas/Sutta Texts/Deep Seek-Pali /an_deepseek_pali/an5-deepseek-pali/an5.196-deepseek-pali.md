@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsupina "
   - "Great Dreams"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.196]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.196]]
 > ◄  [[an5.195-deepseek-pali]] 📜  [[an5.197-deepseek-pali]] ►
 
 # AN 5.196 Mahāsupinasuttaṃ
@@ -63,12 +63,11 @@ Bhikkhus, these five great dreams appeared to the Tathāgata, the Arahant, the P
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.196-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 240 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.196]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.196]]
 > ◄  [[an5.195-deepseek-pali]] 📜  [[an5.197-deepseek-pali]] ►

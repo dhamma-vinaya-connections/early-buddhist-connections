@@ -3,11 +3,11 @@ sutta_code: "UD1.9"
 sutta_title:
   - "Jatila Sutta "
   - "The Jatila Ascetics"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.9]]
 > ◄  [[ud1.8-anandajoti-pali]] 📜  [[ud1.10-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -45,8 +45,7 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ Navamaṁ.
 | [[DHP393]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.9]]
 > ◄  [[ud1.8-anandajoti-pali]] 📜  [[ud1.10-anandajoti-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
 > ◄  [[mn74-bodhi]] 📜  [[mn76-bodhi]] ►
 
 # MN75 Māgandiya Sutta - To Māgandiya
@@ -145,8 +145,7 @@ Now it has gradually become current among ordinary people. And although this bod
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn75-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -157,6 +156,5 @@ Now it has gradually become current among ordinary people. And although this bod
 | [[MA153]]; [[DHP204]]; [[MN75]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
 > ◄  [[mn74-bodhi]] 📜  [[mn76-bodhi]] ►

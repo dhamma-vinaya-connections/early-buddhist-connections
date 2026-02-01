@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.75-PALI"
+sutta_code: "AN5.75"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Yodhajiva "
+  - "Warriors 1st"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.75-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
 > ◄  [[an5.74-pali-pts]] 📜  [[an5.76-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Pañc'ime bhikkhave yodhājīvā santo saṃvijjamānā lokasmiṃ. Katame pañc
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.75-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA33.3]] | A iii 89 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA33.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
+> ◄  [[an5.74-pali-pts]] 📜  [[an5.76-pali-pts]] ►

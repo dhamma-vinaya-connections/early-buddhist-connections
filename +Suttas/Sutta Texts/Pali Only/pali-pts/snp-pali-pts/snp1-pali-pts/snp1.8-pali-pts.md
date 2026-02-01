@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.8-PALI"
+sutta_code: "SNP1.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Metta "
+  - "Love"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.8]]
 > ◄  [[snp1.7-pali-pts]] 📜  [[snp1.9-pali-pts]] ►
 
 # SNP1.8 Mettasutta
@@ -63,6 +63,7 @@ Mettasuttaṃ niṭṭhitaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.8]]
+> ◄  [[snp1.7-pali-pts]] 📜  [[snp1.9-pali-pts]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Pasūrasutta "
   - "To Pasūra on Debate"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
 > ◄  [[snp4.7-deepseek-pali]] 📜  [[snp4.9-deepseek-pali]] ►
 
 # Snp 4.8 Pasūrasuttaṃ
@@ -89,9 +89,7 @@ The Discourse to Pasūra, the eighth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.8-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
 > ◄  [[snp4.7-deepseek-pali]] 📜  [[snp4.9-deepseek-pali]] ►

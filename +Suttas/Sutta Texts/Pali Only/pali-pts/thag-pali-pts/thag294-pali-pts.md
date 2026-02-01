@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG294-PALI"
+sutta_code: "THAG294"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG294-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG294]]
 > ◄  [[thag293-pali-pts]] 📜  [[thag295-pali-pts]] ►
 
 ## Theragāthā
@@ -24,6 +24,5 @@ Ubhayen'; eva sampanno Rāhulabhaddo 'ti maṃ vidu,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag294-) 
 

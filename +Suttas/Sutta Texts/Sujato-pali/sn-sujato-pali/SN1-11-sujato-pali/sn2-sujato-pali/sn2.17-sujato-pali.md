@@ -3,11 +3,11 @@ sutta_code: "SN2.17"
 sutta_title:
   - "Subrahmasutta "
   - "Subrahma"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
 > ◄  [[sn2.16-sujato-pali]] 📜  [[sn2.18-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -59,8 +59,7 @@ sotthiṁ passāmi pāṇinan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ sotthiṁ passāmi pāṇinan"ti.
 | [[SA-2.181]], [[SA596]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
 > ◄  [[sn2.16-sujato-pali]] 📜  [[sn2.18-sujato-pali]] ►

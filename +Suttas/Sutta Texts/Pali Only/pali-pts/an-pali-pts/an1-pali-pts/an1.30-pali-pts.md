@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.30-PALI"
+sutta_code: "AN1.30"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Akammaniya "
+  - "Useless"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.30-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.30]]
 > ◄  [[an1.29-pali-pts]] 📜  [[an1.31-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Akammanīya-vaggo tatiyo.2
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.30-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA11.6]] | A i 6 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA11.6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.30]]
+> ◄  [[an1.29-pali-pts]] 📜  [[an1.31-pali-pts]] ►

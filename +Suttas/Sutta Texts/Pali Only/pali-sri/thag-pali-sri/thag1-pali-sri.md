@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1-PALI"
+sutta_code: "THAG1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Ekakanipātavagga "
+  - "Ones Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG1]]
 > ◄  [[]] 📜  [[thag2-pali-sri]] ►
 
 # 1. Ekaka-nipata - Pali
@@ -1994,6 +1994,5 @@ Ekakanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1-) 
 

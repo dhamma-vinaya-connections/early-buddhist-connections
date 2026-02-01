@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
 > ◄  [[mn125-thanissaro]] 📜  [[mn128-thanissaro]] ►
 
 ## MN126 To Bhūmija
@@ -80,8 +80,7 @@ That is what the Blessed One said. Gratified, Ven. Bhūmija delighted in the Ble
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn126-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -96,6 +95,5 @@ That is what the Blessed One said. Gratified, Ven. Bhūmija delighted in the Ble
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN125]], [[SN12.25]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
 > ◄  [[mn125-thanissaro]] 📜  [[mn128-thanissaro]] ►

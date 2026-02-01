@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI48-PALI"
+sutta_code: "ITI48"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Āpāyika "
+  - "Bound for loss"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI48-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI48]]
 > ◄  [[iti47-pali-sc]] 📜  [[iti49-pali-sc]] ►
 
 # Iti 48. Diṭṭhigatasuttaṃ
@@ -51,6 +51,16 @@ Paṭhamavaggo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti48-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP306]], [[DHP307]], [[DHP308]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP307]], [[ITI91]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI48]]
+> ◄  [[iti47-pali-sc]] 📜  [[iti49-pali-sc]] ►

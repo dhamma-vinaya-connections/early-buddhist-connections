@@ -4,10 +4,10 @@ sutta_title:
   - "Devasadda "
   - "Joyous Utterances"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI82]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI82]]
 > ◄  [[iti81-deepseek-pali]] 📜  [[iti83-deepseek-pali]] ►
 
 # Iti 82 Pañcapubbanimittasuttaṃ
@@ -43,6 +43,5 @@ This matter, too, was spoken by the Blessed One: thus I have heard. The fourth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti82-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.105-PALI"
+sutta_code: "AN3.105"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Assāda "
+  - "Gratification"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.105-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.105]]
 > ◄  [[an3.104-pali-pts]] 📜  [[an3.107-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,11 @@ Ye ca kho keci bhikkhave samaṇā vā brāhmaṇā vā lokassa assādañ ca ass
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.105-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 260 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.105]]
+> ◄  [[an3.104-pali-pts]] 📜  [[an3.107-pali-pts]] ►

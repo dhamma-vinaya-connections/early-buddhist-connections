@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
 > ◄  [[snp4.8-thanissaro]] 📜  [[snp4.10-thanissaro]] ►
 
 # 4:9  To Māgandiya
@@ -279,8 +279,7 @@ vv. 835–847
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -295,6 +294,5 @@ vv. 835–847
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN9]], [[MN63]], [[MN72]], [[AN4.194]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
 > ◄  [[snp4.8-thanissaro]] 📜  [[snp4.10-thanissaro]] ►

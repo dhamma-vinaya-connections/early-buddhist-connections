@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1214-PALI"
+sutta_code: "THAG1214"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1214-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1214]]
 > ◄  [[thag1213-pali-pts]] 📜  [[thag1215-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yam idha pathaviñ ca vihāsaṃ rūpagataṃ jagatogandhaṃ kiñci,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1214-) 
 

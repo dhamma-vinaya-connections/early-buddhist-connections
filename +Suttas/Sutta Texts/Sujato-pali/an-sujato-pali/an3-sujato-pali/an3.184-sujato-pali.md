@@ -3,11 +3,11 @@ sutta_code: "AN3.184"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.184]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.184]]
 > ◄  [[an3.183-sujato-pali]] 📜  [[]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -33,6 +33,5 @@ The Book of the Threes is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.184-) 
 

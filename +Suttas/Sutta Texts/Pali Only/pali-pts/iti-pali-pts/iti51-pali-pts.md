@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI51-PALI"
+sutta_code: "ITI51"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dhātu "
+  - "Elements"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI51-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI51]]
 > ◄  [[iti50-pali-pts]] 📜  [[iti52-pali-pts]] ►
 
 ## Itivuttaka
@@ -31,6 +31,7 @@ Aya-pi attho vutto bhagavatā iti me sutan-ti ||2||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti51-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI51]]
+> ◄  [[iti50-pali-pts]] 📜  [[iti52-pali-pts]] ►

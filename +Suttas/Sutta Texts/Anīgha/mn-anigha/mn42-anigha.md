@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN42]]
 > ◄  [[mn41-anigha]] 📜  [[mn43-anigha]] ►
 
 # MN 42 - The People of Verañjā
@@ -32,8 +32,7 @@ Now at that time the brahmins and householders of Verañjā were residing in Sā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn42-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -48,6 +47,5 @@ Now at that time the brahmins and householders of Verañjā were residing in Sā
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN9]]; [[MN135]]; [[AN3.71]]; [[AN4.123-126]]; [[AN7.49]]; [[AN8.54]]; [[AN10.176.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN42]]
 > ◄  [[mn41-anigha]] 📜  [[mn43-anigha]] ►

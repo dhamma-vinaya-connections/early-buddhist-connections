@@ -4,10 +4,10 @@ sutta_title:
   - "Puññābhisanda "
   - "Overflowing Merit 2nd"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.52]]
 > ◄  [[an4.51-deepseek-pali]] 📜  [[an4.53-deepseek-pali]] ►
 
 # AN 4.52 Dutiyapuññābhisandasuttaṃ
@@ -47,8 +47,7 @@ Therefore, the wise should cultivate faith, virtue, confidence, and vision of th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.52-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Therefore, the wise should cultivate faith, virtue, confidence, and vision of th
 | [[AN5.47]], [[SN11.14]], [[SN55.26]], [[THAG8.2]], [[PE3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.52]]
 > ◄  [[an4.51-deepseek-pali]] 📜  [[an4.53-deepseek-pali]] ►

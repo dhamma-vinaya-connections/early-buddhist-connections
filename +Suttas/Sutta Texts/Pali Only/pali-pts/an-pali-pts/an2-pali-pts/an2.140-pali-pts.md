@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.140-PALI"
+sutta_code: "AN2.140"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Āyācana "
+  - "Aspiration"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.140-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.140]]
 > ◄  [[an2.139-pali-pts]] 📜  [[an2.141-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,11 @@ Ime kho bhikkhave dve dhammā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.140-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 91 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.140]]
+> ◄  [[an2.139-pali-pts]] 📜  [[an2.141-pali-pts]] ►

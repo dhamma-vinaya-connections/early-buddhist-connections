@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.13-PALI"
+sutta_code: "SN9.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pākatindriyasutta "
+  - "Loose in Sense Faculties"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
 > ◄  [[sn9.12-pali-sc]] 📜  [[sn9.14-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -47,6 +47,16 @@ namo tesaṁ karomahan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN2.25]] | [[SA-2.363]], [[SA1343]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN2.25]], [[SA-2.363]], [[SA1343]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
+> ◄  [[sn9.12-pali-sc]] 📜  [[sn9.14-pali-sc]] ►

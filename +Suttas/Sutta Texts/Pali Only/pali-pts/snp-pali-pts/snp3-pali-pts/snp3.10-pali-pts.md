@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP3.10-PALI"
+sutta_code: "SNP3.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kokālikasutta "
+  - "To  Kokāliya on the Results of Slander"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.10]]
 > ◄  [[snp3.9-pali-pts]] 📜  [[snp3.11-pali-pts]] ►
 
 # SNP3.10 Kokāliyasutta
@@ -132,6 +132,20 @@ KOKĀLIYASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP125]], [[DHP306]], [[SN6.10]], [[SN6.9]] | [[EA21.5]], [[SA-2.276]], [[SA1278]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP125]], [[JA367]], [[SN1.22]], [[SN7.4]], [[DHP306]], [[ITI48]], [[UD4.8]], [[SN6.9]], [[AN10.89]], [[SN6.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN45]], [[MN97]], [[MN130]], [[MN135]], [[MN136]], [[SN35.135]], [[SN42.8]], [[AN3.101]], [[AN4.111]], [[AN5.129]], [[AN8:7-8]], [[AN8.40]], [[DHP306]], [[DHP307]], [[DHP308]], [[DHP309]], [[DHP310]], [[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP315]], [[DHP316]], [[DHP317]], [[DHP318]], [[DHP319]], [[ITI18]], [[ITI20]], [[ITI30]], [[ITI32]], [[ITI64]], [[ITI70]], [[ITI81]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.10]]
+> ◄  [[snp3.9-pali-pts]] 📜  [[snp3.11-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI92-PALI"
+sutta_code: "ITI92"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "求解 "
+  - "Investigating"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI92-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI92]]
 > ◄  [[iti91-pali-sc]] 📜  [[iti93-pali-sc]] ►
 
 # Iti 92. Aggisuttaṃ
@@ -41,6 +41,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti92-) 
 

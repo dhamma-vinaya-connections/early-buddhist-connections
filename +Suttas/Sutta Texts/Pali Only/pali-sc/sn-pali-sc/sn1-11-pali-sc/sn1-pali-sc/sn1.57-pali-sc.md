@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.57-PALI"
+sutta_code: "SN1.57"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Tatiyajanasutta "
+  - "Produces (3)"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.57-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.57]]
 > ◄  [[sn1.56-pali-sc]] 📜  [[sn1.58-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -43,6 +43,16 @@ kammaṁ tassa parāyanan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.57-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.244]], [[SA1017]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.244]], [[SA1017]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.57]]
+> ◄  [[sn1.56-pali-sc]] 📜  [[sn1.58-pali-sc]] ►

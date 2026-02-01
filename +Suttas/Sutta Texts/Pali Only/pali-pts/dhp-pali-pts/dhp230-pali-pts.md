@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP230-PALI"
+sutta_code: "DHP230"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP230-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP230]]
 > ◄  [[dhp229-pali-pts]] 📜  [[dhp231-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ kāyappakopaṃ rakkheyya kāyena saṃvuto siyā, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp230-) 
 

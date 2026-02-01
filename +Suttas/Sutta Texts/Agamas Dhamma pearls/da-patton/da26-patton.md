@@ -7,16 +7,11 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA26]]
 > ◄  [[da25-patton]] 📜  [[da27-patton]] ►
 
-# [Dharma Pearls](../../index-2.html)
-
-## Translating Classical Buddhism to Modern English
-
-[What’s New](../../whats-new.html) [Translations](../../translations.html) [Resources](../../resources.html) [About](../../about.html)
-
-# [The Long Discourses](index.html)
+# The Long Discourses
+Translated by Charles Patton
 
 ## Part III
 
@@ -259,8 +254,7 @@ He answered, “He does.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -271,6 +265,5 @@ He answered, “He does.”
 | [[THAG6.5]], [[JA475]], [[JA516]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA26]]
 > ◄  [[da25-patton]] 📜  [[da27-patton]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Todeyyamāṇavapucchā "
   - "Questions of the Student Todeyya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.10]]
 > ◄  [[snp5.9-deepseek-pali]] 📜  [[snp5.11-deepseek-pali]] ►
 
 # Snp 5.10 Todeyyamāṇavapucchā
@@ -53,6 +53,5 @@ The The Questions of the Young Man Todeyya, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.10-) 
 

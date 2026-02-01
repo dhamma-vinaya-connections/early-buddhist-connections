@@ -34,13 +34,9 @@ sutta_teacher:
   - "Bhikkhunis"
 sutta_audience:
   - "Bhikkhunis"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - ""
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: ""
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG4]]  🌐 [[THIG6]] ►
 
@@ -72,8 +68,7 @@ there is no time for me to be careless.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,8 +80,7 @@ there is no time for me to be careless.”
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BTHIG5%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BTHIG5%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -97,7 +91,7 @@ there is no time for me to be careless.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BTHIG5%5D%5D%22%23mynotes%20-file%3Athig5-%20-file%3A%22THIG4%22%20-file%3A%22THIG6%22%20-file%3A%22THIG5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/thig5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig5

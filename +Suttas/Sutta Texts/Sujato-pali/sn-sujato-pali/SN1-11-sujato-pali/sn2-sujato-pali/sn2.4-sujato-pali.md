@@ -3,11 +3,11 @@ sutta_code: "SN2.4"
 sutta_title:
   - "Māgadhasutta "
   - "Magadha"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
 > ◄  [[sn2.3-sujato-pali]] 📜  [[sn2.5-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -65,8 +65,7 @@ esā ābhā anuttarā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,6 +76,5 @@ esā ābhā anuttarā"ti.
 | [[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP387]], [[SN21.11]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
 > ◄  [[sn2.3-sujato-pali]] 📜  [[sn2.5-sujato-pali]] ►

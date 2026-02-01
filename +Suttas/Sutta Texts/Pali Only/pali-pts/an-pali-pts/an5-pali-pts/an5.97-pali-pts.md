@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.97-PALI"
+sutta_code: "AN5.97"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sutadhara "
+  - "Remembering What You’ve Learned"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.97-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.97]]
 > ◄  [[an5.96-pali-pts]] 📜  [[an5.98-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Katamehi pañcahi?
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.97-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA801]] | A iii 120 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA801]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.97]]
+> ◄  [[an5.96-pali-pts]] 📜  [[an5.98-pali-pts]] ►

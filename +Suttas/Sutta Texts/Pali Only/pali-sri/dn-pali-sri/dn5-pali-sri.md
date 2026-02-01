@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN5-PALI"
+sutta_code: "DN5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Kūṭadanta Sutta "
+  - "With Kūṭadanta"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN5]]
 > ◄  [[dn4-pali-sri]] 📜  [[dn6-pali-sri]] ►
 
 # 05 Kutadanta Sutta - Pali
@@ -604,6 +604,16 @@ Next Sutta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA23]] | D i 127 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA23]], [[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]], [[MN95]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN5]]
+> ◄  [[dn4-pali-sri]] 📜  [[dn6-pali-sri]] ►

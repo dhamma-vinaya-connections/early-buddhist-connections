@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN71-PALI"
+sutta_code: "MN71"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Tevijjavaccha Sutta "
+  - "Vacchagotta on the Three Knowledges"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-pali-sri]] 📜  [[mn72-pali-sri]] ►
 
 # 71. Tevijjavacchagotta Sutta - Pali
@@ -68,6 +68,16 @@ Tevijjavacchagotta suttaṃ paṭhamaṃ.3.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn71-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M i 481 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN14]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
+> ◄  [[mn70-pali-sri]] 📜  [[mn72-pali-sri]] ►

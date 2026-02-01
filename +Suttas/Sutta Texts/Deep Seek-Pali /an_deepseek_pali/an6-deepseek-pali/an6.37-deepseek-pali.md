@@ -4,10 +4,10 @@ sutta_title:
   - "Chaḷaṅgadāna "
   - "Gift With Six Factors"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.37]]
 > ◄  [[an6.36-deepseek-pali]] 📜  [[an6.38-deepseek-pali]] ►
 
 # AN 6.37 Chaḷaṅgadānasuttaṃ
@@ -55,8 +55,7 @@ Having made such a sacrifice, the wise one, faithful, with a mind released, is r
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.37-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Having made such a sacrifice, the wise one, faithful, with a mind released, is r
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.35]], [[AN8.37]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.37]]
 > ◄  [[an6.36-deepseek-pali]] 📜  [[an6.38-deepseek-pali]] ►

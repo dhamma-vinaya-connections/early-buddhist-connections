@@ -3,11 +3,11 @@ sutta_code: "SN7.14"
 sutta_title:
   - "Mahāsālasutta "
   - "The Affluent One"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
 > ◄  [[sn7.13-sujato-pali]] 📜  [[sn7.15-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -144,8 +144,7 @@ Atha kho so brāhmaṇamahāsālo bhagavantaṁ etadavoca: "Abhikkantaṁ, bho g
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -156,6 +155,5 @@ Atha kho so brāhmaṇamahāsālo bhagavantaṁ etadavoca: "Abhikkantaṁ, bho g
 | [[SA-2.262]], [[SA96]], [[SN7.15]], [[SA-2.258]], [[SA92]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
 > ◄  [[sn7.13-sujato-pali]] 📜  [[sn7.15-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI90-PALI"
+sutta_code: "ITI90"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "牛角婆羅林 "
+  - "Discourse in the Gosiṅga Sāla Forest 1"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI90-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI90]]
 > ◄  [[iti89-pali-sc]] 📜  [[iti91-pali-sc]] ►
 
 # Iti 90. Jīvikasuttaṃ
@@ -29,6 +29,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti90-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.34]] | [[EA21.1]], [[SA902-904]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.34]], [[EA21.1]], [[AN5.32]], [[SA902-904]], [[SN45.139]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.52]], [[AN7.56]], [[AN10.92]], [[DHP188]], [[DHP189]], [[DHP190]], [[DHP191]], [[DHP192]], [[ITI112]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI90]]
+> ◄  [[iti89-pali-sc]] 📜  [[iti91-pali-sc]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Byasana "
   - "Loss"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.130]]
 > ◄  [[an5.129-deepseek-pali]] 📜  [[an5.131-deepseek-pali]] ►
 
 # AN 5.130 Byasanasuttaṃ
@@ -43,8 +43,7 @@ The Sick One, Well-Established Mindfulness, Two Attendants, Two Short-Lived Ones
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.130-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ The Sick One, Well-Established Mindfulness, Two Attendants, Two Short-Lived Ones
 | [[DN33]], [[PLI-TV-PVR7]], [[PLI-TV-PVR17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.130]]
 > ◄  [[an5.129-deepseek-pali]] 📜  [[an5.131-deepseek-pali]] ►

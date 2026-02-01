@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA125]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA125]]
 > ◄  [[ma124-bdk]] 📜  [[ma126-bdk]] ►
 
 ### 125. The Discourse on Poverty
@@ -57,8 +57,7 @@ This bondage is the most profound suffering. A “hero,” [however,] is free fr
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma125-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ This bondage is the most profound suffering. A “hero,” [however,] is free fr
 | [[DHP145]], [[MN86]], [[THAG1.19]], [[THAG16.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA125]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA125]]
 > ◄  [[ma124-bdk]] 📜  [[ma126-bdk]] ►

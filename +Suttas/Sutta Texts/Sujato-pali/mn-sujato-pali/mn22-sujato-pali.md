@@ -3,11 +3,11 @@ sutta_code: "MN22"
 sutta_title:
   - "Alagaddūpama Sutta "
   - "Simile of the Snake"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
 > ◄  [[mn21-sujato-pali]] 📜  [[mn23-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -537,8 +537,7 @@ Alagaddūpamasuttaṁ niṭṭhitaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -553,6 +552,5 @@ Alagaddūpamasuttaṁ niṭṭhitaṁ dutiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.23]], [[MN63]], [[SN56.31]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
 > ◄  [[mn21-sujato-pali]] 📜  [[mn23-sujato-pali]] ►

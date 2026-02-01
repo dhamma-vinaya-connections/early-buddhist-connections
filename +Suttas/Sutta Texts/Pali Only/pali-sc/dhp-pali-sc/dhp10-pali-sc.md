@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP10-PALI"
+sutta_code: "DHP10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Daṇḍavagga "
+  - "Weapons"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP10]]
 > ◄  [[dhp9-pali-sc]] 📜  [[dhp11-pali-sc]] ►
 
 # DANDA VAGGA
@@ -85,6 +85,16 @@ Udakañhi nayanti nettikā, usukārā namayanti tejanaṃ; dāruṃ namayanti ta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 37 |
+> > [!check]- Partial parallels 
+> > 
+| [[JA221]], [[JA514]], [[THAG17.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP10]]
+> ◄  [[dhp9-pali-sc]] 📜  [[dhp11-pali-sc]] ►

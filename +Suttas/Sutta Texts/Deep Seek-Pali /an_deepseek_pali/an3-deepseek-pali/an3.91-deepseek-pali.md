@@ -4,10 +4,10 @@ sutta_title:
   - "Saṅkavā "
   - "At Paṅkadhā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.91]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.91]]
 > ◄  [[an3.90-deepseek-pali]] 📜  [[an3.92-deepseek-pali]] ►
 
 # AN 3.91 Saṅkavāsuttaṃ
@@ -67,8 +67,7 @@ The ascetic, the donkey, the field, the Vajjian, and the learner; three training
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.91-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ The ascetic, the donkey, the field, the Vajjian, and the learner; three training
 | [[SA830-831]], [[AN3.84]], [[SA829]], [[SN54.10]], [[SA813]], [[AN10.83]], [[SA966]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.91]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.91]]
 > ◄  [[an3.90-deepseek-pali]] 📜  [[an3.92-deepseek-pali]] ►

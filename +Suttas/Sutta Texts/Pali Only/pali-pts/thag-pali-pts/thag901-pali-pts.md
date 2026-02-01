@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG901-PALI"
+sutta_code: "THAG901"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG901-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG901]]
 > ◄  [[thag900-pali-pts]] 📜  [[thag902-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yadā me ahu saṃkappo tato uttari desayi,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag901-) 
 

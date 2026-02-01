@@ -3,11 +3,11 @@ sutta_code: "AN7.617"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.617]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.617]]
 > ◄  [[an7.616-sujato-pali]] 📜  [[an7.618-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -31,6 +31,5 @@ Asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhir
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.617-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG869-PALI"
+sutta_code: "THAG869"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG869-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG869]]
 > ◄  [[thag868-pali-pts]] 📜  [[thag870-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ buddho ca kho kāruṇiko mahesi yo satthā lokassa sadevakassa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag869-) 
 

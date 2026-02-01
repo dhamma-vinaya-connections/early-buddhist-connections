@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
 > ◄  [[mn66-bodhi]] 📜  [[mn68-bodhi]] ►
 
 # MN67 Cātumā Sutta - At Cātumā
@@ -93,8 +93,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn67-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -105,6 +104,5 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 | [[SN22.80]]; [[EA45.2]]; [[AN4.122]]; [[UD3.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
 > ◄  [[mn66-bodhi]] 📜  [[mn68-bodhi]] ►

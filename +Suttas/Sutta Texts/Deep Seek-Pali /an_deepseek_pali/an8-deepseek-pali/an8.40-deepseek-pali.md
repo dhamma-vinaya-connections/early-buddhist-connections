@@ -4,10 +4,10 @@ sutta_title:
   - "Duccaritavipāka "
   - "Misconduct Results"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.40]]
 > ◄  [[an8.39-deepseek-pali]] 📜  [[an8.41-deepseek-pali]] ►
 
 # AN 8.40 Duccaritavipākasuttaṃ
@@ -67,12 +67,11 @@ Two gifts: cloth and land; births due to giving; two deeds of good people: outfl
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.40-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 247 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.40]]
 > ◄  [[an8.39-deepseek-pali]] 📜  [[an8.41-deepseek-pali]] ►

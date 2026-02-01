@@ -4,10 +4,10 @@ sutta_title:
   - "Brāhmaṇadhammayāga "
   - "Dhamma Offering"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI100]]
 > ◄  [[iti99-deepseek-pali]] 📜  [[iti101-deepseek-pali]] ►
 
 # Iti 100 Āsavakkhayasuttaṃ
@@ -31,8 +31,7 @@ This too is the meaning that was spoken by the Blessed One, so I have heard. Thi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti100-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ This too is the meaning that was spoken by the Blessed One, so I have heard. Thi
 | [[MN92]], [[SNP3.7]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI100]]
 > ◄  [[iti99-deepseek-pali]] 📜  [[iti101-deepseek-pali]] ►

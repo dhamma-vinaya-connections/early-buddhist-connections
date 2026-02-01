@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.7-PALI"
+sutta_code: "SN2.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pañcālacaṇḍasutta "
+  - "Pañcalacaṇḍa"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.7]]
 > ◄  [[sn2.6-pali-pts]] 📜  [[sn2.8-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -31,6 +31,16 @@ lokāmisaṃ pajahe santipekkho ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.304]], [[SA1305]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN9.42]], [[SA-2.304]], [[SA1305]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.7]]
+> ◄  [[sn2.6-pali-pts]] 📜  [[sn2.8-pali-pts]] ►

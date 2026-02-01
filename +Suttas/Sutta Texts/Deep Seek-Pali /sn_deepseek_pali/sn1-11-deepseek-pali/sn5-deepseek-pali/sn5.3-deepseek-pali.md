@@ -4,10 +4,10 @@ sutta_title:
   - "Kisāgotamīsutta "
   - "Gotami"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
 > ◄  [[sn5.2-deepseek-pali]] 📜  [[sn5.4-deepseek-pali]] ►
 
 # SN 5.3 Kisāgotamīsuttaṃ
@@ -47,8 +47,7 @@ Then Māra the Evil One, realizing, "The bhikkhunī Kisāgotamī knows me," sad 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then Māra the Evil One, realizing, "The bhikkhunī Kisāgotamī knows me," sad 
 | [[SA-2.216]], [[SA1200]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
 > ◄  [[sn5.2-deepseek-pali]] 📜  [[sn5.4-deepseek-pali]] ►

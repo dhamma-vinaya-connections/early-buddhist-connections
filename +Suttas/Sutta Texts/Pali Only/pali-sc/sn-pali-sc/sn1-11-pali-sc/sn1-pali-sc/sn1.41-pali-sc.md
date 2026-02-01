@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.41-PALI"
+sutta_code: "SN1.41"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ādittasutta "
+  - "Ablaze"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.41-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.41]]
 > ◄  [[sn1.40-pali-sc]] 📜  [[sn1.42-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -46,6 +46,16 @@ Anindito saggamupeti ṭhānan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.41-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[JA424]], [[AN3.52]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.41]]
+> ◄  [[sn1.40-pali-sc]] 📜  [[sn1.42-pali-sc]] ►

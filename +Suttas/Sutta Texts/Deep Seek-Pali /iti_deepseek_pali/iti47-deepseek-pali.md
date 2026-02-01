@@ -4,10 +4,10 @@ sutta_title:
   - "Jāgariya "
   - "Vigilance"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI47]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI47]]
 > ◄  [[iti46-deepseek-pali]] 📜  [[iti48-deepseek-pali]] ►
 
 # Iti 47 Āpāyikasuttaṃ
@@ -31,9 +31,7 @@ This too is the meaning spoken by the Blessed One, so I have heard. The Eleventh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti47-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI47]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI47]]
 > ◄  [[iti46-deepseek-pali]] 📜  [[iti48-deepseek-pali]] ►

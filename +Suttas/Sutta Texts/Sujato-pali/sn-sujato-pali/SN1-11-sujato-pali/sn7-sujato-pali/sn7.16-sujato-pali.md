@@ -3,11 +3,11 @@ sutta_code: "SN7.16"
 sutta_title:
   - "Paccanīkasutta "
   - "Paccanika"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.16]]
 > ◄  [[sn7.15-sujato-pali]] 📜  [[sn7.17-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -75,8 +75,7 @@ sa ve jaññā subhāsitan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ sa ve jaññā subhāsitan"ti.
 | [[SA-2.78]], [[SA-3.7]], [[SA1155]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.16]]
 > ◄  [[sn7.15-sujato-pali]] 📜  [[sn7.17-sujato-pali]] ►

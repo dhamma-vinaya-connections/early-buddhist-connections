@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1153-PALI"
+sutta_code: "THAG1153"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1153-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1153]]
 > ◄  [[thag1152-pali-pts]] 📜  [[thag1154-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ evam etaṃ mahāvīra yathā samaṇa bhāsasi,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1153-) 
 

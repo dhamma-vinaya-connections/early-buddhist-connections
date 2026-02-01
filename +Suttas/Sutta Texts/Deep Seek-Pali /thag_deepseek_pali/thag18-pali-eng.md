@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG18-PALI"
+sutta_code: "THAG18"
 sutta_title:
-  - " "
-  - ""
+  - "Paññāsanipātavagga "
+  - "Fifties Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG18]]
 > ◄  [[thag17-pali-eng]] 📜  [[thag19-pali-eng]] ►
 
 # Thag 18. Cattālīsanipāto
@@ -216,6 +216,5 @@ That Great Sage has the foundations of mindfulness for a neck, faith for hands, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag18-) 
 

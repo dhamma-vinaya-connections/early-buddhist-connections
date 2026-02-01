@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.50-PALI"
+sutta_code: "AN9.50"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "大因 "
+  - "Greater Causality"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.50-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.50]]
 > ◄  [[an9.49-pali-pts]] 📜  [[an9.59-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -38,6 +38,7 @@ Navakanipāte paṭhamaṃ paṇṇāsakaṃ samattaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.50-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.50]]
+> ◄  [[an9.49-pali-pts]] 📜  [[an9.59-pali-pts]] ►

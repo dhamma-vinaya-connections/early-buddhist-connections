@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI79-PALI"
+sutta_code: "ITI79"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Parihāna "
+  - "Decline"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI79-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI79]]
 > ◄  [[iti78-pali-sc]] 📜  [[iti80-pali-sc]] ►
 
 # Iti 79. Vitakkasuttaṃ
@@ -27,6 +27,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Paṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti79-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI79]]
+> ◄  [[iti78-pali-sc]] 📜  [[iti80-pali-sc]] ►

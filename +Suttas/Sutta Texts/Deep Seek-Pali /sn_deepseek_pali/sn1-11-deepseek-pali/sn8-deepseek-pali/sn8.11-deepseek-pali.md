@@ -4,10 +4,10 @@ sutta_title:
   - "Gaggarāsutta "
   - "Gaggara"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.11]]
 > ◄  [[sn8.10-deepseek-pali]] 📜  [[sn8.12-deepseek-pali]] ►
 
 # SN 8.11 Gaggarāsuttaṃ
@@ -31,8 +31,7 @@ Then the Venerable Vaṅgīsa rose from his seat, arranged his upper robe over o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Then the Venerable Vaṅgīsa rose from his seat, arranged his upper robe over o
 | [[SA-2.224]], [[SA1208]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.11]]
 > ◄  [[sn8.10-deepseek-pali]] 📜  [[sn8.12-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "KP1"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP1]]
 > ◄  [[]] 📜  [[kp2-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -63,6 +63,5 @@ Going for Refuge
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp1-) 
 

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.24]]
 > ◄  [[sn2.23-bodhi]] 📜  [[sn2.25-bodhi]] ►
 
 # SN2.24 Ghaṭīkāra
@@ -29,8 +29,7 @@ Standing to one side, the young deva Ghaṭīkāra recited this verse in the p
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ Standing to one side, the young deva Ghaṭīkāra recited this verse in the p
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.50]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.24]]
 > ◄  [[sn2.23-bodhi]] 📜  [[sn2.25-bodhi]] ►

@@ -3,11 +3,11 @@ sutta_code: "MN108"
 sutta_title:
   - "Gopakamoggallāna Sutta "
   - "With Moggallāna the Guardian"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-sujato-pali]] 📜  [[mn109-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -265,8 +265,7 @@ Gopakamoggallānasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn108-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -277,6 +276,5 @@ Gopakamoggallānasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 | [[MA145]]; [[SN22.58]]; [[DN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-sujato-pali]] 📜  [[mn109-sujato-pali]] ►

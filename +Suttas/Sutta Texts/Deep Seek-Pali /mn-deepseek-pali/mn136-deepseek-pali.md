@@ -4,10 +4,10 @@ sutta_title:
   - "Mahākammavibhaṅga Sutta "
   - "Longer Analysis of Deeds"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
 > ◄  [[mn135-deepseek-pali]] 📜  [[mn137-deepseek-pali]] ►
 
 # 136. Uddesavibhaṅgasuttaṃ
@@ -127,8 +127,7 @@ The Exposition Analysis Discourse, the eighth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn136-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -143,6 +142,5 @@ The Exposition Analysis Discourse, the eighth, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN41]]; [[MN135]]; [[SN42.13]]; [[AN3.61]]; [[AN4.77]]; [[AN6.63]]; [[AN8.40.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
 > ◄  [[mn135-deepseek-pali]] 📜  [[mn137-deepseek-pali]] ►

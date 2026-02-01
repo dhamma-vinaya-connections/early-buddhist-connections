@@ -4,10 +4,10 @@ sutta_title:
   - "Hatthirājavaṇṇasutta "
   - "The King Elephant"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.2]]
 > ◄  [[sn4.1-deepseek-pali]] 📜  [[sn4.3-deepseek-pali]] ►
 
 # SN 4.2 Hatthirājavaṇṇasuttaṃ
@@ -31,6 +31,5 @@ Then Māra the Evil One, realizing, "The Blessed One knows me; the Fortunate One
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.2-) 
 

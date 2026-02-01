@@ -4,10 +4,10 @@ sutta_title:
   - "Appasādapavedanīya "
   - "Proclamation Of No Confidence"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.88]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.88]]
 > ◄  [[an8.87-deepseek-pali]] 📜  [[an8.89-deepseek-pali]] ►
 
 # AN 8.88 Appasādapavedanīyasuttaṃ
@@ -27,12 +27,11 @@ Monks, if lay followers wish, they may declare their pleasure with a monk endowe
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.88-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 345 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.88]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.88]]
 > ◄  [[an8.87-deepseek-pali]] 📜  [[an8.89-deepseek-pali]] ►

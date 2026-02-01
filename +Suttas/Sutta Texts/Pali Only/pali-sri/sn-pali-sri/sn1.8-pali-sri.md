@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.8-PALI"
+sutta_code: "SN1.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Susammuṭṭhasutta "
+  - "Utterly Muddled"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.8]]
 > ◄  [[sn1.7-pali-sri]] 📜  [[sn2.1-pali-sri]] ►
 
 # 1:8 Jhatvavaggo - Pali
@@ -298,6 +298,16 @@ Devatāsaṃyuttaṃ samattaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.165]], [[SA580]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.165]], [[SA580]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.8]]
+> ◄  [[sn1.7-pali-sri]] 📜  [[sn2.1-pali-sri]] ►

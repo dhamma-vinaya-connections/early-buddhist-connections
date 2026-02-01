@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.18-PALI"
+sutta_code: "AN2.18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Neyyatha "
+  - "Meaning To Be Inferred"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.18]]
 > ◄  [[an2.17-pali-sri]] 📜  [[an2.19-pali-sri]] ►
 
 # 4:18 Sacetaniyavaggo - Pali
@@ -318,6 +318,11 @@ Nibbānaṃ mahāpadesenāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 60 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.18]]
+> ◄  [[an2.17-pali-sri]] 📜  [[an2.19-pali-sri]] ►

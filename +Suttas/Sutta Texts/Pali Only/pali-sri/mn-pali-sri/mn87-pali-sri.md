@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN87-PALI"
+sutta_code: "MN87"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Piyajātika Sutta "
+  - "Born From the Beloved"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
 > ◄  [[mn86-pali-sri]] 📜  [[mn88-pali-sri]] ►
 
 # 87. Piyajatika Sutta - Pali
@@ -182,6 +182,16 @@ Piyajātikasuttaṃ sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn87-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA13.3]]; [[MA216]] | M ii 106 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA13.3]]; [[MA216]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
+> ◄  [[mn86-pali-sri]] 📜  [[mn88-pali-sri]] ►

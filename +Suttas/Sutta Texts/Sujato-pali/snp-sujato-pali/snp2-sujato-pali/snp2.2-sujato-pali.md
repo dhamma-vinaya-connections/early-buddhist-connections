@@ -3,11 +3,11 @@ sutta_code: "SNP2.2"
 sutta_title:
   - "Āmagandhasutta "
   - "Carrion"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.2]]
 > ◄  [[snp2.1-sujato-pali]] 📜  [[snp2.3-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -207,9 +207,7 @@ Tattheva pabbajjamarocayitthāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.2-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.2]]
 > ◄  [[snp2.1-sujato-pali]] 📜  [[snp2.3-sujato-pali]] ►

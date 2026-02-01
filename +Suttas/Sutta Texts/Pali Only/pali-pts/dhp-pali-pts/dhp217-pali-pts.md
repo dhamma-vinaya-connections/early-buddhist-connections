@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP217-PALI"
+sutta_code: "DHP217"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP217-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP217]]
 > ◄  [[dhp216-pali-pts]] 📜  [[dhp218-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ chandajāto anakkhāte manasā ca phuṭo siyā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp217-) 
 

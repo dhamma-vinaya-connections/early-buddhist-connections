@@ -4,10 +4,10 @@ sutta_title:
   - "Visakha Sutta "
   - "Visākhā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.9]]
 > ◄  [[ud2.8-deepseek-pali]] 📜  [[ud2.10-deepseek-pali]] ►
 
 # Ud 2.9 Visākhāsuttaṃ
@@ -35,6 +35,5 @@ All that is dependent on others is suffering, all that is independent is happine
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.9-) 
 

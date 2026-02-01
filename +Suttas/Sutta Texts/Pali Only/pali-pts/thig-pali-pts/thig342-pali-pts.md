@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG342-PALI"
+sutta_code: "THIG342"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG342-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG342]]
 > ◄  [[thig341-pali-pts]] 📜  [[thig343-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ lobhanaṃ madanaṃ c'; etaṃ mohanaṃ rajavaḍḍhanaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig342-) 
 

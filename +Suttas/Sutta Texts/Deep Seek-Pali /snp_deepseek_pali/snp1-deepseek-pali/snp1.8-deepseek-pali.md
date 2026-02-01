@@ -4,10 +4,10 @@ sutta_title:
   - "Metta "
   - "Love"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.8]]
 > ◄  [[snp1.7-deepseek-pali]] 📜  [[snp1.9-deepseek-pali]] ►
 
 # Snp 1.8 Mettasuttaṃ
@@ -83,9 +83,7 @@ Thus ends the Mettā Sutta, the eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.8-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.8]]
 > ◄  [[snp1.7-deepseek-pali]] 📜  [[snp1.9-deepseek-pali]] ►

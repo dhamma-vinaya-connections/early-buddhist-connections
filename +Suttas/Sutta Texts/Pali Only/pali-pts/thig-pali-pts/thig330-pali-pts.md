@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG330-PALI"
+sutta_code: "THIG330"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG330-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG330]]
 > ◄  [[thig329-pali-pts]] 📜  [[thig331-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ tuvaṃ nissāya kalyāṇi therīsaṅghassa sobhaṇe |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig330-) 
 

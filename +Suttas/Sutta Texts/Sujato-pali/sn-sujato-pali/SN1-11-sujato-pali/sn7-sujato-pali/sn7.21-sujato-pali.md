@@ -3,11 +3,11 @@ sutta_code: "SN7.21"
 sutta_title:
   - "Saṅgāravasutta "
   - "Sangarava"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.21]]
 > ◄  [[sn7.20-sujato-pali]] 📜  [[sn7.22-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -81,6 +81,5 @@ Anallagattāva taranti pāran"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.21-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.84-PALI"
+sutta_code: "AN6.84"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Aggadhamma "
+  - "Best Thing"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.84-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.84]]
 > ◄  [[an6.83-pali-sc]] 📜  [[an6.85-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -30,6 +30,11 @@ Arahattavaggo aṭṭhamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.84-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 434 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.84]]
+> ◄  [[an6.83-pali-sc]] 📜  [[an6.85-pali-sc]] ►

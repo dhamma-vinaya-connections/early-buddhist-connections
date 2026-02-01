@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.85-PALI"
+sutta_code: "AN7.85"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bhikkhu "
+  - "Mendicant"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.85-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.85]]
 > ◄  [[an7.84-pali-pts]] 📜  [[an7.86-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,11 @@ Caturo vinayadharā caturo vinayadharasobhaṇā honti Sāsanaṃ aṭṭhamavag
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.85-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 144 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.85]]
+> ◄  [[an7.84-pali-pts]] 📜  [[an7.86-pali-pts]] ►

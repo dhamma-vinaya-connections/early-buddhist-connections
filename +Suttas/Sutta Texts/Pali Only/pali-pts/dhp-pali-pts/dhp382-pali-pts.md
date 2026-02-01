@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP382-PALI"
+sutta_code: "DHP382"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP382-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP382]]
 > ◄  [[dhp381-pali-pts]] 📜  [[dhp383-pali-pts]] ►
 
 ## Dhammapada
@@ -25,6 +25,5 @@ chinda sotaṃ parakkamma, kāme panuda brāhmaṇa, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp382-) 
 

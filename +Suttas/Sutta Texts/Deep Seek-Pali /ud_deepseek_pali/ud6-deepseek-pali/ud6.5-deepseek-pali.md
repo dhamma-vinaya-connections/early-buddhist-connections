@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyananatitthiya Sutta "
   - "Sectarians (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.5]]
 > ◄  [[ud6.4-deepseek-pali]] 📜  [[ud6.6-deepseek-pali]] ►
 
 # Ud 6.5 Dutiyanānātitthiyasuttaṃ
@@ -55,9 +55,7 @@ Indeed, some ascetics and brahmins cling to these views; they sink down in the m
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.5-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.5]]
 > ◄  [[ud6.4-deepseek-pali]] 📜  [[ud6.6-deepseek-pali]] ►

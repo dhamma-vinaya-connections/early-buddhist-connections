@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[PE1]]"
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: "[[PE1]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.7]]  🌐 [[UD8.9]] ►
 
@@ -68,8 +64,7 @@ dear in the world anywhere.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -84,8 +79,7 @@ dear in the world anywhere.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN87]], [[THIG3.5]], [[THIG6.1]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD8.8%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD8.8%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -96,7 +90,7 @@ dear in the world anywhere.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD8.8%5D%5D%22%23mynotes%20-file%3Aud8.8-%20-file%3A%22UD8.7%22%20-file%3A%22UD8.9%22%20-file%3A%22UD8.8%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud8.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.8

@@ -34,18 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[AN4.34]]"
-parallels_agama:
-  - "[[EA21.1]]"
-  - "[[SA902-904]]"
-parallels_partilal:
-  - "[[AN4.34]]"
-  - "[[EA21.1]]"
-  - "[[AN5.32]]"
-  - "[[SA902-904]]"
-  - "[[SN45.139]]"
+parallels_nikaya: "[[AN4.34]]"
+parallels_agama: "[[EA21.1]], [[SA902-904]]"
+parallels_partilal: "[[AN4.34]], [[EA21.1]], [[AN5.32]], [[SA902-904]], [[SN45.139]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI89]]  🌐 [[ITI91]] ►
 
@@ -67,8 +58,7 @@ realizing the supreme Dhamma to be supreme;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti90-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,8 +73,7 @@ realizing the supreme Dhamma to be supreme;
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.52]], [[AN7.56]], [[AN10.92]], [[DHP188]], [[DHP189]], [[DHP190]], [[DHP191]], [[DHP192]], [[ITI112]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BITI90%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BITI90%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -95,7 +84,7 @@ realizing the supreme Dhamma to be supreme;
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BITI90%5D%5D%22%23mynotes%20-file%3Aiti90-%20-file%3A%22ITI89%22%20-file%3A%22ITI91%22%20-file%3A%22ITI90%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/iti90/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti90

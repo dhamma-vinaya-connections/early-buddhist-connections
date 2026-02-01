@@ -3,11 +3,11 @@ sutta_code: "UD3.2"
 sutta_title:
   - "Nanda Sutta "
   - "Nanda"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
 > ◄  [[ud3.1-anandajoti-pali]] 📜  [[ud3.3-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -195,9 +195,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.2-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
 > ◄  [[ud3.1-anandajoti-pali]] 📜  [[ud3.3-anandajoti-pali]] ►

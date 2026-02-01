@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG509-PALI"
+sutta_code: "THIG509"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG509-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG509]]
 > ◄  [[thig508-pali-pts]] 📜  [[thig510-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ aparimitañ ca sukkhaṃ bahūni ca cittadomanassāni |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig509-) 
 

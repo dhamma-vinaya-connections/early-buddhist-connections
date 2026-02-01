@@ -3,11 +3,11 @@ sutta_code: "SN1.79"
 sutta_title:
   - "Pātheyyasutta "
   - "Provisions for a Journey"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.79]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.79]]
 > ◄  [[sn1.78-sujato-pali]] 📜  [[sn1.80-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -53,8 +53,7 @@ pāsena sakuṇī yathā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.79-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -65,6 +64,5 @@ pāsena sakuṇī yathā"ti.
 | [[SA-2.290]], [[SN1.77]], [[SA1292]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.79]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.79]]
 > ◄  [[sn1.78-sujato-pali]] 📜  [[sn1.80-sujato-pali]] ►

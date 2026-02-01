@@ -3,11 +3,11 @@ sutta_code: "MN84"
 sutta_title:
   - "Madhura Sutta "
   - "At Madhurā"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
 > ◄  [[mn83-sujato-pali]] 📜  [[mn85-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -227,8 +227,7 @@ Madhurasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn84-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -239,6 +238,5 @@ Madhurasuttaṁ niṭṭhitaṁ catutthaṁ.
 | [[SA548]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
 > ◄  [[mn83-sujato-pali]] 📜  [[mn85-sujato-pali]] ►

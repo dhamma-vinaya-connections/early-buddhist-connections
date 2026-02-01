@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.180-PALI"
+sutta_code: "AN4.180"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mahāpadesa "
+  - "Four Great References"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.180-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.180]]
 > ◄  [[an4.179-pali-pts]] 📜  [[an4.181-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Idh'; āvuso Ānanda sattā imā hānabhāgiyā saññā ti yathābhūtaṃ napp
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.180-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA28.5]] | A ii 167 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA28.5]], [[DA2]], [[DN16]], [[PLI-TV-KD6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.180]]
+> ◄  [[an4.179-pali-pts]] 📜  [[an4.181-pali-pts]] ►

@@ -3,11 +3,11 @@ sutta_code: "AN5.190"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.190]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.190]]
 > ◄  [[an5.189-sujato-pali]] 📜  [[an5.191-sujato-pali]] ►
 
 ## Aṅguttara Nikāya – The Numerical Discourses
@@ -29,6 +29,5 @@ From a cow comes milk, from milk comes curds, from curds come butter, from butte
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.190-) 
 

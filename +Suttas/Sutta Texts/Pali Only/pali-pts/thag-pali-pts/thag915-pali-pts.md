@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG915-PALI"
+sutta_code: "THAG915"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG915-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG915]]
 > ◄  [[thag914-pali-pts]] 📜  [[thag916-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ pañcaṅgike samādhimhi sante ekodibhāvite
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag915-) 
 

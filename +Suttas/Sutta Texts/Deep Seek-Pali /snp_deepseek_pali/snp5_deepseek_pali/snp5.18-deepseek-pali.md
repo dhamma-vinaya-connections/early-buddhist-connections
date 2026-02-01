@@ -4,10 +4,10 @@ sutta_title:
   - "Pārāyanatthutigāthā "
   - "Homage to the Way to the Beyond"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.18]]
 > ◄  [[snp5.17-deepseek-pali]] 📜  [[]] ►
 
 # Pārāyanatthutigāthā
@@ -324,9 +324,7 @@ The The Questions of the Young Man Piṅgiya, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.18-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.18]]
 > ◄  [[snp5.17-deepseek-pali]] 📜  [[]] ►

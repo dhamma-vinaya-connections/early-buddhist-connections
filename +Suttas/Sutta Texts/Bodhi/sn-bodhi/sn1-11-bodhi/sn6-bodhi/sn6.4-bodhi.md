@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
 > ◄  [[sn6.3-bodhi]] 📜  [[sn6.5-bodhi]] ►
 
 # SN6.4 Brahmā Baka
@@ -110,8 +110,7 @@ When this was said, the Blessed One said to Brahmā Baka: “Alas, sir, Brahmā 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -122,6 +121,5 @@ When this was said, the Blessed One said to Brahmā Baka: “Alas, sir, Brahmā 
 | [[SA-2.108]], [[SA1195]], [[JA405]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
 > ◄  [[sn6.3-bodhi]] 📜  [[sn6.5-bodhi]] ►

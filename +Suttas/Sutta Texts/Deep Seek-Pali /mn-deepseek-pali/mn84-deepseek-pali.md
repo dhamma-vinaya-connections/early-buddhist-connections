@@ -4,10 +4,10 @@ sutta_title:
   - "Madhura Sutta "
   - "At Madhurā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
 > ◄  [[mn83-deepseek-pali]] 📜  [[mn85-deepseek-pali]] ►
 
 # 84. Madhurasuttaṃ
@@ -99,8 +99,7 @@ The Madhura Sutta, the fourth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn84-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ The Madhura Sutta, the fourth, is concluded.
 | [[SA548]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
 > ◄  [[mn83-deepseek-pali]] 📜  [[mn85-deepseek-pali]] ►

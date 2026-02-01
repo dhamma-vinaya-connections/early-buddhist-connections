@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
 > ◄  [[mn57-anigha]] 📜  [[mn59-anigha]] ►
 
 # MN 58 - With Prince Abhaya
@@ -65,8 +65,7 @@ When he had spoken, Prince Abhaya said to the Auspicious One, “Excellent, vene
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn58-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -76,6 +75,5 @@ When he had spoken, Prince Abhaya said to the Auspicious One, “Excellent, vene
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.24]]; [[AN4.42]]; [[AN4.183]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
 > ◄  [[mn57-anigha]] 📜  [[mn59-anigha]] ►

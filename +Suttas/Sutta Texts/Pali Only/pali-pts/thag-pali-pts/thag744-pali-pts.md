@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG744-PALI"
+sutta_code: "THAG744"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG744-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG744]]
 > ◄  [[thag743-pali-pts]] 📜  [[thag745-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ saddhaṃ viriyaṃ samādhiñ ca satipaññañ ca bhāvayaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag744-) 
 

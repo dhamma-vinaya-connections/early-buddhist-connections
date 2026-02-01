@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.42]]
 > ◄  [[an6.38-thanissaro]] 📜  [[an6.43-thanissaro]] ►
 
 ## AN6.42 To Nāgita
@@ -50,8 +50,7 @@ Now at that time Ven. Nāgita was the Blessed One’s attendant. So the Blessed 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.42-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -66,6 +65,5 @@ Now at that time Ven. Nāgita was the Blessed One’s attendant. So the Blessed 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THEFRAMESTORYHEREISCOMMONTOTHREESUTTAS:AN5.30]], [[AN6.42]], [[ANDAN8.86.SEALSOSN17.5]], [[SN17.8]], [[AN5.80]], [[AN10.70.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.42]]
 > ◄  [[an6.38-thanissaro]] 📜  [[an6.43-thanissaro]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP87-PALI"
+sutta_code: "DHP87"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP87-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP87]]
 > ◄  [[dhp86-pali-pts]] 📜  [[dhp88-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ tatrābhiratim iccheyya, hitvā kāme akiñcano /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp87-) 
 

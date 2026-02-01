@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.8-PALI"
+sutta_code: "SNP5.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nandamāṇavapucchā "
+  - "Questions of the Student Nanda"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.8]]
 > ◄  [[snp5.7-pali-pts]] 📜  [[snp5.9-pali-pts]] ►
 
 # SNP5.8 Nandamāṇavapucchā (7)
@@ -71,6 +71,5 @@ NANDAMĀṆAVAPUCCHĀ NIṬṬHITĀ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.8-) 
 

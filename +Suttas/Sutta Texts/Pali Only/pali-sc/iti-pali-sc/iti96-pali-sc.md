@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI96-PALI"
+sutta_code: "ITI96"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "尼乾 "
+  - "to the Nigaṇṭhas"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI96-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI96]]
 > ◄  [[iti95-pali-sc]] 📜  [[iti97-pali-sc]] ►
 
 # Iti 96. Dānasuttaṃ
@@ -31,6 +31,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti96-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI96]]
+> ◄  [[iti95-pali-sc]] 📜  [[iti97-pali-sc]] ►

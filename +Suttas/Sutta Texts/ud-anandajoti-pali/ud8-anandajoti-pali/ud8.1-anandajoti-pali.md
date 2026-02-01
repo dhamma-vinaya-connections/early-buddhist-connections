@@ -3,11 +3,11 @@ sutta_code: "UD8.1"
 sutta_title:
   - "Pathamanibbana Sutta "
   - "Nibbāna (1)"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.1]]
 > ◄  [[]] 📜  [[ud8.2-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -37,9 +37,7 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.1-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.1]]
 > ◄  [[]] 📜  [[ud8.2-anandajoti-pali]] ►

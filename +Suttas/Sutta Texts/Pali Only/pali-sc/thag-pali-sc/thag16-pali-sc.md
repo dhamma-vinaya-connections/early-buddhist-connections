@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG16-PALI"
+sutta_code: "THAG16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vīsatinipātavagga "
+  - "Twenties Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG16]]
 > ◄  [[thag15-pali-sc]] 📜  [[thag17-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -1306,6 +1306,5 @@ isi khīṇapunabbhavo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag16-) 
 

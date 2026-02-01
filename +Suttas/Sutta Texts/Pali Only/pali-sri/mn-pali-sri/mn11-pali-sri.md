@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN11-PALI"
+sutta_code: "MN11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cūḷasīhanāda Sutta "
+  - "Lion’s Roar Shorter Discourse"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN11]]
 > ◄  [[mn10-pali-sri]] 📜  [[mn12-pali-sri]] ►
 
 # 11. Cula Sihanada Sutta - Pali
@@ -116,6 +116,20 @@ Cūḷasīhanādasuttaṃ paṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.241]] | [[EA27.2]]; [[MA103]] | M i 63 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA27.2]]; [[MA103]]; [[AN4.241]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.239]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN11]]
+> ◄  [[mn10-pali-sri]] 📜  [[mn12-pali-sri]] ►

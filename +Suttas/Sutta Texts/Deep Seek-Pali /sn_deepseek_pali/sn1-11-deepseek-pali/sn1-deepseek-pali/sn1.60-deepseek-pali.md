@@ -4,10 +4,10 @@ sutta_title:
   - "Kavisutta "
   - "Poetry"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.60]]
 > ◄  [[sn1.59-deepseek-pali]] 📜  [[sn1.61-deepseek-pali]] ►
 
 # SN 1.60 Kavisuttaṃ
@@ -45,8 +45,7 @@ Old Age, The Deathless, Friend, Object, Three, People, Wrong Path, Second, and t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ Old Age, The Deathless, Friend, Object, Three, People, Wrong Path, Second, and t
 | [[SA-2.248]], [[SA1021]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.60]]
 > ◄  [[sn1.59-deepseek-pali]] 📜  [[sn1.61-deepseek-pali]] ►

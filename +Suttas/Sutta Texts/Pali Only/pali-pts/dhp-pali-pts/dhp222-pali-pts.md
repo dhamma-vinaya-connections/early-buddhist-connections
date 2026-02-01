@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP222-PALI"
+sutta_code: "DHP222"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP222-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP222]]
 > ◄  [[dhp221-pali-pts]] 📜  [[dhp223-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ akkodhena jine kodhaṃ asādhuṃ sādhunā jine, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp222-) 
 

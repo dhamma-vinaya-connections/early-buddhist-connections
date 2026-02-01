@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamajanasutta "
   - "Produces (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.55]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.55]]
 > ◄  [[sn1.54-deepseek-pali]] 📜  [[sn1.56-deepseek-pali]] ►
 
 # SN 1.55 Paṭhamajanasuttaṃ
@@ -29,8 +29,7 @@ Craving generates a person, their mind courses about; an attached being enters s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.55-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ Craving generates a person, their mind courses about; an attached being enters s
 | [[SA-2.245]], [[SA1018]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.55]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.55]]
 > ◄  [[sn1.54-deepseek-pali]] 📜  [[sn1.56-deepseek-pali]] ►

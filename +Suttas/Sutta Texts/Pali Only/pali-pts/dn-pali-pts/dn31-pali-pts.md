@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN31-PALI"
+sutta_code: "DN31"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Siṅgāla Sutta "
+  - "Advice to Sigālaka"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN31-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN31]]
 > ◄  [[dn30-pali-pts]] 📜  [[dn32-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -210,6 +210,16 @@ Siṅgālovāda-Suttantaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn31-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.17-18]], [[SN45.141-148]] | [[DA16]], [[MA135]], [[MA141]], [[SA-2.66]], [[SA1239]] | D iii 180 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA16]], [[MA135]], [[SN45.141-148]], [[MA141]], [[SA-2.66]], [[SA1239]], [[AN4.17]], [[PE3]], [[AN4.32]], [[JA532]], [[THAG3.5]], [[AN4.64]], [[AN4.19]], [[AN4.17-18]], [[JA443]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN31]]
+> ◄  [[dn30-pali-pts]] 📜  [[dn32-pali-pts]] ►

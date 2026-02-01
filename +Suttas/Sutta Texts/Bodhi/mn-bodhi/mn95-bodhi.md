@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
 > ◄  [[mn94-bodhi]] 📜  [[mn96-bodhi]] ►
 
 # MN95 Cankī Sutta - With Cankī
@@ -137,8 +137,7 @@ one does not arouse zeal, one will not apply one’s will; but because one arous
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn95-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -153,6 +152,5 @@ one does not arouse zeal, one will not apply one’s will; but because one arous
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.65]]; [[AN9.1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
 > ◄  [[mn94-bodhi]] 📜  [[mn96-bodhi]] ►

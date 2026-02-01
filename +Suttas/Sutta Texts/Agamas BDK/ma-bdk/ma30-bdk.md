@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA30]]
 > ◄  [[ma29-bdk]] 📜  [[ma31-bdk]] ►
 
 ### 30. The Discourse with the Parable of the Elephant’s Footprint
@@ -93,8 +93,7 @@ Venerable friends, if internally the ear... , the nose... , the tongue... , the 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma30-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -109,6 +108,5 @@ Venerable friends, if internally the ear... , the nose... , the tongue... , the 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.197]], [[AN7.62]], [[MA193]], [[MA31]], [[MA8]], [[MN141]], [[MN21]], [[SN22.5]], [[SN4.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA30]]
 > ◄  [[ma29-bdk]] 📜  [[ma31-bdk]] ►

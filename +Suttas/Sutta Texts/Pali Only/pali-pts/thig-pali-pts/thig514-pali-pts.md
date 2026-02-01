@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG514-PALI"
+sutta_code: "THIG514"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG514-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG514]]
 > ◄  [[thig513-pali-pts]] 📜  [[thig515-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ uṭṭhāya Anikaratto pañjaliko yāci tassā pitaraṃ so |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig514-) 
 

@@ -3,11 +3,11 @@ sutta_code: "SNP5.14"
 sutta_title:
   - "Udayamāṇavapucchā "
   - "Questions of the Student Udaya"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
 > ◄  [[snp5.13-sujato-pali]] 📜  [[snp5.15-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -125,8 +125,7 @@ Udayamāṇavapucchā terasamā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -141,6 +140,5 @@ Udayamāṇavapucchā terasamā.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN52]], [[MN102]], [[MN106]], [[MN111]], [[MN140]], [[ANDAN9:36.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
 > ◄  [[snp5.13-sujato-pali]] 📜  [[snp5.15-sujato-pali]] ►

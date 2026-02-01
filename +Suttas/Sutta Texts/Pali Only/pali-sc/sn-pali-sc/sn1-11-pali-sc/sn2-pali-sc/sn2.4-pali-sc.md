@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.4-PALI"
+sutta_code: "SN2.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Māgadhasutta "
+  - "Magadha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
 > ◄  [[sn2.3-pali-sc]] 📜  [[sn2.5-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -38,6 +38,16 @@ esā ābhā anuttarā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP387]], [[SN1.26]] | [[SA-2.309]], [[SA1310]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP387]], [[SN21.11]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
+> ◄  [[sn2.3-pali-sc]] 📜  [[sn2.5-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.51-PALI"
+sutta_code: "SN1.51"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Jarāsutta "
+  - "Old Age"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.51-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.51]]
 > ◄  [[sn1.50-pali-sc]] 📜  [[sn1.52-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -43,6 +43,20 @@ puññaṁ corehi dūharan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.51-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.242]], [[SA1015]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.242]], [[SA1015]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN7:21ANDMNI39]], [[AN1]], [[AN2]], [[AN280]], [[AN18]], [[AN19]], [[AN20]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.51]]
+> ◄  [[sn1.50-pali-sc]] 📜  [[sn1.52-pali-sc]] ►

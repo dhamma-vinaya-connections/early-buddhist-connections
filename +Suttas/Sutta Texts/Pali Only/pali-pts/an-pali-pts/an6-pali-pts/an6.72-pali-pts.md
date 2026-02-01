@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.72-PALI"
+sutta_code: "AN6.72"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bala "
+  - "Strength"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.72-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.72]]
 > ◄  [[an6.71-pali-pts]] 📜  [[an6.73-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Imehi kho bhikkhave chahi dhammehi samannāgato bhikkhu abhabbo tatra tatr'eva s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.72-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN6.24]], [[AN7.40]] |  | A iii 427 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN6.24]], [[AN7.40]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.72]]
+> ◄  [[an6.71-pali-pts]] 📜  [[an6.73-pali-pts]] ►

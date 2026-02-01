@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.1-PALI"
+sutta_code: "AN5.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vitthata "
+  - "In Detail"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.1]]
 > ◄  [[an4.12-pali-sri]] 📜  [[an5.2-pali-sri]] ►
 
 # 8:1 Mettavaggo - Pali
@@ -518,6 +518,16 @@ Devadatto ca uttaro, nando kāraṇḍavena cāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA677-678]] | A iii 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA677-678]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.1]]
+> ◄  [[an4.12-pali-sri]] 📜  [[an5.2-pali-sri]] ►

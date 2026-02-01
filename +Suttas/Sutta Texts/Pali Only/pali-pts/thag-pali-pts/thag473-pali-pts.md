@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG473-PALI"
+sutta_code: "THAG473"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG473-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG473]]
 > ◄  [[thag472-pali-pts]] 📜  [[thag474-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ te ca maṃ anukampāya atthakāmā hitesino
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag473-) 
 

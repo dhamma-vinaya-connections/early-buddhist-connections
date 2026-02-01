@@ -3,11 +3,11 @@ sutta_code: "AN3.60"
 sutta_title:
   - "Saṅgārava "
   - "With Saṅgārava"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
 > ◄  [[an3.59-sujato-pali]] 📜  [[an3.61-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -182,8 +182,7 @@ Brāhmaṇavaggo paṭhamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -194,6 +193,5 @@ Brāhmaṇavaggo paṭhamo.
 | [[MA143]], [[DN11]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
 > ◄  [[an3.59-sujato-pali]] 📜  [[an3.61-sujato-pali]] ►

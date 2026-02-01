@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG626-PALI"
+sutta_code: "THAG626"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG626-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG626]]
 > ◄  [[thag625-pali-pts]] 📜  [[thag627-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ rattiyā majjhimaṃ yāmaṃ dibbacakkhuṃ visodhitaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag626-) 
 

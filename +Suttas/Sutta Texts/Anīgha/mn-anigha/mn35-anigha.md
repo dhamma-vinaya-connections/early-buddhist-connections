@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
 > ◄  [[mn34-anigha]] 📜  [[mn36-anigha]] ►
 
 # MN 35 - The Shorter Discourse With Saccaka
@@ -163,8 +163,7 @@ Then Saccaka said to the Auspicious One, “Master Gotama, may the merit and the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn35-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -175,6 +174,5 @@ Then Saccaka said to the Auspicious One, “Master Gotama, may the merit and the
 | [[EA37.10]]; [[SA110]]; [[SN22.15]]; [[SA10]]; [[SA9]]; [[SN22.16]]; [[SN22.17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
 > ◄  [[mn34-anigha]] 📜  [[mn36-anigha]] ►

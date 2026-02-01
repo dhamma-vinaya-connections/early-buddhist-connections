@@ -4,10 +4,10 @@ sutta_title:
   - "Candimasutta "
   - "Candima"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.9]]
 > ◄  [[sn2.8-deepseek-pali]] 📜  [[sn2.10-deepseek-pali]] ►
 
 # SN 2.9 Candimasuttaṃ
@@ -47,8 +47,7 @@ My head would split into seven pieces, and I would not live in comfort, if I did
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ My head would split into seven pieces, and I would not live in comfort, if I did
 | [[SA-2.167]], [[SA583]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.9]]
 > ◄  [[sn2.8-deepseek-pali]] 📜  [[sn2.10-deepseek-pali]] ►

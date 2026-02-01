@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA82]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA82]]
 > ◄  [[ma81-bdk]] 📜  [[ma83-bdk]] ►
 
 ### 82. The Discourse on [Hearing the Sound of] Crickets
@@ -55,8 +55,7 @@ The monk Citta Hatthisāriputta has just abandoned the moral precepts and stoppe
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma82-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ The monk Citta Hatthisāriputta has just abandoned the moral precepts and stoppe
 | [[SN11.15]], [[THAG17.2]], [[JA355]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA82]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA82]]
 > ◄  [[ma81-bdk]] 📜  [[ma83-bdk]] ►

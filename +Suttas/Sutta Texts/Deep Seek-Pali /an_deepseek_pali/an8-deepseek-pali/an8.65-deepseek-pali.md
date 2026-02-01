@@ -4,10 +4,10 @@ sutta_title:
   - "Abhibhāyatana "
   - "Dimensions Of Mastery"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.65]]
 > ◄  [[an8.64-deepseek-pali]] 📜  [[an8.66-deepseek-pali]] ►
 
 # AN 8.65 Abhibhāyatanasuttaṃ
@@ -51,8 +51,7 @@ One, perceiving no form internally, sees external forms that are white, of white
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.65-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ One, perceiving no form internally, sees external forms that are white, of white
 | [[DN16]], [[AN1.439]], [[MN77]], [[AN8.119]], [[AN10.29]], [[DN33]], [[DN34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.65]]
 > ◄  [[an8.64-deepseek-pali]] 📜  [[an8.66-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamapāpaṇika "
   - "Shopkeeper"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.20]]
 > ◄  [[an3.19-deepseek-pali]] 📜  [[an3.21-deepseek-pali]] ►
 
 # AN 3.20 Dutiyapāpaṇikasuttaṃ
@@ -63,8 +63,7 @@ Known, memorable is the monk, a wheel-turner, and a mindful one; the reliable on
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Known, memorable is the monk, a wheel-turner, and a mindful one; the reliable on
 | [[SA-3.6]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.20]]
 > ◄  [[an3.19-deepseek-pali]] 📜  [[an3.21-deepseek-pali]] ►

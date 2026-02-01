@@ -40,15 +40,9 @@ sutta_teacher:
 sutta_audience:
   - "King"
   - "Ascetics"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP129]]"
-  - "[[DHP130]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[DHP129]]"
-  - "[[DHP130]]"
+parallels_nikaya: "[[DHP129]], [[DHP130]]"
+parallels_agama: ""
+parallels_partilal: "[[DHP129]], [[DHP130]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.10]]  🌐 [[SNP3.12]] ►
 
@@ -76,8 +70,7 @@ the highest of the biped race.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -92,8 +85,7 @@ the highest of the biped race.”
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.123]], [[DHP268]], [[DHP269]], [[ITI66]], [[ITI67]], [[SN1.12]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP3.11%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP3.11%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -104,7 +96,7 @@ the highest of the biped race.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP3.11%5D%5D%22%23mynotes%20-file%3Asnp3.11-%20-file%3A%22SNP3.10%22%20-file%3A%22SNP3.12%22%20-file%3A%22SNP3.11%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp3.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.11

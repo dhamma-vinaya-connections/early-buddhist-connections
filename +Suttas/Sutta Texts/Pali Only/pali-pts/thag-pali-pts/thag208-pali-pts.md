@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG208-PALI"
+sutta_code: "THAG208"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG208-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG208]]
 > ◄  [[thag207-pali-pts]] 📜  [[thag209-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Na ukkhipe no ca parikkhipe pare, na okkhipe pāragataṃ na eraye,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag208-) 
 

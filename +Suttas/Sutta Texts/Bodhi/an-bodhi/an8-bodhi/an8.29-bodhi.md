@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.29]]
 > ◄  [[an8.28-bodhi]] 📜  [[an8.30-bodhi]] ►
 
 # AN8.29 Inopportune Moments
@@ -125,8 +125,7 @@ though in the world, have gone beyond.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -137,6 +136,5 @@ though in the world, have gone beyond.
 | [[EA42.1]], [[MA124]], [[DHP315]], [[THAG17.2]], [[SNP2.10]], [[THAG14.1]], [[THIG1.5]], [[DN34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.29]]
 > ◄  [[an8.28-bodhi]] 📜  [[an8.30-bodhi]] ►

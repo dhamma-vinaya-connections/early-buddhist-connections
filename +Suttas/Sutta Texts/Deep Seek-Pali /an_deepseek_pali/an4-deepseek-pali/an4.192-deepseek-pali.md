@@ -4,10 +4,10 @@ sutta_title:
   - "Ṭhāna "
   - "Facts"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.192]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.192]]
 > ◄  [[an4.191-deepseek-pali]] 📜  [[an4.193-deepseek-pali]] ►
 
 # AN 4.192 Ṭhānasuttaṃ
@@ -67,8 +67,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.192-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ language: "Pali"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.78]], [[UD6.2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.192]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.192]]
 > ◄  [[an4.191-deepseek-pali]] 📜  [[an4.193-deepseek-pali]] ►

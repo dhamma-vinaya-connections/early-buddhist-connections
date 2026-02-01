@@ -4,10 +4,10 @@ sutta_title:
   - "Taṇhā "
   - "Craving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.199]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.199]]
 > ◄  [[an4.198-deepseek-pali]] 📜  [[an4.200-deepseek-pali]] ►
 
 # AN 4.199 Taṇhāsuttaṃ
@@ -43,8 +43,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.199-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ language: "Pali"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.200.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.199]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.199]]
 > ◄  [[an4.198-deepseek-pali]] 📜  [[an4.200-deepseek-pali]] ►

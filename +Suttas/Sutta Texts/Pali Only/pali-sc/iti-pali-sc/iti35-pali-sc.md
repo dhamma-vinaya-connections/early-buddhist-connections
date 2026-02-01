@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI35-PALI"
+sutta_code: "ITI35"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "怨家 "
+  - "Enemy"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI35-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI35]]
 > ◄  [[iti34-pali-sc]] 📜  [[iti36-pali-sc]] ►
 
 # Iti 35. Dutiyanakuhanasuttaṃ
@@ -29,6 +29,16 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti35-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.25]], [[ITI36]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI35]]
+> ◄  [[iti34-pali-sc]] 📜  [[iti36-pali-sc]] ►

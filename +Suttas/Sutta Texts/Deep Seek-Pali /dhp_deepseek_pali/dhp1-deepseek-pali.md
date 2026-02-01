@@ -4,10 +4,10 @@ sutta_title:
   - "Yamakavagga "
   - "Pairs"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP1]]
 > ◄  [[]] 📜  [[dhp2-deepseek-pali]] ►
 
 # Dhp 1. Yamakavaggo
@@ -122,8 +122,7 @@ The Yamaka Chapter, the First, is Ended.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -134,6 +133,5 @@ The Yamaka Chapter, the First, is Ended.
 | [[EA52.7]], [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP1]]
 > ◄  [[]] 📜  [[dhp2-deepseek-pali]] ►

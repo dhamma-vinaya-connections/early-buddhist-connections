@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP319-PALI"
+sutta_code: "DHP319"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP319-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP319]]
 > ◄  [[dhp318-pali-pts]] 📜  [[dhp320-pali-pts]] ►
 
 ## Dhammapada
@@ -25,6 +25,5 @@ ahaṃ nāgo va saṃgāme cāpāto patitaṃ saraṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp319-) 
 

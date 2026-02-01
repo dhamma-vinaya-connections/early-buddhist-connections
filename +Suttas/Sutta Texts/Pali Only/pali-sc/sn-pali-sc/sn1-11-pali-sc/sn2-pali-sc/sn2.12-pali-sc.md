@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.12-PALI"
+sutta_code: "SN2.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Veṇḍusutta "
+  - "Veṇhu"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.12]]
 > ◄  [[sn2.11-pali-sc]] 📜  [[sn2.13-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -31,6 +31,16 @@ Na maccuvasagā siyun"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.303]], [[SA1304]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.303]], [[SA1304]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.12]]
+> ◄  [[sn2.11-pali-sc]] 📜  [[sn2.13-pali-sc]] ►

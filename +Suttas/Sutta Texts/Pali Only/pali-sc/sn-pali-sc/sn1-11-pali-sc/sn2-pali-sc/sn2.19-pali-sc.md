@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.19-PALI"
+sutta_code: "SN2.19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Uttarasutta "
+  - "Uttarā"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
 > ◄  [[sn2.18-pali-sc]] 📜  [[sn2.20-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -31,6 +31,16 @@ Lokāmisaṁ pajahe santipekkho"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.3]] | [[SA-2.138]], [[SA1001]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN1.3]], [[SA-2.138]], [[SA1001]], [[AN3.51]], [[JA498]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
+> ◄  [[sn2.18-pali-sc]] 📜  [[sn2.20-pali-sc]] ►

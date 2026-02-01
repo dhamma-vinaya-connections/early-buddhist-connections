@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
 > ◄  [[mn143-thanissaro]] 📜  [[mn147-thanissaro]] ►
 
 ## MN146 Nandaka’s Exhortation
@@ -188,8 +188,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn146-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -204,6 +203,5 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.101]]; [[AN4.94]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
 > ◄  [[mn143-thanissaro]] 📜  [[mn147-thanissaro]] ►

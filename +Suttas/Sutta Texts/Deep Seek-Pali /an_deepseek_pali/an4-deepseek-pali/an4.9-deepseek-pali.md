@@ -4,10 +4,10 @@ sutta_title:
   - "Taṇhuppāda "
   - "Arising Of Craving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.9]]
 > ◄  [[an4.8-deepseek-pali]] 📜  [[an4.10-deepseek-pali]] ►
 
 # AN 4.9 Taṇhuppādasuttaṃ
@@ -33,8 +33,7 @@ a bhikkhu, freed from craving, without clinging, should wander mindfully. Ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ a bhikkhu, freed from craving, without clinging, should wander mindfully. Ninth.
 | [[EA29.8]], [[ITI105]], [[ITI15]], [[SNP3.12]], [[JA493]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.9]]
 > ◄  [[an4.8-deepseek-pali]] 📜  [[an4.10-deepseek-pali]] ►

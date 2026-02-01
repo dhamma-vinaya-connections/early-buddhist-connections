@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP44-PALI"
+sutta_code: "DHP44"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP44-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP44]]
 > ◄  [[dhp43-pali-pts]] 📜  [[dhp45-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ sekho paṭhaviṃ vijessati Yamalokaṃ ca imaṃ sadevakaṃ. /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp44-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN142-PALI"
+sutta_code: "MN142"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dakkhiṇāvibhaṅga Sutta "
+  - "Analysis of Religious Donations"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN142-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN142]]
 > ◄  [[mn141-pali-sc]] 📜  [[mn143-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -101,6 +101,20 @@ Uddesaaraṇā dhātu saccaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn142-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.78]] | [[MA180]] | M iii 253 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA180]]; [[AN4.78]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN6.59]], [[AN3.24]], [[AN4.78]], [[MN39]], [[MA182]], [[SN3.24]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN142]]
+> ◄  [[mn141-pali-sc]] 📜  [[mn143-pali-sc]] ►

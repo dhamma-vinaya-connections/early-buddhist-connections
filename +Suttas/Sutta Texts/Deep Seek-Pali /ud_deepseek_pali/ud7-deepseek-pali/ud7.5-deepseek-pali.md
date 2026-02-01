@@ -4,10 +4,10 @@ sutta_title:
   - "Lakuntakabhaddiya Sutta "
   - "Another Discourse about Bhaddiya the Dwarf/The Dwarf"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.5]]
 > ◄  [[ud7.4-deepseek-pali]] 📜  [[ud7.6-deepseek-pali]] ►
 
 # Ud 7.5 Aparalakuṇḍakabhaddiyasuttaṃ
@@ -43,8 +43,7 @@ Then, having understood this matter, the Blessed One on that occasion uttered th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then, having understood this matter, the Blessed One on that occasion uttered th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN21.5]], [[SN41:5]], [[AN]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.5]]
 > ◄  [[ud7.4-deepseek-pali]] 📜  [[ud7.6-deepseek-pali]] ►

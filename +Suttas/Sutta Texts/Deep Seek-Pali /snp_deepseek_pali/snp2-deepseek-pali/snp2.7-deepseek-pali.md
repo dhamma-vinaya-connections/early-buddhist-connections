@@ -4,10 +4,10 @@ sutta_title:
   - "Brāhmaṇadhammika "
   - "Brahmanical Traditions"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.7]]
 > ◄  [[snp2.6-deepseek-pali]] 📜  [[snp2.8-deepseek-pali]] ►
 
 # Snp 2.7 Brāhmaṇadhammikasuttaṃ
@@ -223,8 +223,7 @@ The seventh discourse, the Brāhmaṇadhammika Sutta, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -239,6 +238,5 @@ The seventh discourse, the Brāhmaṇadhammika Sutta, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN60]], [[MN93]], [[SN3.9]], [[AN5.191]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.7]]
 > ◄  [[snp2.6-deepseek-pali]] 📜  [[snp2.8-deepseek-pali]] ►

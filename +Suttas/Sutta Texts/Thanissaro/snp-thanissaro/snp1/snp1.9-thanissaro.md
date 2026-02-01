@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.9]]
 > ◄  [[snp1.8-thanissaro]] 📜  [[snp1.10-thanissaro]] ►
 
 # 1:9  Hemavata
@@ -351,8 +351,7 @@ vv. 153–180
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -363,6 +362,5 @@ vv. 153–180
 | [[SA-2.178]], [[SA1269]], [[SA-2.315]], [[SA1316]], [[SN2.15]], [[SN1.30]], [[SA1329]], [[SA-2.328]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.9]]
 > ◄  [[snp1.8-thanissaro]] 📜  [[snp1.10-thanissaro]] ►

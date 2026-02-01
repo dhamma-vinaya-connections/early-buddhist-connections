@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.1-PALI"
+sutta_code: "SN1.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Oghataraṇa "
+  - "Crossing The Flood"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
 > ◄  [[]] 📜  [[sn1.2-pali-sri]] ►
 
 # 1:1 Nalavaggo - Pali
@@ -270,6 +270,20 @@ Araññe dasamo4 vutto vaggo tena pavuccati.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.180]], [[SA1267]] | S i 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN2.18]], [[SA-2.180]], [[SA1267]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN12.38 AND SN12.64]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
+> ◄  [[]] 📜  [[sn1.2-pali-sri]] ►

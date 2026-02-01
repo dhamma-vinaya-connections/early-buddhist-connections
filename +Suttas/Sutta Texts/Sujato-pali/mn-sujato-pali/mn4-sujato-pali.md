@@ -3,11 +3,11 @@ sutta_code: "MN4"
 sutta_title:
   - "Bhayabherava Sutta "
   - "Fear and Dread"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
 > ◄  [[mn3-sujato-pali]] 📜  [[mn5-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -223,8 +223,7 @@ Bhayabheravasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -235,6 +234,5 @@ Bhayabheravasuttaṁ niṭṭhitaṁ catutthaṁ.
 | [[EA31.1]]; [[MN100]]; [[MN26]]; [[MN36]]; [[MN85]]; [[MN20]]; [[MA101]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
 > ◄  [[mn3-sujato-pali]] 📜  [[mn5-sujato-pali]] ►

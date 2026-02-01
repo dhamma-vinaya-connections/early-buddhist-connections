@@ -4,10 +4,10 @@ sutta_title:
   - "Sekha "
   - "Trainee"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI16]]
 > ◄  [[iti15-deepseek-pali]] 📜  [[iti17-deepseek-pali]] ►
 
 # Iti 16 Dutiyasekhasuttaṃ
@@ -27,6 +27,5 @@ This too was said by the Blessed One, so I heard. Seventh.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti16-) 
 

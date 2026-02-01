@@ -3,11 +3,11 @@ sutta_code: "SNP1.5"
 sutta_title:
   - "Cunda "
   - "With Cunda the smith"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.5]]
 > ◄  [[snp1.4-sujato-pali]] 📜  [[snp1.6-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -132,8 +132,7 @@ Cundasuttaṁ pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -148,6 +147,5 @@ Cundasuttaṁ pañcamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[AN10.176]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.5]]
 > ◄  [[snp1.4-sujato-pali]] 📜  [[snp1.6-sujato-pali]] ►

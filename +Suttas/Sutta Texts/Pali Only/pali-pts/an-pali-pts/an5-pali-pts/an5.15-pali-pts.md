@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.15-PALI"
+sutta_code: "AN5.15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kūṭa "
+  - "Peak"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.15]]
 > ◄  [[an5.14-pali-pts]] 📜  [[an5.16-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Idha bhikkhave ariyasāvako āraddhaviriyo viharati akusalānaṃ dhammānaṃ p
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.15-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN48.8]] | [[SA646]], [[SA675]] | A iii 11 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA675]], [[SA646]], [[SN48.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.15]]
+> ◄  [[an5.14-pali-pts]] 📜  [[an5.16-pali-pts]] ►

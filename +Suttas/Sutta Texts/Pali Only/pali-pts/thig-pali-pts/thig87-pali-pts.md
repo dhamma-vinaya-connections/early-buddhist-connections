@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG87-PALI"
+sutta_code: "THIG87"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG87-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG87]]
 > ◄  [[thig86-pali-pts]] 📜  [[thig88-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ bahūvatasamādānā aḍḍhaṃ sīsassa olikhiṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig87-) 
 

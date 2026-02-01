@@ -3,11 +3,11 @@ sutta_code: "THAG16"
 sutta_title:
   - "Vīsatinipātavagga "
   - "Twenties Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG16]]
 > ◄  [[thag15-sujato-pali]] 📜  [[thag17-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -2629,6 +2629,5 @@ isi khīṇapunabbhavo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag16-) 
 

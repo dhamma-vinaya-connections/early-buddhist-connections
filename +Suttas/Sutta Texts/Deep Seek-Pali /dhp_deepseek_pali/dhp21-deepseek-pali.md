@@ -4,10 +4,10 @@ sutta_title:
   - "Pakiṇṇakavagga "
   - "Miscellaneous"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP21]]
 > ◄  [[dhp20-deepseek-pali]] 📜  [[dhp22-deepseek-pali]] ►
 
 # Dhp 21. Pakiṇṇakavaggo
@@ -100,8 +100,7 @@ The Miscellaneous Chapter, the twenty-first, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -112,6 +111,5 @@ The Miscellaneous Chapter, the twenty-first, is concluded.
 | [[JA520]], [[PE5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP21]]
 > ◄  [[dhp20-deepseek-pali]] 📜  [[dhp22-deepseek-pali]] ►

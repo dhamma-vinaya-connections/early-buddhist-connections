@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.2-PALI"
+sutta_code: "SN4.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Hatthirājavaṇṇasutta "
+  - "The King Elephant"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.2]]
 > ◄  [[sn4.1-pali-sri]] 📜  [[sn4.3-pali-sri]] ►
 
 # 4:2 Rajjavaggo - Pali
@@ -344,6 +344,5 @@ Pattaṃ āyatanaṃ piṇḍaṃ kassakaṃ rajjena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.2-) 
 

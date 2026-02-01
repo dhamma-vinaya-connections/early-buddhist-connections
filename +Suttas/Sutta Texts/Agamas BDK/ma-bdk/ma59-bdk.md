@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA59]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA59]]
 > ◄  [[ma58-bdk]] 📜  [[ma60-bdk]] ►
 
 ### 59. The Discourse on the Thirty-two Marks
@@ -31,8 +31,7 @@ freely, as he likes. Being a righteous Dharma king, he attains seven treas- ures
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma59-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -42,6 +41,5 @@ freely, as he likes. Being a righteous Dharma king, he attains seven treas- ures
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA60]], [[MA67]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA59]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA59]]
 > ◄  [[ma58-bdk]] 📜  [[ma60-bdk]] ►

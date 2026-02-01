@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG625-PALI"
+sutta_code: "THAG625"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG625-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG625]]
 > ◄  [[thag624-pali-pts]] 📜  [[thag626-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ so 'haṃ eko araññasmiṃ viharanto atandito
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag625-) 
 

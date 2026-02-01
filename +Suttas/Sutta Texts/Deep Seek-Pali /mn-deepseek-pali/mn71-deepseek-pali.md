@@ -4,10 +4,10 @@ sutta_title:
   - "Tevijjavaccha Sutta "
   - "Vacchagotta on the Three Knowledges"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-deepseek-pali]] 📜  [[mn72-deepseek-pali]] ►
 
 # 71. Tevijjavacchasuttaṃ
@@ -59,8 +59,7 @@ The Tevijjavacchagotta Sutta is concluded, the first.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn71-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ The Tevijjavacchagotta Sutta is concluded, the first.
 | [[MN14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-deepseek-pali]] 📜  [[mn72-deepseek-pali]] ►

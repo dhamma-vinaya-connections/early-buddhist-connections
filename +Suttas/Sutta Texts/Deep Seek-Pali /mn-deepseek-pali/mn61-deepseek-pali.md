@@ -4,10 +4,10 @@ sutta_title:
   - "Ambalaṭṭhikarāhulovāda Sutta "
   - "Advice to Rāhula at Ambalaṭṭhika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
 > ◄  [[mn60-deepseek-pali]] 📜  [[mn62-deepseek-pali]] ►
 
 # 61. Ambalaṭṭhikarāhulovādasuttaṃ
@@ -75,8 +75,7 @@ The Ambalaṭṭhika-Rāhulovāda Sutta is concluded, the first.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn61-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ The Ambalaṭṭhika-Rāhulovāda Sutta is concluded, the first.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN62]]; [[MN147]]; [[MN65]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
 > ◄  [[mn60-deepseek-pali]] 📜  [[mn62-deepseek-pali]] ►

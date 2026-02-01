@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP402-PALI"
+sutta_code: "DHP402"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP402-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP402]]
 > ◄  [[dhp401-pali-pts]] 📜  [[dhp403-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ gambhīrapaññaṃ medhāviṃ maggāmaggassa kovidaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp402-) 
 

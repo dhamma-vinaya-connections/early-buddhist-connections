@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.60-PALI"
+sutta_code: "AN2.60"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sukha "
+  - "Happiness"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.60-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.60]]
 > ◄  [[an2.59-pali-pts]] 📜  [[an2.62-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,5 @@ Mā ca musā bhaṇimhā mā ca paraṃ abhūtena abbhācikkhimhā ti. Ime kho b
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.60-) 
 

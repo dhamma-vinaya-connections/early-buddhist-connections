@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI2-PALI"
+sutta_code: "ITI2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dosa "
+  - "Hate"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI2]]
 > ◄  [[iti1-pali-pts]] 📜  [[iti3-pali-pts]] ►
 
 ## Itivuttaka
@@ -28,6 +28,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||2||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti2-) 
 

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
 > ◄  [[an9.36-thanissaro]] 📜  [[an9.38-thanissaro]] ►
 
 ## AN9.37 With Ānanda
@@ -42,8 +42,7 @@ When this was said, Ven. Udāyin said to Ven. Ānanda, “Is one percipient when
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.37-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -58,6 +57,5 @@ When this was said, Ven. Udāyin said to Ven. Ānanda, “Is one percipient when
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.34]], [[AN9.36]], [[AN11.1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
 > ◄  [[an9.36-thanissaro]] 📜  [[an9.38-thanissaro]] ►

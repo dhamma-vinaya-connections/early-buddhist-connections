@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG14-PALI"
+sutta_code: "THAG14"
 sutta_title:
-  - " "
-  - ""
+  - "Cuddasakanipātavagga "
+  - "Fourteens Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG14]]
 > ◄  [[thag13-pali-eng]] 📜  [[thag15-pali-eng]] ►
 
 # Thag 14. Cuddasakanipāto
@@ -158,6 +158,5 @@ Those who have abandoned sensual desire and anger, with minds at peace regarding
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag14-) 
 

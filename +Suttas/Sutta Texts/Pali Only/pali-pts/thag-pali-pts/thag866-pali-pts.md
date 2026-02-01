@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG866-PALI"
+sutta_code: "THAG866"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG866-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG866]]
 > ◄  [[thag865-pali-pts]] 📜  [[thag867-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ pucchāmi taṃ samaṇa etam atthaṃ: kasmā ṭhito tvaṃ aham aṭṭhito '
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag866-) 
 

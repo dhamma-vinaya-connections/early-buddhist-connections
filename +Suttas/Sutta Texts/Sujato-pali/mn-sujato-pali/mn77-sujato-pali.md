@@ -3,11 +3,11 @@ sutta_code: "MN77"
 sutta_title:
   - "Mahāsakuludāyi Sutta "
   - "With Sakuludāyī Longer Discourse"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77]]
 > ◄  [[mn76-sujato-pali]] 📜  [[mn78-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -465,8 +465,7 @@ Mahāsakuludāyisuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn77-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -481,6 +480,5 @@ Mahāsakuludāyisuttaṁ niṭṭhitaṁ sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN32]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN77]]
 > ◄  [[mn76-sujato-pali]] 📜  [[mn78-sujato-pali]] ►

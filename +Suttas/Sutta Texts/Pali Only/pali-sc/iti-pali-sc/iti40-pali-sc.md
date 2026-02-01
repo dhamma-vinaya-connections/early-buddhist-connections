@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI40-PALI"
+sutta_code: "ITI40"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vijjā "
+  - "Wisdom"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI40-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI40]]
 > ◄  [[iti39-pali-sc]] 📜  [[iti41-pali-sc]] ►
 
 # Iti 40. Paññāparihīnasuttaṃ
@@ -29,6 +29,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti40-) 
 

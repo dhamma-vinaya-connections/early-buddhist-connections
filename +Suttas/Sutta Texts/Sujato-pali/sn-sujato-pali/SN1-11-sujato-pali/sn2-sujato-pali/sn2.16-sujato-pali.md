@@ -3,11 +3,11 @@ sutta_code: "SN2.16"
 sutta_title:
   - "Vāsudattasutta "
   - "Vasudatta"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
 > ◄  [[sn2.15-sujato-pali]] 📜  [[sn2.17-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -51,8 +51,7 @@ sato bhikkhu paribbaje"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ sato bhikkhu paribbaje"ti.
 | [[SN1.21]], [[SA-2.170]], [[SA586]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
 > ◄  [[sn2.15-sujato-pali]] 📜  [[sn2.17-sujato-pali]] ►

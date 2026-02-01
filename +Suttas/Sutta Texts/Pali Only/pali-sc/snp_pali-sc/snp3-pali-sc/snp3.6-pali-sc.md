@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP3.6-PALI"
+sutta_code: "SNP3.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sabhiyasutta "
+  - "Sabhiya's Questions"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
 > ◄  [[snp3.5-pali-sc]] 📜  [[snp3.7-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -274,6 +274,20 @@ Sabhiyasuttaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DN2]], [[DN21]], [[MN92]], [[SNP3.7]], [[THAG16.6]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN2]], [[UD1.9]], [[THAG6.9]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
+> ◄  [[snp3.5-pali-sc]] 📜  [[snp3.7-pali-sc]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
 > ◄  [[sn2.3-bodhi]] 📜  [[sn2.5-bodhi]] ►
 
 # SN2.4 Māgadha
@@ -46,8 +46,7 @@ At Sāvatthī. Standing to one side, the young deva Māgadha addressed the Bl
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -58,6 +57,5 @@ At Sāvatthī. Standing to one side, the young deva Māgadha addressed the Bl
 | [[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP387]], [[SN21.11]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
 > ◄  [[sn2.3-bodhi]] 📜  [[sn2.5-bodhi]] ►

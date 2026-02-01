@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG247-PALI"
+sutta_code: "THIG247"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG247-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG247]]
 > ◄  [[thig246-pali-pts]] 📜  [[thig248-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ na te dukkhā pamuty atthi upeccāpi palāyato. |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig247-) 
 

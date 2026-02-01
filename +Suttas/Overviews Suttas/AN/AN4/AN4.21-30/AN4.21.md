@@ -34,16 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[SN6.2]]"
-parallels_agama:
-  - "[[SA-2.101]]"
-  - "[[SA1188]]"
-parallels_partilal:
-  - "[[SN6.2]]"
-  - "[[SA-2.101]]"
-  - "[[SA1188]]"
+parallels_nikaya: "[[SN6.2]]"
+parallels_agama: "[[SA-2.101]], [[SA1188]]"
+parallels_partilal: "[[SN6.2]], [[SA-2.101]], [[SA1188]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.20]]  🌐 [[AN4.22]] ►
 
@@ -65,8 +58,7 @@ And since the saṅgha has also achieved greatness, I also respect the saṅgha.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -78,8 +70,7 @@ And since the saṅgha has also achieved greatness, I also respect the saṅgha.
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN4.21%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN4.21%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -90,7 +81,7 @@ And since the saṅgha has also achieved greatness, I also respect the saṅgha.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.21%5D%5D%22%23mynotes%20-file%3Aan4.21-%20-file%3A%22AN4.20%22%20-file%3A%22AN4.22%22%20-file%3A%22AN4.21%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.21/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.21

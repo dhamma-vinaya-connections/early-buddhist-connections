@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.108-PALI"
+sutta_code: "AN3.108"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Atitti "
+  - "Satisfaction"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.108-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.108]]
 > ◄  [[an3.107-pali-pts]] 📜  [[an3.109-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Imesaṃ kho bhikkhave tiṇṇaṃ paṭisevanāya n'; atthi tittī ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.108-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA22.10]] | A i 261 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA22.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.108]]
+> ◄  [[an3.107-pali-pts]] 📜  [[an3.109-pali-pts]] ►

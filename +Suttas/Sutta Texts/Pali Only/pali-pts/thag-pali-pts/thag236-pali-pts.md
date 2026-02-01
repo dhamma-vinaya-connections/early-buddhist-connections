@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG236-PALI"
+sutta_code: "THAG236"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG236-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG236]]
 > ◄  [[thag235-pali-pts]] 📜  [[thag237-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Yo 'dha koci manussesu parapāṇāni hiṃsati,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag236-) 
 

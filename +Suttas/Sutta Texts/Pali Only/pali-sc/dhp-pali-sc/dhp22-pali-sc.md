@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP22-PALI"
+sutta_code: "DHP22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nirayavagga "
+  - "Hell"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
 > ◄  [[dhp21-pali-sc]] 📜  [[dhp23-pali-sc]] ►
 
 # NIRAYA VAGGA
@@ -73,6 +73,16 @@ Vajjañca vajjato ñatvā, avajjañca avajjato; sammādiṭṭhisamādānā, sat
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 86 |
+> > [!check]- Partial parallels 
+> > 
+| [[PE5]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
+> ◄  [[dhp21-pali-sc]] 📜  [[dhp23-pali-sc]] ►

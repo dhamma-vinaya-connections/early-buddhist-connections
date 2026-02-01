@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG7-PALI"
+sutta_code: "THIG7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sattakanipātavagga "
+  - "Sevens Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG7]]
 > ◄  [[thig6-pali-pts]] 📜  [[thig8-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ saddhāya pabbajitvāna Mitte mittaratā bhava |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig7-) 
 

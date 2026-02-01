@@ -4,10 +4,10 @@ sutta_title:
   - "Tanhakkhaya Sutta "
   - "The Ending of Craving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.6]]
 > ◄  [[ud7.5-deepseek-pali]] 📜  [[ud7.7-deepseek-pali]] ►
 
 # Ud 7.6 Taṇhāsaṅkhayasuttaṃ
@@ -35,8 +35,7 @@ Then, having understood this matter, the Blessed One on that occasion uttered th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then, having understood this matter, the Blessed One on that occasion uttered th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN56.11]], [[MN18]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.6]]
 > ◄  [[ud7.5-deepseek-pali]] 📜  [[ud7.7-deepseek-pali]] ►

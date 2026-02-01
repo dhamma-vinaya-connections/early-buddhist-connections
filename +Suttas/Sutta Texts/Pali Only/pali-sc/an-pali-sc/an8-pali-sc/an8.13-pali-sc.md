@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.13-PALI"
+sutta_code: "AN8.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Assājānīya "
+  - "Thoroughbred"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.13]]
 > ◄  [[an8.12-pali-sc]] 📜  [[an8.14-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -68,6 +68,20 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.14]] | [[SA-2.149]], [[SA-2.150]], [[SA924]], [[SA925]] | A iv 188 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.150]], [[SA925]], [[AN8.14]], [[SA-2.149]], [[SA924]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.81(II)]], [[AN3.94]], [[AN5.139]], [[AN5.140]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.13]]
+> ◄  [[an8.12-pali-sc]] 📜  [[an8.14-pali-sc]] ►

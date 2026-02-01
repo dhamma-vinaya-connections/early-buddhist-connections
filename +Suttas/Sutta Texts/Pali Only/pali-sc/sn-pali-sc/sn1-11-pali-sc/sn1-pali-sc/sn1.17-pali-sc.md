@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.17-PALI"
+sutta_code: "SN1.17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dukkarasutta "
+  - "Difficult to Practise"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.17]]
 > ◄  [[sn1.16-pali-sc]] 📜  [[sn1.18-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -53,6 +53,20 @@ Parinibbuto nūpavadeyya kañcī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.174]], [[SA600]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.174]], [[SA600]], [[SN35.240]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN35.199]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.17]]
+> ◄  [[sn1.16-pali-sc]] 📜  [[sn1.18-pali-sc]] ►

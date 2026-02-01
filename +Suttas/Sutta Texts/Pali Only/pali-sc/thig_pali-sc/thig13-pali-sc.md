@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG13-PALI"
+sutta_code: "THIG13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vīsatinipātavagga "
+  - "Twenties Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG13]]
 > ◄  [[thig12-pali-sc]] 📜  [[thig14-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -632,6 +632,5 @@ subhaṁ kammāradhītaranti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig13-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Ajāta "
   - "Unborn"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI43]]
 > ◄  [[iti42-deepseek-pali]] 📜  [[iti44-deepseek-pali]] ►
 
 # Iti 43 Nibbānadhātusuttaṃ
@@ -33,9 +33,7 @@ This meaning too was spoken by the Blessed One, thus I heard. Seventh.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti43-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI43]]
 > ◄  [[iti42-deepseek-pali]] 📜  [[iti44-deepseek-pali]] ►

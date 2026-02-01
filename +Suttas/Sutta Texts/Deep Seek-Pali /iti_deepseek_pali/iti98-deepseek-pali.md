@@ -4,10 +4,10 @@ sutta_title:
   - "大空 "
   - "Emptiness Longer Discourse"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI98]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI98]]
 > ◄  [[iti97-deepseek-pali]] 📜  [[iti99-deepseek-pali]] ►
 
 # Iti 98 Brāhmaṇadhammayāgasuttaṃ
@@ -35,6 +35,5 @@ This too is the meaning that was spoken by the Blessed One, so I have heard. Fir
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti98-) 
 

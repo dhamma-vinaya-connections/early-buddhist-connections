@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG124-PALI"
+sutta_code: "THAG124"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG124-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG124]]
 > ◄  [[thag123-pali-pts]] 📜  [[thag125-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Makkaṭo pañcadvārāyaṃ kuṭikāyaṃ pasakkiya
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag124-) 
 

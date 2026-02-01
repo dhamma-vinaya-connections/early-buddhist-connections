@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG395-PALI"
+sutta_code: "THIG395"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG395-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG395]]
 > ◄  [[thig394-pali-pts]] 📜  [[thig396-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ uppāṭiya cārudassanā na ca pajjittha asaṅgamānasā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig395-) 
 

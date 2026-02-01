@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG255-PALI"
+sutta_code: "THAG255"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG255-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG255]]
 > ◄  [[thag254-pali-pts]] 📜  [[thag256-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ dhammaṃ vo desayissāmi; dukkhā jāti punappunaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag255-) 
 

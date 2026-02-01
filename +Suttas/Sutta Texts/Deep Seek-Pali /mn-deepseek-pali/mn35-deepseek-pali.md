@@ -4,10 +4,10 @@ sutta_title:
   - "Cūḷasaccaka Sutta "
   - "Shorter Discourse With Saccaka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
 > ◄  [[mn34-deepseek-pali]] 📜  [[mn36-deepseek-pali]] ►
 
 # 35. Cūḷasaccakasuttaṃ
@@ -131,8 +131,7 @@ The Cūḷasaccaka Sutta, the fifth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn35-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -143,6 +142,5 @@ The Cūḷasaccaka Sutta, the fifth, is finished.
 | [[EA37.10]]; [[SA110]]; [[SN22.15]]; [[SA10]]; [[SA9]]; [[SN22.16]]; [[SN22.17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
 > ◄  [[mn34-deepseek-pali]] 📜  [[mn36-deepseek-pali]] ►

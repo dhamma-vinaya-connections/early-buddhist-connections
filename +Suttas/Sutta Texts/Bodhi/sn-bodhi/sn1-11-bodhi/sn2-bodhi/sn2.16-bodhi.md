@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
 > ◄  [[sn2.15-bodhi]] 📜  [[sn2.17-bodhi]] ►
 
 # SN2.16 Vasudatta
@@ -38,8 +38,7 @@ Standing to one side, the young deva Vasudatta recited this verse in the presenc
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -50,6 +49,5 @@ Standing to one side, the young deva Vasudatta recited this verse in the presenc
 | [[SN1.21]], [[SA-2.170]], [[SA586]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
 > ◄  [[sn2.15-bodhi]] 📜  [[sn2.17-bodhi]] ►

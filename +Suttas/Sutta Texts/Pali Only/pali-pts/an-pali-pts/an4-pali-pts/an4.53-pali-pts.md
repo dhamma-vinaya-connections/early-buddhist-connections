@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.53-PALI"
+sutta_code: "AN4.53"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Saṃvāsa "
+  - "Living Together"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.53-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.53]]
 > ◄  [[an4.52-pali-pts]] 📜  [[an4.54-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -27,6 +27,11 @@ Anuyuñjetha medhāvī saraṃ buddhāna sāsanan ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.53-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 57 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.53]]
+> ◄  [[an4.52-pali-pts]] 📜  [[an4.54-pali-pts]] ►

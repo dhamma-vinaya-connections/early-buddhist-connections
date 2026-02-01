@@ -3,11 +3,11 @@ sutta_code: "AN6.44"
 sutta_title:
   - "Migasālā "
   - "With Migasālā"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.44]]
 > ◄  [[an6.43-sujato-pali]] 📜  [[an6.45-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -151,8 +151,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.44-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -163,6 +162,5 @@ Dutiyaṁ.
 | [[AN10.75]], [[SA990]], [[SA991]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.44]]
 > ◄  [[an6.43-sujato-pali]] 📜  [[an6.45-sujato-pali]] ►

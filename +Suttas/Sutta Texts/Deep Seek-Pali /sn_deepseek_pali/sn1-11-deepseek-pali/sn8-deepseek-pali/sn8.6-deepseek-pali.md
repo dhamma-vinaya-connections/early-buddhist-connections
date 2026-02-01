@@ -4,10 +4,10 @@ sutta_title:
   - "Sāriputtasutta "
   - "Sāriputta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
 > ◄  [[sn8.5-deepseek-pali]] 📜  [[sn8.7-deepseek-pali]] ►
 
 # SN 8.6 Sāriputtasuttaṃ
@@ -39,8 +39,7 @@ Then the Venerable Vaṅgīsa rose from his seat, arranged his upper robe over o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then the Venerable Vaṅgīsa rose from his seat, arranged his upper robe over o
 | [[SA-2.226]], [[SA1210]], [[THAG21.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
 > ◄  [[sn8.5-deepseek-pali]] 📜  [[sn8.7-deepseek-pali]] ►

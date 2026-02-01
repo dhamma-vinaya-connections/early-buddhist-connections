@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI95-PALI"
+sutta_code: "ITI95"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "勝道 "
+  - "Noble Path"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI95-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI95]]
 > ◄  [[iti94-pali-sc]] 📜  [[iti96-pali-sc]] ►
 
 # Iti 95. Kāmayogasuttaṃ
@@ -57,6 +57,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti95-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI95]]
+> ◄  [[iti94-pali-sc]] 📜  [[iti96-pali-sc]] ►

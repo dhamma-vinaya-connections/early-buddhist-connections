@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
 > ◄  [[mn118-bodhi]] 📜  [[mn120-bodhi]] ►
 
 # MN119 Kāyagatāsati Sutta - Mindfulness of the Body
@@ -119,8 +119,7 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn119-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -135,6 +134,5 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN118]], [[MN10]], [[DN22]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
 > ◄  [[mn118-bodhi]] 📜  [[mn120-bodhi]] ►

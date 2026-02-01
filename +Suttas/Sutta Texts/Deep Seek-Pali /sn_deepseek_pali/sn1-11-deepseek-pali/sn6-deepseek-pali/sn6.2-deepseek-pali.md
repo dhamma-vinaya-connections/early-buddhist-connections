@@ -4,10 +4,10 @@ sutta_title:
   - "Gāravasutta "
   - "Reverence"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
 > ◄  [[sn6.1-deepseek-pali]] 📜  [[sn6.3-deepseek-pali]] ►
 
 # SN 6.2 Gāravasuttaṃ
@@ -59,8 +59,7 @@ Therefore, one who loves oneself, aspiring to greatness, should respect the true
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Therefore, one who loves oneself, aspiring to greatness, should respect the true
 | [[AN4.21]], [[SA-2.101]], [[SA1188]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
 > ◄  [[sn6.1-deepseek-pali]] 📜  [[sn6.3-deepseek-pali]] ►

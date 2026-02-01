@@ -7,16 +7,11 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA17]]
 > ◄  [[da16-patton]] 📜  [[da18-patton]] ►
 
-# [Dharma Pearls](../../index-2.html)
-
-## Translating Classical Buddhism to Modern English
-
-[What’s New](../../whats-new.html) [Translations](../../translations.html) [Resources](../../resources.html) [About](../../about.html)
-
-# [The Long Discourses](index.html)
+# The Long Discourses
+Translated by Charles Patton
 
 ## Part II
 
@@ -263,12 +258,11 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > | [[AN9.7]], [[AN9.8]], [[DN29]] |  |  |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA17]]
 > ◄  [[da16-patton]] 📜  [[da18-patton]] ►

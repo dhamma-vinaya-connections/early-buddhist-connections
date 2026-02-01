@@ -4,10 +4,10 @@ sutta_title:
   - "Kalyāṇamittasutta "
   - "Diligence (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
 > ◄  [[sn3.17-deepseek-pali]] 📜  [[sn3.19-deepseek-pali]] ►
 
 # SN 3.18 Kalyāṇamittasuttaṃ
@@ -79,8 +79,7 @@ The heedful wise one grasps both kinds of welfare: welfare in this present life 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ The heedful wise one grasps both kinds of welfare: welfare in this present life 
 | [[SA1238]], [[SA-2.65]], [[AN5.43]], [[ITI23]], [[SN3.17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
 > ◄  [[sn3.17-deepseek-pali]] 📜  [[sn3.19-deepseek-pali]] ►

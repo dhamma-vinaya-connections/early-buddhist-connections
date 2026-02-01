@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN50-PALI"
+sutta_code: "MN50"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Māratajjanīya Sutta "
+  - "Rebuke of Māra"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN50-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN50]]
 > ◄  [[mn49-pali-sc]] 📜  [[mn51-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -196,6 +196,20 @@ Mūlapaṇṇāsakaṁ samattaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn50-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA131]] | M i 332 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA131]]; [[THAG20.1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN37]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN50]]
+> ◄  [[mn49-pali-sc]] 📜  [[mn51-pali-sc]] ►

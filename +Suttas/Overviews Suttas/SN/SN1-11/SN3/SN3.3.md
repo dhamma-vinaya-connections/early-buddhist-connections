@@ -34,19 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "King"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP151]]"
-parallels_agama:
-  - "[[EA26.6]]"
-  - "[[SA-2.67]]"
-  - "[[SA1240]]"
-parallels_partilal:
-  - "[[EA26.6]]"
-  - "[[SA-2.67]]"
-  - "[[SA1240]]"
-  - "[[DHP151]]"
-  - "[[JA537]]"
+parallels_nikaya: "[[DHP151]]"
+parallels_agama: "[[EA26.6]], [[SA-2.67]], [[SA1240]]"
+parallels_partilal: "[[EA26.6]], [[SA-2.67]], [[SA1240]], [[DHP151]], [[JA537]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.2]]  🌐 [[SN3.4]] ►
 
@@ -67,8 +57,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -80,8 +69,7 @@ parallels_partilal:
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN3.3%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN3.3%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -92,7 +80,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.3%5D%5D%22%23mynotes%20-file%3Asn3.3-%20-file%3A%22SN3.2%22%20-file%3A%22SN3.4%22%20-file%3A%22SN3.3%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.3

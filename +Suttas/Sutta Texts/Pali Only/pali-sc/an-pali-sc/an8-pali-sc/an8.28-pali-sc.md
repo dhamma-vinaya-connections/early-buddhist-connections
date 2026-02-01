@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.28-PALI"
+sutta_code: "AN8.28"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dutiyabala "
+  - "Powers"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.28-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.28]]
 > ◄  [[an8.27-pali-sc]] 📜  [[an8.29-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -42,6 +42,16 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.28-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN10.90]], [[SN50.1-12]] | [[SA694-698]] | A iv 223 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.90]], [[SN50.1-12]], [[SA694-698]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.28]]
+> ◄  [[an8.27-pali-sc]] 📜  [[an8.29-pali-sc]] ►

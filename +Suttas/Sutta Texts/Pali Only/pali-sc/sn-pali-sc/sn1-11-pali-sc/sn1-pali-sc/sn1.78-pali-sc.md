@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.78-PALI"
+sutta_code: "SN1.78"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kāmasutta "
+  - "Love"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.78-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.78]]
 > ◄  [[sn1.77-pali-sc]] 📜  [[sn1.79-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -43,6 +43,5 @@ pāpikañca na mocaye"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.78-) 
 

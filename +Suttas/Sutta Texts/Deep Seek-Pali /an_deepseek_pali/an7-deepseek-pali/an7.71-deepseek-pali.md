@@ -4,10 +4,10 @@ sutta_title:
   - "Bhāvanā "
   - "Development Commitment"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.71]]
 > ◄  [[an7.70-deepseek-pali]] 📜  [[an7.72-deepseek-pali]] ►
 
 # AN 7.71 Bhāvanāsuttaṃ
@@ -43,8 +43,7 @@ Just as, bhikkhus, a sea-going ship bound with rattan ropes, having spent six mo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.71-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Just as, bhikkhus, a sea-going ship bound with rattan ropes, having spent six mo
 | [[SN22.101]], [[SA263]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.71]]
 > ◄  [[an7.70-deepseek-pali]] 📜  [[an7.72-deepseek-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
 > ◄  [[]] 📜  [[mn2-anigha]] ►
 
 # MN 1 - The Explanation of the Root
@@ -104,8 +104,7 @@ That is what the Auspicious One said. But the bhikkhus did not delight in what t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -120,6 +119,5 @@ That is what the Auspicious One said. But the bhikkhus did not delight in what t
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.248]], [[AN4.174]], [[AN10.58]], [[SN35.30]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
 > ◄  [[]] 📜  [[mn2-anigha]] ►

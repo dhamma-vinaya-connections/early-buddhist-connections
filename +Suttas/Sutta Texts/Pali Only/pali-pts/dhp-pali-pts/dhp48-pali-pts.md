@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP48-PALI"
+sutta_code: "DHP48"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP48-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP48]]
 > ◄  [[dhp47-pali-pts]] 📜  [[dhp49-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yathāpi bhamaro pupphaṃ vaṇṇagandhaṃ aheṭhayaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp48-) 
 

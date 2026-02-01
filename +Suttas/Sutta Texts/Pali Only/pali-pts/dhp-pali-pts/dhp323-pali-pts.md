@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP323-PALI"
+sutta_code: "DHP323"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP323-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP323]]
 > ◄  [[dhp322-pali-pts]] 📜  [[dhp324-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ dhanapālako nāma kuñjaro kaṭukapabhedano dunnivārayo /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp323-) 
 

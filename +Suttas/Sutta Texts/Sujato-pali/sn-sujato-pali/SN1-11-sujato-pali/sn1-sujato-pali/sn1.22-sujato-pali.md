@@ -3,11 +3,11 @@ sutta_code: "SN1.22"
 sutta_title:
   - "Phusatisutta "
   - "It Touches"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.22]]
 > ◄  [[sn1.21-sujato-pali]] 📜  [[sn1.23-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -45,8 +45,7 @@ Sukhumo rajo paṭivātaṁva khitto"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ Sukhumo rajo paṭivātaṁva khitto"ti.
 | [[SA-2.273]], [[SA1275]], [[DHP125]], [[JA367]], [[SN7.4]], [[SNP3.10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.22]]
 > ◄  [[sn1.21-sujato-pali]] 📜  [[sn1.23-sujato-pali]] ►

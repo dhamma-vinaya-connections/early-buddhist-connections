@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.16-PALI"
+sutta_code: "SN7.16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paccanīkasutta "
+  - "Paccanika"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.16]]
 > ◄  [[sn7.15-pali-sc]] 📜  [[sn7.17-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -43,6 +43,16 @@ sa ve jaññā subhāsitan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.16-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.78]], [[SA-3.7]], [[SA1155]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.78]], [[SA-3.7]], [[SA1155]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.16]]
+> ◄  [[sn7.15-pali-sc]] 📜  [[sn7.17-pali-sc]] ►

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA58]]
 > ◄  [[ma57-bdk]] 📜  [[ma59-bdk]] ►
 
 ### 58. The Discourse on the Seven Treasures
@@ -19,8 +19,7 @@ Thus have I heard: At one time the Buddha was staying at Sāvatthī, in Jeta’s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma58-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -31,6 +30,5 @@ Thus have I heard: At one time the Buddha was staying at Sāvatthī, in Jeta’s
 | [[MA67]], [[MN83]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA58]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA58]]
 > ◄  [[ma57-bdk]] 📜  [[ma59-bdk]] ►

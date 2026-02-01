@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.6-PALI"
+sutta_code: "SN3.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Appakasutta "
+  - "Few"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.6]]
 > ◄  [[sn3.5-pali-pts]] 📜  [[sn3.8-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -45,6 +45,16 @@ atthābhisamayā dhīro || paṇḍito ti pavuccatīti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.58]], [[SA1230]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.58]], [[SA1230]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.6]]
+> ◄  [[sn3.5-pali-pts]] 📜  [[sn3.8-pali-pts]] ►

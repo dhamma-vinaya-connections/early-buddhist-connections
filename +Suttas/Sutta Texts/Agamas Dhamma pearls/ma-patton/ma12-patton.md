@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA12]]
 > ◄  [[ma11-patton]] 📜  [[ma13-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -103,8 +103,7 @@ Vāṣpa said, “Yes, Gautama. A well-versed noble disciple who is correctly li
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -115,6 +114,5 @@ Vāṣpa said, “Yes, Gautama. A well-versed noble disciple who is correctly li
 | [[PLI-TV-KD14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA12]]
 > ◄  [[ma11-patton]] 📜  [[ma13-patton]] ►

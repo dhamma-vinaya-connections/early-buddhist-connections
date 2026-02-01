@@ -4,10 +4,10 @@ sutta_title:
   - "Sokhumma "
   - "Subtlety"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.16]]
 > ◄  [[an4.15-deepseek-pali]] 📜  [[an4.17-deepseek-pali]] ►
 
 # AN 4.16 Sokhummasuttaṃ
@@ -31,8 +31,7 @@ That monk is truly seeing, tranquil, delighting in peace; he bears this final bo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ That monk is truly seeing, tranquil, delighting in peace; he bears this final bo
 | [[ITI62]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.16]]
 > ◄  [[an4.15-deepseek-pali]] 📜  [[an4.17-deepseek-pali]] ►

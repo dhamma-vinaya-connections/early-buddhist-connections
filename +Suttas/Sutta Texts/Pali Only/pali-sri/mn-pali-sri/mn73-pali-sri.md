@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN73-PALI"
+sutta_code: "MN73"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahāvaccha Sutta "
+  - "Longer Discourse With Vacchagotta"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
 > ◄  [[mn72-pali-sri]] 📜  [[mn74-pali-sri]] ►
 
 # 73. Mahavacchagotta Sutta - Pali
@@ -146,6 +146,16 @@ Mahāvacchagottasuttaṃ tatiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn73-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.198]]; [[SA964]] | M i 489 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.198]]; [[SA964]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
+> ◄  [[mn72-pali-sri]] 📜  [[mn74-pali-sri]] ►

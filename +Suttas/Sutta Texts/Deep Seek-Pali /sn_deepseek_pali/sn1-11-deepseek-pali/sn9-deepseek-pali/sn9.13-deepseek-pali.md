@@ -4,10 +4,10 @@ sutta_title:
   - "Pākatindriyasutta "
   - "Loose in Sense Faculties"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
 > ◄  [[sn9.12-deepseek-pali]] 📜  [[sn9.14-deepseek-pali]] ►
 
 # SN 9.13 Pākatindriyasuttaṃ
@@ -43,8 +43,7 @@ Then those bhikkhus, stirred by that deity, attained a sense of urgency.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then those bhikkhus, stirred by that deity, attained a sense of urgency.
 | [[SN2.25]], [[SA-2.363]], [[SA1343]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
 > ◄  [[sn9.12-deepseek-pali]] 📜  [[sn9.14-deepseek-pali]] ►

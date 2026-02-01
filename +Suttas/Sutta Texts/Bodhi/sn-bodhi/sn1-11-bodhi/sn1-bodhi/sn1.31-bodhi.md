@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
 > ◄  [[sn1.30-bodhi]] 📜  [[sn1.32-bodhi]] ►
 
 # SN1.31 With the Good
@@ -97,8 +97,7 @@ This is what the Blessed One said. Elated, those devatās paid homage to the Bl
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.31-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -109,6 +108,5 @@ This is what the Blessed One said. Elated, those devatās paid homage to the Bl
 | [[SA-2.285]], [[SA1287]], [[SN2.21]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
 > ◄  [[sn1.30-bodhi]] 📜  [[sn1.32-bodhi]] ►

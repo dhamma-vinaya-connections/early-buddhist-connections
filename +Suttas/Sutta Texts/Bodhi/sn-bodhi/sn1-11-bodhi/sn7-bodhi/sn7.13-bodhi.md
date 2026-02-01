@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
 > ◄  [[sn7.12-bodhi]] 📜  [[sn7.14-bodhi]] ►
 
 # SN7.13 Devahita
@@ -82,8 +82,7 @@ When this was said, the brahmin Devahita said to the Blessed One: “Magnificent
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -94,6 +93,5 @@ When this was said, the brahmin Devahita said to the Blessed One: “Magnificent
 | [[SA-2.95]], [[SA1181]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
 > ◄  [[sn7.12-bodhi]] 📜  [[sn7.14-bodhi]] ►

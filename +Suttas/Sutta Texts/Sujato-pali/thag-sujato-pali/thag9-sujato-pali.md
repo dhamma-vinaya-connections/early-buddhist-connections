@@ -3,11 +3,11 @@ sutta_code: "THAG9"
 sutta_title:
   - "Navakanipātavagga "
   - "Nines Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
 > ◄  [[thag8-sujato-pali]] 📜  [[thag10-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -117,9 +117,7 @@ Tato ratiṁ paramataraṁ na vindatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag9-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
 > ◄  [[thag8-sujato-pali]] 📜  [[thag10-sujato-pali]] ►

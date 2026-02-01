@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.51]]
 > ◄  [[an7.50-thanissaro]] 📜  [[an7.54-thanissaro]] ►
 
 ## AN7.51 Undeclared
@@ -32,8 +32,7 @@ The uninstructed run-of-the-mill person doesn’t discern anguish, doesn’t dis
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.51-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ The uninstructed run-of-the-mill person doesn’t discern anguish, doesn’t dis
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.48]], [[AN10.60]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.51]]
 > ◄  [[an7.50-thanissaro]] 📜  [[an7.54-thanissaro]] ►

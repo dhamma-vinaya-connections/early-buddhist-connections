@@ -4,10 +4,10 @@ sutta_title:
   - "Subha Sutta "
   - "With Subha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
 > ◄  [[dn9-deepseek-pali]] 📜  [[dn11-deepseek-pali]] ►
 
 # Subhasuttaṃ
@@ -267,8 +267,7 @@ Just as, young man, if there were a lake of water in a mountain cleft, clear, se
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -283,6 +282,5 @@ Just as, young man, if there were a lake of water in a mountain cleft, clear, se
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
 > ◄  [[dn9-deepseek-pali]] 📜  [[dn11-deepseek-pali]] ►

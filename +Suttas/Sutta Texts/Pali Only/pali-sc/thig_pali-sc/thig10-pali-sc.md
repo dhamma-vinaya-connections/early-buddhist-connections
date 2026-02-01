@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG10-PALI"
+sutta_code: "THIG10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ekādasakanipātavagga "
+  - "Elevens Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG10]]
 > ◄  [[thig9-pali-sc]] 📜  [[thig11-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -76,6 +76,5 @@ Vimuttacittā imaṁ bhaṇī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig10-) 
 

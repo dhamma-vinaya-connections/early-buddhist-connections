@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG126-PALI"
+sutta_code: "THAG126"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG126-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG126]]
 > ◄  [[thag125-pali-pts]] 📜  [[thag127-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Tiṇṇaṃ me tālapattānaṃ Gaṅgātīre kuṭī katā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag126-) 
 

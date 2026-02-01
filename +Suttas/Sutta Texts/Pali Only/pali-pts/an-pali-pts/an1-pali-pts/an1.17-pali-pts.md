@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.17-PALI"
+sutta_code: "AN1.17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ekapuggala "
+  - "One Person"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.17]]
 > ◄  [[an1.16-pali-pts]] 📜  [[an1.18-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Mettaṃ bhikkhave ceto-vimuttiṃ yoniso manasikaroto anuppanno c'; eva vyāpā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA9.10]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[EA9.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.17]]
+> ◄  [[an1.16-pali-pts]] 📜  [[an1.18-pali-pts]] ►

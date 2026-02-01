@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG276-PALI"
+sutta_code: "THIG276"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG276-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG276]]
 > ◄  [[thig275-pali-pts]] 📜  [[thig277-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ kāyakammaṃ suci nesaṃ vacīkammañ ca tādisaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig276-) 
 

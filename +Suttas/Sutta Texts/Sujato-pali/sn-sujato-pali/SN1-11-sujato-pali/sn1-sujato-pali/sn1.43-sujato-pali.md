@@ -3,11 +3,11 @@ sutta_code: "SN1.43"
 sutta_title:
   - "Annasutta "
   - "Food"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.43]]
 > ◄  [[sn1.42-sujato-pali]] 📜  [[sn1.44-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -55,8 +55,7 @@ patiṭṭhā honti pāṇinan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.43-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ patiṭṭhā honti pāṇinan"ti.
 | [[SN2.23]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[AN5.36]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.43]]
 > ◄  [[sn1.42-sujato-pali]] 📜  [[sn1.44-sujato-pali]] ►

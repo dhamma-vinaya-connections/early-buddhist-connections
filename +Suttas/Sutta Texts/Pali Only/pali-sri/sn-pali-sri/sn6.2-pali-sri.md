@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.2-PALI"
+sutta_code: "SN6.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Gāravasutta "
+  - "Reverence"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
 > ◄  [[sn6.1-pali-sri]] 📜  [[sn7.1-pali-sri]] ►
 
 # 6:2 Parinibbanavaggo - Pali
@@ -226,6 +226,16 @@ Atra imā gāthāyo dissante-machasaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.101]], [[SA1188]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.21]], [[SA-2.101]], [[SA1188]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
+> ◄  [[sn6.1-pali-sri]] 📜  [[sn7.1-pali-sri]] ►

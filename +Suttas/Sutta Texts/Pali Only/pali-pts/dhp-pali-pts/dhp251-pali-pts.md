@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP251-PALI"
+sutta_code: "DHP251"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP251-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP251]]
 > ◄  [[dhp250-pali-pts]] 📜  [[dhp252-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ paresaṃ hi so vajjāni opunāti yathā bhusaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp251-) 
 

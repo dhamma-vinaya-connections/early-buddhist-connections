@@ -1,13 +1,13 @@
 ---
-sutta_code: "KP1-PALI"
+sutta_code: "KP1"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP1]]
 > ◄  [[]] 📜  [[kp2-pali-sc]] ►
 
 ---
@@ -76,6 +76,5 @@ Tatiyam-pi Saṅghaṁ saraṇaṁ gacchāmi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp1-) 
 

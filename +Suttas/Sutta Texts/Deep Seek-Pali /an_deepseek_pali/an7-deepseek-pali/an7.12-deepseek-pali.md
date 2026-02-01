@@ -4,10 +4,10 @@ sutta_title:
   - "Anusaya "
   - "Underlying Tendencies"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.12]]
 > ◄  [[an7.11-deepseek-pali]] 📜  [[an7.13-deepseek-pali]] ►
 
 # AN 7.12 Dutiyaanusayasuttaṃ
@@ -27,8 +27,7 @@ Monks, when a monk has abandoned the underlying tendency of sensual lust—cut o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Monks, when a monk has abandoned the underlying tendency of sensual lust—cut o
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.38]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.12]]
 > ◄  [[an7.11-deepseek-pali]] 📜  [[an7.13-deepseek-pali]] ►

@@ -34,17 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "King"
-sutta_simile: "Water pond without being used, like wealth don't being used"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[EA23.4]]"
-  - "[[SA-2.59]]"
-  - "[[SA1232]]"
-parallels_partilal:
-  - "[[EA23.4]]"
-  - "[[SA-2.59]]"
-  - "[[SA1232]]"
+parallels_nikaya: ""
+parallels_agama: "[[EA23.4]], [[SA-2.59]], [[SA1232]]"
+parallels_partilal: "[[EA23.4]], [[SA-2.59]], [[SA1232]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.18]]  🌐 [[SN3.20]] ►
 
@@ -73,8 +65,7 @@ Merits are the support for living beings
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,8 +80,7 @@ Merits are the support for living beings
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.20]], [[AN5.41]], [[AN5.148.]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN3.19%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN3.19%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -101,7 +91,7 @@ Merits are the support for living beings
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.19%5D%5D%22%23mynotes%20-file%3Asn3.19-%20-file%3A%22SN3.18%22%20-file%3A%22SN3.20%22%20-file%3A%22SN3.19%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.19/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.19

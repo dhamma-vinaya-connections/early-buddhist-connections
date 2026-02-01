@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI18-PALI"
+sutta_code: "ITI18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Saṁghabheda "
+  - "Schism in Sangha"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
 > ◄  [[iti17-pali-pts]] 📜  [[iti19-pali-pts]] ►
 
 ## Itivuttaka
@@ -27,6 +27,16 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||8||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.39]], [[PLI-TV-KD17]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
+> ◄  [[iti17-pali-pts]] 📜  [[iti19-pali-pts]] ►

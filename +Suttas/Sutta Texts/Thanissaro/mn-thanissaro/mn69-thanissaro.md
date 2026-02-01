@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn67-thanissaro]] 📜  [[mn70-thanissaro]] ►
 
 ## MN69 About Golissāni
@@ -60,8 +60,7 @@ When this was said, Ven. Mahā Moggallāna said to Ven. Sāriputta, “Sāriputt
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn69-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -72,6 +71,5 @@ When this was said, Ven. Mahā Moggallāna said to Ven. Sāriputta, “Sāriputt
 | [[MA26]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn67-thanissaro]] 📜  [[mn70-thanissaro]] ►

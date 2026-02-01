@@ -4,10 +4,10 @@ sutta_title:
   - "Tissabrahmā "
   - "Tissa The Brahmā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.56]]
 > ◄  [[an7.55-deepseek-pali]] 📜  [[an7.57-deepseek-pali]] ►
 
 # AN 7.56 Tissabrahmāsuttaṃ
@@ -71,12 +71,11 @@ Here, Moggallāna, a bhikkhu, by not attending to any signs, enters upon and dwe
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.56-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 74 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.56]]
 > ◄  [[an7.55-deepseek-pali]] 📜  [[an7.57-deepseek-pali]] ►

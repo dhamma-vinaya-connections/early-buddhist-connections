@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.55-PALI"
+sutta_code: "AN8.55"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dīghajāṇu "
+  - "With Dīghajāṇu"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.55-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.55]]
 > ◄  [[an8.54-pali-pts]] 📜  [[an8.56-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -31,6 +31,20 @@ evam etaṃ gahaṭṭhānaṃ cāgo puññaṃ pavaḍḍhatī ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.55-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.54]] | [[SA-2.91]], [[SA91]] | A iv 285 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.54]], [[SA-2.91]], [[SA91]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN3.19]], [[SN45.2]], [[AN4.62]], [[AN5.34]], [[AN5.38]], [[AN5.41]], [[AN5.175]], [[AN5.179]], [[AN6.45]], [[AN8.80.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.55]]
+> ◄  [[an8.54-pali-pts]] 📜  [[an8.56-pali-pts]] ►

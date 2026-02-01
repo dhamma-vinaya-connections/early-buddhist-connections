@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP418-PALI"
+sutta_code: "DHP418"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP418-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP418]]
 > ◄  [[dhp417-pali-pts]] 📜  [[dhp419-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ cutiṃ yo vedi sattānaṃ upapattiñ ca sabbaso /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp418-) 
 

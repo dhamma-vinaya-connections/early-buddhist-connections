@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN152-PALI"
+sutta_code: "MN152"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Indriyabhāvanā Sutta "
+  - "Development of the Faculties"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN152-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN152]]
 > ◄  [[mn151-pali-sri]] 📜  [[]] ►
 
 # 152. Indriyabhavana Sutta - Pali
@@ -158,6 +158,16 @@ Vaggo ovādapañcamoti-majasaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn152-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA282]] | M iii 298 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA282]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN152]]
+> ◄  [[mn151-pali-sri]] 📜  [[]] ►

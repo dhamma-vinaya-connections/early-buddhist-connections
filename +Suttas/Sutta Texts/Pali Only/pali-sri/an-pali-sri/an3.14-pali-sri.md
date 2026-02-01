@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.14-PALI"
+sutta_code: "AN3.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cakkavatti "
+  - "Wheel-Turning Monarch"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.14]]
 > ◄  [[an3.13-pali-sri]] 📜  [[an3.15-pali-sri]] ►
 
 # 5:14 Rajavaggo - Pali
@@ -380,6 +380,11 @@ Appaṃ supati bhattādā akkhamo sotāro cāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 109 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.14]]
+> ◄  [[an3.13-pali-sri]] 📜  [[an3.15-pali-sri]] ►

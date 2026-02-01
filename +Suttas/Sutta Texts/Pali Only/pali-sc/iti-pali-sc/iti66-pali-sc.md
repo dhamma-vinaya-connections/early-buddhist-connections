@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI66-PALI"
+sutta_code: "ITI66"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Soceyya "
+  - "Purity"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI66-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI66]]
 > ◄  [[iti65-pali-sc]] 📜  [[iti67-pali-sc]] ►
 
 # Iti 66. Moneyyasuttaṃ
@@ -25,6 +25,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti66-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN3.121]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN24]], [[AN3:122]], [[AN3:123]], [[SN1.12]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI66]]
+> ◄  [[iti65-pali-sc]] 📜  [[iti67-pali-sc]] ►

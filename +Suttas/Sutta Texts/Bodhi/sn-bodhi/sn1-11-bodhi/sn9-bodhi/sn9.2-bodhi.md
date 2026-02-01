@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.2]]
 > ◄  [[sn9.1-bodhi]] 📜  [[sn9.3-bodhi]] ►
 
 # SN9.2 Rousing
@@ -81,8 +81,7 @@ On one occasion a certain bhikkhu was dwelling among the Kosalans in a certain w
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -97,6 +96,5 @@ On one occasion a certain bhikkhu was dwelling among the Kosalans in a certain w
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.2]]
 > ◄  [[sn9.1-bodhi]] 📜  [[sn9.3-bodhi]] ►

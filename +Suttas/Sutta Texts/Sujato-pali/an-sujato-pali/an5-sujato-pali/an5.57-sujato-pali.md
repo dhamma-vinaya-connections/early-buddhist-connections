@@ -3,11 +3,11 @@ sutta_code: "AN5.57"
 sutta_title:
   - "Abhiṇhapaccavekkhitabbaṭhāna "
   - "Subjects For Regular Reviewing"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.57]]
 > ◄  [[an5.56-sujato-pali]] 📜  [[an5.58-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -153,8 +153,7 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.57-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -165,6 +164,5 @@ Sattamaṁ.
 | [[AN3.39]], [[MA117]], [[EA22.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.57]]
 > ◄  [[an5.56-sujato-pali]] 📜  [[an5.58-sujato-pali]] ►

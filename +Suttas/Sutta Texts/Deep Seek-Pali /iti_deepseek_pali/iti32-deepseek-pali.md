@@ -4,10 +4,10 @@ sutta_title:
   - "Sila "
   - "Ethics"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI32]]
 > ◄  [[iti31-deepseek-pali]] 📜  [[iti33-deepseek-pali]] ►
 
 # Iti 32 Dutiyasīlasuttaṃ
@@ -27,6 +27,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The Sixth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti32-) 
 

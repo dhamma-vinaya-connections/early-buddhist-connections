@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-bodhi]] 📜  [[mn50-bodhi]] ►
 
 # MN49 Brahmanimantanika Sutta - The Invitation of a Brahmā
@@ -86,8 +86,7 @@ that is not partaken of by the earthness of earth, that is not partaken of by th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn49-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -102,6 +101,5 @@ that is not partaken of by the earthness of earth, that is not partaken of by th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]]; [[MN1]]; [[MN72]]; [[MN86]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-bodhi]] 📜  [[mn50-bodhi]] ►

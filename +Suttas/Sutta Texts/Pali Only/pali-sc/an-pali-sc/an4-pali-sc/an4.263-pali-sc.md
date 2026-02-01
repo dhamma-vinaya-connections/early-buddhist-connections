@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.263-PALI"
+sutta_code: "AN4.263"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kamma "
+  - "Deeds"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.263-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.263]]
 > ◄  [[an4.262-pali-sc]] 📜  [[an4.264-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -32,6 +32,11 @@ Abhiññāvaggo chaṭṭho.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.263-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 252 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.263]]
+> ◄  [[an4.262-pali-sc]] 📜  [[an4.264-pali-sc]] ►

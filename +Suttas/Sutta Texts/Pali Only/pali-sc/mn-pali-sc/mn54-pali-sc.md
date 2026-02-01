@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN54-PALI"
+sutta_code: "MN54"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Potaliya Sutta "
+  - "With Potaliya the Wanderer"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
 > ◄  [[mn53-pali-sc]] 📜  [[mn55-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -155,6 +155,20 @@ Abhikkantaṁ, bhante, abhikkantaṁ, bhante. Seyyathāpi, bhante, nikkujjitaṁ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn54-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA203]] | M i 359 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA203]]; [[SN35.244]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN137]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
+> ◄  [[mn53-pali-sc]] 📜  [[mn55-pali-sc]] ►

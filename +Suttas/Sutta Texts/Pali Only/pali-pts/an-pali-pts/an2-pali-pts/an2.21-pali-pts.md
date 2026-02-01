@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.21-PALI"
+sutta_code: "AN2.21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bala-Pandita "
+  - "Fools & Wise"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.21]]
 > ◄  [[an2.20-pali-pts]] 📜  [[an2.22-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -27,6 +27,15 @@ Yo ca accayaṃ accayato passati: yo ca accayaṃ desentassa yathādhammaṃ pa�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.21-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 59 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN12.19]], [[AN2.98]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.21]]
+> ◄  [[an2.20-pali-pts]] 📜  [[an2.22-pali-pts]] ►

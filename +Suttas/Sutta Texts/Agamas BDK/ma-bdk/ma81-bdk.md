@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA81]]
 > ◄  [[ma80-bdk]] 📜  [[ma82-bdk]] ►
 
 ### 81. The Discourse on Mindfulness of the Body
@@ -59,8 +59,7 @@ attains the taintless liberation of the mind and liberation by wisdom, know ing 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma81-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ attains the taintless liberation of the mind and liberation by wisdom, know ing 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN22]], [[MN10]], [[MN118]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA81]]
 > ◄  [[ma80-bdk]] 📜  [[ma82-bdk]] ►

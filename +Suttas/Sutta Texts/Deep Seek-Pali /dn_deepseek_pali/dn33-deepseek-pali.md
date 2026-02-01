@@ -4,10 +4,10 @@ sutta_title:
   - "Saṅgīti Sutta "
   - "Reciting in Concert"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
 > ◄  [[dn32-deepseek-pali]] 📜  [[dn34-deepseek-pali]] ►
 
 # Saṅgītisuttaṃ
@@ -1495,8 +1495,7 @@ The Discourse on Communal Recitation is concluded. The Tenth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -1511,6 +1510,5 @@ The Discourse on Communal Recitation is concluded. The Tenth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[D12 34]], [[DA11]], [[DA1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
 > ◄  [[dn32-deepseek-pali]] 📜  [[dn34-deepseek-pali]] ►

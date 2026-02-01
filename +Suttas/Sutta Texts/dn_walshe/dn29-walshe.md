@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
 > ◄  [[dn28-walshe]] 📜  [[dn30-walshe]] ►
 
 # DN29 Pasadika Sutta: The Delightful Discourse
@@ -106,8 +106,7 @@ Thus the Lord spoke, and the Venerable Upavāna rejoiced and was delighted with
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -118,6 +117,5 @@ Thus the Lord spoke, and the Venerable Upavāna rejoiced and was delighted with
 | [[AN9.7]], [[DA17]], [[AN9.8]], [[MN76]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
 > ◄  [[dn28-walshe]] 📜  [[dn30-walshe]] ►

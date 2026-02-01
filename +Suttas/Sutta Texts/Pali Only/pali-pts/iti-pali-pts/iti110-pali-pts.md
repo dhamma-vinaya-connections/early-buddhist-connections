@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI110-PALI"
+sutta_code: "ITI110"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Cara "
+  - "Walking"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI110-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI110]]
 > ◄  [[iti98-pali-pts]] 📜  [[]] ►
 
 ## Itivuttaka
@@ -58,6 +58,20 @@ Itivuttakaṃ niṭṭhitaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti110-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.11]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.11]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN19]], [[MN20]], [[AN3.102]], [[AN4.11]], [[AN6.20]], [[AN10.51]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI110]]
+> ◄  [[iti98-pali-pts]] 📜  [[]] ►

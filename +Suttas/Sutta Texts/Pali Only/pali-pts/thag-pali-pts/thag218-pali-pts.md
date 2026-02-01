@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG218-PALI"
+sutta_code: "THAG218"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG218-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG218]]
 > ◄  [[thag217-pali-pts]] 📜  [[thag219-pali-pts]] ►
 
 ## Theragāthā
@@ -31,6 +31,5 @@ Ayonisuddhiṃ anvesaṃ aggiṃ paricariṃ vane,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag218-) 
 

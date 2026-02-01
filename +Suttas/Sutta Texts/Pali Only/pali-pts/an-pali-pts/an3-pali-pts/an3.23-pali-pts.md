@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.23-PALI"
+sutta_code: "AN3.23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Saṅkhāra "
+  - "Choices"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.23]]
 > ◄  [[an3.21-pali-pts]] 📜  [[an3.24-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -30,6 +30,11 @@ Ime kho bhikkhave tayo puggalā santo saṃvijjamānā lokasmin ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.23-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 122 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.23]]
+> ◄  [[an3.21-pali-pts]] 📜  [[an3.24-pali-pts]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
 > ◄  [[mn64-bodhi]] 📜  [[mn66-bodhi]] ►
 
 # MN65 Bhaddāli Sutta - To Bhaddāli
@@ -135,8 +135,7 @@ That is what the Blessed One said. The venerable Bhaddāli was satisfied and de
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn65-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -147,6 +146,5 @@ That is what the Blessed One said. The venerable Bhaddāli was satisfied and de
 | [[EA49.7]]; [[MA194]]; [[MN66]]; [[MA192]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
 > ◄  [[mn64-bodhi]] 📜  [[mn66-bodhi]] ►

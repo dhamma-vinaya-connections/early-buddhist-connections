@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
 > ◄  [[sn7.13-bodhi]] 📜  [[sn7.15-bodhi]] ►
 
 # SN7.14 The Affluent One
@@ -85,8 +85,7 @@ Then that affluent brahmin said to the Blessed One: “Magnificent, Master Gotam
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -97,6 +96,5 @@ Then that affluent brahmin said to the Blessed One: “Magnificent, Master Gotam
 | [[SA-2.262]], [[SA96]], [[SN7.15]], [[SA-2.258]], [[SA92]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
 > ◄  [[sn7.13-bodhi]] 📜  [[sn7.15-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP272-PALI"
+sutta_code: "DHP272"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP272-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP272]]
 > ◄  [[dhp271-pali-pts]] 📜  [[dhp273-pali-pts]] ►
 
 ## Dhammapada
@@ -24,6 +24,5 @@ maggān'; aṭṭhaṅgiko seṭṭho saccānaṃ caturo padā, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp272-) 
 

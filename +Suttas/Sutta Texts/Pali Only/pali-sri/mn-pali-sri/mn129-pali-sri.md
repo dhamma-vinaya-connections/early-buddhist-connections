@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN129-PALI"
+sutta_code: "MN129"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Bālapaṇḍita Sutta "
+  - "Foolish and the Astute"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN129-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN129]]
 > ◄  [[mn128-pali-sri]] 📜  [[mn130-pali-sri]] ►
 
 # 129. Balapandita - Pali
@@ -244,6 +244,20 @@ Bālapaṇḍitasuttaṃ navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn129-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA199]] | M iii 163 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA199]]; [[AN2.1]]; [[MN13]]; [[AN3.3]]; [[PE3]]; [[AN3.36]]; [[MN130]]; [[JA530]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN130]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN129]]
+> ◄  [[mn128-pali-sri]] 📜  [[mn130-pali-sri]] ►

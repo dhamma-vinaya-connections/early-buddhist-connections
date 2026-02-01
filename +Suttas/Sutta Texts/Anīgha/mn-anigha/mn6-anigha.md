@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
 > ◄  [[mn5-anigha]] 📜  [[mn7-anigha]] ►
 
 # MN 6 - One Might Wish
@@ -61,8 +61,7 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -73,6 +72,5 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 | [[AN10.71]]; [[MA105]]; [[AN2.36:2.1]]; [[DN2]]; [[SN47.46]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
 > ◄  [[mn5-anigha]] 📜  [[mn7-anigha]] ►

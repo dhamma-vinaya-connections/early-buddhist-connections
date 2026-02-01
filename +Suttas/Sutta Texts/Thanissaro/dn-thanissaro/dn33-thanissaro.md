@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
 > ◄  [[dn29-thanissaro]] 📜  [[dn34-thanissaro]] ►
 
 ## Bhante Thanissaro
@@ -877,8 +877,7 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -893,6 +892,5 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[D12 34]], [[DA11]], [[DA1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
 > ◄  [[dn29-thanissaro]] 📜  [[dn34-thanissaro]] ►

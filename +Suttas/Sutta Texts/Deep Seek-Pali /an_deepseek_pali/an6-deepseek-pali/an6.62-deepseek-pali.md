@@ -4,10 +4,10 @@ sutta_title:
   - "Purisindriyañāṇa "
   - "Faculties Of Persons"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.62]]
 > ◄  [[an6.61-deepseek-pali]] 📜  [[an6.63-deepseek-pali]] ►
 
 # AN 6.62 Purisindriyañāṇasuttaṃ
@@ -71,8 +71,7 @@ When this was said, Venerable Ānanda said to the Blessed One: “Is it possible
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.62-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ When this was said, Venerable Ānanda said to the Blessed One: “Is it possible
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.53]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.62]]
 > ◄  [[an6.61-deepseek-pali]] 📜  [[an6.63-deepseek-pali]] ►

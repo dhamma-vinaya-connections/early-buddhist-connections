@@ -4,10 +4,10 @@ sutta_title:
   - "Goliyāni Sutta "
   - "With Gulissāni"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn68-deepseek-pali]] 📜  [[mn70-deepseek-pali]] ►
 
 # 69. Goliyānisuttaṃ
@@ -103,8 +103,7 @@ The Goliyāni Sutta, the Ninth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn69-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -115,6 +114,5 @@ The Goliyāni Sutta, the Ninth, is finished.
 | [[MA26]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn68-deepseek-pali]] 📜  [[mn70-deepseek-pali]] ►

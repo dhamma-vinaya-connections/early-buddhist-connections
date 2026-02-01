@@ -4,10 +4,10 @@ sutta_title:
   - "Āghātapaṭivinaya "
   - "Getting Rid Of Resentment"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
 > ◄  [[an5.161-deepseek-pali]] 📜  [[an5.163-deepseek-pali]] ►
 
 # AN 5.162 Dutiyaāghātapaṭivinayasuttaṃ
@@ -55,8 +55,7 @@ Just so, friends, when a person has pure bodily conduct, pure verbal conduct, an
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.162-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Just so, friends, when a person has pure bodily conduct, pure verbal conduct, an
 | [[MA25]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
 > ◄  [[an5.161-deepseek-pali]] 📜  [[an5.163-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.22-PALI"
+sutta_code: "AN7.22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sārandada "
+  - "At Sārandada"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
 > ◄  [[an7.21-pali-pts]] 📜  [[an7.23-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Evaṃ me sutaṃ. Ekaṃ samayaṃ Bhagavā Rājagahe viharati Gijjhakūṭe pa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA40.2]], [[MA142]] | A iv 17 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA40.2]], [[MA142]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
+> ◄  [[an7.21-pali-pts]] 📜  [[an7.23-pali-pts]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
 > ◄  [[mn121-thanissaro]] 📜  [[mn123-thanissaro]] ►
 
 ## MN122 The Greater Discourse on Emptiness
@@ -120,8 +120,7 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn122-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -136,6 +135,5 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN121]]; [[[[SN35.85]]]]; [[[[AN5.30]]]]; [[[[AN6.42]]]]; [[[[AN8.30]]]]; [[[[SN1.3]], [[MN137]], [[ITI109]], [[MN106]], [[AN8.86]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
 > ◄  [[mn121-thanissaro]] 📜  [[mn123-thanissaro]] ►

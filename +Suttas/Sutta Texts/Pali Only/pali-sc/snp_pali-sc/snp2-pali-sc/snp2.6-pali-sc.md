@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.6-PALI"
+sutta_code: "SNP2.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kapila "
+  - "Righteous Life"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
 > ◄  [[snp2.5-pali-sc]] 📜  [[snp2.7-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -70,6 +70,7 @@ Dhammacariyasuttaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
+> ◄  [[snp2.5-pali-sc]] 📜  [[snp2.7-pali-sc]] ►

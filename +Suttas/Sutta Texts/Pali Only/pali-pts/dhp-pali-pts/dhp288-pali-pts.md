@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP288-PALI"
+sutta_code: "DHP288"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP288-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP288]]
 > ◄  [[dhp287-pali-pts]] 📜  [[dhp289-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ etam atthavasaṃ ñatvā paṇḍito sīlasaṃvuto /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp288-) 
 

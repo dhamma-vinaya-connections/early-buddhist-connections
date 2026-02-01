@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG28-PALI"
+sutta_code: "THIG28"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG28-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG28]]
 > ◄  [[thig27-pali-pts]] 📜  [[thig29-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ kiñ cāpi kho mhi dukkhitā dubbalā gatayobbanā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig28-) 
 

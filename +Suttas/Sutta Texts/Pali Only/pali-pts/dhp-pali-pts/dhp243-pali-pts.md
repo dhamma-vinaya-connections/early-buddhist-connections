@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP243-PALI"
+sutta_code: "DHP243"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP243-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP243]]
 > ◄  [[dhp242-pali-pts]] 📜  [[dhp244-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ sujīvaṃ ahirīkena kākasūrena dhaṃsinā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp243-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD8.10-PALI"
+sutta_code: "UD8.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dutiyadabba Sutta "
+  - "Dabba Mallaputta (2)"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.10]]
 > ◄  [[ud8.6-pali-pts]] 📜  [[]] ►
 
 ## Udāna
@@ -29,6 +29,7 @@ udānam samattaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.10]]
+> ◄  [[ud8.6-pali-pts]] 📜  [[]] ►

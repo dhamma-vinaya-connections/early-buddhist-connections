@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG103-PALI"
+sutta_code: "THAG103"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG103-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG103]]
 > ◄  [[thag102-pali-pts]] 📜  [[thag104-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Lahuko vata me kāyo phuṭṭho ca pītisukhena vipulena,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag103-) 
 

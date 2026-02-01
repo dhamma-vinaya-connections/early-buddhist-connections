@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG485-PALI"
+sutta_code: "THIG485"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG485-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG485]]
 > ◄  [[thig484-pali-pts]] 📜  [[thig486-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ _THERĪ-GĀTHĀ. 171_
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig485-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG15-PALI"
+sutta_code: "THIG15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Cattālīsanipātavagga "
+  - "Forties Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG15]]
 > ◄  [[thig14-pali-pts]] 📜  [[thig16-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ sukhaṃ tvaṃ vuḍḍhike sehi katvā coḷena pārutā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig15-) 
 

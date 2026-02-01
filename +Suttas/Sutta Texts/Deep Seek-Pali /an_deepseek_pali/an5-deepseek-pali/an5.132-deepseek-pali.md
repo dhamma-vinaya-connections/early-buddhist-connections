@@ -4,10 +4,10 @@ sutta_title:
   - "Cakkānuvattana "
   - "Wielding Power"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.132]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.132]]
 > ◄  [[an5.131-deepseek-pali]] 📜  [[an5.133-deepseek-pali]] ►
 
 # AN 5.132 Dutiyacakkānuvattanasuttaṃ
@@ -35,12 +35,11 @@ Just so, monks, Sāriputta, endowed with five qualities, rightly keeps rolling t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.132-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 148 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.132]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.132]]
 > ◄  [[an5.131-deepseek-pali]] 📜  [[an5.133-deepseek-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.51]]
 > ◄  [[an8.50-bodhi]] 📜  [[an8.52-bodhi]] ►
 
 # AN8.51 Gotamī
@@ -101,8 +101,7 @@ Then the Venerable Ānanda approached the Blessed One, paid homage to him, sat d
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.51-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -117,6 +116,5 @@ Then the Venerable Ānanda approached the Blessed One, paid homage to him, sat d
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN143]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.51]]
 > ◄  [[an8.50-bodhi]] 📜  [[an8.52-bodhi]] ►

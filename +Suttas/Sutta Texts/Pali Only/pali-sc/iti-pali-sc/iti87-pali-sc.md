@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI87-PALI"
+sutta_code: "ITI87"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "瞿曇彌 "
+  - "To Gotamī"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI87-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI87]]
 > ◄  [[iti86-pali-sc]] 📜  [[iti88-pali-sc]] ►
 
 # Iti 87. Antarāmalasuttaṃ
@@ -41,6 +41,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti87-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN46.40]] | [[SA706]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN46.40]], [[SA706]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN19]], [[MN20]], [[ITI110]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI87]]
+> ◄  [[iti86-pali-sc]] 📜  [[iti88-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.9-PALI"
+sutta_code: "SN2.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Candimasutta "
+  - "Candima"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.9]]
 > ◄  [[sn2.8-pali-pts]] 📜  [[]] ►
 
 ## Saṃyutta Nikāya
@@ -94,6 +94,16 @@ Devaputta-saṃyuttaṃ niṭṭhitaṃ || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.167]], [[SA583]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.167]], [[SA583]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.9]]
+> ◄  [[sn2.8-pali-pts]] 📜  [[]] ►

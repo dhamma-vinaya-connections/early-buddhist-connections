@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.25-PALI"
+sutta_code: "AN7.25"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bhikkhu-Aparihaniya "
+  - "Non-Decline For Mendicants"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.25-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.25]]
 > ◄  [[an7.24-pali-pts]] 📜  [[an7.26-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,16 @@ Yāvakīvañ ca bhikkhave ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.25-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 22 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN16]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.25]]
+> ◄  [[an7.24-pali-pts]] 📜  [[an7.26-pali-pts]] ►

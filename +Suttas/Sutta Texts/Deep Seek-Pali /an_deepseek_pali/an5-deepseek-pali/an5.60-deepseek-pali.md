@@ -4,10 +4,10 @@ sutta_title:
   - "Vuḍḍhapabbajita "
   - "Gone Forth When Old"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.60]]
 > ◄  [[an5.59-deepseek-pali]] 📜  [[an5.61-deepseek-pali]] ►
 
 # AN 5.60 Dutiyavuḍḍhapabbajitasuttaṃ
@@ -39,12 +39,11 @@ A barrier, a heap, limbs, an assembly, mother and son; a teacher, locations, Lic
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 78 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.60]]
 > ◄  [[an5.59-deepseek-pali]] 📜  [[an5.61-deepseek-pali]] ►

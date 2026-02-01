@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.32-PALI"
+sutta_code: "AN7.32"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Appamādagārava "
+  - "Diligence Respect"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.32-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.32]]
 > ◄  [[an7.31-pali-sc]] 📜  [[an7.33-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -40,6 +40,16 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.32-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN6.32]], [[DHP32]] |  | A iv 27 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN6.32]], [[DHP32]], [[AN4.37]], [[AN6.33]], [[AN7.33]], [[AN7.34]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.32]]
+> ◄  [[an7.31-pali-sc]] 📜  [[an7.33-pali-sc]] ►

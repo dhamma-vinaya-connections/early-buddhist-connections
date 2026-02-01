@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyamārapāsasutta "
   - "Māra's Snare (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.5]]
 > ◄  [[sn4.4-deepseek-pali]] 📜  [[sn4.6-deepseek-pali]] ►
 
 # SN 4.5 Dutiyamārapāsasuttaṃ
@@ -39,8 +39,7 @@ Then Māra the Evil One… …vanished right there.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then Māra the Evil One… …vanished right there.
 | [[PLI-TV-KD1]], [[SN4.15]], [[SA-2.25]], [[SA1086]], [[SN4.4]], [[SA1096]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.5]]
 > ◄  [[sn4.4-deepseek-pali]] 📜  [[sn4.6-deepseek-pali]] ►

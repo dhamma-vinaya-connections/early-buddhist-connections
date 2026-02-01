@@ -4,10 +4,10 @@ sutta_title:
   - "Appayuka Sutta "
   - "Short-lived"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
 > ◄  [[ud5.1-deepseek-pali]] 📜  [[ud5.3-deepseek-pali]] ►
 
 # Ud 5.2 Appāyukasuttaṃ
@@ -35,8 +35,7 @@ Then, having understood this meaning, the Blessed One on that occasion uttered t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then, having understood this meaning, the Blessed One on that occasion uttered t
 | [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
 > ◄  [[ud5.1-deepseek-pali]] 📜  [[ud5.3-deepseek-pali]] ►

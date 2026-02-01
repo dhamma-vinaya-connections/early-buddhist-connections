@@ -4,10 +4,10 @@ sutta_title:
   - "Aruṇavatīsutta "
   - "Aruṇavati"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.14]]
 > ◄  [[sn6.13-deepseek-pali]] 📜  [[sn6.15-deepseek-pali]] ►
 
 # SN 6.14 Aruṇavatīsuttaṃ
@@ -67,8 +67,7 @@ Thus spoke the Blessed One. Those monks, glad at heart, rejoiced at the Blessed 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Thus spoke the Blessed One. Those monks, glad at heart, rejoiced at the Blessed 
 | [[THAG3.13]], [[DN16]], [[PE3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.14]]
 > ◄  [[sn6.13-deepseek-pali]] 📜  [[sn6.15-deepseek-pali]] ►

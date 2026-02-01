@@ -3,11 +3,11 @@ sutta_code: "UD4.3"
 sutta_title:
   - "Gopala Sutta "
   - "The Cowherd"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.3]]
 > ◄  [[ud4.2-anandajoti-pali]] 📜  [[ud4.4-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -88,8 +88,7 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -104,6 +103,5 @@ Tatiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP43]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.3]]
 > ◄  [[ud4.2-anandajoti-pali]] 📜  [[ud4.4-anandajoti-pali]] ►

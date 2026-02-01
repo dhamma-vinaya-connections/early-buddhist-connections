@@ -4,10 +4,10 @@ sutta_title:
   - "Bharaṇḍukālāma "
   - "Bharaṇḍu Kālāma"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.126]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.126]]
 > ◄  [[an3.125-deepseek-pali]] 📜  [[an3.127-deepseek-pali]] ►
 
 # AN 3.126 Bharaṇḍukālāmasuttaṃ
@@ -47,12 +47,11 @@ Then this thought occurred to Bharaṇḍu Kālāma: “Indeed, I have been disc
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.126-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A i 276 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.126]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.126]]
 > ◄  [[an3.125-deepseek-pali]] 📜  [[an3.127-deepseek-pali]] ►

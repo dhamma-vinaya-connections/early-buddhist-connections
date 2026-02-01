@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA204]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA204]]
 > ◄  [[ma203-bdk]] 📜  [[ma205-bdk]] ►
 
 ### 204. The Discourse at Rammaka’s [Hermitage]
@@ -59,8 +59,7 @@ Thus spoke the Buddha. Having heard what the Buddha said, the venerable Ānanda 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma204-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Thus spoke the Buddha. Having heard what the Buddha said, the venerable Ānanda 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN141]], [[SN22.87]], [[SN5.15]], [[UD2.10]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA204]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA204]]
 > ◄  [[ma203-bdk]] 📜  [[ma205-bdk]] ►

@@ -3,11 +3,11 @@ sutta_code: "MN86"
 sutta_title:
   - "Aṅgulimāla Sutta "
   - "With Aṅgulimāla"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
 > ◄  [[mn85-sujato-pali]] 📜  [[mn87-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -445,8 +445,7 @@ Aṅgulimālasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn86-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -461,6 +460,5 @@ Aṅgulimālasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG16.8]], [[AN3.99]], [[DHP172]], [[DHP173]], [[DHP80]], [[DHP26]], [[DHP27]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
 > ◄  [[mn85-sujato-pali]] 📜  [[mn87-sujato-pali]] ►

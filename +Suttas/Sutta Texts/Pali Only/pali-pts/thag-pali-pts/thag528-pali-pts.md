@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG528-PALI"
+sutta_code: "THAG528"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG528-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG528]]
 > ◄  [[thag527-pali-pts]] 📜  [[thag529-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ n'; evātisītaṃ na panātiuṇhaṃ sukhā utu addhaniyā bhadante;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag528-) 
 

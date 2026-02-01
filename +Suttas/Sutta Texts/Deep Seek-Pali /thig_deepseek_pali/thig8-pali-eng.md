@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG8-PALI"
+sutta_code: "THIG8"
 sutta_title:
-  - " "
-  - ""
+  - "Aṭṭhakanipātavagga "
+  - "Eights Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG8]]
 > ◄  [[thig7-pali-eng]] 📜  [[thig9-pali-eng]] ►
 
 # Thig 8. Aṭṭhakanipāto
@@ -58,6 +58,5 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig8-) 
 

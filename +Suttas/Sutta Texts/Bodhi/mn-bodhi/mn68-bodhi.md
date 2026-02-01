@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN68]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN68]]
 > ◄  [[mn67-bodhi]] 📜  [[mn69-bodhi]] ►
 
 # MN68 Naḷakapāna Sutta - At Naḷakapāna
@@ -87,8 +87,7 @@ That is what the Blessed One said. The venerable Anuruddha was satisfied and del
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn68-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ That is what the Blessed One said. The venerable Anuruddha was satisfied and del
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN68]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN68]]
 > ◄  [[mn67-bodhi]] 📜  [[mn69-bodhi]] ►

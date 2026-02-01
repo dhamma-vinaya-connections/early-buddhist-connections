@@ -4,10 +4,10 @@ sutta_title:
   - "Caṅkī Sutta "
   - "With Caṅkī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
 > ◄  [[mn94-deepseek-pali]] 📜  [[mn96-deepseek-pali]] ►
 
 # 95. Caṅkīsuttaṃ
@@ -131,8 +131,7 @@ The Caṅkī Sutta, the fifth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn95-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -147,6 +146,5 @@ The Caṅkī Sutta, the fifth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.65]]; [[AN9.1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
 > ◄  [[mn94-deepseek-pali]] 📜  [[mn96-deepseek-pali]] ►

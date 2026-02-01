@@ -3,11 +3,11 @@ sutta_code: "SN5.9"
 sutta_title:
   - "Selāsutta "
   - "Sela"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
 > ◄  [[sn5.8-sujato-pali]] 📜  [[sn5.10-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -97,8 +97,7 @@ hetubhaṅgā nirujjhare"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -109,6 +108,5 @@ hetubhaṅgā nirujjhare"ti.
 | [[SA-2.219]], [[SA1203]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
 > ◄  [[sn5.8-sujato-pali]] 📜  [[sn5.10-sujato-pali]] ►

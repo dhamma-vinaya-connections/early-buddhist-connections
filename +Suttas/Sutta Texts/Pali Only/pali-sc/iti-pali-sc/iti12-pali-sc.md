@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI12-PALI"
+sutta_code: "ITI12"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI12]]
 > ◄  [[iti11-pali-sc]] 📜  [[iti13-pali-sc]] ►
 
 # Iti 12. Kodhapariññāsuttaṃ
@@ -35,6 +35,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti12-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG404-PALI"
+sutta_code: "THAG404"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG404-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG404]]
 > ◄  [[thag403-pali-pts]] 📜  [[thag405-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Paṇṇavīsativassāni yato pabbajito ahaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag404-) 
 

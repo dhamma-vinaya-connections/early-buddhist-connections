@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.9-PALI"
+sutta_code: "SN1.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Udayasutta "
+  - "Udaya"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.9]]
 > ◄  [[sn1.8-pali-pts]] 📜  [[sn1.10-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -27,6 +27,16 @@ icchābaddhā puthusattā || pāsena sakuṇī yathā ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.133]], [[SA996]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.133]], [[SA996]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.9]]
+> ◄  [[sn1.8-pali-pts]] 📜  [[sn1.10-pali-pts]] ►

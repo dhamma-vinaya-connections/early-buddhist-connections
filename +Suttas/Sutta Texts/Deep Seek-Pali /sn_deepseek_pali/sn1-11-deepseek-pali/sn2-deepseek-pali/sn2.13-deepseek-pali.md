@@ -4,10 +4,10 @@ sutta_title:
   - "Dīghalaṭṭhisutta "
   - "Dighalaṭṭhi"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.13]]
 > ◄  [[sn2.12-deepseek-pali]] 📜  [[sn2.14-deepseek-pali]] ►
 
 # SN 2.13 Dīghalaṭṭhisuttaṃ
@@ -27,6 +27,5 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.13-) 
 

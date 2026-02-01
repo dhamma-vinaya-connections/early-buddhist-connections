@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1-PALI"
+sutta_code: "THAG1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ekakanipātavagga "
+  - "Ones Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG1]]
 > ◄  [[]] 📜  [[thag2-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -908,6 +908,5 @@ patto me āsavakkhayo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1-) 
 

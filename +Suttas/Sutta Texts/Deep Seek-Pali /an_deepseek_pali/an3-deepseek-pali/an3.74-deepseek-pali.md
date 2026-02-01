@@ -4,10 +4,10 @@ sutta_title:
   - "Nigaṇṭha "
   - "Jains"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.74]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.74]]
 > ◄  [[an3.73-deepseek-pali]] 📜  [[an3.75-deepseek-pali]] ►
 
 # AN 3.74 Nigaṇṭhasuttaṃ
@@ -39,8 +39,7 @@ When this was said, Paṇḍitakumāraka the Licchavi said to Abhaya the Licchav
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.74-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ When this was said, Paṇḍitakumāraka the Licchavi said to Abhaya the Licchav
 | [[SA563]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.74]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.74]]
 > ◄  [[an3.73-deepseek-pali]] 📜  [[an3.75-deepseek-pali]] ►

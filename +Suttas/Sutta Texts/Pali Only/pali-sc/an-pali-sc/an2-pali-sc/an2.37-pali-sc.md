@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.37-PALI"
+sutta_code: "AN2.37"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vivadanti "
+  - "Fight"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.37-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.37]]
 > ◄  [[an2.36-pali-sc]] 📜  [[an2.38-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -51,6 +51,16 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.37-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA546]] | A i 65 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA546]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.37]]
+> ◄  [[an2.36-pali-sc]] 📜  [[an2.38-pali-sc]] ►

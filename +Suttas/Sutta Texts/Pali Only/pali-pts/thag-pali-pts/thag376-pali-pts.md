@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG376-PALI"
+sutta_code: "THAG376"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG376-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG376]]
 > ◄  [[thag375-pali-pts]] 📜  [[thag377-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ pubbe jaṭilabhūtassa yā me iddhi parittikā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag376-) 
 

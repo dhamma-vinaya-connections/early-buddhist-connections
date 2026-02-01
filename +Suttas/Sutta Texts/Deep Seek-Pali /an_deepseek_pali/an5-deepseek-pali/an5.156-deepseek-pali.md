@@ -4,10 +4,10 @@ sutta_title:
   - "Saddhammasammosa "
   - "Decline Of The True Teaching ("
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.156]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.156]]
 > ◄  [[an5.155-deepseek-pali]] 📜  [[an5.157-deepseek-pali]] ►
 
 # AN 5.156 Tatiyasaddhammasammosasuttaṃ
@@ -59,8 +59,7 @@ Furthermore, monks, the Saṅgha dwells in concord, rejoicing, without contentio
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.156-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Furthermore, monks, the Saṅgha dwells in concord, rejoicing, without contentio
 | [[AN4.160]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.156]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.156]]
 > ◄  [[an5.155-deepseek-pali]] 📜  [[an5.157-deepseek-pali]] ►

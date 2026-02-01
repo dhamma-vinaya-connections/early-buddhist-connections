@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP29-PALI"
+sutta_code: "DHP29"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP29-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP29]]
 > ◄  [[dhp28-pali-pts]] 📜  [[dhp30-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ appamādena Maghavā devānaṃ seṭṭhataṃ gato, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp29-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG17-PALI"
+sutta_code: "THAG17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Tiṁsanipātavagga "
+  - "Thirties Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG17]]
 > ◄  [[thag16-pali-pts]] 📜  [[thag18-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ kevalaṃ aṭṭhisaññāya aphari paṭhaviṃ imaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag17-) 
 

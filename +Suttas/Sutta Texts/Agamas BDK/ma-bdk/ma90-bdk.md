@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA90]]
 > ◄  [[ma89-bdk]] 📜  [[ma91-bdk]] ►
 
 ### 90. The Discourse on Knowledge of the Dharma
@@ -25,8 +25,7 @@ and scruples,... desires and evil views; and in that venerable one’s mind evi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma90-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ and scruples,... desires and evil views; and in that venerable one’s mind evi
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA89]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA90]]
 > ◄  [[ma89-bdk]] 📜  [[ma91-bdk]] ►

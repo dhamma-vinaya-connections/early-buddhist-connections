@@ -3,11 +3,11 @@ sutta_code: "SN2.7"
 sutta_title:
   - "Pañcālacaṇḍasutta "
   - "Pañcalacaṇḍa"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.7]]
 > ◄  [[sn2.6-sujato-pali]] 📜  [[sn2.8-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -55,8 +55,7 @@ Sammā te susamāhitā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Sammā te susamāhitā"ti.
 | [[AN9.42]], [[SA-2.304]], [[SA1305]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.7]]
 > ◄  [[sn2.6-sujato-pali]] 📜  [[sn2.8-sujato-pali]] ►

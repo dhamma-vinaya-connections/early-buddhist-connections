@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamamaraṇassati "
   - "Mindfulness Of Death (1st)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.19]]
 > ◄  [[an6.18-deepseek-pali]] 📜  [[an6.20-deepseek-pali]] ►
 
 # AN 6.19 Paṭhamamaraṇassatisuttaṃ
@@ -75,8 +75,7 @@ And any monk who cultivates mindfulness of death thus: ‘Oh, that I might live 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ And any monk who cultivates mindfulness of death thus: ‘Oh, that I might live 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.56]], [[AN6.19]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.19]]
 > ◄  [[an6.18-deepseek-pali]] 📜  [[an6.20-deepseek-pali]] ►

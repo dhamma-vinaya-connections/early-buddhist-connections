@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG458-PALI"
+sutta_code: "THAG458"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG458-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG458]]
 > ◄  [[thag457-pali-pts]] 📜  [[thag459-pali-pts]] ►
 
 ## Theragāthā
@@ -32,6 +32,5 @@ Alaṃkatā suvasanā māladhārī vibhūsitā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag458-) 
 

@@ -3,11 +3,11 @@ sutta_code: "AN9.20"
 sutta_title:
   - "Velāma "
   - "About Velāma"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
 > ◄  [[an9.19-sujato-pali]] 📜  [[an9.21-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -106,8 +106,7 @@ devatā velāmena cāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -118,6 +117,5 @@ devatā velāmena cāti.
 | [[EA27.3]], [[MA155]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
 > ◄  [[an9.19-sujato-pali]] 📜  [[an9.21-sujato-pali]] ►

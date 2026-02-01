@@ -4,10 +4,10 @@ sutta_title:
   - "Sīhanāda "
   - "Lion’s Roar"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.64]]
 > ◄  [[an6.63-deepseek-pali]] 📜  [[an6.65-deepseek-pali]] ►
 
 # AN 6.64 Sīhanādasuttaṃ
@@ -87,8 +87,7 @@ Soṇa, Phagguna, Bhijāti, The Taints and Dāruhatthi as well; In the middle, p
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.64-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ Soṇa, Phagguna, Bhijāti, The Taints and Dāruhatthi as well; In the middle, p
 | [[AN10.21]], [[EA46.4]], [[SA684]], [[SA701]], [[MN12]], [[SA686-687]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.64]]
 > ◄  [[an6.63-deepseek-pali]] 📜  [[an6.65-deepseek-pali]] ►

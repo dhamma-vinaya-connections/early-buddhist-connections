@@ -37,49 +37,9 @@ sutta_teacher:
   - "Kassapa"
 sutta_audience:
   - "King"
-sutta_simile: "Moon & sun, the bandit, the sewer, gods of 33, blind from birth, the pregnant woman, the dream, the hot iron ball, the horn blower and the fire worshiper ascetic like not believing in  rebirth. the 2 caravan leaders, the dung carrier, the gamblers and  the man who carried hemp like don't letting go wrong views"
-parallels_nikaya:
-  - "[[DN23]]"
-parallels_agama:
-  - "[[MA71]]"
-parallels_partilal:
-  - "[[SN35.120]]"
-  - "[[DN2]]"
-  - "[[DN3]]"
-  - "[[DN4]]"
-  - "[[DN5]]"
-  - "[[DN6]]"
-  - "[[DN7]]"
-  - "[[DN8]]"
-  - "[[DN9]]"
-  - "[[DN11]]"
-  - "[[DN12]]"
-  - "[[DN13]]"
-  - "[[MN27]]"
-  - "[[MN38]]"
-  - "[[MN51]]"
-  - "[[MN53]]"
-  - "[[MN60]]"
-  - "[[MN76]]"
-  - "[[MN79]]"
-  - "[[MN94]]"
-  - "[[MN101]]"
-  - "[[MN107]]"
-  - "[[MN112]]"
-  - "[[AN4.14]]"
-  - "[[AN4.165]]"
-  - "[[AN4.198]]"
-  - "[[AN5.76]]"
-  - "[[AN5.140]]"
-  - "[[AN10.99]]"
-  - "[[AN11.17]]"
-  - "[[MN39]]"
-  - "[[SN35.127]]"
-  - "[[SN35.240]]"
-  - "[[AN3.16]]"
-  - "[[AN4.37]]"
-  - "[[MN33]]"
-  - "[[MN77]]"
+parallels_nikaya: "[[DN23]]"
+parallels_agama: "[[MA71]]"
+parallels_partilal: "[[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]], [[MN77]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA6]]  🌐 [[DA8]] ►
 
@@ -104,8 +64,7 @@ Give gifts carefully, thoughtfully, with your own hands, not giving the dregs
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -120,8 +79,7 @@ Give gifts carefully, thoughtfully, with your own hands, not giving the dregs
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN27]], [[MN83]], [[SN47.6]], [[SN47.7]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BDA7%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BDA7%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -132,7 +90,7 @@ Give gifts carefully, thoughtfully, with your own hands, not giving the dregs
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BDA7%5D%5D%22%23mynotes%20-file%3Ada7-%20-file%3A%22DA6%22%20-file%3A%22DA8%22%20-file%3A%22DA7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/da7/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 

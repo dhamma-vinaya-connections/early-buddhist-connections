@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG184-PALI"
+sutta_code: "THIG184"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG184-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG184]]
 > ◄  [[thig183-pali-pts]] 📜  [[thig185-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ atthi Sakyakule jāto buddho appaṭipuggalo |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig184-) 
 

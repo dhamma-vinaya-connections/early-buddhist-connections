@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
 > ◄  [[dn2-anigha]] 📜  [[]] ►
 
 # DN 10 - With Subha
@@ -165,8 +165,7 @@ This is that noble aggregate of understanding that the Auspicious One praised. A
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -181,6 +180,5 @@ This is that noble aggregate of understanding that the Auspicious One praised. A
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
 > ◄  [[dn2-anigha]] 📜  [[]] ►

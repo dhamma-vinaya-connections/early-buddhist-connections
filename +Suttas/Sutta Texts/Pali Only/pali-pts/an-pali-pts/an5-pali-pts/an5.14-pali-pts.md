@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.14-PALI"
+sutta_code: "AN5.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kūṭa "
+  - "Peak"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.14]]
 > ◄  [[an5.13-pali-pts]] 📜  [[an5.15-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Seyyathā pi bhikkhave kūṭāgārassa etaṃ aggaṃ etaṃ saṃgāhikaṃ et
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN48.8]] | [[SA646]], [[SA675]] | A iii 10 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA675]], [[SA646]], [[SN48.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.14]]
+> ◄  [[an5.13-pali-pts]] 📜  [[an5.15-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.44-PALI"
+sutta_code: "AN7.44"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sattaviññāṇaṭṭhiti "
+  - "Consciousness Planes"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.44-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.44]]
 > ◄  [[an7.43-pali-pts]] 📜  [[an7.45-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,20 @@ Appamādo hirimā ca dve suvacā duve sakhā Dve paṭisambhidā dve vasā nidda
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.44-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA39.5]] | A iv 39 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA39.5]], [[DN33]], [[DN34]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN7.48]], [[AN10.60]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.44]]
+> ◄  [[an7.43-pali-pts]] 📜  [[an7.45-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.67-PALI"
+sutta_code: "AN7.67"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nagaropama "
+  - "Citadel Simile"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.67-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.67]]
 > ◄  [[an7.66-pali-sc]] 📜  [[an7.68-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -93,6 +93,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.67-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA39.4]], [[MA3]] | A iv 106 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA39.4]], [[MA3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.67]]
+> ◄  [[an7.66-pali-sc]] 📜  [[an7.68-pali-sc]] ►

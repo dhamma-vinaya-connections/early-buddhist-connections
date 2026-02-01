@@ -4,10 +4,10 @@ sutta_title:
   - "Kassapa Sutta "
   - "Mahākassapa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.6]]
 > ◄  [[ud1.5-deepseek-pali]] 📜  [[ud1.7-deepseek-pali]] ►
 
 # Ud 1.6 Mahākassapasuttaṃ
@@ -35,8 +35,7 @@ Then, having understood this matter, on that occasion the Blessed One uttered th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then, having understood this matter, on that occasion the Blessed One uttered th
 | [[SN46.14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.6]]
 > ◄  [[ud1.5-deepseek-pali]] 📜  [[ud1.7-deepseek-pali]] ►

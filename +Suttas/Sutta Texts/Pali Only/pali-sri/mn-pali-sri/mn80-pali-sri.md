@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN80-PALI"
+sutta_code: "MN80"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vekhanasa Sutta "
+  - "With Vekhanasa"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
 > ◄  [[mn79-pali-sri]] 📜  [[mn81-pali-sri]] ►
 
 # 80. Vekhanassa Sutta - Pali
@@ -128,6 +128,16 @@ Puṇḍarī aggi sahā katināmo, dīghanakho puna bhāradvājagotto sandaka ud
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn80-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA209]] | M ii 40 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA209]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
+> ◄  [[mn79-pali-sri]] 📜  [[mn81-pali-sri]] ►

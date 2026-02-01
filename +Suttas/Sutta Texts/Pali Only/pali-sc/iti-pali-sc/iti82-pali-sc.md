@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI82-PALI"
+sutta_code: "ITI82"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Devasadda "
+  - "Joyous Utterances"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI82-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI82]]
 > ◄  [[iti81-pali-sc]] 📜  [[iti83-pali-sc]] ►
 
 # Iti 82. Pañcapubbanimittasuttaṃ
@@ -43,6 +43,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti82-) 
 

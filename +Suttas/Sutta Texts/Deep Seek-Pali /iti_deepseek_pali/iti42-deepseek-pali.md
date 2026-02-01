@@ -4,10 +4,10 @@ sutta_title:
   - "Sukkadhamma "
   - "Bright Protectors"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI42]]
 > ◄  [[iti41-deepseek-pali]] 📜  [[iti43-deepseek-pali]] ►
 
 # Iti 42 Ajātasuttaṃ
@@ -31,8 +31,7 @@ This too was spoken by the Blessed One—thus have I heard. This is the sixth di
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti42-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ This too was spoken by the Blessed One—thus have I heard. This is the sixth di
 | [[THAG18.1]], [[AN2.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI42]]
 > ◄  [[iti41-deepseek-pali]] 📜  [[iti43-deepseek-pali]] ►

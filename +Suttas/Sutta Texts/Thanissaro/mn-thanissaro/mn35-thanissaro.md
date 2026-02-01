@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
 > ◄  [[mn33-thanissaro]] 📜  [[mn36-thanissaro]] ►
 
 ## MN35 The Shorter Discourse to Saccaka
@@ -180,8 +180,7 @@ So the Blessed One early in the morning adjusted his lower robe and—taking his
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn35-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -192,6 +191,5 @@ So the Blessed One early in the morning adjusted his lower robe and—taking his
 | [[EA37.10]]; [[SA110]]; [[SN22.15]]; [[SA10]]; [[SA9]]; [[SN22.16]]; [[SN22.17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
 > ◄  [[mn33-thanissaro]] 📜  [[mn36-thanissaro]] ►

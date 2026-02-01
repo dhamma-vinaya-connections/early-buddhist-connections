@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG36-PALI"
+sutta_code: "THAG36"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG36-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG36]]
 > ◄  [[thag35-pali-pts]] 📜  [[thag37-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ samādhiñ ca virādhenti, kiṃ su raṭṭhaṃcariyā karissati.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag36-) 
 

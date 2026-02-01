@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG309-PALI"
+sutta_code: "THAG309"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG309-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG309]]
 > ◄  [[thag308-pali-pts]] 📜  [[thag310-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tāmatamadasaṃghasuppahīnā bhekā mandavatī panādayanti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag309-) 
 

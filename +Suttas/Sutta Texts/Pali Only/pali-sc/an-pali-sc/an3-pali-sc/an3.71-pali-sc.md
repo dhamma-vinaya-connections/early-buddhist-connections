@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.71-PALI"
+sutta_code: "AN3.71"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Channa "
+  - "With Channa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.71-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.71]]
 > ◄  [[an3.70-pali-sc]] 📜  [[an3.72-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -59,6 +59,16 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.71-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.207]], [[SA973]] | A i 215 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.207]], [[SA973]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.71]]
+> ◄  [[an3.70-pali-sc]] 📜  [[an3.72-pali-sc]] ►

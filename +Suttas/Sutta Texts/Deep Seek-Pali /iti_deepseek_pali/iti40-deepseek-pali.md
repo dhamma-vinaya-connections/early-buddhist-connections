@@ -4,10 +4,10 @@ sutta_title:
   - "Vijjā "
   - "Wisdom"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI40]]
 > ◄  [[iti39-deepseek-pali]] 📜  [[iti41-deepseek-pali]] ►
 
 # Iti 40 Paññāparihīnasuttaṃ
@@ -31,6 +31,5 @@ This too was spoken by the Blessed One—thus have I heard. This is the fourth d
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti40-) 
 

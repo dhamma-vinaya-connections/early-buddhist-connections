@@ -4,10 +4,10 @@ sutta_title:
   - "Assaparassa "
   - "Excellent Horses"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.140]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.140]]
 > ◄  [[an3.139-deepseek-pali]] 📜  [[an3.141-deepseek-pali]] ►
 
 # AN 3.140 Assakhaḷuṅkasuttaṃ
@@ -43,8 +43,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.140-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ language: "Pali"
 | [[SA-2.143]], [[SA917]], [[AN3.141]], [[AN9.22]], [[SA-2.144]], [[SA918]], [[AN3.142]], [[SA919]], [[SA-2.145]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.140]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.140]]
 > ◄  [[an3.139-deepseek-pali]] 📜  [[an3.141-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "MN10"
 sutta_title:
   - "Mahāsatipaṭṭhāna Sutta "
   - "Mindfulness Meditation"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN10]]
 > ◄  [[mn9-sujato-pali]] 📜  [[mn11-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -574,8 +574,7 @@ Mūlapariyāyavaggo niṭṭhito paṭhamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -590,6 +589,5 @@ Mūlapariyāyavaggo niṭṭhito paṭhamo.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN22]], [[SN47]], [[MN119]], [[MN118]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN10]]
 > ◄  [[mn9-sujato-pali]] 📜  [[mn11-sujato-pali]] ►

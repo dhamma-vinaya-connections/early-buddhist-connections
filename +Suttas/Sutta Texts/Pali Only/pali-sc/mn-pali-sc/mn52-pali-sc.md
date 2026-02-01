@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN52-PALI"
+sutta_code: "MN52"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Aṭṭhakanāgara Sutta "
+  - "Man From the City of Aṭṭhaka"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
 > ◄  [[mn51-pali-sc]] 📜  [[mn53-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -72,6 +72,20 @@ Ayampi kho, gahapati, tena bhagavatā jānatā passatā arahatā sammāsambuddhe
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn52-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN11.16]] | [[MA217]] | M i 349 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN11.16]]; [[MA217]]; [[MN64]]; [[AN9.36]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN9.36]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
+> ◄  [[mn51-pali-sc]] 📜  [[mn53-pali-sc]] ►

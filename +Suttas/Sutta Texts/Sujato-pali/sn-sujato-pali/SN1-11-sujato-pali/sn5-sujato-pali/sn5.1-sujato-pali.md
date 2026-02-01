@@ -3,11 +3,11 @@ sutta_code: "SN5.1"
 sutta_title:
   - "Āḷavikāsutta "
   - "Āḷavikā"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
 > ◄  [[]] 📜  [[sn5.2-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -89,8 +89,7 @@ arati mayha sā ahū"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -101,6 +100,5 @@ arati mayha sā ahū"ti.
 | [[SA-2.214]], [[SA1198]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
 > ◄  [[]] 📜  [[sn5.2-sujato-pali]] ►

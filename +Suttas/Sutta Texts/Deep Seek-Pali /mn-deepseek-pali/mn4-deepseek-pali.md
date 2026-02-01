@@ -4,10 +4,10 @@ sutta_title:
   - "Bhayabherava Sutta "
   - "Fear and Dread"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
 > ◄  [[mn3-deepseek-pali]] 📜  [[mn5-deepseek-pali]] ►
 
 # 4. Bhayabheravasuttaṃ
@@ -119,8 +119,7 @@ The Discourse on Fear and Terror is concluded, the fourth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -131,6 +130,5 @@ The Discourse on Fear and Terror is concluded, the fourth.
 | [[EA31.1]]; [[MN100]]; [[MN26]]; [[MN36]]; [[MN85]]; [[MN20]]; [[MA101]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
 > ◄  [[mn3-deepseek-pali]] 📜  [[mn5-deepseek-pali]] ►

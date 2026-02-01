@@ -3,11 +3,11 @@ sutta_code: "UD8.3"
 sutta_title:
   - "Tatiyanibbana Sutta "
   - "Nibbāna (3)"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.3]]
 > ◄  [[ud8.2-anandajoti-pali]] 📜  [[ud8.4-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -37,9 +37,7 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.3-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.3]]
 > ◄  [[ud8.2-anandajoti-pali]] 📜  [[ud8.4-anandajoti-pali]] ►

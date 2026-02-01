@@ -88,7 +88,7 @@ vin_gender-corr: "BNI-PC146"
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BBU-PC68%5D%5D%22%23mynotes%20-file%3Abu-pc68-%20-file%3A%22BU-PC68%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes) that link to this Sutta.
 
-> [!info]- Expand for more [[Online Resources]]
+> [!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-pc?view=normal
 

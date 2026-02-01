@@ -3,11 +3,11 @@ sutta_code: "MN117"
 sutta_title:
   - "Mahācattārīsaka Sutta "
   - "Great Forty"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
 > ◄  [[mn116-sujato-pali]] 📜  [[mn118-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -207,8 +207,7 @@ Mahācattārīsakasuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn117-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -223,6 +222,5 @@ Mahācattārīsakasuttaṁ niṭṭhitaṁ sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.15]]; [[SN45.1]]; [[SN45.8]]; [[AN5.25]]; [[AN5.28]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
 > ◄  [[mn116-sujato-pali]] 📜  [[mn118-sujato-pali]] ►

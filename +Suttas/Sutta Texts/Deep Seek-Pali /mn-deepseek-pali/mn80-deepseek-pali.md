@@ -4,10 +4,10 @@ sutta_title:
   - "Vekhanasa Sutta "
   - "With Vekhanasa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
 > ◄  [[mn79-deepseek-pali]] 📜  [[mn81-deepseek-pali]] ►
 
 # 80. Vekhanasasuttaṃ
@@ -99,8 +99,7 @@ Pundarika, the fire-worshipper, was known as Kathina; Dighanakha, again, was of 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn80-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ Pundarika, the fire-worshipper, was known as Kathina; Dighanakha, again, was of 
 | [[MA209]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
 > ◄  [[mn79-deepseek-pali]] 📜  [[mn81-deepseek-pali]] ►

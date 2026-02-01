@@ -4,10 +4,10 @@ sutta_title:
   - "Vajjiputta "
   - "Vajji"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.84]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.84]]
 > ◄  [[an3.83-deepseek-pali]] 📜  [[an3.85-deepseek-pali]] ►
 
 # AN 3.84 Vajjiputtasuttaṃ
@@ -31,8 +31,7 @@ Then, after some time, that monk trained in higher virtue, higher mind, and high
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.84-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Then, after some time, that monk trained in higher virtue, higher mind, and high
 | [[SA829]], [[AN3.91]], [[SA830-831]], [[SN54.10]], [[SA813]], [[AN10.83]], [[SA966]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.84]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.84]]
 > ◄  [[an3.83-deepseek-pali]] 📜  [[an3.85-deepseek-pali]] ►

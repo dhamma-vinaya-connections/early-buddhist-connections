@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
 > ◄  [[snp4.5-thanissaro]] 📜  [[snp4.7-thanissaro]] ►
 
 # 4:6  Old Age
@@ -143,8 +143,7 @@ vv. 804–813
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -159,6 +158,5 @@ vv. 804–813
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN21.2]], [[AN4.184]], [[DHP21]], [[SN5.16]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
 > ◄  [[snp4.5-thanissaro]] 📜  [[snp4.7-thanissaro]] ►

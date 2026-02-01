@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG1-PALI"
+sutta_code: "THIG1"
 sutta_title:
-  - " "
-  - ""
+  - "Ekakanipātavagga "
+  - "Ones Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG1]]
 > ◄  [[]] 📜  [[thig2-pali-eng]] ►
 
 # Thig 1. Ekakanipāto
@@ -149,6 +149,5 @@ Having abandoned home, I went forth, having abandoned son, possessions, and what
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig1-) 
 

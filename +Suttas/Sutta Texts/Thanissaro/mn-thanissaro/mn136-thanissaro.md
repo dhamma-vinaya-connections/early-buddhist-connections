@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
 > ◄  [[mn135-thanissaro]] 📜  [[mn137-thanissaro]] ►
 
 ## MN136 The Greater Analysis of Action
@@ -96,8 +96,7 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn136-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -112,6 +111,5 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN41]]; [[MN135]]; [[SN42.13]]; [[AN3.61]]; [[AN4.77]]; [[AN6.63]]; [[AN8.40.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
 > ◄  [[mn135-thanissaro]] 📜  [[mn137-thanissaro]] ►

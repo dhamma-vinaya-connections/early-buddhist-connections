@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP410-PALI"
+sutta_code: "DHP410"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP410-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP410]]
 > ◄  [[dhp409-pali-pts]] 📜  [[dhp411-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yassālayā na vijjanti aññāya akathaṃkathī /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp410-) 
 

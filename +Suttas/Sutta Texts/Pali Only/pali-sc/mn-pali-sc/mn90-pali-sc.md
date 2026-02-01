@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN90-PALI"
+sutta_code: "MN90"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kaṇṇakatthala Sutta "
+  - "At Kaṇṇakatthala"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-pali-sc]] 📜  [[mn91-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -176,6 +176,16 @@ dasamaṁ kaṇṇakatthalaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn90-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA212]] | M ii 125 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA212]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
+> ◄  [[mn89-pali-sc]] 📜  [[mn91-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG165-PALI"
+sutta_code: "THIG165"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG165-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG165]]
 > ◄  [[thig164-pali-pts]] 📜  [[thig166-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ saṃyojanāni etāni pajahitvāna bhikkhuni |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig165-) 
 

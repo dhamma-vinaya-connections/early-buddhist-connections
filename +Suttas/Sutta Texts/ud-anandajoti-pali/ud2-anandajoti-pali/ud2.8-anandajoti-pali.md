@@ -3,11 +3,11 @@ sutta_code: "UD2.8"
 sutta_title:
   - "Suppavasa Sutta "
   - "Suppavāsā"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.8]]
 > ◄  [[ud2.7-anandajoti-pali]] 📜  [[ud2.9-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -137,8 +137,7 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -153,6 +152,5 @@ Aṭṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN87]], [[SN42:11]], [[UD 2:8]], [[UD 8:8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.8]]
 > ◄  [[ud2.7-anandajoti-pali]] 📜  [[ud2.9-anandajoti-pali]] ►

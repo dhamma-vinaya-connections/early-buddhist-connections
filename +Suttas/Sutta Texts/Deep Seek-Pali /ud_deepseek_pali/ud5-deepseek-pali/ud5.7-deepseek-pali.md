@@ -4,10 +4,10 @@ sutta_title:
   - "Revata Sutta "
   - "About Revata"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.7]]
 > ◄  [[ud5.6-deepseek-pali]] 📜  [[ud5.8-deepseek-pali]] ►
 
 # Ud 5.7 Kaṅkhārevatasuttaṃ
@@ -35,9 +35,7 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.7-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.7]]
 > ◄  [[ud5.6-deepseek-pali]] 📜  [[ud5.8-deepseek-pali]] ►

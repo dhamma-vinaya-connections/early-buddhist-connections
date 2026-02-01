@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN94-PALI"
+sutta_code: "MN94"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ghoṭamukha Sutta "
+  - "With Ghoṭamukha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94]]
 > ◄  [[mn93-pali-sc]] 📜  [[mn95-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -173,6 +173,16 @@ Atthi ca me, bho udena, aṅgarājā devasikaṁ niccabhikkhaṁ dadāti, tato a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn94-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M ii 157 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN2]]; [[MN38]]; [[MN27]]; [[MN76]]; [[MN101]]; [[AN10.99]]; [[AN4.198]]; [[MN51]]; [[SN35.120]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN53]]; [[MN60]]; [[MN79]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN5.76]]; [[AN5.140]]; [[AN11.17]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[MN33]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94]]
+> ◄  [[mn93-pali-sc]] 📜  [[mn95-pali-sc]] ►

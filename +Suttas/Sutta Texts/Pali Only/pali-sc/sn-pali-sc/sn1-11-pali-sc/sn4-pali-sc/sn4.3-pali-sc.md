@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.3-PALI"
+sutta_code: "SN4.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Subhasutta "
+  - "Beautiful"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.3]]
 > ◄  [[sn4.2-pali-sc]] 📜  [[sn4.4-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -39,6 +39,16 @@ na te mārassa baddhagū"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.32]], [[SA1093]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.32]], [[SA1093]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.3]]
+> ◄  [[sn4.2-pali-sc]] 📜  [[sn4.4-pali-sc]] ►

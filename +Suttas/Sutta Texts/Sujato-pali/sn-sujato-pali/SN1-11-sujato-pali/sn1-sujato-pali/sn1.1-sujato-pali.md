@@ -3,11 +3,11 @@ sutta_code: "SN1.1"
 sutta_title:
   - "Oghataraṇa "
   - "Crossing The Flood"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
 > ◄  [[]] 📜  [[sn1.2-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -65,8 +65,7 @@ tiṇṇaṁ loke visattikan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,6 +80,5 @@ tiṇṇaṁ loke visattikan"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.38 AND SN12.64]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.1]]
 > ◄  [[]] 📜  [[sn1.2-sujato-pali]] ►

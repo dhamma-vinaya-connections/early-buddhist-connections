@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI59-PALI"
+sutta_code: "ITI59"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Māradheyya "
+  - "Maras Sway"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI59-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI59]]
 > ◄  [[iti58-pali-sc]] 📜  [[iti60-pali-sc]] ►
 
 # Iti 59. Puññakiriyavatthusuttaṃ
@@ -27,6 +27,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Paṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti59-) 
 

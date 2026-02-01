@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.1-PALI"
+sutta_code: "SN6.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Brahmāyācanasutta "
+  - "Brahma's Request"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
 > ◄  [[sn5.1-pali-sri]] 📜  [[sn6.2-pali-sri]] ►
 
 # 6:1 Kokalikavaggo - Pali
@@ -454,6 +454,16 @@ Pamāda kokālikatissako ca tudu ca brahmā aparo ca kokālikoti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DN14]], [[MN26]], [[MN85]] | [[EA19.1]], [[EA24.5]], [[MA204]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[MN85]], [[PLI-TV-KD15]], [[DN14]], [[MA204]], [[MN100]], [[MN26]], [[MN36]], [[ITI38]], [[PLI-TV-KD1]], [[SN11.17]], [[EA19.1]], [[EA24.5]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
+> ◄  [[sn5.1-pali-sri]] 📜  [[sn6.2-pali-sri]] ►

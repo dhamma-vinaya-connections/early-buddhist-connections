@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG741-PALI"
+sutta_code: "THAG741"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG741-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG741]]
 > ◄  [[thag740-pali-pts]] 📜  [[thag742-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yañ ca atthena saññuttaṃ yā ca dhammagatā rati
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag741-) 
 

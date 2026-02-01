@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG300-PALI"
+sutta_code: "THAG300"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG300-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG300]]
 > ◄  [[thag299-pali-pts]] 📜  [[thag303-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Dhammo have rakkhati dhammacāriṃ, dhammo suciṇṇo sukham āvahāti:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag300-) 
 

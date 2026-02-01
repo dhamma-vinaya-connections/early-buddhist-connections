@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
 > ◄  [[mn52-thanissaro]] 📜  [[mn54-thanissaro]] ►
 
 ## MN53 The Practice for One in Training
@@ -104,8 +104,7 @@ That is what Ven. Ānanda said, and the Teacher approved. Gratified, the Kapilav
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn53-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -120,6 +119,5 @@ That is what Ven. Ānanda said, and the Teacher approved. Gratified, the Kapilav
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.37]]; [[AN7.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
 > ◄  [[mn52-thanissaro]] 📜  [[mn54-thanissaro]] ►

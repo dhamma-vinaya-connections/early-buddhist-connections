@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[EA]] / 📂 [[EA2]]  / 🌐 [[EA2.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[EA]] / 📂 [[EA2]]  / 🌐 [[EA2.1]]
 > ◄  [[ea1.1-patton]] 📜  [[ea2.3-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -39,8 +39,7 @@ Last Revised: 29 January 2023
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ea2.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Last Revised: 29 January 2023
 | [[AN2.19]], [[AN3.29]], [[EA2.1]], [[EA2.3]], [[SA42]], [[SN22.57]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[EA]] / 📂 [[EA2]]  / 🌐 [[EA2.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[EA]] / 📂 [[EA2]]  / 🌐 [[EA2.1]]
 > ◄  [[ea1.1-patton]] 📜  [[ea2.3-patton]] ►

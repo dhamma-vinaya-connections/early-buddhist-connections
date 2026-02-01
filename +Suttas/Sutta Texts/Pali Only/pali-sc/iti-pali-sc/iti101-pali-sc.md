@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI101-PALI"
+sutta_code: "ITI101"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sulabha "
+  - "Easy to find"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI101-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI101]]
 > ◄  [[iti100-pali-sc]] 📜  [[iti102-pali-sc]] ►
 
 # Iti 101. Samaṇabrāhmaṇasuttaṃ
@@ -33,6 +33,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti101-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI101]]
+> ◄  [[iti100-pali-sc]] 📜  [[iti102-pali-sc]] ►

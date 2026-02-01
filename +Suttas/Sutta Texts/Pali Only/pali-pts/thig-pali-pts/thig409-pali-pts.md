@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG409-PALI"
+sutta_code: "THIG409"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG409-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG409]]
 > ◄  [[thig408-pali-pts]] 📜  [[thig410-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ kālena uṭṭhahitvā gharaṃ samupagamiṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig409-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN61-PALI"
+sutta_code: "MN61"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Ambalaṭṭhikarāhulovāda Sutta "
+  - "Advice to Rāhula at Ambalaṭṭhika"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
 > ◄  [[mn60-pali-sri]] 📜  [[mn62-pali-sri]] ►
 
 # 61. Ambalatthika Rahulovada Sutta - Pali
@@ -124,6 +124,20 @@ Ambalaṭṭhika rāhulovāda suttaṃ paṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn61-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA14]] | M i 414 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA14]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN62]]; [[MN147]]; [[MN65]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
+> ◄  [[mn60-pali-sri]] 📜  [[mn62-pali-sri]] ►

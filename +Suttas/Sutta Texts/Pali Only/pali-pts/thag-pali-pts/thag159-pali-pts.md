@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG159-PALI"
+sutta_code: "THAG159"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG159-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG159]]
 > ◄  [[thag158-pali-pts]] 📜  [[thag160-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ pare ca naṃ garahanti attā ce susamāhito:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag159-) 
 

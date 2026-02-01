@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG71-PALI"
+sutta_code: "THAG71"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG71-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG71]]
 > ◄  [[thag70-pali-pts]] 📜  [[thag72-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Yathā kalīro susu vaḍḍhitaggo dunnikkhamo hoti pasākhajāto,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag71-) 
 

@@ -3,11 +3,11 @@ sutta_code: "MN49"
 sutta_title:
   - "Brahmanimantanika Sutta "
   - "Brahma invitation"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-sujato-pali]] 📜  [[mn50-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -219,8 +219,7 @@ Brahmanimantanikasuttaṁ niṭṭhitaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn49-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -235,6 +234,5 @@ Brahmanimantanikasuttaṁ niṭṭhitaṁ navamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]]; [[MN1]]; [[MN72]]; [[MN86]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-sujato-pali]] 📜  [[mn50-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG146-PALI"
+sutta_code: "THAG146"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG146-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG146]]
 > ◄  [[thag145-pali-pts]] 📜  [[thag147-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ evaṃ kusītam āgamma sādhujīvī pi sīdati;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag146-) 
 

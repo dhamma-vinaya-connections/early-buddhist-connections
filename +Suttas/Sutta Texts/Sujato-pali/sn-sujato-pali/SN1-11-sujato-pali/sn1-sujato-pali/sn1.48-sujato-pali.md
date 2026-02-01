@@ -3,11 +3,11 @@ sutta_code: "SN1.48"
 sutta_title:
   - "Jetavanasutta "
   - "Jeta's Grove"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.48]]
 > ◄  [[sn1.47-sujato-pali]] 📜  [[sn1.49-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -65,8 +65,7 @@ etāvaparamo siyā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.48-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,6 +80,5 @@ etāvaparamo siyā"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN143]], [[MN140]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.48]]
 > ◄  [[sn1.47-sujato-pali]] 📜  [[sn1.49-sujato-pali]] ►

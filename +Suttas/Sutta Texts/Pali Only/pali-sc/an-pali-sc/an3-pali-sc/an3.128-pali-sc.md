@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.128-PALI"
+sutta_code: "AN3.128"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kaṭuviya "
+  - "Bitter"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.128-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.128]]
 > ◄  [[an3.127-pali-sc]] 📜  [[an3.129-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -60,6 +60,16 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.128-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.20]], [[SA1081]] | A i 279 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.20]], [[SA1081]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.128]]
+> ◄  [[an3.127-pali-sc]] 📜  [[an3.129-pali-sc]] ►

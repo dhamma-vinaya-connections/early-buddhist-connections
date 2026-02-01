@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP19-PALI"
+sutta_code: "DHP19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dhammaṭṭhavagga "
+  - "Just"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP19]]
 > ◄  [[dhp18-pali-pts]] 📜  [[dhp20-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,11 @@ rāgañ ca dosañ ca pahāya mohaṃ sammappajāno suvimuttacitto /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 73 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP19]]
+> ◄  [[dhp18-pali-pts]] 📜  [[dhp20-pali-pts]] ►

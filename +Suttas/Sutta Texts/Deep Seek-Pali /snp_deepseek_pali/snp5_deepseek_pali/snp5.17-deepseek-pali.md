@@ -4,10 +4,10 @@ sutta_title:
   - "Alarmed by the deterioration of his aging body, Piṅgiya asks the Buddha how to conquer birth and decay. "
   - "Questions of the Student Piṅgiya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.17]]
 > ◄  [[snp5.16-deepseek-pali]] 📜  [[snp5.18-deepseek-pali]] ►
 
 # Snp 5.17 Piṅgiyamāṇavapucchā
@@ -50,6 +50,5 @@ The Questions of the Youth Piṅgiya, the sixteenth, are finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.17-) 
 

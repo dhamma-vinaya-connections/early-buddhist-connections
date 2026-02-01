@@ -4,10 +4,10 @@ sutta_title:
   - "Āḷavakasutta "
   - "With Āḷavakasutta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
 > ◄  [[snp1.9-deepseek-pali]] 📜  [[snp1.11-deepseek-pali]] ►
 
 # Snp 1.10 Āḷavakasuttaṃ
@@ -115,8 +115,7 @@ The Āḷavaka Sutta, the tenth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -131,6 +130,5 @@ The Āḷavaka Sutta, the tenth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN35]], [[SN2.5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
 > ◄  [[snp1.9-deepseek-pali]] 📜  [[snp1.11-deepseek-pali]] ►

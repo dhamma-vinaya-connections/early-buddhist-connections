@@ -4,10 +4,10 @@ sutta_title:
   - "Upasīvamāṇavapucchā "
   - "Questions of the Student Upasīva"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.7]]
 > ◄  [[snp5.6-deepseek-pali]] 📜  [[snp5.8-deepseek-pali]] ►
 
 # Snp 5.7 Upasīvamāṇavapucchā
@@ -77,9 +77,7 @@ The The Questions of the Young Man Upasīva, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.7-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.7]]
 > ◄  [[snp5.6-deepseek-pali]] 📜  [[snp5.8-deepseek-pali]] ►

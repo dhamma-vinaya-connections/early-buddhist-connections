@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
 > ◄  [[mn78-thanissaro]] 📜  [[mn85-thanissaro]] ►
 
 ## MN82 About Raṭṭhapāla
@@ -456,8 +456,7 @@ for sure.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn82-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -472,6 +471,5 @@ for sure.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG16.4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
 > ◄  [[mn78-thanissaro]] 📜  [[mn85-thanissaro]] ►

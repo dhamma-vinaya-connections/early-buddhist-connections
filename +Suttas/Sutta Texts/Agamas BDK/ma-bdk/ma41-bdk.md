@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA41]]
 > ◄  [[ma40-bdk]] 📜  [[ma42-bdk]] ►
 
 ### 41. The Discourse on the Householder Hatthaka
@@ -25,8 +25,7 @@ lead to evil retribution and are the root cause for birth and death. On account 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma41-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -36,6 +35,5 @@ lead to evil retribution and are the root cause for birth and death. On account 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.256]], [[AN4.32]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA41]]
 > ◄  [[ma40-bdk]] 📜  [[ma42-bdk]] ►

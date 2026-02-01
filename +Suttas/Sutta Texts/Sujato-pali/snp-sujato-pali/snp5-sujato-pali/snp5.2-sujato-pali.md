@@ -3,11 +3,11 @@ sutta_code: "SNP5.2"
 sutta_title:
   - "Ajitamāṇavapucchā "
   - "Questions of the Student Ajita"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.2]]
 > ◄  [[snp5.1-sujato-pali]] 📜  [[snp5.3-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -134,8 +134,7 @@ Ajitamāṇavapucchā paṭhamā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -150,6 +149,5 @@ Ajitamāṇavapucchā paṭhamā.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]], [[DN15]], [[MN49]], [[ANDSN12:67]], [[SN12.31]], [[SNP5.14]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.2]]
 > ◄  [[snp5.1-sujato-pali]] 📜  [[snp5.3-sujato-pali]] ►

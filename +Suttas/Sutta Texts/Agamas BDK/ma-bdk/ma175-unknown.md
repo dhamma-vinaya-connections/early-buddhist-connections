@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA175]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA175]]
 > ◄  [[ma174]] 📜  [[ma176]] ►
 
 ### 175. The Discourse on Ways of Practice (2)
@@ -29,8 +29,7 @@ That there is a way of practice that is pleasant now and results in future pleas
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma175-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ That there is a way of practice that is pleasant now and results in future pleas
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.192]], [[MA174]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA175]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA175]]
 > ◄  [[ma174]] 📜  [[ma176]] ►

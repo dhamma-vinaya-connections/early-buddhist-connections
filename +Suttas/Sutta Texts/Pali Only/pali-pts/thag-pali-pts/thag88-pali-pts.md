@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG88-PALI"
+sutta_code: "THAG88"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG88-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG88]]
 > ◄  [[thag87-pali-pts]] 📜  [[thag89-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Uttiṇṇā paṅkā palipā, pātālā parivajjitā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag88-) 
 

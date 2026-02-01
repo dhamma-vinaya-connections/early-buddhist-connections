@@ -3,11 +3,11 @@ sutta_code: "SN7.1"
 sutta_title:
   - "Dhanañjānīsutta "
   - "Dhanañjani"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.1]]
 > ◄  [[]] 📜  [[sn7.2-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -103,8 +103,7 @@ tañhi chetvā na socatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -115,6 +114,5 @@ tañhi chetvā na socatī"ti.
 | [[SN2.3]], [[SN1.71]], [[SN11.21]], [[SA1309]], [[SA-2.308]], [[SA1158]], [[SA-2.81]], [[SA1116]], [[SA-2.45]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.1]]
 > ◄  [[]] 📜  [[sn7.2-sujato-pali]] ►

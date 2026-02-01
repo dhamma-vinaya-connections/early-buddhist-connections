@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG19-PALI"
+sutta_code: "THAG19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Tālapuṭattheragāthā "
+  - "Tālapuṭa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG19]]
 > ◄  [[thag18-pali-sc]] 📜  [[thag20-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -368,6 +368,5 @@ Bhavābhinandī tava citta sāvakā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag19-) 
 

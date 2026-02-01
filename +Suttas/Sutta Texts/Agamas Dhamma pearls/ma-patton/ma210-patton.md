@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA210]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA210]]
 > ◄  [[ma204-patton]] 📜  [[]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -253,8 +253,7 @@ The nun Dharmadinnā answered, “Madam, you’re asking about an endless subjec
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma210-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -269,6 +268,5 @@ The nun Dharmadinnā answered, “Madam, you’re asking about an endless subjec
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA210]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA210]]
 > ◄  [[ma204-patton]] 📜  [[]] ►

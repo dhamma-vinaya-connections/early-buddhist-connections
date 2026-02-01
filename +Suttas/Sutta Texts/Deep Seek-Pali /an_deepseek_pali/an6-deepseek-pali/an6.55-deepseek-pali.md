@@ -4,10 +4,10 @@ sutta_title:
   - "Sona "
   - "With Sona"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.55]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.55]]
 > ◄  [[an6.54-deepseek-pali]] 📜  [[an6.56-deepseek-pali]] ►
 
 # AN 6.55 Soṇasuttaṃ
@@ -107,8 +107,7 @@ Pleasant and unpleasant things do not agitate such a one, whose mind is firm and
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.55-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -119,6 +118,5 @@ Pleasant and unpleasant things do not agitate such a one, whose mind is firm and
 | [[EA23.3]], [[MA123]], [[SA254]], [[PLI-TV-KD5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.55]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.55]]
 > ◄  [[an6.54-deepseek-pali]] 📜  [[an6.56-deepseek-pali]] ►

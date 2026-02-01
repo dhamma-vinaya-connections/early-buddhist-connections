@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.3-PALI"
+sutta_code: "AN9.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sambodhi "
+  - "Awakening"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.3]]
 > ◄  [[an9.2-pali-sc]] 📜  [[an9.4-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -82,6 +82,20 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[UD4.1]] | [[MA56]] | A iv 354 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA56]], [[UD4.1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN10.69]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.3]]
+> ◄  [[an9.2-pali-sc]] 📜  [[an9.4-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.19-PALI"
+sutta_code: "SN4.19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kassakasutta "
+  - "Farmer"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.19]]
 > ◄  [[sn4.18-pali-sc]] 📜  [[sn4.20-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -44,6 +44,5 @@ na me maggampi dakkhasī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.19-) 
 

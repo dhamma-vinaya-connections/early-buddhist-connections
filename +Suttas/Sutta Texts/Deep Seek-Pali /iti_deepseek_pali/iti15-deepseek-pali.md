@@ -4,10 +4,10 @@ sutta_title:
   - "Taṇhāsaṁyojana "
   - "Craving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI15]]
 > ◄  [[iti14-deepseek-pali]] 📜  [[iti16-deepseek-pali]] ►
 
 # Iti 15 Paṭhamasekhasuttaṃ
@@ -27,8 +27,7 @@ This too was said by the Blessed One, so I heard. Sixth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ This too was said by the Blessed One, so I heard. Sixth.
 | [[AN4.9]], [[ITI105]], [[SNP3.12]], [[JA493]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI15]]
 > ◄  [[iti14-deepseek-pali]] 📜  [[iti16-deepseek-pali]] ►

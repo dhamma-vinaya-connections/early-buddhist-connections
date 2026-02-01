@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.22-PALI"
+sutta_code: "SN4.22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Samiddhisutta "
+  - "Samiddhi"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.22]]
 > ◄  [[sn4.21-pali-sc]] 📜  [[sn4.23-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -47,6 +47,20 @@ neva maṁ byādhayissasī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1100]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1100]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN1.20]], [[SN4.17]], [[SN35.127]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.22]]
+> ◄  [[sn4.21-pali-sc]] 📜  [[sn4.23-pali-sc]] ►

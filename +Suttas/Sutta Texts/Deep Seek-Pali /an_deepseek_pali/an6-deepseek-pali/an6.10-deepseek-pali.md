@@ -4,10 +4,10 @@ sutta_title:
   - "Anussatiṭṭhāna "
   - "Topics For Recollection"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.10]]
 > ◄  [[an6.9-deepseek-pali]] 📜  [[an6.11-deepseek-pali]] ►
 
 # AN 6.10 Mahānāmasuttaṃ
@@ -68,8 +68,7 @@ The unsurpassable, recollection—these ten with Mahānāma.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -80,6 +79,5 @@ The unsurpassable, recollection—these ten with Mahānāma.
 | [[AN6.25]], [[SA-2.156]], [[SA931]], [[AN11.11]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.10]]
 > ◄  [[an6.9-deepseek-pali]] 📜  [[an6.11-deepseek-pali]] ►

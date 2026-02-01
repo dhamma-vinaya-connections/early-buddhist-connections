@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG90-PALI"
+sutta_code: "THIG90"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG90-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG90]]
 > ◄  [[thig89-pali-pts]] 📜  [[thig91-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sabbe bhavā samucchinnā icchā ca patthanā pi ca |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig90-) 
 

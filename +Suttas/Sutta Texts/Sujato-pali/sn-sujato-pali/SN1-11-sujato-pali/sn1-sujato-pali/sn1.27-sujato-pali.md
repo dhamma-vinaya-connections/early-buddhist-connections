@@ -3,11 +3,11 @@ sutta_code: "SN1.27"
 sutta_title:
   - "Sarasutta "
   - "Streams"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.27]]
 > ◄  [[sn1.26-sujato-pali]] 📜  [[sn1.28-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -49,8 +49,7 @@ asesaṁ uparujjhatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -61,6 +60,5 @@ asesaṁ uparujjhatī"ti.
 | [[SA-2.176]], [[SA601]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.27]]
 > ◄  [[sn1.26-sujato-pali]] 📜  [[sn1.28-sujato-pali]] ►

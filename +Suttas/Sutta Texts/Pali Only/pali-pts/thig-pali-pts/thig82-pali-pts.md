@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG82-PALI"
+sutta_code: "THIG82"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG82-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG82]]
 > ◄  [[thig81-pali-pts]] 📜  [[thig83-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ yathā idaṃ tathā etaṃ yathā etaṃ tathā idaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig82-) 
 

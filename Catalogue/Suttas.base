@@ -58,9 +58,6 @@ views:
       note.sutta_length: 119
   - type: table
     name: suttas-themes
-    filters:
-      and:
-        - sutta_theme == this.sutta_theme
     groupBy:
       property: sutta_theme
       direction: ASC

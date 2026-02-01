@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.5-PALI"
+sutta_code: "AN6.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Paṭhamaāhuneyya "
+  - "Worthy Of Offerings"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.5]]
 > ◄  [[an6.4-pali-sri]] 📜  [[an6.6-pali-sri]] ►
 
 # 10:5 Akkosavaggo - Pali
@@ -354,6 +354,11 @@ Paṭhamo paṇṇāsako samatto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 282 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.5]]
+> ◄  [[an6.4-pali-sri]] 📜  [[an6.6-pali-sri]] ►

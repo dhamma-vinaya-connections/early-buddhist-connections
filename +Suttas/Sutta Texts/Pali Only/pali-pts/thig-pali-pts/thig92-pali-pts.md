@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG92-PALI"
+sutta_code: "THIG92"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG92-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG92]]
 > ◄  [[thig91-pali-pts]] 📜  [[thig93-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ riñcitvā paramaṃ atthaṃ hīnam atthaṃ asevi 'haṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig92-) 
 

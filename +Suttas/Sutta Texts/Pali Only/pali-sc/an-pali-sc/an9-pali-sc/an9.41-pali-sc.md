@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.41-PALI"
+sutta_code: "AN9.41"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Tapussa "
+  - "Householder Tapussa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.41-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.41]]
 > ◄  [[an9.40-pali-sc]] 📜  [[an9.42-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -109,6 +109,11 @@ nāgena tapussena cāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.41-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 438 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.41]]
+> ◄  [[an9.40-pali-sc]] 📜  [[an9.42-pali-sc]] ►

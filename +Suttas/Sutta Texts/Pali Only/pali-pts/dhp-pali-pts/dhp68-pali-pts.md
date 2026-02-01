@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP68-PALI"
+sutta_code: "DHP68"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP68-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP68]]
 > ◄  [[dhp67-pali-pts]] 📜  [[dhp69-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ madhuvā maññatī bālo yāva pāpaṃ na paccati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp68-) 
 

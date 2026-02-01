@@ -4,10 +4,10 @@ sutta_title:
   - "Devadattavipatti "
   - "Devadatta’s Failure"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.8]]
 > ◄  [[an8.7-deepseek-pali]] 📜  [[an8.9-deepseek-pali]] ►
 
 # AN 8.8 Uttaravipattisuttaṃ
@@ -74,12 +74,11 @@ And for what purpose, bhikkhus, should a bhikkhu live overcoming arisen gain aga
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 162 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.8]]
 > ◄  [[an8.7-deepseek-pali]] 📜  [[an8.9-deepseek-pali]] ►

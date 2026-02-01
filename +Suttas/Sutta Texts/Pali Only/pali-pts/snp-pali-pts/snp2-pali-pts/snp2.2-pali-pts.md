@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.2-PALI"
+sutta_code: "SNP2.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Āmagandhasutta "
+  - "Carrion"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.2]]
 > ◄  [[snp2.1-pali-pts]] 📜  [[snp2.3-pali-pts]] ►
 
 # SNP2.2 Āmagandhasutta
@@ -86,6 +86,7 @@ tatth'; eva pabbajjam arocayitthā ti || Sn_II,2.14 ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.2]]
+> ◄  [[snp2.1-pali-pts]] 📜  [[snp2.3-pali-pts]] ►

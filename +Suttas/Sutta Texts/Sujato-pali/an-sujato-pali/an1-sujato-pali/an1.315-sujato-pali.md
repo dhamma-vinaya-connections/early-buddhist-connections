@@ -3,11 +3,11 @@ sutta_code: "AN1.315"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.315]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.315]]
 > ◄  [[an1.314-sujato-pali]] 📜  [[an1.316-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -33,6 +33,5 @@ Vaggo dutiyo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.315-) 
 

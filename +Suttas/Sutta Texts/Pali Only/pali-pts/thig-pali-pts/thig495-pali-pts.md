@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG495-PALI"
+sutta_code: "THIG495"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG495-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG495]]
 > ◄  [[thig494-pali-pts]] 📜  [[thig496-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ assu thaññaṃ rudhiraṃ saṃsāraṃ anamataggato saratha |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig495-) 
 

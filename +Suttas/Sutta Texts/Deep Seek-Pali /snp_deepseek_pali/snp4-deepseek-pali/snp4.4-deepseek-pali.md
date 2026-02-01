@@ -4,10 +4,10 @@ sutta_title:
   - "Suddhaṭṭhakasutta "
   - "Eight on the Pure"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.4]]
 > ◄  [[snp4.3-deepseek-pali]] 📜  [[snp4.5-deepseek-pali]] ►
 
 # Snp 4.4 Suddhaṭṭhakasuttaṃ
@@ -71,9 +71,7 @@ The Sutta on the Pure, the fourth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.4-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.4]]
 > ◄  [[snp4.3-deepseek-pali]] 📜  [[snp4.5-deepseek-pali]] ►

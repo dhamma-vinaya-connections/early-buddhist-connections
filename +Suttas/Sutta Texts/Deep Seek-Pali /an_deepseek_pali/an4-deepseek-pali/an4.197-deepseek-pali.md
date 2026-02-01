@@ -4,10 +4,10 @@ sutta_title:
   - "Mallikādevī "
   - "Queen Mallikā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.197]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.197]]
 > ◄  [[an4.196-deepseek-pali]] 📜  [[an4.198-deepseek-pali]] ►
 
 # AN 4.197 Mallikādevīsuttaṃ
@@ -71,12 +71,11 @@ When this was said, Queen Mallikā said to the Blessed One: “Surely, Venerable
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.197-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A ii 202 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.197]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.197]]
 > ◄  [[an4.196-deepseek-pali]] 📜  [[an4.198-deepseek-pali]] ►

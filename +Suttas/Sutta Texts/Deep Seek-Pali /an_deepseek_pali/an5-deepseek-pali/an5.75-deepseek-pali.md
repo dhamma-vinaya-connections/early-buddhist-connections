@@ -4,10 +4,10 @@ sutta_title:
   - "Yodhajiva "
   - "Warriors 1st"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
 > ◄  [[an5.74-deepseek-pali]] 📜  [[an5.76-deepseek-pali]] ►
 
 # AN 5.75 Paṭhamayodhājīvasuttaṃ
@@ -87,8 +87,7 @@ Just as, bhikkhus, that warrior endures the dust cloud, endures the banner, endu
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.75-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ Just as, bhikkhus, that warrior endures the dust cloud, endures the banner, endu
 | [[EA33.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
 > ◄  [[an5.74-deepseek-pali]] 📜  [[an5.76-deepseek-pali]] ►

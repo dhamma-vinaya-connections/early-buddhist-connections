@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyaāyusutta "
   - "Life Span (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.10]]
 > ◄  [[sn4.9-deepseek-pali]] 📜  [[sn4.11-deepseek-pali]] ►
 
 # SN 4.10 Dutiyaāyusuttaṃ
@@ -59,8 +59,7 @@ Austerity and the elephant, Subha and the snare, these two;The snake, the sleepe
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Austerity and the elephant, Subha and the snare, these two;The snake, the sleepe
 | [[SA-2.24]], [[SA1085]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.10]]
 > ◄  [[sn4.9-deepseek-pali]] 📜  [[sn4.11-deepseek-pali]] ►

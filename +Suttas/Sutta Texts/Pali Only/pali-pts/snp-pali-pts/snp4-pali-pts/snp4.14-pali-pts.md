@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.14-PALI"
+sutta_code: "SNP4.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Tuvaṭakasutta "
+  - "Speedy"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.14]]
 > ◄  [[snp4.13-pali-pts]] 📜  [[snp4.15-pali-pts]] ►
 
 # SNP4.14 Tuṭaṭakasutta
@@ -107,6 +107,7 @@ TUVAṬAKASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.14-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.14]]
+> ◄  [[snp4.13-pali-pts]] 📜  [[snp4.15-pali-pts]] ►

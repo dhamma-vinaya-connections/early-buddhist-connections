@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.36-PALI"
+sutta_code: "AN6.36"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vivādamūla "
+  - "Roots Of Quarrels"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.36-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.36]]
 > ◄  [[an6.35-pali-pts]] 📜  [[an6.37-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,20 @@ Ime kho bhikkhave cha dhammā vijjābhāgiyā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.36-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 334 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN33]], [[MN104]], [[PLI-TV-KD14]], [[PLI-TV-PVR4]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN104]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.36]]
+> ◄  [[an6.35-pali-pts]] 📜  [[an6.37-pali-pts]] ►

@@ -3,11 +3,11 @@ sutta_code: "AN5.294"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.294]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.294]]
 > ◄  [[an5.293-sujato-pali]] 📜  [[an5.303-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -33,6 +33,5 @@ Sikkhāpadapeyyālaṁ niṭṭhitaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.294-) 
 

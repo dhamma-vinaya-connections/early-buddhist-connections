@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN137-PALI"
+sutta_code: "MN137"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Saḷāyatanavibhaṅga "
+  - "Analysis of the Six Sense Fields"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN137-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN137]]
 > ◄  [[mn136-pali-sri]] 📜  [[mn138-pali-sri]] ►
 
 # 137. Salayatanavibhanga - Pali
@@ -139,6 +139,20 @@ Saḷāyatanavibhaṅgasuttaṃ sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn137-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN1.447-454]]; [[AN8.120]]; [[AN8.66]] | [[MA163]] | M iii 215 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.120]]; [[AN1.447-454]]; [[AN8.66]]; [[DN16]]; [[DN15]]; [[MN77]]; [[DN34]]; [[DN33]]; [[MN148]]; [[MA163]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.61]], [[AN3.99]], [[AN3.99]], [[SN42.8]], [[MN140]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN137]]
+> ◄  [[mn136-pali-sri]] 📜  [[mn138-pali-sri]] ►

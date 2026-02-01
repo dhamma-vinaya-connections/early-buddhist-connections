@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.51]]
 > ◄  [[sn1.42-thanissaro]] 📜  [[sn1.55-thanissaro]] ►
 
 ## SN1.51 Old Age
@@ -37,8 +37,7 @@ Merit can’t be stolen by thieves.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.51-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -53,6 +52,5 @@ Merit can’t be stolen by thieves.”
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN7:21ANDMNI39]], [[AN1]], [[AN2]], [[AN280]], [[AN18]], [[AN19]], [[AN20]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.51]]
 > ◄  [[sn1.42-thanissaro]] 📜  [[sn1.55-thanissaro]] ►

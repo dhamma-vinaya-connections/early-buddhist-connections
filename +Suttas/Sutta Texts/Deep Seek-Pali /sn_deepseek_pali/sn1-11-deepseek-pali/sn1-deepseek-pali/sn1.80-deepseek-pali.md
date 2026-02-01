@@ -4,10 +4,10 @@ sutta_title:
   - "Pajjotasutta "
   - "Source of Light"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.80]]
 > ◄  [[sn1.79-deepseek-pali]] 📜  [[sn1.81-deepseek-pali]] ►
 
 # SN 1.80 Pajjotasuttaṃ
@@ -37,6 +37,5 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.80-) 
 

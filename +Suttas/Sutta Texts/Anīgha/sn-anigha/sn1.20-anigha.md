@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
 > ◄  [[sn1.1-anigha]] 📜  [[sn12.67-anigha]] ►
 
 # SN 1.20 - With Samiddhi
@@ -63,8 +63,7 @@ Tell me if you understand, spirit.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Tell me if you understand, spirit.”
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]], [[SN5.1]], [[SN5.4]], [[SN5.7]], [[SN5.6]], [[ALSOSN4.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.20]]
 > ◄  [[sn1.1-anigha]] 📜  [[sn12.67-anigha]] ►

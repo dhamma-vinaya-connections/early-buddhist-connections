@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.1-PALI"
+sutta_code: "SN4.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Tapokammasutta "
+  - "Mortification"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
 > ◄  [[sn3.3-pali-sri]] 📜  [[sn4.2-pali-sri]] ►
 
 # 4:1 Ayuvaggo - Pali
@@ -282,6 +282,16 @@ Sappo soppasi nandatiṃ āyunā apare duveti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1094]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1094]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
+> ◄  [[sn3.3-pali-sri]] 📜  [[sn4.2-pali-sri]] ►

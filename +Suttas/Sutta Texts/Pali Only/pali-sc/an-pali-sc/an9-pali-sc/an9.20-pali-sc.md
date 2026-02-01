@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.20-PALI"
+sutta_code: "AN9.20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Velāma "
+  - "About Velāma"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
 > ◄  [[an9.19-pali-sc]] 📜  [[an9.21-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -55,6 +55,16 @@ devatā velāmena cāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.20-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA27.3]], [[MA155]] | A iv 392 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA27.3]], [[MA155]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
+> ◄  [[an9.19-pali-sc]] 📜  [[an9.21-pali-sc]] ►

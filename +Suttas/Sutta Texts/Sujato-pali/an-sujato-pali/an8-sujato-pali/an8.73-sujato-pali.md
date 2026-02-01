@@ -3,11 +3,11 @@ sutta_code: "AN8.73"
 sutta_title:
   - "Maraṇassati "
   - "Mindfulness Of Death 1st"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
 > ◄  [[an8.72-sujato-pali]] 📜  [[an8.74-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -157,8 +157,7 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.73-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -169,6 +168,5 @@ Tatiyaṁ.
 | [[AN6.19]], [[EA40.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
 > ◄  [[an8.72-sujato-pali]] 📜  [[an8.74-sujato-pali]] ►

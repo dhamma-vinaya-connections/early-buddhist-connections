@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN69-PALI"
+sutta_code: "MN69"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Goliyāni Sutta "
+  - "With Gulissāni"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn68-pali-sc]] 📜  [[mn70-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -65,6 +65,16 @@ Tena kho pana samayena goliyāni nāma bhikkhu āraññiko padasamācāro saṁg
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn69-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA26]] | M i 469 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA26]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
+> ◄  [[mn68-pali-sc]] 📜  [[mn70-pali-sc]] ►

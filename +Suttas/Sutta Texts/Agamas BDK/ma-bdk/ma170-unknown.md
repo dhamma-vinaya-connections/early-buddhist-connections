@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA170]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA170]]
 > ◄  [[ma169]] 📜  [[ma171]] ►
 
 ### 170. The Discourse to [a Brahmin Named] Parrot
@@ -47,8 +47,7 @@ their abode, living beings are correspondingly superior or inferior, excellent o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma170-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -58,6 +57,5 @@ their abode, living beings are correspondingly superior or inferior, excellent o
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.199]], [[AN8.40]], [[MA171]], [[MN136]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA170]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA170]]
 > ◄  [[ma169]] 📜  [[ma171]] ►

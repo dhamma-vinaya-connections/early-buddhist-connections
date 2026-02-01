@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA23]]
 > ◄  [[da22-bdk]] 📜  [[da24-bdk]] ►
 
 ### Brāhmaṇa Kūṭadanta
@@ -903,8 +903,7 @@ receive it, and they reverentially carried out what the Buddha taught.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -915,6 +914,5 @@ receive it, and they reverentially carried out what the Buddha taught.
 | [[AN3.85]], [[ITI62]], [[MN2]], [[SN12.23]], [[SN22.101]], [[SN56.25]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA23]]
 > ◄  [[da22-bdk]] 📜  [[da24-bdk]] ►

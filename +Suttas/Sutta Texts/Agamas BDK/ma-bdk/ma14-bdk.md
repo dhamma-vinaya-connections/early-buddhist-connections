@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA14]]
 > ◄  [[ma13-bdk]] 📜  [[ma15-bdk]] ►
 
 ### 14. The Discourse to Rāhula
@@ -31,8 +31,7 @@ like this: “I too repeatedly examine and repeatedly purify my bodily, verbal, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -42,6 +41,5 @@ like this: “I too repeatedly examine and repeatedly purify my bodily, verbal, 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN147]], [[MN62]], [[MN65]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA14]]
 > ◄  [[ma13-bdk]] 📜  [[ma15-bdk]] ►

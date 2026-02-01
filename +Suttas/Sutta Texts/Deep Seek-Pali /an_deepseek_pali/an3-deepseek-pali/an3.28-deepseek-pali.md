@@ -4,10 +4,10 @@ sutta_title:
   - "Gūthabhāṇī "
   - "Speech Like Dung"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.28]]
 > ◄  [[an3.27-deepseek-pali]] 📜  [[an3.29-deepseek-pali]] ►
 
 # AN 3.28 Gūthabhāṇīsuttaṃ
@@ -31,8 +31,7 @@ And what, bhikkhus, is the honey-speaker? Here, bhikkhus, a certain person, havi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.28-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ And what, bhikkhus, is the honey-speaker? Here, bhikkhus, a certain person, havi
 | [[MN114]], [[MN41]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.28]]
 > ◄  [[an3.27-deepseek-pali]] 📜  [[an3.29-deepseek-pali]] ►

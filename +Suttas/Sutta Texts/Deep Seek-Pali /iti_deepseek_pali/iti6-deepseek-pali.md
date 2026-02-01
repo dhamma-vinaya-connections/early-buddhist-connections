@@ -4,10 +4,10 @@ sutta_title:
   - "Māna "
   - "Conceit"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI6]]
 > ◄  [[iti5-deepseek-pali]] 📜  [[iti7-deepseek-pali]] ►
 
 # Iti 6 Mānasuttaṃ
@@ -27,6 +27,5 @@ This meaning, too, was spoken by the Blessed One, thus have I heard. Sixth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti6-) 
 

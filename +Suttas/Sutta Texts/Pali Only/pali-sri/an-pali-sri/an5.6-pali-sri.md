@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.6-PALI"
+sutta_code: "AN5.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Kuhaka "
+  - "Deceiver"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.6]]
 > ◄  [[an5.5-pali-sri]] 📜  [[an5.7-pali-sri]] ►
 
 # 8:6 Gotamivaggo - Pali
@@ -478,6 +478,11 @@ Bhayaṃ dve āhuneyyā ca dve ca aṭṭhapuggalā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 112 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.6]]
+> ◄  [[an5.5-pali-sri]] 📜  [[an5.7-pali-sri]] ►

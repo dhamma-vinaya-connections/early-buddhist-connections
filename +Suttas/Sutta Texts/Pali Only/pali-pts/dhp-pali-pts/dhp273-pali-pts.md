@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP273-PALI"
+sutta_code: "DHP273"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP273-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP273]]
 > ◄  [[dhp272-pali-pts]] 📜  [[dhp274-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ es'; eva maggo n'; atth'; añño dassanassa visuddhiyā, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp273-) 
 

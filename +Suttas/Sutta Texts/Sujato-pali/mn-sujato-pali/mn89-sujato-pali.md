@@ -3,11 +3,11 @@ sutta_code: "MN89"
 sutta_title:
   - "Dhammacetiya Sutta "
   - "Shrines to the Teaching"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
 > ◄  [[mn88-sujato-pali]] 📜  [[mn90-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -161,8 +161,7 @@ Dhammacetiyasuttaṁ niṭṭhitaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn89-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -173,6 +172,5 @@ Dhammacetiyasuttaṁ niṭṭhitaṁ navamaṁ.
 | [[AN10.30]]; [[EA38.10]]; [[MA213]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
 > ◄  [[mn88-sujato-pali]] 📜  [[mn90-sujato-pali]] ►

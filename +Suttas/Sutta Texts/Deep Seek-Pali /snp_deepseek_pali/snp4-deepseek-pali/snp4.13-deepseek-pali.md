@@ -4,10 +4,10 @@ sutta_title:
   - "Mahābyūhasutta "
   - "Longer Discourse on Arrayed For Battle"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
 > ◄  [[snp4.12-deepseek-pali]] 📜  [[snp4.14-deepseek-pali]] ►
 
 # Snp 4.13 Tuvaṭakasuttaṃ
@@ -143,9 +143,7 @@ The Discourse on Acting Promptly, the fourteenth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.13-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
 > ◄  [[snp4.12-deepseek-pali]] 📜  [[snp4.14-deepseek-pali]] ►

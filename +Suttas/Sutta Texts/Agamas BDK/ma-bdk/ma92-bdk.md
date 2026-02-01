@@ -8,7 +8,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA92]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA92]]
 > ◄  [[ma91-bdk]] 📜  [[ma93-bdk]] ►
 
 ### 92. The Discourse on the Simile of Blue and White Lotuses
@@ -28,6 +28,5 @@ You should together remember this “Discourse on the Simile of the Blue and Whi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma92-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Sakkapañha Sutta "
   - "Sakka’s Questions"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
 > ◄  [[dn20-deepseek-pali]] 📜  [[dn22-deepseek-pali]] ►
 
 # Sakkapañhasuttaṃ
@@ -511,8 +511,7 @@ And while this explanation was being spoken, the dust-free, stainless vision of 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -523,6 +522,5 @@ And while this explanation was being spoken, the dust-free, stainless vision of 
 | [[DA14]], [[MA134]], [[SNP3.6]], [[SN22.4]], [[SA552]], [[SA505]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
 > ◄  [[dn20-deepseek-pali]] 📜  [[dn22-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Cūḷadhammasamādāna Sutta "
   - "Shorter Discourse on Taking Up Practices"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
 > ◄  [[mn44-deepseek-pali]] 📜  [[mn46-deepseek-pali]] ►
 
 # 45. Cūḷadhammasamādānasuttaṃ
@@ -47,8 +47,7 @@ The Shorter Discourse on the Undertaking of Practices is finished, the fifth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn45-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ The Shorter Discourse on the Undertaking of Practices is finished, the fifth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.192]], [[MN25]], [[MN46]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
 > ◄  [[mn44-deepseek-pali]] 📜  [[mn46-deepseek-pali]] ►

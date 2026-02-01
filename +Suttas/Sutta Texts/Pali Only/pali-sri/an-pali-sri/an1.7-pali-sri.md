@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.7-PALI"
+sutta_code: "AN1.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Rupa "
+  - "Sights"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.7]]
 > ◄  [[an1.6-pali-sri]] 📜  [[an1.8-pali-sri]] ►
 
 # 3:7 Mahavaggo - Pali
@@ -686,6 +686,16 @@ Mahāvaggo dutiyo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA9.8]] | A i 2 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA9.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.7]]
+> ◄  [[an1.6-pali-sri]] 📜  [[an1.8-pali-sri]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1108-PALI"
+sutta_code: "THAG1108"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1108-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1108]]
 > ◄  [[thag1107-pali-pts]] 📜  [[thag1109-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ kulamhi mitte ca piye ca ñātake khiḍḍāratiṃ kāmaguṇañ ca loke
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1108-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Sūriyasutta "
   - "Suriya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.10]]
 > ◄  [[sn2.9-deepseek-pali]] 📜  [[sn2.11-deepseek-pali]] ►
 
 # SN 2.10 Sūriyasuttaṃ
@@ -67,6 +67,5 @@ The two Kassapas and Māgha, Māgadha, Dāmali, Kāmada, Pañcālacaṇḍa, Tā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.10-) 
 

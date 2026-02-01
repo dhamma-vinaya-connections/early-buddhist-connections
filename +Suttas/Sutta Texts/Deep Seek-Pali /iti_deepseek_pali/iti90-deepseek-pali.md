@@ -4,10 +4,10 @@ sutta_title:
   - "牛角婆羅林 "
   - "Discourse in the Gosiṅga Sāla Forest 1"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI90]]
 > ◄  [[iti89-deepseek-pali]] 📜  [[iti91-deepseek-pali]] ►
 
 # Iti 90 Jīvikasuttaṃ
@@ -31,8 +31,7 @@ This meaning too was spoken by the Blessed One, so I have heard. Second.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti90-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ This meaning too was spoken by the Blessed One, so I have heard. Second.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.52]], [[AN7.56]], [[AN10.92]], [[DHP188]], [[DHP189]], [[DHP190]], [[DHP191]], [[DHP192]], [[ITI112]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI90]]
 > ◄  [[iti89-deepseek-pali]] 📜  [[iti91-deepseek-pali]] ►

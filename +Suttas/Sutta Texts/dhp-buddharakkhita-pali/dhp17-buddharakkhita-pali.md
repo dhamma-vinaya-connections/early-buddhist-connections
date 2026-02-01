@@ -3,11 +3,11 @@ sutta_code: "DHP17-BUDDHARAKKHITA"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pali"
+sutta-version: "Pali"
 language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP17-BUDDHARAKKHITA]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP17-BUDDHARAKKHITA]]
 > ◄  [[dhp16-buddharakkhita-pali]] 📜  [[dhp18-buddharakkhita-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -124,6 +124,5 @@ Kodhavaggo sattarasamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp17-buddharakkhita-) 
 

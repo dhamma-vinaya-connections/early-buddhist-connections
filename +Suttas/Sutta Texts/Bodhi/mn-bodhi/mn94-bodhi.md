@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94]]
 > ◄  [[mn93-bodhi]] 📜  [[mn95-bodhi]] ►
 
 # MN94 Ghoṭamukha Sutta - To Ghoṭamukha
@@ -75,8 +75,7 @@ Then with that regular donation \[which he offered to Master Udena\] and another
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn94-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ Then with that regular donation \[which he offered to Master Udena\] and another
 | [[DN2]]; [[MN38]]; [[MN27]]; [[MN76]]; [[MN101]]; [[AN10.99]]; [[AN4.198]]; [[MN51]]; [[SN35.120]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN53]]; [[MN60]]; [[MN79]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN5.76]]; [[AN5.140]]; [[AN11.17]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[MN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94]]
 > ◄  [[mn93-bodhi]] 📜  [[mn95-bodhi]] ►

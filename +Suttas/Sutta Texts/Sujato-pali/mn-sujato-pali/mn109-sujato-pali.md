@@ -3,11 +3,11 @@ sutta_code: "MN109"
 sutta_title:
   - "Mahāpuṇṇama Sutta "
   - "Longer Discourse on the Full-Moon Night"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
 > ◄  [[mn108-sujato-pali]] 📜  [[mn110-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -233,8 +233,7 @@ v
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn109-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -245,6 +244,5 @@ v
 | [[SA58]]; [[SN22.82]]; [[AN4.200]]; [[MN44]]; [[SN22.44]]; [[SN41.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
 > ◄  [[mn108-sujato-pali]] 📜  [[mn110-sujato-pali]] ►

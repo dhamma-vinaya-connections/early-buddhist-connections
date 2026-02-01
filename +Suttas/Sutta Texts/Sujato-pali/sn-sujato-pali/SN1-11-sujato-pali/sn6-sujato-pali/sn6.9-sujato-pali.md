@@ -3,11 +3,11 @@ sutta_code: "SN6.9"
 sutta_title:
   - "Turūbrahmasutta "
   - "Brahma Tudu"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
 > ◄  [[sn6.8-sujato-pali]] 📜  [[sn6.10-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -95,8 +95,7 @@ Vācaṁ manañca paṇidhāya pāpakan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -107,6 +106,5 @@ Vācaṁ manañca paṇidhāya pāpakan"ti.
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
 > ◄  [[sn6.8-sujato-pali]] 📜  [[sn6.10-sujato-pali]] ►

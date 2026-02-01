@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.39-PALI"
+sutta_code: "AN2.39"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kandarayana "
+  - "Kandarayana"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.39-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.39]]
 > ◄  [[an2.38-pali-sc]] 📜  [[an2.40-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -29,6 +29,15 @@ Evamevaṁ kho, bhikkhave, yasmiṁ samaye pesalā bhikkhū balavanto honti, pā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.39-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 68 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.94]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.39]]
+> ◄  [[an2.38-pali-sc]] 📜  [[an2.40-pali-sc]] ►

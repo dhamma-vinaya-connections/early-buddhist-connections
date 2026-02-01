@@ -4,10 +4,10 @@ sutta_title:
   - "Patthanā "
   - "Aspiration"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.136]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.136]]
 > ◄  [[an5.135-deepseek-pali]] 📜  [[an5.137-deepseek-pali]] ►
 
 # AN 5.136 Dutiyapatthanāsuttaṃ
@@ -35,12 +35,11 @@ He thinks: 'I am virtuous, restrained by the restraint of the Pātimokkha, accom
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.136-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 154 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.136]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.136]]
 > ◄  [[an5.135-deepseek-pali]] 📜  [[an5.137-deepseek-pali]] ►

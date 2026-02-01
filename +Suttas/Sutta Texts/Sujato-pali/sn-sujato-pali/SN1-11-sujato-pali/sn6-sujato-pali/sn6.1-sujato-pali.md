@@ -3,11 +3,11 @@ sutta_code: "SN6.1"
 sutta_title:
   - "Brahmāyācanasutta "
   - "Brahma's Request"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
 > ◄  [[]] 📜  [[sn6.2-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -147,8 +147,7 @@ Dhammaṁ paṇītaṁ manujesu brahme"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -159,6 +158,5 @@ Dhammaṁ paṇītaṁ manujesu brahme"ti.
 | [[MN85]], [[PLI-TV-KD15]], [[DN14]], [[MA204]], [[MN100]], [[MN26]], [[MN36]], [[ITI38]], [[PLI-TV-KD1]], [[SN11.17]], [[EA19.1]], [[EA24.5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
 > ◄  [[]] 📜  [[sn6.2-sujato-pali]] ►

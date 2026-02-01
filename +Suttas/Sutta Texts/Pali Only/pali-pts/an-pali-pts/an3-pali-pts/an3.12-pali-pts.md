@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.12-PALI"
+sutta_code: "AN3.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sāraṇīya "
+  - "Commemoration"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.12]]
 > ◄  [[an3.11-pali-pts]] 📜  [[an3.13-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -27,6 +27,11 @@ Yasmiṃ bhikkhave padese bhikkhu kesamassuṃ ohāretvā kāsāyāni vatthāni 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 106 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.12]]
+> ◄  [[an3.11-pali-pts]] 📜  [[an3.13-pali-pts]] ►

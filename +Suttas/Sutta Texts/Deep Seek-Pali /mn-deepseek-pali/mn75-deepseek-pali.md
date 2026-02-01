@@ -4,10 +4,10 @@ sutta_title:
   - "Māgaṇḍiya Sutta "
   - "Māgaṇḍiya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
 > ◄  [[mn74-deepseek-pali]] 📜  [[mn76-deepseek-pali]] ►
 
 # 75. Māgaṇḍiyasuttaṃ
@@ -115,8 +115,7 @@ The Māgaṇḍiya Sutta, the fifth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn75-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -127,6 +126,5 @@ The Māgaṇḍiya Sutta, the fifth, is concluded.
 | [[MA153]]; [[DHP204]]; [[MN75]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
 > ◄  [[mn74-deepseek-pali]] 📜  [[mn76-deepseek-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
 > ◄  [[an8.6-bodhi]] 📜  [[an8.8-bodhi]] ►
 
 # AN8.7 Devadatta’s Failing
@@ -31,8 +31,7 @@ On one occasion the Blessed One was dwelling at Rājagaha on Mount Vulture Peak 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ On one occasion the Blessed One was dwelling at Rājagaha on Mount Vulture Peak 
 | [[AN6.62]], [[PLI-TV-KD17]], [[PLI-TV-PVR7]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
 > ◄  [[an8.6-bodhi]] 📜  [[an8.8-bodhi]] ►

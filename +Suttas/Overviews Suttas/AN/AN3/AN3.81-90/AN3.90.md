@@ -36,19 +36,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[AN3.89]]"
-parallels_agama:
-  - "[[SA816]]"
-  - "[[SA817]]"
-  - "[[SA832]]"
-parallels_partilal:
-  - "[[SA816]]"
-  - "[[AN3.89]]"
-  - "[[SA817]]"
-  - "[[SA832]]"
-  - "[[THAG6.4]]"
+parallels_nikaya: "[[AN3.89]]"
+parallels_agama: "[[SA816]], [[SA817]], [[SA832]]"
+parallels_partilal: "[[SA816]], [[AN3.89]], [[SA817]], [[SA832]], [[THAG6.4]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.89]]  🌐 [[AN3.91]] ►
 
@@ -70,8 +60,7 @@ They call a ‘Buddha ’ in the world.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.90-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,8 +72,7 @@ They call a ‘Buddha ’ in the world.
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN3.90%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN3.90%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -95,7 +83,7 @@ They call a ‘Buddha ’ in the world.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.90%5D%5D%22%23mynotes%20-file%3Aan3.90-%20-file%3A%22AN3.89%22%20-file%3A%22AN3.91%22%20-file%3A%22AN3.90%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.90/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.90

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.9-PALI"
+sutta_code: "SNP5.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Hemakamāṇavapucchā "
+  - "Questions of the Student Hemaka"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.9]]
 > ◄  [[snp5.8-pali-pts]] 📜  [[snp5.10-pali-pts]] ►
 
 # SNP5.9 Hemakamāṇavapucchā (8)
@@ -33,6 +33,5 @@ upasantā ca te sadā, -- tiṇṇā loke visattikan" ti || Sn_V,9.4 ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.9-) 
 

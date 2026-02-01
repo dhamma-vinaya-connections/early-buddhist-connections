@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG243-PALI"
+sutta_code: "THIG243"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG243-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG243]]
 > ◄  [[thig242-pali-pts]] 📜  [[thig244-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ yassa brāhmaṇa tvaṃ bhīto sadā udakam otari |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig243-) 
 

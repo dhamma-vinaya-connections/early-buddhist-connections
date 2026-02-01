@@ -4,10 +4,10 @@ sutta_title:
   - "Vitthata "
   - "In Detail"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.2]]
 > ◄  [[an5.1-deepseek-pali]] 📜  [[an5.3-deepseek-pali]] ►
 
 # AN 5.2 Vitthatasuttaṃ
@@ -43,8 +43,7 @@ Therefore, monks, you should train yourselves thus: ‘We will be endowed with t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Therefore, monks, you should train yourselves thus: ‘We will be endowed with t
 | [[AN5.14]], [[EA32.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.2]]
 > ◄  [[an5.1-deepseek-pali]] 📜  [[an5.3-deepseek-pali]] ►

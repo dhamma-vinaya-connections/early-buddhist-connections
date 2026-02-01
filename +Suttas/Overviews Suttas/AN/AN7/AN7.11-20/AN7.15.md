@@ -34,15 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "people in the water or above and beyond it, like ordinary people and awakened ones"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[EA39.3]]"
-  - "[[MA4]]"
-parallels_partilal:
-  - "[[EA39.3]]"
-  - "[[MA4]]"
+parallels_nikaya: ""
+parallels_agama: "[[EA39.3]], [[MA4]]"
+parallels_partilal: "[[EA39.3]], [[MA4]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.14]]  🌐 [[AN7.16]] ►
 
@@ -65,8 +59,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,8 +74,7 @@ parallels_partilal:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[ITI69]], [[SN5]], [[AN]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN7.15%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN7.15%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -93,7 +85,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.15%5D%5D%22%23mynotes%20-file%3Aan7.15-%20-file%3A%22AN7.14%22%20-file%3A%22AN7.16%22%20-file%3A%22AN7.15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.15

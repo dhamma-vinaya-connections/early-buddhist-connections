@@ -4,10 +4,10 @@ sutta_title:
   - "Doṇabrāhmaṇa "
   - "With The Brahmin Doṇa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
 > ◄  [[an5.191-deepseek-pali]] 📜  [[an5.193-deepseek-pali]] ►
 
 # AN 5.192 Doṇabrāhmaṇasuttaṃ
@@ -83,8 +83,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.192-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ language: "Pali"
 | [[MA158]], [[DN13]], [[DN3]], [[MN95]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
 > ◄  [[an5.191-deepseek-pali]] 📜  [[an5.193-deepseek-pali]] ►

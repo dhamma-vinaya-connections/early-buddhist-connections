@@ -4,10 +4,10 @@ sutta_title:
   - "Akusalavitakkasutta "
   - "Unwholesome Thoughts"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
 > ◄  [[sn9.10-deepseek-pali]] 📜  [[sn9.12-deepseek-pali]] ►
 
 # SN 9.11 Akusalavitakkasuttaṃ
@@ -35,8 +35,7 @@ Then that bhikkhu, stirred by that devatā, attained a sense of urgency.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then that bhikkhu, stirred by that devatā, attained a sense of urgency.
 | [[SA-2.354]], [[SA1334]], [[DHP376]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
 > ◄  [[sn9.10-deepseek-pali]] 📜  [[sn9.12-deepseek-pali]] ►

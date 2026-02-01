@@ -4,10 +4,10 @@ sutta_title:
   - "Tapussa "
   - "Householder Tapussa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.41]]
 > ◄  [[an9.40-deepseek-pali]] 📜  [[an9.42-deepseek-pali]] ►
 
 # AN 9.41 Tapussasuttaṃ
@@ -99,12 +99,11 @@ Two on Abodes and Nibbāna, the Cow, the fifth is with Jhāna; Ānanda, the Brah
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.41-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 438 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.41]]
 > ◄  [[an9.40-deepseek-pali]] 📜  [[an9.42-deepseek-pali]] ►

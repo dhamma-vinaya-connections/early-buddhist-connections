@@ -3,11 +3,11 @@ sutta_code: "THAG11"
 sutta_title:
   - "Ekādasakanipātavagga "
   - "Elevens Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG11]]
 > ◄  [[thag10-sujato-pali]] 📜  [[thag12-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -141,6 +141,5 @@ sampajāno patissato"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag11-) 
 

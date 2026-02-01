@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN120-PALI"
+sutta_code: "MN120"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Saṅkhārupapatti Sutta "
+  - "Rebirth by Choice"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
 > ◄  [[mn119-pali-sri]] 📜  [[mn121-pali-sri]] ►
 
 # 120. Sankharuppatti - Pali
@@ -164,6 +164,16 @@ Isigilikittitacattālīsaṃ-ānāpānasatī upapattiṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn120-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.123-124]] | [[MA168]] | M iii 99 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.123-124]]; [[MA168]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
+> ◄  [[mn119-pali-sri]] 📜  [[mn121-pali-sri]] ►

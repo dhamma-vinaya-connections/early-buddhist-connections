@@ -3,11 +3,11 @@ sutta_code: "AN3.156"
 sutta_title:
   - "Pubbaṇha "
   - "Morning"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.156]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.156]]
 > ◄  [[an3.155-sujato-pali]] 📜  [[an3.163-sujato-pali]] ►
 
 ## Aṅguttara Nikāya – The Numerical Discourses
@@ -112,8 +112,7 @@ Paṭipadāya yojayeti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.156-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -124,6 +123,5 @@ Paṭipadāya yojayeti.
 | [[DN8]], [[DN25]], [[MN12]], [[MN45]], [[MN51]], [[MN60]], [[AN4.198]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.156]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.156]]
 > ◄  [[an3.155-sujato-pali]] 📜  [[an3.163-sujato-pali]] ►

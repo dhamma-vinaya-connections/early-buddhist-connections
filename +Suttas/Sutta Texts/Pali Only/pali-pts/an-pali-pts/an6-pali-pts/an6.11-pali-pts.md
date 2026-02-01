@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.11-PALI"
+sutta_code: "AN6.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṭhamasāraṇīya "
+  - "Warm-Hearted"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.11]]
 > ◄  [[an6.10-pali-pts]] 📜  [[an6.12-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Cha yime bhikkhave dhammā sārāṇīyā. Katame cha?
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN6.12]] | [[EA37.1]] | A iii 288 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN33]], [[AN6.12]], [[EA37.1]], [[PLI-TV-PVR4]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.11]]
+> ◄  [[an6.10-pali-pts]] 📜  [[an6.12-pali-pts]] ►

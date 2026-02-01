@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.68-PALI"
+sutta_code: "AN8.68"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Anariyavohāra "
+  - "Expressions Noble And Ignoble"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.68-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.68]]
 > ◄  [[an8.67-pali-sc]] 📜  [[an8.69-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -25,6 +25,16 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.68-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.5]], [[UD8.6]] |  | A iv 307 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN16]], [[DA2]], [[UD6.1]], [[UD8.5]], [[UD8.6]], [[SN51.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.68]]
+> ◄  [[an8.67-pali-sc]] 📜  [[an8.69-pali-sc]] ►

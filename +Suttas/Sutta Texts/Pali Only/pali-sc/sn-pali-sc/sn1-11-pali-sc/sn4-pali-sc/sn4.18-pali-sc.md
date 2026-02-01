@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.18-PALI"
+sutta_code: "SN4.18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Piṇḍasutta "
+  - "Alms"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.18]]
 > ◄  [[sn4.17-pali-sc]] 📜  [[sn4.19-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -46,6 +46,16 @@ devā ābhassarā yathā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP200]] | [[EA45.4]], [[SA1095]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[EA45.4]], [[SA1095]], [[DHP200]], [[JA539]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.18]]
+> ◄  [[sn4.17-pali-sc]] 📜  [[sn4.19-pali-sc]] ►

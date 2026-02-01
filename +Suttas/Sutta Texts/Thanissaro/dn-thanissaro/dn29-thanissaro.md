@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
 > ◄  [[dn26-thanissaro]] 📜  [[dn33-thanissaro]] ►
 
 ## Bhante Thanissaro
@@ -227,8 +227,7 @@ That is what the Blessed One said. Gratified, Ven. Upavāṇa delighted in the B
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -239,6 +238,5 @@ That is what the Blessed One said. Gratified, Ven. Upavāṇa delighted in the B
 | [[AN9.7]], [[DA17]], [[AN9.8]], [[MN76]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
 > ◄  [[dn26-thanissaro]] 📜  [[dn33-thanissaro]] ►

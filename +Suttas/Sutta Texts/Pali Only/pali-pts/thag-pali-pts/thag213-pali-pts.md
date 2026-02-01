@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG213-PALI"
+sutta_code: "THAG213"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG213-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG213]]
 > ◄  [[thag212-pali-pts]] 📜  [[thag214-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tāhaṃ citta kaliṃ brūmi taṃ brūmi cittadubbhakaṃ;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag213-) 
 

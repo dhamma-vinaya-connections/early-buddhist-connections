@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI52-PALI"
+sutta_code: "ITI52"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vedana "
+  - "Feelings"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI52-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI52]]
 > ◄  [[iti51-pali-pts]] 📜  [[iti53-pali-pts]] ►
 
 ## Itivuttaka
@@ -30,6 +30,20 @@ _VAGGO I., SUTTAṂ 4. 47_
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti52-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN36.1]], [[ITI54]], [[ITI56]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN3.12]], [[DHP92]], [[DHP93]], [[MN44]], [[SN36.4]], [[SN36.6]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI52]]
+> ◄  [[iti51-pali-pts]] 📜  [[iti53-pali-pts]] ►

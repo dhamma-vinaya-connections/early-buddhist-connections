@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
 > ◄  [[mn61-anigha]] 📜  [[mn63-anigha]] ►
 
 # MN 62 - The Longer Advice to Venerable Rāhula
@@ -83,8 +83,7 @@ That is what the Auspicious One said. Pleased, Venerable Rāhula delighted in wh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn62-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ That is what the Auspicious One said. Pleased, Venerable Rāhula delighted in wh
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN28]]; [[MN61]]; [[MN140]]; [[MN147]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
 > ◄  [[mn61-anigha]] 📜  [[mn63-anigha]] ►

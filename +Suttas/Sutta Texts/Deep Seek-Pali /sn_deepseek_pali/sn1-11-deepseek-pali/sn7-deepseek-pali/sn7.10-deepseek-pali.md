@@ -4,10 +4,10 @@ sutta_title:
   - "Bahudhītarasutta "
   - "Many Daughters"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
 > ◄  [[sn7.9-deepseek-pali]] 📜  [[sn7.11-deepseek-pali]] ►
 
 # SN 7.10 Bahudhītarasuttaṃ
@@ -103,8 +103,7 @@ Dhanañjānī and the abuse, the lord of demons Bilaṅgika, the non-violent one
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -115,6 +114,5 @@ Dhanañjānī and the abuse, the lord of demons Bilaṅgika, the non-violent one
 | [[SA-2.93]], [[SA1179]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
 > ◄  [[sn7.9-deepseek-pali]] 📜  [[sn7.11-deepseek-pali]] ►

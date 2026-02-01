@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.62]]
 > ◄  [[an6.61-bodhi]] 📜  [[an6.63-bodhi]] ►
 
 # AN6.62 Knowledge
@@ -97,8 +97,7 @@ When this was said, the Venerable Ānanda said to the Blessed One: \[407\] “Is
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.62-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -113,6 +112,5 @@ When this was said, the Venerable Ānanda said to the Blessed One: \[407\] “Is
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.53]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.62]]
 > ◄  [[an6.61-bodhi]] 📜  [[an6.63-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.42-PALI"
+sutta_code: "AN4.42"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pañhabyākaraṇa "
+  - "Answering Questions"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.42-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.42]]
 > ◄  [[an4.41-pali-sc]] 📜  [[an4.43-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -42,6 +42,15 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.42-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 46 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN58]], [[MN72]], [[SUTTASINTHEAVYAKATASAMYUTTA]], [[AN3.67]], [[AN3.78]], [[AN5.165]], [[AN10.96]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.42]]
+> ◄  [[an4.41-pali-sc]] 📜  [[an4.43-pali-sc]] ►

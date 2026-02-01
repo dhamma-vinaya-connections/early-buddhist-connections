@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.8-PALI"
+sutta_code: "AN5.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vitthata "
+  - "In Detail"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.8]]
 > ◄  [[an5.7-pali-pts]] 📜  [[an5.9-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,11 @@ Yato ca kho bhikkhave bhikkhuno saddhāya kataṃ hoti kusalesu dhammesu, hiriy�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 6 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.8]]
+> ◄  [[an5.7-pali-pts]] 📜  [[an5.9-pali-pts]] ►

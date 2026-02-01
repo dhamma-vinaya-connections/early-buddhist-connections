@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA141]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA141]]
 > ◄  [[ma140]] 📜  [[ma142]] ►
 
 ### 141. The Discourse with Similes
@@ -25,12 +25,11 @@ of the Tathāgata’s disciples is foremost; just as, of all dharmas, conditione
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma141-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > | [[DN31]], [[SN3.17]], [[SN45.141-148]] | [[DA16]], [[EA26.1-4]], [[MA135]], [[SA1239]], [[SA2.66]] |  |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA141]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA141]]
 > ◄  [[ma140]] 📜  [[ma142]] ►

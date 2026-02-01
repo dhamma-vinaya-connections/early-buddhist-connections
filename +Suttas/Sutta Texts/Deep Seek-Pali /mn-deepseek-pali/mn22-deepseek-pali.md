@@ -4,10 +4,10 @@ sutta_title:
   - "Alagaddūpama Sutta "
   - "Simile of the Snake"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
 > ◄  [[mn21-deepseek-pali]] 📜  [[mn23-deepseek-pali]] ►
 
 # 22. Alagaddūpamasuttaṃ
@@ -223,8 +223,7 @@ The Alagaddūpama Sutta, the second, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -239,6 +238,5 @@ The Alagaddūpama Sutta, the second, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.23]], [[MN63]], [[SN56.31]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
 > ◄  [[mn21-deepseek-pali]] 📜  [[mn23-deepseek-pali]] ►

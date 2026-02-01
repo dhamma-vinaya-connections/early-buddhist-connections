@@ -4,10 +4,10 @@ sutta_title:
   - "Uposatha "
   - "Sabbath"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
 > ◄  [[an8.19-deepseek-pali]] 📜  [[an8.21-deepseek-pali]] ►
 
 # AN 8.20 Uposathasuttaṃ
@@ -71,8 +71,7 @@ Verañjā, the lion, the noble steed, the bit and impurities; the mission, the t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ Verañjā, the lion, the noble steed, the bit and impurities; the mission, the t
 | [[PLI-TV-KD19]], [[EA48.2]], [[MA37]], [[AN8.19]], [[UD5.5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
 > ◄  [[an8.19-deepseek-pali]] 📜  [[an8.21-deepseek-pali]] ►

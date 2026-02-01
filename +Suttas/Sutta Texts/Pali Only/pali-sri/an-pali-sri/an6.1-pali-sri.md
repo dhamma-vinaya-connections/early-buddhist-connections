@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.1-PALI"
+sutta_code: "AN6.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Paṭhamaāhuneyya "
+  - "Worthy Of Offerings"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.1]]
 > ◄  [[an5.11-pali-sri]] 📜  [[an6.2-pali-sri]] ►
 
 # 11:1 Nissayavaggo - Pali
@@ -324,6 +324,16 @@ Dve saññā manasikāro sandho moranivāpakanti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 279 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN33]], [[MN140]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.1]]
+> ◄  [[an5.11-pali-sri]] 📜  [[an6.2-pali-sri]] ►

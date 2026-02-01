@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG12-PALI"
+sutta_code: "THIG12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Soḷasakanipātavagga "
+  - "Sixteens Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG12]]
 > ◄  [[thig11-pali-sri]] 📜  [[thig13-pali-sri]] ►
 
 # 16. Solasa-nipata - Pali
@@ -113,6 +113,5 @@ Soḷasanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig12-) 
 

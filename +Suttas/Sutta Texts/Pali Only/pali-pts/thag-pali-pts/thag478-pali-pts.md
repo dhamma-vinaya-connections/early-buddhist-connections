@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG478-PALI"
+sutta_code: "THAG478"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG478-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG478]]
 > ◄  [[thag477-pali-pts]] 📜  [[thag479-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ jātiyā sattavassena laddhā me upasampadā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag478-) 
 

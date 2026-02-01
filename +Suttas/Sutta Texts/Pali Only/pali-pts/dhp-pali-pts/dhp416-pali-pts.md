@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP416-PALI"
+sutta_code: "DHP416"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP416-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP416]]
 > ◄  [[dhp415-pali-pts]] 📜  [[dhp417-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp416-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.1-PALI"
+sutta_code: "SN7.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Dhanañjānīsutta "
+  - "Dhanañjani"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.1]]
 > ◄  [[sn6.2-pali-sri]] 📜  [[sn7.2-pali-sri]] ►
 
 # 7:1 Arahantavaggo - Pali
@@ -472,6 +472,16 @@ Sundarikaṃ bahudhītukena2 ca te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.81]], [[SA1158]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN2.3]], [[SN1.71]], [[SN11.21]], [[SA1309]], [[SA-2.308]], [[SA1158]], [[SA-2.81]], [[SA1116]], [[SA-2.45]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.1]]
+> ◄  [[sn6.2-pali-sri]] 📜  [[sn7.2-pali-sri]] ►

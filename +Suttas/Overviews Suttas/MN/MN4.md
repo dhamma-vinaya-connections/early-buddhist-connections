@@ -38,21 +38,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[MN20]]"
-  - "[[MN85]]"
-parallels_agama:
-  - "[[EA31.1]]"
-  - "[[MA101]]"
-parallels_partilal:
-  - "[[EA31.1]]"
-  - "[[MN100]]"
-  - "[[MN26]]"
-  - "[[MN36]]"
-  - "[[MN85]]"
-  - "[[MN20]]"
-  - "[[MA101]]"
+parallels_nikaya: "[[MN20]]; [[MN85]]"
+parallels_agama: "[[EA31.1]]; [[MA101]]"
+parallels_partilal: "[[EA31.1]]; [[MN100]]; [[MN26]]; [[MN36]]; [[MN85]]; [[MN20]]; [[MA101]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN3]]  🌐 [[MN5]] ►
 
@@ -76,8 +64,7 @@ If there’s anyone of whom it may be rightly said that a being not liable to d
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,8 +76,7 @@ If there’s anyone of whom it may be rightly said that a being not liable to d
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BMN4%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BMN4%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -101,7 +87,7 @@ If there’s anyone of whom it may be rightly said that a being not liable to d
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN4%5D%5D%22%23mynotes%20-file%3Amn4-%20-file%3A%22MN3%22%20-file%3A%22MN5%22%20-file%3A%22MN4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn4

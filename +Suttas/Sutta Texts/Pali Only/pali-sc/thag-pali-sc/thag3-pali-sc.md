@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG3-PALI"
+sutta_code: "THAG3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Tikanipātavagga "
+  - "Trees Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG3]]
 > ◄  [[thag2-pali-sc]] 📜  [[thag4-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -283,6 +283,5 @@ paṇḍitehi sahāvase"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag3-) 
 

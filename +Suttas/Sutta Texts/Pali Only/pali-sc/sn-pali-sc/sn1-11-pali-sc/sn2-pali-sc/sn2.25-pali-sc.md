@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.25-PALI"
+sutta_code: "SN2.25"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Jantusutta "
+  - "Jantu"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.25-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.25]]
 > ◄  [[sn2.24-pali-sc]] 📜  [[sn2.26-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -47,6 +47,16 @@ namo tesaṁ karomahan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.25-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN9.13]] | [[SA-2.363]], [[SA1343]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.363]], [[SA1343]], [[SN9.13]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.25]]
+> ◄  [[sn2.24-pali-sc]] 📜  [[sn2.26-pali-sc]] ►

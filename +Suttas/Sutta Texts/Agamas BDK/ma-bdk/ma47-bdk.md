@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA47]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA47]]
 > ◄  [[ma46-bdk]] 📜  [[ma48-bdk]] ►
 
 ### 47. The [First] Discourse on the Precepts
@@ -19,8 +19,7 @@ Thus have I heard: At one time the Buddha was staying at Sāvatthī, in Jeta’s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma47-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -31,6 +30,5 @@ Thus have I heard: At one time the Buddha was staying at Sāvatthī, in Jeta’s
 | [[EA24.10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA47]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA47]]
 > ◄  [[ma46-bdk]] 📜  [[ma48-bdk]] ►

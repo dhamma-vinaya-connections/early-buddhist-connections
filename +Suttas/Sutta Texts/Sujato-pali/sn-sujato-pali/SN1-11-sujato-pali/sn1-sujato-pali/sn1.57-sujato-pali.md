@@ -3,11 +3,11 @@ sutta_code: "SN1.57"
 sutta_title:
   - "Tatiyajanasutta "
   - "Produces (3)"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.57]]
 > ◄  [[sn1.56-sujato-pali]] 📜  [[sn1.58-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -45,8 +45,7 @@ kammaṁ tassa parāyanan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.57-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ kammaṁ tassa parāyanan"ti.
 | [[SA-2.244]], [[SA1017]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.57]]
 > ◄  [[sn1.56-sujato-pali]] 📜  [[sn1.58-sujato-pali]] ►

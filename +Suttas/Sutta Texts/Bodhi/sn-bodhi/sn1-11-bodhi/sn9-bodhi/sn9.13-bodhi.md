@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
 > ◄  [[sn9.12-bodhi]] 📜  [[sn9.14-bodhi]] ►
 
 # SN9.13 Loose in Sense Faculties
@@ -66,8 +66,7 @@ Then those bhikkhus, stirred up by that devatā, acquired a sense of urgency.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -78,6 +77,5 @@ Then those bhikkhus, stirred up by that devatā, acquired a sense of urgency.
 | [[SN2.25]], [[SA-2.363]], [[SA1343]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
 > ◄  [[sn9.12-bodhi]] 📜  [[sn9.14-bodhi]] ►

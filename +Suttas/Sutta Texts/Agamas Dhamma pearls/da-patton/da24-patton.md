@@ -7,16 +7,11 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA24]]
 > ◄  [[da23-patton]] 📜  [[da25-patton]] ►
 
-# [Dharma Pearls](../../index-2.html)
-
-## Translating Classical Buddhism to Modern English
-
-[What’s New](../../whats-new.html) [Translations](../../translations.html) [Resources](../../resources.html) [About](../../about.html)
-
-# [The Long Discourses](index.html)
+# The Long Discourses
+Translated by Charles Patton
 
 ## Part III
 
@@ -130,8 +125,7 @@ The Buddha told the prominent man’s son, “This monk’s name was Aśvajit. T
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -142,6 +136,5 @@ The Buddha told the prominent man’s son, “This monk’s name was Aśvajit. T
 | [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[SNP1.3]], [[MA72]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA24]]
 > ◄  [[da23-patton]] 📜  [[da25-patton]] ►

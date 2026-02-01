@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP100-PALI"
+sutta_code: "DHP100"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP100-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP100]]
 > ◄  [[dhp99-pali-pts]] 📜  [[dhp101-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ sahassam api ce gāthā anatthapadasaṃhitā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp100-) 
 

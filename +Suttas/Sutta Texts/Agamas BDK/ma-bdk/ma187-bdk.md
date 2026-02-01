@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA187]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA187]]
 > ◄  [[ma186-bdk]] 📜  [[ma188-bdk]] ►
 
 ### 187. The Discourse on Declaring the Knowledge [of Awakening]
@@ -39,8 +39,7 @@ abandoned accepting gold or silver. I purified my mind with regard to accepting 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma187-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -50,6 +49,5 @@ abandoned accepting gold or silver. I purified my mind with regard to accepting 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]], [[MN105]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA187]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA187]]
 > ◄  [[ma186-bdk]] 📜  [[ma188-bdk]] ►

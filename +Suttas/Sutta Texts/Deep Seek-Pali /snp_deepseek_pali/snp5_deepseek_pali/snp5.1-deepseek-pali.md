@@ -4,10 +4,10 @@ sutta_title:
   - "Vatthugāthā "
   - "Introductory Verses"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.1]]
 > ◄  [[]] 📜  [[snp5.2-deepseek-pali]] ►
 
 # Snp 5.1 Vatthugāthā
@@ -365,6 +365,5 @@ The Verses on the Preamble are concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.1-) 
 

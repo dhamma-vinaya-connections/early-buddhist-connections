@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP41-PALI"
+sutta_code: "DHP41"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP41-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP41]]
 > ◄  [[dhp40-pali-pts]] 📜  [[dhp42-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ diso disaṃ yan taṃ kayirā verī vā pana verinaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp41-) 
 

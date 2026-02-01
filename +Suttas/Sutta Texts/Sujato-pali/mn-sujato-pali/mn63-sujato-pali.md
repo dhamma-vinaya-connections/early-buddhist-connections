@@ -3,11 +3,11 @@ sutta_code: "MN63"
 sutta_title:
   - "Cūḷamālukya Sutta "
   - "Shorter Discourse With Māluṅkya"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN63]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN63]]
 > ◄  [[mn62-sujato-pali]] 📜  [[mn64-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -135,8 +135,7 @@ Cūḷamālukyasuttaṁ niṭṭhitaṁ tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn63-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -151,6 +150,5 @@ Cūḷamālukyasuttaṁ niṭṭhitaṁ tatiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.24]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN63]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN63]]
 > ◄  [[mn62-sujato-pali]] 📜  [[mn64-sujato-pali]] ►

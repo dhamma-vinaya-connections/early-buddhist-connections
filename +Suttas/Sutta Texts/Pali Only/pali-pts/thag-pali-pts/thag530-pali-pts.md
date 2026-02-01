@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG530-PALI"
+sutta_code: "THAG530"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG530-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG530]]
 > ◄  [[thag529-pali-pts]] 📜  [[thag531-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ punappunaṃ c'; eva vapanti bījaṃ, punappunaṃ vassati devarājā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag530-) 
 

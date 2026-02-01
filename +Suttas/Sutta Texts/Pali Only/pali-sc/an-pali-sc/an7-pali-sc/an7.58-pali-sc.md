@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.58-PALI"
+sutta_code: "AN7.58"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Arakkheyya "
+  - "Nothing To Hide"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.58-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.58]]
 > ◄  [[an7.57-pali-sc]] 📜  [[an7.59-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -49,6 +49,16 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.58-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 82 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN33]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.58]]
+> ◄  [[an7.57-pali-sc]] 📜  [[an7.59-pali-sc]] ►

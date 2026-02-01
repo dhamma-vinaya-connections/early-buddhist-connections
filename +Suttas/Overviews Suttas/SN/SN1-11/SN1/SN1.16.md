@@ -34,15 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-sutta_simile: "Tortoise like restraint mind"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA-2.175]]"
-  - "[[SA598]]"
-parallels_partilal:
-  - "[[SA-2.175]]"
-  - "[[SA598]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA-2.175]], [[SA598]]"
+parallels_partilal: "[[SA-2.175]], [[SA598]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.15]]  🌐 [[SN1.17]] ►
 
@@ -66,8 +60,7 @@ Discontent, and grogginess, uncontrolled mind, conscience and shame
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -82,8 +75,7 @@ Discontent, and grogginess, uncontrolled mind, conscience and shame
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.199]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN1.16%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN1.16%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -94,7 +86,7 @@ Discontent, and grogginess, uncontrolled mind, conscience and shame
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.16%5D%5D%22%23mynotes%20-file%3Asn1.16-%20-file%3A%22SN1.15%22%20-file%3A%22SN1.17%22%20-file%3A%22SN1.16%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.16

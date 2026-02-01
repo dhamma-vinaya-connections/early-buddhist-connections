@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN134-PALI"
+sutta_code: "MN134"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Lomasakaṅgiyabhaddekaratta Sutta "
+  - "Lomasakaṅgiya and One Fine Night"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN134-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN134]]
 > ◄  [[mn133-pali-sc]] 📜  [[mn135-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -125,6 +125,20 @@ santo ācikkhate munī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn134-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA166]] | M iii 199 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN131]]; [[MN132]]; [[MN133]]; [[MA166]]; [[JA538]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN131]] - 134, [[MA164]]- 167]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN134]]
+> ◄  [[mn133-pali-sc]] 📜  [[mn135-pali-sc]] ►

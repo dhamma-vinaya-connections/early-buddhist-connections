@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG6-PALI"
+sutta_code: "THIG6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Chakkanipātavagga "
+  - "Sixes Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG6]]
 > ◄  [[thig5-pali-sri]] 📜  [[thig7-pali-sri]] ►
 
 # 06-Chakka nipatha-p
@@ -549,6 +549,5 @@ Chakkanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig6-) 
 

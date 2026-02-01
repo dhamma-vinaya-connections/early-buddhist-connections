@@ -3,11 +3,11 @@ sutta_code: "SN1.17"
 sutta_title:
   - "Dukkarasutta "
   - "Difficult to Practise"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.17]]
 > ◄  [[sn1.16-sujato-pali]] 📜  [[sn1.18-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -55,8 +55,7 @@ Parinibbuto nūpavadeyya kañcī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Parinibbuto nūpavadeyya kañcī"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.199]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.17]]
 > ◄  [[sn1.16-sujato-pali]] 📜  [[sn1.18-sujato-pali]] ►

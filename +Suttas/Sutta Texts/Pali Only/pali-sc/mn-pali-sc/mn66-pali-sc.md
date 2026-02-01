@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN66-PALI"
+sutta_code: "MN66"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Laṭukikopama Sutta "
+  - "Simile of the Quail"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
 > ◄  [[mn65-pali-sc]] 📜  [[mn67-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -137,6 +137,16 @@ Passasi no tvaṁ, udāyi, taṁ saṁyojanaṁ aṇuṁ vā thūlaṁ vā yass�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn66-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN65]] | [[EA49.7]]; [[MA192]]; [[MA194]] | M i 447 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA49.7]]; [[MN65]]; [[MA194]]; [[MA192]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
+> ◄  [[mn65-pali-sc]] 📜  [[mn67-pali-sc]] ►

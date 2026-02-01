@@ -4,10 +4,10 @@ sutta_title:
   - "Susammuṭṭhasutta "
   - "Utterly Muddled"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.8]]
 > ◄  [[sn1.7-deepseek-pali]] 📜  [[sn1.9-deepseek-pali]] ►
 
 # SN 1.8 Susammuṭṭhasuttaṃ
@@ -32,8 +32,7 @@ They are well-awakened, rightly knowing, they walk evenly in the uneven."
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -44,6 +43,5 @@ They are well-awakened, rightly knowing, they walk evenly in the uneven."
 | [[SA-2.165]], [[SA580]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.8]]
 > ◄  [[sn1.7-deepseek-pali]] 📜  [[sn1.9-deepseek-pali]] ►

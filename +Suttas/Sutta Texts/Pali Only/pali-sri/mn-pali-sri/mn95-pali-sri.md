@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN95-PALI"
+sutta_code: "MN95"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Caṅkī Sutta "
+  - "With Caṅkī"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
 > ◄  [[mn94-pali-sri]] 📜  [[mn96-pali-sri]] ►
 
 # 95. Canki Sutta - Pali
@@ -261,6 +261,20 @@ Caṅkīsuttaṃ pañcamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn95-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M ii 164 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.192]]; [[DN13]]; [[DN3]]; [[PLI-TV-KD6]]; [[DN4]]; [[DN5]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.65]]; [[AN9.1]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
+> ◄  [[mn94-pali-sri]] 📜  [[mn96-pali-sri]] ►

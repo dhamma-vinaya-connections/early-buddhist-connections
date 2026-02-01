@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
 > ◄  [[an4.185-bodhi]] 📜  [[an4.187-bodhi]] ►
 
 # AN4.186 Acumen
@@ -59,8 +59,7 @@ Saying, “Good, Bhante,” that bhikkhu delighted and rejoiced in the Blessed O
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.186-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Saying, “Good, Bhante,” that bhikkhu delighted and rejoiced in the Blessed O
 | [[MA172]], [[SN1.62]], [[SA-2.236]], [[SA1009]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
 > ◄  [[an4.185-bodhi]] 📜  [[an4.187-bodhi]] ►

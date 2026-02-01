@@ -4,10 +4,10 @@ sutta_title:
   - "Tathagatuppada Sutta "
   - "They Appear"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.10]]
 > ◄  [[ud6.9-deepseek-pali]] 📜  [[]] ►
 
 # Ud 6.10 Uppajjantisuttaṃ
@@ -55,9 +55,7 @@ The Chapter on the Blind from Birth is Finished, the Sixth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.10-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.10]]
 > ◄  [[ud6.9-deepseek-pali]] 📜  [[]] ►

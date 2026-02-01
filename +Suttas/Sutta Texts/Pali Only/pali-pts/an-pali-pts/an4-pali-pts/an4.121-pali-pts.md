@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.121-PALI"
+sutta_code: "AN4.121"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Attānuvāda "
+  - "Guilt"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.121-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.121]]
 > ◄  [[an4.120-pali-pts]] 📜  [[an4.122-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -27,6 +27,11 @@ Appamādo ca ārakkho|| vejanīyañ cadve] bhayāti||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.121-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 121 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.121]]
+> ◄  [[an4.120-pali-pts]] 📜  [[an4.122-pali-pts]] ►

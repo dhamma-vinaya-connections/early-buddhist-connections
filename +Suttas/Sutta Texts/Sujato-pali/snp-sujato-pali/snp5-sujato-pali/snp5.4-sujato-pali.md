@@ -3,11 +3,11 @@ sutta_code: "SNP5.4"
 sutta_title:
   - "Puṇṇakamāṇavapucchā "
   - "Questions of the Student Puṇṇaka"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.4]]
 > ◄  [[snp5.3-sujato-pali]] 📜  [[snp5.5-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -135,8 +135,7 @@ Puṇṇakamāṇavapucchā tatiyā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -151,6 +150,5 @@ Puṇṇakamāṇavapucchā tatiyā.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SNP3.4]], [[AN3:32ANDAN4:41]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.4]]
 > ◄  [[snp5.3-sujato-pali]] 📜  [[snp5.5-sujato-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "SN2.18"
 sutta_title:
   - "Kakudhasutta "
   - "Kakudha"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.18]]
 > ◄  [[sn2.17-sujato-pali]] 📜  [[sn2.19-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -113,8 +113,7 @@ tiṇṇaṁ loke visattikan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -125,6 +124,5 @@ tiṇṇaṁ loke visattikan"ti.
 | [[SN1.1]], [[SA-2.169]], [[SA585]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.18]]
 > ◄  [[sn2.17-sujato-pali]] 📜  [[sn2.19-sujato-pali]] ►

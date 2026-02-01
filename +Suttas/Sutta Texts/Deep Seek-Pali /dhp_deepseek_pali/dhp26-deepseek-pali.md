@@ -4,10 +4,10 @@ sutta_title:
   - "Brāhmaṇavagga "
   - "Brahmins"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP26]]
 > ◄  [[dhp25-deepseek-pali]] 📜  [[]] ►
 
 # Dhp 26. Brāhmaṇavaggo
@@ -260,8 +260,7 @@ The Pāli text of the Dhammapada is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -272,6 +271,5 @@ The Pāli text of the Dhammapada is concluded.
 | [[MN86]], [[SN1.36]], [[THAG16.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP26]]
 > ◄  [[dhp25-deepseek-pali]] 📜  [[]] ►

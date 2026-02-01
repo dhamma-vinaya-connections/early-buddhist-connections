@@ -4,10 +4,10 @@ sutta_title:
   - "Vattha Sutta "
   - "Simile of the Cloth"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7]]
 > ◄  [[mn6-deepseek-pali]] 📜  [[mn8-deepseek-pali]] ►
 
 # 7. Vatthasuttaṃ
@@ -87,8 +87,7 @@ The Discourse on the Cloth, the Seventh, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ The Discourse on the Cloth, the Seventh, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN3]], [[MN15]], [[MN8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7]]
 > ◄  [[mn6-deepseek-pali]] 📜  [[mn8-deepseek-pali]] ►

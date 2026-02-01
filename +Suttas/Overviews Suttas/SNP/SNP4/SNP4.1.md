@@ -34,14 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Lay followers"
-sutta_simile: "Boat cracked inundated by water, like troubles inundate greedy persons"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[JA467]]"
-  - "[[PE2]]"
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: "[[JA467]], [[PE2]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.12]]  🌐 [[SNP4.2]] ►
 
@@ -73,8 +68,7 @@ has reached the far shore.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,8 +83,7 @@ has reached the far shore.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN13]], [[MN14]], [[MN22]], [[MN54]], [[SN1.20]], [[SN35.63]], [[SN35.115]], [[SN35.197]], [[AN6.63]], [[SN2.8]], [[THAG5.1]], [[THAG7.1]], [[THAG10.5]], [[THIG5.4]], [[THIG13.5]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP4.1%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP4.1%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -101,7 +94,7 @@ has reached the far shore.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP4.1%5D%5D%22%23mynotes%20-file%3Asnp4.1-%20-file%3A%22SNP3.12%22%20-file%3A%22SNP4.2%22%20-file%3A%22SNP4.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp4.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.1

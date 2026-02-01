@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN9]]
 > ◄  [[dn8-walshe]] 📜  [[dn10-walshe]] ►
 
 # DN9 Poṭṭhapāda Sutta: About Poṭṭhapāda
@@ -148,8 +148,7 @@ And the Venerable Citta, son of the elephant-trainer, became another of the Arah
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -164,6 +163,5 @@ And the Venerable Citta, son of the elephant-trainer, became another of the Arah
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN140]], [[AN9.36]], [[AN9.36]], [[AN4.72]], [[AN4.192]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN9]]
 > ◄  [[dn8-walshe]] 📜  [[dn10-walshe]] ►

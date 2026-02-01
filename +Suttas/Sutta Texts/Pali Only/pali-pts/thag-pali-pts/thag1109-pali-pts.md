@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1109-PALI"
+sutta_code: "THAG1109"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1109-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1109]]
 > ◄  [[thag1108-pali-pts]] 📜  [[thag1110-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ mam'; eva etaṃ, na hi taṃ paresaṃ; sannāhakāle paridevitena kiṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1109-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG164-PALI"
+sutta_code: "THAG164"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG164-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG164]]
 > ◄  [[thag163-pali-pts]] 📜  [[thag165-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Satimā paññavā bhikkhu āraddhabalavīriyo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag164-) 
 

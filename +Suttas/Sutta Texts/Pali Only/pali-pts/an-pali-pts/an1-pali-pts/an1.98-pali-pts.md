@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.98-PALI"
+sutta_code: "AN1.98"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dutiyapamādādi "
+  - "Negligence 2nd"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.98-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.98]]
 > ◄  [[an1.82-pali-pts]] 📜  [[an1.140-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -33,6 +33,11 @@ Pamādādivaggo navamo.1
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.98-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 16 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.98]]
+> ◄  [[an1.82-pali-pts]] 📜  [[an1.140-pali-pts]] ►

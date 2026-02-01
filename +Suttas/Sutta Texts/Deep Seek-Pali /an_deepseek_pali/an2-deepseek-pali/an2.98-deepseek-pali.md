@@ -4,10 +4,10 @@ sutta_title:
   - "Bāla "
   - "Fools"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.98]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.98]]
 > ◄  [[an2.97-deepseek-pali]] 📜  [[an2.99-deepseek-pali]] ►
 
 # AN 2.98
@@ -27,8 +27,7 @@ The Chapter on the Dhamma, the Fourth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.98-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -38,6 +37,5 @@ The Chapter on the Dhamma, the Fourth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.21.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.98]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.98]]
 > ◄  [[an2.97-deepseek-pali]] 📜  [[an2.99-deepseek-pali]] ►

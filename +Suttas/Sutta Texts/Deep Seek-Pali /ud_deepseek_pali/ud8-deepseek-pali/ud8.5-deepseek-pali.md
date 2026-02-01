@@ -4,10 +4,10 @@ sutta_title:
   - "Cunda Sutta "
   - "Cunda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.5]]
 > ◄  [[ud8.4-deepseek-pali]] 📜  [[ud8.6-deepseek-pali]] ►
 
 # Ud 8.5 Cundasuttaṃ
@@ -103,8 +103,7 @@ Merit increases for the giver; Hatred is not accumulated by the restrained; The 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -119,6 +118,5 @@ Merit increases for the giver; Hatred is not accumulated by the restrained; The 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[AN10:176]], [[SN1.5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.5]]
 > ◄  [[ud8.4-deepseek-pali]] 📜  [[ud8.6-deepseek-pali]] ►

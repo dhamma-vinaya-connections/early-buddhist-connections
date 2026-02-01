@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1133-PALI"
+sutta_code: "THAG1133"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1133-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1133]]
 > ◄  [[thag1132-pali-pts]] 📜  [[thag1134-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ dhī dhī paraṃ kiṃ mama citta kāhasi; na te alaṃ citta vasānuvattako.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1133-) 
 

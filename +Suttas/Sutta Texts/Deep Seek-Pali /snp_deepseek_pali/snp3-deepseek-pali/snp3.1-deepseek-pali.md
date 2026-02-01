@@ -4,10 +4,10 @@ sutta_title:
   - "Pabbajjāsutta "
   - "Going Forth"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.1]]
 > ◄  [[]] 📜  [[snp3.2-deepseek-pali]] ►
 
 # Snp 3.1 Pabbajjāsuttaṃ
@@ -143,9 +143,7 @@ The Discourse on the Going Forth, the first, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.1-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.1]]
 > ◄  [[]] 📜  [[snp3.2-deepseek-pali]] ►

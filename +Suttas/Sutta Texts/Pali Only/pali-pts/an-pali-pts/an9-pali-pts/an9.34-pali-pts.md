@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.34-PALI"
+sutta_code: "AN9.34"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nibbana "
+  - "Unbinding"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.34-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
 > ◄  [[an9.33-pali-pts]] 📜  [[an9.35-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,15 @@ Imā kho bhikkhave nava anupubbavihārasamāpattiyo ti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.34-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 414 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN9.31]], [[AN9.33]], [[AN9.36]], [[AN9.42]], [[AN11.10MN111]], [[SN22.5]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
+> ◄  [[an9.33-pali-pts]] 📜  [[an9.35-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG789-PALI"
+sutta_code: "THAG789"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG789-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG789]]
 > ◄  [[thag788-pali-pts]] 📜  [[thag790-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ kāme ādittato disvā jātarūpāni satthato
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag789-) 
 

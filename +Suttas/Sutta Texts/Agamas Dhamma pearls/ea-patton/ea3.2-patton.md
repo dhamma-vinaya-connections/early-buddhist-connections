@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[EA]] / 📂 [[EA3]]  / 🌐 [[EA3.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[EA]] / 📂 [[EA3]]  / 🌐 [[EA3.2]]
 > ◄  [[ea3.1-patton]] 📜  [[ea3.3-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -46,6 +46,5 @@ Last Revised: 11 March 2023
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ea3.2-) 
 

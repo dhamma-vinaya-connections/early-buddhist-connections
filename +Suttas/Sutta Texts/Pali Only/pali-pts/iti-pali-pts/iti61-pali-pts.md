@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI61-PALI"
+sutta_code: "ITI61"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Cakkhu "
+  - "Eyes"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI61-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI61]]
 > ◄  [[iti60-pali-pts]] 📜  [[iti62-pali-pts]] ►
 
 ## Itivuttaka
@@ -31,6 +31,7 @@ _VAGGO II., SUTTAṂ 4. 53_
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti61-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI61]]
+> ◄  [[iti60-pali-pts]] 📜  [[iti62-pali-pts]] ►

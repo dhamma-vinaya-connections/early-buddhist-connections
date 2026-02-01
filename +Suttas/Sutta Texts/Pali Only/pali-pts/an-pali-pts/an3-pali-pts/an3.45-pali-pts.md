@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.45-PALI"
+sutta_code: "AN3.45"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṇḍita "
+  - "Wise"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.45-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.45]]
 > ◄  [[an3.44-pali-pts]] 📜  [[an3.46-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -27,6 +27,11 @@ Ariyo dassanasampanno sa lokaṃ bhajate sivan ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.45-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 151 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.45]]
+> ◄  [[an3.44-pali-pts]] 📜  [[an3.46-pali-pts]] ►

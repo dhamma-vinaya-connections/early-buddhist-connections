@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.13-PALI"
+sutta_code: "SN2.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dīghalaṭṭhisutta "
+  - "Dighalaṭṭhi"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.13]]
 > ◄  [[sn2.12-pali-sc]] 📜  [[sn2.14-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -26,6 +26,5 @@ Sucetaso anissito tadānisaṁso"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.13-) 
 

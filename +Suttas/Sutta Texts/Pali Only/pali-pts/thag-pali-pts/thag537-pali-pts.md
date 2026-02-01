@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG537-PALI"
+sutta_code: "THAG537"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG537-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG537]]
 > ◄  [[thag536-pali-pts]] 📜  [[thag538-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ handa eko gamissāmi araññaṃ buddhavaṇṇitaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag537-) 
 

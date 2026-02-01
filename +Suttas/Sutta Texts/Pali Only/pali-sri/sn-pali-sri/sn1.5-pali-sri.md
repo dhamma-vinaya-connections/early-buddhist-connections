@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.5-PALI"
+sutta_code: "SN1.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Katichindasutta "
+  - "How Many Must One Cut?"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.5]]
 > ◄  [[sn1.4-pali-sri]] 📜  [[sn1.6-pali-sri]] ►
 
 # 1:5 Adittavaggo - Pali
@@ -344,6 +344,16 @@ Accharāvanajetena maccharena ghaṭīkaro’ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP370]], [[THAG1.15]] | [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]], [[DHP370]], [[THAG1.15]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.5]]
+> ◄  [[sn1.4-pali-sri]] 📜  [[sn1.6-pali-sri]] ►

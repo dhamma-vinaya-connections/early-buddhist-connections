@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG278-PALI"
+sutta_code: "THAG278"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG278-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG278]]
 > ◄  [[thag277-pali-pts]] 📜  [[thag279-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Dhir atthu pūre duggandhe Mārapakkhe avassute;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag278-) 
 

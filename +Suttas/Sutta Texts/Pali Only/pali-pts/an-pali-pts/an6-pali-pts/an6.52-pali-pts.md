@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.52-PALI"
+sutta_code: "AN6.52"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Khattiya "
+  - "Aristocrats"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.52-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.52]]
 > ◄  [[an6.51-pali-pts]] 📜  [[an6.53-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Acchariyaṃ āvuso abbhutaṃ āvuso, yāva subhāsitañ c'; idaṃ āyasmatā 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.52-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA37.8]], [[MA149]] | A iii 362 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA37.8]], [[MA149]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.52]]
+> ◄  [[an6.51-pali-pts]] 📜  [[an6.53-pali-pts]] ►

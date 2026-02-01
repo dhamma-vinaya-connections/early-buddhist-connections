@@ -3,11 +3,11 @@ sutta_code: "MN62"
 sutta_title:
   - "Mahārāhulovāda Sutta "
   - "Longer Advice to Rāhula"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
 > ◄  [[mn61-sujato-pali]] 📜  [[mn63-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -169,8 +169,7 @@ Mahārāhulovādasuttaṁ niṭṭhitaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn62-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -185,6 +184,5 @@ Mahārāhulovādasuttaṁ niṭṭhitaṁ dutiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN28]]; [[MN61]]; [[MN140]]; [[MN147]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
 > ◄  [[mn61-sujato-pali]] 📜  [[mn63-sujato-pali]] ►

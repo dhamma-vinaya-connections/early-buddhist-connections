@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.167-PALI"
+sutta_code: "AN5.167"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Codanā "
+  - "Accusation"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.167-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.167]]
 > ◄  [[an5.166-pali-pts]] 📜  [[an5.168-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Sādhu sādhu Upavāna. Imehi kho Upavāna pañcahi dhammehi samannāgato thero 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.167-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA497]] | A iii 196 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA497]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.167]]
+> ◄  [[an5.166-pali-pts]] 📜  [[an5.168-pali-pts]] ►

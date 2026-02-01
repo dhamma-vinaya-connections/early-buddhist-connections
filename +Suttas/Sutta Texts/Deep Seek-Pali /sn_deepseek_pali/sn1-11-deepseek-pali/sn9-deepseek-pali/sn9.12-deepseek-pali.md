@@ -4,10 +4,10 @@ sutta_title:
   - "Majjhanhikasutta "
   - "Noon"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
 > ◄  [[sn9.11-deepseek-pali]] 📜  [[sn9.13-deepseek-pali]] ►
 
 # SN 9.12 Majjhanhikasuttaṃ
@@ -31,8 +31,7 @@ When it is noon, when the birds have settled down, The great wilderness resounds
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ When it is noon, when the birds have settled down, The great wilderness resounds
 | [[SN1.15]], [[SA-2.355]], [[SA1335]], [[JA547]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
 > ◄  [[sn9.11-deepseek-pali]] 📜  [[sn9.13-deepseek-pali]] ►

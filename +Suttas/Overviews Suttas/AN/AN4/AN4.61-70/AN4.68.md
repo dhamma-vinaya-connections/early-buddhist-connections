@@ -34,23 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Banana tree, or a bamboo, or a reed, all of which bear fruit to their own ruin and downfall"
-parallels_nikaya:
-  - "[[SN17.35-36]]"
-parallels_agama:
-  - "[[EA12.7]]"
-  - "[[EA23.7]]"
-  - "[[SA-2.3]]"
-  - "[[SA1064]]"
-parallels_partilal:
-  - "[[EA12.7]]"
-  - "[[SN17.35-36]]"
-  - "[[PLI-TV-KD17]]"
-  - "[[SA1064]]"
-  - "[[EA23.7]]"
-  - "[[SA-2.3]]"
-  - "[[SN17.35]]"
-  - "[[SN6.12]]"
+parallels_nikaya: "[[SN17.35-36]]"
+parallels_agama: "[[EA12.7]], [[EA23.7]], [[SA-2.3]], [[SA1064]]"
+parallels_partilal: "[[EA12.7]], [[SN17.35-36]], [[PLI-TV-KD17]], [[SA1064]], [[EA23.7]], [[SA-2.3]], [[SN17.35]], [[SN6.12]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.67]]  🌐 [[AN4.69]] ►
 
@@ -73,8 +59,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.68-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -86,8 +71,7 @@ parallels_partilal:
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN4.68%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN4.68%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -98,7 +82,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.68%5D%5D%22%23mynotes%20-file%3Aan4.68-%20-file%3A%22AN4.67%22%20-file%3A%22AN4.69%22%20-file%3A%22AN4.68%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.68/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.68

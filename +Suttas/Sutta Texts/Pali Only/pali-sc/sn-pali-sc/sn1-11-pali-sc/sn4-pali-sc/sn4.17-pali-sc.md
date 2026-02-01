@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.17-PALI"
+sutta_code: "SN4.17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Chaphassāyatanasutta "
+  - "Six Bases for Contact"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
 > ◄  [[sn4.16-pali-sc]] 📜  [[sn4.18-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -44,6 +44,16 @@ Māradheyyaṁ atikkamma,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1103]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1103]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
+> ◄  [[sn4.16-pali-sc]] 📜  [[sn4.18-pali-sc]] ►

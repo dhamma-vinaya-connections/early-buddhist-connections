@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.22-PALI"
+sutta_code: "SN7.22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Khomadussasutta "
+  - "Khomadussa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.22]]
 > ◄  [[sn7.21-pali-sc]] 📜  [[]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -46,6 +46,16 @@ Brāhmaṇasaṁyuttaṁ samattaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.94]], [[SA1180]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.94]], [[SA1180]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.22]]
+> ◄  [[sn7.21-pali-sc]] 📜  [[]] ►

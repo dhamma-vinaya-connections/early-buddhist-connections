@@ -4,10 +4,10 @@ sutta_title:
   - "Puññakiriyavatthu "
   - "Grounds for Making Merit"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI60]]
 > ◄  [[iti59-deepseek-pali]] 📜  [[iti61-deepseek-pali]] ►
 
 # Iti 60 Cakkhusuttaṃ
@@ -29,8 +29,7 @@ This meaning, too, was spoken by the Blessed One, so I have heard. Second.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This meaning, too, was spoken by the Blessed One, so I have heard. Second.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3:4]], [[SN3:17]], [[SN3:20]], [[SN3:25]], [[ITI22]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI60]]
 > ◄  [[iti59-deepseek-pali]] 📜  [[iti61-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Sanaṅkumārasutta "
   - "Sanankumara"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
 > ◄  [[sn6.10-deepseek-pali]] 📜  [[sn6.12-deepseek-pali]] ►
 
 # SN 6.11 Sanaṅkumārasuttaṃ
@@ -31,8 +31,7 @@ This was said by Brahmā Sanaṅkumāra. The Teacher approved. Then Brahmā Sana
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ This was said by Brahmā Sanaṅkumāra. The Teacher approved. Then Brahmā Sana
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN17.35]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
 > ◄  [[sn6.10-deepseek-pali]] 📜  [[sn6.12-deepseek-pali]] ►

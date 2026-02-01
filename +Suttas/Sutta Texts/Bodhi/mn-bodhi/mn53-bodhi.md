@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
 > ◄  [[mn52-bodhi]] 📜  [[mn54-bodhi]] ►
 
 # MN53 Sekha Sutta - The Disciple in Higher Training
@@ -96,8 +96,7 @@ That is what the venerable Ānanda said. The Teacher approved. The Sakyans of K
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn53-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -112,6 +111,5 @@ That is what the venerable Ānanda said. The Teacher approved. The Sakyans of K
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.37]]; [[AN7.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
 > ◄  [[mn52-bodhi]] 📜  [[mn54-bodhi]] ►

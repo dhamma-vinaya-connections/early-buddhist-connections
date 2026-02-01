@@ -3,11 +3,11 @@ sutta_code: "SN6.3"
 sutta_title:
   - "Brahmadevasutta "
   - "Brahmadeva"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
 > ◄  [[sn6.2-sujato-pali]] 📜  [[sn6.4-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -131,8 +131,7 @@ Disvā muniṁ brāhmaṇī oghatiṇṇan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -143,6 +142,5 @@ Disvā muniṁ brāhmaṇī oghatiṇṇan"ti.
 | [[SA-2.265]], [[SA99]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
 > ◄  [[sn6.2-sujato-pali]] 📜  [[sn6.4-sujato-pali]] ►

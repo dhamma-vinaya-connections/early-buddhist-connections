@@ -3,11 +3,11 @@ sutta_code: "SN8.4"
 sutta_title:
   - "Ānandasutta "
   - "Ānanda"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
 > ◄  [[sn8.3-sujato-pali]] 📜  [[sn8.5-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -91,8 +91,7 @@ upasanto carissasī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ upasanto carissasī"ti.
 | [[EA35.9]], [[SA-2.230]], [[SA1214]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
 > ◄  [[sn8.3-sujato-pali]] 📜  [[sn8.5-sujato-pali]] ►

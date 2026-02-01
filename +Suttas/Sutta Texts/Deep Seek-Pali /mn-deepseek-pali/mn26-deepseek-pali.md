@@ -4,10 +4,10 @@ sutta_title:
   - "Pāsarāsi Sutta "
   - "Noble Search"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
 > ◄  [[mn25-deepseek-pali]] 📜  [[mn27-deepseek-pali]] ►
 
 # 26. Pāsarāsisuttaṃ
@@ -304,8 +304,7 @@ Pāsarāsisuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -320,6 +319,5 @@ Pāsarāsisuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD2.10]], [[SN5.15]], [[SN22.87]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
 > ◄  [[mn25-deepseek-pali]] 📜  [[mn27-deepseek-pali]] ►

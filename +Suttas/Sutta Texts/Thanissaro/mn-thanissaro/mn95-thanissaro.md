@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
 > ◄  [[mn93-thanissaro]] 📜  [[mn97-thanissaro]] ►
 
 ## MN95 With Caṅkī
@@ -204,8 +204,7 @@ And so the Blessed One, encompassing Kāpadika’s awareness with his awareness,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn95-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -220,6 +219,5 @@ And so the Blessed One, encompassing Kāpadika’s awareness with his awareness,
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.65]]; [[AN9.1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
 > ◄  [[mn93-thanissaro]] 📜  [[mn97-thanissaro]] ►

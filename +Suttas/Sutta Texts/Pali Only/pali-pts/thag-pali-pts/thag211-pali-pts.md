@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG211-PALI"
+sutta_code: "THAG211"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG211-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG211]]
 > ◄  [[thag210-pali-pts]] 📜  [[thag212-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sukallarūpo sumanassa jhāyitaṃ sunikkhamo sādhu subuddhasāsane;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag211-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG286-PALI"
+sutta_code: "THIG286"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG286-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG286]]
 > ◄  [[thig285-pali-pts]] 📜  [[thig287-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ amhaṃ pi ete samaṇā paṭigaṇhanti dakkhiṇaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig286-) 
 

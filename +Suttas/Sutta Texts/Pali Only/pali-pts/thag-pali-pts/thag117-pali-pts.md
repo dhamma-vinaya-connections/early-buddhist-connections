@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG117-PALI"
+sutta_code: "THAG117"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG117-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG117]]
 > ◄  [[thag116-pali-pts]] 📜  [[thag118-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Abhisattho va nipatati vayo, rūpam aññam iva tath'; eva santaṃ;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag117-) 
 

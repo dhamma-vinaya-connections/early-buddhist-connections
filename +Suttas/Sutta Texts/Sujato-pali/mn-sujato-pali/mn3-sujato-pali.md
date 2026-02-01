@@ -3,11 +3,11 @@ sutta_code: "MN3"
 sutta_title:
   - "Dhammadāyāda Sutta "
   - "Heirs in the Teaching"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
 > ◄  [[mn2-sujato-pali]] 📜  [[mn4-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -129,8 +129,7 @@ Dhammadāyādasuttaṁ niṭṭhitaṁ tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -145,6 +144,5 @@ Dhammadāyādasuttaṁ niṭṭhitaṁ tatiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
 > ◄  [[mn2-sujato-pali]] 📜  [[mn4-sujato-pali]] ►

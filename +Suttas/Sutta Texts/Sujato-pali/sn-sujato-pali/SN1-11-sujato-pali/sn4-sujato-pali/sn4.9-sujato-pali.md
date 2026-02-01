@@ -3,11 +3,11 @@ sutta_code: "SN4.9"
 sutta_title:
   - "Paṭhamaāyusutta "
   - "Life Span (1)"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.9]]
 > ◄  [[sn4.8-sujato-pali]] 📜  [[sn4.10-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -67,8 +67,7 @@ natthi maccussa nāgamo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ natthi maccussa nāgamo"ti.
 | [[DN19]], [[SA-2.23]], [[SA1084]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.9]]
 > ◄  [[sn4.8-sujato-pali]] 📜  [[sn4.10-sujato-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "UD7.8"
 sutta_title:
   - "Kaccana Sutta "
   - "Kaccāyana"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8]]
 > ◄  [[ud7.7-anandajoti-pali]] 📜  [[ud7.9-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -51,9 +51,7 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.8-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8]]
 > ◄  [[ud7.7-anandajoti-pali]] 📜  [[ud7.9-anandajoti-pali]] ►

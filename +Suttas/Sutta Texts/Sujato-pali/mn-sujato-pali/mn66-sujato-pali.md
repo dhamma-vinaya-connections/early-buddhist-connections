@@ -3,11 +3,11 @@ sutta_code: "MN66"
 sutta_title:
   - "Laṭukikopama Sutta "
   - "Simile of the Quail"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
 > ◄  [[mn65-sujato-pali]] 📜  [[mn67-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -265,8 +265,7 @@ Laṭukikopamasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn66-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -277,6 +276,5 @@ Laṭukikopamasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 | [[EA49.7]]; [[MN65]]; [[MA194]]; [[MA192]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
 > ◄  [[mn65-sujato-pali]] 📜  [[mn67-sujato-pali]] ►

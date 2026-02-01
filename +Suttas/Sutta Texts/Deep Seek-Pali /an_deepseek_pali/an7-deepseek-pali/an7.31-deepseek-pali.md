@@ -4,10 +4,10 @@ sutta_title:
   - "Parābhavasutta "
   - "Ruin"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.31]]
 > ◄  [[an7.30-deepseek-pali]] 📜  [[an7.32-deepseek-pali]] ►
 
 # AN 7.31 Parābhavasuttaṃ
@@ -71,12 +71,11 @@ Sāraṇḍa and Vassakāra, three heptads of bhikkhus; Bodhi-awareness and two 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.31-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 26 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.31]]
 > ◄  [[an7.30-deepseek-pali]] 📜  [[an7.32-deepseek-pali]] ►

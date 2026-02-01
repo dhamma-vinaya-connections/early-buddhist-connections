@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.6-PALI"
+sutta_code: "SN4.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sappasutta "
+  - "Serpent"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
 > ◄  [[sn4.5-pali-pts]] 📜  [[sn4.7-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -34,6 +34,16 @@ Pa || tatth-ev-antaradhāyīti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.28]], [[SA1089]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.28]], [[SA1089]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
+> ◄  [[sn4.5-pali-pts]] 📜  [[sn4.7-pali-pts]] ►

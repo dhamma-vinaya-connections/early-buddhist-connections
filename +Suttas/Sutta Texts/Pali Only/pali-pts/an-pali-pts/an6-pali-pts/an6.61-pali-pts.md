@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.61-PALI"
+sutta_code: "AN6.61"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Majjhe "
+  - "Middle"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.61-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.61]]
 > ◄  [[an6.59-pali-pts]] 📜  [[an6.62-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Atha kho Citto Hatthisāriputto na cirass'eva kesamassuṃ ohāretvā kāsāyān
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.61-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1164]] | A iii 399 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1164]], [[SNP5.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.61]]
+> ◄  [[an6.59-pali-pts]] 📜  [[an6.62-pali-pts]] ►

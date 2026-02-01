@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP3-PALI"
+sutta_code: "DHP3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Cittavagga "
+  - "Mind"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP3]]
 > ◄  [[dhp2-pali-pts]] 📜  [[dhp4-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,16 @@ ye taṃ upanayhanti veraṃ tesaṃ na sammati.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 10 |
+> > [!check]- Partial parallels 
+> > 
+| [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP3]]
+> ◄  [[dhp2-pali-pts]] 📜  [[dhp4-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN69-PALI"
+sutta_code: "MN69"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Goliyāni Sutta "
+  - "With Gulissāni"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn68-pali-sri]] 📜  [[mn70-pali-sri]] ►
 
 # 69. Gulissani Sutta - Pali
@@ -96,6 +96,16 @@ Gulissāni suttaṃ navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn69-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA26]] | M i 469 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA26]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
+> ◄  [[mn68-pali-sri]] 📜  [[mn70-pali-sri]] ►

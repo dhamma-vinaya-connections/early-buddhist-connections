@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP280-PALI"
+sutta_code: "DHP280"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP280-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP280]]
 > ◄  [[dhp279-pali-pts]] 📜  [[dhp281-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ vācānurakkhī manasā susaṃvuto kāyena ca akusalaṃ na kayirā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp280-) 
 

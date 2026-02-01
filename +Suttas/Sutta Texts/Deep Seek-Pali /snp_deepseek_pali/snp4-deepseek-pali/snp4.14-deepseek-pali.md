@@ -4,10 +4,10 @@ sutta_title:
   - "Tuvaṭakasutta "
   - "Speedy"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.14]]
 > ◄  [[snp4.13-deepseek-pali]] 📜  [[snp4.15-deepseek-pali]] ►
 
 # Snp 4.14 Attadaṇḍasuttaṃ
@@ -143,9 +143,7 @@ The Discourse on Violence, the fifteenth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.14-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.14]]
 > ◄  [[snp4.13-deepseek-pali]] 📜  [[snp4.15-deepseek-pali]] ►

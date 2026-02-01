@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[T1]]  / 🌐 [[T110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[T1]]  / 🌐 [[T110]]
 > ◄  [[t109-patton]] 📜  [[t112-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -64,6 +64,5 @@ He replied, “I understood it, Sugata.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:t110-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.82-PALI"
+sutta_code: "AN8.82"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Puṇṇiya "
+  - "With Puṇṇiya"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.82-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.82]]
 > ◄  [[an8.81-pali-sc]] 📜  [[an8.83-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -33,6 +33,16 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.82-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN10.83]] | [[SA966]] | A iv 337 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.83]], [[SA966]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.82]]
+> ◄  [[an8.81-pali-sc]] 📜  [[an8.83-pali-sc]] ►

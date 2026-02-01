@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
 > ◄  [[sn5.2-bodhi]] 📜  [[sn5.4-bodhi]] ►
 
 # SN5.3 Gotamī
@@ -54,8 +54,7 @@ Then Māra the Evil One, realizing, “The bhikkhunī Kisāgotamī knows me,” 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -66,6 +65,5 @@ Then Māra the Evil One, realizing, “The bhikkhunī Kisāgotamī knows me,” 
 | [[SA-2.216]], [[SA1200]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
 > ◄  [[sn5.2-bodhi]] 📜  [[sn5.4-bodhi]] ►

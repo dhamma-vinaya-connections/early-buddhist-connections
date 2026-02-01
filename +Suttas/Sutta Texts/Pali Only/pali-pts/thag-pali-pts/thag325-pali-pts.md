@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG325-PALI"
+sutta_code: "THAG325"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG325-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG325]]
 > ◄  [[thag324-pali-pts]] 📜  [[thag330-pali-pts]] ►
 
 ## Theragāthā
@@ -24,6 +24,5 @@ Yaṃ patthayāno dhammesu upajjhāyo anuggahi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag325-) 
 

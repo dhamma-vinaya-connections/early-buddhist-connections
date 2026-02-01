@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA61]]
 > ◄  [[ma60-bdk]] 📜  [[ma62-bdk]] ►
 
 ### 61. The Discourse with the Cow Dung Parable
@@ -31,8 +31,7 @@ alone in a secluded place and practiced diligently, without negligence—he atta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma61-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ alone in a secluded place and practiced diligently, without negligence—he atta
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN17]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA61]]
 > ◄  [[ma60-bdk]] 📜  [[ma62-bdk]] ►

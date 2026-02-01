@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN4-PALI"
+sutta_code: "MN4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Bhayabherava Sutta "
+  - "Fear and Dread"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
 > ◄  [[mn3-pali-sri]] 📜  [[mn5-pali-sri]] ►
 
 # 4. Bhayabherava Sutta - Pali
@@ -150,6 +150,16 @@ Bhayabheravasuttaṃ catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN20]]; [[MN85]] | [[EA31.1]]; [[MA101]] | M i 16 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA31.1]]; [[MN100]]; [[MN26]]; [[MN36]]; [[MN85]]; [[MN20]]; [[MA101]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
+> ◄  [[mn3-pali-sri]] 📜  [[mn5-pali-sri]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.159-PALI"
+sutta_code: "AN5.159"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Udāyī "
+  - "With Udāyī"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.159-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.159]]
 > ◄  [[an5.158-pali-pts]] 📜  [[an5.160-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,15 @@ Paresaṃ Ānanda dhammaṃ desentena pañca dhamme ajjhattaṃ upaṭṭhāpetv
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.159-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 184 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN4.8]], [[AN3.72]], [[DN16]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.159]]
+> ◄  [[an5.158-pali-pts]] 📜  [[an5.160-pali-pts]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Pāpavagga "
   - "Evil"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP9]]
 > ◄  [[dhp8-deepseek-pali]] 📜  [[dhp10-deepseek-pali]] ►
 
 # Dhp 9. Pāpavaggo
@@ -85,8 +85,7 @@ The Ninth Chapter on Evil is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -97,6 +96,5 @@ The Ninth Chapter on Evil is finished.
 | [[JA221]], [[JA514]], [[THAG17.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP9]]
 > ◄  [[dhp8-deepseek-pali]] 📜  [[dhp10-deepseek-pali]] ►

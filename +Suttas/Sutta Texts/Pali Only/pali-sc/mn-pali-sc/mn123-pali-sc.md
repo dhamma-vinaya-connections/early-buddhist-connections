@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN123-PALI"
+sutta_code: "MN123"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Acchariyaabbhuta Sutta "
+  - "Incredible and Amazing"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN123-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN123]]
 > ◄  [[mn122-pali-sc]] 📜  [[mn124-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -87,6 +87,20 @@ Evameva kho, ānanda, yadā bodhisatto mātukucchiṁ okkanto hoti, na bodhisatt
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn123-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.127]] | [[MA32]] | M iii 118 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.127]]; [[MA32]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.127]], [[AN8.70]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN123]]
+> ◄  [[mn122-pali-sc]] 📜  [[mn124-pali-sc]] ►

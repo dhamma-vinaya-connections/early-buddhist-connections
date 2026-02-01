@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN6-PALI"
+sutta_code: "MN6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ākaṅkheyya Sutta "
+  - "One Might Wish"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
 > ◄  [[mn5-pali-sc]] 📜  [[mn7-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -62,6 +62,16 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN10.71]]; [[AN2.36:2.1]] | [[MA105]] | M i 33 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.71]]; [[MA105]]; [[AN2.36:2.1]]; [[DN2]]; [[SN47.46]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
+> ◄  [[mn5-pali-sc]] 📜  [[mn7-pali-sc]] ►

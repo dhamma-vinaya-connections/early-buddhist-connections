@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG277-PALI"
+sutta_code: "THAG277"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG277-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG277]]
 > ◄  [[thag276-pali-pts]] 📜  [[thag278-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yassa sabrahmacārīsu gāravo n'; ūpalabbhati,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag277-) 
 

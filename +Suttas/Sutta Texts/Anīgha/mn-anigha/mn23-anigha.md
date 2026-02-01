@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
 > ◄  [[mn22-anigha]] 📜  [[mn24-anigha]] ►
 
 # MN 23 - The Ant-Hill
@@ -73,8 +73,7 @@ That is what the Auspicious One said. Pleased, Venerable Kassapa the Prince deli
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,6 +84,5 @@ That is what the Auspicious One said. Pleased, Venerable Kassapa the Prince deli
 | [[EA39.9]]; [[SA-2.18]]; [[SA1079]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
 > ◄  [[mn22-anigha]] 📜  [[mn24-anigha]] ►

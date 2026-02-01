@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP30-PALI"
+sutta_code: "DHP30"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP30-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP30]]
 > ◄  [[dhp29-pali-pts]] 📜  [[dhp31-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ appamādarato bhikkhu pamāde bhayadassivā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp30-) 
 

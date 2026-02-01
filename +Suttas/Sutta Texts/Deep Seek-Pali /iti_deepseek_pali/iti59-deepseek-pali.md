@@ -4,10 +4,10 @@ sutta_title:
   - "Māradheyya "
   - "Maras Sway"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI59]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI59]]
 > ◄  [[iti58-deepseek-pali]] 📜  [[iti60-deepseek-pali]] ►
 
 # Iti 59 Puññakiriyavatthusuttaṃ
@@ -29,6 +29,5 @@ This meaning, too, was spoken by the Blessed One, so I have heard. First.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti59-) 
 

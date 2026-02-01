@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.21-PALI"
+sutta_code: "SN3.21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Puggalasutta "
+  - "Persons"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
 > ◄  [[sn3.20-pali-sc]] 📜  [[sn3.22-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -123,6 +123,16 @@ jotijotiparāyano"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.21-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.85]] | [[SA-2.69]], [[SA1146]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.69]], [[SA1146]], [[AN4.85]], [[PE8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
+> ◄  [[sn3.20-pali-sc]] 📜  [[sn3.22-pali-sc]] ►

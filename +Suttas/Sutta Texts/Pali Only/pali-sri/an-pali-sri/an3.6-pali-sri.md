@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.6-PALI"
+sutta_code: "AN3.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Bhava "
+  - "Continued Existence"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.6]]
 > ◄  [[an3.5-pali-sri]] 📜  [[an3.7-pali-sri]] ►
 
 # 5:6 Nivaranavaggo - Pali
@@ -402,6 +402,16 @@ Upajjhā ṭhānaṃ kumārā licchavī apare duve’ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA22.6]] | A i 223 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA22.6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.6]]
+> ◄  [[an3.5-pali-sri]] 📜  [[an3.7-pali-sri]] ►

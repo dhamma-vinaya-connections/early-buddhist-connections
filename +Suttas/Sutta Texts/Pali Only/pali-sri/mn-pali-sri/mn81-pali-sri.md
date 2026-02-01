@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN81-PALI"
+sutta_code: "MN81"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Ghaṭikāra Sutta "
+  - "With Ghaṭikāra"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-pali-sri]] 📜  [[mn82-pali-sri]] ►
 
 # 81. Ghatikara Sutta - Pali
@@ -160,6 +160,16 @@ Ghaṭīkārasuttaṃ paṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn81-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA63]] | M ii 45 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA63]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
+> ◄  [[mn80-pali-sri]] 📜  [[mn82-pali-sri]] ►

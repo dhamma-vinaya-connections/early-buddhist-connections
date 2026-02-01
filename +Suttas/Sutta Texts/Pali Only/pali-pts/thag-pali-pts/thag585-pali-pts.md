@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG585-PALI"
+sutta_code: "THAG585"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG585-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG585]]
 > ◄  [[thag584-pali-pts]] 📜  [[thag586-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ evaṃ viharamānassa suddhikāmassa bhikkhuno
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag585-) 
 

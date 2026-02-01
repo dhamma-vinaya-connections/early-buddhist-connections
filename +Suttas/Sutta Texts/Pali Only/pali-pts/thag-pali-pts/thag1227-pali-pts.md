@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1227-PALI"
+sutta_code: "THAG1227"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1227-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1227]]
 > ◄  [[thag1226-pali-pts]] 📜  [[thag1228-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ piyavācam eva bhāseyya yā vācā paṭinanditā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1227-) 
 

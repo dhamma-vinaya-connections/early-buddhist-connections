@@ -1,13 +1,13 @@
 ---
-sutta_code: "KP9-PALI"
+sutta_code: "KP9"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP9]]
 > ◄  [[kp8-pali-sc]] 📜  [[]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -76,6 +76,5 @@ Khuddakapāṭhapāli Niṭṭhitaṁ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp9-) 
 

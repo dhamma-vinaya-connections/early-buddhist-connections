@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG9-PALI"
+sutta_code: "THIG9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Navakanipātavagga "
+  - "Nines Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG9]]
 > ◄  [[thig8-pali-pts]] 📜  [[thig10-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ Upasame tare oghaṃ maccudheyyaṃ suduttaraṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig9-) 
 

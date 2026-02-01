@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA72]]
 > ◄  [[ma58-patton]] 📜  [[ma73-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -481,8 +481,7 @@ Venerable Kimbila said, “Bhagavān, I am doing well. There isn’t anything th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma72-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -497,6 +496,5 @@ Venerable Kimbila said, “Bhagavān, I am doing well. There isn’t anything th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA73]], [[MN127]], [[MN31]], [[MN48]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA72]]
 > ◄  [[ma58-patton]] 📜  [[ma73-patton]] ►

@@ -3,11 +3,11 @@ sutta_code: "AN8.90"
 sutta_title:
   - "Sammāvattana "
   - "Behavior In A Case Of Aggravated Misconduct"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.90]]
 > ◄  [[an8.89-sujato-pali]] 📜  [[an8.91-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -38,8 +38,7 @@ Sativaggo catuttho.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.90-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -50,6 +49,5 @@ Sativaggo catuttho.
 | [[PLI-TV-KD14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.90]]
 > ◄  [[an8.89-sujato-pali]] 📜  [[an8.91-sujato-pali]] ►

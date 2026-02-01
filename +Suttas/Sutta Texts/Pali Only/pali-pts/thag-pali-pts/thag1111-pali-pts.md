@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1111-PALI"
+sutta_code: "THAG1111"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1111-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1111]]
 > ◄  [[thag1110-pali-pts]] 📜  [[thag1112-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ kāmā hi citrā madhurā manoramā aviddasū yattha sitā puthujjanā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1111-) 
 

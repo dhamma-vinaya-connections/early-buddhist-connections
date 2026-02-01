@@ -3,11 +3,11 @@ sutta_code: "DN22"
 sutta_title:
   - "Mahāsatipaṭṭhāna Sutta "
   - "Longer Discourse on Mindfulness Meditation"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
 > ◄  [[dn21-sujato-pali]] 📜  [[dn23-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -786,8 +786,7 @@ Mahāsatipaṭṭhānasuttaṁ niṭṭhitaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -802,6 +801,5 @@ Mahāsatipaṭṭhānasuttaṁ niṭṭhitaṁ navamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47]], [[MN119]], [[MN118]], [[MN141]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
 > ◄  [[dn21-sujato-pali]] 📜  [[dn23-sujato-pali]] ►

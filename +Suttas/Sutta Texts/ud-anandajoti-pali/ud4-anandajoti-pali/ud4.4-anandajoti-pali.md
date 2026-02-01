@@ -3,11 +3,11 @@ sutta_code: "UD4.4"
 sutta_title:
   - "Junha Sutta "
   - "Moonlit"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.4]]
 > ◄  [[ud4.3-anandajoti-pali]] 📜  [[ud4.5-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -101,8 +101,7 @@ Catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -117,6 +116,5 @@ Catutthaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP43]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.4]]
 > ◄  [[ud4.3-anandajoti-pali]] 📜  [[ud4.5-anandajoti-pali]] ►

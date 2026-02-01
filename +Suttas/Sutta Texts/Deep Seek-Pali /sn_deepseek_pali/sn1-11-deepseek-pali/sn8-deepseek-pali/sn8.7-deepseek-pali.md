@@ -4,10 +4,10 @@ sutta_title:
   - "Pavāraṇāsutta "
   - "Pavaraṇa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
 > ◄  [[sn8.6-deepseek-pali]] 📜  [[sn8.8-deepseek-pali]] ►
 
 # SN 8.7 Pavāraṇāsuttaṃ
@@ -55,8 +55,7 @@ Then the Venerable Vaṅgīsa rose from his seat, arranged his upper robe over o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Then the Venerable Vaṅgīsa rose from his seat, arranged his upper robe over o
 | [[EA32.5]], [[MA121]], [[SA-2.228]], [[SA1212]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
 > ◄  [[sn8.6-deepseek-pali]] 📜  [[sn8.8-deepseek-pali]] ►

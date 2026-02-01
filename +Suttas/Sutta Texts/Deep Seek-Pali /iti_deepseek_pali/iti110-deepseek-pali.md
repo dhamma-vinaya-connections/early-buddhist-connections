@@ -4,10 +4,10 @@ sutta_title:
   - "Cara "
   - "Walking"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI110]]
 > ◄  [[iti109-deepseek-pali]] 📜  [[]] ►
 
 # Iti 110 Lokasuttaṃ
@@ -61,8 +61,7 @@ The Pāḷi Text of the Itivuttaka is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti110-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,6 +76,5 @@ The Pāḷi Text of the Itivuttaka is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN19]], [[MN20]], [[AN3.102]], [[AN4.11]], [[AN6.20]], [[AN10.51]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI110]]
 > ◄  [[iti109-deepseek-pali]] 📜  [[]] ►

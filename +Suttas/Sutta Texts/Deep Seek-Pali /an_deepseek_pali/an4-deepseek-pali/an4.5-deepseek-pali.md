@@ -4,10 +4,10 @@ sutta_title:
   - "Anusota "
   - "With The Stream"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
 > ◄  [[an4.4-deepseek-pali]] 📜  [[an4.6-deepseek-pali]] ►
 
 # AN 4.5 Anusotasuttaṃ
@@ -63,8 +63,7 @@ Gone to the end of the world, is called 'gone beyond'." Fifth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Gone to the end of the world, is called 'gone beyond'." Fifth.
 | [[PE8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
 > ◄  [[an4.4-deepseek-pali]] 📜  [[an4.6-deepseek-pali]] ►

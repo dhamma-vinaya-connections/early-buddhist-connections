@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.130-PALI"
+sutta_code: "AN4.130"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Duccarita "
+  - "Conduct Bad And Good"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.130-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.130]]
 > ◄  [[an4.129-pali-pts]] 📜  [[an4.131-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,11 @@ PTS: A ii 133
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.130-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 141 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.130]]
+> ◄  [[an4.129-pali-pts]] 📜  [[an4.131-pali-pts]] ►

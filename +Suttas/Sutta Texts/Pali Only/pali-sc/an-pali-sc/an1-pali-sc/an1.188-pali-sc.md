@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.188-PALI"
+sutta_code: "AN1.188"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.188-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.188]]
 > ◄  [[an1.187-pali-sc]] 📜  [[an1.198-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -44,6 +44,5 @@ Paṭhamavagga
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.188-) 
 

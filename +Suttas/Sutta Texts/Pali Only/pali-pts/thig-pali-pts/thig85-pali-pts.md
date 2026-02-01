@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG85-PALI"
+sutta_code: "THIG85"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG85-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG85]]
 > ◄  [[thig84-pali-pts]] 📜  [[thig86-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ atha nibbind'; ahaṃ kāye ajjhattañ ca virajj'; ahaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig85-) 
 

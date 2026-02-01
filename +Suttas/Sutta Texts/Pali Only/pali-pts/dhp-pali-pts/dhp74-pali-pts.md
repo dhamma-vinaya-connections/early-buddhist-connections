@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP74-PALI"
+sutta_code: "DHP74"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP74-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP74]]
 > ◄  [[dhp73-pali-pts]] 📜  [[dhp75-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ evam etaṃ abhiññāya bhikkhu Buddhassa sāvako /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp74-) 
 

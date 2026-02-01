@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN100-PALI"
+sutta_code: "MN100"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Saṅgārava Sutta "
+  - "With Saṅgārava"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
 > ◄  [[mn99-pali-sc]] 📜  [[mn101-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -227,6 +227,16 @@ Majjhimapaṇṇāsakaṁ samattaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn100-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN20]]; [[MN36]]; [[MN85]]; [[SN6.1]] | [[DA20]]; [[DA21]]; [[DA22]]; [[EA31.8]]; [[MA101]]; [[MA204]] | M ii 209 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN85]]; [[MN36]]; [[EA31.8]]; [[DA20]]; [[DA21]]; [[DA22]]; [[PLI-TV-KD15]]; [[DN14]]; [[SN6.1]]; [[MA204]]; [[MN26]]; [[MN20]]; [[MN4]]; [[MA101]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
+> ◄  [[mn99-pali-sc]] 📜  [[mn101-pali-sc]] ►

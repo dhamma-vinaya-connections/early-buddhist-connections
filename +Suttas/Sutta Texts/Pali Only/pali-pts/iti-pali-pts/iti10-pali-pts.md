@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI10-PALI"
+sutta_code: "ITI10"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI10]]
 > ◄  [[iti9-pali-pts]] 📜  [[iti11-pali-pts]] ►
 
 ## Itivuttaka
@@ -31,6 +31,5 @@ Rāga (1) -dosā (2) atha moho (3) kodha (4) -makkha (5) -mānaṃ (6) sabbaṃ 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti10-) 
 

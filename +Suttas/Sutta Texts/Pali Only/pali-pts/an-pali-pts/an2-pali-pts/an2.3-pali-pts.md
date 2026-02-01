@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.3-PALI"
+sutta_code: "AN2.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kandarayana "
+  - "Kandarayana"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.3]]
 > ◄  [[an2.2-pali-pts]] 📜  [[an2.4-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,11 @@ So kāyaduccaritaṃ me katan ti tappati akataṃ me kāyasucaritan ti tappati: 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 69 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.3]]
+> ◄  [[an2.2-pali-pts]] 📜  [[an2.4-pali-pts]] ►

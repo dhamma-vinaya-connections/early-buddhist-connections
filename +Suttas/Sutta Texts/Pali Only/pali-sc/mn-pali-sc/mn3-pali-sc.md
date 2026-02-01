@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN3-PALI"
+sutta_code: "MN3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dhammadāyāda Sutta "
+  - "Heirs in the Teaching"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
 > ◄  [[mn2-pali-sc]] 📜  [[mn4-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -70,6 +70,20 @@ Tasmātiha me, bhikkhave, dhammadāyādā bhavatha, mā āmisadāyādā. Atthi m
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA18.3]]; [[MA88]] | M i 12 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA18.3]]; [[MA88]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN5]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
+> ◄  [[mn2-pali-sc]] 📜  [[mn4-pali-sc]] ►

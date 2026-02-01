@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN149-PALI"
+sutta_code: "MN149"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahāsaḷāyatanika Sutta "
+  - "Great Discourse on the Six Sense Fields"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-pali-sri]] 📜  [[mn150-pali-sri]] ►
 
 # 149. Maha Salayatanika Sutta - Pali
@@ -120,6 +120,16 @@ Mahāsaḷāyatanika suttaṃ sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn149-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA305]] | M iii 287 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA305]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
+> ◄  [[mn148-pali-sri]] 📜  [[mn150-pali-sri]] ►

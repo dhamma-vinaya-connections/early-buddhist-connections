@@ -3,11 +3,11 @@ sutta_code: "SNP3.12"
 sutta_title:
   - "Dvayatānupassanāsutta "
   - "Contemplating Pairs"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.12]]
 > ◄  [[snp3.11-sujato-pali]] 📜  [[]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -846,8 +846,7 @@ Mahāvaggoti vuccatīti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -862,6 +861,5 @@ Mahāvaggoti vuccatīti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN9]], [[SN56:22]], [[MN140]], [[SN12.1]], [[SN12.15]], [[SN22.94]], [[SN35.93]], [[AN4.5]], [[AN4.24]], [[ITI51]], [[ITI103]], [[AN]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.12]]
 > ◄  [[snp3.11-sujato-pali]] 📜  [[]] ►

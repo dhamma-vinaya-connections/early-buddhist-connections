@@ -34,16 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP230]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[DHP230]]"
-  - "[[AN4.28]]"
-  - "[[AN4.6]]"
-  - "[[AN5.42]]"
+parallels_nikaya: "[[DHP230]]"
+parallels_agama: ""
+parallels_partilal: "[[DHP230]], [[AN4.28]], [[AN4.6]], [[AN5.42]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.5]]  🌐 [[UD7.7]] ►
 
@@ -71,8 +64,7 @@ is never scorned by the world with its gods
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,8 +79,7 @@ is never scorned by the world with its gods
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN56.11]], [[MN18]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD7.6%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD7.6%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -99,7 +90,7 @@ is never scorned by the world with its gods
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD7.6%5D%5D%22%23mynotes%20-file%3Aud7.6-%20-file%3A%22UD7.5%22%20-file%3A%22UD7.7%22%20-file%3A%22UD7.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud7.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.6

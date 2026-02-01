@@ -36,13 +36,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-sutta_simile: "fish in small puddles,like people competing against each other"
-parallels_nikaya:
-  - "[[DHP367]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[DHP367]]"
+parallels_nikaya: "[[DHP367]]"
+parallels_agama: ""
+parallels_partilal: "[[DHP367]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.14]]  🌐 [[SNP4.16]] ►
 
@@ -74,8 +70,7 @@ But simply on pulling it out
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -90,8 +85,7 @@ But simply on pulling it out
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD2:10.]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP4.15%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP4.15%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -102,7 +96,7 @@ But simply on pulling it out
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP4.15%5D%5D%22%23mynotes%20-file%3Asnp4.15-%20-file%3A%22SNP4.14%22%20-file%3A%22SNP4.16%22%20-file%3A%22SNP4.15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp4.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.15

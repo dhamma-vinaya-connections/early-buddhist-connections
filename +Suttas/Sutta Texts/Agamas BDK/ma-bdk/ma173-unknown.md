@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA173]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA173]]
 > ◄  [[ma172]] 📜  [[ma174]] ►
 
 ### 173. The Discourse to Bhūmija
@@ -39,8 +39,7 @@ get results. Why is that? He is seeking results in the right way, namely by the 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma173-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -50,6 +49,5 @@ get results. Why is that? He is seeking results in the right way, namely by the 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN125]], [[SN12.25]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA173]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA173]]
 > ◄  [[ma172]] 📜  [[ma174]] ►

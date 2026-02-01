@@ -4,10 +4,10 @@ sutta_title:
   - "Udayasutta "
   - "Udaya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.12]]
 > ◄  [[sn7.11-deepseek-pali]] 📜  [[sn7.13-deepseek-pali]] ►
 
 # SN 7.12 Udayasuttaṃ
@@ -43,8 +43,7 @@ When this was said, the brahmin Udaya said to the Blessed One: "Excellent, Maste
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ When this was said, the brahmin Udaya said to the Blessed One: "Excellent, Maste
 | [[SA-2.80]], [[SA1157]], [[THAG10.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.12]]
 > ◄  [[sn7.11-deepseek-pali]] 📜  [[sn7.13-deepseek-pali]] ►

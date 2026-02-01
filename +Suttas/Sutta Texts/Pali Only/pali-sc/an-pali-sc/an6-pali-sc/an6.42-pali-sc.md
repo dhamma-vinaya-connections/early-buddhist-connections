@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.42-PALI"
+sutta_code: "AN6.42"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nagita "
+  - "Nagita"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.42-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.42]]
 > ◄  [[an6.41-pali-sc]] 📜  [[an6.43-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -59,6 +59,20 @@ Dvādasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.42-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1250-1251]] | A iii 341 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1250-1251]], [[AN5.30]], [[AN8.86]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[THEFRAMESTORYHEREISCOMMONTOTHREESUTTAS:AN5.30]], [[AN6.42]], [[ANDAN8.86.SEALSOSN17.5]], [[SN17.8]], [[AN5.80]], [[AN10.70.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.42]]
+> ◄  [[an6.41-pali-sc]] 📜  [[an6.43-pali-sc]] ►

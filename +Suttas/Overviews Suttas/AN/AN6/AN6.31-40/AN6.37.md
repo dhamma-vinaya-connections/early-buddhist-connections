@@ -34,15 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Lay followers"
-sutta_simile: "Ocean water is incalculable, like the merits of giving with this factors"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[EA37.4]]"
-parallels_partilal:
-  - "[[EA37.4]]"
-  - "[[AN4.40]]"
-  - "[[AN8.37]]"
+parallels_nikaya: ""
+parallels_agama: "[[EA37.4]]"
+parallels_partilal: "[[EA37.4]], [[AN4.40]], [[AN8.37]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.36]]  🌐 [[AN6.38]] ►
 
@@ -67,8 +61,7 @@ Feeling uplifted after giving; and recipients are free of greed, hate, and delus
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.37-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,8 +76,7 @@ Feeling uplifted after giving; and recipients are free of greed, hate, and delus
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.35]], [[AN8.37]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN6.37%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN6.37%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -95,7 +87,7 @@ Feeling uplifted after giving; and recipients are free of greed, hate, and delus
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN6.37%5D%5D%22%23mynotes%20-file%3Aan6.37-%20-file%3A%22AN6.36%22%20-file%3A%22AN6.38%22%20-file%3A%22AN6.37%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an6.37/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.37

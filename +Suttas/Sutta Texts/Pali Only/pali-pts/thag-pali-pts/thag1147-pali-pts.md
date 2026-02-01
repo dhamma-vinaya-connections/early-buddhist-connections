@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1147-PALI"
+sutta_code: "THAG1147"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1147-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1147]]
 > ◄  [[thag1146-pali-pts]] 📜  [[thag1148-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ rukkhamūlikā sātatikā uñchāpattāgate ratā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1147-) 
 

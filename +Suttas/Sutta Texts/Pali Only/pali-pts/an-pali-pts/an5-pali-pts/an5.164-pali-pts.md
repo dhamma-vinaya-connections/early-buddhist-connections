@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.164-PALI"
+sutta_code: "AN5.164"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sākaccha "
+  - "Discussions"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.164-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.164]]
 > ◄  [[an5.163-pali-pts]] 📜  [[an5.165-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Pañcah'āvuso dhammehi samannāgato bhikkhu alaṃsākaccho sabrahmacārīnaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.164-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.163]], [[AN5.65]], [[AN5.66]] |  | A iii 191 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.65]], [[AN5.163]], [[AN5.66]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.164]]
+> ◄  [[an5.163-pali-pts]] 📜  [[an5.165-pali-pts]] ►

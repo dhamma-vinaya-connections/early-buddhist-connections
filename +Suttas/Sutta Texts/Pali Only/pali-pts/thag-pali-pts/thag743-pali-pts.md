@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG743-PALI"
+sutta_code: "THAG743"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG743-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG743]]
 > ◄  [[thag742-pali-pts]] 📜  [[thag744-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tacchanto āṇiyā āṇiṃ nihanti balavā yathā:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag743-) 
 

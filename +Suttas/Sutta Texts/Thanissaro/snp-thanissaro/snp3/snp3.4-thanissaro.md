@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.4]]
 > ◄  [[snp3.3-thanissaro]] 📜  [[snp3.5-thanissaro]] ►
 
 # 3:4  Sundarika Bhāradvāja
@@ -501,8 +501,7 @@ vv. 456–486
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -517,6 +516,5 @@ vv. 456–486
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.24]], [[AN6.37]], [[AN9.20]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.4]]
 > ◄  [[snp3.3-thanissaro]] 📜  [[snp3.5-thanissaro]] ►

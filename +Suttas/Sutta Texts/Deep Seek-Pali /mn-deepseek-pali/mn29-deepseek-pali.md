@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsāropama Sutta "
   - "Longer Simile of the Heartwood"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29]]
 > ◄  [[mn28-deepseek-pali]] 📜  [[mn30-deepseek-pali]] ►
 
 # 29. Mahāsāropamasuttaṃ
@@ -87,8 +87,7 @@ The Greater Discourse on the Simile of the Heartwood, the ninth, is ended.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ The Greater Discourse on the Simile of the Heartwood, the ninth, is ended.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN30]]; [[SN17.3]]; [[SN17.5]]; [[SN17.8]]; [[AN8.7]]; [[AN8.8]]; [[AN10.58]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29]]
 > ◄  [[mn28-deepseek-pali]] 📜  [[mn30-deepseek-pali]] ►

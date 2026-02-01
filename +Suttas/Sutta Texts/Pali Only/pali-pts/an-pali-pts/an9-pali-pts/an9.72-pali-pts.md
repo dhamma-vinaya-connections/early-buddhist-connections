@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.72-PALI"
+sutta_code: "AN9.72"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Cetokhila "
+  - "Emotional Barrenness"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.72-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.72]]
 > ◄  [[an9.71-pali-pts]] 📜  [[an9.73-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Pañc'; ime bhikkhave cetaso vinibandhā. Katame pañca?
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.72-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.205]], [[AN5.206]], [[AN9.71]], [[AN9.82]], [[AN9.92]], [[MN16]] | [[EA51.4]], [[MA206]] | A iv 461 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.206]], [[DN33]], [[MN16]], [[AN10.14]], [[AN9.82]], [[AN9.92]], [[EA51.4]], [[MA206]], [[AN5.205]], [[AN9.71]], [[DN34]], [[DA10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.72]]
+> ◄  [[an9.71-pali-pts]] 📜  [[an9.73-pali-pts]] ►

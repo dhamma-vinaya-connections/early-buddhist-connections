@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.6-PALI"
+sutta_code: "SN6.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Brahmalokasutta "
+  - "A Brahma World Negligence"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
 > ◄  [[sn6.5-pali-sc]] 📜  [[sn6.7-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -61,6 +61,16 @@ Tasmā na rūpe ramatī sumedho"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.107]], [[SA1194]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.107]], [[SA1194]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
+> ◄  [[sn6.5-pali-sc]] 📜  [[sn6.7-pali-sc]] ►

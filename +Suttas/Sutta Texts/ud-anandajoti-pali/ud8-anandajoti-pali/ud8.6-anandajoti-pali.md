@@ -3,11 +3,11 @@ sutta_code: "UD8.6"
 sutta_title:
   - "Pataligamiya Sutta "
   - "At Pāṭaligā Village"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.6]]
 > ◄  [[ud8.5-anandajoti-pali]] 📜  [[ud8.7-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -234,8 +234,7 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -250,6 +249,5 @@ Chaṭṭhaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN108]], [[AN4.183]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.6]]
 > ◄  [[ud8.5-anandajoti-pali]] 📜  [[ud8.7-anandajoti-pali]] ►

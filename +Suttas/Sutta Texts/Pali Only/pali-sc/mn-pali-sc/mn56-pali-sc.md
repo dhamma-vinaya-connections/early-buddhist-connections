@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN56-PALI"
+sutta_code: "MN56"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Upāli Sutta "
+  - "With Upāli"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-pali-sc]] 📜  [[mn57-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -336,6 +336,16 @@ Atha kho nigaṇṭhassa nāṭaputtassa bhagavato sakkāraṁ asahamānassa tat
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn56-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA133]] | M i 371 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA133]]; [[AN4.193]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
+> ◄  [[mn55-pali-sc]] 📜  [[mn57-pali-sc]] ►

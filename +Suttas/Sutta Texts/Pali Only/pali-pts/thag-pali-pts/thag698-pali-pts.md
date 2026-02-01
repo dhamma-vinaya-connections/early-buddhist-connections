@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG698-PALI"
+sutta_code: "THAG698"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG698-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG698]]
 > ◄  [[thag697-pali-pts]] 📜  [[thag699-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ saṃyojanaṃ aṇuṃ thūlaṃ sabbaṃ chetvāna bandhanaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag698-) 
 

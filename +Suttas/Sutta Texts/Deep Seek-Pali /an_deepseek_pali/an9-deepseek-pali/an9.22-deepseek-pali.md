@@ -4,10 +4,10 @@ sutta_title:
   - "Assakhaḷuṅka "
   - "Wild Colt"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.22]]
 > ◄  [[an9.21-deepseek-pali]] 📜  [[an9.23-deepseek-pali]] ►
 
 # AN 9.22 Assakhaḷuṅkasuttaṃ
@@ -67,8 +67,7 @@ And how, bhikkhus, is an excellent thoroughbred man…pe… endowed with speed, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ And how, bhikkhus, is an excellent thoroughbred man…pe… endowed with speed, 
 | [[AN3.140]], [[SA-2.143]], [[SA917]], [[AN3.141]], [[SA-2.144]], [[SA918]], [[AN3.142]], [[SA-2.145]], [[SA919]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.22]]
 > ◄  [[an9.21-deepseek-pali]] 📜  [[an9.23-deepseek-pali]] ►

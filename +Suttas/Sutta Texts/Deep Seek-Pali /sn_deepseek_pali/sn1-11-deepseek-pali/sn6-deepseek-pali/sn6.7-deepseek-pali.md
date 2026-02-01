@@ -4,10 +4,10 @@ sutta_title:
   - "Kokālikasutta "
   - "Kokalika (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.7]]
 > ◄  [[sn6.6-deepseek-pali]] 📜  [[sn6.8-deepseek-pali]] ►
 
 # SN 6.7 Kokālikasuttaṃ
@@ -28,8 +28,7 @@ I consider one who measures the immeasurable to be a common person, shrouded.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -40,6 +39,5 @@ I consider one who measures the immeasurable to be a common person, shrouded.”
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.7]]
 > ◄  [[sn6.6-deepseek-pali]] 📜  [[sn6.8-deepseek-pali]] ►

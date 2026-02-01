@@ -3,11 +3,11 @@ sutta_code: "DN23"
 sutta_title:
   - "Pāyāsi Sutta "
   - "With Pāyāsi"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-sujato-pali]] 📜  [[dn24-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -908,8 +908,7 @@ Mahāvaggapāḷi niṭṭhitā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -920,6 +919,5 @@ Mahāvaggapāḷi niṭṭhitā.
 | [[DA7]], [[MA71]], [[JA91]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-sujato-pali]] 📜  [[dn24-sujato-pali]] ►

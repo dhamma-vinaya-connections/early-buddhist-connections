@@ -4,10 +4,10 @@ sutta_title:
   - "Kāyagatāsati Sutta "
   - "Mindfulness of the Body"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
 > ◄  [[mn118-deepseek-pali]] 📜  [[mn120-deepseek-pali]] ►
 
 # 119. Saṅkhārupapattisuttaṃ
@@ -107,8 +107,7 @@ Non-Clinging, Purification, The Qualities of a Person, What Is to Be Practiced, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn119-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -123,6 +122,5 @@ Non-Clinging, Purification, The Qualities of a Person, What Is to Be Practiced, 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN118]], [[MN10]], [[DN22]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
 > ◄  [[mn118-deepseek-pali]] 📜  [[mn120-deepseek-pali]] ►

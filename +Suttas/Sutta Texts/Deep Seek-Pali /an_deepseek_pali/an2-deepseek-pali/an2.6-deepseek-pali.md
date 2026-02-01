@@ -4,10 +4,10 @@ sutta_title:
   - "Sukha "
   - "Happiness"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.6]]
 > ◄  [[an2.5-deepseek-pali]] 📜  [[an2.7-deepseek-pali]] ►
 
 # AN 2.6 Saṃyojanasuttaṃ
@@ -26,8 +26,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -38,6 +37,5 @@ language: "Pali"
 | [[MN41]], [[MN42]], [[SA1042]], [[SA1043]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.6]]
 > ◄  [[an2.5-deepseek-pali]] 📜  [[an2.7-deepseek-pali]] ►

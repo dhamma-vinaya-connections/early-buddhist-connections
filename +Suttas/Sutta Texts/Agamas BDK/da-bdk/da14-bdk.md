@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA14]]
 > ◄  [[da13-bdk]] 📜  [[da15-bdk]] ►
 
 ### Indra’s Questions
@@ -671,8 +671,7 @@ all rejoiced and respectfully carried out what was taught by the Buddha.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -687,6 +686,5 @@ all rejoiced and respectfully carried out what was taught by the Buddha.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN140]], [[MN162]], [[SN12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA14]]
 > ◄  [[da13-bdk]] 📜  [[da15-bdk]] ►

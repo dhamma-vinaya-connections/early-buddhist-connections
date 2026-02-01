@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
 > ◄  [[mn91-bodhi]] 📜  [[mn93-bodhi]] ►
 
 # MN92 Sela Sutta - To Sela
@@ -244,8 +244,7 @@ When the Blessed One had given his blessing with these stanzas, he rose from his
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn92-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -256,6 +255,5 @@ When the Blessed One had given his blessing with these stanzas, he rose from his
 | [[SNP3.7]]; [[PLI-TV-KD6]]; [[EA49.6]]; [[ITI100]]; [[THAG16.6]]; [[SNP3.6]]; [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
 > ◄  [[mn91-bodhi]] 📜  [[mn93-bodhi]] ►

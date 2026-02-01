@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.241-PALI"
+sutta_code: "AN4.241"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Samaṇa "
+  - "Ascetics"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.241-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.241]]
 > ◄  [[an4.240-pali-sc]] 📜  [[an4.242-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -33,6 +33,16 @@ Dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.241-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 238 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN11]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.241]]
+> ◄  [[an4.240-pali-sc]] 📜  [[an4.242-pali-sc]] ►

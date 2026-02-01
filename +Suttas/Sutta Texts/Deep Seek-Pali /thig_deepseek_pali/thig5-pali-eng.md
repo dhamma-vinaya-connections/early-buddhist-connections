@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG5-PALI"
+sutta_code: "THIG5"
 sutta_title:
-  - " "
-  - ""
+  - "Pañcakanipātavagga "
+  - "Fives Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG5]]
 > ◄  [[thig4-pali-eng]] 📜  [[thig6-pali-eng]] ►
 
 # Thig 5. Pañcakanipāto
@@ -332,6 +332,5 @@ Hearing her words, I acted on her instruction. The noble lady’s advice was not
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig5-) 
 

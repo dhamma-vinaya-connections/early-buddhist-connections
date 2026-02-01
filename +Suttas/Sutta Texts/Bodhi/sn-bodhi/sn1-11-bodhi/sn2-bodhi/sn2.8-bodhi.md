@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
 > ◄  [[sn2.7-bodhi]] 📜  [[sn2.9-bodhi]] ►
 
 # SN2.8 Tāyana
@@ -81,8 +81,7 @@ Then, when the night had passed, the Blessed One addressed the bhikkhus thus: �
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -93,6 +92,5 @@ Then, when the night had passed, the Blessed One addressed the bhikkhus thus: �
 | [[DHP311]], [[DHP312]], [[THAG4.3]], [[DHP313]], [[DHP314]], [[DHP383]], [[SN2.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
 > ◄  [[sn2.7-bodhi]] 📜  [[sn2.9-bodhi]] ►

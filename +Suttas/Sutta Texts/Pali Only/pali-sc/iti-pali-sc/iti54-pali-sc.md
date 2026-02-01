@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI54-PALI"
+sutta_code: "ITI54"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Esanā "
+  - "Searches"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI54-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI54]]
 > ◄  [[iti53-pali-sc]] 📜  [[iti55-pali-sc]] ►
 
 # Iti 54. Dutiyaesanāsuttaṃ
@@ -27,6 +27,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti54-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN36.1]], [[ITI52]], [[ITI56]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN26]], [[AN3.39]], [[AN4.252]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI54]]
+> ◄  [[iti53-pali-sc]] 📜  [[iti55-pali-sc]] ►

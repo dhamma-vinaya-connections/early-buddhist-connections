@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN56-PALI"
+sutta_code: "MN56"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Upāli Sutta "
+  - "With Upāli"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-pali-sri]] 📜  [[mn57-pali-sri]] ►
 
 # 56. Upali Sutta - Pali
@@ -231,6 +231,16 @@ Upālisuttaṃ chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn56-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA133]] | M i 371 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA133]]; [[AN4.193]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
+> ◄  [[mn55-pali-sri]] 📜  [[mn57-pali-sri]] ►

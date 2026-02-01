@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG169-PALI"
+sutta_code: "THAG169"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG169-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG169]]
 > ◄  [[thag168-pali-pts]] 📜  [[thag170-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ tuccho kāyo adissittha, andhakāre tamo byagā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag169-) 
 

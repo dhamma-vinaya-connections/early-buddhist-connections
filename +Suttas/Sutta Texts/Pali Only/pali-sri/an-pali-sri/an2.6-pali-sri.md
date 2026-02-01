@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.6-PALI"
+sutta_code: "AN2.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sukha "
+  - "Happiness"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.6]]
 > ◄  [[an2.5-pali-sri]] 📜  [[an2.7-pali-sri]] ►
 
 # 4:6 Punnabhisandavaggo - Pali
@@ -475,6 +475,16 @@ Suppavāsā sudatto ca bhojanaṃ gihīsāmīcināti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN41]], [[MN42]] | [[SA1042]], [[SA1043]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[MN41]], [[MN42]], [[SA1042]], [[SA1043]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.6]]
+> ◄  [[an2.5-pali-sri]] 📜  [[an2.7-pali-sri]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Ghoṭamukha Sutta "
   - "With Ghoṭamukha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94]]
 > ◄  [[mn93-deepseek-pali]] 📜  [[mn95-deepseek-pali]] ►
 
 # 94. Ghoṭamukhasuttaṃ
@@ -151,8 +151,7 @@ The Ghoṭamukha Sutta, the fourth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn94-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -163,6 +162,5 @@ The Ghoṭamukha Sutta, the fourth, is concluded.
 | [[DN2]]; [[MN38]]; [[MN27]]; [[MN76]]; [[MN101]]; [[AN10.99]]; [[AN4.198]]; [[MN51]]; [[SN35.120]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN53]]; [[MN60]]; [[MN79]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN5.76]]; [[AN5.140]]; [[AN11.17]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[MN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN94]]
 > ◄  [[mn93-deepseek-pali]] 📜  [[mn95-deepseek-pali]] ►

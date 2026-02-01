@@ -4,10 +4,10 @@ sutta_title:
   - "Brahmajāla Sutta "
   - "Prime Net"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
 > ◄  [[]] 📜  [[dn2-deepseek-pali]] ►
 
 # Mahāpadānasuttaṃ
@@ -847,8 +847,7 @@ Thus spoke the Blessed One. The monks, delighted, rejoiced at the Blessed One's 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -863,6 +862,5 @@ Thus spoke the Blessed One. The monks, delighted, rejoiced at the Blessed One's 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN102]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
 > ◄  [[]] 📜  [[dn2-deepseek-pali]] ►

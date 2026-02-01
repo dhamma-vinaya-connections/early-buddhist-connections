@@ -4,10 +4,10 @@ sutta_title:
   - "Isigili Sutta "
   - "At Isigili"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116]]
 > ◄  [[mn115-deepseek-pali]] 📜  [[mn117-deepseek-pali]] ►
 
 # 116. Mahācattārīsakasuttaṃ
@@ -91,8 +91,7 @@ The Discourse on the Great Forty, the seventh, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn116-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ The Discourse on the Great Forty, the seventh, is concluded.
 | [[EA38.7]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116]]
 > ◄  [[mn115-deepseek-pali]] 📜  [[mn117-deepseek-pali]] ►

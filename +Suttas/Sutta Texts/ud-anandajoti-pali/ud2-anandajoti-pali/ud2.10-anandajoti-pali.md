@@ -3,11 +3,11 @@ sutta_code: "UD2.10"
 sutta_title:
   - "Bhadiya Kaligodha Sutta "
   - "Bhaddiya"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
 > ◄  [[ud2.9-anandajoti-pali]] 📜  [[]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -99,8 +99,7 @@ Kāḷīgodhāya bhaddiyoti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ Kāḷīgodhāya bhaddiyoti.
 | [[PLI-TV-KD17]], [[SNP1.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
 > ◄  [[ud2.9-anandajoti-pali]] 📜  [[]] ►

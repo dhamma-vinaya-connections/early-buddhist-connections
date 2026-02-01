@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN130-PALI"
+sutta_code: "MN130"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Devadūta Sutta "
+  - "Messengers of the Gods"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN130-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN130]]
 > ◄  [[mn129-pali-sri]] 📜  [[mn131-pali-sri]] ►
 
 # 130. Devaduta - Pali
@@ -170,6 +170,20 @@ Bālapaṇḍito devadūtañca te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn130-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.36]] | [[EA32.4]]; [[MA64]] | M iii 178 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN3.36]]; [[EA32.4]]; [[MA64]]; [[DA30]]; [[MN129]]; [[JA530]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MA199]], [[MN129]], [[AN3.38]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN130]]
+> ◄  [[mn129-pali-sri]] 📜  [[mn131-pali-sri]] ►

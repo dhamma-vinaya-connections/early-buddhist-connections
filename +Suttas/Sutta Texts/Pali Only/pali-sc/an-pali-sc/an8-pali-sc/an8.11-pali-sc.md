@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.11-PALI"
+sutta_code: "AN8.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Verañja "
+  - "At Verañja"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
 > ◄  [[an8.10-pali-sc]] 📜  [[an8.12-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -96,6 +96,16 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA157]] | A iv 172 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA157]], [[PLI-TV-BU-VB-PJ1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
+> ◄  [[an8.10-pali-sc]] 📜  [[an8.12-pali-sc]] ►

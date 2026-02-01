@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
 > ◄  [[snp5.13-thanissaro]] 📜  [[snp5.15-thanissaro]] ►
 
 # 5:14  Posāla’s Question
@@ -75,8 +75,7 @@ vv. 1112–1115
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ vv. 1112–1115
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN52]], [[MN102]], [[MN106]], [[MN111]], [[MN140]], [[ANDAN9:36.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
 > ◄  [[snp5.13-thanissaro]] 📜  [[snp5.15-thanissaro]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.62-PALI"
+sutta_code: "AN7.62"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Metta "
+  - "Merits"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.62-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.62]]
 > ◄  [[an7.61-pali-pts]] 📜  [[an7.63-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -35,6 +35,16 @@ saddhammo garukātabbo saraṃ buddhānasāsanan ti.]
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.62-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA138]] | A iv 88 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA138]], [[ITI22]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.62]]
+> ◄  [[an7.61-pali-pts]] 📜  [[an7.63-pali-pts]] ►

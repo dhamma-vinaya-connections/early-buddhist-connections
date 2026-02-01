@@ -4,10 +4,10 @@ sutta_title:
   - "Saṅghasāmaggī "
   - "Unity In The Saṅgha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI19]]
 > ◄  [[iti18-deepseek-pali]] 📜  [[iti20-deepseek-pali]] ►
 
 # Iti 19 Paduṭṭhacittasuttaṃ
@@ -39,8 +39,7 @@ Delusion, anger, hypocrisy, ignorance, craving, and the two on trainees; schism,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Delusion, anger, hypocrisy, ignorance, craving, and the two on trainees; schism,
 | [[AN10.40]], [[PLI-TV-KD17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI19]]
 > ◄  [[iti18-deepseek-pali]] 📜  [[iti20-deepseek-pali]] ►

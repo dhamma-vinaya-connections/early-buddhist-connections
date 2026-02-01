@@ -4,10 +4,10 @@ sutta_title:
   - "Sakkāra "
   - "Esteem"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI81]]
 > ◄  [[iti80-deepseek-pali]] 📜  [[iti82-deepseek-pali]] ►
 
 # Iti 81 Devasaddasuttaṃ
@@ -35,8 +35,7 @@ This matter, too, was spoken by the Blessed One: thus I have heard. The third.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti81-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ This matter, too, was spoken by the Blessed One: thus I have heard. The third.
 | [[SN17.10]], [[THAG17.2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI81]]
 > ◄  [[iti80-deepseek-pali]] 📜  [[iti82-deepseek-pali]] ►

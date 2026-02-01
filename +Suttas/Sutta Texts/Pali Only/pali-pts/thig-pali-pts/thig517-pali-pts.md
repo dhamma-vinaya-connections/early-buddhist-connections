@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG517-PALI"
+sutta_code: "THIG517"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG517-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG517]]
 > ◄  [[thig516-pali-pts]] 📜  [[thig518-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ bhagavati Koṇāgamane saṃghārāmamhi navanivesamhi |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig517-) 
 

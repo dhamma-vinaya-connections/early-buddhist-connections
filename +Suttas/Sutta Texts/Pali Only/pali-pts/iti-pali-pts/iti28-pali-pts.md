@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI28-PALI"
+sutta_code: "ITI28"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dukkhavihara "
+  - "Living in suffering"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI28-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI28]]
 > ◄  [[iti27-pali-pts]] 📜  [[iti29-pali-pts]] ►
 
 ## Itivuttaka
@@ -33,6 +33,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||1||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti28-) 
 

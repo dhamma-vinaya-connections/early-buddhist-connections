@@ -3,11 +3,11 @@ sutta_code: "AN8.69"
 sutta_title:
   - "Parisā "
   - "Assemblies"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.69]]
 > ◄  [[an8.68-sujato-pali]] 📜  [[an8.70-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -45,8 +45,7 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.69-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ Navamaṁ.
 | [[DN16]], [[DA2]], [[UD6.1]], [[UD8.5]], [[UD8.6]], [[SN51.10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.69]]
 > ◄  [[an8.68-sujato-pali]] 📜  [[an8.70-sujato-pali]] ►

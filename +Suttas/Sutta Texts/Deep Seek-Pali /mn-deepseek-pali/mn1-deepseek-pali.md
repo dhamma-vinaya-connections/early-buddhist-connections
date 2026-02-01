@@ -4,10 +4,10 @@ sutta_title:
   - "Mūlapariyāya Sutta "
   - "Root of All Things"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
 > ◄  [[]] 📜  [[mn2-deepseek-pali]] ►
 
 # 1. Mūlapariyāyasuttaṃ
@@ -215,8 +215,7 @@ The Root Exposition Discourse, the first, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -231,6 +230,5 @@ The Root Exposition Discourse, the first, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.248]], [[AN4.174]], [[AN10.58]], [[SN35.30]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
 > ◄  [[]] 📜  [[mn2-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "UD3.4"
 sutta_title:
   - "Sariputta Sutta "
   - "Sāriputta"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.4]]
 > ◄  [[ud3.3-anandajoti-pali]] 📜  [[ud3.5-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -46,8 +46,7 @@ Catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -62,6 +61,5 @@ Catutthaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG17:2]], [[MN119]], [[SN47:20]], [[SN21:4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.4]]
 > ◄  [[ud3.3-anandajoti-pali]] 📜  [[ud3.5-anandajoti-pali]] ►

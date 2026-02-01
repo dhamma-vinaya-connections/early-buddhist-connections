@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.185]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.185]]
 > ◄  [[an4.184-bodhi]] 📜  [[an4.186-bodhi]] ►
 
 # AN4.185 Brahmin Truths
@@ -37,8 +37,7 @@ Then the Blessed One approached those wanderers, sat down on a seat that was pre
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.185-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ Then the Blessed One approached those wanderers, sat down on a seat that was pre
 | [[EA26.8]], [[SA-2.206]], [[SA972]], [[AN10.93]], [[SA-2.202]], [[SA968]], [[AN10.96]], [[SA-2.201]], [[SA967]], [[AN3.64]], [[SA-2.204]], [[SA970]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.185]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.185]]
 > ◄  [[an4.184-bodhi]] 📜  [[an4.186-bodhi]] ►

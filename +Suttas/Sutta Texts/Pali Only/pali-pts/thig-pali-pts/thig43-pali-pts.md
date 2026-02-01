@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG43-PALI"
+sutta_code: "THIG43"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG43-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG43]]
 > ◄  [[thig42-pali-pts]] 📜  [[thig44-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ sattāhaṃ ekapallaṅke nisīdiṃ pītisukhasamappitā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig43-) 
 

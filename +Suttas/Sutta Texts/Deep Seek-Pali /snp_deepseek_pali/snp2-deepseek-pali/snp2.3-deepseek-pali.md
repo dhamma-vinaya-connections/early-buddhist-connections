@@ -4,10 +4,10 @@ sutta_title:
   - "Hiri "
   - "Conscience"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.3]]
 > ◄  [[snp2.2-deepseek-pali]] 📜  [[snp2.4-deepseek-pali]] ►
 
 # Snp 2.3 Hirisuttaṃ
@@ -53,8 +53,7 @@ The Hiri Sutta, the third, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ The Hiri Sutta, the third, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2:31-32]], [[AN2.118]], [[AN4.32]], [[AN6.12]], [[AN7.35]], [[AN8.54]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.3]]
 > ◄  [[snp2.2-deepseek-pali]] 📜  [[snp2.4-deepseek-pali]] ►

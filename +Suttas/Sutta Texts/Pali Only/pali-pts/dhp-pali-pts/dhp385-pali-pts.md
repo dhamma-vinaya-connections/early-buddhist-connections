@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP385-PALI"
+sutta_code: "DHP385"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP385-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP385]]
 > ◄  [[dhp384-pali-pts]] 📜  [[dhp386-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ jhāyiṃ virajam āsīnaṃ katakiccaṃ anāsavaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp385-) 
 

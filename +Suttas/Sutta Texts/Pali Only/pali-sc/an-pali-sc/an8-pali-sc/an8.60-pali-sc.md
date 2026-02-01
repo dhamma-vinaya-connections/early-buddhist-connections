@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.60-PALI"
+sutta_code: "AN8.60"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Atthapuggala "
+  - "Individuals Eight"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.60-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
 > ◄  [[an8.59-pali-sc]] 📜  [[an8.61-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -41,6 +41,16 @@ dve ca aṭṭha puggalāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.60-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA43.10]] | A iv 292 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA43.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
+> ◄  [[an8.59-pali-sc]] 📜  [[an8.61-pali-sc]] ►

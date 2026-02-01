@@ -4,10 +4,10 @@ sutta_title:
   - "Pattakamma "
   - "Deeds Of Substance"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.61]]
 > ◄  [[an4.60-deepseek-pali]] 📜  [[an4.62-deepseek-pali]] ►
 
 # AN 4.61 Pattakammasuttaṃ
@@ -99,8 +99,7 @@ Remembering this, a mortal, a person established in the Noble Dhamma, here itsel
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.61-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ Remembering this, a mortal, a person established in the Noble Dhamma, here itsel
 | [[AN5.41]], [[MA126]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.61]]
 > ◄  [[an4.60-deepseek-pali]] 📜  [[an4.62-deepseek-pali]] ►

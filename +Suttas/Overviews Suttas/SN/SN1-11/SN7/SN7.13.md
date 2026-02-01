@@ -34,24 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP423]]"
-parallels_agama:
-  - "[[SA-2.95]]"
-  - "[[SA1181]]"
-parallels_partilal:
-  - "[[SA-2.95]]"
-  - "[[SA1181]]"
-  - "[[DHP423]]"
-  - "[[AN3.58]]"
-  - "[[AN3.59]]"
-  - "[[ITI99]]"
-  - "[[MN91]]"
-  - "[[MN98]]"
-  - "[[SNP3.9]]"
-  - "[[SN7.8]]"
-  - "[[THIG4.1]]"
+parallels_nikaya: "[[DHP423]]"
+parallels_agama: "[[SA-2.95]], [[SA1181]]"
+parallels_partilal: "[[SA-2.95]], [[SA1181]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4.1]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.12]]  🌐 [[SN7.14]] ►
 
@@ -78,8 +63,7 @@ An offering brings success
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,8 +75,7 @@ An offering brings success
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN7.13%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN7.13%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -103,7 +86,7 @@ An offering brings success
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.13%5D%5D%22%23mynotes%20-file%3Asn7.13-%20-file%3A%22SN7.12%22%20-file%3A%22SN7.14%22%20-file%3A%22SN7.13%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.13

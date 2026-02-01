@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI60-PALI"
+sutta_code: "ITI60"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Puññakiriyavatthu "
+  - "Grounds for Making Merit"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI60-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI60]]
 > ◄  [[iti59-pali-sc]] 📜  [[iti61-pali-sc]] ►
 
 # Iti 60. Cakkhusuttaṃ
@@ -27,6 +27,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti60-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.36]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.36]], [[ITI22]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN3:4]], [[SN3:17]], [[SN3:20]], [[SN3:25]], [[ITI22]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI60]]
+> ◄  [[iti59-pali-sc]] 📜  [[iti61-pali-sc]] ►

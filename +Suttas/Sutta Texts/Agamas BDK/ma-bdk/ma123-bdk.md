@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA123]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA123]]
 > ◄  [[ma122-bdk]] 📜  [[ma124-bdk]] ►
 
 ### 123. The Discourse on the Renunciant Soṇa Kolivīsa
@@ -35,8 +35,7 @@ looking down on others, he told of the benefits here and now, according to his e
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma123-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ looking down on others, he told of the benefits here and now, according to his e
 | [[AN10.117]], [[AN10.118]], [[AN10.169]], [[AN10.170]], [[SN45.34]], [[SN46.17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA123]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA123]]
 > ◄  [[ma122-bdk]] 📜  [[ma124-bdk]] ►

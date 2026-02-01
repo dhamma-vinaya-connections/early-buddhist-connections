@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA114]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA114]]
 > ◄  [[ma113-bdk]] 📜  [[ma115-bdk]] ►
 
 ### 114. The Discourse on Uddaka [Rāmaputta]
@@ -21,8 +21,7 @@ it does not arise again. For a monk, this is called not knowing the root of the 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma114-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -37,6 +36,5 @@ it does not arise again. For a monk, this is called not knowing the root of the 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35:245AND41:5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA114]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA114]]
 > ◄  [[ma113-bdk]] 📜  [[ma115-bdk]] ►

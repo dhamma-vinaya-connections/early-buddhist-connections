@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP73-PALI"
+sutta_code: "DHP73"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP73-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP73]]
 > ◄  [[dhp72-pali-pts]] 📜  [[dhp74-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ mam'; evātivasā assu kiccākiccesu kismici", /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp73-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG11-PALI"
+sutta_code: "THAG11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Ekādasakanipātavagga "
+  - "Elevens Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG11]]
 > ◄  [[thag10-pali-sri]] 📜  [[thag12-pali-sri]] ►
 
 # 11. Ekadasaka-nipata - Pali
@@ -113,6 +113,5 @@ Ekādasanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag11-) 
 

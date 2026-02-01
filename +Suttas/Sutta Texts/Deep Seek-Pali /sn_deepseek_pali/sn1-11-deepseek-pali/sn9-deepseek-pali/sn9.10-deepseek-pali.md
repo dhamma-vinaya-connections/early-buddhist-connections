@@ -4,10 +4,10 @@ sutta_title:
   - "Sajjhāyasutta "
   - "Reciting"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.10]]
 > ◄  [[sn9.9-deepseek-pali]] 📜  [[sn9.11-deepseek-pali]] ►
 
 # SN 9.10 Sajjhāyasuttaṃ
@@ -31,8 +31,7 @@ Formerly there was delight in the teachings, until we met with dispassion. Since
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Formerly there was delight in the teachings, until we met with dispassion. Since
 | [[SA-2.357]], [[SA1337]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.10]]
 > ◄  [[sn9.9-deepseek-pali]] 📜  [[sn9.11-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "MN111"
 sutta_title:
   - "Anupada Sutta "
   - "One by One"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN111]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN111]]
 > ◄  [[mn110-sujato-pali]] 📜  [[mn112-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -137,8 +137,7 @@ Anupadasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn111-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -148,6 +147,5 @@ Anupadasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.34]], [[9.36]]]]; [[[[SN22.5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN111]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN111]]
 > ◄  [[mn110-sujato-pali]] 📜  [[mn112-sujato-pali]] ►

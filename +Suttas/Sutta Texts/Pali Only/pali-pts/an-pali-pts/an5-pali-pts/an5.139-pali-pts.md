@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.139-PALI"
+sutta_code: "AN5.139"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Appaṃsupati "
+  - "Sleep Little"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.139-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.139]]
 > ◄  [[an5.138-pali-pts]] 📜  [[an5.140-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,15 @@ Imehi kho bhikkhave pañcahi dhammehi samannāgato bhikkhu bhattādako ca hoti o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.139-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 157 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN2]], [[AN3.94]], [[AN5.139]], [[AN8.13]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.139]]
+> ◄  [[an5.138-pali-pts]] 📜  [[an5.140-pali-pts]] ►

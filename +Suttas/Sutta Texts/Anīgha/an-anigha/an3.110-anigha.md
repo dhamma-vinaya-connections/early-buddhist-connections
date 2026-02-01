@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.110]]
 > ◄  [[an3.109-anigha]] 📜  [[an3.121-anigha]] ►
 
 # AN 3.110 - Amiss
@@ -23,8 +23,7 @@ When the mind is not amiss, bodily, verbal, and mental actions are also not amis
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.110-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -34,6 +33,5 @@ When the mind is not amiss, bodily, verbal, and mental actions are also not amis
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.202]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.110]]
 > ◄  [[an3.109-anigha]] 📜  [[an3.121-anigha]] ►

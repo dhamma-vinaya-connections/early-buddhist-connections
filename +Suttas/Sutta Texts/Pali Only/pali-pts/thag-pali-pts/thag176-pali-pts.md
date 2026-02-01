@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG176-PALI"
+sutta_code: "THAG176"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG176-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG176]]
 > ◄  [[thag175-pali-pts]] 📜  [[thag177-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Nadanti evaṃ sappaññā sīhā va girigabbhare
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag176-) 
 

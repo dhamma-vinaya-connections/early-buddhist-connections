@@ -4,10 +4,10 @@ sutta_title:
   - "Araññasutta "
   - "Forest"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
 > ◄  [[sn1.9-deepseek-pali]] 📜  [[sn1.11-deepseek-pali]] ►
 
 # SN 1.10 Araññasuttaṃ
@@ -54,8 +54,7 @@ The Forest is called the tenth; therefore this is called the chapter.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -66,6 +65,5 @@ The Forest is called the tenth; therefore this is called the chapter.
 | [[SA-2.132]], [[SA995]], [[JA538]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
 > ◄  [[sn1.9-deepseek-pali]] 📜  [[sn1.11-deepseek-pali]] ►

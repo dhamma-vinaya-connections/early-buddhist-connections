@@ -4,10 +4,10 @@ sutta_title:
   - "Sariputta Sutta "
   - "Sāriputta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.10]]
 > ◄  [[ud4.9-deepseek-pali]] 📜  [[]] ►
 
 # Ud 4.10 Sāriputtaupasamasuttaṃ
@@ -47,9 +47,7 @@ Meghiya, the Agitated, the Cowherd, the Yakkha, with Nāga as the fifth; Piṇ�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.10-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.10]]
 > ◄  [[ud4.9-deepseek-pali]] 📜  [[]] ►

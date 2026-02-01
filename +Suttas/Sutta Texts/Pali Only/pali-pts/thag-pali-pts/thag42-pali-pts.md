@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG42-PALI"
+sutta_code: "THAG42"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG42-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG42]]
 > ◄  [[thag41-pali-pts]] 📜  [[thag43-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ yadi pi idham eva idham eva athavāpi alam eva alam eva;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag42-) 
 

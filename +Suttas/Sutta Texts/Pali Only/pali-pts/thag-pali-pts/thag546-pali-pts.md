@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG546-PALI"
+sutta_code: "THAG546"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG546-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG546]]
 > ◄  [[thag545-pali-pts]] 📜  [[thag547-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Anāgataṃ yo paṭigacca passati hitañ ca atthaṃ ahitañ ca taṃ dvayaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag546-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Vedana "
   - "Feelings"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI53]]
 > ◄  [[iti52-deepseek-pali]] 📜  [[iti54-deepseek-pali]] ►
 
 # Iti 53 Paṭhamaesanāsuttaṃ
@@ -29,8 +29,7 @@ This too was spoken by the Blessed One, so I heard. This is the fifth discourse.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti53-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This too was spoken by the Blessed One, so I heard. This is the fifth discourse.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.12]], [[DHP92]], [[DHP93]], [[MN44]], [[SN36.4]], [[SN36.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI53]]
 > ◄  [[iti52-deepseek-pali]] 📜  [[iti54-deepseek-pali]] ►

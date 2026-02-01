@@ -8,7 +8,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA62]]
 > ◄  [[ma61-bdk]] 📜  [[ma63-bdk]] ►
 
 ### 62. The Discourse on King Bimbisāra Meeting the Buddha
@@ -42,9 +42,7 @@ World-honored One, I now take refuge in the Buddha, the Dharma, and the communit
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma62-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA62]]
 > ◄  [[ma61-bdk]] 📜  [[ma63-bdk]] ►

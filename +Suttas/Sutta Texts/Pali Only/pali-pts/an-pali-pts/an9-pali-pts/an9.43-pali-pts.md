@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.43-PALI"
+sutta_code: "AN9.43"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sandiṭṭhikanibbāna "
+  - "Nibbana Is Visible In This Very Life"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.43-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.43]]
 > ◄  [[an9.42-pali-pts]] 📜  [[an9.44-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,15 @@ Yad eva tattha ākiñcaññāyatanasaññā aniruddhā hoti, ayam ettha sambādh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.43-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 451 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN121]], [[AN9.34]], [[SN2.7]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.43]]
+> ◄  [[an9.42-pali-pts]] 📜  [[an9.44-pali-pts]] ►

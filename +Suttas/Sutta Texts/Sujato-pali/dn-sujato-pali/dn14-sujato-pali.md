@@ -3,11 +3,11 @@ sutta_code: "DN14"
 sutta_title:
   - "Mahāpadāna Sutta "
   - "Great Discourse on the Harvest of Deeds"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN14]]
 > ◄  [[dn13-sujato-pali]] 📜  [[dn15-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -1282,8 +1282,7 @@ Mahāpadānasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -1298,6 +1297,5 @@ Mahāpadānasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN30]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN14]]
 > ◄  [[dn13-sujato-pali]] 📜  [[dn15-sujato-pali]] ►

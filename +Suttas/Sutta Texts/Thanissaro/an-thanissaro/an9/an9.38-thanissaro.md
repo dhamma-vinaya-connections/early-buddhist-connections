@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.38]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.38]]
 > ◄  [[an9.37-thanissaro]] 📜  [[an9.39-thanissaro]] ►
 
 ## AN9.38 To Two Brahmans
@@ -34,8 +34,7 @@ Then two brahman cosmologists [Ājīvakas] went to the Blessed One and, on arriv
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.38-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ Then two brahman cosmologists [Ājīvakas] went to the Blessed One and, on arriv
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.45]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.38]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.38]]
 > ◄  [[an9.37-thanissaro]] 📜  [[an9.39-thanissaro]] ►

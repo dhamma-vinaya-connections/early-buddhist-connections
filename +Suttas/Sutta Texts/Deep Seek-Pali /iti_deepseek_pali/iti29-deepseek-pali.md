@@ -4,10 +4,10 @@ sutta_title:
   - "Sukhavihāra "
   - "Living In Comfort"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI29]]
 > ◄  [[iti28-deepseek-pali]] 📜  [[iti30-deepseek-pali]] ►
 
 # Iti 29 Tapanīyasuttaṃ
@@ -29,6 +29,5 @@ This meaning, too, was spoken by the Blessed One—so I have heard. The Third.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti29-) 
 

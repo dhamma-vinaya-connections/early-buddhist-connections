@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN5.10-PALI"
+sutta_code: "SN5.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vajirāsutta "
+  - "Vajira"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
 > ◄  [[sn5.9-pali-pts]] 📜  [[]] ►
 
 ## Saṃyutta Nikāya
@@ -48,6 +48,16 @@ Selā Vajirāya te dasā ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.218]], [[SA1202]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.218]], [[SA1202]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
+> ◄  [[sn5.9-pali-pts]] 📜  [[]] ►

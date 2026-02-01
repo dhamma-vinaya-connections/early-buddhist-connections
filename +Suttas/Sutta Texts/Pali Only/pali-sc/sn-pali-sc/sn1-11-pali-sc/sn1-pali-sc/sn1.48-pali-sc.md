@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.48-PALI"
+sutta_code: "SN1.48"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Jetavanasutta "
+  - "Jeta's Grove"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.48-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.48]]
 > ◄  [[sn1.47-pali-sc]] 📜  [[sn1.49-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -63,6 +63,20 @@ etāvaparamo siyā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.48-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN143]], [[SN2.20]], [[SN55.26]] | [[EA51.8]], [[MA28]], [[SA-2.187]], [[SA1032]], [[SA593]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[MN143]], [[EA51.8]], [[MA28]], [[SA-2.187]], [[SA1032]], [[SA593]], [[SN2.20]], [[SN55.26]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN143]], [[MN140]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.48]]
+> ◄  [[sn1.47-pali-sc]] 📜  [[sn1.49-pali-sc]] ►

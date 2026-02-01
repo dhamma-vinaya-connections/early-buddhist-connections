@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG971-PALI"
+sutta_code: "THAG971"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG971-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG971]]
 > ◄  [[thag970-pali-pts]] 📜  [[thag972-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yo ca sīlena sampanno vītarāgo samāhito
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag971-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN64-PALI"
+sutta_code: "MN64"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahāmālukya Sutta "
+  - "Longer Discourse With Māluṅkya"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-pali-sri]] 📜  [[mn65-pali-sri]] ►
 
 # 64. Maha Malunkya Sutta - Pali
@@ -116,6 +116,16 @@ Mahāmāluṅkyasuttaṃ catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn64-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA205]] | M i 432 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA205]]; [[MN52]]; [[AN9.36]]; [[AN11.16]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
+> ◄  [[mn63-pali-sri]] 📜  [[mn65-pali-sri]] ►

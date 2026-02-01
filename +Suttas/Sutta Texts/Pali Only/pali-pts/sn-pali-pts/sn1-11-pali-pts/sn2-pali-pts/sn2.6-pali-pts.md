@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.6-PALI"
+sutta_code: "SN2.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kāmadasutta "
+  - "Kamada"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.6]]
 > ◄  [[sn2.5-pali-pts]] 📜  [[sn2.7-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -41,6 +41,16 @@ nāsiṃsati lokam imaṃ parañ cā ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.312]], [[SA1313]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.312]], [[SA1313]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.6]]
+> ◄  [[sn2.5-pali-pts]] 📜  [[sn2.7-pali-pts]] ►

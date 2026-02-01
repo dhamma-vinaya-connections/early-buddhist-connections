@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1218-PALI"
+sutta_code: "THAG1218"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1218-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1218]]
 > ◄  [[thag1217-pali-pts]] 📜  [[thag1219-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ mānaṃ pajahassu Gotama mānapathañ ca jahassu asesaṃ;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1218-) 
 

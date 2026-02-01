@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD6.2-PALI"
+sutta_code: "UD6.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Jatila Sutta "
+  - "Seclusion"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.2]]
 > ◄  [[ud6.1-pali-pts]] 📜  [[ud6.4-pali-pts]] ►
 
 ## Udāna
@@ -29,6 +29,20 @@ ediso dhammo, n'; ediso dhammo, n'; ediso dhammo ediso dhammo 'ti. atha kho samb
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN3.11]] | [[SA-2.71]], [[SA1148]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN3.11]], [[SA-2.71]], [[SA1148]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN95]], [[MN110]], [[AN4.192]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.2]]
+> ◄  [[ud6.1-pali-pts]] 📜  [[ud6.4-pali-pts]] ►

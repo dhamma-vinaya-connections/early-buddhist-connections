@@ -3,11 +3,11 @@ sutta_code: "AN5.76"
 sutta_title:
   - "Yodhajiva "
   - "Warriors 2nd"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.76]]
 > ◄  [[an5.75-sujato-pali]] 📜  [[an5.77-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -143,8 +143,7 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.76-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -159,6 +158,5 @@ Chaṭṭhaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.99]], [[AN11.17]], [[AN3.16]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN4.37]], [[AN5.140]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[MN27]], [[AN10.33]], [[AN1038]], [[AN1039]], [[AN10.51]], [[AN10.53]], [[AN10.60]], [[AN10.76]], [[AN10.79]], [[AN10.94]], [[AN10.101]], [[AN10.107]], [[AN10.112]], [[SN35.120]], [[AN35.127]], [[AN35.240]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.76]]
 > ◄  [[an5.75-sujato-pali]] 📜  [[an5.77-sujato-pali]] ►

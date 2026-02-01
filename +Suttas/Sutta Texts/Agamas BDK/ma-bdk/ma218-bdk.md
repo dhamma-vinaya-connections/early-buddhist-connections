@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA218]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA218]]
 > ◄  [[ma217-bdk]] 📜  [[ma219-bdk]] ►
 
 ### 218. The [First] Discourse by Anuruddha
@@ -21,6 +21,5 @@ The venerable Anuruddha answered, “Venerable friends, ask whatever you wish to
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma218-) 
 

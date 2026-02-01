@@ -3,11 +3,11 @@ sutta_code: "UD2.3"
 sutta_title:
   - "Danda Sutta "
   - "The Stick"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
 > ◄  [[ud2.2-anandajoti-pali]] 📜  [[ud2.4-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -55,8 +55,7 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Tatiyaṁ.
 | [[DHP131]], [[DHP132]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
 > ◄  [[ud2.2-anandajoti-pali]] 📜  [[ud2.4-anandajoti-pali]] ►

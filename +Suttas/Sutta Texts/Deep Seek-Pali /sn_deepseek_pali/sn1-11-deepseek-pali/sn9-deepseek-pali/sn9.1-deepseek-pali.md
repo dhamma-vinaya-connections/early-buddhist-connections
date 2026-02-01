@@ -4,10 +4,10 @@ sutta_title:
   - "Vivekasutta "
   - "Seclusion"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.1]]
 > ◄  [[]] 📜  [[sn9.2-deepseek-pali]] ►
 
 # SN 9.1 Vivekasuttaṃ
@@ -39,8 +39,7 @@ Then that bhikkhu, stirred by that deity, attained to urgency.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then that bhikkhu, stirred by that deity, attained to urgency.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.1]]
 > ◄  [[]] 📜  [[sn9.2-deepseek-pali]] ►

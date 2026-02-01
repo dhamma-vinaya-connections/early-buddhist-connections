@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.175-PALI"
+sutta_code: "AN4.175"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Upavāṇa "
+  - "With Upavāṇa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.175-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.175]]
 > ◄  [[an4.174-pali-sc]] 📜  [[an4.176-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -55,6 +55,16 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.175-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN43]] | [[MA211]], [[SA251]] | A ii 163 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA251]], [[MA211]], [[MN43]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.175]]
+> ◄  [[an4.174-pali-sc]] 📜  [[an4.176-pali-sc]] ►

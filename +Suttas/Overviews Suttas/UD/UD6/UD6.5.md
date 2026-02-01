@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Blind men discerning one part of elephant, like religious people attached to their view"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - ""
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: ""
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.4]]  🌐 [[UD6.6]] ►
 
@@ -72,8 +68,7 @@ they don’t escape transmigration
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -88,8 +83,7 @@ they don’t escape transmigration
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN2]], [[SN12.20]], [[SN12.35]], [[SN12.67]], [[AN3:62]], [[SN12:20]], [[SN12.35]], [[SN12.67]], [[AN3.62]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD6.5%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD6.5%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -100,7 +94,7 @@ they don’t escape transmigration
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD6.5%5D%5D%22%23mynotes%20-file%3Aud6.5-%20-file%3A%22UD6.4%22%20-file%3A%22UD6.6%22%20-file%3A%22UD6.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud6.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.5

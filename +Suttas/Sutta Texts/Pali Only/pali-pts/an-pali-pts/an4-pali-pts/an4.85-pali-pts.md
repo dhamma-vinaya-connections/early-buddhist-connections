@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.85-PALI"
+sutta_code: "AN4.85"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Tamotama "
+  - "Darkness To Darkness"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.85-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.85]]
 > ◄  [[an4.84-pali-pts]] 📜  [[an4.86-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Saddhammagaru hoti na kodhagaru, saddhammagaru hoti na makkhagaru, saddhammagaru
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.85-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 85 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN3.21]], [[PE8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.85]]
+> ◄  [[an4.84-pali-pts]] 📜  [[an4.86-pali-pts]] ►

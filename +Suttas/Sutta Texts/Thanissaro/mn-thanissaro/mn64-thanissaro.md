@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-thanissaro]] 📜  [[mn66-thanissaro]] ►
 
 ## MN64 The Longer Exhortation to Māluṅkya
@@ -90,8 +90,7 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn64-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -102,6 +101,5 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 | [[MA205]]; [[MN52]]; [[AN9.36]]; [[AN11.16]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-thanissaro]] 📜  [[mn66-thanissaro]] ►

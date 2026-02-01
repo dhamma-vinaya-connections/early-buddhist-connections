@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG413-PALI"
+sutta_code: "THAG413"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG413-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG413]]
 > ◄  [[thag412-pali-pts]] 📜  [[thag414-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ purimāni pamuñca bandhanāni saṃghāṭīkhuramuṇḍabhikkhabhojī,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag413-) 
 

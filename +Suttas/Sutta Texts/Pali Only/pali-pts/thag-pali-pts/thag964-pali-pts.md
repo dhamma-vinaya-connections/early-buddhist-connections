@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG964-PALI"
+sutta_code: "THAG964"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG964-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG964]]
 > ◄  [[thag963-pali-pts]] 📜  [[thag965-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ milakkhurajanaṃ rattaṃ garahantā sakaṃ dhajaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag964-) 
 

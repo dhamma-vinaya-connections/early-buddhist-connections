@@ -4,10 +4,10 @@ sutta_title:
   - "Ākaṅkheyya Sutta "
   - "One Might Wish"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
 > ◄  [[mn5-deepseek-pali]] 📜  [[mn7-deepseek-pali]] ►
 
 # 6. Ākaṅkheyyasuttaṃ
@@ -107,8 +107,7 @@ The Ākaṅkheyya Sutta, the Sixth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -119,6 +118,5 @@ The Ākaṅkheyya Sutta, the Sixth, is concluded.
 | [[AN10.71]]; [[MA105]]; [[AN2.36:2.1]]; [[DN2]]; [[SN47.46]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
 > ◄  [[mn5-deepseek-pali]] 📜  [[mn7-deepseek-pali]] ►

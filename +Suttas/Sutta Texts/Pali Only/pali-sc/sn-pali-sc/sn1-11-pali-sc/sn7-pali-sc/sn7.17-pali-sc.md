@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.17-PALI"
+sutta_code: "SN7.17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Navakammikasutta "
+  - "Navakammika"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
 > ◄  [[sn7.16-pali-sc]] 📜  [[sn7.18-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -40,6 +40,16 @@ Eko rame aratiṁ vippahāyā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.96]], [[SA1182]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.96]], [[SA1182]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
+> ◄  [[sn7.16-pali-sc]] 📜  [[sn7.18-pali-sc]] ►

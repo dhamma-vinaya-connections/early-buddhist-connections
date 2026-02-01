@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG261-PALI"
+sutta_code: "THIG261"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG261-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG261]]
 > ◄  [[thig260-pali-pts]] 📜  [[thig262-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ saṇhakampurī va suppamajjitā sobhate su gīvā pure mama |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig261-) 
 

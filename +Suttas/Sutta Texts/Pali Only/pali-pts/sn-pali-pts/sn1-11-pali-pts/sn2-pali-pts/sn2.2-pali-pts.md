@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.2-PALI"
+sutta_code: "SN2.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dutiyakassapasutta "
+  - "Kassapa (2)"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.2]]
 > ◄  [[sn2.1-pali-pts]] 📜  [[sn2.3-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -34,6 +34,16 @@ mando maccumukhaṃ patto || akkhachinno va jhāyatīti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.317]], [[SA1318]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.317]], [[SA1318]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.2]]
+> ◄  [[sn2.1-pali-pts]] 📜  [[sn2.3-pali-pts]] ►

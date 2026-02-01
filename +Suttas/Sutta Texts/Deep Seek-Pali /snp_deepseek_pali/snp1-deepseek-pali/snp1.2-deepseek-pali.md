@@ -4,10 +4,10 @@ sutta_title:
   - "Dhaniya "
   - "With Dhaniya the Cowherd"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.2]]
 > ◄  [[snp1.1-deepseek-pali]] 📜  [[snp1.3-deepseek-pali]] ►
 
 # Snp 1.2 Dhaniyasuttaṃ
@@ -128,8 +128,7 @@ The Dhaniya Sutta, the second, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -144,6 +143,5 @@ The Dhaniya Sutta, the second, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD5:5]], [[SNP4:4]], [[SN35:28]], [[ITI93]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.2]]
 > ◄  [[snp1.1-deepseek-pali]] 📜  [[snp1.3-deepseek-pali]] ►

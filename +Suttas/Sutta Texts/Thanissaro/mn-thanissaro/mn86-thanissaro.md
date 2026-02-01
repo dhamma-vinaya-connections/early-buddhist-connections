@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
 > ◄  [[mn85-thanissaro]] 📜  [[mn87-thanissaro]] ►
 
 ## MN86 About Aṅgulimāla
@@ -336,8 +336,7 @@ done.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn86-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -352,6 +351,5 @@ done.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG16.8]], [[AN3.99]], [[DHP172]], [[DHP173]], [[DHP80]], [[DHP26]], [[DHP27]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
 > ◄  [[mn85-thanissaro]] 📜  [[mn87-thanissaro]] ►

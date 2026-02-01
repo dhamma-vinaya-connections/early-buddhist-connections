@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.22-PALI"
+sutta_code: "AN3.22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Gilāna "
+  - "Patients"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.22]]
 > ◄  [[an3.21-pali-sri]] 📜  [[an3.23-pali-sri]] ►
 
 # 5:22 Akkosakavaggo - Pali
@@ -244,6 +244,11 @@ Apāsādikā dve vuttā aggismiṃ madhurāya2 cā’ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 120 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.22]]
+> ◄  [[an3.21-pali-sri]] 📜  [[an3.23-pali-sri]] ►

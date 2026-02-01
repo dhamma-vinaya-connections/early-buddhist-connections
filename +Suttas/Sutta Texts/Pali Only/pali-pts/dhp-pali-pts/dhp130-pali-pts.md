@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP130-PALI"
+sutta_code: "DHP130"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP130-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP130]]
 > ◄  [[dhp129-pali-pts]] 📜  [[dhp131-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ sukhakāmāni bhūtāni yo daṇḍena vihiṃsati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp130-) 
 

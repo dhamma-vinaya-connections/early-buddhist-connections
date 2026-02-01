@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA73]]
 > ◄  [[ma72-bdk]] 📜  [[ma74-bdk]] ►
 
 ### 73. The Discourse on Devas
@@ -29,8 +29,7 @@ with them, converse with them, and get a response from them; know the family nam
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma73-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -40,6 +39,5 @@ with them, converse with them, and get a response from them; know the family nam
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA72]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA73]]
 > ◄  [[ma72-bdk]] 📜  [[ma74-bdk]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG790-PALI"
+sutta_code: "THAG790"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG790-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG790]]
 > ◄  [[thag789-pali-pts]] 📜  [[thag791-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ etam ādīnavaṃ disvā saṃvegaṃ alabhiṃ tadā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag790-) 
 

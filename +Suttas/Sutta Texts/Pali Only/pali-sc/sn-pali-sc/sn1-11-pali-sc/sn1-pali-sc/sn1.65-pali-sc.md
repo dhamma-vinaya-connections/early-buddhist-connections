@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.65-PALI"
+sutta_code: "SN1.65"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bandhanasutta "
+  - "Bondage"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.65-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.65]]
 > ◄  [[sn1.64-pali-sc]] 📜  [[sn1.66-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -45,6 +45,5 @@ sabbaṁ chindati bandhanan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.65-) 
 

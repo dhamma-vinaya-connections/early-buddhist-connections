@@ -4,10 +4,10 @@ sutta_title:
   - "Āṭānāṭiya Sutta "
   - "Āṭānāṭiya Protection"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
 > ◄  [[dn31-deepseek-pali]] 📜  [[dn33-deepseek-pali]] ►
 
 # Āṭānāṭiyasuttaṃ
@@ -583,12 +583,11 @@ The Āṭānāṭiya Discourse, the Ninth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn32-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | D iii 194 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
 > ◄  [[dn31-deepseek-pali]] 📜  [[dn33-deepseek-pali]] ►

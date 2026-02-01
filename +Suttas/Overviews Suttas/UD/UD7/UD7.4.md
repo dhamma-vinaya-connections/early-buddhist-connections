@@ -34,15 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "fish caught in net, like people caught by sensual pleasures"
-parallels_nikaya:
-  - "[[DHP334]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[THAG4.8]]"
-  - "[[DHP334]]"
-  - "[[PE2]]"
+parallels_nikaya: "[[DHP334]]"
+parallels_agama: ""
+parallels_partilal: "[[THAG4.8]], [[DHP334]], [[PE2]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.3]]  🌐 [[UD7.5]] ►
 
@@ -73,8 +67,7 @@ like a suckling calf its mother
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,8 +82,7 @@ like a suckling calf its mother
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG4.8]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD7.4%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD7.4%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -101,7 +93,7 @@ like a suckling calf its mother
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD7.4%5D%5D%22%23mynotes%20-file%3Aud7.4-%20-file%3A%22UD7.3%22%20-file%3A%22UD7.5%22%20-file%3A%22UD7.4%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud7.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.4

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.38-PALI"
+sutta_code: "SN1.38"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sakalikasutta "
+  - "The Stone Splinter"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.38-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.38]]
 > ◄  [[sn1.37-pali-sc]] 📜  [[sn1.39-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -60,6 +60,20 @@ Sa maccudheyyassa tareyya pāran"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.38-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.287]], [[SA1289]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.287]], [[SA1289]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN20]], [[SN4.13]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.38]]
+> ◄  [[sn1.37-pali-sc]] 📜  [[sn1.39-pali-sc]] ►

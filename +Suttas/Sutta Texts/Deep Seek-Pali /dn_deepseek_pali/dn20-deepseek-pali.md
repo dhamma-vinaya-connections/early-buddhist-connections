@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsamaya "
   - "Great Congregation"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
 > ◄  [[dn19-deepseek-pali]] 📜  [[dn21-deepseek-pali]] ►
 
 # Mahāsamayasuttaṃ
@@ -367,8 +367,7 @@ Then the Teacher addressed his disciples, who delighted in the teaching.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -379,6 +378,5 @@ Then the Teacher addressed his disciples, who delighted in the teaching.
 | [[DA19]], [[SA-2.105]], [[SA1192]], [[SN1.37]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
 > ◄  [[dn19-deepseek-pali]] 📜  [[dn21-deepseek-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
 > ◄  [[snp2.4-thanissaro]] 📜  [[snp2.6-thanissaro]] ►
 
 # 2:5  Suciloma
@@ -97,8 +97,7 @@ vv. 270–273
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -113,6 +112,5 @@ vv. 270–273
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN21]], [[SNP4:11]], [[DHP1]], [[DHP2]], [[DHP347]], [[UD1.7]], [[UD4.4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
 > ◄  [[snp2.4-thanissaro]] 📜  [[snp2.6-thanissaro]] ►

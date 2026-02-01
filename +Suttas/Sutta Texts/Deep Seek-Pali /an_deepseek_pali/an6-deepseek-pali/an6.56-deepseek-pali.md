@@ -4,10 +4,10 @@ sutta_title:
   - "Phagguna "
   - "With Phagguṇa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
 > ◄  [[an6.55-deepseek-pali]] 📜  [[an6.57-deepseek-pali]] ►
 
 # AN 6.56 Phaggunasuttaṃ
@@ -75,8 +75,7 @@ Soon after the Blessed One had left, Venerable Phagguna passed away. And at the 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.56-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ Soon after the Blessed One had left, Venerable Phagguna passed away. And at the 
 | [[SA1023]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
 > ◄  [[an6.55-deepseek-pali]] 📜  [[an6.57-deepseek-pali]] ►

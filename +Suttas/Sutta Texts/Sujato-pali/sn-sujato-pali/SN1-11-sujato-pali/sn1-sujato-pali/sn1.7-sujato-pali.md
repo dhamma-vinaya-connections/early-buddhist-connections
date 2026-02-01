@@ -3,11 +3,11 @@ sutta_code: "SN1.7"
 sutta_title:
   - "Appaṭividitasutta "
   - "Not Penetrated"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
 > ◄  [[sn1.6-sujato-pali]] 📜  [[sn1.8-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -57,8 +57,7 @@ Caranti visame saman"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ Caranti visame saman"ti.
 | [[SA-2.164]], [[SA579]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
 > ◄  [[sn1.6-sujato-pali]] 📜  [[sn1.8-sujato-pali]] ►

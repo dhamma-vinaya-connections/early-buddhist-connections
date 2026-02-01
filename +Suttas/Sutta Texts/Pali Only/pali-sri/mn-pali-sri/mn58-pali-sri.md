@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN58-PALI"
+sutta_code: "MN58"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Abhayarājakumāra Sutta "
+  - "With Prince Abhaya"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
 > ◄  [[mn57-pali-sri]] 📜  [[mn59-pali-sri]] ►
 
 # 58. Abhayarajakumara Sutta - Pali
@@ -78,6 +78,15 @@ Abhayarājakumārasuttaṃ aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn58-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M i 392 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.24]]; [[AN4.42]]; [[AN4.183]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
+> ◄  [[mn57-pali-sri]] 📜  [[mn59-pali-sri]] ►

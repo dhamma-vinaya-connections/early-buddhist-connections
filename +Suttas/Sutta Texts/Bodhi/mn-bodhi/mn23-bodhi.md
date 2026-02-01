@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
 > ◄  [[mn22-bodhi]] 📜  [[mn24-bodhi]] ►
 
 # MN23 Vammika Sutta - The Ant-hill
@@ -79,8 +79,7 @@ That is what the Blessed One said. The venerable Kumāra Kassapa was satisfied a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ That is what the Blessed One said. The venerable Kumāra Kassapa was satisfied a
 | [[EA39.9]]; [[SA-2.18]]; [[SA1079]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
 > ◄  [[mn22-bodhi]] 📜  [[mn24-bodhi]] ►

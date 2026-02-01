@@ -4,10 +4,10 @@ sutta_title:
   - "Appamādasutta "
   - "Diligence (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.17]]
 > ◄  [[sn3.16-deepseek-pali]] 📜  [[sn3.18-deepseek-pali]] ►
 
 # SN 3.17 Appamādasuttaṃ
@@ -47,8 +47,7 @@ The steadfast one, by the attainment of welfare—both the welfare in this prese
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ The steadfast one, by the attainment of welfare—both the welfare in this prese
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN55.40]], [[SN48.56 AN4.37]], [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[DHP315]], [[SN2.10]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.17]]
 > ◄  [[sn3.16-deepseek-pali]] 📜  [[sn3.18-deepseek-pali]] ►

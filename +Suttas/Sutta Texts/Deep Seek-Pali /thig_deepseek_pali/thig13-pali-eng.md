@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG13-PALI"
+sutta_code: "THIG13"
 sutta_title:
-  - " "
-  - ""
+  - "Vīsatinipātavagga "
+  - "Twenties Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG13]]
 > ◄  [[thig12-pali-eng]] 📜  [[thig14-pali-eng]] ►
 
 # Thig 13. Vīsatinipāto
@@ -584,6 +584,5 @@ The Chapter of the Twenties is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig13-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Pāsāṇasutta "
   - "Boulder"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
 > ◄  [[sn4.10-deepseek-pali]] 📜  [[sn4.12-deepseek-pali]] ►
 
 # SN 4.11 Pāsāṇasuttaṃ
@@ -35,8 +35,7 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 | [[SA-2.27]], [[SA1088]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
 > ◄  [[sn4.10-deepseek-pali]] 📜  [[sn4.12-deepseek-pali]] ►

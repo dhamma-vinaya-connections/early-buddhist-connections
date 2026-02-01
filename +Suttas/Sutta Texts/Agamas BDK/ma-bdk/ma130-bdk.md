@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA130]]
 > ◄  [[ma129-bdk]] 📜  [[ma132]] ►
 
 ### 130. The Discourse on  Teaching Dhammika
@@ -35,8 +35,7 @@ Anyone who might deride, condemn, or attack him Would be committing an even more
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma130-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Anyone who might deride, condemn, or attack him Would be committing an even more
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.61]], [[AN3.99]], [[AN7.62]], [[MA13]], [[SN35.145]], [[SN36.21]], [[SN42.11]], [[SN42.8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA130]]
 > ◄  [[ma129-bdk]] 📜  [[ma132]] ►

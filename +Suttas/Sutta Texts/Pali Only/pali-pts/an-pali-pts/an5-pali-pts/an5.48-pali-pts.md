@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.48-PALI"
+sutta_code: "AN5.48"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Alabbhanīyaṭhāna "
+  - "Cannot Be Had"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.48-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
 > ◄  [[an5.47-pali-pts]] 📜  [[an5.49-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Pañc'; imāni bhikkhave alabbhanīyāni ṭhānāni samaṇena vā brāhmaṇen
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.48-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA34.6]] | A iii 54 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA34.6]], [[JA368]], [[AN5.50]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
+> ◄  [[an5.47-pali-pts]] 📜  [[an5.49-pali-pts]] ►

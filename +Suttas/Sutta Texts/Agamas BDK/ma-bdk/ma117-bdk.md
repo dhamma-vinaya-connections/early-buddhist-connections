@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA117]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA117]]
 > ◄  [[ma116-bdk]] 📜  [[ma118-bdk]] ►
 
 ### 117. The Discourse on Delicate [Upbringing]
@@ -23,8 +23,7 @@ Again I thought, “I am myself subject to old age, not exempt from old age. If 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma117-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ Again I thought, “I am myself subject to old age, not exempt from old age. If 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN4.15]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA117]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA117]]
 > ◄  [[ma116-bdk]] 📜  [[ma118-bdk]] ►

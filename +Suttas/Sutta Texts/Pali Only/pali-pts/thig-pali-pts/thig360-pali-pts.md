@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG360-PALI"
+sutta_code: "THIG360"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG360-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG360]]
 > ◄  [[thig359-pali-pts]] 📜  [[thig361-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ asokaṃ virajaṃ khemaṃ ariyaṭṭhaṅgikaṃ ujuṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig360-) 
 

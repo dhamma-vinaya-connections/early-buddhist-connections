@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.91]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.91]]
 > ◄  [[an3.90-bodhi]] 📜  [[an3.92-bodhi]] ►
 
 # AN3.91 Paṅkadhā
@@ -43,8 +43,7 @@ Then the bhikkhu Kassapagotta cleaned up his lodging, took his bowl and robe, an
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.91-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then the bhikkhu Kassapagotta cleaned up his lodging, took his bowl and robe, an
 | [[SA830-831]], [[AN3.84]], [[SA829]], [[SN54.10]], [[SA813]], [[AN10.83]], [[SA966]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.91]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.91]]
 > ◄  [[an3.90-bodhi]] 📜  [[an3.92-bodhi]] ►

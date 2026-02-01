@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.19-PALI"
+sutta_code: "AN8.19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Uposatha "
+  - "Sabbath"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
 > ◄  [[an8.18-pali-pts]] 📜  [[an8.20-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Imehi kho bhikkhave aṭṭhah'; ākārehi puriso itthiṃ bandhati. Tehi bhikkh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA42.4]], [[MA35]] | A iv 197 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA42.4]], [[MA35]], [[PLI-TV-KD19]], [[UD5.5]], [[AN8.20]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
+> ◄  [[an8.18-pali-pts]] 📜  [[an8.20-pali-pts]] ►

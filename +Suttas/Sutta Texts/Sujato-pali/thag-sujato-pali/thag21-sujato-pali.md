@@ -3,11 +3,11 @@ sutta_code: "THAG21"
 sutta_title:
   - "Vaṅgīsattheragāthā "
   - "Vaṅgīsa"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG21]]
 > ◄  [[thag20-sujato-pali]] 📜  [[]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -844,6 +844,5 @@ nāgaṁ nāgassa orasan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag21-) 
 

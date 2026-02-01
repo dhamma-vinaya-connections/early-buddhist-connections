@@ -4,10 +4,10 @@ sutta_title:
   - "Sugatavinaya "
   - "Training Of A Holy One"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.160]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.160]]
 > ◄  [[an4.159-deepseek-pali]] 📜  [[an4.161-deepseek-pali]] ►
 
 # AN 4.160 Sugatavinayasuttaṃ
@@ -79,8 +79,7 @@ Faculties, faith, wisdom, mindfulness, and exertion as the fifth; An eon, diseas
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.160-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ Faculties, faith, wisdom, mindfulness, and exertion as the fifth; An eon, diseas
 | [[AN5.156]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.160]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.160]]
 > ◄  [[an4.159-deepseek-pali]] 📜  [[an4.161-deepseek-pali]] ►

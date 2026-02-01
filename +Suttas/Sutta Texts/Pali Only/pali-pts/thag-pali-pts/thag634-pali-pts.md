@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG634-PALI"
+sutta_code: "THAG634"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG634-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG634]]
 > ◄  [[thag633-pali-pts]] 📜  [[thag635-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yaṃ hi kiccaṃ tad apaviddhaṃ, akiccaṃ pana kayirati;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag634-) 
 

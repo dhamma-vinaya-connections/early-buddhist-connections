@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG912-PALI"
+sutta_code: "THAG912"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG912-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG912]]
 > ◄  [[thag911-pali-pts]] 📜  [[thag913-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ pubbenivāsaṃ jānāmi yattha me vusitaṃ pure,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag912-) 
 

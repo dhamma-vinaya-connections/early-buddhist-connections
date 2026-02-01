@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.24]]
 > ◄  [[an8.23-thanissaro]] 📜  [[an8.26-thanissaro]] ►
 
 ## AN8.24 About Hatthaka (2)
@@ -32,8 +32,7 @@ Then, having been instructed, urged, roused, & encouraged by the Blessed One wit
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -48,6 +47,5 @@ Then, having been instructed, urged, roused, & encouraged by the Blessed One wit
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.32]], [[AN4.256]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.24]]
 > ◄  [[an8.23-thanissaro]] 📜  [[an8.26-thanissaro]] ►

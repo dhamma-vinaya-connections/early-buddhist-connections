@@ -3,11 +3,11 @@ sutta_code: "DN1"
 sutta_title:
   - "Brahmajāla Sutta "
   - "Prime Net"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
 > ◄  [[]] 📜  [[dn2-sujato-pali]] ►
 
 ## 1: The Brahmajāla Sutta — The Prime Net
@@ -1254,8 +1254,7 @@ Brahmajālasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -1270,6 +1269,5 @@ Brahmajālasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN102]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
 > ◄  [[]] 📜  [[dn2-sujato-pali]] ►

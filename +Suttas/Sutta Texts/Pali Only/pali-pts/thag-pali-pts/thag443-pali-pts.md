@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG443-PALI"
+sutta_code: "THAG443"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG443-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG443]]
 > ◄  [[thag442-pali-pts]] 📜  [[thag444-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ubhinnaṃ tikicchantan taṃ attano ca parassa ca
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag443-) 
 

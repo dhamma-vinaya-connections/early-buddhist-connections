@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG387-PALI"
+sutta_code: "THAG387"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG387-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG387]]
 > ◄  [[thag386-pali-pts]] 📜  [[thag388-pali-pts]] ►
 
 ## Theragāthā
@@ -20,6 +20,5 @@ parihāyati saddhammā maccho appodake yathā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag387-) 
 

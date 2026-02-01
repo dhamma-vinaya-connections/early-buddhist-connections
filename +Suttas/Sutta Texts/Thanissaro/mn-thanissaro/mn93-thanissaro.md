@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn91-thanissaro]] 📜  [[mn95-thanissaro]] ►
 
 ## MN93 With Assalāyana
@@ -158,8 +158,7 @@ When this was said, the brahman student Assalāyana said to the Blessed One: “
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn93-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -170,6 +169,5 @@ When this was said, the brahman student Assalāyana said to the Blessed One: “
 | [[EA40.9]]; [[MA151]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn91-thanissaro]] 📜  [[mn95-thanissaro]] ►

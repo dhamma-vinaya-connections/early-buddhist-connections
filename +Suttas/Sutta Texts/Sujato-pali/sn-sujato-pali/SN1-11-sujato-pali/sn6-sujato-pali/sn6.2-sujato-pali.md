@@ -3,11 +3,11 @@ sutta_code: "SN6.2"
 sutta_title:
   - "Gāravasutta "
   - "Reverence"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
 > ◄  [[sn6.1-sujato-pali]] 📜  [[sn6.3-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -105,8 +105,7 @@ saraṁ buddhāna sāsanan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -117,6 +116,5 @@ saraṁ buddhāna sāsanan"ti.
 | [[AN4.21]], [[SA-2.101]], [[SA1188]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
 > ◄  [[sn6.1-sujato-pali]] 📜  [[sn6.3-sujato-pali]] ►

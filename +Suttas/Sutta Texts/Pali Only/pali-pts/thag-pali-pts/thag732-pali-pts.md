@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG732-PALI"
+sutta_code: "THAG732"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG732-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG732]]
 > ◄  [[thag731-pali-pts]] 📜  [[thag733-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ambilamadhuraggañ ca tittakaggam anussaraṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag732-) 
 

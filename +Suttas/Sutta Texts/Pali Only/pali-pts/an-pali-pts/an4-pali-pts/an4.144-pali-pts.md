@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.144-PALI"
+sutta_code: "AN4.144"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ābhā "
+  - "Brightness"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.144-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.144]]
 > ◄  [[an4.143-pali-pts]] 📜  [[an4.145-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,11 @@ Ime kho bhikkhave cattāro obhāsā, etadaggaṃ bhikkhave imesaṃ catunnaṃ y
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.144-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 139 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.144]]
+> ◄  [[an4.143-pali-pts]] 📜  [[an4.145-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG152-PALI"
+sutta_code: "THAG152"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG152-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG152]]
 > ◄  [[thag151-pali-pts]] 📜  [[thag153-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Bahū sapatte labhati muṇḍo saṃghāṭipāruto
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag152-) 
 

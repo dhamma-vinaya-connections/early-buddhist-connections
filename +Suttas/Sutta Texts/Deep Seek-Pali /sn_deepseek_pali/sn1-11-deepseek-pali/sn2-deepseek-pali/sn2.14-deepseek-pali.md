@@ -4,10 +4,10 @@ sutta_title:
   - "Nandanasutta "
   - "Nandana"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.14]]
 > ◄  [[sn2.13-deepseek-pali]] 📜  [[sn2.15-deepseek-pali]] ►
 
 # SN 2.14 Nandanasuttaṃ
@@ -41,8 +41,7 @@ The devas honor one of such a kind."
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -53,6 +52,5 @@ The devas honor one of such a kind."
 | [[SA-2.182]], [[SA597]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.14]]
 > ◄  [[sn2.13-deepseek-pali]] 📜  [[sn2.15-deepseek-pali]] ►

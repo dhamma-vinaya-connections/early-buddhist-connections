@@ -4,10 +4,10 @@ sutta_title:
   - "Kalahavivādasutta "
   - "Quarrels and Disputes"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
 > ◄  [[snp4.10-deepseek-pali]] 📜  [[snp4.12-deepseek-pali]] ►
 
 # Snp 4.11 Kalahavivādasuttaṃ
@@ -229,9 +229,7 @@ The Shorter Discourse on the Array, the twelfth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.11-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
 > ◄  [[snp4.10-deepseek-pali]] 📜  [[snp4.12-deepseek-pali]] ►

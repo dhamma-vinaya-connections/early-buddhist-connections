@@ -3,11 +3,11 @@ sutta_code: "SNP1.10"
 sutta_title:
   - "Āḷavakasutta "
   - "With Āḷavakasutta"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
 > ◄  [[snp1.9-sujato-pali]] 📜  [[snp1.11-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -257,8 +257,7 @@ Dhammassa ca sudhammatan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -273,6 +272,5 @@ Dhammassa ca sudhammatan"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN35]], [[SN2.5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
 > ◄  [[snp1.9-sujato-pali]] 📜  [[snp1.11-sujato-pali]] ►

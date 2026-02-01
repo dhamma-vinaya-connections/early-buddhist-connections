@@ -4,10 +4,10 @@ sutta_title:
   - "Sallekha Sutta "
   - "Self-Effacement"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN8]]
 > ◄  [[mn7-deepseek-pali]] 📜  [[mn9-deepseek-pali]] ►
 
 # 8. Sallekhasuttaṃ
@@ -107,8 +107,7 @@ The Sallekha Sutta, the eighth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -123,6 +122,5 @@ The Sallekha Sutta, the eighth, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN3]], [[MN15]], [[MN7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN8]]
 > ◄  [[mn7-deepseek-pali]] 📜  [[mn9-deepseek-pali]] ►

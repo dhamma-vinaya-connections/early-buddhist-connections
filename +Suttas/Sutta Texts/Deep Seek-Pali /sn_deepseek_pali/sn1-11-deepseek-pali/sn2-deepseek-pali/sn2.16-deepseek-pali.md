@@ -4,10 +4,10 @@ sutta_title:
   - "Vāsudattasutta "
   - "Vasudatta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
 > ◄  [[sn2.15-deepseek-pali]] 📜  [[sn2.17-deepseek-pali]] ►
 
 # SN 2.16 Vāsudattasuttaṃ
@@ -33,8 +33,7 @@ A mindful bhikkhu should wander, for the abandoning of self-identification."
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ A mindful bhikkhu should wander, for the abandoning of self-identification."
 | [[SN1.21]], [[SA-2.170]], [[SA586]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
 > ◄  [[sn2.15-deepseek-pali]] 📜  [[sn2.17-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Jantusutta "
   - "Jantu"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.25]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.25]]
 > ◄  [[sn2.24-deepseek-pali]] 📜  [[sn2.26-deepseek-pali]] ►
 
 # SN 2.25 Jantusuttaṃ
@@ -43,8 +43,7 @@ Then the devaputta Jantu, on the fifteenth, the Uposatha day, approached those b
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.25-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then the devaputta Jantu, on the fifteenth, the Uposatha day, approached those b
 | [[SA-2.363]], [[SA1343]], [[SN9.13]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.25]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.25]]
 > ◄  [[sn2.24-deepseek-pali]] 📜  [[sn2.26-deepseek-pali]] ►

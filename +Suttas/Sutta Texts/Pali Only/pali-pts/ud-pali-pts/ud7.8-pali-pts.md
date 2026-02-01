@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD7.8-PALI"
+sutta_code: "UD7.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kaccana Sutta "
+  - "Kaccāyana"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8]]
 > ◄  [[ud7.5-pali-pts]] 📜  [[ud8.5-pali-pts]] ►
 
 ## Udāna
@@ -51,6 +51,7 @@ evam me sutam. ekaṃ samayaṃ bhagavā Mallesu cārikaṃ caramāno mahatā bh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.8]]
+> ◄  [[ud7.5-pali-pts]] 📜  [[ud8.5-pali-pts]] ►

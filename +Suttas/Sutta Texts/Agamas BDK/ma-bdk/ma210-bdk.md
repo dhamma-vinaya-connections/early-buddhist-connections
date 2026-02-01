@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA210]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA210]]
 > ◄  [[ma209-bdk]] 📜  [[ma211-bdk]] ►
 
 ### 210. The Discourse by the Nun Dhammanandā
@@ -57,8 +57,7 @@ Then, having heard what the nun Dhammanandā said, the female lay dis ciple Vis�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma210-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -73,6 +72,5 @@ Then, having heard what the nun Dhammanandā said, the female lay dis ciple Vis�
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA210]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA210]]
 > ◄  [[ma209-bdk]] 📜  [[ma211-bdk]] ►

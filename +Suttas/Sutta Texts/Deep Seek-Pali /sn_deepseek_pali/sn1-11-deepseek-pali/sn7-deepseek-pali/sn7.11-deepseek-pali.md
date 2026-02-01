@@ -4,10 +4,10 @@ sutta_title:
   - "Kasibhāradvājasutta "
   - "Kasi Bharadvaja"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
 > ◄  [[sn7.10-deepseek-pali]] 📜  [[sn7.12-deepseek-pali]] ►
 
 # SN 7.11 Kasibhāradvājasuttaṃ
@@ -63,8 +63,7 @@ When this was said, the brahmin Kasibhāradvāja said to the Blessed One: "Excel
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ When this was said, the brahmin Kasibhāradvāja said to the Blessed One: "Excel
 | [[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP1.4]], [[SNP3.4]], [[SN7.8]], [[SN7.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
 > ◄  [[sn7.10-deepseek-pali]] 📜  [[sn7.12-deepseek-pali]] ►

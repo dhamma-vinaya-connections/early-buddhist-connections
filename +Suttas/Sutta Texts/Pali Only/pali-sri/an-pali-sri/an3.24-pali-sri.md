@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.24-PALI"
+sutta_code: "AN3.24"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Bahukāra "
+  - "Very Helpful"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.24]]
 > ◄  [[an3.23-pali-sri]] 📜  [[an3.25-pali-sri]] ►
 
 # 5:24 Avasikavaggo - Pali
@@ -220,6 +220,11 @@ Yathābhataṃ cādi tayo avaṇṇārahā duve macchariyā ca vuttā2
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.24-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 123 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.24]]
+> ◄  [[an3.23-pali-sri]] 📜  [[an3.25-pali-sri]] ►

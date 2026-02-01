@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
 > ◄  [[mn39-thanissaro]] 📜  [[mn41-thanissaro]] ►
 
 ## MN40 The Shorter Discourse at Assapura
@@ -78,8 +78,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn40-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -94,6 +93,5 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN15]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
 > ◄  [[mn39-thanissaro]] 📜  [[mn41-thanissaro]] ►

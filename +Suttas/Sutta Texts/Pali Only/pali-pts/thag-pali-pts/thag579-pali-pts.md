@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG579-PALI"
+sutta_code: "THAG579"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG579-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG579]]
 > ◄  [[thag578-pali-pts]] 📜  [[thag580-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ lūkhena pi ca santusse, nāññaṃ patthe rasaṃ bahuṃ;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag579-) 
 

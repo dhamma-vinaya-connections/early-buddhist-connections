@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.5-PALI"
+sutta_code: "SNP5.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mettagūmāṇavapucchā "
+  - "Questions of the Student Mettagū"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.5]]
 > ◄  [[snp5.4-pali-sc]] 📜  [[snp5.6-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -90,6 +90,5 @@ Mettagūmāṇavapucchā catutthī.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.5-) 
 

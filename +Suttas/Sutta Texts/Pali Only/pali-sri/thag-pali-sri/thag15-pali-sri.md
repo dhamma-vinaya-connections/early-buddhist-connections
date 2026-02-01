@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG15-PALI"
+sutta_code: "THAG15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Soḷasakanipātavagga "
+  - "Sixtieens Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG15]]
 > ◄  [[thag14-pali-sri]] 📜  [[thag16-pali-sri]] ►
 
 # 15. Solasaka-nipata - Pali
@@ -275,6 +275,5 @@ Soḷasanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag15-) 
 

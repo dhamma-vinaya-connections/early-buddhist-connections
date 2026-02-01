@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyalokadhamma "
   - "Worldly Conditions"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
 > ◄  [[an8.4-deepseek-pali]] 📜  [[an8.6-deepseek-pali]] ►
 
 # AN 8.5 Paṭhamalokadhammasuttaṃ
@@ -44,8 +44,7 @@ One rightly understands, one gone to the far shore of becoming.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -56,6 +55,5 @@ One rightly understands, one gone to the far shore of becoming.
 | [[EA43.8]], [[DN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
 > ◄  [[an8.4-deepseek-pali]] 📜  [[an8.6-deepseek-pali]] ►

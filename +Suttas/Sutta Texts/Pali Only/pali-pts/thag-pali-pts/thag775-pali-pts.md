@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG775-PALI"
+sutta_code: "THAG775"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG775-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG775]]
 > ◄  [[thag774-pali-pts]] 📜  [[thag776-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ passāmi loke sadhane manusse, laddhāna vittaṃ na dadanti mohā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag775-) 
 

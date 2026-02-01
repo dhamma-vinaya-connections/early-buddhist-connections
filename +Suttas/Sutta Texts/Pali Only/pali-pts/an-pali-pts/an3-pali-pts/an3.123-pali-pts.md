@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.123-PALI"
+sutta_code: "AN3.123"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kusināra "
+  - "At Kusināra"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.123-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.123]]
 > ◄  [[an3.122-pali-pts]] 📜  [[an3.124-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -29,6 +29,11 @@ Evarūpassāhaṃ bhikkhave bhikkhuno dinnaṃ mahapphalan ti vadāmi. Taṃ kis
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.123-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 274 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.123]]
+> ◄  [[an3.122-pali-pts]] 📜  [[an3.124-pali-pts]] ►

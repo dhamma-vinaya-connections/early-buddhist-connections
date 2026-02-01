@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.13-PALI"
+sutta_code: "AN9.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Koṭṭhika "
+  - "Kotthita"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.13]]
 > ◄  [[an9.12-pali-sc]] 📜  [[an9.14-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -94,6 +94,20 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN9]] | [[MA29]], [[SA344]] | A iv 382 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA29]], [[SA344]], [[MN9]], [[MN101]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN9]], [[MN101]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.13]]
+> ◄  [[an9.12-pali-sc]] 📜  [[an9.14-pali-sc]] ►

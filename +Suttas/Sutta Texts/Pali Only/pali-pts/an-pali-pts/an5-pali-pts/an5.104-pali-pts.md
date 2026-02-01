@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.104-PALI"
+sutta_code: "AN5.104"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Samaṇasukhumāla "
+  - "Exquisite Ascetic"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.104-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.104]]
 > ◄  [[an5.103-pali-pts]] 📜  [[an5.105-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Idha bhikkhave pāpabhikkhu micchādiṭṭhiko hoti antagāhikāya diṭṭhiy�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.104-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 130 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.87]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.104]]
+> ◄  [[an5.103-pali-pts]] 📜  [[an5.105-pali-pts]] ►

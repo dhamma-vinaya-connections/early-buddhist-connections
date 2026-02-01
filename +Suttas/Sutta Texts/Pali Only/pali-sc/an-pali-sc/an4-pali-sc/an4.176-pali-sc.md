@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.176-PALI"
+sutta_code: "AN4.176"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Āyācana "
+  - "Aspiration"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.176-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.176]]
 > ◄  [[an4.175-pali-sc]] 📜  [[an4.177-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -29,6 +29,16 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.176-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN2.130-133]] |  | A ii 164 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN2.130-133]], [[AN2.130]], [[AN2.133]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.176]]
+> ◄  [[an4.175-pali-sc]] 📜  [[an4.177-pali-sc]] ►

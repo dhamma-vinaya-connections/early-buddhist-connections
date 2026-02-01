@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP24-PALI"
+sutta_code: "DHP24"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Taṇhāvagga "
+  - "Craving"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP24]]
 > ◄  [[dhp23-pali-sc]] 📜  [[dhp25-pali-sc]] ►
 
 # TANHA VAGGA
@@ -121,6 +121,11 @@ Tiṇadosāni khettāni, mohadosā ayaṃ pajā; tasmā hi vītamohesu, dinnaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp24-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 94 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP24]]
+> ◄  [[dhp23-pali-sc]] 📜  [[dhp25-pali-sc]] ►

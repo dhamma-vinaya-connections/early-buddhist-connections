@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN83-PALI"
+sutta_code: "MN83"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Maghadeva Sutta "
+  - "About King Makhādeva"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN83-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN83]]
 > ◄  [[mn82-pali-sri]] 📜  [[mn84-pali-sri]] ►
 
 # 83. Makhadeva Sutta - Pali
@@ -128,6 +128,20 @@ Makhādeva4 suttaṃ tatiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn83-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[JA541]]; [[JA9]] | [[EA1.1]]; [[EA50.4]]; [[MA67]] | M ii 74 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA1.1]]; [[EA50.4]]; [[JA541]]; [[JA9]]; [[MA67]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN30]], [[DN26]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN83]]
+> ◄  [[mn82-pali-sri]] 📜  [[mn84-pali-sri]] ►

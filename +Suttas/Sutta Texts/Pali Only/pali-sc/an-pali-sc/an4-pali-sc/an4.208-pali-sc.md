@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.208-PALI"
+sutta_code: "AN4.208"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pāpadhammasutta "
+  - "Bad Character"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.208-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.208]]
 > ◄  [[an4.207-pali-sc]] 📜  [[an4.209-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -31,6 +31,16 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.208-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1053]] | A ii 223 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1053]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.208]]
+> ◄  [[an4.207-pali-sc]] 📜  [[an4.209-pali-sc]] ►

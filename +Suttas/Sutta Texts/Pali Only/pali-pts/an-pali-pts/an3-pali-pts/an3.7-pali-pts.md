@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.7-PALI"
+sutta_code: "AN3.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sāvajja "
+  - "Blameworthy"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.7]]
 > ◄  [[an3.6-pali-pts]] 📜  [[an3.8-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -27,6 +27,16 @@ Anavajjena kāyakammena, anavajjena vacīkammena, anavajjena manokammena . . . p
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA22.6]] | A i 104 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA22.6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.7]]
+> ◄  [[an3.6-pali-pts]] 📜  [[an3.8-pali-pts]] ►

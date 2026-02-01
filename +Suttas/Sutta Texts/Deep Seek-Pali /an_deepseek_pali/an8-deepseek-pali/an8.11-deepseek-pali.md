@@ -4,10 +4,10 @@ sutta_title:
   - "Verañja "
   - "At Verañja"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
 > ◄  [[an8.10-deepseek-pali]] 📜  [[an8.12-deepseek-pali]] ►
 
 # AN 8.11 Verañjasuttaṃ
@@ -99,8 +99,7 @@ When this was said, the brahmin Verañja said to the Blessed One: “Master Gota
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ When this was said, the brahmin Verañja said to the Blessed One: “Master Gota
 | [[MA157]], [[PLI-TV-BU-VB-PJ1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
 > ◄  [[an8.10-deepseek-pali]] 📜  [[an8.12-deepseek-pali]] ►

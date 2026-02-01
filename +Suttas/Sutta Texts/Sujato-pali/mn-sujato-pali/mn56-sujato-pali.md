@@ -3,11 +3,11 @@ sutta_code: "MN56"
 sutta_title:
   - "Upāli Sutta "
   - "With Upāli"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-sujato-pali]] 📜  [[mn57-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -787,8 +787,7 @@ Upālisuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn56-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -799,6 +798,5 @@ Upālisuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 | [[MA133]]; [[AN4.193]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-sujato-pali]] 📜  [[mn57-sujato-pali]] ►

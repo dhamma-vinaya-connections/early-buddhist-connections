@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāpuṇṇama Sutta "
   - "Longer Discourse on the Full-Moon Night"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
 > ◄  [[mn108-deepseek-pali]] 📜  [[mn110-deepseek-pali]] ►
 
 # 109. Cūḷapuṇṇamasuttaṃ
@@ -123,8 +123,7 @@ Devadaha, Pañcattaya, Kinti, Sāma, Sunakkhatta; Sappāya, Gaṇa, Gopaka, Mah�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn109-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -135,6 +134,5 @@ Devadaha, Pañcattaya, Kinti, Sāma, Sunakkhatta; Sappāya, Gaṇa, Gopaka, Mah�
 | [[SA58]]; [[SN22.82]]; [[AN4.200]]; [[MN44]]; [[SN22.44]]; [[SN41.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
 > ◄  [[mn108-deepseek-pali]] 📜  [[mn110-deepseek-pali]] ►

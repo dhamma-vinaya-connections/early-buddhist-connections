@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.8-PALI"
+sutta_code: "SN8.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Parosahassasutta "
+  - "Over a Thousand"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
 > ◄  [[sn8.7-pali-pts]] 📜  [[sn8.9-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -55,6 +55,16 @@ appamatto sadā namassam anusikkhe ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1219]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1219]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
+> ◄  [[sn8.7-pali-pts]] 📜  [[sn8.9-pali-pts]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Pañcapubbanimitta "
   - "Five Warning Signs"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI83]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI83]]
 > ◄  [[iti82-deepseek-pali]] 📜  [[iti84-deepseek-pali]] ►
 
 # Iti 83 Bahujanahitasuttaṃ
@@ -35,6 +35,5 @@ This too is the meaning spoken by the Blessed One, so I have heard. The fifth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti83-) 
 

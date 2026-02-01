@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG416-PALI"
+sutta_code: "THAG416"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG416-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG416]]
 > ◄  [[thag415-pali-pts]] 📜  [[thag417-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Sudesito cakkhumatā buddhenādiccabandhunā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag416-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI2-PALI"
+sutta_code: "ITI2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Dosa "
+  - "Hate"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI2]]
 > ◄  [[iti1-pali-sri]] 📜  [[iti3-pali-sri]] ►
 
 # Itivutakapali - Dukanipato - BJT
@@ -687,6 +687,5 @@ End Notes
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti2-) 
 

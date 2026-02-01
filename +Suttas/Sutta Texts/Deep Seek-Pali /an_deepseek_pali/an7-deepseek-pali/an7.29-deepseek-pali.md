@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyaparihāni "
   - "Non-Decline For Lay Follower"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.29]]
 > ◄  [[an7.28-deepseek-pali]] 📜  [[an7.30-deepseek-pali]] ►
 
 # AN 7.29 Dutiyaparihānisuttaṃ
@@ -59,12 +59,11 @@ These seven qualities of non-decline, well taught, a lay follower who cultivates
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 25 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.29]]
 > ◄  [[an7.28-deepseek-pali]] 📜  [[an7.30-deepseek-pali]] ►

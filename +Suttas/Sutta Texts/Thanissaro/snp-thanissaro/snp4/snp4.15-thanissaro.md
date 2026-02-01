@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
 > ◄  [[snp4.14-thanissaro]] 📜  [[snp4.16-thanissaro]] ►
 
 # 4:15  The Rod Embraced
@@ -281,8 +281,7 @@ vv. 935–954
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -297,6 +296,5 @@ vv. 935–954
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD2:10.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
 > ◄  [[snp4.14-thanissaro]] 📜  [[snp4.16-thanissaro]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Mānasasutta "
   - "Mental"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.15]]
 > ◄  [[sn4.14-deepseek-pali]] 📜  [[sn4.16-deepseek-pali]] ►
 
 # SN 4.15 Mānasasuttaṃ
@@ -35,8 +35,7 @@ Then Māra the Evil One, realizing, “The Blessed One knows me, the Sugata know
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then Māra the Evil One, realizing, “The Blessed One knows me, the Sugata know
 | [[PLI-TV-KD1]], [[SA-2.25]], [[SA1086]], [[SN4.4]], [[SN4.5]], [[SA1096]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.15]]
 > ◄  [[sn4.14-deepseek-pali]] 📜  [[sn4.16-deepseek-pali]] ►

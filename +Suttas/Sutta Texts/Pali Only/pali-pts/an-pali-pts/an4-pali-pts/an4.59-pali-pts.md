@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.59-PALI"
+sutta_code: "AN4.59"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bhojana "
+  - "Food"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.59-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.59]]
 > ◄  [[an4.58-pali-pts]] 📜  [[an4.60-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,16 @@ Dīghāyu yasavā hoti yattha yatth'; upapajjatīti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.59-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 64 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.58]], [[PLI-TV-KD6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.59]]
+> ◄  [[an4.58-pali-pts]] 📜  [[an4.60-pali-pts]] ►

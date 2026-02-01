@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.20-PALI"
+sutta_code: "SN7.20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bhikkhakasutta "
+  - "Mendicant"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
 > ◄  [[sn7.19-pali-sc]] 📜  [[sn7.21-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -37,6 +37,16 @@ sa ve bhikkhūti vuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.20-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP266]], [[DHP267]] | [[SA-2.263]], [[SA97]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.263]], [[SA97]], [[DHP266]], [[DHP267]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
+> ◄  [[sn7.19-pali-sc]] 📜  [[sn7.21-pali-sc]] ►

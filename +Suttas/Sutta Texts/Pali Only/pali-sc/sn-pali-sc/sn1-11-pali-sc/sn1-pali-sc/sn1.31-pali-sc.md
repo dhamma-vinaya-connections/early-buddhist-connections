@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.31-PALI"
+sutta_code: "SN1.31"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sabbhisutta "
+  - "With the Good"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.31-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
 > ◄  [[sn1.30-pali-sc]] 📜  [[sn1.32-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -78,6 +78,16 @@ sabbadukkhā pamuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.31-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.285]], [[SA1287]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.285]], [[SA1287]], [[SN2.21]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
+> ◄  [[sn1.30-pali-sc]] 📜  [[sn1.32-pali-sc]] ►

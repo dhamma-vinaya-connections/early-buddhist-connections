@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG20-PALI"
+sutta_code: "THAG20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahāmoggallānattheragāthā "
+  - "Mahāmoggallāna"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG20]]
 > ◄  [[thag19-pali-sri]] 📜  [[thag21-pali-sri]] ►
 
 # 60. Satthi-nipata - Pali
@@ -415,6 +415,5 @@ Saṭṭhinipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag20-) 
 

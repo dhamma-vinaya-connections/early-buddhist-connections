@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG974-PALI"
+sutta_code: "THAG974"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG974-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG974]]
 > ◄  [[thag973-pali-pts]] 📜  [[thag975-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sikkhāpentāpi therehi bālā cīvaradhāraṇaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag974-) 
 

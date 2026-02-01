@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG899-PALI"
+sutta_code: "THAG899"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG899-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG899]]
 > ◄  [[thag898-pali-pts]] 📜  [[thag900-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tassa dhammā ime honti kusalā bodhipakkhikā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag899-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG122-PALI"
+sutta_code: "THIG122"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG122-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG122]]
 > ◄  [[thig121-pali-pts]] 📜  [[thig123-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ pattaṃ daṇḍaṃ ca gaṇhitvā bhikkhamānā kulā kulaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig122-) 
 

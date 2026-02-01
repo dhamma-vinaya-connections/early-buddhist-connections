@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP45-PALI"
+sutta_code: "DHP45"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP45-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP45]]
 > ◄  [[dhp44-pali-pts]] 📜  [[dhp46-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ pheṇūpamaṃ kāyam imaṃ viditvā marīcidhammaṃ abhisambudhāno /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp45-) 
 

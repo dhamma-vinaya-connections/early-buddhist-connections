@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.41-PALI"
+sutta_code: "AN3.41"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sammukhībhāva "
+  - "Present"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.41-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.41]]
 > ◄  [[an3.40-pali-pts]] 📜  [[an3.42-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,16 @@ Imesaṃ kho bhikkhave tiṇṇaṃ sammukhībhāvā saddho kulaputto bahuṃ pu
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.41-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA24.7]] | A i 150 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA24.7]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.41]]
+> ◄  [[an3.40-pali-pts]] 📜  [[an3.42-pali-pts]] ►

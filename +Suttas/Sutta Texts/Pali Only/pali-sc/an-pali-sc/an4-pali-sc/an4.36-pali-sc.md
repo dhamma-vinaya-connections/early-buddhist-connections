@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.36-PALI"
+sutta_code: "AN4.36"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Doṇa "
+  - "Dona"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.36-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
 > ◄  [[an4.35-pali-sc]] 📜  [[an4.37-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -63,6 +63,16 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.36-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.14]] | [[EA38.3]], [[SA-2.267]], [[SA101]], [[SA879]] | A ii 37 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.267]], [[SA101]], [[EA38.3]], [[AN4.14]], [[SA879]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
+> ◄  [[an4.35-pali-sc]] 📜  [[an4.37-pali-sc]] ►

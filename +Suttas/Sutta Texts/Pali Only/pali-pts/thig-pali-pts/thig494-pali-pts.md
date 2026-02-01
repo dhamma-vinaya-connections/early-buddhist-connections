@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG494-PALI"
+sutta_code: "THIG494"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG494-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG494]]
 > ◄  [[thig493-pali-pts]] 📜  [[thig495-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ dīgho bālānaṃ saṃsāro punappunaṃ ca rodataṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig494-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG19-PALI"
+sutta_code: "THIG19"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG19]]
 > ◄  [[thig18-pali-pts]] 📜  [[thig20-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ animittañ ca bhāvehi mānānusayam ujjaha |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig19-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.155-PALI"
+sutta_code: "AN5.155"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Saddhammasammosa "
+  - "Decline Of The True Teaching ("
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.155-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.155]]
 > ◄  [[an5.154-pali-sc]] 📜  [[an5.156-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -51,6 +51,11 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.155-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 177 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.155]]
+> ◄  [[an5.154-pali-sc]] 📜  [[an5.156-pali-sc]] ►

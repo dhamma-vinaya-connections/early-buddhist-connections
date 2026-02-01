@@ -4,10 +4,10 @@ sutta_title:
   - "Ganika Sutta "
   - "The Courtesan"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.8]]
 > ◄  [[ud6.7-deepseek-pali]] 📜  [[ud6.9-deepseek-pali]] ►
 
 # Ud 6.8 Gaṇikāsuttaṃ
@@ -39,9 +39,7 @@ Then, the Blessed One, having understood this matter, on that occasion uttered t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.8-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.8]]
 > ◄  [[ud6.7-deepseek-pali]] 📜  [[ud6.9-deepseek-pali]] ►

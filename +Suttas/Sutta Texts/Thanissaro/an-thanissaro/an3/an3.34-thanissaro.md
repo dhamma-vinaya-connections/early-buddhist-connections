@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.34]]
 > ◄  [[an3.33-thanissaro]] 📜  [[an3.35-thanissaro]] ►
 
 ## AN3.34 Causes
@@ -76,8 +76,7 @@ all bad destinations.(#^[].34note02) ^[].34note02-ref
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ all bad destinations.(#^[].34note02) ^[].34note02-ref
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN42.8]], [[AN3.99]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.34]]
 > ◄  [[an3.33-thanissaro]] 📜  [[an3.35-thanissaro]] ►

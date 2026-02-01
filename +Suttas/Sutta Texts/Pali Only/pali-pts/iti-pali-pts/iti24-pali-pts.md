@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI24-PALI"
+sutta_code: "ITI24"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "龍象 "
+  - "Elephant"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI24]]
 > ◄  [[iti23-pali-pts]] 📜  [[iti25-pali-pts]] ►
 
 ## Itivuttaka
@@ -39,6 +39,20 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||4||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti24-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP191]], [[SN15.10]] | [[SA-2.340]], [[SA-3.11]], [[SA947]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN15.10]], [[SA-2.340]], [[SA-3.11]], [[SA947]], [[DHP191]], [[THAG21.1]], [[THIG7.2]], [[THIG7.3]], [[THIG13.3]], [[THIG13.4]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN15.3]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI24]]
+> ◄  [[iti23-pali-pts]] 📜  [[iti25-pali-pts]] ►

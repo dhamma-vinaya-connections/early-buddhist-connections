@@ -4,10 +4,10 @@ sutta_title:
   - "Bhikkhuvagga "
   - "Bhikkhus"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP25]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP25]]
 > ◄  [[dhp24-deepseek-pali]] 📜  [[dhp26-deepseek-pali]] ►
 
 # Dhp 25. Bhikkhuvaggo
@@ -135,12 +135,11 @@ The Bhikkhu Chapter, the Twenty-Fifth, is Finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp25-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | Dh 102 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP25]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP25]]
 > ◄  [[dhp24-deepseek-pali]] 📜  [[dhp26-deepseek-pali]] ►

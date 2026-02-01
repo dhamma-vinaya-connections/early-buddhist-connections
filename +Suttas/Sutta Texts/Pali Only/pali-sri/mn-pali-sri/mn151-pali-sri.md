@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN151-PALI"
+sutta_code: "MN151"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Piṇḍapātapārisuddhi Sutta "
+  - "Purification of Alms"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
 > ◄  [[mn150-pali-sri]] 📜  [[mn152-pali-sri]] ►
 
 # 151. Pindapata Parisuddhi Sutta - Pali
@@ -116,6 +116,16 @@ Piṇḍapātapārisuddhi suttaṃ navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn151-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA45.6]]; [[SA236]] | M iii 293 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA45.6]]; [[SA236]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
+> ◄  [[mn150-pali-sri]] 📜  [[mn152-pali-sri]] ►

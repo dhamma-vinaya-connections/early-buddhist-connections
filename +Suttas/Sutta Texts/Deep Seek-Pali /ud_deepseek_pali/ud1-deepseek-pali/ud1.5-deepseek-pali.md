@@ -4,10 +4,10 @@ sutta_title:
   - "Thera Sutta "
   - "The Elders"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.5]]
 > ◄  [[ud1.4-deepseek-pali]] 📜  [[ud1.6-deepseek-pali]] ►
 
 # Ud 1.5 Brāhmaṇasuttaṃ
@@ -35,6 +35,5 @@ Then, the Blessed One, having understood this matter, on that occasion, uttered 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.5-) 
 

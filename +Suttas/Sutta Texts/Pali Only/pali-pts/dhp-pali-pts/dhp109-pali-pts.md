@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP109-PALI"
+sutta_code: "DHP109"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP109-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP109]]
 > ◄  [[dhp108-pali-pts]] 📜  [[dhp110-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yo ca vassasataṃ jīve dussīlo asamāhito /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp109-) 
 

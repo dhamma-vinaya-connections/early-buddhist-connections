@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG155-PALI"
+sutta_code: "THIG155"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG155-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG155]]
 > ◄  [[thig154-pali-pts]] 📜  [[thig156-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ tato kesāni chetvāna pabbajiṃ anagāriyaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig155-) 
 

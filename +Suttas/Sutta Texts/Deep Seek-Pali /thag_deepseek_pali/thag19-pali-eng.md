@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG19-PALI"
+sutta_code: "THAG19"
 sutta_title:
-  - " "
-  - ""
+  - "Tālapuṭattheragāthā "
+  - "Tālapuṭa"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG19]]
 > ◄  [[thag18-pali-eng]] 📜  [[thag20-pali-eng]] ►
 
 # Thag 19. Paññāsanipāto
@@ -288,6 +288,5 @@ The summary: Paññāsamhi nipātamhi, eko tālapuṭo suci;Gāthāyo tattha pa�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag19-) 
 

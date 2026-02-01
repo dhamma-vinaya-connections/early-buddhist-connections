@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
 > ◄  [[dn20-walshe]] 📜  [[dn22-walshe]] ►
 
 # DN21 Sakkapañha Sutta: Sakka’s Questions
@@ -319,8 +319,7 @@ Such were the questions which Sakka, ruler of the gods, was desirous to ask, and
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -331,6 +330,5 @@ Such were the questions which Sakka, ruler of the gods, was desirous to ask, and
 | [[DA14]], [[MA134]], [[SNP3.6]], [[SN22.4]], [[SA552]], [[SA505]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
 > ◄  [[dn20-walshe]] 📜  [[dn22-walshe]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.28-PALI"
+sutta_code: "AN9.28"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṭhamavera "
+  - "Dangers And Threats"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.28-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.28]]
 > ◄  [[an9.27-pali-pts]] 📜  [[an9.29-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Yato kho gahapati ariyasāvakassa imāni pañca bhayāni verāni vūpasantāni h
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.28-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN55.29]] | [[SA845]] | A iv 407 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN55.29]], [[SA845]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.28]]
+> ◄  [[an9.27-pali-pts]] 📜  [[an9.29-pali-pts]] ►

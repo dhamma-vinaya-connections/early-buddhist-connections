@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD6.8-PALI"
+sutta_code: "UD6.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ganika Sutta "
+  - "The Courtesan"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.8]]
 > ◄  [[ud6.5-pali-pts]] 📜  [[ud7.5-pali-pts]] ►
 
 ## Udāna
@@ -52,6 +52,7 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.8]]
+> ◄  [[ud6.5-pali-pts]] 📜  [[ud7.5-pali-pts]] ►

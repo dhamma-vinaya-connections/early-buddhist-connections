@@ -3,11 +3,11 @@ sutta_code: "SNP4.16"
 sutta_title:
   - "Sāriputtasutta "
   - "Sāriputta Questions"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.16]]
 > ◄  [[snp4.15-sujato-pali]] 📜  [[]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -275,9 +275,7 @@ sabbānaṭṭhakavaggikāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.16-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.16]]
 > ◄  [[snp4.15-sujato-pali]] 📜  [[]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1019-PALI"
+sutta_code: "THAG1019"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1019-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1019]]
 > ◄  [[thag1018-pali-pts]] 📜  [[thag1020-pali-pts]] ►
 
 ## Theragāthā
@@ -20,6 +20,5 @@ sakhitaṃ hi kareyya paṇḍito; bhaddo sappurisena saṃgamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1019-) 
 

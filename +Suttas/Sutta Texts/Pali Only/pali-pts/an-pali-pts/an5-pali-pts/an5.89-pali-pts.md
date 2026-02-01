@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.89-PALI"
+sutta_code: "AN5.89"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sekha "
+  - "Trainee"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.89-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.89]]
 > ◄  [[an5.88-pali-pts]] 📜  [[an5.90-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,15 @@ Pañc'ime bhikkhave dhammā sekhassa bhikkhuno parihānāya saṃvattanti. Katam
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.89-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 116 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5.81]], [[AN5.82]], [[AN5.83]], [[AN5.84]], [[AN5.85]], [[AN5.86]], [[AN5.87]], [[AN5.88]], [[AN5.89]], [[AN5.90]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.89]]
+> ◄  [[an5.88-pali-pts]] 📜  [[an5.90-pali-pts]] ►

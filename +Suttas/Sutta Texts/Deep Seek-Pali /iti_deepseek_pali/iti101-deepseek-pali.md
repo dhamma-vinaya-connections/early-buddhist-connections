@@ -4,10 +4,10 @@ sutta_title:
   - "Sulabha "
   - "Easy to find"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI101]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI101]]
 > ◄  [[iti100-deepseek-pali]] 📜  [[iti102-deepseek-pali]] ►
 
 # Iti 101 Samaṇabrāhmaṇasuttaṃ
@@ -35,9 +35,7 @@ This too is the meaning that was spoken by the Blessed One, so I have heard. Fou
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti101-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI101]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI101]]
 > ◄  [[iti100-deepseek-pali]] 📜  [[iti102-deepseek-pali]] ►

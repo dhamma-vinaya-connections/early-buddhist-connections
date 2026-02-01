@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.7-PALI"
+sutta_code: "SNP4.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Tissametteyyasutta "
+  - "To Tissametteyya"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.7]]
 > ◄  [[snp4.6-pali-pts]] 📜  [[snp4.8-pali-pts]] ►
 
 # SNP4.7 TISSAMETTEYYASUTTAṂ
@@ -45,6 +45,20 @@ TISSAMETTEYYASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[PE1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN22]], [[SN1.20]], [[AN4.159]], [[AN5:75-76]], [[AN7.48]], [[UD3.2]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.7]]
+> ◄  [[snp4.6-pali-pts]] 📜  [[snp4.8-pali-pts]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Khattiyasutta "
   - "The Khattiya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.14]]
 > ◄  [[sn1.13-deepseek-pali]] 📜  [[sn1.15-deepseek-pali]] ►
 
 # SN 1.14 Khattiyasuttaṃ
@@ -35,8 +35,7 @@ and a dutiful child is best among children.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ and a dutiful child is best among children.
 | [[SA-2.233]], [[SA1007]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.14]]
 > ◄  [[sn1.13-deepseek-pali]] 📜  [[sn1.15-deepseek-pali]] ►

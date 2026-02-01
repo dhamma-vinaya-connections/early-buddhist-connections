@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG549-PALI"
+sutta_code: "THAG549"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG549-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG549]]
 > ◄  [[thag548-pali-pts]] 📜  [[thag550-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ jīvatevāpi sappañño api vittaparikkhayā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag549-) 
 

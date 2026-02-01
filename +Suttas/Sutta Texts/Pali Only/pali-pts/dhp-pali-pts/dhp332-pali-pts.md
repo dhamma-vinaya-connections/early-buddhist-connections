@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP332-PALI"
+sutta_code: "DHP332"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP332-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP332]]
 > ◄  [[dhp331-pali-pts]] 📜  [[dhp333-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ sukhaṃ yāvajarā sīlaṃ sukhā saddhā patiṭṭhitā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp332-) 
 

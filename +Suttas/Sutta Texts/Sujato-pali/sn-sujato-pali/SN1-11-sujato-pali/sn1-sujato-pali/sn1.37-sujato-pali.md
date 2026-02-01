@@ -3,11 +3,11 @@ sutta_code: "SN1.37"
 sutta_title:
   - "Samayasutta "
   - "Concourse"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.37]]
 > ◄  [[sn1.36-sujato-pali]] 📜  [[sn1.38-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -97,8 +97,7 @@ Devakāyaṁ paripūressantī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.37-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -109,6 +108,5 @@ Devakāyaṁ paripūressantī"ti.
 | [[DN20]], [[DA19]], [[SA-2.105]], [[SA1192]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.37]]
 > ◄  [[sn1.36-sujato-pali]] 📜  [[sn1.38-sujato-pali]] ►

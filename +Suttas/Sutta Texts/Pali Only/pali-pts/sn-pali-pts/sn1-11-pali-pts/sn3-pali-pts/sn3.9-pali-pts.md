@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.9-PALI"
+sutta_code: "SN3.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Yaññasutta "
+  - "Sacrifice"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.9]]
 > ◄  [[sn3.8-pali-pts]] 📜  [[sn3.10-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -44,6 +44,16 @@ anindito saggam upeti ṭhānan ti ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.61]], [[SA1234]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.61]], [[SA1234]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.9]]
+> ◄  [[sn3.8-pali-pts]] 📜  [[sn3.10-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG672-PALI"
+sutta_code: "THAG672"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG672-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG672]]
 > ◄  [[thag671-pali-pts]] 📜  [[thag673-pali-pts]] ►
 
 ## Theragāthā
@@ -28,6 +28,5 @@ Esa bhiyyo pasīdāmi sutvā dhammaṃ mahārasaṃ;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag672-) 
 

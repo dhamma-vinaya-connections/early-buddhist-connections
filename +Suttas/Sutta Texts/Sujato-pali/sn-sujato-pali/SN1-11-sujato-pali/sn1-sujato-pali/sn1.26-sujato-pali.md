@@ -3,11 +3,11 @@ sutta_code: "SN1.26"
 sutta_title:
   - "Pajjotasutta "
   - "Sources of Light"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
 > ◄  [[sn1.25-sujato-pali]] 📜  [[sn1.27-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -55,8 +55,7 @@ esā ābhā anuttarā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ esā ābhā anuttarā"ti.
 | [[SA-2.309]], [[SA1310]], [[SN2.4]], [[DHP387]], [[SN21.11]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
 > ◄  [[sn1.25-sujato-pali]] 📜  [[sn1.27-sujato-pali]] ►

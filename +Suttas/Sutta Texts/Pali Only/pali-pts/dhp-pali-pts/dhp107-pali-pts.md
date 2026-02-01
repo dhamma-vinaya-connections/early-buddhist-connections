@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP107-PALI"
+sutta_code: "DHP107"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP107-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP107]]
 > ◄  [[dhp106-pali-pts]] 📜  [[dhp108-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yaṃ kiñci yiṭṭhañ ca hutañ ca loke saṃvaccharaṃ yajetha puññapekh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp107-) 
 

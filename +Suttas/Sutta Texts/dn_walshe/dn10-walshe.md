@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
 > ◄  [[dn9-walshe]] 📜  [[dn11-walshe]] ►
 
 # DN10 Subha Sutta: About Subha
@@ -62,8 +62,7 @@ Morality, Concentration, Wisdom
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -78,6 +77,5 @@ Morality, Concentration, Wisdom
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
 > ◄  [[dn9-walshe]] 📜  [[dn11-walshe]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.19-PALI"
+sutta_code: "SN1.19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kuṭikāsutta "
+  - "A Little Hut"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.19]]
 > ◄  [[sn1.18-pali-sc]] 📜  [[sn1.20-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -73,6 +73,20 @@ sāhu muttosi bandhanā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.168]], [[SA584]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.168]], [[SA584]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN11]], [[SN5.1]], [[SN5.4]], [[SN5.7]], [[SN5.6]], [[ALSOSN4.9]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.19]]
+> ◄  [[sn1.18-pali-sc]] 📜  [[sn1.20-pali-sc]] ►

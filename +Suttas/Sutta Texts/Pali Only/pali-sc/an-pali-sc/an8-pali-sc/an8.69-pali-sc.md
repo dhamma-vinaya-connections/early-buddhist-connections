@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.69-PALI"
+sutta_code: "AN8.69"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Parisā "
+  - "Assemblies"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.69-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.69]]
 > ◄  [[an8.68-pali-sc]] 📜  [[an8.70-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -31,6 +31,16 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.69-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.5]], [[UD8.6]] |  | A iv 307 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN16]], [[DA2]], [[UD6.1]], [[UD8.5]], [[UD8.6]], [[SN51.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.69]]
+> ◄  [[an8.68-pali-sc]] 📜  [[an8.70-pali-sc]] ►

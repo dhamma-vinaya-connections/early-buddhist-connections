@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI84-PALI"
+sutta_code: "ITI84"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bahujanahita "
+  - "For Welfare of People"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI84-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI84]]
 > ◄  [[iti83-pali-sc]] 📜  [[iti85-pali-sc]] ►
 
 # Iti 84. Asubhānupassīsuttaṃ
@@ -27,6 +27,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti84-) 
 

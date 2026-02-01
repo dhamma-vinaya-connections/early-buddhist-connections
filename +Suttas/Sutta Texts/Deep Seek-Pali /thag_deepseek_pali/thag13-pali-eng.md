@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG13-PALI"
+sutta_code: "THAG13"
 sutta_title:
-  - " "
-  - ""
+  - "Terasanipātavagga "
+  - "Thirteens Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG13]]
 > ◄  [[thag12-pali-eng]] 📜  [[thag14-pali-eng]] ►
 
 # Thag 13. Terasanipāto
@@ -81,6 +81,5 @@ Just as a solid, one-mass rock is not stirred by the wind, so too forms, tastes,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag13-) 
 

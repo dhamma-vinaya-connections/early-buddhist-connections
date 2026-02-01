@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG189-PALI"
+sutta_code: "THAG189"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG189-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG189]]
 > ◄  [[thag188-pali-pts]] 📜  [[thag190-pali-pts]] ►
 
 ## Theragāthā
@@ -20,6 +20,5 @@ tassa mayhaṃ ekakassa bherave bile viharato n'; atthi bhayaṃ vā chambhitatt
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag189-) 
 

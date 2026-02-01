@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG374-PALI"
+sutta_code: "THIG374"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG374-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG374]]
 > ◄  [[thig373-pali-pts]] 📜  [[thig375-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ ahaṃ tava vasānugo siyaṃ yadi viharemasi kānanantare |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig374-) 
 

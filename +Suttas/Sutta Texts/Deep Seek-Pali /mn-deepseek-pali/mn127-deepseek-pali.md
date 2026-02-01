@@ -4,10 +4,10 @@ sutta_title:
   - "Anuruddha Sutta "
   - "With Anuruddha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN127]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN127]]
 > ◄  [[mn126-deepseek-pali]] 📜  [[mn128-deepseek-pali]] ►
 
 # 127. Upakkilesasuttaṃ
@@ -169,8 +169,7 @@ The eighth Upakkilesa Sutta is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn127-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -185,6 +184,5 @@ The eighth Upakkilesa Sutta is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN128]], [[AN10.29]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN127]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN127]]
 > ◄  [[mn126-deepseek-pali]] 📜  [[mn128-deepseek-pali]] ►

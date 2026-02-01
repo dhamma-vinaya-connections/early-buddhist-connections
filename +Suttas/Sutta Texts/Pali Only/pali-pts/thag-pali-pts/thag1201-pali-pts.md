@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1201-PALI"
+sutta_code: "THAG1201"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1201-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1201]]
 > ◄  [[thag1200-pali-pts]] 📜  [[thag1203-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ vanaṃ Pubbavidehānaṃ ye ca bhūmisayā narā, --**|| 1202 ||**
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1201-) 
 

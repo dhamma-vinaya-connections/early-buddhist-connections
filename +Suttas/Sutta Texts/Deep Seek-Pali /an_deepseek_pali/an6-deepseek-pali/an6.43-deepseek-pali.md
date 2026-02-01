@@ -4,10 +4,10 @@ sutta_title:
   - "Naga "
   - "Giant"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.43]]
 > ◄  [[an6.42-deepseek-pali]] 📜  [[an6.44-deepseek-pali]] ►
 
 # AN 6.43 Nāgasuttaṃ
@@ -105,8 +105,7 @@ Free from passion, free from aversion, free from delusion, without taints; The N
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.43-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -117,6 +116,5 @@ Free from passion, free from aversion, free from delusion, without taints; The N
 | [[MA118]], [[THAG15.2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.43]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.43]]
 > ◄  [[an6.42-deepseek-pali]] 📜  [[an6.44-deepseek-pali]] ►

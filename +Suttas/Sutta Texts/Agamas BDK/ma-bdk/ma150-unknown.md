@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA150]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA150]]
 > ◄  [[ma149]] 📜  [[ma151]] ►
 
 ### 150. The Discourse to Esukārī
@@ -99,8 +99,7 @@ The World-honored One asked: Brahmin, what do you think? Suppose that all of tho
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma150-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -110,6 +109,5 @@ The World-honored One asked: Brahmin, what do you think? Suppose that all of tho
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN30]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA150]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA150]]
 > ◄  [[ma149]] 📜  [[ma151]] ►

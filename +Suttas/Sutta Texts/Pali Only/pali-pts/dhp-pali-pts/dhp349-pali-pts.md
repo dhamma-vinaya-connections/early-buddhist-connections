@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP349-PALI"
+sutta_code: "DHP349"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP349-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP349]]
 > ◄  [[dhp348-pali-pts]] 📜  [[dhp350-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ vitakkūpasame ca yo rato asubhaṃ bhāvayatī sadā sato /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp349-) 
 

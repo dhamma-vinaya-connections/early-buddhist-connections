@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG237-PALI"
+sutta_code: "THAG237"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG237-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG237]]
 > ◄  [[thag236-pali-pts]] 📜  [[thag238-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yo ca mettena cittena sabbapāṇ'; ānukampati,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag237-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Cakkavatti Sutta "
   - "Wheel-Turning Monarch"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
 > ◄  [[dn25-deepseek-pali]] 📜  [[dn27-deepseek-pali]] ►
 
 # Cakkavattisuttaṃ
@@ -287,8 +287,7 @@ The Discourse on the Wheel-Turning Monarch, the Third.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -303,6 +302,5 @@ The Discourse on the Wheel-Turning Monarch, the Third.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47.6]]-7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
 > ◄  [[dn25-deepseek-pali]] 📜  [[dn27-deepseek-pali]] ►

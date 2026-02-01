@@ -3,11 +3,11 @@ sutta_code: "AN8.19"
 sutta_title:
   - "Uposatha "
   - "Sabbath"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
 > ◄  [[an8.18-sujato-pali]] 📜  [[an8.20-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -151,8 +151,7 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -163,6 +162,5 @@ Navamaṁ.
 | [[EA42.4]], [[MA35]], [[PLI-TV-KD19]], [[UD5.5]], [[AN8.20]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
 > ◄  [[an8.18-sujato-pali]] 📜  [[an8.20-sujato-pali]] ►

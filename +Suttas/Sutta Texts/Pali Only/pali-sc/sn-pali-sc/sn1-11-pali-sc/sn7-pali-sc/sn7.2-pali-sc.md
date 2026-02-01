@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.2-PALI"
+sutta_code: "SN7.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Akkosasutta "
+  - "Abuse"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.2]]
 > ◄  [[sn7.1-pali-sc]] 📜  [[sn7.3-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -71,6 +71,16 @@ ye dhammassa akovidā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP96]] | [[SA-2.75]], [[SA1152-1153]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.75]], [[SA1152-1153]], [[DHP96]], [[THAG6.12]], [[SN7.3]], [[SN11.4]], [[SN11.5]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.2]]
+> ◄  [[sn7.1-pali-sc]] 📜  [[sn7.3-pali-sc]] ►

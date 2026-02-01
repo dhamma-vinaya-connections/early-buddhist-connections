@@ -4,10 +4,10 @@ sutta_title:
   - "Meghiya Sutta "
   - "Meghiya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.1]]
 > ◄  [[]] 📜  [[ud4.2-deepseek-pali]] ►
 
 # Ud 4.1 Meghiyasuttaṃ
@@ -115,8 +115,7 @@ But knowing these thoughts of the mind, ardent and mindful, he restrains them; t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -131,6 +130,5 @@ But knowing these thoughts of the mind, ardent and mindful, he restrains them; t
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN45.2]], [[AN8.2]], [[AN9:1]], [[MN69]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.1]]
 > ◄  [[]] 📜  [[ud4.2-deepseek-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
 > ◄  [[mn25-thanissaro]] 📜  [[mn27-thanissaro]] ►
 
 ## MN26 The Noble Search
@@ -308,8 +308,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -324,6 +323,5 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD2.10]], [[SN5.15]], [[SN22.87]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
 > ◄  [[mn25-thanissaro]] 📜  [[mn27-thanissaro]] ►

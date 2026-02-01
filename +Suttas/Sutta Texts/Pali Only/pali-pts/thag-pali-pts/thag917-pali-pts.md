@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG917-PALI"
+sutta_code: "THAG917"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG917-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG917]]
 > ◄  [[thag916-pali-pts]] 📜  [[thag918-pali-pts]] ►
 
 ## Theragāthā
@@ -20,6 +20,5 @@ itthabhāvaññathābhāvaṃ jhāne pañcaṅgike ṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag917-) 
 

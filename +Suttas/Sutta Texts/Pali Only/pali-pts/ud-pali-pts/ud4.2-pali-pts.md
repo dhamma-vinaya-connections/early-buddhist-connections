@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD4.2-PALI"
+sutta_code: "UD4.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Uddhata Sutta "
+  - "High Strung"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.2]]
 > ◄  [[ud4.1-pali-pts]] 📜  [[ud4.4-pali-pts]] ►
 
 ## Udāna
@@ -33,6 +33,7 @@ paṭibhāti maṃ samma imassa samaṇassa sīse pahāraṃ dātun ti. evaṃ v
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.2]]
+> ◄  [[ud4.1-pali-pts]] 📜  [[ud4.4-pali-pts]] ►

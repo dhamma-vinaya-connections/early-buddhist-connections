@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.30-PALI"
+sutta_code: "AN5.30"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nāgita "
+  - "With Nāgita"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.30-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.30]]
 > ◄  [[an5.29-pali-pts]] 📜  [[an5.31-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Ime kho bhikkhave pañca caṅkame ānisaṃsā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.30-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.86]] | [[SA1250]] | A iii 30 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.86]], [[SA1250]], [[AN6.42]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.30]]
+> ◄  [[an5.29-pali-pts]] 📜  [[an5.31-pali-pts]] ►

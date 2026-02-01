@@ -34,17 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA-2.106]]"
-  - "[[SA-3.5]]"
-  - "[[SA1193]]"
-parallels_partilal:
-  - "[[SA-2.106]]"
-  - "[[SA-3.5]]"
-  - "[[SA1193]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA-2.106]], [[SA-3.5]], [[SA1193]]"
+parallels_partilal: "[[SA-2.106]], [[SA-3.5]], [[SA1193]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.8]]  🌐 [[SN6.10]] ►
 
@@ -71,8 +63,7 @@ You’ll never find happiness that way
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -84,8 +75,7 @@ You’ll never find happiness that way
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN6.9%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN6.9%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -96,7 +86,7 @@ You’ll never find happiness that way
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN6.9%5D%5D%22%23mynotes%20-file%3Asn6.9-%20-file%3A%22SN6.8%22%20-file%3A%22SN6.10%22%20-file%3A%22SN6.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn6.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.9

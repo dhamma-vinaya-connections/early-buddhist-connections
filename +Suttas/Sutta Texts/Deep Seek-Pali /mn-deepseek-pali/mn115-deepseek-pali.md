@@ -4,10 +4,10 @@ sutta_title:
   - "Bahudhātuka Sutta "
   - "Many Elements"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
 > ◄  [[mn114-deepseek-pali]] 📜  [[mn116-deepseek-pali]] ►
 
 # 115. Isigilisuttaṃ
@@ -108,8 +108,7 @@ The Isigili Sutta, the sixth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn115-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -124,6 +123,5 @@ The Isigili Sutta, the sixth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN33-34]],]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
 > ◄  [[mn114-deepseek-pali]] 📜  [[mn116-deepseek-pali]] ►

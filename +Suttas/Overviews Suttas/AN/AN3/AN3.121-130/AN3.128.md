@@ -34,15 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Bitterness”, “rotting flesh”, and “flies”."
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA-2.20]]"
-  - "[[SA1081]]"
-parallels_partilal:
-  - "[[SA-2.20]]"
-  - "[[SA1081]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA-2.20]], [[SA1081]]"
+parallels_partilal: "[[SA-2.20]], [[SA1081]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.127]]  🌐 [[AN3.129]] ►
 
@@ -68,8 +62,7 @@ Will plague you.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.128-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,8 +74,7 @@ Will plague you.
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN3.128%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN3.128%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -93,7 +85,7 @@ Will plague you.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.128%5D%5D%22%23mynotes%20-file%3Aan3.128-%20-file%3A%22AN3.127%22%20-file%3A%22AN3.129%22%20-file%3A%22AN3.128%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.128/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.128

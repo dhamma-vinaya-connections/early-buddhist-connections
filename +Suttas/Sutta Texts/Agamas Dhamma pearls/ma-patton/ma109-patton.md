@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA109]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA109]]
 > ◄  [[ma106-patton]] 📜  [[ma110-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -72,8 +72,7 @@ End of the third _sūtra_, _Examining One’s Own Mind_ (635 Chinese characters)
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma109-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -88,6 +87,5 @@ End of the third _sūtra_, _Examining One’s Own Mind_ (635 Chinese characters)
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.71]], [[AN2.30]], [[AN4.170]], [[AN4.94]], [[AN]], [[MA109]], [[MA114]], [[SN35.204]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA109]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA109]]
 > ◄  [[ma106-patton]] 📜  [[ma110-patton]] ►

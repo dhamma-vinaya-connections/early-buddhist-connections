@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.37-PALI"
+sutta_code: "AN9.37"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ānanda "
+  - "Ananda"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.37-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
 > ◄  [[an9.36-pali-sc]] 📜  [[an9.38-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -49,6 +49,20 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.37-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA557]] | A iv 426 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA557]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN9.34]], [[AN9.36]], [[AN11.1]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
+> ◄  [[an9.36-pali-sc]] 📜  [[an9.38-pali-sc]] ►

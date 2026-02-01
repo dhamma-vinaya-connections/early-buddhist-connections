@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.13-PALI"
+sutta_code: "AN5.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kūṭa "
+  - "Peak"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.13]]
 > ◄  [[an5.12-pali-pts]] 📜  [[an5.14-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Imāni kho bhikkhave pañca sekhabalāni. Imesaṃ kho bhikkhave pañcannaṃ se
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN50.1-12]] | [[SA673]] | A iii 10 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA673]], [[SN50.1-12]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.13]]
+> ◄  [[an5.12-pali-pts]] 📜  [[an5.14-pali-pts]] ►

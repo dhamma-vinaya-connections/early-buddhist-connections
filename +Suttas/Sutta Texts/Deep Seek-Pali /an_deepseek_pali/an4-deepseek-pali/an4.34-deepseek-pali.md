@@ -4,10 +4,10 @@ sutta_title:
   - "Aggappasāda "
   - "Best Kinds Of Confidence"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.34]]
 > ◄  [[an4.33-deepseek-pali]] 📜  [[an4.35-deepseek-pali]] ►
 
 # AN 4.34 Aggappasādasuttaṃ
@@ -51,8 +51,7 @@ The wise giver of the highest, established in the highest Dhamma, Whether having
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ The wise giver of the highest, established in the highest Dhamma, Whether having
 | [[EA21.1]], [[AN5.32]], [[ITI90]], [[SA902-904]], [[SN45.139]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.34]]
 > ◄  [[an4.33-deepseek-pali]] 📜  [[an4.35-deepseek-pali]] ►

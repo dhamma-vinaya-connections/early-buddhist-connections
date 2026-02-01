@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN70-PALI"
+sutta_code: "MN70"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Kīṭāgiri Sutta "
+  - "At Kīṭāgiri"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN70-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN70]]
 > ◄  [[mn69-pali-sri]] 📜  [[mn71-pali-sri]] ►
 
 # 70. Kitagiri - Pali
@@ -140,6 +140,20 @@ Khuddadijātha sahampati yācaṃ nālaka raññikīṭāgirināmo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn70-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA195]] | M i 473 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA195]]; [[AN2.5]]; [[SN12.22]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN27]]; [[MN95]]; [[SN48.44]]; [[AN3.65]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN70]]
+> ◄  [[mn69-pali-sri]] 📜  [[mn71-pali-sri]] ►

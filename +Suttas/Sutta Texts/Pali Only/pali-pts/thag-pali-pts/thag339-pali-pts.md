@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG339-PALI"
+sutta_code: "THAG339"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG339-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG339]]
 > ◄  [[thag338-pali-pts]] 📜  [[thag340-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Atthāya vata me buddho nadiṃ Nerañjaraṃ agā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag339-) 
 

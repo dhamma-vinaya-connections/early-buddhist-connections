@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.4-PALI"
+sutta_code: "SN9.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sambahulasutta "
+  - "A Number"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.4]]
 > ◄  [[sn9.3-pali-sc]] 📜  [[sn9.5-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -35,6 +35,16 @@ Aniketā vihāranti bhikkhavo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[JA403]] | [[SA-2.351]], [[SA1331]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[JA403]], [[SA-2.351]], [[SA1331]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.4]]
+> ◄  [[sn9.3-pali-sc]] 📜  [[sn9.5-pali-sc]] ►

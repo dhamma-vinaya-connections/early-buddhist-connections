@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI30-PALI"
+sutta_code: "ITI30"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "八難 "
+  - "Eight Obstacles"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI30-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI30]]
 > ◄  [[iti29-pali-pts]] 📜  [[iti31-pali-pts]] ►
 
 ## Itivuttaka
@@ -30,6 +30,16 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||3||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti30-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP140]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI30]]
+> ◄  [[iti29-pali-pts]] 📜  [[iti31-pali-pts]] ►

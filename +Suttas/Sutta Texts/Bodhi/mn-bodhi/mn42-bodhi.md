@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN42]]
 > ◄  [[mn41-bodhi]] 📜  [[mn43-bodhi]] ►
 
 # MN42 Verañjaka Sutta - The Brahmins of Verañja
@@ -27,8 +27,7 @@ The Brahmins of Verañja
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn42-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ The Brahmins of Verañja
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN9]]; [[MN135]]; [[AN3.71]]; [[AN4.123-126]]; [[AN7.49]]; [[AN8.54]]; [[AN10.176.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN42]]
 > ◄  [[mn41-bodhi]] 📜  [[mn43-bodhi]] ►

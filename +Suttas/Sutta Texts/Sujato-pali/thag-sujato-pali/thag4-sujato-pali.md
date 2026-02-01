@@ -3,11 +3,11 @@ sutta_code: "THAG4"
 sutta_title:
   - "Catukkanipātavagga "
   - "Fours Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG4]]
 > ◄  [[thag3-sujato-pali]] 📜  [[thag5-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -547,6 +547,5 @@ kataṁ buddhassa sāsanan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag4-) 
 

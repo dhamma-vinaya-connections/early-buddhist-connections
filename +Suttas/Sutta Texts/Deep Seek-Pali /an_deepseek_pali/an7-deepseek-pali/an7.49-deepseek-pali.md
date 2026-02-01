@@ -4,10 +4,10 @@ sutta_title:
   - "Sañña "
   - "Perceptions"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.49]]
 > ◄  [[an7.48-deepseek-pali]] 📜  [[an7.50-deepseek-pali]] ►
 
 # AN 7.49 Dutiyasaññāsuttaṃ
@@ -87,8 +87,7 @@ Monks, if a bhikkhu frequently dwells with a mind familiar with the perception o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.49-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -98,6 +97,5 @@ Monks, if a bhikkhu frequently dwells with a mind familiar with the perception o
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.70]], [[AN9.16]], [[AN10.60]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.49]]
 > ◄  [[an7.48-deepseek-pali]] 📜  [[an7.50-deepseek-pali]] ►

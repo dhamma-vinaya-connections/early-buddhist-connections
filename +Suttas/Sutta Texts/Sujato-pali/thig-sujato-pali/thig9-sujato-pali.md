@@ -3,11 +3,11 @@ sutta_code: "THIG9"
 sutta_title:
   - "Navakanipātavagga "
   - "Nines Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG9]]
 > ◄  [[thig8-sujato-pali]] 📜  [[thig10-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -119,6 +119,5 @@ aphusiṁ santimuttamaṁ".
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig9-) 
 

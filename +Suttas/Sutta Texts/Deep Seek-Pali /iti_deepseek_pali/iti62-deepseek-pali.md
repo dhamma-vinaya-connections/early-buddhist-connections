@@ -4,10 +4,10 @@ sutta_title:
   - "Indriya "
   - "Faculties"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI62]]
 > ◄  [[iti61-deepseek-pali]] 📜  [[iti63-deepseek-pali]] ►
 
 # Iti 62 Addhāsuttaṃ
@@ -31,8 +31,7 @@ This meaning, too, was spoken by the Blessed One, so I have heard. Fourth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti62-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ This meaning, too, was spoken by the Blessed One, so I have heard. Fourth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3:86]], [[ANDITI102.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI62]]
 > ◄  [[iti61-deepseek-pali]] 📜  [[iti63-deepseek-pali]] ►

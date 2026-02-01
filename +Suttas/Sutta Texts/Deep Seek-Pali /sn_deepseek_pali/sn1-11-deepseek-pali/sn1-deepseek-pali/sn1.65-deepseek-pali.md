@@ -4,10 +4,10 @@ sutta_title:
   - "Bandhanasutta "
   - "Bondage"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.65]]
 > ◄  [[sn1.64-deepseek-pali]] 📜  [[sn1.66-deepseek-pali]] ►
 
 # SN 1.65 Bandhanasuttaṃ
@@ -29,6 +29,5 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.65-) 
 

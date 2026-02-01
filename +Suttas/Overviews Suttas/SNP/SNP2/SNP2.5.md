@@ -34,20 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Spirits"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA-2.313]]"
-  - "[[SA-2.323]]"
-  - "[[SA1314]]"
-  - "[[SA1324]]"
-parallels_partilal:
-  - "[[SA-2.323]]"
-  - "[[SA-2.313]]"
-  - "[[SA1324]]"
-  - "[[SA1314]]"
-  - "[[SN10.3]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA-2.313]], [[SA-2.323]], [[SA1314]], [[SA1324]]"
+parallels_partilal: "[[SA-2.323]], [[SA-2.313]], [[SA1324]], [[SA1314]], [[SN10.3]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.4]]  🌐 [[SNP2.6]] ►
 
@@ -77,8 +66,7 @@ of a banyan tree, attached to sensuality,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -93,8 +81,7 @@ of a banyan tree, attached to sensuality,
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN21]], [[SNP4:11]], [[DHP1]], [[DHP2]], [[DHP347]], [[UD1.7]], [[UD4.4]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP2.5%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP2.5%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -105,7 +92,7 @@ of a banyan tree, attached to sensuality,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP2.5%5D%5D%22%23mynotes%20-file%3Asnp2.5-%20-file%3A%22SNP2.4%22%20-file%3A%22SNP2.6%22%20-file%3A%22SNP2.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp2.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.5

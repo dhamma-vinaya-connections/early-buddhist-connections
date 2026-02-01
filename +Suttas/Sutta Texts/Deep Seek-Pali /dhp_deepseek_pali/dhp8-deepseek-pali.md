@@ -4,10 +4,10 @@ sutta_title:
   - "Sahassavagga "
   - "Thousands"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP8]]
 > ◄  [[dhp7-deepseek-pali]] 📜  [[dhp9-deepseek-pali]] ►
 
 # Dhp 8. Sahassavaggo
@@ -100,8 +100,7 @@ The Eighth Chapter on Thousands is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -112,6 +111,5 @@ The Eighth Chapter on Thousands is finished.
 | [[PE3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP8]]
 > ◄  [[dhp7-deepseek-pali]] 📜  [[dhp9-deepseek-pali]] ►

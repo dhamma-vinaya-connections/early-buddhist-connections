@@ -4,10 +4,10 @@ sutta_title:
   - "Pajjotasutta "
   - "Sources of Light"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
 > ◄  [[sn1.25-deepseek-pali]] 📜  [[sn1.27-deepseek-pali]] ►
 
 # SN 1.26 Pajjotasuttaṃ
@@ -33,8 +33,7 @@ Then fire illuminates here and there, day and night. The Fully Enlightened One i
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ Then fire illuminates here and there, day and night. The Fully Enlightened One i
 | [[SA-2.309]], [[SA1310]], [[SN2.4]], [[DHP387]], [[SN21.11]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
 > ◄  [[sn1.25-deepseek-pali]] 📜  [[sn1.27-deepseek-pali]] ►

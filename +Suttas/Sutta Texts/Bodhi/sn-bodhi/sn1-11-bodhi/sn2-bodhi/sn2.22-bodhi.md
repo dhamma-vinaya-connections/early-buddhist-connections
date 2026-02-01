@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
 > ◄  [[sn2.21-bodhi]] 📜  [[sn2.23-bodhi]] ►
 
 # SN2.22 Khema
@@ -78,8 +78,7 @@ Standing to one side, the young deva Khema recited these verses in the presence 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -90,6 +89,5 @@ Standing to one side, the young deva Khema recited these verses in the presence 
 | [[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
 > ◄  [[sn2.21-bodhi]] 📜  [[sn2.23-bodhi]] ►

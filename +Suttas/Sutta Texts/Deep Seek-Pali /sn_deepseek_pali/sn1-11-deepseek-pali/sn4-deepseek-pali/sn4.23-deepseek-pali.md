@@ -4,10 +4,10 @@ sutta_title:
   - "Godhikasutta "
   - "Godhika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.23]]
 > ◄  [[sn4.22-deepseek-pali]] 📜  [[sn4.24-deepseek-pali]] ►
 
 # SN 4.23 Godhikasuttaṃ
@@ -75,8 +75,7 @@ Then the Blessed One addressed the monks: "Do you see, monks, that cloud of smok
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ Then the Blessed One addressed the monks: "Do you see, monks, that cloud of smok
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.87]], [[SN35.87]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.23]]
 > ◄  [[sn4.22-deepseek-pali]] 📜  [[sn4.24-deepseek-pali]] ►

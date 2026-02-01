@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.53]]
 > ◄  [[an8.52-bodhi]] 📜  [[an8.54-bodhi]] ►
 
 # AN8.53 Brief
@@ -23,8 +23,7 @@ On one occasion the Blessed One was dwelling at Vesālī in the hall with the pe
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.53-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ On one occasion the Blessed One was dwelling at Vesālī in the hall with the pe
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.79]], [[AN8.30]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.53]]
 > ◄  [[an8.52-bodhi]] 📜  [[an8.54-bodhi]] ►

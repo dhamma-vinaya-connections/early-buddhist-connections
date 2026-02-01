@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA13_7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA13_7]]
 > ◄  [[SA13_6]] 📜  [[SA13_8]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -32,6 +32,5 @@ The Buddha told Śāriputra, “That refers to the seven parts of the right path
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa13_7-) 
 

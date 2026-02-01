@@ -34,15 +34,9 @@ sutta_teacher:
   - "Devas"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA-2.362]]"
-  - "[[SA1342]]"
-parallels_partilal:
-  - "[[SA-2.362]]"
-  - "[[SA1342]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA-2.362]], [[SA1342]]"
+parallels_partilal: "[[SA-2.362]], [[SA1342]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.6]]  🌐 [[SN9.8]] ►
 
@@ -67,8 +61,7 @@ Sheds that clingy dust with a shake
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,8 +76,7 @@ Sheds that clingy dust with a shake
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN9.7%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN9.7%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -95,7 +87,7 @@ Sheds that clingy dust with a shake
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.7%5D%5D%22%23mynotes%20-file%3Asn9.7-%20-file%3A%22SN9.6%22%20-file%3A%22SN9.8%22%20-file%3A%22SN9.7%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.7

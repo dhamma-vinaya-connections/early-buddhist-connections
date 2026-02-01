@@ -4,10 +4,10 @@ sutta_title:
   - "Tāyanasutta "
   - "Tayana"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
 > ◄  [[sn2.7-deepseek-pali]] 📜  [[sn2.9-deepseek-pali]] ►
 
 # SN 2.8 Tāyanasuttaṃ
@@ -75,8 +75,7 @@ Then, when that night had passed, the Blessed One addressed the monks: "Monks, l
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ Then, when that night had passed, the Blessed One addressed the monks: "Monks, l
 | [[DHP311]], [[DHP312]], [[THAG4.3]], [[DHP313]], [[DHP314]], [[DHP383]], [[SN2.8]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
 > ◄  [[sn2.7-deepseek-pali]] 📜  [[sn2.9-deepseek-pali]] ►

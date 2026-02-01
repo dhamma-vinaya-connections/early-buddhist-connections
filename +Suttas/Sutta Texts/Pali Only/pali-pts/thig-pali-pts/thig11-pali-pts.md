@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG11-PALI"
+sutta_code: "THIG11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dvādasakanipātavagga "
+  - "Twelves Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG11]]
 > ◄  [[thig10-pali-pts]] 📜  [[thig12-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ chandajātā avasāye manasā ca phuṭā siyā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig11-) 
 

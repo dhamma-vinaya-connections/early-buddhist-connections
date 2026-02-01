@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG840-PALI"
+sutta_code: "THAG840"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG840-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG840]]
 > ◄  [[thag839-pali-pts]] 📜  [[thag841-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ bhikkhavo tisatā ime tiṭṭhantī pañjalīkatā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag840-) 
 

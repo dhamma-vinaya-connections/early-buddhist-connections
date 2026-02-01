@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN50]]
 > ◄  [[mn49-bodhi]] 📜  [[mn51-bodhi]] ►
 
 # MN50 Māratajjanīya Sutta - The Rebuke to Māra
@@ -187,8 +187,7 @@ The Rebuke to Māra
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn50-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -203,6 +202,5 @@ The Rebuke to Māra
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN37]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN50]]
 > ◄  [[mn49-bodhi]] 📜  [[mn51-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.84-PALI"
+sutta_code: "AN3.84"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vajjiputta "
+  - "Vajji"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.84-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.84]]
 > ◄  [[an3.83-pali-sc]] 📜  [[an3.85-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -36,6 +36,16 @@ Catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.84-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN10.83]], [[AN3.91]], [[SN54.10]] | [[SA813]], [[SA829]], [[SA830-831]], [[SA966]] | A i 230 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA829]], [[AN3.91]], [[SA830-831]], [[SN54.10]], [[SA813]], [[AN10.83]], [[SA966]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.84]]
+> ◄  [[an3.83-pali-sc]] 📜  [[an3.85-pali-sc]] ►

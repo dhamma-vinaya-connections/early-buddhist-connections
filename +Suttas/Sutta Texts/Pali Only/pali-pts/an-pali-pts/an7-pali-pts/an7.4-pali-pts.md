@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.4-PALI"
+sutta_code: "AN7.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vitthatabala "
+  - "Powers In Detail"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.4]]
 > ◄  [[an7.3-pali-pts]] 📜  [[an7.5-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -28,6 +28,16 @@ pajjotass'; eva nibbānaṃ, vimokho hoti cetaso ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA691]] | A iv 3 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA691]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.4]]
+> ◄  [[an7.3-pali-pts]] 📜  [[an7.5-pali-pts]] ►

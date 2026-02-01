@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
 > ◄  [[mn121-bodhi]] 📜  [[mn123-bodhi]] ►
 
 # MN122 Mahāsuññata Sutta - The Greater Discourse on Voidness
@@ -93,8 +93,7 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn122-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -109,6 +108,5 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN121]]; [[[[SN35.85]]]]; [[[[AN5.30]]]]; [[[[AN6.42]]]]; [[[[AN8.30]]]]; [[[[SN1.3]], [[MN137]], [[ITI109]], [[MN106]], [[AN8.86]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
 > ◄  [[mn121-bodhi]] 📜  [[mn123-bodhi]] ►

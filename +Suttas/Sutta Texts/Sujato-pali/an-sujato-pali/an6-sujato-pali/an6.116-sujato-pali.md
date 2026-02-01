@@ -3,11 +3,11 @@ sutta_code: "AN6.116"
 sutta_title:
   - "Uddhacca "
   - "Restlessness"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.116]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.116]]
 > ◄  [[an6.115-sujato-pali]] 📜  [[an6.117-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -38,8 +38,7 @@ Tikavaggo ekādasamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.116-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ Tikavaggo ekādasamo.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.89]], [[AN6.90]], [[AN6.91]], [[AN6.92]], [[AN6.93]], [[AN6.94]], [[AN6.95]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.116]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.116]]
 > ◄  [[an6.115-sujato-pali]] 📜  [[an6.117-sujato-pali]] ►

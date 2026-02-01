@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA96]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA96]]
 > ◄  [[ma95-bdk]] 📜  [[ma97-bdk]] ►
 
 ### 96. The Discourse on Absence
@@ -27,8 +27,7 @@ I have energy,... I have mindfulness,... I have concentration,... and I am free 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma96-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ I have energy,... I have mindfulness,... I have concentration,... and I am free 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA93]], [[MA95]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA96]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA96]]
 > ◄  [[ma95-bdk]] 📜  [[ma97-bdk]] ►

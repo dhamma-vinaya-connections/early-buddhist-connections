@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-bodhi]] 📜  [[mn72-bodhi]] ►
 
 # MN71 Tevijjavacchagotta Sutta - To Vacchagotta on the
@@ -62,8 +62,7 @@ That is what the Blessed One said. The wanderer Vacchagotta was satisfied and de
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn71-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -74,6 +73,5 @@ That is what the Blessed One said. The wanderer Vacchagotta was satisfied and de
 | [[MN14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-bodhi]] 📜  [[mn72-bodhi]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Vitthata "
   - "In Detail"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.5]]
 > ◄  [[an5.4-deepseek-pali]] 📜  [[an5.6-deepseek-pali]] ►
 
 # AN 5.5 Sikkhāsuttaṃ
@@ -27,8 +27,7 @@ Bhikkhus, whatever monk or nun, even with suffering, even with sorrow, with tear
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ Bhikkhus, whatever monk or nun, even with suffering, even with sorrow, with tear
 | [[SA681-683]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.5]]
 > ◄  [[an5.4-deepseek-pali]] 📜  [[an5.6-deepseek-pali]] ►

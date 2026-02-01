@@ -4,10 +4,10 @@ sutta_title:
   - "Sevitabba "
   - "Associates"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.27]]
 > ◄  [[an3.26-deepseek-pali]] 📜  [[an3.28-deepseek-pali]] ►
 
 # AN 3.27 Jigucchitabbasuttaṃ
@@ -35,8 +35,7 @@ A person declines by associating with the inferior; one does not decline by asso
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ A person declines by associating with the inferior; one does not decline by asso
 | [[JA397]], [[AN3.26]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.27]]
 > ◄  [[an3.26-deepseek-pali]] 📜  [[an3.28-deepseek-pali]] ►

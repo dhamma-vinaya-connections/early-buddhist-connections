@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN108-PALI"
+sutta_code: "MN108"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Gopakamoggallāna Sutta "
+  - "With Moggallāna the Guardian"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-pali-sri]] 📜  [[mn109-pali-sri]] ►
 
 # 108. Gopakamoggallana - Pali
@@ -206,6 +206,16 @@ Gopakamoggallānasuttaṃ aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn108-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA145]] | M iii 7 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA145]]; [[SN22.58]]; [[DN33]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
+> ◄  [[mn107-pali-sri]] 📜  [[mn109-pali-sri]] ►

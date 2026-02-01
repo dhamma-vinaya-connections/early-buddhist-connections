@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG481-PALI"
+sutta_code: "THIG481"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG481-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG481]]
 > ◄  [[thig480-pali-pts]] 📜  [[thig482-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sā ca manasikaroti Anikaratto ca āruhi turitaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig481-) 
 

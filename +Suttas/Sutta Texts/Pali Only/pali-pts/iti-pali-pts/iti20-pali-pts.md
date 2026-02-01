@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI20-PALI"
+sutta_code: "ITI20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paduṭṭhacitta "
+  - "Corrupted mind"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI20]]
 > ◄  [[iti19-pali-pts]] 📜  [[iti21-pali-pts]] ►
 
 ## Itivuttaka
@@ -36,6 +36,16 @@ Moha (11) -kodhā (12) atha makkho (13) moha (14) -kāmā (15) sekkhā duve (16,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti20-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN1.43]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI20]]
+> ◄  [[iti19-pali-pts]] 📜  [[iti21-pali-pts]] ►

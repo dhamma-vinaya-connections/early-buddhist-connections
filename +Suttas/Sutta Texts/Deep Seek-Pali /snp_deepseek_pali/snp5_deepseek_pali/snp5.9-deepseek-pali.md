@@ -4,10 +4,10 @@ sutta_title:
   - "Hemakamāṇavapucchā "
   - "Questions of the Student Hemaka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.9]]
 > ◄  [[snp5.8-deepseek-pali]] 📜  [[snp5.10-deepseek-pali]] ►
 
 # Snp 5.9 Hemakamāṇavapucchā
@@ -53,6 +53,5 @@ The The Questions of the Young Man Hemaka, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.9-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI91-PALI"
+sutta_code: "ITI91"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "牛角婆羅林 "
+  - "Discourse in the Gosiṅga Sāla Forest 2"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI91-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI91]]
 > ◄  [[iti90-pali-sc]] 📜  [[iti92-pali-sc]] ►
 
 # Iti 91. Saṅghāṭikaṇṇasuttaṃ
@@ -31,6 +31,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti91-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP307]], [[DHP308]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP307]], [[ITI48]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DHP308.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI91]]
+> ◄  [[iti90-pali-sc]] 📜  [[iti92-pali-sc]] ►

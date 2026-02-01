@@ -3,11 +3,11 @@ sutta_code: "AN4.51"
 sutta_title:
   - "Puññābhisanda "
   - "Overflowing Merit 1st"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.51]]
 > ◄  [[an4.50-sujato-pali]] 📜  [[an4.52-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -93,8 +93,7 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.51-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -105,6 +104,5 @@ Paṭhamaṁ.
 | [[AN5.45]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.51]]
 > ◄  [[an4.50-sujato-pali]] 📜  [[an4.52-sujato-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA52]]
 > ◄  [[ma51-bdk]] 📜  [[ma53-bdk]] ►
 
 ### 52. The [First] Discourse on Nutriments
@@ -33,8 +33,7 @@ What is the nutriment of association with good friends? The answer is: its nutri
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma52-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ What is the nutriment of association with good friends? The answer is: its nutri
 | [[AN10.93]], [[]], [[AN10.96]], [[]], [[AN4.185]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA52]]
 > ◄  [[ma51-bdk]] 📜  [[ma53-bdk]] ►

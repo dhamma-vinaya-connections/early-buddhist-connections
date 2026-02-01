@@ -3,11 +3,11 @@ sutta_code: "AN3.52"
 sutta_title:
   - "Dvebrāhmaṇa "
   - "Two Brahmins"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.52]]
 > ◄  [[an3.51-sujato-pali]] 📜  [[an3.53-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -73,8 +73,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.52-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,6 +84,5 @@ Dutiyaṁ.
 | [[SA-2.86]], [[AN3.51]], [[SA-2.87]], [[JA424]], [[SN1.41]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.52]]
 > ◄  [[an3.51-sujato-pali]] 📜  [[an3.53-sujato-pali]] ►

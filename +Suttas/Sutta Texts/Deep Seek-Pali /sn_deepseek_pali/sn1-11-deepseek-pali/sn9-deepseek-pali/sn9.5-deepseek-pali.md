@@ -4,10 +4,10 @@ sutta_title:
   - "Ānandasutta "
   - "Ānanda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.5]]
 > ◄  [[sn9.4-deepseek-pali]] 📜  [[sn9.6-deepseek-pali]] ►
 
 # SN 9.5 Ānandasuttaṃ
@@ -31,8 +31,7 @@ Then Venerable Ānanda, stirred by that deity, experienced spiritual urgency.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Then Venerable Ānanda, stirred by that deity, experienced spiritual urgency.
 | [[SA-2.361]], [[SA1341]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.5]]
 > ◄  [[sn9.4-deepseek-pali]] 📜  [[sn9.6-deepseek-pali]] ►

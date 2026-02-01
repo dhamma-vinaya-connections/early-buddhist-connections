@@ -4,10 +4,10 @@ sutta_title:
   - "Dhammaṭṭhavagga "
   - "Just"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP19]]
 > ◄  [[dhp18-deepseek-pali]] 📜  [[dhp20-deepseek-pali]] ►
 
 # Dhp 19. Dhammaṭṭhavaggo
@@ -105,12 +105,11 @@ The Chapter on the Just, the Nineteenth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | Dh 73 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP19]]
 > ◄  [[dhp18-deepseek-pali]] 📜  [[dhp20-deepseek-pali]] ►

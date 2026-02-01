@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI75-PALI"
+sutta_code: "ITI75"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Avuṭṭhika "
+  - "Rainless Cloud"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI75-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI75]]
 > ◄  [[iti74-pali-pts]] 📜  [[iti76-pali-pts]] ►
 
 ## Itivuttaka
@@ -49,6 +49,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||6||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti75-) 
 

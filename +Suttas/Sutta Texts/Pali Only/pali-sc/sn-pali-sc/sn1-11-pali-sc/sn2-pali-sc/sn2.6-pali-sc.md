@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.6-PALI"
+sutta_code: "SN2.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kāmadasutta "
+  - "Kamada"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.6]]
 > ◄  [[sn2.5-pali-sc]] 📜  [[sn2.7-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -55,6 +55,16 @@ Ariyā hi visame samā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.312]], [[SA1313]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.312]], [[SA1313]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.6]]
+> ◄  [[sn2.5-pali-sc]] 📜  [[sn2.7-pali-sc]] ►

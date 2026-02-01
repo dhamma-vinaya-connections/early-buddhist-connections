@@ -4,10 +4,10 @@ sutta_title:
   - "Pattanikujjana "
   - "Turning The Bowl Upside Down"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.87]]
 > ◄  [[an8.86-deepseek-pali]] 📜  [[an8.88-deepseek-pali]] ►
 
 # AN 8.87 Pattanikujjanasuttaṃ
@@ -27,8 +27,7 @@ Monks, if the Saṅgha wishes, they may turn up the bowl of a lay follower endow
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.87-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ Monks, if the Saṅgha wishes, they may turn up the bowl of a lay follower endow
 | [[PLI-TV-KD15]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.87]]
 > ◄  [[an8.86-deepseek-pali]] 📜  [[an8.88-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG16-PALI"
+sutta_code: "THIG16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahānipātavagga "
+  - "Great Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG16]]
 > ◄  [[thig15-pali-sc]] 📜  [[]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -398,6 +398,5 @@ Nibbinditvā virajjantī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig16-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP132-PALI"
+sutta_code: "DHP132"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP132-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP132]]
 > ◄  [[dhp131-pali-pts]] 📜  [[dhp133-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ mā voca pharusaṃ kañci vuttā paṭivadeyyu taṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp132-) 
 

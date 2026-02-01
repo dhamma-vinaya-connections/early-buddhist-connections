@@ -34,17 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Ascetics"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[DN2]]"
-  - "[[DN21]]"
-  - "[[MN92]]"
-  - "[[SNP3.7]]"
-  - "[[THAG16.6]]"
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: "[[DN2]], [[DN21]], [[MN92]], [[SNP3.7]], [[THAG16.6]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.5]]  🌐 [[SNP3.7]] ►
 
@@ -72,8 +64,7 @@ he has attained the ending of birth: He is called awakened.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -88,8 +79,7 @@ he has attained the ending of birth: He is called awakened.”
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN2]], [[UD1.9]], [[THAG6.9]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP3.6%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP3.6%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -100,7 +90,7 @@ he has attained the ending of birth: He is called awakened.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP3.6%5D%5D%22%23mynotes%20-file%3Asnp3.6-%20-file%3A%22SNP3.5%22%20-file%3A%22SNP3.7%22%20-file%3A%22SNP3.6%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp3.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.6

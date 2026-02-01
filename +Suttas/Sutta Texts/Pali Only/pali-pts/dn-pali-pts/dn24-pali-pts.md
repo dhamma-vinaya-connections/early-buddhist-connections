@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN24-PALI"
+sutta_code: "DN24"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pāthika Sutta "
+  - "About Pāṭikaputta"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-pali-pts]] 📜  [[dn25-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -268,6 +268,16 @@ Pāṭika-Suttantaṃ Paṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn24-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA15]] | D iii 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA15]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
+> ◄  [[dn23-pali-pts]] 📜  [[dn25-pali-pts]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Saṅgārava "
   - "With Saṅgārava"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
 > ◄  [[an3.59-deepseek-pali]] 📜  [[an3.61-deepseek-pali]] ►
 
 # AN 3.60 Jāṇussoṇisuttaṃ
@@ -63,8 +63,7 @@ By these three true knowledges a brahmin is one who possesses the three true kno
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ By these three true knowledges a brahmin is one who possesses the three true kno
 | [[MA143]], [[DN11]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
 > ◄  [[an3.59-deepseek-pali]] 📜  [[an3.61-deepseek-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
 > ◄  [[mn52-anigha]] 📜  [[mn54-anigha]] ►
 
 # MN 53 - A Trainee
@@ -86,8 +86,7 @@ This is what Venerable Ānanda said, and the teacher approved. Pleased, the Saky
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn53-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -102,6 +101,5 @@ This is what Venerable Ānanda said, and the teacher approved. Pleased, the Saky
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.37]]; [[AN7.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
 > ◄  [[mn52-anigha]] 📜  [[mn54-anigha]] ►

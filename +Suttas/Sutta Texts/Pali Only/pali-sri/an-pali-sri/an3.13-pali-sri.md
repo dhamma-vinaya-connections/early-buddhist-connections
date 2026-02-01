@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.13-PALI"
+sutta_code: "AN3.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Āsaṃsa "
+  - "Hopes"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.13]]
 > ◄  [[an3.12-pali-sri]] 📜  [[an3.14-pali-sri]] ►
 
 # 5:13 Gilanavaggo - Pali
@@ -220,6 +220,11 @@ Vapakāsasamaṇasukhāni parikuppo ca sampadāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 107 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.13]]
+> ◄  [[an3.12-pali-sri]] 📜  [[an3.14-pali-sri]] ►

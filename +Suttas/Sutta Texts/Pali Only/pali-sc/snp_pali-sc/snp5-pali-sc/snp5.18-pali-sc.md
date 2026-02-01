@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.18-PALI"
+sutta_code: "SNP5.18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pārāyanatthutigāthā "
+  - "Homage to the Way to the Beyond"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.18]]
 > ◄  [[snp5.17-pali-sc]] 📜  [[]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -116,6 +116,7 @@ Pārāyanavaggo pañcamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.18-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.18]]
+> ◄  [[snp5.17-pali-sc]] 📜  [[]] ►

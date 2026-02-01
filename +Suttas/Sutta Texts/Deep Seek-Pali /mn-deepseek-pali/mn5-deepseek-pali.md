@@ -4,10 +4,10 @@ sutta_title:
   - "Anaṅgaṇa Sutta "
   - "Unblemished"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
 > ◄  [[mn4-deepseek-pali]] 📜  [[mn6-deepseek-pali]] ►
 
 # 5. Anaṅgaṇasuttaṃ
@@ -139,8 +139,7 @@ The Anaṅgaṇa Sutta, the fifth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -155,6 +154,5 @@ The Anaṅgaṇa Sutta, the fifth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN3]], [[MN7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
 > ◄  [[mn4-deepseek-pali]] 📜  [[mn6-deepseek-pali]] ►

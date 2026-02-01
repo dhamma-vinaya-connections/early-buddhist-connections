@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG922-PALI"
+sutta_code: "THAG922"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG922-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG922]]
 > ◄  [[thag921-pali-pts]] 📜  [[thag923-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ paṇītaṃ yadi vā lūkhaṃ appaṃ vā yadi vā bahuṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag922-) 
 

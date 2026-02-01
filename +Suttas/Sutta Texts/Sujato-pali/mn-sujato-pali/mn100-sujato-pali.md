@@ -3,11 +3,11 @@ sutta_code: "MN100"
 sutta_title:
   - "Saṅgārava Sutta "
   - "With Saṅgārava"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
 > ◄  [[mn99-sujato-pali]] 📜  [[mn101-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -435,8 +435,7 @@ Majjhimapaṇṇāsakaṁ samattaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn100-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -447,6 +446,5 @@ Majjhimapaṇṇāsakaṁ samattaṁ.
 | [[MN85]]; [[MN36]]; [[EA31.8]]; [[DA20]]; [[DA21]]; [[DA22]]; [[PLI-TV-KD15]]; [[DN14]]; [[SN6.1]]; [[MA204]]; [[MN26]]; [[MN20]]; [[MN4]]; [[MA101]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
 > ◄  [[mn99-sujato-pali]] 📜  [[mn101-sujato-pali]] ►

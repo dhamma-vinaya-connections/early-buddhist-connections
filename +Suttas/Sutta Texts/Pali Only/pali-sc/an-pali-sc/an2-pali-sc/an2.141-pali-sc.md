@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.141-PALI"
+sutta_code: "AN2.141"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Santhāra "
+  - "Welcome"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.141-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.141]]
 > ◄  [[an2.130-pali-sc]] 📜  [[an2.151-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -37,6 +37,16 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.141-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA15.3]] | A i 91 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA15.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.141]]
+> ◄  [[an2.130-pali-sc]] 📜  [[an2.151-pali-sc]] ►

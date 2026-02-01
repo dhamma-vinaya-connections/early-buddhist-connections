@@ -34,15 +34,9 @@ sutta_teacher:
   - "Kaccana"
 sutta_audience:
   - "Brahmins"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[EA19.9]]"
-  - "[[SA547]]"
-parallels_partilal:
-  - "[[EA19.9]]"
-  - "[[SA547]]"
+parallels_nikaya: ""
+parallels_agama: "[[EA19.9]], [[SA547]]"
+parallels_partilal: "[[EA19.9]], [[SA547]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.37]]  🌐 [[AN2.39]] ►
 
@@ -64,8 +58,7 @@ They are reckoned as a child, not a senior
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.38-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -80,8 +73,7 @@ They are reckoned as a child, not a senior
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.94]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN2.38%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN2.38%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -92,7 +84,7 @@ They are reckoned as a child, not a senior
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN2.38%5D%5D%22%23mynotes%20-file%3Aan2.38-%20-file%3A%22AN2.37%22%20-file%3A%22AN2.39%22%20-file%3A%22AN2.38%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an2.38/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.38

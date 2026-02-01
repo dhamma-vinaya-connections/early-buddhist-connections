@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG369-PALI"
+sutta_code: "THAG369"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG369-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG369]]
 > ◄  [[thag368-pali-pts]] 📜  [[thag370-pali-pts]] ►
 
 ## Theragāthā
@@ -24,6 +24,5 @@ Yo ve garūnaṃ vacanaññu dhīro vase ca tamhi janayetha pemaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag369-) 
 

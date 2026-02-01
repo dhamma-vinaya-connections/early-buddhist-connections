@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP191-PALI"
+sutta_code: "DHP191"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP191-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP191]]
 > ◄  [[dhp190-pali-pts]] 📜  [[dhp192-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ etaṃ kho saraṇaṃ khemaṃ etaṃ saraṇam uttamaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp191-) 
 

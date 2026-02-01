@@ -3,11 +3,11 @@ sutta_code: "MN41"
 sutta_title:
   - "Sāleyyaka Sutta "
   - "People of Sālā"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
 > ◄  [[mn40-sujato-pali]] 📜  [[mn42-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -195,8 +195,7 @@ Sāleyyakasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn41-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -211,6 +210,5 @@ Sāleyyakasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN9]]; [[MN135]]; [[AN3.71]]; [[AN4.123-126]]; [[AN7.49]]; [[AN8.54]]; [[AN10.176.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
 > ◄  [[mn40-sujato-pali]] 📜  [[mn42-sujato-pali]] ►

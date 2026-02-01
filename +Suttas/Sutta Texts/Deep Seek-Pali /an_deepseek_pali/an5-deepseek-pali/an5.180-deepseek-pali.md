@@ -4,10 +4,10 @@ sutta_title:
   - "Gavesī "
   - "About Gavesī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.180]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.180]]
 > ◄  [[an5.179-deepseek-pali]] 📜  [[an5.181-deepseek-pali]] ►
 
 # AN 5.180 Gavesīsuttaṃ
@@ -75,12 +75,11 @@ Timidity, the Confident One, Hell, Enmity, and the Outcaste as the fifth; Joy, T
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.180-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 214 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.180]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.180]]
 > ◄  [[an5.179-deepseek-pali]] 📜  [[an5.181-deepseek-pali]] ►

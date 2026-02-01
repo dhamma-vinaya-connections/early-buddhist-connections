@@ -4,10 +4,10 @@ sutta_title:
   - "Subhuti Sutta "
   - "Subhūti"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.7]]
 > ◄  [[ud6.6-deepseek-pali]] 📜  [[ud6.8-deepseek-pali]] ►
 
 # Ud 6.7 Subhūtisuttaṃ
@@ -35,9 +35,7 @@ Then, the Blessed One, having understood this matter, on that occasion uttered t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.7-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.7]]
 > ◄  [[ud6.6-deepseek-pali]] 📜  [[ud6.8-deepseek-pali]] ►

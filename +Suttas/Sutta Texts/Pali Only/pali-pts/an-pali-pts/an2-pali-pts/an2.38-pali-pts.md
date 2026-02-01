@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.38-PALI"
+sutta_code: "AN2.38"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kandarayana "
+  - "Kandarayana"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.38-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.38]]
 > ◄  [[an2.37-pali-pts]] 📜  [[an2.39-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -28,6 +28,20 @@ Abhikkantaṃ bho Kaccāna . . . pe . . . Upāsakaṃ maṃ bhavaṃ Kaccāno dh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.38-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA19.9]], [[SA547]] | A i 67 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA19.9]], [[SA547]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.94]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.38]]
+> ◄  [[an2.37-pali-pts]] 📜  [[an2.39-pali-pts]] ►

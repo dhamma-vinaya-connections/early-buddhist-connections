@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāassapura Sutta "
   - "Discourse at Assapura Longer"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
 > ◄  [[mn38-deepseek-pali]] 📜  [[mn40-deepseek-pali]] ►
 
 # 39. Mahāassapurasuttaṃ
@@ -159,8 +159,7 @@ The Greater Discourse at Assapura is finished, the ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn39-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -175,6 +174,5 @@ The Greater Discourse at Assapura is finished, the ninth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN2]]; [[DHP XXVI. AN8.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
 > ◄  [[mn38-deepseek-pali]] 📜  [[mn40-deepseek-pali]] ►

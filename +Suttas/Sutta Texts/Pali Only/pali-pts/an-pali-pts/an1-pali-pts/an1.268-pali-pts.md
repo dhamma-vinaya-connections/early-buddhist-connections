@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.268-PALI"
+sutta_code: "AN1.268"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Aṭṭhāna "
+  - "Impossible"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.268-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.268]]
 > ◄  [[an1.187-pali-pts]] 📜  [[an1.278-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -31,6 +31,16 @@ anussavappasannānaṃ yadidaṃ Kāḷī upāsikā Kurara-gharikā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.268-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN115]] | [[MA181]] | A i 26 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN115]], [[MA181]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.268]]
+> ◄  [[an1.187-pali-pts]] 📜  [[an1.278-pali-pts]] ►

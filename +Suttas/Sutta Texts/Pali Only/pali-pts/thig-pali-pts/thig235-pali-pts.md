@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG235-PALI"
+sutta_code: "THIG235"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG235-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG235]]
 > ◄  [[thig234-pali-pts]] 📜  [[thig236-pali-pts]] ►
 
 ## Therīgāthā
@@ -24,6 +24,5 @@ udakahārī ahaṃ sīte sadā udakam otariṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig235-) 
 

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.19]]
 > ◄  [[an6.18-bodhi]] 📜  [[an6.20-bodhi]] ►
 
 # AN6.19 Mindfulness of Death (1)
@@ -67,8 +67,7 @@ When this was said, the Blessed One said to those bhikkhus: “Bhikkhus, (1) the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ When this was said, the Blessed One said to those bhikkhus: “Bhikkhus, (1) the
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.56]], [[AN6.19]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.19]]
 > ◄  [[an6.18-bodhi]] 📜  [[an6.20-bodhi]] ►

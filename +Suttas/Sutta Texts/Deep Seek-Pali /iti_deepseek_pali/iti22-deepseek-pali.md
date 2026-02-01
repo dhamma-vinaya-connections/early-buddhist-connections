@@ -4,10 +4,10 @@ sutta_title:
   - "Metta "
   - "Benefits of love"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI22]]
 > ◄  [[iti21-deepseek-pali]] 📜  [[iti23-deepseek-pali]] ►
 
 # Iti 22 Ubhayatthasuttaṃ
@@ -29,8 +29,7 @@ This meaning too was spoken by the Blessed One, so I have heard. Third.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This meaning too was spoken by the Blessed One, so I have heard. Third.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.113]], [[AN6:19]], [[AN10:15]], [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[SN3:4]], [[SN3:17]], [[AN3:66]], [[AN5.27]], [[AN11.16]], [[KHP9]], [[AN3:20]], [[SN3:25]], [[AN§60]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI22]]
 > ◄  [[iti21-deepseek-pali]] 📜  [[iti23-deepseek-pali]] ►

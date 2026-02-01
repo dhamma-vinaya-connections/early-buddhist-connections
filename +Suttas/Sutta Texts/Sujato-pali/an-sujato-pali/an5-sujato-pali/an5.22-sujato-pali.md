@@ -3,11 +3,11 @@ sutta_code: "AN5.22"
 sutta_title:
   - "Paṭhamaagārava "
   - "Disrespect"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.22]]
 > ◄  [[an5.21-sujato-pali]] 📜  [[an5.23-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -35,8 +35,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Dutiyaṁ.
 | [[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[MA45]], [[AN7.65]], [[AN6.50]], [[MA48]], [[AN11.4]], [[AN5.21]], [[MA49]], [[MA50]], [[AN5.24]], [[AN5.168]], [[MA46]], [[SA495]], [[AN10.4]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.22]]
 > ◄  [[an5.21-sujato-pali]] 📜  [[an5.23-sujato-pali]] ►

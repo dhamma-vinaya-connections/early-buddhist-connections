@@ -3,11 +3,11 @@ sutta_code: "SN3.10"
 sutta_title:
   - "Bandhanasutta "
   - "Bondage"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
 > ◄  [[sn3.9-sujato-pali]] 📜  [[sn3.11-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -70,8 +70,7 @@ mallikā yaññabandhananti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -82,6 +81,5 @@ mallikā yaññabandhananti.
 | [[SA-2.62]], [[SA1235]], [[DHP345]], [[JA201]], [[PE2]], [[DHP346]], [[THAG2.34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
 > ◄  [[sn3.9-sujato-pali]] 📜  [[sn3.11-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG692-PALI"
+sutta_code: "THAG692"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG692-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG692]]
 > ◄  [[thag691-pali-pts]] 📜  [[thag693-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ nāgaṃ vo kittayissāmi, na hi āguṃ karoti so.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag692-) 
 

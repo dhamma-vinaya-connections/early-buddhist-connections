@@ -3,11 +3,11 @@ sutta_code: "MN118"
 sutta_title:
   - "Ānāpānassati Sutta "
   - "Mindfulness of Breathing"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN118]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN118]]
 > ◄  [[mn117-sujato-pali]] 📜  [[mn119-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -229,8 +229,7 @@ Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā vijjāvi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn118-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -245,6 +244,5 @@ Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā vijjāvi
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN119]], [[MN10]], [[DN22]], [[SN54.8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN118]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN118]]
 > ◄  [[mn117-sujato-pali]] 📜  [[mn119-sujato-pali]] ►

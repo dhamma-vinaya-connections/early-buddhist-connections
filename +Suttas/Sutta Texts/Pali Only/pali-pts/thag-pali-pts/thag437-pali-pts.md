@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG437-PALI"
+sutta_code: "THAG437"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG437-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG437]]
 > ◄  [[thag436-pali-pts]] 📜  [[thag438-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ vippamuttaṃ kilesehi suddhacittaṃ anāvilaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag437-) 
 

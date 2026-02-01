@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.7-PALI"
+sutta_code: "SN1.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Appaṭividitasutta "
+  - "Not Penetrated"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
 > ◄  [[sn1.6-pali-sri]] 📜  [[sn1.8-pali-sri]] ►
 
 # 1:7 Anvavaggo - Pali
@@ -194,6 +194,16 @@ Abbhāhatuḍḍito pihito icchā lokena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.164]], [[SA579]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.164]], [[SA579]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
+> ◄  [[sn1.6-pali-sri]] 📜  [[sn1.8-pali-sri]] ►

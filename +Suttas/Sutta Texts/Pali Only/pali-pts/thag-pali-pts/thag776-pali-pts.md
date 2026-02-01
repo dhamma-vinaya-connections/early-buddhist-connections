@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG776-PALI"
+sutta_code: "THAG776"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG776-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG776]]
 > ◄  [[thag775-pali-pts]] 📜  [[thag777-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ rājā pasayha ppathaviṃ vijetvā sasāgarantaṃ mahim āvasanto
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag776-) 
 

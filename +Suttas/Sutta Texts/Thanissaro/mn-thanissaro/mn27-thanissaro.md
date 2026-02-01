@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
 > ◄  [[mn26-thanissaro]] 📜  [[mn28-thanissaro]] ►
 
 ## MN27 The Shorter Elephant Footprint Simile
@@ -168,8 +168,7 @@ When this was said, Jāṇussoṇin the brahman said to the Blessed One: “Magn
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -184,6 +183,5 @@ When this was said, Jāṇussoṇin the brahman said to the Blessed One: “Magn
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
 > ◄  [[mn26-thanissaro]] 📜  [[mn28-thanissaro]] ►

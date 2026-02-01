@@ -3,11 +3,11 @@ sutta_code: "DHP8-BUDDHARAKKHITA"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pali"
+sutta-version: "Pali"
 language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP8-BUDDHARAKKHITA]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP8-BUDDHARAKKHITA]]
 > ◄  [[dhp7-buddharakkhita-pali]] 📜  [[dhp9-buddharakkhita-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -138,6 +138,5 @@ Sahassavaggo aṭṭhamo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp8-buddharakkhita-) 
 

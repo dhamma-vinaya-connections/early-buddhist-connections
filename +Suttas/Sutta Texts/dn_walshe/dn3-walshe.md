@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN3]]
 > ◄  [[dn2-walshe]] 📜  [[dn4-walshe]] ►
 
 # DN3 Ambaṭṭha Sutta: About Ambaṭṭha
@@ -194,8 +194,7 @@ Then the Lord told Pokkharasāti all that had passed between him and Ambattha. A
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -206,6 +205,5 @@ Then the Lord told Pokkharasāti all that had passed between him and Ambattha. A
 | [[DA20]], [[MN36]], [[AN11.10]], [[DN27]], [[MN53]], [[SN21.11]], [[SN6.11]], [[SN35.120]], [[DN2]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]], [[AN5.192]], [[MN95]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN3]]
 > ◄  [[dn2-walshe]] 📜  [[dn4-walshe]] ►

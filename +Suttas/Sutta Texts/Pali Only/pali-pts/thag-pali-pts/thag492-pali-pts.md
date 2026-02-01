@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG492-PALI"
+sutta_code: "THAG492"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG492-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG492]]
 > ◄  [[thag491-pali-pts]] 📜  [[thag493-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ bhedā imassa kāyassa jīvitassa ca saṃkhayā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag492-) 
 

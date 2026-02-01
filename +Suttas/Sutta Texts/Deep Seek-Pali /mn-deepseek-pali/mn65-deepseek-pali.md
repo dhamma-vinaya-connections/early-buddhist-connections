@@ -4,10 +4,10 @@ sutta_title:
   - "Bhaddāli Sutta "
   - "With Bhaddāli"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
 > ◄  [[mn64-deepseek-pali]] 📜  [[mn66-deepseek-pali]] ►
 
 # 65. Bhaddālisuttaṃ
@@ -159,8 +159,7 @@ The Bhaddāli Sutta, the fifth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn65-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -171,6 +170,5 @@ The Bhaddāli Sutta, the fifth, is concluded.
 | [[EA49.7]]; [[MA194]]; [[MN66]]; [[MA192]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
 > ◄  [[mn64-deepseek-pali]] 📜  [[mn66-deepseek-pali]] ►

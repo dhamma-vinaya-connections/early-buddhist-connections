@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA39]]
 > ◄  [[ma38-bdk]] 📜  [[ma40-bdk]] ►
 
 ### 39. The [Second] Discourse to the Householder Ugga
@@ -31,6 +31,5 @@ This is what Venerable Ānanda said, Having heard Venerable Ānanda’s words, t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma39-) 
 

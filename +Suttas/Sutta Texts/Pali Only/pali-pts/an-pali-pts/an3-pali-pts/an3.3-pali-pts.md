@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.3-PALI"
+sutta_code: "AN3.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kathāpavatti "
+  - "Conversation Flows"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.3]]
 > ◄  [[an3.2-pali-pts]] 📜  [[an3.4-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,20 @@ Idha bhikkhave paṇḍito sucintitacintī ca hoti subhāsitabhāsī sukatakamma
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA22.6]] | A i 151 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA22.6]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN10.176]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.3]]
+> ◄  [[an3.2-pali-pts]] 📜  [[an3.4-pali-pts]] ►

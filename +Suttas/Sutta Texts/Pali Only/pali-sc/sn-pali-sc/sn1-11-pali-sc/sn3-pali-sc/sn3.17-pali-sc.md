@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.17-PALI"
+sutta_code: "SN3.17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Appamādasutta "
+  - "Diligence (1)"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.17]]
 > ◄  [[sn3.16-pali-sc]] 📜  [[sn3.18-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -50,6 +50,20 @@ paṇḍitoti pavuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN45.141-148]] | [[EA26.1-4]], [[MA141]], [[SA-2.66]], [[SA1239]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[EA26.1-4]], [[MA141]], [[SA-2.66]], [[SA1239]], [[SN45.141-148]], [[AN5.43]], [[ITI23]], [[SN3.18]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN55.40]], [[SN48.56 AN4.37]], [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[DHP315]], [[SN2.10]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.17]]
+> ◄  [[sn3.16-pali-sc]] 📜  [[sn3.18-pali-sc]] ►

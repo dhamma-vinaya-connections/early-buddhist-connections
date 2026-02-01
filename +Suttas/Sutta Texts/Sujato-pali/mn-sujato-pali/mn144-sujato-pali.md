@@ -3,11 +3,11 @@ sutta_code: "MN144"
 sutta_title:
   - "Channovāda Sutta "
   - "Advice to Channa"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
 > ◄  [[mn143-sujato-pali]] 📜  [[mn145-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -135,8 +135,7 @@ Channovādasuttaṁ niṭṭhitaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn144-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -147,6 +146,5 @@ Channovādasuttaṁ niṭṭhitaṁ dutiyaṁ.
 | [[SA1266]]; [[SN35.87]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
 > ◄  [[mn143-sujato-pali]] 📜  [[mn145-sujato-pali]] ►

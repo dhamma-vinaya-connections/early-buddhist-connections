@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG2-PALI"
+sutta_code: "THAG2"
 sutta_title:
-  - " "
-  - ""
+  - "Dukanipātavagga "
+  - "Twos Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG2]]
 > ◄  [[thag1-pali-eng]] 📜  [[thag3-pali-eng]] ►
 
 # Thag 2. Dukanipāto
@@ -503,6 +503,5 @@ Thirty-one eons ago, when I gained that perception; through the power of that pe
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag2-) 
 

@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.11-20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.11-20]]
 > ◄  [[an1.51-60-anigha]] 📜  [[an3.63-anigha]] ►
 
 # AN 2.11-20 - The Chapter on Disciplinary Issues
@@ -111,6 +111,5 @@ These two things lead to the continuation, non-forgetting, and non-disappearance
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.11-20-) 
 

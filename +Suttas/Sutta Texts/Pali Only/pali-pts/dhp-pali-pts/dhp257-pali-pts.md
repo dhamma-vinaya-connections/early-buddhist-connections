@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP257-PALI"
+sutta_code: "DHP257"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP257-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP257]]
 > ◄  [[dhp256-pali-pts]] 📜  [[dhp258-pali-pts]] ►
 
 ## Dhammapada
@@ -21,6 +21,5 @@ na tena paṇḍito hoti yāvatā bahu bhāsati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp257-) 
 

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA4]]
 > ◄  [[ma3-bdk]] 📜  [[ma5-bdk]] ►
 
 ### 4 The Discourse with the Water Parable
@@ -31,8 +31,7 @@ holy life has been established, what was to be done has been done. There will no
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -42,6 +41,5 @@ holy life has been established, what was to be done has been done. There will no
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[ITI69]], [[SN5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA4]]
 > ◄  [[ma3-bdk]] 📜  [[ma5-bdk]] ►

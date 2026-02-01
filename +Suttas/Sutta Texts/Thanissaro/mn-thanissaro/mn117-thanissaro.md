@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
 > ◄  [[mn113-thanissaro]] 📜  [[mn118-thanissaro]] ►
 
 ## MN117 The Great Forty
@@ -94,8 +94,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn117-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -110,6 +109,5 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.15]]; [[SN45.1]]; [[SN45.8]]; [[AN5.25]]; [[AN5.28]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
 > ◄  [[mn113-thanissaro]] 📜  [[mn118-thanissaro]] ►

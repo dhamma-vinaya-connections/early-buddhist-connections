@@ -4,10 +4,10 @@ sutta_title:
   - "Parābhavasutta "
   - "Downfalls"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
 > ◄  [[snp1.5-deepseek-pali]] 📜  [[snp1.7-deepseek-pali]] ►
 
 # Snp 1.6 Parābhavasuttaṃ
@@ -177,9 +177,7 @@ The Discourse on Decline, the sixth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.6-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
 > ◄  [[snp1.5-deepseek-pali]] 📜  [[snp1.7-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Upasena Vangantaputta Sutta "
   - "Upasena Vangantaputta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.9]]
 > ◄  [[ud4.8-deepseek-pali]] 📜  [[ud4.10-deepseek-pali]] ►
 
 # Ud 4.9 Upasenasuttaṃ
@@ -35,8 +35,7 @@ Then, having known with his mind the mental thought-process of the Venerable Upa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then, having known with his mind the mental thought-process of the Venerable Upa
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SNP3.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.9]]
 > ◄  [[ud4.8-deepseek-pali]] 📜  [[ud4.10-deepseek-pali]] ►

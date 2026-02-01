@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
 > ◄  [[mn51-bodhi]] 📜  [[mn53-bodhi]] ►
 
 # MN52 Aṭṭhakanāgara Sutta - The Man from Aṭṭhakanāgara
@@ -79,8 +79,7 @@ The Man from Aṭṭhakanāgara
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn52-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ The Man from Aṭṭhakanāgara
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.36]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
 > ◄  [[mn51-bodhi]] 📜  [[mn53-bodhi]] ►

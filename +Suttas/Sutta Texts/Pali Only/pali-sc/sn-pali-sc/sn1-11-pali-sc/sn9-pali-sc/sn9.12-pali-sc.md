@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.12-PALI"
+sutta_code: "SN9.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Majjhanhikasutta "
+  - "Noon"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
 > ◄  [[sn9.11-pali-sc]] 📜  [[sn9.13-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -31,6 +31,16 @@ sā rati paṭibhāti man"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.15]] | [[SA-2.355]], [[SA1335]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN1.15]], [[SA-2.355]], [[SA1335]], [[JA547]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
+> ◄  [[sn9.11-pali-sc]] 📜  [[sn9.13-pali-sc]] ►

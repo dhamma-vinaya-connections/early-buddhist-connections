@@ -3,11 +3,11 @@ sutta_code: "DN33"
 sutta_title:
   - "Saṅgīti Sutta "
   - "Reciting in Concert"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
 > ◄  [[dn32-sujato-pali]] 📜  [[dn34-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -1692,8 +1692,7 @@ Saṅgītisuttaṁ niṭṭhitaṁ dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -1708,6 +1707,5 @@ Saṅgītisuttaṁ niṭṭhitaṁ dasamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[D12 34]], [[DA11]], [[DA1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
 > ◄  [[dn32-sujato-pali]] 📜  [[dn34-sujato-pali]] ►

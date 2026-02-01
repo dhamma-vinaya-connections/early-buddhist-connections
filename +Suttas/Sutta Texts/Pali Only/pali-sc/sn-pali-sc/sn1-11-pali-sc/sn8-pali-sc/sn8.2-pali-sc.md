@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.2-PALI"
+sutta_code: "SN8.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Aratīsutta "
+  - "Discontent"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.2]]
 > ◄  [[sn8.1-pali-sc]] 📜  [[sn8.3-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -56,6 +56,16 @@ Parinibbuto kaṅkhati kālan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.229]], [[SA1213]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.229]], [[SA1213]], [[THAG21.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.2]]
+> ◄  [[sn8.1-pali-sc]] 📜  [[sn8.3-pali-sc]] ►

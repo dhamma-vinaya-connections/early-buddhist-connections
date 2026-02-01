@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG13-PALI"
+sutta_code: "THIG13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vīsatinipātavagga "
+  - "Twenties Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG13]]
 > ◄  [[thig12-pali-pts]] 📜  [[thig14-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ dhātuyo dukkhato disvā mā jāti punar āgami |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig13-) 
 

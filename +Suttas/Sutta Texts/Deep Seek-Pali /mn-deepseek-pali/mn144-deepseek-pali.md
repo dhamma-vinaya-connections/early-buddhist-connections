@@ -4,10 +4,10 @@ sutta_title:
   - "Channovāda Sutta "
   - "Advice to Channa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
 > ◄  [[mn143-deepseek-pali]] 📜  [[mn145-deepseek-pali]] ►
 
 # 144. Nandakovādasuttaṃ
@@ -115,8 +115,7 @@ The Nandakovāda Sutta, the Fourth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn144-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -127,6 +126,5 @@ The Nandakovāda Sutta, the Fourth, is finished.
 | [[SA1266]]; [[SN35.87]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
 > ◄  [[mn143-deepseek-pali]] 📜  [[mn145-deepseek-pali]] ►

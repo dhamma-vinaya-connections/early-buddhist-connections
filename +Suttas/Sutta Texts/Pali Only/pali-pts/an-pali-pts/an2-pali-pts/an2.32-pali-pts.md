@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.32-PALI"
+sutta_code: "AN2.32"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kataññu "
+  - "Gratitude"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.32-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.32]]
 > ◄  [[an2.30-pali-pts]] 📜  [[an2.33-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,20 @@ Asappuriso bhikkhave akataññū hoti akatavedī. Asabbhi h'; etaṃ bhikkhave u
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.32-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA20.5]] | A i 61 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA20.5]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN110]], [[SN7.14]], [[AN4.73]], [[ITI106]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.32]]
+> ◄  [[an2.30-pali-pts]] 📜  [[an2.33-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG470-PALI"
+sutta_code: "THIG470"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG470-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG470]]
 > ◄  [[thig469-pali-pts]] 📜  [[thig471-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ yo naṃ vinibbhujitvā abbhantaram assa bāhiraṃ kayirā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig470-) 
 

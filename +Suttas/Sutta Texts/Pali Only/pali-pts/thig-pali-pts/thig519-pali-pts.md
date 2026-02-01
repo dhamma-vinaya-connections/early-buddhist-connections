@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG519-PALI"
+sutta_code: "THIG519"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG519-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG519]]
 > ◄  [[thig518-pali-pts]] 📜  [[thig520-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ devesu mahiddhikā ahumhā manussakamhi ko pana vādo |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig519-) 
 

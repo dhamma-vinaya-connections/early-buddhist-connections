@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG14-PALI"
+sutta_code: "THIG14"
 sutta_title:
-  - " "
-  - ""
+  - "Tiṁsanipātavagga "
+  - "Thirties Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG14]]
 > ◄  [[thig13-pali-eng]] 📜  [[thig15-pali-eng]] ►
 
 # Thig 14. Tiṃsanipāto
@@ -185,6 +185,5 @@ The Chapter of the Thirties is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig14-) 
 

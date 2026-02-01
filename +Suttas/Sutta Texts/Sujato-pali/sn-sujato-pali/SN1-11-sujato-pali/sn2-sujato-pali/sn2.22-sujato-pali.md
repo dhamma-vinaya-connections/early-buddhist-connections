@@ -3,11 +3,11 @@ sutta_code: "SN2.22"
 sutta_title:
   - "Khemasutta "
   - "Khema"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
 > ◄  [[sn2.21-sujato-pali]] 📜  [[sn2.23-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -91,8 +91,7 @@ akkhacchinnova jhāyatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ akkhacchinnova jhāyatī"ti.
 | [[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
 > ◄  [[sn2.21-sujato-pali]] 📜  [[sn2.23-sujato-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN14]]
 > ◄  [[dn13-walshe]] 📜  [[dn15-walshe]] ►
 
 # DN14 Mahâpadāna Sutta: The Great Discourse on the Lineage
@@ -315,8 +315,7 @@ Thus the Lord spoke, and the monks, delighted, rejoiced at his words.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -331,6 +330,5 @@ Thus the Lord spoke, and the monks, delighted, rejoiced at his words.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN30]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN14]]
 > ◄  [[dn13-walshe]] 📜  [[dn15-walshe]] ►

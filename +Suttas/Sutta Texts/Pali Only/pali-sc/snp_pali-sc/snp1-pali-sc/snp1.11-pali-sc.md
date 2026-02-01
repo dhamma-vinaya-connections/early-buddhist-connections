@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.11-PALI"
+sutta_code: "SNP1.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vijaya "
+  - "Victory"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.11]]
 > ◄  [[snp1.10-pali-sc]] 📜  [[snp1.12-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -90,6 +90,7 @@ Vijayasuttaṁ ekādasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.11]]
+> ◄  [[snp1.10-pali-sc]] 📜  [[snp1.12-pali-sc]] ►

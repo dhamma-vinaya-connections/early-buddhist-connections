@@ -4,10 +4,10 @@ sutta_title:
   - "Chaphassāyatanasutta "
   - "Six Bases for Contact"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
 > ◄  [[sn4.16-deepseek-pali]] 📜  [[sn4.18-deepseek-pali]] ►
 
 # SN 4.17 Chaphassāyatanasuttaṃ
@@ -39,8 +39,7 @@ Then Māra the Evil One…vanished right there.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then Māra the Evil One…vanished right there.
 | [[SA1103]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
 > ◄  [[sn4.16-deepseek-pali]] 📜  [[sn4.18-deepseek-pali]] ►

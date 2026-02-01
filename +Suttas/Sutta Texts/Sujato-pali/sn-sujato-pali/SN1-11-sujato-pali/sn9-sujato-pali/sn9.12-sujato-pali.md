@@ -3,11 +3,11 @@ sutta_code: "SN9.12"
 sutta_title:
   - "Majjhanhikasutta "
   - "Noon"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
 > ◄  [[sn9.11-sujato-pali]] 📜  [[sn9.13-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -51,8 +51,7 @@ sā rati paṭibhāti man"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ sā rati paṭibhāti man"ti.
 | [[SN1.15]], [[SA-2.355]], [[SA1335]], [[JA547]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
 > ◄  [[sn9.11-sujato-pali]] 📜  [[sn9.13-sujato-pali]] ►

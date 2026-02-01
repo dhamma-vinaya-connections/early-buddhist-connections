@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP370-PALI"
+sutta_code: "DHP370"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP370-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP370]]
 > ◄  [[dhp369-pali-pts]] 📜  [[dhp371-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ jhāya bhikkhu mā ca pāmado mā te kāmaguṇe bhamassu cittaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp370-) 
 

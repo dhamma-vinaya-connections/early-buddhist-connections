@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.32-PALI"
+sutta_code: "AN4.32"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Saṅgaha "
+  - "Inclusion"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.32-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.32]]
 > ◄  [[an4.31-pali-pts]] 📜  [[an4.33-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Imāni kho bhikkhave cattāri cakkāni yehi samannāgatānaṃ devamanassānaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.32-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.256]] | [[SA669]] | A ii 32 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA669]], [[AN4.256]], [[AN8.24]], [[DN33]], [[DN31]], [[JA532]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.32]]
+> ◄  [[an4.31-pali-pts]] 📜  [[an4.33-pali-pts]] ►

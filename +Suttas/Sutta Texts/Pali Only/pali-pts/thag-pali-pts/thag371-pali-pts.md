@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG371-PALI"
+sutta_code: "THAG371"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG371-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG371]]
 > ◄  [[thag370-pali-pts]] 📜  [[thag372-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yo ve samuddo va ṭhito anejo gambhīrapañño nipuṇatthadassī,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag371-) 
 

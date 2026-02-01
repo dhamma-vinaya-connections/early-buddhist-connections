@@ -4,10 +4,10 @@ sutta_title:
   - "Bālavagga "
   - "Fools"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP5]]
 > ◄  [[dhp4-deepseek-pali]] 📜  [[dhp6-deepseek-pali]] ►
 
 # Dhp 5. Bālavaggo
@@ -100,8 +100,7 @@ The Chapter on the Fool, the Fifth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -112,6 +111,5 @@ The Chapter on the Fool, the Fifth, is finished.
 | [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP5]]
 > ◄  [[dhp4-deepseek-pali]] 📜  [[dhp6-deepseek-pali]] ►

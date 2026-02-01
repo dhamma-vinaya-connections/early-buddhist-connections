@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI58-PALI"
+sutta_code: "ITI58"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Tanha "
+  - "Craving"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI58-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI58]]
 > ◄  [[iti57-pali-pts]] 📜  [[iti59-pali-pts]] ►
 
 ## Itivuttaka
@@ -30,6 +30,16 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||9||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti58-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.49]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI58]]
+> ◄  [[iti57-pali-pts]] 📜  [[iti59-pali-pts]] ►

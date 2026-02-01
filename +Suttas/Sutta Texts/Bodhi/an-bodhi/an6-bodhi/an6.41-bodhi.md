@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.41]]
 > ◄  [[an6.40-bodhi]] 📜  [[an6.42-bodhi]] ►
 
 # AN6.41 A Block of Wood
@@ -29,8 +29,7 @@ Thus have I heard. On one occasion the Venerable Sāriputta was dwelling at Rāj
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.41-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ Thus have I heard. On one occasion the Venerable Sāriputta was dwelling at Rāj
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.4.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.41]]
 > ◄  [[an6.40-bodhi]] 📜  [[an6.42-bodhi]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN38]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN38]]
 > ◄  [[mn37-anigha]] 📜  [[mn39-anigha]] ►
 
 # MN 38 - The Longer Discourse on the Destruction of Craving
@@ -305,8 +305,7 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn38-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -321,6 +320,5 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.31]], [[MN22]], [[MN2]], [[SN35.206]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN38]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN38]]
 > ◄  [[mn37-anigha]] 📜  [[mn39-anigha]] ►

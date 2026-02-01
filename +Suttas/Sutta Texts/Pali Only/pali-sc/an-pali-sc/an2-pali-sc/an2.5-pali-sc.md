@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.5-PALI"
+sutta_code: "AN2.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Upaññāta "
+  - "Learned For Myself"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.5]]
 > ◄  [[an2.4-pali-sc]] 📜  [[an2.6-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -30,6 +30,16 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 50 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN70]], [[SN12.22]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.5]]
+> ◄  [[an2.4-pali-sc]] 📜  [[an2.6-pali-sc]] ►

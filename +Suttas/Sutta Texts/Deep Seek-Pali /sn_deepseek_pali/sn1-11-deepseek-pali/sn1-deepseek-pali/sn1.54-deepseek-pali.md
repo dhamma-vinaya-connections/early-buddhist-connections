@@ -4,10 +4,10 @@ sutta_title:
   - "Vatthusutta "
   - "Support"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.54]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.54]]
 > ◄  [[sn1.53-deepseek-pali]] 📜  [[sn1.55-deepseek-pali]] ►
 
 # SN 1.54 Vatthusuttaṃ
@@ -29,8 +29,7 @@ Children are the mainstay of humans, a wife is the best companion. Beings depend
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.54-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ Children are the mainstay of humans, a wife is the best companion. Beings depend
 | [[SA-2.231]], [[SA1005]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.54]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.54]]
 > ◄  [[sn1.53-deepseek-pali]] 📜  [[sn1.55-deepseek-pali]] ►

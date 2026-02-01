@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG350-PALI"
+sutta_code: "THIG350"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG350-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG350]]
 > ◄  [[thig349-pali-pts]] 📜  [[thig351-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ māhaṃ kāmehi saṃgacchiṃ yesu tāṇaṃ na vijjati |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig350-) 
 

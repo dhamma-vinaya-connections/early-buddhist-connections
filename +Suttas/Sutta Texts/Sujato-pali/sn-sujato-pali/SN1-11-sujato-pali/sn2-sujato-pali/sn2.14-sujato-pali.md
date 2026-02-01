@@ -3,11 +3,11 @@ sutta_code: "SN2.14"
 sutta_title:
   - "Nandanasutta "
   - "Nandana"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.14]]
 > ◄  [[sn2.13-sujato-pali]] 📜  [[sn2.15-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -66,8 +66,7 @@ Tathāvidhaṁ devatā pūjayantī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -78,6 +77,5 @@ Tathāvidhaṁ devatā pūjayantī"ti.
 | [[SA-2.182]], [[SA597]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.14]]
 > ◄  [[sn2.13-sujato-pali]] 📜  [[sn2.15-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.141-PALI"
+sutta_code: "AN3.141"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Assaparassa "
+  - "Excellent Horses"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.141-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.141]]
 > ◄  [[an3.140-pali-sc]] 📜  [[an3.142-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -28,6 +28,16 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.141-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.140]], [[AN3.142]], [[AN9.22]] | [[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]] | A i 289 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN3.140]], [[SA-2.143]], [[SA917]], [[AN9.22]], [[SA-2.144]], [[SA918]], [[AN3.142]], [[SA919]], [[SA-2.145]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.141]]
+> ◄  [[an3.140-pali-sc]] 📜  [[an3.142-pali-sc]] ►

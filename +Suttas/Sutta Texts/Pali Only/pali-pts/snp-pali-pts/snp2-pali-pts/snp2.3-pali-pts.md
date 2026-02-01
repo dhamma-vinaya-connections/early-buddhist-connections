@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.3-PALI"
+sutta_code: "SNP2.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Hiri "
+  - "Conscience"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.3]]
 > ◄  [[snp2.2-pali-pts]] 📜  [[snp2.4-pali-pts]] ►
 
 # SNP2.3 Hirisutta
@@ -35,6 +35,20 @@ HIRISUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP205]], [[JA363]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP205]], [[JA363]], [[JA361]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN2:31-32]], [[AN2.118]], [[AN4.32]], [[AN6.12]], [[AN7.35]], [[AN8.54]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.3]]
+> ◄  [[snp2.2-pali-pts]] 📜  [[snp2.4-pali-pts]] ►

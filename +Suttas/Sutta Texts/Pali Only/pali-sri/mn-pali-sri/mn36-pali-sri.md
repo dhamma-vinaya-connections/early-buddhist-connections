@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN36-PALI"
+sutta_code: "MN36"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahāsaccaka Sutta "
+  - "Longer Discourse With Saccaka"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
 > ◄  [[mn35-pali-sri]] 📜  [[mn37-pali-sri]] ►
 
 # 36. Maha Saccaka Sutta - Pali
@@ -270,6 +270,20 @@ Mahāsaccakasuttaṃ chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn36-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DN3]]; [[DN4]]; [[MN100]]; [[MN12]]; [[MN20]]; [[MN85]]; [[SN6.1]] | [[DA20]]; [[DA21]]; [[DA22]]; [[EA31.8]]; [[MA101]]; [[MA204]] | M i 237 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN3]]; [[DA20]]; [[DN4]]; [[DA22]]; [[EA31.8]]; [[MN12]]; [[MN100]]; [[MN85]]; [[DA21]]; [[PLI-TV-KD15]]; [[DN14]]; [[SN6.1]]; [[MA204]]; [[MN26]]; [[MN20]]; [[MN4]]; [[MA101]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN25]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
+> ◄  [[mn35-pali-sri]] 📜  [[mn37-pali-sri]] ►

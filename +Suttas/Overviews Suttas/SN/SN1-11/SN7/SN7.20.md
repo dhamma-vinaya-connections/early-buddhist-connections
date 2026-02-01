@@ -34,18 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP266]]"
-  - "[[DHP267]]"
-parallels_agama:
-  - "[[SA-2.263]]"
-  - "[[SA97]]"
-parallels_partilal:
-  - "[[SA-2.263]]"
-  - "[[SA97]]"
-  - "[[DHP266]]"
-  - "[[DHP267]]"
+parallels_nikaya: "[[DHP266]], [[DHP267]]"
+parallels_agama: "[[SA-2.263]], [[SA97]]"
+parallels_partilal: "[[SA-2.263]], [[SA97]], [[DHP266]], [[DHP267]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.19]]  🌐 [[SN7.21]] ►
 
@@ -72,8 +63,7 @@ He is truly called a bhikkhu
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,8 +75,7 @@ He is truly called a bhikkhu
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN7.20%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN7.20%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -97,7 +86,7 @@ He is truly called a bhikkhu
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN7.20%5D%5D%22%23mynotes%20-file%3Asn7.20-%20-file%3A%22SN7.19%22%20-file%3A%22SN7.21%22%20-file%3A%22SN7.20%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn7.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.20

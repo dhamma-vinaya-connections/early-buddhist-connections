@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD4.4-PALI"
+sutta_code: "UD4.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Junha Sutta "
+  - "Moonlit"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.4]]
 > ◄  [[ud4.2-pali-pts]] 📜  [[ud4.5-pali-pts]] ►
 
 ## Udāna
@@ -25,6 +25,20 @@ ahaṃ kho etarahi ākiṇṇo viharāmi bhikkhūhi . . . titthiyasāvakehi āki
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[THAG2.36]], [[PE2]], [[PE8]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP43]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.4]]
+> ◄  [[ud4.2-pali-pts]] 📜  [[ud4.5-pali-pts]] ►

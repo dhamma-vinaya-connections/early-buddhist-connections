@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP286-PALI"
+sutta_code: "DHP286"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP286-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP286]]
 > ◄  [[dhp285-pali-pts]] 📜  [[dhp287-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ taṃ puttapasusammattaṃ byāsattamanasaṃ naraṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp286-) 
 

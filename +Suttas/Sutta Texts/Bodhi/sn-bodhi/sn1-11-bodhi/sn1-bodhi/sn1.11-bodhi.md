@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
 > ◄  [[sn1.10-bodhi]] 📜  [[sn1.12-bodhi]] ►
 
 # SN1.11 Nandana
@@ -45,8 +45,7 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī 
 | [[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[DN16]], [[SN15.20]], [[SN6.15]], [[THAG20.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
 > ◄  [[sn1.10-bodhi]] 📜  [[sn1.12-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP3.9-PALI"
+sutta_code: "SNP3.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vāseṭṭhasutta "
+  - "With Vāseṭṭha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.9]]
 > ◄  [[snp3.8-pali-sc]] 📜  [[snp3.10-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -364,6 +364,20 @@ Vāseṭṭhasuttaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP386]], [[DHP396]], [[DHP397]], [[DHP398]], [[DHP399]], [[DHP400]], [[DHP401]], [[DHP402]], [[DHP403]], [[DHP404]], [[DHP405]], [[DHP406]], [[DHP407]], [[DHP408]], [[DHP409]], [[DHP410]], [[DHP411]], [[DHP412]], [[DHP413]], [[DHP414]], [[DHP415]], [[DHP416]], [[DHP417]], [[DHP418]], [[DHP419]], [[DHP420]], [[DHP421]], [[DHP422]], [[DHP423]], [[MN98]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[MN98]], [[DHP386]], [[SNP5.14]], [[DHP396]], [[DHP397]], [[DHP398]], [[DHP399]], [[DHP400]], [[DHP401]], [[DHP402]], [[DHP403]], [[DHP404]], [[DHP405]], [[DHP406]], [[DHP407]], [[DHP408]], [[DHP409]], [[DHP410]], [[DHP411]], [[DHP412]], [[DHP413]], [[DHP414]], [[DHP415]], [[DHP416]], [[DHP417]], [[DHP418]], [[DHP419]], [[DHP420]], [[DHP421]], [[DHP422]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[SN7.13]], [[SN7.8]], [[THIG4.1]], [[THAG12.2]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN23:2]], [[AN11:10]], [[ANDDHP92]], [[ANDDHP93]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.9]]
+> ◄  [[snp3.8-pali-sc]] 📜  [[snp3.10-pali-sc]] ►

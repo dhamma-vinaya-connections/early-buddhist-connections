@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.63-PALI"
+sutta_code: "AN8.63"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Saṃkhitta "
+  - "Dhamma In Brief"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.63-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.63]]
 > ◄  [[an8.62-pali-pts]] 📜  [[an8.64-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,20 @@ Atha kho aññataro bhikkhu yena Bhagavā ten'; upasaṅkami . . . pe . . . Ekam
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.63-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN47.3]] | [[MA76]] | A iv 299 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA76]], [[SN47.3]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN8.53]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.63]]
+> ◄  [[an8.62-pali-pts]] 📜  [[an8.64-pali-pts]] ►

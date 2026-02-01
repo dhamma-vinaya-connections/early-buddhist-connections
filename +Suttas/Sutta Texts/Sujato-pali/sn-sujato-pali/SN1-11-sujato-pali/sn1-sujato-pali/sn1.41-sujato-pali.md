@@ -3,11 +3,11 @@ sutta_code: "SN1.41"
 sutta_title:
   - "Ādittasutta "
   - "Ablaze"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.41]]
 > ◄  [[sn1.40-sujato-pali]] 📜  [[sn1.42-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -81,8 +81,7 @@ Anindito saggamupeti ṭhānan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.41-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -93,6 +92,5 @@ Anindito saggamupeti ṭhānan"ti.
 | [[JA424]], [[AN3.52]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.41]]
 > ◄  [[sn1.40-sujato-pali]] 📜  [[sn1.42-sujato-pali]] ►

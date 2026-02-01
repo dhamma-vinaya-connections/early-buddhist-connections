@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.1-PALI"
+sutta_code: "SN4.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Tapokammasutta "
+  - "Mortification"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
 > ◄  [[]] 📜  [[sn4.2-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -40,6 +40,16 @@ tass-eva jantu vinayāya sikkhe ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1094]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1094]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
+> ◄  [[]] 📜  [[sn4.2-pali-pts]] ►

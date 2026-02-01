@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG18-PALI"
+sutta_code: "THAG18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paññāsanipātavagga "
+  - "Fifties Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG18]]
 > ◄  [[thag17-pali-pts]] 📜  [[thag19-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Udakaṃ hi nayanti nettikā, usukārā namayanti tejanaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag18-) 
 

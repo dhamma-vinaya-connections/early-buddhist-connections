@@ -4,10 +4,10 @@ sutta_title:
   - "Kassapa Sutta "
   - "Kassapa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7]]
 > ◄  [[ud3.6-deepseek-pali]] 📜  [[ud3.8-deepseek-pali]] ►
 
 # Ud 3.7 Sakkudānasuttaṃ
@@ -43,9 +43,7 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.7-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7]]
 > ◄  [[ud3.6-deepseek-pali]] 📜  [[ud3.8-deepseek-pali]] ►

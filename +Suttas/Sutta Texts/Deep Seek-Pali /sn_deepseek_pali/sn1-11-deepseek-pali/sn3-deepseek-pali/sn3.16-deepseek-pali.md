@@ -4,10 +4,10 @@ sutta_title:
   - "Mallikāsutta "
   - "Daughter"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.16]]
 > ◄  [[sn3.15-deepseek-pali]] 📜  [[sn3.17-deepseek-pali]] ►
 
 # SN 3.16 Mallikāsuttaṃ
@@ -35,9 +35,7 @@ The man born of her becomes a hero, a lord of the directions. Such a son of a fo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.16-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.16]]
 > ◄  [[sn3.15-deepseek-pali]] 📜  [[sn3.17-deepseek-pali]] ►

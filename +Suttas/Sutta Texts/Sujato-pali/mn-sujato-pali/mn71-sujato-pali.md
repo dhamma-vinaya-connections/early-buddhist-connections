@@ -3,11 +3,11 @@ sutta_code: "MN71"
 sutta_title:
   - "Tevijjavaccha Sutta "
   - "Vacchagotta on the Three Knowledges"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-sujato-pali]] 📜  [[mn72-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -149,8 +149,7 @@ Tevijjavacchasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn71-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -161,6 +160,5 @@ Tevijjavacchasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 | [[MN14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-sujato-pali]] 📜  [[mn72-sujato-pali]] ►

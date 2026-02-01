@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA207]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA207]]
 > ◄  [[ma206-bdk]] 📜  [[ma208-bdk]] ►
 
 ### 207. The Discourse to Sakuludāyī (1)
@@ -39,8 +39,7 @@ Udāyī, in this way if my disciples come and ask me, I satisfy their minds with
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma207-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Udāyī, in this way if my disciples come and ask me, I satisfy their minds with
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN32]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA207]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA207]]
 > ◄  [[ma206-bdk]] 📜  [[ma208-bdk]] ►

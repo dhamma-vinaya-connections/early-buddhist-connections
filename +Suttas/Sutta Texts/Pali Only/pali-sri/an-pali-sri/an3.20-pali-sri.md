@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.20-PALI"
+sutta_code: "AN3.20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Paṭhamapāpaṇika "
+  - "Shopkeeper"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.20]]
 > ◄  [[an3.19-pali-sri]] 📜  [[an3.21-pali-sri]] ►
 
 # 5:20 Sonavaggo - Pali
@@ -448,6 +448,16 @@ Catuttho paṇṇāsako samatto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.20-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-3.6]] | A i 116 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-3.6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.20]]
+> ◄  [[an3.19-pali-sri]] 📜  [[an3.21-pali-sri]] ►

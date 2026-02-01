@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.5-PALI"
+sutta_code: "SN3.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Attarakkhitasutta "
+  - "Self-Protected"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.5]]
 > ◄  [[sn3.4-pali-pts]] 📜  [[sn3.6-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -65,6 +65,16 @@ desitam buddhaseṭṭhena || imaṃ Kosalam pañcakaṃ || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP361]] | [[SA-2.56]], [[SA1229]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.56]], [[SA1229]], [[DHP361]], [[PE2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.5]]
+> ◄  [[sn3.4-pali-pts]] 📜  [[sn3.6-pali-pts]] ►

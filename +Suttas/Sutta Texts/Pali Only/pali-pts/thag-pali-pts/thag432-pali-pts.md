@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG432-PALI"
+sutta_code: "THAG432"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG432-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG432]]
 > ◄  [[thag431-pali-pts]] 📜  [[thag433-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sāmaṇero 'nuruddhassa iddhiyā ca visārado,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag432-) 
 

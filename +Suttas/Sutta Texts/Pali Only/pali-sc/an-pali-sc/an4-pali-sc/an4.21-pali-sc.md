@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.21-PALI"
+sutta_code: "AN4.21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paṭhamauruvela "
+  - "At Uruvelā"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.21]]
 > ◄  [[an4.20-pali-sc]] 📜  [[an4.22-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -55,6 +55,16 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.21-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN6.2]] | [[SA-2.101]], [[SA1188]] | A ii 20 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN6.2]], [[SA-2.101]], [[SA1188]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.21]]
+> ◄  [[an4.20-pali-sc]] 📜  [[an4.22-pali-sc]] ►

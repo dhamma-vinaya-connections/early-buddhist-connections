@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG788-PALI"
+sutta_code: "THAG788"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG788-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG788]]
 > ◄  [[thag787-pali-pts]] 📜  [[thag789-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ saddhāyāhaṃ pabbajito upeto jinasāsane,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag788-) 
 

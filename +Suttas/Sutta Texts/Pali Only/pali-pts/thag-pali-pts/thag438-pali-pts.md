@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG438-PALI"
+sutta_code: "THAG438"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG438-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG438]]
 > ◄  [[thag437-pali-pts]] 📜  [[thag439-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ajjhattañ ca bahiddhā ca ye me vijjiṃsu āsavā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag438-) 
 

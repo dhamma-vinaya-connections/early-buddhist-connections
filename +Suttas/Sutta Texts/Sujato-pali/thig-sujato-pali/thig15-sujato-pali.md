@@ -3,11 +3,11 @@ sutta_code: "THIG15"
 sutta_title:
   - "Cattālīsanipātavagga "
   - "Forties Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG15]]
 > ◄  [[thig14-sujato-pali]] 📜  [[thig16-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -509,6 +509,5 @@ Tassapi anto kato mayā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig15-) 
 

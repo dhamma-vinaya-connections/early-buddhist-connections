@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG245-PALI"
+sutta_code: "THAG245"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG245-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG245]]
 > ◄  [[thag244-pali-pts]] 📜  [[thag246-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Ahū tuyhaṃ pure saddhā, sā te ajja na vijjati.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag245-) 
 

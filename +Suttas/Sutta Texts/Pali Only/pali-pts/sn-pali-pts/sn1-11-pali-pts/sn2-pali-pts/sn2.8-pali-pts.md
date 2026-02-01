@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.8-PALI"
+sutta_code: "SN2.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Tāyanasutta "
+  - "Tayana"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
 > ◄  [[sn2.7-pali-pts]] 📜  [[sn2.9-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -26,6 +26,16 @@ samūlaṃ taṇham abbuyha || evaṃ yātrā bhavissatīti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP383]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP311]], [[DHP312]], [[THAG4.3]], [[DHP313]], [[DHP314]], [[DHP383]], [[SN2.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
+> ◄  [[sn2.7-pali-pts]] 📜  [[sn2.9-pali-pts]] ►

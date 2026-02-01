@@ -3,11 +3,11 @@ sutta_code: "SN4.3"
 sutta_title:
   - "Subhasutta "
   - "Beautiful"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.3]]
 > ◄  [[sn4.2-sujato-pali]] 📜  [[sn4.4-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -67,8 +67,7 @@ na te mārassa baddhagū"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ na te mārassa baddhagū"ti.
 | [[SA-2.32]], [[SA1093]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.3]]
 > ◄  [[sn4.2-sujato-pali]] 📜  [[sn4.4-sujato-pali]] ►

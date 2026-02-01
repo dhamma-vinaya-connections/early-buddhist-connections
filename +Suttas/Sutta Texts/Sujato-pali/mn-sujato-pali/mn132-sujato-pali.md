@@ -3,11 +3,11 @@ sutta_code: "MN132"
 sutta_title:
   - "Ānandabhaddekaratta Sutta "
   - "Ānanda and One Fine Night"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN132]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN132]]
 > ◄  [[mn131-sujato-pali]] 📜  [[mn133-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -139,8 +139,7 @@ santo ācikkhate munī’"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn132-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -155,6 +154,5 @@ santo ācikkhate munī’"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN131]] - 134, [[MA164]]- 167]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN132]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN132]]
 > ◄  [[mn131-sujato-pali]] 📜  [[mn133-sujato-pali]] ►

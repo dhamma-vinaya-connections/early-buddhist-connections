@@ -3,11 +3,11 @@ sutta_code: "AN5.150"
 sutta_title:
   - "Samayavimutta "
   - "Temporarily Free"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.150]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.150]]
 > ◄  [[an5.149-sujato-pali]] 📜  [[an5.151-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -44,8 +44,7 @@ Tatiyo paṇṇāsako samatto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.150-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -56,6 +55,5 @@ Tatiyo paṇṇāsako samatto.
 | [[AN5.149]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.150]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.150]]
 > ◄  [[an5.149-sujato-pali]] 📜  [[an5.151-sujato-pali]] ►

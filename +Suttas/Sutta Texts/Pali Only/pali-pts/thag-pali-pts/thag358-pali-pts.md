@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG358-PALI"
+sutta_code: "THAG358"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG358-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG358]]
 > ◄  [[thag357-pali-pts]] 📜  [[thag359-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ satiyā taṃ nibandhissaṃ, payatatto vo damessāmi;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag358-) 
 

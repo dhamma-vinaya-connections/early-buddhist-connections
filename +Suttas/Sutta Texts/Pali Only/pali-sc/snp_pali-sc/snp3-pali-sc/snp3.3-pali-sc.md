@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP3.3-PALI"
+sutta_code: "SNP3.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Subhāsitasutta "
+  - "Well Spoken Words"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.3]]
 > ◄  [[snp3.2-pali-sc]] 📜  [[snp3.4-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -61,6 +61,20 @@ Subhāsitasuttaṁ tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN8.5]] | [[SA-2.253]], [[SA1218]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN8.5]], [[SA-2.253]], [[SA1218]], [[THAG21.1]], [[PE3]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN21]], [[MN58]], [[SN11.5]], [[AN4.183]], [[AN5.198]], [[AN8.8]], [[AN10.165]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.3]]
+> ◄  [[snp3.2-pali-sc]] 📜  [[snp3.4-pali-sc]] ►

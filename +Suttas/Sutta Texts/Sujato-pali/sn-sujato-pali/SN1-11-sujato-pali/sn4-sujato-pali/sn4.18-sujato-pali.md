@@ -3,11 +3,11 @@ sutta_code: "SN4.18"
 sutta_title:
   - "Piṇḍasutta "
   - "Alms"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.18]]
 > ◄  [[sn4.17-sujato-pali]] 📜  [[sn4.19-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -81,8 +81,7 @@ devā ābhassarā yathā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -93,6 +92,5 @@ devā ābhassarā yathā"ti.
 | [[EA45.4]], [[SA1095]], [[DHP200]], [[JA539]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.18]]
 > ◄  [[sn4.17-sujato-pali]] 📜  [[sn4.19-sujato-pali]] ►

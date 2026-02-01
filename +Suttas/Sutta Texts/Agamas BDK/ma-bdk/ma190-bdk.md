@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA190]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA190]]
 > ◄  [[ma189-bdk]] 📜  [[ma191-bdk]] ►
 
 ### 190. The Shorter Discourse on Emptiness
@@ -29,8 +29,7 @@ the eradication of the taints, the taintless and unconditioned liberation of the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma190-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -40,6 +39,5 @@ the eradication of the taints, the taintless and unconditioned liberation of the
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.42]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA190]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA190]]
 > ◄  [[ma189-bdk]] 📜  [[ma191-bdk]] ►

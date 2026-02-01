@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG443-PALI"
+sutta_code: "THIG443"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG443-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG443]]
 > ◄  [[thig442-pali-pts]] 📜  [[thig444-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ taṃ maṃ tato satthavāho ussannāya vipulāya vaḍḍhiyā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig443-) 
 

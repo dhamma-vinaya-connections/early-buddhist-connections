@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA72]]
 > ◄  [[ma71-bdk]] 📜  [[ma73-bdk]] ►
 
 ### 72. The Discourse on the History of King Long Life Span
@@ -79,8 +79,7 @@ the requisites of the path, I came to know as it really is: “Birth has been en
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma72-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ the requisites of the path, I came to know as it really is: “Birth has been en
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA73]], [[MN127]], [[MN31]], [[MN48]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA72]]
 > ◄  [[ma71-bdk]] 📜  [[ma73-bdk]] ►

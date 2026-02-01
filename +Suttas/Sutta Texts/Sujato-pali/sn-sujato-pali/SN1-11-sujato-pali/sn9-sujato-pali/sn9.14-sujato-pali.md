@@ -3,11 +3,11 @@ sutta_code: "SN9.14"
 sutta_title:
   - "Gandhatthenasutta "
   - "The Thief of Scent"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.14]]
 > ◄  [[sn9.13-sujato-pali]] 📜  [[]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -127,8 +127,7 @@ Vanasaṁyuttaṁ samattaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -139,6 +138,5 @@ Vanasaṁyuttaṁ samattaṁ.
 | [[SA-2.358]], [[SA1338]], [[JA392]], [[THAG14.1]], [[THAG17.2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.14]]
 > ◄  [[sn9.13-sujato-pali]] 📜  [[]] ►

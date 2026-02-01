@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI45-PALI"
+sutta_code: "ITI45"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṭisallāna "
+  - "Living In Seclusion"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI45-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI45]]
 > ◄  [[iti44-pali-pts]] 📜  [[iti46-pali-pts]] ►
 
 ## Itivuttaka
@@ -30,6 +30,7 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||8||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti45-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI45]]
+> ◄  [[iti44-pali-pts]] 📜  [[iti46-pali-pts]] ►

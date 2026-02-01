@@ -3,11 +3,11 @@ sutta_code: "AN5.48"
 sutta_title:
   - "Alabbhanīyaṭhāna "
   - "Cannot Be Had"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
 > ◄  [[an5.47-sujato-pali]] 📜  [[an5.49-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -93,8 +93,7 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.48-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -105,6 +104,5 @@ Aṭṭhamaṁ.
 | [[EA34.6]], [[JA368]], [[AN5.50]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
 > ◄  [[an5.47-sujato-pali]] 📜  [[an5.49-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG990-PALI"
+sutta_code: "THAG990"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG990-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG990]]
 > ◄  [[thag989-pali-pts]] 📜  [[thag991-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ gāme vā yadi vāraññe ninne vā yadi vā thale,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag990-) 
 

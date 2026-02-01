@@ -3,11 +3,11 @@ sutta_code: "SN4.13"
 sutta_title:
   - "Sakalikasutta "
   - "The Splinter"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
 > ◄  [[sn4.12-sujato-pali]] 📜  [[sn4.14-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -85,8 +85,7 @@ Tasmā supe sabbabhūtānukampī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -101,6 +100,5 @@ Tasmā supe sabbabhūtānukampī"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.38]], [[SN36.6]], [[AN5.129]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
 > ◄  [[sn4.12-sujato-pali]] 📜  [[sn4.14-sujato-pali]] ►

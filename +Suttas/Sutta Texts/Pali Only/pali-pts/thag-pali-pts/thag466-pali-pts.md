@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG466-PALI"
+sutta_code: "THAG466"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG466-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG466]]
 > ◄  [[thag463-pali-pts]] 📜  [[thag467-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ramant'; eke mutiṅgehi vīṇāhi paṇavehi ca,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag466-) 
 

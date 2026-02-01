@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.177-PALI"
+sutta_code: "AN4.177"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Rahula "
+  - "With Rāhula"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.177-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.177]]
 > ◄  [[an4.176-pali-pts]] 📜  [[an4.178-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Saddhā bhikkhave bhikkhunī evaṃ sammā āyācamānā āyāceyya: tādisā ho
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.177-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA465]] | A ii 164 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA465]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.177]]
+> ◄  [[an4.176-pali-pts]] 📜  [[an4.178-pali-pts]] ►

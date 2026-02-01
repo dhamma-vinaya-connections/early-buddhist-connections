@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1120-PALI"
+sutta_code: "THAG1120"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1120-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1120]]
 > ◄  [[thag1119-pali-pts]] 📜  [[thag1121-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ropetvā rukkhāni yathā phalesī mūle taruṃ chettu tam eva icchasi,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1120-) 
 

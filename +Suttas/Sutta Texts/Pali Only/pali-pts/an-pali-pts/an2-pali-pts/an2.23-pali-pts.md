@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.23-PALI"
+sutta_code: "AN2.23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Rāga Peyyāla "
+  - "Abbreviated Texts Beginning With Greed"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.23]]
 > ◄  [[an2.22-pali-pts]] 📜  [[an2.24-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,5 @@ Yo ca abhāsitaṃ alapitaṃ Tathāgatena bhāsitaṃ lapitaṃ Tathāgatenā t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.23-) 
 

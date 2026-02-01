@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.4-PALI"
+sutta_code: "SN3.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Piyasutta "
+  - "Dear"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.4]]
 > ◄  [[sn3.3-pali-pts]] 📜  [[sn3.5-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -59,6 +59,16 @@ sā puññadhārā vipulā || dātāram abhivassatīti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.55]], [[SA1228]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.55]], [[SA1228]], [[SN3.22]], [[SN3.20]], [[SN1.32]], [[JA450]], [[SN1.43]], [[SN2.23]], [[AN5.36]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.4]]
+> ◄  [[sn3.3-pali-pts]] 📜  [[sn3.5-pali-pts]] ►

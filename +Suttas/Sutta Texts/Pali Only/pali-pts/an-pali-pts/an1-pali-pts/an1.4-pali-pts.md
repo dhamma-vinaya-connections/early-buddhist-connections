@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.4-PALI"
+sutta_code: "AN1.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Rupa "
+  - "Sights"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.4]]
 > ◄  [[an1.3-pali-pts]] 📜  [[an1.5-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Itthiphoṭṭhabbaṃ bhikkhave purisassa cittaṃ pariyādāya tiṭṭhatī t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA9.7]] | A i 2 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA9.7]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.4]]
+> ◄  [[an1.3-pali-pts]] 📜  [[an1.5-pali-pts]] ►

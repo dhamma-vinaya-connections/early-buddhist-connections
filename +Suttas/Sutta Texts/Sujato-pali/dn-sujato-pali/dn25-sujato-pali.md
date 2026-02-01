@@ -3,11 +3,11 @@ sutta_code: "DN25"
 sutta_title:
   - "Udumbarika Sutta "
   - "Lion’s Roar at Udumbarikā’s Monastery"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN25]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN25]]
 > ◄  [[dn24-sujato-pali]] 📜  [[dn26-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -480,8 +480,7 @@ Udumbarikasuttaṁ niṭṭhitaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn25-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -492,6 +491,5 @@ Udumbarikasuttaṁ niṭṭhitaṁ dutiyaṁ.
 | [[DA8]], [[MA104]], [[DN8]], [[MN12]], [[MN45]], [[MN51]], [[MN60]], [[AN3.156-162]], [[AN4.198]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN25]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN25]]
 > ◄  [[dn24-sujato-pali]] 📜  [[dn26-sujato-pali]] ►

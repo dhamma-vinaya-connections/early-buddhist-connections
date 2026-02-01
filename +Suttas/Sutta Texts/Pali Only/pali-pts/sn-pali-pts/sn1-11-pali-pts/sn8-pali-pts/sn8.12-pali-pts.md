@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.12-PALI"
+sutta_code: "SN8.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vaṅgīsasutta "
+  - "Vangisa"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.12]]
 > ◄  [[sn8.11-pali-pts]] 📜  [[]] ►
 
 ## Saṃyutta Nikāya
@@ -41,6 +41,16 @@ Moggalānena Gaggarā || Vaṅgīsena dvādasāti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.252]], [[SA1217]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.252]], [[SA1217]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.12]]
+> ◄  [[sn8.11-pali-pts]] 📜  [[]] ►

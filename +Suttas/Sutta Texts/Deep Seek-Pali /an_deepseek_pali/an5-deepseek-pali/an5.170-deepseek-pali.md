@@ -4,10 +4,10 @@ sutta_title:
   - "Bhaddaji "
   - "With Bhaddaji"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.170]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.170]]
 > ◄  [[an5.169-deepseek-pali]] 📜  [[an5.171-deepseek-pali]] ►
 
 # AN 5.170 Bhaddajisuttaṃ
@@ -51,8 +51,7 @@ Two on the Dispelling of Anger, Discussion, Harmonious Living, A Question; Quest
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.170-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ Two on the Dispelling of Anger, Discussion, Harmonious Living, A Question; Quest
 | [[SA484]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.170]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.170]]
 > ◄  [[an5.169-deepseek-pali]] 📜  [[an5.171-deepseek-pali]] ►

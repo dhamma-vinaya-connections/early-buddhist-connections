@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
 > ◄  [[an3.63-anigha]] 📜  [[an3.84-anigha]] ►
 
 # AN 3.65 - With the Kālāmas of Kesamutta
@@ -128,8 +128,7 @@ Excellent, Bhante! Excellent! … We go for refuge to Master Gotama, to the teac
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.65-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -140,6 +139,5 @@ Excellent, Bhante! Excellent! … We go for refuge to Master Gotama, to the teac
 | [[MA16]], [[AN4.193]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
 > ◄  [[an3.63-anigha]] 📜  [[an3.84-anigha]] ►

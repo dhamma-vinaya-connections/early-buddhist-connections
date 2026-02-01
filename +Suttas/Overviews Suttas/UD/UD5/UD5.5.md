@@ -34,18 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "ocean qualities like Dhamma and training qualities"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[THAG6.13]]"
-  - "[[PLI-TV-KD19]]"
-  - "[[AN8.19]]"
-  - "[[AN8.20]]"
-  - "[[PLI-TV-PVR10]]"
-  - "[[PE2]]"
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: "[[THAG6.13]], [[PLI-TV-KD19]], [[AN8.19]], [[AN8.20]], [[PLI-TV-PVR10]], [[PE2]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.4]]  🌐 [[UD5.6]] ►
 
@@ -71,8 +62,7 @@ so the rain will not saturate it.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,8 +77,7 @@ so the rain will not saturate it.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.129]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD5.5%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD5.5%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -99,7 +88,7 @@ so the rain will not saturate it.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD5.5%5D%5D%22%23mynotes%20-file%3Aud5.5-%20-file%3A%22UD5.4%22%20-file%3A%22UD5.6%22%20-file%3A%22UD5.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud5.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud5.5

@@ -4,10 +4,10 @@ sutta_title:
   - "Adhikaraṇasamatha "
   - "Disciplinary Issues Settlement"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.84]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.84]]
 > ◄  [[an7.83-deepseek-pali]] 📜  [[an7.85-deepseek-pali]] ►
 
 # AN 7.84 Adhikaraṇasamathasuttaṃ
@@ -39,12 +39,11 @@ Four upholders of discipline, and four indeed are splendid; The Dispensation sta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.84-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 144 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.84]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.84]]
 > ◄  [[an7.83-deepseek-pali]] 📜  [[an7.85-deepseek-pali]] ►

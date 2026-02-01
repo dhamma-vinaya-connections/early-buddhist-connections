@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG281-PALI"
+sutta_code: "THAG281"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG281-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG281]]
 > ◄  [[thag280-pali-pts]] 📜  [[thag282-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yesaṃ rāgo ca doso ca avijjā ca virājitā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag281-) 
 

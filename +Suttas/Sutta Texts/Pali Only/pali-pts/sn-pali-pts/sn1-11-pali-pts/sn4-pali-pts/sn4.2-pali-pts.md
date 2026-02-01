@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.2-PALI"
+sutta_code: "SN4.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Hatthirājavaṇṇasutta "
+  - "The King Elephant"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.2]]
 > ◄  [[sn4.1-pali-pts]] 📜  [[sn4.3-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -83,6 +83,5 @@ tato so dummano yakkho || tath-ev-antaradhayathāti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.2-) 
 

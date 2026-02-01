@@ -4,10 +4,10 @@ sutta_title:
   - "Duccarita "
   - "Conduct Bad And Good"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.130]]
 > ◄  [[an4.129-deepseek-pali]] 📜  [[an4.131-deepseek-pali]] ►
 
 # AN 4.130 Cakkavattiacchariyasuttaṃ
@@ -59,12 +59,11 @@ Self-reproach and Waves; and two Nānā, and two are; Loving-kindness, and two W
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.130-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A ii 141 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.130]]
 > ◄  [[an4.129-deepseek-pali]] 📜  [[an4.131-deepseek-pali]] ►

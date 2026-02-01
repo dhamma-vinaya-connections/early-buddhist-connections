@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG682-PALI"
+sutta_code: "THAG682"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG682-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG682]]
 > ◄  [[thag681-pali-pts]] 📜  [[thag687-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ nābhinandāmi . . . (= 606,607) **|| Th_685-686 ||**
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag682-) 
 

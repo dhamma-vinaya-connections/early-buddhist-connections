@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP390-PALI"
+sutta_code: "DHP390"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP390-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP390]]
 > ◄  [[dhp389-pali-pts]] 📜  [[dhp391-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yassa kāyena vācāya manasā n'; atthi dukkataṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp390-) 
 

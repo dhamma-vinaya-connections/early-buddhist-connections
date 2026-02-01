@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1092-PALI"
+sutta_code: "THAG1092"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1092-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1092]]
 > ◄  [[thag1091-pali-pts]] 📜  [[thag1093-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ kadā aniccaṃ vadharoganīḷaṃ kāyaṃ imaṃ maccujarāy'; upaddutaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1092-) 
 

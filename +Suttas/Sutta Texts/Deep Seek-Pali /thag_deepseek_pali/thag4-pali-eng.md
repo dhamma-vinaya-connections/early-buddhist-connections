@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG4-PALI"
+sutta_code: "THAG4"
 sutta_title:
-  - " "
-  - ""
+  - "Catukkanipātavagga "
+  - "Fours Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG4]]
 > ◄  [[thag3-pali-eng]] 📜  [[thag5-pali-eng]] ►
 
 # Thag 4. Catukanipāto
@@ -250,6 +250,5 @@ For me, abiding thus—behold my energy and striving! The three true knowledges 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag4-) 
 

@@ -3,11 +3,11 @@ sutta_code: "MN149"
 sutta_title:
   - "Mahāsaḷāyatanika Sutta "
   - "Great Discourse on the Six Sense Fields"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-sujato-pali]] 📜  [[mn150-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -135,8 +135,7 @@ Mahāsaḷāyatanikasuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn149-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -147,6 +146,5 @@ Mahāsaḷāyatanikasuttaṁ niṭṭhitaṁ sattamaṁ.
 | [[SA305]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-sujato-pali]] 📜  [[mn150-sujato-pali]] ►

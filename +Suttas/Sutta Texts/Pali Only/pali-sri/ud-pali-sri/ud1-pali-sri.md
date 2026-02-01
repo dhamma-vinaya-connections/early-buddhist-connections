@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD1-PALI"
+sutta_code: "UD1"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1]]
 > ◄  [[]] 📜  [[ud2-pali-sri]] ►
 
 # Udanapali 1: Bodhivaggo - BJT
@@ -266,6 +266,5 @@ Pāvāya saṅgāmaji jaṭilā bāhiyena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1-) 
 

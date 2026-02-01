@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.6-PALI"
+sutta_code: "SN8.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sāriputtasutta "
+  - "Sāriputta"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
 > ◄  [[sn8.5-pali-pts]] 📜  [[sn8.7-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -36,6 +36,16 @@ udaggacittā muditā || sotam odhenti bhikkhavo ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.226]], [[SA1210]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.226]], [[SA1210]], [[THAG21.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
+> ◄  [[sn8.5-pali-pts]] 📜  [[sn8.7-pali-pts]] ►

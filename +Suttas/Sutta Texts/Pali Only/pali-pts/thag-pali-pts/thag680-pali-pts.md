@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG680-PALI"
+sutta_code: "THAG680"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG680-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG680]]
 > ◄  [[thag679-pali-pts]] 📜  [[thag681-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ uddhato capalo bhikkhu mitte āgamma pāpake
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag680-) 
 

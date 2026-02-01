@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI69-PALI"
+sutta_code: "ITI69"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Raga "
+  - "Greed"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI69-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI69]]
 > ◄  [[iti68-pali-pts]] 📜  [[iti70-pali-pts]] ►
 
 ## Itivuttaka
@@ -32,6 +32,7 @@ Puññaṃ (60) cakkhu (61) ath-indriyā (62) addhā (63) caritaṃ duve (64,65)
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti69-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI69]]
+> ◄  [[iti68-pali-pts]] 📜  [[iti70-pali-pts]] ►

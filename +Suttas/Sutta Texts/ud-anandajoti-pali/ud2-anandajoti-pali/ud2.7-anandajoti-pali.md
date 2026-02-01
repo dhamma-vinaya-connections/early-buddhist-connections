@@ -3,11 +3,11 @@ sutta_code: "UD2.7"
 sutta_title:
   - "Ekaputta Sutta "
   - "The Only Son"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.7]]
 > ◄  [[ud2.6-anandajoti-pali]] 📜  [[ud2.8-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -62,9 +62,7 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.7-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.7]]
 > ◄  [[ud2.6-anandajoti-pali]] 📜  [[ud2.8-anandajoti-pali]] ►

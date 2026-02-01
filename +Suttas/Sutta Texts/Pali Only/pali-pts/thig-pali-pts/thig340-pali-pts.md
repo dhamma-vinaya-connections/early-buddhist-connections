@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG340-PALI"
+sutta_code: "THIG340"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG340-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG340]]
 > ◄  [[thig339-pali-pts]] 📜  [[thig341-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ na me taṃ assa patirūpaṃ ākiñcaññaṃ hi patthaye |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig340-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP166-PALI"
+sutta_code: "DHP166"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP166-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP166]]
 > ◄  [[dhp165-pali-pts]] 📜  [[dhp167-pali-pts]] ►
 
 ## Dhammapada
@@ -24,6 +24,5 @@ hīnaṃ dhammaṃ na seveyya pamādena na saṃvase /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp166-) 
 

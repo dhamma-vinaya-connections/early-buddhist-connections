@@ -4,10 +4,10 @@ sutta_title:
   - "Phusatisutta "
   - "It Touches"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.22]]
 > ◄  [[sn1.21-deepseek-pali]] 📜  [[sn1.23-deepseek-pali]] ►
 
 # SN 1.22 Phusatisuttaṃ
@@ -29,8 +29,7 @@ He who wrongs a harmless person, pure, without stain, and innocent; That evil re
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ He who wrongs a harmless person, pure, without stain, and innocent; That evil re
 | [[SA-2.273]], [[SA1275]], [[DHP125]], [[JA367]], [[SN7.4]], [[SNP3.10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.22]]
 > ◄  [[sn1.21-deepseek-pali]] 📜  [[sn1.23-deepseek-pali]] ►

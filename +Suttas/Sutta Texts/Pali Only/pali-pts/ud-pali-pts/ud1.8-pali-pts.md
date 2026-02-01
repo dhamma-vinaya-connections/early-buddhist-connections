@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD1.8-PALI"
+sutta_code: "UD1.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sangamaji Sutta "
+  - "Sangamaji"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.8]]
 > ◄  [[ud1.5-pali-pts]] 📜  [[ud1.10-pali-pts]] ►
 
 ## Udāna
@@ -28,6 +28,5 @@ atha kho Bāhiyo Dārucīriyo yena te bhikkhū ten'; upasaṅkami, upasaṅkamit
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.8-) 
 

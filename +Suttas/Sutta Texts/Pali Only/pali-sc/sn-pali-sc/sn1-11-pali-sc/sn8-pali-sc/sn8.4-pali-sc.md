@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.4-PALI"
+sutta_code: "SN8.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ānandasutta "
+  - "Ānanda"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
 > ◄  [[sn8.3-pali-sc]] 📜  [[sn8.5-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -51,6 +51,16 @@ upasanto carissasī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA35.9]], [[SA-2.230]], [[SA1214]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[EA35.9]], [[SA-2.230]], [[SA1214]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
+> ◄  [[sn8.3-pali-sc]] 📜  [[sn8.5-pali-sc]] ►

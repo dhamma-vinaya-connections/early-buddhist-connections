@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.6-PALI"
+sutta_code: "AN6.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Paṭhamaāhuneyya "
+  - "Worthy Of Offerings"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.6]]
 > ◄  [[an6.5-pali-sri]] 📜  [[an6.7-pali-sri]] ►
 
 # 10:6 Sacittavaggo - Pali
@@ -332,6 +332,11 @@ Parihānā ca dve saññā mūlā pabbajitā girīti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 283 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.6]]
+> ◄  [[an6.5-pali-sri]] 📜  [[an6.7-pali-sri]] ►

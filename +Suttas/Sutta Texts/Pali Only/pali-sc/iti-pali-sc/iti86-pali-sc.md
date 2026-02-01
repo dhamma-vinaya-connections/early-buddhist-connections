@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI86-PALI"
+sutta_code: "ITI86"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "師子 "
+  - "to Sīha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI86-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI86]]
 > ◄  [[iti85-pali-sc]] 📜  [[iti87-pali-sc]] ►
 
 # Iti 86. Andhakaraṇasuttaṃ
@@ -31,6 +31,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti86-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP364]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP364]], [[THAG17.3]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN8:4]], [[SN12.67]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI86]]
+> ◄  [[iti85-pali-sc]] 📜  [[iti87-pali-sc]] ►

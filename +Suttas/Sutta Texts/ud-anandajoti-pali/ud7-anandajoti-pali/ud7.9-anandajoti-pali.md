@@ -3,11 +3,11 @@ sutta_code: "UD7.9"
 sutta_title:
   - "Udapana Sutta "
   - "The Well"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.9]]
 > ◄  [[ud7.8-anandajoti-pali]] 📜  [[ud7.10-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -75,9 +75,7 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.9-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.9]]
 > ◄  [[ud7.8-anandajoti-pali]] 📜  [[ud7.10-anandajoti-pali]] ►

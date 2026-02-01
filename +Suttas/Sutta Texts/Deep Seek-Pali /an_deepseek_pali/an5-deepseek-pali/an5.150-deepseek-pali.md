@@ -4,10 +4,10 @@ sutta_title:
   - "Samayavimutta "
   - "Temporarily Free"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.150]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.150]]
 > ◄  [[an5.149-deepseek-pali]] 📜  [[an5.151-deepseek-pali]] ►
 
 # AN 5.150 Dutiyasamayavimuttasuttaṃ
@@ -51,8 +51,7 @@ The Third Fifty is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.150-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ The Third Fifty is concluded.
 | [[AN5.149]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.150]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.150]]
 > ◄  [[an5.149-deepseek-pali]] 📜  [[an5.151-deepseek-pali]] ►

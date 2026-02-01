@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP336-PALI"
+sutta_code: "DHP336"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP336-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP336]]
 > ◄  [[dhp335-pali-pts]] 📜  [[dhp337-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ taṇhāya mūlaṃ khanatha usīrattho va bīraṇaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp336-) 
 

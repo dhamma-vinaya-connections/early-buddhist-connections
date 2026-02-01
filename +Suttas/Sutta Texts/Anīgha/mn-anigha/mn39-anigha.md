@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
 > ◄  [[mn38-anigha]] 📜  [[mn40-anigha]] ►
 
 # MN 39 - The Longer Discourse at Assapura
@@ -103,8 +103,7 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn39-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -119,6 +118,5 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN2]]; [[DHP XXVI. AN8.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
 > ◄  [[mn38-anigha]] 📜  [[mn40-anigha]] ►

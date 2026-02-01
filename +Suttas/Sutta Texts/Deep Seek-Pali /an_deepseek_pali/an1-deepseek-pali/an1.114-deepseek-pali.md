@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyapamādādi "
   - "Negligence 2nd"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.114]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.114]]
 > ◄  [[an1.113-deepseek-pali]] 📜  [[an1.115-deepseek-pali]] ►
 
 # AN 1.114
@@ -37,6 +37,5 @@ The Thirteenth Chapter: The Single Person
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.114-) 
 

@@ -3,11 +3,11 @@ sutta_code: "THAG13"
 sutta_title:
   - "Terasanipātavagga "
   - "Thirteens Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG13]]
 > ◄  [[thag12-sujato-pali]] 📜  [[thag14-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -165,6 +165,5 @@ vayañcassānupassatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag13-) 
 

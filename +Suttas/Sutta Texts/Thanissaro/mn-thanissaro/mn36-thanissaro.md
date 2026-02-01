@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
 > ◄  [[mn35-thanissaro]] 📜  [[mn38-thanissaro]] ►
 
 ## MN36 The Longer Discourse to Saccaka
@@ -166,8 +166,7 @@ So Saccaka the Nigaṇṭha, delighting in & approving of the Blessed One’s wo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -182,6 +181,5 @@ So Saccaka the Nigaṇṭha, delighting in & approving of the Blessed One’s wo
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN25]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
 > ◄  [[mn35-thanissaro]] 📜  [[mn38-thanissaro]] ►

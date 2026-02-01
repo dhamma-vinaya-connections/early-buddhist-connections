@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.178-PALI"
+sutta_code: "AN4.178"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Jambālī "
+  - "Billabong"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.178-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.178]]
 > ◄  [[an4.177-pali-sc]] 📜  [[an4.179-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -32,6 +32,16 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.178-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA492]] | A ii 165 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA492]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.178]]
+> ◄  [[an4.177-pali-sc]] 📜  [[an4.179-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.77-PALI"
+sutta_code: "SN1.77"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Issariyasutta "
+  - "Sovereignty"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.77-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.77]]
 > ◄  [[sn1.76-pali-sc]] 📜  [[sn1.78-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -63,6 +63,16 @@ abhinandanti paṇḍitā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.77-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.79]] | [[SA-2.290]], [[SA1292]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.290]], [[SN1.79]], [[SA1292]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.77]]
+> ◄  [[sn1.76-pali-sc]] 📜  [[sn1.78-pali-sc]] ►

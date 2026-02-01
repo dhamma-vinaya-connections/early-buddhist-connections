@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG20-PALI"
+sutta_code: "THAG20"
 sutta_title:
-  - " "
-  - ""
+  - "Mahāmoggallānattheragāthā "
+  - "Mahāmoggallāna"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG20]]
 > ◄  [[thag19-pali-eng]] 📜  [[thag21-pali-eng]] ►
 
 # Thag 20. Saṭṭhinipāto
@@ -347,6 +347,5 @@ The Book of the Sixties is finished. Tatruddānaṃ – The summary: Saṭṭhik
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag20-) 
 

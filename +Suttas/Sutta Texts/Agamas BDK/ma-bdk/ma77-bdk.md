@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA77]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA77]]
 > ◄  [[ma76-bdk]] 📜  [[ma78-bdk]] ►
 
 ### 77. The Discourse on Three Clansmen at Sāketa
@@ -43,8 +43,7 @@ Anuruddha, in this way the female lay disciple will certainly attain some level 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma77-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -54,6 +53,5 @@ Anuruddha, in this way the female lay disciple will certainly attain some level 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA10]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA77]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA77]]
 > ◄  [[ma76-bdk]] 📜  [[ma78-bdk]] ►

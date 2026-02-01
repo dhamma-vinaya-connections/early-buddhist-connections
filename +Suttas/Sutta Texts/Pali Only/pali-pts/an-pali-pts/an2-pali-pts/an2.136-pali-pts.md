@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.136-PALI"
+sutta_code: "AN2.136"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Āyācana "
+  - "Aspiration"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.136-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.136]]
 > ◄  [[an2.135-pali-pts]] 📜  [[an2.137-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -29,6 +29,11 @@ Imesu bhikkhave dvīsu sammā paṭipajjamāno paṇḍito vyatto sappuriso akkh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.136-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 90 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.136]]
+> ◄  [[an2.135-pali-pts]] 📜  [[an2.137-pali-pts]] ►

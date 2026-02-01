@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA56]]
 > ◄  [[ma55-bdk]] 📜  [[ma57-bdk]] ►
 
 ### 56. The Discourse to Meghiya
@@ -31,8 +31,7 @@ arouse single-minded and unwavering intention to cultivate wholesome roots witho
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma56-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ arouse single-minded and unwavering intention to cultivate wholesome roots witho
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA56]]
 > ◄  [[ma55-bdk]] 📜  [[ma57-bdk]] ►

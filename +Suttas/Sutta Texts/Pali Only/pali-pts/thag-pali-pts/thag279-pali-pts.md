@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG279-PALI"
+sutta_code: "THAG279"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG279-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG279]]
 > ◄  [[thag278-pali-pts]] 📜  [[thag280-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ mā purāṇam amaññittho, māsādesi tathāgate;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag279-) 
 

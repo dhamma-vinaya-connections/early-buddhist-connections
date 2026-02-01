@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN32-PALI"
+sutta_code: "DN32"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Āṭānāṭiya Sutta "
+  - "Āṭānāṭiya Protection"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
 > ◄  [[dn31-pali-sc]] 📜  [[dn33-pali-sc]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -522,6 +522,11 @@ Dadhimukho maṇi māṇivaro dīgho,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn32-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | D iii 194 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
+> ◄  [[dn31-pali-sc]] 📜  [[dn33-pali-sc]] ►

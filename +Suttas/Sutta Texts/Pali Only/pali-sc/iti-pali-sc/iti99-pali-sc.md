@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI99-PALI"
+sutta_code: "ITI99"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "家樓烏陀夷 "
+  - "Kāḷudāyin"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI99-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI99]]
 > ◄  [[iti98-pali-sc]] 📜  [[iti100-pali-sc]] ►
 
 # Iti 99. Sulabhasuttaṃ
@@ -27,6 +27,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti99-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP423]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP423]], [[AN3.58]], [[AN3.59]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4.1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN4]], [[THIG5.11]], [[THIG5.12]], [[THIG12]], [[THIG13.2]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI99]]
+> ◄  [[iti98-pali-sc]] 📜  [[iti100-pali-sc]] ►

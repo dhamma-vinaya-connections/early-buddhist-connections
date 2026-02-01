@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG224-PALI"
+sutta_code: "THIG224"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG224-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG224]]
 > ◄  [[thig223-pali-pts]] 📜  [[thig225-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ dhi-r-atthu kāmā asucī duggandhā bahukaṇṭakā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig224-) 
 

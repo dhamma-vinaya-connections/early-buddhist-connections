@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.34-PALI"
+sutta_code: "AN4.34"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Aggappasāda "
+  - "Best Kinds Of Confidence"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.34-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.34]]
 > ◄  [[an4.33-pali-sc]] 📜  [[an4.35-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -51,6 +51,16 @@ Catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.34-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[ITI90]] | [[EA21.1]], [[SA902-904]] | A ii 34 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA21.1]], [[AN5.32]], [[ITI90]], [[SA902-904]], [[SN45.139]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.34]]
+> ◄  [[an4.33-pali-sc]] 📜  [[an4.35-pali-sc]] ►

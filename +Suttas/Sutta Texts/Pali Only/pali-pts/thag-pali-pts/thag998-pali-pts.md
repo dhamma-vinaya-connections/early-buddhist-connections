@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG998-PALI"
+sutta_code: "THAG998"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG998-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG998]]
 > ◄  [[thag997-pali-pts]] 📜  [[thag999-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ avitakkaṃ samāpanno sammāsambuddhasāvako
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag998-) 
 

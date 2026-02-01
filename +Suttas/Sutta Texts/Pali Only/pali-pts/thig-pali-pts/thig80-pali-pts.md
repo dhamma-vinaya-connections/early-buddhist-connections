@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG80-PALI"
+sutta_code: "THIG80"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG80-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG80]]
 > ◄  [[thig79-pali-pts]] 📜  [[thig81-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ daḷhapāsaṃ karitvāna rukkhasākhāya bandhiya |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig80-) 
 

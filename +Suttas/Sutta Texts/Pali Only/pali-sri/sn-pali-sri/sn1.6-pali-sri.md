@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.6-PALI"
+sutta_code: "SN1.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Jāgara "
+  - "Awake"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.6]]
 > ◄  [[sn1.5-pali-sri]] 📜  [[sn1.7-pali-sri]] ►
 
 # 1:6 Jaravaggo - Pali
@@ -206,6 +206,16 @@ Uppatho ca dutiyā ca kavinā pūrito vaggoti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.141]], [[SA1003]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.141]], [[SA1003]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.6]]
+> ◄  [[sn1.5-pali-sri]] 📜  [[sn1.7-pali-sri]] ►

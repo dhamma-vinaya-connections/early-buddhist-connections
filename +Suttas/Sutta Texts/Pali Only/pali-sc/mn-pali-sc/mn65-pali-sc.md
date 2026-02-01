@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN65-PALI"
+sutta_code: "MN65"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bhaddāli Sutta "
+  - "With Bhaddāli"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
 > ◄  [[mn64-pali-sc]] 📜  [[mn66-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -159,6 +159,16 @@ Yato kho, bhaddāli, bhadro assājānīyo abhiṇhakāraṇā anupubbakāraṇā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn65-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN66]] | [[EA49.7]]; [[MA192]]; [[MA194]] | M i 437 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA49.7]]; [[MA194]]; [[MN66]]; [[MA192]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
+> ◄  [[mn64-pali-sc]] 📜  [[mn66-pali-sc]] ►

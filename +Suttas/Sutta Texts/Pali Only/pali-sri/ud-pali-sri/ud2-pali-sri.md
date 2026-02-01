@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD2-PALI"
+sutta_code: "UD2"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2]]
 > ◄  [[ud1-pali-sri]] 📜  [[ud3-pali-sri]] ►
 
 # Udanapali 2: Mucalindavaggo - BJT
@@ -295,6 +295,5 @@ Kāḷīgodhāya bhaddiyoti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2-) 
 

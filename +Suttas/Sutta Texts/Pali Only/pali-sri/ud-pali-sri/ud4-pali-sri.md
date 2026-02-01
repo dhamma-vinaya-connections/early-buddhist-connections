@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD4-PALI"
+sutta_code: "UD4"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4]]
 > ◄  [[ud3-pali-sri]] 📜  [[ud5-pali-sri]] ►
 
 # Udanapali 4: Meghiyavaggo - BJT
@@ -291,6 +291,5 @@ Upaseno vaṅgantaputto sāriputto ca te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4-) 
 

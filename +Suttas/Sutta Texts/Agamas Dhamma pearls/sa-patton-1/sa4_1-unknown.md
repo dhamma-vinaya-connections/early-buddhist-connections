@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA4_1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA4_1]]
 > ◄  [[SA3_71]] 📜  [[SA4_2]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -66,6 +66,5 @@ Kauṇḍinya said to the Buddha, “I’ve known it, Sugata!”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa4_1-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP219-PALI"
+sutta_code: "DHP219"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP219-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP219]]
 > ◄  [[dhp218-pali-pts]] 📜  [[dhp220-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ tath'; eva katapuññam pi asmā lokā paraṃ gataṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp219-) 
 

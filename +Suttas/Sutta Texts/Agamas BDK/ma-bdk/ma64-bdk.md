@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA64]]
 > ◄  [[ma63-bdk]] 📜  [[ma65-bdk]] ►
 
 ### 64. The Discourse on the Divine Messengers
@@ -69,8 +69,7 @@ Attains cessation in this lifetime, Transcending all that is fearful, And crossi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma64-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -80,6 +79,5 @@ Attains cessation in this lifetime, Transcending all that is fearful, And crossi
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.38]], [[MA199]], [[MN129]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA64]]
 > ◄  [[ma63-bdk]] 📜  [[ma65-bdk]] ►

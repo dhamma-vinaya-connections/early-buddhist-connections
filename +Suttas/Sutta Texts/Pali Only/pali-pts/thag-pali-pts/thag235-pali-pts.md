@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG235-PALI"
+sutta_code: "THAG235"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG235-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG235]]
 > ◄  [[thag234-pali-pts]] 📜  [[thag236-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ suyuddhena suyiṭṭhena saṃgāmavijayena ca
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag235-) 
 

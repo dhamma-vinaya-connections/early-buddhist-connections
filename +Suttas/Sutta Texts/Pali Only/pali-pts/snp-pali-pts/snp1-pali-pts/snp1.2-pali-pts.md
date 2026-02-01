@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.2-PALI"
+sutta_code: "SNP1.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dhaniya "
+  - "With Dhaniya the Cowherd"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.2]]
 > ◄  [[snp1.1-pali-pts]] 📜  [[snp1.3-pali-pts]] ►
 
 # SNP1.2 Dhaniyasutta
@@ -107,6 +107,20 @@ DHANIYASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN4.8]], [[SN1.12]], [[SA1004]], [[SA-2.142]], [[PE2]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[UD5:5]], [[SNP4:4]], [[SN35:28]], [[ITI93]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.2]]
+> ◄  [[snp1.1-pali-pts]] 📜  [[snp1.3-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1243-PALI"
+sutta_code: "THAG1243"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1243-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1243]]
 > ◄  [[thag1242-pali-pts]] 📜  [[thag1244-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ pajjotakaro ativijjha sabbaṭṭhitīnaṃ atikkamam addā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1243-) 
 

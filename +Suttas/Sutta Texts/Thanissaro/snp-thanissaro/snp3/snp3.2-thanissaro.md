@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.2]]
 > ◄  [[snp3.1-thanissaro]] 📜  [[snp3.3-thanissaro]] ►
 
 # 3:2  Exertion
@@ -291,8 +291,7 @@ vv. 425–449
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -307,6 +306,5 @@ vv. 425–449
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN70]], [[SN4]], [[AN2.5]], [[AN5.53]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.2]]
 > ◄  [[snp3.1-thanissaro]] 📜  [[snp3.3-thanissaro]] ►

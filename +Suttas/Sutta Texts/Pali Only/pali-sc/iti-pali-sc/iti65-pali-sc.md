@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI65-PALI"
+sutta_code: "ITI65"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sucarita "
+  - "Good Conduct"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI65-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI65]]
 > ◄  [[iti64-pali-sc]] 📜  [[iti66-pali-sc]] ►
 
 # Iti 65. Soceyyasuttaṃ
@@ -25,6 +25,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti65-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[ITI31]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN24]], [[AN3:122]], [[AN3:123]], [[SN1.12]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI65]]
+> ◄  [[iti64-pali-sc]] 📜  [[iti66-pali-sc]] ►

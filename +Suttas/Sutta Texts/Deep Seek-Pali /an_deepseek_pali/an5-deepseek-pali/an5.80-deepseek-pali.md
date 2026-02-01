@@ -4,10 +4,10 @@ sutta_title:
   - "Anagata-Bhayani "
   - "Future Perils 4th"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.80]]
 > ◄  [[an5.79-deepseek-pali]] 📜  [[an5.81-deepseek-pali]] ►
 
 # AN 5.80 Catutthaanāgatabhayasuttaṃ
@@ -63,8 +63,7 @@ Two on the fruits of liberation of mind, two on those who dwell in the Dhamma; t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.80-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -74,6 +73,5 @@ Two on the fruits of liberation of mind, two on those who dwell in the Dhamma; t
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN16.13]], [[AN5.77]], [[AN5.78]], [[AN5.79]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.80]]
 > ◄  [[an5.79-deepseek-pali]] 📜  [[an5.81-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Paccavekkhana Sutta "
   - "It Was"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.3]]
 > ◄  [[ud6.2-deepseek-pali]] 📜  [[ud6.4-deepseek-pali]] ►
 
 # Ud 6.3 Paccavekkhaṇasuttaṃ
@@ -31,8 +31,7 @@ Then the Blessed One, knowing that many evil, unwholesome qualities had been aba
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then the Blessed One, knowing that many evil, unwholesome qualities had been aba
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]], [[MN110]], [[AN4.192]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.3]]
 > ◄  [[ud6.2-deepseek-pali]] 📜  [[ud6.4-deepseek-pali]] ►

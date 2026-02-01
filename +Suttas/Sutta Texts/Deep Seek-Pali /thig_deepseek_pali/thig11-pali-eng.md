@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG11-PALI"
+sutta_code: "THIG11"
 sutta_title:
-  - " "
-  - ""
+  - "Dvādasakanipātavagga "
+  - "Twelves Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG11]]
 > ◄  [[thig10-pali-eng]] 📜  [[thig12-pali-eng]] ►
 
 # Thig 11. Dvādasakanipāto
@@ -79,6 +79,5 @@ Everywhere delight has been banished, the mass of darkness has been shattered. T
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig11-) 
 

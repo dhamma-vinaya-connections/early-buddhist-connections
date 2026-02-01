@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.90-PALI"
+sutta_code: "AN3.90"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kumbha "
+  - "Pots"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.90-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.90]]
 > ◄  [[an3.89-pali-pts]] 📜  [[an3.91-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -29,6 +29,16 @@ Idha bhikkhave bhikkhu idaṃ dukkhan ti yathābhūtaṃ pajānāti . . . pe . .
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.90-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.89]] | [[SA816]], [[SA817]], [[SA832]] | A ii 106 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA816]], [[AN3.89]], [[SA817]], [[SA832]], [[THAG6.4]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.90]]
+> ◄  [[an3.89-pali-pts]] 📜  [[an3.91-pali-pts]] ►

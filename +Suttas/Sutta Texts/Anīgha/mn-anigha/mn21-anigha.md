@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN21]]
 > ◄  [[mn20-anigha]] 📜  [[mn22-anigha]] ►
 
 # MN 21 - The Simile of the Saw
@@ -145,8 +145,7 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -161,6 +160,5 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.63]], [[MN40]], [[MN21]], [[MA30]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN21]]
 > ◄  [[mn20-anigha]] 📜  [[mn22-anigha]] ►

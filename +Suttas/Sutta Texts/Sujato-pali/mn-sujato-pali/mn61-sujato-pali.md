@@ -3,11 +3,11 @@ sutta_code: "MN61"
 sutta_title:
   - "Ambalaṭṭhikarāhulovāda Sutta "
   - "Advice to Rāhula at Ambalaṭṭhika"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
 > ◄  [[mn60-sujato-pali]] 📜  [[mn62-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -161,8 +161,7 @@ Ambalaṭṭhikarāhulovādasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn61-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -177,6 +176,5 @@ Ambalaṭṭhikarāhulovādasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN62]]; [[MN147]]; [[MN65]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
 > ◄  [[mn60-sujato-pali]] 📜  [[mn62-sujato-pali]] ►

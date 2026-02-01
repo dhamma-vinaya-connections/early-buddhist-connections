@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.8-PALI"
+sutta_code: "AN9.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sajjha "
+  - "Sajjha"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.8]]
 > ◄  [[an9.7-pali-pts]] 📜  [[an9.9-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Evaṃ me sutaṃ. Ekaṃ samayaṃ Bhagavā Rājagahe viharati Gijjhakūṭe pa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN9.8]], [[DN29]] | [[DA17]] | A iv 371 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN29]], [[DA17]], [[AN9.8]], [[MN76]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.8]]
+> ◄  [[an9.7-pali-pts]] 📜  [[an9.9-pali-pts]] ►

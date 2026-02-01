@@ -4,10 +4,10 @@ sutta_title:
   - "Dāna "
   - "Giving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI26]]
 > ◄  [[iti25-deepseek-pali]] 📜  [[iti27-deepseek-pali]] ►
 
 # Iti 26 Mettābhāvanāsuttaṃ
@@ -55,9 +55,7 @@ The Book of the Ones is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti26-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI26]]
 > ◄  [[iti25-deepseek-pali]] 📜  [[iti27-deepseek-pali]] ►

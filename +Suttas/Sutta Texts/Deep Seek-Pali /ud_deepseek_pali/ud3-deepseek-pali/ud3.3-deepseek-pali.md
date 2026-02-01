@@ -4,10 +4,10 @@ sutta_title:
   - "Yasoja Sutta "
   - "Yasoja"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.3]]
 > ◄  [[ud3.2-deepseek-pali]] 📜  [[ud3.4-deepseek-pali]] ►
 
 # Ud 3.3 Yasojasuttaṃ
@@ -87,8 +87,7 @@ Then the Blessed One, understanding the meaning of this, on that occasion uttere
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ Then the Blessed One, understanding the meaning of this, on that occasion uttere
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.3]], [[AN8.30]], [[THAG6:10]], [[AN]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.3]]
 > ◄  [[ud3.2-deepseek-pali]] 📜  [[ud3.4-deepseek-pali]] ►

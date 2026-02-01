@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA102]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA102]]
 > ◄  [[ma101-bdk]] 📜  [[ma103-bdk]] ►
 
 ### 102. The Discourse on Thoughts
@@ -29,8 +29,7 @@ up a bad path [represents] the three evil and unwholesome types of thought: thou
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma102-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -40,6 +39,5 @@ up a bad path [represents] the three evil and unwholesome types of thought: thou
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.259]], [[MN20]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA102]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA102]]
 > ◄  [[ma101-bdk]] 📜  [[ma103-bdk]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.72-PALI"
+sutta_code: "AN5.72"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cetovimuttiphala "
+  - "Freedom Of Heart Is The Fruit"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.72-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.72]]
 > ◄  [[an5.71-pali-sc]] 📜  [[an5.73-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -28,6 +28,11 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.72-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 85 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.72]]
+> ◄  [[an5.71-pali-sc]] 📜  [[an5.73-pali-sc]] ►

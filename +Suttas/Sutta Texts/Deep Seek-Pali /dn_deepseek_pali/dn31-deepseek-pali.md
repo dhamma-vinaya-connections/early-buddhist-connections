@@ -4,10 +4,10 @@ sutta_title:
   - "Siṅgāla Sutta "
   - "Advice to Sigālaka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN31]]
 > ◄  [[dn30-deepseek-pali]] 📜  [[dn32-deepseek-pali]] ►
 
 # Siṅgālasuttaṃ
@@ -339,8 +339,7 @@ The Sigalovada Sutta is completed, the eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn31-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -351,6 +350,5 @@ The Sigalovada Sutta is completed, the eighth.
 | [[DA16]], [[MA135]], [[SN45.141-148]], [[MA141]], [[SA-2.66]], [[SA1239]], [[AN4.17]], [[PE3]], [[AN4.32]], [[JA532]], [[THAG3.5]], [[AN4.64]], [[AN4.19]], [[AN4.17-18]], [[JA443]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN31]]
 > ◄  [[dn30-deepseek-pali]] 📜  [[dn32-deepseek-pali]] ►

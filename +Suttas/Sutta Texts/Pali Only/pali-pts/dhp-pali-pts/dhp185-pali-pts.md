@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP185-PALI"
+sutta_code: "DHP185"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP185-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP185]]
 > ◄  [[dhp184-pali-pts]] 📜  [[dhp186-pali-pts]] ►
 
 ## Dhammapada
@@ -24,6 +24,5 @@ na kahāpaṇavassena titti kāmesu vijjati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp185-) 
 

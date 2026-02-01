@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP79-PALI"
+sutta_code: "DHP79"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP79-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP79]]
 > ◄  [[dhp78-pali-pts]] 📜  [[dhp80-pali-pts]] ►
 
 ## Dhammapada
@@ -24,6 +24,5 @@ _6. Paṇḍitavagga 23_
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp79-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Anuruddhamahāvitakka "
   - "Anuruddha And The Great Thoughts"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.30]]
 > ◄  [[an8.29-deepseek-pali]] 📜  [[an8.31-deepseek-pali]] ►
 
 # AN 8.30 Anuruddhamahāvitakkasuttaṃ
@@ -140,8 +140,7 @@ Two Uggas, two Hatthakas, and Jīvaka of Great Name; two powers, and the inoppor
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.30-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -156,6 +155,5 @@ Two Uggas, two Hatthakas, and Jīvaka of Great Name; two powers, and the inoppor
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN48.10]], [[AN4.28]], [[AN8.53]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.30]]
 > ◄  [[an8.29-deepseek-pali]] 📜  [[an8.31-deepseek-pali]] ►

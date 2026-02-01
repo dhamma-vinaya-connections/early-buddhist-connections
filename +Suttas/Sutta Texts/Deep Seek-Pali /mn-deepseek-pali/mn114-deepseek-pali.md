@@ -4,10 +4,10 @@ sutta_title:
   - "Sevitabbāsevitabba Sutta "
   - "What Should and Should Not Be Cultivated"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
 > ◄  [[mn113-deepseek-pali]] 📜  [[mn115-deepseek-pali]] ►
 
 # 114. Bahudhātukasuttaṃ
@@ -99,8 +99,7 @@ The Discourse on the Variety of Elements, the fifth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn114-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ The Discourse on the Variety of Elements, the fifth, is concluded.
 | [[AN10.54]]; [[AN9.6]]; [[EA45.3]]; [[MA107]]; [[MA109]]; [[AN3.28]]; [[MN41]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
 > ◄  [[mn113-deepseek-pali]] 📜  [[mn115-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG747-PALI"
+sutta_code: "THAG747"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG747-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG747]]
 > ◄  [[thag746-pali-pts]] 📜  [[thag748-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ ko so pāraṃgato loke, ko patto amatogadhaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag747-) 
 

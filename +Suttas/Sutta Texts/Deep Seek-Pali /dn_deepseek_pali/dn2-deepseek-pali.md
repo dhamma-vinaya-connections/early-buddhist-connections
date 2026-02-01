@@ -4,10 +4,10 @@ sutta_title:
   - "Sāmaññaphala Sutta "
   - "Fruits of the Ascetic Life"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN2]]
 > ◄  [[dn1-deepseek-pali]] 📜  [[dn3-deepseek-pali]] ►
 
 # Sāmaññaphalasuttaṃ
@@ -623,8 +623,7 @@ Abandoning unchastity, he lives a chaste life, keeping aloof, abstaining from se
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -639,6 +638,5 @@ Abandoning unchastity, he lives a chaste life, keeping aloof, abstaining from se
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN39]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN2]]
 > ◄  [[dn1-deepseek-pali]] 📜  [[dn3-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN18-PALI"
+sutta_code: "DN18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Janavasabha Sutta "
+  - "With Janavasabha"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
 > ◄  [[dn17-pali-pts]] 📜  [[dn19-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -150,6 +150,16 @@ Niṭṭhitaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA4]] | D ii 200 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA4]], [[THAG16.9]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
+> ◄  [[dn17-pali-pts]] 📜  [[dn19-pali-pts]] ►

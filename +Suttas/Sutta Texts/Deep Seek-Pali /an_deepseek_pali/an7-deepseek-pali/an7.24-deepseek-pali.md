@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamaparihāni "
   - "Non-Decline For A Mendicant Trainee"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.24]]
 > ◄  [[an7.23-deepseek-pali]] 📜  [[an7.25-deepseek-pali]] ►
 
 # AN 7.24 Dutiyasattakasuttaṃ
@@ -35,8 +35,7 @@ Monks, as long as the monks do not delight in idle talk... are not prone to slee
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Monks, as long as the monks do not delight in idle talk... are not prone to slee
 | [[DN16]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.24]]
 > ◄  [[an7.23-deepseek-pali]] 📜  [[an7.25-deepseek-pali]] ►

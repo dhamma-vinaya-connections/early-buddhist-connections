@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.76]]
 > ◄  [[an3.75-bodhi]] 📜  [[an3.77-bodhi]] ►
 
 # AN3.76 Existence
@@ -43,8 +43,7 @@ Then the Venerable Ānanda approached the Blessed One, paid homage to him, sat d
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.76-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -54,6 +53,5 @@ Then the Venerable Ānanda approached the Blessed One, paid homage to him, sat d
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.54]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.76]]
 > ◄  [[an3.75-bodhi]] 📜  [[an3.77-bodhi]] ►

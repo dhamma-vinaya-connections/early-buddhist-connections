@@ -4,10 +4,10 @@ sutta_title:
   - "Nirayavagga "
   - "Hell"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
 > ◄  [[dhp21-deepseek-pali]] 📜  [[dhp23-deepseek-pali]] ►
 
 # Dhp 22. Nirayavaggo
@@ -90,8 +90,7 @@ The Chapter on Hell, the twenty-second, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -102,6 +101,5 @@ The Chapter on Hell, the twenty-second, is concluded.
 | [[PE5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
 > ◄  [[dhp21-deepseek-pali]] 📜  [[dhp23-deepseek-pali]] ►

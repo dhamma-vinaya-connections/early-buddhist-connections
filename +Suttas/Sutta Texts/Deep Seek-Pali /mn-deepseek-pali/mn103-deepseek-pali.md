@@ -4,10 +4,10 @@ sutta_title:
   - "Kinti Sutta "
   - "Is This What You Think Of Me?"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN103]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN103]]
 > ◄  [[mn102-deepseek-pali]] 📜  [[mn104-deepseek-pali]] ►
 
 # 103. Sāmagāmasuttaṃ
@@ -127,8 +127,7 @@ The Sāmagāma Discourse, the fourth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn103-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -138,6 +137,5 @@ The Sāmagāma Discourse, the fourth, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN104]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN103]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN103]]
 > ◄  [[mn102-deepseek-pali]] 📜  [[mn104-deepseek-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
 > ◄  [[mn35-anigha]] 📜  [[mn37-anigha]] ►
 
 # MN 36 - The Longer Discourse With Saccaka
@@ -203,8 +203,7 @@ Then Saccaka, the son of Jain parents, having delighted in and expressed appreci
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -219,6 +218,5 @@ Then Saccaka, the son of Jain parents, having delighted in and expressed appreci
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN25]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
 > ◄  [[mn35-anigha]] 📜  [[mn37-anigha]] ►

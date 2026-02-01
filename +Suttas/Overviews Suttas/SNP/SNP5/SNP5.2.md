@@ -34,15 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[PE1]]"
-  - "[[PE5]]"
-  - "[[SN12.31]]"
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: "[[PE1]], [[PE5]], [[SN12.31]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.1]]  🌐 [[SNP5.3]] ►
 
@@ -75,8 +69,7 @@ mindfully.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,8 +84,7 @@ mindfully.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]], [[DN15]], [[MN49]], [[ANDSN12:67]], [[SN12.31]], [[SNP5.14]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP5.2%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP5.2%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -103,7 +95,7 @@ mindfully.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP5.2%5D%5D%22%23mynotes%20-file%3Asnp5.2-%20-file%3A%22SNP5.1%22%20-file%3A%22SNP5.3%22%20-file%3A%22SNP5.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp5.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.2

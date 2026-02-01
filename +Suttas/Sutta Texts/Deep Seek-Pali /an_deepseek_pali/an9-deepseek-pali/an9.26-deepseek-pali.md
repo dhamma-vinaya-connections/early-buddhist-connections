@@ -4,10 +4,10 @@ sutta_title:
   - "Paññā "
   - "Consolidated By Wisdom"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.26]]
 > ◄  [[an9.25-deepseek-pali]] 📜  [[an9.27-deepseek-pali]] ►
 
 # AN 9.26 Silāyūpasuttaṃ
@@ -47,8 +47,7 @@ For a third time, the Venerable Candikāputta addressed the bhikkhus: “Friends
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.26-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ For a third time, the Venerable Candikāputta addressed the bhikkhus: “Friends
 | [[SA499]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.26]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.26]]
 > ◄  [[an9.25-deepseek-pali]] 📜  [[an9.27-deepseek-pali]] ►

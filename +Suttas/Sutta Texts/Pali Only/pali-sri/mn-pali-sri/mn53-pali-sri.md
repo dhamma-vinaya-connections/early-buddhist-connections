@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN53-PALI"
+sutta_code: "MN53"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sekha Sutta "
+  - "A Trainee"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
 > ◄  [[mn52-pali-sri]] 📜  [[mn54-pali-sri]] ►
 
 # 53. Sekha Sutta - Pali
@@ -118,6 +118,20 @@ Sekhasuttaṃ tatiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn53-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M i 353 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN11.10]]; [[DN27]]; [[DN3]]; [[SN21.11]]; [[SN6.11]]; [[SN35.120]]; [[DN2]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN27]]; [[MN38]]; [[MN51]]; [[MN60]]; [[MN76]]; [[MN79]]; [[MN94]]; [[MN101]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN4.198]]; [[AN5.76]]; [[AN5.140]]; [[AN10.99]]; [[AN11.17]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[MN33]]; [[MN16]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.37]]; [[AN7.6]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN53]]
+> ◄  [[mn52-pali-sri]] 📜  [[mn54-pali-sri]] ►

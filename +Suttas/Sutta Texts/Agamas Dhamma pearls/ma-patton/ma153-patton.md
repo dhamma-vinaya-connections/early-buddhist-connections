@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA153]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA153]]
 > ◄  [[ma146-patton]] 📜  [[ma159-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -280,8 +280,7 @@ He answered, “No, Gautama.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma153-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -292,6 +291,5 @@ He answered, “No, Gautama.”
 | [[SN14.17]], [[SN14.18]], [[SN14.19]], [[SN14.20]], [[SN14.21]], [[SN14.22]], [[SN14.23]], [[SN14.24]], [[SN14.25]], [[SN14.27]], [[SN14.28]], [[SN14.29]], [[SN14.12]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA153]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA153]]
 > ◄  [[ma146-patton]] 📜  [[ma159-patton]] ►

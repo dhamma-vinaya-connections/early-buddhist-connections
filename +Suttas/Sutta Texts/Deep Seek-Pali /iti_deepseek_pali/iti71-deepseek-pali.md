@@ -4,10 +4,10 @@ sutta_title:
   - "Sammādiṭṭhika "
   - "Right View"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI71]]
 > ◄  [[iti70-deepseek-pali]] 📜  [[iti72-deepseek-pali]] ►
 
 # Iti 71 Nissaraṇiyasuttaṃ
@@ -29,6 +29,5 @@ This matter, too, was spoken by the Blessed One: so I have heard. The Third.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti71-) 
 

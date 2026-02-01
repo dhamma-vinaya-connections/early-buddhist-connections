@@ -3,11 +3,11 @@ sutta_code: "MN152"
 sutta_title:
   - "Indriyabhāvanā Sutta "
   - "Development of the Faculties"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN152]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN152]]
 > ◄  [[mn151-sujato-pali]] 📜  [[]] ►
 
 ## Majjhima Nikāya
@@ -159,8 +159,7 @@ majjhimanikāyo samatto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn152-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -171,6 +170,5 @@ majjhimanikāyo samatto.
 | [[SA282]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN152]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN152]]
 > ◄  [[mn151-sujato-pali]] 📜  [[]] ►

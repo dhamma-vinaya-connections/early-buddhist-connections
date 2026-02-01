@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP49-PALI"
+sutta_code: "DHP49"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP49-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP49]]
 > ◄  [[dhp48-pali-pts]] 📜  [[dhp50-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ na paresaṃ vilomāni, na paresaṃ katākataṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp49-) 
 

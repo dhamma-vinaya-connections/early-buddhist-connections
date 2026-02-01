@@ -4,10 +4,10 @@ sutta_title:
   - "Selasutta "
   - "With Sela"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
 > ◄  [[snp3.6-deepseek-pali]] 📜  [[snp3.8-deepseek-pali]] ►
 
 # Snp 3.7 Selasuttaṃ
@@ -243,8 +243,7 @@ The Sela Sutta, the seventh, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -259,6 +258,5 @@ The Sela Sutta, the seventh, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN4.20]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
 > ◄  [[snp3.6-deepseek-pali]] 📜  [[snp3.8-deepseek-pali]] ►

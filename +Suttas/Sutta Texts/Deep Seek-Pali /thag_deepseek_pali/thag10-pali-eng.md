@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG10-PALI"
+sutta_code: "THAG10"
 sutta_title:
-  - " "
-  - ""
+  - "Dasakanipātavagga "
+  - "Tens Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG10]]
 > ◄  [[thag9-pali-eng]] 📜  [[thag11-pali-eng]] ►
 
 # Thag 10. Dasakanipāto
@@ -362,6 +362,5 @@ Therefore, one should wish for wise and learned members in one's family. For by 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag10-) 
 

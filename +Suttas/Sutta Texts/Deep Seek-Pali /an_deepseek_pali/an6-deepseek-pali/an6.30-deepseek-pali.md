@@ -4,10 +4,10 @@ sutta_title:
   - "Anuttariya "
   - "Unsurpassable"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.30]]
 > ◄  [[an6.29-deepseek-pali]] 📜  [[an6.31-deepseek-pali]] ►
 
 # AN 6.30 Anuttariyasuttaṃ
@@ -75,12 +75,11 @@ Sāmaka, non-declining; fear, Himavant recollection; Kaccāna, two times, and Ud
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.30-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 325 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.30]]
 > ◄  [[an6.29-deepseek-pali]] 📜  [[an6.31-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "DN20"
 sutta_title:
   - "Mahāsamaya "
   - "Great Congregation"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
 > ◄  [[dn19-sujato-pali]] 📜  [[dn21-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -863,8 +863,7 @@ Mahāsamayasuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -875,6 +874,5 @@ Mahāsamayasuttaṁ niṭṭhitaṁ sattamaṁ.
 | [[DA19]], [[SA-2.105]], [[SA1192]], [[SN1.37]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
 > ◄  [[dn19-sujato-pali]] 📜  [[dn21-sujato-pali]] ►

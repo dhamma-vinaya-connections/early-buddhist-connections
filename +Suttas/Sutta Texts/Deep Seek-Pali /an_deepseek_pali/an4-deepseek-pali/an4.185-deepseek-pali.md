@@ -4,10 +4,10 @@ sutta_title:
   - "Brāhmaṇasacca "
   - "Truths Of The Brahmins"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.185]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.185]]
 > ◄  [[an4.184-deepseek-pali]] 📜  [[an4.186-deepseek-pali]] ►
 
 # AN 4.185 Brāhmaṇasaccasuttaṃ
@@ -47,8 +47,7 @@ Now at that time, as those wanderers of other sects were sitting together in a g
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.185-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Now at that time, as those wanderers of other sects were sitting together in a g
 | [[EA26.8]], [[SA-2.206]], [[SA972]], [[AN10.93]], [[SA-2.202]], [[SA968]], [[AN10.96]], [[SA-2.201]], [[SA967]], [[AN3.64]], [[SA-2.204]], [[SA970]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.185]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.185]]
 > ◄  [[an4.184-deepseek-pali]] 📜  [[an4.186-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP7-PALI"
+sutta_code: "DHP7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Arahantavagga "
+  - "Perfected Ones"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP7]]
 > ◄  [[dhp6-pali-pts]] 📜  [[dhp8-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,11 @@ bhojanamhi ca mattaññuṃ saddhaṃ āraddhavīriyaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 26 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP7]]
+> ◄  [[dhp6-pali-pts]] 📜  [[dhp8-pali-pts]] ►

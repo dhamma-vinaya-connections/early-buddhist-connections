@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA67]]
 > ◄  [[ma66-bdk]] 📜  [[ma68-bdk]] ►
 
 ### 67. The Discourse on Mahādeva’s Mango Grove
@@ -85,8 +85,7 @@ the ultimate purity, not the ultimate holy life, not the ultimate completion of 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma67-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -101,6 +100,5 @@ the ultimate purity, not the ultimate holy life, not the ultimate completion of 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA59]], [[MA70]], [[MN129]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA67]]
 > ◄  [[ma66-bdk]] 📜  [[ma68-bdk]] ►

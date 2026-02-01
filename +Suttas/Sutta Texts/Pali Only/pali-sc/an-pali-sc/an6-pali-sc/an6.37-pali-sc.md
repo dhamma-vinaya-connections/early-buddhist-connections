@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.37-PALI"
+sutta_code: "AN6.37"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Chaḷaṅgadāna "
+  - "Gift With Six Factors"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.37-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.37]]
 > ◄  [[an6.36-pali-sc]] 📜  [[an6.38-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -59,6 +59,20 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.37-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA37.4]] | A iii 336 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA37.4]], [[AN4.40]], [[AN8.37]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5.35]], [[AN8.37]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.37]]
+> ◄  [[an6.36-pali-sc]] 📜  [[an6.38-pali-sc]] ►

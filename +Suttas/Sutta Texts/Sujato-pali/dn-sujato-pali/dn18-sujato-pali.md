@@ -3,11 +3,11 @@ sutta_code: "DN18"
 sutta_title:
   - "Janavasabha Sutta "
   - "With Janavasabha"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
 > ◄  [[dn17-sujato-pali]] 📜  [[dn19-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -512,8 +512,7 @@ Janavasabhasuttaṁ niṭṭhitaṁ pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn18-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -524,6 +523,5 @@ Janavasabhasuttaṁ niṭṭhitaṁ pañcamaṁ.
 | [[DA4]], [[THAG16.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
 > ◄  [[dn17-sujato-pali]] 📜  [[dn19-sujato-pali]] ►

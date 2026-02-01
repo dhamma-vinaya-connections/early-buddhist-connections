@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.67]]
 > ◄  [[an4.62-thanissaro]] 📜  [[an4.73-thanissaro]] ►
 
 ## AN4.67 By a Snake
@@ -92,8 +92,7 @@ rightly self-awakened ones.(#^[].67note02) ^[].67note02-ref
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.67-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -108,6 +107,5 @@ rightly self-awakened ones.(#^[].67note02) ^[].67note02-ref
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN20]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.67]]
 > ◄  [[an4.62-thanissaro]] 📜  [[an4.73-thanissaro]] ►

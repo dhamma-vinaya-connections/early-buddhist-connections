@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.9-PALI"
+sutta_code: "SN6.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Turūbrahmasutta "
+  - "Brahma Tudu"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
 > ◄  [[sn6.8-pali-sc]] 📜  [[sn6.10-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -53,6 +53,16 @@ Vācaṁ manañca paṇidhāya pāpakan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
+> ◄  [[sn6.8-pali-sc]] 📜  [[sn6.10-pali-sc]] ►

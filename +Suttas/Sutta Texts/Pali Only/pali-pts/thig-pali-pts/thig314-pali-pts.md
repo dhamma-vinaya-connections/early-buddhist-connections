@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG314-PALI"
+sutta_code: "THIG314"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG314-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG314]]
 > ◄  [[thig313-pali-pts]] 📜  [[thig315-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sāhaṃ nissaraṇaṃ ñatvā jātiyā maraṇassa ca |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig314-) 
 

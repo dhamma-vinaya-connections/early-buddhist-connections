@@ -38,16 +38,9 @@ sutta_teacher:
   - "Moggallana"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Bronze dish kept in dirty place like who doesn't understand his blemishes, and bronze dish clean like who understands his blemishes
-rim planed out the crooks, bends, and flaws, like someone who makes an effort to correct his blemishes"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[EA25.6]]"
-  - "[[MA87]]"
-parallels_partilal:
-  - "[[EA25.6]]"
-  - "[[MA87]]"
+parallels_nikaya: ""
+parallels_agama: "[[EA25.6]]; [[MA87]]"
+parallels_partilal: "[[EA25.6]]; [[MA87]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[MN]] | ◄  [[MN4]]  🌐 [[MN6]] ►
 
@@ -76,8 +69,7 @@ rim planed out the crooks, bends, and flaws, like someone who makes an effort t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -92,8 +84,7 @@ rim planed out the crooks, bends, and flaws, like someone who makes an effort t
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN3]], [[MN7]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BMN5%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BMN5%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -104,7 +95,7 @@ rim planed out the crooks, bends, and flaws, like someone who makes an effort t
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BMN5%5D%5D%22%23mynotes%20-file%3Amn5-%20-file%3A%22MN4%22%20-file%3A%22MN6%22%20-file%3A%22MN5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/mn5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=mn5

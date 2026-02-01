@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA16]]
 > ◄  [[da15-bdk]] 📜  [[da17-bdk]] ►
 
 ### Kalyāṇa-jātika
@@ -482,8 +482,7 @@ received the teaching and carried out what was taught by the Buddha.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -494,6 +493,5 @@ received the teaching and carried out what was taught by the Buddha.
 | [[DN14]], [[MN85]], [[MN26]], [[SN6.1]], [[PLI-TV-KD1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA16]]
 > ◄  [[da15-bdk]] 📜  [[da17-bdk]] ►

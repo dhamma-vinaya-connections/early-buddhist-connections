@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA4_55]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA4_55]]
 > ◄  [[SA4_11]] 📜  [[SA6_5]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -38,6 +38,5 @@ The monks said to the Buddha, “Bhagavān, the leaves in your hand are few, but
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa4_55-) 
 

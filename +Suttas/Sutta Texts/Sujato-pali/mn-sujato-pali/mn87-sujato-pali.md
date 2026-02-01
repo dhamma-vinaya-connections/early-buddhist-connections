@@ -3,11 +3,11 @@ sutta_code: "MN87"
 sutta_title:
   - "Piyajātika Sutta "
   - "Born From the Beloved"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
 > ◄  [[mn86-sujato-pali]] 📜  [[mn88-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -247,8 +247,7 @@ Piyajātikasuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn87-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -259,6 +258,5 @@ Piyajātikasuttaṁ niṭṭhitaṁ sattamaṁ.
 | [[EA13.3]]; [[MA216]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
 > ◄  [[mn86-sujato-pali]] 📜  [[mn88-sujato-pali]] ►

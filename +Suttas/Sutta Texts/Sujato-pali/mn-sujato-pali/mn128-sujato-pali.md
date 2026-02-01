@@ -3,11 +3,11 @@ sutta_code: "MN128"
 sutta_title:
   - "Upakkilesa Sutta "
   - "Corruptions"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
 > ◄  [[mn127-sujato-pali]] 📜  [[mn129-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -363,8 +363,7 @@ Upakkilesasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn128-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -379,6 +378,5 @@ Upakkilesasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN48]], [[MN31]], [[MN127]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
 > ◄  [[mn127-sujato-pali]] 📜  [[mn129-sujato-pali]] ►

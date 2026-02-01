@@ -4,10 +4,10 @@ sutta_title:
   - "Dvidhapatha Sutta "
   - "A Fork in the Path"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.7]]
 > ◄  [[ud8.6-deepseek-pali]] 📜  [[ud8.8-deepseek-pali]] ►
 
 # Ud 8.7 Dvidhāpathasuttaṃ
@@ -39,9 +39,7 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.7-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.7]]
 > ◄  [[ud8.6-deepseek-pali]] 📜  [[ud8.8-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Anomasutta "
   - "Perfect"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.45]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.45]]
 > ◄  [[sn1.44-deepseek-pali]] 📜  [[sn1.46-deepseek-pali]] ►
 
 # SN 1.45 Anomasuttaṃ
@@ -25,9 +25,7 @@ Behold him of peerless name, seeing subtle meanings, bestowing wisdom, unattache
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.45-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.45]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.45]]
 > ◄  [[sn1.44-deepseek-pali]] 📜  [[sn1.46-deepseek-pali]] ►

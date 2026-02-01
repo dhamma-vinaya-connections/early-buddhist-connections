@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
 > ◄  [[mn26-anigha]] 📜  [[mn28-anigha]] ►
 
 # MN 27 - The Shorter Simile of the Elephant’s Footprint
@@ -123,8 +123,7 @@ When he had spoken, the brahmin Jānussoṇi said to the Auspicious One, “Exce
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn27-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -139,6 +138,5 @@ When he had spoken, the brahmin Jānussoṇi said to the Auspicious One, “Exce
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
 > ◄  [[mn26-anigha]] 📜  [[mn28-anigha]] ►

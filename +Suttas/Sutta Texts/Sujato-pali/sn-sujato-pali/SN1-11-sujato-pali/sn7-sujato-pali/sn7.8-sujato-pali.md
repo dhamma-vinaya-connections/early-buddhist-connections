@@ -3,11 +3,11 @@ sutta_code: "SN7.8"
 sutta_title:
   - "Aggikasutta "
   - "Aggika"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.8]]
 > ◄  [[sn7.7-sujato-pali]] 📜  [[sn7.9-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -113,8 +113,7 @@ Khettañhi taṁ puññapekkhassa hotī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -125,6 +124,5 @@ Khettañhi taṁ puññapekkhassa hotī"ti.
 | [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[THIG4.1]], [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.8]]
 > ◄  [[sn7.7-sujato-pali]] 📜  [[sn7.9-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP284-PALI"
+sutta_code: "DHP284"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP284-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP284]]
 > ◄  [[dhp283-pali-pts]] 📜  [[dhp285-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ ucchinda sineham attano kumudaṃ sāradikaṃ va pāṇinā, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp284-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Uposatha "
   - "Sabbath"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.70]]
 > ◄  [[an3.69-deepseek-pali]] 📜  [[an3.71-deepseek-pali]] ►
 
 # AN 3.70 Uposathasuttaṃ
@@ -191,8 +191,7 @@ The Fear of Sectarians, and the Wild Ox; the Sarabha Deer, and the Hair-Tied Asc
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.70-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -207,6 +206,5 @@ The Fear of Sectarians, and the Wild Ox; the Sarabha Deer, and the Hair-Tied Asc
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.43]], [[AN10.46]], [[UD2.10]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.70]]
 > ◄  [[an3.69-deepseek-pali]] 📜  [[an3.71-deepseek-pali]] ►

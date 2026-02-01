@@ -4,10 +4,10 @@ sutta_title:
   - "Parisa "
   - "Assemblies"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.49]]
 > ◄  [[an2.48-deepseek-pali]] 📜  [[an2.50-deepseek-pali]] ►
 
 # AN 2.49 ‘‘Dvemā, bhikkhave, parisā. Katamā dve? Āmisagaru parisā no saddhammagaru, saddhammagaru parisā no āmisagaru. Katamā ca, bhikkhave, āmisagaru parisā no saddhammagaru? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū gihīnaṃ odātavasanānaṃ sammukhā aññamaññassa vaṇṇaṃ bhāsanti – ‘asuko bhikkhu ubhatobhāgavimutto, asuko paññāvimutto, asuko kāyasakkhī, asuko diṭṭhippatto, asuko saddhāvimutto, asuko dhammānusārī, asuko saddhānusārī, asuko sīlavā kalyāṇadhammo, asuko dussīlo pāpadhammo’ti. Te tena lābhaṃ labhanti. Te taṃ lābhaṃ labhitvā gathitā [gadhitā (ka.)] mucchitā ajjhopannā [ajjhosānā (ka.), anajjhopannā (sī. syā. ka.) tikanipāte kusināravagge paṭhamasuttaṭīkā oloketabbā] anādīnavadassāvino anissaraṇapaññā paribhuñjanti. Ayaṃ vuccati, bhikkhave, āmisagaru parisā no saddhammagaru.
@@ -23,12 +23,11 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.49-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A i 74 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.49]]
 > ◄  [[an2.48-deepseek-pali]] 📜  [[an2.50-deepseek-pali]] ►

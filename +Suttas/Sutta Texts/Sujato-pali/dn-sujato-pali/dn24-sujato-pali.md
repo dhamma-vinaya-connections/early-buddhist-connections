@@ -3,11 +3,11 @@ sutta_code: "DN24"
 sutta_title:
   - "Pāthika Sutta "
   - "About Pāṭikaputta"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-sujato-pali]] 📜  [[dn25-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -812,8 +812,7 @@ Pāthikasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -824,6 +823,5 @@ Pāthikasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 | [[DA15]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-sujato-pali]] 📜  [[dn25-sujato-pali]] ►

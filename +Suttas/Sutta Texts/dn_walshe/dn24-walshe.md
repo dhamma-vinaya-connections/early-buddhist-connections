@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-walshe]] 📜  [[dn25-walshe]] ►
 
 # DN24 Pāṭika Sutta: About Pāṭikaputta,
@@ -152,8 +152,7 @@ Thus the Lord spoke, and Bhaggava the wanderer was delighted and rejoiced at the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -164,6 +163,5 @@ Thus the Lord spoke, and Bhaggava the wanderer was delighted and rejoiced at the
 | [[DA15]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-walshe]] 📜  [[dn25-walshe]] ►

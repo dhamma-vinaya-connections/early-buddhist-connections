@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG386-PALI"
+sutta_code: "THIG386"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG386-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG386]]
 > ◄  [[thig385-pali-pts]] 📜  [[thig387-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ yassā siyā apaccavekkhitaṃ satthā vā anusāsito siyā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig386-) 
 

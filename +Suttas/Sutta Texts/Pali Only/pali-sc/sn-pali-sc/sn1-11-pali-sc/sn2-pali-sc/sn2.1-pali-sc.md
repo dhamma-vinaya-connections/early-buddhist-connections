@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.1-PALI"
+sutta_code: "SN2.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paṭhamakassapasutta "
+  - "Kassapa (1)"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
 > ◄  [[]] 📜  [[sn2.2-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -35,6 +35,16 @@ cittavūpasamassa cā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.316]], [[SA1317]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.316]], [[SA1317]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
+> ◄  [[]] 📜  [[sn2.2-pali-sc]] ►

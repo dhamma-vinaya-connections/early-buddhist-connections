@@ -3,11 +3,11 @@ sutta_code: "SNP2.10"
 sutta_title:
   - "Uṭṭhānasutta "
   - "Get up make effort"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.10]]
 > ◄  [[snp2.9-sujato-pali]] 📜  [[snp2.11-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -75,8 +75,7 @@ Uṭṭhānasuttaṁ dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ Uṭṭhānasuttaṁ dasamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[DHP315]], [[SN3.17]], [[SN36.6]], [[AN4.37]], [[THAG1.84]], [[THAG2.37]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.10]]
 > ◄  [[snp2.9-sujato-pali]] 📜  [[snp2.11-sujato-pali]] ►

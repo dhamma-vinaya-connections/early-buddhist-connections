@@ -4,10 +4,10 @@ sutta_title:
   - "Kiriya "
   - "Action And Inaction"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.34]]
 > ◄  [[an2.33-deepseek-pali]] 📜  [[an2.35-deepseek-pali]] ►
 
 # AN 2.34 ‘‘Dvinnāhaṃ, bhikkhave, na suppatikāraṃ vadāmi. Katamesaṃ dvinnaṃ? Mātu ca pitu ca. Ekena, bhikkhave, aṃsena mātaraṃ parihareyya, ekena aṃsena pitaraṃ parihareyya vassasatāyuko vassasatajīvī so ca nesaṃ ucchādanaparimaddananhāpanasambāhanena. Te ca tattheva muttakarīsaṃ cajeyyuṃ. Na tveva, bhikkhave, mātāpitūnaṃ kataṃ vā hoti paṭikataṃ vā. Imissā ca, bhikkhave, mahāpathaviyā pahūtarattaratanāya [pahūtasattaratanāya (sī. syā. kaṃ. pī.) tikanipāte mahāvagge dasamasuttaṭīkāyaṃ dassitapāḷiyā sameti] mātāpitaro issarādhipacce rajje patiṭṭhāpeyya, na tveva, bhikkhave, mātāpitūnaṃ kataṃ vā hoti paṭikataṃ vā. Taṃ kissa hetu? Bahukārā [bahūpakārā (ka.)], bhikkhave, mātāpitaro puttānaṃ āpādakā posakā imassa lokassa dassetāro. Yo ca kho, bhikkhave, mātāpitaro assaddhe saddhāsampadāya samādapeti niveseti patiṭṭhāpeti, dussīle sīlasampadāya samādapeti niveseti patiṭṭhāpeti, maccharī cāgasampadāya samādapeti niveseti patiṭṭhāpeti, duppaññe paññāsampadāya samādapeti niveseti patiṭṭhāpeti, ettāvatā kho, bhikkhave, mātāpitūnaṃ katañca hoti paṭikatañcā’’ti [paṭikatañca atikatañcāti (sī. pī.)].
@@ -19,12 +19,11 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A i 62 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.34]]
 > ◄  [[an2.33-deepseek-pali]] 📜  [[an2.35-deepseek-pali]] ►

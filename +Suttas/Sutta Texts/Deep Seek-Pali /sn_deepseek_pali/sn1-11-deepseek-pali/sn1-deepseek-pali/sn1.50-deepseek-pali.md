@@ -4,10 +4,10 @@ sutta_title:
   - "Ghaṭīkārasutta "
   - "Ghaṭikara"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.50]]
 > ◄  [[sn1.49-deepseek-pali]] 📜  [[sn1.51-deepseek-pali]] ►
 
 # SN 1.50 Ghaṭīkārasuttaṃ
@@ -89,8 +89,7 @@ Burning, What Is Given, Food, One Root, Unequalled, Accharā, Grove, Planted, St
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.50-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -105,6 +104,5 @@ Burning, What Is Given, Food, One Root, Unequalled, Accharā, Grove, Planted, St
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN143]], [[MN140]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.50]]
 > ◄  [[sn1.49-deepseek-pali]] 📜  [[sn1.51-deepseek-pali]] ►

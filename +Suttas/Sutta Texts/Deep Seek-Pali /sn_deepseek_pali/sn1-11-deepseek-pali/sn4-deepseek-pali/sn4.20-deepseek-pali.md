@@ -4,10 +4,10 @@ sutta_title:
   - "Rajjasutta "
   - "Rulership"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.20]]
 > ◄  [[sn4.19-deepseek-pali]] 📜  [[sn4.21-deepseek-pali]] ►
 
 # SN 4.20 Rajjasuttaṃ
@@ -55,8 +55,7 @@ The stone, the lion, the potsherd, and the mind that is fitting; the bowl, the s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ The stone, the lion, the potsherd, and the mind that is fitting; the bowl, the s
 | [[SA1098]], [[DHP186-187]], [[JA258]], [[SN4.21]], [[PE1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.20]]
 > ◄  [[sn4.19-deepseek-pali]] 📜  [[sn4.21-deepseek-pali]] ►

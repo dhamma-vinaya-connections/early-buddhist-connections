@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.1-PALI"
+sutta_code: "SN3.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Dāhārasutta "
+  - "Young"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.1]]
 > ◄  [[sn2.3-pali-sri]] 📜  [[sn3.2-pali-sri]] ►
 
 # 3:1 Bandhanavaggo - Pali
@@ -492,6 +492,16 @@ Appakā atthakaraṇā mallikā yaññabandhanantī.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.53]], [[SA1226]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.53]], [[SA1226]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.1]]
+> ◄  [[sn2.3-pali-sri]] 📜  [[sn3.2-pali-sri]] ►

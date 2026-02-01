@@ -4,10 +4,10 @@ sutta_title:
   - "Micchādiṭṭhika "
   - "Wrong Views"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI70]]
 > ◄  [[iti69-deepseek-pali]] 📜  [[iti71-deepseek-pali]] ►
 
 # Iti 70 Sammādiṭṭhikasuttaṃ
@@ -33,6 +33,5 @@ This matter, too, was spoken by the Blessed One: so I have heard. The Second.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti70-) 
 

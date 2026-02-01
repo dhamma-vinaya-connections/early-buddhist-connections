@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.100-PALI"
+sutta_code: "AN5.100"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kakudhathera "
+  - "With Kakudha"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.100-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
 > ◄  [[an5.99-pali-pts]] 📜  [[an5.101-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Sīho ti kho bhikkhave Tathāgatass'etaṃ adhivacanaṃ arahato sammāsambuddha
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.100-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 122 |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD17]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
+> ◄  [[an5.99-pali-pts]] 📜  [[an5.101-pali-pts]] ►

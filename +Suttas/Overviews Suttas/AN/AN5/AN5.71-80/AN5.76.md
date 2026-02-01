@@ -34,49 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Sensual pleasures similes of a skeleton … lump of flesh... a grass torch... a pit of glowing embers... a dream... borrowed goods... the fruits of a tree... a slaughterhouse... spears & swords... a poisonous snake"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[EA33.4]]"
-parallels_partilal:
-  - "[[EA33.4]]"
-  - "[[SN35.120]]"
-  - "[[DN2]]"
-  - "[[DN3]]"
-  - "[[DN4]]"
-  - "[[DN5]]"
-  - "[[DN6]]"
-  - "[[DN7]]"
-  - "[[DN8]]"
-  - "[[DN9]]"
-  - "[[DN10]]"
-  - "[[DN11]]"
-  - "[[DN12]]"
-  - "[[DN13]]"
-  - "[[MN27]]"
-  - "[[MN38]]"
-  - "[[MN51]]"
-  - "[[MN53]]"
-  - "[[MN60]]"
-  - "[[MN76]]"
-  - "[[MN79]]"
-  - "[[MN94]]"
-  - "[[MN101]]"
-  - "[[MN107]]"
-  - "[[MN112]]"
-  - "[[AN4.14]]"
-  - "[[AN4.165]]"
-  - "[[AN4.198]]"
-  - "[[AN5.140]]"
-  - "[[AN10.99]]"
-  - "[[AN11.17]]"
-  - "[[MN39]]"
-  - "[[SN35.127]]"
-  - "[[SN35.240]]"
-  - "[[AN3.16]]"
-  - "[[AN4.37]]"
-  - "[[MN33]]"
+parallels_nikaya: ""
+parallels_agama: "[[EA33.4]]"
+parallels_partilal: "[[EA33.4]], [[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.75]]  🌐 [[AN5.77]] ►
 
@@ -99,8 +59,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.76-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -115,8 +74,7 @@ parallels_partilal:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.99]], [[AN11.17]], [[AN3.16]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN4.37]], [[AN5.140]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[MN27]], [[AN10.33]], [[AN1038]], [[AN1039]], [[AN10.51]], [[AN10.53]], [[AN10.60]], [[AN10.76]], [[AN10.79]], [[AN10.94]], [[AN10.101]], [[AN10.107]], [[AN10.112]], [[SN35.120]], [[AN35.127]], [[AN35.240]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN5.76%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN5.76%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -127,7 +85,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN5.76%5D%5D%22%23mynotes%20-file%3Aan5.76-%20-file%3A%22AN5.75%22%20-file%3A%22AN5.77%22%20-file%3A%22AN5.76%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an5.76/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.76

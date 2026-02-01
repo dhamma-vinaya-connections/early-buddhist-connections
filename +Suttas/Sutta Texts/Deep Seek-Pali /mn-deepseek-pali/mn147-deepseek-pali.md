@@ -4,10 +4,10 @@ sutta_title:
   - "Cūḷarāhulovāda Sutta "
   - "Shorter Advice to Rāhula"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN147]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN147]]
 > ◄  [[mn146-deepseek-pali]] 📜  [[mn148-deepseek-pali]] ►
 
 # 147. Mahāsaḷāyatanikasuttaṃ
@@ -119,8 +119,7 @@ The Great Sixfold Base Discourse, the seventh, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn147-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -135,6 +134,5 @@ The Great Sixfold Base Discourse, the seventh, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN61]]; [[MN62]], [[SN22.59]], [[SN35.28.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN147]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN147]]
 > ◄  [[mn146-deepseek-pali]] 📜  [[mn148-deepseek-pali]] ►

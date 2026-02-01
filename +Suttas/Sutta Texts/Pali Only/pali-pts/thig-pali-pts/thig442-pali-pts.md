@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG442-PALI"
+sutta_code: "THIG442"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG442-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG442]]
 > ◄  [[thig441-pali-pts]] 📜  [[thig443-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ tiṃsativassamhi mato sākaṭikakulamhi dārikā jātā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig442-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1135-PALI"
+sutta_code: "THAG1135"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1135-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1135]]
 > ◄  [[thag1134-pali-pts]] 📜  [[thag1136-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sunīlagīvā susikhā supekhuṇā sucittapattacchadanā vihaṃgamā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1135-) 
 

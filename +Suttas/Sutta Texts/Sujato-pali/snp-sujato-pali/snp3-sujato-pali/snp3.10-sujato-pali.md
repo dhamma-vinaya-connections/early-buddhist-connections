@@ -3,11 +3,11 @@ sutta_code: "SNP3.10"
 sutta_title:
   - "Kokālikasutta "
   - "To  Kokāliya on the Results of Slander"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.10]]
 > ◄  [[snp3.9-sujato-pali]] 📜  [[snp3.11-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -345,8 +345,7 @@ Kokālikasuttaṁ dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -361,6 +360,5 @@ Kokālikasuttaṁ dasamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN45]], [[MN97]], [[MN130]], [[MN135]], [[MN136]], [[SN35.135]], [[SN42.8]], [[AN3.101]], [[AN4.111]], [[AN5.129]], [[AN8:7-8]], [[AN8.40]], [[DHP306]], [[DHP307]], [[DHP308]], [[DHP309]], [[DHP310]], [[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP315]], [[DHP316]], [[DHP317]], [[DHP318]], [[DHP319]], [[ITI18]], [[ITI20]], [[ITI30]], [[ITI32]], [[ITI64]], [[ITI70]], [[ITI81]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.10]]
 > ◄  [[snp3.9-sujato-pali]] 📜  [[snp3.11-sujato-pali]] ►

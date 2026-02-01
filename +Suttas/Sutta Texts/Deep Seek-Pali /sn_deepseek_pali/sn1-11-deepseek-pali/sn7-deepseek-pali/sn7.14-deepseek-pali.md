@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsālasutta "
   - "The Affluent One"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
 > ◄  [[sn7.13-deepseek-pali]] 📜  [[sn7.15-deepseek-pali]] ►
 
 # SN 7.14 Mahāsālasuttaṃ
@@ -71,8 +71,7 @@ Then those sons took that wealthy brahmin home, bathed him, and each dressed him
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ Then those sons took that wealthy brahmin home, bathed him, and each dressed him
 | [[SA-2.262]], [[SA96]], [[SN7.15]], [[SA-2.258]], [[SA92]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
 > ◄  [[sn7.13-deepseek-pali]] 📜  [[sn7.15-deepseek-pali]] ►

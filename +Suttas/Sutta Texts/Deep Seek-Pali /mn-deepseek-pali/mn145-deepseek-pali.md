@@ -4,10 +4,10 @@ sutta_title:
   - "Puṇṇovāda Sutta "
   - "Advice to Puṇṇa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN145]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN145]]
 > ◄  [[mn144-deepseek-pali]] 📜  [[mn146-deepseek-pali]] ►
 
 # 145. Cūḷarāhulovādasuttaṃ
@@ -47,8 +47,7 @@ The Shorter Discourse on Advice to Rāhula, the fifth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn145-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -63,6 +62,5 @@ The Shorter Discourse on Advice to Rāhula, the fifth, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD1.10]], [[MN21]], [[MN148]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN145]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN145]]
 > ◄  [[mn144-deepseek-pali]] 📜  [[mn146-deepseek-pali]] ►

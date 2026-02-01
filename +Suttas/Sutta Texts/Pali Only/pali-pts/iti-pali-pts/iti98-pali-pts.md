@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI98-PALI"
+sutta_code: "ITI98"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "大空 "
+  - "Emptiness Longer Discourse"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI98-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI98]]
 > ◄  [[iti89-pali-pts]] 📜  [[iti110-pali-pts]] ►
 
 ## Itivuttaka
@@ -217,6 +217,5 @@ satataṃ pahitatto ti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti98-) 
 

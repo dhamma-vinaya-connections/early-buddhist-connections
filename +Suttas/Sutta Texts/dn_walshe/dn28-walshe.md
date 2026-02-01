@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
 > ◄  [[dn27-walshe]] 📜  [[dn29-walshe]] ►
 
 # DN28 Sampasādanīya Sutta: Serene Faith
@@ -76,8 +76,7 @@ This was how the Venerable Sariputta proclaimed his confidence in the Lord. And 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn28-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -88,6 +87,5 @@ This was how the Venerable Sariputta proclaimed his confidence in the Lord. And 
 | [[DA18]], [[SA498]], [[SN47.12]], [[AN1.277]], [[MN115]], [[DN1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
 > ◄  [[dn27-walshe]] 📜  [[dn29-walshe]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.12-PALI"
+sutta_code: "SNP1.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Muni "
+  - "Sage"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.12]]
 > ◄  [[snp1.11-pali-pts]] 📜  [[]] ►
 
 # SNP1.12 Munisutta
@@ -94,6 +94,7 @@ dvādas'; etāni suttāni Uragavaggo ti vuccatī ti.|
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.12]]
+> ◄  [[snp1.11-pali-pts]] 📜  [[]] ►

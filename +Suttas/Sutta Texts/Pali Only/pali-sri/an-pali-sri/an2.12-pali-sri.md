@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.12-PALI"
+sutta_code: "AN2.12"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.12]]
 > ◄  [[an2.11-pali-sri]] 📜  [[an2.13-pali-sri]] ►
 
 # 4:12 Kesivaggo - Pali
@@ -388,6 +388,5 @@ Appamādo ca ārakkho saṃvejanīyañca dve bhayānīti. Machasaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.12-) 
 

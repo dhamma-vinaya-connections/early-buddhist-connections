@@ -4,10 +4,10 @@ sutta_title:
   - "Devadattavipatti "
   - "Devadatta’s Failure"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
 > ◄  [[an8.6-deepseek-pali]] 📜  [[an8.8-deepseek-pali]] ►
 
 # AN 8.7 Devadattavipattisuttaṃ
@@ -43,8 +43,7 @@ What, bhikkhus, is the purpose for which a bhikkhu should dwell having overcome 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ What, bhikkhus, is the purpose for which a bhikkhu should dwell having overcome 
 | [[AN6.62]], [[PLI-TV-KD17]], [[PLI-TV-PVR7]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
 > ◄  [[an8.6-deepseek-pali]] 📜  [[an8.8-deepseek-pali]] ►

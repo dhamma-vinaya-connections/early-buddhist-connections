@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA193]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA193]]
 > ◄  [[ma192-bdk]] 📜  [[ma194-bdk]] ►
 
 ### 193. The Discourse on Moliya Phagguṇa
@@ -63,8 +63,7 @@ It is well, it is well, you should repeatedly recollect the simile of being cut 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma193-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ It is well, it is well, you should repeatedly recollect the simile of being cut 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.63]], [[MA30]], [[MN21]], [[MN40]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA193]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA193]]
 > ◄  [[ma192-bdk]] 📜  [[ma194-bdk]] ►

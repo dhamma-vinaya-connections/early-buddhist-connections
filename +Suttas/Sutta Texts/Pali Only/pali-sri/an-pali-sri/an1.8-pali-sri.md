@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.8-PALI"
+sutta_code: "AN1.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Rupa "
+  - "Sights"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.8]]
 > ◄  [[an1.7-pali-sri]] 📜  [[an1.9-pali-sri]] ►
 
 # 3:8 Anandavaggo - Pali
@@ -298,6 +298,16 @@ Evaṃ vutte bhagavā āyasmantaṃ udāyiṃ etadavoca: mā hevaṃ udāyi, mā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA9.8]] | A i 2 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA9.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.8]]
+> ◄  [[an1.7-pali-sri]] 📜  [[an1.9-pali-sri]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG491-PALI"
+sutta_code: "THIG491"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG491-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG491]]
 > ◄  [[thig490-pali-pts]] 📜  [[thig492-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ evaṃ bahudukkhā kāmā akkhātā antarāyikā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig491-) 
 

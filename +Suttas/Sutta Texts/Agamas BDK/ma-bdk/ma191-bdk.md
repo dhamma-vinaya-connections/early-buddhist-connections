@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA191]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA191]]
 > ◄  [[ma190-bdk]] 📜  [[ma192-bdk]] ►
 
 ### 191. The Greater Discourse on Emptiness
@@ -43,8 +43,7 @@ is how disciples behave toward the teacher with resentment and not with loving-k
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma191-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ is how disciples behave toward the teacher with resentment and not with loving-k
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.30]], [[AN6.42]], [[AN8.30]], [[AN8.86.]], [[AN8.9]], [[ITI109]], [[MN106]], [[MN121]], [[MN137]], [[SN1.3]], [[SN35.85]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA191]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA191]]
 > ◄  [[ma190-bdk]] 📜  [[ma192-bdk]] ►

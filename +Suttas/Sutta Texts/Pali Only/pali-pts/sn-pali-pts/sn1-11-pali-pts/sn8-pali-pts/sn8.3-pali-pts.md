@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.3-PALI"
+sutta_code: "SN8.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pesalasutta "
+  - "Well Behaved"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.3]]
 > ◄  [[sn8.2-pali-pts]] 📜  [[sn8.4-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -42,6 +42,16 @@ vijjāyantakaro samitāvī ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.251]], [[SA1216]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.251]], [[SA1216]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.3]]
+> ◄  [[sn8.2-pali-pts]] 📜  [[sn8.4-pali-pts]] ►

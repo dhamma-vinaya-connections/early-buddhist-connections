@@ -4,10 +4,10 @@ sutta_title:
   - "Kandaraka Sutta "
   - "With Kandaraka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN51]]
 > ◄  [[mn50-deepseek-pali]] 📜  [[mn52-deepseek-pali]] ►
 
 # 51. Kandarakasuttaṃ
@@ -111,8 +111,7 @@ The Kandaraka Sutta is finished, the first.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn51-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -127,6 +126,5 @@ The Kandaraka Sutta is finished, the first.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN51]]
 > ◄  [[mn50-deepseek-pali]] 📜  [[mn52-deepseek-pali]] ►

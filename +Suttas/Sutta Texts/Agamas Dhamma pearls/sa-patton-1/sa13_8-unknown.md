@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA13_8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA13_8]]
 > ◄  [[SA13_7]] 📜  [[SA13_9]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -43,6 +43,5 @@ The Buddha told the monks, “There is the right eightfold path that can end cra
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa13_8-) 
 

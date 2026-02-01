@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.1-PALI"
+sutta_code: "AN2.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vajja "
+  - "Faults"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.1]]
 > ◄  [[an1.18-pali-sri]] 📜  [[an2.2-pali-sri]] ►
 
 # 4:1 Bhandagamavaggo - Pali
@@ -1042,6 +1042,11 @@ appassuto ca sobhenti(50) vesārajjaṃ taṇhāyogena te dasā’ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 47 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.1]]
+> ◄  [[an1.18-pali-sri]] 📜  [[an2.2-pali-sri]] ►

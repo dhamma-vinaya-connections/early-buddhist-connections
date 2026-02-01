@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI107-PALI"
+sutta_code: "ITI107"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bahukāra "
+  - "Very Helpful"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI107-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI107]]
 > ◄  [[iti106-pali-sc]] 📜  [[iti108-pali-sc]] ►
 
 # Iti 107. Nadīsotasuttaṃ
@@ -35,6 +35,16 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dasamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti107-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN3.48]], [[AN5.40]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI107]]
+> ◄  [[iti106-pali-sc]] 📜  [[iti108-pali-sc]] ►

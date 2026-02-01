@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI47-PALI"
+sutta_code: "ITI47"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Jāgariya "
+  - "Vigilance"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI47-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI47]]
 > ◄  [[iti46-pali-sc]] 📜  [[iti48-pali-sc]] ►
 
 # Iti 47. Āpāyikasuttaṃ
@@ -29,6 +29,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Ekādasamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti47-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI47]]
+> ◄  [[iti46-pali-sc]] 📜  [[iti48-pali-sc]] ►

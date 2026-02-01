@@ -3,11 +3,11 @@ sutta_code: "SN4.17"
 sutta_title:
   - "Chaphassāyatanasutta "
   - "Six Bases for Contact"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
 > ◄  [[sn4.16-sujato-pali]] 📜  [[sn4.18-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -77,8 +77,7 @@ Māradheyyaṁ atikkamma,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,6 +88,5 @@ Māradheyyaṁ atikkamma,
 | [[SA1103]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
 > ◄  [[sn4.16-sujato-pali]] 📜  [[sn4.18-sujato-pali]] ►

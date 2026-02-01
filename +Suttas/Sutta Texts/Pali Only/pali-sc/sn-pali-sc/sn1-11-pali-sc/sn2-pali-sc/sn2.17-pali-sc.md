@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.17-PALI"
+sutta_code: "SN2.17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Subrahmasutta "
+  - "Subrahma"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
 > ◄  [[sn2.16-pali-sc]] 📜  [[sn2.18-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -35,6 +35,16 @@ sotthiṁ passāmi pāṇinan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.181]], [[SA596]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.181]], [[SA596]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
+> ◄  [[sn2.16-pali-sc]] 📜  [[sn2.18-pali-sc]] ►

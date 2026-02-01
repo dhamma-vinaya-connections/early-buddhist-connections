@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG441-PALI"
+sutta_code: "THAG441"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG441-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG441]]
 > ◄  [[thag440-pali-pts]] 📜  [[thag442-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ tass'; eva tena pāpiyyo yo kudhaṃ paṭikujjhati;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag441-) 
 

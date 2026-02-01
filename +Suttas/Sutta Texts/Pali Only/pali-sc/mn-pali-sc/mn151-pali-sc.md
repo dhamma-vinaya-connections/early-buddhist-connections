@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN151-PALI"
+sutta_code: "MN151"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Piṇḍapātapārisuddhi Sutta "
+  - "Purification of Alms"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
 > ◄  [[mn150-pali-sc]] 📜  [[mn152-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -69,6 +69,16 @@ Tasmātiha, sāriputta, bhikkhu sace ākaṅkheyya: ‘suññatāvihārena bahul
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn151-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA45.6]]; [[SA236]] | M iii 293 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA45.6]]; [[SA236]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
+> ◄  [[mn150-pali-sc]] 📜  [[mn152-pali-sc]] ►

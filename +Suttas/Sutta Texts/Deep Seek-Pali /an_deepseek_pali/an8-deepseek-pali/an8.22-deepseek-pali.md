@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamaugga "
   - "With Ugga Of Vesālī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.22]]
 > ◄  [[an8.21-deepseek-pali]] 📜  [[an8.23-deepseek-pali]] ►
 
 # AN 8.22 Dutiyauggasuttaṃ
@@ -67,8 +67,7 @@ Then that monk, having received almsfood at the residence of Ugga the householde
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Then that monk, having received almsfood at the residence of Ugga the householde
 | [[MA38]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.22]]
 > ◄  [[an8.21-deepseek-pali]] 📜  [[an8.23-deepseek-pali]] ►

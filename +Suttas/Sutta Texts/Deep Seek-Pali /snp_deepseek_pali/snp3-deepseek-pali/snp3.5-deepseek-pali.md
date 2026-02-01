@@ -4,10 +4,10 @@ sutta_title:
   - "Māghasutta "
   - "With Magha on Giving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.5]]
 > ◄  [[snp3.4-deepseek-pali]] 📜  [[snp3.6-deepseek-pali]] ►
 
 # Snp 3.5 Māghasuttaṃ
@@ -183,9 +183,7 @@ The Sutta to Māgha, the fifth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.5-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.5]]
 > ◄  [[snp3.4-deepseek-pali]] 📜  [[snp3.6-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG272-PALI"
+sutta_code: "THIG272"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG272-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG272]]
 > ◄  [[thig271-pali-pts]] 📜  [[thig273-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ akammakāmā alasā paradattopajīvino |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig272-) 
 

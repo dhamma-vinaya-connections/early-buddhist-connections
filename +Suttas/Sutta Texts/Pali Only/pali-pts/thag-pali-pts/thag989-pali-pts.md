@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG989-PALI"
+sutta_code: "THAG989"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG989-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG989]]
 > ◄  [[thag988-pali-pts]] 📜  [[thag990-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yo ca papañcaṃ hitvāna nippapañcapathe rato,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag989-) 
 

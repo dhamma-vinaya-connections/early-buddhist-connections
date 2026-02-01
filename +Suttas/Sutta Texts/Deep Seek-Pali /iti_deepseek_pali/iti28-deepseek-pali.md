@@ -4,10 +4,10 @@ sutta_title:
   - "Dukkhavihara "
   - "Living in suffering"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI28]]
 > ◄  [[iti27-deepseek-pali]] 📜  [[iti29-deepseek-pali]] ►
 
 # Iti 28 Sukhavihārasuttaṃ
@@ -31,6 +31,5 @@ This meaning, too, was spoken by the Blessed One—so I have heard. The Second.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti28-) 
 

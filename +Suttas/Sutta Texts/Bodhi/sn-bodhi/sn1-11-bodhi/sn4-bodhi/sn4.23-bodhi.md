@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.23]]
 > ◄  [[sn4.22-bodhi]] 📜  [[sn4.24-bodhi]] ►
 
 # SN4.23 Godhika
@@ -117,8 +117,7 @@ Then Māra the Evil One, taking a lute of yellow vilva\-wood, approached the Ble
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -133,6 +132,5 @@ Then Māra the Evil One, taking a lute of yellow vilva\-wood, approached the Ble
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.87]], [[SN35.87]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.23]]
 > ◄  [[sn4.22-bodhi]] 📜  [[sn4.24-bodhi]] ►

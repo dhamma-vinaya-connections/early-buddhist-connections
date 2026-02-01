@@ -4,10 +4,10 @@ sutta_title:
   - "Saṃyojana "
   - "Fetters"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.10]]
 > ◄  [[an7.9-deepseek-pali]] 📜  [[an7.11-deepseek-pali]] ►
 
 # AN 7.10 Macchariyasuttaṃ
@@ -39,12 +39,11 @@ The Two Dear Ones, Strength, Wealth, Concise, and Extensive; Ugga, and Fetters; 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iv 8 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.10]]
 > ◄  [[an7.9-deepseek-pali]] 📜  [[an7.11-deepseek-pali]] ►

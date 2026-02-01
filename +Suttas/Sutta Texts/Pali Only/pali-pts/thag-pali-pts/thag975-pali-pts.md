@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG975-PALI"
+sutta_code: "THAG975"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG975-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG975]]
 > ◄  [[thag974-pali-pts]] 📜  [[thag976-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ te tathā sikkhitā bālā aññamaññaṃ agāravā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag975-) 
 

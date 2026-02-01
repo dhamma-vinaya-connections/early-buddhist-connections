@@ -4,10 +4,10 @@ sutta_title:
   - "Tatiyabodhi Sutta "
   - "The Bodhi Tree (3)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.3]]
 > ◄  [[ud1.2-deepseek-pali]] 📜  [[ud1.4-deepseek-pali]] ►
 
 # Ud 1.3 Tatiyabodhisuttaṃ
@@ -39,8 +39,7 @@ Then on that occasion the Blessed One, having understood this matter, uttered th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then on that occasion the Blessed One, having understood this matter, uttered th
 | [[PLI-TV-KD1]], [[UD1.1]], [[UD1.2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.3]]
 > ◄  [[ud1.2-deepseek-pali]] 📜  [[ud1.4-deepseek-pali]] ►

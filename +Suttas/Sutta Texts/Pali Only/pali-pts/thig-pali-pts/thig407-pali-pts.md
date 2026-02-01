@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG407-PALI"
+sutta_code: "THIG407"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG407-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG407]]
 > ◄  [[thig406-pali-pts]] 📜  [[thig408-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ yā mayhaṃ sāmikassa bhaginiyo bhātuno parijano ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig407-) 
 

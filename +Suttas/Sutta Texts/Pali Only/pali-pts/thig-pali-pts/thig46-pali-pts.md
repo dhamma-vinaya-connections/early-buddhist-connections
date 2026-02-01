@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG46-PALI"
+sutta_code: "THIG46"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG46-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG46]]
 > ◄  [[thig45-pali-pts]] 📜  [[thig47-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sabbe kāmā samucchinnā ye dibbā ye ca mānusā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig46-) 
 

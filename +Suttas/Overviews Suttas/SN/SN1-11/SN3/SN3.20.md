@@ -34,22 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "King"
-sutta_simile: "Water pond without being used, like wealth don't being used"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA-2.60]]"
-  - "[[SA1233]]"
-parallels_partilal:
-  - "[[SA-2.60]]"
-  - "[[SA1233]]"
-  - "[[SN3.22]]"
-  - "[[SN3.4]]"
-  - "[[SN1.32]]"
-  - "[[JA450]]"
-  - "[[SN1.43]]"
-  - "[[SN2.23]]"
-  - "[[AN5.36]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA-2.60]], [[SA1233]]"
+parallels_partilal: "[[SA-2.60]], [[SA1233]], [[SN3.22]], [[SN3.4]], [[SN1.32]], [[JA450]], [[SN1.43]], [[SN2.23]], [[AN5.36]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.19]]  🌐 [[SN3.21]] ►
 
@@ -78,8 +65,7 @@ Merits are the support for living beings
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -94,8 +80,7 @@ Merits are the support for living beings
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.20]], [[AN5.41]], [[AN5.148.]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN3.20%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN3.20%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -106,7 +91,7 @@ Merits are the support for living beings
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.20%5D%5D%22%23mynotes%20-file%3Asn3.20-%20-file%3A%22SN3.19%22%20-file%3A%22SN3.21%22%20-file%3A%22SN3.20%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.20

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA120]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA120]]
 > ◄  [[ma119-bdk]] 📜  [[ma121-bdk]] ►
 
 ### 120. The Discourse on a Teaching about Impermanence
@@ -29,8 +29,7 @@ He understands and knows the five aggregates, His province is the seven wholesom
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma120-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ He understands and knows the five aggregates, His province is the seven wholesom
 | [[AN5.52]], [[EA32.2]], [[]], [[SN47.45]], [[SN47.5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA120]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA120]]
 > ◄  [[ma119-bdk]] 📜  [[ma121-bdk]] ►

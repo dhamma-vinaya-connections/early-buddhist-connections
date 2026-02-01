@@ -4,10 +4,10 @@ sutta_title:
   - "Putta "
   - "Child"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI74]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI74]]
 > ◄  [[iti73-deepseek-pali]] 📜  [[iti75-deepseek-pali]] ►
 
 # Iti 74 Avuṭṭhikasuttaṃ
@@ -41,6 +41,5 @@ This matter, too, was spoken by the Blessed One: so I have heard. Sixth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti74-) 
 

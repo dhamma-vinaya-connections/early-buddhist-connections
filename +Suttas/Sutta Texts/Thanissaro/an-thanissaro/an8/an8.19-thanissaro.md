@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
 > ◄  [[an8.14-thanissaro]] 📜  [[an8.22-thanissaro]] ►
 
 ## AN8.19 Pahārāda
@@ -72,8 +72,7 @@ On one occasion the Blessed One was staying near Verañja at the root of Naḷer
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -84,6 +83,5 @@ On one occasion the Blessed One was staying near Verañja at the root of Naḷer
 | [[EA42.4]], [[MA35]], [[PLI-TV-KD19]], [[UD5.5]], [[AN8.20]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
 > ◄  [[an8.14-thanissaro]] 📜  [[an8.22-thanissaro]] ►

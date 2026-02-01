@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN63-PALI"
+sutta_code: "MN63"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cūḷamālukya Sutta "
+  - "Shorter Discourse With Māluṅkya"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN63-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN63]]
 > ◄  [[mn62-pali-sc]] 📜  [[mn64-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -73,6 +73,20 @@ Tasmā taṁ mayā byākataṁ. Tasmātiha, mālukyaputta, abyākatañca me aby�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn63-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA221]] | M i 426 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA221]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.24]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN63]]
+> ◄  [[mn62-pali-sc]] 📜  [[mn64-pali-sc]] ►

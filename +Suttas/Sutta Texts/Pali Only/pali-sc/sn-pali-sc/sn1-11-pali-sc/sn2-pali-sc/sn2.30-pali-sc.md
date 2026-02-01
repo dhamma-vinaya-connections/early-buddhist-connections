@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.30-PALI"
+sutta_code: "SN2.30"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nānātitthiyasāvaka "
+  - "Various Sectarians"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.30-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.30]]
 > ◄  [[sn2.29-pali-sc]] 📜  [[]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -99,6 +99,20 @@ Devaputtasaṁyuttaṁ samattaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.30-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.307]], [[SA1308]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.307]], [[SA1308]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN24.6]], [[SN24.7]], [[SN3.1]], [[DN2]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.30]]
+> ◄  [[sn2.29-pali-sc]] 📜  [[]] ►

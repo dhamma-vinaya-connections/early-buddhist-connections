@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI105-PALI"
+sutta_code: "ITI105"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Taṇhuppāda "
+  - "Arousing Craving"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI105-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI105]]
 > ◄  [[iti104-pali-sc]] 📜  [[iti106-pali-sc]] ►
 
 # Iti 105. Bahukārasuttaṃ
@@ -31,6 +31,20 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti105-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.9]], [[ITI15]], [[SNP3.12]], [[JA493]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.9]], [[AN4.27]], [[AN4.28]], [[SN3.12]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI105]]
+> ◄  [[iti104-pali-sc]] 📜  [[iti106-pali-sc]] ►

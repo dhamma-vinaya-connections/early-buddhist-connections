@@ -4,10 +4,10 @@ sutta_title:
   - "Raṭṭhapāla Sutta "
   - "With Raṭṭhapāla"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
 > ◄  [[mn81-deepseek-pali]] 📜  [[mn83-deepseek-pali]] ►
 
 # 82. Raṭṭhapālasuttaṃ
@@ -199,8 +199,7 @@ The Raṭṭhapāla Sutta, the second, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn82-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -215,6 +214,5 @@ The Raṭṭhapāla Sutta, the second, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG16.4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
 > ◄  [[mn81-deepseek-pali]] 📜  [[mn83-deepseek-pali]] ►

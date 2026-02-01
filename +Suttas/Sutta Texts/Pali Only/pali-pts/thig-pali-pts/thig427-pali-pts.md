@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG427-PALI"
+sutta_code: "THIG427"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG427-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG427]]
 > ◄  [[thig426-pali-pts]] 📜  [[thig428-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ taṃ disvāna amhākaṃ uṭṭhāyāsanaṃ tassā paññāpayiṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig427-) 
 

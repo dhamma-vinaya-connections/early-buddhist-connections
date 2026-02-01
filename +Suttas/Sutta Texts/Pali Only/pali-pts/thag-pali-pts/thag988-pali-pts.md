@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG988-PALI"
+sutta_code: "THAG988"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG988-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG988]]
 > ◄  [[thag987-pali-pts]] 📜  [[thag989-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yo papañcam anuyutto papañcābhirato mago,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag988-) 
 

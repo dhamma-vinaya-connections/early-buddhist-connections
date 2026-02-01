@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.72-PALI"
+sutta_code: "AN3.72"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ājīvaka "
+  - "Fatalists' Student"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.72-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.72]]
 > ◄  [[an3.71-pali-pts]] 📜  [[an3.73-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,15 @@ Bhaddako āvuso maggo bhaddikā paṭipadā etassa rāgassa dosassa mohassa pah�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.72-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 217 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN4.8]], [[AN3.78]], [[AN5.159]], [[DN16]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.72]]
+> ◄  [[an3.71-pali-pts]] 📜  [[an3.73-pali-pts]] ►

@@ -34,28 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Ascetics"
-sutta_simile: "Lions roar"
-parallels_nikaya:
-  - "[[AN10.93]]"
-  - "[[AN10.96]]"
-  - "[[AN4.185]]"
-parallels_agama:
-  - "[[SA-2.201]]"
-  - "[[SA-2.202]]"
-  - "[[SA-2.204]]"
-  - "[[SA967]]"
-  - "[[SA968]]"
-  - "[[SA970]]"
-parallels_partilal:
-  - "[[SA-2.204]]"
-  - "[[SA970]]"
-  - "[[AN10.93]]"
-  - "[[SA-2.202]]"
-  - "[[SA968]]"
-  - "[[AN10.96]]"
-  - "[[SA-2.201]]"
-  - "[[SA967]]"
-  - "[[AN4.185]]"
+parallels_nikaya: "[[AN10.93]], [[AN10.96]], [[AN4.185]]"
+parallels_agama: "[[SA-2.201]], [[SA-2.202]], [[SA-2.204]], [[SA967]], [[SA968]], [[SA970]]"
+parallels_partilal: "[[SA-2.204]], [[SA970]], [[AN10.93]], [[SA-2.202]], [[SA968]], [[AN10.96]], [[SA-2.201]], [[SA967]], [[AN4.185]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.63]]  🌐 [[AN3.65]] ►
 
@@ -78,8 +59,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.64-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,8 +71,7 @@ parallels_partilal:
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN3.64%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN3.64%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -103,7 +82,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.64%5D%5D%22%23mynotes%20-file%3Aan3.64-%20-file%3A%22AN3.63%22%20-file%3A%22AN3.65%22%20-file%3A%22AN3.64%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.64/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.64

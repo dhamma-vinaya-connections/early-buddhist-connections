@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA56]]
 > ◄  [[ma55-patton]] 📜  [[ma57-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -97,8 +97,7 @@ The Bhagavān told him, “Meghiya, if you want to pursue the end to your afflic
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma56-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -113,6 +112,5 @@ The Bhagavān told him, “Meghiya, if you want to pursue the end to your afflic
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA56]]
 > ◄  [[ma55-patton]] 📜  [[ma57-patton]] ►

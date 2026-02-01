@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.296-PALI"
+sutta_code: "AN1.296"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paṭhama "
+  - "First"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.296-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.296]]
 > ◄  [[an1.287-pali-pts]] 📜  [[]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,11 @@ Ayaṃ kho bhikkhave ekadhammo bhāvito bahulīkato ekantanibbidāya virāgāya 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.296-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 30 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.296]]
+> ◄  [[an1.287-pali-pts]] 📜  [[]] ►

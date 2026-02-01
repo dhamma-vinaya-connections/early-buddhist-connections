@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.265-PALI"
+sutta_code: "AN5.265"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.265-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.265]]
 > ◄  [[an5.264-pali-sc]] 📜  [[an5.272-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -26,6 +26,5 @@ Upasampadāvaggo chaṭṭho.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.265-) 
 

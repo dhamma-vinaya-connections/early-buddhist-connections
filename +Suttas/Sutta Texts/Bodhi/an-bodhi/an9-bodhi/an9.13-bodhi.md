@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.13]]
 > ◄  [[an9.12-bodhi]] 📜  [[an9.14-bodhi]] ►
 
 # AN9.13 Koṭṭhita
@@ -69,8 +69,7 @@ Then the Venerable Mahākoṭṭhita approached the Venerable Sāriputta and exc
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,6 +84,5 @@ Then the Venerable Mahākoṭṭhita approached the Venerable Sāriputta and exc
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN9]], [[MN101]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.13]]
 > ◄  [[an9.12-bodhi]] 📜  [[an9.14-bodhi]] ►

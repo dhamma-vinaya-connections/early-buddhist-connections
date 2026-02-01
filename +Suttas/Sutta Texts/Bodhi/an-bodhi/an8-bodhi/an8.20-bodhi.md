@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
 > ◄  [[an8.19-bodhi]] 📜  [[an8.21-bodhi]] ►
 
 # AN8.20 Uposatha
@@ -55,8 +55,7 @@ Then the Venerable Mahāmoggallāna grabbed that person by the arm, evicted him 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Then the Venerable Mahāmoggallāna grabbed that person by the arm, evicted him 
 | [[PLI-TV-KD19]], [[EA48.2]], [[MA37]], [[AN8.19]], [[UD5.5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
 > ◄  [[an8.19-bodhi]] 📜  [[an8.21-bodhi]] ►

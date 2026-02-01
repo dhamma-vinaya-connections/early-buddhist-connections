@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN15-PALI"
+sutta_code: "MN15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Anumāna Sutta "
+  - "Measuring Up"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN15]]
 > ◄  [[mn14-pali-sri]] 📜  [[mn16-pali-sri]] ►
 
 # 15. Anumana Sutta - Pali
@@ -230,6 +230,20 @@ Anumānasuttaṃ pañcamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn15-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA89]] | M i 95 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA89]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN40]], [[MN5]], [[MN7]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN15]]
+> ◄  [[mn14-pali-sri]] 📜  [[mn16-pali-sri]] ►

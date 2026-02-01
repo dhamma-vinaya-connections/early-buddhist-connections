@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyaaputtakasutta "
   - "Childless (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.20]]
 > ◄  [[sn3.19-deepseek-pali]] 📜  [[sn3.21-deepseek-pali]] ►
 
 # SN 3.20 Dutiyaaputtakasuttaṃ
@@ -67,8 +67,7 @@ The Matted-Hair Ascetics, the Five Kings, Doṇa, Pākaka, and Kuru; two discour
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ The Matted-Hair Ascetics, the Five Kings, Doṇa, Pākaka, and Kuru; two discour
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.20]], [[AN5.41]], [[AN5.148.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.20]]
 > ◄  [[sn3.19-deepseek-pali]] 📜  [[sn3.21-deepseek-pali]] ►

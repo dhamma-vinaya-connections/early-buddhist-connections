@@ -4,10 +4,10 @@ sutta_title:
   - "Nandamāṇavapucchā "
   - "Questions of the Student Nanda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.8]]
 > ◄  [[snp5.7-deepseek-pali]] 📜  [[snp5.9-deepseek-pali]] ►
 
 # Snp 5.8 Nandamāṇavapucchā
@@ -71,6 +71,5 @@ The The Questions of the Young Man Nanda, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.8-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG756-PALI"
+sutta_code: "THAG756"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG756-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG756]]
 > ◄  [[thag755-pali-pts]] 📜  [[thag757-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ko me asattho avaṇo sallam abbhantarāpassayaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag756-) 
 

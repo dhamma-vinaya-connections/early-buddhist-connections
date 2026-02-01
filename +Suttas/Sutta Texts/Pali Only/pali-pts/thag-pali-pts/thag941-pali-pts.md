@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG941-PALI"
+sutta_code: "THAG941"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG941-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG941]]
 > ◄  [[thag940-pali-pts]] 📜  [[thag942-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ upaṭṭhapenti parisaṃ kammato no ca dhammato,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag941-) 
 

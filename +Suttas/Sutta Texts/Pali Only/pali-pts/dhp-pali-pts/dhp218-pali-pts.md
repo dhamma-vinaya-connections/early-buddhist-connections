@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP218-PALI"
+sutta_code: "DHP218"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP218-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP218]]
 > ◄  [[dhp217-pali-pts]] 📜  [[dhp219-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ cirappavāsiṃ purisaṃ dūrato sotthim āgataṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp218-) 
 

@@ -3,11 +3,11 @@ sutta_code: "AN6.20"
 sutta_title:
   - "Paṭhamamaraṇassati "
   - "Mindfulness Of Death (1st)"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.20]]
 > ◄  [[an6.19-sujato-pali]] 📜  [[an6.21-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -74,8 +74,7 @@ Sāraṇīyavaggo dutiyo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -90,6 +89,5 @@ Sāraṇīyavaggo dutiyo.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.56]], [[AN6.19]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.20]]
 > ◄  [[an6.19-sujato-pali]] 📜  [[an6.21-sujato-pali]] ►

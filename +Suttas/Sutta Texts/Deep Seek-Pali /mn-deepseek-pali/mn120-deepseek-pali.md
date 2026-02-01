@@ -4,10 +4,10 @@ sutta_title:
   - "Saṅkhārupapatti Sutta "
   - "Rebirth by Choice"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
 > ◄  [[mn119-deepseek-pali]] 📜  [[mn121-deepseek-pali]] ►
 
 # 120. Cūḷasuññatasuttaṃ
@@ -63,8 +63,7 @@ The Shorter Discourse on Emptiness, the first, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn120-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ The Shorter Discourse on Emptiness, the first, is finished.
 | [[AN4.123-124]]; [[MA168]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
 > ◄  [[mn119-deepseek-pali]] 📜  [[mn121-deepseek-pali]] ►

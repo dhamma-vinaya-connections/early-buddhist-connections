@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.10-PALI"
+sutta_code: "SN4.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dutiyaāyusutta "
+  - "Life Span (2)"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.10]]
 > ◄  [[sn4.9-pali-sc]] 📜  [[sn4.11-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -49,6 +49,16 @@ Sappo supati nandanaṁ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.24]], [[SA1085]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.24]], [[SA1085]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.10]]
+> ◄  [[sn4.9-pali-sc]] 📜  [[sn4.11-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG40-PALI"
+sutta_code: "THAG40"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG40-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG40]]
 > ◄  [[thag39-pali-pts]] 📜  [[thag41-pali-pts]] ►
 
 ## Theragāthā
@@ -26,6 +26,5 @@ Vivaram anupatanti vijjutā Vebhārassa ca Paṇḍavassa ca,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag40-) 
 

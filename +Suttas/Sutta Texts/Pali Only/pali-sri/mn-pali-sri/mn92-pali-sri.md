@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN92-PALI"
+sutta_code: "MN92"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sela Sutta "
+  - "With Sela"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
 > ◄  [[mn91-pali-sri]] 📜  [[mn93-pali-sri]] ►
 
 # 92. Sela Sutta - Pali
@@ -200,6 +200,16 @@ Selasuttaṃ dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn92-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SNP3.7]] | [[EA49.6]] | M ii 146 |
+> > [!check]- Partial parallels 
+> > 
+| [[SNP3.7]]; [[PLI-TV-KD6]]; [[EA49.6]]; [[ITI100]]; [[THAG16.6]]; [[SNP3.6]]; [[PE2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
+> ◄  [[mn91-pali-sri]] 📜  [[mn93-pali-sri]] ►

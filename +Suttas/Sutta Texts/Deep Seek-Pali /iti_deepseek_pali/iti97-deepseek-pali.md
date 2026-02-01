@@ -4,10 +4,10 @@ sutta_title:
   - "小空 "
   - "Emptiness Shorter Discourse"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI97]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI97]]
 > ◄  [[iti96-deepseek-pali]] 📜  [[iti98-deepseek-pali]] ►
 
 # Iti 97 Tevijjasuttaṃ
@@ -45,8 +45,7 @@ The Book of Threes is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti97-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ The Book of Threes is finished.
 | [[DHP391]], [[JA348]], [[JA435]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI97]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI97]]
 > ◄  [[iti96-deepseek-pali]] 📜  [[iti98-deepseek-pali]] ►

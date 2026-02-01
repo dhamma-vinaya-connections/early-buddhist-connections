@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN26-PALI"
+sutta_code: "DN26"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cakkavatti Sutta "
+  - "Wheel-Turning Monarch"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
 > ◄  [[dn25-pali-sc]] 📜  [[dn27-pali-sc]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -235,6 +235,20 @@ Asītivassasahassāyukesu, bhikkhave, manussesu ketumatiyā rājadhāniyā saṅ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn26-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA6]], [[MA70]] | D iii 58 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA6]], [[MA70]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN47.6]]-7]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
+> ◄  [[dn25-pali-sc]] 📜  [[dn27-pali-sc]] ►

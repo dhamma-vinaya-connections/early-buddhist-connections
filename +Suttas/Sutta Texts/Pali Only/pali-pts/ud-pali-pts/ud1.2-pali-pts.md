@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD1.2-PALI"
+sutta_code: "UD1.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dutiyabodhi Sutta "
+  - "The Bodhi Tree (2)"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.2]]
 > ◄  [[]] 📜  [[ud1.5-pali-pts]] ►
 
 ## Udāna
@@ -32,6 +32,16 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[UD1.1]], [[UD1.3]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD1]], [[UD1.1]], [[UD1.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.2]]
+> ◄  [[]] 📜  [[ud1.5-pali-pts]] ►

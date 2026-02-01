@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG498-PALI"
+sutta_code: "THIG498"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG498-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG498]]
 > ◄  [[thig497-pali-pts]] 📜  [[thig499-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sara tiṇakaṭṭhaṃ sākhāpalāsaṃ upanītaṃ anamataggato |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig498-) 
 

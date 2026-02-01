@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD4.8-PALI"
+sutta_code: "UD4.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sundari Sutta "
+  - "Sundarī"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.8]]
 > ◄  [[ud4.5-pali-pts]] 📜  [[ud4.9-pali-pts]] ►
 
 ## Udāna
@@ -29,6 +29,20 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Rājagahe viharati Veḷuvane {Kaland
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP306]], [[UD2.4]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP306]], [[ITI48]], [[SNP3.10]], [[UD2.4]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DHP306]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.8]]
+> ◄  [[ud4.5-pali-pts]] 📜  [[ud4.9-pali-pts]] ►

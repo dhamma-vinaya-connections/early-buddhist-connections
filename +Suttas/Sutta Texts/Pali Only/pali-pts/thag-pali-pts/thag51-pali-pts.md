@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG51-PALI"
+sutta_code: "THAG51"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG51-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG51]]
 > ◄  [[thag50-pali-pts]] 📜  [[thag52-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Vassati devo yathā sugītaṃ, channā me kuṭikā sukhā nivātā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag51-) 
 

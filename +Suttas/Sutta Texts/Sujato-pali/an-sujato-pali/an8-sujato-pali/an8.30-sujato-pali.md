@@ -3,11 +3,11 @@ sutta_code: "AN8.30"
 sutta_title:
   - "Anuruddhamahāvitakka "
   - "Anuruddha And The Great Thoughts"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.30]]
 > ◄  [[an8.29-sujato-pali]] 📜  [[an8.31-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -184,8 +184,7 @@ anuruddhena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.30-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -200,6 +199,5 @@ anuruddhena te dasāti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN48.10]], [[AN4.28]], [[AN8.53]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.30]]
 > ◄  [[an8.29-sujato-pali]] 📜  [[an8.31-sujato-pali]] ►

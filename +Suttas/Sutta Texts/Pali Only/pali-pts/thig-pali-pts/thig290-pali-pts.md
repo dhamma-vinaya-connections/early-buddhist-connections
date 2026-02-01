@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG290-PALI"
+sutta_code: "THIG290"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG290-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG290]]
 > ◄  [[thig289-pali-pts]] 📜  [[thig291-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ laṭṭhihattho pure āsiṃ so dāni migaluddako |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig290-) 
 

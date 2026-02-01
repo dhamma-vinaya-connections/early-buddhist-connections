@@ -3,11 +3,11 @@ sutta_code: "SN9.13"
 sutta_title:
   - "Pākatindriyasutta "
   - "Loose in Sense Faculties"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
 > ◄  [[sn9.12-sujato-pali]] 📜  [[sn9.14-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -83,8 +83,7 @@ namo tesaṁ karomahan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ namo tesaṁ karomahan"ti.
 | [[SN2.25]], [[SA-2.363]], [[SA1343]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
 > ◄  [[sn9.12-sujato-pali]] 📜  [[sn9.14-sujato-pali]] ►

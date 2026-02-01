@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.72-PALI"
+sutta_code: "AN7.72"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Aggikkhandhopama "
+  - "Bonfire Simile"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.72-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.72]]
 > ◄  [[an7.71-pali-pts]] 📜  [[an7.73-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,16 @@ Taṃ kissa hetu? Tato nidānaṃ hi so bhikkhave maraṇaṃ vā nigaccheyya ma
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.72-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA33.10]], [[MA5]] | A iv 128 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA33.10]], [[MA5]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.72]]
+> ◄  [[an7.71-pali-pts]] 📜  [[an7.73-pali-pts]] ►

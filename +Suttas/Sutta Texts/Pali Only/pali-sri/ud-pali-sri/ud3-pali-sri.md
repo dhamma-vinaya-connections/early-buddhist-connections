@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD3-PALI"
+sutta_code: "UD3"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3]]
 > ◄  [[ud2-pali-sri]] 📜  [[ud4-pali-sri]] ►
 
 # Udanapali 3: Nandavaggo - BJT
@@ -327,6 +327,5 @@ Pilindi kassapo piṇḍo sippaṃ lokena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3-) 
 

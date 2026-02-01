@@ -3,11 +3,11 @@ sutta_code: "SNP4.13"
 sutta_title:
   - "Mahābyūhasutta "
   - "Longer Discourse on Arrayed For Battle"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
 > ◄  [[snp4.12-sujato-pali]] 📜  [[snp4.14-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -251,9 +251,7 @@ Mahābyūhasuttaṁ terasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.13-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
 > ◄  [[snp4.12-sujato-pali]] 📜  [[snp4.14-sujato-pali]] ►

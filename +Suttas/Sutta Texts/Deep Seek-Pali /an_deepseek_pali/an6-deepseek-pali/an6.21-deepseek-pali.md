@@ -4,10 +4,10 @@ sutta_title:
   - "Aparihāniya "
   - "Non-Decline"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.21]]
 > ◄  [[an6.20-deepseek-pali]] 📜  [[an6.22-deepseek-pali]] ►
 
 # AN 6.21 Sāmakasuttaṃ
@@ -39,8 +39,7 @@ Then, when the night had passed, the Blessed One addressed the monks: "Last nigh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -50,6 +49,5 @@ Then, when the night had passed, the Blessed One addressed the monks: "Last nigh
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.32]], [[AN33]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.21]]
 > ◄  [[an6.20-deepseek-pali]] 📜  [[an6.22-deepseek-pali]] ►

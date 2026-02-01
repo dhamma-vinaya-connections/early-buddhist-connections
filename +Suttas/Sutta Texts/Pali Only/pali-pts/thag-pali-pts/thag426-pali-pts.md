@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG426-PALI"
+sutta_code: "THAG426"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG426-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG426]]
 > ◄  [[thag425-pali-pts]] 📜  [[thag427-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ mānaṃ madañ ca chaḍḍetvā vippasannena cetasā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag426-) 
 

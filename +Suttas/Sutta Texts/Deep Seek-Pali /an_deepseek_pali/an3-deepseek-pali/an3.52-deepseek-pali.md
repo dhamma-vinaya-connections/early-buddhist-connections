@@ -4,10 +4,10 @@ sutta_title:
   - "Dvebrāhmaṇa "
   - "Two Brahmins"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.52]]
 > ◄  [[an3.51-deepseek-pali]] 📜  [[an3.53-deepseek-pali]] ►
 
 # AN 3.52 Paṭhamadvebrāhmaṇasuttaṃ
@@ -35,8 +35,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.52-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ language: "Pali"
 | [[SA-2.86]], [[AN3.51]], [[SA-2.87]], [[JA424]], [[SN1.41]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.52]]
 > ◄  [[an3.51-deepseek-pali]] 📜  [[an3.53-deepseek-pali]] ►

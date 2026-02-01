@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN5.4-PALI"
+sutta_code: "SN5.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vijayāsutta "
+  - "Vijaya"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
 > ◄  [[sn5.3-pali-sc]] 📜  [[sn5.5-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -54,6 +54,16 @@ sabbattha vihato tamo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.220]], [[SA1204]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.220]], [[SA1204]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
+> ◄  [[sn5.3-pali-sc]] 📜  [[sn5.5-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP164-PALI"
+sutta_code: "DHP164"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP164-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP164]]
 > ◄  [[dhp163-pali-pts]] 📜  [[dhp165-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ attanā akataṃ pāpaṃ attanā va visujjhati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp164-) 
 

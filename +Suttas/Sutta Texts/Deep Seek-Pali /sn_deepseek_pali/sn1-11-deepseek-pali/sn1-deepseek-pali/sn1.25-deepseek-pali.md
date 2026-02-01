@@ -4,10 +4,10 @@ sutta_title:
   - "Arahantasutta "
   - "The Arahant"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.25]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.25]]
 > ◄  [[sn1.24-deepseek-pali]] 📜  [[sn1.26-deepseek-pali]] ►
 
 # SN 1.25 Arahantasuttaṃ
@@ -41,8 +41,7 @@ or say, ‘They speak of me’; skilled in worldly conventions, having understoo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.25-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -53,6 +52,5 @@ or say, ‘They speak of me’; skilled in worldly conventions, having understoo
 | [[SA-2.166]], [[SA581-582]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.25]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.25]]
 > ◄  [[sn1.24-deepseek-pali]] 📜  [[sn1.26-deepseek-pali]] ►

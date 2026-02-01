@@ -4,10 +4,10 @@ sutta_title:
   - "Puññābhisanda "
   - "Overflowing Merit 1st"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
 > ◄  [[an4.29-deepseek-pali]] 📜  [[an4.31-deepseek-pali]] ►
 
 # AN 4.30 Paribbājakasuttaṃ
@@ -71,8 +71,7 @@ Two (discourses on) Uruvelā, the world, Kāḷaka, the fifth (on) the holy life
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.30-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ Two (discourses on) Uruvelā, the world, Kāḷaka, the fifth (on) the holy life
 | [[MN117]], [[SN22.62]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
 > ◄  [[an4.29-deepseek-pali]] 📜  [[an4.31-deepseek-pali]] ►

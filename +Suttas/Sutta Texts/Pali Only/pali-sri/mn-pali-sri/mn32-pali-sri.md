@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN32-PALI"
+sutta_code: "MN32"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahāgosiṅga Sutta "
+  - "Discourse at Gosiṅga Longer"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
 > ◄  [[mn31-pali-sri]] 📜  [[mn33-pali-sri]] ►
 
 # 32. Maha Gosinga Sutta - Pali
@@ -182,6 +182,16 @@ Mahāgosiṅgasuttaṃ dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn32-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA37.3]]; [[MA184]] | M i 212 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA37.3]]; [[MA184]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
+> ◄  [[mn31-pali-sri]] 📜  [[mn33-pali-sri]] ►

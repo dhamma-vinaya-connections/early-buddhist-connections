@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG186-PALI"
+sutta_code: "THAG186"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG186-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG186]]
 > ◄  [[thag185-pali-pts]] 📜  [[thag187-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Diṭṭhā mayā dhammadharā upāsakā kāmā aniccā iti bhāsamānā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag186-) 
 

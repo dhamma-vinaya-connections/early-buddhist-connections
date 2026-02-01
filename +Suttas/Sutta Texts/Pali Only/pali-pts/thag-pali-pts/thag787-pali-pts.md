@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG787-PALI"
+sutta_code: "THAG787"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG787-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG787]]
 > ◄  [[thag786-pali-pts]] 📜  [[thag788-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ dumapphalānīva patanti māṇavā daharā ca vuḍḍhā ca sarīrabhedā;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag787-) 
 

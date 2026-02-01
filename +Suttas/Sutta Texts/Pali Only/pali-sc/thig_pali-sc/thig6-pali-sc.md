@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG6-PALI"
+sutta_code: "THIG6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Chakkanipātavagga "
+  - "Sixes Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG6]]
 > ◄  [[thig5-pali-sc]] 📜  [[thig7-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -281,6 +281,5 @@ Tamokhandhaṁ padāliyā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig6-) 
 

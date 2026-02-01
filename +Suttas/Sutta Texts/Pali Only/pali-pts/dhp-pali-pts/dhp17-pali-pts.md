@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP17-PALI"
+sutta_code: "DHP17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kodhavagga "
+  - "Anger"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP17]]
 > ◄  [[dhp16-pali-pts]] 📜  [[dhp18-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,11 @@ idha nandati pecca nandati katapuñño ubhayattha nandati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 63 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP17]]
+> ◄  [[dhp16-pali-pts]] 📜  [[dhp18-pali-pts]] ►

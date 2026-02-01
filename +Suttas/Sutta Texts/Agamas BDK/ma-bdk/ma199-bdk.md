@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA199]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA199]]
 > ◄  [[ma198-bdk]] 📜  [[ma200-bdk]] ►
 
 ### 199. The Discourse on the Stages of the Fool and the Wise
@@ -69,8 +69,7 @@ understand the nature of a fool and the nature of a wise man. Having understood 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma199-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -80,6 +79,5 @@ understand the nature of a fool and the nature of a wise man. Having understood 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN130]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA199]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA199]]
 > ◄  [[ma198-bdk]] 📜  [[ma200-bdk]] ►

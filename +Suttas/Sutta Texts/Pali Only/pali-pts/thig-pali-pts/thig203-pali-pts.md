@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG203-PALI"
+sutta_code: "THIG203"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG203-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG203]]
 > ◄  [[thig202-pali-pts]] 📜  [[thig204-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ mā su te Vaḍḍha lokamhi vanatho ahu kudācanaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig203-) 
 

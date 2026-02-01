@@ -4,10 +4,10 @@ sutta_title:
   - "Loka "
   - "World"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.23]]
 > ◄  [[an4.22-deepseek-pali]] 📜  [[an4.24-deepseek-pali]] ►
 
 # AN 4.23 Lokasuttaṃ
@@ -67,8 +67,7 @@ Thus they pay homage to him, the great one, fearless. In the world with its gods
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Thus they pay homage to him, the great one, fearless. In the world with its gods
 | [[MA137]], [[ITI112]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.23]]
 > ◄  [[an4.22-deepseek-pali]] 📜  [[an4.24-deepseek-pali]] ►

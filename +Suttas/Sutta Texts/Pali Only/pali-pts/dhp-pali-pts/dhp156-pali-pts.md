@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP156-PALI"
+sutta_code: "DHP156"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP156-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP156]]
 > ◄  [[dhp155-pali-pts]] 📜  [[dhp157-pali-pts]] ►
 
 ## Dhammapada
@@ -24,6 +24,5 @@ attānañ ce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp156-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG14-PALI"
+sutta_code: "THIG14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Tiṁsanipātavagga "
+  - "Thirties Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG14]]
 > ◄  [[thig13-pali-sri]] 📜  [[thig15-pali-sri]] ►
 
 # 30. Timsa-nipata - Pali
@@ -355,6 +355,5 @@ Tiṃsati nipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig14-) 
 

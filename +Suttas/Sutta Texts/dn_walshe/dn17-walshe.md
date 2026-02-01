@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
 > ◄  [[dn16-walshe]] 📜  [[dn18-walshe]] ►
 
 # DN17 Mahāsudassana Sutta: The Great Splendour
@@ -142,8 +142,7 @@ So the Lord spoke. The Well-Farer having said this, the Teacher said:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -158,6 +157,5 @@ So the Lord spoke. The Well-Farer having said this, the Teacher said:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]], [[DA2]], [[MA70]], [[MA67]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
 > ◄  [[dn16-walshe]] 📜  [[dn18-walshe]] ►

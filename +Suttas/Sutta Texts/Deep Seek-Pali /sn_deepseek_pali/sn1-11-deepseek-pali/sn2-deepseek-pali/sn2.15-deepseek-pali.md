@@ -4,10 +4,10 @@ sutta_title:
   - "Candanasutta "
   - "Candana"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.15]]
 > ◄  [[sn2.14-deepseek-pali]] 📜  [[sn2.16-deepseek-pali]] ►
 
 # SN 2.15 Candanasuttaṃ
@@ -40,8 +40,7 @@ That one does not sink in the deep."
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -52,6 +51,5 @@ That one does not sink in the deep."
 | [[SA-2.178]], [[SA1269]], [[SA-2.315]], [[SA1316]], [[SNP1.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.15]]
 > ◄  [[sn2.14-deepseek-pali]] 📜  [[sn2.16-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Guhaṭṭhakasutta "
   - "Eight on the Cave"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
 > ◄  [[snp4.1-deepseek-pali]] 📜  [[snp4.3-deepseek-pali]] ►
 
 # Snp 4.2 Guhaṭṭhakasuttaṃ
@@ -71,8 +71,7 @@ The Sutta on the Cave, the second, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ The Sutta on the Cave, the second, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.189]], [[THAG16.4]], [[SN4.15]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
 > ◄  [[snp4.1-deepseek-pali]] 📜  [[snp4.3-deepseek-pali]] ►

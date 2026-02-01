@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG820-PALI"
+sutta_code: "THAG820"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG820-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG820]]
 > ◄  [[thag819-pali-pts]] 📜  [[thag821-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ kalyāṇadassano bhikkhu kañcanasannibhattaco:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag820-) 
 

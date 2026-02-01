@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.21]]
 > ◄  [[sn1.20-bodhi]] 📜  [[sn1.22-bodhi]] ►
 
 # SN1.21 A Sword
@@ -37,8 +37,7 @@ At Sāvatthī. Standing to one side, that devatā recited this verse in the p
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ At Sāvatthī. Standing to one side, that devatā recited this verse in the p
 | [[SA-2.170]], [[SA586]], [[SN2.16]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.21]]
 > ◄  [[sn1.20-bodhi]] 📜  [[sn1.22-bodhi]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Atthapuggala "
   - "Individuals Eight"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
 > ◄  [[an8.59-deepseek-pali]] 📜  [[an8.61-deepseek-pali]] ►
 
 # AN 8.60 Dutiyapuggalasuttaṃ
@@ -47,8 +47,7 @@ Gotamī, the brief advice, / Dīghajāṇu, and Ujjaya; / Two on fear, two on th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Gotamī, the brief advice, / Dīghajāṇu, and Ujjaya; / Two on fear, two on th
 | [[EA43.10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
 > ◄  [[an8.59-deepseek-pali]] 📜  [[an8.61-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Brahmāyācanasutta "
   - "Brahma's Request"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
 > ◄  [[]] 📜  [[sn6.2-deepseek-pali]] ►
 
 # SN 6.1 Brahmāyācanasuttaṃ
@@ -63,8 +63,7 @@ Then Brahmā Sahampati, realizing, 'I have been granted my request by the Blesse
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Then Brahmā Sahampati, realizing, 'I have been granted my request by the Blesse
 | [[MN85]], [[PLI-TV-KD15]], [[DN14]], [[MA204]], [[MN100]], [[MN26]], [[MN36]], [[ITI38]], [[PLI-TV-KD1]], [[SN11.17]], [[EA19.1]], [[EA24.5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
 > ◄  [[]] 📜  [[sn6.2-deepseek-pali]] ►

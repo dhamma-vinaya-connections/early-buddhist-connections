@@ -4,10 +4,10 @@ sutta_title:
   - "Subrahmasutta "
   - "Subrahma"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
 > ◄  [[sn2.16-deepseek-pali]] 📜  [[sn2.18-deepseek-pali]] ►
 
 # SN 2.17 Subrahmasuttaṃ
@@ -37,8 +37,7 @@ If there is a state free from trembling, that you must tell me when I ask.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ If there is a state free from trembling, that you must tell me when I ask.”
 | [[SA-2.181]], [[SA596]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
 > ◄  [[sn2.16-deepseek-pali]] 📜  [[sn2.18-deepseek-pali]] ►

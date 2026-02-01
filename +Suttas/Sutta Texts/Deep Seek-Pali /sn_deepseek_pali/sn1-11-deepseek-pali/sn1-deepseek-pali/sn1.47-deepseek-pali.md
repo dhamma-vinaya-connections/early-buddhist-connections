@@ -4,10 +4,10 @@ sutta_title:
   - "Vanaropasutta "
   - "Planters of Groves"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.47]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.47]]
 > ◄  [[sn1.46-deepseek-pali]] 📜  [[sn1.48-deepseek-pali]] ►
 
 # SN 1.47 Vanaropasuttaṃ
@@ -33,8 +33,7 @@ By day and by night, their merit ever increases. Established in the Dhamma, acco
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.47-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ By day and by night, their merit ever increases. Established in the Dhamma, acco
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN54.4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.47]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.47]]
 > ◄  [[sn1.46-deepseek-pali]] 📜  [[sn1.48-deepseek-pali]] ►

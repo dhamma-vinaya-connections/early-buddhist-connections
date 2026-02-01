@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG763-PALI"
+sutta_code: "THAG763"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG763-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG763]]
 > ◄  [[thag762-pali-pts]] 📜  [[thag764-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sopānaṃ sukataṃ suddhaṃ dhammasāramayaṃ daḷhaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag763-) 
 

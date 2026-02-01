@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.16-PALI"
+sutta_code: "AN4.16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sokhumma "
+  - "Subtlety"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.16]]
 > ◄  [[an4.15-pali-pts]] 📜  [[an4.17-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -30,6 +30,16 @@ Dhāreti antimaṃ dehaṃ jetvā Māraṃ savāhanan ti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.16-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 17 |
+> > [!check]- Partial parallels 
+> > 
+| [[ITI62]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.16]]
+> ◄  [[an4.15-pali-pts]] 📜  [[an4.17-pali-pts]] ►

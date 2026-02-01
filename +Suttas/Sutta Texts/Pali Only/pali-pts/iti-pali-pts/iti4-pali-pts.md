@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI4-PALI"
+sutta_code: "ITI4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kodha "
+  - "Anger"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI4]]
 > ◄  [[iti3-pali-pts]] 📜  [[iti5-pali-pts]] ►
 
 ## Itivuttaka
@@ -26,6 +26,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||4||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti4-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN41-PALI"
+sutta_code: "MN41"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sāleyyaka Sutta "
+  - "People of Sālā"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
 > ◄  [[mn40-pali-sc]] 📜  [[mn42-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -108,6 +108,20 @@ Ekamantaṁ nisinnā kho sāleyyakā brāhmaṇagahapatikā bhagavantaṁ etadav
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn41-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN2.6]]; [[MN42]] | [[SA1042]]; [[SA1043]] | M i 285 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN2.6]]; [[MN42]]; [[SA1042]]; [[SA1043]]; [[AN10.176]]; [[MN41]]; [[AN3.28]]; [[MN114]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN9]]; [[MN135]]; [[AN3.71]]; [[AN4.123-126]]; [[AN7.49]]; [[AN8.54]]; [[AN10.176.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
+> ◄  [[mn40-pali-sc]] 📜  [[mn42-pali-sc]] ►

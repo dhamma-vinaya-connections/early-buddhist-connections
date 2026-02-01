@@ -3,11 +3,11 @@ sutta_code: "MN65"
 sutta_title:
   - "Bhaddāli Sutta "
   - "With Bhaddāli"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
 > ◄  [[mn64-sujato-pali]] 📜  [[mn66-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -313,8 +313,7 @@ Bhaddālisuttaṁ niṭṭhitaṁ pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn65-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -325,6 +324,5 @@ Bhaddālisuttaṁ niṭṭhitaṁ pañcamaṁ.
 | [[EA49.7]]; [[MA194]]; [[MN66]]; [[MA192]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
 > ◄  [[mn64-sujato-pali]] 📜  [[mn66-sujato-pali]] ►

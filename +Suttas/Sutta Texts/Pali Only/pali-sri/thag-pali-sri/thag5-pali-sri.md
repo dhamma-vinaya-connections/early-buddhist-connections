@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG5-PALI"
+sutta_code: "THAG5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Pañcakanipātavagga "
+  - "Fives Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG5]]
 > ◄  [[thag4-pali-sri]] 📜  [[thag6-pali-sri]] ►
 
 # 5. Panchaka-nipata - Pali
@@ -563,6 +563,5 @@ Pañcakanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag5-) 
 

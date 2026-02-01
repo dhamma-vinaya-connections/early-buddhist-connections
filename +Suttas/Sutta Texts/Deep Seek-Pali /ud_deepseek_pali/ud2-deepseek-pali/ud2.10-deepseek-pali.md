@@ -4,10 +4,10 @@ sutta_title:
   - "Bhadiya Kaligodha Sutta "
   - "Bhaddiya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
 > ◄  [[ud2.9-deepseek-pali]] 📜  [[]] ►
 
 # Ud 2.10 Bhaddiyasuttaṃ
@@ -67,8 +67,7 @@ Mucalinda, the king with a staff; honor by the lay follower; the pregnant woman 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Mucalinda, the king with a staff; honor by the lay follower; the pregnant woman 
 | [[PLI-TV-KD17]], [[SNP1.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
 > ◄  [[ud2.9-deepseek-pali]] 📜  [[]] ►

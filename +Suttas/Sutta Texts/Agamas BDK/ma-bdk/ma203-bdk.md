@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA203]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA203]]
 > ◄  [[ma202-bdk]] 📜  [[ma204-bdk]] ►
 
 ### 203. The Discourse to Potaliya
@@ -61,8 +61,7 @@ or brahmins, I would say, “Venerable friends, I abstain from worldliness. I ha
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma203-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,6 +76,5 @@ or brahmins, I would say, “Venerable friends, I abstain from worldliness. I ha
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN137]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA203]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA203]]
 > ◄  [[ma202-bdk]] 📜  [[ma204-bdk]] ►

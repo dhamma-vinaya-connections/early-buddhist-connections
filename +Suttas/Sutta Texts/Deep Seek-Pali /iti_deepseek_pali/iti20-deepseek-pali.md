@@ -4,10 +4,10 @@ sutta_title:
   - "Paduṭṭhacitta "
   - "Corrupted mind"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI20]]
 > ◄  [[iti19-deepseek-pali]] 📜  [[iti21-deepseek-pali]] ►
 
 # Iti 20 Pasannacittasuttaṃ
@@ -31,8 +31,7 @@ This meaning, too, was spoken by the Blessed One, thus I have heard. First.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ This meaning, too, was spoken by the Blessed One, thus I have heard. First.
 | [[AN1.43]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI20]]
 > ◄  [[iti19-deepseek-pali]] 📜  [[iti21-deepseek-pali]] ►

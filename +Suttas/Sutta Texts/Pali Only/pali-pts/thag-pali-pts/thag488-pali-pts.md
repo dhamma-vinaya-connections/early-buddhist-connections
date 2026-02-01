@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG488-PALI"
+sutta_code: "THAG488"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG488-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG488]]
 > ◄  [[thag487-pali-pts]] 📜  [[thag489-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sakalaṃ samattaṃ rogaṃ Sarabhaṅgo nāddasaṃ pubbe,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag488-) 
 

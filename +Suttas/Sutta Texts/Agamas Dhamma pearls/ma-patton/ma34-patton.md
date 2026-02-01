@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA34]]
 > ◄  [[ma31-patton]] 📜  [[ma36-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -104,8 +104,7 @@ Venerable Bakula said to him, “You shouldn’t ask that. Ask about something e
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -116,6 +115,5 @@ Venerable Bakula said to him, “You shouldn’t ask that. Ask about something e
 | [[SN9.13]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA34]]
 > ◄  [[ma31-patton]] 📜  [[ma36-patton]] ►

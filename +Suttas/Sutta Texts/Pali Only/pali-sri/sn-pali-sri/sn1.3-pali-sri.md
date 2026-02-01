@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.3-PALI"
+sutta_code: "SN1.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Upanīyasutta "
+  - "Reaching"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.3]]
 > ◄  [[sn1.2-pali-sri]] 📜  [[sn1.4-pali-sri]] ►
 
 # 1:3 Sattivaggo - Pali
@@ -316,6 +316,16 @@ Catucakkena navamaṃ eṇijaṅghena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN2.19]] | [[SA-2.138]], [[SA1001]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.138]], [[SA1001]], [[SN2.19]], [[AN3.51]], [[JA498]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.3]]
+> ◄  [[sn1.2-pali-sri]] 📜  [[sn1.4-pali-sri]] ►

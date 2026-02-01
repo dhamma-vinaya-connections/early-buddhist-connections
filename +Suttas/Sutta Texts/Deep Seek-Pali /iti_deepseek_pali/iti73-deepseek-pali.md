@@ -4,10 +4,10 @@ sutta_title:
   - "Santatara "
   - "More Peaceful"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI73]]
 > ◄  [[iti72-deepseek-pali]] 📜  [[iti74-deepseek-pali]] ►
 
 # Iti 73 Puttasuttaṃ
@@ -35,8 +35,7 @@ This matter, too, was spoken by the Blessed One: so I have heard. Fifth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti73-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ This matter, too, was spoken by the Blessed One: so I have heard. Fifth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5:200.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI73]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI73]]
 > ◄  [[iti72-deepseek-pali]] 📜  [[iti74-deepseek-pali]] ►

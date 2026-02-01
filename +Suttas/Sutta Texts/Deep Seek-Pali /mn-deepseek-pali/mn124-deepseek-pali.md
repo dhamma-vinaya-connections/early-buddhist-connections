@@ -4,10 +4,10 @@ sutta_title:
   - "Bākula Sutta "
   - "With Bakkula"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
 > ◄  [[mn123-deepseek-pali]] 📜  [[mn125-deepseek-pali]] ►
 
 # 124. Dantabhūmisuttaṃ
@@ -123,8 +123,7 @@ The Discourse on the Tamed Ground is finished, the fifth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn124-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -135,6 +134,5 @@ The Discourse on the Tamed Ground is finished, the fifth.
 | [[MA34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
 > ◄  [[mn123-deepseek-pali]] 📜  [[mn125-deepseek-pali]] ►

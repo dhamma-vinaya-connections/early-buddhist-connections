@@ -34,16 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[UD1.1]]"
-  - "[[UD1.3]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[PLI-TV-KD1]]"
-  - "[[UD1.1]]"
-  - "[[UD1.3]]"
+parallels_nikaya: "[[UD1.1]], [[UD1.3]]"
+parallels_agama: ""
+parallels_partilal: "[[PLI-TV-KD1]], [[UD1.1]], [[UD1.3]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[THIG16]]  🌐 [[UD1.2]] ►
 
@@ -68,8 +61,7 @@ As the sun (dwells) lighting up the firmament.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,8 +73,7 @@ As the sun (dwells) lighting up the firmament.”
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD1.1%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD1.1%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -93,7 +84,7 @@ As the sun (dwells) lighting up the firmament.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD1.1%5D%5D%22%23mynotes%20-file%3Aud1.1-%20-file%3A%22THIG16%22%20-file%3A%22UD1.2%22%20-file%3A%22UD1.1%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud1.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud1.1

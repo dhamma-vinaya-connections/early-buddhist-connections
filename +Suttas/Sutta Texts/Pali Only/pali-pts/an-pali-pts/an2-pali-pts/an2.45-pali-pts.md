@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.45-PALI"
+sutta_code: "AN2.45"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Parisa "
+  - "Assemblies"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.45-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.45]]
 > ◄  [[an2.44-pali-pts]] 📜  [[an2.46-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -28,6 +28,11 @@ Idha bhikkhave yassaṃ bhikkhū idaṃ dukkhan ti yathābhūtaṃ pajānanti ay
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.45-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 71 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.45]]
+> ◄  [[an2.44-pali-pts]] 📜  [[an2.46-pali-pts]] ►

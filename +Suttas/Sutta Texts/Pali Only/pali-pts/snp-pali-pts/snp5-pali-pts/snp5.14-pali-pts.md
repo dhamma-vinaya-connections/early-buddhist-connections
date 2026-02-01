@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.14-PALI"
+sutta_code: "SNP5.14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Udayamāṇavapucchā "
+  - "Questions of the Student Udaya"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
 > ◄  [[snp5.13-pali-pts]] 📜  [[snp5.15-pali-pts]] ►
 
 # SNP5.14 Udayamāṇavapucchā (13)
@@ -40,6 +40,20 @@ UDAYAMĀṆAVAPUCCHĀ NIṬṬHITĀ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP386]], [[DHP403]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP386]], [[MN98]], [[SNP3.9]], [[DHP403]], [[AN3.33]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN52]], [[MN102]], [[MN106]], [[MN111]], [[MN140]], [[ANDAN9:36.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
+> ◄  [[snp5.13-pali-pts]] 📜  [[snp5.15-pali-pts]] ►

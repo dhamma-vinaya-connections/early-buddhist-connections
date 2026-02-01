@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP142-PALI"
+sutta_code: "DHP142"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP142-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP142]]
 > ◄  [[dhp141-pali-pts]] 📜  [[dhp144-pali-pts]] ►
 
 ## Dhammapada
@@ -29,6 +29,5 @@ saddhāya sīlena ca viriyena ca samādhinā dhammavinicchayena ca /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp142-) 
 

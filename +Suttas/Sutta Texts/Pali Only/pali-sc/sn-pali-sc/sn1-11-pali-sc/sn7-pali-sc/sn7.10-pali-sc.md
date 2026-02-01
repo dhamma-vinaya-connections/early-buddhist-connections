@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.10-PALI"
+sutta_code: "SN7.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bahudhītarasutta "
+  - "Many Daughters"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
 > ◄  [[sn7.9-pali-sc]] 📜  [[sn7.11-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -109,6 +109,16 @@ rena ca te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.93]], [[SA1179]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.93]], [[SA1179]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
+> ◄  [[sn7.9-pali-sc]] 📜  [[sn7.11-pali-sc]] ►

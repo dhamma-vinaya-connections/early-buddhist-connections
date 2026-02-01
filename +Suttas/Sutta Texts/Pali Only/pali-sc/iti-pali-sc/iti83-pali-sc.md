@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI83-PALI"
+sutta_code: "ITI83"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pañcapubbanimitta "
+  - "Five Warning Signs"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI83-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI83]]
 > ◄  [[iti82-pali-sc]] 📜  [[iti84-pali-sc]] ►
 
 # Iti 83. Bahujanahitasuttaṃ
@@ -35,6 +35,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti83-) 
 

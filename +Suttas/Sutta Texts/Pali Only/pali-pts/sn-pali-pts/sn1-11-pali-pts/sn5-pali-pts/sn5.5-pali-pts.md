@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN5.5-PALI"
+sutta_code: "SN5.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Uppalavaṇṇāsutta "
+  - "Uppalavaṇṇā"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
 > ◄  [[sn5.4-pali-pts]] 📜  [[sn5.6-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -44,6 +44,16 @@ Atha kho Māro pāpimā || jānāti mam Uppalavaṇṇā bhikkhunīti dukkhī du
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.217]], [[SA1201]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.217]], [[SA1201]], [[THIG11.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
+> ◄  [[sn5.4-pali-pts]] 📜  [[sn5.6-pali-pts]] ►

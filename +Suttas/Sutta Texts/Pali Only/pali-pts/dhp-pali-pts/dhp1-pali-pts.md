@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP1-PALI"
+sutta_code: "DHP1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Yamakavagga "
+  - "Pairs"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP1]]
 > ◄  [[]] 📜  [[dhp2-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,16 @@ manasā ce pasannena bhāsatī vā karoti vā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA52.7]], [[PE2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP1]]
+> ◄  [[]] 📜  [[dhp2-pali-pts]] ►

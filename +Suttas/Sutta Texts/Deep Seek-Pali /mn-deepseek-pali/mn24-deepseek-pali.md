@@ -4,10 +4,10 @@ sutta_title:
   - "Rathavinīta Sutta "
   - "Prepared Chariots"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
 > ◄  [[mn23-deepseek-pali]] 📜  [[mn25-deepseek-pali]] ►
 
 # 24. Rathavinītasuttaṃ
@@ -219,8 +219,7 @@ The Rathavinīta Sutta, the fourth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -235,6 +234,5 @@ The Rathavinīta Sutta, the fourth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]], [[SN4.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
 > ◄  [[mn23-deepseek-pali]] 📜  [[mn25-deepseek-pali]] ►

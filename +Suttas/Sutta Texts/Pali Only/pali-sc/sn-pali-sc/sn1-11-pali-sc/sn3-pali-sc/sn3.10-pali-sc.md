@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.10-PALI"
+sutta_code: "SN3.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bandhanasutta "
+  - "Bondage"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
 > ◄  [[sn3.9-pali-sc]] 📜  [[sn3.11-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -44,6 +44,16 @@ mallikā yaññabandhananti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP345]], [[DHP346]], [[THAG2.34]] | [[SA-2.62]], [[SA1235]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.62]], [[SA1235]], [[DHP345]], [[JA201]], [[PE2]], [[DHP346]], [[THAG2.34]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
+> ◄  [[sn3.9-pali-sc]] 📜  [[sn3.11-pali-sc]] ►

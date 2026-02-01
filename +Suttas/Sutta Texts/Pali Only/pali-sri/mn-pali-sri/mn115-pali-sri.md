@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN115-PALI"
+sutta_code: "MN115"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Bahudhātuka Sutta "
+  - "Many Elements"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
 > ◄  [[mn114-pali-sri]] 📜  [[mn116-pali-sri]] ►
 
 # 115. Bahudhatuka - Pali
@@ -166,6 +166,20 @@ Bahudhātukasuttaṃ pañcamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn115-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN1.268-277]]; [[SN14.1]] | [[MA181]]; [[SA451]] | M iii 61 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN1.268-277]]; [[MA181]]; [[SN14.1]]; [[SA451]]; [[AN1.277]]; [[DN28]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN33-34]],]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
+> ◄  [[mn114-pali-sri]] 📜  [[mn116-pali-sri]] ►

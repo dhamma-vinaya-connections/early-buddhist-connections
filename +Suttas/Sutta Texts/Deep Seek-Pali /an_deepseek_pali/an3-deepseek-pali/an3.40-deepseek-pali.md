@@ -4,10 +4,10 @@ sutta_title:
   - "Adhipateyya "
   - "In Charge"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.40]]
 > ◄  [[an3.39-deepseek-pali]] 📜  [[an3.41-deepseek-pali]] ►
 
 # AN 3.40 Ādhipateyyasuttaṃ
@@ -63,12 +63,11 @@ Brahma, Ananda, Sariputta; the Nidana and Hatthaka; two messengers, two kings, a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.40-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A i 147 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.40]]
 > ◄  [[an3.39-deepseek-pali]] 📜  [[an3.41-deepseek-pali]] ►

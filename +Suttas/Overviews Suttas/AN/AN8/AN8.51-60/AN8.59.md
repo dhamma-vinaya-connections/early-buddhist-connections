@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[EA43.10]]"
-parallels_partilal:
-  - "[[EA43.10]]"
+parallels_nikaya: ""
+parallels_agama: "[[EA43.10]]"
+parallels_partilal: "[[EA43.10]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.58]]  🌐 [[AN8.60]] ►
 
@@ -63,8 +59,7 @@ With wisdom, ethics, and unified mind
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.59-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -76,8 +71,7 @@ With wisdom, ethics, and unified mind
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN8.59%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN8.59%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -88,7 +82,7 @@ With wisdom, ethics, and unified mind
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.59%5D%5D%22%23mynotes%20-file%3Aan8.59-%20-file%3A%22AN8.58%22%20-file%3A%22AN8.60%22%20-file%3A%22AN8.59%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.59/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.59

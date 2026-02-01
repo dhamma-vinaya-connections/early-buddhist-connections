@@ -4,10 +4,10 @@ sutta_title:
   - "Iddhipāda "
   - "Bases Of Psychic Power"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.67]]
 > ◄  [[an5.66-deepseek-pali]] 📜  [[an5.68-deepseek-pali]] ►
 
 # AN 5.67 Paṭhamaiddhipādasuttaṃ
@@ -27,12 +27,11 @@ What five? Here, monks, a monk develops the base of spiritual power endowed with
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.67-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 81 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.67]]
 > ◄  [[an5.66-deepseek-pali]] 📜  [[an5.68-deepseek-pali]] ►

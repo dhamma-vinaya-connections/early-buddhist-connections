@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN117-PALI"
+sutta_code: "MN117"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahācattārīsaka Sutta "
+  - "Great Forty"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
 > ◄  [[mn116-pali-sc]] 📜  [[mn118-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -105,6 +105,20 @@ Yepi te, bhikkhave, ahesuṁ okkalā vassabhaññā ahetuvādā akiriyavādā na
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn117-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA189]]; [[SA784]]; [[SA785]] | M iii 71 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA189]]; [[SA785]]; [[SA784]]; [[AN4.30]]; [[SN22.62]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN12.15]]; [[SN45.1]]; [[SN45.8]]; [[AN5.25]]; [[AN5.28]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
+> ◄  [[mn116-pali-sc]] 📜  [[mn118-pali-sc]] ►

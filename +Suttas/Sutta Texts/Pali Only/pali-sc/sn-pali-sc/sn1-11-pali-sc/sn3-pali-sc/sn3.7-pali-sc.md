@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.7-PALI"
+sutta_code: "SN3.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Aḍḍākārāṇasutta "
+  - "The Judgement Hall"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.7]]
 > ◄  [[sn3.6-pali-sc]] 📜  [[sn3.8-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -32,6 +32,16 @@ vipāko hissa pāpako"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.57]], [[SA1231]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.57]], [[SA1231]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.7]]
+> ◄  [[sn3.6-pali-sc]] 📜  [[sn3.8-pali-sc]] ►

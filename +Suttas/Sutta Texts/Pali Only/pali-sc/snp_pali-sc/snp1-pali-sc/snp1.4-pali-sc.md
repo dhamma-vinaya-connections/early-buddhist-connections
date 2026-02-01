@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.4-PALI"
+sutta_code: "SNP1.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kasibhāradvājasutta "
+  - "With Bhāradvāja the Farmer"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.4]]
 > ◄  [[snp1.3-pali-sc]] 📜  [[snp1.5-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -90,6 +90,20 @@ Kasibhāradvājasuttaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN7.11]] | [[SA-2.264]], [[SA-3.1]], [[SA98]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN7.11]], [[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP3.4]], [[SN7.8]], [[SN7.9]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN16]], [[SN7.14]], [[SN7.17]], [[AN4.113]], [[THIG13.2]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.4]]
+> ◄  [[snp1.3-pali-sc]] 📜  [[snp1.5-pali-sc]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyabodhi Sutta "
   - "The Bodhi Tree (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.1]]
 > ◄  [[]] 📜  [[ud1.2-deepseek-pali]] ►
 
 # Ud 1.1 Paṭhamabodhisuttaṃ
@@ -35,8 +35,7 @@ Then, having understood this matter, on that occasion the Blessed One uttered th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then, having understood this matter, on that occasion the Blessed One uttered th
 | [[PLI-TV-KD1]], [[UD1.1]], [[UD1.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.1]]
 > ◄  [[]] 📜  [[ud1.2-deepseek-pali]] ►

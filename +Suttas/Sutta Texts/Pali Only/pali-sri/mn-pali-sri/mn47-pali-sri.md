@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN47-PALI"
+sutta_code: "MN47"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vīmaṃsaka Sutta "
+  - "Inquirer"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN47-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN47]]
 > ◄  [[mn46-pali-sri]] 📜  [[mn48-pali-sri]] ►
 
 # 47. Vimamsaka Sutta - Pali
@@ -104,6 +104,20 @@ Vīmaṃsakasuttaṃ sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn47-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA186]] | M i 317 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA186]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN47.12]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN47]]
+> ◄  [[mn46-pali-sri]] 📜  [[mn48-pali-sri]] ►

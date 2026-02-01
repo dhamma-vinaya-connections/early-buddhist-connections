@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG33-PALI"
+sutta_code: "THIG33"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG33-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG33]]
 > ◄  [[thig32-pali-pts]] 📜  [[thig34-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ evaṃ viharamānāya sabbo rāgo samūhato |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig33-) 
 

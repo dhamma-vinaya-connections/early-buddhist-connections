@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN88-PALI"
+sutta_code: "MN88"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Bāhitika Sutta "
+  - "Imported Cloth"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
 > ◄  [[mn87-pali-sri]] 📜  [[mn89-pali-sri]] ►
 
 # 88. Bahitika Sutta - Pali
@@ -188,6 +188,16 @@ Bāhitikasuttaṃ aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn88-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA214]] | M ii 112 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA214]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
+> ◄  [[mn87-pali-sri]] 📜  [[mn89-pali-sri]] ►

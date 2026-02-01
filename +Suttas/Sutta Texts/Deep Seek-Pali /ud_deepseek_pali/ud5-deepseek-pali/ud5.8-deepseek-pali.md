@@ -4,10 +4,10 @@ sutta_title:
   - "Ananda Sutta "
   - "Ānanda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.8]]
 > ◄  [[ud5.7-deepseek-pali]] 📜  [[ud5.9-deepseek-pali]] ►
 
 # Ud 5.8 Saṅghabhedasuttaṃ
@@ -43,8 +43,7 @@ Then, the Blessed One, having realized the meaning of it, on that occasion, utte
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then, the Blessed One, having realized the meaning of it, on that occasion, utte
 | [[PLI-TV-KD17]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.8]]
 > ◄  [[ud5.7-deepseek-pali]] 📜  [[ud5.9-deepseek-pali]] ►

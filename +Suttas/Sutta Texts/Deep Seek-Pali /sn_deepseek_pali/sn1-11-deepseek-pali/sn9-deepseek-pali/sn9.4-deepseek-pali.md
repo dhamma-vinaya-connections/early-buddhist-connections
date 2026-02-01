@@ -4,10 +4,10 @@ sutta_title:
   - "Sambahulasutta "
   - "A Number"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.4]]
 > ◄  [[sn9.3-deepseek-pali]] 📜  [[sn9.5-deepseek-pali]] ►
 
 # SN 9.4 Sambahulasuttaṃ
@@ -35,8 +35,7 @@ Some have gone to Magadha, some to Kosala, and a few to the land of the Vajjis. 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Some have gone to Magadha, some to Kosala, and a few to the land of the Vajjis. 
 | [[JA403]], [[SA-2.351]], [[SA1331]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.4]]
 > ◄  [[sn9.3-deepseek-pali]] 📜  [[sn9.5-deepseek-pali]] ►

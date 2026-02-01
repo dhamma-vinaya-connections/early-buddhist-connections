@@ -4,10 +4,10 @@ sutta_title:
   - "Kīṭāgiri Sutta "
   - "At Kīṭāgiri"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN70]]
 > ◄  [[mn69-deepseek-pali]] 📜  [[mn71-deepseek-pali]] ►
 
 # 70. Kīṭāgirisuttaṃ
@@ -119,8 +119,7 @@ The Elephant, Rāhula, Sassataloka, and Mālukyaputta named Bhaddāli; The Small
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn70-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -135,6 +134,5 @@ The Elephant, Rāhula, Sassataloka, and Mālukyaputta named Bhaddāli; The Small
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN27]]; [[MN95]]; [[SN48.44]]; [[AN3.65]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN70]]
 > ◄  [[mn69-deepseek-pali]] 📜  [[mn71-deepseek-pali]] ►

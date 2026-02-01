@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1221-PALI"
+sutta_code: "THAG1221"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1221-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1221]]
 > ◄  [[thag1220-pali-pts]] 📜  [[thag1222-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tasmā akhilo idham amānavā nīvaraṇāni pahāya visuddho
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1221-) 
 

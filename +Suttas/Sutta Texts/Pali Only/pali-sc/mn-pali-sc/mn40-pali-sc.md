@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN40-PALI"
+sutta_code: "MN40"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cūḷaassapura Sutta "
+  - "Discourse at Assapura Shorter"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
 > ◄  [[mn39-pali-sc]] 📜  [[mn41-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -70,6 +70,20 @@ Kevaṭṭaassapurajaṭilena.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn40-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA183]] | M i 281 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA183]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN15]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
+> ◄  [[mn39-pali-sc]] 📜  [[mn41-pali-sc]] ►

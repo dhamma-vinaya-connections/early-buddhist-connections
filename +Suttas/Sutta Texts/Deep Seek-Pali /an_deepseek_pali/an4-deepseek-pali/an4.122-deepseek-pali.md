@@ -4,10 +4,10 @@ sutta_title:
   - "Ūmibhaya "
   - "Danger Of Waves"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.122]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.122]]
 > ◄  [[an4.121-deepseek-pali]] 📜  [[an4.123-deepseek-pali]] ►
 
 # AN 4.122 Ūmibhayasuttaṃ
@@ -39,8 +39,7 @@ And what, monks, is the danger of sharks? Here, monks, a certain clansman, out o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.122-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ And what, monks, is the danger of sharks? Here, monks, a certain clansman, out o
 | [[MN67]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.122]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.122]]
 > ◄  [[an4.121-deepseek-pali]] 📜  [[an4.123-deepseek-pali]] ►

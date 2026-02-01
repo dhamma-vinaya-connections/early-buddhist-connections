@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN18-PALI"
+sutta_code: "MN18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Madhupiṇḍika Sutta "
+  - "Honey-Cake"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
 > ◄  [[mn17-pali-sri]] 📜  [[mn19-pali-sri]] ►
 
 # 18. Madhupindika Sutta - Pali
@@ -136,6 +136,20 @@ Madhupiṇḍikasuttaṃ aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN148]]; [[SN35.60]] | [[EA40.10]]; [[MA115]]; [[SA304]]; [[SA323-327]]; [[SA330]] | M i 108 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN148]]; [[SA304]]; [[SN35.60]]; [[SA323-327]]; [[SA330]]; [[MN38]]; [[EA40.10]]; [[MA115]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN21]]; [[AN3.72]]; [[SN4.8]], [[SA273]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
+> ◄  [[mn17-pali-sri]] 📜  [[mn19-pali-sri]] ►

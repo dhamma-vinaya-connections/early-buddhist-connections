@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG241-PALI"
+sutta_code: "THIG241"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG241-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG241]]
 > ◄  [[thig240-pali-pts]] 📜  [[thig242-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ corā ca vajjhaghātā ca ye c'; aññe pāpakammino |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig241-) 
 

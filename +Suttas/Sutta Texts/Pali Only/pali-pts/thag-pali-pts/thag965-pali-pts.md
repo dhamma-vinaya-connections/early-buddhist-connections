@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG965-PALI"
+sutta_code: "THAG965"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG965-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG965]]
 > ◄  [[thag964-pali-pts]] 📜  [[thag966-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ agāravo ca kāsāve tadā tesaṃ bhavissati,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag965-) 
 

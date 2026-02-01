@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP172-PALI"
+sutta_code: "DHP172"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP172-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP172]]
 > ◄  [[dhp171-pali-pts]] 📜  [[dhp173-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yassa pāpaṃ kataṃ kammaṃ kusalena pithīyati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp172-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1026-PALI"
+sutta_code: "THAG1026"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1026-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1026]]
 > ◄  [[thag1025-pali-pts]] 📜  [[thag1027-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ bahussutaṃ upāseyya sutañ ca na vināsaye;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1026-) 
 

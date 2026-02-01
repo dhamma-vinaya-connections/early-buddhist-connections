@@ -3,11 +3,11 @@ sutta_code: "UD6.2"
 sutta_title:
   - "Jatila Sutta "
   - "Seclusion"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.2]]
 > ◄  [[ud6.1-anandajoti-pali]] 📜  [[ud6.3-anandajoti-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -113,8 +113,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -129,6 +128,5 @@ Dutiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]], [[MN110]], [[AN4.192]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.2]]
 > ◄  [[ud6.1-anandajoti-pali]] 📜  [[ud6.3-anandajoti-pali]] ►

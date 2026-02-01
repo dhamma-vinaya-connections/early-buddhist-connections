@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.40-PALI"
+sutta_code: "AN4.40"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Udāyī "
+  - "With Udāyī"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.40-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.40]]
 > ◄  [[an4.39-pali-sc]] 📜  [[an4.41-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -58,6 +58,16 @@ Dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.40-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.54]] | [[SA-2.90]], [[SA90]] | A ii 43 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.90]], [[SA90]], [[AN8.54]], [[AN6.37]], [[AN8.37]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.40]]
+> ◄  [[an4.39-pali-sc]] 📜  [[an4.41-pali-sc]] ►

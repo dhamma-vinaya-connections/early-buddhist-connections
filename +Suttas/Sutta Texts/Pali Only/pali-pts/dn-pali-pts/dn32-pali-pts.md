@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN32-PALI"
+sutta_code: "DN32"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Āṭānāṭiya Sutta "
+  - "Āṭānāṭiya Protection"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
 > ◄  [[dn31-pali-pts]] 📜  [[dn33-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -277,6 +277,11 @@ Idam avoca Bhagavā. Attamanā te bhikkhū Bhagavato bhāsitaṃ abhinadun ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn32-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | D iii 194 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN32]]
+> ◄  [[dn31-pali-pts]] 📜  [[dn33-pali-pts]] ►

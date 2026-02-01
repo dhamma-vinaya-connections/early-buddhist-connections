@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG8-PALI"
+sutta_code: "THIG8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Aṭṭhakanipātavagga "
+  - "Eights Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG8]]
 > ◄  [[thig7-pali-pts]] 📜  [[thig9-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ saddhāya pabbajitvāna Bhadre bhadraratā bhava |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig8-) 
 

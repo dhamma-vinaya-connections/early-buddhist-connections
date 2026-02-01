@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG223-PALI"
+sutta_code: "THAG223"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG223-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG223]]
 > ◄  [[thag222-pali-pts]] 📜  [[thag224-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tassa mevaṃ viharato passa viriyaparakkamaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag223-) 
 

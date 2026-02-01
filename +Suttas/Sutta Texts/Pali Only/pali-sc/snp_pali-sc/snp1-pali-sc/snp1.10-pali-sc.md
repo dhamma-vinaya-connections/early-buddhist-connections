@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.10-PALI"
+sutta_code: "SNP1.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Āḷavakasutta "
+  - "With Āḷavakasutta"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
 > ◄  [[snp1.9-pali-sc]] 📜  [[snp1.11-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -111,6 +111,20 @@ Namassamāno sambuddhaṁ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN10.12]] | [[SA-2.325]], [[SA1326]], [[SA603]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN10.12]], [[SA-2.325]], [[SA1326]], [[SA603]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN35]], [[SN2.5]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
+> ◄  [[snp1.9-pali-sc]] 📜  [[snp1.11-pali-sc]] ►

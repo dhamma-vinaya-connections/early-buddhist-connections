@@ -3,11 +3,11 @@ sutta_code: "AN8.11"
 sutta_title:
   - "Verañja "
   - "At Verañja"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
 > ◄  [[an8.10-sujato-pali]] 📜  [[an8.12-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -179,8 +179,7 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -191,6 +190,5 @@ Paṭhamaṁ.
 | [[MA157]], [[PLI-TV-BU-VB-PJ1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
 > ◄  [[an8.10-sujato-pali]] 📜  [[an8.12-sujato-pali]] ►

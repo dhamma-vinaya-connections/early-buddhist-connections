@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.36-PALI"
+sutta_code: "AN2.36"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Anagami "
+  - "Non Returner"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.36-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.36]]
 > ◄  [[an2.35-pali-pts]] 📜  [[an2.37-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -46,6 +46,16 @@ Anassuṃ kho Sāriputta aññatitthiyā paribbājakā ye imaṃ dhammapariyāya
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.36-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA21]] | A i 63 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA21]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.36]]
+> ◄  [[an2.35-pali-pts]] 📜  [[an2.37-pali-pts]] ►

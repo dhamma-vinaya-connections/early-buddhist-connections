@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG150-PALI"
+sutta_code: "THIG150"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG150-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG150]]
 > ◄  [[thig149-pali-pts]] 📜  [[thig151-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ ucce kule ahaṃ jātā bahuvitte mahaddhane |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig150-) 
 

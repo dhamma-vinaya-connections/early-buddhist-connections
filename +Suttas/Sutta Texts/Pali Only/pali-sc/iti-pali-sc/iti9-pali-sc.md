@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI9-PALI"
+sutta_code: "ITI9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "馬邑 "
+  - "Discourse at Assapura 2"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI9]]
 > ◄  [[iti8-pali-sc]] 📜  [[iti10-pali-sc]] ►
 
 # Iti 9. Lobhapariññāsuttaṃ
@@ -25,6 +25,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti9-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG14-PALI"
+sutta_code: "THAG14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Cuddasakanipātavagga "
+  - "Fourteens Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG14]]
 > ◄  [[thag13-pali-pts]] 📜  [[thag15-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Pañca chinde pañca jahe pañca c'; uttari bhāvaye;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag14-) 
 

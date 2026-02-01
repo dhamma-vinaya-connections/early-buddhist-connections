@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP188-PALI"
+sutta_code: "DHP188"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP188-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP188]]
 > ◄  [[dhp187-pali-pts]] 📜  [[dhp189-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ n'; etaṃ kho saraṇaṃ khemaṃ, n'; etaṃ saraṇam uttamaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp188-) 
 

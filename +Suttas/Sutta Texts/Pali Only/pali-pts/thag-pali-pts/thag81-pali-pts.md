@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG81-PALI"
+sutta_code: "THAG81"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG81-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG81]]
 > ◄  [[thag80-pali-pts]] 📜  [[thag82-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Yena yena subhikkhāni sivāni abhayāni ca
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag81-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP305-PALI"
+sutta_code: "DHP305"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP305-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP305]]
 > ◄  [[dhp304-pali-pts]] 📜  [[dhp306-pali-pts]] ►
 
 ## Dhammapada
@@ -24,6 +24,5 @@ abhūtavādī nirayaṃ upeti yo vāpi katvā na karomi c'; āha /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp305-) 
 

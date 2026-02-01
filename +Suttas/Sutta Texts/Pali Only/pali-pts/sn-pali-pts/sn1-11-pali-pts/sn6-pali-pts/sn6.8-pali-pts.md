@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.8-PALI"
+sutta_code: "SN6.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Katamodakatissasutta "
+  - "Tissaka"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.8]]
 > ◄  [[sn6.7-pali-pts]] 📜  [[sn6.9-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -28,6 +28,16 @@ appameyyaṃ pamāyinam || nivutam maññe akissavan ti ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.8]]
+> ◄  [[sn6.7-pali-pts]] 📜  [[sn6.9-pali-pts]] ►

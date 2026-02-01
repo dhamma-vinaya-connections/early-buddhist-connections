@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.69-PALI"
+sutta_code: "AN4.69"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Taṇhuppāda "
+  - "Arising Of Craving"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.69-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.69]]
 > ◄  [[an4.68-pali-pts]] 📜  [[an4.70-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,16 @@ PTS: A ii 74
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.69-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.13]], [[AN4.275]] | [[SA875]], [[SA876]] | A ii 10 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.13]], [[SA875]], [[SA876]], [[AN4.275]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.69]]
+> ◄  [[an4.68-pali-pts]] 📜  [[an4.70-pali-pts]] ►

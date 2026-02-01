@@ -4,10 +4,10 @@ sutta_title:
   - "Kamma Sutta "
   - "Former Action/Action"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.1]]
 > ◄  [[]] 📜  [[ud3.2-deepseek-pali]] ►
 
 # Ud 3.1 Kammavipākajasuttaṃ
@@ -35,9 +35,7 @@ Then the Blessed One, having understood the meaning of this, on that occasion ut
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.1-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.1]]
 > ◄  [[]] 📜  [[ud3.2-deepseek-pali]] ►

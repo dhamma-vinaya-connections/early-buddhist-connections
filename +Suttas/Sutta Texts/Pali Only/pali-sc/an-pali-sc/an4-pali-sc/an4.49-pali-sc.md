@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.49-PALI"
+sutta_code: "AN4.49"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vipallasa "
+  - "Perversions"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.49-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.49]]
 > ◄  [[an4.48-pali-sc]] 📜  [[an4.50-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -59,6 +59,20 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.49-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 52 |
+> > [!check]- Partial parallels 
+> > 
+| [[ITI58]], [[PE6]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN7.48]], [[AN10.60]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.49]]
+> ◄  [[an4.48-pali-sc]] 📜  [[an4.50-pali-sc]] ►

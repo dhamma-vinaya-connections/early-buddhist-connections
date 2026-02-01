@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN79-PALI"
+sutta_code: "MN79"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cūḷasakuludāyi Sutta "
+  - "With Sakuludāyī Shorter Discourse"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN79-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN79]]
 > ◄  [[mn78-pali-sc]] 📜  [[mn80-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -214,6 +214,16 @@ Iti hidaṁ sakuludāyissa paribbājakassa parisā sakuludāyiṁ paribbājaka�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn79-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA208]] | M ii 29 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA208]]; [[SN35.120]]; [[DN2]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN27]]; [[MN38]]; [[MN51]]; [[MN53]]; [[MN60]]; [[MN76]]; [[MN94]]; [[MN101]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN4.198]]; [[AN5.76]]; [[AN5.140]]; [[AN10.99]]; [[AN11.17]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[MN33]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN79]]
+> ◄  [[mn78-pali-sc]] 📜  [[mn80-pali-sc]] ►

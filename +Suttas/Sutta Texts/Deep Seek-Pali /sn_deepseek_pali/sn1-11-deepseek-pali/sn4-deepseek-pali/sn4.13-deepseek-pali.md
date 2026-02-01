@@ -4,10 +4,10 @@ sutta_title:
   - "Sakalikasutta "
   - "The Splinter"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
 > ◄  [[sn4.12-deepseek-pali]] 📜  [[sn4.14-deepseek-pali]] ►
 
 # SN 4.13 Sakalikasuttaṃ
@@ -43,8 +43,7 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.38]], [[SN36.6]], [[AN5.129]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
 > ◄  [[sn4.12-deepseek-pali]] 📜  [[sn4.14-deepseek-pali]] ►

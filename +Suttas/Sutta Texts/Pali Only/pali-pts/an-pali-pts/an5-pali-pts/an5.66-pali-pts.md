@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.66-PALI"
+sutta_code: "AN5.66"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sākaccha "
+  - "Discussion"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.66-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.66]]
 > ◄  [[an5.65-pali-pts]] 📜  [[an5.67-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Imehi kho bhikkhave pañcahi dhammehi samannāgato bhikkhu alaṃsākaccho sabra
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.66-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.163]], [[AN5.164]], [[AN5.65]] |  | A iii 81 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.65]], [[AN5.163]], [[AN5.164]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.66]]
+> ◄  [[an5.65-pali-pts]] 📜  [[an5.67-pali-pts]] ►

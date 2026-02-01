@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG143-PALI"
+sutta_code: "THAG143"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG143-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG143]]
 > ◄  [[thag142-pali-pts]] 📜  [[thag144-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yaṃ karoti naro kammaṃ kalyāṇaṃ yadi pāpakaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag143-) 
 

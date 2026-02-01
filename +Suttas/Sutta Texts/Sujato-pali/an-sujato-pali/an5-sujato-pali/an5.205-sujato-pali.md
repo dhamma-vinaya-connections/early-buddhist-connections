@@ -3,11 +3,11 @@ sutta_code: "AN5.205"
 sutta_title:
   - "Cetokhila "
   - "Emotional Barrenness"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.205]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.205]]
 > ◄  [[an5.204-sujato-pali]] 📜  [[an5.206-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -47,8 +47,7 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.205-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Pañcamaṁ.
 | [[DN33]], [[AN9.71]], [[MN16]], [[DN34]], [[DA10]], [[AN10.14]], [[EA51.4]], [[MA206]], [[AN5.206]], [[AN9.72]], [[AN9.82]], [[AN9.92]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.205]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.205]]
 > ◄  [[an5.204-sujato-pali]] 📜  [[an5.206-sujato-pali]] ►

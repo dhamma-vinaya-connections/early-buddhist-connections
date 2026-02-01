@@ -4,10 +4,10 @@ sutta_title:
   - "Lekha "
   - "Inscriptions"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.132]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.132]]
 > ◄  [[an3.131-deepseek-pali]] 📜  [[an3.133-deepseek-pali]] ►
 
 # AN 3.132 Lekhasuttaṃ
@@ -47,12 +47,11 @@ Kusinārā, the Dispute, Gotama, Bharandu, Hand; Two Anuruddhas, Kaṭuviya, Con
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.132-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A i 283 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.132]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.132]]
 > ◄  [[an3.131-deepseek-pali]] 📜  [[an3.133-deepseek-pali]] ►

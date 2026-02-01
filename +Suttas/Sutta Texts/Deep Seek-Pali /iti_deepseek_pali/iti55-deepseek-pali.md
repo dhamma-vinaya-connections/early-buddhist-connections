@@ -4,10 +4,10 @@ sutta_title:
   - "Esanā "
   - "Searches"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI55]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI55]]
 > ◄  [[iti54-deepseek-pali]] 📜  [[iti56-deepseek-pali]] ►
 
 # Iti 55 Paṭhamaāsavasuttaṃ
@@ -29,8 +29,7 @@ This too was spoken by the Blessed One, so I heard. This is the seventh discours
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti55-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This too was spoken by the Blessed One, so I heard. This is the seventh discours
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN26]], [[AN3.39]], [[AN4.252]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI55]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI55]]
 > ◄  [[iti54-deepseek-pali]] 📜  [[iti56-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG253-PALI"
+sutta_code: "THAG253"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG253-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG253]]
 > ◄  [[thag252-pali-pts]] 📜  [[thag254-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sabbe kāmā pahīnā me, bhavā sabbe padālitā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag253-) 
 

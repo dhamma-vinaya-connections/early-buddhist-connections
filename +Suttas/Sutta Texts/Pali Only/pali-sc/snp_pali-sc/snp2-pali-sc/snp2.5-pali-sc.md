@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.5-PALI"
+sutta_code: "SNP2.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sūciloma "
+  - "Spiky Spirit"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
 > ◄  [[snp2.4-pali-sc]] 📜  [[snp2.6-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -56,6 +56,20 @@ Sūcilomasuttaṁ pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.313]], [[SA-2.323]], [[SA1314]], [[SA1324]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.323]], [[SA-2.313]], [[SA1324]], [[SA1314]], [[SN10.3]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN21]], [[SNP4:11]], [[DHP1]], [[DHP2]], [[DHP347]], [[UD1.7]], [[UD4.4]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
+> ◄  [[snp2.4-pali-sc]] 📜  [[snp2.6-pali-sc]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamaaputtakasutta "
   - "Childless (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.19]]
 > ◄  [[sn3.18-deepseek-pali]] 📜  [[sn3.20-deepseek-pali]] ►
 
 # SN 3.19 Paṭhamaaputtakasuttaṃ
@@ -51,8 +51,7 @@ The wise and discerning, having acquired wealth,Enjoys it and is active in good 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ The wise and discerning, having acquired wealth,Enjoys it and is active in good 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.20]], [[AN5.41]], [[AN5.148.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.19]]
 > ◄  [[sn3.18-deepseek-pali]] 📜  [[sn3.20-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Ajarasāsutta "
   - "Undecaying"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.52]]
 > ◄  [[sn1.51-deepseek-pali]] 📜  [[sn1.53-deepseek-pali]] ►
 
 # SN 1.52 Ajarasāsuttaṃ
@@ -29,8 +29,7 @@ Virtue is good when ageless; faith is good when firmly established; wisdom is a 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.52-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ Virtue is good when ageless; faith is good when firmly established; wisdom is a 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN7:21ANDMNI39]], [[AN1]], [[AN2]], [[AN280]], [[AN18]], [[AN19]], [[AN20]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.52]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.52]]
 > ◄  [[sn1.51-deepseek-pali]] 📜  [[sn1.53-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN97-PALI"
+sutta_code: "MN97"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dhanañjāni Sutta "
+  - "With Dhanañjāni"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN97-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN97]]
 > ◄  [[mn96-pali-sc]] 📜  [[mn98-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -209,6 +209,20 @@ Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami, upasaṅkamitvā bha
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn97-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA27]] | M ii 184 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA27]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN143]]; [[SN3.17]]; [[SN41.7]]; [[SN41.10]]; [[AN4.178]]; [[AN10.15]], [[MN99]], [[MA152]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN97]]
+> ◄  [[mn96-pali-sc]] 📜  [[mn98-pali-sc]] ►

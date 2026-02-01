@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.17-PALI"
+sutta_code: "AN8.17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dūteyya "
+  - "Missionary"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.17]]
 > ◄  [[an8.16-pali-pts]] 📜  [[an8.18-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Imehi kho bhikkhave aṭṭhahi dhammehi samannāgato bhikkhu dūteyyaṃ gantum
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA44.5]] | A iv 196 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA44.5]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.17]]
+> ◄  [[an8.16-pali-pts]] 📜  [[an8.18-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG430-PALI"
+sutta_code: "THIG430"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG430-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG430]]
 > ◄  [[thig429-pali-pts]] 📜  [[thig431-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ athā 'haṃ bhaṇāmi tātaṃ rodantī añjaliṃ paṇāmetvā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig430-) 
 

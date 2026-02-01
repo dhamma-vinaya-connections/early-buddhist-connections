@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG326-PALI"
+sutta_code: "THIG326"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG326-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG326]]
 > ◄  [[thig325-pali-pts]] 📜  [[thig327-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ hatthigavassaṃ maṇikuṇḍalañ ca phītañ c'; imaṃ gehavigataṃ pahāy
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig326-) 
 

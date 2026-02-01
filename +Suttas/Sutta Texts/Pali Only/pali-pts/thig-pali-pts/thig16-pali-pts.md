@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG16-PALI"
+sutta_code: "THIG16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mahānipātavagga "
+  - "Great Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG16]]
 > ◄  [[thig15-pali-pts]] 📜  [[thig17-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ vedhamānehi gattehi tatth'; eva nipatiṃ chamā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig16-) 
 

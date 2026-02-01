@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
 > ◄  [[mn53-anigha]] 📜  [[mn55-anigha]] ►
 
 # MN 54 - With Potaliya the Householder
@@ -115,8 +115,7 @@ Excellent, venerable sir! Excellent! As if he were righting the overturned, or r
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn54-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -131,6 +130,5 @@ Excellent, venerable sir! Excellent! As if he were righting the overturned, or r
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN137]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
 > ◄  [[mn53-anigha]] 📜  [[mn55-anigha]] ►

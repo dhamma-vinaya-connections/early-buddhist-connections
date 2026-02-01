@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1115-PALI"
+sutta_code: "THAG1115"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1115-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1115]]
 > ◄  [[thag1114-pali-pts]] 📜  [[thag1116-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ dukkhan ti khandhe paṭipassa yoniso, yato ca dukkhaṃ samudeti taṃ jaha,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1115-) 
 

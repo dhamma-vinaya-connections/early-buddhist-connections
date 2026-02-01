@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.5-PALI"
+sutta_code: "SNP4.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Paramaṭṭhakasutta "
+  - "Eight on the Ultimate"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.5]]
 > ◄  [[snp4.4-pali-pts]] 📜  [[snp4.6-pali-pts]] ►
 
 # SNP4.5 Paramaṭṭhakasutta
@@ -55,6 +55,7 @@ PARAMAṬṬHAKASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.5]]
+> ◄  [[snp4.4-pali-pts]] 📜  [[snp4.6-pali-pts]] ►

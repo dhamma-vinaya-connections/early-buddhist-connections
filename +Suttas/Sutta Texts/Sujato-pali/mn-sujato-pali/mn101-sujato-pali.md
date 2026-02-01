@@ -3,11 +3,11 @@ sutta_code: "MN101"
 sutta_title:
   - "Devadaha Sutta "
   - "At Devadaha"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101]]
 > ◄  [[mn100-sujato-pali]] 📜  [[mn102-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -487,8 +487,7 @@ Devadahasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn101-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -503,6 +502,5 @@ Devadahasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.145]]]]; [[[[SN36.21]]]]; [[[[SN42.8]]]]; [[[[SN42.11]]]]; [[[[AN3.99]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101]]
 > ◄  [[mn100-sujato-pali]] 📜  [[mn102-sujato-pali]] ►

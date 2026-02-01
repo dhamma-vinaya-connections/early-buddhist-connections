@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG511-PALI"
+sutta_code: "THAG511"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG511-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG511]]
 > ◄  [[thag510-pali-pts]] 📜  [[thag512-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tadāhaṃ puttadārañ ca dhanadhaññañ ca chaḍḍayiṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag511-) 
 

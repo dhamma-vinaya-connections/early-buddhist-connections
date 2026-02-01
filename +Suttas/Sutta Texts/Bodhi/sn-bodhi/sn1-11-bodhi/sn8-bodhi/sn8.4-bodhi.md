@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
 > ◄  [[sn8.3-bodhi]] 📜  [[sn8.5-bodhi]] ►
 
 # SN8.4 Ānanda
@@ -70,8 +70,7 @@ On one occasion the Venerable Ānanda was dwelling at Sāvatthī in Jeta’s Gro
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -82,6 +81,5 @@ On one occasion the Venerable Ānanda was dwelling at Sāvatthī in Jeta’s Gro
 | [[EA35.9]], [[SA-2.230]], [[SA1214]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
 > ◄  [[sn8.3-bodhi]] 📜  [[sn8.5-bodhi]] ►

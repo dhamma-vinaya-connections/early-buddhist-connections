@@ -34,16 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[SN3.11]]"
-parallels_agama:
-  - "[[SA-2.71]]"
-  - "[[SA1148]]"
-parallels_partilal:
-  - "[[SN3.11]]"
-  - "[[SA-2.71]]"
-  - "[[SA1148]]"
+parallels_nikaya: "[[SN3.11]]"
+parallels_agama: "[[SA-2.71]], [[SA1148]]"
+parallels_partilal: "[[SN3.11]], [[SA-2.71]], [[SA1148]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.1]]  🌐 [[UD6.3]] ►
 
@@ -67,8 +60,7 @@ It wasn’t, won’t be,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,8 +75,7 @@ It wasn’t, won’t be,
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]], [[MN110]], [[AN4.192]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD6.2%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD6.2%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -95,7 +86,7 @@ It wasn’t, won’t be,
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD6.2%5D%5D%22%23mynotes%20-file%3Aud6.2-%20-file%3A%22UD6.1%22%20-file%3A%22UD6.3%22%20-file%3A%22UD6.2%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud6.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.2

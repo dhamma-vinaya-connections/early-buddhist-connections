@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG417-PALI"
+sutta_code: "THIG417"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG417-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG417]]
 > ◄  [[thig416-pali-pts]] 📜  [[thig418-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ na pi 'haṃ aparajjhaṃ kiñci na pi hiṃs'; eva na gaṇāmi |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig417-) 
 

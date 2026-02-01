@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsaḷāyatanika Sutta "
   - "Great Discourse on the Six Sense Fields"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-deepseek-pali]] 📜  [[mn150-deepseek-pali]] ►
 
 # 149. Piṇḍapātapārisuddhisuttaṃ
@@ -91,8 +91,7 @@ The discourse on the purity of alms-food, the ninth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn149-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ The discourse on the purity of alms-food, the ninth, is concluded.
 | [[SA305]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-deepseek-pali]] 📜  [[mn150-deepseek-pali]] ►

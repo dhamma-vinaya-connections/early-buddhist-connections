@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP177-PALI"
+sutta_code: "DHP177"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP177-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP177]]
 > ◄  [[dhp176-pali-pts]] 📜  [[dhp178-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ pathavyā ekarajjena saggassa gamanena vā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp177-) 
 

@@ -3,11 +3,11 @@ sutta_code: "SNP5.6"
 sutta_title:
   - "Dhotakamāṇavapucchā "
   - "Questions of the Student Dhotaka"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.6]]
 > ◄  [[snp5.5-sujato-pali]] 📜  [[snp5.7-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -129,9 +129,7 @@ Dhotakamāṇavapucchā pañcamī.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.6-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.6]]
 > ◄  [[snp5.5-sujato-pali]] 📜  [[snp5.7-sujato-pali]] ►

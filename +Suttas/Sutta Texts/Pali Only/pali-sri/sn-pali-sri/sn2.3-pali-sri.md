@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.3-PALI"
+sutta_code: "SN2.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Māghasutta "
+  - "Magha"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.3]]
 > ◄  [[sn2.2-pali-sri]] 📜  [[sn3.1-pali-sri]] ►
 
 # 2:3 Nanatitthiyavaggo - Pali
@@ -506,6 +506,16 @@ Devaputtasaṃyuttaṃ samattaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.308]], [[SA1309]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN1.71]], [[SN7.1]], [[SN11.21]], [[SA1309]], [[SA-2.308]], [[SA1158]], [[SA-2.81]], [[SA1116]], [[SA-2.45]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.3]]
+> ◄  [[sn2.2-pali-sri]] 📜  [[sn3.1-pali-sri]] ►

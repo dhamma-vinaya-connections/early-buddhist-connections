@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN101-PALI"
+sutta_code: "MN101"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Devadaha Sutta "
+  - "At Devadaha"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101]]
 > ◄  [[mn100-pali-sri]] 📜  [[mn102-pali-sri]] ►
 
 # 101. Devadaha - Pali
@@ -344,6 +344,20 @@ Next Sutta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn101-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA19]] | M ii 214 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA19]]; [[DN2]]; [[MN38]]; [[MN27]]; [[MN76]]; [[MN94]]; [[AN10.99]]; [[AN4.198]]; [[MN51]]; [[SN35.120]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN53]]; [[MN60]]; [[MN79]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN5.76]]; [[AN5.140]]; [[AN11.17]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[MN33]]; [[AN9.13]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN35.145]]]]; [[[[SN36.21]]]]; [[[[SN42.8]]]]; [[[[SN42.11]]]]; [[[[AN3.99]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN101]]
+> ◄  [[mn100-pali-sri]] 📜  [[mn102-pali-sri]] ►

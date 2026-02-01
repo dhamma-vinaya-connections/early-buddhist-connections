@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN9]]
 > ◄  [[mn8-anigha]] 📜  [[mn10-anigha]] ►
 
 # MN 9 - Right View
@@ -113,8 +113,7 @@ This is what Venerable Sāriputta said. Pleased, the bhikkhus delighted in what 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -129,6 +128,5 @@ This is what Venerable Sāriputta said. Pleased, the bhikkhus delighted in what 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN61]]; [[MN117]]; [[MN141]]; [[SN12.11]]; [[SN12.12]]; [[SN12.15]]; [[SN12.63]]; [[SN12.64]]; [[AN10.94]]; [[SN3.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN9]]
 > ◄  [[mn8-anigha]] 📜  [[mn10-anigha]] ►

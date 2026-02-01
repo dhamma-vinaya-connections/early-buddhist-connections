@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.92-PALI"
+sutta_code: "AN9.92"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.92-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.92]]
 > ◄  [[an9.84-pali-sc]] 📜  [[an9.93-pali-sc]] ►
 
 ## Aṅguttara Nikāya – The Numerical Discourses
@@ -19,6 +19,5 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.92-) 
 

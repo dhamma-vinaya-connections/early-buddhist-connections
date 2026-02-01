@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
 > ◄  [[mn21-anigha]] 📜  [[mn23-anigha]] ►
 
 # MN 22 - The Simile of the Venomous Snake
@@ -211,8 +211,7 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -227,6 +226,5 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.23]], [[MN63]], [[SN56.31]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
 > ◄  [[mn21-anigha]] 📜  [[mn23-anigha]] ►

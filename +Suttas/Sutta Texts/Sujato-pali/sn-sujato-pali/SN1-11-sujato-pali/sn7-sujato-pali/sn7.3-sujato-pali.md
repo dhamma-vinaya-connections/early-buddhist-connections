@@ -3,11 +3,11 @@ sutta_code: "SN7.3"
 sutta_title:
   - "Asurindakasutta "
   - "Asurindaka"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
 > ◄  [[sn7.2-sujato-pali]] 📜  [[sn7.4-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -83,8 +83,7 @@ ye dhammassa akovidā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ ye dhammassa akovidā"ti.
 | [[SA-2.74]], [[SA-3.25]], [[SA1151]], [[SN7.2]], [[SN11.4]], [[SN11.5]], [[THAG6.12]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
 > ◄  [[sn7.2-sujato-pali]] 📜  [[sn7.4-sujato-pali]] ►

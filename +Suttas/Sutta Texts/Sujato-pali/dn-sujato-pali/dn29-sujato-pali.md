@@ -3,11 +3,11 @@ sutta_code: "DN29"
 sutta_title:
   - "Pāsādika Sutta "
   - "An Impressive Discourse"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
 > ◄  [[dn28-sujato-pali]] 📜  [[dn30-sujato-pali]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -464,8 +464,7 @@ Pāsādikasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -476,6 +475,5 @@ Pāsādikasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 | [[AN9.7]], [[DA17]], [[AN9.8]], [[MN76]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
 > ◄  [[dn28-sujato-pali]] 📜  [[dn30-sujato-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Kāraṇḍava "
   - "Trash"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
 > ◄  [[an8.9-deepseek-pali]] 📜  [[an8.11-deepseek-pali]] ►
 
 # AN 8.10 Kāraṇḍavasuttaṃ
@@ -79,8 +79,7 @@ Loving-kindness and wisdom, both are dear; / Two worlds, two kinds of ruin; / De
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ Loving-kindness and wisdom, both are dear; / Two worlds, two kinds of ruin; / De
 | [[MA122]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
 > ◄  [[an8.9-deepseek-pali]] 📜  [[an8.11-deepseek-pali]] ►

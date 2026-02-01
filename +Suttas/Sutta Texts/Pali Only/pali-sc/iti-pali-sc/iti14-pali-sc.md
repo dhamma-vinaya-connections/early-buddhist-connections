@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI14-PALI"
+sutta_code: "ITI14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "林 "
+  - "Forest"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI14]]
 > ◄  [[iti13-pali-sc]] 📜  [[iti15-pali-sc]] ►
 
 # Iti 14. Taṇhāsaṃyojanasuttaṃ
@@ -30,6 +30,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti14-) 
 

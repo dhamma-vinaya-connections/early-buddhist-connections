@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG518-PALI"
+sutta_code: "THAG518"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG518-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG518]]
 > ◄  [[thag517-pali-pts]] 📜  [[thag519-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yadā dukkhassāvahaniṃ visattikaṃ papañcasaṃghāṭadukhādhivāhaniṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag518-) 
 

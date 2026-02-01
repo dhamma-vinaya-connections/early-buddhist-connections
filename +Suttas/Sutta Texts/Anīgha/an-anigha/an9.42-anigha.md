@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.42]]
 > ◄  [[an9.41-anigha]] 📜  [[an10.2-anigha]] ►
 
 # AN 9.42 - Confinement
@@ -43,8 +43,7 @@ Furthermore, a bhikkhu, having fully surmounted the extent of neither-perception
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.42-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Furthermore, a bhikkhu, having fully surmounted the extent of neither-perception
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN121]], [[AN9.34]], [[SN2.7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.42]]
 > ◄  [[an9.41-anigha]] 📜  [[an10.2-anigha]] ►

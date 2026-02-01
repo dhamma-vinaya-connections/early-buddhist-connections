@@ -34,20 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Ananda"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[SN51.10]]"
-  - "[[UD6.1]]"
-parallels_agama:
-  - "[[EA42.5]]"
-  - "[[MA36]]"
-parallels_partilal:
-  - "[[UD6.1]]"
-  - "[[DN16]]"
-  - "[[SN51.10]]"
-  - "[[MA36]]"
-  - "[[EA42.5]]"
-  - "[[PE3]]"
+parallels_nikaya: "[[SN51.10]], [[UD6.1]]"
+parallels_agama: "[[EA42.5]], [[MA36]]"
+parallels_partilal: "[[UD6.1]], [[DN16]], [[SN51.10]], [[MA36]], [[EA42.5]], [[PE3]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.69]]  🌐 [[AN8.71]] ►
 
@@ -68,8 +57,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.70-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -84,8 +72,7 @@ parallels_partilal:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN8.70%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN8.70%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -96,7 +83,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.70%5D%5D%22%23mynotes%20-file%3Aan8.70-%20-file%3A%22AN8.69%22%20-file%3A%22AN8.71%22%20-file%3A%22AN8.70%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.70/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.70

@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.44]]
 > ◄  [[an8.43-bodhi]] 📜  [[an8.45-bodhi]] ►
 
 # AN8.44 Vāseṭṭha
@@ -29,8 +29,7 @@ When this was said, the male lay follower Vāseṭṭha said to the Blessed One:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.44-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ When this was said, the male lay follower Vāseṭṭha said to the Blessed One:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.70]], [[AN10.46]], [[UD2.10]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.44]]
 > ◄  [[an8.43-bodhi]] 📜  [[an8.45-bodhi]] ►

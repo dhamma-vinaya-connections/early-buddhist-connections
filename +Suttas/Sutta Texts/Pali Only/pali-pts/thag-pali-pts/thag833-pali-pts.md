@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG833-PALI"
+sutta_code: "THAG833"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG833-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG833]]
 > ◄  [[thag832-pali-pts]] 📜  [[thag834-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yo maṃ icchati anvetu yo vā n'; icchati gacchatu:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag833-) 
 

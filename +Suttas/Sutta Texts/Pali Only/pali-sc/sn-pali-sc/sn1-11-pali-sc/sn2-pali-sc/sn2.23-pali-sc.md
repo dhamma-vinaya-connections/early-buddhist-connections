@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.23-PALI"
+sutta_code: "SN2.23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Serīsutta "
+  - "Seri"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.23]]
 > ◄  [[sn2.22-pali-sc]] 📜  [[sn2.24-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -71,6 +71,20 @@ patiṭṭhā honti pāṇinan’"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.23-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.43]] | [[SA-2.136]], [[SA999]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN1.43]], [[SA-2.136]], [[SA999]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[AN5.36]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN1.50]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.23]]
+> ◄  [[sn2.22-pali-sc]] 📜  [[sn2.24-pali-sc]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Asava "
   - "Defilements"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI56]]
 > ◄  [[iti55-deepseek-pali]] 📜  [[iti57-deepseek-pali]] ►
 
 # Iti 56 Dutiyaāsavasuttaṃ
@@ -27,8 +27,7 @@ This too was spoken by the Blessed One, so I heard. This is the eighth discourse
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti56-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ This too was spoken by the Blessed One, so I heard. This is the eighth discourse
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN4]], [[MN9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI56]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI56]]
 > ◄  [[iti55-deepseek-pali]] 📜  [[iti57-deepseek-pali]] ►

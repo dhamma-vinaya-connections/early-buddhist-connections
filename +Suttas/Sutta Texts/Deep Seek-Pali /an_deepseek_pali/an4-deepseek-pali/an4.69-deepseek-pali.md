@@ -4,10 +4,10 @@ sutta_title:
   - "Taṇhuppāda "
   - "Arising Of Craving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.69]]
 > ◄  [[an4.68-deepseek-pali]] 📜  [[an4.70-deepseek-pali]] ►
 
 # AN 4.69 Padhānasuttaṃ
@@ -39,8 +39,7 @@ Restraint, abandonment, development, and preservation—these are the four effor
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.69-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Restraint, abandonment, development, and preservation—these are the four effor
 | [[AN4.13]], [[SA875]], [[SA876]], [[AN4.275]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.69]]
 > ◄  [[an4.68-deepseek-pali]] 📜  [[an4.70-deepseek-pali]] ►

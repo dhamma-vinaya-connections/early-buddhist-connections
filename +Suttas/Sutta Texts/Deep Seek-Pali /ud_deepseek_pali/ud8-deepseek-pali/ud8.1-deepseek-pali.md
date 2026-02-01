@@ -4,10 +4,10 @@ sutta_title:
   - "Pathamanibbana Sutta "
   - "Nibbāna (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.1]]
 > ◄  [[]] 📜  [[ud8.2-deepseek-pali]] ►
 
 # Ud 8.1 Paṭhamanibbānapaṭisaṃyuttasuttaṃ
@@ -31,9 +31,7 @@ Then, having understood this meaning, on that occasion the Blessed One uttered t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.1-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.1]]
 > ◄  [[]] 📜  [[ud8.2-deepseek-pali]] ►

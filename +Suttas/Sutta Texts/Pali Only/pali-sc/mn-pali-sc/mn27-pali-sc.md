@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN27-PALI"
+sutta_code: "MN27"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cūḷahatthipadopama Sutta "
+  - "Shorter Elephant’s Footprint Simile"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
 > ◄  [[mn26-pali-sc]] 📜  [[mn28-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -148,6 +148,20 @@ Idampi vuccati, brāhmaṇa, tathāgatapadaṁ itipi, tathāgatanisevitaṁ itip
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn27-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA146]] | M i 175 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA146]]; [[DN2]]; [[MN38]]; [[MN76]]; [[MN94]]; [[MN101]]; [[AN10.99]]; [[AN4.198]]; [[MN51]]; [[SN35.120]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN53]]; [[MN60]]; [[MN79]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN5.76]]; [[AN5.140]]; [[AN11.17]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[MN33]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN95]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
+> ◄  [[mn26-pali-sc]] 📜  [[mn28-pali-sc]] ►

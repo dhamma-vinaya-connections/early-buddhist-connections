@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.20]]
 > ◄  [[an6.19-bodhi]] 📜  [[an6.21-bodhi]] ►
 
 # AN6.20 Mindfulness of Death (2)
@@ -39,8 +39,7 @@ On one occasion the Blessed One was dwelling at Nādika in the brick hall. There
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ On one occasion the Blessed One was dwelling at Nādika in the brick hall. There
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.56]], [[AN6.19]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.20]]
 > ◄  [[an6.19-bodhi]] 📜  [[an6.21-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN5.2-PALI"
+sutta_code: "SN5.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Somāsutta "
+  - "Soma"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
 > ◄  [[sn5.1-pali-sc]] 📜  [[sn5.3-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -48,6 +48,16 @@ Taṁ māro vattumarahatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.215]], [[SA1199]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.215]], [[SA1199]], [[THIG3.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
+> ◄  [[sn5.1-pali-sc]] 📜  [[sn5.3-pali-sc]] ►

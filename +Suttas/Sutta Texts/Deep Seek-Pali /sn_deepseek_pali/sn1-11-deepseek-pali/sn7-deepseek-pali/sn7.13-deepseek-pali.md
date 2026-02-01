@@ -4,10 +4,10 @@ sutta_title:
   - "Devahitasutta "
   - "Devahita"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
 > ◄  [[sn7.12-deepseek-pali]] 📜  [[sn7.14-deepseek-pali]] ►
 
 # SN 7.13 Devahitasuttaṃ
@@ -59,8 +59,7 @@ When this was said, Devahita the brahmin said to the Blessed One: “Excellent, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ When this was said, Devahita the brahmin said to the Blessed One: “Excellent, 
 | [[SA-2.95]], [[SA1181]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
 > ◄  [[sn7.12-deepseek-pali]] 📜  [[sn7.14-deepseek-pali]] ►

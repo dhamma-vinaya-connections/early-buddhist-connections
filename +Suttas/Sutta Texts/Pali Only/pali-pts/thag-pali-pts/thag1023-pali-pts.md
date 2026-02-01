@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1023-PALI"
+sutta_code: "THAG1023"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1023-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1023]]
 > ◄  [[thag1022-pali-pts]] 📜  [[thag1024-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ dvāsītiṃ buddhato gaṇhi, dve sahassāni bhikkhuto:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1023-) 
 

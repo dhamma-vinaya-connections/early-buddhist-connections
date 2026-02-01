@@ -4,10 +4,10 @@ sutta_title:
   - "Loṇakapalla "
   - "Lump Of Salt"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.100]]
 > ◄  [[an3.99-deepseek-pali]] 📜  [[an3.101-deepseek-pali]] ►
 
 # AN 3.100 Loṇakapallasuttaṃ
@@ -91,8 +91,7 @@ Bhikkhus, if someone were to say: ‘Just as this person performs an action, jus
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.100-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -107,6 +106,5 @@ Bhikkhus, if someone were to say: ‘Just as this person performs an action, jus
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.217]], [[AN10.218]], [[AN10.219]], [[MA15]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.100]]
 > ◄  [[an3.99-deepseek-pali]] 📜  [[an3.101-deepseek-pali]] ►

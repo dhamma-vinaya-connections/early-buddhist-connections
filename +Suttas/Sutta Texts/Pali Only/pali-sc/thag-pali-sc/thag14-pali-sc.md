@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG14-PALI"
+sutta_code: "THAG14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cuddasakanipātavagga "
+  - "Fourteens Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG14]]
 > ◄  [[thag13-pali-sc]] 📜  [[thag15-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -172,6 +172,5 @@ parinibbantināsavā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag14-) 
 

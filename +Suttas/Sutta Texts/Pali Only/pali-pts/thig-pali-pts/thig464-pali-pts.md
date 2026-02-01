@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG464-PALI"
+sutta_code: "THIG464"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG464-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG464]]
 > ◄  [[thig463-pali-pts]] 📜  [[thig465-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ atha ne bhaṇati Sumedhā mā edisakāni bhavagataṃ asāraṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig464-) 
 

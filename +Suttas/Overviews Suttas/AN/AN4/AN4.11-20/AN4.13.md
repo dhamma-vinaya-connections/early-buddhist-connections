@@ -34,18 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[AN4.275]]"
-  - "[[AN4.69]]"
-parallels_agama:
-  - "[[SA875]]"
-  - "[[SA876]]"
-parallels_partilal:
-  - "[[AN4.69]]"
-  - "[[SA875]]"
-  - "[[SA876]]"
-  - "[[AN4.275]]"
+parallels_nikaya: "[[AN4.275]], [[AN4.69]]"
+parallels_agama: "[[SA875]], [[SA876]]"
+parallels_partilal: "[[AN4.69]], [[SA875]], [[SA876]], [[AN4.275]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.12]]  🌐 [[AN4.14]] ►
 
@@ -67,8 +58,7 @@ May attain the ending of suffering
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -80,8 +70,7 @@ May attain the ending of suffering
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN4.13%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN4.13%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -92,7 +81,7 @@ May attain the ending of suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.13%5D%5D%22%23mynotes%20-file%3Aan4.13-%20-file%3A%22AN4.12%22%20-file%3A%22AN4.14%22%20-file%3A%22AN4.13%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.13

@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA200]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA200]]
 > ◄  [[ma190-patton]] 📜  [[ma204-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -235,8 +235,7 @@ The monks replied, “No, Bhagavān.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma200-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -251,6 +250,5 @@ The monks replied, “No, Bhagavān.”
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN63]], [[SN22.23]], [[SN56.31]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA200]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA200]]
 > ◄  [[ma190-patton]] 📜  [[ma204-patton]] ►

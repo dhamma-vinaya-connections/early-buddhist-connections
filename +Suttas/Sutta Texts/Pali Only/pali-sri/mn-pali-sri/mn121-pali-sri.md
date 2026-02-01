@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN121-PALI"
+sutta_code: "MN121"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cūḷasuññata Sutta "
+  - "Emptiness Shorter Discourse"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN121-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN121]]
 > ◄  [[mn120-pali-sri]] 📜  [[mn122-pali-sri]] ►
 
 # 121. Culasunnata - Pali
@@ -78,6 +78,20 @@ Cūḷasuññatasuttaṃ paṭhamaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn121-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA190]] | M iii 104 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA190]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN9.42]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN121]]
+> ◄  [[mn120-pali-sri]] 📜  [[mn122-pali-sri]] ►

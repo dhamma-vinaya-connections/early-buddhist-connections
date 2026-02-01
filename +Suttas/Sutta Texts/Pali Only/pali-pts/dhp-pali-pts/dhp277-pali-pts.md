@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP277-PALI"
+sutta_code: "DHP277"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP277-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP277]]
 > ◄  [[dhp276-pali-pts]] 📜  [[dhp278-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ atha nibbindatī dukkhe, esa maggo visuddhiyā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp277-) 
 

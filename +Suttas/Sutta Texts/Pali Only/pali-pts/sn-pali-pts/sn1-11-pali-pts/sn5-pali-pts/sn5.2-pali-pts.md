@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN5.2-PALI"
+sutta_code: "SN5.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Somāsutta "
+  - "Soma"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
 > ◄  [[sn5.1-pali-pts]] 📜  [[sn5.3-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -35,6 +35,16 @@ Atha kho Māro pāpimā jānāti maṃ Somā bhikkhunīti dukkhī dummano tatth-
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.215]], [[SA1199]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.215]], [[SA1199]], [[THIG3.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
+> ◄  [[sn5.1-pali-pts]] 📜  [[sn5.3-pali-pts]] ►

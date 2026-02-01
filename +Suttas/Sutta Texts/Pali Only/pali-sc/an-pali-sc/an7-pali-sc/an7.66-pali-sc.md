@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.66-PALI"
+sutta_code: "AN7.66"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sattasūriya "
+  - "Seven Suns"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.66-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.66]]
 > ◄  [[an7.65-pali-sc]] 📜  [[an7.67-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -73,6 +73,16 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.66-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN7.73]], [[AN7.73-74]] | [[EA40.1]], [[MA160]], [[MA8]] | A iv 100 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA40.1]], [[MA8]], [[AN7.73-74]], [[MA160]], [[AN6.54]], [[AN7.73]], [[DN16]], [[AN4.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.66]]
+> ◄  [[an7.65-pali-sc]] 📜  [[an7.67-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.56-PALI"
+sutta_code: "AN6.56"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Phagguna "
+  - "With Phagguṇa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.56-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
 > ◄  [[an6.55-pali-sc]] 📜  [[an6.57-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -73,6 +73,16 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.56-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1023]] | A iii 379 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1023]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
+> ◄  [[an6.55-pali-sc]] 📜  [[an6.57-pali-sc]] ►

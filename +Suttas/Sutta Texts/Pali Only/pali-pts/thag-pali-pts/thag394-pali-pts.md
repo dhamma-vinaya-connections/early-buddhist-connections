@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG394-PALI"
+sutta_code: "THAG394"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG394-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG394]]
 > ◄  [[thag393-pali-pts]] 📜  [[thag395-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ dhammādāsaṃ gahetvāna ñāṇadassanapattiyā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag394-) 
 

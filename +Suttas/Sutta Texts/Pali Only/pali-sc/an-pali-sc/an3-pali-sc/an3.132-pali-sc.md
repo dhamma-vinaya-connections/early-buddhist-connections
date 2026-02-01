@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.132-PALI"
+sutta_code: "AN3.132"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Lekha "
+  - "Inscriptions"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.132-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.132]]
 > ◄  [[an3.131-pali-sc]] 📜  [[an3.133-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -37,6 +37,11 @@ Paṭicchannaṁ lekhena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.132-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 283 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.132]]
+> ◄  [[an3.131-pali-sc]] 📜  [[an3.133-pali-sc]] ►

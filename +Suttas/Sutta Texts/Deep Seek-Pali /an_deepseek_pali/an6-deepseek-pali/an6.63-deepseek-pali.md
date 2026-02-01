@@ -4,10 +4,10 @@ sutta_title:
   - "Nibbedhika "
   - "Penetrative"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.63]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.63]]
 > ◄  [[an6.62-deepseek-pali]] 📜  [[an6.64-deepseek-pali]] ►
 
 # AN 6.63 Nibbedhikasuttaṃ
@@ -199,8 +199,7 @@ language: "Pali"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.63-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -211,6 +210,5 @@ language: "Pali"
 | [[MA111]], [[MN13]], [[MN14]], [[SN1.34]], [[MN139]], [[SN36.20]], [[SN36.19]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.63]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.63]]
 > ◄  [[an6.62-deepseek-pali]] 📜  [[an6.64-deepseek-pali]] ►

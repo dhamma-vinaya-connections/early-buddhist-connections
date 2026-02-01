@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG257-PALI"
+sutta_code: "THAG257"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG257-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG257]]
 > ◄  [[thag256-pali-pts]] 📜  [[thag258-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ Saṃsaraṃ hi nirayaṃ agacchisaṃ, petalokam agamaṃ punappunaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag257-) 
 

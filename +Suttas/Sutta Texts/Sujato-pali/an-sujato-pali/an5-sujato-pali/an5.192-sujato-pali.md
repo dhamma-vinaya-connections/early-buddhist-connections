@@ -3,11 +3,11 @@ sutta_code: "AN5.192"
 sutta_title:
   - "Doṇabrāhmaṇa "
   - "With The Brahmin Doṇa"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
 > ◄  [[an5.191-sujato-pali]] 📜  [[an5.193-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -217,8 +217,7 @@ Dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.192-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -229,6 +228,5 @@ Dutiyaṁ.
 | [[MA158]], [[DN13]], [[DN3]], [[MN95]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
 > ◄  [[an5.191-sujato-pali]] 📜  [[an5.193-sujato-pali]] ►

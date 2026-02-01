@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.11-PALI"
+sutta_code: "SN7.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kasibhāradvājasutta "
+  - "Kasi Bharadvaja"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
 > ◄  [[sn7.10-pali-sc]] 📜  [[sn7.12-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -74,6 +74,16 @@ Khettañhi taṁ puññapekkhassa hotī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SNP1.4]] | [[SA-2.264]], [[SA-3.1]], [[SA98]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP1.4]], [[SNP3.4]], [[SN7.8]], [[SN7.9]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
+> ◄  [[sn7.10-pali-sc]] 📜  [[sn7.12-pali-sc]] ►

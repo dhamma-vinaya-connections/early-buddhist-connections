@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.33-PALI"
+sutta_code: "AN4.33"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Siha "
+  - "Lion"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.33-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.33]]
 > ◄  [[an4.32-pali-pts]] 📜  [[an4.34-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Ye pi te bhikkhave rañño nāgā gāmanigamarājadhānīsu daḷhehi varattehi 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.33-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN22.78]] |  | A ii 33 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN22.78]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.33]]
+> ◄  [[an4.32-pali-pts]] 📜  [[an4.34-pali-pts]] ►

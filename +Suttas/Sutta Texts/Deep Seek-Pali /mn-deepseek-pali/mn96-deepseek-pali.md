@@ -4,10 +4,10 @@ sutta_title:
   - "Esukārī Sutta "
   - "With Esukārī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN96]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN96]]
 > ◄  [[mn95-deepseek-pali]] 📜  [[mn97-deepseek-pali]] ►
 
 # 96. Esukārīsuttaṃ
@@ -99,8 +99,7 @@ The Esukārī Sutta, the Sixth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn96-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -115,6 +114,5 @@ The Esukārī Sutta, the Sixth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN30]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN96]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN96]]
 > ◄  [[mn95-deepseek-pali]] 📜  [[mn97-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG17-PALI"
+sutta_code: "THAG17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Tiṁsanipātavagga "
+  - "Thirties Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG17]]
 > ◄  [[thag16-pali-sri]] 📜  [[thag18-pali-sri]] ►
 
 # 30-Timsa nipatha-p
@@ -605,6 +605,5 @@ Tiṃsatinipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag17-) 
 

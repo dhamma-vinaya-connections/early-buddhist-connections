@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5-PALI"
+sutta_code: "SNP5"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5]]
 > ◄  [[snp4-pali-sri]] 📜  [[]] ►
 
 # 5. Parayana-vagga - Pali
@@ -1237,6 +1237,5 @@ Suttanipāto samatto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5-) 
 

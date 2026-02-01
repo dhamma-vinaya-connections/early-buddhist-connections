@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG305-PALI"
+sutta_code: "THIG305"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG305-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG305]]
 > ◄  [[thig304-pali-pts]] 📜  [[thig306-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ sabbadukkhappahānāya dhammaṃ desesi pāṇinaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig305-) 
 

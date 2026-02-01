@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.9-PALI"
+sutta_code: "SNP4.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Māgaṇḍiyasutta "
+  - "With Māgaṇḍiya"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
 > ◄  [[snp4.8-pali-sc]] 📜  [[snp4.10-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -102,6 +102,20 @@ Māgaṇḍiyasuttaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN22.3]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN9]], [[MN63]], [[MN72]], [[AN4.194]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
+> ◄  [[snp4.8-pali-sc]] 📜  [[snp4.10-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.12-PALI"
+sutta_code: "AN3.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sāraṇīya "
+  - "Commemoration"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.12]]
 > ◄  [[an3.11-pali-sri]] 📜  [[an3.13-pali-sri]] ►
 
 # 5:12 Andhakavindavaggo - Pali
@@ -252,6 +252,11 @@ Macchari vaṇṇanā issā diṭṭhivācāya vāyāmāti. 1
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 106 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.12]]
+> ◄  [[an3.11-pali-sri]] 📜  [[an3.13-pali-sri]] ►

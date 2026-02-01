@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN113-PALI"
+sutta_code: "MN113"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sappurisa Sutta "
+  - "Good Person"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN113-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN113]]
 > ◄  [[mn112-pali-sri]] 📜  [[mn114-pali-sri]] ►
 
 # 113. Sappurisa - Pali
@@ -152,6 +152,20 @@ Next Sutta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn113-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA17.9]]; [[MA85]] | M iii 37 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA17.9]]; [[MA85]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN2.31]], [[AN4.73]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN113]]
+> ◄  [[mn112-pali-sri]] 📜  [[mn114-pali-sri]] ►

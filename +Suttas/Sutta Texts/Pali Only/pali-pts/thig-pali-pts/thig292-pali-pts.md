@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG292-PALI"
+sutta_code: "THIG292"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG292-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG292]]
 > ◄  [[thig291-pali-pts]] 📜  [[thig293-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ mā me kujjha mahāvīra mā me kujjha mahāmuni |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig292-) 
 

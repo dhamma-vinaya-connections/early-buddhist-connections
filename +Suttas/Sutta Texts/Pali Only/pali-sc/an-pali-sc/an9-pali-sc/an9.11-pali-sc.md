@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.11-PALI"
+sutta_code: "AN9.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sīhanāda "
+  - "Sāriputta’s Lion’s Roar"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
 > ◄  [[an9.10-pali-sc]] 📜  [[an9.12-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -95,6 +95,16 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA37.6]], [[MA24]] | A iv 373 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA37.6]], [[MA24]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
+> ◄  [[an9.10-pali-sc]] 📜  [[an9.12-pali-sc]] ►

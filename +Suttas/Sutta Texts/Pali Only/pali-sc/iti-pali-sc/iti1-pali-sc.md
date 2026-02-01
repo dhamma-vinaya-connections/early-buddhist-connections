@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI1-PALI"
+sutta_code: "ITI1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Lobha "
+  - "Greed"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI1]]
 > ◄  [[]] 📜  [[iti2-pali-sc]] ►
 
 # Iti 1. Lobhasuttaṃ
@@ -25,6 +25,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Paṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti1-) 
 

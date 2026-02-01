@@ -4,10 +4,10 @@ sutta_title:
   - "Taṇhuppāda "
   - "Arousing Craving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI105]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI105]]
 > ◄  [[iti104-deepseek-pali]] 📜  [[iti106-deepseek-pali]] ►
 
 # Iti 105 Bahukārasuttaṃ
@@ -33,8 +33,7 @@ This matter, too, was spoken by the Blessed One: so I have heard. Eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti105-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ This matter, too, was spoken by the Blessed One: so I have heard. Eighth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.9]], [[AN4.27]], [[AN4.28]], [[SN3.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI105]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI105]]
 > ◄  [[iti104-deepseek-pali]] 📜  [[iti106-deepseek-pali]] ►

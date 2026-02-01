@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN93-PALI"
+sutta_code: "MN93"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Assalāyana Sutta "
+  - "With Assalāyana"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn92-pali-sc]] 📜  [[mn94-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -207,6 +207,16 @@ Te hi nāma, assalāyana, satta brāhmaṇisayo asitena devalena isinā sake jā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn93-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA40.9]]; [[MA151]] | M ii 147 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA40.9]]; [[MA151]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
+> ◄  [[mn92-pali-sc]] 📜  [[mn94-pali-sc]] ►

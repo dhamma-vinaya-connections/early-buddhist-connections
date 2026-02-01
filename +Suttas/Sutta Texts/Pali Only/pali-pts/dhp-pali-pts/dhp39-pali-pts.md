@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP39-PALI"
+sutta_code: "DHP39"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP39-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP39]]
 > ◄  [[dhp38-pali-pts]] 📜  [[dhp40-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ kumbhūpamaṃ kāyam imaṃ viditvā nagarūpamaṃ cittam idaṃ ṭhapetvā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp39-) 
 

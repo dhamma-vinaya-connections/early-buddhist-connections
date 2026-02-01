@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
 > ◄  [[mn143-bodhi]] 📜  [[mn145-bodhi]] ►
 
 # MN144 Channovāda Sutta - Advice to Channa
@@ -59,8 +59,7 @@ That is what the Blessed One said. The venerable Sāriputta was satisfied and d
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn144-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ That is what the Blessed One said. The venerable Sāriputta was satisfied and d
 | [[SA1266]]; [[SN35.87]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
 > ◄  [[mn143-bodhi]] 📜  [[mn145-bodhi]] ►

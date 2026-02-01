@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI71-PALI"
+sutta_code: "ITI71"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sammādiṭṭhika "
+  - "Right View"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI71-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI71]]
 > ◄  [[iti70-pali-pts]] 📜  [[iti72-pali-pts]] ►
 
 ## Itivuttaka
@@ -31,6 +31,5 @@ _VAGGO III., SUTTAṂ 4. 61_
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti71-) 
 

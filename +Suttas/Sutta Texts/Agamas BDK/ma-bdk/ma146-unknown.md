@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA146]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA146]]
 > ◄  [[ma145]] 📜  [[ma147]] ►
 
 ### 146. The Discourse on the Simile of the Elephant’s Footprint
@@ -51,8 +51,7 @@ me as a lay disciple from this day forth until the end of life, as having person
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma146-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -62,6 +61,5 @@ me as a lay disciple from this day forth until the end of life, as having person
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA146]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA146]]
 > ◄  [[ma145]] 📜  [[ma147]] ►

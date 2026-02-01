@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG540-PALI"
+sutta_code: "THAG540"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG540-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG540]]
 > ◄  [[thag539-pali-pts]] 📜  [[thag541-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ekākiyo adutiyo ramaṇīye mahāvane
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag540-) 
 

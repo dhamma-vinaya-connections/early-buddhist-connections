@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.11-PALI"
+sutta_code: "SN8.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Gaggarāsutta "
+  - "Gaggara"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.11]]
 > ◄  [[sn8.10-pali-sc]] 📜  [[sn8.12-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -34,6 +34,16 @@ Atirocasi yasasā sabbalokan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.224]], [[SA1208]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.224]], [[SA1208]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.11]]
+> ◄  [[sn8.10-pali-sc]] 📜  [[sn8.12-pali-sc]] ►

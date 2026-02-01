@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN109-PALI"
+sutta_code: "MN109"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahāpuṇṇama Sutta "
+  - "Longer Discourse on the Full-Moon Night"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
 > ◄  [[mn108-pali-sri]] 📜  [[mn110-pali-sri]] ►
 
 # 109. Mahapunnama - Pali
@@ -208,6 +208,16 @@ Next Sutta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn109-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN22.82]] | [[SA58]] | M iii 15 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA58]]; [[SN22.82]]; [[AN4.200]]; [[MN44]]; [[SN22.44]]; [[SN41.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
+> ◄  [[mn108-pali-sri]] 📜  [[mn110-pali-sri]] ►

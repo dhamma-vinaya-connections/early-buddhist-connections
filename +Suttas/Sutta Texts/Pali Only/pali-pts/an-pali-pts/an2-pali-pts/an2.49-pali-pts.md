@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.49-PALI"
+sutta_code: "AN2.49"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Parisa "
+  - "Assemblies"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.49-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.49]]
 > ◄  [[an2.48-pali-pts]] 📜  [[an2.50-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -30,6 +30,11 @@ Imā kho bhikkhave dve parisā. Etadaggaṃ bhikkhave imāsaṃ dvinnaṃ paris�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.49-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 74 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.49]]
+> ◄  [[an2.48-pali-pts]] 📜  [[an2.50-pali-pts]] ►

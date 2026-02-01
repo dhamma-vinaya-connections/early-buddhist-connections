@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1116-PALI"
+sutta_code: "THAG1116"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1116-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1116]]
 > ◄  [[thag1115-pali-pts]] 📜  [[thag1117-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ aniccaṃ dukkhan ti vipassa yoniso suññaṃ anattā 'ti aghaṃ vadhan ti ca,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1116-) 
 

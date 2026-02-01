@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG198-PALI"
+sutta_code: "THIG198"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG198-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG198]]
 > ◄  [[thig197-pali-pts]] 📜  [[thig199-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ kālaṃ kālaṃ bhavā bhavaṃ sakkāyasmiṃ purakkhatā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig198-) 
 

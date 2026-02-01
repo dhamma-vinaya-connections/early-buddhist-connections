@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG714-PALI"
+sutta_code: "THAG714"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG714-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG714]]
 > ◄  [[thag713-pali-pts]] 📜  [[thag715-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ na me hoti ahosin ti, bhavissan ti na hoti me;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag714-) 
 

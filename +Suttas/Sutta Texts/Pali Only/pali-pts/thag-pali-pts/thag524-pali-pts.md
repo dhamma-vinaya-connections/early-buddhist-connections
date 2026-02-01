@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG524-PALI"
+sutta_code: "THAG524"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG524-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG524]]
 > ◄  [[thag523-pali-pts]] 📜  [[thag525-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yadā vitakke uparundhiy'; attano nagantare nagavivaraṃ samassito
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag524-) 
 

@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[AN8.62]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[AN8.62]]"
+parallels_nikaya: "[[AN8.62]]"
+parallels_agama: ""
+parallels_partilal: "[[AN8.62]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.77]]  🌐 [[AN8.79]] ►
 
@@ -64,8 +60,7 @@ Merit grows by generosity
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.78-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,8 +72,7 @@ Merit grows by generosity
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN8.78%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN8.78%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -89,7 +83,7 @@ Merit grows by generosity
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN8.78%5D%5D%22%23mynotes%20-file%3Aan8.78-%20-file%3A%22AN8.77%22%20-file%3A%22AN8.79%22%20-file%3A%22AN8.78%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an8.78/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.78

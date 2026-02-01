@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN32-PALI"
+sutta_code: "MN32"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahāgosiṅga Sutta "
+  - "Discourse at Gosiṅga Longer"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
 > ◄  [[mn31-pali-sc]] 📜  [[mn33-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -103,6 +103,16 @@ Evameva kho, āvuso moggallāna, bhikkhu cittaṁ vasaṁ vatteti, no ca bhikkhu
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn32-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA37.3]]; [[MA184]] | M i 212 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA37.3]]; [[MA184]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
+> ◄  [[mn31-pali-sc]] 📜  [[mn33-pali-sc]] ►

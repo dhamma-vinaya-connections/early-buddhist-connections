@@ -4,10 +4,10 @@ sutta_title:
   - "Moneyya "
   - "Perfection"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI67]]
 > ◄  [[iti66-deepseek-pali]] 📜  [[iti68-deepseek-pali]] ►
 
 # Iti 67 Paṭhamarāgasuttaṃ
@@ -27,8 +27,7 @@ This meaning too was spoken by the Blessed One, so I have heard. Ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti67-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ This meaning too was spoken by the Blessed One, so I have heard. Ninth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN24]], [[AN3:122]], [[AN3:123]], [[SN1.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI67]]
 > ◄  [[iti66-deepseek-pali]] 📜  [[iti68-deepseek-pali]] ►

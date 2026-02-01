@@ -3,11 +3,11 @@ sutta_code: "MN141"
 sutta_title:
   - "Saccavibhaṅga Sutta "
   - "Analysis of the Truths"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN141]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN141]]
 > ◄  [[mn140-sujato-pali]] 📜  [[mn142-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -191,8 +191,7 @@ Saccavibhaṅgasuttaṁ niṭṭhitaṁ ekādasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn141-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -207,6 +206,5 @@ Saccavibhaṅgasuttaṁ niṭṭhitaṁ ekādasamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA31]], [[MN117]], [[DN22]]; [[SN12.20]]; [[SN56.11]]; [[AN3.134]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN141]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN141]]
 > ◄  [[mn140-sujato-pali]] 📜  [[mn142-sujato-pali]] ►

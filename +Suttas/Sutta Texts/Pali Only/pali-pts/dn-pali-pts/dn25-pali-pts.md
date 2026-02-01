@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN25-PALI"
+sutta_code: "DN25"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Udumbarika Sutta "
+  - "Lion’s Roar at Udumbarikā’s Monastery"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN25-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN25]]
 > ◄  [[dn24-pali-pts]] 📜  [[dn26-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -177,6 +177,16 @@ Udumbarika-Sīhanāda-Suttantaṃ Dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn25-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA8]], [[MA104]] | D iii 36 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA8]], [[MA104]], [[DN8]], [[MN12]], [[MN45]], [[MN51]], [[MN60]], [[AN3.156-162]], [[AN4.198]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN25]]
+> ◄  [[dn24-pali-pts]] 📜  [[dn26-pali-pts]] ►

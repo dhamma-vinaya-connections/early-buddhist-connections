@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN72-PALI"
+sutta_code: "MN72"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Aggivaccha Sutta "
+  - "Vacchagotta on Fire"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72]]
 > ◄  [[mn71-pali-sc]] 📜  [[mn73-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -124,6 +124,20 @@ Abhikkantaṁ, bho gotama … pe … upāsakaṁ maṁ bhavaṁ gotamo dhāretu 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn72-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.196]]; [[SA962]] | M i 483 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.196]]; [[SA962]]; [[SN44.1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.24]]; [[AN4.42]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72]]
+> ◄  [[mn71-pali-sc]] 📜  [[mn73-pali-sc]] ►

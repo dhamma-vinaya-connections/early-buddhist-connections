@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG232-PALI"
+sutta_code: "THIG232"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG232-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG232]]
 > ◄  [[thig231-pali-pts]] 📜  [[thig233-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ cittamhi vasībhūtāhaṃ iddhipādā subhāvitā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig232-) 
 

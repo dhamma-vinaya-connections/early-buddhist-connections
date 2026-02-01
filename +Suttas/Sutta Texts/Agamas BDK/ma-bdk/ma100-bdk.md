@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA100]]
 > ◄  [[ma99-bdk]] 📜  [[ma101-bdk]] ►
 
 ### 100. The [Second] Discourse on the Mass of Dukkha
@@ -33,8 +33,7 @@ five,... four,... three,... two days,... or one day and one night?” The Niga�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma100-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ five,... four,... three,... two days,... or one day and one night?” The Niga�
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.30]], [[AN6.63]], [[MA99]], [[MN54]], [[SN35.115]], [[SN35.189]], [[SN35.63]], [[SN36.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA100]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA100]]
 > ◄  [[ma99-bdk]] 📜  [[ma101-bdk]] ►

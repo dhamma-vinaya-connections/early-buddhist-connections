@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.61]]
 > ◄  [[an3.58-thanissaro]] 📜  [[an3.62-thanissaro]] ►
 
 ## AN3.61 To Saṅgārava
@@ -84,8 +84,7 @@ So the Blessed One said to the brahman Saṅgārava, “Brahman, what was the to
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.61-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -100,6 +99,5 @@ So the Blessed One said to the brahman Saṅgārava, “Brahman, what was the to
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN101]], [[MA19]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.61]]
 > ◄  [[an3.58-thanissaro]] 📜  [[an3.62-thanissaro]] ►

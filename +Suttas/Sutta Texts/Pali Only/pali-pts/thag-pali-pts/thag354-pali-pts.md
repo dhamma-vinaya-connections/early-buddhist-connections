@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG354-PALI"
+sutta_code: "THAG354"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG354-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG354]]
 > ◄  [[thag353-pali-pts]] 📜  [[thag355-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Olaggessāmi te citta āṇidvāre va hatthinaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag354-) 
 

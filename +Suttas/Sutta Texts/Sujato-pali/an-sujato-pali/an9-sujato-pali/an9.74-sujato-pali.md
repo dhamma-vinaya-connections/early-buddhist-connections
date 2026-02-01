@@ -3,11 +3,11 @@ sutta_code: "AN9.74"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.74]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.74]]
 > ◄  [[an9.73-sujato-pali]] 📜  [[an9.83-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -27,6 +27,5 @@ Parallel to 9:64–9:72, but formulated by way of the four right strivings.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.74-) 
 

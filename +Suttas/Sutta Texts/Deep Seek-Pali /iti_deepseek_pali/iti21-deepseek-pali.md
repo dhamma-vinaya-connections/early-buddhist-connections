@@ -4,10 +4,10 @@ sutta_title:
   - "Pasannacitta "
   - "Confident Mind"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI21]]
 > ◄  [[iti20-deepseek-pali]] 📜  [[iti22-deepseek-pali]] ►
 
 # Iti 21 Mettasuttaṃ
@@ -33,8 +33,7 @@ This meaning too was spoken by the Blessed One, thus I have heard. Second.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This meaning too was spoken by the Blessed One, thus I have heard. Second.
 | [[AN1.44]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI21]]
 > ◄  [[iti20-deepseek-pali]] 📜  [[iti22-deepseek-pali]] ►

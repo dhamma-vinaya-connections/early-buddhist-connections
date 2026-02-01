@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.23-PALI"
+sutta_code: "SN1.23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Jaṭāsutta "
+  - "Tangle"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.23]]
 > ◄  [[sn1.22-pali-sc]] 📜  [[sn1.24-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -63,6 +63,16 @@ etthesā chijjate jaṭā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.23-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.173]], [[SA599]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN7.6]], [[JA497]], [[SN11.19]], [[SA-2.173]], [[SA599]], [[PE2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.23]]
+> ◄  [[sn1.22-pali-sc]] 📜  [[sn1.24-pali-sc]] ►

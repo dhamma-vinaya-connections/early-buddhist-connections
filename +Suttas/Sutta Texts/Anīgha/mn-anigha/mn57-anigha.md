@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
 > ◄  [[mn56-anigha]] 📜  [[mn58-anigha]] ►
 
 # MN 57 - The Ascetic Who Behaved Like a Dog
@@ -84,8 +84,7 @@ He understood: “Birth is destroyed; the renunciate life has been lived; what h
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn57-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -100,6 +99,5 @@ He understood: “Birth is destroyed; the renunciate life has been lived; what h
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.235]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
 > ◄  [[mn56-anigha]] 📜  [[mn58-anigha]] ►

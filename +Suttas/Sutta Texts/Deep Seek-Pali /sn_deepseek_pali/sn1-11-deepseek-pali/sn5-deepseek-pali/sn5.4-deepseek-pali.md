@@ -4,10 +4,10 @@ sutta_title:
   - "Vijayāsutta "
   - "Vijaya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
 > ◄  [[sn5.3-deepseek-pali]] 📜  [[sn5.5-deepseek-pali]] ►
 
 # SN 5.4 Vijayāsuttaṃ
@@ -47,8 +47,7 @@ Then Māra the Evil One, knowing, "The bhikkhunī Vijayā knows me," miserable a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then Māra the Evil One, knowing, "The bhikkhunī Vijayā knows me," miserable a
 | [[SA-2.220]], [[SA1204]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
 > ◄  [[sn5.3-deepseek-pali]] 📜  [[sn5.5-deepseek-pali]] ►

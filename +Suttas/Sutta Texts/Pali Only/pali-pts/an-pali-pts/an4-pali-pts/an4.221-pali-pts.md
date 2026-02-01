@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.221-PALI"
+sutta_code: "AN4.221"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Duccarita "
+  - "Bad Conduct"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.221-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.221]]
 > ◄  [[an4.220-pali-pts]] 📜  [[an4.222-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,11 @@ PTS: A ii 228
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.221-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 228 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.221]]
+> ◄  [[an4.220-pali-pts]] 📜  [[an4.222-pali-pts]] ►

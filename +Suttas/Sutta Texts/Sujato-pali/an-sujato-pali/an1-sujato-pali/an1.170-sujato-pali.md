@@ -3,11 +3,11 @@ sutta_code: "AN1.170"
 sutta_title:
   - "Nīvaraṇappahāna "
   - "Giving Up The Hindrances"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.170]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.170]]
 > ◄  [[an1.161-sujato-pali]] 📜  [[an1.171-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -39,8 +39,7 @@ Tathāgato arahaṁ sammāsambuddho. Ayaṁ kho, bhikkhave, ekapuggalo loke uppa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.170-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Tathāgato arahaṁ sammāsambuddho. Ayaṁ kho, bhikkhave, ekapuggalo loke uppa
 | [[EA8.2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.170]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.170]]
 > ◄  [[an1.161-sujato-pali]] 📜  [[an1.171-sujato-pali]] ►

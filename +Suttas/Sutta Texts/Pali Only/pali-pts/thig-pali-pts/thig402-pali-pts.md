@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG402-PALI"
+sutta_code: "THIG402"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG402-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG402]]
 > ◄  [[thig401-pali-pts]] 📜  [[thig403-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ pāsādikāsi ayye Isidāsi vayo pi te aparihīno |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig402-) 
 

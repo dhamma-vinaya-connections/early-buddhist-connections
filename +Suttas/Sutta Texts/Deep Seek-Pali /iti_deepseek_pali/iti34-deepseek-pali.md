@@ -4,10 +4,10 @@ sutta_title:
   - "Ātāpī "
   - "Ardour"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI34]]
 > ◄  [[iti33-deepseek-pali]] 📜  [[iti35-deepseek-pali]] ►
 
 # Iti 34 Paṭhamanakuhanasuttaṃ
@@ -29,6 +29,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The Eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti34-) 
 

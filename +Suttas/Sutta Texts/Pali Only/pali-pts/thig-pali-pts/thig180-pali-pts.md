@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG180-PALI"
+sutta_code: "THIG180"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG180-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG180]]
 > ◄  [[thig179-pali-pts]] 📜  [[thig181-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ Sakkaṃ va devā tidasā saṃgāme aparājitaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig180-) 
 

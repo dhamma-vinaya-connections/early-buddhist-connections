@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG362-PALI"
+sutta_code: "THAG362"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG362-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG362]]
 > ◄  [[thag361-pali-pts]] 📜  [[thag363-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ upārambhacitto dummedho suṇāti jinasāsanaṃ:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag362-) 
 

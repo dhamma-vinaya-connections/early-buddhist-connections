@@ -4,10 +4,10 @@ sutta_title:
   - "Sappurisa "
   - "Good Person"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.42]]
 > ◄  [[an5.41-deepseek-pali]] 📜  [[an5.43-deepseek-pali]] ►
 
 # AN 5.42 Sappurisasuttaṃ
@@ -35,8 +35,7 @@ One established in the Dhamma, accomplished in virtue, truthful, conscientious, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.42-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ One established in the Dhamma, accomplished in virtue, truthful, conscientious, 
 | [[AN8.38]], [[DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.42]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.42]]
 > ◄  [[an5.41-deepseek-pali]] 📜  [[an5.43-deepseek-pali]] ►

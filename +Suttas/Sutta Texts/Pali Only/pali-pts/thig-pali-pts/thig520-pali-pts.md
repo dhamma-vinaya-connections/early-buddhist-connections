@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG520-PALI"
+sutta_code: "THIG520"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG520-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG520]]
 > ◄  [[thig519-pali-pts]] 📜  [[thig521-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ so hetu so pabhavo taṃ mūlaṃ satthu sāsane khanti |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig520-) 
 

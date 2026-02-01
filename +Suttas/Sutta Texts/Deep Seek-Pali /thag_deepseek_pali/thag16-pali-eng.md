@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG16-PALI"
+sutta_code: "THAG16"
 sutta_title:
-  - " "
-  - ""
+  - "Vīsatinipātavagga "
+  - "Twenties Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG16]]
 > ◄  [[thag15-pali-eng]] 📜  [[thag17-pali-eng]] ►
 
 # Thag 16. Vīsatinipāto
@@ -1203,6 +1203,5 @@ The Chapter of the Twenties is concluded. Tatruddānaṃ – The summary: Adhimu
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag16-) 
 

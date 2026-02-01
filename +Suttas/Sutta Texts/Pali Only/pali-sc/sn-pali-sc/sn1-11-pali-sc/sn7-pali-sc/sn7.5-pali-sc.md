@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.5-PALI"
+sutta_code: "SN7.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ahiṁsakasutta "
+  - "Ahiṁsaka"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.5]]
 > ◄  [[sn7.4-pali-sc]] 📜  [[sn7.6-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -34,6 +34,20 @@ yo paraṁ na vihiṁsatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.79]], [[SA-3.26]], [[SA1156]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.79]], [[SA-3.26]], [[SA1156]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[THAG6.12]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.5]]
+> ◄  [[sn7.4-pali-sc]] 📜  [[sn7.6-pali-sc]] ►

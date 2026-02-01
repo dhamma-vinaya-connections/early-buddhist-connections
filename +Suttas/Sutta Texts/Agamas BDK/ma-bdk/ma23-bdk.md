@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA23]]
 > ◄  [[ma22-bdk]] 📜  [[ma24-bdk]] ►
 
 ### 23. The Discourse on Wisdom
@@ -75,8 +75,7 @@ Soon after the World-honored One returned to his hut, Venerable Sāriputta made 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ Soon after the World-honored One returned to his hut, Venerable Sāriputta made 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[MN74]], [[SN12.2]], [[SN12:12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA23]]
 > ◄  [[ma22-bdk]] 📜  [[ma24-bdk]] ►

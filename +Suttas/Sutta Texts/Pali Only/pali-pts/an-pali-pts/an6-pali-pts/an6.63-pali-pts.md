@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.63-PALI"
+sutta_code: "AN6.63"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nibbedhika "
+  - "Penetrative"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.63-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.63]]
 > ◄  [[an6.62-pali-pts]] 📜  [[an6.64-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Nibbedhikapariyāyaṃ vo bhikkhave dhammapariyāyaṃ desessāmi, taṃ suṇā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.63-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA111]] | A iii 410 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA111]], [[MN13]], [[MN14]], [[SN1.34]], [[MN139]], [[SN36.20]], [[SN36.19]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.63]]
+> ◄  [[an6.62-pali-pts]] 📜  [[an6.64-pali-pts]] ►

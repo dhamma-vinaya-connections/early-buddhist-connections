@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
 > ◄  [[sn1.25-thanissaro]] 📜  [[sn1.38-thanissaro]] ►
 
 ## SN1.36 Conviction
@@ -48,8 +48,7 @@ attains the foremost ease.[3](#sn1.36note03)
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -60,6 +59,5 @@ attains the foremost ease.[3](#sn1.36note03)
 | [[SA-2.284]], [[SA1286]], [[DHP221]], [[SN1.34]], [[DHP26]], [[MN86]], [[THAG16.8]], [[DHP27]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
 > ◄  [[sn1.25-thanissaro]] 📜  [[sn1.38-thanissaro]] ►

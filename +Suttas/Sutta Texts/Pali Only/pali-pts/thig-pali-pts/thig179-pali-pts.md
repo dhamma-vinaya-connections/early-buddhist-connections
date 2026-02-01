@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG179-PALI"
+sutta_code: "THIG179"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG179-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG179]]
 > ◄  [[thig178-pali-pts]] 📜  [[thig180-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ rattiyā pacchime yāme tamokkhandhaṃ padālayiṃ. |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig179-) 
 

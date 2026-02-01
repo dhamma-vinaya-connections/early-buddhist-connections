@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1269-PALI"
+sutta_code: "THAG1269"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1269-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1269]]
 > ◄  [[thag1268-pali-pts]] 📜  [[thag1270-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ khippaṃ giraṃ eraya vaggu vagguṃ haṃso va paggayha sanikaṃ nikūjaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1269-) 
 

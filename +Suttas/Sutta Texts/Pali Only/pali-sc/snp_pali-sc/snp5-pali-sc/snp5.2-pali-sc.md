@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.2-PALI"
+sutta_code: "SNP5.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ajitamāṇavapucchā "
+  - "Questions of the Student Ajita"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.2]]
 > ◄  [[snp5.1-pali-sc]] 📜  [[snp5.3-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -69,6 +69,20 @@ Ajitamāṇavapucchā paṭhamā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[PE1]], [[PE5]], [[SN12.31]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN11]], [[DN15]], [[MN49]], [[ANDSN12:67]], [[SN12.31]], [[SNP5.14]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.2]]
+> ◄  [[snp5.1-pali-sc]] 📜  [[snp5.3-pali-sc]] ►

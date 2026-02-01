@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG233-PALI"
+sutta_code: "THAG233"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG233-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG233]]
 > ◄  [[thag232-pali-pts]] 📜  [[thag234-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Ye cittakathī bahussutā samaṇā Pāṭaliputtavāsino
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag233-) 
 

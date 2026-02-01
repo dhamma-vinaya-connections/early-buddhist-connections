@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN75-PALI"
+sutta_code: "MN75"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Māgaṇḍiya Sutta "
+  - "Māgaṇḍiya"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
 > ◄  [[mn74-pali-sri]] 📜  [[mn76-pali-sri]] ►
 
 # 75. Magandiya Sutta - Pali
@@ -206,6 +206,16 @@ Māgandiyasuttaṃ pañcamaṃ1.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn75-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP204]] | [[MA153]] | M i 501 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA153]]; [[DHP204]]; [[MN75]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
+> ◄  [[mn74-pali-sri]] 📜  [[mn76-pali-sri]] ►

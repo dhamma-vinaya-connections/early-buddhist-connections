@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP221-PALI"
+sutta_code: "DHP221"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP221-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP221]]
 > ◄  [[dhp220-pali-pts]] 📜  [[dhp222-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yo ve uppatitaṃ kodhaṃ rathaṃ bhantaṃ va dhāraye /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp221-) 
 

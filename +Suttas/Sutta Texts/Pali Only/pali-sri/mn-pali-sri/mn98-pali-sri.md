@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN98-PALI"
+sutta_code: "MN98"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vāseṭṭha Sutta "
+  - "With Vāseṭṭha"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN98-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN98]]
 > ◄  [[mn97-pali-sri]] 📜  [[mn99-pali-sri]] ►
 
 # 98. Vasettha Sutta - Pali
@@ -334,6 +334,16 @@ Vāseṭṭhasuttaṃ aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn98-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP386]]; [[DHP396]]; [[DHP397]]; [[DHP398]]; [[DHP399]]; [[DHP400]]; [[DHP401]]; [[DHP402]]; [[DHP403]]; [[DHP404]]; [[DHP405]]; [[DHP406]]; [[DHP407]]; [[DHP408]]; [[DHP409]]; [[DHP410]]; [[DHP411]]; [[DHP412]]; [[DHP413]]; [[DHP414]]; [[DHP415]]; [[DHP416]]; [[DHP417]]; [[DHP418]]; [[DHP419]]; [[DHP420]]; [[DHP421]]; [[DHP422]]; [[DHP423]]; [[SNP3.9]] |  | M ii 196 |
+> > [!check]- Partial parallels 
+> > 
+| [[SNP3.9]]; [[DHP386]]; [[SNP5.14]]; [[DHP396]]; [[DHP397]]; [[DHP398]]; [[DHP399]]; [[DHP400]]; [[DHP401]]; [[DHP402]]; [[DHP403]]; [[DHP404]]; [[DHP405]]; [[DHP406]]; [[DHP407]]; [[DHP408]]; [[DHP409]]; [[DHP410]]; [[DHP411]]; [[DHP412]]; [[DHP413]]; [[DHP414]]; [[DHP415]]; [[DHP416]]; [[DHP417]]; [[DHP418]]; [[DHP419]]; [[DHP420]]; [[DHP421]]; [[DHP422]]; [[DHP423]]; [[AN3.58]]; [[AN3.59]]; [[ITI99]]; [[MN91]]; [[SN7.13]]; [[SN7.8]]; [[THIG4.1]]; [[PE2]]; [[THAG12.2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN98]]
+> ◄  [[mn97-pali-sri]] 📜  [[mn99-pali-sri]] ►

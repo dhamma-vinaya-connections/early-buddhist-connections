@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG908-PALI"
+sutta_code: "THAG908"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG908-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG908]]
 > ◄  [[thag907-pali-pts]] 📜  [[thag909-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ yassa muhutte sahassadā loko saṃvidito, sa Brahmakappo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag908-) 
 

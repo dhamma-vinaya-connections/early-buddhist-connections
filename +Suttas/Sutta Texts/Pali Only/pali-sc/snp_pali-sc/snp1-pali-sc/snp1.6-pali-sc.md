@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.6-PALI"
+sutta_code: "SNP1.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Parābhavasutta "
+  - "Downfalls"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
 > ◄  [[snp1.5-pali-sc]] 📜  [[snp1.7-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -148,6 +148,7 @@ Parābhavasuttaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
+> ◄  [[snp1.5-pali-sc]] 📜  [[snp1.7-pali-sc]] ►

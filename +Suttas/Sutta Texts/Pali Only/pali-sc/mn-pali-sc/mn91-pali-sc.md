@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN91-PALI"
+sutta_code: "MN91"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Brahmāyu Sutta "
+  - "With Brahmāyu"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN91-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN91]]
 > ◄  [[mn90-pali-sc]] 📜  [[mn92-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -276,6 +276,20 @@ Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitv�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn91-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP423]] | [[MA161]] | M ii 133 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA161]]; [[DN19]]; [[DHP423]]; [[AN3.58]]; [[AN3.59]]; [[ITI99]]; [[MN98]]; [[SNP3.9]]; [[SN7.13]]; [[SN7.8]]; [[THIG4.1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN30]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN91]]
+> ◄  [[mn90-pali-sc]] 📜  [[mn92-pali-sc]] ►

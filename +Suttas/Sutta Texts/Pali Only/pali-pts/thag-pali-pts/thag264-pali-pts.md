@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG264-PALI"
+sutta_code: "THAG264"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG264-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG264]]
 > ◄  [[thag260-pali-pts]] 📜  [[thag267-pali-pts]] ►
 
 ## Theragāthā
@@ -33,6 +33,5 @@ Alaṃkatā suvasanā mālinī candanussadā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag264-) 
 

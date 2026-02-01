@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG68-PALI"
+sutta_code: "THAG68"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG68-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG68]]
 > ◄  [[thag67-pali-pts]] 📜  [[thag69-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Sutvāna dhammaṃ mahato mahārasaṃ sabbaññutaññāṇavarena desitaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag68-) 
 

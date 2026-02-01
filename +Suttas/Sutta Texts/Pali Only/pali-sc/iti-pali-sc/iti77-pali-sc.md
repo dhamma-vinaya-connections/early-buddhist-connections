@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI77-PALI"
+sutta_code: "ITI77"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bhidura "
+  - "Fragile"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI77-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI77]]
 > ◄  [[iti76-pali-sc]] 📜  [[iti78-pali-sc]] ►
 
 # Iti 77. Dhātusosaṃsandanasuttaṃ
@@ -35,6 +35,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti77-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI77]]
+> ◄  [[iti76-pali-sc]] 📜  [[iti78-pali-sc]] ►

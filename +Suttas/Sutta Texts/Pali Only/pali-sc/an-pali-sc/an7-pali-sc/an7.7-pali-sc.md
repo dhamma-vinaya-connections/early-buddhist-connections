@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.7-PALI"
+sutta_code: "AN7.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vitthatadhana "
+  - "Wealth In Detail"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.7]]
 > ◄  [[an7.6-pali-sc]] 📜  [[an7.8-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -47,6 +47,20 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iv 6 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN7.5]], [[AN7.6]], [[THAG8.2]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN2.9]], [[SN1.2]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.7]]
+> ◄  [[an7.6-pali-sc]] 📜  [[an7.8-pali-sc]] ►

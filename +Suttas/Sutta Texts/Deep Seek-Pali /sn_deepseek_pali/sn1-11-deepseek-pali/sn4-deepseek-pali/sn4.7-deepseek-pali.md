@@ -4,10 +4,10 @@ sutta_title:
   - "Supatisutta "
   - "Sleep"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.7]]
 > ◄  [[sn4.6-deepseek-pali]] 📜  [[sn4.8-deepseek-pali]] ►
 
 # SN 4.7 Supatisuttaṃ
@@ -35,8 +35,7 @@ Then Māra the Evil One… vanished right there.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Then Māra the Evil One… vanished right there.
 | [[SA-2.26]], [[SA1087]], [[DHP180]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.7]]
 > ◄  [[sn4.6-deepseek-pali]] 📜  [[sn4.8-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN34-PALI"
+sutta_code: "MN34"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cūḷagopālaka Sutta "
+  - "Shorter Discourse on the Cowherd"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-pali-sc]] 📜  [[mn35-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -64,6 +64,16 @@ Pāmojjabahulā hotha,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn34-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA43.6]]; [[SA1248]] | M i 225 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA43.6]]; [[SA1248]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
+> ◄  [[mn33-pali-sc]] 📜  [[mn35-pali-sc]] ►

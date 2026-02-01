@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.156-PALI"
+sutta_code: "AN5.156"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Saddhammasammosa "
+  - "Decline Of The True Teaching ("
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.156-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.156]]
 > ◄  [[an5.155-pali-pts]] 📜  [[an5.157-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Puna ca paraṃ bhikkhave bhikkhū yathāsutaṃ yathāpariyattaṃ dhammaṃ vi
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.156-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 178 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.160]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.156]]
+> ◄  [[an5.155-pali-pts]] 📜  [[an5.157-pali-pts]] ►

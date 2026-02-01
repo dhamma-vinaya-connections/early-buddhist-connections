@@ -3,11 +3,11 @@ sutta_code: "AN6.11"
 sutta_title:
   - "Paṭhamasāraṇīya "
   - "Warm-Hearted"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.11]]
 > ◄  [[an6.10-sujato-pali]] 📜  [[an6.12-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -59,8 +59,7 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Paṭhamaṁ.
 | [[DN33]], [[AN6.12]], [[EA37.1]], [[PLI-TV-PVR4]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.11]]
 > ◄  [[an6.10-sujato-pali]] 📜  [[an6.12-sujato-pali]] ►

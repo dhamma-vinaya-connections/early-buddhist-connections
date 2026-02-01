@@ -4,10 +4,10 @@ sutta_title:
   - "Tatiyanibbana Sutta "
   - "Nibbāna (3)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.3]]
 > ◄  [[ud8.2-deepseek-pali]] 📜  [[ud8.4-deepseek-pali]] ►
 
 # Ud 8.3 Tatiyanibbānapaṭisaṃyuttasuttaṃ
@@ -31,9 +31,7 @@ Then, having understood this meaning, on that occasion the Blessed One uttered t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.3-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.3]]
 > ◄  [[ud8.2-deepseek-pali]] 📜  [[ud8.4-deepseek-pali]] ►

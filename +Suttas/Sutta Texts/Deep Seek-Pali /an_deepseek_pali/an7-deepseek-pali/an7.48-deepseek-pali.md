@@ -4,10 +4,10 @@ sutta_title:
   - "Sañña "
   - "Perceptions"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.48]]
 > ◄  [[an7.47-deepseek-pali]] 📜  [[an7.49-deepseek-pali]] ►
 
 # AN 7.48 Paṭhamasaññāsuttaṃ
@@ -27,8 +27,7 @@ What are the seven? The perception of unattractiveness, the perception of death,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.48-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ What are the seven? The perception of unattractiveness, the perception of death,
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.70]], [[AN9.16]], [[AN10.60]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.48]]
 > ◄  [[an7.47-deepseek-pali]] 📜  [[an7.49-deepseek-pali]] ►

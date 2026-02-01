@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.13-PALI"
+sutta_code: "AN4.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Duccarita "
+  - "Conduct Bad And Good"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.13]]
 > ◄  [[an4.12-pali-sc]] 📜  [[an4.14-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -39,6 +39,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.275]], [[AN4.69]] | [[SA875]], [[SA876]] | A ii 141 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.69]], [[SA875]], [[SA876]], [[AN4.275]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.13]]
+> ◄  [[an4.12-pali-sc]] 📜  [[an4.14-pali-sc]] ►

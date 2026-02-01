@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG932-PALI"
+sutta_code: "THAG932"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG932-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG932]]
 > ◄  [[thag931-pali-pts]] 📜  [[thag933-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ pariccajitvā saddhammaṃ aññamaññehi bhaṇḍare,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag932-) 
 

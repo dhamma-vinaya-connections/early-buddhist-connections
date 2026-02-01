@@ -4,10 +4,10 @@ sutta_title:
   - "Sallasutta "
   - "Dart"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.8]]
 > ◄  [[snp3.7-deepseek-pali]] 📜  [[snp3.9-deepseek-pali]] ►
 
 # Snp 3.8 Sallasuttaṃ
@@ -143,8 +143,7 @@ The Discourse on the Dart, the eighth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -159,6 +158,5 @@ The Discourse on the Dart, the eighth, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN82]], [[MN87]], [[SN21.2]], [[SN36.6]], [[SN47.13]], [[AN5.49]], [[UD8.8]], [[THIG3.5]], [[THIG6.1]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.8]]
 > ◄  [[snp3.7-deepseek-pali]] 📜  [[snp3.9-deepseek-pali]] ►

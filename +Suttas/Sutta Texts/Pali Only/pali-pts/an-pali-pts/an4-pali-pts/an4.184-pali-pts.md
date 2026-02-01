@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.184-PALI"
+sutta_code: "AN4.184"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Abhaya "
+  - "Fearless"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.184-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.184]]
 > ◄  [[an4.183-pali-pts]] 📜  [[an4.185-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,15 @@ Atha kho Vassakāro brāhmaṇo Magadhamahāmatto Bhagavato bhāsitaṃ abhinand
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.184-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A ii 173 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[ITI30]], [[ITI31.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.184]]
+> ◄  [[an4.183-pali-pts]] 📜  [[an4.185-pali-pts]] ►

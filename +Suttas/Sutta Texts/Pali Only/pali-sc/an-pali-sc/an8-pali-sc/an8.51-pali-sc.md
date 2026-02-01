@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.51-PALI"
+sutta_code: "AN8.51"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Gotamī "
+  - "With Gotamī"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.51-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.51]]
 > ◄  [[an8.50-pali-sc]] 📜  [[an8.52-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -129,6 +129,20 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.51-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA116]] | A iv 274 |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD20]], [[MA116]], [[PLI-TV-BU-VB-PC21]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN143]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.51]]
+> ◄  [[an8.50-pali-sc]] 📜  [[an8.52-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.181-PALI"
+sutta_code: "AN4.181"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Yodhājīva "
+  - "Warrior"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.181-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.181]]
 > ◄  [[an4.180-pali-pts]] 📜  [[an4.182-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -27,6 +27,16 @@ Cetanā vibhatti Koṭṭhika|| Ānanda-Upavāna pañcamaṃ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.181-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.133]] |  | A ii 170 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN3.133]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.181]]
+> ◄  [[an4.180-pali-pts]] 📜  [[an4.182-pali-pts]] ►

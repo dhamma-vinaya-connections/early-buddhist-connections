@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP16-PALI"
+sutta_code: "DHP16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Piyavagga "
+  - "Dear"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP16]]
 > ◄  [[dhp15-pali-pts]] 📜  [[dhp17-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,11 @@ idha tappati pecca tappati pāpakārī ubhayattha tappati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp16-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 60 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP16]]
+> ◄  [[dhp15-pali-pts]] 📜  [[dhp17-pali-pts]] ►

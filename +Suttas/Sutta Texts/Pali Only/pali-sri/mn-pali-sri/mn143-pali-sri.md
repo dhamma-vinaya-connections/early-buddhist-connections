@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN143-PALI"
+sutta_code: "MN143"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Anāthapiṇḍikovāda Sutta "
+  - "Advice to Anāthapiṇḍika"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143]]
 > ◄  [[mn142-pali-sri]] 📜  [[mn144-pali-sri]] ►
 
 # 143. Anathapindikovada - Pali
@@ -170,6 +170,20 @@ Anāthapiṇḍikovāda suttaṃ paṭhamaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn143-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.48]]; [[SN2.20]]; [[SN55.26]] | [[EA51.8]]; [[MA28]]; [[SA-2.187]]; [[SA1032]]; [[SA593]] | M iii 258 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA51.8]]; [[MA28]]; [[SA-2.187]]; [[SA1032]]; [[SA593]]; [[SN1.48]]; [[SN2.20]]; [[SN55.26]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN148]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN143]]
+> ◄  [[mn142-pali-sri]] 📜  [[mn144-pali-sri]] ►

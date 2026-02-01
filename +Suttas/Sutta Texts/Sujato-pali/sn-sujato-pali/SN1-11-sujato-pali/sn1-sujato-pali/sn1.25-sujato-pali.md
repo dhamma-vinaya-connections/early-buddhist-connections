@@ -3,11 +3,11 @@ sutta_code: "SN1.25"
 sutta_title:
   - "Arahantasutta "
   - "The Arahant"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.25]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.25]]
 > ◄  [[sn1.24-sujato-pali]] 📜  [[sn1.26-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -79,8 +79,7 @@ Vohāramattena so vohareyyā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.25-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ Vohāramattena so vohareyyā"ti.
 | [[SA-2.166]], [[SA581-582]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.25]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.25]]
 > ◄  [[sn1.24-sujato-pali]] 📜  [[sn1.26-sujato-pali]] ►

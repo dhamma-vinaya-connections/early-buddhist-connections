@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN31-PALI"
+sutta_code: "MN31"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cūḷagosiṅga Sutta "
+  - "Shorter Discourse at Gosiṅga"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN31-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN31]]
 > ◄  [[mn30-pali-sc]] 📜  [[mn32-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -124,6 +124,20 @@ Passa, dīgha, yāva ete tayo kulaputtā bahujanahitāya paṭipannā bahujanasu
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn31-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN128]] | [[EA24.8]]; [[MA185]]; [[MA72]] | M i 205 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA24.8]]; [[MA185]]; [[MN128]]; [[MA72]]; [[PLI-TV-KD10]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN128]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN31]]
+> ◄  [[mn30-pali-sc]] 📜  [[mn32-pali-sc]] ►

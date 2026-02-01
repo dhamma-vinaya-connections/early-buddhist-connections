@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.7-PALI"
+sutta_code: "AN9.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sutavā "
+  - "With Sutavā The Wanderer"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.7]]
 > ◄  [[an9.6-pali-pts]] 📜  [[an9.8-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Janapadapadeso pi āvuso duvidhena veditabbo: sevitabbo pi asevitabbo pī ti iti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN9.8]], [[DN29]] | [[DA17]] | A iv 369 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN29]], [[DA17]], [[AN9.8]], [[MN76]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.7]]
+> ◄  [[an9.6-pali-pts]] 📜  [[an9.8-pali-pts]] ►

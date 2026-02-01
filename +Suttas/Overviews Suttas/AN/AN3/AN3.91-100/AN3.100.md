@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Similes of lump of sal,  rich and poor thieves and sheep dealer"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[MA11]]"
-parallels_partilal:
-  - "[[MA11]]"
+parallels_nikaya: ""
+parallels_agama: "[[MA11]]"
+parallels_partilal: "[[MA11]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.99]]  🌐 [[AN3.101]] ►
 
@@ -66,8 +62,7 @@ having done unwholesome actions, must experience little suffering as their fruit
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.100-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -82,8 +77,7 @@ having done unwholesome actions, must experience little suffering as their fruit
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.217]], [[AN10.218]], [[AN10.219]], [[MA15]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN3.100%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN3.100%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -94,7 +88,7 @@ having done unwholesome actions, must experience little suffering as their fruit
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.100%5D%5D%22%23mynotes%20-file%3Aan3.100-%20-file%3A%22AN3.99%22%20-file%3A%22AN3.101%22%20-file%3A%22AN3.100%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.100/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.100

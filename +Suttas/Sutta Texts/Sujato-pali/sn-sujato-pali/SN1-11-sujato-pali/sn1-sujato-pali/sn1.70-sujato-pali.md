@@ -3,11 +3,11 @@ sutta_code: "SN1.70"
 sutta_title:
   - "Lokasutta "
   - "World"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.70]]
 > ◄  [[sn1.69-sujato-pali]] 📜  [[sn1.71-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -54,8 +54,7 @@ icchā lokena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.70-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -66,6 +65,5 @@ icchā lokena te dasāti.
 | [[SA-2.235]], [[SA1008]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.70]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.70]]
 > ◄  [[sn1.69-sujato-pali]] 📜  [[sn1.71-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN147-PALI"
+sutta_code: "MN147"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cūḷarāhulovāda Sutta "
+  - "Shorter Advice to Rāhula"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN147-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN147]]
 > ◄  [[mn146-pali-sri]] 📜  [[mn148-pali-sri]] ►
 
 # 147. Cula Rahulovada Sutta - Pali
@@ -244,6 +244,20 @@ Cūḷarāhulovāda suttaṃ pañcamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn147-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN18.1-5]]; [[SN35.121]] | [[SA200]] | M iii 277 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN35.121]]; [[SA200]]; [[SN18.1-5]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN61]]; [[MN62]], [[SN22.59]], [[SN35.28.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN147]]
+> ◄  [[mn146-pali-sri]] 📜  [[mn148-pali-sri]] ►

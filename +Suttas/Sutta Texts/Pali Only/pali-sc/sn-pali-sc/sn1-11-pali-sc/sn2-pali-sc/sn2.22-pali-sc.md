@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.22-PALI"
+sutta_code: "SN2.22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Khemasutta "
+  - "Khema"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
 > ◄  [[sn2.21-pali-sc]] 📜  [[sn2.23-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -51,6 +51,16 @@ akkhacchinnova jhāyatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP66]], [[DHP67]], [[DHP68]] | [[SA-2.274]], [[SA1276]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
+> ◄  [[sn2.21-pali-sc]] 📜  [[sn2.23-pali-sc]] ►

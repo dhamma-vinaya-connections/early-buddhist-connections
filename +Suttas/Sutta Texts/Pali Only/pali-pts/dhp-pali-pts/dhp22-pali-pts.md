@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP22-PALI"
+sutta_code: "DHP22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nirayavagga "
+  - "Hell"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
 > ◄  [[dhp21-pali-pts]] 📜  [[dhp23-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,16 @@ te jhāyino sātatikā niccaṃ daḷhaparakkamā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 86 |
+> > [!check]- Partial parallels 
+> > 
+| [[PE5]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
+> ◄  [[dhp21-pali-pts]] 📜  [[dhp23-pali-pts]] ►

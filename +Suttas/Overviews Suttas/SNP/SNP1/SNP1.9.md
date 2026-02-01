@@ -39,25 +39,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Spirits"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[SN2.15]]"
-parallels_agama:
-  - "[[SA-2.178]]"
-  - "[[SA-2.315]]"
-  - "[[SA-2.328]]"
-  - "[[SA1269]]"
-  - "[[SA1316]]"
-  - "[[SA1329]]"
-parallels_partilal:
-  - "[[SA-2.178]]"
-  - "[[SA1269]]"
-  - "[[SA-2.315]]"
-  - "[[SA1316]]"
-  - "[[SN2.15]]"
-  - "[[SN1.30]]"
-  - "[[SA1329]]"
-  - "[[SA-2.328]]"
+parallels_nikaya: "[[SN2.15]]"
+parallels_agama: "[[SA-2.178]], [[SA-2.315]], [[SA-2.328]], [[SA1269]], [[SA1316]], [[SA1329]]"
+parallels_partilal: "[[SA-2.178]], [[SA1269]], [[SA-2.315]], [[SA1316]], [[SN2.15]], [[SN1.30]], [[SA1329]], [[SA-2.328]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.8]]  🌐 [[SNP1.10]] ►
 
@@ -84,8 +68,7 @@ the Buddha has the vision of phenomena.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -97,8 +80,7 @@ the Buddha has the vision of phenomena.”
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP1.9%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP1.9%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -109,7 +91,7 @@ the Buddha has the vision of phenomena.”
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP1.9%5D%5D%22%23mynotes%20-file%3Asnp1.9-%20-file%3A%22SNP1.8%22%20-file%3A%22SNP1.10%22%20-file%3A%22SNP1.9%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp1.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.9

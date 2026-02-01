@@ -34,16 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[SN1.79]]"
-parallels_agama:
-  - "[[SA-2.290]]"
-  - "[[SA1292]]"
-parallels_partilal:
-  - "[[SA-2.290]]"
-  - "[[SN1.79]]"
-  - "[[SA1292]]"
+parallels_nikaya: "[[SN1.79]]"
+parallels_agama: "[[SA-2.290]], [[SA1292]]"
+parallels_partilal: "[[SA-2.290]], [[SN1.79]], [[SA1292]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.76]]  🌐 [[SN1.78]] ►
 
@@ -70,8 +63,7 @@ The most excellent of speakers is the Buddha .
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.77-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,8 +75,7 @@ The most excellent of speakers is the Buddha .
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN1.77%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN1.77%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -95,7 +86,7 @@ The most excellent of speakers is the Buddha .
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.77%5D%5D%22%23mynotes%20-file%3Asn1.77-%20-file%3A%22SN1.76%22%20-file%3A%22SN1.78%22%20-file%3A%22SN1.77%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.77/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.77

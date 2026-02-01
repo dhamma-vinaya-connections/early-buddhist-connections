@@ -4,10 +4,10 @@ sutta_title:
   - "Saddhāsutta "
   - "Faith"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
 > ◄  [[sn1.35-deepseek-pali]] 📜  [[sn1.37-deepseek-pali]] ►
 
 # SN 1.36 Saddhāsuttaṃ
@@ -52,8 +52,7 @@ Attains supreme happiness."
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -64,6 +63,5 @@ Attains supreme happiness."
 | [[SA-2.284]], [[SA1286]], [[DHP221]], [[SN1.34]], [[DHP26]], [[MN86]], [[THAG16.8]], [[DHP27]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
 > ◄  [[sn1.35-deepseek-pali]] 📜  [[sn1.37-deepseek-pali]] ►

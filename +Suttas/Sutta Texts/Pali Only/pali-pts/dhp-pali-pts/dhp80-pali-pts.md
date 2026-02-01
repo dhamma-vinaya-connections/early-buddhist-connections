@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP80-PALI"
+sutta_code: "DHP80"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP80-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP80]]
 > ◄  [[dhp79-pali-pts]] 📜  [[dhp81-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ selo yathā ekaghano vātena na samīrati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp80-) 
 

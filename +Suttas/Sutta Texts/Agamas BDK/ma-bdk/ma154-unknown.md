@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA154]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA154]]
 > ◄  [[ma153]] 📜  [[ma155]] ►
 
 ### 154. The Discourse to Vāseṭṭha at the Hall [of Migāra's Mother]
@@ -93,8 +93,7 @@ had to be done has been done. There will not be another experiencing of existenc
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma154-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -109,6 +108,5 @@ had to be done has been done. There will not be another experiencing of existenc
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA154]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA154]]
 > ◄  [[ma153]] 📜  [[ma155]] ►

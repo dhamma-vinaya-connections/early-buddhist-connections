@@ -8,7 +8,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA93]]
 > ◄  [[ma92-bdk]] 📜  [[ma94-bdk]] ►
 
 ### 93. Brahmin [Practitioner of] Purification by Bathing^
@@ -32,8 +32,7 @@ World-honored One, I have understood. Well-gone One, I have comprehended. I now 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma93-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ World-honored One, I have understood. Well-gone One, I have comprehended. I now 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN15]], [[MN3]], [[MN8]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA93]]
 > ◄  [[ma92-bdk]] 📜  [[ma94-bdk]] ►

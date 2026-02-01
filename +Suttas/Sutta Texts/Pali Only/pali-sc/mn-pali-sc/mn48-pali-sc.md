@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN48-PALI"
+sutta_code: "MN48"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kosambiya Sutta "
+  - "Bhikkhus of Kosambi"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN48-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN48]]
 > ◄  [[mn47-pali-sc]] 📜  [[mn49-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -109,6 +109,15 @@ So evaṁ pajānāti: ‘yathārūpāya balatāya diṭṭhisampanno puggalo sam
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn48-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M i 320 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN128]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN48]]
+> ◄  [[mn47-pali-sc]] 📜  [[mn49-pali-sc]] ►

@@ -3,11 +3,11 @@ sutta_code: "MN124"
 sutta_title:
   - "Bākula Sutta "
   - "With Bakkula"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
 > ◄  [[mn123-sujato-pali]] 📜  [[mn125-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -163,8 +163,7 @@ Bākulasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn124-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -175,6 +174,5 @@ Bākulasuttaṁ niṭṭhitaṁ catutthaṁ.
 | [[MA34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
 > ◄  [[mn123-sujato-pali]] 📜  [[mn125-sujato-pali]] ►

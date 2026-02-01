@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP85-PALI"
+sutta_code: "DHP85"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP85-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP85]]
 > ◄  [[dhp84-pali-pts]] 📜  [[dhp86-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ ye ca kho sammadakkhāte dhamme dhammānuvattino /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp85-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG699-PALI"
+sutta_code: "THAG699"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG699-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG699]]
 > ◄  [[thag698-pali-pts]] 📜  [[thag700-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yathāpi udake jātaṃ puṇḍarīkaṃ pavaḍḍhati,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag699-) 
 

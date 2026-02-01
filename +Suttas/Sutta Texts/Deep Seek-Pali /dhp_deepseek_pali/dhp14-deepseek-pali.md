@@ -4,10 +4,10 @@ sutta_title:
   - "Buddhavagga "
   - "Buddha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP14]]
 > ◄  [[dhp13-deepseek-pali]] 📜  [[dhp15-deepseek-pali]] ►
 
 # Dhp 14. Buddhavaggo
@@ -110,8 +110,7 @@ The Chapter on the Buddha: The Fourteenth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -122,6 +121,5 @@ The Chapter on the Buddha: The Fourteenth.
 | [[THAG2.7]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP14]]
 > ◄  [[dhp13-deepseek-pali]] 📜  [[dhp15-deepseek-pali]] ►

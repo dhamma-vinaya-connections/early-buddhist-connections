@@ -3,11 +3,11 @@ sutta_code: "SN1.33"
 sutta_title:
   - "Sādhusutta "
   - "Good"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
 > ◄  [[sn1.32-sujato-pali]] 📜  [[sn1.34-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -192,8 +192,7 @@ Nibbānamevajjhagamuṁ sapaññā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -204,6 +203,5 @@ Nibbānamevajjhagamuṁ sapaññā"ti.
 | [[JA424]], [[JA450]], [[SN1.32]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
 > ◄  [[sn1.32-sujato-pali]] 📜  [[sn1.34-sujato-pali]] ►

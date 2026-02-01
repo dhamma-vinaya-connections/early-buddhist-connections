@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsuññata Sutta "
   - "Longer Discourse on Emptiness"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
 > ◄  [[mn121-deepseek-pali]] 📜  [[mn123-deepseek-pali]] ►
 
 # 122. Acchariyaabbhutasuttaṃ
@@ -119,8 +119,7 @@ The Discourse on the Wonderful and Marvelous Qualities, the third, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn122-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -135,6 +134,5 @@ The Discourse on the Wonderful and Marvelous Qualities, the third, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN121]]; [[[[SN35.85]]]]; [[[[AN5.30]]]]; [[[[AN6.42]]]]; [[[[AN8.30]]]]; [[[[SN1.3]], [[MN137]], [[ITI109]], [[MN106]], [[AN8.86]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
 > ◄  [[mn121-deepseek-pali]] 📜  [[mn123-deepseek-pali]] ►

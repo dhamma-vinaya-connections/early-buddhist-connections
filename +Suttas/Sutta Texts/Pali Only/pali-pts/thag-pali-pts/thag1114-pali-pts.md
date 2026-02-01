@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1114-PALI"
+sutta_code: "THAG1114"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1114-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1114]]
 > ◄  [[thag1113-pali-pts]] 📜  [[thag1115-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ bhāvehi maggaṃ amatassa pattiyā niyyānikaṃ sabbadukhakkhayogadhaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1114-) 
 

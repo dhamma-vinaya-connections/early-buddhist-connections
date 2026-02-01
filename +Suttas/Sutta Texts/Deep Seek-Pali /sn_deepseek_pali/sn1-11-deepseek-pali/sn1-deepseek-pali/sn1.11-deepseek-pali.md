@@ -4,10 +4,10 @@ sutta_title:
   - "Nandanasutta "
   - "Nandana"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
 > ◄  [[sn1.10-deepseek-pali]] 📜  [[sn1.12-deepseek-pali]] ►
 
 # SN 1.11 Nandanasuttaṃ
@@ -41,8 +41,7 @@ When this was said, monks, a certain deity replied to that deity with a verse:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -53,6 +52,5 @@ When this was said, monks, a certain deity replied to that deity with a verse:
 | [[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[DN16]], [[SN15.20]], [[SN6.15]], [[THAG20.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
 > ◄  [[sn1.10-deepseek-pali]] 📜  [[sn1.12-deepseek-pali]] ►

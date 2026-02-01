@@ -4,10 +4,10 @@ sutta_title:
   - "Alabbhanīyaṭhāna "
   - "Cannot Be Had"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
 > ◄  [[an5.47-deepseek-pali]] 📜  [[an5.49-deepseek-pali]] ►
 
 # AN 5.48 Alabbhanīyaṭhānasuttaṃ
@@ -67,8 +67,7 @@ one should endure without sorrow, thinking: ‘My kamma is firm; what can I do n
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.48-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ one should endure without sorrow, thinking: ‘My kamma is firm; what can I do n
 | [[EA34.6]], [[JA368]], [[AN5.50]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
 > ◄  [[an5.47-deepseek-pali]] 📜  [[an5.49-deepseek-pali]] ►

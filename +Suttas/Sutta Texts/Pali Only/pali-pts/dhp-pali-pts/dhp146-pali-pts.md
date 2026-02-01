@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP146-PALI"
+sutta_code: "DHP146"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP146-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP146]]
 > ◄  [[dhp145-pali-pts]] 📜  [[dhp147-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ passa cittakataṃ bimbaṃ arukāyaṃ samussitaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp146-) 
 

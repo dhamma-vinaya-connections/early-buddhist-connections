@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
 > ◄  [[mn13-bodhi]] 📜  [[mn15-bodhi]] ►
 
 # MN14 Cūḷadukkhakkhandha Sutta - The Shorter Discourse
@@ -58,8 +58,7 @@ That is what the Blessed One said. Mahānāma the Sakyan was satisfied and delig
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -74,6 +73,5 @@ That is what the Blessed One said. Mahānāma the Sakyan was satisfied and delig
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN13]], [[MN54]]; [[SN35.63]]; [[SN35.115]]; [[SN35.189]]; [[SN36.6]]; [[AN2.30]]; [[AN6.63]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
 > ◄  [[mn13-bodhi]] 📜  [[mn15-bodhi]] ►

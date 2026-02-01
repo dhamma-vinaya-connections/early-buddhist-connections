@@ -4,10 +4,10 @@ sutta_title:
   - "Mahātaṇhāsaṅkhaya Sutta "
   - "Longer Discourse on the Ending of Craving"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN38]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN38]]
 > ◄  [[mn37-deepseek-pali]] 📜  [[mn39-deepseek-pali]] ►
 
 # 38. Mahātaṇhāsaṅkhayasuttaṃ
@@ -435,8 +435,7 @@ The Great Discourse on the Destruction of Craving is finished, the eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn38-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -451,6 +450,5 @@ The Great Discourse on the Destruction of Craving is finished, the eighth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.31]], [[MN22]], [[MN2]], [[SN35.206]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN38]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN38]]
 > ◄  [[mn37-deepseek-pali]] 📜  [[mn39-deepseek-pali]] ►

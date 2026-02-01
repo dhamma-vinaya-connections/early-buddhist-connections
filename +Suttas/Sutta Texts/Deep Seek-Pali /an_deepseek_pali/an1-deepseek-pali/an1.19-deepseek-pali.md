@@ -4,10 +4,10 @@ sutta_title:
   - "Nīvaraṇappahāna "
   - "Giving Up The Hindrances"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.19]]
 > ◄  [[an1.18-deepseek-pali]] 📜  [[an1.20-deepseek-pali]] ►
 
 # AN 1.19
@@ -33,8 +33,7 @@ The Section on the Abandoning of the Hindrances, the Second.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ The Section on the Abandoning of the Hindrances, the Second.
 | [[EA9.10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.19]]
 > ◄  [[an1.18-deepseek-pali]] 📜  [[an1.20-deepseek-pali]] ►

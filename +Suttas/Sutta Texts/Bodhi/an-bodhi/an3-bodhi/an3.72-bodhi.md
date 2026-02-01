@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.72]]
 > ◄  [[an3.71-bodhi]] 📜  [[an3.73-bodhi]] ►
 
 # AN3.72
@@ -45,8 +45,7 @@ On one occasion the Venerable Ānanda was dwelling at Kosambī in Ghosita’s Pa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.72-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -56,6 +55,5 @@ On one occasion the Venerable Ānanda was dwelling at Kosambī in Ghosita’s Pa
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN4.8]], [[AN3.78]], [[AN5.159]], [[DN16]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.72]]
 > ◄  [[an3.71-bodhi]] 📜  [[an3.73-bodhi]] ►

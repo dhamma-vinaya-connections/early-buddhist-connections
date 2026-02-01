@@ -3,11 +3,11 @@ sutta_code: "SNP2.6"
 sutta_title:
   - "Kapila "
   - "Righteous Life"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
 > ◄  [[snp2.5-sujato-pali]] 📜  [[snp2.7-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -135,9 +135,7 @@ Dhammacariyasuttaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.6-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
 > ◄  [[snp2.5-sujato-pali]] 📜  [[snp2.7-sujato-pali]] ►

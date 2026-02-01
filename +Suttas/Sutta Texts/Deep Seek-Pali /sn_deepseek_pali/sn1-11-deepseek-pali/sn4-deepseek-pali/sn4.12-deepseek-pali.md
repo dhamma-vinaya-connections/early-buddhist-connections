@@ -4,10 +4,10 @@ sutta_title:
   - "Kinnusīhasutta "
   - "Lion"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.12]]
 > ◄  [[sn4.11-deepseek-pali]] 📜  [[sn4.13-deepseek-pali]] ►
 
 # SN 4.12 Kinnusīhasuttaṃ
@@ -39,8 +39,7 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 | [[SA1101]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.12]]
 > ◄  [[sn4.11-deepseek-pali]] 📜  [[sn4.13-deepseek-pali]] ►

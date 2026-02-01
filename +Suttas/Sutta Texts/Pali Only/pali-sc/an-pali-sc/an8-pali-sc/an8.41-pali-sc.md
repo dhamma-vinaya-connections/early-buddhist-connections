@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.41-PALI"
+sutta_code: "AN8.41"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Uposatha "
+  - "Sabbath"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.41-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.41]]
 > ◄  [[an8.40-pali-sc]] 📜  [[an8.42-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -44,6 +44,20 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.41-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN9.18]] | [[EA43.2]] | A iv 248 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA43.2]], [[AN9.18]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.70]], [[AN10.46]], [[UD2.10]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.41]]
+> ◄  [[an8.40-pali-sc]] 📜  [[an8.42-pali-sc]] ►

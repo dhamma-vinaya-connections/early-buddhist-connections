@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.13-PALI"
+sutta_code: "SNP5.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bhadrāvudhamāṇavapucchā "
+  - "Questions of the Student Bhadrāvudha"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.13]]
 > ◄  [[snp5.12-pali-pts]] 📜  [[snp5.14-pali-pts]] ►
 
 # SNP5.13 Bhadrāvudhamāṇavapucchā (12)
@@ -39,6 +39,7 @@ BHADRĀVUDHAMĀṆAVAPUCCHĀ NIṬṬHITĀ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.13]]
+> ◄  [[snp5.12-pali-pts]] 📜  [[snp5.14-pali-pts]] ►

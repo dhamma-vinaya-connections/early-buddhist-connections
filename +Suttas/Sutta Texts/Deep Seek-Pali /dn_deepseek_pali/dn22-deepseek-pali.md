@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsatipaṭṭhāna Sutta "
   - "Longer Discourse on Mindfulness Meditation"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
 > ◄  [[dn21-deepseek-pali]] 📜  [[dn23-deepseek-pali]] ►
 
 # Mahāsatipaṭṭhānasuttaṃ
@@ -555,8 +555,7 @@ The Section on Truth is completed.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -571,6 +570,5 @@ The Section on Truth is completed.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47]], [[MN119]], [[MN118]], [[MN141]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
 > ◄  [[dn21-deepseek-pali]] 📜  [[dn23-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Migasālā "
   - "With Migasālā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.44]]
 > ◄  [[an6.43-deepseek-pali]] 📜  [[an6.45-deepseek-pali]] ►
 
 # AN 6.44 Migasālāsuttaṃ
@@ -91,8 +91,7 @@ Then the Venerable Ānanda, having received almsfood at the dwelling of the layw
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.44-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ Then the Venerable Ānanda, having received almsfood at the dwelling of the layw
 | [[AN10.75]], [[SA990]], [[SA991]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.44]]
 > ◄  [[an6.43-deepseek-pali]] 📜  [[an6.45-deepseek-pali]] ►

@@ -3,11 +3,11 @@ sutta_code: "AN8.80"
 sutta_title:
   - "Kusītārambhavatthu "
   - "Laziness Grounds And Arousing Energy"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
 > ◄  [[an8.79-sujato-pali]] 📜  [[an8.81-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -116,8 +116,7 @@ kusītārambhavatthūnīti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.80-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -128,6 +127,5 @@ kusītārambhavatthūnīti.
 | [[DN33]], [[DN34]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
 > ◄  [[an8.79-sujato-pali]] 📜  [[an8.81-sujato-pali]] ►

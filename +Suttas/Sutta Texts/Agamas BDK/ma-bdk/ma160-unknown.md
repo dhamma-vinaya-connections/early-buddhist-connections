@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA160]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA160]]
 > ◄  [[ma159]] 📜  [[ma161]] ►
 
 ### 160. The Discourse on Araka
@@ -43,8 +43,7 @@ He lives for two thousand four hundred fortnights—eight hundred fort- nights o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma160-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ He lives for two thousand four hundred fortnights—eight hundred fort- nights o
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.19]], [[AN6.20]], [[MN54]], [[SN4.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA160]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA160]]
 > ◄  [[ma159]] 📜  [[ma161]] ►

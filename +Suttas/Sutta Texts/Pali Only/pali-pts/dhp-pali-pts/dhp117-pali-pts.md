@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP117-PALI"
+sutta_code: "DHP117"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP117-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP117]]
 > ◄  [[dhp116-pali-pts]] 📜  [[dhp118-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ puññañ ce puriso kayirā kayirāth'; enaṃ punappunaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp117-) 
 

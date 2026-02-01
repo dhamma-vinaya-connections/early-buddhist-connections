@@ -4,10 +4,10 @@ sutta_title:
   - "Muni "
   - "Sage"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.12]]
 > ◄  [[snp1.11-deepseek-pali]] 📜  [[]] ►
 
 # Snp 1.12 Munisuttaṃ
@@ -129,9 +129,7 @@ Sātāgira, Āḷavaka, Vijaya, and the Sage too; these twelve suttas are called
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.12-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.12]]
 > ◄  [[snp1.11-deepseek-pali]] 📜  [[]] ►

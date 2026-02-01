@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA1]]
 > ◄  [[]] 📜  [[ma2-bdk]] ►
 
 ### 1. The Discourse on Wholesome Qualities
@@ -30,8 +30,7 @@ above, and designated above, this one is supreme, the greatest, the high est, th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -46,6 +45,5 @@ above, and designated above, this one is supreme, the greatest, the high est, th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.73]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA1]]
 > ◄  [[]] 📜  [[ma2-bdk]] ►

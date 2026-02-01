@@ -4,10 +4,10 @@ sutta_title:
   - "Koṇḍaññasutta "
   - "Koṇḍañña"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.9]]
 > ◄  [[sn8.8-deepseek-pali]] 📜  [[sn8.10-deepseek-pali]] ►
 
 # SN 8.9 Koṇḍaññasuttaṃ
@@ -44,8 +44,7 @@ Koṇḍañña, an heir of the Buddha, bows at the Teacher’s feet.”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -56,6 +55,5 @@ Koṇḍañña, an heir of the Buddha, bows at the Teacher’s feet.”
 | [[SA-2.225]], [[SA1209]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.9]]
 > ◄  [[sn8.8-deepseek-pali]] 📜  [[sn8.10-deepseek-pali]] ►

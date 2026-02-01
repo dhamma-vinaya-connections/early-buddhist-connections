@@ -34,46 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: "Tree that lacked branches and foliage. Its Shoots, bark, softwood, and heartwood would not grow to fullness like who lack conciousness and prudence"
-parallels_nikaya:
-  - "[[AN10.3]]"
-  - "[[AN10.4]]"
-  - "[[AN11.3]]"
-  - "[[AN11.4]]"
-  - "[[AN5.168]]"
-  - "[[AN5.21]]"
-  - "[[AN5.22]]"
-  - "[[AN5.24]]"
-  - "[[AN6.50]]"
-  - "[[AN8.81]]"
-parallels_agama:
-  - "[[MA44]]"
-  - "[[MA45]]"
-  - "[[MA46]]"
-  - "[[MA47]]"
-  - "[[MA48]]"
-  - "[[MA49]]"
-  - "[[MA50]]"
-  - "[[SA495]]"
-parallels_partilal:
-  - "[[AN10.3]]"
-  - "[[AN11.3]]"
-  - "[[MA47]]"
-  - "[[MA44]]"
-  - "[[AN8.81]]"
-  - "[[MA45]]"
-  - "[[AN6.50]]"
-  - "[[MA48]]"
-  - "[[AN11.4]]"
-  - "[[AN5.21]]"
-  - "[[MA49]]"
-  - "[[AN5.22]]"
-  - "[[MA50]]"
-  - "[[AN5.24]]"
-  - "[[AN5.168]]"
-  - "[[MA46]]"
-  - "[[SA495]]"
-  - "[[AN10.4]]"
+parallels_nikaya: "[[AN10.3]], [[AN10.4]], [[AN11.3]], [[AN11.4]], [[AN5.168]], [[AN5.21]], [[AN5.22]], [[AN5.24]], [[AN6.50]], [[AN8.81]]"
+parallels_agama: "[[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]]"
+parallels_partilal: "[[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[MA45]], [[AN6.50]], [[MA48]], [[AN11.4]], [[AN5.21]], [[MA49]], [[AN5.22]], [[MA50]], [[AN5.24]], [[AN5.168]], [[MA46]], [[SA495]], [[AN10.4]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.64]]  🌐 [[AN7.66]] ►
 
@@ -96,8 +59,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.65-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -109,8 +71,7 @@ parallels_partilal:
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN7.65%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN7.65%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -121,7 +82,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN7.65%5D%5D%22%23mynotes%20-file%3Aan7.65-%20-file%3A%22AN7.64%22%20-file%3A%22AN7.66%22%20-file%3A%22AN7.65%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an7.65/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.65

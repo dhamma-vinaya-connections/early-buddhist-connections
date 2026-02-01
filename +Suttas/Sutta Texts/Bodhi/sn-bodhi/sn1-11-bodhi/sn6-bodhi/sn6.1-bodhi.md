@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
 > ◄  [[]] 📜  [[sn6.2-bodhi]] ►
 
 # SN6.1 Brahmā’s Request
@@ -96,8 +96,7 @@ Then Brahmā Sahampati, thinking, “The Blessed One has given his consent \[to 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -108,6 +107,5 @@ Then Brahmā Sahampati, thinking, “The Blessed One has given his consent \[to 
 | [[MN85]], [[PLI-TV-KD15]], [[DN14]], [[MA204]], [[MN100]], [[MN26]], [[MN36]], [[ITI38]], [[PLI-TV-KD1]], [[SN11.17]], [[EA19.1]], [[EA24.5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
 > ◄  [[]] 📜  [[sn6.2-bodhi]] ►

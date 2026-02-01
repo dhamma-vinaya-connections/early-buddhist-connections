@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP61-PALI"
+sutta_code: "DHP61"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP61-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP61]]
 > ◄  [[dhp60-pali-pts]] 📜  [[dhp62-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ ekacariyaṃ daḷhaṃ kayirā n'; atthi bāle sahāyatā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp61-) 
 

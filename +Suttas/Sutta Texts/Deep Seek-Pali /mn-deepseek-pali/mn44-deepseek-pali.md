@@ -4,10 +4,10 @@ sutta_title:
   - "Cūḷavedalla Sutta "
   - "Classification Shorter"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
 > ◄  [[mn43-deepseek-pali]] 📜  [[mn45-deepseek-pali]] ►
 
 # 44. Cūḷavedallasuttaṃ
@@ -263,8 +263,7 @@ The Shorter Discourse on the Vedalla is concluded, the fourth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn44-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -279,6 +278,5 @@ The Shorter Discourse on the Vedalla is concluded, the fourth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.6]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
 > ◄  [[mn43-deepseek-pali]] 📜  [[mn45-deepseek-pali]] ►

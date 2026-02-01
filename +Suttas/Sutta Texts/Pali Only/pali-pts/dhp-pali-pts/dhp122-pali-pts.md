@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP122-PALI"
+sutta_code: "DHP122"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP122-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP122]]
 > ◄  [[dhp121-pali-pts]] 📜  [[dhp123-pali-pts]] ►
 
 ## Dhammapada
@@ -24,6 +24,5 @@ vāṇijo va bhayaṃ maggaṃ appasattho mahaddhano /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp122-) 
 

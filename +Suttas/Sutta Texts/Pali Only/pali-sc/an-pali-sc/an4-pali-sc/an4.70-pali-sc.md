@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.70-PALI"
+sutta_code: "AN4.70"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Adhammika "
+  - "Unprincipled"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.70-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.70]]
 > ◄  [[an4.69-pali-sc]] 📜  [[an4.71-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -53,6 +53,16 @@ Padhānaṁ adhammikena cāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.70-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA17.11]] | A ii 74 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA17.11]], [[JA334]], [[JA527]], [[JA528]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.70]]
+> ◄  [[an4.69-pali-sc]] 📜  [[an4.71-pali-sc]] ►

@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA1100]]"
-parallels_partilal:
-  - "[[SA1100]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA1100]]"
+parallels_partilal: "[[SA1100]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.21]]  🌐 [[SN4.23]] ►
 
@@ -69,8 +65,7 @@ But you will never make me tremble.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,8 +80,7 @@ But you will never make me tremble.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.20]], [[SN4.17]], [[SN35.127]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN4.22%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN4.22%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -97,7 +91,7 @@ But you will never make me tremble.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN4.22%5D%5D%22%23mynotes%20-file%3Asn4.22-%20-file%3A%22SN4.21%22%20-file%3A%22SN4.23%22%20-file%3A%22SN4.22%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn4.22/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.22

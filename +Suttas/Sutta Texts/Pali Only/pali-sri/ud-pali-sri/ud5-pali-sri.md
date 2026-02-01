@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD5-PALI"
+sutta_code: "UD5"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5]]
 > ◄  [[ud4-pali-sri]] 📜  [[ud6-pali-sri]] ►
 
 # Udanapali 5: Sonavaggo - BJT
@@ -303,6 +303,5 @@ Soṇo ca revato nando saddhāya panthakena cāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5-) 
 

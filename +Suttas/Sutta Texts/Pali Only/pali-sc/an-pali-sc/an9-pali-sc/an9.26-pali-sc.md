@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.26-PALI"
+sutta_code: "AN9.26"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paññā "
+  - "Consolidated By Wisdom"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.26-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.26]]
 > ◄  [[an9.25-pali-sc]] 📜  [[an9.27-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -47,6 +47,16 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.26-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA499]] | A iv 402 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA499]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.26]]
+> ◄  [[an9.25-pali-sc]] 📜  [[an9.27-pali-sc]] ►

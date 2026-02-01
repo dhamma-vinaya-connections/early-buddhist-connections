@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG275-PALI"
+sutta_code: "THAG275"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG275-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG275]]
 > ◄  [[thag272-pali-pts]] 📜  [[thag276-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yadā ca avijānantā iriyanty amarā viyā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag275-) 
 

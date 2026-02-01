@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP42-PALI"
+sutta_code: "DHP42"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP42-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP42]]
 > ◄  [[dhp41-pali-pts]] 📜  [[dhp43-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ na taṃ mātā pitā kayirā aññe vāpi ca ñātakā, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp42-) 
 

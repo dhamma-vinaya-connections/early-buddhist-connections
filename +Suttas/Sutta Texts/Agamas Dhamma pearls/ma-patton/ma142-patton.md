@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA142]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA142]]
 > ◄  [[ma140-patton]] 📜  [[ma146-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -303,8 +303,7 @@ The monks then said, “Very well!”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma142-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -314,6 +313,5 @@ The monks then said, “Very well!”
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA196]], [[MN104]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA142]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA142]]
 > ◄  [[ma140-patton]] 📜  [[ma146-patton]] ►

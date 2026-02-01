@@ -4,10 +4,10 @@ sutta_title:
   - "Bahiya Sutta "
   - "Bahiya"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.10]]
 > ◄  [[ud1.9-deepseek-pali]] 📜  [[]] ►
 
 # Ud 1.10 Bāhiyasuttaṃ
@@ -100,8 +100,7 @@ Three insights, the grunting sound, the brahmin, and with Kassapa; The goat, the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -112,6 +111,5 @@ Three insights, the grunting sound, the brahmin, and with Kassapa; The goat, the
 | [[SN35.95]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.10]]
 > ◄  [[ud1.9-deepseek-pali]] 📜  [[]] ►

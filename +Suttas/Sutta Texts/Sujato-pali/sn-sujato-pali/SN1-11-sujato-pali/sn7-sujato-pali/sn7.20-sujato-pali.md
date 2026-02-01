@@ -3,11 +3,11 @@ sutta_code: "SN7.20"
 sutta_title:
   - "Bhikkhakasutta "
   - "Mendicant"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
 > ◄  [[sn7.19-sujato-pali]] 📜  [[sn7.21-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -63,8 +63,7 @@ sa ve bhikkhūti vuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ sa ve bhikkhūti vuccatī"ti.
 | [[SA-2.263]], [[SA97]], [[DHP266]], [[DHP267]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
 > ◄  [[sn7.19-sujato-pali]] 📜  [[sn7.21-sujato-pali]] ►

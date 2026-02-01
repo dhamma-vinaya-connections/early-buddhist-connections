@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI14-PALI"
+sutta_code: "ITI14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "林 "
+  - "Forest"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI14]]
 > ◄  [[iti13-pali-pts]] 📜  [[iti15-pali-pts]] ►
 
 ## Itivuttaka
@@ -29,6 +29,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||4||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti14-) 
 

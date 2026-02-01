@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG62-PALI"
+sutta_code: "THIG62"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG62-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG62]]
 > ◄  [[thig61-pali-pts]] 📜  [[thig63-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ putto buddhassa dāyādo Kassapo susamāhito |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig62-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.24-PALI"
+sutta_code: "SN2.24"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ghaṭīkārasutta "
+  - "Ghaṭikara"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.24]]
 > ◄  [[sn2.23-pali-sc]] 📜  [[sn2.25-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -90,6 +90,20 @@ sarīrantimadhārinan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.24-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.50]] | [[SA-2.189]], [[SA595]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.189]], [[SA595]], [[SN1.50]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN1.50]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.24]]
+> ◄  [[sn2.23-pali-sc]] 📜  [[sn2.25-pali-sc]] ►

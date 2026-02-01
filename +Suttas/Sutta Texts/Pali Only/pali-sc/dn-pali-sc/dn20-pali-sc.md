@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN20-PALI"
+sutta_code: "DN20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahāsamaya "
+  - "Great Congregation"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
 > ◄  [[dn19-pali-sc]] 📜  [[dn21-pali-sc]] ►
 
 ## Dīgha Nikāya – The Long Discourses
@@ -388,6 +388,16 @@ sāvakā te janesutā'"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn20-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN1.37]] | [[DA19]], [[SA-2.105]], [[SA1192]] | D ii 253 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA19]], [[SA-2.105]], [[SA1192]], [[SN1.37]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
+> ◄  [[dn19-pali-sc]] 📜  [[dn21-pali-sc]] ►

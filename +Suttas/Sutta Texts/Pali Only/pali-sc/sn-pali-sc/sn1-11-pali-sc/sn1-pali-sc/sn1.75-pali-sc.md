@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.75-PALI"
+sutta_code: "SN1.75"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bhītāsutta "
+  - "Afraid"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.75-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.75]]
 > ◄  [[sn1.74-pali-sc]] 📜  [[sn1.76-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -47,6 +47,16 @@ Dhamme ṭhito paralokaṁ na bhāye"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.75-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.314]], [[SA1315]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[JA458]], [[SA-2.314]], [[SA1315]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.75]]
+> ◄  [[sn1.74-pali-sc]] 📜  [[sn1.76-pali-sc]] ►

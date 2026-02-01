@@ -4,10 +4,10 @@ sutta_title:
   - "Sikkhāpada "
   - "Training Rules"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.204]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.204]]
 > ◄  [[an4.203-deepseek-pali]] 📜  [[an4.205-deepseek-pali]] ►
 
 # AN 4.204 Dasakammasuttaṃ
@@ -39,12 +39,11 @@ And what, Bhikkhus, is one more noble than the noble person? Here, Bhikkhus, som
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.204-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A ii 219 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.204]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.204]]
 > ◄  [[an4.203-deepseek-pali]] 📜  [[an4.205-deepseek-pali]] ►

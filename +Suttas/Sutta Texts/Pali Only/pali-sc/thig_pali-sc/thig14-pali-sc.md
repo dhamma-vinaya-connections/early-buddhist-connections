@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG14-PALI"
+sutta_code: "THIG14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Tiṁsanipātavagga "
+  - "Thirties Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG14]]
 > ◄  [[thig13-pali-sc]] 📜  [[thig15-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -191,6 +191,5 @@ Cakkhu āsi yathā purāṇakanti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig14-) 
 

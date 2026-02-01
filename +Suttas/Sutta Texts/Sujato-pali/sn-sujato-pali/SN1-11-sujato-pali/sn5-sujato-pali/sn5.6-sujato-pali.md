@@ -3,11 +3,11 @@ sutta_code: "SN5.6"
 sutta_title:
   - "Cālāsutta "
   - "Cala"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
 > ◄  [[sn5.5-sujato-pali]] 📜  [[sn5.7-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -89,8 +89,7 @@ Nirodhaṁ appajānantā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -105,6 +104,5 @@ Nirodhaṁ appajānantā,
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN6.15]], [[SN9.6.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
 > ◄  [[sn5.5-sujato-pali]] 📜  [[sn5.7-sujato-pali]] ►

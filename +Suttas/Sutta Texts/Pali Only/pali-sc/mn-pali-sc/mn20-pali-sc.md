@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN20-PALI"
+sutta_code: "MN20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vitakkasaṇṭhāna Sutta "
+  - "Removal of Distracting Thoughts"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN20]]
 > ◄  [[mn19-pali-sc]] 📜  [[mn21-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -50,6 +50,20 @@ Khilapatthamadhupiṇḍikadvidhāvitakka,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn20-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN85]] | [[MA101]] | M i 118 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN100]]; [[MN26]]; [[MN36]]; [[MN85]]; [[MN4]]; [[MA101]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN19]], [[MN10]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN20]]
+> ◄  [[mn19-pali-sc]] 📜  [[mn21-pali-sc]] ►

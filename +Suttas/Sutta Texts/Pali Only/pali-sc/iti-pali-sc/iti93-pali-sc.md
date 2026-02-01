@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI93-PALI"
+sutta_code: "ITI93"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "說智 "
+  - "Declaring the Knowledge [of Awakening]"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI93-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI93]]
 > ◄  [[iti92-pali-sc]] 📜  [[iti94-pali-sc]] ►
 
 # Iti 93. Upaparikkhasuttaṃ
@@ -25,6 +25,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti93-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI93]]
+> ◄  [[iti92-pali-sc]] 📜  [[iti94-pali-sc]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Alabbhanīyaṭhāna "
   - "Cannot Be Had"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.49]]
 > ◄  [[an5.48-deepseek-pali]] 📜  [[an5.50-deepseek-pali]] ►
 
 # AN 5.49 Kosalasuttaṃ
@@ -31,12 +31,11 @@ Then the Blessed One, knowing King Pasenadi of Kosala to be sorrowful, dispirite
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.49-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 57 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.49]]
 > ◄  [[an5.48-deepseek-pali]] 📜  [[an5.50-deepseek-pali]] ►

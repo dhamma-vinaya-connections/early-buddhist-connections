@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn87-thanissaro]] 📜  [[mn91-thanissaro]] ►
 
 ## MN90 At Kaṇṇakatthala
@@ -160,8 +160,7 @@ Then King Pasenadi Kosala, delighting in and approving of the Blessed One’s wo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn90-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -172,6 +171,5 @@ Then King Pasenadi Kosala, delighting in and approving of the Blessed One’s wo
 | [[MA212]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn87-thanissaro]] 📜  [[mn91-thanissaro]] ►

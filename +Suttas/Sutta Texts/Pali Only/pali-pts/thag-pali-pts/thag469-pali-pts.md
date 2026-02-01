@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG469-PALI"
+sutta_code: "THAG469"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG469-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG469]]
 > ◄  [[thag468-pali-pts]] 📜  [[thag470-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ ajjhattañ ca na jānāti bahiddhā ca na passati
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag469-) 
 

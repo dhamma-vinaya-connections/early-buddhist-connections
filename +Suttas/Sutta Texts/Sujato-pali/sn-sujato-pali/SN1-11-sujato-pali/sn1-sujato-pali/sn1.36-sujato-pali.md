@@ -3,11 +3,11 @@ sutta_code: "SN1.36"
 sutta_title:
   - "Saddhāsutta "
   - "Faith"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
 > ◄  [[sn1.35-sujato-pali]] 📜  [[sn1.37-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -87,8 +87,7 @@ pappoti paramaṁ sukhan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ pappoti paramaṁ sukhan"ti.
 | [[SA-2.284]], [[SA1286]], [[DHP221]], [[SN1.34]], [[DHP26]], [[MN86]], [[THAG16.8]], [[DHP27]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
 > ◄  [[sn1.35-sujato-pali]] 📜  [[sn1.37-sujato-pali]] ►

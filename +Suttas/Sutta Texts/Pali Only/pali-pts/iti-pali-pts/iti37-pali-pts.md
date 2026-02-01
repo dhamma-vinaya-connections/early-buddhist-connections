@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI37-PALI"
+sutta_code: "ITI37"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Somanasa "
+  - "Happiness"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI37-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI37]]
 > ◄  [[iti36-pali-pts]] 📜  [[iti38-pali-pts]] ►
 
 ## Itivuttaka
@@ -35,6 +35,7 @@ somanassena (37) te dasā-ti ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti37-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI37]]
+> ◄  [[iti36-pali-pts]] 📜  [[iti38-pali-pts]] ►

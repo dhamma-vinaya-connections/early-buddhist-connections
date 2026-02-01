@@ -4,10 +4,10 @@ sutta_title:
   - "Kassakasutta "
   - "Farmer"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.19]]
 > ◄  [[sn4.18-deepseek-pali]] 📜  [[sn4.20-deepseek-pali]] ►
 
 # SN 4.19 Kassakasuttaṃ
@@ -43,6 +43,5 @@ Then Māra the Evil One… vanished right there.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.19-) 
 

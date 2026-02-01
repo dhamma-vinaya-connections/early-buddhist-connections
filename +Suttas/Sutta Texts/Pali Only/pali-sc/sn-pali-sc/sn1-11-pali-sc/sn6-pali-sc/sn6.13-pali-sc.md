@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.13-PALI"
+sutta_code: "SN6.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Devadattasutta "
+  - "Devadatta"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.13]]
 > ◄  [[sn6.12-pali-sc]] 📜  [[sn6.14-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -56,6 +56,20 @@ musāvādassa ottapan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.13-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.104]], [[SA1191]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.104]], [[SA1191]], [[THAG2.11]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN17.35]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.13]]
+> ◄  [[sn6.12-pali-sc]] 📜  [[sn6.14-pali-sc]] ►

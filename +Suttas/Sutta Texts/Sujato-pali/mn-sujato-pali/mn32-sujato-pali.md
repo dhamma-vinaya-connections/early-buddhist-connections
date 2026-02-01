@@ -3,11 +3,11 @@ sutta_code: "MN32"
 sutta_title:
   - "Mahāgosiṅga Sutta "
   - "Discourse at Gosiṅga Longer"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
 > ◄  [[mn31-sujato-pali]] 📜  [[mn33-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -195,8 +195,7 @@ Mahāgosiṅgasuttaṁ niṭṭhitaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn32-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -207,6 +206,5 @@ Mahāgosiṅgasuttaṁ niṭṭhitaṁ dutiyaṁ.
 | [[EA37.3]]; [[MA184]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
 > ◄  [[mn31-sujato-pali]] 📜  [[mn33-sujato-pali]] ►

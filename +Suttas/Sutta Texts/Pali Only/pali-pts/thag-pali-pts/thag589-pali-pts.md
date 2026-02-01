@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG589-PALI"
+sutta_code: "THAG589"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG589-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG589]]
 > ◄  [[thag588-pali-pts]] 📜  [[thag590-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ saṃghe ca cittikāro: etaṃ samaṇassa paṭirūpaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag589-) 
 

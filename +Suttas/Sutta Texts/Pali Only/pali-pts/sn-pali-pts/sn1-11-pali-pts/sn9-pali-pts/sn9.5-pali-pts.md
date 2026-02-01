@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.5-PALI"
+sutta_code: "SN9.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ānandasutta "
+  - "Ānanda"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.5]]
 > ◄  [[sn9.4-pali-pts]] 📜  [[sn9.6-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -30,6 +30,16 @@ Atha kho āyasmā Ānando tāya devatāya saṃvejito saṃvegam āpādī ti || 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.361]], [[SA1341]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.361]], [[SA1341]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.5]]
+> ◄  [[sn9.4-pali-pts]] 📜  [[sn9.6-pali-pts]] ►

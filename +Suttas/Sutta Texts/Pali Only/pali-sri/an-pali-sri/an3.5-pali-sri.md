@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.5-PALI"
+sutta_code: "AN3.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Ayoniso "
+  - "Improper"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.5]]
 > ◄  [[an3.4-pali-sri]] 📜  [[an3.6-pali-sri]] ►
 
 # 5:5 Mundarajavaggo - Pali
@@ -540,6 +540,16 @@ Paṭhamo paṇṇāsako
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA22.6]] | A i 103 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA22.6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.5]]
+> ◄  [[an3.4-pali-sri]] 📜  [[an3.6-pali-sri]] ►

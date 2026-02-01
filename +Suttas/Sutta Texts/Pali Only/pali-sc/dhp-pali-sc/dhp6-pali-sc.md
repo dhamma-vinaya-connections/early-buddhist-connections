@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP6-PALI"
+sutta_code: "DHP6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paṇḍitavagga "
+  - "Astute"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP6]]
 > ◄  [[dhp5-pali-sc]] 📜  [[dhp7-pali-sc]] ►
 
 # PANDITA VAGGA
@@ -73,6 +73,16 @@ Yesaṃ sambodhiyaṅgesu, sammā cittaṃ subhāvitaṃ; ādānapaṭinissagge,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 22 |
+> > [!check]- Partial parallels 
+> > 
+| [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[THAG4.3]], [[THAG8.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP6]]
+> ◄  [[dhp5-pali-sc]] 📜  [[dhp7-pali-sc]] ►

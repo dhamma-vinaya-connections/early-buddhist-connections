@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP151-PALI"
+sutta_code: "DHP151"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP151-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP151]]
 > ◄  [[dhp150-pali-pts]] 📜  [[dhp152-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ appassutāyaṃ puriso balivaddo va jīrati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp151-) 
 

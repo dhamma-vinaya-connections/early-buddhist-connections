@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.2-PALI"
+sutta_code: "SN2.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Dutiyakassapasutta "
+  - "Kassapa (2)"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.2]]
 > ◄  [[sn2.1-pali-sri]] 📜  [[sn2.3-pali-sri]] ►
 
 # 2:2 Anathapindikavaggo - Pali
@@ -324,6 +324,16 @@ Uttaro navamo vutto dasamo anāthapiṇḍikoti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.317]], [[SA1318]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.317]], [[SA1318]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.2]]
+> ◄  [[sn2.1-pali-sri]] 📜  [[sn2.3-pali-sri]] ►

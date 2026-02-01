@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG925-PALI"
+sutta_code: "THAG925"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG925-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG925]]
 > ◄  [[thag924-pali-pts]] 📜  [[thag926-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ nīcaniviṭṭhā subharā mudū atthaddhamānasā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag925-) 
 

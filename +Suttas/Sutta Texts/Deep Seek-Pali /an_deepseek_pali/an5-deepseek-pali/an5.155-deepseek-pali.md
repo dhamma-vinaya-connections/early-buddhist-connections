@@ -4,10 +4,10 @@ sutta_title:
   - "Saddhammasammosa "
   - "Decline Of The True Teaching ("
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.155]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.155]]
 > ◄  [[an5.154-deepseek-pali]] 📜  [[an5.156-deepseek-pali]] ►
 
 # AN 5.155 Dutiyasaddhammasammosasuttaṃ
@@ -59,12 +59,11 @@ Furthermore, monks, bhikkhus mentally reflect, ponder, and examine the Dhamma as
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.155-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 177 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.155]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.155]]
 > ◄  [[an5.154-deepseek-pali]] 📜  [[an5.156-deepseek-pali]] ►

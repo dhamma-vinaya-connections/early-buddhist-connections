@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭisallāna "
   - "Living In Seclusion"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI45]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI45]]
 > ◄  [[iti44-deepseek-pali]] 📜  [[iti46-deepseek-pali]] ►
 
 # Iti 45 Sikkhānisaṃsasuttaṃ
@@ -29,9 +29,7 @@ This meaning, too, was spoken by the Blessed One, thus I heard. Ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti45-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI45]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI45]]
 > ◄  [[iti44-deepseek-pali]] 📜  [[iti46-deepseek-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA21]]
 > ◄  [[ma20-bdk]] 📜  [[ma22-bdk]] ►
 
 ### 21. The Discourse on an Even Mind
@@ -31,8 +31,7 @@ has assembled with a gathering of monks at the assembly hall. He has explained t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ has assembled with a gathering of monks at the assembly hall. He has explained t
 | [[EA29.8]], [[ITI105]], [[ITI15]], [[SNP3.12]], [[JA493]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA21]]
 > ◄  [[ma20-bdk]] 📜  [[ma22-bdk]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI34-PALI"
+sutta_code: "ITI34"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ātāpī "
+  - "Ardour"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI34-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI34]]
 > ◄  [[iti33-pali-sc]] 📜  [[iti35-pali-sc]] ►
 
 # Iti 34. Paṭhamanakuhanasuttaṃ
@@ -29,6 +29,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti34-) 
 

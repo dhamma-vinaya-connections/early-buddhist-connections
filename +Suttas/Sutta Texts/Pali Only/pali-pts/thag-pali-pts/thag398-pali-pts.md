@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG398-PALI"
+sutta_code: "THAG398"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG398-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG398]]
 > ◄  [[thag397-pali-pts]] 📜  [[thag399-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Manujassa pamattacārino taṇhā vaḍḍhati māḷuvā viyā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag398-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Ujjhanasaññisutta "
   - "Faultfinders"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.35]]
 > ◄  [[sn1.34-deepseek-pali]] 📜  [[sn1.36-deepseek-pali]] ►
 
 # SN 1.35 Ujjhānasaññisuttaṃ
@@ -63,8 +63,7 @@ Then those deities, having settled on the earth, bowed their heads at the Blesse
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.35-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Then those deities, having settled on the earth, bowed their heads at the Blesse
 | [[SA-2.275]], [[SA1277]], [[JA363]], [[JA320]], [[JA380]], [[THAG3.15]], [[THAG3.3]], [[THAG5.2]], [[PLI-TV-BU-VB-PJ4]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.35]]
 > ◄  [[sn1.34-deepseek-pali]] 📜  [[sn1.36-deepseek-pali]] ►

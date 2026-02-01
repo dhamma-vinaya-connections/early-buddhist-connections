@@ -3,11 +3,11 @@ sutta_code: "MN110"
 sutta_title:
   - "Cūḷapuṇṇama Sutta "
   - "Shorter Discourse on the Full-Moon Night"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110]]
 > ◄  [[mn109-sujato-pali]] 📜  [[mn111-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -172,12 +172,11 @@ Mahāpuṇṇa cūḷapuṇṇañcāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn110-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | M iii 20 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110]]
 > ◄  [[mn109-sujato-pali]] 📜  [[mn111-sujato-pali]] ►

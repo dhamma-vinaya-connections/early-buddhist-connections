@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.8-PALI"
+sutta_code: "AN3.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Ājānīya "
+  - "Thoroughbred"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.8]]
 > ◄  [[an3.7-pali-sri]] 📜  [[an3.9-pali-sri]] ►
 
 # 5:8 Anagatabhayavaggo - Pali
@@ -474,6 +474,16 @@ Yodhājivā ca dve vuttā cattāro ca anāgatā’ti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA22.6]] | A i 244 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA22.6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.8]]
+> ◄  [[an3.7-pali-sri]] 📜  [[an3.9-pali-sri]] ►

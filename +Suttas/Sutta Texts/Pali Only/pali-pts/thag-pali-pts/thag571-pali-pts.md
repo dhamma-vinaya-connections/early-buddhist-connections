@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG571-PALI"
+sutta_code: "THAG571"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG571-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG571]]
 > ◄  [[thag570-pali-pts]] 📜  [[thag573-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ pañcanīvaraṇe yutto, vitakkena samappito,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag571-) 
 

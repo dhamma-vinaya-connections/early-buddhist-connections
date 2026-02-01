@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.11-PALI"
+sutta_code: "SN2.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Candimasasutta "
+  - "Candimasa"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.11]]
 > ◄  [[sn2.10-pali-sc]] 📜  [[sn2.12-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -34,6 +34,16 @@ appamattā raṇañjahā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.302]], [[SA1303]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.302]], [[SA1303]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.11]]
+> ◄  [[sn2.10-pali-sc]] 📜  [[sn2.12-pali-sc]] ►

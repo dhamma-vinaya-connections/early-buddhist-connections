@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.3-PALI"
+sutta_code: "SN9.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kassapagottasutta "
+  - "Kassapagotta"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.3]]
 > ◄  [[sn9.2-pali-sc]] 📜  [[sn9.4-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -41,6 +41,16 @@ cakkhu hissa na vijjatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.359]], [[SA1339]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.359]], [[SA1339]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.3]]
+> ◄  [[sn9.2-pali-sc]] 📜  [[sn9.4-pali-sc]] ►

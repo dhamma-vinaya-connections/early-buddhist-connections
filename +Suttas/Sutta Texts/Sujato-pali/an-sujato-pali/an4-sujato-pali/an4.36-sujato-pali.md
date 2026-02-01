@@ -3,11 +3,11 @@ sutta_code: "AN4.36"
 sutta_title:
   - "Doṇa "
   - "Dona"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
 > ◄  [[an4.35-sujato-pali]] 📜  [[an4.37-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -125,8 +125,7 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -137,6 +136,5 @@ Chaṭṭhaṁ.
 | [[SA-2.267]], [[SA101]], [[EA38.3]], [[AN4.14]], [[SA879]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.36]]
 > ◄  [[an4.35-sujato-pali]] 📜  [[an4.37-sujato-pali]] ►

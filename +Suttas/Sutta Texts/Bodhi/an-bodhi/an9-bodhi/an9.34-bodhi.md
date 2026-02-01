@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
 > ◄  [[an9.33-bodhi]] 📜  [[an9.35-bodhi]] ►
 
 # AN9.34 Nibbāna
@@ -49,8 +49,7 @@ When this was said, the Venerable Udāyī said to the Venerable Sāriputta: \[41
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -60,6 +59,5 @@ When this was said, the Venerable Udāyī said to the Venerable Sāriputta: \[41
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.31]], [[AN9.33]], [[AN9.36]], [[AN9.42]], [[AN11.10MN111]], [[SN22.5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
 > ◄  [[an9.33-bodhi]] 📜  [[an9.35-bodhi]] ►

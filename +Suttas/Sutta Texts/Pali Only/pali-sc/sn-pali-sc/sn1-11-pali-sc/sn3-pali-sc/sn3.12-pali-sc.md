@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.12-PALI"
+sutta_code: "SN3.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Pañcarājasutta "
+  - "Five Kings"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.12]]
 > ◄  [[sn3.11-pali-sc]] 📜  [[sn3.13-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -71,6 +71,16 @@ Tapantamādiccamivantalikkhe"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA33.1]], [[SA-2.72]], [[SA1149]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[EA33.1]], [[SA-2.72]], [[SA1149]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.12]]
+> ◄  [[sn3.11-pali-sc]] 📜  [[sn3.13-pali-sc]] ►

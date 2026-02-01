@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.4-PALI"
+sutta_code: "SN1.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Accenti "
+  - "Time Flies"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.4]]
 > ◄  [[sn1.3-pali-sc]] 📜  [[sn1.5-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -33,6 +33,16 @@ Lokāmisaṁ pajahe santipekkho"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.139]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.139]], [[SN2.27]], [[JA509]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.4]]
+> ◄  [[sn1.3-pali-sc]] 📜  [[sn1.5-pali-sc]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA134]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA134]]
 > ◄  [[ma133]] 📜  [[ma135]] ►
 
 ### 134. The Discourse on the Questions of Sakka
@@ -127,8 +127,7 @@ from the dust of defilement as, [in regard to] all phenomena, the Dharma eye aro
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma134-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -143,6 +142,5 @@ from the dust of defilement as, [in regard to] all phenomena, the Dharma eye aro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN101]], [[MN137]], [[MN18.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA134]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA134]]
 > ◄  [[ma133]] 📜  [[ma135]] ►

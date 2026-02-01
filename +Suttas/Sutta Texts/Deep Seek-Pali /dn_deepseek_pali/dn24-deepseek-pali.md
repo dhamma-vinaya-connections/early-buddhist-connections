@@ -4,10 +4,10 @@ sutta_title:
   - "Pāthika Sutta "
   - "About Pāṭikaputta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-deepseek-pali]] 📜  [[dn25-deepseek-pali]] ►
 
 # Pāthikasuttaṃ
@@ -438,8 +438,7 @@ The Pāṭhika Sutta, the first, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -450,6 +449,5 @@ The Pāṭhika Sutta, the first, is concluded.
 | [[DA15]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-deepseek-pali]] 📜  [[dn25-deepseek-pali]] ►

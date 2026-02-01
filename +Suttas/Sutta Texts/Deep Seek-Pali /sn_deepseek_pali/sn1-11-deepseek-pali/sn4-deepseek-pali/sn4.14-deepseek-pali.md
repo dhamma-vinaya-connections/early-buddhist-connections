@@ -4,10 +4,10 @@ sutta_title:
   - "Patirūpasutta "
   - "Suitable"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.14]]
 > ◄  [[sn4.13-deepseek-pali]] 📜  [[sn4.15-deepseek-pali]] ►
 
 # SN 4.14 Patirūpasuttaṃ
@@ -39,8 +39,7 @@ Then Māra the Evil One, realizing, “The Blessed One knows me, the Sugata know
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then Māra the Evil One, realizing, “The Blessed One knows me, the Sugata know
 | [[SA1097]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.14]]
 > ◄  [[sn4.13-deepseek-pali]] 📜  [[sn4.15-deepseek-pali]] ►

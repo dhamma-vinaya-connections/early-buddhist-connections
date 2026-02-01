@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2-PALI"
+sutta_code: "SNP2"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2]]
 > ◄  [[snp1-pali-sri]] 📜  [[snp3-pali-sri]] ►
 
 # 2. Culla-vagga - Pali
@@ -1547,6 +1547,5 @@ Cuddasetāni suttāni cullavaggoti vuccati.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2-) 
 

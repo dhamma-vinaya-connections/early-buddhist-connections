@@ -34,17 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[SN9.12]]"
-parallels_agama:
-  - "[[SA-2.355]]"
-  - "[[SA1335]]"
-parallels_partilal:
-  - "[[SA-2.355]]"
-  - "[[SA1335]]"
-  - "[[SN9.12]]"
-  - "[[JA547]]"
+parallels_nikaya: "[[SN9.12]]"
+parallels_agama: "[[SA-2.355]], [[SA1335]]"
+parallels_partilal: "[[SA-2.355]], [[SA1335]], [[SN9.12]], [[JA547]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.14]]  🌐 [[SN1.16]] ►
 
@@ -65,8 +57,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -78,8 +69,7 @@ parallels_partilal:
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN1.15%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN1.15%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -90,7 +80,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN1.15%5D%5D%22%23mynotes%20-file%3Asn1.15-%20-file%3A%22SN1.14%22%20-file%3A%22SN1.16%22%20-file%3A%22SN1.15%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn1.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.15

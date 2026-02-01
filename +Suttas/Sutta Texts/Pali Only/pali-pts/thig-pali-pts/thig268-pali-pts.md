@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG268-PALI"
+sutta_code: "THIG268"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG268-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG268]]
 > ◄  [[thig267-pali-pts]] 📜  [[thig269-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ tūlapuṇṇasadisopamā ubho sobhate su pādā pure mama |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig268-) 
 

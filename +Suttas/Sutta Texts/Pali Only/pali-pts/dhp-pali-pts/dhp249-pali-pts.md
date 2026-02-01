@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP249-PALI"
+sutta_code: "DHP249"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP249-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP249]]
 > ◄  [[dhp248-pali-pts]] 📜  [[dhp250-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yassa c'; etaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp249-) 
 

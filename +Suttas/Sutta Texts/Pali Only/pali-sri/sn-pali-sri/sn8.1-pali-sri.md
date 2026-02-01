@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.1-PALI"
+sutta_code: "SN8.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Nikkhantasutta "
+  - "Renounced"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.1]]
 > ◄  [[sn7.2-pali-sri]] 📜  [[sn9.1-pali-sri]] ►
 
 # 8:1 Vangisavaggo - Pali
@@ -442,6 +442,16 @@ Vaṅgīsasaṃyuttaṃ samattaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.250]], [[SA1215]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.250]], [[SA1215]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.1]]
+> ◄  [[sn7.2-pali-sri]] 📜  [[sn9.1-pali-sri]] ►

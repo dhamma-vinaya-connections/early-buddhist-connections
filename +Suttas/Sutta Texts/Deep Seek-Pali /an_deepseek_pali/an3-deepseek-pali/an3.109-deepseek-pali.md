@@ -4,10 +4,10 @@ sutta_title:
   - "Arakkhita "
   - "Unprotected"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.109]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.109]]
 > ◄  [[an3.108-deepseek-pali]] 📜  [[an3.110-deepseek-pali]] ►
 
 # AN 3.109 Arakkhitasuttaṃ
@@ -43,8 +43,7 @@ In the same way, householder, when the mind is guarded, bodily action is guarded
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.109-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -54,6 +53,5 @@ In the same way, householder, when the mind is guarded, bodily action is guarded
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.202]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.109]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.109]]
 > ◄  [[an3.108-deepseek-pali]] 📜  [[an3.110-deepseek-pali]] ►

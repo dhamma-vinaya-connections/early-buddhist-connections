@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG558-PALI"
+sutta_code: "THAG558"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG558-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG558]]
 > ◄  [[thag557-pali-pts]] 📜  [[thag559-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ bhagavā tattha āgacchi, sīsaṃ mayhaṃ parāmasi,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag558-) 
 

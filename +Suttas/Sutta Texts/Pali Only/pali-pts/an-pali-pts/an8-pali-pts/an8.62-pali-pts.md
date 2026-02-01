@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.62-PALI"
+sutta_code: "AN8.62"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Alaṃ "
+  - "Good Enough"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.62-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.62]]
 > ◄  [[an8.61-pali-pts]] 📜  [[an8.63-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Chahi bhikkhave dhammehi samannāgato bhikkhu alaṃ attano alaṃ paresaṃ. Ka
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.62-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.78]] |  | A iv 296 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.78]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.62]]
+> ◄  [[an8.61-pali-pts]] 📜  [[an8.63-pali-pts]] ►

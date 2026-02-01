@@ -3,11 +3,11 @@ sutta_code: "SNP1.6"
 sutta_title:
   - "Parābhavasutta "
   - "Downfalls"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
 > ◄  [[snp1.5-sujato-pali]] 📜  [[snp1.7-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -349,9 +349,7 @@ Parābhavasuttaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.6-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
 > ◄  [[snp1.5-sujato-pali]] 📜  [[snp1.7-sujato-pali]] ►

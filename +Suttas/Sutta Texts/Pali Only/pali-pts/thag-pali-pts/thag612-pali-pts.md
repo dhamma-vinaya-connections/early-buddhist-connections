@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG612-PALI"
+sutta_code: "THAG612"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG612-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG612]]
 > ◄  [[thag611-pali-pts]] 📜  [[thag613-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ velā ca saṃvaraṃ sīlaṃ cittassa abhibhāsanaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag612-) 
 

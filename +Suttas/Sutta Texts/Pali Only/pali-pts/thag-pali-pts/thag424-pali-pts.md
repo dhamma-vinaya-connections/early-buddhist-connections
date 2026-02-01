@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG424-PALI"
+sutta_code: "THAG424"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG424-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG424]]
 > ◄  [[thag423-pali-pts]] 📜  [[thag425-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ mātaraṃ pitarañ cāpi aññe pi garusammate
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag424-) 
 

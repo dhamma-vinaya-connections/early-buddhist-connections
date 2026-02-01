@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG473-PALI"
+sutta_code: "THIG473"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG473-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG473]]
 > ◄  [[thig472-pali-pts]] 📜  [[thig474-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ ajjhupagacche ghātaṃ yo viññū evaṃ satthuno vacanaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig473-) 
 

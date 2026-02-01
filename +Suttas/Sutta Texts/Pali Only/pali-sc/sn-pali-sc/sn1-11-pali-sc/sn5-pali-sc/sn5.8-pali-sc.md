@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN5.8-PALI"
+sutta_code: "SN5.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sīsupacālāsutta "
+  - "Sisupacala"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.8]]
 > ◄  [[sn5.7-pali-sc]] 📜  [[sn5.9-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -52,6 +52,20 @@ tassa rocemi sāsanan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.223]], [[SA1207]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.223]], [[SA1207]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN6.15]], [[SN9.6.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.8]]
+> ◄  [[sn5.7-pali-sc]] 📜  [[sn5.9-pali-sc]] ►

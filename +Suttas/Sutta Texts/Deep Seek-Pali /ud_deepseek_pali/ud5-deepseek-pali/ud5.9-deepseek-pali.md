@@ -4,10 +4,10 @@ sutta_title:
   - "Saddhayamana Sutta "
   - "Jeering"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.9]]
 > ◄  [[ud5.8-deepseek-pali]] 📜  [[ud5.10-deepseek-pali]] ►
 
 # Ud 5.9 Sadhāyamānasuttaṃ
@@ -31,8 +31,7 @@ Then, the Blessed One, having understood this matter, on that occasion, uttered 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Then, the Blessed One, having understood this matter, on that occasion, uttered 
 | [[MN128]], [[JA428]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.9]]
 > ◄  [[ud5.8-deepseek-pali]] 📜  [[ud5.10-deepseek-pali]] ►

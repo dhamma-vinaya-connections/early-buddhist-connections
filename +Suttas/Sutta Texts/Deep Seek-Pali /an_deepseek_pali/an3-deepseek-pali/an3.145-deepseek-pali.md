@@ -4,10 +4,10 @@ sutta_title:
   - "Moranivāpa "
   - "At The Peacocks’ Feeding Ground"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.145]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.145]]
 > ◄  [[an3.144-deepseek-pali]] 📜  [[an3.146-deepseek-pali]] ►
 
 # AN 3.145 Tatiyamoranivāpasuttaṃ
@@ -39,8 +39,7 @@ The warrior, the assembly, the friend, arising, the hair blanket; success, growt
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.145-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ The warrior, the assembly, the friend, arising, the hair blanket; success, growt
 | [[AN11.10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.145]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.145]]
 > ◄  [[an3.144-deepseek-pali]] 📜  [[an3.146-deepseek-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
 > ◄  [[mn126-thanissaro]] 📜  [[mn130-thanissaro]] ►
 
 ## MN128 Defilements
@@ -240,8 +240,7 @@ That is what the Blessed One said. Gratified, Ven. Anuruddha delighted in the Bl
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn128-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -256,6 +255,5 @@ That is what the Blessed One said. Gratified, Ven. Anuruddha delighted in the Bl
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN48]], [[MN31]], [[MN127]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
 > ◄  [[mn126-thanissaro]] 📜  [[mn130-thanissaro]] ►

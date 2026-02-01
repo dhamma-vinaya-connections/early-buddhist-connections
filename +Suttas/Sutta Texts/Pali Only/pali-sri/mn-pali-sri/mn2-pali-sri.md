@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN2-PALI"
+sutta_code: "MN2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sabbāsava Sutta "
+  - "All the Defilements"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN2]]
 > ◄  [[mn1-pali-sri]] 📜  [[mn3-pali-sri]] ►
 
 # 2. Sabbasava Sutta - Pali
@@ -124,6 +124,20 @@ Sabbasavasuttaṃ dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN6.58]] | [[EA40.6]]; [[MA10]] | M i 6 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN125]]; [[AN4.114]]; [[AN4.157]]; [[AN4.165]]; [[AN5.140]]; [[PLI-TV-KD1]]; [[PLI-TV-BU-VB-PC65]]; [[PLI-TV-BI-VB-PC71]]; [[AN6.58]]; [[EA40.6]]; [[MA10]]; [[SN12.23]]; [[ITI102]]; [[SN22.101]]; [[SN56.25]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.24]]; [[AN5.140]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN2]]
+> ◄  [[mn1-pali-sri]] 📜  [[mn3-pali-sri]] ►

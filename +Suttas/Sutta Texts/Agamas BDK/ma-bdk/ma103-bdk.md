@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA103]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA103]]
 > ◄  [[ma102-bdk]] 📜  [[ma104-bdk]] ►
 
 ### 103. The Discourse on the Lion's Roar
@@ -31,8 +31,7 @@ to views, and clinging to a self. Not clinging, he is not agitated; being withou
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma103-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ to views, and clinging to a self. Not clinging, he is not agitated; being withou
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.239]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA103]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA103]]
 > ◄  [[ma102-bdk]] 📜  [[ma104-bdk]] ►

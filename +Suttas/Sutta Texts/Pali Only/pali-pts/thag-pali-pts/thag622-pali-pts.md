@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG622-PALI"
+sutta_code: "THAG622"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG622-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG622]]
 > ◄  [[thag621-pali-pts]] 📜  [[thag623-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ nikkhipitvāna byābhaṅgiṃ vandituṃ upasaṃkamiṃ;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag622-) 
 

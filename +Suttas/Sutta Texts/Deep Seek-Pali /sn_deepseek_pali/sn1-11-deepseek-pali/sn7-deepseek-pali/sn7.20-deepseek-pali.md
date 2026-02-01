@@ -4,10 +4,10 @@ sutta_title:
   - "Bhikkhakasutta "
   - "Mendicant"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
 > ◄  [[sn7.19-deepseek-pali]] 📜  [[sn7.21-deepseek-pali]] ►
 
 # SN 7.20 Bhikkhakasuttaṃ
@@ -35,8 +35,7 @@ When this was said, the brahmin Bhikkhaka said to the Blessed One: "Excellent, M
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ When this was said, the brahmin Bhikkhaka said to the Blessed One: "Excellent, M
 | [[SA-2.263]], [[SA97]], [[DHP266]], [[DHP267]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
 > ◄  [[sn7.19-deepseek-pali]] 📜  [[sn7.21-deepseek-pali]] ►

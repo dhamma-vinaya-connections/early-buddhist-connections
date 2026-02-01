@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.39]]
 > ◄  [[sn1.38-bodhi]] 📜  [[sn1.40-bodhi]] ►
 
 # SN1.39 Pajjunna’s Daughter (1)
@@ -60,8 +60,7 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Vesālī in
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.39-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -76,6 +75,5 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Vesālī in
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN45.139]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.39]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.39]]
 > ◄  [[sn1.38-bodhi]] 📜  [[sn1.40-bodhi]] ►

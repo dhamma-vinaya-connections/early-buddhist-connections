@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.5-PALI"
+sutta_code: "AN8.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dutiyalokadhamma "
+  - "Worldly Conditions"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
 > ◄  [[an8.4-pali-pts]] 📜  [[an8.6-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Aṭṭhahi bhikkhave dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo c
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA43.8]] | A iv 156 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA43.8]], [[DN33]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
+> ◄  [[an8.4-pali-pts]] 📜  [[an8.6-pali-pts]] ►

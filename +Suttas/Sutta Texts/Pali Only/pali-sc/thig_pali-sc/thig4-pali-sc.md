@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG4-PALI"
+sutta_code: "THIG4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Catukkanipātavagga "
+  - "Fours Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG4]]
 > ◄  [[thig3-pali-sc]] 📜  [[thig5-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -41,6 +41,5 @@ sītibhūtamha nibbutā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig4-) 
 

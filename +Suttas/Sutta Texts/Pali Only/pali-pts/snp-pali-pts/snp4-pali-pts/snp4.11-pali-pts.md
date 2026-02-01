@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.11-PALI"
+sutta_code: "SNP4.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kalahavivādasutta "
+  - "Quarrels and Disputes"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
 > ◄  [[snp4.10-pali-pts]] 📜  [[snp4.12-pali-pts]] ►
 
 # SNP4.11 Kalahavivādasutta
@@ -91,6 +91,7 @@ KALAHAVIVĀDASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
+> ◄  [[snp4.10-pali-pts]] 📜  [[snp4.12-pali-pts]] ►

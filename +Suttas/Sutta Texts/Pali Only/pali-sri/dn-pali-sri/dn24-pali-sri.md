@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN24-PALI"
+sutta_code: "DN24"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Pāthika Sutta "
+  - "About Pāṭikaputta"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-pali-sri]] 📜  [[dn25-pali-sri]] ►
 
 # 24. Pathikasutta - Pali
@@ -492,6 +492,16 @@ Pāthikasuttaṃniṭṭhitaṃ paṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn24-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA15]] | D iii 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA15]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
+> ◄  [[dn23-pali-sri]] 📜  [[dn25-pali-sri]] ►

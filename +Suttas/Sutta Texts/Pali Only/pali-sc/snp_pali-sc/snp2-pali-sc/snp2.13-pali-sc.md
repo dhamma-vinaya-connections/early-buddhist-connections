@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.13-PALI"
+sutta_code: "SNP2.13"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sammāparibbājanīyasutta "
+  - "Rightly Wander"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.13-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.13]]
 > ◄  [[snp2.12-pali-sc]] 📜  [[snp2.14-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -93,6 +93,5 @@ Sammāparibbājanīyasuttaṁ terasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.13-) 
 

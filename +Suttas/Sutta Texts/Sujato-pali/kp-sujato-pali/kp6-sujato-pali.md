@@ -3,11 +3,11 @@ sutta_code: "KP6"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP6]]
 > ◄  [[kp5-sujato-pali]] 📜  [[kp7-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -246,6 +246,5 @@ The Discourse on the Treasures
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp6-) 
 

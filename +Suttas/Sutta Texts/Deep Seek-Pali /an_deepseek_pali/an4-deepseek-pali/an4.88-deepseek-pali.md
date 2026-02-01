@@ -4,10 +4,10 @@ sutta_title:
   - "Saṃyojana "
   - "Fetters"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.88]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.88]]
 > ◄  [[an4.87-deepseek-pali]] 📜  [[an4.89-deepseek-pali]] ►
 
 # AN 4.88 Saṃyojanasuttaṃ
@@ -39,8 +39,7 @@ And how, bhikkhus, is a person most refined among ascetics? Here, bhikkhus, a bh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.88-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ And how, bhikkhus, is a person most refined among ascetics? Here, bhikkhus, a bh
 | [[EA28.7]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.88]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.88]]
 > ◄  [[an4.87-deepseek-pali]] 📜  [[an4.89-deepseek-pali]] ►

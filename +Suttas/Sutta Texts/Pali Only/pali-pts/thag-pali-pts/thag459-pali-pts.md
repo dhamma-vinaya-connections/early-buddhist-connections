@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG459-PALI"
+sutta_code: "THAG459"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG459-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG459]]
 > ◄  [[thag458-pali-pts]] 📜  [[thag460-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ pādukā oruhitvāna purato pañjalīkatā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag459-) 
 

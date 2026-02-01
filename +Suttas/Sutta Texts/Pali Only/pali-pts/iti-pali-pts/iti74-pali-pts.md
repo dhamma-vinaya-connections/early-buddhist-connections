@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI74-PALI"
+sutta_code: "ITI74"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Putta "
+  - "Child"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI74-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI74]]
 > ◄  [[iti73-pali-pts]] 📜  [[iti75-pali-pts]] ►
 
 ## Itivuttaka
@@ -35,6 +35,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||5||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti74-) 
 

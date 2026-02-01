@@ -3,11 +3,11 @@ sutta_code: "MN151"
 sutta_title:
   - "Piṇḍapātapārisuddhi Sutta "
   - "Purification of Alms"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
 > ◄  [[mn150-sujato-pali]] 📜  [[mn152-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -115,8 +115,7 @@ Piṇḍapātapārisuddhisuttaṁ niṭṭhitaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn151-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -127,6 +126,5 @@ Piṇḍapātapārisuddhisuttaṁ niṭṭhitaṁ navamaṁ.
 | [[EA45.6]]; [[SA236]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
 > ◄  [[mn150-sujato-pali]] 📜  [[mn152-sujato-pali]] ►

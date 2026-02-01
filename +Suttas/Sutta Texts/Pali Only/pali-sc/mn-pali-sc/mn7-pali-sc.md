@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN7-PALI"
+sutta_code: "MN7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vattha Sutta "
+  - "Simile of the Cloth"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7]]
 > ◄  [[mn6-pali-sc]] 📜  [[mn8-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -97,6 +97,20 @@ Alattha kho sundarikabhāradvājo brāhmaṇo bhagavato santike pabbajjaṁ, ala
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA13.5]]; [[MA93]]; [[SA-2.98]]; [[SA1185]] | M i 36 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA13.5]]; [[MA93]]; [[SA-2.98]]; [[SA1185]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN3]], [[MN15]], [[MN8]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN7]]
+> ◄  [[mn6-pali-sc]] 📜  [[mn8-pali-sc]] ►

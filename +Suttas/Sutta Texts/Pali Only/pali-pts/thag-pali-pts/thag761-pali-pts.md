@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG761-PALI"
+sutta_code: "THAG761"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG761-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG761]]
 > ◄  [[thag760-pali-pts]] 📜  [[thag762-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ velaṃ karotha bhaddante sotānaṃ sannivāraṇaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag761-) 
 

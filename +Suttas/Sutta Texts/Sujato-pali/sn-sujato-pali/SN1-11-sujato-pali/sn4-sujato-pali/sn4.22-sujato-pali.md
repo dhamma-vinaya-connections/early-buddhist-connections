@@ -3,11 +3,11 @@ sutta_code: "SN4.22"
 sutta_title:
   - "Samiddhisutta "
   - "Samiddhi"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.22]]
 > ◄  [[sn4.21-sujato-pali]] 📜  [[sn4.23-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -83,8 +83,7 @@ neva maṁ byādhayissasī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ neva maṁ byādhayissasī"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.20]], [[SN4.17]], [[SN35.127]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.22]]
 > ◄  [[sn4.21-sujato-pali]] 📜  [[sn4.23-sujato-pali]] ►

@@ -34,18 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP386]]"
-  - "[[DHP403]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[DHP386]]"
-  - "[[MN98]]"
-  - "[[SNP3.9]]"
-  - "[[DHP403]]"
-  - "[[AN3.33]]"
+parallels_nikaya: "[[DHP386]], [[DHP403]]"
+parallels_agama: ""
+parallels_partilal: "[[DHP386]], [[MN98]], [[SNP3.9]], [[DHP403]], [[AN3.33]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.13]]  🌐 [[SNP5.15]] ►
 
@@ -66,8 +57,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -82,8 +72,7 @@ parallels_partilal:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN52]], [[MN102]], [[MN106]], [[MN111]], [[MN140]], [[ANDAN9:36.]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSNP5.14%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSNP5.14%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -94,7 +83,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSNP5.14%5D%5D%22%23mynotes%20-file%3Asnp5.14-%20-file%3A%22SNP5.13%22%20-file%3A%22SNP5.15%22%20-file%3A%22SNP5.14%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/snp5.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.14

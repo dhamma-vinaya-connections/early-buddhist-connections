@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
 > ◄  [[sn6.10-bodhi]] 📜  [[sn6.12-bodhi]] ►
 
 # SN6.11 Sanaṅkumāra
@@ -29,8 +29,7 @@ This is what Brahmā Sanaṅkumāra said. The Teacher approved. Then Brahmā San
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This is what Brahmā Sanaṅkumāra said. The Teacher approved. Then Brahmā San
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN17.35]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
 > ◄  [[sn6.10-bodhi]] 📜  [[sn6.12-bodhi]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Selāsutta "
   - "Sela"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
 > ◄  [[sn5.8-deepseek-pali]] 📜  [[sn5.10-deepseek-pali]] ►
 
 # SN 5.9 Selāsuttaṃ
@@ -47,8 +47,7 @@ Then Māra the Evil One, realizing, “The bhikkhunī Selā knows me,” sad and
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -59,6 +58,5 @@ Then Māra the Evil One, realizing, “The bhikkhunī Selā knows me,” sad and
 | [[SA-2.219]], [[SA1203]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
 > ◄  [[sn5.8-deepseek-pali]] 📜  [[sn5.10-deepseek-pali]] ►

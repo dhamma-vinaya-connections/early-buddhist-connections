@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA7]]
 > ◄  [[da6-bdk]] 📜  [[da8-bdk]] ►
 
 ### Sutra 7
@@ -406,8 +406,7 @@ and respectfully received it and carried it out.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -422,6 +421,5 @@ and respectfully received it and carried it out.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN27]], [[MN83]], [[SN47.6]], [[SN47.7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA7]]
 > ◄  [[da6-bdk]] 📜  [[da8-bdk]] ►

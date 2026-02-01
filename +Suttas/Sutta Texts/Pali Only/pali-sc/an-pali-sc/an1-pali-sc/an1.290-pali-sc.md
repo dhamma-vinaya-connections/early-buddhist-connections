@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.290-PALI"
+sutta_code: "AN1.290"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sc"
-language: "English"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.290-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.290]]
 > ◄  [[an1.287-pali-sc]] 📜  [[an1.293-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -19,6 +19,5 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.290-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Titthāyatana "
   - "Sectarian Tenets"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.61]]
 > ◄  [[an3.60-deepseek-pali]] 📜  [[an3.62-deepseek-pali]] ►
 
 # AN 3.61 Saṅgāravasuttaṃ
@@ -115,8 +115,7 @@ Two brahmins and another, a wanderer who attained Nibbāna; Palokavaccha, Tika�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.61-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -131,6 +130,5 @@ Two brahmins and another, a wanderer who attained Nibbāna; Palokavaccha, Tika�
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN101]], [[MA19]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.61]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.61]]
 > ◄  [[an3.60-deepseek-pali]] 📜  [[an3.62-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.35-PALI"
+sutta_code: "AN3.35"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Hatthaka "
+  - "With Hatthaka"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.35-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.35]]
 > ◄  [[an3.34-pali-pts]] 📜  [[an3.36-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -41,6 +41,20 @@ Upasanto sukhaṃ seti santiṃ pappuyya cetaso ti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.35-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA28.3]] | A i 136 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA28.3]], [[PLI-TV-KD16]], [[SN10.8]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN10.8]], [[UD2.10]], [[SN1.2]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.35]]
+> ◄  [[an3.34-pali-pts]] 📜  [[an3.36-pali-pts]] ►

@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
 > ◄  [[mn36-anigha]] 📜  [[mn38-anigha]] ►
 
 # MN 37 - The Shorter Discourse on the Destruction of Craving
@@ -69,8 +69,7 @@ That is what the Auspicious One said. Pleased, Venerable Mahāmoggallāna deligh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn37-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -85,6 +84,5 @@ That is what the Auspicious One said. Pleased, Venerable Mahāmoggallāna deligh
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN50]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
 > ◄  [[mn36-anigha]] 📜  [[mn38-anigha]] ►

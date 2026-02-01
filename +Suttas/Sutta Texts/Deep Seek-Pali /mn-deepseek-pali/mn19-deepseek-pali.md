@@ -4,10 +4,10 @@ sutta_title:
   - "Dvedhāvitakka Sutta "
   - "Two Kinds of Thought"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
 > ◄  [[mn18-deepseek-pali]] 📜  [[mn20-deepseek-pali]] ►
 
 # 19. Dvedhāvitakkasuttaṃ
@@ -87,8 +87,7 @@ The Discourse on the Two Kinds of Thought, the ninth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ The Discourse on the Two Kinds of Thought, the ninth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.259]], [[MN20]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
 > ◄  [[mn18-deepseek-pali]] 📜  [[mn20-deepseek-pali]] ►

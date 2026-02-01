@@ -4,10 +4,10 @@ sutta_title:
   - "Cundī "
   - "With Cundī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.32]]
 > ◄  [[an5.31-deepseek-pali]] 📜  [[an5.33-deepseek-pali]] ►
 
 # AN 5.32 Cundīsuttaṃ
@@ -63,8 +63,7 @@ The wise giver of the foremost, established in the foremost Dhamma, whether as a
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.32-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ The wise giver of the foremost, established in the foremost Dhamma, whether as a
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.31]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.32]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.32]]
 > ◄  [[an5.31-deepseek-pali]] 📜  [[an5.33-deepseek-pali]] ►

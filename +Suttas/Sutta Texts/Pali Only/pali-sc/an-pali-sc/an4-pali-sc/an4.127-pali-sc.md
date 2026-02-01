@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.127-PALI"
+sutta_code: "AN4.127"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ābhā "
+  - "Brightness"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.127-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.127]]
 > ◄  [[an4.126-pali-sc]] 📜  [[an4.128-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -36,6 +36,16 @@ Sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.127-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN123]] | [[MA32]] | A ii 140 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA32]], [[MN123]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.127]]
+> ◄  [[an4.126-pali-sc]] 📜  [[an4.128-pali-sc]] ►

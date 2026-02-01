@@ -34,54 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[DHP32]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[AN6.32]]"
-  - "[[DHP32]]"
-  - "[[AN6.33]]"
-  - "[[AN7.32]]"
-  - "[[AN7.33]]"
-  - "[[AN7.34]]"
-  - "[[SN35.120]]"
-  - "[[MN39]]"
-  - "[[SN35.127]]"
-  - "[[SN35.240]]"
-  - "[[AN3.16]]"
-  - "[[DN2]]"
-  - "[[DN3]]"
-  - "[[DN4]]"
-  - "[[DN5]]"
-  - "[[DN6]]"
-  - "[[DN7]]"
-  - "[[DN8]]"
-  - "[[DN9]]"
-  - "[[DN10]]"
-  - "[[DN11]]"
-  - "[[DN12]]"
-  - "[[DN13]]"
-  - "[[MN27]]"
-  - "[[MN38]]"
-  - "[[MN51]]"
-  - "[[MN53]]"
-  - "[[MN60]]"
-  - "[[MN76]]"
-  - "[[MN79]]"
-  - "[[MN94]]"
-  - "[[MN101]]"
-  - "[[MN107]]"
-  - "[[MN112]]"
-  - "[[AN4.14]]"
-  - "[[AN4.165]]"
-  - "[[AN4.198]]"
-  - "[[AN5.76]]"
-  - "[[AN5.140]]"
-  - "[[AN10.99]]"
-  - "[[AN11.17]]"
-  - "[[MN33]]"
+parallels_nikaya: "[[DHP32]]"
+parallels_agama: ""
+parallels_partilal: "[[AN6.32]], [[DHP32]], [[AN6.33]], [[AN7.32]], [[AN7.33]], [[AN7.34]], [[SN35.120]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN33]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.36]]  🌐 [[AN4.38]] ►
 
@@ -102,8 +57,7 @@ parallels_partilal:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.37-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -115,8 +69,7 @@ parallels_partilal:
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN4.37%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN4.37%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -127,7 +80,7 @@ parallels_partilal:
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.37%5D%5D%22%23mynotes%20-file%3Aan4.37-%20-file%3A%22AN4.36%22%20-file%3A%22AN4.38%22%20-file%3A%22AN4.37%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.37/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.37

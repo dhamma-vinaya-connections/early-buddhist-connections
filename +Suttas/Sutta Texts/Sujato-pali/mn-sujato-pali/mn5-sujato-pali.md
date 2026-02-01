@@ -3,11 +3,11 @@ sutta_code: "MN5"
 sutta_title:
   - "Anaṅgaṇa Sutta "
   - "Unblemished"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
 > ◄  [[mn4-sujato-pali]] 📜  [[mn6-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -267,8 +267,7 @@ Anaṅgaṇasuttaṁ niṭṭhitaṁ pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -283,6 +282,5 @@ Anaṅgaṇasuttaṁ niṭṭhitaṁ pañcamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN3]], [[MN7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
 > ◄  [[mn4-sujato-pali]] 📜  [[mn6-sujato-pali]] ►

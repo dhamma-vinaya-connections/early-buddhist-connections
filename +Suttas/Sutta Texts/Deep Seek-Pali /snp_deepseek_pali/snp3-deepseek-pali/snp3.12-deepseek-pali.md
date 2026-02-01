@@ -4,10 +4,10 @@ sutta_title:
   - "Dvayatānupassanāsutta "
   - "Contemplating Pairs"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.12]]
 > ◄  [[snp3.11-deepseek-pali]] 📜  [[]] ►
 
 # Snp 3.12 Dvayatānupassanāsuttaṃ
@@ -385,8 +385,7 @@ Vāseṭṭha and also Kokālika, Nālaka, the Contemplation of Dualities; these
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -401,6 +400,5 @@ Vāseṭṭha and also Kokālika, Nālaka, the Contemplation of Dualities; these
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN9]], [[SN56:22]], [[MN140]], [[SN12.1]], [[SN12.15]], [[SN22.94]], [[SN35.93]], [[AN4.5]], [[AN4.24]], [[ITI51]], [[ITI103]], [[AN]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.12]]
 > ◄  [[snp3.11-deepseek-pali]] 📜  [[]] ►

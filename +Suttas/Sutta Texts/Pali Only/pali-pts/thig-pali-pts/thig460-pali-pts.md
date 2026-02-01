@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG460-PALI"
+sutta_code: "THIG460"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG460-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG460]]
 > ◄  [[thig459-pali-pts]] 📜  [[thig461-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ mātā dukkhitā rodati pitā ca assā sabbaso samabhisāto |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig460-) 
 

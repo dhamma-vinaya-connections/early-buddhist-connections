@@ -3,11 +3,11 @@ sutta_code: "MN114"
 sutta_title:
   - "Sevitabbāsevitabba Sutta "
   - "What Should and Should Not Be Cultivated"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
 > ◄  [[mn113-sujato-pali]] 📜  [[mn115-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -379,8 +379,7 @@ Sevitabbāsevitabbasuttaṁ niṭṭhitaṁ catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn114-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -391,6 +390,5 @@ Sevitabbāsevitabbasuttaṁ niṭṭhitaṁ catutthaṁ.
 | [[AN10.54]]; [[AN9.6]]; [[EA45.3]]; [[MA107]]; [[MA109]]; [[AN3.28]]; [[MN41]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
 > ◄  [[mn113-sujato-pali]] 📜  [[mn115-sujato-pali]] ►

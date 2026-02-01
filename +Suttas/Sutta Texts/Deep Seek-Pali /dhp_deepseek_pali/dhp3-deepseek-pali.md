@@ -4,10 +4,10 @@ sutta_title:
   - "Cittavagga "
   - "Mind"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP3]]
 > ◄  [[dhp2-deepseek-pali]] 📜  [[dhp4-deepseek-pali]] ►
 
 # Dhp 3. Cittavaggo
@@ -84,8 +84,7 @@ The Mind Chapter, the Third, is Concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -96,6 +95,5 @@ The Mind Chapter, the Third, is Concluded.
 | [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP3]]
 > ◄  [[dhp2-deepseek-pali]] 📜  [[dhp4-deepseek-pali]] ►

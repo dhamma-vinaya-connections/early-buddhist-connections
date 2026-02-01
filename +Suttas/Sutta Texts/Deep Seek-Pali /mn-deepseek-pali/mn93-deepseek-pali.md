@@ -4,10 +4,10 @@ sutta_title:
   - "Assalāyana Sutta "
   - "With Assalāyana"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn92-deepseek-pali]] 📜  [[mn94-deepseek-pali]] ►
 
 # 93. Assalāyanasuttaṃ
@@ -131,8 +131,7 @@ The Assalāyana Sutta, the third, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn93-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -143,6 +142,5 @@ The Assalāyana Sutta, the third, is concluded.
 | [[EA40.9]]; [[MA151]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn92-deepseek-pali]] 📜  [[mn94-deepseek-pali]] ►

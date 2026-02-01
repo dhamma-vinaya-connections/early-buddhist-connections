@@ -3,11 +3,11 @@ sutta_code: "KP3"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP3]]
 > ◄  [[kp2-sujato-pali]] 📜  [[kp4-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -59,6 +59,5 @@ The Thirty Two Fold Nature
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp3-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Nanda Sutta "
   - "Nanda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
 > ◄  [[ud3.1-deepseek-pali]] 📜  [[ud3.3-deepseek-pali]] ►
 
 # Ud 3.2 Nandasuttaṃ
@@ -91,9 +91,7 @@ Then, on that occasion, having understood the meaning of this, the Blessed One u
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.2-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
 > ◄  [[ud3.1-deepseek-pali]] 📜  [[ud3.3-deepseek-pali]] ►

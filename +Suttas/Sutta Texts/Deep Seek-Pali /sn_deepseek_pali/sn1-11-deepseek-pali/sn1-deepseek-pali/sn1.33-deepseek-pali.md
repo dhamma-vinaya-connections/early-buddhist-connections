@@ -4,10 +4,10 @@ sutta_title:
   - "Sādhusutta "
   - "Good"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
 > ◄  [[sn1.32-deepseek-pali]] 📜  [[sn1.34-deepseek-pali]] ►
 
 # SN 1.33 Sādhusuttaṃ
@@ -102,8 +102,7 @@ Then another deity said this to the Blessed One: "Whose words, Blessed One, are 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.33-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -114,6 +113,5 @@ Then another deity said this to the Blessed One: "Whose words, Blessed One, are 
 | [[JA424]], [[JA450]], [[SN1.32]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
 > ◄  [[sn1.32-deepseek-pali]] 📜  [[sn1.34-deepseek-pali]] ►

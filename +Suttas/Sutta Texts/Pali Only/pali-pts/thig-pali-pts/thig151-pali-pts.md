@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG151-PALI"
+sutta_code: "THIG151"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG151-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG151]]
 > ◄  [[thig150-pali-pts]] 📜  [[thig152-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ patthitā rājaputtehi seṭṭhiputtehi gijjhitā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig151-) 
 

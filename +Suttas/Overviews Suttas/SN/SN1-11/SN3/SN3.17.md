@@ -34,23 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "King"
-sutta_simile: "Footprint of elephants are the chief for its size, like diligence is chief quality"
-parallels_nikaya:
-  - "[[SN45.141-148]]"
-parallels_agama:
-  - "[[EA26.1-4]]"
-  - "[[MA141]]"
-  - "[[SA-2.66]]"
-  - "[[SA1239]]"
-parallels_partilal:
-  - "[[EA26.1-4]]"
-  - "[[MA141]]"
-  - "[[SA-2.66]]"
-  - "[[SA1239]]"
-  - "[[SN45.141-148]]"
-  - "[[AN5.43]]"
-  - "[[ITI23]]"
-  - "[[SN3.18]]"
+parallels_nikaya: "[[SN45.141-148]]"
+parallels_agama: "[[EA26.1-4]], [[MA141]], [[SA-2.66]], [[SA1239]]"
+parallels_partilal: "[[EA26.1-4]], [[MA141]], [[SA-2.66]], [[SA1239]], [[SN45.141-148]], [[AN5.43]], [[ITI23]], [[SN3.18]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.16]]  🌐 [[SN3.18]] ►
 
@@ -80,8 +66,7 @@ In doing deeds of merit.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -96,8 +81,7 @@ In doing deeds of merit.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN55.40]], [[SN48.56 AN4.37]], [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[DHP315]], [[SN2.10]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN3.17%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN3.17%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -108,7 +92,7 @@ In doing deeds of merit.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN3.17%5D%5D%22%23mynotes%20-file%3Asn3.17-%20-file%3A%22SN3.16%22%20-file%3A%22SN3.18%22%20-file%3A%22SN3.17%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn3.17/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.17

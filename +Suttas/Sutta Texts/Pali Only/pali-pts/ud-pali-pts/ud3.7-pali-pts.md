@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD3.7-PALI"
+sutta_code: "UD3.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kassapa Sutta "
+  - "Kassapa"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7]]
 > ◄  [[ud3.5-pali-pts]] 📜  [[ud3.9-pali-pts]] ►
 
 ## Udāna
@@ -29,6 +29,7 @@ ekacce evam āhaṃsu: assasippaṃ sippānaṃ aggan ti. ekacce evam āhaṃsu:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.7]]
+> ◄  [[ud3.5-pali-pts]] 📜  [[ud3.9-pali-pts]] ►

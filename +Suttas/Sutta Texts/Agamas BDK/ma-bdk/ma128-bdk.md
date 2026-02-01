@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA128]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA128]]
 > ◄  [[ma127-bdk]] 📜  [[ma129-bdk]] ►
 
 ### 128. The Discourse on Male Lay Disciples
@@ -45,8 +45,7 @@ Mottled with delightful colors, Or having the color of a dove, According to its 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma128-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -61,6 +60,5 @@ Mottled with delightful colors, Or having the color of a dove, According to its 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.92]], [[AN3.57]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA128]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA128]]
 > ◄  [[ma127-bdk]] 📜  [[ma129-bdk]] ►

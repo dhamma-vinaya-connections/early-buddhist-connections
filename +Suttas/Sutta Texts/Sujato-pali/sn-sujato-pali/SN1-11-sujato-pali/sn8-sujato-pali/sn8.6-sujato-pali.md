@@ -3,11 +3,11 @@ sutta_code: "SN8.6"
 sutta_title:
   - "Sāriputtasutta "
   - "Sāriputta"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
 > ◄  [[sn8.5-sujato-pali]] 📜  [[sn8.7-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -89,8 +89,7 @@ sotaṁ odhenti bhikkhavo"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -101,6 +100,5 @@ sotaṁ odhenti bhikkhavo"ti.
 | [[SA-2.226]], [[SA1210]], [[THAG21.1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
 > ◄  [[sn8.5-sujato-pali]] 📜  [[sn8.7-sujato-pali]] ►

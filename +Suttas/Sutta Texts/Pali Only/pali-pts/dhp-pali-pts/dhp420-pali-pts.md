@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP420-PALI"
+sutta_code: "DHP420"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP420-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP420]]
 > ◄  [[dhp419-pali-pts]] 📜  [[dhp421-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yassa pure ca pacchā ca majjhe ca n'; atthi kiñcanaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp420-) 
 

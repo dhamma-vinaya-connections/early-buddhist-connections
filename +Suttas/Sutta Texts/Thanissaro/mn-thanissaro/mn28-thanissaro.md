@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
 > ◄  [[mn27-thanissaro]] 📜  [[mn29-thanissaro]] ►
 
 ## MN28 The Great Elephant Footprint Simile
@@ -110,8 +110,7 @@ That is what Ven. Sāriputta said. Gratified, the monks delighted in Ven. Sārip
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn28-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -126,6 +125,5 @@ That is what Ven. Sāriputta said. Gratified, the monks delighted in Ven. Sārip
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN21]], [[MA193]], [[MA8]], [[AN7.62]], [[AN5.197]], [[SN22.5]]; [[SN4.9]], [[MA31]], [[MN141]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
 > ◄  [[mn27-thanissaro]] 📜  [[mn29-thanissaro]] ►

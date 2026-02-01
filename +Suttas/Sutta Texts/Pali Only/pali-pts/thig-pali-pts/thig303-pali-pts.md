@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG303-PALI"
+sutta_code: "THIG303"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG303-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG303]]
 > ◄  [[thig302-pali-pts]] 📜  [[thig304-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ _THERĪ-GĀTHĀ. 153_
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig303-) 
 

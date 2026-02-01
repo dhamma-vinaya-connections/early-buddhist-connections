@@ -4,10 +4,10 @@ sutta_title:
   - "Brahma "
   - "Living With Brahmā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.63]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.63]]
 > ◄  [[an4.62-deepseek-pali]] 📜  [[an4.64-deepseek-pali]] ►
 
 # AN 4.63 Brahmasuttaṃ
@@ -39,8 +39,7 @@ Therefore, a wise person should respect them and honor them, with food, drink, c
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.63-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Therefore, a wise person should respect them and honor them, with food, drink, c
 | [[AN3.31]], [[ITI106]], [[JA532]], [[SN7.19]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.63]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.63]]
 > ◄  [[an4.62-deepseek-pali]] 📜  [[an4.64-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Akkosasutta "
   - "Abuse"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.2]]
 > ◄  [[sn7.1-deepseek-pali]] 📜  [[sn7.3-deepseek-pali]] ►
 
 # SN 7.2 Akkosasuttaṃ
@@ -55,8 +55,7 @@ And the brahmin Akkosaka Bhāradvāja obtained the going forth in the presence o
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ And the brahmin Akkosaka Bhāradvāja obtained the going forth in the presence o
 | [[SA-2.75]], [[SA1152-1153]], [[DHP96]], [[THAG6.12]], [[SN7.3]], [[SN11.4]], [[SN11.5]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.2]]
 > ◄  [[sn7.1-deepseek-pali]] 📜  [[sn7.3-deepseek-pali]] ►

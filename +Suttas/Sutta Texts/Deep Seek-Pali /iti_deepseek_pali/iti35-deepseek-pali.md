@@ -4,10 +4,10 @@ sutta_title:
   - "怨家 "
   - "Enemy"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI35]]
 > ◄  [[iti34-deepseek-pali]] 📜  [[iti36-deepseek-pali]] ►
 
 # Iti 35 Dutiyanakuhanasuttaṃ
@@ -29,8 +29,7 @@ This meaning too was spoken by the Blessed One, so I have heard. The Ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti35-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The Ninth.
 | [[AN4.25]], [[ITI36]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI35]]
 > ◄  [[iti34-deepseek-pali]] 📜  [[iti36-deepseek-pali]] ►

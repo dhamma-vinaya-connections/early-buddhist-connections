@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG291-PALI"
+sutta_code: "THAG291"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG291-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG291]]
 > ◄  [[thag290-pali-pts]] 📜  [[thag292-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ tass'; atthā parihāyanti kālapakkhe va candimā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag291-) 
 

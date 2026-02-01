@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI80-PALI"
+sutta_code: "ITI80"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vitakka "
+  - "Thoughts"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI80-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI80]]
 > ◄  [[iti79-pali-sc]] 📜  [[iti81-pali-sc]] ►
 
 # Iti 80. Sakkārasuttaṃ
@@ -39,6 +39,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti80-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI80]]
+> ◄  [[iti79-pali-sc]] 📜  [[iti81-pali-sc]] ►

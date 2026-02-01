@@ -34,26 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[MN143]]"
-  - "[[SN1.48]]"
-  - "[[SN55.26]]"
-parallels_agama:
-  - "[[EA51.8]]"
-  - "[[MA28]]"
-  - "[[SA-2.187]]"
-  - "[[SA1032]]"
-  - "[[SA593]]"
-parallels_partilal:
-  - "[[MN143]]"
-  - "[[EA51.8]]"
-  - "[[MA28]]"
-  - "[[SA-2.187]]"
-  - "[[SA1032]]"
-  - "[[SA593]]"
-  - "[[SN1.48]]"
-  - "[[SN55.26]]"
+parallels_nikaya: "[[MN143]], [[SN1.48]], [[SN55.26]]"
+parallels_agama: "[[EA51.8]], [[MA28]], [[SA-2.187]], [[SA1032]], [[SA593]]"
+parallels_partilal: "[[MN143]], [[EA51.8]], [[MA28]], [[SA-2.187]], [[SA1032]], [[SA593]], [[SN1.48]], [[SN55.26]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.19]]  🌐 [[SN2.21]] ►
 
@@ -80,8 +63,7 @@ That’s how you should know me, friend
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -93,8 +75,7 @@ That’s how you should know me, friend
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN2.20%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN2.20%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -105,7 +86,7 @@ That’s how you should know me, friend
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.20%5D%5D%22%23mynotes%20-file%3Asn2.20-%20-file%3A%22SN2.19%22%20-file%3A%22SN2.21%22%20-file%3A%22SN2.20%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.20

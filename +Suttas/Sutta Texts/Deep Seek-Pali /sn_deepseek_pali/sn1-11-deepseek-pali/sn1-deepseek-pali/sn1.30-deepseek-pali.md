@@ -4,10 +4,10 @@ sutta_title:
   - "Eṇijaṅghasutta "
   - "Antelope Calves"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.30]]
 > ◄  [[sn1.29-deepseek-pali]] 📜  [[sn1.31-deepseek-pali]] ►
 
 # SN 1.30 Eṇijaṅghasuttaṃ
@@ -45,8 +45,7 @@ He is touched by the spear, and matted hair is a hindrance to the mind; the ligh
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.30-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ He is touched by the spear, and matted hair is a hindrance to the mind; the ligh
 | [[SA-2.177]], [[SA602]], [[SNP1.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.30]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.30]]
 > ◄  [[sn1.29-deepseek-pali]] 📜  [[sn1.31-deepseek-pali]] ►

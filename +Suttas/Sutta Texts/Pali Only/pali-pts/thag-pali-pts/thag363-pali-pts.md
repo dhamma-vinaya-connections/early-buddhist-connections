@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG363-PALI"
+sutta_code: "THAG363"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG363-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG363]]
 > ◄  [[thag362-pali-pts]] 📜  [[thag364-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ khepetvā āsave sabbe sacchikatvā akuppataṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag363-) 
 

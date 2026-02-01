@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.36-PALI"
+sutta_code: "AN5.36"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kaladana "
+  - "Timely Gifts"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.36-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.36]]
 > ◄  [[an5.35-pali-sc]] 📜  [[an5.37-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -40,6 +40,20 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.36-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA32.12]] | A iii 41 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA32.12]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[SN1.43]], [[SN2.23]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5.148]], [[AN5.31]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.36]]
+> ◄  [[an5.35-pali-sc]] 📜  [[an5.37-pali-sc]] ►

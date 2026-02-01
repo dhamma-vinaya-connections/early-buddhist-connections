@@ -4,10 +4,10 @@ sutta_title:
   - "Hatthisāriputta "
   - "With Hatthisāriputta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.60]]
 > ◄  [[an6.59-deepseek-pali]] 📜  [[an6.61-deepseek-pali]] ►
 
 # AN 6.60 Hatthisāriputtasuttaṃ
@@ -63,8 +63,7 @@ And then, before long, Citta the Elephant-Trainer's Son shaved off his hair and 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ And then, before long, Citta the Elephant-Trainer's Son shaved off his hair and 
 | [[MA82]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.60]]
 > ◄  [[an6.59-deepseek-pali]] 📜  [[an6.61-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.57-PALI"
+sutta_code: "AN2.57"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Cariya "
+  - "Conduct"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.57-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.57]]
 > ◄  [[an2.56-pali-pts]] 📜  [[an2.58-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -24,6 +24,16 @@ Bhikkhu ca khīṇāsavo hatthājānīyo ca. Ime kho bhikkhave dve asaniyā phal
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.57-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA17.3]] | A i 51 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA17.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.57]]
+> ◄  [[an2.56-pali-pts]] 📜  [[an2.58-pali-pts]] ►

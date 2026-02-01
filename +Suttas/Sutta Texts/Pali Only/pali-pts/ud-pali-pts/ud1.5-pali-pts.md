@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD1.5-PALI"
+sutta_code: "UD1.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Thera Sutta "
+  - "The Elders"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.5]]
 > ◄  [[ud1.2-pali-pts]] 📜  [[ud1.8-pali-pts]] ►
 
 ## Udāna
@@ -32,6 +32,5 @@ khuddaputtaṃ hi samaṇa posa man ti. tatiyam pi kho āyasmā Saṅgāmaji tu�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.5-) 
 

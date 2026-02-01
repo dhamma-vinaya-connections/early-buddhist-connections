@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP2.11-PALI"
+sutta_code: "SNP2.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Rāhulasutta "
+  - "With Rāhula"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.11]]
 > ◄  [[snp2.10-pali-sc]] 📜  [[snp2.12-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -65,6 +65,7 @@ Rāhulasuttaṁ ekādasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.11]]
+> ◄  [[snp2.10-pali-sc]] 📜  [[snp2.12-pali-sc]] ►

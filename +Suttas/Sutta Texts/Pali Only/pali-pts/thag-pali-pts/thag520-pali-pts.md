@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG520-PALI"
+sutta_code: "THAG520"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG520-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG520]]
 > ◄  [[thag519-pali-pts]] 📜  [[thag521-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yadā asokaṃ virajaṃ asaṃkhataṃ santaṃ padaṃ sabbakilesasodhanaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag520-) 
 

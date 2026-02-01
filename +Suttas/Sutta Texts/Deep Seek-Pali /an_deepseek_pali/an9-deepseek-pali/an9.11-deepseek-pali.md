@@ -4,10 +4,10 @@ sutta_title:
   - "Sīhanāda "
   - "Sāriputta’s Lion’s Roar"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
 > ◄  [[an9.10-deepseek-pali]] 📜  [[an9.12-deepseek-pali]] ►
 
 # AN 9.11 Sīhanādasuttaṃ
@@ -75,8 +75,7 @@ Then the Blessed One addressed Venerable Sariputta: "Forgive, Sariputta, this wo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ Then the Blessed One addressed Venerable Sariputta: "Forgive, Sariputta, this wo
 | [[EA37.6]], [[MA24]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
 > ◄  [[an9.10-deepseek-pali]] 📜  [[an9.12-deepseek-pali]] ►

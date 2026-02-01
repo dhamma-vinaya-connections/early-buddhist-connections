@@ -4,10 +4,10 @@ sutta_title:
   - "Lokāyatika "
   - "Brahmin Cosmologists"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.38]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.38]]
 > ◄  [[an9.37-deepseek-pali]] 📜  [[an9.39-deepseek-pali]] ►
 
 # AN 9.38 Lokāyatikasuttaṃ
@@ -59,8 +59,7 @@ Furthermore, brahmins, a bhikkhu, by completely surmounting the base of neither-
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.38-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -70,6 +69,5 @@ Furthermore, brahmins, a bhikkhu, by completely surmounting the base of neither-
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.45]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.38]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.38]]
 > ◄  [[an9.37-deepseek-pali]] 📜  [[an9.39-deepseek-pali]] ►

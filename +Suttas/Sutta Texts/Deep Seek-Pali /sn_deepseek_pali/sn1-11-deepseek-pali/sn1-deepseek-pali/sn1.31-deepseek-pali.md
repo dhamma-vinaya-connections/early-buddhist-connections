@@ -4,10 +4,10 @@ sutta_title:
   - "Sabbhisutta "
   - "With the Good"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
 > ◄  [[sn1.30-deepseek-pali]] 📜  [[sn1.32-deepseek-pali]] ►
 
 # SN 1.31 Sabbhisuttaṃ
@@ -79,8 +79,7 @@ Thus spoke the Blessed One. Pleased, those devas, having paid homage to the Bles
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.31-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ Thus spoke the Blessed One. Pleased, those devas, having paid homage to the Bles
 | [[SA-2.285]], [[SA1287]], [[SN2.21]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
 > ◄  [[sn1.30-deepseek-pali]] 📜  [[sn1.32-deepseek-pali]] ►

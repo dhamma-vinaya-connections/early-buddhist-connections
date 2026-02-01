@@ -34,16 +34,9 @@ sutta_teacher:
   - "Devas"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[SN2.25]]"
-parallels_agama:
-  - "[[SA-2.363]]"
-  - "[[SA1343]]"
-parallels_partilal:
-  - "[[SN2.25]]"
-  - "[[SA-2.363]]"
-  - "[[SA1343]]"
+parallels_nikaya: "[[SN2.25]]"
+parallels_agama: "[[SA-2.363]], [[SA1343]]"
+parallels_partilal: "[[SN2.25]], [[SA-2.363]], [[SA1343]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.12]]  🌐 [[SN9.14]] ►
 
@@ -67,8 +60,7 @@ I pay homage
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -80,8 +72,7 @@ I pay homage
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN9.13%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN9.13%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -92,7 +83,7 @@ I pay homage
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN9.13%5D%5D%22%23mynotes%20-file%3Asn9.13-%20-file%3A%22SN9.12%22%20-file%3A%22SN9.14%22%20-file%3A%22SN9.13%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn9.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.13

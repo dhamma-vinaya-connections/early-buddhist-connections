@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG7-PALI"
+sutta_code: "THAG7"
 sutta_title:
-  - " "
-  - ""
+  - "Sattakanipātavagga "
+  - "Sevens Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG7]]
 > ◄  [[thag6-pali-eng]] 📜  [[thag8-pali-eng]] ►
 
 # Thag 7. Sattakanipāto
@@ -186,6 +186,5 @@ The Book of Sevens is finished. Tatruddānaṃ – The summary: Sundarasamuddo t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag7-) 
 

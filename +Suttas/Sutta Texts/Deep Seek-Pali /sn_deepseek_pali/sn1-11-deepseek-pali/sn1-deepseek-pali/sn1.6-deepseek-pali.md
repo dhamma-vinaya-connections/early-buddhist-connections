@@ -4,10 +4,10 @@ sutta_title:
   - "Jāgara "
   - "Awake"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.6]]
 > ◄  [[sn1.5-deepseek-pali]] 📜  [[sn1.7-deepseek-pali]] ►
 
 # SN 1.6 Jāgarasuttaṃ
@@ -31,8 +31,7 @@ Five are asleep for the awake, five are awake among the sleeping; by five one ta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Five are asleep for the awake, five are awake among the sleeping; by five one ta
 | [[SA-2.141]], [[SA1003]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.6]]
 > ◄  [[sn1.5-deepseek-pali]] 📜  [[sn1.7-deepseek-pali]] ►

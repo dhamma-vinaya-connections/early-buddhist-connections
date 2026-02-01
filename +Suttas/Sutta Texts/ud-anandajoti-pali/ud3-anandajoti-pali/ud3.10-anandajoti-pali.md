@@ -3,11 +3,11 @@ sutta_code: "UD3.10"
 sutta_title:
   - "Lokavolokana Sutta "
   - "Surveying the World"
-sutta-version: "Anandajoti"
-language: "Pali"
+sutta-version: "Ven. Anandajoti"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.10]]
 > ◄  [[ud3.9-anandajoti-pali]] 📜  [[]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -128,8 +128,7 @@ sippaṁ lokena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -144,6 +143,5 @@ sippaṁ lokena te dasāti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN113]], [[SN1.1]], [[SN12.15]], [[ITI49]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.10]]
 > ◄  [[ud3.9-anandajoti-pali]] 📜  [[]] ►

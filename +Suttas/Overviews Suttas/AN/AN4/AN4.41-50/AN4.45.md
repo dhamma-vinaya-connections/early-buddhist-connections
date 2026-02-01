@@ -34,20 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-sutta_simile: "Runners trying to reach the end of the world"
-parallels_nikaya:
-  - "[[AN4.46]]"
-  - "[[SN2.26]]"
-parallels_agama:
-  - "[[EA43.1]]"
-  - "[[SA-2.306]]"
-  - "[[SA1307]]"
-parallels_partilal:
-  - "[[AN4.46]]"
-  - "[[SA-2.306]]"
-  - "[[SA1307]]"
-  - "[[SN2.26]]"
-  - "[[EA43.1]]"
+parallels_nikaya: "[[AN4.46]], [[SN2.26]]"
+parallels_agama: "[[EA43.1]], [[SA-2.306]], [[SA1307]]"
+parallels_partilal: "[[AN4.46]], [[SA-2.306]], [[SA1307]], [[SN2.26]], [[EA43.1]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.44]]  🌐 [[AN4.46]] ►
 
@@ -73,8 +62,7 @@ There’s no release from suffering
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.45-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -89,8 +77,7 @@ There’s no release from suffering
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.38]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN4.45%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN4.45%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -101,7 +88,7 @@ There’s no release from suffering
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.45%5D%5D%22%23mynotes%20-file%3Aan4.45-%20-file%3A%22AN4.44%22%20-file%3A%22AN4.46%22%20-file%3A%22AN4.45%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.45/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.45

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP5-PALI"
+sutta_code: "DHP5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bālavagga "
+  - "Fools"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP5]]
 > ◄  [[dhp4-pali-pts]] 📜  [[dhp6-pali-pts]] ►
 
 ## Dhammapada
@@ -20,6 +20,16 @@ pare ca na vijānanti: "mayam ettha yamāmase", /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 17 |
+> > [!check]- Partial parallels 
+> > 
+| [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP5]]
+> ◄  [[dhp4-pali-pts]] 📜  [[dhp6-pali-pts]] ►

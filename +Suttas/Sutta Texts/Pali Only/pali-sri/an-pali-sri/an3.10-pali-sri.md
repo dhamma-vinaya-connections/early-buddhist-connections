@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.10-PALI"
+sutta_code: "AN3.10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mala "
+  - "Stains"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.10]]
 > ◄  [[an3.9-pali-sri]] 📜  [[an3.11-pali-sri]] ►
 
 # 5:10 Kakudhavaggo - Pali
@@ -214,6 +214,11 @@ Dutiyaṃ paṇṇāsakaṃ niṭṭhītaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 105 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.10]]
+> ◄  [[an3.9-pali-sri]] 📜  [[an3.11-pali-sri]] ►

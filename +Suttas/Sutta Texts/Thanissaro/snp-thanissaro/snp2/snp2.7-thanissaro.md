@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.7]]
 > ◄  [[snp2.6-thanissaro]] 📜  [[snp2.8-thanissaro]] ►
 
 # 2:7  Brahman Principles
@@ -341,8 +341,7 @@ vv. 284–315
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -357,6 +356,5 @@ vv. 284–315
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN60]], [[MN93]], [[SN3.9]], [[AN5.191]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.7]]
 > ◄  [[snp2.6-thanissaro]] 📜  [[snp2.8-thanissaro]] ►

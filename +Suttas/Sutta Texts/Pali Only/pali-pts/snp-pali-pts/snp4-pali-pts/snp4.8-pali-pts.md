@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4.8-PALI"
+sutta_code: "SNP4.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pasūrasutta "
+  - "To Pasūra on Debate"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
 > ◄  [[snp4.7-pali-pts]] 📜  [[snp4.9-pali-pts]] ►
 
 # SNP4.8 Pasūrasutta
@@ -67,6 +67,7 @@ PASŪRASUTTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
+> ◄  [[snp4.7-pali-pts]] 📜  [[snp4.9-pali-pts]] ►

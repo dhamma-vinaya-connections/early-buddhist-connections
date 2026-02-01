@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD6.5-PALI"
+sutta_code: "UD6.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dutiyananatitthiya Sutta "
+  - "Sectarians (2)"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.5]]
 > ◄  [[ud6.4-pali-pts]] 📜  [[ud6.8-pali-pts]] ►
 
 ## Udāna
@@ -30,6 +30,7 @@ yañ ca pattaṃ yañ ca pattabbaṃ, ubhayam etaṃ rajānukiṇṇaṃ āturas
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.5]]
+> ◄  [[ud6.4-pali-pts]] 📜  [[ud6.8-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.125-PALI"
+sutta_code: "AN3.125"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Gotamakacetiya "
+  - "Gotamaka Shrine"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.125-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.125]]
 > ◄  [[an3.124-pali-sc]] 📜  [[an3.126-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -29,6 +29,16 @@ Tatiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.125-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 276 |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD21]], [[DN16]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.125]]
+> ◄  [[an3.124-pali-sc]] 📜  [[an3.126-pali-sc]] ►

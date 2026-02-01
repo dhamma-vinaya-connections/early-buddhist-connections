@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG978-PALI"
+sutta_code: "THAG978"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG978-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG978]]
 > ◄  [[thag977-pali-pts]] 📜  [[thag979-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ mettacittā kāruṇikā hotha sīle susaṃvutā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag978-) 
 

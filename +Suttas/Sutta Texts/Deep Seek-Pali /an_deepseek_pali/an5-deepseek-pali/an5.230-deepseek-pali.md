@@ -4,10 +4,10 @@ sutta_title:
   - "Kaṇhasappa "
   - "Black Snakes"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.230]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.230]]
 > ◄  [[an5.229-deepseek-pali]] 📜  [[an5.231-deepseek-pali]] ►
 
 # AN 5.230 Dutiyakaṇhasappasuttaṃ
@@ -43,12 +43,11 @@ Two long wanderers are spoken of, and one on excessive stinginess regarding dwel
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.230-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 260 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.230]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.230]]
 > ◄  [[an5.229-deepseek-pali]] 📜  [[an5.231-deepseek-pali]] ►

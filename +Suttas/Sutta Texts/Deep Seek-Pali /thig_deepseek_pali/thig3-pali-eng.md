@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG3-PALI"
+sutta_code: "THIG3"
 sutta_title:
-  - " "
-  - ""
+  - "Tikanipātavagga "
+  - "Trees Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG3]]
 > ◄  [[thig2-pali-eng]] 📜  [[thig4-pali-eng]] ►
 
 # Thig 3. Tikanipāto
@@ -151,6 +151,5 @@ Seeing the untamed one tamed, brought under human control, I then settled my min
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig3-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Appaṭividitasutta "
   - "Not Penetrated"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
 > ◄  [[sn1.6-deepseek-pali]] 📜  [[sn1.8-deepseek-pali]] ►
 
 # SN 1.7 Appaṭividitasuttaṃ
@@ -31,8 +31,7 @@ Those for whom the truths are well comprehended, who are not carried away by the
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Those for whom the truths are well comprehended, who are not carried away by the
 | [[SA-2.164]], [[SA579]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
 > ◄  [[sn1.6-deepseek-pali]] 📜  [[sn1.8-deepseek-pali]] ►

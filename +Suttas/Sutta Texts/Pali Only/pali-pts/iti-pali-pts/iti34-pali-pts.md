@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI34-PALI"
+sutta_code: "ITI34"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ātāpī "
+  - "Ardour"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI34-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI34]]
 > ◄  [[iti33-pali-pts]] 📜  [[iti35-pali-pts]] ►
 
 ## Itivuttaka
@@ -32,6 +32,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||7||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti34-) 
 

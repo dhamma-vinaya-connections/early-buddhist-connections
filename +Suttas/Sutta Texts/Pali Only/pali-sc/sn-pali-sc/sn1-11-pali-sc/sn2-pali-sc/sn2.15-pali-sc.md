@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.15-PALI"
+sutta_code: "SN2.15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Candanasutta "
+  - "Candana"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.15]]
 > ◄  [[sn2.14-pali-sc]] 📜  [[sn2.16-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -36,6 +36,16 @@ so gambhīre na sīdatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.15-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.178]], [[SA-2.315]], [[SA1269]], [[SA1316]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.178]], [[SA1269]], [[SA-2.315]], [[SA1316]], [[SNP1.9]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.15]]
+> ◄  [[sn2.14-pali-sc]] 📜  [[sn2.16-pali-sc]] ►

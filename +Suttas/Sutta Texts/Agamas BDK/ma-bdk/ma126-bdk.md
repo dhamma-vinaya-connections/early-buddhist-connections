@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA126]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA126]]
 > ◄  [[ma125-bdk]] 📜  [[ma127-bdk]] ►
 
 ### 126. The Discourse on Engaging in Sensual Pleasures
@@ -29,8 +29,7 @@ Then the World-honored One uttered these verses:^401 If someone seeks wealth in 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma126-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ Then the World-honored One uttered these verses:^401 If someone seeks wealth in 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.41]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA126]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA126]]
 > ◄  [[ma125-bdk]] 📜  [[ma127-bdk]] ►

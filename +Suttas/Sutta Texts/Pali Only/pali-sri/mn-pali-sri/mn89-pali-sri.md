@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN89-PALI"
+sutta_code: "MN89"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Dhammacetiya Sutta "
+  - "Shrines to the Teaching"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
 > ◄  [[mn88-pali-sri]] 📜  [[mn90-pali-sri]] ►
 
 # 89. Dhammacetiya Sutta - Pali
@@ -118,6 +118,16 @@ Dhammacetiyasuttaṃ navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn89-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN10.30]] | [[EA38.10]]; [[MA213]] | M ii 118 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.30]]; [[EA38.10]]; [[MA213]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
+> ◄  [[mn88-pali-sri]] 📜  [[mn90-pali-sri]] ►

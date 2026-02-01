@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.73-PALI"
+sutta_code: "AN3.73"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mahānāmasakka "
+  - "With Mahānāma The Sakyan"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.73-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.73]]
 > ◄  [[an3.72-pali-pts]] 📜  [[an3.74-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Abhikkantaṃ bhante abhikkantaṃ bhante. Seyyathāpi bhante nikkujjitaṃ vā 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.73-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.158]], [[SA934]] | A i 219 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.158]], [[SA934]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.73]]
+> ◄  [[an3.72-pali-pts]] 📜  [[an3.74-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG983-PALI"
+sutta_code: "THAG983"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG983-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG983]]
 > ◄  [[thag982-pali-pts]] 📜  [[thag984-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ kappiyatañ ca ādeti cīvaraṃ idamatthikaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag983-) 
 

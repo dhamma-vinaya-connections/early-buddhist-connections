@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP308-PALI"
+sutta_code: "DHP308"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP308-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP308]]
 > ◄  [[dhp307-pali-pts]] 📜  [[dhp309-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ cattāri ṭhānāni naro pamatto āpajjatī paradārūpasevī: /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp308-) 
 

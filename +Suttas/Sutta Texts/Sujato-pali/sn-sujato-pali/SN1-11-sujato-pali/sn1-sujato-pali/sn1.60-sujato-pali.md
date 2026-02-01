@@ -3,11 +3,11 @@ sutta_code: "SN1.60"
 sutta_title:
   - "Kavisutta "
   - "Poetry"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.60]]
 > ◄  [[sn1.59-sujato-pali]] 📜  [[sn1.61-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -54,8 +54,7 @@ kavinā pūrito vaggoti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -66,6 +65,5 @@ kavinā pūrito vaggoti.
 | [[SA-2.248]], [[SA1021]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.60]]
 > ◄  [[sn1.59-sujato-pali]] 📜  [[sn1.61-sujato-pali]] ►

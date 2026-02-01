@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG392-PALI"
+sutta_code: "THAG392"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG392-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG392]]
 > ◄  [[thag391-pali-pts]] 📜  [[thag393-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Kullo sīvathikaṃ gantvā addasaṃ itthiṃ ujjhitaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag392-) 
 

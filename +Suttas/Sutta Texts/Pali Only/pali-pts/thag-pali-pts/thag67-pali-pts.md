@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG67-PALI"
+sutta_code: "THAG67"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG67-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG67]]
 > ◄  [[thag66-pali-pts]] 📜  [[thag68-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Ekadhammasavanīyo thero.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag67-) 
 

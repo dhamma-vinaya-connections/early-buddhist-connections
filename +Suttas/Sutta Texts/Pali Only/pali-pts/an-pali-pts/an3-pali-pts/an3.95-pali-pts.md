@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.95-PALI"
+sutta_code: "AN3.95"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Parisā "
+  - "Assemblies"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.95-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.95]]
 > ◄  [[an3.94-pali-pts]] 📜  [[an3.96-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,16 @@ Idha bhikkhave yassaṃ parisāyaṃ therā bhikkhū na bāhulikā honti na sāt
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.95-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN55.38]] |  | A i 242 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.61]], [[AN10.62]], [[AN4.147]], [[SN55.38]], [[SN12.23]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.95]]
+> ◄  [[an3.94-pali-pts]] 📜  [[an3.96-pali-pts]] ►

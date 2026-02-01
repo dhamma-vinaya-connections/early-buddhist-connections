@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsālaputta "
   - "Great Sal Trees"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.40]]
 > ◄  [[an5.39-deepseek-pali]] 📜  [[an5.41-deepseek-pali]] ►
 
 # AN 5.40 Mahāsālaputtasuttaṃ
@@ -55,8 +55,7 @@ Sumanā, Cundī, Uggaha, Sīha, Dānānisaṃsaka, Kālabhojana, Saddhā, and th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.40-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Sumanā, Cundī, Uggaha, Sīha, Dānānisaṃsaka, Kālabhojana, Saddhā, and th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.38]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.40]]
 > ◄  [[an5.39-deepseek-pali]] 📜  [[an5.41-deepseek-pali]] ►

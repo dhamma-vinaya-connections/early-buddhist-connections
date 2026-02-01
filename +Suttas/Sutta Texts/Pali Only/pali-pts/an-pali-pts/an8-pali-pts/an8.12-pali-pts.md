@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.12-PALI"
+sutta_code: "AN8.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Verañja "
+  - "At Verañja"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.12]]
 > ◄  [[an8.11-pali-pts]] 📜  [[an8.13-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Abhikkantaṃ bho Gotama abhikkantaṃ bho Gotama, seyyathā pi bho Gotama nikku
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA18]] | A iv 179 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA18]], [[PLI-TV-KD6]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.12]]
+> ◄  [[an8.11-pali-pts]] 📜  [[an8.13-pali-pts]] ►

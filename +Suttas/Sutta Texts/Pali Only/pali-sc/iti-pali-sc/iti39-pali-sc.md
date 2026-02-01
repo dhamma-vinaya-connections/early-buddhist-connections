@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI39-PALI"
+sutta_code: "ITI39"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Desanāsutta "
+  - "Teaching"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI39-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI39]]
 > ◄  [[iti38-pali-sc]] 📜  [[iti40-pali-sc]] ►
 
 # Iti 39. Vijjāsuttaṃ
@@ -29,6 +29,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti39-) 
 

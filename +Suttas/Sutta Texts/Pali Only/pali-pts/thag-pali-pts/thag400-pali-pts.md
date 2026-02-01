@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG400-PALI"
+sutta_code: "THAG400"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG400-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG400]]
 > ◄  [[thag399-pali-pts]] 📜  [[thag401-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yo ve taṃ sahatī jammiṃ taṇhaṃ loke duraccayaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag400-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP7-PALI"
+sutta_code: "DHP7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Arahantavagga "
+  - "Perfected Ones"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP7]]
 > ◄  [[dhp6-pali-sc]] 📜  [[dhp8-pali-sc]] ►
 
 # ARAHANTA VAGGA
@@ -57,6 +57,11 @@ Ramaṇīyāni araññāni, yattha na ramatī jano; vītarāgā ramissanti, na t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 26 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP7]]
+> ◄  [[dhp6-pali-sc]] 📜  [[dhp8-pali-sc]] ►

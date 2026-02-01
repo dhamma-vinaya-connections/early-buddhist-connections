@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN10-PALI"
+sutta_code: "MN10"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahāsatipaṭṭhāna Sutta "
+  - "Mindfulness Meditation"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN10]]
 > ◄  [[mn9-pali-sri]] 📜  [[mn11-pali-sri]] ►
 
 # 10. Satipatthana Sutta - Pali
@@ -252,6 +252,20 @@ Piyagāravapaṇḍarasallikhano tathadiṭṭhi satī dasamo paṭhamo.*
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn10-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DN22]]; [[MN119]]; [[MN141]] | [[EA12.1]]; [[EA27.1]]; [[MA31]]; [[MA81]]; [[MA98]] | M i 55 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN22]]; [[EA12.1]]; [[MA98]]; [[MA31]]; [[MN119]]; [[MA81]]; [[MN141]]; [[EA27.1]]; [[SN47.1]]; [[MN9]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN22]], [[SN47]], [[MN119]], [[MN118]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN10]]
+> ◄  [[mn9-pali-sri]] 📜  [[mn11-pali-sri]] ►

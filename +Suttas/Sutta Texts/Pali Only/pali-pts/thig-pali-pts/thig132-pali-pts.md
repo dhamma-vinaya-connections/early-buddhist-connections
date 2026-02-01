@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG132-PALI"
+sutta_code: "THIG132"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG132-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG132]]
 > ◄  [[thig131-pali-pts]] 📜  [[thig133-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ puttasoken'; ahaṃ aṭṭā khittacittā visaññinī |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig132-) 
 

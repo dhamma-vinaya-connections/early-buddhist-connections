@@ -4,10 +4,10 @@ sutta_title:
   - "Sūciloma "
   - "Spiky Spirit"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
 > ◄  [[snp2.4-deepseek-pali]] 📜  [[snp2.6-deepseek-pali]] ►
 
 # Snp 2.5 Sūcilomasuttaṃ
@@ -63,8 +63,7 @@ The Sūciloma Sutta, the fifth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ The Sūciloma Sutta, the fifth, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN21]], [[SNP4:11]], [[DHP1]], [[DHP2]], [[DHP347]], [[UD1.7]], [[UD4.4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.5]]
 > ◄  [[snp2.4-deepseek-pali]] 📜  [[snp2.6-deepseek-pali]] ►

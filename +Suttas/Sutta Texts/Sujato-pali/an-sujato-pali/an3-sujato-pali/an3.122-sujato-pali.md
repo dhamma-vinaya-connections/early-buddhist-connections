@@ -3,11 +3,11 @@ sutta_code: "AN3.122"
 sutta_title:
   - "Soceyya "
   - "Purity"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.122]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.122]]
 > ◄  [[an3.121-sujato-pali]] 📜  [[an3.123-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -66,8 +66,7 @@ Dve soceyyāni moneyyanti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.122-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -78,6 +77,5 @@ Dve soceyyāni moneyyanti.
 | [[ITI67]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.122]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.122]]
 > ◄  [[an3.121-sujato-pali]] 📜  [[an3.123-sujato-pali]] ►

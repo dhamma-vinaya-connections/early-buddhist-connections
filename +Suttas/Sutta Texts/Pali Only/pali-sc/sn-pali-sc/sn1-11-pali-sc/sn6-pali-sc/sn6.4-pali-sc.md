@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.4-PALI"
+sutta_code: "SN6.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bakabrahmasutta "
+  - "Brahma Baka"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
 > ◄  [[sn6.3-pali-sc]] 📜  [[sn6.5-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -71,6 +71,16 @@ Obhāsayaṁ tiṭṭhati brahmalokan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[JA405]] | [[SA-2.108]], [[SA1195]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.108]], [[SA1195]], [[JA405]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
+> ◄  [[sn6.3-pali-sc]] 📜  [[sn6.5-pali-sc]] ►

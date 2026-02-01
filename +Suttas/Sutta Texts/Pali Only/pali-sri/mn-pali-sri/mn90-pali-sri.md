@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN90-PALI"
+sutta_code: "MN90"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Kaṇṇakatthala Sutta "
+  - "At Kaṇṇakatthala"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-pali-sri]] 📜  [[mn91-pali-sri]] ►
 
 # 90. Kannakatthala Sutta - Pali
@@ -180,6 +180,16 @@ Dhammacetiya suttaṃ ca dasamaṃ kaṇṇakatthalaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn90-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA212]] | M ii 125 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA212]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
+> ◄  [[mn89-pali-sri]] 📜  [[mn91-pali-sri]] ►

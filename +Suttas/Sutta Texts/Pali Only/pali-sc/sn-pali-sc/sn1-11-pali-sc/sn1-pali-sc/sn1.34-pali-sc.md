@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.34-PALI"
+sutta_code: "SN1.34"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nasantisutta "
+  - "There Are No"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.34-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.34]]
 > ◄  [[sn1.33-pali-sc]] 📜  [[sn1.35-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -62,6 +62,16 @@ Saṅgātigā tepi bhavanti bhikkhū"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.34-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP221]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.34]]
+> ◄  [[sn1.33-pali-sc]] 📜  [[sn1.35-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD2.6-PALI"
+sutta_code: "UD2.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Gabhini Sutta "
+  - "The Pregnant Woman"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6]]
 > ◄  [[ud2.3-pali-pts]] 📜  [[ud2.8-pali-pts]] ►
 
 ## Udāna
@@ -45,6 +45,7 @@ iccheyyām'; āhaṃ bhagavā aññāni pi evarūpāni satta puttānī 'ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.6]]
+> ◄  [[ud2.3-pali-pts]] 📜  [[ud2.8-pali-pts]] ►

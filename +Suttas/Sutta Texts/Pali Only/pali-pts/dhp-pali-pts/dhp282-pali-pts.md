@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP282-PALI"
+sutta_code: "DHP282"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP282-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP282]]
 > ◄  [[dhp281-pali-pts]] 📜  [[dhp283-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ vanaṃ chindatha, mā rukkhaṃ, vanato jāyatī bhayaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp282-) 
 

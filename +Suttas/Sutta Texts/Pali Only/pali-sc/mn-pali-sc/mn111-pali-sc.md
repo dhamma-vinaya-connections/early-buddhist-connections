@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN111-PALI"
+sutta_code: "MN111"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Anupada Sutta "
+  - "One by One"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN111-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN111]]
 > ◄  [[mn110-pali-sc]] 📜  [[mn112-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -73,6 +73,15 @@ Yaṁ kho taṁ, bhikkhave, sammā vadamāno vadeyya: ‘bhagavato putto oraso m
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn111-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M iii 25 |
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN9.34]], [[9.36]]]]; [[[[SN22.5]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN111]]
+> ◄  [[mn110-pali-sc]] 📜  [[mn112-pali-sc]] ►

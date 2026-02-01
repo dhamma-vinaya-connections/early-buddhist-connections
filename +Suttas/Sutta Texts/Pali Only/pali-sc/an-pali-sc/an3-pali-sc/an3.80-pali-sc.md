@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.80-PALI"
+sutta_code: "AN3.80"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ājānīya "
+  - "Thoroughbred"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.80-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.80]]
 > ◄  [[an3.79-pali-sc]] 📜  [[an3.81-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -71,6 +71,16 @@ Dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.80-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA423-425]] | A i 245 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA423-425]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.80]]
+> ◄  [[an3.79-pali-sc]] 📜  [[an3.81-pali-sc]] ►

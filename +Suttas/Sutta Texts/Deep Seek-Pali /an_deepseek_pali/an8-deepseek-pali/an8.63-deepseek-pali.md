@@ -4,10 +4,10 @@ sutta_title:
   - "Saṃkhitta "
   - "Dhamma In Brief"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.63]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.63]]
 > ◄  [[an8.62-deepseek-pali]] 📜  [[an8.64-deepseek-pali]] ►
 
 # AN 8.63 Saṃkhittasuttaṃ
@@ -63,8 +63,7 @@ Then that monk, having been exhorted by the Blessed One with this instruction, r
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.63-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Then that monk, having been exhorted by the Blessed One with this instruction, r
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.53]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.63]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.63]]
 > ◄  [[an8.62-deepseek-pali]] 📜  [[an8.64-deepseek-pali]] ►

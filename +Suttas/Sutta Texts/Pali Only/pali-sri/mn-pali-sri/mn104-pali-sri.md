@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN104-PALI"
+sutta_code: "MN104"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sāmagāma Sutta "
+  - "At Sāmagāma"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN104-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN104]]
 > ◄  [[mn103-pali-sri]] 📜  [[mn105-pali-sri]] ►
 
 # 104. Samagama - Pali
@@ -207,6 +207,20 @@ Sāmagāma suttaṃ catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn104-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN6.36]] | [[MA196]] | M ii 243 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA196]]; [[AN6.36]]; [[DN33]]; [[PLI-TV-KD14]]; [[PLI-TV-PVR4]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN103]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN104]]
+> ◄  [[mn103-pali-sri]] 📜  [[mn105-pali-sri]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP215-PALI"
+sutta_code: "DHP215"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP215-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP215]]
 > ◄  [[dhp214-pali-pts]] 📜  [[dhp216-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ taṇhāya jāyatī soko taṇhāya jāyatī bhayaṃ, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp215-) 
 

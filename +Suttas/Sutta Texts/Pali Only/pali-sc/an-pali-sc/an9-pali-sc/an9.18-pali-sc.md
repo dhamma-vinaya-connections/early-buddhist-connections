@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.18-PALI"
+sutta_code: "AN9.18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Navaṅguposatha "
+  - "Sabbath With Nine Factors"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.18]]
 > ◄  [[an9.17-pali-sc]] 📜  [[an9.19-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -29,6 +29,16 @@ Aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.41]] | [[EA43.2]] | A iv 388 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.41]], [[EA43.2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.18]]
+> ◄  [[an9.17-pali-sc]] 📜  [[an9.19-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG76-PALI"
+sutta_code: "THAG76"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG76-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG76]]
 > ◄  [[thag75-pali-pts]] 📜  [[thag77-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ Idaṃ pure cittam acāri cārikaṃ yen'-icchakaṃ yatthakāmaṃ yathāsukha�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag76-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG3-PALI"
+sutta_code: "THAG3"
 sutta_title:
-  - " "
-  - ""
+  - "Tikanipātavagga "
+  - "Trees Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG3]]
 > ◄  [[thag2-pali-eng]] 📜  [[thag4-pali-eng]] ►
 
 # Thag 3. Tikanipāto
@@ -253,6 +253,5 @@ Just as one who boards a small plank would sink in the great ocean, so even one 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag3-) 
 

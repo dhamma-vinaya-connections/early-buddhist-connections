@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG592-PALI"
+sutta_code: "THAG592"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG592-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG592]]
 > ◄  [[thag591-pali-pts]] 📜  [[thag593-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ sīlañ ca bāhusaccañ ca dhammānaṃ pavicayo yathābhūtaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag592-) 
 

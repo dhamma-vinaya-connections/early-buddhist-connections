@@ -4,10 +4,10 @@ sutta_title:
   - "馬邑 "
   - "Discourse at Assapura 2"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI9]]
 > ◄  [[iti8-deepseek-pali]] 📜  [[iti10-deepseek-pali]] ►
 
 # Iti 9 Lobhapariññāsuttaṃ
@@ -29,6 +29,5 @@ This meaning, too, was spoken by the Blessed One, thus have I heard. Ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti9-) 
 

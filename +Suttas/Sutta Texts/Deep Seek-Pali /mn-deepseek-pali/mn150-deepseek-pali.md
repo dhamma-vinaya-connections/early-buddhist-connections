@@ -4,10 +4,10 @@ sutta_title:
   - "Nagaravindeyya Sutta "
   - "With the People of Nagaravinda"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
 > ◄  [[mn149-deepseek-pali]] 📜  [[]] ►
 
 # 150. Indriyabhāvanāsuttaṃ
@@ -107,8 +107,7 @@ The Middle Length Discourses are completed.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn150-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -119,6 +118,5 @@ The Middle Length Discourses are completed.
 | [[SA280]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
 > ◄  [[mn149-deepseek-pali]] 📜  [[]] ►

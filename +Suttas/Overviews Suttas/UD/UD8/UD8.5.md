@@ -34,25 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[AN8.68-70]]"
-  - "[[DN16]]"
-  - "[[SN51.10]]"
-  - "[[UD6.1]]"
-  - "[[UD8.6]]"
-parallels_agama:
-  - ""
-parallels_partilal:
-  - "[[DN16]]"
-  - "[[AN8.68-70]]"
-  - "[[DA2]]"
-  - "[[UD6.1]]"
-  - "[[UD8.6]]"
-  - "[[SN51.10]]"
-  - "[[AN10.176]]"
-  - "[[PE2]]"
-  - "[[PE8]]"
+parallels_nikaya: "[[AN8.68-70]], [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.6]]"
+parallels_agama: ""
+parallels_partilal: "[[DN16]], [[AN8.68-70]], [[DA2]], [[UD6.1]], [[UD8.6]], [[SN51.10]], [[AN10.176]], [[PE2]], [[PE8]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.4]]  🌐 [[UD8.6]] ►
 
@@ -84,8 +68,7 @@ is totally unbound.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.5-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -100,8 +83,7 @@ is totally unbound.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[AN10:176]], [[SN1.5]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BUD8.5%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BUD8.5%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -112,7 +94,7 @@ is totally unbound.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BUD8.5%5D%5D%22%23mynotes%20-file%3Aud8.5-%20-file%3A%22UD8.4%22%20-file%3A%22UD8.6%22%20-file%3A%22UD8.5%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/ud8.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.5

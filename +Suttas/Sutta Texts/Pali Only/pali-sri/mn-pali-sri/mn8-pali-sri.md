@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN8-PALI"
+sutta_code: "MN8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sallekha Sutta "
+  - "Self-Effacement"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN8]]
 > ◄  [[mn7-pali-sri]] 📜  [[mn9-pali-sri]] ►
 
 # 8. Sallekha Sutta - Pali
@@ -316,6 +316,20 @@ Sallekhasuttaṃ aṭṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA47.9]]; [[MA91]] | M i 40 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA91]]; [[EA47.9]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN3]], [[MN15]], [[MN7]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN8]]
+> ◄  [[mn7-pali-sri]] 📜  [[mn9-pali-sri]] ►

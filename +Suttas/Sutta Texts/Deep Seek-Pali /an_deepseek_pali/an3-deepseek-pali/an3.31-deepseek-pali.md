@@ -4,10 +4,10 @@ sutta_title:
   - "Paṇḍita "
   - "Wise"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.31]]
 > ◄  [[an3.30-deepseek-pali]] 📜  [[an3.32-deepseek-pali]] ►
 
 # AN 3.31 Sabrahmakasuttaṃ
@@ -35,8 +35,7 @@ By that attendance upon parents, the wise are praised in this life, and after de
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.31-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ By that attendance upon parents, the wise are praised in this life, and after de
 | [[AN4.63]], [[ITI106]], [[JA532]], [[SN7.19]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.31]]
 > ◄  [[an3.30-deepseek-pali]] 📜  [[an3.32-deepseek-pali]] ►

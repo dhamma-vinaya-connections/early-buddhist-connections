@@ -4,10 +4,10 @@ sutta_title:
   - "Panthaka Sutta "
   - "Cūḷa Panthaka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.10]]
 > ◄  [[ud5.9-deepseek-pali]] 📜  [[]] ►
 
 # Ud 5.10 Cūḷapanthakasuttaṃ
@@ -47,9 +47,7 @@ The verses on dear ones, short-livedness, the leper, the boys, the Uposatha obse
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.10-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.10]]
 > ◄  [[ud5.9-deepseek-pali]] 📜  [[]] ►

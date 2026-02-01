@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN49-PALI"
+sutta_code: "MN49"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Brahmanimantanika Sutta "
+  - "Brahma invitation"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-pali-sc]] 📜  [[mn50-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -109,6 +109,20 @@ Asammāsambuddhāva pana te, pāpima, samānā sammāsambuddhāmhāti paṭijān
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn49-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA78]] | M i 326 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA78]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN11]]; [[MN1]]; [[MN72]]; [[MN86]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
+> ◄  [[mn48-pali-sc]] 📜  [[mn50-pali-sc]] ►

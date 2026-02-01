@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN5.1-PALI"
+sutta_code: "SN5.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Āḷavikāsutta "
+  - "Āḷavikā"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
 > ◄  [[]] 📜  [[sn5.2-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -36,6 +36,16 @@ Atha kho Māro pāpimā jānāti maṃ Āḷavikā bhikkhunī ti dukkhī dummano
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.214]], [[SA1198]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.214]], [[SA1198]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
+> ◄  [[]] 📜  [[sn5.2-pali-pts]] ►

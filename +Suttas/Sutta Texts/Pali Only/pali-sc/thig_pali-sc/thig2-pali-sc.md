@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG2-PALI"
+sutta_code: "THIG2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dukanipātavagga "
+  - "Twos Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG2]]
 > ◄  [[thig1-pali-sc]] 📜  [[thig3-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -147,6 +147,5 @@ kataṁ buddhassa sāsanan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig2-) 
 

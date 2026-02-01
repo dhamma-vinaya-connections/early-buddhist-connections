@@ -4,10 +4,10 @@ sutta_title:
   - "Āḷavikāsutta "
   - "Āḷavikā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
 > ◄  [[]] 📜  [[sn5.2-deepseek-pali]] ►
 
 # SN 5.1 Āḷavikāsuttaṃ
@@ -43,8 +43,7 @@ Then Māra the Evil One, [thinking,] “The bhikkhunī Āḷavikā knows me,” 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then Māra the Evil One, [thinking,] “The bhikkhunī Āḷavikā knows me,” 
 | [[SA-2.214]], [[SA1198]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
 > ◄  [[]] 📜  [[sn5.2-deepseek-pali]] ►

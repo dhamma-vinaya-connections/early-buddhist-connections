@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP35-PALI"
+sutta_code: "DHP35"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP35-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP35]]
 > ◄  [[dhp34-pali-pts]] 📜  [[dhp36-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ sududdasaṃ sunipuṇaṃ yatthakāmanipātinaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp35-) 
 

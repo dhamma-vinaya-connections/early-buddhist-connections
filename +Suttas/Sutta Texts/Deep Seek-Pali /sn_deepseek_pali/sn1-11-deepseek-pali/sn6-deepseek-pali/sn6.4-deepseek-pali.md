@@ -4,10 +4,10 @@ sutta_title:
   - "Bakabrahmasutta "
   - "Brahma Baka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
 > ◄  [[sn6.3-deepseek-pali]] 📜  [[sn6.5-deepseek-pali]] ►
 
 # SN 6.4 Bakabrahmasuttaṃ
@@ -63,8 +63,7 @@ When this was said, the Blessed One said to Brahmā Baka: “It seems, good Brah
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ When this was said, the Blessed One said to Brahmā Baka: “It seems, good Brah
 | [[SA-2.108]], [[SA1195]], [[JA405]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
 > ◄  [[sn6.3-deepseek-pali]] 📜  [[sn6.5-deepseek-pali]] ►

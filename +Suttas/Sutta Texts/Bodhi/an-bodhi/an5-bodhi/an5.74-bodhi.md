@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.74]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.74]]
 > ◄  [[an5.73-bodhi]] 📜  [[an5.75-bodhi]] ►
 
 # AN5.74 One Who Dwells in the Dhamma (2)
@@ -35,8 +35,7 @@ Then a certain bhikkhu approached the Blessed One, paid homage to him, sat down 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.74-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -46,6 +45,5 @@ Then a certain bhikkhu approached the Blessed One, paid homage to him, sat down 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.64]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.74]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.74]]
 > ◄  [[an5.73-bodhi]] 📜  [[an5.75-bodhi]] ►

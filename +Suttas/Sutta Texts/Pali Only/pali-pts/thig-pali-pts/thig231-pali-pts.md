@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG231-PALI"
+sutta_code: "THIG231"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG231-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG231]]
 > ◄  [[thig230-pali-pts]] 📜  [[thig232-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ esā antaradhāyāmi kucchiṃ vā pavisāmi te |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig231-) 
 

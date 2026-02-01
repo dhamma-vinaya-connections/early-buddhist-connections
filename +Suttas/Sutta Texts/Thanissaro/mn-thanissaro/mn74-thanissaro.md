@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN74]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN74]]
 > ◄  [[mn72-thanissaro]] 📜  [[mn75-thanissaro]] ►
 
 ## MN74 To LongNails
@@ -54,8 +54,7 @@ Then LongNails the wanderer—having seen the Dhamma, having attained the Dhamma
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn74-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -70,6 +69,5 @@ Then LongNails the wanderer—having seen the Dhamma, having attained the Dhamma
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN111]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN74]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN74]]
 > ◄  [[mn72-thanissaro]] 📜  [[mn75-thanissaro]] ►

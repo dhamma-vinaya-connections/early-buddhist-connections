@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN82-PALI"
+sutta_code: "MN82"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Raṭṭhapāla Sutta "
+  - "With Raṭṭhapāla"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
 > ◄  [[mn81-pali-sri]] 📜  [[mn83-pali-sri]] ►
 
 # 82. Ratthapala Sutta - Pali
@@ -454,6 +454,20 @@ Raṭṭhapālasuttaṃ dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn82-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP147]] | [[MA132]] | M ii 54 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA132]]; [[PLI-TV-BU-VB-PJ1]]; [[DHP147]]; [[THAG16.4]]; [[THAG20.1]]; [[JA467]]; [[SNP1.3]]; [[JA524]]; [[PE2]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[THAG16.4]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
+> ◄  [[mn81-pali-sri]] 📜  [[mn83-pali-sri]] ►

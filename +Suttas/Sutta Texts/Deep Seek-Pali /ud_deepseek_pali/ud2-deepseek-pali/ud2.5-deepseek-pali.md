@@ -4,10 +4,10 @@ sutta_title:
   - "Upasaka Sutta "
   - "The Lay Follower"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.5]]
 > ◄  [[ud2.4-deepseek-pali]] 📜  [[ud2.6-deepseek-pali]] ►
 
 # Ud 2.5 Upāsakasuttaṃ
@@ -38,9 +38,7 @@ A person bound amidst the crowd!"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.5-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.5]]
 > ◄  [[ud2.4-deepseek-pali]] 📜  [[ud2.6-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Dasuttara Sutta "
   - "Up to Ten"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN34]]
 > ◄  [[dn33-deepseek-pali]] 📜  [[]] ►
 
 # Dasuttarasuttaṃ
@@ -999,8 +999,7 @@ The Collection of Long Discourses is complete.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -1011,6 +1010,5 @@ The Collection of Long Discourses is complete.
 | [[AN5.205]], [[DN33]], [[AN9.71]], [[MN16]], [[DA10]], [[AN10.14]], [[EA51.4]], [[MA206]], [[AN8.120]], [[AN1.447-454]], [[MN137]], [[AN8.66]], [[DN16]], [[DN15]], [[MN77]], [[DA11]], [[DA9]], [[AN5.206]], [[AN9.72]], [[AN9.82]], [[AN9.92]], [[AN10.106]], [[AN10.19]], [[AN10.25]], [[AN10.29]], [[AN8.65]], [[AN1.439]], [[AN8.119]], [[AN10.71]], [[AN4.12]], [[ITI111]], [[AN10.17]], [[AN10.79]], [[AN9.29]], [[AN10.80]], [[AN9.30]], [[AN6.2]], [[EA37.5]], [[AN7.44]], [[EA39.5]], [[AN8.29]], [[AN8.30]], [[AN8.80]], [[AN9.32]], [[PE6]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN34]]
 > ◄  [[dn33-deepseek-pali]] 📜  [[]] ►

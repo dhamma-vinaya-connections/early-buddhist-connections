@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.4-PALI"
+sutta_code: "SNP5.4"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Puṇṇakamāṇavapucchā "
+  - "Questions of the Student Puṇṇaka"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.4]]
 > ◄  [[snp5.3-pali-sc]] 📜  [[snp5.5-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -74,6 +74,20 @@ Puṇṇakamāṇavapucchā tatiyā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.4-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN3.32]], [[AN4.41]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SNP3.4]], [[AN3:32ANDAN4:41]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.4]]
+> ◄  [[snp5.3-pali-sc]] 📜  [[snp5.5-pali-sc]] ►

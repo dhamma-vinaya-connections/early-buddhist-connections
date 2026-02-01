@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP192-PALI"
+sutta_code: "DHP192"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP192-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP192]]
 > ◄  [[dhp191-pali-pts]] 📜  [[dhp193-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ dullabho purisājañño na so sabbattha jāyati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp192-) 
 

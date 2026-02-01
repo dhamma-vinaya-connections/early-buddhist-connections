@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG501-PALI"
+sutta_code: "THAG501"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG501-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG501]]
 > ◄  [[thag500-pali-pts]] 📜  [[thag502-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Akkodhano anupanāhī amāyo rittapesuṇo
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag501-) 
 

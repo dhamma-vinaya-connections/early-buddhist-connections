@@ -4,10 +4,10 @@ sutta_title:
   - "Jatukaṇṇimāṇavapucchā "
   - "Questions of the Student Jatukaṇṇī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.12]]
 > ◄  [[snp5.11-deepseek-pali]] 📜  [[snp5.13-deepseek-pali]] ►
 
 # Snp 5.12 Jatukaṇṇimāṇavapucchā
@@ -59,9 +59,7 @@ The The Questions of the Young Man Jatukaṇṇi, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.12-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.12]]
 > ◄  [[snp5.11-deepseek-pali]] 📜  [[snp5.13-deepseek-pali]] ►

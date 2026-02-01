@@ -4,10 +4,10 @@ sutta_title:
   - "Assakhaḷuṅka "
   - "Unruly"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.14]]
 > ◄  [[an8.13-deepseek-pali]] 📜  [[an8.15-deepseek-pali]] ►
 
 # AN 8.14 Assakhaḷuṅkasuttaṃ
@@ -87,8 +87,7 @@ Furthermore, monks, a monk accuses another monk of an offense. That monk, being 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ Furthermore, monks, a monk accuses another monk of an offense. That monk, being 
 | [[AN8.13]], [[SA-2.150]], [[SA925]], [[SA-2.149]], [[SA924]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.14]]
 > ◄  [[an8.13-deepseek-pali]] 📜  [[an8.15-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN9.29-PALI"
+sutta_code: "AN9.29"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Āghātavatthu "
+  - "Resentment Grounds"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.29-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.29]]
 > ◄  [[an9.28-pali-pts]] 📜  [[an9.30-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Yato kho bhikkhave ariyasāvakassa imāni pañca bhayāni verāni vūpasantāni 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.29-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN10.79]] |  | A iv 408 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN10.79]], [[AN10.80]], [[AN9.30]], [[DN33]], [[DN34]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.29]]
+> ◄  [[an9.28-pali-pts]] 📜  [[an9.30-pali-pts]] ►

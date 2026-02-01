@@ -4,10 +4,10 @@ sutta_title:
   - "Anuruddha "
   - "With Anuruddha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.130]]
 > ◄  [[an3.129-deepseek-pali]] 📜  [[an3.131-deepseek-pali]] ►
 
 # AN 3.130 Dutiyaanuruddhasuttaṃ
@@ -31,12 +31,11 @@ Then, after some time, the Venerable Anuruddha, having abandoned these three qua
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.130-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A i 281 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.130]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.130]]
 > ◄  [[an3.129-deepseek-pali]] 📜  [[an3.131-deepseek-pali]] ►

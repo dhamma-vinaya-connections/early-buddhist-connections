@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG70-PALI"
+sutta_code: "THAG70"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG70-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG70]]
 > ◄  [[thag69-pali-pts]] 📜  [[thag71-pali-pts]] ►
 
 ## Theragāthā
@@ -26,6 +26,5 @@ Susukhumanipuṇatthadassinā matikusalena nivātavuttinā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag70-) 
 

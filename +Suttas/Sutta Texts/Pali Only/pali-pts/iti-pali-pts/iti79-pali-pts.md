@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI79-PALI"
+sutta_code: "ITI79"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Parihāna "
+  - "Decline"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI79-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI79]]
 > ◄  [[iti78-pali-pts]] 📜  [[iti80-pali-pts]] ►
 
 ## Itivuttaka
@@ -33,6 +33,7 @@ parihānena (79) te dasā-ti ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti79-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI79]]
+> ◄  [[iti78-pali-pts]] 📜  [[iti80-pali-pts]] ►

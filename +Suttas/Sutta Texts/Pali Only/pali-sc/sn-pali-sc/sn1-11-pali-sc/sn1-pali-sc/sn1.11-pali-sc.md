@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.11-PALI"
+sutta_code: "SN1.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nandanasutta "
+  - "Nandana"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
 > ◄  [[sn1.10-pali-sc]] 📜  [[sn1.12-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -39,6 +39,16 @@ tesaṁ vūpasamo sukho’"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[JA95]] | [[EA31.9]], [[SA-2.161]], [[SA576]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[DN16]], [[SN15.20]], [[SN6.15]], [[THAG20.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
+> ◄  [[sn1.10-pali-sc]] 📜  [[sn1.12-pali-sc]] ►

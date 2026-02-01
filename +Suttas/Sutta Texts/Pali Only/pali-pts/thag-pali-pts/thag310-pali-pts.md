@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG310-PALI"
+sutta_code: "THAG310"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG310-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG310]]
 > ◄  [[thag309-pali-pts]] 📜  [[thag311-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Pabbajiṃ jīvikattho 'haṃ, laddhāna upasampadaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag310-) 
 

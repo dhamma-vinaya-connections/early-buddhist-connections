@@ -4,10 +4,10 @@ sutta_title:
   - "Mūla "
   - "Roots"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI50]]
 > ◄  [[iti49-deepseek-pali]] 📜  [[iti51-deepseek-pali]] ►
 
 # Iti 50 Dhātusuttaṃ
@@ -29,8 +29,7 @@ This meaning too was spoken by the Blessed One, so I have heard. Second.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti50-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This meaning too was spoken by the Blessed One, so I have heard. Second.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN9]], [[DHP164]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI50]]
 > ◄  [[iti49-deepseek-pali]] 📜  [[iti51-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Vāseṭṭha Sutta "
   - "With Vāseṭṭha"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN98]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN98]]
 > ◄  [[mn97-deepseek-pali]] 📜  [[mn99-deepseek-pali]] ►
 
 # 98. Vāseṭṭhasuttaṃ
@@ -297,8 +297,7 @@ The Vāseṭṭha Sutta, the eighth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn98-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -309,6 +308,5 @@ The Vāseṭṭha Sutta, the eighth, is concluded.
 | [[SNP3.9]]; [[DHP386]]; [[SNP5.14]]; [[DHP396]]; [[DHP397]]; [[DHP398]]; [[DHP399]]; [[DHP400]]; [[DHP401]]; [[DHP402]]; [[DHP403]]; [[DHP404]]; [[DHP405]]; [[DHP406]]; [[DHP407]]; [[DHP408]]; [[DHP409]]; [[DHP410]]; [[DHP411]]; [[DHP412]]; [[DHP413]]; [[DHP414]]; [[DHP415]]; [[DHP416]]; [[DHP417]]; [[DHP418]]; [[DHP419]]; [[DHP420]]; [[DHP421]]; [[DHP422]]; [[DHP423]]; [[AN3.58]]; [[AN3.59]]; [[ITI99]]; [[MN91]]; [[SN7.13]]; [[SN7.8]]; [[THIG4.1]]; [[PE2]]; [[THAG12.2]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN98]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN98]]
 > ◄  [[mn97-deepseek-pali]] 📜  [[mn99-deepseek-pali]] ►

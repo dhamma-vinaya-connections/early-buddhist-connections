@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG140-PALI"
+sutta_code: "THAG140"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG140-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG140]]
 > ◄  [[thag139-pali-pts]] 📜  [[thag141-pali-pts]] ►
 
 ## Theragāthā
@@ -26,6 +26,5 @@ Sussūsā sutavaḍḍhanī, sutaṃ paññāya vaḍḍhanaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag140-) 
 

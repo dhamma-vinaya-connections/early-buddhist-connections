@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG100-PALI"
+sutta_code: "THAG100"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG100-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG100]]
 > ◄  [[thag99-pali-pts]] 📜  [[thag101-pali-pts]] ►
 
 ## Theragāthā
@@ -27,6 +27,5 @@ Hitvā gihitvaṃ anavositatto mukhanaṅgalī odariko kusīto
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag100-) 
 

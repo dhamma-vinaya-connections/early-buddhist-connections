@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA171]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA171]]
 > ◄  [[ma170]] 📜  [[ma172]] ►
 
 ### 171. The Discourse on a Great Analysis of Karma
@@ -53,8 +53,7 @@ realm of existence, in heaven. Ānanda, the Tathāgata knows that this person is
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma171-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ realm of existence, in heaven. Ānanda, the Tathāgata knows that this person is
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.61]], [[AN4.77]], [[AN6.63]], [[AN8.40.]], [[MA170]], [[MN135]], [[MN41]], [[SN36.11]], [[SN42.13]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA171]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA171]]
 > ◄  [[ma170]] 📜  [[ma172]] ►

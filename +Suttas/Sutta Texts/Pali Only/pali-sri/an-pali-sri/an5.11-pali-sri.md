@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.11-PALI"
+sutta_code: "AN5.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Vitthata "
+  - "In Detail"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.11]]
 > ◄  [[an5.10-pali-sri]] 📜  [[an6.1-pali-sri]] ►
 
 # 8:11 Ragadipeyyalam - Pali
@@ -88,6 +88,11 @@ Rāgādipeyyālaṃ niṭṭhitaṃ*
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 9 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.11]]
+> ◄  [[an5.10-pali-sri]] 📜  [[an6.1-pali-sri]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG22-PALI"
+sutta_code: "THAG22"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG22]]
 > ◄  [[thag21-pali-pts]] 📜  [[thag23-pali-pts]] ►
 
 ## Theragāthā
@@ -24,6 +24,5 @@ padakkhiṇaṃ sammasanto khandhānaṃ udayabbayaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag22-) 
 

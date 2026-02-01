@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN9.1-PALI"
+sutta_code: "SN9.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vivekasutta "
+  - "Seclusion"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN9.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.1]]
 > ◄  [[]] 📜  [[sn9.2-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -38,6 +38,20 @@ Atha kho so bhikkhu tāya devatāya saṃvejito saṃvegam āpādī ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.353]], [[SA1333]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.353]], [[SA1333]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN9.9]], [[SN9.14.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.1]]
+> ◄  [[]] 📜  [[sn9.2-pali-pts]] ►

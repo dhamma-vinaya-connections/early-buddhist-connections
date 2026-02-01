@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.61-PALI"
+sutta_code: "AN8.61"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Icchā "
+  - "Desire"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.61-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.61]]
 > ◄  [[an8.60-pali-pts]] 📜  [[an8.62-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -31,6 +31,16 @@ Bhayā dve āhuneyyā ca dve ca aṭṭhapuggalā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.61-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.77]] |  | A iv 293 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.77]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.61]]
+> ◄  [[an8.60-pali-pts]] 📜  [[an8.62-pali-pts]] ►

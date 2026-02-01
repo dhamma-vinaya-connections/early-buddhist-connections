@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG357-PALI"
+sutta_code: "THAG357"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG357-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG357]]
 > ◄  [[thag356-pali-pts]] 📜  [[thag358-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yathā varahayadamakusalo sārathi pavaro dameti ājaññaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag357-) 
 

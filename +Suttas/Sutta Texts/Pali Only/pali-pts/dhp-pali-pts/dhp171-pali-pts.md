@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP171-PALI"
+sutta_code: "DHP171"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP171-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP171]]
 > ◄  [[dhp170-pali-pts]] 📜  [[dhp172-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yo ca pubbe pamajjitvā pacchā so na-ppamajjati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp171-) 
 

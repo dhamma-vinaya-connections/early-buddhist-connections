@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG499-PALI"
+sutta_code: "THIG499"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG499-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG499]]
 > ◄  [[thig498-pali-pts]] 📜  [[thig500-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sara kāṇakacchapaṃ pubbe samudde aparato ca yugacchiddaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig499-) 
 

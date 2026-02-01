@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG1-PALI"
+sutta_code: "THIG1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ekakanipātavagga "
+  - "Ones Book"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG1]]
 > ◄  [[]] 📜  [[thig2-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ Mutte muccassu yogehi cando Rāhuggaho iva |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig1-) 
 

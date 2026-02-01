@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.124-PALI"
+sutta_code: "AN5.124"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Upaṭṭhāka "
+  - "Carer"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.124-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.124]]
 > ◄  [[an5.123-pali-pts]] 📜  [[an5.125-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Pañcahi bhikkhave dhammehi samannāgato gilāno supaṭṭhāko hoti. Katamehi 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.124-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA32.9]] | A iii 144 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA32.9]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.124]]
+> ◄  [[an5.123-pali-pts]] 📜  [[an5.125-pali-pts]] ►

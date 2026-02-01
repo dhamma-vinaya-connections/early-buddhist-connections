@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG14-PALI"
+sutta_code: "THAG14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cuddasakanipātavagga "
+  - "Fourteens Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG14]]
 > ◄  [[thag13-pali-sri]] 📜  [[thag15-pali-sri]] ►
 
 # 14. Cuddasa Nipatha - Pali
@@ -230,6 +230,5 @@ Cuddasanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag14-) 
 

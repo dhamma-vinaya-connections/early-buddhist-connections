@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG12-PALI"
+sutta_code: "THAG12"
 sutta_title:
-  - " "
-  - ""
+  - "Dvādasakanipātavagga "
+  - "Twelves Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG12]]
 > ◄  [[thag11-pali-eng]] 📜  [[thag13-pali-eng]] ►
 
 # Thag 12. Dvādasakanipāto
@@ -136,6 +136,5 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag12-) 
 

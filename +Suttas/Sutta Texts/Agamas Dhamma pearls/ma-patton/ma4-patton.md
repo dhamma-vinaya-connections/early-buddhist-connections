@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA4]]
 > ◄  [[ma3-patton]] 📜  [[ma5-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -112,8 +112,7 @@ The monks then accepted the teaching and listened.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -123,6 +122,5 @@ The monks then accepted the teaching and listened.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[ITI69]], [[SN5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA4]]
 > ◄  [[ma3-patton]] 📜  [[ma5-patton]] ►

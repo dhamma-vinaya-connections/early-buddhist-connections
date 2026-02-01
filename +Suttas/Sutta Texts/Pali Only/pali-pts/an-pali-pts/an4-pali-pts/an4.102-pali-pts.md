@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.102-PALI"
+sutta_code: "AN4.102"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mūsika "
+  - "Mice"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.102-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.102]]
 > ◄  [[an4.101-pali-pts]] 📜  [[an4.103-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -20,6 +20,20 @@ PTS: A ii 103
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.102-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA25.10]] | A ii 103 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA25.10]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.101]], [[AN4.102]], [[AN4.103]], [[AN4.104]], [[AN4.105]], [[AN4.106]], [[AN4.107]], [[AN4.108]], [[AN4.109]], [[AN4.110]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.102]]
+> ◄  [[an4.101-pali-pts]] 📜  [[an4.103-pali-pts]] ►

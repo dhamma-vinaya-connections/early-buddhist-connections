@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN99]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN99]]
 > ◄  [[mn98-bodhi]] 📜  [[mn100-bodhi]] ►
 
 # MN99 Subha Sutta - To Subha
@@ -143,8 +143,7 @@ Then the brahmin student Subha, Todeyya’s son, having delighted and rejoiced i
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn99-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -159,6 +158,5 @@ Then the brahmin student Subha, Todeyya’s son, having delighted and rejoiced i
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN97]], [[MA27]], [[SN3.17]]; [[SN41.7]]; [[SN41.10]]; [[AN4.178]]; [[AN10.15]], [[MN27]], [[MN95]], [[MN135]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN99]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN99]]
 > ◄  [[mn98-bodhi]] 📜  [[mn100-bodhi]] ►

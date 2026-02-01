@@ -4,10 +4,10 @@ sutta_title:
   - "Kalama "
   - "With The Kālāmas"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
 > ◄  [[an3.64-deepseek-pali]] 📜  [[an3.66-deepseek-pali]] ►
 
 # AN 3.65 Kesamuttisuttaṃ
@@ -231,8 +231,7 @@ Excellent, venerable sir... We go to the Blessed One for refuge, and to the Dham
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.65-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -243,6 +242,5 @@ Excellent, venerable sir... We go to the Blessed One for refuge, and to the Dham
 | [[MA16]], [[AN4.193]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
 > ◄  [[an3.64-deepseek-pali]] 📜  [[an3.66-deepseek-pali]] ►

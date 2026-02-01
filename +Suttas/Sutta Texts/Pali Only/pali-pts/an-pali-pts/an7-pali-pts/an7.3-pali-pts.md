@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.3-PALI"
+sutta_code: "AN7.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vitthatabala "
+  - "Powers In Detail"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.3]]
 > ◄  [[an7.2-pali-pts]] 📜  [[an7.4-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Satt'; imāni bhikkhave balāni. Katamāni satta?
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA688]], [[SA689]], [[SA690]] | A iv 3 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA688]], [[SA689]], [[SA690]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.3]]
+> ◄  [[an7.2-pali-pts]] 📜  [[an7.4-pali-pts]] ►

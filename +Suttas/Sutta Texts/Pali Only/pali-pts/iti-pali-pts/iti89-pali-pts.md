@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI89-PALI"
+sutta_code: "ITI89"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "馬邑 "
+  - "Discourse at Assapura 1"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI89-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI89]]
 > ◄  [[iti80-pali-pts]] 📜  [[iti98-pali-pts]] ►
 
 ## Itivuttaka
@@ -232,6 +232,20 @@ Pasāda (90) jīvita (91) saṅghāṭi (92) aggi (93) upaparikkhayā (94) | upa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti89-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD17]], [[PLI-TV-PVR7]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[ITI18]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI89]]
+> ◄  [[iti80-pali-pts]] 📜  [[iti98-pali-pts]] ►

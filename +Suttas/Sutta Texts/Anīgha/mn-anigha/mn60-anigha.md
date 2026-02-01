@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
 > ◄  [[mn59-anigha]] 📜  [[mn61-anigha]] ►
 
 # MN 60 - Unfailing
@@ -140,8 +140,7 @@ When he had spoken, the brahmins and householders of Sālā said to the Auspicio
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn60-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -156,6 +155,5 @@ When he had spoken, the brahmins and householders of Sālā said to the Auspicio
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN45]]; [[MN95]], [[DN2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN60]]
 > ◄  [[mn59-anigha]] 📜  [[mn61-anigha]] ►

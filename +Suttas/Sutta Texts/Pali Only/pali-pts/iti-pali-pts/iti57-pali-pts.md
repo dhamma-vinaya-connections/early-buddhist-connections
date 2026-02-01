@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI57-PALI"
+sutta_code: "ITI57"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Asava "
+  - "Defilements"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI57-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI57]]
 > ◄  [[iti56-pali-pts]] 📜  [[iti58-pali-pts]] ►
 
 ## Itivuttaka
@@ -29,6 +29,7 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||8||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti57-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI57]]
+> ◄  [[iti56-pali-pts]] 📜  [[iti58-pali-pts]] ►

@@ -3,11 +3,11 @@ sutta_code: "MN67"
 sutta_title:
   - "Cātuma Sutta "
   - "At Cātumā"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
 > ◄  [[mn66-sujato-pali]] 📜  [[mn68-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -191,8 +191,7 @@ Cātumasuttaṁ niṭṭhitaṁ sattamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn67-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -203,6 +202,5 @@ Cātumasuttaṁ niṭṭhitaṁ sattamaṁ.
 | [[SN22.80]]; [[EA45.2]]; [[AN4.122]]; [[UD3.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
 > ◄  [[mn66-sujato-pali]] 📜  [[mn68-sujato-pali]] ►

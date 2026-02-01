@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.17-PALI"
+sutta_code: "AN3.17"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Attabyābādha "
+  - "Hurting Yourself"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.17-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.17]]
 > ◄  [[an3.16-pali-pts]] 📜  [[an3.18-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,16 @@ Kāyasucaritaṃ vacīsucaritaṃ manosucaritaṃ. Ime kho bhikkhave tayo dhamm�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.17-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA1245]] | A i 114 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1245]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.17]]
+> ◄  [[an3.16-pali-pts]] 📜  [[an3.18-pali-pts]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Udapana Sutta "
   - "The Well"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.9]]
 > ◄  [[ud7.8-deepseek-pali]] 📜  [[ud7.10-deepseek-pali]] ►
 
 # Ud 7.9 Udapānasuttaṃ
@@ -47,9 +47,7 @@ Then, having understood this matter, the Blessed One on that occasion uttered th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.9-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.9]]
 > ◄  [[ud7.8-deepseek-pali]] 📜  [[ud7.10-deepseek-pali]] ►

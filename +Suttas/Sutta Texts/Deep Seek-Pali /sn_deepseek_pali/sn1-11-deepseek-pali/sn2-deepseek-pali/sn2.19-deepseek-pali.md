@@ -4,10 +4,10 @@ sutta_title:
   - "Uttarasutta "
   - "Uttarā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
 > ◄  [[sn2.18-deepseek-pali]] 📜  [[sn2.20-deepseek-pali]] ►
 
 # SN 2.19 Uttarasuttaṃ
@@ -31,8 +31,7 @@ Life is led on, its span is short; For one brought to old age, there are no prot
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Life is led on, its span is short; For one brought to old age, there are no prot
 | [[SN1.3]], [[SA-2.138]], [[SA1001]], [[AN3.51]], [[JA498]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
 > ◄  [[sn2.18-deepseek-pali]] 📜  [[sn2.20-deepseek-pali]] ►

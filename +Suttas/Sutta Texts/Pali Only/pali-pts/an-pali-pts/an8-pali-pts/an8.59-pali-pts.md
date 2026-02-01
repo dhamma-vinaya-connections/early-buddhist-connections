@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.59-PALI"
+sutta_code: "AN8.59"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Atthapuggala "
+  - "Individuals Eight"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.59-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.59]]
 > ◄  [[an8.58-pali-pts]] 📜  [[an8.60-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Aṭṭh'; ime bhikkhave puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalik
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.59-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA43.10]] | A iv 292 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA43.10]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.59]]
+> ◄  [[an8.58-pali-pts]] 📜  [[an8.60-pali-pts]] ►

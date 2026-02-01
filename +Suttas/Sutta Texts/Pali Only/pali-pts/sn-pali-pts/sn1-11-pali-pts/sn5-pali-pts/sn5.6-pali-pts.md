@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN5.6-PALI"
+sutta_code: "SN5.6"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Cālāsutta "
+  - "Cala"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN5.6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
 > ◄  [[sn5.5-pali-pts]] 📜  [[sn5.7-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -37,6 +37,20 @@ Atha kho Māro pāpimā || jānāti maṃ Cālā bhikkhunīti dukkhī dummano ta
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn5.6-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.221]], [[SA1205]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.221]], [[SA1205]], [[THIG7.3]], [[ITI73]], [[SNP3.12]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN6.15]], [[SN9.6.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
+> ◄  [[sn5.5-pali-pts]] 📜  [[sn5.7-pali-pts]] ►

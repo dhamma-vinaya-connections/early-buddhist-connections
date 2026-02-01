@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI49-PALI"
+sutta_code: "ITI49"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Diṭṭhigata "
+  - "Misconceptions"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI49-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI49]]
 > ◄  [[iti48-pali-sc]] 📜  [[iti50-pali-sc]] ►
 
 # Iti 49. Mūlasuttaṃ
@@ -25,6 +25,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Paṭhamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti49-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI49]]
+> ◄  [[iti48-pali-sc]] 📜  [[iti50-pali-sc]] ►

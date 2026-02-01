@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD8.5-PALI"
+sutta_code: "UD8.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Cunda Sutta "
+  - "Cunda"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.5]]
 > ◄  [[ud7.8-pali-pts]] 📜  [[ud8.6-pali-pts]] ►
 
 ## Udāna
@@ -34,6 +34,20 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Magadhesu cārikañ caramāno mahatā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.68-70]], [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.6]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DN16]], [[AN8.68-70]], [[DA2]], [[UD6.1]], [[UD8.6]], [[SN51.10]], [[AN10.176]], [[PE2]], [[PE8]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN16]], [[AN10:176]], [[SN1.5]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.5]]
+> ◄  [[ud7.8-pali-pts]] 📜  [[ud8.6-pali-pts]] ►

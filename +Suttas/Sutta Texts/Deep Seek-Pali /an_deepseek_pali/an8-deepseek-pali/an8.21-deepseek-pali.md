@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamaugga "
   - "With Ugga Of Vesālī"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.21]]
 > ◄  [[an8.20-deepseek-pali]] 📜  [[an8.22-deepseek-pali]] ►
 
 # AN 8.21 Paṭhamauggasuttaṃ
@@ -67,8 +67,7 @@ Then that bhikkhu, having received almsfood at the house of Ugga the householder
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Then that bhikkhu, having received almsfood at the house of Ugga the householder
 | [[MA38]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.21]]
 > ◄  [[an8.20-deepseek-pali]] 📜  [[an8.22-deepseek-pali]] ►

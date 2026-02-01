@@ -34,15 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-sutta_simile: ""
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[SA-2.305]]"
-  - "[[SA1306]]"
-parallels_partilal:
-  - "[[SA-2.305]]"
-  - "[[SA1306]]"
+parallels_nikaya: ""
+parallels_agama: "[[SA-2.305]], [[SA1306]]"
+parallels_partilal: "[[SA-2.305]], [[SA1306]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.28]]  🌐 [[SN2.30]] ►
 
@@ -66,8 +60,7 @@ Developed, well tamed, he awaits the time.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,8 +72,7 @@ Developed, well tamed, he awaits the time.
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BSN2.29%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BSN2.29%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -91,7 +83,7 @@ Developed, well tamed, he awaits the time.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BSN2.29%5D%5D%22%23mynotes%20-file%3Asn2.29-%20-file%3A%22SN2.28%22%20-file%3A%22SN2.30%22%20-file%3A%22SN2.29%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/sn2.29/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.29

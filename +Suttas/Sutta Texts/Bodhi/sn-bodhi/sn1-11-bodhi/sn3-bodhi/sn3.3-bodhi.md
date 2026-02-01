@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.3]]
 > ◄  [[sn3.2-bodhi]] 📜  [[sn3.4-bodhi]] ►
 
 # SN3.3 Aging and Death
@@ -29,8 +29,7 @@ At Sāvatthī. Sitting to one side, King Pasenadi of Kosala said to the Blesse
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ At Sāvatthī. Sitting to one side, King Pasenadi of Kosala said to the Blesse
 | [[EA26.6]], [[SA-2.67]], [[SA1240]], [[DHP151]], [[JA537]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.3]]
 > ◄  [[sn3.2-bodhi]] 📜  [[sn3.4-bodhi]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP258-PALI"
+sutta_code: "DHP258"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP258-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP258]]
 > ◄  [[dhp257-pali-pts]] 📜  [[dhp259-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ yo ca appam pi sutvāna dhammaṃ kāyena passati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp258-) 
 

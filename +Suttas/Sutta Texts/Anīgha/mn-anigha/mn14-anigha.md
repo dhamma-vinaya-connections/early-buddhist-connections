@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
 > ◄  [[mn13-anigha]] 📜  [[mn15-anigha]] ►
 
 # MN 14 - The Shorter Discourse on the Mass of Suffering
@@ -95,8 +95,7 @@ That is what the Auspicious One said. Pleased, Mahānāma the Sakyan delighted i
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ That is what the Auspicious One said. Pleased, Mahānāma the Sakyan delighted i
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN13]], [[MN54]]; [[SN35.63]]; [[SN35.115]]; [[SN35.189]]; [[SN36.6]]; [[AN2.30]]; [[AN6.63]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
 > ◄  [[mn13-anigha]] 📜  [[mn15-anigha]] ►

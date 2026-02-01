@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-bodhi]] 📜  [[mn91-bodhi]] ►
 
 # MN90 Kaṇṇakatthala Sutta - At Kaṇṇakatthala
@@ -141,8 +141,7 @@ King Pasenadi of Kosala said to the Blessed One: “Venerable sir, we have asked
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn90-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -153,6 +152,5 @@ King Pasenadi of Kosala said to the Blessed One: “Venerable sir, we have asked
 | [[MA212]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-bodhi]] 📜  [[mn91-bodhi]] ►

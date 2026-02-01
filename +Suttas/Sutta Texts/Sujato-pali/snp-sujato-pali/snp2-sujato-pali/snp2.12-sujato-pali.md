@@ -3,11 +3,11 @@ sutta_code: "SNP2.12"
 sutta_title:
   - "Nigrodhakappa (vaṅgīsa) "
   - "With Vaṅgīsa and Nigrodhakappa"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.12]]
 > ◄  [[snp2.11-sujato-pali]] 📜  [[snp2.13-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -228,8 +228,7 @@ Nigrodhakappasuttaṁ dvādasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -244,6 +243,5 @@ Nigrodhakappasuttaṁ dvādasamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN8]], [[DN16]], [[AN6.43]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.12]]
 > ◄  [[snp2.11-sujato-pali]] 📜  [[snp2.13-sujato-pali]] ►

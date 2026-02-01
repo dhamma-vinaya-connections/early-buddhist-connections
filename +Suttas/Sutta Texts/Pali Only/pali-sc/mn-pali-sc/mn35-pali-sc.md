@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN35-PALI"
+sutta_code: "MN35"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cūḷasaccaka Sutta "
+  - "Shorter Discourse With Saccaka"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
 > ◄  [[mn34-pali-sc]] 📜  [[mn36-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -185,6 +185,16 @@ Yaṁ kho, aggivessana, mādisaṁ dakkhiṇeyyaṁ āgamma vītarāgaṁ vītad
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn35-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN22.15]]; [[SN22.16]]; [[SN22.17]] | [[EA37.10]]; [[SA10]]; [[SA110]]; [[SA9]] | M i 227 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA37.10]]; [[SA110]]; [[SN22.15]]; [[SA10]]; [[SA9]]; [[SN22.16]]; [[SN22.17]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
+> ◄  [[mn34-pali-sc]] 📜  [[mn36-pali-sc]] ►

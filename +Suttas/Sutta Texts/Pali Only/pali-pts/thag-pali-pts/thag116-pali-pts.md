@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG116-PALI"
+sutta_code: "THAG116"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG116-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG116]]
 > ◄  [[thag115-pali-pts]] 📜  [[thag117-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Suvilitto suvasano sabbābharaṇabhūsito
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag116-) 
 

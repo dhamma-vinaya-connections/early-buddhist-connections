@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
 > ◄  [[mn113-bodhi]] 📜  [[mn115-bodhi]] ►
 
 # MN114 Sevitabbāsevitabba Sutta - To Be Cultivated and Not to Be
@@ -198,8 +198,7 @@ That is what the Blessed One said. The venerable Sāriputta was satisfied and d
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn114-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -210,6 +209,5 @@ That is what the Blessed One said. The venerable Sāriputta was satisfied and d
 | [[AN10.54]]; [[AN9.6]]; [[EA45.3]]; [[MA107]]; [[MA109]]; [[AN3.28]]; [[MN41]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
 > ◄  [[mn113-bodhi]] 📜  [[mn115-bodhi]] ►

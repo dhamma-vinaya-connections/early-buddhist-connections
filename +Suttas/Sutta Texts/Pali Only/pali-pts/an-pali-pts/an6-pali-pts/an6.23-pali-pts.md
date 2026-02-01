@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.23-PALI"
+sutta_code: "AN6.23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bhaya "
+  - "Dangers"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.23]]
 > ◄  [[an6.22-pali-pts]] 📜  [[an6.24-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Ye hi keci bhikkhave atītam addhānaṃ parihāyiṃsu kusalehi dhammehi, sabbe
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.23-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.56]] |  | A iii 310 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN8.56]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.23]]
+> ◄  [[an6.22-pali-pts]] 📜  [[an6.24-pali-pts]] ►

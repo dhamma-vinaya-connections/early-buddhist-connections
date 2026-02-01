@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.56-PALI"
+sutta_code: "AN5.56"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Upajjhāya "
+  - "Mentor"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.56-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.56]]
 > ◄  [[an5.55-pali-pts]] 📜  [[an5.57-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,20 @@ Etarahi me bhante madhurakajāto c'eva kāyo, disā ca me na pakkhāyanti, dhamm
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.56-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 69 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN6.17]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN6.17]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.56]]
+> ◄  [[an5.55-pali-pts]] 📜  [[an5.57-pali-pts]] ►

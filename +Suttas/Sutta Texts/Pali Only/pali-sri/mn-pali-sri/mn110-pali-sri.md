@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN110-PALI"
+sutta_code: "MN110"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cūḷapuṇṇama Sutta "
+  - "Shorter Discourse on the Full-Moon Night"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110]]
 > ◄  [[mn109-pali-sri]] 📜  [[mn111-pali-sri]] ►
 
 # 110. Culapunnama - Pali
@@ -152,6 +152,11 @@ Gaṇako gopaka puṇṇakā dve iti paṭhamo asamo varavaggo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn110-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M iii 20 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110]]
+> ◄  [[mn109-pali-sri]] 📜  [[mn111-pali-sri]] ►

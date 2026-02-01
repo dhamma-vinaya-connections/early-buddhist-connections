@@ -4,10 +4,10 @@ sutta_title:
   - "Raga "
   - "Greed"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI69]]
 > ◄  [[iti68-deepseek-pali]] 📜  [[iti70-deepseek-pali]] ►
 
 # Iti 69 Micchādiṭṭhikasuttaṃ
@@ -33,9 +33,7 @@ This matter, too, was spoken by the Blessed One: so I have heard. The First.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti69-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI69]]
 > ◄  [[iti68-deepseek-pali]] 📜  [[iti70-deepseek-pali]] ►

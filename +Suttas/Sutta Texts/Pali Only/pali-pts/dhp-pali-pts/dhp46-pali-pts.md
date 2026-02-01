@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP46-PALI"
+sutta_code: "DHP46"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP46-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP46]]
 > ◄  [[dhp45-pali-pts]] 📜  [[dhp47-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ pupphāni h'; eva pacinantaṃ vyāsattamanasaṃ naraṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp46-) 
 

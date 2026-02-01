@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG550-PALI"
+sutta_code: "THAG550"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG550-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG550]]
 > ◄  [[thag549-pali-pts]] 📜  [[thag551-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ paññā sutavinicchinī, paññā kittisilokavaddhanī,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag550-) 
 

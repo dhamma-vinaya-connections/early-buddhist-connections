@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN22-PALI"
+sutta_code: "DN22"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mahāsatipaṭṭhāna Sutta "
+  - "Longer Discourse on Mindfulness Meditation"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
 > ◄  [[dn21-pali-pts]] 📜  [[dn23-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -218,6 +218,20 @@ MAHĀ-SATIPAṬṬHĀNA-SUTTANTAṂ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn22-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[MN10]], [[MN119]], [[MN141]] | [[EA12.1]], [[EA27.1]], [[MA31]], [[MA81]], [[MA98]] | D ii 290 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN141]], [[EA27.1]], [[MA31]], [[EA12.1]], [[MA98]], [[MN10]], [[MN119]], [[MA81]], [[SN47.1]], [[MN9]], [[PLI-TV-KD1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN47]], [[MN119]], [[MN118]], [[MN141]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
+> ◄  [[dn21-pali-pts]] 📜  [[dn23-pali-pts]] ►

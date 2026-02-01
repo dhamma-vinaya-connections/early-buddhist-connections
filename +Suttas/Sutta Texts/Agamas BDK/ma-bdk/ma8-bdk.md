@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA8]]
 > ◄  [[ma7-bdk]] 📜  [[ma9-bdk]] ►
 
 ### 8. The Discourse on Seven Suns
@@ -29,8 +29,7 @@ gods who delight in the creations of others. When I gave teachings about the [wa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma8-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -40,6 +39,5 @@ gods who delight in the creations of others. When I gave teachings about the [wa
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA30]], [[MN28]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA8]]
 > ◄  [[ma7-bdk]] 📜  [[ma9-bdk]] ►

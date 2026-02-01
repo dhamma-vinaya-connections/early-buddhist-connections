@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.11-PALI"
+sutta_code: "AN4.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cara "
+  - "Walking"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.11]]
 > ◄  [[an4.10-pali-sc]] 📜  [[an4.12-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -53,6 +53,16 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[ITI110]] |  | A ii 13 |
+> > [!check]- Partial parallels 
+> > 
+| [[ITI110]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.11]]
+> ◄  [[an4.10-pali-sc]] 📜  [[an4.12-pali-sc]] ►

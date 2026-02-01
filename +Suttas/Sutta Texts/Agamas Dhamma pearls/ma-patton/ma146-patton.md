@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA146]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA146]]
 > ◄  [[ma142-patton]] 📜  [[ma153-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -174,8 +174,7 @@ Jātiśroṇa replied, “Indeed, Gautama! The parable of the elephant’s footp
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma146-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -185,6 +184,5 @@ Jātiśroṇa replied, “Indeed, Gautama! The parable of the elephant’s footp
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA146]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA146]]
 > ◄  [[ma142-patton]] 📜  [[ma153-patton]] ►

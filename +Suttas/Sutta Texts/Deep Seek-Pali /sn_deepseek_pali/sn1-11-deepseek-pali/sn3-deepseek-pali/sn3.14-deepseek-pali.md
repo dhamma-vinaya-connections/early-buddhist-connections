@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamasaṅgāmasutta "
   - "Battle (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.14]]
 > ◄  [[sn3.13-deepseek-pali]] 📜  [[sn3.15-deepseek-pali]] ►
 
 # SN 3.14 Paṭhamasaṅgāmasuttaṃ
@@ -39,8 +39,7 @@ Victory begets enmity; the defeated lie down in suffering. The peaceful lie down
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.14-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Victory begets enmity; the defeated lie down in suffering. The peaceful lie down
 | [[SA-2.63]], [[SA1236]], [[DHP201]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.14]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.14]]
 > ◄  [[sn3.13-deepseek-pali]] 📜  [[sn3.15-deepseek-pali]] ►

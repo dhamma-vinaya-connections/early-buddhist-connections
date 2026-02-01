@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.0]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.0]]
 > ◄  [[]] 📜  [[an7.1-bodhi]] ►
 
 # AN7.000 nights: 12,000 nights of winter, 12,000 nights of summer, and 12,000 nights of the rains. And when living for 36,000 nights, one eats just 72,000 meals: 24,000 meals in winter, 24,000 in summer, and 24,000 in the rains. And this includes the taking of mother’s milk and the \[times when there are\] obstacles to meals. These are the obstacles to meals: one who is angry does not eat a meal, one in pain does not eat a meal, one who is ill does not eat a meal, one observing the uposatha does not eat a meal, and when not obtaining \[food\] one does not eat a meal.
@@ -23,6 +23,5 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.0-) 
 

@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-thanissaro]] 📜  [[mn51-thanissaro]] ►
 
 ## MN49 The Brahmā Invitation
@@ -182,8 +182,7 @@ Thus, because of the silencing of Māra, and because of the Brahmā’s invitati
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn49-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -198,6 +197,5 @@ Thus, because of the silencing of Māra, and because of the Brahmā’s invitati
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]]; [[MN1]]; [[MN72]]; [[MN86]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-thanissaro]] 📜  [[mn51-thanissaro]] ►

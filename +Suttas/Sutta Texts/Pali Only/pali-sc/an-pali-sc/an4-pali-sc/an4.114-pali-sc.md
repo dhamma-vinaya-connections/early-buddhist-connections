@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.114-PALI"
+sutta_code: "AN4.114"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nāga "
+  - "Elephant Royal"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.114-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.114]]
 > ◄  [[an4.113-pali-sc]] 📜  [[an4.115-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -46,6 +46,16 @@ Catutthaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.114-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.140]] |  | A ii 116 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.140]], [[MN2]], [[MN125]], [[AN4.157]], [[AN4.165]], [[PLI-TV-KD1]], [[PLI-TV-BU-VB-PC65]], [[PLI-TV-BI-VB-PC71]], [[AN4.164]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.114]]
+> ◄  [[an4.113-pali-sc]] 📜  [[an4.115-pali-sc]] ►

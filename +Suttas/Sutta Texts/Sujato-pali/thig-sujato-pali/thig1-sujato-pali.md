@@ -3,11 +3,11 @@ sutta_code: "THIG1"
 sutta_title:
   - "Ekakanipātavagga "
   - "Ones Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG1]]
 > ◄  [[]] 📜  [[thig2-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -300,6 +300,5 @@ upasantāmhi nibbutā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig1-) 
 

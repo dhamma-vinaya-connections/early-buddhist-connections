@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.1-PALI"
+sutta_code: "AN3.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Bhaya "
+  - "Perils"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.1]]
 > ◄  [[an2.28-pali-sri]] 📜  [[an3.2-pali-sri]] ►
 
 # 5:1 Sekhabalavaggo - Pali
@@ -244,6 +244,11 @@ Samāpatti ca kāmesu cavanā dve agāravāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 101 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.1]]
+> ◄  [[an2.28-pali-sri]] 📜  [[an3.2-pali-sri]] ►

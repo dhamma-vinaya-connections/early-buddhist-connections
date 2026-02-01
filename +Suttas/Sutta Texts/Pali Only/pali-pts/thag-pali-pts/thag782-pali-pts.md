@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG782-PALI"
+sutta_code: "THAG782"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG782-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG782]]
 > ◄  [[thag781-pali-pts]] 📜  [[thag783-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ addhā daliddā ca phusanti phassaṃ, bālo ca dhīro ca tath'; eva phuṭṭho
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag782-) 
 

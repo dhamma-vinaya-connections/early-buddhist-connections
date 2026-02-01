@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.50-PALI"
+sutta_code: "AN3.50"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mahācora "
+  - "Thief Master"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.50-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.50]]
 > ◄  [[an3.49-pali-pts]] 📜  [[an3.51-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -29,6 +29,16 @@ Idha bhikkhave mahācoro rājānaṃ vā rājamahāmattānaṃ vā nissito hoti,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.50-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.103]] |  | A i 153 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.103]], [[PLI-TV-BU-VB-PJ4]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.50]]
+> ◄  [[an3.49-pali-pts]] 📜  [[an3.51-pali-pts]] ►

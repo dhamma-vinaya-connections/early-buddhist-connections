@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1188-PALI"
+sutta_code: "THAG1188"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1188-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1188]]
 > ◄  [[thag1187-pali-pts]] 📜  [[thag1189-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ yo etam abhijānāti bhikkhu buddhassa sāvako,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1188-) 
 

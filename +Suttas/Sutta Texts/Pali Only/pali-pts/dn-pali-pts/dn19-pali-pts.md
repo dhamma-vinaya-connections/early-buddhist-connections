@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN19-PALI"
+sutta_code: "DN19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mahāgovinda Sutta "
+  - "Great Steward"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
 > ◄  [[dn18-pali-pts]] 📜  [[dn20-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -293,6 +293,16 @@ NIṬṬHITAṂ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA3]] | D ii 220 |
+> > [!check]- Partial parallels 
+> > 
+| [[JA498]], [[JA509]], [[DA3]], [[MN91]], [[SN4.9]], [[JA460]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
+> ◄  [[dn18-pali-pts]] 📜  [[dn20-pali-pts]] ►

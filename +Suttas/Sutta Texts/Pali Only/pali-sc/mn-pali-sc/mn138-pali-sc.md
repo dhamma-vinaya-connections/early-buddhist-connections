@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN138-PALI"
+sutta_code: "MN138"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Uddesavibhaṅga Sutta "
+  - "Analysis of a Recitation Passage"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138]]
 > ◄  [[mn137-pali-sc]] 📜  [[mn139-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -105,6 +105,20 @@ Na vedanaṁ … na saññaṁ … na saṅkhāre … na viññāṇaṁ attato 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn138-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN22.7]] | [[MA164]]; [[SA43]]; [[SA66]] | M iii 223 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA164]]; [[SN22.7]]; [[SA43]]; [[SA66]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.192]]; [[AN7.64]]; [[AN8.54]]; [[UD6.2]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN138]]
+> ◄  [[mn137-pali-sc]] 📜  [[mn139-pali-sc]] ►

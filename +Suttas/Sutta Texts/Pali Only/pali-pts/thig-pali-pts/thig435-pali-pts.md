@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG435-PALI"
+sutta_code: "THIG435"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG435-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG435]]
 > ◄  [[thig434-pali-pts]] 📜  [[thig436-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ so 'haṃ tato cavitvā nirayamhi apaccisaṃ ciraṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig435-) 
 

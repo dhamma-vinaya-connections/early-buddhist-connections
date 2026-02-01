@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG244-PALI"
+sutta_code: "THIG244"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG244-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG244]]
 > ◄  [[thig243-pali-pts]] 📜  [[thig245-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ kumaggaṃ paṭipannaṃ maṃ ariyamaggaṃ samānayi |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig244-) 
 

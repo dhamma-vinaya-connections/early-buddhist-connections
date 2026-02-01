@@ -4,10 +4,10 @@ sutta_title:
   - "Paññāparihīna "
   - "Bereft of Wisdom"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI41]]
 > ◄  [[iti40-deepseek-pali]] 📜  [[iti42-deepseek-pali]] ►
 
 # Iti 41 Sukkadhammasuttaṃ
@@ -29,8 +29,7 @@ This too was spoken by the Blessed One—thus have I heard. This is the fifth di
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti41-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ This too was spoken by the Blessed One—thus have I heard. This is the fifth di
 | [[SNP3.12]], [[PE2]], [[PE3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI41]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI41]]
 > ◄  [[iti40-deepseek-pali]] 📜  [[iti42-deepseek-pali]] ►

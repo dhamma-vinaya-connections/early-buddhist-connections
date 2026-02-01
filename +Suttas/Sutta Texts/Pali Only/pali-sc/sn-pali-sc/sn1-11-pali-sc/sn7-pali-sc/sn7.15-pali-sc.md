@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.15-PALI"
+sutta_code: "SN7.15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mānatthaddhasutta "
+  - "Manatthaddha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
 > ◄  [[sn7.14-pali-sc]] 📜  [[sn7.16-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -66,6 +66,16 @@ te namasse anuttare"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.15-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN7.14]] | [[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN7.14]], [[SA-2.262]], [[SA96]], [[SA-2.258]], [[SA92]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
+> ◄  [[sn7.14-pali-sc]] 📜  [[sn7.16-pali-sc]] ►

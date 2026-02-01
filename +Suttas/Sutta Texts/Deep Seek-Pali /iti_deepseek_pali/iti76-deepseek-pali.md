@@ -4,10 +4,10 @@ sutta_title:
   - "Sukhapatthanā "
   - "Wishing for happiness"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI76]]
 > ◄  [[iti75-deepseek-pali]] 📜  [[iti77-deepseek-pali]] ►
 
 # Iti 76 Bhidurasuttaṃ
@@ -27,8 +27,7 @@ This matter, too, was spoken by the Blessed One, so I have heard. Eighth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti76-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ This matter, too, was spoken by the Blessed One, so I have heard. Eighth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.54]], [[AN9.1]], [[UD4:1]], [[ITI78]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI76]]
 > ◄  [[iti75-deepseek-pali]] 📜  [[iti77-deepseek-pali]] ►

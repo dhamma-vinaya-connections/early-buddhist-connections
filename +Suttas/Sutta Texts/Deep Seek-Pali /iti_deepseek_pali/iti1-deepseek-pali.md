@@ -4,10 +4,10 @@ sutta_title:
   - "Lobha "
   - "Greed"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI1]]
 > ◄  [[]] 📜  [[iti2-deepseek-pali]] ►
 
 # Iti 1 Lobhasuttaṃ
@@ -29,6 +29,5 @@ This meaning, too, was spoken by the Blessed One, thus I heard. First.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti1-) 
 

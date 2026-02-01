@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG72-PALI"
+sutta_code: "THAG72"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG72-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG72]]
 > ◄  [[thag71-pali-pts]] 📜  [[thag73-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Jiṇṇañ ca disvā dukkhitañ ca byādhitaṃ matañ ca disvā gatam āyusa�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag72-) 
 

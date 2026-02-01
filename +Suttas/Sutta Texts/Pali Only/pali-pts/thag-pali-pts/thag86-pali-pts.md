@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG86-PALI"
+sutta_code: "THAG86"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG86-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG86]]
 > ◄  [[thag85-pali-pts]] 📜  [[thag87-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Khandhā diṭṭhā yathābhūtaṃ, bhavā sabbe padālitā,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag86-) 
 

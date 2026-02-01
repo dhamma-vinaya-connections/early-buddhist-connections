@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.63-PALI"
+sutta_code: "AN7.63"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Bhariyā "
+  - "Wives Types"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.63-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.63]]
 > ◄  [[an7.62-pali-pts]] 📜  [[an7.64-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Ekaṃ samayaṃ Bhagavā Sāvatthiyaṃ viharati Jetavane Anāthapiṇḍikassa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.63-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN2.33]] | [[EA20.11]], [[EA51.9]] | A iv 91 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN2.33]], [[EA20.11]], [[EA51.9]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.63]]
+> ◄  [[an7.62-pali-pts]] 📜  [[an7.64-pali-pts]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN86-PALI"
+sutta_code: "MN86"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Aṅgulimāla Sutta "
+  - "With Aṅgulimāla"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
 > ◄  [[mn85-pali-sri]] 📜  [[mn87-pali-sri]] ►
 
 # 86. Angulimala Sutta - Pali
@@ -228,6 +228,20 @@ Aṅgulimālasuttaṃ jaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn86-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP145]]; [[DHP172]]; [[DHP173]]; [[DHP26]]; [[DHP27]]; [[DHP382]]; [[DHP80]]; [[THAG1.9]] | [[EA38.6]]; [[SA-2.16]]; [[SA1077]] | M ii 97 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA38.6]]; [[SA-2.16]]; [[SA1077]]; [[DHP26]]; [[SN1.36]]; [[THAG16.8]]; [[DHP27]]; [[DHP382]]; [[THAG2.42]]; [[DHP80]]; [[DHP145]]; [[THAG1.19]]; [[DHP173]]; [[DHP172]]; [[THAG10.3]]; [[MN86]]; [[THAG1.9]]; [[PLI-TV-KD17]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[THAG16.8]], [[AN3.99]], [[DHP172]], [[DHP173]], [[DHP80]], [[DHP26]], [[DHP27]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
+> ◄  [[mn85-pali-sri]] 📜  [[mn87-pali-sri]] ►

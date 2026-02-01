@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.50-PALI"
+sutta_code: "AN4.50"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Upakkilesa "
+  - "Obscurations"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.50-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.50]]
 > ◄  [[an4.49-pali-sc]] 📜  [[an4.51-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -74,6 +74,16 @@ Paṭhamo paṇṇāsako samatto.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.50-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA28.2]] | A ii 53 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA28.2]], [[PLI-TV-KD22]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.50]]
+> ◄  [[an4.49-pali-sc]] 📜  [[an4.51-pali-sc]] ►

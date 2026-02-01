@@ -4,10 +4,10 @@ sutta_title:
   - "Attadaṇḍasutta "
   - "Taking up Arms"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
 > ◄  [[snp4.14-deepseek-pali]] 📜  [[]] ►
 
 # Snp 4.15 Sāriputtasuttaṃ
@@ -169,8 +169,7 @@ Kalaha, the two Vyūhas, and then Tuvaṭaka; the excellent Attadaṇḍa Sutta,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -185,6 +184,5 @@ Kalaha, the two Vyūhas, and then Tuvaṭaka; the excellent Attadaṇḍa Sutta,
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD2:10.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
 > ◄  [[snp4.14-deepseek-pali]] 📜  [[]] ►

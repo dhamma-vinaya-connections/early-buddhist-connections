@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP14-PALI"
+sutta_code: "DHP14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Buddhavagga "
+  - "Buddha"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP14]]
 > ◄  [[dhp13-pali-pts]] 📜  [[dhp15-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,16 @@ idha socati pecca socati pāpakārī ubhayattha socati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 51 |
+> > [!check]- Partial parallels 
+> > 
+| [[THAG2.7]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP14]]
+> ◄  [[dhp13-pali-pts]] 📜  [[dhp15-pali-pts]] ►

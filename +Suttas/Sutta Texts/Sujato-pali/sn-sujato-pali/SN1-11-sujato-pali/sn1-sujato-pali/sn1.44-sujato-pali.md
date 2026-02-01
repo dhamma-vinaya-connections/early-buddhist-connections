@@ -3,11 +3,11 @@ sutta_code: "SN1.44"
 sutta_title:
   - "Ekamūlasutta "
   - "One Root"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.44]]
 > ◄  [[sn1.43-sujato-pali]] 📜  [[sn1.45-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -35,9 +35,7 @@ pātālaṁ atarī isī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.44-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.44]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.44]]
 > ◄  [[sn1.43-sujato-pali]] 📜  [[sn1.45-sujato-pali]] ►

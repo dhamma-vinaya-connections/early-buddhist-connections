@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP24-PALI"
+sutta_code: "DHP24"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Taṇhāvagga "
+  - "Craving"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP24-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP24]]
 > ◄  [[dhp23-pali-pts]] 📜  [[dhp25-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,11 @@ uṭṭhānen'; appamādena saññamena damena ca /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp24-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 94 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP24]]
+> ◄  [[dhp23-pali-pts]] 📜  [[dhp25-pali-pts]] ►

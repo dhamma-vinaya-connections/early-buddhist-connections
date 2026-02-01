@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN7.19-PALI"
+sutta_code: "SN7.19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mātuposakasutta "
+  - "Mother Supporter"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN7.19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.19]]
 > ◄  [[sn7.18-pali-sc]] 📜  [[sn7.20-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -38,6 +38,16 @@ s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.88]], [[SA88]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.88]], [[SA88]], [[AN3.31]], [[AN4.63]], [[ITI106]], [[JA532]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.19]]
+> ◄  [[sn7.18-pali-sc]] 📜  [[sn7.20-pali-sc]] ►

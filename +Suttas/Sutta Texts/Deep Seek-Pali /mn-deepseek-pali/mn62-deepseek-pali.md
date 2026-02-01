@@ -4,10 +4,10 @@ sutta_title:
   - "Mahārāhulovāda Sutta "
   - "Longer Advice to Rāhula"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
 > ◄  [[mn61-deepseek-pali]] 📜  [[mn63-deepseek-pali]] ►
 
 # 62. Mahārāhulovādasuttaṃ
@@ -99,8 +99,7 @@ The Greater Discourse of Advice to Rāhula, the second, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn62-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -115,6 +114,5 @@ The Greater Discourse of Advice to Rāhula, the second, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN28]]; [[MN61]]; [[MN140]]; [[MN147]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
 > ◄  [[mn61-deepseek-pali]] 📜  [[mn63-deepseek-pali]] ►

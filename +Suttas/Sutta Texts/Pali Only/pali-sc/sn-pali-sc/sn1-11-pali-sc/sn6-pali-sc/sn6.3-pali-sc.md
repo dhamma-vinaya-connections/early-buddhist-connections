@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.3-PALI"
+sutta_code: "SN6.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Brahmadevasutta "
+  - "Brahmadeva"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
 > ◄  [[sn6.2-pali-sc]] 📜  [[sn6.4-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -71,6 +71,16 @@ Disvā muniṁ brāhmaṇī oghatiṇṇan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.265]], [[SA99]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.265]], [[SA99]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
+> ◄  [[sn6.2-pali-sc]] 📜  [[sn6.4-pali-sc]] ►

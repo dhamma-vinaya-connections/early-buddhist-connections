@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG9-PALI"
+sutta_code: "THIG9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Navakanipātavagga "
+  - "Nines Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG9]]
 > ◄  [[thig8-pali-sri]] 📜  [[thig10-pali-sri]] ►
 
 # 9. Navaka-nipata - Pali
@@ -79,6 +79,5 @@ Navakanipatā niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig9-) 
 

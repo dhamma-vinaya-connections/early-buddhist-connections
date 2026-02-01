@@ -4,10 +4,10 @@ sutta_title:
   - "Nibbana "
   - "Unbinding"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
 > ◄  [[an9.33-deepseek-pali]] 📜  [[an9.35-deepseek-pali]] ►
 
 # AN 9.34 Nibbānasukhasuttaṃ
@@ -59,8 +59,7 @@ Again, friend, by completely transcending the base of neither-perception-nor-non
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -70,6 +69,5 @@ Again, friend, by completely transcending the base of neither-perception-nor-non
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.31]], [[AN9.33]], [[AN9.36]], [[AN9.42]], [[AN11.10MN111]], [[SN22.5]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
 > ◄  [[an9.33-deepseek-pali]] 📜  [[an9.35-deepseek-pali]] ►

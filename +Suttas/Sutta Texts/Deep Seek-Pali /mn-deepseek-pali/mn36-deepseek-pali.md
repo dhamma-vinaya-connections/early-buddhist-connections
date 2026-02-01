@@ -4,10 +4,10 @@ sutta_title:
   - "Mahāsaccaka Sutta "
   - "Longer Discourse With Saccaka"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
 > ◄  [[mn35-deepseek-pali]] 📜  [[mn37-deepseek-pali]] ►
 
 # 36. Mahāsaccakasuttaṃ
@@ -183,8 +183,7 @@ The Great Discourse to Saccaka is finished, the sixth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -199,6 +198,5 @@ The Great Discourse to Saccaka is finished, the sixth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN25]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN36]]
 > ◄  [[mn35-deepseek-pali]] 📜  [[mn37-deepseek-pali]] ►

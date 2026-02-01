@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP11-PALI"
+sutta_code: "DHP11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Jarāvagga "
+  - "Old Age"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP11]]
 > ◄  [[dhp10-pali-sc]] 📜  [[dhp12-pali-sc]] ►
 
 # JARA VAGGA
@@ -61,6 +61,11 @@ Acaritvā brahmacariyaṃ, aladdhā yobbane dhanaṃ; senti cāpātikhīṇāva,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 42 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP11]]
+> ◄  [[dhp10-pali-sc]] 📜  [[dhp12-pali-sc]] ►

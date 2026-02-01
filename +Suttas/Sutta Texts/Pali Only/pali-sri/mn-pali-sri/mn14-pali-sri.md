@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN14-PALI"
+sutta_code: "MN14"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Cūḷadukkhakkhandha Sutta "
+  - "Shorter Discourse on the Mass of Suffering"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
 > ◄  [[mn13-pali-sri]] 📜  [[mn15-pali-sri]] ►
 
 # 14. Cula Dukkhakkhandha Sutta - Pali
@@ -126,6 +126,20 @@ Cūḷadukkhakkhandhasuttaṃ catutthaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn14-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN55.21]] | [[EA41.1]]; [[MA100]] | M i 91 |
+> > [!check]- Partial parallels 
+> > 
+| [[MN71]]; [[EA41.1]]; [[MA100]]; [[SN55.21]]; [[AN6.63]]; [[MN13]]; [[MN139]]; [[SN36.20]]; [[SN36.19]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN13]], [[MN54]]; [[SN35.63]]; [[SN35.115]]; [[SN35.189]]; [[SN36.6]]; [[AN2.30]]; [[AN6.63]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
+> ◄  [[mn13-pali-sri]] 📜  [[mn15-pali-sri]] ►

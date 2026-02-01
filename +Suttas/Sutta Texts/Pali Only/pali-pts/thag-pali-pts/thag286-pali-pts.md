@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG286-PALI"
+sutta_code: "THAG286"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG286-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG286]]
 > ◄  [[thag285-pali-pts]] 📜  [[thag287-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Svāgataṃ vata me āsi Gayāyaṃ Gayaphagguyā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag286-) 
 

@@ -3,11 +3,11 @@ sutta_code: "MN140"
 sutta_title:
   - "Dhātuvibhaṅga Sutta "
   - "Analysis of the Elements"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN140]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN140]]
 > ◄  [[mn139-sujato-pali]] 📜  [[mn141-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -291,8 +291,7 @@ Dhātuvibhaṅgasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn140-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -307,6 +306,5 @@ Dhātuvibhaṅgasuttaṁ niṭṭhitaṁ dasamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN106]], [[SN12]], [[DN15]], [[DA13]], [[MA163]], [[MN137]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN140]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN140]]
 > ◄  [[mn139-sujato-pali]] 📜  [[mn141-sujato-pali]] ►

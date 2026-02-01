@@ -3,11 +3,11 @@ sutta_code: "SN1.71"
 sutta_title:
   - "Chetvāsutta "
   - "Having Slain"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.71]]
 > ◄  [[sn1.70-sujato-pali]] 📜  [[sn1.72-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -59,8 +59,7 @@ tañhi chetvā na socatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.71-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ tañhi chetvā na socatī"ti.
 | [[SN2.3]], [[SN7.1]], [[SN11.21]], [[SA1309]], [[SA-2.308]], [[SA1158]], [[SA-2.81]], [[SA1116]], [[SA-2.45]], [[SA-2.283]], [[SA1285]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.71]]
 > ◄  [[sn1.70-sujato-pali]] 📜  [[sn1.72-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.18-PALI"
+sutta_code: "SN2.18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kakudhasutta "
+  - "Kakudha"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.18]]
 > ◄  [[sn2.17-pali-sc]] 📜  [[sn2.19-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -62,6 +62,16 @@ tiṇṇaṁ loke visattikan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.169]], [[SA585]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN1.1]], [[SA-2.169]], [[SA585]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.18]]
+> ◄  [[sn2.17-pali-sc]] 📜  [[sn2.19-pali-sc]] ►

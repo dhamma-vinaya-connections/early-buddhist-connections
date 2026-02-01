@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-anigha]] 📜  [[mn50-anigha]] ►
 
 # MN 49 - On the Invitation of Brahmā
@@ -95,8 +95,7 @@ And so, because of the silencing of Māra, and because of the invitation of Brah
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn49-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -111,6 +110,5 @@ And so, because of the silencing of Māra, and because of the invitation of Brah
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]]; [[MN1]]; [[MN72]]; [[MN86]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-anigha]] 📜  [[mn50-anigha]] ►

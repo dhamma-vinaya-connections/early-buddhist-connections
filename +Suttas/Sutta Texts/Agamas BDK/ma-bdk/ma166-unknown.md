@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA166]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA166]]
 > ◄  [[ma165]] 📜  [[ma167]] ►
 
 ### 166. The Discourse on a Venerable One in a Meditation Hut among the Sakyans
@@ -35,8 +35,7 @@ if he delights in feeling... in perception... in formations... in con sciousness
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma166-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -46,6 +45,5 @@ if he delights in feeling... in perception... in formations... in con sciousness
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[MA164]], [[MA165]], [[MA166]], [[MA167]], [[MN131]], [[MN132]], [[MN133]], [[MN134]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA166]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA166]]
 > ◄  [[ma165]] 📜  [[ma167]] ►

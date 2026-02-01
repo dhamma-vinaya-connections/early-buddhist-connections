@@ -4,10 +4,10 @@ sutta_title:
   - "Ghaṭikāra Sutta "
   - "With Ghaṭikāra"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-deepseek-pali]] 📜  [[mn82-deepseek-pali]] ►
 
 # 81. Ghaṭikārasuttaṃ
@@ -79,8 +79,7 @@ The Ghaṭikāra Sutta is concluded, the first (sutta).
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn81-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ The Ghaṭikāra Sutta is concluded, the first (sutta).
 | [[MA63]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-deepseek-pali]] 📜  [[mn82-deepseek-pali]] ►

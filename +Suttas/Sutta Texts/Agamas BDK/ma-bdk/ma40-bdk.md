@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA40]]
 > ◄  [[ma39-bdk]] 📜  [[ma41-bdk]] ►
 
 ### 40. The Discourse to the Householder Hatthaka
@@ -51,8 +51,7 @@ Then the World-honored One told the monks: For this reason I extolled the househ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma40-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ Then the World-honored One told the monks: For this reason I extolled the househ
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.256]], [[AN4.32]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA40]]
 > ◄  [[ma39-bdk]] 📜  [[ma41-bdk]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.9-PALI"
+sutta_code: "AN6.9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Anussatiṭṭhāna "
+  - "Topics For Recollection"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.9]]
 > ◄  [[an6.8-pali-sri]] 📜  [[an6.10-pali-sri]] ►
 
 # 10:9 Theravaggo - Pali
@@ -566,6 +566,11 @@ Napiyakekā sakokāli khīṇāsavabalenacāti machasaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A iii 284 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.9]]
+> ◄  [[an6.8-pali-sri]] 📜  [[an6.10-pali-sri]] ►

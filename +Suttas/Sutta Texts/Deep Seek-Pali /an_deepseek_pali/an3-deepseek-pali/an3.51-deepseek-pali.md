@@ -4,10 +4,10 @@ sutta_title:
   - "Dvebrāhmaṇa "
   - "Two Brahmins"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.51]]
 > ◄  [[an3.50-deepseek-pali]] 📜  [[an3.52-deepseek-pali]] ►
 
 # AN 3.51 Mahācorasuttaṃ
@@ -71,8 +71,7 @@ The First Fifty Discourses is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.51-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -83,6 +82,5 @@ The First Fifty Discourses is concluded.
 | [[SA-2.86]], [[AN3.52]], [[SA-2.87]], [[SN2.19]], [[SN1.3]], [[JA498]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.51]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.51]]
 > ◄  [[an3.50-deepseek-pali]] 📜  [[an3.52-deepseek-pali]] ►

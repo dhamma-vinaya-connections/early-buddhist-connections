@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP150-PALI"
+sutta_code: "DHP150"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP150-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP150]]
 > ◄  [[dhp149-pali-pts]] 📜  [[dhp151-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ jīranti ve rājarathā sucittā atho sarīram pi jaraṃ upeti /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp150-) 
 

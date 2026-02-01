@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD6.1-PALI"
+sutta_code: "UD6.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Ayusankharavossajana Sutta "
+  - "Relinquishment of the Life Force"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.1]]
 > ◄  [[ud5.7-pali-pts]] 📜  [[ud6.2-pali-pts]] ►
 
 ## Udāna
@@ -23,6 +23,20 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Pubbārāme M
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN8.68-70]], [[AN8.70]], [[DN16]], [[SN51.10]], [[UD8.5]], [[UD8.6]] | [[EA42.5]], [[MA36]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[DN16]], [[AN8.70]], [[SN51.10]], [[AN8.68-70]], [[DA2]], [[UD8.5]], [[UD8.6]], [[MA36]], [[EA42.5]], [[PE3]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN16]], [[SN51.26]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.1]]
+> ◄  [[ud5.7-pali-pts]] 📜  [[ud6.2-pali-pts]] ►

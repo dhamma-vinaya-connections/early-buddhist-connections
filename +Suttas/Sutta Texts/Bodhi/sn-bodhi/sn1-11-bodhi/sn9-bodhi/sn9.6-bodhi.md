@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.6]]
 > ◄  [[sn9.5-bodhi]] 📜  [[sn9.7-bodhi]] ►
 
 # SN9.6 Anuruddha
@@ -76,8 +76,7 @@ On one occasion the Venerable Anuruddha was dwelling among the Kosalans in a cer
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -92,6 +91,5 @@ On one occasion the Venerable Anuruddha was dwelling among the Kosalans in a cer
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.1]], [[SN9.14.SN5.7]], [[SN6.15.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.6]]
 > ◄  [[sn9.5-bodhi]] 📜  [[sn9.7-bodhi]] ►

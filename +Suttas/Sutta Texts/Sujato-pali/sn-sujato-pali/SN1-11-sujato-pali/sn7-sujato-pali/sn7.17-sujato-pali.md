@@ -3,11 +3,11 @@ sutta_code: "SN7.17"
 sutta_title:
   - "Navakammikasutta "
   - "Navakammika"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
 > ◄  [[sn7.16-sujato-pali]] 📜  [[sn7.18-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -69,8 +69,7 @@ Eko rame aratiṁ vippahāyā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -81,6 +80,5 @@ Eko rame aratiṁ vippahāyā"ti.
 | [[SA-2.96]], [[SA1182]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
 > ◄  [[sn7.16-sujato-pali]] 📜  [[sn7.18-sujato-pali]] ►

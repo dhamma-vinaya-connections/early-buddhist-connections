@@ -1,13 +1,13 @@
 ---
-sutta_code: "UD5.5-PALI"
+sutta_code: "UD5.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Uposatha Sutta "
+  - "The Observance Day/Uposatha"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.5]]
 > ◄  [[ud5.3-pali-pts]] 📜  [[ud5.6-pali-pts]] ►
 
 ## Udāna
@@ -29,6 +29,20 @@ idha mayhaṃ bhante rahogatassa . . . pe . . . pabbajeyyan ti. pabbājetu maṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[THAG6.13]], [[PLI-TV-KD19]], [[AN8.19]], [[AN8.20]], [[PLI-TV-PVR10]], [[PE2]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.129]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.5]]
+> ◄  [[ud5.3-pali-pts]] 📜  [[ud5.6-pali-pts]] ►

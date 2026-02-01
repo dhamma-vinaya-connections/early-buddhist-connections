@@ -3,11 +3,11 @@ sutta_code: "MN126"
 sutta_title:
   - "Bhūmija Sutta "
   - "With Bhūmija"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
 > ◄  [[mn125-sujato-pali]] 📜  [[mn127-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -181,8 +181,7 @@ Bhūmijasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn126-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -197,6 +196,5 @@ Bhūmijasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN125]], [[SN12.25]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
 > ◄  [[mn125-sujato-pali]] 📜  [[mn127-sujato-pali]] ►

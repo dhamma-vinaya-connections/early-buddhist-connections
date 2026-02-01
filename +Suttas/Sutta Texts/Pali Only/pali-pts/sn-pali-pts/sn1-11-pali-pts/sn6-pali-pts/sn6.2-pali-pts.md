@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN6.2-PALI"
+sutta_code: "SN6.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Gāravasutta "
+  - "Reverence"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN6.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
 > ◄  [[sn6.1-pali-pts]] 📜  [[sn6.3-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -27,6 +27,16 @@ sakkāro kāpurisam hanti || gabbho assatarim yathā ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.101]], [[SA1188]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.21]], [[SA-2.101]], [[SA1188]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
+> ◄  [[sn6.1-pali-pts]] 📜  [[sn6.3-pali-pts]] ►

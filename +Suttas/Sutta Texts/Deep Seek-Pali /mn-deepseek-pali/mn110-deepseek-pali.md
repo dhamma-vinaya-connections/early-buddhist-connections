@@ -4,10 +4,10 @@ sutta_title:
   - "Cūḷapuṇṇama Sutta "
   - "Shorter Discourse on the Full-Moon Night"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110]]
 > ◄  [[mn109-deepseek-pali]] 📜  [[mn111-deepseek-pali]] ►
 
 # 110. Anupadasuttaṃ
@@ -75,12 +75,11 @@ The Discourse on the Discernment of States, the First, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn110-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | M iii 20 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN110]]
 > ◄  [[mn109-deepseek-pali]] 📜  [[mn111-deepseek-pali]] ►

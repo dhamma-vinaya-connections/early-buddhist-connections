@@ -4,10 +4,10 @@ sutta_title:
   - "Aggivaccha Sutta "
   - "Vacchagotta on Fire"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72]]
 > ◄  [[mn71-deepseek-pali]] 📜  [[mn73-deepseek-pali]] ►
 
 # 72. Aggivacchasuttaṃ
@@ -135,8 +135,7 @@ The Aggivacchagotta Sutta, the second, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn72-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -151,6 +150,5 @@ The Aggivacchagotta Sutta, the second, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.24]]; [[AN4.42]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72]]
 > ◄  [[mn71-deepseek-pali]] 📜  [[mn73-deepseek-pali]] ►

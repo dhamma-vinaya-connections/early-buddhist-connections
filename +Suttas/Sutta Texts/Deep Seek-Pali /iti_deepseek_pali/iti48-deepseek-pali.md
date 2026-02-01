@@ -4,10 +4,10 @@ sutta_title:
   - "Āpāyika "
   - "Bound for loss"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI48]]
 > ◄  [[iti47-deepseek-pali]] 📜  [[iti49-deepseek-pali]] ►
 
 # Iti 48 Diṭṭhigatasuttaṃ
@@ -49,8 +49,7 @@ The Duka Nipāta is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti48-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -61,6 +60,5 @@ The Duka Nipāta is finished.
 | [[DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP307]], [[ITI91]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI48]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI48]]
 > ◄  [[iti47-deepseek-pali]] 📜  [[iti49-deepseek-pali]] ►

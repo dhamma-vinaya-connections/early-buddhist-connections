@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.21-PALI"
+sutta_code: "AN8.21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Paṭhamaugga "
+  - "With Ugga Of Vesālī"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.21]]
 > ◄  [[an8.20-pali-sc]] 📜  [[an8.22-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -58,6 +58,16 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.21-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA38]] | A iv 208 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA38]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.21]]
+> ◄  [[an8.20-pali-sc]] 📜  [[an8.22-pali-sc]] ►

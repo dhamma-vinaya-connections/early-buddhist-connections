@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP373-PALI"
+sutta_code: "DHP373"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP373-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP373]]
 > ◄  [[dhp372-pali-pts]] 📜  [[dhp374-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yato yato sammasati khandhānaṃ udayavyayaṃ /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp373-) 
 

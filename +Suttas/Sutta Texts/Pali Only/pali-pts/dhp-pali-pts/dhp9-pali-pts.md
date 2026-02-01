@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP9-PALI"
+sutta_code: "DHP9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pāpavagga "
+  - "Evil"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP9]]
 > ◄  [[dhp8-pali-pts]] 📜  [[dhp10-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,16 @@ yo ca vantakasāv'; assa sīlesu susamāhito /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp9-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 33 |
+> > [!check]- Partial parallels 
+> > 
+| [[JA221]], [[JA514]], [[THAG17.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP9]]
+> ◄  [[dhp8-pali-pts]] 📜  [[dhp10-pali-pts]] ►

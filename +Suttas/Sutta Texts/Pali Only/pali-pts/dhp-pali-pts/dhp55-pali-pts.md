@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP55-PALI"
+sutta_code: "DHP55"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP55-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP55]]
 > ◄  [[dhp54-pali-pts]] 📜  [[dhp56-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ appamatto ayaṃ gandho yāyaṃ tagaracandanī /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp55-) 
 

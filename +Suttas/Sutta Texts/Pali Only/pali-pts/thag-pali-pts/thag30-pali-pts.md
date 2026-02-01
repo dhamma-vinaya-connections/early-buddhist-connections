@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG30-PALI"
+sutta_code: "THAG30"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG30-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG30]]
 > ◄  [[thag29-pali-pts]] 📜  [[thag31-pali-pts]] ►
 
 ## Theragāthā
@@ -26,6 +26,5 @@ Phuṭṭho ḍaṃsehi makasehi araññasmiṃ brahāvane
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag30-) 
 

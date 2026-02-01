@@ -4,10 +4,10 @@ sutta_title:
   - "牛角婆羅林 "
   - "Discourse in the Gosiṅga Sāla Forest 2"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI91]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI91]]
 > ◄  [[iti90-deepseek-pali]] 📜  [[iti92-deepseek-pali]] ►
 
 # Iti 91 Saṅghāṭikaṇṇasuttaṃ
@@ -33,8 +33,7 @@ This meaning too was spoken by the Blessed One, so I have heard. The third.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti91-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -49,6 +48,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The third.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DHP308.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI91]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI91]]
 > ◄  [[iti90-deepseek-pali]] 📜  [[iti92-deepseek-pali]] ►

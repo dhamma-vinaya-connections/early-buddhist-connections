@@ -4,10 +4,10 @@ sutta_title:
   - "Sunakkhatta Sutta "
   - "With Sunakkhatta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
 > ◄  [[mn104-deepseek-pali]] 📜  [[mn106-deepseek-pali]] ►
 
 # 105. Āneñjasappāyasuttaṃ
@@ -67,8 +67,7 @@ The Āneñjasappāya Sutta, the sixth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn105-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -78,6 +77,5 @@ The Āneñjasappāya Sutta, the sixth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN112]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
 > ◄  [[mn104-deepseek-pali]] 📜  [[mn106-deepseek-pali]] ►

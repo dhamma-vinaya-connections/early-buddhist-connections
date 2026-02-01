@@ -4,10 +4,10 @@ sutta_title:
   - "Mettagūmāṇavapucchā "
   - "Questions of the Student Mettagū"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.5]]
 > ◄  [[snp5.4-deepseek-pali]] 📜  [[snp5.6-deepseek-pali]] ►
 
 # Snp 5.5 Mettagūmāṇavapucchā
@@ -101,6 +101,5 @@ The The Questions of the Young Man Mettagū, the nth is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.5-) 
 

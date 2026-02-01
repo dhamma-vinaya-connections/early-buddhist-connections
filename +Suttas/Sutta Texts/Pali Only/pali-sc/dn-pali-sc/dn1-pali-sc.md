@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN1-PALI"
+sutta_code: "DN1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Brahmajāla Sutta "
+  - "Prime Net"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
 > ◄  [[]] 📜  [[dn2-pali-sc]] ►
 
 1Evaṁ me sutaṁ — ​ ekaṁ samayaṁ bhagavā antarā ca rājagahaṁ antarā ca nāḷandaṁ addhānamaggappaṭipanno hoti mahatā bhikkhusaṁghena saddhiṁ pañcamattehi bhikkhusatehi. Suppiyopi kho paribbājako antarā ca rājagahaṁ antarā ca nāḷandaṁ addhānamaggappaṭipanno hoti saddhiṁ antevāsinā brahmadattena māṇavena. Tatra sudaṁ suppiyo paribbājako anekapariyāyena buddhassa avaṇṇaṁ bhāsati, dhammassa avaṇṇaṁ bhāsati, saṁghassa avaṇṇaṁ bhāsati; suppiyassa pana paribbājakassa antevāsī brahmadatto māṇavo anekapariyāyena buddhassa vaṇṇaṁ bhāsati, dhammassa vaṇṇaṁ bhāsati, saṁghassa vaṇṇaṁ bhāsati. Itiha te ubho ācariyantevāsī aññamaññassa ujuvipaccanīkavādā bhagavantaṁ piṭṭhito piṭṭhito anubandhā honti bhikkhusaṁghañca.
@@ -655,6 +655,20 @@ Dutiyabhāṇavāro.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn1-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[DA21]] | D i 1 |
+> > [!check]- Partial parallels 
+> > 
+| [[DA21]], [[SN41.3]], [[PLI-TV-KD21]], [[AN10.69]], [[DN2]], [[MN76]], [[PLI-TV-BU-VB-PC85]], [[SN56.10]], [[PLI-TV-KD5]], [[DN28]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN102]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN1]]
+> ◄  [[]] 📜  [[dn2-pali-sc]] ►

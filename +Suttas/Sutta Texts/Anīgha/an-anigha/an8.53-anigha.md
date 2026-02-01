@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.53]]
 > ◄  [[an8.6-anigha]] 📜  [[an9.7-anigha]] ►
 
 # AN 8.53 - Brief Advice to Gotamī
@@ -26,8 +26,7 @@ At one time the Auspicious One was staying near Vesālī, at the Great Wood, in 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.53-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -42,6 +41,5 @@ At one time the Auspicious One was staying near Vesālī, at the Great Wood, in 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.79]], [[AN8.30]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.53]]
 > ◄  [[an8.6-anigha]] 📜  [[an9.7-anigha]] ►

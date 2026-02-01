@@ -4,10 +4,10 @@ sutta_title:
   - "Khetta "
   - "Field"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.34]]
 > ◄  [[an8.33-deepseek-pali]] 📜  [[an8.35-deepseek-pali]] ►
 
 # AN 8.34 Khettasuttaṃ
@@ -63,8 +63,7 @@ Having shaken off all defilements, having attained the accomplishment of Nibbān
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.34-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -75,6 +74,5 @@ Having shaken off all defilements, having attained the accomplishment of Nibbān
 | [[SA980]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.34]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.34]]
 > ◄  [[an8.33-deepseek-pali]] 📜  [[an8.35-deepseek-pali]] ►

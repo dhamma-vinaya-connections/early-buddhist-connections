@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG121-PALI"
+sutta_code: "THAG121"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG121-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG121]]
 > ◄  [[thag120-pali-pts]] 📜  [[thag122-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ etaṃ ādīnavaṃ ñatvā bhaven'; amhi anatthiko,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag121-) 
 

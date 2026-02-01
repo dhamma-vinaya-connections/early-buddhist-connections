@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG10-PALI"
+sutta_code: "THIG10"
 sutta_title:
-  - " "
-  - ""
+  - "Ekādasakanipātavagga "
+  - "Elevens Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG10-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG10]]
 > ◄  [[thig9-pali-eng]] 📜  [[thig11-pali-eng]] ►
 
 # Thig 10. Ekādasanipāto
@@ -75,6 +75,5 @@ The Eleventh Section is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig10-) 
 

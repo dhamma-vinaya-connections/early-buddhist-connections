@@ -3,11 +3,11 @@ sutta_code: "SNP3.6"
 sutta_title:
   - "Sabhiyasutta "
   - "Sabhiya's Questions"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
 > ◄  [[snp3.5-sujato-pali]] 📜  [[snp3.7-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -619,8 +619,7 @@ Sabhiyasuttaṁ chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -635,6 +634,5 @@ Sabhiyasuttaṁ chaṭṭhaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN2]], [[UD1.9]], [[THAG6.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
 > ◄  [[snp3.5-sujato-pali]] 📜  [[snp3.7-sujato-pali]] ►

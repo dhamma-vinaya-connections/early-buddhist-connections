@@ -3,11 +3,11 @@ sutta_code: "AN5.273"
 sutta_title:
   - " "
   - ""
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.273]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.273]]
 > ◄  [[an5.272-sujato-pali]] 📜  [[an5.286-sujato-pali]] ►
 
 ## Aṅguttara Nikāya – The Numerical Discourses
@@ -53,6 +53,5 @@ What five? They don’t make decisions prejudiced by favoritism, hostility, stup
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.273-) 
 

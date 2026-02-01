@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG493-PALI"
+sutta_code: "THAG493"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG493-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG493]]
 > ◄  [[thag492-pali-pts]] 📜  [[thag494-pali-pts]] ►
 
 ## Theragāthā
@@ -29,6 +29,5 @@ Kammaṃ bahukaṃ na kāraye, parivajjeyya janaṃ, na uyyame;
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag493-) 
 

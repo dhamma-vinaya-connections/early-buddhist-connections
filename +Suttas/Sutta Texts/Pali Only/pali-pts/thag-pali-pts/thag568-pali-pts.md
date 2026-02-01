@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG568-PALI"
+sutta_code: "THAG568"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG568-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG568]]
 > ◄  [[thag567-pali-pts]] 📜  [[thag569-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ saṭṭhikaṇḍarasambandho maṃsalepanalepito
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag568-) 
 

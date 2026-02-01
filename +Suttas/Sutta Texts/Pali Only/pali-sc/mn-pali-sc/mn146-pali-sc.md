@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN146-PALI"
+sutta_code: "MN146"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nandakovāda Sutta "
+  - "Advice from Nandaka"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
 > ◄  [[mn145-pali-sc]] 📜  [[mn147-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -209,6 +209,20 @@ Atha kho bhagavā acirapakkantīsu tāsu bhikkhunīsu bhikkhū āmantesi: "Seyya
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn146-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA276]] | M iii 270 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA276]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN35.101]]; [[AN4.94]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
+> ◄  [[mn145-pali-sc]] 📜  [[mn147-pali-sc]] ►

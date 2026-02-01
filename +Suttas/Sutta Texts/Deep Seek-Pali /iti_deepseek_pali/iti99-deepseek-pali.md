@@ -4,10 +4,10 @@ sutta_title:
   - "家樓烏陀夷 "
   - "Kāḷudāyin"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI99]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI99]]
 > ◄  [[iti98-deepseek-pali]] 📜  [[iti100-deepseek-pali]] ►
 
 # Iti 99 Sulabhasuttaṃ
@@ -29,8 +29,7 @@ This too is the meaning that was spoken by the Blessed One, so I have heard. Sec
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti99-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This too is the meaning that was spoken by the Blessed One, so I have heard. Sec
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN4]], [[THIG5.11]], [[THIG5.12]], [[THIG12]], [[THIG13.2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI99]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI99]]
 > ◄  [[iti98-deepseek-pali]] 📜  [[iti100-deepseek-pali]] ►

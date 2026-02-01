@@ -34,13 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-sutta_simile: "Snakes venom like types of anger"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - ""
-parallels_partilal:
-  - ""
+parallels_nikaya: ""
+parallels_agama: ""
+parallels_partilal: ""
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.109]]  🌐 [[AN4.111]] ►
 
@@ -66,8 +62,7 @@ One whose venom is neither fast-acting nor lethal.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.110-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -82,8 +77,7 @@ One whose venom is neither fast-acting nor lethal.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.101]], [[AN4.102]], [[AN4.103]], [[AN4.104]], [[AN4.105]], [[AN4.106]], [[AN4.107]], [[AN4.108]], [[AN4.109]], [[AN4.110]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN4.110%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN4.110%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -94,7 +88,7 @@ One whose venom is neither fast-acting nor lethal.
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.110%5D%5D%22%23mynotes%20-file%3Aan4.110-%20-file%3A%22AN4.109%22%20-file%3A%22AN4.111%22%20-file%3A%22AN4.110%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.110/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.110

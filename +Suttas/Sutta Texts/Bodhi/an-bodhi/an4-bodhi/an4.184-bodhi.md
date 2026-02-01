@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.184]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.184]]
 > ◄  [[an4.183-bodhi]] 📜  [[an4.185-bodhi]] ►
 
 # AN4.184 Fearless
@@ -51,8 +51,7 @@ Then the brahmin Jāṇussoṇī approached the Blessed One and exchanged greeti
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.184-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -62,6 +61,5 @@ Then the brahmin Jāṇussoṇī approached the Blessed One and exchanged greeti
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[ITI30]], [[ITI31.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.184]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.184]]
 > ◄  [[an4.183-bodhi]] 📜  [[an4.185-bodhi]] ►

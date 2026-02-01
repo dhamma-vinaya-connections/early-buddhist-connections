@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA198]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA198]]
 > ◄  [[ma197-bdk]] 📜  [[ma199-bdk]] ►
 
 ### 198. The Discourse on the Stages of Taming
@@ -39,8 +39,7 @@ who dies well-tamed is reckoned to have “died well-tamed.” Aciravata, a youn
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma198-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -50,6 +49,5 @@ who dies well-tamed is reckoned to have “died well-tamed.” Aciravata, a youn
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.111]], [[AN8.9]], [[MN107]], [[MN65]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA198]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA198]]
 > ◄  [[ma197-bdk]] 📜  [[ma199-bdk]] ►

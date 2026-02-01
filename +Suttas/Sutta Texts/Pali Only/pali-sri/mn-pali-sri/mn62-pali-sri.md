@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN62-PALI"
+sutta_code: "MN62"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Mahārāhulovāda Sutta "
+  - "Longer Advice to Rāhula"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
 > ◄  [[mn61-pali-sri]] 📜  [[mn63-pali-sri]] ►
 
 # 62. Maha-rahulovada - Pali
@@ -104,6 +104,20 @@ Mahārāhulovādasuttaṃ dutiyaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn62-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN54.1]] | [[EA17.1]]; [[SA-3.15]]; [[SA803]]; [[SA815]] | M i 420 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN54.1]]; [[MN118]]; [[PLI-TV-BU-VB-PJ3]]; [[SA803]]; [[EA17.1]]; [[SA-3.15]]; [[SA815]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN28]]; [[MN61]]; [[MN140]]; [[MN147]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN62]]
+> ◄  [[mn61-pali-sri]] 📜  [[mn63-pali-sri]] ►

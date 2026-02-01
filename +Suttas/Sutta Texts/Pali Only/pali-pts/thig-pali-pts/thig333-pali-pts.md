@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG333-PALI"
+sutta_code: "THIG333"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG333-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG333]]
 > ◄  [[thig332-pali-pts]] 📜  [[thig334-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ passa Sundariṃ āyantiṃ vippamuttaṃ nirupadhiṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig333-) 
 

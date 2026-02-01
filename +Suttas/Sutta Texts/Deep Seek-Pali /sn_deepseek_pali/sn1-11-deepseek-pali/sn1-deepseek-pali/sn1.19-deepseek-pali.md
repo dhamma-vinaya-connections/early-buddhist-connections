@@ -4,10 +4,10 @@ sutta_title:
   - "Kuṭikāsutta "
   - "A Little Hut"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.19]]
 > ◄  [[sn1.18-deepseek-pali]] 📜  [[sn1.20-deepseek-pali]] ►
 
 # SN 1.19 Kuṭikāsuttaṃ
@@ -44,8 +44,7 @@ You call children offspring, craving you call my bond."
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.19-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -60,6 +59,5 @@ You call children offspring, craving you call my bond."
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]], [[SN5.1]], [[SN5.4]], [[SN5.7]], [[SN5.6]], [[ALSOSN4.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.19]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.19]]
 > ◄  [[sn1.18-deepseek-pali]] 📜  [[sn1.20-deepseek-pali]] ►

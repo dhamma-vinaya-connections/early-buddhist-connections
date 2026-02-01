@@ -3,11 +3,11 @@ sutta_code: "AN9.11"
 sutta_title:
   - "Sīhanāda "
   - "Sāriputta’s Lion’s Roar"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
 > ◄  [[an9.10-sujato-pali]] 📜  [[an9.12-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -179,8 +179,7 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -191,6 +190,5 @@ Paṭhamaṁ.
 | [[EA37.6]], [[MA24]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
 > ◄  [[an9.10-sujato-pali]] 📜  [[an9.12-sujato-pali]] ►

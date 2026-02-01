@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI78-PALI"
+sutta_code: "ITI78"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dhātusosaṁsandana "
+  - "Converging elements"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI78-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI78]]
 > ◄  [[iti77-pali-sc]] 📜  [[iti79-pali-sc]] ►
 
 # Iti 78. Parihānasuttaṃ
@@ -35,6 +35,20 @@ Dve diṭṭhī nissaraṇaṃ rūpaṃ, putto avuṭṭhikena ca;Sukhā ca bhid
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti78-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA446]], [[SA448]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN14.16]], [[THAG2.14]], [[THAG3.16]], [[SA446]], [[SA448]], [[SN14.15]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN45.2]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI78]]
+> ◄  [[iti77-pali-sc]] 📜  [[iti79-pali-sc]] ►

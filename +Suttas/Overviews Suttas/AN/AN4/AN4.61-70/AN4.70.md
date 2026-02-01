@@ -34,18 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-sutta_simile: "Bull goes off course, 
-The catle go off course
-So it is for humans"
-parallels_nikaya:
-  - ""
-parallels_agama:
-  - "[[EA17.11]]"
-parallels_partilal:
-  - "[[EA17.11]]"
-  - "[[JA334]]"
-  - "[[JA527]]"
-  - "[[JA528]]"
+parallels_nikaya: ""
+parallels_agama: "[[EA17.11]]"
+parallels_partilal: "[[EA17.11]], [[JA334]], [[JA527]], [[JA528]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.69]]  🌐 [[AN4.71]] ►
 
@@ -73,8 +64,7 @@ So it is for humans
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.70-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -86,8 +76,7 @@ So it is for humans
 | ------------------------ |
 
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN4.70%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN4.70%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -98,7 +87,7 @@ So it is for humans
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN4.70%5D%5D%22%23mynotes%20-file%3Aan4.70-%20-file%3A%22AN4.69%22%20-file%3A%22AN4.71%22%20-file%3A%22AN4.70%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an4.70/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.70

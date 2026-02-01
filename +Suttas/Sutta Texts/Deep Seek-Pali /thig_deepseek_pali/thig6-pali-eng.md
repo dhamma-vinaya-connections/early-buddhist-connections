@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG6-PALI"
+sutta_code: "THIG6"
 sutta_title:
-  - " "
-  - ""
+  - "Chakkanipātavagga "
+  - "Sixes Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG6-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG6]]
 > ◄  [[thig5-pali-eng]] 📜  [[thig7-pali-eng]] ►
 
 # Thig 6. Chakkanipāto
@@ -267,6 +267,5 @@ Having pervaded my body with rapture and bliss, then I dwelt; on the seventh day
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig6-) 
 

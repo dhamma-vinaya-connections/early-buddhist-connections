@@ -1,13 +1,13 @@
 ---
-sutta_code: "DN30-PALI"
+sutta_code: "DN30"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Lakkhaṇa Sutta "
+  - "Marks of a Great Man"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN30-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN30]]
 > ◄  [[dn29-pali-pts]] 📜  [[dn31-pali-pts]] ►
 
 ## Dīgha Nikāya
@@ -508,6 +508,20 @@ Lakkhaṇa-Suttantaṃ Niṭṭhitaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn30-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DN33]] | [[DA9]], [[MA59]] | D iii 142 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN33]], [[MA59]], [[DA9]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN83]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN30]]
+> ◄  [[dn29-pali-pts]] 📜  [[dn31-pali-pts]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Bilaṅgikasutta "
   - "Bilangika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.4]]
 > ◄  [[sn7.3-deepseek-pali]] 📜  [[sn7.5-deepseek-pali]] ►
 
 # SN 7.4 Bilaṅgikasuttaṃ
@@ -31,8 +31,7 @@ When this was said, the brahmin Bilaṅgikabhāradvāja said to the Blessed One:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ When this was said, the brahmin Bilaṅgikabhāradvāja said to the Blessed One:
 | [[SA-2.77]], [[SA1154]], [[DHP125]], [[JA367]], [[SN1.22]], [[SNP3.10]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.4]]
 > ◄  [[sn7.3-deepseek-pali]] 📜  [[sn7.5-deepseek-pali]] ►

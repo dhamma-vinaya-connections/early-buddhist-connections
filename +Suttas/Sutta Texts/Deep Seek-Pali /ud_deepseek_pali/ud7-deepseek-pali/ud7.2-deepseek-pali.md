@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyabhaddiya Sutta "
   - "Bhaddiya (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.2]]
 > ◄  [[ud7.1-deepseek-pali]] 📜  [[ud7.3-deepseek-pali]] ►
 
 # Ud 7.2 Dutiyalakuṇḍakabhaddiyasuttaṃ
@@ -35,9 +35,7 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.2-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.2]]
 > ◄  [[ud7.1-deepseek-pali]] 📜  [[ud7.3-deepseek-pali]] ►

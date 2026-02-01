@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG494-PALI"
+sutta_code: "THAG494"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG494-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG494]]
 > ◄  [[thag493-pali-pts]] 📜  [[thag495-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ paṅko 'ti hi naṃ avedayuṃ yāyaṃ vandanapūjanā kulesu,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag494-) 
 

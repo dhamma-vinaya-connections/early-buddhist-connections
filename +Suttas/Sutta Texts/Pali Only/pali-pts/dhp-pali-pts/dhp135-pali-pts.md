@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP135-PALI"
+sutta_code: "DHP135"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP135-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP135]]
 > ◄  [[dhp134-pali-pts]] 📜  [[dhp136-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ atha pāpāni kammāni karaṃ bālo na bujjhati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp135-) 
 

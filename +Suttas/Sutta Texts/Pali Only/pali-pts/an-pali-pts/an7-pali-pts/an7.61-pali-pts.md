@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.61-PALI"
+sutta_code: "AN7.61"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pacalāyamāna "
+  - "Nodding Off"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.61-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.61]]
 > ◄  [[an7.60-pali-pts]] 📜  [[an7.62-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Imehi kho bhikkhave sattahi dhammehi samannāgato bhikkhu na cirass'; eva āsav�
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.61-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA83]] | A iv 85 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA83]], [[MN37]], [[EA19.3]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.61]]
+> ◄  [[an7.60-pali-pts]] 📜  [[an7.62-pali-pts]] ►

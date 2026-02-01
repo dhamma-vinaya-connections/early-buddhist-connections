@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG504-PALI"
+sutta_code: "THIG504"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG504-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG504]]
 > ◄  [[thig503-pali-pts]] 📜  [[thig505-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ asapattamhi samāne kin tava kāmehi ye bahusapattā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig504-) 
 

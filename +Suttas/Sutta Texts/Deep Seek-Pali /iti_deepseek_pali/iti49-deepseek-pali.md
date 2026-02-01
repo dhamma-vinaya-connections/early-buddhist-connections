@@ -4,10 +4,10 @@ sutta_title:
   - "Diṭṭhigata "
   - "Misconceptions"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI49]]
 > ◄  [[iti48-deepseek-pali]] 📜  [[iti50-deepseek-pali]] ►
 
 # Iti 49 Mūlasuttaṃ
@@ -27,9 +27,7 @@ This meaning, too, was spoken by the Blessed One, so I have heard. First.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti49-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI49]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI49]]
 > ◄  [[iti48-deepseek-pali]] 📜  [[iti50-deepseek-pali]] ►

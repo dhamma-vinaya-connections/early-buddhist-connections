@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG21-PALI"
+sutta_code: "THAG21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Vaṅgīsattheragāthā "
+  - "Vaṅgīsa"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG21]]
 > ◄  [[thag20-pali-pts]] 📜  [[thag22-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Nīlā sugīvā sikhino morā Kāraṃviyaṃ abhinadanti,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag21-) 
 

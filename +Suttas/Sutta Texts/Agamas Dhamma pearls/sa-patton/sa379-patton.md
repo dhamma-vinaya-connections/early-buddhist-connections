@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA379]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA379]]
 > ◄  [[sa371-patton]] 📜  [[sa380-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -66,8 +66,7 @@ Kauṇḍinya said to the Buddha, “I’ve known it, Sugata!”
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa379-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -78,6 +77,5 @@ Kauṇḍinya said to the Buddha, “I’ve known it, Sugata!”
 | [[EA19.2]], [[MA204]], [[SN56.11]], [[SN56.12]], [[pli-tv-kd1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA379]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA379]]
 > ◄  [[sa371-patton]] 📜  [[sa380-patton]] ►

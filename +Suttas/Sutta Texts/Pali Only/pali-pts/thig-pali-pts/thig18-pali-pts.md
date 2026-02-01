@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG18-PALI"
+sutta_code: "THIG18"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG18]]
 > ◄  [[thig17-pali-pts]] 📜  [[thig19-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ ekikā theriyo samattā. ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig18-) 
 

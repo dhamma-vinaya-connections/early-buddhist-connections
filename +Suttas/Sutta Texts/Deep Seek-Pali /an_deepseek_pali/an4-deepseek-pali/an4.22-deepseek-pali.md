@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyauruvela "
   - "At Uruvelā"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.22]]
 > ◄  [[an4.21-deepseek-pali]] 📜  [[an4.23-deepseek-pali]] ►
 
 # AN 4.22 Dutiyauruvelasuttaṃ
@@ -51,12 +51,11 @@ Him I call an elder, in whom there are no taints; a bhikkhu rid of taints is cal
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.22-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A ii 22 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.22]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.22]]
 > ◄  [[an4.21-deepseek-pali]] 📜  [[an4.23-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG4-PALI"
+sutta_code: "THIG4"
 sutta_title:
-  - " "
-  - ""
+  - "Catukkanipātavagga "
+  - "Fours Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG4]]
 > ◄  [[thig3-pali-eng]] 📜  [[thig5-pali-eng]] ►
 
 # Thig 4. Catukkanipāto
@@ -40,6 +40,5 @@ language: "English"
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig4-) 
 

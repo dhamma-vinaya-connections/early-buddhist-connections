@@ -4,10 +4,10 @@ sutta_title:
   - "Arañña "
   - "Wilderness"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.110]]
 > ◄  [[an5.109-deepseek-pali]] 📜  [[an5.111-deepseek-pali]] ►
 
 # AN 5.110 Araññasuttaṃ
@@ -39,12 +39,11 @@ Timidity, the Doubtful, the Thief, the Delicate, Ease as the fifth; Ānanda, Vir
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.110-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 135 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.110]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.110]]
 > ◄  [[an5.109-deepseek-pali]] 📜  [[an5.111-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG45-PALI"
+sutta_code: "THAG45"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG45-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG45]]
 > ◄  [[thag44-pali-pts]] 📜  [[thag46-pali-pts]] ►
 
 ## Theragāthā
@@ -23,6 +23,5 @@ sati paññā ca me vuḍḍhā cittañ ca susamāhitaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag45-) 
 

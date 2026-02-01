@@ -4,10 +4,10 @@ sutta_title:
   - "Sabhiyasutta "
   - "Sabhiya's Questions"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
 > ◄  [[snp3.5-deepseek-pali]] 📜  [[snp3.7-deepseek-pali]] ►
 
 # Snp 3.6 Sabhiyasuttaṃ
@@ -383,8 +383,7 @@ The Sutta on Sabhiya, the sixth, is finished.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -399,6 +398,5 @@ The Sutta on Sabhiya, the sixth, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN2]], [[UD1.9]], [[THAG6.9]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
 > ◄  [[snp3.5-deepseek-pali]] 📜  [[snp3.7-deepseek-pali]] ►

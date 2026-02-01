@@ -4,10 +4,10 @@ sutta_title:
   - "Cūḷaassapura Sutta "
   - "Discourse at Assapura Shorter"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
 > ◄  [[mn39-deepseek-pali]] 📜  [[mn41-deepseek-pali]] ►
 
 # 40. Cūḷaassapurasuttaṃ
@@ -75,8 +75,7 @@ Giñjakasāla Grove, to wander about; the wise one again refuted Saccaka; Mukhav
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn40-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ Giñjakasāla Grove, to wander about; the wise one again refuted Saccaka; Mukhav
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN15]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
 > ◄  [[mn39-deepseek-pali]] 📜  [[mn41-deepseek-pali]] ►

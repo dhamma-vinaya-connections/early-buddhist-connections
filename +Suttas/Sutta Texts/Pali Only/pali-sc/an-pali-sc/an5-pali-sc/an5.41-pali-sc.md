@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.41-PALI"
+sutta_code: "AN5.41"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Ādiya "
+  - "Getting Rich"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.41-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.41]]
 > ◄  [[an5.40-pali-sc]] 📜  [[an5.42-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -57,6 +57,20 @@ Paṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.41-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA126]] | A iii 45 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.61]], [[MA126]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5.38]], [[AN5.40]], [[AN5.148]], [[AN10.91]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.41]]
+> ◄  [[an5.40-pali-sc]] 📜  [[an5.42-pali-sc]] ►

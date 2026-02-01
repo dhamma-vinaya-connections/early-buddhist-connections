@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG895-PALI"
+sutta_code: "THAG895"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG895-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG895]]
 > ◄  [[thag894-pali-pts]] 📜  [[thag896-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ piṇḍapātapaṭikkanto eko adutiyo muni
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag895-) 
 

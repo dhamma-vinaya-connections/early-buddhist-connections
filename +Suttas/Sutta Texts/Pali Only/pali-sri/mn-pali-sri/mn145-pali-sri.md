@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN145-PALI"
+sutta_code: "MN145"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Puṇṇovāda Sutta "
+  - "Advice to Puṇṇa"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN145-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN145]]
 > ◄  [[mn144-pali-sri]] 📜  [[mn146-pali-sri]] ►
 
 # 145. Punnovada - Pali
@@ -108,6 +108,20 @@ Puṇṇovāda suttaṃ tatiyaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn145-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN35.88]] | [[SA311]] | M iii 267 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA311]]; [[SN35.88]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[UD1.10]], [[MN21]], [[MN148]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN145]]
+> ◄  [[mn144-pali-sri]] 📜  [[mn146-pali-sri]] ►

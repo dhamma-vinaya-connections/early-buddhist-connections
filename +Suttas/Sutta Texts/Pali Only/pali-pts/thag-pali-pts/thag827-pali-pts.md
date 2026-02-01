@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG827-PALI"
+sutta_code: "THAG827"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG827-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG827]]
 > ◄  [[thag826-pali-pts]] 📜  [[thag828-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ abhiññeyyaṃ abhiññātaṃ, bhāvetabbañ ca bhāvitaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag827-) 
 

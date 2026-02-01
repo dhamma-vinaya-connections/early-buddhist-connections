@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.25-PALI"
+sutta_code: "AN8.25"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mahānāma "
+  - "With Mahānāma"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.25-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.25]]
 > ◄  [[an8.24-pali-pts]] 📜  [[an8.26-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Aṭṭhahi bhikkhave acchariyehi abbhutehi dhammehi samannāgataṃ Hatthakaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.25-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.154]], [[SA929]] | A iv 220 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.154]], [[SA929]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.25]]
+> ◄  [[an8.24-pali-pts]] 📜  [[an8.26-pali-pts]] ►

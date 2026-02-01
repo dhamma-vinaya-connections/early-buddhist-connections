@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN5-PALI"
+sutta_code: "MN5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Anaṅgaṇa Sutta "
+  - "Unblemished"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
 > ◄  [[mn4-pali-sri]] 📜  [[mn6-pali-sri]] ►
 
 # 5. Anangana Sutta - Pali
@@ -172,6 +172,20 @@ Anaṅgaṇasuttaṃ pañcamaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA25.6]]; [[MA87]] | M i 24 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA25.6]]; [[MA87]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN3]], [[MN7]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
+> ◄  [[mn4-pali-sri]] 📜  [[mn6-pali-sri]] ►

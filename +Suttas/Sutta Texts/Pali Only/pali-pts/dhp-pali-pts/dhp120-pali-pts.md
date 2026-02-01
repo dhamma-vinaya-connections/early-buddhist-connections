@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP120-PALI"
+sutta_code: "DHP120"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP120-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP120]]
 > ◄  [[dhp119-pali-pts]] 📜  [[dhp121-pali-pts]] ►
 
 ## Dhammapada
@@ -23,6 +23,5 @@ udabindunipātena udakumbho pi pūrati, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp120-) 
 

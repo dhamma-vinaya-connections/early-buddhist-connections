@@ -3,11 +3,11 @@ sutta_code: "MN29"
 sutta_title:
   - "Mahāsāropama Sutta "
   - "Longer Simile of the Heartwood"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29]]
 > ◄  [[mn28-sujato-pali]] 📜  [[mn30-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -137,8 +137,7 @@ Mahāsāropamasuttaṁ niṭṭhitaṁ navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn29-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -153,6 +152,5 @@ Mahāsāropamasuttaṁ niṭṭhitaṁ navamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN30]]; [[SN17.3]]; [[SN17.5]]; [[SN17.8]]; [[AN8.7]]; [[AN8.8]]; [[AN10.58]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN29]]
 > ◄  [[mn28-sujato-pali]] 📜  [[mn30-sujato-pali]] ►

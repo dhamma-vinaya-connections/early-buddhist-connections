@@ -3,11 +3,11 @@ sutta_code: "MN78"
 sutta_title:
   - "Samaṇamuṇḍika Sutta "
   - "With Uggāhamāna Samaṇamuṇḍika"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN78]]
 > ◄  [[mn77-sujato-pali]] 📜  [[mn79-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -173,8 +173,7 @@ Samaṇamuṇḍikasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn78-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -189,6 +188,5 @@ Samaṇamuṇḍikasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.116]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN78]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN78]]
 > ◄  [[mn77-sujato-pali]] 📜  [[mn79-sujato-pali]] ►

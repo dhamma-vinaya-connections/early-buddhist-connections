@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.26-PALI"
+sutta_code: "AN6.26"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Anussatiṭṭhāna "
+  - "Topics For Recollection"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.26-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.26]]
 > ◄  [[an6.25-pali-sc]] 📜  [[an6.27-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -44,6 +44,11 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.26-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN6.9]], [[AN6.10]] |  | A iii 314 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.26]]
+> ◄  [[an6.25-pali-sc]] 📜  [[an6.27-pali-sc]] ►

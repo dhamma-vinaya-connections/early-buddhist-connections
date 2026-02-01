@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN19-PALI"
+sutta_code: "MN19"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Dvedhāvitakka Sutta "
+  - "Two Kinds of Thought"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
 > ◄  [[mn18-pali-sri]] 📜  [[mn20-pali-sri]] ►
 
 # 19. Dvedhavitakka Sutta - Pali
@@ -116,6 +116,20 @@ Dvedhāvitakkasuttaṃ navamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn19-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA102]] | M i 114 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA102]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.259]], [[MN20]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
+> ◄  [[mn18-pali-sri]] 📜  [[mn20-pali-sri]] ►

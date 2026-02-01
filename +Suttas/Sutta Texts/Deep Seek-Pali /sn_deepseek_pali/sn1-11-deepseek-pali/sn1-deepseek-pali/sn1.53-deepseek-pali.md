@@ -4,10 +4,10 @@ sutta_title:
   - "Mittasutta "
   - "The Friend"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
 > ◄  [[sn1.52-deepseek-pali]] 📜  [[sn1.54-deepseek-pali]] ►
 
 # SN 1.53 Mittasuttaṃ
@@ -29,8 +29,7 @@ A caravan is a friend when traveling abroad, a mother is a friend in one’s own
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.53-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ A caravan is a friend when traveling abroad, a mother is a friend in one’s own
 | [[SA-2.137]], [[SA1000]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
 > ◄  [[sn1.52-deepseek-pali]] 📜  [[sn1.54-deepseek-pali]] ►

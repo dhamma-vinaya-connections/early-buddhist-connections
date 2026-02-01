@@ -3,11 +3,11 @@ sutta_code: "SN4.20"
 sutta_title:
   - "Rajjasutta "
   - "Rulership"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.20]]
 > ◄  [[sn4.19-sujato-pali]] 📜  [[sn4.21-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -84,8 +84,7 @@ Kassakaṁ rajjena te dasāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -96,6 +95,5 @@ Kassakaṁ rajjena te dasāti.
 | [[SA1098]], [[DHP186-187]], [[JA258]], [[SN4.21]], [[PE1]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.20]]
 > ◄  [[sn4.19-sujato-pali]] 📜  [[sn4.21-sujato-pali]] ►

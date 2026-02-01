@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG428-PALI"
+sutta_code: "THIG428"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG428-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG428]]
 > ◄  [[thig427-pali-pts]] 📜  [[thig429-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ annena ca pānena ca khajjena ca yañ ca tattha sannihitaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig428-) 
 

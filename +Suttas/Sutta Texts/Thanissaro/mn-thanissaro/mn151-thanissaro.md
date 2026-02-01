@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
 > ◄  [[mn149-thanissaro]] 📜  [[mn152-thanissaro]] ►
 
 ## MN151 The Purification of Almsfood
@@ -64,8 +64,7 @@ That is what the Blessed One said. Gratified, Ven. Sāriputta delighted in the B
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn151-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -76,6 +75,5 @@ That is what the Blessed One said. Gratified, Ven. Sāriputta delighted in the B
 | [[EA45.6]]; [[SA236]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
 > ◄  [[mn149-thanissaro]] 📜  [[mn152-thanissaro]] ►

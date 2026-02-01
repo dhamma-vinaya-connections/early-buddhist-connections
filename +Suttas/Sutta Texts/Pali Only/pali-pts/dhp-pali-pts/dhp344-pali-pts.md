@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP344-PALI"
+sutta_code: "DHP344"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP344-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP344]]
 > ◄  [[dhp343-pali-pts]] 📜  [[dhp345-pali-pts]] ►
 
 ## Dhammapada
@@ -24,6 +24,5 @@ na taṃ daḷhaṃ bandhanam āhu dhīrā yad āyasaṃ dārujaṃ pabbajañ ca
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp344-) 
 

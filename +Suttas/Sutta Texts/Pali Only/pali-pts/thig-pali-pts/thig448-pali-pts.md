@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG448-PALI"
+sutta_code: "THIG448"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG448-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG448]]
 > ◄  [[thig447-pali-pts]] 📜  [[thig449-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sīlavatī cittakathikā bahussutā buddhasāsane vinītā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig448-) 
 

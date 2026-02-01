@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN6.11-PALI"
+sutta_code: "AN6.11"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Paṭhamasāraṇīya "
+  - "Warm-Hearted"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.11-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.11]]
 > ◄  [[an6.10-pali-sri]] 📜  [[an6.12-pali-sri]] ►
 
 # 10:11 Samanasaṭṭavaggo - Pali
@@ -250,6 +250,16 @@ Niddhamanaṃ dve asekhāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.11-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN6.12]] | [[EA37.1]] | A iii 288 |
+> > [!check]- Partial parallels 
+> > 
+| [[DN33]], [[AN6.12]], [[EA37.1]], [[PLI-TV-PVR4]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.11]]
+> ◄  [[an6.10-pali-sri]] 📜  [[an6.12-pali-sri]] ►

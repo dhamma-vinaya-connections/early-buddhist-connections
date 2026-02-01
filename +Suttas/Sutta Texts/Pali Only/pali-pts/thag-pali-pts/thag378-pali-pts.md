@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG378-PALI"
+sutta_code: "THAG378"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG378-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG378]]
 > ◄  [[thag377-pali-pts]] 📜  [[thag379-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ pubbenivāsaṃ jānāmi, dibbacakkhuṃ visodhitaṃ,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag378-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP93-PALI"
+sutta_code: "DHP93"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP93-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP93]]
 > ◄  [[dhp92-pali-pts]] 📜  [[dhp94-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ yass'; indriyāni samathaṃ gatāni assā yathā sārathinā sudantā /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp93-) 
 

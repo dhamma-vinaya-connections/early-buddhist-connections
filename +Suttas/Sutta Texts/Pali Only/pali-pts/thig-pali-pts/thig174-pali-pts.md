@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG174-PALI"
+sutta_code: "THIG174"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG174-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG174]]
 > ◄  [[thig173-pali-pts]] 📜  [[thig175-pali-pts]] ►
 
 ## Therīgāthā
@@ -23,6 +23,5 @@ musalāni gahetvāna dhaññaṃ koṭṭenti mānavā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig174-) 
 

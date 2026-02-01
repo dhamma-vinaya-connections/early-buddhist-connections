@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI94-PALI"
+sutta_code: "ITI94"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Upaparikkha "
+  - "Examination"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI94-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI94]]
 > ◄  [[iti93-pali-sc]] 📜  [[iti95-pali-sc]] ►
 
 # Iti 94. Kāmūpapattisuttaṃ
@@ -33,6 +33,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti94-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI94]]
+> ◄  [[iti93-pali-sc]] 📜  [[iti95-pali-sc]] ►

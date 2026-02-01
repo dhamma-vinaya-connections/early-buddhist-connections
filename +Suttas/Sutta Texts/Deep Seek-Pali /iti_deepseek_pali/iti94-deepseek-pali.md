@@ -4,10 +4,10 @@ sutta_title:
   - "Upaparikkha "
   - "Examination"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI94]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI94]]
 > ◄  [[iti93-deepseek-pali]] 📜  [[iti95-deepseek-pali]] ►
 
 # Iti 94 Kāmūpapattisuttaṃ
@@ -33,9 +33,7 @@ This meaning too was spoken by the Blessed One, so I have heard. The sixth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti94-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI94]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI94]]
 > ◄  [[iti93-deepseek-pali]] 📜  [[iti95-deepseek-pali]] ►

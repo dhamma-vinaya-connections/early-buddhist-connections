@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP294-PALI"
+sutta_code: "DHP294"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP294-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP294]]
 > ◄  [[dhp293-pali-pts]] 📜  [[dhp295-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ mātaraṃ pitaraṃ hantvā rājāno dve ca sotthiye /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp294-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP4-PALI"
+sutta_code: "SNP4"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Sri"
-language: "English"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4]]
 > ◄  [[snp3-pali-sri]] 📜  [[snp5-pali-sri]] ►
 
 # 4. Atthaka-vagga - Pali
@@ -1723,6 +1723,5 @@ Tāni etāni suttāni sabbānaṭṭhakavaggikāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4-) 
 

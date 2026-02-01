@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA79]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA79]]
 > ◄  [[ma78-patton]] 📜  [[ma80-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -173,8 +173,7 @@ Venerable Aniruddha replied, “Good man, Kātyāyana, you can say that the rela
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma79-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -189,6 +188,5 @@ Venerable Aniruddha replied, “Good man, Kātyāyana, you can say that the rela
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.29]], [[MA72]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA79]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA79]]
 > ◄  [[ma78-patton]] 📜  [[ma80-patton]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Upaṭṭhāka "
   - "Carer"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.124]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.124]]
 > ◄  [[an5.123-deepseek-pali]] 📜  [[an5.125-deepseek-pali]] ►
 
 # AN 5.124 Dutiyaupaṭṭhākasuttaṃ
@@ -27,8 +27,7 @@ Monks, a caregiver endowed with five qualities is fit to attend to the sick. Wha
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.124-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -39,6 +38,5 @@ Monks, a caregiver endowed with five qualities is fit to attend to the sick. Wha
 | [[EA32.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.124]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.124]]
 > ◄  [[an5.123-deepseek-pali]] 📜  [[an5.125-deepseek-pali]] ►

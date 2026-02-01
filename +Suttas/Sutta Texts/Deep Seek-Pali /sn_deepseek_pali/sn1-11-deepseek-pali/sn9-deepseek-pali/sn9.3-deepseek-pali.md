@@ -4,10 +4,10 @@ sutta_title:
   - "Kassapagottasutta "
   - "Kassapagotta"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.3]]
 > ◄  [[sn9.2-deepseek-pali]] 📜  [[sn9.4-deepseek-pali]] ►
 
 # SN 9.3 Kassapagottasuttaṃ
@@ -39,8 +39,7 @@ Then the Venerable Kassapagotta, stirred by that deity, attained to urgency.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn9.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Then the Venerable Kassapagotta, stirred by that deity, attained to urgency.
 | [[SA-2.359]], [[SA1339]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.3]]
 > ◄  [[sn9.2-deepseek-pali]] 📜  [[sn9.4-deepseek-pali]] ►

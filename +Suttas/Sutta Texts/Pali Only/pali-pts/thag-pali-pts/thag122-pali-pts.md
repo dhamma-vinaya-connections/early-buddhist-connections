@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG122-PALI"
+sutta_code: "THAG122"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG122-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG122]]
 > ◄  [[thag121-pali-pts]] 📜  [[thag123-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ Na idaṃ anayena jīvitaṃ, nāhāro hadayassa santiko,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag122-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.29-PALI"
+sutta_code: "AN1.29"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Akammaniya "
+  - "Useless"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.29-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.29]]
 > ◄  [[an1.28-pali-pts]] 📜  [[an1.30-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -23,6 +23,16 @@ Cittaṃ bhikkhave abhāvitaṃ abahulīkataṃ dukkhādhivāhaṃ hotī ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.29-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA11.5]] | A i 6 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA11.5]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.29]]
+> ◄  [[an1.28-pali-pts]] 📜  [[an1.30-pali-pts]] ►

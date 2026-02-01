@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_76]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_76]]
 > ◄  [[SA2_75]] 📜  [[SA2_77]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -31,6 +31,5 @@ The monks said to the Buddha, “The Bhagavān is the root of the Dharma, the ey
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_76-) 
 

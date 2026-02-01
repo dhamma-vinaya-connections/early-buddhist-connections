@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA13]]
 > ◄  [[ma12-bdk]] 📜  [[ma14-bdk]] ►
 
 ### 13. The Discourse on [Tenets to Be] Transcended
@@ -41,8 +41,7 @@ of contact there is feeling. Monks, one who has feeling will [be able to] know s
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -57,6 +56,5 @@ of contact there is feeling. Monks, one who has feeling will [be able to] know s
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA19]], [[MN101]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA13]]
 > ◄  [[ma12-bdk]] 📜  [[ma14-bdk]] ►

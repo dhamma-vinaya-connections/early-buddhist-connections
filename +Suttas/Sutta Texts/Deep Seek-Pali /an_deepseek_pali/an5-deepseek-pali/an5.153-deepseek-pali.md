@@ -4,10 +4,10 @@ sutta_title:
   - "Sammattaniyāma "
   - "Right Path Inevitability"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.153]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.153]]
 > ◄  [[an5.152-deepseek-pali]] 📜  [[an5.154-deepseek-pali]] ►
 
 # AN 5.153 Tatiyasammattaniyāmasuttaṃ
@@ -27,12 +27,11 @@ Monks, one endowed with five qualities, while listening to the True Dhamma, is c
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.153-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
 > |  |  | A iii 175 |
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.153]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.153]]
 > ◄  [[an5.152-deepseek-pali]] 📜  [[an5.154-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN1.15-PALI"
+sutta_code: "AN1.15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Nīvaraṇappahāna "
+  - "Giving Up The Hindrances"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.15]]
 > ◄  [[an1.14-pali-sri]] 📜  [[an1.16-pali-sri]] ►
 
 # 3:15 Mangalavaggo - Pali
@@ -220,6 +220,16 @@ Khuddaka paṇṇāsako samatto tatiyo.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.15-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA9.9]] | A i 4 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA9.9]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.15]]
+> ◄  [[an1.14-pali-sri]] 📜  [[an1.16-pali-sri]] ►

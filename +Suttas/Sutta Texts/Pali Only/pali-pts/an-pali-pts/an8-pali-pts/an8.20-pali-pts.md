@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN8.20-PALI"
+sutta_code: "AN8.20"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Uposatha "
+  - "Sabbath"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.20-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
 > ◄  [[an8.19-pali-pts]] 📜  [[an8.21-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā Sāvatthiyaṃ viharati Pubbārāme M
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.20-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA48.2]], [[MA37]] | A iv 204 |
+> > [!check]- Partial parallels 
+> > 
+| [[PLI-TV-KD19]], [[EA48.2]], [[MA37]], [[AN8.19]], [[UD5.5]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
+> ◄  [[an8.19-pali-pts]] 📜  [[an8.21-pali-pts]] ►

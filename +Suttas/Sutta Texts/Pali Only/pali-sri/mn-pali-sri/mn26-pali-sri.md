@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN26-PALI"
+sutta_code: "MN26"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Pāsarāsi Sutta "
+  - "Noble Search"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
 > ◄  [[mn25-pali-sri]] 📜  [[mn27-pali-sri]] ►
 
 # 26. Ariya Pariyesana Sutta - Pali
@@ -306,6 +306,20 @@ Ariyapariyesanasuttaṃ chaṭṭhaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn26-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN4.255]]; [[DHP353]]; [[DN14]]; [[MN20]]; [[MN85]]; [[SN6.1]] | [[EA19.1]]; [[EA24.5]]; [[MA101]]; [[MA204]] | M i 160 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.255]]; [[MN85]]; [[PLI-TV-KD15]]; [[DN14]]; [[SN6.1]]; [[MA204]]; [[MN100]]; [[MN36]]; [[DHP353]]; [[PLI-TV-KD1]]; [[ITI38]]; [[SN11.17]]; [[EA19.1]]; [[EA24.5]]; [[MN20]]; [[MN4]]; [[MA101]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[UD2.10]], [[SN5.15]], [[SN22.87]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
+> ◄  [[mn25-pali-sri]] 📜  [[mn27-pali-sri]] ►

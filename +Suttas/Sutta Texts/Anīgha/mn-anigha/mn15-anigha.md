@@ -7,7 +7,7 @@ sutta-version: "Ven. Anigha"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN15]]
 > ◄  [[mn14-anigha]] 📜  [[mn16-anigha]] ►
 
 # MN 15 - Evaluation
@@ -82,8 +82,7 @@ This is what Venerable Mahāmoggallāna said. Pleased, the bhikkhus delighted in
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn15-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -98,6 +97,5 @@ This is what Venerable Mahāmoggallāna said. Pleased, the bhikkhus delighted in
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN40]], [[MN5]], [[MN7]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN15]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN15]]
 > ◄  [[mn14-anigha]] 📜  [[mn16-anigha]] ►

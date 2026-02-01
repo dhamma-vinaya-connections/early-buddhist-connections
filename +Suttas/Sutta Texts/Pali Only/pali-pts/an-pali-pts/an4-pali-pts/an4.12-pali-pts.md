@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN4.12-PALI"
+sutta_code: "AN4.12"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sila "
+  - "Ethics"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.12-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.12]]
 > ◄  [[an4.11-pali-pts]] 📜  [[an4.13-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,16 @@ Yataṃ care yataṃ tiṭṭhe yatam acche yatam saye Yataṃ sammiñjaye bhikk
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.12-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[ITI111]] |  | A ii 136 |
+> > [!check]- Partial parallels 
+> > 
+| [[ITI111]], [[AN10.71]], [[AN10.17]], [[DN33]], [[DN34]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.12]]
+> ◄  [[an4.11-pali-pts]] 📜  [[an4.13-pali-pts]] ►

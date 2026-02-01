@@ -4,10 +4,10 @@ sutta_title:
   - "Sevanā "
   - "Association"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.6]]
 > ◄  [[an9.5-deepseek-pali]] 📜  [[an9.7-deepseek-pali]] ►
 
 # AN 9.6 Sevanāsuttaṃ
@@ -63,8 +63,7 @@ Here, one should recognize a person thus: ‘If I associate with this person, un
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -79,6 +78,5 @@ Here, one should recognize a person thus: ‘If I associate with this person, un
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN17]], [[MN3]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.6]]
 > ◄  [[an9.5-deepseek-pali]] 📜  [[an9.7-deepseek-pali]] ►

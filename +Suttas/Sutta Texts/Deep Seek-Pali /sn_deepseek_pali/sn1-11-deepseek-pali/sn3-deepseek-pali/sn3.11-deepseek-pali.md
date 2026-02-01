@@ -4,10 +4,10 @@ sutta_title:
   - "Sattajaṭilasutta "
   - "Seven Jaṭilas"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.11]]
 > ◄  [[sn3.10-deepseek-pali]] 📜  [[sn3.12-deepseek-pali]] ►
 
 # SN 3.11 Sattajaṭilasuttaṃ
@@ -65,8 +65,7 @@ Impure within, yet outwardly shining."
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.11-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -77,6 +76,5 @@ Impure within, yet outwardly shining."
 | [[SA-2.71]], [[SA1148]], [[UD6.2]], [[AN4.192]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.11]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.11]]
 > ◄  [[sn3.10-deepseek-pali]] 📜  [[sn3.12-deepseek-pali]] ►

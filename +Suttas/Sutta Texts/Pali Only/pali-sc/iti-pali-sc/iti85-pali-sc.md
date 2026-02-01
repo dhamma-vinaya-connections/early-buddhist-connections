@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI85-PALI"
+sutta_code: "ITI85"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Asubhānupassī "
+  - "Contemplating Foulness"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI85-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI85]]
 > ◄  [[iti84-pali-sc]] 📜  [[iti86-pali-sc]] ►
 
 # Iti 85. Dhammānudhammapaṭipannasuttaṃ
@@ -27,6 +27,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti85-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI85]]
+> ◄  [[iti84-pali-sc]] 📜  [[iti86-pali-sc]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG161-PALI"
+sutta_code: "THIG161"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG161-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG161]]
 > ◄  [[thig160-pali-pts]] 📜  [[thig162-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ bahūnaṃ vata atthāya Māyā janayi Gotamaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig161-) 
 

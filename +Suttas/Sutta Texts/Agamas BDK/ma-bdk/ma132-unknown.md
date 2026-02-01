@@ -7,7 +7,7 @@ sutta-version: "Ven. Unknown"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA132]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA132]]
 > ◄  [[ma130-bdk]] 📜  [[ma133]] ►
 
 ### 132. The Discourse on Raṭṭhapāla
@@ -135,8 +135,7 @@ Deeply attached to continued existence, The foolish do evil deeds. In regard to 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma132-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -151,6 +150,5 @@ Deeply attached to continued existence, The foolish do evil deeds. In regard to 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG16.4]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA132]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA132]]
 > ◄  [[ma130-bdk]] 📜  [[ma133]] ►

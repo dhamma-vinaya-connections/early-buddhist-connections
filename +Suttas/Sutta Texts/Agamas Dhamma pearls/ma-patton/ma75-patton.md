@@ -7,7 +7,7 @@ sutta-version: "Patton"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA75]]
 > ◄  [[ma74-patton]] 📜  [[ma76-patton]] ►
 
 ### Translating Classical Buddhism to Modern English
@@ -93,8 +93,7 @@ The Bhagavān told him, “Ānanda, if a monk accepts nothing, he’ll surely at
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma75-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -104,6 +103,5 @@ The Bhagavān told him, “Ānanda, if a monk accepts nothing, he’ll surely at
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA76]], [[MN140]], [[SN22.55]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA75]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA75]]
 > ◄  [[ma74-patton]] 📜  [[ma76-patton]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN4.21-PALI"
+sutta_code: "SN4.21"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Sambahulasutta "
+  - "A Number"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN4.21-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.21]]
 > ◄  [[sn4.20-pali-sc]] 📜  [[sn4.22-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -42,6 +42,20 @@ Tasseva jantu vinayāya sikkhe"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.21-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP186-187]] | [[SA1099]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1099]], [[DHP186-187]], [[JA258]], [[SN4.20]], [[PE1]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN1.20]], [[SN4.17]], [[SN35.127]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.21]]
+> ◄  [[sn4.20-pali-sc]] 📜  [[sn4.22-pali-sc]] ►

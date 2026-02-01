@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.8-PALI"
+sutta_code: "SN3.8"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Mallikāsutta "
+  - "Mallika"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.8-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
 > ◄  [[sn3.6-pali-pts]] 📜  [[sn3.9-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -51,6 +51,16 @@ atthābhisamayādhīro || paṇḍito ti pavuccatīti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.8-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[UD5.1]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
+> ◄  [[sn3.6-pali-pts]] 📜  [[sn3.9-pali-pts]] ►

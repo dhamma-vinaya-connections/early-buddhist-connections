@@ -3,11 +3,11 @@ sutta_code: "AN4.170"
 sutta_title:
   - "Yuganaddha "
   - "Conjunction"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.170]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.170]]
 > ◄  [[an4.169-sujato-pali]] 📜  [[an4.171-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -78,8 +78,7 @@ Sasaṅkhāraṁ yuganaddhena cāti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.170-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -90,6 +89,5 @@ Sasaṅkhāraṁ yuganaddhena cāti.
 | [[SA560]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.170]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.170]]
 > ◄  [[an4.169-sujato-pali]] 📜  [[an4.171-sujato-pali]] ►

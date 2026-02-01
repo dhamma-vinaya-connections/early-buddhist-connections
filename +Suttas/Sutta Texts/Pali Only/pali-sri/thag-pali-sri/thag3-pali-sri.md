@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG3-PALI"
+sutta_code: "THAG3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Tikanipātavagga "
+  - "Trees Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG3]]
 > ◄  [[thag2-pali-sri]] 📜  [[thag4-pali-sri]] ►
 
 # 3. Tika-nipatha - Pali
@@ -510,6 +510,5 @@ Tikanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag3-) 
 

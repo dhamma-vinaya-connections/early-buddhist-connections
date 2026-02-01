@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1213-PALI"
+sutta_code: "THAG1213"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1213-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1213]]
 > ◄  [[thag1212-pali-pts]] 📜  [[thag1214-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ aratiṃ ratiṃ ca pahāya sabbaso gehasitañ ca vitakkaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1213-) 
 

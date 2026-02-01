@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN44-PALI"
+sutta_code: "MN44"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Cūḷavedalla Sutta "
+  - "Classification Shorter"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
 > ◄  [[mn43-pali-sc]] 📜  [[mn45-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -200,6 +200,20 @@ Evaṁ vutte, bhagavā visākhaṁ upāsakaṁ etadavoca:
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn44-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN41.6]] | [[MA210]]; [[SA568]] | M i 299 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA210]]; [[AN4.200]]; [[MN109]]; [[SN22.44]]; [[SN41.3]]; [[SN41.6]]; [[SA568]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN41.6]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
+> ◄  [[mn43-pali-sc]] 📜  [[mn45-pali-sc]] ►

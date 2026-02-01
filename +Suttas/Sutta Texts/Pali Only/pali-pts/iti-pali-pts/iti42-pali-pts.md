@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI42-PALI"
+sutta_code: "ITI42"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sukkadhamma "
+  - "Bright Protectors"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI42-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI42]]
 > ◄  [[iti41-pali-pts]] 📜  [[iti43-pali-pts]] ►
 
 ## Itivuttaka
@@ -31,6 +31,16 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||5||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti42-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[THAG18.1]], [[AN2.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI42]]
+> ◄  [[iti41-pali-pts]] 📜  [[iti43-pali-pts]] ►

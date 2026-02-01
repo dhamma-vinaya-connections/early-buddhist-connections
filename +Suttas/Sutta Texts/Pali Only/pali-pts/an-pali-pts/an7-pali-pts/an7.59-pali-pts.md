@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.59-PALI"
+sutta_code: "AN7.59"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kimila "
+  - "With Kimbila"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.59-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.59]]
 > ◄  [[an7.58-pali-pts]] 📜  [[an7.60-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,20 @@ Evaṃ me sutaṃ. Ekaṃ samayaṃ Bhagavā Kimbilāyaṃ viharati Veḷuvane. 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.59-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN5.201]], [[AN6.40]] |  | A iv 84 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN5.201]], [[AN6.40]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN16.13]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.59]]
+> ◄  [[an7.58-pali-pts]] 📜  [[an7.60-pali-pts]] ►

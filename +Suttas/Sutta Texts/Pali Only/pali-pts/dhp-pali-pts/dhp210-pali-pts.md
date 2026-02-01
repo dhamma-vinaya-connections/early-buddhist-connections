@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP210-PALI"
+sutta_code: "DHP210"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP210-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP210]]
 > ◄  [[dhp209-pali-pts]] 📜  [[dhp211-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ tasmā piyaṃ na kayirātha piyāpāyo hi pāpako, /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp210-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "求解 "
   - "Investigating"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI92]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI92]]
 > ◄  [[iti91-deepseek-pali]] 📜  [[iti93-deepseek-pali]] ►
 
 # Iti 92 Aggisuttaṃ
@@ -39,6 +39,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The fourth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti92-) 
 

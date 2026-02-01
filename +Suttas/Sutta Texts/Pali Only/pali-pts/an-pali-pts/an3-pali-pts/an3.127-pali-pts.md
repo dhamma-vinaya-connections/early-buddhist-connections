@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.127-PALI"
+sutta_code: "AN3.127"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Hatthaka "
+  - "With Hatthaka"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.127-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.127]]
 > ◄  [[an3.126-pali-pts]] 📜  [[an3.128-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -26,6 +26,16 @@ Tatiyam pi kho Bhagavā Mahānāmaṃ Sakkaṃ etad avoca:-Nānā ti Mahānāma 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.127-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.188]], [[SA594]] | A i 278 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.188]], [[SA594]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.127]]
+> ◄  [[an3.126-pali-pts]] 📜  [[an3.128-pali-pts]] ►

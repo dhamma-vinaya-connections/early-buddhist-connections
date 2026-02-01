@@ -4,10 +4,10 @@ sutta_title:
   - "Sabbāsava Sutta "
   - "All the Defilements"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN2]]
 > ◄  [[mn1-deepseek-pali]] 📜  [[mn3-deepseek-pali]] ►
 
 # 2. Sabbāsavasuttaṃ
@@ -175,8 +175,7 @@ The Sabbasava Sutta is concluded. Second.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn2-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -191,6 +190,5 @@ The Sabbasava Sutta is concluded. Second.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.24]]; [[AN5.140]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN2]]
 > ◄  [[mn1-deepseek-pali]] 📜  [[mn3-deepseek-pali]] ►

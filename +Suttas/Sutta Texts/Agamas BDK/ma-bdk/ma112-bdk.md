@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA112]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA112]]
 > ◄  [[ma111-bdk]] 📜  [[ma113-bdk]] ►
 
 ### 112. The Discourse Spoken at Anupiya
@@ -61,8 +61,7 @@ this person’s unwholesome qualities have ceased and his wholesome qual ities h
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma112-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -72,6 +71,5 @@ this person’s unwholesome qualities have ceased and his wholesome qual ities h
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA95]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA112]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA112]]
 > ◄  [[ma111-bdk]] 📜  [[ma113-bdk]] ►

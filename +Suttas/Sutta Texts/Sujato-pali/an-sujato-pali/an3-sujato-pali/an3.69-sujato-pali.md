@@ -3,11 +3,11 @@ sutta_code: "AN3.69"
 sutta_title:
   - "Akusalamūla "
   - "Unskillful Roots"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.69]]
 > ◄  [[an3.68-sujato-pali]] 📜  [[an3.70-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -117,8 +117,7 @@ Navamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.69-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -133,6 +132,5 @@ Navamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN90]], [[SN3.5]], [[SN3.7]], [[SN3.14]], [[SN3.15]], [[SN3.25]], [[AN3.34]], [[UD2.10]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.69]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.69]]
 > ◄  [[an3.68-sujato-pali]] 📜  [[an3.70-sujato-pali]] ►

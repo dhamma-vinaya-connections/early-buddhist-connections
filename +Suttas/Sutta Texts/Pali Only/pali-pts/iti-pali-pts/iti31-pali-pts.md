@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI31-PALI"
+sutta_code: "ITI31"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "貧窮 "
+  - "Poverty"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI31-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI31]]
 > ◄  [[iti30-pali-pts]] 📜  [[iti32-pali-pts]] ►
 
 ## Itivuttaka
@@ -29,6 +29,16 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||4||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti31-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[ITI65]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI31]]
+> ◄  [[iti30-pali-pts]] 📜  [[iti32-pali-pts]] ►

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA108]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA108]]
 > ◄  [[ma107-bdk]] 📜  [[ma109-bdk]] ►
 
 ### 108. The [Second] Discourse on the Forest
@@ -25,8 +25,7 @@ Thus spoke the Buddha. Having heard what the Buddha said, the monks were delight
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma108-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -41,6 +40,5 @@ Thus spoke the Buddha. Having heard what the Buddha said, the monks were delight
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.6]], [[MA88]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA108]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA108]]
 > ◄  [[ma107-bdk]] 📜  [[ma109-bdk]] ►

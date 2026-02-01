@@ -3,11 +3,11 @@ sutta_code: "SN6.10"
 sutta_title:
   - "Kokālikasutta "
   - "Kokalika (2)"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.10]]
 > ◄  [[sn6.9-sujato-pali]] 📜  [[sn6.11-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -166,8 +166,7 @@ Turū ca brahmā aparo ca kokālikoti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -178,6 +177,5 @@ Turū ca brahmā aparo ca kokālikoti.
 | [[SN6.9]], [[AN10.89]], [[SNP3.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.10]]
 > ◄  [[sn6.9-sujato-pali]] 📜  [[sn6.11-sujato-pali]] ►

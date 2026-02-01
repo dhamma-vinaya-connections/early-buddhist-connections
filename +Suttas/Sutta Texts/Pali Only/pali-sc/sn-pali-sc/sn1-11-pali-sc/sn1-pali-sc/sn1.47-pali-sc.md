@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN1.47-PALI"
+sutta_code: "SN1.47"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vanaropasutta "
+  - "Planters of Groves"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN1.47-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.47]]
 > ◄  [[sn1.46-pali-sc]] 📜  [[sn1.48-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -53,6 +53,20 @@ te janā saggagāmino"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.47-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.134]], [[SA997]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.134]], [[SA997]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN54.4]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.47]]
+> ◄  [[sn1.46-pali-sc]] 📜  [[sn1.48-pali-sc]] ►

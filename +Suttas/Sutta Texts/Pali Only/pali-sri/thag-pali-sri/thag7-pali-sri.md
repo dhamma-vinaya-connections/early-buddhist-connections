@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG7-PALI"
+sutta_code: "THAG7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Sattakanipātavagga "
+  - "Sevens Book"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG7]]
 > ◄  [[thag6-pali-sri]] 📜  [[thag8-pali-sri]] ►
 
 # 7. Sattaka-nipata - Pali
@@ -318,6 +318,5 @@ Sattakanipāto niṭṭhito.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag7-) 
 

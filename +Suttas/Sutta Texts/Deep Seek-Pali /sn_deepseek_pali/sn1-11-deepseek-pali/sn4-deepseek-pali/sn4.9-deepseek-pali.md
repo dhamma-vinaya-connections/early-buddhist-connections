@@ -4,10 +4,10 @@ sutta_title:
   - "Paṭhamaāyusutta "
   - "Life Span (1)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.9]]
 > ◄  [[sn4.8-deepseek-pali]] 📜  [[sn4.10-deepseek-pali]] ►
 
 # SN 4.9 Paṭhamaāyusuttaṃ
@@ -43,8 +43,7 @@ Then Māra… vanished right there.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.9-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ Then Māra… vanished right there.
 | [[DN19]], [[SA-2.23]], [[SA1084]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.9]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.9]]
 > ◄  [[sn4.8-deepseek-pali]] 📜  [[sn4.10-deepseek-pali]] ►

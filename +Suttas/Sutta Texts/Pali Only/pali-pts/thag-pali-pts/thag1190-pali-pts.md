@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG1190-PALI"
+sutta_code: "THAG1190"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1190-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1190]]
 > ◄  [[thag1189-pali-pts]] 📜  [[thag1191-pali-pts]] ►
 
 ## Theragāthā
@@ -20,6 +20,5 @@ accharā tattha naccanti puthū nānattavaṇṇiyo,
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1190-) 
 

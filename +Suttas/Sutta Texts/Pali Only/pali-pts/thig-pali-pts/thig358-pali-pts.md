@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG358-PALI"
+sutta_code: "THIG358"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG358-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG358]]
 > ◄  [[thig357-pali-pts]] 📜  [[thig359-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sāhaṃ etādisaṃ katvā byasanaṃ kāmahetukaṃ |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig358-) 
 

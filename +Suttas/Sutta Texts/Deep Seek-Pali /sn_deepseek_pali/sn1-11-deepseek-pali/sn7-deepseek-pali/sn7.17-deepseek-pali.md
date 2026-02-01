@@ -4,10 +4,10 @@ sutta_title:
   - "Navakammikasutta "
   - "Navakammika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
 > ◄  [[sn7.16-deepseek-pali]] 📜  [[sn7.18-deepseek-pali]] ►
 
 # SN 7.17 Navakammikasuttaṃ
@@ -35,8 +35,7 @@ When this was said, the brahmin Bhāradvāja the Builder said to the Blessed One
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.17-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ When this was said, the brahmin Bhāradvāja the Builder said to the Blessed One
 | [[SA-2.96]], [[SA1182]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
 > ◄  [[sn7.16-deepseek-pali]] 📜  [[sn7.18-deepseek-pali]] ►

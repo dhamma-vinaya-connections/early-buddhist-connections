@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG289-PALI"
+sutta_code: "THAG289"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG289-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG289]]
 > ◄  [[thag288-pali-pts]] 📜  [[thag290-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ cirasaṃkiliṭṭhaṃ vata maṃ diṭṭhisandānasanditaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag289-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Laṭukikopama Sutta "
   - "Simile of the Quail"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
 > ◄  [[mn65-deepseek-pali]] 📜  [[mn67-deepseek-pali]] ►
 
 # 66. Laṭukikopamasuttaṃ
@@ -83,8 +83,7 @@ The Laṭukikopama Sutta, the sixth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn66-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -95,6 +94,5 @@ The Laṭukikopama Sutta, the sixth, is concluded.
 | [[EA49.7]]; [[MN65]]; [[MA194]]; [[MA192]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
 > ◄  [[mn65-deepseek-pali]] 📜  [[mn67-deepseek-pali]] ►

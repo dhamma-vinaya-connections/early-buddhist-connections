@@ -4,10 +4,10 @@ sutta_title:
   - "Cetokhila "
   - "Emotional Barrenness"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.71]]
 > ◄  [[an9.70-deepseek-pali]] 📜  [[an9.72-deepseek-pali]] ►
 
 # AN 9.71 Cetokhilasuttaṃ
@@ -31,8 +31,7 @@ Bhikkhus, for the abandoning of these five states of mental barrenness ... these
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.71-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -43,6 +42,5 @@ Bhikkhus, for the abandoning of these five states of mental barrenness ... these
 | [[AN5.205]], [[DN33]], [[MN16]], [[DN34]], [[DA10]], [[AN10.14]], [[EA51.4]], [[MA206]], [[AN5.206]], [[AN9.72]], [[AN9.82]], [[AN9.92]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.71]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.71]]
 > ◄  [[an9.70-deepseek-pali]] 📜  [[an9.72-deepseek-pali]] ►

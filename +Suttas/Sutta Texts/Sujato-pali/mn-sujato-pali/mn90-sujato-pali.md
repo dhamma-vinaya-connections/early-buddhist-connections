@@ -3,11 +3,11 @@ sutta_code: "MN90"
 sutta_title:
   - "Kaṇṇakatthala Sutta "
   - "At Kaṇṇakatthala"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-sujato-pali]] 📜  [[mn91-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -336,8 +336,7 @@ dasamaṁ kaṇṇakatthalaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn90-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -348,6 +347,5 @@ dasamaṁ kaṇṇakatthalaṁ.
 | [[MA212]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-sujato-pali]] 📜  [[mn91-sujato-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP23-PALI"
+sutta_code: "DHP23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Nāgavagga "
+  - "Elephants"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP23]]
 > ◄  [[dhp22-pali-sc]] 📜  [[dhp24-pali-sc]] ►
 
 # NAGA VAGGA
@@ -73,6 +73,11 @@ Sukhaṃ yāva jarā sīlaṃ, sukhā saddhā patiṭṭhitā; sukho paññāya 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp23-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | Dh 90 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP23]]
+> ◄  [[dhp22-pali-sc]] 📜  [[dhp24-pali-sc]] ►

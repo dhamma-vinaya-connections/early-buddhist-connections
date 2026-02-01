@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.24]]
 > ◄  [[sn4.23-bodhi]] 📜  [[sn4.25-bodhi]] ►
 
 # SN4.24 Seven Years of Pursuit
@@ -104,8 +104,7 @@ Then Māra the Evil One, in the presence of the Blessed One, recited these verse
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.24-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -120,6 +119,5 @@ Then Māra the Evil One, in the presence of the Blessed One, recited these verse
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN234]], [[AN258]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.24]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.24]]
 > ◄  [[sn4.23-bodhi]] 📜  [[sn4.25-bodhi]] ►

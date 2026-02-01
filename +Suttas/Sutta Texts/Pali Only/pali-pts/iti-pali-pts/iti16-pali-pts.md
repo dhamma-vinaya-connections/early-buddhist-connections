@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI16-PALI"
+sutta_code: "ITI16"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sekha "
+  - "Trainee"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI16-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI16]]
 > ◄  [[iti15-pali-pts]] 📜  [[iti17-pali-pts]] ►
 
 ## Itivuttaka
@@ -27,6 +27,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||6||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti16-) 
 

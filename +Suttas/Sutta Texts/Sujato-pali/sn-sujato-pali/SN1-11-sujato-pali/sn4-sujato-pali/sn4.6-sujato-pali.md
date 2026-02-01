@@ -3,11 +3,11 @@ sutta_code: "SN4.6"
 sutta_title:
   - "Sappasutta "
   - "Serpent"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
 > ◄  [[sn4.5-sujato-pali]] 📜  [[sn4.7-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -79,8 +79,7 @@ Upadhīsu tāṇaṁ na karonti buddhā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ Upadhīsu tāṇaṁ na karonti buddhā"ti.
 | [[SA-2.28]], [[SA1089]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
 > ◄  [[sn4.5-sujato-pali]] 📜  [[sn4.7-sujato-pali]] ►

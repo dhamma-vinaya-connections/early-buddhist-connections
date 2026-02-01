@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP365-PALI"
+sutta_code: "DHP365"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP365-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP365]]
 > ◄  [[dhp364-pali-pts]] 📜  [[dhp366-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ appalābho pi ce bhikkhu salābhaṃ nātimaññati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp365-) 
 

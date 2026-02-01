@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.35-PALI"
+sutta_code: "AN2.35"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Kiriya "
+  - "Action And Inaction"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.35-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.35]]
 > ◄  [[an2.34-pali-pts]] 📜  [[an2.36-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -31,6 +31,16 @@ Khettan taṃ yajamānānaṃ ettha dinnaṃ mahapphalan ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.35-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA42.8]], [[MA127]], [[SA992]] | A i 62 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA127]], [[SA992]], [[EA42.8]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.35]]
+> ◄  [[an2.34-pali-pts]] 📜  [[an2.36-pali-pts]] ►

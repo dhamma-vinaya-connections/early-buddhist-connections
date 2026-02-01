@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN8.7-PALI"
+sutta_code: "SN8.7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pavāraṇāsutta "
+  - "Pavaraṇa"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN8.7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
 > ◄  [[sn8.6-pali-pts]] 📜  [[sn8.8-pali-pts]] ►
 
 ## Saṃyutta Nikāya
@@ -45,6 +45,16 @@ taṇhāsallassa hantāraṃ || vande ādiccabandhunan ti || ||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn8.7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA32.5]], [[MA121]], [[SA-2.228]], [[SA1212]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[EA32.5]], [[MA121]], [[SA-2.228]], [[SA1212]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
+> ◄  [[sn8.6-pali-pts]] 📜  [[sn8.8-pali-pts]] ►

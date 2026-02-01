@@ -4,10 +4,10 @@ sutta_title:
   - "Kokālikasutta "
   - "Kokalika (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.10]]
 > ◄  [[sn6.9-deepseek-pali]] 📜  [[sn6.11-deepseek-pali]] ►
 
 # SN 6.10 Kokālikasuttaṃ
@@ -75,8 +75,7 @@ The request, reverence, Brahmādevā, And Baka the Brahmā, and another view; Pa
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.10-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ The request, reverence, Brahmādevā, And Baka the Brahmā, and another view; Pa
 | [[SN6.9]], [[AN10.89]], [[SNP3.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.10]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.10]]
 > ◄  [[sn6.9-deepseek-pali]] 📜  [[sn6.11-deepseek-pali]] ►

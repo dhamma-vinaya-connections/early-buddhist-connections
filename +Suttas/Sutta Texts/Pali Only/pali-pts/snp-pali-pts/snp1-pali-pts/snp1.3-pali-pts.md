@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP1.3-PALI"
+sutta_code: "SNP1.3"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Khaggavisāṇa "
+  - "Rhinoceros Horn"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1.3-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.3]]
 > ◄  [[snp1.2-pali-pts]] 📜  [[snp1.4-pali-pts]] ►
 
 # SNP1.3 Khaggavisāṇasutta
@@ -194,6 +194,20 @@ Khaggavisāyasuttaṃ niṭṭhitaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.3-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP328]], [[DHP329]], [[JA12]] |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[JA12]], [[DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[MA72]], [[DHP329]], [[THAG16.4]], [[MN82]], [[PE2]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN21.10]], [[SN35.63]], [[AN9.40]], [[UD4.5]], [[ITI15]], [[ITI38]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.3]]
+> ◄  [[snp1.2-pali-pts]] 📜  [[snp1.4-pali-pts]] ►

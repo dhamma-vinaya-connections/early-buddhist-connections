@@ -3,11 +3,11 @@ sutta_code: "AN4.186"
 sutta_title:
   - "Ummagga "
   - "Approach"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
 > ◄  [[an4.185-sujato-pali]] 📜  [[an4.187-sujato-pali]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -121,8 +121,7 @@ Chaṭṭhaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.186-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -133,6 +132,5 @@ Chaṭṭhaṁ.
 | [[MA172]], [[SN1.62]], [[SA-2.236]], [[SA1009]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
 > ◄  [[an4.185-sujato-pali]] 📜  [[an4.187-sujato-pali]] ►

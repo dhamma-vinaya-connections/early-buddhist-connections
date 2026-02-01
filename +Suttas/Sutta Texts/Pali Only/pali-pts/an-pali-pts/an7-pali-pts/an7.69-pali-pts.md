@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN7.69-PALI"
+sutta_code: "AN7.69"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Pāricchattaka "
+  - "Orchid Tree"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.69-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.69]]
 > ◄  [[an7.68-pali-pts]] 📜  [[an7.70-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Yasmiṃ bhikkhave samaye devānaṃ Tāvatiṃsānaṃ pāricchattako koviḷā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.69-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA39.2]], [[MA2]] | A iv 117 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA39.2]], [[MA2]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.69]]
+> ◄  [[an7.68-pali-pts]] 📜  [[an7.70-pali-pts]] ►

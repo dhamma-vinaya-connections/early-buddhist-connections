@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG252-PALI"
+sutta_code: "THIG252"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG252-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG252]]
 > ◄  [[thig251-pali-pts]] 📜  [[thig253-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ vāsito va surabhikaraṇḍako pupphapūraṃ mama uttamaṅgabhu |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig252-) 
 

@@ -4,10 +4,10 @@ sutta_title:
   - "Sona Sutta "
   - "Soṇa"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.6]]
 > ◄  [[ud5.5-deepseek-pali]] 📜  [[ud5.7-deepseek-pali]] ►
 
 # Ud 5.6 Soṇasuttaṃ
@@ -99,8 +99,7 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.6-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -115,6 +114,5 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SNP4.1]], [[SNP4.2]], [[SNP4.3]], [[SNP4.4]], [[SNP4.5]], [[SNP4.6]], [[SNP4.7]], [[SNP4.8]], [[SNP4.9]], [[SNP4.10]], [[SNP4.11]], [[SNP4.12]], [[SNP4.13]], [[SNP4.14]], [[SNP4.15]], [[SNP4.16]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.6]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.6]]
 > ◄  [[ud5.5-deepseek-pali]] 📜  [[ud5.7-deepseek-pali]] ►

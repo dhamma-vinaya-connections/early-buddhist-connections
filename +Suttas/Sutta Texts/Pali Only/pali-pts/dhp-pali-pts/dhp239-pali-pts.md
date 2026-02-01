@@ -1,13 +1,13 @@
 ---
-sutta_code: "DHP239-PALI"
+sutta_code: "DHP239"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP239-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP239]]
 > ◄  [[dhp238-pali-pts]] 📜  [[dhp240-pali-pts]] ►
 
 ## Dhammapada
@@ -22,6 +22,5 @@ ayasā va malaṃ samuṭṭhitaṃ taduṭṭhāya tam eva khādati /
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp239-) 
 

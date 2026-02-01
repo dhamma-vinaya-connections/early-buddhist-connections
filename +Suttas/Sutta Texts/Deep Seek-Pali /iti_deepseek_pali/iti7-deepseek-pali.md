@@ -4,10 +4,10 @@ sutta_title:
   - "Sabbapariññāsutta "
   - "Complete Understanding of All"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI7]]
 > ◄  [[iti6-deepseek-pali]] 📜  [[iti8-deepseek-pali]] ►
 
 # Iti 7 Sabbapariññāsuttaṃ
@@ -30,8 +30,7 @@ This matter too was stated by the Blessed One; so I heard. Seventh.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti7-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -42,6 +41,5 @@ This matter too was stated by the Blessed One; so I heard. Seventh.
 | [[SN35.26]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI7]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI7]]
 > ◄  [[iti6-deepseek-pali]] 📜  [[iti8-deepseek-pali]] ►

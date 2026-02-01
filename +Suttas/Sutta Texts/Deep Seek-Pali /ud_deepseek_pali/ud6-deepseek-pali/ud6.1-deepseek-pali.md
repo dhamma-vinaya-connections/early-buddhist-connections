@@ -4,10 +4,10 @@ sutta_title:
   - "Ayusankharavossajana Sutta "
   - "Relinquishment of the Life Force"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.1]]
 > ◄  [[]] 📜  [[ud6.2-deepseek-pali]] ►
 
 # Ud 6.1 Āyusaṅkhārossajjanasuttaṃ
@@ -87,8 +87,7 @@ The comparable and the incomparable, the becoming, / The sage has relinquished t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.1-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -103,6 +102,5 @@ The comparable and the incomparable, the becoming, / The sage has relinquished t
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[SN51.26]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.1]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.1]]
 > ◄  [[]] 📜  [[ud6.2-deepseek-pali]] ►

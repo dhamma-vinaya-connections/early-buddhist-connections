@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI29-PALI"
+sutta_code: "ITI29"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sukhavihāra "
+  - "Living In Comfort"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI29-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI29]]
 > ◄  [[iti28-pali-pts]] 📜  [[iti30-pali-pts]] ►
 
 ## Itivuttaka
@@ -33,6 +33,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||2||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti29-) 
 

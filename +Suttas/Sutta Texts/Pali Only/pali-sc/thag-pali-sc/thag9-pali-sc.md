@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG9-PALI"
+sutta_code: "THAG9"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Navakanipātavagga "
+  - "Nines Book"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG9-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
 > ◄  [[thag8-pali-sc]] 📜  [[thag10-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -66,6 +66,7 @@ Tato ratiṁ paramataraṁ na vindatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
+> ◄  [[thag8-pali-sc]] 📜  [[thag10-pali-sc]] ►

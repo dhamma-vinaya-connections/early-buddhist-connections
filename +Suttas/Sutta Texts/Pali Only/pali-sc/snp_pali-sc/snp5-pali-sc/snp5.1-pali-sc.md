@@ -1,13 +1,13 @@
 ---
-sutta_code: "SNP5.1-PALI"
+sutta_code: "SNP5.1"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Vatthugāthā "
+  - "Introductory Verses"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5.1-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.1]]
 > ◄  [[]] 📜  [[snp5.2-pali-sc]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -297,6 +297,5 @@ Vatthugāthā niṭṭhitā.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.1-) 
 

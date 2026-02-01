@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI72-PALI"
+sutta_code: "ITI72"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Nissaraṇiya "
+  - "Escape Elements"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI72-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI72]]
 > ◄  [[iti71-pali-pts]] 📜  [[iti73-pali-pts]] ►
 
 ## Itivuttaka
@@ -27,6 +27,7 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||3||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti72-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI72]]
+> ◄  [[iti71-pali-pts]] 📜  [[iti73-pali-pts]] ►

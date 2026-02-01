@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG452-PALI"
+sutta_code: "THIG452"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG452-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG452]]
 > ◄  [[thig451-pali-pts]] 📜  [[thig453-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ bālā te duppaññā acetanā dukkhasamudayoruddhā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig452-) 
 

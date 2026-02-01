@@ -4,10 +4,10 @@ sutta_title:
   - "Addhā "
   - "Time"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI64]]
 > ◄  [[iti63-deepseek-pali]] 📜  [[iti65-deepseek-pali]] ►
 
 # Iti 64 Sucaritasuttaṃ
@@ -29,8 +29,7 @@ This meaning too was spoken by the Blessed One, so I have heard. Sixth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti64-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -45,6 +44,5 @@ This meaning too was spoken by the Blessed One, so I have heard. Sixth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN24]], [[AN3:122]], [[AN3:123]], [[SN1.12]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI64]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI64]]
 > ◄  [[iti63-deepseek-pali]] 📜  [[iti65-deepseek-pali]] ►

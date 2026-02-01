@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI7-PALI"
+sutta_code: "ITI7"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sabbapariññāsutta "
+  - "Complete Understanding of All"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI7-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI7]]
 > ◄  [[iti6-pali-pts]] 📜  [[iti8-pali-pts]] ►
 
 ## Itivuttaka
@@ -25,6 +25,16 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||7||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti7-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SN35.26]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI7]]
+> ◄  [[iti6-pali-pts]] 📜  [[iti8-pali-pts]] ►

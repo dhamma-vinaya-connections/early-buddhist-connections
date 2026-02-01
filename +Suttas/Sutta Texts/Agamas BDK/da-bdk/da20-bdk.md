@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA20]]
 > ◄  [[da19-bdk]] 📜  [[da21-bdk]] ►
 
 ### Ambaṭṭha
@@ -3008,8 +3008,7 @@ This is a offline tool, your data stays locally and is not send to any server!
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:da20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -3024,6 +3023,5 @@ This is a offline tool, your data stays locally and is not send to any server!
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN17]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA20]]
 > ◄  [[da19-bdk]] 📜  [[da21-bdk]] ►

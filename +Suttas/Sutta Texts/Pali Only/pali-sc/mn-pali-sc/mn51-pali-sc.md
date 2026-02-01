@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN51-PALI"
+sutta_code: "MN51"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kandaraka Sutta "
+  - "With Kandaraka"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN51-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN51]]
 > ◄  [[mn50-pali-sc]] 📜  [[mn52-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -130,6 +130,20 @@ So attantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukha
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn51-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | M i 339 |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.198]]; [[MN101]]; [[MN27]]; [[MN38]]; [[MN94]]; [[SN35.120]]; [[DN2]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN53]]; [[MN60]]; [[MN76]]; [[MN79]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN5.76]]; [[AN5.140]]; [[AN10.99]]; [[AN11.17]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[MN33]]; [[DN25]]; [[MN12]]; [[MN45]]; [[AN3.156-162]]; [[DN33]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN8.9]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN51]]
+> ◄  [[mn50-pali-sc]] 📜  [[mn52-pali-sc]] ►

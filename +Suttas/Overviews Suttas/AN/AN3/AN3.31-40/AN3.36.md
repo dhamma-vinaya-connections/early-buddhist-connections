@@ -34,19 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-sutta_simile: ""
-parallels_nikaya:
-  - "[[MN130]]"
-parallels_agama:
-  - "[[EA32.4]]"
-  - "[[MA64]]"
-parallels_partilal:
-  - "[[EA32.4]]"
-  - "[[MA64]]"
-  - "[[DA30]]"
-  - "[[MN130]]"
-  - "[[MN129]]"
-  - "[[JA530]]"
+parallels_nikaya: "[[MN130]]"
+parallels_agama: "[[EA32.4]], [[MA64]]"
+parallels_partilal: "[[EA32.4]], [[MA64]], [[DA30]], [[MN130]], [[MN129]], [[JA530]]"
 ---
 > [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.35]]  🌐 [[AN3.37]] ►
 
@@ -70,8 +60,7 @@ The teaching of the noble ones
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.36-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -86,8 +75,7 @@ The teaching of the noble ones
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SAMEASMN130]]
 
-> [!example]- Related suttas by theme from [[ebt-source/Static just copy/Suttas.base#catalogue| Suttas Catalogue]]  
-> ![[ebt-source/Static just copy/Suttas.base#sutta-themes]]
+> [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BAN3.36%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5BAN3.36%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this sutta
 > 
@@ -98,7 +86,7 @@ The teaching of the noble ones
 > [!example]- [🔍 Search in My Notes](obsidian://search?query=%22%5B%5BAN3.36%5D%5D%22%23mynotes%20-file%3Aan3.36-%20-file%3A%22AN3.35%22%20-file%3A%22AN3.37%22%20-file%3A%22AN3.36%22) (expand for info)
 > This is a personal filter. It searches **only** the notes you have written yourself (tagged **#**mynotes ) that link to this Sutta.
 
->[!info]- Expand for more [[Online Resources]]
+>[!info]- Expand for more [[early-buddhist-connections/Catalogue/Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/an3.36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.36

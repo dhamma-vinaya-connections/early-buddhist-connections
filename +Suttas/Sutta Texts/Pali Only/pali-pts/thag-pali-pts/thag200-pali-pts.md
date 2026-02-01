@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG200-PALI"
+sutta_code: "THAG200"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG200-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG200]]
 > ◄  [[thag199-pali-pts]] 📜  [[thag201-pali-pts]] ►
 
 ## Theragāthā
@@ -26,6 +26,5 @@ Aho buddhā aho dhammā aho no satthu sampadā
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag200-) 
 

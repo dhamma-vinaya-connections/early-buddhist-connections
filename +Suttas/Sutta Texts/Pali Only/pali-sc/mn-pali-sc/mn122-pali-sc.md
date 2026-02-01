@@ -1,13 +1,13 @@
 ---
-sutta_code: "MN122-PALI"
+sutta_code: "MN122"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Mahāsuññata Sutta "
+  - "Longer Discourse on Emptiness"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
 > ◄  [[mn121-pali-sc]] 📜  [[mn123-pali-sc]] ►
 
 ## Majjhima Nikāya
@@ -110,6 +110,20 @@ Na vo ahaṁ, ānanda, tathā parakkamissāmi yathā kumbhakāro āmake āmakama
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn122-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA191]] | M iii 109 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA191]]; [[MN139]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN121]]; [[[[SN35.85]]]]; [[[[AN5.30]]]]; [[[[AN6.42]]]]; [[[[AN8.30]]]]; [[[[SN1.3]], [[MN137]], [[ITI109]], [[MN106]], [[AN8.86]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
+> ◄  [[mn121-pali-sc]] 📜  [[mn123-pali-sc]] ►

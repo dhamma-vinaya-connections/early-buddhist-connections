@@ -4,10 +4,10 @@ sutta_title:
   - "Asava "
   - "Defilements"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI57]]
 > ◄  [[iti56-deepseek-pali]] 📜  [[iti58-deepseek-pali]] ►
 
 # Iti 57 Taṇhāsuttaṃ
@@ -29,9 +29,7 @@ This meaning, too, was spoken by the Blessed One, so I have heard. Ninth.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti57-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI57]]
 > ◄  [[iti56-deepseek-pali]] 📜  [[iti58-deepseek-pali]] ►

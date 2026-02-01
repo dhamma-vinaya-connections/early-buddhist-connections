@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.35]]
 > ◄  [[sn1.34-bodhi]] 📜  [[sn1.36-bodhi]] ►
 
 # SN1.35 Faultfinders
@@ -115,8 +115,7 @@ Then the Blessed One displayed a smile. Those devatās, finding fault to an eve
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.35-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -127,6 +126,5 @@ Then the Blessed One displayed a smile. Those devatās, finding fault to an eve
 | [[SA-2.275]], [[SA1277]], [[JA363]], [[JA320]], [[JA380]], [[THAG3.15]], [[THAG3.3]], [[THAG5.2]], [[PLI-TV-BU-VB-PJ4]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.35]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.35]]
 > ◄  [[sn1.34-bodhi]] 📜  [[sn1.36-bodhi]] ►

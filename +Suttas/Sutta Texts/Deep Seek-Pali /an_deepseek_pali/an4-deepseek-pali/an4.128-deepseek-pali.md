@@ -4,10 +4,10 @@ sutta_title:
   - "Kāla "
   - "Times"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.128]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.128]]
 > ◄  [[an4.127-deepseek-pali]] 📜  [[an4.129-deepseek-pali]] ►
 
 # AN 4.128 Dutiyatathāgataacchariyasuttaṃ
@@ -35,8 +35,7 @@ Monks, beings are gone into ignorance, egg-born, and enveloped. When the Tathāg
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.128-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -47,6 +46,5 @@ Monks, beings are gone into ignorance, egg-born, and enveloped. When the Tathāg
 | [[EA25.3]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.128]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.128]]
 > ◄  [[an4.127-deepseek-pali]] 📜  [[an4.129-deepseek-pali]] ►

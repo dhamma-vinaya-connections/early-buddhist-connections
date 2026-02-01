@@ -3,11 +3,11 @@ sutta_code: "THIG5"
 sutta_title:
   - "Pañcakanipātavagga "
   - "Fives Book"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG5]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG5]]
 > ◄  [[thig4-sujato-pali]] 📜  [[thig6-sujato-pali]] ►
 
 ## Khuddaka Nikāya - The Minor Texts
@@ -695,6 +695,5 @@ tevijjāmhi anāsavā"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig5-) 
 

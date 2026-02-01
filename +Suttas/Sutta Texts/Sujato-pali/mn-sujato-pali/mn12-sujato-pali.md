@@ -3,11 +3,11 @@ sutta_code: "MN12"
 sutta_title:
   - "Mahāsīhanāda Sutta "
   - "Longer Discourse on the Lion’s Roar"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN12]]
 > ◄  [[mn11-sujato-pali]] 📜  [[mn13-sujato-pali]] ►
 
 ## Majjhima Nikāya
@@ -363,8 +363,7 @@ Mahāsīhanādasuttaṁ niṭṭhitaṁ dutiyaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn12-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -375,6 +374,5 @@ Mahāsīhanādasuttaṁ niṭṭhitaṁ dutiyaṁ.
 | [[AN10.21]]; [[EA46.4]]; [[SA684]]; [[SA701]]; [[AN6.64]]; [[SA686-687]]; [[AN4.8]]; [[EA27.6]]; [[EA31.8]]; [[MN36]]; [[EA50.6]]; [[SA612]]; [[SN12.21-22]]; [[SN52.15-24]]; [[JA94]]; [[DN8]]; [[DN25]]; [[MN45]]; [[MN51]]; [[MN60]]; [[AN3.156-162]]; [[AN4.198]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN12]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN12]]
 > ◄  [[mn11-sujato-pali]] 📜  [[mn13-sujato-pali]] ►

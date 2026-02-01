@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG15-PALI"
+sutta_code: "THIG15"
 sutta_title:
-  - " "
-  - ""
+  - "Cattālīsanipātavagga "
+  - "Forties Book"
 sutta-version: "Ven. Eng"
-language: "English"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG15]]
 > ◄  [[thig14-pali-eng]] 📜  [[thig16-pali-eng]] ►
 
 # Thig 15. Cattālīsanipāto
@@ -248,6 +248,5 @@ Evamanuyuñjiyamānā sā, rahite dhammadesanākusalā;Isidāsī vacanamabravi, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig15-) 
 

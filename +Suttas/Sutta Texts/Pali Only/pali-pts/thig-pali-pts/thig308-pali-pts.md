@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG308-PALI"
+sutta_code: "THIG308"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG308-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG308]]
 > ◄  [[thig307-pali-pts]] 📜  [[thig309-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ tato ca Kāḷo pakkāmi nadiṃ Nerañjaraṃ pati |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig308-) 
 

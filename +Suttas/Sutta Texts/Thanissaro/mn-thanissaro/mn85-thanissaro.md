@@ -7,7 +7,7 @@ sutta-version: "Ven. Thanissaro"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN85]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN85]]
 > ◄  [[mn82-thanissaro]] 📜  [[mn86-thanissaro]] ►
 
 ## MN85 Prince Bodhi
@@ -313,8 +313,7 @@ When this was said, the young brahman Sañjikāputta said to Prince Bodhi, “Ma
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn85-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -325,6 +324,5 @@ When this was said, the young brahman Sañjikāputta said to Prince Bodhi, “Ma
 | [[MN100]]; [[MN36]]; [[EA31.8]]; [[DA20]]; [[DA21]]; [[DA22]]; [[PLI-TV-KD15]]; [[DN14]]; [[SN6.1]]; [[MA204]]; [[MN26]]; [[PLI-TV-KD17]]; [[DHP353]]; [[PLI-TV-KD1]]; [[ITI38]]; [[SN11.17]]; [[EA19.1]]; [[EA24.5]]; [[MN20]]; [[MN4]]; [[MA101]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN85]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN85]]
 > ◄  [[mn82-thanissaro]] 📜  [[mn86-thanissaro]] ►

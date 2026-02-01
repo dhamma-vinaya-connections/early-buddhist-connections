@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.15-PALI"
+sutta_code: "SN3.15"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dutiyasaṅgāmasutta "
+  - "Battle (2)"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.15-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
 > ◄  [[sn3.14-pali-sc]] 📜  [[sn3.16-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -51,6 +51,16 @@ so vilutto viluppatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.15-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[DHP69]] | [[SA-2.64]], [[SA1237]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.64]], [[SA1237]], [[JA239]], [[DHP69]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
+> ◄  [[sn3.14-pali-sc]] 📜  [[sn3.16-pali-sc]] ►

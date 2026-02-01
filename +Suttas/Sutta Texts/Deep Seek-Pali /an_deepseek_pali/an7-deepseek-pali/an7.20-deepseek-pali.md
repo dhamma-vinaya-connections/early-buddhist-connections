@@ -4,10 +4,10 @@ sutta_title:
   - "Niddasavatthu "
   - "Graduation Qualifications"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.20]]
 > ◄  [[an7.19-deepseek-pali]] 📜  [[an7.21-deepseek-pali]] ►
 
 # AN 7.20 Niddasavatthusuttaṃ
@@ -39,8 +39,7 @@ Two latent tendencies, family, person, like water; impermanence, suffering, non-
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -51,6 +50,5 @@ Two latent tendencies, family, person, like water; impermanence, suffering, non-
 | [[AN7.42]], [[DN33]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.20]]
 > ◄  [[an7.19-deepseek-pali]] 📜  [[an7.21-deepseek-pali]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Aṅgulimāla Sutta "
   - "With Aṅgulimāla"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
 > ◄  [[mn85-deepseek-pali]] 📜  [[mn87-deepseek-pali]] ►
 
 # 86. Aṅgulimālasuttaṃ
@@ -172,8 +172,7 @@ The Aṅgulimāla Sutta, the sixth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn86-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -188,6 +187,5 @@ The Aṅgulimāla Sutta, the sixth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG16.8]], [[AN3.99]], [[DHP172]], [[DHP173]], [[DHP80]], [[DHP26]], [[DHP27]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN86]]
 > ◄  [[mn85-deepseek-pali]] 📜  [[mn87-deepseek-pali]] ►

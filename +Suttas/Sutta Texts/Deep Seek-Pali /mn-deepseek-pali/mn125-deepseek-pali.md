@@ -4,10 +4,10 @@ sutta_title:
   - "Dantabhūmi Sutta "
   - "Level of the Tamed"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN125]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN125]]
 > ◄  [[mn124-deepseek-pali]] 📜  [[mn126-deepseek-pali]] ►
 
 # 125. Bhūmijasuttaṃ
@@ -75,8 +75,7 @@ The Bhūmija Sutta, the sixth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn125-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -91,6 +90,5 @@ The Bhūmija Sutta, the sixth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]], [[AN4.111]], [[MN107]], [[MN65]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN125]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN125]]
 > ◄  [[mn124-deepseek-pali]] 📜  [[mn126-deepseek-pali]] ►

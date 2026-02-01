@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.18-PALI"
+sutta_code: "SN3.18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kalyāṇamittasutta "
+  - "Diligence (2)"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
 > ◄  [[sn3.17-pali-sc]] 📜  [[sn3.19-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -66,6 +66,16 @@ paṇḍitoti pavuccatī"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.65]], [[SA1238]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA1238]], [[SA-2.65]], [[AN5.43]], [[ITI23]], [[SN3.17]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
+> ◄  [[sn3.17-pali-sc]] 📜  [[sn3.19-pali-sc]] ►

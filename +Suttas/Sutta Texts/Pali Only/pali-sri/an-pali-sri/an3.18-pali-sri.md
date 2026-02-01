@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.18-PALI"
+sutta_code: "AN3.18"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Attabyābādha "
+  - "Hurting Yourself"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.18-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.18]]
 > ◄  [[an3.17-pali-sri]] 📜  [[an3.19-pali-sri]] ►
 
 # 5:18 Upasakavaggo - Pali
@@ -478,6 +478,11 @@ Pītivaṇijjā rājāno gihī ceva gavesināti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.18-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 115 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.18]]
+> ◄  [[an3.17-pali-sri]] 📜  [[an3.19-pali-sri]] ►

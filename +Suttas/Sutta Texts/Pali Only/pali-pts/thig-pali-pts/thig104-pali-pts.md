@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG104-PALI"
+sutta_code: "THIG104"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG104-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG104]]
 > ◄  [[thig103-pali-pts]] 📜  [[thig105-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ animittañ ca bhāvemi ekaggā susamāhitā |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig104-) 
 

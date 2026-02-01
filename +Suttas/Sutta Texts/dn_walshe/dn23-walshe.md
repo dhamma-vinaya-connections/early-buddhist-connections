@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-walshe]] 📜  [[dn24-walshe]] ►
 
 # DN23 Payasi Sutta: About Payasi
@@ -149,8 +149,7 @@ And Prince Pāyāsi, because he had established his charity grudgingly, not with
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn23-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -161,6 +160,5 @@ And Prince Pāyāsi, because he had established his charity grudgingly, not with
 | [[DA7]], [[MA71]], [[JA91]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-walshe]] 📜  [[dn24-walshe]] ►

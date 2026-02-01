@@ -4,10 +4,10 @@ sutta_title:
   - "Dhammika "
   - "About Dhammika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.54]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.54]]
 > ◄  [[an6.53-deepseek-pali]] 📜  [[an6.55-deepseek-pali]] ►
 
 # AN 6.54 Dhammikasuttaṃ
@@ -147,8 +147,7 @@ The First Fifty Discourses.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.54-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -163,6 +162,5 @@ The First Fifty Discourses.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.62]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.54]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.54]]
 > ◄  [[an6.53-deepseek-pali]] 📜  [[an6.55-deepseek-pali]] ►

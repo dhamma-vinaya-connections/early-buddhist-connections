@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN2.55-PALI"
+sutta_code: "AN2.55"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Sukha "
+  - "Happiness"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.55-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.55]]
 > ◄  [[an2.54-pali-pts]] 📜  [[an2.56-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -25,6 +25,5 @@ Ime kho bhikkhave dve thūpārahā ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.55-) 
 

@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA31]]
 > ◄  [[ma30-bdk]] 📜  [[ma32-bdk]] ►
 
 ### 31. The Discourse on Discerning the Noble Truths
@@ -51,8 +51,7 @@ non-forgetfulness of what the mind is responding to—this is called right mindf
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma31-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -67,6 +66,5 @@ non-forgetfulness of what the mind is responding to—this is called right mindf
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.134]], [[DN22]], [[MA31]], [[MN117]], [[SN12.20]], [[SN56.11]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA31]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA31]]
 > ◄  [[ma30-bdk]] 📜  [[ma32-bdk]] ►

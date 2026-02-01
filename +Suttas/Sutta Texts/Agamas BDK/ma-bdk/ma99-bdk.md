@@ -7,7 +7,7 @@ sutta-version: "BDK"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA99]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA99]]
 > ◄  [[ma98-bdk]] 📜  [[ma100-bdk]] ►
 
 ### 99. The [First] Discourse on the Mass of Dukkha
@@ -53,8 +53,7 @@ Any renunciants or brahmins who do not know, as it really is, the grat ification
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma99-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -69,6 +68,5 @@ Any renunciants or brahmins who do not know, as it really is, the grat ification
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.63]], [[AN9.34]], [[AN9.36]], [[MA100]], [[MN54]], [[SN35.115]], [[SN35.189]], [[SN35.63]], [[THIG13.1.]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA99]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA99]]
 > ◄  [[ma98-bdk]] 📜  [[ma100-bdk]] ►

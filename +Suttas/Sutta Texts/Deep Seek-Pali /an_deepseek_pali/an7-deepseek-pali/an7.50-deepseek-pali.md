@@ -4,10 +4,10 @@ sutta_title:
   - "Methuna "
   - "Sex"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
 > ◄  [[an7.49-deepseek-pali]] 📜  [[an7.51-deepseek-pali]] ►
 
 # AN 7.50 Methunasuttaṃ
@@ -43,8 +43,7 @@ When this was said, the brahmin Jānussoṇi said to the Blessed One: "Excellent
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.50-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -55,6 +54,5 @@ When this was said, the brahmin Jānussoṇi said to the Blessed One: "Excellent
 | [[EA37.9]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
 > ◄  [[an7.49-deepseek-pali]] 📜  [[an7.51-deepseek-pali]] ►

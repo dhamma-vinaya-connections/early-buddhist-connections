@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.170-PALI"
+sutta_code: "AN5.170"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Bhaddaji "
+  - "With Bhaddaji"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.170-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.170]]
 > ◄  [[an5.169-pali-sc]] 📜  [[an5.171-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -46,6 +46,16 @@ sīlaṁ nisanti bhaddajīti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.170-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA484]] | A iii 202 |
+> > [!check]- Partial parallels 
+> > 
+| [[SA484]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.170]]
+> ◄  [[an5.169-pali-sc]] 📜  [[an5.171-pali-sc]] ►

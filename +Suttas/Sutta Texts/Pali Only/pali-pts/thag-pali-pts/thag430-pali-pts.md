@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG430-PALI"
+sutta_code: "THAG430"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG430-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG430]]
 > ◄  [[thag429-pali-pts]] 📜  [[thag431-pali-pts]] ►
 
 ## Theragāthā
@@ -21,6 +21,5 @@ Sāriputta imaṃ passa āgacchantaṃ kumārakaṃ
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag430-) 
 

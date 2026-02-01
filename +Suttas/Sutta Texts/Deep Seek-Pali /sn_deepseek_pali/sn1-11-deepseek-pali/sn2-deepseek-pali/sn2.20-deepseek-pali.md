@@ -4,10 +4,10 @@ sutta_title:
   - "Anāthapiṇḍikasutta "
   - "Anāthapiṇḍika"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.20]]
 > ◄  [[sn2.19-deepseek-pali]] 📜  [[sn2.21-deepseek-pali]] ►
 
 # SN 2.20 Anāthapiṇḍikasuttaṃ
@@ -87,8 +87,7 @@ Candimasa and Veṇḍu, Dīghalaṭṭhi and Nandana, Candana and Vāsudatta, S
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.20-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -99,6 +98,5 @@ Candimasa and Veṇḍu, Dīghalaṭṭhi and Nandana, Candana and Vāsudatta, S
 | [[MN143]], [[EA51.8]], [[MA28]], [[SA-2.187]], [[SA1032]], [[SA593]], [[SN1.48]], [[SN55.26]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.20]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.20]]
 > ◄  [[sn2.19-deepseek-pali]] 📜  [[sn2.21-deepseek-pali]] ►

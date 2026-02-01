@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG270-PALI"
+sutta_code: "THIG270"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG270-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG270]]
 > ◄  [[thig269-pali-pts]] 📜  [[thig271-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ samaṇā ti bhoti maṃ vipassi samaṇā ti paṭibujjhasi |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig270-) 
 

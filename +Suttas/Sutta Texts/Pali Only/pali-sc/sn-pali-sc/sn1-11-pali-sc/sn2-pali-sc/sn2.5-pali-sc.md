@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN2.5-PALI"
+sutta_code: "SN2.5"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Dāmalisutta "
+  - "Damali"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN2.5-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.5]]
 > ◄  [[sn2.4-pali-sc]] 📜  [[sn2.6-pali-sc]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -41,6 +41,16 @@ Nāyūhatī pāragato hi so"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.5-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[SA-2.310]], [[SA1311]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.310]], [[SA1311]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.5]]
+> ◄  [[sn2.4-pali-sc]] 📜  [[sn2.6-pali-sc]] ►

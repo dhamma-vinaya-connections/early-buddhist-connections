@@ -1,13 +1,13 @@
 ---
-sutta_code: "THAG529-PALI"
+sutta_code: "THAG529"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG529-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG529]]
 > ◄  [[thag528-pali-pts]] 📜  [[thag530-pali-pts]] ►
 
 ## Theragāthā
@@ -22,6 +22,5 @@ passantu taṃ Sākiyā Koḷiyā ca pacchāmukhaṃ Rohiṇiyaṃ tarantaṃ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag529-) 
 

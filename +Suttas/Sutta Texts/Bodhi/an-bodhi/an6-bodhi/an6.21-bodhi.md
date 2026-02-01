@@ -7,7 +7,7 @@ sutta-version: "Ven. Bodhi"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.21]]
 > ◄  [[an6.20-bodhi]] 📜  [[an6.22-bodhi]] ►
 
 # AN6.21 Sāmaka
@@ -37,8 +37,7 @@ The Blessed One said this: \[310\] “And what, bhikkhus, are the three \[other\
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.21-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -48,6 +47,5 @@ The Blessed One said this: \[310\] “And what, bhikkhus, are the three \[other\
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.32]], [[AN33]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.21]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.21]]
 > ◄  [[an6.20-bodhi]] 📜  [[an6.22-bodhi]] ►

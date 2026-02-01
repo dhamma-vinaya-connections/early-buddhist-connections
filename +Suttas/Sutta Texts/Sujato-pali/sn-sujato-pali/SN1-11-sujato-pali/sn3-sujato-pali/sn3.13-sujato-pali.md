@@ -3,11 +3,11 @@ sutta_code: "SN3.13"
 sutta_title:
   - "Doṇapākasutta "
   - "A Bucket Measure of Food"
-sutta-version: "Sujato"
-language: "Pali"
+sutta-version: "Ven. Sujato"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.13]]
 > ◄  [[sn3.12-sujato-pali]] 📜  [[sn3.14-sujato-pali]] ►
 
 ## Saṁyutta Nikāya — The Linked Discourses
@@ -75,8 +75,7 @@ Saṇikaṁ jīrati āyupālayan"ti.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.13-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ Saṇikaṁ jīrati āyupālayan"ti.
 | [[SA-2.73]], [[SA1150]], [[SN3.13]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.13]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.13]]
 > ◄  [[sn3.12-sujato-pali]] 📜  [[sn3.14-sujato-pali]] ►

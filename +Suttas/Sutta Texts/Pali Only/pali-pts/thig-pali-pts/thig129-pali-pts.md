@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG129-PALI"
+sutta_code: "THIG129"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG129-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG129]]
 > ◄  [[thig128-pali-pts]] 📜  [[thig130-pali-pts]] ►
 
 ## Therīgāthā
@@ -22,6 +22,5 @@ peto manussarūpena saṃsaranto gamissati |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig129-) 
 

@@ -1,13 +1,13 @@
 ---
-sutta_code: "THIG302-PALI"
+sutta_code: "THIG302"
 sutta_title:
   - " "
   - ""
-sutta-version: "Ven. Pts"
-language: "English"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG302-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG302]]
 > ◄  [[thig301-pali-pts]] 📜  [[thig303-pali-pts]] ►
 
 ## Therīgāthā
@@ -21,6 +21,5 @@ sace puttaṃ sigālānaṃ kukkurānaṃ padāhisi |
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig302-) 
 

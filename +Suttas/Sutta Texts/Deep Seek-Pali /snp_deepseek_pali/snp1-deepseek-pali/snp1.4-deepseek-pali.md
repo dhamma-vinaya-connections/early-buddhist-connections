@@ -4,10 +4,10 @@ sutta_title:
   - "Kasibhāradvājasutta "
   - "With Bhāradvāja the Farmer"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.4]]
 > ◄  [[snp1.3-deepseek-pali]] 📜  [[snp1.5-deepseek-pali]] ►
 
 # Snp 1.4 Kasibhāradvājasuttaṃ
@@ -101,8 +101,7 @@ The Kasibhāradvāja Sutta, the fourth, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.4-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -117,6 +116,5 @@ The Kasibhāradvāja Sutta, the fourth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[SN7.14]], [[SN7.17]], [[AN4.113]], [[THIG13.2]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.4]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.4]]
 > ◄  [[snp1.3-deepseek-pali]] 📜  [[snp1.5-deepseek-pali]] ►

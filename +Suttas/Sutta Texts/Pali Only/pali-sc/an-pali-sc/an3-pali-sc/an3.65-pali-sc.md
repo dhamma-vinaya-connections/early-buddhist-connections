@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN3.65-PALI"
+sutta_code: "AN3.65"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sc"
-language: "English"
+  - "Kalama "
+  - "With The Kālāmas"
+sutta-version: "SC - Sutta Central"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.65-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
 > ◄  [[an3.64-pali-sc]] 📜  [[an3.66-pali-sc]] ►
 
 ## Aṅguttara Nikāya - The Numerical Discourses
@@ -153,6 +153,16 @@ Pañcamaṁ.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.65-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[MA16]] | A i 188 |
+> > [!check]- Partial parallels 
+> > 
+| [[MA16]], [[AN4.193]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
+> ◄  [[an3.64-pali-sc]] 📜  [[an3.66-pali-sc]] ►

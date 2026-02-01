@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.221-PALI"
+sutta_code: "AN5.221"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Dīghacārika "
+  - "Long Wandering"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.221-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.221]]
 > ◄  [[an5.220-pali-pts]] 📜  [[an5.222-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Pañc'ime bhikkhave ādīnavā dīghacārikaṃ anavatthacārikaṃ anuyuttassa 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.221-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA33.7]] | A iii 257 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA33.7]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.221]]
+> ◄  [[an5.220-pali-pts]] 📜  [[an5.222-pali-pts]] ►

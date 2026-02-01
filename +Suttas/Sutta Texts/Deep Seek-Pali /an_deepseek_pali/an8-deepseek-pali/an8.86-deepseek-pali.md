@@ -4,10 +4,10 @@ sutta_title:
   - "Yasa "
   - "Honor"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.86]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.86]]
 > ◄  [[an8.85-deepseek-pali]] 📜  [[an8.87-deepseek-pali]] ►
 
 # AN 8.86 Yasasuttaṃ
@@ -75,8 +75,7 @@ When, Nāgita, I am traveling on a road and see no one ahead or behind me, at th
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.86-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ When, Nāgita, I am traveling on a road and see no one ahead or behind me, at th
 | [[AN5.30]], [[SA1250]], [[AN6.42]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.86]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.86]]
 > ◄  [[an8.85-deepseek-pali]] 📜  [[an8.87-deepseek-pali]] ►

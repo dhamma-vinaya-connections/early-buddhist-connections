@@ -1,13 +1,13 @@
 ---
-sutta_code: "SN3.2-PALI"
+sutta_code: "SN3.2"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Sri"
-language: "English"
+  - "Purisasutta "
+  - "Person"
+sutta-version: "BJT - Buddha Jayanthi Tripitaka"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN3.2-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.2]]
 > ◄  [[sn3.1-pali-sri]] 📜  [[sn3.3-pali-sri]] ►
 
 # 3:2 Aputtakavaggo - Pali
@@ -408,6 +408,16 @@ Dhītarā dve appamādā dve aputtakena cāti4.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.2-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[SN3.23]] | [[SA-2.4]], [[SA1065]] |  |
+> > [!check]- Partial parallels 
+> > 
+| [[SA-2.4]], [[SA1065]], [[SN3.23]], [[ITI50]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.2]]
+> ◄  [[sn3.1-pali-sri]] 📜  [[sn3.3-pali-sri]] ►

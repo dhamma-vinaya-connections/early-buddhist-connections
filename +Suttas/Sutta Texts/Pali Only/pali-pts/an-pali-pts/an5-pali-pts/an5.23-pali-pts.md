@@ -1,13 +1,13 @@
 ---
-sutta_code: "AN5.23-PALI"
+sutta_code: "AN5.23"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Upakkilesa "
+  - "Corruptions"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.23-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.23]]
 > ◄  [[an5.22-pali-pts]] 📜  [[an5.24-pali-pts]] ►
 
 ## Aṅguttara Nikāya
@@ -22,6 +22,16 @@ Pañc'ime bhikkhave jātarūpassa upakkilesā yehi upakkilesehi upakkiliṭṭha
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.23-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> | [[AN3.101]], [[SN46.33]] | [[SA1246]] | A iii 16 |
+> > [!check]- Partial parallels 
+> > 
+| [[SN46.33]], [[AN3.101]], [[SA1246]] |
+| ------------------------ |
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.23]]
+> ◄  [[an5.22-pali-pts]] 📜  [[an5.24-pali-pts]] ►

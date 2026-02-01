@@ -4,10 +4,10 @@ sutta_title:
   - "Brahmadevasutta "
   - "Brahmadeva"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
 > ◄  [[sn6.2-deepseek-pali]] 📜  [[sn6.4-deepseek-pali]] ►
 
 # SN 6.3 Brahmadevasuttaṃ
@@ -59,8 +59,7 @@ Then, in the morning, the Venerable Brahmadeva dressed, took his bowl and robe, 
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn6.3-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -71,6 +70,5 @@ Then, in the morning, the Venerable Brahmadeva dressed, took his bowl and robe, 
 | [[SA-2.265]], [[SA99]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
 > ◄  [[sn6.2-deepseek-pali]] 📜  [[sn6.4-deepseek-pali]] ►

@@ -1,13 +1,13 @@
 ---
-sutta_code: "ITI62-PALI"
+sutta_code: "ITI62"
 sutta_title:
-  - " "
-  - ""
-sutta-version: "Ven. Pts"
-language: "English"
+  - "Indriya "
+  - "Faculties"
+sutta-version: "PTS - Pali Text Society"
+language: "Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI62-PALI]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI62]]
 > ◄  [[iti61-pali-pts]] 📜  [[iti63-pali-pts]] ►
 
 ## Itivuttaka
@@ -30,6 +30,20 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||3||
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti62-) 
 
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  |  |
+> > [!check]- Partial parallels 
+> > 
+| [[AN4.16]], [[AN3.85]], [[ITI102]], [[PE3]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3:86]], [[ANDITI102.]]
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI62]]
+> ◄  [[iti61-pali-pts]] 📜  [[iti63-pali-pts]] ►

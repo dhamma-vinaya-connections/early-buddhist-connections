@@ -4,10 +4,10 @@ sutta_title:
   - "Kukkuravatika Sutta "
   - "Ascetic Who Behaved Like a Dog"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
 > ◄  [[mn56-deepseek-pali]] 📜  [[mn58-deepseek-pali]] ►
 
 # 57. Kukkuravatikasuttaṃ
@@ -71,8 +71,7 @@ The Discourse on the Dog-Duty Ascetic: The Seventh.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn57-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -87,6 +86,5 @@ The Discourse on the Dog-Duty Ascetic: The Seventh.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.235]]
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
 > ◄  [[mn56-deepseek-pali]] 📜  [[mn58-deepseek-pali]] ►

@@ -7,7 +7,7 @@ sutta-version: "Walshe"
 language: "English"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN16]]
 > ◄  [[dn15-walshe]] 📜  [[dn17-walshe]] ►
 
 # DN16 Mahāparinibbāna Sutta: The Great Passing
@@ -671,8 +671,7 @@ But the Venerable Kassapa the Great said to the monks: ‘Friends, enough of you
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:dn16-) 
 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
@@ -683,6 +682,5 @@ But the Venerable Kassapa the Great said to the monks: ‘Friends, enough of you
 | [[UD6.1]], [[AN8.70]], [[SN51.10]], [[UD8.5]], [[AN4.180]], [[EA28.5]], [[DA2]], [[PLI-TV-KD6]], [[AN4.76]], [[AN7.22-27]], [[AN8.120]], [[AN1.447-454]], [[MN137]], [[AN8.66]], [[DN15]], [[MN77]], [[DN34]], [[DN33]], [[AN8.65]], [[AN8.68-70]], [[AN8.69]], [[EA42.7]], [[SN47.9]], [[UD8.6]], [[MA36]], [[EA42.5]], [[AN1.439]], [[AN8.119]], [[AN10.29]], [[AN10.176]], [[AN5.213]], [[AN7.27]], [[AN7.66]], [[AN4.1]], [[PE3]], [[PE2]], [[PE8]], [[DN17]], [[PLI-TV-KD21]], [[SN6.15]], [[THAG16.9]], [[JA95]], [[SN15.20]], [[THAG20.1]], [[SN1.11]], [[THAG17.3]], [[JA547]], [[AN3.125]], [[SN56.21]], [[THAG3.13]], [[SN6.14]] |
 | ------------------------ |
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN16]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN16]]
 > ◄  [[dn15-walshe]] 📜  [[dn17-walshe]] ►

@@ -4,10 +4,10 @@ sutta_title:
   - "Dhamma (nāvā) "
   - "Boat"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.8]]
 > ◄  [[snp2.7-deepseek-pali]] 📜  [[snp2.9-deepseek-pali]] ►
 
 # Snp 2.8 Nāvāsuttaṃ
@@ -71,9 +71,7 @@ The eighth discourse, the Nāvā Sutta, is concluded.
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.8-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.8]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.8]]
 > ◄  [[snp2.7-deepseek-pali]] 📜  [[snp2.9-deepseek-pali]] ►

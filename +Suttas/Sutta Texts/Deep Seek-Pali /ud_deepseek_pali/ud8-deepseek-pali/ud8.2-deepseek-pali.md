@@ -4,10 +4,10 @@ sutta_title:
   - "Dutiyanibbana Sutta "
   - "Nibbāna (2)"
 sutta-version: "Deep Seek"
-language: "Pali"
+language: "English - Pali"
 ---
 
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.2]]
 > ◄  [[ud8.1-deepseek-pali]] 📜  [[ud8.3-deepseek-pali]] ►
 
 # Ud 8.2 Dutiyanibbānapaṭisaṃyuttasuttaṃ
@@ -31,9 +31,7 @@ Then, having understood this meaning, on that occasion the Blessed One uttered t
 
 ## 🌿 Sutta Connections
 
-> [!check]  Sutta texts and translations
-> ![[Suttas.base#suttas-texts]]
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.2-) 
 
-
-> [!important] ☸️ [[ebt-source/Static just copy/Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.2]]
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.2]]
 > ◄  [[ud8.1-deepseek-pali]] 📜  [[ud8.3-deepseek-pali]] ►
