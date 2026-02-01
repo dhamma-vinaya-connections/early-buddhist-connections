@@ -11,17 +11,17 @@ vin_chapter:
   - ""
   - "3 Admonitions"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/admonish"
+  - "Admonish"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-3proclamation"
+  - "Motion-3proclamation"
 vin_gender: "Monks"
 vin_gender-corr: "BNI-SS16"
 ---
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-SS16"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhu paneva dubbacajātiko hoti uddesapariyāpannesu sikkhāpadesu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti – ‘Mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahaṃpāyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā, viramathāyasmanto mama vacanāyā’ti, so bhikkhu bhikkhūhi evamassa vacanīyo – ‘Māyasmā attānaṃ avacanīyaṃ akāsi, vacanīyamevāyasmā attānaṃ karotu, āyasmāpi bhikkhū vadetu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena. Evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ aññamaññavacanena aññamaññavuṭṭhāpanenāti. Evañca so bhikkhuṃ bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsīyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ; no ce paṭinissajjeyya, saṅghādiseso” | If a bhikkhu is by nature difficult to admonish and if while being spoken to by bhikkhus concerning the rules in the Patimokkha that he as a bhikkhu should be observing and he makes himself unable to be spoken to by saying: "Venerable Sirs, do not say anything to me whether good or bad and I also will not say anything to you whether good or bad. Venerable Sirs, refrain from speaking to me." Then that bhikkhu should be spoken to by bhikkhus saying: "Venerable Sir, do not make yourself unable to be spoken to but make yourself able to be spoken to. Speak to bhikkhus according to Dhamma and they will speak to you according to Dhamma and thus the following of the Buddha will increase by speaking to each other and raising each other (from offence)." If while being spoken to by bhikkhus thus that bhikkhu persists with that behaviour then he should be admonished up to three times by bhikkhus in order to cause him to give up that behaviour. If while being admonished up to three times he gives up that behaviour then that is good, but if he does not give it up then it is a sanghadisesa offence |
+| Bhikkhu paneva dubbacajātiko hoti uddesapariyāpannesu sikkhāpadesu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti – ‘Mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahaṃpāyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā, viramathāyasmanto mama vacanāyā’ti, so bhikkhu bhikkhūhi evamassa vacanīyo – ‘Māyasmā attānaṃ avacanīyaṃ akāsi, vacanīyamevāyasmā attānaṃ karotu, āyasmāpi bhikkhū vadetu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena. Evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ aññamaññavacanena aññamaññavuṭṭhāpanenāti. Evañca so bhikkhuṃ bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsīyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ; no ce paṭinissajjeyya, saṅghādiseso” | If a bhikkhu is by nature difficult to admonish and if while being spoken to by bhikkhus concerning the rules in the Patimokkha that he as a bhikkhu should be observing and he makes himself unable to be spoken to by saying: \"Venerable Sirs, do not say anything to me whether good or bad and I also will not say anything to you whether good or bad. Venerable Sirs, refrain from speaking to me.\" Then that bhikkhu should be spoken to by bhikkhus saying: \"Venerable Sir, do not make yourself unable to be spoken to but make yourself able to be spoken to. Speak to bhikkhus according to Dhamma and they will speak to you according to Dhamma and thus the following of the Buddha will increase by speaking to each other and raising each other (from offence).\" If while being spoken to by bhikkhus thus that bhikkhu persists with that behaviour then he should be admonished up to three times by bhikkhus in order to cause him to give up that behaviour. If while being admonished up to three times he gives up that behaviour then that is good, but if he does not give it up then it is a sanghadisesa offence |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-SS16"
 > | BU-SS12 | [[BNI-SS16]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC12]]
+>  - BU-PC12, 54, 71. Banishment Cv 1 .13 — see BMC2, Chapter 20
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-SS12%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

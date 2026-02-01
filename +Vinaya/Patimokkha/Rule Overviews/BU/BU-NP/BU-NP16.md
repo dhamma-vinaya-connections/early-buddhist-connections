@@ -11,15 +11,15 @@ vin_chapter:
   - "Kosiyavagga"
   - "Silk"
 vin_theme:
-  - "#rule_theme/properties"
+  - "Properties"
 vin_topic:
-  - "#rule_topic/wool"
+  - "Wool"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/differ-from-laity"
+  - "Differ from laity"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"

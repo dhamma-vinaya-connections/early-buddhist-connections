@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/sangha-act"
+  - "Sangha act"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/verdicts"
+  - "Verdicts"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

@@ -11,17 +11,17 @@ vin_chapter:
   - ""
   - "3 Admonitions"
 vin_theme:
-  - "#rule_theme/harmful"
+  - "Harmful"
 vin_topic:
-  - "#rule_topic/improper"
+  - "Improper"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/faith-foster"
+  - "Faith foster"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-3proclamation"
+  - "Motion-3proclamation"
 vin_gender: "Nuns"
 vin_gender-corr: "BU-SS13"
 ---

@@ -11,17 +11,17 @@ vin_chapter:
   - "15 Diṭṭhivaggo"
   - "15 Views"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/sangha-act"
+  - "Sangha act"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-1proclamation"
+  - "Motion-1proclamation"
 vin_gender: "Nuns"
 vin_gender-corr: "BU-PC73"
 ---
@@ -35,7 +35,7 @@ vin_gender-corr: "BU-PC73"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Moha: Yā pana bhikkhunī pātimokkhe uddissamāne evaṁ vadeyya: "Idāneva kho ahaṁ ayye jānāmi...", pācittiyaṁ. | 151. Deceived: Should any bhikkhunī... say "I just now understood that this rule is in the Pātimokkha"... (when she actually knew), it is to be confessed. |
+| Moha: Yā pana bhikkhunī pātimokkhe uddissamāne evaṁ vadeyya: \"Idāneva kho ahaṁ ayye jānāmi...\", pācittiyaṁ. | 151. Deceived: Should any bhikkhunī... say \"I just now understood that this rule is in the Pātimokkha\"... (when she actually knew), it is to be confessed. |
 
 
 > [!Info] Analisis of the rule

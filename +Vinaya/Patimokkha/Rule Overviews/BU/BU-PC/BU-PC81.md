@@ -11,15 +11,15 @@ vin_chapter:
   - "8 Saha-Dhammika-Vaggo"
   - "8 Legitimate Correction"
 vin_theme:
-  - "#rule_theme/properties"
+  - "Properties"
 vin_topic:
-  - "#rule_topic/sangha-properties"
+  - "Sangha properties"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC159"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya "yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī"ti, pācittiyaṃ | If a monk gives out a robe as part of a unanimous Sangha and then criticizes it afterwards, saying, “The monks are diverting the Sangha’s material things according to friendship,” he commits an offense entailing confession |
+| Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya \"yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī\"ti, pācittiyaṃ | If a monk gives out a robe as part of a unanimous Sangha and then criticizes it afterwards, saying, “The monks are diverting the Sangha’s material things according to friendship,” he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-PC159"
 > | BU-PC81 | [[BNI-PC159]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC13]]
+>  - BU-PC13 and 63; Community’s gains Cv 6 15.2, BMC2, Chapter 7 and 18
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC81%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

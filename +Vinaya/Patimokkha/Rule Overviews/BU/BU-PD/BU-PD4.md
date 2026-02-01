@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/food"
+  - "Food"
 vin_topic:
-  - "#rule_topic/food-receiving"
+  - "Food receiving"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā, bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā, bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā "gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī"ti | There are wilderness dwellings that are considered risky and dangerous. If a monk who is not sick, without first making an announcement about those dwellings, eats fresh or cooked food after personally receiving it inside that monastery, he must acknowledge it: “I have done a blameworthy and unsuitable thing that is to be acknowledged. I acknowledge it |
+| Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā, bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā, bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā \"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī\"ti | There are wilderness dwellings that are considered risky and dangerous. If a monk who is not sick, without first making an announcement about those dwellings, eats fresh or cooked food after personally receiving it inside that monastery, he must acknowledge it: “I have done a blameworthy and unsuitable thing that is to be acknowledged. I acknowledge it |
 
 
 > [!Info] Analisis of the rule

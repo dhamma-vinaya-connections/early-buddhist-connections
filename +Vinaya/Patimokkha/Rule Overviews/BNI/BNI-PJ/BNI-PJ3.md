@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/harmful"
+  - "Harmful"
 vin_topic:
-  - "#rule_topic/kill-harm"
+  - "Kill / harm"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -73,7 +73,7 @@ vin_gender-corr: "BU-PJ3"
 > | BNI-PJ3 | [[BU-PJ3]] | Vin.4.211-4.222 |
 
 >[!example]- Relevant texts
->  - [[BU-PC65]]
+>  - DN 15, BU-PC65, advice on how to encourage patients facing death. MN 143, SN36.7, SN55.54, and AN6.16 Arahant suicide SN4.23,
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-PJ3%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

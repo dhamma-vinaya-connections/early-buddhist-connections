@@ -11,15 +11,15 @@ vin_chapter:
   - "7 Sappāṇaka-Vaggo"
   - "7 Animals"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/sangha-act"
+  - "Sangha act"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -79,7 +79,7 @@ vin_gender-corr: "BNI-PC147"
 > | BU-PC69 | [[BNI-PC147]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC68]]
+>  - BU-PC68, 70 Suspension Cv.I.25-35, BMC2 Chapter 20
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC69%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

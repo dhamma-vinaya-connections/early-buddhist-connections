@@ -11,15 +11,15 @@ vin_chapter:
   - "6 Surāpāna-Vaggo"
   - "6 Alcoholic Drinks"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/improper"
+  - "Improper"
 vin_critics:
-  - "#critics/buddha-rule"
+  - "Buddha Rule"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"

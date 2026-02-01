@@ -11,15 +11,15 @@ vin_chapter:
   - "4 Tuvaṭṭavaggo"
   - "4 Sharing"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/aggressions"
+  - "Aggressions"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

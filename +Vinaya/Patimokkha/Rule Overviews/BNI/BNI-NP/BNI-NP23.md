@@ -11,15 +11,15 @@ vin_chapter:
   - "Jātaruparajata"
   - "Gold and Silver"
 vin_theme:
-  - "#rule_theme/properties"
+  - "Properties"
 vin_topic:
-  - "#rule_topic/trade"
+  - "Trade"
 vin_critics:
-  - "#critics/ascetics"
+  - "Ascetics"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -49,7 +49,7 @@ vin_gender-corr: "BU-NP20"
 > > [!info]- No Offence 
 > > > From Vibhanga
 > > 
-> > If he asks the price of an object; if he tells a steward; if he tells the seller, “I have this. I have need of such-and-such", and then lets the seller arrange the exchange as he/she sees fit. if he is mad, if he is the first wrong-doer
+> > If he asks the price of an object; if he tells a steward; if he tells the seller, “I have this. I have need of such-and-such\", and then lets the seller arrange the exchange as he/she sees fit. if he is mad, if he is the first wrong-doer
 > 
 > > [!info]- Useful Notes
 > > > From various authors
@@ -79,7 +79,7 @@ vin_gender-corr: "BU-NP20"
 > | BNI-NP23 | [[BU-NP20]] | Vin.4.243-4.257 |
 
 >[!example]- Relevant texts
->  - [[BU-PC84]]
+>  - SN42.10, AN4.50, Bu Np 5 10, 18, 19, 20 BU-PC84, Misuse donations Mv 8 22.1; BMC2, Chapter 10
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-NP23%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

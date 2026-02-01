@@ -11,15 +11,15 @@ vin_chapter:
   - "2 Bhūtagāma-Vaggo"
   - "2 Plants"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/accusations"
+  - "Accusations"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -79,7 +79,7 @@ vin_gender-corr: "BNI-PC109"
 > | BU-PC13 | [[BNI-PC109]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-SS8]], [[BU-SS9]]
+>  - Sangha officials Cv 6 11.2-4; 6 21.1-3. BU-SS8 - BU-SS9
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC13%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

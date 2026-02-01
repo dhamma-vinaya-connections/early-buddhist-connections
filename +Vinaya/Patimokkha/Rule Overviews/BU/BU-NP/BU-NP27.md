@@ -11,15 +11,15 @@ vin_chapter:
   - "Pattavagga"
   - "Bowl"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-NP28"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhuṃ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya "idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati, āyatañca karotha, vitthatañca, appitañca, suvītañca, suppavāyitañca, suvilekhitañca, suvitacchitañca karotha, appeva nāma mayampi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā"ti. evañca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṃ pācittiyaṃ | ‘If a male or female householder is having robe-cloth woven by weavers for an unrelated monk and, without first being invited, that monk goes to those weavers and specifies the kind of robe-cloth he wants, saying, ‘This robe-cloth that you are weaving for me, make it long and wide; make it closely woven, well-woven, well-stretched, well-scraped, and well-combed, and perhaps I will even give you a small gift,’ then, in saying that and afterwards giving them a small gift, even a bit of almsfood, he commits an offense entailing relinquishment and confession |
+| Bhikkhuṃ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya \"idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati, āyatañca karotha, vitthatañca, appitañca, suvītañca, suppavāyitañca, suvilekhitañca, suvitacchitañca karotha, appeva nāma mayampi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā\"ti. evañca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṃ pācittiyaṃ | ‘If a male or female householder is having robe-cloth woven by weavers for an unrelated monk and, without first being invited, that monk goes to those weavers and specifies the kind of robe-cloth he wants, saying, ‘This robe-cloth that you are weaving for me, make it long and wide; make it closely woven, well-woven, well-stretched, well-scraped, and well-combed, and perhaps I will even give you a small gift,’ then, in saying that and afterwards giving them a small gift, even a bit of almsfood, he commits an offense entailing relinquishment and confession |
 
 
 > [!Info] Analisis of the rule

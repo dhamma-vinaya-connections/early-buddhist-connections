@@ -11,17 +11,17 @@ vin_chapter:
   - "3 Naggavaggo"
   - "3 Naked"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-1proclamation"
+  - "Motion-1proclamation"
 vin_gender: "Nuns"
 vin_gender-corr: ""
 ---

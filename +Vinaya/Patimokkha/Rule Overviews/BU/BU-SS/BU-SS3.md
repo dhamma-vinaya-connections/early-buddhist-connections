@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - "1 Admonition"
 vin_theme:
-  - "#rule_theme/celibacy"
+  - "Celibacy"
 vin_topic:
-  - "#rule_topic/sexes-segregation"
+  - "Sexes segregation"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"

@@ -11,15 +11,15 @@ vin_chapter:
   - "Jātaruparajata"
   - "Gold and Silver"
 vin_theme:
-  - "#rule_theme/properties"
+  - "Properties"
 vin_topic:
-  - "#rule_topic/money"
+  - "Money"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -79,7 +79,7 @@ vin_gender-corr: "BU-NP18"
 > | BNI-NP21 | [[BU-NP18]] | Vin.4.243-4.257 |
 
 >[!example]- Relevant texts
->  - [[BU-PC84]]
+>  - SN42.10, AN4.50, Bu Np 10, 18, 19, 20 BU-PC84,
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-NP21%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

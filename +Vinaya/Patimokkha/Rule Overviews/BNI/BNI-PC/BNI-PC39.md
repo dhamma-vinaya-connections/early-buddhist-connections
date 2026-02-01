@@ -11,15 +11,15 @@ vin_chapter:
   - "4 Tuvaṭṭavaggo"
   - "4 Sharing"
 vin_theme:
-  - "#rule_theme/travel"
+  - "Travel"
 vin_topic:
-  - "#rule_topic/wandering"
+  - "Wandering"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/faith-foster"
+  - "Faith foster"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

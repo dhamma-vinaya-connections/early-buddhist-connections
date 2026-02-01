@@ -11,15 +11,15 @@ vin_chapter:
   - "Khambhakatavaggo"
   - "Arms akimbo"
 vin_theme:
-  - "#rule_theme/food"
+  - "Food"
 vin_topic:
-  - "#rule_topic/food-receiving"
+  - "Food receiving"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/faith-foster"
+  - "Faith foster"
 vin_severity:
-  - "#severity/wrong-doing"
+  - "Wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

@@ -11,15 +11,15 @@ vin_chapter:
   - "1 Musāvāda-Vaggo"
   - "1 Lies"
 vin_theme:
-  - "#rule_theme/speech"
+  - "Speech"
 vin_topic:
-  - "#rule_topic/disclose"
+  - "Disclose"
 vin_critics:
-  - "#critics/buddha-rule"
+  - "Buddha Rule"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"

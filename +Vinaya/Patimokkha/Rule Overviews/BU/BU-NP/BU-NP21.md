@@ -11,15 +11,15 @@ vin_chapter:
   - "Pattavagga"
   - "Bowl"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/bowl"
+  - "Bowl"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo"ti, ayaṃ tattha sāmīci | A monk should keep an extra almsbowl for ten days at the most. If he keeps it longer than that, he commits an offense entailing relinquishment and confession |
+| Ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo\"ti, ayaṃ tattha sāmīci | A monk should keep an extra almsbowl for ten days at the most. If he keeps it longer than that, he commits an offense entailing relinquishment and confession |
 
 
 > [!Info] Analisis of the rule
@@ -79,7 +79,7 @@ vin_gender-corr: ""
 > | BU-NP21 |  | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC22]]
+>  - BU-PC22, Bowl material Cv 5 8.2 allow and Cv 5 9.1 forbids
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-NP21%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

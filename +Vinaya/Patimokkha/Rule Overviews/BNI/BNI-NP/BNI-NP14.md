@@ -11,17 +11,17 @@ vin_chapter:
   - "Jātarūparajata"
   - "Robes"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/ananda"
+  - "Ananda"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-1proclamation"
+  - "Motion-1proclamation"
 vin_gender: "Nuns"
 vin_gender-corr: "BU-NP2"
 ---

@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - "1 Admonition"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/accusations"
+  - "Accusations"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -54,7 +54,7 @@ vin_gender-corr: "BU-SS9"
 > > [!info]- Useful Notes
 > > > From various authors
 > > 
-> > One has seen an action that would be an offense if committed by a bhikkhu, and one does not change the status of the evidence, but one distorts the facts of the case. Some ploys may be: "same person, different offense or same offense, different person. explanations for this rule are exactly the same as those for the preceding rule
+> > One has seen an action that would be an offense if committed by a bhikkhu, and one does not change the status of the evidence, but one distorts the facts of the case. Some ploys may be: \"same person, different offense or same offense, different person. explanations for this rule are exactly the same as those for the preceding rule
 > 
 > 
 ---
@@ -73,7 +73,7 @@ vin_gender-corr: "BU-SS9"
 > | BNI-SS9 | [[BU-SS9]] | Vin.4.223-4.242 |
 
 >[!example]- Relevant texts
->  - [[BU-SS8]]
+>  - BU-SS8
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-SS9%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

@@ -11,15 +11,15 @@ vin_chapter:
   - "Kosiyavagga"
   - "Silk"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/blanket"
+  - "Blanket"
 vin_critics:
-  - "#critics/buddha-rule"
+  - "Buddha Rule"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"

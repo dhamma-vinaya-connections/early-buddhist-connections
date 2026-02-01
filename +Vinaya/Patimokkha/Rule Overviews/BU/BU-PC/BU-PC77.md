@@ -11,15 +11,15 @@ vin_chapter:
   - "8 Saha-Dhammika-Vaggo"
   - "8 Legitimate Correction"
 vin_theme:
-  - "#rule_theme/harmful"
+  - "Harmful"
 vin_topic:
-  - "#rule_topic/aggressions"
+  - "Aggressions"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC155"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya "itissa muhuttampi aphāsu bhavissatī"ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ | If a monk intentionally makes a monk anxious, thinking, “In this way he will be ill at ease at least for a moment,” and he does so only for this reason and no other, he commits an offense entailing confession |
+| Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya \"itissa muhuttampi aphāsu bhavissatī\"ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ | If a monk intentionally makes a monk anxious, thinking, “In this way he will be ill at ease at least for a moment,” and he does so only for this reason and no other, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-PC155"
 > | BU-PC77 | [[BNI-PC155]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC55]]
+>  - BU-PC55
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC77%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

@@ -11,15 +11,15 @@ vin_chapter:
   - "Kathinavagga"
   - "Robes"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-NP18"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhuṃ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti "iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī"ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya "sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī"ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ | Now, if a robe-fund has been set up for a bhikkhu by an unrelated male householder or female householder [thinking]: “Having traded this robe-fund for a robe, I shall clothe the bhikkhu named so and so with a robe,” and then if that bhikkhu, previously uninvited, having approached [the householder], should make a suggestion about the robe [-cloth] [saying}: “It would be good indeed, Sir, [if you] having traded this robe-fund for such and such a robe, were to clothe me [with a robe],” [if the suggestion is made] out of a liking for what is fine, [this is a case] involving giving it up and confession |
+| Bhikkhuṃ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti \"iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī\"ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya \"sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī\"ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ | Now, if a robe-fund has been set up for a bhikkhu by an unrelated male householder or female householder [thinking]: “Having traded this robe-fund for a robe, I shall clothe the bhikkhu named so and so with a robe,” and then if that bhikkhu, previously uninvited, having approached [the householder], should make a suggestion about the robe [-cloth] [saying}: “It would be good indeed, Sir, [if you] having traded this robe-fund for such and such a robe, were to clothe me [with a robe],” [if the suggestion is made] out of a liking for what is fine, [this is a case] involving giving it up and confession |
 
 
 > [!Info] Analisis of the rule
@@ -44,7 +44,7 @@ vin_gender-corr: "BNI-NP18"
 > > 
 > > > From BMC1
 > > 
-> > 1 Object. The texts mention only that this rule concerns funds for a robe (cīvara) would probably mean a finished robe. 2 Intention. One wants to get a better robe than the lay person is planning to buy. "better quality, higher price." 3 Effort. One requests the unrelated lay person to improve the robe. 4 Result. One gets the long, broad, etc., robe that the householder bought in line with one's request
+> > 1 Object. The texts mention only that this rule concerns funds for a robe (cīvara) would probably mean a finished robe. 2 Intention. One wants to get a better robe than the lay person is planning to buy. \"better quality, higher price.\" 3 Effort. One requests the unrelated lay person to improve the robe. 4 Result. One gets the long, broad, etc., robe that the householder bought in line with one's request
 > 
 > > [!info]- No Offence 
 > > > From Vibhanga

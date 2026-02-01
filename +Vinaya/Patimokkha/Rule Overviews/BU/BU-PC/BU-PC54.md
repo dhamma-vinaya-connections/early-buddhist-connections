@@ -11,15 +11,15 @@ vin_chapter:
   - "6 Surāpāna-Vaggo"
   - "6 Alcoholic Drinks"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/rules"
+  - "Rules"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-PC135"
 > | BU-PC54 | [[BNI-PC135]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC71]]
+>  - BU-PC71, Bu Sg 12, Mv 6 17.7-9; Dhp 76; Cv 11 1.10
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC54%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

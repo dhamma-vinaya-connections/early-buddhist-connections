@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.folder.contains("Rule Overviews")
 properties:
   note.audience:
     displayName: sutta audience
@@ -8,13 +11,76 @@ properties:
 views:
   - type: table
     name: patimokkha-catalogue
-  - type: table
+    filters:
+      and:
+        - file.folder.contains("Rule Overviews")
+    order:
+      - file.name
+      - vin_chapter
+      - vin_code
+      - vin_gender
+      - vin_pts
+      - vin_purpose
+      - vin_severity
+      - vin_theme
+      - vin_title
+      - vin_topic
+      - vin_type
+    sort:
+      - property: vin_code
+        direction: ASC
+    columnSize:
+      file.name: 124
+      note.vin_chapter: 116
+      note.vin_code: 111
+  - type: list
     name: monk-rules
     order:
       - file.name
-      - chapter
-      - title
-      - aspect
-      - suttacode
+      - rule_type
+      - vin_chapter
+      - vin_gender
+      - vin_pts
+      - vin_purpose
+      - vin_severity
+      - vin_theme
+      - vin_title
+      - vin_topic
+      - vin_type
+    columnSize:
+      file.name: 124
+      note.rule_type: 126
+      note.vin_chapter: 116
   - type: table
     name: nun-rules
+    filters:
+      and:
+        - vin_gender == ["Nuns"]
+    order:
+      - file.name
+      - vin_gender-corr
+      - vin_pts
+      - vin_type
+      - vin_chapter
+      - vin_critics
+      - vin_purpose
+      - vin_severity
+      - vin_theme
+      - vin_rule_pali
+      - vin_rule_english
+      - vin_title
+      - vin_topic
+      - vin_gender
+    indentProperties: true
+    columnSize:
+      note.vin_gender-corr: 83
+      note.vin_chapter: 191
+  - type: table
+    name: vin-monk-nun
+    order:
+      - file.name
+      - vin_gender-corr
+      - vin_gender
+    sort:
+      - property: vin_gender-corr
+        direction: DESC

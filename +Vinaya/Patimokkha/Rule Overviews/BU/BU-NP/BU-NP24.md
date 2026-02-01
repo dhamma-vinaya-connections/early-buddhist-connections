@@ -11,15 +11,15 @@ vin_chapter:
   - "Pattavagga"
   - "Bowl"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Māso seso gimhāna"nti bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbaṃ, "addhamāso seso gimhāna"nti katvā nivāsetabbaṃ. orena ce "māso seso gimhāna"nti vassikasāṭikacīvaraṃ pariyeseyya, orena"ddhamāso seso gimhāna"nti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ | When there is a month left of the hot season, a monk may go looking for cloth for his rainy-season robe. When there is a half-month left, he may sew it and then wear it. If he goes looking for cloth for his rainy-season robe when there is more than a month left of the hot season, or if he sews it and then wears it when there is more than a half-month left, he commits an offense entailing relinquishment and confession.’ |
+| Māso seso gimhāna\"nti bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbaṃ, \"addhamāso seso gimhāna\"nti katvā nivāsetabbaṃ. orena ce \"māso seso gimhāna\"nti vassikasāṭikacīvaraṃ pariyeseyya, orena\"ddhamāso seso gimhāna\"nti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ | When there is a month left of the hot season, a monk may go looking for cloth for his rainy-season robe. When there is a half-month left, he may sew it and then wear it. If he goes looking for cloth for his rainy-season robe when there is more than a month left of the hot season, or if he sews it and then wears it when there is more than a half-month left, he commits an offense entailing relinquishment and confession.’ |
 
 
 > [!Info] Analisis of the rule

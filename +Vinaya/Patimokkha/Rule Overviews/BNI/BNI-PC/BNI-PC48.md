@@ -11,15 +11,15 @@ vin_chapter:
   - "5 Cittāgāravaggo"
   - "5 Picture gallery"
 vin_theme:
-  - "#rule_theme/dwelling"
+  - "Dwelling"
 vin_topic:
-  - "#rule_topic/wandering"
+  - "Wandering"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

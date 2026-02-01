@@ -11,17 +11,17 @@ vin_chapter:
   - ""
   - "1 Admonition"
 vin_theme:
-  - "#rule_theme/dwelling"
+  - "Dwelling"
 vin_topic:
-  - "#rule_topic/construction"
+  - "Construction"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-1proclamation"
+  - "Motion-1proclamation"
 vin_gender: "Monks"
 vin_gender-corr: ""
 ---

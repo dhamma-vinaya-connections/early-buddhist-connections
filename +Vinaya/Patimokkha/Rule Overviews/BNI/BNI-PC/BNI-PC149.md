@@ -11,15 +11,15 @@ vin_chapter:
   - "15 Diṭṭhivaggo"
   - "15 Views"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/self-restraint"
+  - "Self restraint"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -35,7 +35,7 @@ vin_gender-corr: "BU-PC71"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Sahadhammika: Yā pana bhikkhunī bhikkhunīhi sahadhammikaṁ vuccamānā... pācittiyaṁ. | 149. Refusing Admonition: Should any bhikkhunī... say "I will not train in this rule until I have asked another"... it is to be confessed. |
+| Sahadhammika: Yā pana bhikkhunī bhikkhunīhi sahadhammikaṁ vuccamānā... pācittiyaṁ. | 149. Refusing Admonition: Should any bhikkhunī... say \"I will not train in this rule until I have asked another\"... it is to be confessed. |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: "BU-PC71"
 > | BNI-PC149 | [[BU-PC71]] | Vin.4.258-4.345 |
 
 >[!example]- Relevant texts
->  - [[BU-PC54]]
+>  - BU-PC54
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-PC149%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

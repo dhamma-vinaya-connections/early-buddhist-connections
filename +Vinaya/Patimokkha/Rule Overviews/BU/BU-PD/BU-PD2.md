@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/food"
+  - "Food"
 vin_topic:
-  - "#rule_topic/food-receiving"
+  - "Food receiving"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhū paneva kulesu nimantitā bhuñjanti, tatra ce sā bhikkhunī vosāsamānarūpā ṭhitā hoti "idha sūpaṃ detha, idha odanaṃ dethā"ti. tehi bhikkhūhi sā bhikkhunī apasādetabbā "apasakka tāva bhagini, yāva bhikkhū bhuñjantī"ti. ekassapi ce bhikkhuno na paṭibhāseyya taṃ bhikkhuniṃ apasādetuṃ "apasakka tāva bhagini, yāva bhikkhū bhuñjantī"ti, paṭidesetabbaṃ tehi bhikkhūhi "gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā"ti | When monks eat by invitation to families, if a nun is there giving directions, saying, “Give bean curry here; give rice there,” then those monks should stop her: “Stop, Sister, while the monks are eating.” If not even a single monk addresses that nun in this way to stop her, they must acknowledge it: “We have done a blameworthy and unsuitable thing which is to be acknowledged. We acknowledge it |
+| Bhikkhū paneva kulesu nimantitā bhuñjanti, tatra ce sā bhikkhunī vosāsamānarūpā ṭhitā hoti \"idha sūpaṃ detha, idha odanaṃ dethā\"ti. tehi bhikkhūhi sā bhikkhunī apasādetabbā \"apasakka tāva bhagini, yāva bhikkhū bhuñjantī\"ti. ekassapi ce bhikkhuno na paṭibhāseyya taṃ bhikkhuniṃ apasādetuṃ \"apasakka tāva bhagini, yāva bhikkhū bhuñjantī\"ti, paṭidesetabbaṃ tehi bhikkhūhi \"gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā\"ti | When monks eat by invitation to families, if a nun is there giving directions, saying, “Give bean curry here; give rice there,” then those monks should stop her: “Stop, Sister, while the monks are eating.” If not even a single monk addresses that nun in this way to stop her, they must acknowledge it: “We have done a blameworthy and unsuitable thing which is to be acknowledged. We acknowledge it |
 
 
 > [!Info] Analisis of the rule

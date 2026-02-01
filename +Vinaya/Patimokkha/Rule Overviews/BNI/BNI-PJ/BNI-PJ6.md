@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/speech"
+  - "Speech"
 vin_topic:
-  - "#rule_topic/hide"
+  - "Hide"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

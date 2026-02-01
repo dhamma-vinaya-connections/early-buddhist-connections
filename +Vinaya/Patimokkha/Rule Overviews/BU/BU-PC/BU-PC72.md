@@ -11,15 +11,15 @@ vin_chapter:
   - "8 Saha-Dhammika-Vaggo"
   - "8 Legitimate Correction"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/self-restraint"
+  - "Self restraint"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC150"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya "kiṃ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṃvattantī"ti, sikkhāpadavivaṇṇake pācittiyaṃ | When the Monastic Code is being recited, if a monk says, “What’s the point of reciting these minor training rules, when they just lead to anxiety, oppression, and annoyance?” then in disparaging the training rules, he commits an offense entailing confession |
+| Yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya \"kiṃ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṃvattantī\"ti, sikkhāpadavivaṇṇake pācittiyaṃ | When the Monastic Code is being recited, if a monk says, “What’s the point of reciting these minor training rules, when they just lead to anxiety, oppression, and annoyance?” then in disparaging the training rules, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule

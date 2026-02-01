@@ -11,15 +11,15 @@ vin_chapter:
   - "2 Bhūtagāma-Vaggo"
   - "2 Plants"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/improper"
+  - "Improper"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC112"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya "yassa sambādho bhavissati, so pakkamissatī"ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ | If, in a dwelling belonging to the Sangha, a monk arranges his sleeping place in a way that encroaches on a monk that he knows arrived there before him, with the intention that anyone who feels crowded will leave, and he does so only for this reason and no other, he commits an offense entailing confession |
+| Yo pana bhikkhu saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya \"yassa sambādho bhavissati, so pakkamissatī\"ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ | If, in a dwelling belonging to the Sangha, a monk arranges his sleeping place in a way that encroaches on a monk that he knows arrived there before him, with the intention that anyone who feels crowded will leave, and he does so only for this reason and no other, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule

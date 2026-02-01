@@ -11,15 +11,15 @@ vin_chapter:
   - "Parimaṇḍalavaggo"
   - "Being even all round"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/faith-foster"
+  - "Faith foster"
 vin_severity:
-  - "#severity/wrong-doing"
+  - "Wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"

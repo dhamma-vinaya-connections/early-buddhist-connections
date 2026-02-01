@@ -11,15 +11,15 @@ vin_chapter:
   - "3 Naggavaggo"
   - "3 Naked"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/improper"
+  - "Improper"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/differ-from-laity"
+  - "Differ from laity"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

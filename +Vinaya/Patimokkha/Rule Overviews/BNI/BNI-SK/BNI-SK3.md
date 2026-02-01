@@ -11,15 +11,15 @@ vin_chapter:
   - "Parimaṇḍalavaggo"
   - "Being even all round"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/faith-foster"
+  - "Faith foster"
 vin_severity:
-  - "#severity/wrong-doing"
+  - "Wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -35,7 +35,7 @@ vin_gender-corr: "BU-SK3"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| 3. suppaṭicchanno antaraghare gamissāmīti sikkhā karaṇīyā. | “I shall go well covered inside an inhabited area," this is how the training is to be done. |
+| 3. suppaṭicchanno antaraghare gamissāmīti sikkhā karaṇīyā. | “I shall go well covered inside an inhabited area,\" this is how the training is to be done. |
 
 
 > [!Info] Analisis of the rule

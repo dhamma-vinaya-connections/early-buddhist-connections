@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/food"
+  - "Food"
 vin_topic:
-  - "#rule_topic/food-receiving"
+  - "Food receiving"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā "gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī"ti | If a monk receives fresh or cooked food directly from an unrelated nun who has entered an inhabited area, and then eats it, he must acknowledge it: “I have done a blameworthy and unsuitable thing that is to be acknowledged. I acknowledge it |
+| Yo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā \"gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī\"ti | If a monk receives fresh or cooked food directly from an unrelated nun who has entered an inhabited area, and then eats it, he must acknowledge it: “I have done a blameworthy and unsuitable thing that is to be acknowledged. I acknowledge it |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: ""
 > | BU-PD1 |  | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC41]]
+>  - BU-PC41
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PD1%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

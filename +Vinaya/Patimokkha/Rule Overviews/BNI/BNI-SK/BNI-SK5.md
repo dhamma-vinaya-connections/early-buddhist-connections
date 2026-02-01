@@ -11,15 +11,15 @@ vin_chapter:
   - "Parimaṇḍalavaggo"
   - "Being even all round"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/manners"
+  - "Manners"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/wrong-doing"
+  - "Wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -35,7 +35,7 @@ vin_gender-corr: "BU-SK5"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| 5. susaṃvuto antaraghare gamissāmīti sikkhā karaṇīyā. | “I shall go well-restrained inside an inhabited area," like this is the training to be done. |
+| 5. susaṃvuto antaraghare gamissāmīti sikkhā karaṇīyā. | “I shall go well-restrained inside an inhabited area,\" like this is the training to be done. |
 
 
 > [!Info] Analisis of the rule

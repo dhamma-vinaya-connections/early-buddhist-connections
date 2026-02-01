@@ -11,15 +11,15 @@ vin_chapter:
   - "11 Bhūtagāma-Vaggo"
   - "11 Plants"
 vin_theme:
-  - "#rule_theme/dwelling"
+  - "Dwelling"
 vin_topic:
-  - "#rule_topic/construction"
+  - "Construction"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -57,7 +57,7 @@ vin_gender-corr: "BU-PC19"
 > | BNI-PC115 | [[BU-PC19]] | Vin.4.258-4.345 |
 
 >[!example]- Relevant texts
->  - [[BU-SS7]]
+>  - BU-SS7, Cv 6 3.1-2, Cv 8 3.3
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-PC115%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

@@ -11,17 +11,17 @@ vin_chapter:
   - "4 Tuvaṭṭavaggo"
   - "4 Sharing"
 vin_theme:
-  - "#rule_theme/speech"
+  - "Speech"
 vin_topic:
-  - "#rule_topic/seclusion"
+  - "Seclusion"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-3proclamation"
+  - "Motion-3proclamation"
 vin_gender: "Nuns"
 vin_gender-corr: ""
 ---

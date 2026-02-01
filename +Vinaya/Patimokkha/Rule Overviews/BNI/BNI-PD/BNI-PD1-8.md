@@ -19,7 +19,7 @@ vin_critics:
 vin_purpose:
   - ""
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -35,7 +35,7 @@ vin_gender-corr: "BU-PC39"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| 1 Yā pana bhikkhunī agilānā sappiṁ viññāpetvā bhuñjeyya, paṭidesetabbaṁ tāya bhikkhuniyā: "gārayhaṁ, ayye, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī"ti. 2Yā pana bhikkhunī agilānā telaṁ viññāpetvā bhuñjeyya … pe … taṁ paṭidesemīti.
+| 1 Yā pana bhikkhunī agilānā sappiṁ viññāpetvā bhuñjeyya, paṭidesetabbaṁ tāya bhikkhuniyā: \"gārayhaṁ, ayye, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī\"ti. 2Yā pana bhikkhunī agilānā telaṁ viññāpetvā bhuñjeyya … pe … taṁ paṭidesemīti.
 
 3Yā pana bhikkhunī agilānā madhuṁ viññāpetvā bhuñjeyya … pe … taṁ paṭidesemīti.
 
@@ -47,7 +47,7 @@ vin_gender-corr: "BU-PC39"
 
 7Yā pana bhikkhunī agilānā khīraṁ viññāpetvā bhuñjeyya … pe … taṁ paṭidesemīti.
 
-8Yā pana bhikkhunī agilānā dadhiṁ viññāpetvā bhuñjeyya, paṭidesetabbaṁ tāya bhikkhuniyā: "gārayhaṁ, ayye, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī"ti. | 1. Should any bhikkhunī, not being ill, ask for ghee and consume it, she is to acknowledge it: "Lady, I have committed a blameworthy, unsuitable act that ought to be acknowledged. I acknowledge it."  2—8. Should any bhikkhunī, not being ill, ask for oil… honey… sugar/molasses… fish… meat… milk… curds and consume it, she is to acknowledge it: "Lady, I have committed a blameworthy, unsuitable act that ought to be acknowledged. I acknowledge it." |
+8Yā pana bhikkhunī agilānā dadhiṁ viññāpetvā bhuñjeyya, paṭidesetabbaṁ tāya bhikkhuniyā: \"gārayhaṁ, ayye, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī\"ti. | 1. Should any bhikkhunī, not being ill, ask for ghee and consume it, she is to acknowledge it: \"Lady, I have committed a blameworthy, unsuitable act that ought to be acknowledged. I acknowledge it.\"  2—8. Should any bhikkhunī, not being ill, ask for oil… honey… sugar/molasses… fish… meat… milk… curds and consume it, she is to acknowledge it: \"Lady, I have committed a blameworthy, unsuitable act that ought to be acknowledged. I acknowledge it.\" |
 
 
 > [!Info] Analisis of the rule

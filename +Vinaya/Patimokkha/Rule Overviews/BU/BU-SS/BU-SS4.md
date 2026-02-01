@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - "1 Admonition"
 vin_theme:
-  - "#rule_theme/celibacy"
+  - "Celibacy"
 vin_topic:
-  - "#rule_topic/sexes-segregation"
+  - "Sexes segregation"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṃ bhāseyya "etadaggaṃ bhagini pāricariyānaṃ yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyā"ti methunupasaṃhitena, saṅghādiseso | Whatever bhikkhu being lustful and with perverted mind should in the presence of a woman speak in praise of the offering of sexual intercourse to himself saying, "Sister, with the highest form of service a woman should serve a virtuous, celibate, good natured person like myself," has commit-ted a sanghadisesa offence |
+| Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṃ bhāseyya \"etadaggaṃ bhagini pāricariyānaṃ yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyā\"ti methunupasaṃhitena, saṅghādiseso | Whatever bhikkhu being lustful and with perverted mind should in the presence of a woman speak in praise of the offering of sexual intercourse to himself saying, \"Sister, with the highest form of service a woman should serve a virtuous, celibate, good natured person like myself,\" has commit-ted a sanghadisesa offence |
 
 
 > [!Info] Analisis of the rule

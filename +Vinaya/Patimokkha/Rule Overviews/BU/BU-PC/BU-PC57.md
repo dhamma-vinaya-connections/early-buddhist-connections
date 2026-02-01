@@ -11,15 +11,15 @@ vin_chapter:
   - "6 Surāpāna-Vaggo"
   - "6 Alcoholic Drinks"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/improper"
+  - "Improper"
 vin_critics:
-  - "#critics/king"
+  - "King"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC138"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya aññatra samayā, pācittiyaṃ. tatthāyaṃ samayo "diyaḍḍho māso seso gimhāna"nti "vassānassa paṭhamo māso" iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṃ tattha samayo | If a monk bathes at intervals of less than a half-month, except on an appropriate occasion, he commits an offense entailing confession. These are the appropriate occasions: it is the two-and-a-half-month period of the hot season and the fever season, comprising the last one-and-a-half months of summer and the first month of the rainy season; he is sick; he is working; he is traveling; there is wind and rain |
+| Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya aññatra samayā, pācittiyaṃ. tatthāyaṃ samayo \"diyaḍḍho māso seso gimhāna\"nti \"vassānassa paṭhamo māso\" iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṃ tattha samayo | If a monk bathes at intervals of less than a half-month, except on an appropriate occasion, he commits an offense entailing confession. These are the appropriate occasions: it is the two-and-a-half-month period of the hot season and the fever season, comprising the last one-and-a-half months of summer and the first month of the rainy season; he is sick; he is working; he is traveling; there is wind and rain |
 
 
 > [!Info] Analisis of the rule

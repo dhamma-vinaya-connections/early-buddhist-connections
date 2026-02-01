@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/speech"
+  - "Speech"
 vin_topic:
-  - "#rule_topic/lying"
+  - "Lying"
 vin_critics:
-  - "#critics/buddha-rule"
+  - "Buddha Rule"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PJ4"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu anabhijānaṃ uttarimanussadhammaṃ attupanāyikaṃ alamariyañāṇadassanaṃ samudācareyya "iti jānāmi, iti passāmī"ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā āpanno visuddhāpekkho evaṃ vadeyya "ajānamevaṃ āvuso avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapi"nti, aññatra adhimānā, ayampi pārājiko hoti asaṃvāso | Whatever bhikkhu without having experienced the extraordinary knowledge and vision of jhana or enlightenment (magga and phala), which are beyond normal human experience, should claim to possess either of them saying, "I know this, I see this,"and if after that at another time he is ques-tioned or even if he is not questioned having committed this offence and desiring to become pure he should say, "Venerable Sir, without having known this I said I know this, without having seen this I said I see this, what I said was a useless lie," unless it was because of overestimation then that bhikkhu is one who has committed a parajika offence and one who is no longer permitted to remain in the bhikkhu sangha |
+| Yo pana bhikkhu anabhijānaṃ uttarimanussadhammaṃ attupanāyikaṃ alamariyañāṇadassanaṃ samudācareyya \"iti jānāmi, iti passāmī\"ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā āpanno visuddhāpekkho evaṃ vadeyya \"ajānamevaṃ āvuso avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapi\"nti, aññatra adhimānā, ayampi pārājiko hoti asaṃvāso | Whatever bhikkhu without having experienced the extraordinary knowledge and vision of jhana or enlightenment (magga and phala), which are beyond normal human experience, should claim to possess either of them saying, \"I know this, I see this,\"and if after that at another time he is ques-tioned or even if he is not questioned having committed this offence and desiring to become pure he should say, \"Venerable Sir, without having known this I said I know this, without having seen this I said I see this, what I said was a useless lie,\" unless it was because of overestimation then that bhikkhu is one who has committed a parajika offence and one who is no longer permitted to remain in the bhikkhu sangha |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-PJ4"
 > | BU-PJ4 | [[BNI-PJ4]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC8]]
+>  - AN5.53, BU-PC8,
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PJ4%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

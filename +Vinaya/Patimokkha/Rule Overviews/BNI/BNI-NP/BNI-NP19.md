@@ -11,15 +11,15 @@ vin_chapter:
   - "Jātarūparajata"
   - "Robes"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -44,7 +44,7 @@ vin_gender-corr: "BU-NP9"
 > > 
 > > > From BMC1
 > > 
-> > 1 Object. The texts mention only that this rule concerns funds for a robe (cīvara) would probably mean a finished robe. 2 Intention. One wants to get a better robe than the lay person is planning to buy. "better quality, higher price." 3 Effort. One asks the two donors to put their funds together to purchase one robe.. 4 Result. One gets the long, broad, etc., robe that the householder bought in line with one's request
+> > 1 Object. The texts mention only that this rule concerns funds for a robe (cīvara) would probably mean a finished robe. 2 Intention. One wants to get a better robe than the lay person is planning to buy. \"better quality, higher price.\" 3 Effort. One asks the two donors to put their funds together to purchase one robe.. 4 Result. One gets the long, broad, etc., robe that the householder bought in line with one's request
 > 
 > > [!info]- No Offence 
 > > > From Vibhanga

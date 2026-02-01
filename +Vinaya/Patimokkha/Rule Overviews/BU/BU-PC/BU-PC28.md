@@ -11,15 +11,15 @@ vin_chapter:
   - "3 Bhikkhunovāda-Vaggo"
   - "3 Instruction"
 vin_theme:
-  - "#rule_theme/travel"
+  - "Travel"
 vin_topic:
-  - "#rule_topic/sexes-segregation"
+  - "Sexes segregation"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/regulate-relationships"
+  - "Regulate Relationships"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"

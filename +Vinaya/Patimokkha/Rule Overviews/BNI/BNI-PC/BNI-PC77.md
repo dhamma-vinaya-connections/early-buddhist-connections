@@ -11,15 +11,15 @@ vin_chapter:
   - "8 Kumāribhūtavaggo"
   - "8 Maiden"
 vin_theme:
-  - "#rule_theme/ordaining"
+  - "Ordaining"
 vin_topic:
-  - "#rule_topic/ordaninig"
+  - "Ordaninig"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

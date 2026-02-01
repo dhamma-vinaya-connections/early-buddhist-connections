@@ -11,15 +11,15 @@ vin_chapter:
   - "Pādukavaggo"
   - "Footwear"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/teaching"
+  - "Teaching"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/faith-foster"
+  - "Faith foster"
 vin_severity:
-  - "#severity/wrong-doing"
+  - "Wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

@@ -11,15 +11,15 @@ vin_chapter:
   - "14 Jotivaggo"
   - "14 Fire"
 vin_theme:
-  - "#rule_theme/harmful"
+  - "Harmful"
 vin_topic:
-  - "#rule_topic/kill-harm"
+  - "Kill / harm"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -73,7 +73,7 @@ vin_gender-corr: "BU-PC62"
 > | BNI-PC143 | [[BU-PC62]] | Vin.4.258-4.345 |
 
 >[!example]- Relevant texts
->  - [[BU-PC20]]
+>  - BU-PC20, 61. water strainers Cv 5 13.1-2
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-PC143%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

@@ -11,15 +11,15 @@ vin_chapter:
   - "7 Sappāṇaka-Vaggo"
   - "7 Animals"
 vin_theme:
-  - "#rule_theme/travel"
+  - "Travel"
 vin_topic:
-  - "#rule_topic/sexes-segregation"
+  - "Sexes segregation"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/differ-from-laity"
+  - "Differ from laity"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -73,7 +73,7 @@ vin_gender-corr: ""
 > | BU-PC67 |  | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC27]]
+>  - BU-PC27, 44, 66. Mv 5 10.3
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC67%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

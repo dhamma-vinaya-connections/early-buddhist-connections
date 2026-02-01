@@ -11,17 +11,17 @@ vin_chapter:
   - ""
   - "3 Admonitions"
 vin_theme:
-  - "#rule_theme/harmful"
+  - "Harmful"
 vin_topic:
-  - "#rule_topic/improper"
+  - "Improper"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/faith-foster"
+  - "Faith foster"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-3proclamation"
+  - "Motion-3proclamation"
 vin_gender: "Monks"
 vin_gender-corr: "BNI-SS17"
 ---
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-SS17"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhu paneva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsako pāpasamācāro. Tassa kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tena duṭṭhāni dissanti ceva suyyanti ca. So bhikkhu bhikkhūhi evamassa vacanīyo – ‘Āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca. Pakkamatāyasmā imamhā āvāsā. Alaṃ te idha vāsenā’ti. Evañca so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṃ vadeyya – ‘Chandagāmino ca bhikkhū dosagāmino ca bhikkhū mohagāmino ca bhikkhū bhayagāmino ca bhikkhū tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī’ti, so bhikkhu bhikkhūhi evamassa vacanīyo – ‘Māyasmā evaṃ avaca. Na ca bhikkhū chandagāmino. Na ca bhikkhū dosagāmino. Na ca bhikkhū mohagāmino. Na ca bhikkhū bhayagāmino. Āyasmā kho kuladūsako pāpasamācāro. Āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca. Kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca. Pakkamatāyasmā imamhā āvāsā. Alaṃ te idha vāsenā’ti. Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsīyamāno taṃ paṭinissajjeyya , iccetaṃ kusalaṃ; no ce paṭinissajjeyya, saṅghādiseso | If a bhikkhu living depending on a certain village or town is one who causes families to lose faith and who is of bad behaviour and his bad behaviour is seen and heard about and families that have lost faith are seen and heard about then that bhikkhu should be spoken to by bhikkhus saying: "Venerable Sir, you are one who causes families to lose faith and who is of bad behaviour, your bad behaviour is seen and heard about and families that have lost faith are seen and heard about. Venerable Sir, leave this monastery as there can be no benefit in your living here." If while being spoken to by bhikkhus thus that bhikkhu should say to them: "The bhikkhus are acting because of desire, acting because of anger, acting because of delusion, acting because of fear; because of behaviour like this they banish some but do not banish others." Then that bhikkhu should be spoken to by bhikkhus saying: "Venerable Sir,do not speak like that for the bhikkhus are not acting because of desire, anger, delusion or fear, but you are one who causes families to lose faith and who is of bad behaviour and your bad behaviour is seen and heard about and families that have lost faith are seen and heard about. Venerable Sir, leave this monastery as there can be no benefit in your living here." If while being spoken to by bhikkhus thus that bhikkhu persists with that accusation then he should be admonished up to three times by bhikkhus in order to cause him to give up that accusation. If while being admonished up to three times he gives up that accusation then that is good, but if he does not give it up then it is a sanghadisesa offence |
+| Bhikkhu paneva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsako pāpasamācāro. Tassa kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tena duṭṭhāni dissanti ceva suyyanti ca. So bhikkhu bhikkhūhi evamassa vacanīyo – ‘Āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca. Pakkamatāyasmā imamhā āvāsā. Alaṃ te idha vāsenā’ti. Evañca so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṃ vadeyya – ‘Chandagāmino ca bhikkhū dosagāmino ca bhikkhū mohagāmino ca bhikkhū bhayagāmino ca bhikkhū tādisikāya āpattiyā ekaccaṃ pabbājenti ekaccaṃ na pabbājentī’ti, so bhikkhu bhikkhūhi evamassa vacanīyo – ‘Māyasmā evaṃ avaca. Na ca bhikkhū chandagāmino. Na ca bhikkhū dosagāmino. Na ca bhikkhū mohagāmino. Na ca bhikkhū bhayagāmino. Āyasmā kho kuladūsako pāpasamācāro. Āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca. Kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca. Pakkamatāyasmā imamhā āvāsā. Alaṃ te idha vāsenā’ti. Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsīyamāno taṃ paṭinissajjeyya , iccetaṃ kusalaṃ; no ce paṭinissajjeyya, saṅghādiseso | If a bhikkhu living depending on a certain village or town is one who causes families to lose faith and who is of bad behaviour and his bad behaviour is seen and heard about and families that have lost faith are seen and heard about then that bhikkhu should be spoken to by bhikkhus saying: \"Venerable Sir, you are one who causes families to lose faith and who is of bad behaviour, your bad behaviour is seen and heard about and families that have lost faith are seen and heard about. Venerable Sir, leave this monastery as there can be no benefit in your living here.\" If while being spoken to by bhikkhus thus that bhikkhu should say to them: \"The bhikkhus are acting because of desire, acting because of anger, acting because of delusion, acting because of fear; because of behaviour like this they banish some but do not banish others.\" Then that bhikkhu should be spoken to by bhikkhus saying: \"Venerable Sir,do not speak like that for the bhikkhus are not acting because of desire, anger, delusion or fear, but you are one who causes families to lose faith and who is of bad behaviour and your bad behaviour is seen and heard about and families that have lost faith are seen and heard about. Venerable Sir, leave this monastery as there can be no benefit in your living here.\" If while being spoken to by bhikkhus thus that bhikkhu persists with that accusation then he should be admonished up to three times by bhikkhus in order to cause him to give up that accusation. If while being admonished up to three times he gives up that accusation then that is good, but if he does not give it up then it is a sanghadisesa offence |
 
 
 > [!Info] Analisis of the rule

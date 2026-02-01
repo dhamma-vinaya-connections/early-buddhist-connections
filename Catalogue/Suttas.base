@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.folder.contains("Overviews Suttas")
 properties:
   note.sutta_training:
     displayName: training
@@ -56,7 +59,7 @@ views:
       note.sutta_audience: 102
       note.sutta_method: 89
       note.sutta_length: 119
-  - type: table
+  - type: list
     name: suttas-themes
     groupBy:
       property: sutta_theme
@@ -65,31 +68,15 @@ views:
       - file.name
       - sutta_theme
       - sutta_topic
-    limit: 10
-  - type: list
-    name: sutta-index
-    filters:
-      and:
-        - nikaya == this.nikaya
-    groupBy:
-      property: sutta_chapter
-      direction: ASC
-    order:
-      - file.name
-      - sutta_title
-      - sutta_chapter
-      - sutta_theme
+      - sutta_prominence
     limit: 10
     columnSize:
       file.name: 74
-      note.sutta_title: 220
-      note.sutta_chapter: 193
-      note.sutta_theme: 133
+      note.sutta_theme: 178
+      note.sutta_topic: 239
+      note.sutta_prominence: 81
   - type: list
     name: suttas-texts
-    filters:
-      and:
-        - sutta_code == this.sutta_code
     groupBy:
       property: sutta_title
       direction: ASC
@@ -103,22 +90,20 @@ views:
       note.translator: 209
     indentProperties: false
   - type: table
-    name: vin-index
+    name: suttas-context
     filters:
       and:
-        - file.folder.contains("Rule Overviews")
-        - and:
-            - vin_gender == this.vin_gender
+        - file.folder.contains("Overviews Suttas")
     order:
       - file.name
-      - vin_gender
-      - vin_gender-corr
-      - vin_title
-    sort:
-      - property: vin_gender
-        direction: ASC
-      - property: file.name
-        direction: ASC
+      - sutta_training
+      - sutta_stage
+      - sutta_aspect
+      - sutta_method
+      - sutta_audience
+      - sutta_teacher
+      - sutta_length
+    sort: []
     limit: 30
     columnSize:
       file.name: 74

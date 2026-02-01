@@ -11,15 +11,15 @@ vin_chapter:
   - "Jātaruparajata"
   - "Gold and Silver"
 vin_theme:
-  - "#rule_theme/properties"
+  - "Properties"
 vin_topic:
-  - "#rule_topic/sangha-properties"
+  - "Sangha properties"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

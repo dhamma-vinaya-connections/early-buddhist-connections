@@ -11,15 +11,15 @@ vin_chapter:
   - "6 Ārāmavaggo"
   - "6 Monastery"
 vin_theme:
-  - "#rule_theme/instruction"
+  - "Instruction"
 vin_topic:
-  - "#rule_topic/admonish"
+  - "Admonish"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/regulate-relationships"
+  - "Regulate Relationships"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

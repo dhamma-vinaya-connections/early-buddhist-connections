@@ -11,15 +11,15 @@ vin_chapter:
   - "1 Lasuṇavaggo"
   - "1 Garlic"
 vin_theme:
-  - "#rule_theme/celibacy"
+  - "Celibacy"
 vin_topic:
-  - "#rule_topic/sex"
+  - "Sex"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/faith-foster"
+  - "Faith foster"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

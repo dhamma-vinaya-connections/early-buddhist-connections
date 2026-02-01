@@ -11,15 +11,15 @@ vin_chapter:
   - "10 Musāvāda-Vaggo"
   - "10 Lies"
 vin_theme:
-  - "#rule_theme/speech"
+  - "Speech"
 vin_topic:
-  - "#rule_topic/teaching"
+  - "Teaching"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/faith-foster"
+  - "Faith foster"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

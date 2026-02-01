@@ -11,15 +11,15 @@ vin_chapter:
   - "8 Saha-Dhammika-Vaggo"
   - "8 Legitimate Correction"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/sangha-act"
+  - "Sangha act"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-PC157"
 > | BU-PC79 | [[BNI-PC157]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC63]]
+>  - BU-PC63, 80. Sangha acts Cv 4, Mv 9 2.4, complete assembly Mv 2 5.2,6.1,12.7; consent by proxy Mv 2 23.1-2; protest Mv 9 3.5-6, 4.7-8; community vs another Mv 9 2.3. BMC2, Chapter 12
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC79%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

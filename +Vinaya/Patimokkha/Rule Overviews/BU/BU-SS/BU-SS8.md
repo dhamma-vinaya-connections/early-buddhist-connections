@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - "1 Admonition"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/accusations"
+  - "Accusations"
 vin_critics:
-  - "#critics/buddha-rule"
+  - "Buddha Rule"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-SS8"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṃseyya "appeva nāma naṃ imamhā brahmacariyā cāveyya"nti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā amūlakañceva taṃ adhikaraṇaṃ hoti, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso | Whatever bhikkhu being angry, vengeful, and displeased should groundlessly accuse another bhikkhu of committing a parajika offence thinking, "Perhaps, this will cause him to fall from the life of a bhikkhu," and if after that at another time he is questioned or if he is not questioned and that accusation is found to be groundless and he admits his fault then he has committed a sanghadisesa offence |
+| Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṃseyya \"appeva nāma naṃ imamhā brahmacariyā cāveyya\"nti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā amūlakañceva taṃ adhikaraṇaṃ hoti, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso | Whatever bhikkhu being angry, vengeful, and displeased should groundlessly accuse another bhikkhu of committing a parajika offence thinking, \"Perhaps, this will cause him to fall from the life of a bhikkhu,\" and if after that at another time he is questioned or if he is not questioned and that accusation is found to be groundless and he admits his fault then he has committed a sanghadisesa offence |
 
 
 > [!Info] Analisis of the rule
@@ -59,7 +59,7 @@ vin_gender-corr: "BNI-SS8"
 > > [!info]-  Formulas 
 > > >If applicable from BMC1 Appendices  [[bmc1#^ch13]]
 > > 
-> > , to ask permission to speak with him: "Let the venerable one give me leave. I want to speak with you — Karotu āyasmā okāsaṃ. Ahan-taṃ vattukāmo."
+> > , to ask permission to speak with him: \"Let the venerable one give me leave. I want to speak with you — Karotu āyasmā okāsaṃ. Ahan-taṃ vattukāmo.\"
 > 
 
 
@@ -79,7 +79,7 @@ vin_gender-corr: "BNI-SS8"
 > | BU-SS8 | [[BNI-SS8]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-SS9]], [[BU-PC12]]
+>  - BU-SS9, 12, qualified to admonish Cv 9 5.1-2, Cv 9 5.7 and Pv 15 5.3. Bu PC12, 54,68, 71, 76 asking leave Mv 2 16.1-6, BMC2, Chapter 15
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-SS8%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

@@ -11,15 +11,15 @@ vin_chapter:
   - "Jātarūparajata"
   - "Robes"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -79,7 +79,7 @@ vin_gender-corr: "BU-NP1"
 > | BNI-NP13 | [[BU-NP1]] | Vin.4.243-4.257 |
 
 >[!example]- Relevant texts
->  - [[BU-PC59]]
+>  - AN8.53, Mv 8 13.4-8, unsuitable materials, see Mv 8 28 — BMC2, Chapter 2. shared ownership BU-PC59. Kaṭhina privilages resinded Mv7 1.7; Mv 7 2 & Pv14 6
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-NP13%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

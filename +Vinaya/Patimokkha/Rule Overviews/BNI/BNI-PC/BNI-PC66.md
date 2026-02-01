@@ -11,17 +11,17 @@ vin_chapter:
   - "7 Gabbhinivaggo"
   - "7 Pregnant Woman"
 vin_theme:
-  - "#rule_theme/ordaining"
+  - "Ordaining"
 vin_topic:
-  - "#rule_topic/ordaninig"
+  - "Ordaninig"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-1proclamation"
+  - "Motion-1proclamation"
 vin_gender: "Nuns"
 vin_gender-corr: ""
 ---

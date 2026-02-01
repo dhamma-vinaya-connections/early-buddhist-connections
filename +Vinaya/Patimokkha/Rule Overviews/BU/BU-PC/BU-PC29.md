@@ -11,15 +11,15 @@ vin_chapter:
   - "3 Bhikkhunovāda-Vaggo"
   - "3 Instruction"
 vin_theme:
-  - "#rule_theme/food"
+  - "Food"
 vin_topic:
-  - "#rule_topic/food-receiving"
+  - "Food receiving"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/regulate-relationships"
+  - "Regulate Relationships"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"

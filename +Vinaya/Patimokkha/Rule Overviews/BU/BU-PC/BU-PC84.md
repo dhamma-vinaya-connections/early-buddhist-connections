@@ -11,15 +11,15 @@ vin_chapter:
   - "9 Ratana-Vaggo"
   - "9 Valuables"
 vin_theme:
-  - "#rule_theme/properties"
+  - "Properties"
 vin_topic:
-  - "#rule_topic/valuables"
+  - "Valuables"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/general-issues"
+  - "General Issues"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC161"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ "yassa bhavissati, so harissatī"ti, ayaṃ tattha sāmīc | If a monk picks up something precious or something regarded as precious, or he has it picked up, except within a monastery or inside a lodging, he commits an offense entailing confession. If he picks up something precious or something regarded as precious, or he has it picked up, within a monastery or inside a lodging, he should put it aside with the thought, “Whoever owns it will come and get it.” This is the proper procedure |
+| Yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ \"yassa bhavissati, so harissatī\"ti, ayaṃ tattha sāmīc | If a monk picks up something precious or something regarded as precious, or he has it picked up, except within a monastery or inside a lodging, he commits an offense entailing confession. If he picks up something precious or something regarded as precious, or he has it picked up, within a monastery or inside a lodging, he should put it aside with the thought, “Whoever owns it will come and get it.” This is the proper procedure |
 
 
 > [!Info] Analisis of the rule

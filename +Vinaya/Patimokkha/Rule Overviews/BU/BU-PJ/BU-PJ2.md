@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/harmful"
+  - "Harmful"
 vin_topic:
-  - "#rule_topic/stealing"
+  - "Stealing"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PJ2"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya, yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā corosi bālosi mūḷhosi thenosīti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso | Whatever bhikkhu should take with intention to steal, from a village or the forest (outside the village), an article which has not been given of such a value that because of having stolen it Kings having caught the thief would execute, imprison, or banish him saying, "You are a thief, you are a fool, you are an idiot, you are a robber," then that bhikkhu who steals such an article which has not been given is one who has committed a parajika offence and one who is no longer permitted to remain in the bhikkhu sangha |
+| Yo pana bhikkhu gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya, yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā corosi bālosi mūḷhosi thenosīti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso | Whatever bhikkhu should take with intention to steal, from a village or the forest (outside the village), an article which has not been given of such a value that because of having stolen it Kings having caught the thief would execute, imprison, or banish him saying, \"You are a thief, you are a fool, you are an idiot, you are a robber,\" then that bhikkhu who steals such an article which has not been given is one who has committed a parajika offence and one who is no longer permitted to remain in the bhikkhu sangha |
 
 
 > [!Info] Analisis of the rule

@@ -11,15 +11,15 @@ vin_chapter:
   - "16 Dhammikavaggo"
   - "16 In-accordance-with-the-Rule"
 vin_theme:
-  - "#rule_theme/properties"
+  - "Properties"
 vin_topic:
-  - "#rule_topic/valuables"
+  - "Valuables"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/general-issues"
+  - "General Issues"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

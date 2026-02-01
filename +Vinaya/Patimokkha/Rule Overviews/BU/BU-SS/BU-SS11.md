@@ -11,17 +11,17 @@ vin_chapter:
   - ""
   - "3 Admonitions"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/schism"
+  - "Schism"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-3proclamation"
+  - "Motion-3proclamation"
 vin_gender: "Monks"
 vin_gender-corr: "BNI-SS15"
 ---
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-SS15"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Tasseva kho pana bhikkhussa bhikkhū honti anuvattakā vaggavādakā eko vā dve vā tayo vā, te evaṃ vadeyyuṃ "māyasmanto etaṃ bhikkhuṃ kiñci avacuttha, dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu, amhākañceso bhikkhu chandañca ruciñca ādāya voharati, jānāti, no bhāsati, amhākampetaṃ khamatī"ti, te bhikkhū bhikkhūhi evamassu vacanīyā "māyasmanto evaṃ avacuttha, na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī, māyasmantānampi saṅghabhedo ruccittha, sametāyasmantānaṃ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī"ti, evañca te bhikkhū bhikkhūhi vuccamānā tatheva paggaṇheyyuṃ, te bhikkhū bhikkhūhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, iccetaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, saṅghādiseso | If that bhikkhu has bhikkhus who are his followers and fellow schismatics,whether one or two or three and they should say: "Venerable Sirs, do not say anything to that bhikkhu for that bhikkhu speaks in accordance with Dhamma and Vinaya, he expresses our desires and liking, he speaks knowing our desires and liking and we also approve of what he is doing." Then those bhikkhus should be spoken to by bhikkhus saying: "Venerable Sirs, do not speak like that for that bhikkhu does not speak Dhamma or Vinaya. Vener-able Sirs, do not approve of making a schism of the Sangha. Venerable Sirs, be united with the Sangha because a Sangha that is united, in agreement, without disputes and which recites the Patimokkha together, lives happily." If while being spoken to by bhikkhus thus those bhikkhus persist with that view then they should be admonished up to three times by bhikkhus in order to cause them to give up that view. If while being admonished up to three times they give up that view then that is good, but if they do not give it up then it is a sanghadisesa offence |
+| Tasseva kho pana bhikkhussa bhikkhū honti anuvattakā vaggavādakā eko vā dve vā tayo vā, te evaṃ vadeyyuṃ \"māyasmanto etaṃ bhikkhuṃ kiñci avacuttha, dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu, amhākañceso bhikkhu chandañca ruciñca ādāya voharati, jānāti, no bhāsati, amhākampetaṃ khamatī\"ti, te bhikkhū bhikkhūhi evamassu vacanīyā \"māyasmanto evaṃ avacuttha, na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī, māyasmantānampi saṅghabhedo ruccittha, sametāyasmantānaṃ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī\"ti, evañca te bhikkhū bhikkhūhi vuccamānā tatheva paggaṇheyyuṃ, te bhikkhū bhikkhūhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, iccetaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, saṅghādiseso | If that bhikkhu has bhikkhus who are his followers and fellow schismatics,whether one or two or three and they should say: \"Venerable Sirs, do not say anything to that bhikkhu for that bhikkhu speaks in accordance with Dhamma and Vinaya, he expresses our desires and liking, he speaks knowing our desires and liking and we also approve of what he is doing.\" Then those bhikkhus should be spoken to by bhikkhus saying: \"Venerable Sirs, do not speak like that for that bhikkhu does not speak Dhamma or Vinaya. Vener-able Sirs, do not approve of making a schism of the Sangha. Venerable Sirs, be united with the Sangha because a Sangha that is united, in agreement, without disputes and which recites the Patimokkha together, lives happily.\" If while being spoken to by bhikkhus thus those bhikkhus persist with that view then they should be admonished up to three times by bhikkhus in order to cause them to give up that view. If while being admonished up to three times they give up that view then that is good, but if they do not give it up then it is a sanghadisesa offence |
 
 
 > [!Info] Analisis of the rule

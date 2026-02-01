@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - "1 Admonition"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/accusations"
+  - "Accusations"
 vin_critics:
-  - "#critics/buddha-rule"
+  - "Buddha Rule"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -59,7 +59,7 @@ vin_gender-corr: "BU-SS8"
 > > [!info]-  Formulas 
 > > >If applicable from BMC1 Appendices  [[bmc1#^ch13]]
 > > 
-> > , to ask permission to speak with him: "Let the venerable one give me leave. I want to speak with you — Karotu āyasmā okāsaṃ. Ahan-taṃ vattukāmo."
+> > , to ask permission to speak with him: \"Let the venerable one give me leave. I want to speak with you — Karotu āyasmā okāsaṃ. Ahan-taṃ vattukāmo.\"
 > 
 
 
@@ -79,7 +79,7 @@ vin_gender-corr: "BU-SS8"
 > | BNI-SS8 | [[BU-SS8]] | Vin.4.223-4.242 |
 
 >[!example]- Relevant texts
->  - [[BU-SS9]], [[BU-PC12]]
+>  - BU-SS9, 12, qualified to admonish Cv 9 5.1-2, Cv 9 5.7 and Pv 15 5.3. Bu PC12, 54,68, 71, 76 asking leave Mv 2 16.1-6, BMC2, Chapter 15
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-SS8%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

@@ -11,15 +11,15 @@ vin_chapter:
   - "Surusuruvaggo"
   - "Slurping sound"
 vin_theme:
-  - "#rule_theme/food"
+  - "Food"
 vin_topic:
-  - "#rule_topic/food-eating"
+  - "Food eating"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/differ-from-laity"
+  - "Differ from laity"
 vin_severity:
-  - "#severity/wrong-doing"
+  - "Wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"

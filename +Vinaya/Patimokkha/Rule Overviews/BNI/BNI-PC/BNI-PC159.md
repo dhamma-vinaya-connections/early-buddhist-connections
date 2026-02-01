@@ -11,15 +11,15 @@ vin_chapter:
   - "16 Dhammikavaggo"
   - "16 In-accordance-with-the-Rule"
 vin_theme:
-  - "#rule_theme/properties"
+  - "Properties"
 vin_topic:
-  - "#rule_topic/sangha-properties"
+  - "Sangha properties"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -73,7 +73,7 @@ vin_gender-corr: "BU-PC81"
 > | BNI-PC159 | [[BU-PC81]] | Vin.4.258-4.345 |
 
 >[!example]- Relevant texts
->  - [[BU-PC13]]
+>  - BU-PC13 and 63; Community’s gains Cv 6 15.2, BMC2, Chapter 7 and 18
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-PC159%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

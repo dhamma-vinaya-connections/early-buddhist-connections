@@ -11,17 +11,17 @@ vin_chapter:
   - ""
   - "1 Admonition"
 vin_theme:
-  - "#rule_theme/dwelling"
+  - "Dwelling"
 vin_topic:
-  - "#rule_topic/construction"
+  - "Construction"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-1proclamation"
+  - "Motion-1proclamation"
 vin_gender: "Monks"
 vin_gender-corr: ""
 ---
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ attuddesaṃ pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ sattantarā, bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ. sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso | When a hut (kuti) is being made by a bhikkhu by his own asking, without a donor, and intended for himself then it should be made to the size limits. The size limits are twelve "sugata" spans in length (outside) and seven "sugata" spans across inside. Bhikkhus should be invited in order to appoint a site and they should appoint a site which is not dangerous and has a clearing around it. If a bhikkhu should make a hut by his own asking on a site which is dangerous and without a clearing, or should not invite bhikkhus in order to appoint a site, or should exceed the size limits, it is a sanghadisesa offence |
+| Saññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ attuddesaṃ pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ sattantarā, bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ. sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso | When a hut (kuti) is being made by a bhikkhu by his own asking, without a donor, and intended for himself then it should be made to the size limits. The size limits are twelve \"sugata\" spans in length (outside) and seven \"sugata\" spans across inside. Bhikkhus should be invited in order to appoint a site and they should appoint a site which is not dangerous and has a clearing around it. If a bhikkhu should make a hut by his own asking on a site which is dangerous and without a clearing, or should not invite bhikkhus in order to appoint a site, or should exceed the size limits, it is a sanghadisesa offence |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: ""
 > | BU-SS6 |  | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC15-17]]
+>  - AN7.21, BU-PC15-17, bmc2-18,
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-SS6%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

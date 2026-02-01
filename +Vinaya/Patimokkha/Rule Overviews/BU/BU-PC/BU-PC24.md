@@ -11,15 +11,15 @@ vin_chapter:
   - "3 Bhikkhunovāda-Vaggo"
   - "3 Instruction"
 vin_theme:
-  - "#rule_theme/speech"
+  - "Speech"
 vin_topic:
-  - "#rule_topic/teaching"
+  - "Teaching"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/regulate-relationships"
+  - "Regulate Relationships"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu evaṃ vadeyya "āmisahetu therā bhikkhū bhikkhuniyo ovadantī"ti, pācittiyaṃ | If a monk says that the senior monks are instructing the nuns for the sake of worldly gain, he commits an offense entailing confession |
+| Yo pana bhikkhu evaṃ vadeyya \"āmisahetu therā bhikkhū bhikkhuniyo ovadantī\"ti, pācittiyaṃ | If a monk says that the senior monks are instructing the nuns for the sake of worldly gain, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule

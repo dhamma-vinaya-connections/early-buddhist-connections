@@ -11,17 +11,17 @@ vin_chapter:
   - "Jātaruparajata"
   - "Gold and Silver"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/bowl"
+  - "Bowl"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-1announcement"
+  - "Motion-1announcement"
 vin_gender: "Nuns"
 vin_gender-corr: "BU-NP22"
 ---
@@ -79,7 +79,7 @@ vin_gender-corr: "BU-NP22"
 > | BNI-NP24 | [[BU-NP22]] | Vin.4.243-4.257 |
 
 >[!example]- Relevant texts
->  - [[BU-PC21]]
+>  - BU-PC21, wrong use of bowl BMC2, Chapter 3
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-NP24%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

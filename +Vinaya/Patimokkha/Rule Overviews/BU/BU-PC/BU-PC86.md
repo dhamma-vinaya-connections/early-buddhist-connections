@@ -11,15 +11,15 @@ vin_chapter:
   - "9 Ratana-Vaggo"
   - "9 Valuables"
 vin_theme:
-  - "#rule_theme/properties"
+  - "Properties"
 vin_topic:
-  - "#rule_topic/sewing"
+  - "Sewing"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-PC162"
 > | BU-PC86 | [[BNI-PC162]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC60]]
+>  - Bu Np 22, BU-PC60
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC86%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

@@ -11,17 +11,17 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/sangha-act"
+  - "Sangha act"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-3proclamation"
+  - "Motion-3proclamation"
 vin_gender: "Nuns"
 vin_gender-corr: ""
 ---
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Parikuppā: Yā pana bhikkhunī kupitā anattamanā evaṃ vadeyya: “Buddhaṃ paccakkhāmi, Dhammaṃ paccakkhāmi... Sikkhā paccakkhāmi... na bhabba samaṇiyo Sakyaputtiyā”... saṅghādisesaṃ. | 10. Renouncing the Training in Anger: Should any bhikkhunī, angry and displeased, say: "I renounce the Buddha... I renounce the Training... I am no longer a bhikkhunī"... she commits a Saṅghādisesa offense. |
+| Parikuppā: Yā pana bhikkhunī kupitā anattamanā evaṃ vadeyya: “Buddhaṃ paccakkhāmi, Dhammaṃ paccakkhāmi... Sikkhā paccakkhāmi... na bhabba samaṇiyo Sakyaputtiyā”... saṅghādisesaṃ. | 10. Renouncing the Training in Anger: Should any bhikkhunī, angry and displeased, say: \"I renounce the Buddha... I renounce the Training... I am no longer a bhikkhunī\"... she commits a Saṅghādisesa offense. |
 
 
 > [!Info] Analisis of the rule

@@ -11,15 +11,15 @@ vin_chapter:
   - "8 Saha-Dhammika-Vaggo"
   - "8 Legitimate Correction"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/self-restraint"
+  - "Self restraint"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC149"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya "na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī"ti, pācittiyaṃ. sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci | If a monk, when legitimately corrected by the monks, says, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law,” he commits an offense entailing confession. A monk who is training should understand, should question, should enquire. This is the proper procedure |
+| Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya \"na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī\"ti, pācittiyaṃ. sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci | If a monk, when legitimately corrected by the monks, says, “I won’t practice this training rule until I’ve questioned a monk who is an expert on the Monastic Law,” he commits an offense entailing confession. A monk who is training should understand, should question, should enquire. This is the proper procedure |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-PC149"
 > | BU-PC71 | [[BNI-PC149]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC54]]
+>  - BU-PC54
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC71%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

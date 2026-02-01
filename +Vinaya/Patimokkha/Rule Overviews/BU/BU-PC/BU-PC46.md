@@ -11,15 +11,15 @@ vin_chapter:
   - "5 Acelaka-Vaggo"
   - "5 Ascetics"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/invitations"
+  - "Invitations"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/differ-from-laity"
+  - "Differ from laity"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-PC127"
 > | BU-PC46 | [[BNI-PC127]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC85]]
+>  - BU-PC85. Taking leave Mv 1 25.24; 2 21.1
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC46%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

@@ -11,15 +11,15 @@ vin_chapter:
   - "Kathinavagga"
   - "Robes"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-NP19"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Bhikkhuṃ paneva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti "imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā"ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya "sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubhova santā ekenā"ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ | Now, if separate robe-funds have been set up for a bhikkhu by both unrelated male householders or female householders [thinking]: “Having traded these separate robe-funds for separate robes, we shall clothe the bhikkhu named so and so with robes,” and then if that bhikkhu, previously uninvited, having approached [the householders], should make a suggestion about the robe [saying}: “It would be good indeed, Sirs, [if you] having traded these separate robe-funds for a such and such a robe, were to clothe me [with a robe], [you] both being one [donor],” [if the suggestion is made] out of a liking for what is fine, [this is a case] involving relinquishment with confession |
+| Bhikkhuṃ paneva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti \"imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā\"ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya \"sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubhova santā ekenā\"ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ | Now, if separate robe-funds have been set up for a bhikkhu by both unrelated male householders or female householders [thinking]: “Having traded these separate robe-funds for separate robes, we shall clothe the bhikkhu named so and so with robes,” and then if that bhikkhu, previously uninvited, having approached [the householders], should make a suggestion about the robe [saying}: “It would be good indeed, Sirs, [if you] having traded these separate robe-funds for a such and such a robe, were to clothe me [with a robe], [you] both being one [donor],” [if the suggestion is made] out of a liking for what is fine, [this is a case] involving relinquishment with confession |
 
 
 > [!Info] Analisis of the rule
@@ -44,7 +44,7 @@ vin_gender-corr: "BNI-NP19"
 > > 
 > > > From BMC1
 > > 
-> > 1 Object. The texts mention only that this rule concerns funds for a robe (cīvara) would probably mean a finished robe. 2 Intention. One wants to get a better robe than the lay person is planning to buy. "better quality, higher price." 3 Effort. One asks the two donors to put their funds together to purchase one robe.. 4 Result. One gets the long, broad, etc., robe that the householder bought in line with one's request
+> > 1 Object. The texts mention only that this rule concerns funds for a robe (cīvara) would probably mean a finished robe. 2 Intention. One wants to get a better robe than the lay person is planning to buy. \"better quality, higher price.\" 3 Effort. One asks the two donors to put their funds together to purchase one robe.. 4 Result. One gets the long, broad, etc., robe that the householder bought in line with one's request
 > 
 > > [!info]- No Offence 
 > > > From Vibhanga

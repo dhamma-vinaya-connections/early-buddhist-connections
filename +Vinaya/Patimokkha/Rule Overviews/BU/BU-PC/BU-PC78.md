@@ -11,15 +11,15 @@ vin_chapter:
   - "8 Saha-Dhammika-Vaggo"
   - "8 Legitimate Correction"
 vin_theme:
-  - "#rule_theme/harmful"
+  - "Harmful"
 vin_topic:
-  - "#rule_topic/aggressions"
+  - "Aggressions"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC156"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya "yaṃ ime bhaṇissanti, taṃ sossāmī"ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ | If a monk eavesdrops on monks who are arguing and disputing, thinking, “I’ll hear what they say,” and he does so only for this reason and no other, he commits an offense entailing confession |
+| Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya \"yaṃ ime bhaṇissanti, taṃ sossāmī\"ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ | If a monk eavesdrops on monks who are arguing and disputing, thinking, “I’ll hear what they say,” and he does so only for this reason and no other, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule

@@ -11,15 +11,15 @@ vin_chapter:
   - "5 Acelaka-Vaggo"
   - "5 Ascetics"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/dismiss"
+  - "Dismiss"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC123"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu bhikkhuṃ "ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā"ti tassa dāpetvā vā adāpetvā vā uyyojeyya "gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī"ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ | If a monk says to a monk, “Come, let’s go to the village or town for alms,” and then, whether he has had food given to him or not, sends him away, saying, “Go away, I’m not comfortable talking or sitting with you, but only if I talk and sit by myself,” and he does so only for this reason and no other, he commits an offense entailing confession.’ |
+| Yo pana bhikkhu bhikkhuṃ \"ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā\"ti tassa dāpetvā vā adāpetvā vā uyyojeyya \"gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī\"ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ | If a monk says to a monk, “Come, let’s go to the village or town for alms,” and then, whether he has had food given to him or not, sends him away, saying, “Go away, I’m not comfortable talking or sitting with you, but only if I talk and sit by myself,” and he does so only for this reason and no other, he commits an offense entailing confession.’ |
 
 
 > [!Info] Analisis of the rule

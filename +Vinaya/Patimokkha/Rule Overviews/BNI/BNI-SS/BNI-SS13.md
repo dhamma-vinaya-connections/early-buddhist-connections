@@ -11,17 +11,17 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/sangha-act"
+  - "Sangha act"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-3proclamation"
+  - "Motion-3proclamation"
 vin_gender: "Nuns"
 vin_gender-corr: ""
 ---
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Dutiya-samsaṭṭhā: Tā ca bhikkhuniyo... evaṃ vadeyyuṃ: “Mā kho, ayye, tāsaṃ bhikkhunīnaṃ avannā vā anavannā vā...” (Specific refusal to be admonished on association). | 13. Admonishing on Association: Should a bhikkhunī, being admonished regarding the rule of association (above), persist in saying "Do not speak to us"... she commits a Saṅghādisesa offense. |
+| Dutiya-samsaṭṭhā: Tā ca bhikkhuniyo... evaṃ vadeyyuṃ: “Mā kho, ayye, tāsaṃ bhikkhunīnaṃ avannā vā anavannā vā...” (Specific refusal to be admonished on association). | 13. Admonishing on Association: Should a bhikkhunī, being admonished regarding the rule of association (above), persist in saying \"Do not speak to us\"... she commits a Saṅghādisesa offense. |
 
 
 > [!Info] Analisis of the rule

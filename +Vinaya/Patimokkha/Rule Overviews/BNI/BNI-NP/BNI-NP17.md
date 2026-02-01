@@ -11,15 +11,15 @@ vin_chapter:
   - "Jātarūparajata"
   - "Robes"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -59,7 +59,7 @@ vin_gender-corr: "BU-NP7"
 > > [!info]-  Formulas 
 > > >If applicable from BMC1 Appendices  [[bmc1#^ch13]]
 > > 
-> > Idaṃ me bhante cīvaraṃ aññātakaṃ gahapatikaṃ tad'uttariṃ viññāpitaṃ nissaggiyaṃ. Imāhaṃ āyasmato nissajjāmi, which means, "This robe (robe-cloth) of mine, venerable sir, requested beyond that (allowable) from an unrelated householder, is to be forfeited. I forfeit it to you." For more than one robe: Imāni me bhante cīvarāni aññātakaṃ gahapatikaṃ tad'uttariṃ viññāpitāni nissaggiyāni. Imānāhaṃ āyasmato nissajjāmi
+> > Idaṃ me bhante cīvaraṃ aññātakaṃ gahapatikaṃ tad'uttariṃ viññāpitaṃ nissaggiyaṃ. Imāhaṃ āyasmato nissajjāmi, which means, \"This robe (robe-cloth) of mine, venerable sir, requested beyond that (allowable) from an unrelated householder, is to be forfeited. I forfeit it to you.\" For more than one robe: Imāni me bhante cīvarāni aññātakaṃ gahapatikaṃ tad'uttariṃ viññāpitāni nissaggiyāni. Imānāhaṃ āyasmato nissajjāmi
 > 
 
 

@@ -11,15 +11,15 @@ vin_chapter:
   - "10 Musāvāda-Vaggo"
   - "10 Lies"
 vin_theme:
-  - "#rule_theme/speech"
+  - "Speech"
 vin_topic:
-  - "#rule_topic/disclose"
+  - "Disclose"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -79,7 +79,7 @@ vin_gender-corr: "BU-PC9"
 > | BNI-PC105 | [[BU-PC9]] | Vin.4.258-4.345 |
 
 >[!example]- Relevant texts
->  - [[BU-PC13]]
+>  - BU-PC13
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-PC105%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

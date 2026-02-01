@@ -11,15 +11,15 @@ vin_chapter:
   - "4 Tuvaṭṭavaggo"
   - "4 Sharing"
 vin_theme:
-  - "#rule_theme/travel"
+  - "Travel"
 vin_topic:
-  - "#rule_topic/wandering"
+  - "Wandering"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"

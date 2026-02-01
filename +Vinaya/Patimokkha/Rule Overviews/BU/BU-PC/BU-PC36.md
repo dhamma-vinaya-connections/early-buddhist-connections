@@ -11,15 +11,15 @@ vin_chapter:
   - "4 Bhojana-Vaggo"
   - "4 Food"
 vin_theme:
-  - "#rule_theme/food"
+  - "Food"
 vin_topic:
-  - "#rule_topic/food-receiving"
+  - "Food receiving"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreyya "handa bhikkhu khāda vā bhuñja vā"ti jānaṃ āsādanāpekkho, bhuttasmiṃ pācittiyaṃ | If a monk invites a monk, whom he knows has finished his meal and refused an invitation to eat more, to eat fresh or cooked food that is not left over, saying, “Here, monk, eat,” aiming to criticize him, then when the other has eaten, he commits an offense entailing confession |
+| Yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreyya \"handa bhikkhu khāda vā bhuñja vā\"ti jānaṃ āsādanāpekkho, bhuttasmiṃ pācittiyaṃ | If a monk invites a monk, whom he knows has finished his meal and refused an invitation to eat more, to eat fresh or cooked food that is not left over, saying, “Here, monk, eat,” aiming to criticize him, then when the other has eaten, he commits an offense entailing confession |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: ""
 > | BU-PC36 |  | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC35]]
+>  - BU-PC35
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC36%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/food"
+  - "Food"
 vin_topic:
-  - "#rule_topic/food-receiving"
+  - "Food receiving"
 vin_critics:
-  - "#critics/bhikkhunis"
+  - "Bhikkhunis"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -35,7 +35,7 @@ vin_gender-corr: ""
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Avassutapaṭiggahāpanā: Yā pana bhikkhunī evaṃ vadeyya: “Kiṃ te, ayye, eso purisa puggalo karissati avassuto vā anavassuto vā... yato tvaṃ anavassutā. Iṅgha, ayye, yaṃ te eso purisapuggalo deti... taṃ sahatthā paṭiggahetvā khādāhi vā bhuñjāhi vā”ti... saṅghādisesaṃ. | 6. Encouraging Consent: Should any bhikkhunī urge another bhikkhunī: "Take whatever this man gives you... what does it matter if he is lustful?"... she commits a Saṅghādisesa offense. |
+| Avassutapaṭiggahāpanā: Yā pana bhikkhunī evaṃ vadeyya: “Kiṃ te, ayye, eso purisa puggalo karissati avassuto vā anavassuto vā... yato tvaṃ anavassutā. Iṅgha, ayye, yaṃ te eso purisapuggalo deti... taṃ sahatthā paṭiggahetvā khādāhi vā bhuñjāhi vā”ti... saṅghādisesaṃ. | 6. Encouraging Consent: Should any bhikkhunī urge another bhikkhunī: \"Take whatever this man gives you... what does it matter if he is lustful?\"... she commits a Saṅghādisesa offense. |
 
 
 > [!Info] Analisis of the rule

@@ -11,17 +11,17 @@ vin_chapter:
   - ""
   - "3 Admonitions"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/schism"
+  - "Schism"
 vin_critics:
-  - "#critics/buddha-rule"
+  - "Buddha Rule"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-3proclamation"
+  - "Motion-3proclamation"
 vin_gender: "Monks"
 vin_gender-corr: "BNI-SS14"
 ---
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-SS14"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo "māyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi, sametāyasmā saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī"ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso | Whatever bhikkhu who makes an effort to produce a schism of the Sangha when it is in unity and having taken up a view that would lead to schism in the Sangha should support and persist with it then that bhikkhu should be spoken to by bhikkhus saying: "Venerable Sir, do not make an effort to produce a schism of the Sangha when it is in unity, or take up, support or persist with a view that would lead to schism in the Sangha. Be united with the Sangha, Venerable Sir, because a Sangha that is united, in agreement, without disputes and which recites the Patimokkha together, lives happily." If while being spoken to by bhikkhus thus that bhikkhu persists with that view then he should be admonished up to three times by bhikkhus in order to cause him to give up that view. If while being admonished up to three times he gives up that view then that is good, but if he does not give it up then it is a sanghadisesa offence |
+| Yo pana bhikkhu samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo \"māyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi, sametāyasmā saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī\"ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso | Whatever bhikkhu who makes an effort to produce a schism of the Sangha when it is in unity and having taken up a view that would lead to schism in the Sangha should support and persist with it then that bhikkhu should be spoken to by bhikkhus saying: \"Venerable Sir, do not make an effort to produce a schism of the Sangha when it is in unity, or take up, support or persist with a view that would lead to schism in the Sangha. Be united with the Sangha, Venerable Sir, because a Sangha that is united, in agreement, without disputes and which recites the Patimokkha together, lives happily.\" If while being spoken to by bhikkhus thus that bhikkhu persists with that view then he should be admonished up to three times by bhikkhus in order to cause him to give up that view. If while being admonished up to three times he gives up that view then that is good, but if he does not give it up then it is a sanghadisesa offence |
 
 
 > [!Info] Analisis of the rule

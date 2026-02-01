@@ -11,15 +11,15 @@ vin_chapter:
   - "Jātarūparajata"
   - "Robes"
 vin_theme:
-  - "#rule_theme/requisites"
+  - "Requisites"
 vin_topic:
-  - "#rule_topic/robes"
+  - "Robes"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/easy-to-support"
+  - "Easy to support"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -54,7 +54,7 @@ vin_gender-corr: "BU-NP10"
 > > [!info]- Useful Notes
 > > > From various authors
 > > 
-> > The purpose of the protocols is to free bhikkhus from the even more bothersome worries and complexities that come with participating in buying, selling, and monetary matters in general. If a bhikkhu follows the protocols recommended here, the money placed with the steward still belongs to the donor, and the responsibility for making a fair trade lies with the steward. Important that he not abuse the steward's services. One may say only, "I need a robe (or whatever the requisite may be), Not "Give me a robe," "Get me a robe," "Buy me a robe. To apply the protocols where the steward is indicated by the bhikkhu, by the donor, or by neither . For Sangha an acceptable phrased "This is for the purpose of the four requisites," or "Accept whatever is allowable coming from this," without mentioning the Saṅgha or any bhikkhu. But not "I'm giving this to the Saṅgha," for whatever the purpose, the gift may not be accepted. For donation boxes "The donation box is over there," but not, "Put it there." If checking account is set up for impersonal purposes such as the construction and upkeep of monastery buildings, a bhikkhu may not sign a check drawing on the account. A fund has been set up for a particular requisite, it should as a general principle be used to buy only that requisite
+> > The purpose of the protocols is to free bhikkhus from the even more bothersome worries and complexities that come with participating in buying, selling, and monetary matters in general. If a bhikkhu follows the protocols recommended here, the money placed with the steward still belongs to the donor, and the responsibility for making a fair trade lies with the steward. Important that he not abuse the steward's services. One may say only, \"I need a robe (or whatever the requisite may be), Not \"Give me a robe,\" \"Get me a robe,\" \"Buy me a robe. To apply the protocols where the steward is indicated by the bhikkhu, by the donor, or by neither . For Sangha an acceptable phrased \"This is for the purpose of the four requisites,\" or \"Accept whatever is allowable coming from this,\" without mentioning the Saṅgha or any bhikkhu. But not \"I'm giving this to the Saṅgha,\" for whatever the purpose, the gift may not be accepted. For donation boxes \"The donation box is over there,\" but not, \"Put it there.\" If checking account is set up for impersonal purposes such as the construction and upkeep of monastery buildings, a bhikkhu may not sign a check drawing on the account. A fund has been set up for a particular requisite, it should as a general principle be used to buy only that requisite
 > 
 > > [!info]-  Formulas 
 > > >If applicable from BMC1 Appendices  [[bmc1#^ch13]]
@@ -79,7 +79,7 @@ vin_gender-corr: "BU-NP10"
 > | BNI-NP20 | [[BU-NP10]] | Vin.4.243-4.257 |
 
 >[!example]- Relevant texts
->  - [[BU-PC84]]
+>  - AN4.28, Bu NP 18, 19, & 20. BU-PC84. Mv 6 34.21 Meṇḍaka Allowance
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-NP20%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

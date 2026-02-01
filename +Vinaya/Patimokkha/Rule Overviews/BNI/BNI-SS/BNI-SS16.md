@@ -11,17 +11,17 @@ vin_chapter:
   - ""
   - "3 Admonitions"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/admonish"
+  - "Admonish"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
-  - "#sangha_acts/motion-3proclamation"
+  - "Motion-3proclamation"
 vin_gender: "Nuns"
 vin_gender-corr: "BU-SS12"
 ---
@@ -35,7 +35,7 @@ vin_gender-corr: "BU-SS12"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Dubbacā: Yā pana bhikkhunī... dubbacajātikaṃ attānaṃ kareyya... saṅghādisesaṃ. | 16. Difficult to Admonish: Should any bhikkhunī make herself difficult to admonish ("Dubbaca"), refusing to accept valid criticism... after being admonished three times... she commits a Saṅghādisesa offense. |
+| Dubbacā: Yā pana bhikkhunī... dubbacajātikaṃ attānaṃ kareyya... saṅghādisesaṃ. | 16. Difficult to Admonish: Should any bhikkhunī make herself difficult to admonish (\"Dubbaca\"), refusing to accept valid criticism... after being admonished three times... she commits a Saṅghādisesa offense. |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: "BU-SS12"
 > | BNI-SS16 | [[BU-SS12]] | Vin.4.223-4.242 |
 
 >[!example]- Relevant texts
->  - [[BU-PC12]]
+>  - BU-PC12, 54, 71. Banishment Cv 1 .13 — see BMC2, Chapter 20
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-SS16%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

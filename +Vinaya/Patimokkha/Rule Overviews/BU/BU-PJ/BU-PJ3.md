@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - ""
 vin_theme:
-  - "#rule_theme/harmful"
+  - "Harmful"
 vin_topic:
-  - "#rule_topic/kill-harm"
+  - "Kill / harm"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/self-restraint"
+  - "Self restraint"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PJ3"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ vāssa pariyeseyya, maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya "ambho purisa kiṃ tuyhiminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo"ti, iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya, ayampi pārājiko hoti asaṃvāso | Whatever bhikkhu should intentionally take the life of a human being, or provide poison or a lethal weapon (for that purpose), or praise the benefits of dying or show a method in order to cause or enable a person to commit suicide saying, "Sir, what is the use of living this miserable and painful life? Death would be better than living like this," or with this purpose and intention in mind should by any other way praise the benefits of dying or show a method in order to cause or enable a person to commit suicide, then that bhikkhu is one who has committed a parajika offence and one who is no longer permitted to remain in the bhikkhu sangha |
+| Yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ vāssa pariyeseyya, maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya \"ambho purisa kiṃ tuyhiminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo\"ti, iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya, ayampi pārājiko hoti asaṃvāso | Whatever bhikkhu should intentionally take the life of a human being, or provide poison or a lethal weapon (for that purpose), or praise the benefits of dying or show a method in order to cause or enable a person to commit suicide saying, \"Sir, what is the use of living this miserable and painful life? Death would be better than living like this,\" or with this purpose and intention in mind should by any other way praise the benefits of dying or show a method in order to cause or enable a person to commit suicide, then that bhikkhu is one who has committed a parajika offence and one who is no longer permitted to remain in the bhikkhu sangha |
 
 
 > [!Info] Analisis of the rule
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-PJ3"
 > | BU-PJ3 | [[BNI-PJ3]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC65]]
+>  - DN 15, BU-PC65, advice on how to encourage patients facing death. MN 143, SN36.7, SN55.54, and AN6.16 Arahant suicide SN4.23,
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PJ3%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

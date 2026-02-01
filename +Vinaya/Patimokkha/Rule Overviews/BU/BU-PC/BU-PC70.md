@@ -11,15 +11,15 @@ vin_chapter:
   - "7 Sappāṇaka-Vaggo"
   - "7 Animals"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/sangha-act"
+  - "Sangha act"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-PC148"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Samaṇuddesopi ce evaṃ vadeyya "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā"ti, so samaṇuddeso bhikkhūhi evamassa vacanīyo "māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā"ti, evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evamassa vacanīyo "ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā"ti. yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ | Also if a novice monastic says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the monks should correct him like this: “No, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that novice monastic continues as before, he should be told: “From today on you may not refer to the Buddha as your teacher. And you can no longer share a sleeping place with the monks for two or three nights, as can other novice monastics. Go! Away with you!” If a monk befriends that novice monastic, or he is attended on by him, lives with him, or shares a sleeping place with him, even though he knows that he has been expelled in this way, he commits an offense entailing confession.’” |
+| Samaṇuddesopi ce evaṃ vadeyya \"tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā\"ti, so samaṇuddeso bhikkhūhi evamassa vacanīyo \"māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā\"ti, evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evamassa vacanīyo \"ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā\"ti. yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ | Also if a novice monastic says, “As I understand the Buddha’s Teaching, the things he calls obstacles are unable to obstruct one who indulges in them,” then the monks should correct him like this: “No, don’t misrepresent the Buddha, for it’s not good to misrepresent the Buddha. The Buddha would never say such a thing. In many discourses the Buddha has declared the obstacles to be obstructive and how they obstruct one who indulges in them.” If that novice monastic continues as before, he should be told: “From today on you may not refer to the Buddha as your teacher. And you can no longer share a sleeping place with the monks for two or three nights, as can other novice monastics. Go! Away with you!” If a monk befriends that novice monastic, or he is attended on by him, lives with him, or shares a sleeping place with him, even though he knows that he has been expelled in this way, he commits an offense entailing confession.’” |
 
 
 > [!Info] Analisis of the rule
@@ -79,7 +79,7 @@ vin_gender-corr: "BNI-PC148"
 > | BU-PC70 | [[BNI-PC148]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-PC68-69]]
+>  - BU-PC68-69. Mv 1 57-60 expelling a novice BMC2, Chapter 14
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-PC70%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

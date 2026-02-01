@@ -11,15 +11,15 @@ vin_chapter:
   - "15 Diṭṭhivaggo"
   - "15 Views"
 vin_theme:
-  - "#rule_theme/discipline"
+  - "Discipline"
 vin_topic:
-  - "#rule_topic/self-restraint"
+  - "Self restraint"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -35,7 +35,7 @@ vin_gender-corr: "BU-PC72"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Vilekhana: Yā pana bhikkhunī pātimokkhe uddissamāne evaṁ vadeyya: "Kiṁ panimehi khuddānukhuddakehi...", pācittiyaṁ. | 150. Criticizing Rules: Should any bhikkhunī... say "Why are these lesser and minor rules recited...?", it is to be confessed. |
+| Vilekhana: Yā pana bhikkhunī pātimokkhe uddissamāne evaṁ vadeyya: \"Kiṁ panimehi khuddānukhuddakehi...\", pācittiyaṁ. | 150. Criticizing Rules: Should any bhikkhunī... say \"Why are these lesser and minor rules recited...?\", it is to be confessed. |
 
 
 > [!Info] Analisis of the rule

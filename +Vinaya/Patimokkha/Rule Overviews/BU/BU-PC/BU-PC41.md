@@ -11,15 +11,15 @@ vin_chapter:
   - "5 Acelaka-Vaggo"
   - "5 Ascetics"
 vin_theme:
-  - "#rule_theme/food"
+  - "Food"
 vin_topic:
-  - "#rule_topic/food-giving"
+  - "Food giving"
 vin_critics:
-  - "#critics/laity"
+  - "Laity"
 vin_purpose:
-  - "#purpose/faith-foster"
+  - "Faith foster"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -54,7 +54,7 @@ vin_gender-corr: ""
 > > [!info]- Useful Notes
 > > > From various authors
 > > 
-> > Lay followers complain: "adherents of other religions enjoy criticizing the Buddha, Dhamma… and Saṅgha. It would be good if the masters did not give to adherents of other religions with their own hands.”
+> > Lay followers complain: \"adherents of other religions enjoy criticizing the Buddha, Dhamma… and Saṅgha. It would be good if the masters did not give to adherents of other religions with their own hands.”
 > 
 > 
 ---

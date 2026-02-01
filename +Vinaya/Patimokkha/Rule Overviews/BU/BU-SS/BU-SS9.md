@@ -11,15 +11,15 @@ vin_chapter:
   - ""
   - "1 Admonition"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/accusations"
+  - "Accusations"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/full-grave-offense-wrong-doing"
+  - "Full/ grave offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Monks"
@@ -35,7 +35,7 @@ vin_gender-corr: "BNI-SS9"
 
 | Rule in Pali  | Rule in English  |
 | :-----------: | :--------------: |
-| Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñcidesaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya "appeva nāma naṃ imamhā brahmacariyā cāveyya"nti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā aññabhāgiyañceva taṃ adhikaraṇaṃ hoti kocideso lesamatto upādinno, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso | Whatever bhikkhu being angry, vengeful, and displeased should by using some point of likeness with another thing as the only basis accuse another bhikkhu of committing a parajika offence thinking, "Perhaps this will cause him to fall from the life of a bhikkhu," and if after that at another time he is questioned or if he is not questioned that accusation is found to be based only on some point of likeness with another thing and he admits his fault then he has committed a sanghadisesa offence |
+| Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñcidesaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya \"appeva nāma naṃ imamhā brahmacariyā cāveyya\"nti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā aññabhāgiyañceva taṃ adhikaraṇaṃ hoti kocideso lesamatto upādinno, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso | Whatever bhikkhu being angry, vengeful, and displeased should by using some point of likeness with another thing as the only basis accuse another bhikkhu of committing a parajika offence thinking, \"Perhaps this will cause him to fall from the life of a bhikkhu,\" and if after that at another time he is questioned or if he is not questioned that accusation is found to be based only on some point of likeness with another thing and he admits his fault then he has committed a sanghadisesa offence |
 
 
 > [!Info] Analisis of the rule
@@ -54,7 +54,7 @@ vin_gender-corr: "BNI-SS9"
 > > [!info]- Useful Notes
 > > > From various authors
 > > 
-> > One has seen an action that would be an offense if committed by a bhikkhu, and one does not change the status of the evidence, but one distorts the facts of the case. Some ploys may be: "same person, different offense or same offense, different person. explanations for this rule are exactly the same as those for the preceding rule
+> > One has seen an action that would be an offense if committed by a bhikkhu, and one does not change the status of the evidence, but one distorts the facts of the case. Some ploys may be: \"same person, different offense or same offense, different person. explanations for this rule are exactly the same as those for the preceding rule
 > 
 > 
 ---
@@ -73,7 +73,7 @@ vin_gender-corr: "BNI-SS9"
 > | BU-SS9 | [[BNI-SS9]] | Vin.3.1–3.40 |
 
 >[!example]- Relevant texts
->  - [[BU-SS8]]
+>  - BU-SS8
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBU-SS9%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 

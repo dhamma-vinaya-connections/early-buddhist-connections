@@ -11,15 +11,15 @@ vin_chapter:
   - "15 Diṭṭhivaggo"
   - "15 Views"
 vin_theme:
-  - "#rule_theme/harmony"
+  - "Harmony"
 vin_topic:
-  - "#rule_topic/sangha-act"
+  - "Sangha act"
 vin_critics:
-  - "#critics/bhikkhus"
+  - "Bhikkhus"
 vin_purpose:
-  - "#purpose/sangha-harmony"
+  - "Sangha harmony"
 vin_severity:
-  - "#severity/offense-wrong-doing"
+  - "Offense/ wrong doing"
 vin_sangha_acts:
   - ""
 vin_gender: "Nuns"
@@ -79,7 +79,7 @@ vin_gender-corr: "BU-PC70"
 > | BNI-PC148 | [[BU-PC70]] | Vin.4.258-4.345 |
 
 >[!example]- Relevant texts
->  - [[BU-PC68-69]]
+>  - BU-PC68-69. Mv 1 57-60 expelling a novice BMC2, Chapter 14
 
 > [!example]- [🔍Community contributions](obsidian://search?query=%22%5B%5BBNI-PC148%5D%5D%22%20%5Bcontribution%5D%20-%5Bcontribution%3Aindex%5D%20OR%20%22%5B%5B%5D%5D%22%20%5Bauthor%5D%20-%5Bcontribution%3Aindex%5D) linked to this rule
 > 
