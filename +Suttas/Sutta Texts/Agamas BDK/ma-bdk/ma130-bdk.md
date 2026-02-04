@@ -8,7 +8,7 @@ language: "English"
 ---
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA130]]
-> ◄  [[ma129-bdk]] 📜  [[ma132]] ►
+> ◄  [[ma129-bdk]] 📜  [[ma132-bdk]] ►
 
 ### 130. The Discourse on  Teaching Dhammika
 
@@ -51,4 +51,4 @@ Anyone who might deride, condemn, or attack him Would be committing an even more
 > - [[AN3.61]], [[AN3.99]], [[AN7.62]], [[MA13]], [[SN35.145]], [[SN36.21]], [[SN42.11]], [[SN42.8]]
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA130]]
-> ◄  [[ma129-bdk]] 📜  [[ma132]] ►
+> ◄  [[ma129-bdk]] 📜  [[ma132-bdk]] ►

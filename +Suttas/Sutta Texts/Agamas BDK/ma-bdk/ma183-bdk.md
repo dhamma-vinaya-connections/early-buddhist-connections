@@ -8,7 +8,7 @@ language: "English"
 ---
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA183]]
-> ◄  [[ma180]] 📜  [[ma184-bdk]] ►
+> ◄  [[ma180-bdk]] 📜  [[ma184-bdk]] ►
 
 ### 183. The Discourse at Assapura (2)
 
@@ -45,4 +45,4 @@ What is a noble one? It is one who is far removed from all evil and unwholesome 
 > - [[MN15]]
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA183]]
-> ◄  [[ma180]] 📜  [[ma184-bdk]] ►
+> ◄  [[ma180-bdk]] 📜  [[ma184-bdk]] ►

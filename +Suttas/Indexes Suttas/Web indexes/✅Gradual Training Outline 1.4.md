@@ -37,10 +37,10 @@ tags:
 	- [[DN10]] After Buddha parinibbana Ānanda explains the core of his teachings
 
 - MN / MA
-	- [[MN27]] / [[MA146]] Following in the Buddha’s footprints
+	- [[MN27]] / [[ma146-bdk]] Following in the Buddha’s footprints
 	- [[MN39]] / [[MA182]] Training of real contemplatives
 	- [[MN125]] / [[MA198]] Analogy of spiritual training with elephant training
-	- [[MN107]] / [[MA144]] Comparison of the spiritual training with accountant training. W/O 3 knowledges
+	- [[MN107]] / [[ma144-bdk]] Comparison of the spiritual training with accountant training. W/O 3 knowledges
 
 - AN
 	- [[AN10.99]] Training required to go into solitude, simile of elephant and the cat
@@ -119,7 +119,7 @@ tags:
 	- [[MN89]] / [[MA213]] King Pasenadi’s praises to the Triple Gem
 	- [[MN92]] / [[SNP3.7]] Sela the brahmin praises the Buddha to see how he responds
 	- [[MN123]] / [[MA32]] / [[AN4.127]]–[[AN4.128]] Incredible qualities of the Buddha
-	- [[MA137]] / [[AN4.23]] / [[ITI112]] Why the Buddha is called a Realized One
+	- [[ma137-bdk]] / [[AN4.23]] / [[ITI112]] Why the Buddha is called a Realized One
 
 - SN
 	- [[SN1.26]] The Buddha is the best of lights
@@ -192,7 +192,7 @@ tags:
 	- [[MN47]] / [[MA186]] How to investigate a teacher
 	- [[MN110]] A person of no integrity cannot recognize a person of integrity; only a person of integrity can recognize both
 	- [[MN113]] The Good Person – Sappurisa Sutta
-	- [[MA148]] What is suffering; how to regard good and bad friends
+	- [[ma148-bdk]] What is suffering; how to regard good and bad friends
 	- [[MA85]] True Person 真人
 	- [[MN129]] / [[MA199]] Fools and wise because of quality of the three conducts and their consequences
 
@@ -264,7 +264,7 @@ tags:
 	- [[AN3.135]] Assemblies – good friend qualities
 
 - MN / MA
-	- [[MA148]] How to see a good (waxing) and bad (waning) friend
+	- [[ma148-bdk]] How to see a good (waxing) and bad (waning) friend
 
 - SN
 	- [[SN1.53]]–[[SN1.54]] Friend – in different circumstances
@@ -509,7 +509,7 @@ tags:
 	- [[MN21]] Simile of the Saw
 	- [[MA193]] Simile of the Saw
 	- [[MA76]] At Ukkācelā 郁伽支羅
-	- [[MA160]] (Brahmavihāra-related / urgency)
+	- [[ma160-bdk]] (Brahmavihāra-related / urgency)
 
 - AN
 	- [[AN9.20]] Grades of merit
@@ -595,7 +595,7 @@ tags:
 - MN / MA
 	- [[MN13]] Gratification, dangers, and escape of sensualities, forms, feelings
 	- [[MN75]]
-	- [[MA153]] Magandiya – similes of the leper, blind man tricked about white clothes
+	- [[ma153-bdk]] Magandiya – similes of the leper, blind man tricked about white clothes
 
 - AN
 	- [[AN3.103]]–[[AN3.106]] Beings trapped because of gratification; because of dangers they want to escape; escape is possible
@@ -614,7 +614,7 @@ tags:
 
 - MN / MA
 	- [[MN82]] With Raṭṭhapāla – Raṭṭhapāla Sutta
-	- [[MA132]] To Raṭṭhapāla 賴吒何惒 – four dangers:
+	- [[ma132-bdk]] To Raṭṭhapāla 賴吒何惒 – four dangers:
 		1. Sensuality is unreliable  
 		2. Without a refuge  
 		3. Insatiable  
@@ -658,7 +658,7 @@ tags:
 
 - MA
 	- [[MA124]] Eight Obstacles 八難
-	- [[MA160]]
+	- [[ma160-bdk]]
 
 - SN
 	- [[SN4.9]]–[[SN4.10]] Life Span – Āyu
@@ -841,7 +841,7 @@ tags:
 	- [[DN2]] (virtue section)
 
 - MN / MA
-	- [[MN91]] / [[MA161]] Description of the full behavior of the Buddha
+	- [[MN91]] / [[ma161-bdk]] Description of the full behavior of the Buddha
 
 ---
 
@@ -1065,7 +1065,7 @@ tags:
 	- [[SN46.31]] Diligence causes the seven awakening factors
 
 - MA
-	- [[MA141]] All skilful qualities grounded in diligence
+	- [[ma141-bdk]] All skilful qualities grounded in diligence
 
 #### Moderate in Eating
 
@@ -1577,7 +1577,7 @@ tags:
 	- [[MN111]] One by One – Anupada
 	- [[MN64]] Simile of the baby – not externally scattered nor internally positioned
 	- [[MN138]] Analysis of a Recitation Passage – mind not distracted externally nor stuck internally nor agitated by clinging
-	- [[MA164]] Analytical Contemplation of Dharmas 分別觀法
+	- [[ma164-bdk]] Analytical Contemplation of Dharmas 分別觀法
 
 - KN / AN
 	- [[ITI94]] Examination – Upaparikkha
