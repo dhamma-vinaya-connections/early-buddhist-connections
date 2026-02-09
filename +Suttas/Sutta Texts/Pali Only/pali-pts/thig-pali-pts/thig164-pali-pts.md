@@ -23,3 +23,5 @@ kāmacchandañ ca byāpādaṃ sakkāyadiṭṭhim eva ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig164-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG164]]
+> ◄  [[thig163-pali-pts]] 📜  [[thig165-pali-pts]] ►

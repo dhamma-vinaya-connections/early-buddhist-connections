@@ -24,3 +24,5 @@ yo kāme kāmayati dukkhaṃ so kāmayati Eraka,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag92-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG92]]
+> ◄  [[thag91-pali-pts]] 📜  [[thag93-pali-pts]] ►

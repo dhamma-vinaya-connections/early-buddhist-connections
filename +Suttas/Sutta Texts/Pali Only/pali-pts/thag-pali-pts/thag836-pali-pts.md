@@ -23,3 +23,5 @@ svākkhātaṃ brahmacariyaṃ Selā 'ti bhagavā sandiṭṭhikam akālikaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag836-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG836]]
+> ◄  [[thag835-pali-pts]] 📜  [[thag837-pali-pts]] ►

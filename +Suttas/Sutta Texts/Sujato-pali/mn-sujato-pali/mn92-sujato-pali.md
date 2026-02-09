@@ -462,11 +462,12 @@ Selasuttaṁ niṭṭhitaṁ dutiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SNP3.7]] | [[EA49.6]] | M ii 146 |
+> |  | [[EA49.6]] | M ii 146 |
 > > [!check]- Partial parallels 
 > > 
-| [[SNP3.7]]; [[PLI-TV-KD6]]; [[EA49.6]]; [[ITI100]]; [[THAG16.6]]; [[SNP3.6]]; [[PE2]] |
+| [[SNP3.7]], [[PLI-TV-KD6]], [[EA49.6]], [[ITI100]], [[THAG16]].6, [[SNP3.6]], [[PE2]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN92]]
 > ◄  [[mn91-sujato-pali]] 📜  [[mn93-sujato-pali]] ►

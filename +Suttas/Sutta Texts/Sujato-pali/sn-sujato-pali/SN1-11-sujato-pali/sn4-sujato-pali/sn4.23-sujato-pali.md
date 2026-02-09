@@ -194,5 +194,6 @@ tatthevantaradhāyathāti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.87]], [[SN35.87]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.23]]
 > ◄  [[sn4.22-sujato-pali]] 📜  [[sn4.24-sujato-pali]] ►

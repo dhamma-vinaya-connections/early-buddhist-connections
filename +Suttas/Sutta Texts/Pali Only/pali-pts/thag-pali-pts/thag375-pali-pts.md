@@ -23,3 +23,5 @@ mama saṃkappam aññāya codesi narasārathi,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag375-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG375]]
+> ◄  [[thag374-pali-pts]] 📜  [[thag376-pali-pts]] ►

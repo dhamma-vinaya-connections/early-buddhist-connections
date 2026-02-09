@@ -66,5 +66,6 @@ Then that bhikkhu, having received almsfood at the residence of the householder 
 | [[MA38]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.21]]
 > ◄  [[an8.20-bodhi]] 📜  [[an8.22-bodhi]] ►

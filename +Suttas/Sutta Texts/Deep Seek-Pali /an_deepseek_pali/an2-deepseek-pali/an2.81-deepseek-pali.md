@@ -21,3 +21,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.81-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.81]]
+> ◄  [[an2.80-deepseek-pali]] 📜  [[an2.82-deepseek-pali]] ►

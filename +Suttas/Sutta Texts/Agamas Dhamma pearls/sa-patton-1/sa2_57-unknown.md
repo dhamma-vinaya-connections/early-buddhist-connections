@@ -47,3 +47,5 @@ Rāhula then rejoiced and was gladdened by what the Buddha taught. He bowed to t
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_57-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_57]]
+> ◄  [[SA2_49-56]] 📜  [[SA2_58-74]] ►

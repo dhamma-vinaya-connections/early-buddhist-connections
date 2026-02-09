@@ -25,3 +25,5 @@ paṭikkosati dummedho diṭṭhiṃ nissāya pāpikaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp163-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP163]]
+> ◄  [[dhp162-pali-pts]] 📜  [[dhp164-pali-pts]] ►

@@ -282,5 +282,6 @@ Just as, young man, if there were a lake of water in a mountain cleft, clear, se
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
 > ◄  [[dn9-deepseek-pali]] 📜  [[dn11-deepseek-pali]] ►

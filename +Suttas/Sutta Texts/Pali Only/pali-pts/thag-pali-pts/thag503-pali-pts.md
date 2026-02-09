@@ -22,3 +22,5 @@ guttadvāro sadā bhikkhu evaṃ pecca na socati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag503-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG503]]
+> ◄  [[thag502-pali-pts]] 📜  [[thag504-pali-pts]] ►

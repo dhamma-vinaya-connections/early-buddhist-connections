@@ -41,5 +41,6 @@ Nivutaṁ taṁ maññe akissavan"ti.
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.8]]
 > ◄  [[sn6.7-pali-sc]] 📜  [[sn6.9-pali-sc]] ►

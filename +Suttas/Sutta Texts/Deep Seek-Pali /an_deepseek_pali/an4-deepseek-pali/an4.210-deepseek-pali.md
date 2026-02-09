@@ -57,3 +57,5 @@ The training rule and the faithless one, the seven actions and the ten actions; 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.210-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.210]]
+> ◄  [[an4.209-deepseek-pali]] 📜  [[an4.211-deepseek-pali]] ►

@@ -33,3 +33,5 @@ Tiṁsatimaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.277-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.277]]
+> ◄  [[an4.276-sujato-pali]] 📜  [[an4.304-sujato-pali]] ►

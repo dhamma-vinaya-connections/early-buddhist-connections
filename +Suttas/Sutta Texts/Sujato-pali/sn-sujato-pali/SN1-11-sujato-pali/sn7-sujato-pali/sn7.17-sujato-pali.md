@@ -80,5 +80,6 @@ Eko rame aratiṁ vippahāyā"ti.
 | [[SA-2.96]], [[SA1182]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
 > ◄  [[sn7.16-sujato-pali]] 📜  [[sn7.18-sujato-pali]] ►

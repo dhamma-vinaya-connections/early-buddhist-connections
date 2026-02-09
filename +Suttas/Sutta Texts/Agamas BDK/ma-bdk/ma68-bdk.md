@@ -84,7 +84,7 @@ times as a wheel-turning monarch, and now on the seventh [occasion] as a Tathāg
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN17]] | [[DA2]] |  |
+> |  | [[DA2]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN2.8]] |
@@ -93,6 +93,7 @@ times as a wheel-turning monarch, and now on the seventh [occasion] as a Tathāg
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DA2]], [[DN26]], [[MA67]], [[MA70]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA68]]
 > ◄  [[ma67-bdk]] 📜  [[ma69-bdk]] ►

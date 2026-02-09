@@ -23,3 +23,5 @@ ajaramhi vijjamāne kin tava kāmehi ye sujarā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig510-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG510]]
+> ◄  [[thig509-pali-pts]] 📜  [[thig511-pali-pts]] ►

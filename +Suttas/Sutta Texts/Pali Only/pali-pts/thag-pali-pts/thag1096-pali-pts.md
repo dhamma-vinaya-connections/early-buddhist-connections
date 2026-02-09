@@ -23,3 +23,5 @@ kadā nu maṃ tandikhudāpipāsā vātātapā kīṭasiriṃsapā vā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1096-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1096]]
+> ◄  [[thag1095-pali-pts]] 📜  [[thag1097-pali-pts]] ►

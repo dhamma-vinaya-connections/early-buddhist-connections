@@ -36,7 +36,7 @@ sutta_audience:
   - "Devas"
 parallels_nikaya: ""
 parallels_agama: "[[SA-2.275]], [[SA1277]]"
-parallels_partilal: "[[SA-2.275]], [[SA1277]], [[JA363]], [[JA320]], [[JA380]], [[THAG3.15]], [[THAG3.3]], [[THAG5.2]], [[PLI-TV-BU-VB-PJ4]]"
+parallels_partilal: "[[SA-2.275]], [[SA1277]], [[JA363]], [[JA320]], [[JA380]], [[THAG3]].15, [[THAG3]].3, [[THAG5]].2, [[PLI-TV-BU-VB-PJ4]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.34]]  🌐 [[SN1.36]] ►
 
@@ -65,7 +65,7 @@ parallels_partilal: "[[SA-2.275]], [[SA1277]], [[JA363]], [[JA320]], [[JA380]], 
 > |  | [[SA-2.275]], [[SA1277]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.275]], [[SA1277]], [[JA363]], [[JA320]], [[JA380]], [[THAG3.15]], [[THAG3.3]], [[THAG5.2]], [[PLI-TV-BU-VB-PJ4]] |
+| [[SA-2.275]], [[SA1277]], [[JA363]], [[JA320]], [[JA380]], [[THAG3]].15, [[THAG3]].3, [[THAG5]].2, [[PLI-TV-BU-VB-PJ4]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA-2.275]], [[SA1277]], [[JA363]], [[JA320]], [[JA380]], 
 > - Sutta Central: https://suttacentral.net/sn1.35/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.35
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.35.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.34]]  🌐 [[SN1.36]] ►

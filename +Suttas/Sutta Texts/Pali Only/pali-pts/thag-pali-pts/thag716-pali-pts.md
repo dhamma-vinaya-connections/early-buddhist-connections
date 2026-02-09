@@ -23,3 +23,5 @@ tiṇakaṭṭhasamaṃ lokaṃ yadā paññāya passati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag716-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG716]]
+> ◄  [[thag715-pali-pts]] 📜  [[thag717-pali-pts]] ►

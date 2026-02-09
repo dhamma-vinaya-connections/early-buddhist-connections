@@ -89,4 +89,5 @@ good is restraint of the tongue
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp25
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp25.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP24]]  🌐 [[DHP26]] ►

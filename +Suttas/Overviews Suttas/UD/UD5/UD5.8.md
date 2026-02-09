@@ -91,4 +91,5 @@ Are led on by what they don't understand.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud5.8
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud5.8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.7]]  🌐 [[UD5.9]] ►

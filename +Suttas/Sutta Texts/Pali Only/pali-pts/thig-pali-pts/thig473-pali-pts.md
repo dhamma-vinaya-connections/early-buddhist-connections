@@ -23,3 +23,5 @@ ajjhupagacche ghātaṃ yo viññū evaṃ satthuno vacanaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig473-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG473]]
+> ◄  [[thig472-pali-pts]] 📜  [[thig474-pali-pts]] ►

@@ -95,3 +95,5 @@ The Seventeenth Chapter: Qualities That Inspire Confidence.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.230-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.230]]
+> ◄  [[an1.229-deepseek-pali]] 📜  [[an1.231-deepseek-pali]] ►

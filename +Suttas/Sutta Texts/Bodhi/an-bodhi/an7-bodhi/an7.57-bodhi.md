@@ -62,11 +62,12 @@ On one occasion the Blessed One was dwelling at Vesālī in the Great Wood in th
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.34]] | [[EA32.10]], [[EA52.6]] | A iv 79 |
+> |  | [[EA32.10]], [[EA52.6]] | A iv 79 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.34]], [[EA52.6]], [[EA32.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.57]]
 > ◄  [[an7.56-bodhi]] 📜  [[an7.58-bodhi]] ►

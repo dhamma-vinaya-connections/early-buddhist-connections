@@ -69,5 +69,6 @@ Then, on the uposatha day, those lay followers from Campā approached the Venera
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.148]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.52]]
 > ◄  [[an7.51-bodhi]] 📜  [[an7.53-bodhi]] ►

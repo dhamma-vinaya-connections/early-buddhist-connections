@@ -88,4 +88,5 @@ parallels_partilal: "[[EA39.4]], [[MA3]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.67
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.67.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.66]]  🌐 [[AN7.68]] ►

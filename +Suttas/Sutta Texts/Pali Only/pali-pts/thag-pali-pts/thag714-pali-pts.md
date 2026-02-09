@@ -23,3 +23,5 @@ na me hoti ahosin ti, bhavissan ti na hoti me;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag714-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG714]]
+> ◄  [[thag713-pali-pts]] 📜  [[thag715-pali-pts]] ►

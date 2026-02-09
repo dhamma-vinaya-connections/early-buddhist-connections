@@ -23,3 +23,5 @@ evam etaṃ mahāvīra yathā samaṇa bhāsasi,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1153-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1153]]
+> ◄  [[thag1152-pali-pts]] 📜  [[thag1154-pali-pts]] ►

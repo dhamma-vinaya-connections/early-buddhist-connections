@@ -97,4 +97,5 @@ I’m free from all bonds,
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.4.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.3]]  🌐 [[SN5.5]] ►

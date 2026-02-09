@@ -42,5 +42,6 @@ Then Māra the Evil One, realizing, “The Blessed One knows me, the Fortunate O
 | [[SA-2.27]], [[SA1088]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.11]]
 > ◄  [[sn4.10-bodhi]] 📜  [[sn4.12-bodhi]] ►

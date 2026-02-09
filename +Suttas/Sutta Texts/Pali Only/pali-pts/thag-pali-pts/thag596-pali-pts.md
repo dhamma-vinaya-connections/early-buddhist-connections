@@ -30,3 +30,5 @@ Kin tav'; attho vane tāta Ujjuhāno va pāvuse.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag596-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG596]]
+> ◄  [[thag595-pali-pts]] 📜  [[thag597-pali-pts]] ►

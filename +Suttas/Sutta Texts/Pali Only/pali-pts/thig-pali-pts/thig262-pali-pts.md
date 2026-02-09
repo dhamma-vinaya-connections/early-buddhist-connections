@@ -25,3 +25,5 @@ vaṭṭapalighasadisopamā ubho sobhate su bāhā pure mama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig262-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG262]]
+> ◄  [[thig261-pali-pts]] 📜  [[thig263-pali-pts]] ►

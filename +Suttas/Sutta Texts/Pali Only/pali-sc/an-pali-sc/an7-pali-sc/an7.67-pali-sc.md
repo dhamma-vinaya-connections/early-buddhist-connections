@@ -104,5 +104,6 @@ Tatiyaṁ.
 | [[EA39.4]], [[MA3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.67]]
 > ◄  [[an7.66-pali-sc]] 📜  [[an7.68-pali-sc]] ►

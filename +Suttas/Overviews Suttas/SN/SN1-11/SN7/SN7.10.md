@@ -92,4 +92,5 @@ That’s why this ascetic is happy
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.9]]  🌐 [[SN7.11]] ►

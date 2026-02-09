@@ -23,3 +23,5 @@ pubbalohitasampuṇṇaṃ bahussa kuṇapassa ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag735-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG735]]
+> ◄  [[thag734-pali-pts]] 📜  [[thag736-pali-pts]] ►

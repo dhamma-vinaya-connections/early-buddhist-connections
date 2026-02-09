@@ -135,7 +135,8 @@ p_2V_3180Dasamasikkhāpadaṁ niṭṭhitaṁ.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc60-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC60]] |
->|       |          | [[ñanatusita-analysis#^-PC60]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC60]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC60]]

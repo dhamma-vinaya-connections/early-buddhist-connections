@@ -23,3 +23,5 @@ ye maṃ rūpena pāmiṃsu ye ca ghosena anvagū
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag468-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG468]]
+> ◄  [[thag467-pali-pts]] 📜  [[thag469-pali-pts]] ►

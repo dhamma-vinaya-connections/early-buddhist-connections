@@ -103,4 +103,5 @@ not the eating of meat.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.2
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.1]]  🌐 [[SNP2.3]] ►

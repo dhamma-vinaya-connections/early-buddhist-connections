@@ -95,4 +95,5 @@ a widow, I found the deathless
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig10
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG9]]  🌐 [[THIG11]] ►

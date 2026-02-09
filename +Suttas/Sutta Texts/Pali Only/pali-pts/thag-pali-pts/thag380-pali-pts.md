@@ -23,3 +23,5 @@ Uruveḷakassapo thero.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag380-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG380]]
+> ◄  [[thag379-pali-pts]] 📜  [[thag381-pali-pts]] ►

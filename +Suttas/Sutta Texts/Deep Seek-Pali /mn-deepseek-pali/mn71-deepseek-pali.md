@@ -70,5 +70,6 @@ The Tevijjavacchagotta Sutta is concluded, the first.
 | [[MN14]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-deepseek-pali]] 📜  [[mn72-deepseek-pali]] ►

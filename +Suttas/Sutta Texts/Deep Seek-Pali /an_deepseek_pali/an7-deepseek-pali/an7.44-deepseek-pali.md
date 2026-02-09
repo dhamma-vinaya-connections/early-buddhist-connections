@@ -62,5 +62,6 @@ There are, monks, beings who, having entirely transcended the dimension of infin
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.48]], [[AN10.60]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.44]]
 > ◄  [[an7.43-deepseek-pali]] 📜  [[an7.45-deepseek-pali]] ►

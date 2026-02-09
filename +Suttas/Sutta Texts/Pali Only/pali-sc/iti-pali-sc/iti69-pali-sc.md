@@ -33,5 +33,10 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Paṭhamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti69-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[ITI109]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI69]]
 > ◄  [[iti68-pali-sc]] 📜  [[iti70-pali-sc]] ►

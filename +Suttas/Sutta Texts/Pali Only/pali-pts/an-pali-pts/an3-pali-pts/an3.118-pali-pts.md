@@ -33,5 +33,6 @@ Sīlasampadā-hetu vā bhikkhave sattā kāyassa bhedā param maraṇā sugati�
 | [[SA1047]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.118]]
 > ◄  [[an3.117-pali-pts]] 📜  [[an3.119-pali-pts]] ►

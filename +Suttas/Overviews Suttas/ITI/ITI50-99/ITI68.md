@@ -96,4 +96,5 @@ with no further becoming.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti68
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti68.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI67]]  🌐 [[ITI69]] ►

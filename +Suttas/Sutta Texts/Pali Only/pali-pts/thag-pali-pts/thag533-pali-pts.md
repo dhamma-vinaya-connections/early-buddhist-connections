@@ -23,3 +23,5 @@ Suddhodano nāma pitā mahesino, buddhassa mātā pana Māyanāmā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag533-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG533]]
+> ◄  [[thag532-pali-pts]] 📜  [[thag534-pali-pts]] ►

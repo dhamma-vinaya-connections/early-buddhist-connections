@@ -61,5 +61,6 @@ Then the brahmin Jāṇussoṇī approached the Blessed One and exchanged greeti
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[ITI30]], [[ITI31.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.184]]
 > ◄  [[an4.183-bodhi]] 📜  [[an4.185-bodhi]] ►

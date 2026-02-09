@@ -24,3 +24,5 @@ saṭṭhikaṇḍarasambandho maṃsalepanalepito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag568-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG568]]
+> ◄  [[thag567-pali-pts]] 📜  [[thag569-pali-pts]] ►

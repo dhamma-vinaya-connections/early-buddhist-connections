@@ -23,3 +23,5 @@ kālena uṭṭhahitvā gharaṃ samupagamiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig409-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG409]]
+> ◄  [[thig408-pali-pts]] 📜  [[thig410-pali-pts]] ►

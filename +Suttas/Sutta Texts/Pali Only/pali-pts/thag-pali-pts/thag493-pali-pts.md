@@ -31,3 +31,5 @@ Kammaṃ bahukaṃ na kāraye, parivajjeyya janaṃ, na uyyame;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag493-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG493]]
+> ◄  [[thag492-pali-pts]] 📜  [[thag494-pali-pts]] ►

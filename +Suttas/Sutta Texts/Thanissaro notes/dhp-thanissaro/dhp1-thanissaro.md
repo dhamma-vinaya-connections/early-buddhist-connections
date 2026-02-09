@@ -341,5 +341,6 @@ he has his share in the contemplative life.
 | [[EA52.7]], [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP1]]
 > ◄  [[]] 📜  [[dhp2-thanissaro]] ►

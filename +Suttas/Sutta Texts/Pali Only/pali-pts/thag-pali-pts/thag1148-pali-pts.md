@@ -23,3 +23,5 @@ rukkhamūlikā sāt. uñch. r.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1148-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1148]]
+> ◄  [[thag1147-pali-pts]] 📜  [[thag1149-pali-pts]] ►

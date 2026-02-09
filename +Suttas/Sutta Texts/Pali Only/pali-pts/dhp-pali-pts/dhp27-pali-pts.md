@@ -25,3 +25,5 @@ paññāpāsādaṃ āruyha asoko sokiniṃ pajaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp27-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP27]]
+> ◄  [[dhp26-pali-pts]] 📜  [[dhp28-pali-pts]] ►

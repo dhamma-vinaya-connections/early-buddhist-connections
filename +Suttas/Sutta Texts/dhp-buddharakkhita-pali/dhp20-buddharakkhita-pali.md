@@ -147,3 +147,5 @@ Maggavaggo vīsatimo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp20-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP20-BUDDHARAKKHITA]]
+> ◄  [[dhp19-buddharakkhita-pali]] 📜  [[dhp21-buddharakkhita-pali]] ►

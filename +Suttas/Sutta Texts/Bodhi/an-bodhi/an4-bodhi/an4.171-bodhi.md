@@ -56,5 +56,6 @@ When this was said, the Venerable Sāriputta said to the Blessed One: “Bhante,
 | [[SN12.25]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.171]]
 > ◄  [[an4.170-bodhi]] 📜  [[an4.172-bodhi]] ►

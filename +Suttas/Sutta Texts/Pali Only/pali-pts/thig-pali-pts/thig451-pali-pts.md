@@ -23,3 +23,5 @@ socanti pāpakammā vinipāte pāpabuddhino |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig451-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG451]]
+> ◄  [[thig450-pali-pts]] 📜  [[thig452-pali-pts]] ►

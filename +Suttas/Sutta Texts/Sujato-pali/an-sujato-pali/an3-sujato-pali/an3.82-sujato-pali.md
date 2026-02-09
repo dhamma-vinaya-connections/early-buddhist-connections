@@ -50,5 +50,6 @@ Dutiyaṁ.
 | [[EA16.4]], [[SA828]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.82]]
 > ◄  [[an3.81-sujato-pali]] 📜  [[an3.83-sujato-pali]] ►

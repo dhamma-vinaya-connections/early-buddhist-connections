@@ -23,3 +23,5 @@ aññassa bhagavā buddho dhammaṃ desesi cakkhumā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag994-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG994]]
+> ◄  [[thag993-pali-pts]] 📜  [[thag995-pali-pts]] ►

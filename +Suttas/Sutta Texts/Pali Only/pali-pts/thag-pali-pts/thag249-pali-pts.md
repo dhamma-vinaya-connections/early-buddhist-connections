@@ -23,3 +23,5 @@ Saddhāya abhinikkhamma navapabbajito navo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag249-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG249]]
+> ◄  [[thag248-pali-pts]] 📜  [[thag250-pali-pts]] ►

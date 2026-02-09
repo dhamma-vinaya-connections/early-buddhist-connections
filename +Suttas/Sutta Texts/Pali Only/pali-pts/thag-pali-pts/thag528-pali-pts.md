@@ -23,3 +23,5 @@ n'; evātisītaṃ na panātiuṇhaṃ sukhā utu addhaniyā bhadante;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag528-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG528]]
+> ◄  [[thag527-pali-pts]] 📜  [[thag529-pali-pts]] ►

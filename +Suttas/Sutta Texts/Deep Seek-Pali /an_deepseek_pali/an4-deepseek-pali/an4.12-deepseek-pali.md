@@ -56,11 +56,12 @@ One who trains in the practice appropriate for mental calm, ever mindful, contin
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[ITI111]] |  | A ii 136 |
+> |  |  | A ii 136 |
 > > [!check]- Partial parallels 
 > > 
 | [[ITI111]], [[AN10.71]], [[AN10.17]], [[DN33]], [[DN34]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.12]]
 > ◄  [[an4.11-deepseek-pali]] 📜  [[an4.13-deepseek-pali]] ►

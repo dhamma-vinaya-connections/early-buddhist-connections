@@ -24,3 +24,5 @@ Kullo sīvathikaṃ gantvā addasaṃ itthiṃ ujjhitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag392-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG392]]
+> ◄  [[thag391-pali-pts]] 📜  [[thag393-pali-pts]] ►

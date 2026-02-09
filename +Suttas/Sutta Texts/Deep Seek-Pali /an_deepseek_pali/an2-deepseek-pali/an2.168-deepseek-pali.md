@@ -21,3 +21,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.168-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.168]]
+> ◄  [[an2.167-deepseek-pali]] 📜  [[an2.169-deepseek-pali]] ►

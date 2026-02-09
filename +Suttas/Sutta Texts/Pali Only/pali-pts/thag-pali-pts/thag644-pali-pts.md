@@ -31,3 +31,5 @@ Yadā ahaṃ pabbajito agārasmā anagāriyaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag644-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG644]]
+> ◄  [[thag643-pali-pts]] 📜  [[thag645-pali-pts]] ►

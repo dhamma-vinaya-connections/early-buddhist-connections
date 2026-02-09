@@ -70,5 +70,6 @@ Having made such a sacrifice, the wise one, faithful, with a mind released, is r
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.35]], [[AN8.37]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.37]]
 > ◄  [[an6.36-deepseek-pali]] 📜  [[an6.38-deepseek-pali]] ►

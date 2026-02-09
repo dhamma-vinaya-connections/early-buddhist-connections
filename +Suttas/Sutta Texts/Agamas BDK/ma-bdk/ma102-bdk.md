@@ -31,13 +31,10 @@ up a bad path [represents] the three evil and unwholesome types of thought: thou
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma102-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN19]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.259]], [[MN20]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA102]]
 > ◄  [[ma101-bdk]] 📜  [[ma103-bdk]] ►

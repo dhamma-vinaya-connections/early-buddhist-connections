@@ -49,11 +49,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.81]] | [[SA57]] |  |
+> |  | [[SA57]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA57]], [[SN22.81]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA57]]
 > ◄  [[sa56-patton]] 📜  [[sa59-patton]] ►

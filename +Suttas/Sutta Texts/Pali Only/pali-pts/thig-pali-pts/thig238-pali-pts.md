@@ -23,3 +23,5 @@ yo ca vuḍḍho vā dabaro vā pāpakammaṃ pakubbati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig238-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG238]]
+> ◄  [[thig237-pali-pts]] 📜  [[thig239-pali-pts]] ►

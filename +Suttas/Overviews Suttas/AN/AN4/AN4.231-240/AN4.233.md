@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[MN57]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[MN57]]"
 ---
@@ -65,7 +65,7 @@ Neither dark nor bright deeds with neither dark nor bright results, which lead t
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN57]] |  | A ii 230 |
+> |  |  | A ii 230 |
 > > [!check]- Partial parallels 
 > > 
 | [[MN57]] |
@@ -88,5 +88,6 @@ Neither dark nor bright deeds with neither dark nor bright results, which lead t
 > - Sutta Central: https://suttacentral.net/an4.233/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.233
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.233.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.232]]  🌐 [[AN4.234]] ►

@@ -135,8 +135,9 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > |  | [[MA169]] | M iii 230 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA169]]; [[MN122]]; [[MN13]]; [[MN14]]; [[SN36.20]]; [[SN36.19]]; [[AN6.63]] |
+| [[MA169]], [[MN122]], [[MN13]], [[MN14]], [[SN36.20]], [[SN36.19]], [[AN6.63]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN139]]
 > ◄  [[mn138-bodhi]] 📜  [[mn140-bodhi]] ►

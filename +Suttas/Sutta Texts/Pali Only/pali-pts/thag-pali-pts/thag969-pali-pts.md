@@ -23,3 +23,5 @@ yo ca vantakasāv'; assa sīlesu susamāhito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag969-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG969]]
+> ◄  [[thag968-pali-pts]] 📜  [[thag970-pali-pts]] ►

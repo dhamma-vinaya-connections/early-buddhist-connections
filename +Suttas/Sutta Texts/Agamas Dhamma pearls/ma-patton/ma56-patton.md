@@ -102,7 +102,7 @@ The Bhagavān told him, “Meghiya, if you want to pursue the end to your afflic
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.3]] |  | M i 95 |
+> |  |  | M i 95 |
 > > [!check]- Partial parallels 
 > > 
 | [[PE2]] |
@@ -111,6 +111,7 @@ The Bhagavān told him, “Meghiya, if you want to pursue the end to your afflic
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA56]]
 > ◄  [[ma55-patton]] 📜  [[ma57-patton]] ►

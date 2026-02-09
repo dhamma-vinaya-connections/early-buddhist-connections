@@ -56,10 +56,11 @@ When they hear the Dharma taught by Venerable Sāriputta, then just like food fo
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN5]] | [[EA25.6]] |  |
+> |  | [[EA25.6]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA88]], [[MA93]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA87]]
 > ◄  [[ma86-bdk]] 📜  [[ma88-bdk]] ►

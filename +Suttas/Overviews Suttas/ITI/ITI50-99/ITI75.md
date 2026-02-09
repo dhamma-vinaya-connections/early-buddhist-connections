@@ -92,4 +92,5 @@ the homeless state.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti75
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti75.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI74]]  🌐 [[ITI76]] ►

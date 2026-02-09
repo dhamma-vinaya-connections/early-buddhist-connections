@@ -23,3 +23,5 @@ sace puttaṃ sigālānaṃ kukkurānaṃ padāhisi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig302-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG302]]
+> ◄  [[thig301-pali-pts]] 📜  [[thig303-pali-pts]] ►

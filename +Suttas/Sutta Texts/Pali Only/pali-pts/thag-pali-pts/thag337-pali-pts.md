@@ -23,3 +23,5 @@ visāradā kho bhaginī etaṃ atthaṃ abhāsayi:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag337-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG337]]
+> ◄  [[thag336-pali-pts]] 📜  [[thag338-pali-pts]] ►

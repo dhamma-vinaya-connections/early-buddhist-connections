@@ -25,3 +25,5 @@ phuṭṭho ḍaṃsehi makasehi araññasmiṃ brahāvane
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag243-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG243]]
+> ◄  [[thag242-pali-pts]] 📜  [[thag244-pali-pts]] ►

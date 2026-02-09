@@ -23,3 +23,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.618-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.618]]
+> ◄  [[an1.617-pali-sc]] 📜  [[an1.619-pali-sc]] ►

@@ -25,3 +25,5 @@ velaṃ karotha bhaddante sotānaṃ sannivāraṇaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag761-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG761]]
+> ◄  [[thag760-pali-pts]] 📜  [[thag762-pali-pts]] ►

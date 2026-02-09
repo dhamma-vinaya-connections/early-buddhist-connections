@@ -26,3 +26,5 @@ sabbasaṃyojanātītaṃ vanā nibbanam āgataṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag689-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG689]]
+> ◄  [[thag688-pali-pts]] 📜  [[thag691-pali-pts]] ►

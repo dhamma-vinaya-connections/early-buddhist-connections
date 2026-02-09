@@ -103,8 +103,9 @@ na taṁ bhāyāmi āvuso"ti.
 > |  | [[SA-2.217]], [[SA1201]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.217]], [[SA1201]], [[THIG11.1]] |
+| [[SA-2.217]], [[SA1201]], [[THIG11]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.5]]
 > ◄  [[sn5.4-sujato-pali]] 📜  [[sn5.6-sujato-pali]] ►

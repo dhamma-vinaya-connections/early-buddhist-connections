@@ -93,4 +93,5 @@ Feeling uplifted after giving; and recipients are free of greed, hate, and delus
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.37
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.37.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.36]]  🌐 [[AN6.38]] ►

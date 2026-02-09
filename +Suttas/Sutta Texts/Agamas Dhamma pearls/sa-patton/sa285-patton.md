@@ -45,11 +45,12 @@ The monks said to the Buddha, “Yes, Bhagavān.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN12.10]], [[SN12.53-54]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.10]], [[SN12.53-54]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA285]]
 > ◄  [[sa284-patton]] 📜  [[sa286-patton]] ►

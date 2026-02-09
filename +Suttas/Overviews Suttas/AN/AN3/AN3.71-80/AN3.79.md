@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Ananda"
-parallels_nikaya: "[[DHP54]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA23.5]], [[SA-2.12]], [[SA1073]]"
-parallels_partilal: "[[EA23.5]], [[SA-2.12]], [[SA1073]], [[DHP54]]"
+parallels_partilal: "[[EA23.5]], [[SA-2.12]], [[SA1073]], [[DHP\|DHP54]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.78]]  🌐 [[AN3.80]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[EA23.5]], [[SA-2.12]], [[SA1073]], [[DHP54]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP54]] | [[EA23.5]], [[SA-2.12]], [[SA1073]] | A i 225 |
+> |  | [[EA23.5]], [[SA-2.12]], [[SA1073]] | A i 225 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA23.5]], [[SA-2.12]], [[SA1073]], [[DHP54]] |
+| [[EA23.5]], [[SA-2.12]], [[SA1073]], [[DHP\|DHP54]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[EA23.5]], [[SA-2.12]], [[SA1073]], [[DHP54]]"
 > - Sutta Central: https://suttacentral.net/an3.79/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.79
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.79.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.78]]  🌐 [[AN3.80]] ►

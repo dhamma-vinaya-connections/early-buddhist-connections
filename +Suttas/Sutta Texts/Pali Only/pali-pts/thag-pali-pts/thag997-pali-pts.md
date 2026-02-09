@@ -23,3 +23,5 @@ rukkhamūlaṃ va nissāya muṇḍo saṃghāṭipāruto
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag997-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG997]]
+> ◄  [[thag996-pali-pts]] 📜  [[thag998-pali-pts]] ►

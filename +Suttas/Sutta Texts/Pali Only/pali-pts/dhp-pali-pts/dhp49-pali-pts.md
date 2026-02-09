@@ -24,3 +24,5 @@ na paresaṃ vilomāni, na paresaṃ katākataṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp49-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP49]]
+> ◄  [[dhp48-pali-pts]] 📜  [[dhp50-pali-pts]] ►

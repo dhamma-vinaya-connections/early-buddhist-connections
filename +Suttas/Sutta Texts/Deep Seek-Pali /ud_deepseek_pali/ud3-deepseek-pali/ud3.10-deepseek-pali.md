@@ -82,5 +82,6 @@ Kamma, Nanda, Yasojā, and Sāriputta; Kolita, Pilinda, Kassapa, Piṇḍola; Sk
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN113]], [[SN1.1]], [[SN12.15]], [[ITI49]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.10]]
 > ◄  [[ud3.9-deepseek-pali]] 📜  [[]] ►

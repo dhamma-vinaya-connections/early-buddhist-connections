@@ -23,3 +23,5 @@ aladdhā cittass'; ekaggaṃ kāmarāgena addito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag405-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG405]]
+> ◄  [[thag404-pali-pts]] 📜  [[thag406-pali-pts]] ►

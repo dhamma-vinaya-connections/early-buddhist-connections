@@ -55,3 +55,5 @@ that would bring him under Death’s sway.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti82-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI82]]
+> ◄  [[iti81-thanissaro]] 📜  [[iti83-thanissaro]] ►

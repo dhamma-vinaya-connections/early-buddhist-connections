@@ -25,3 +25,5 @@ atthamhi jātamhi sukhā sahāyā tuṭṭhī sukhā yā itarītarena, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp330-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP330]]
+> ◄  [[dhp329-pali-pts]] 📜  [[dhp331-pali-pts]] ►

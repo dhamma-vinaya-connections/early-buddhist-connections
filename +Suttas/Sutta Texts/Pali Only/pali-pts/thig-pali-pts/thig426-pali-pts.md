@@ -23,3 +23,5 @@ atha ayyā Jinadattā āgacchi gocarāya caramānā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig426-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG426]]
+> ◄  [[thig425-pali-pts]] 📜  [[thig427-pali-pts]] ►

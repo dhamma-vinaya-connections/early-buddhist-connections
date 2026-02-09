@@ -30,3 +30,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_78-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_78]]
+> ◄  [[SA2_77]] 📜  [[SA2_79]] ►

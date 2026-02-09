@@ -112,8 +112,9 @@ Vammikasuttaṃ tatiyaṃ.
 > |  | [[EA39.9]]; [[SA-2.18]]; [[SA1079]] | M i 142 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA39.9]]; [[SA-2.18]]; [[SA1079]] |
+| [[EA39.9]], [[SA-2.18]], [[SA1079]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
 > ◄  [[mn22-pali-sri]] 📜  [[mn24-pali-sri]] ►

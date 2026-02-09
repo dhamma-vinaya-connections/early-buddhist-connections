@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: "[[SA-2.226]], [[SA1210]]"
-parallels_partilal: "[[SA-2.226]], [[SA1210]], [[THAG21.1]]"
+parallels_partilal: "[[SA-2.226]], [[SA1210]], [[THAG21]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.5]]  🌐 [[SN8.7]] ►
 
@@ -71,7 +71,7 @@ In the Buddha ’s teaching.”
 > |  | [[SA-2.226]], [[SA1210]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.226]], [[SA1210]], [[THAG21.1]] |
+| [[SA-2.226]], [[SA1210]], [[THAG21]].1 |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ In the Buddha ’s teaching.”
 > - Sutta Central: https://suttacentral.net/sn8.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.6
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.5]]  🌐 [[SN8.7]] ►

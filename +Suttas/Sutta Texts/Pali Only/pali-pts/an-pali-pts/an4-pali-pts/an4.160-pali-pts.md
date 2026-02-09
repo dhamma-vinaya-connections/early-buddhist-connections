@@ -31,5 +31,6 @@ PTS: A ii 147
 | [[AN5.156]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.160]]
 > ◄  [[an4.159-pali-pts]] 📜  [[an4.161-pali-pts]] ►

@@ -26,3 +26,5 @@ padakkhiṇaṃ sammasanto khandhānaṃ udayabbayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag22-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG22]]
+> ◄  [[thag21-pali-pts]] 📜  [[thag23-pali-pts]] ►

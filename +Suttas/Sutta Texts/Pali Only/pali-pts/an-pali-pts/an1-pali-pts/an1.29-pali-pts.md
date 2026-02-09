@@ -34,5 +34,6 @@ Cittaṃ bhikkhave abhāvitaṃ abahulīkataṃ dukkhādhivāhaṃ hotī ti.
 | [[EA11.5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.29]]
 > ◄  [[an1.28-pali-pts]] 📜  [[an1.30-pali-pts]] ►

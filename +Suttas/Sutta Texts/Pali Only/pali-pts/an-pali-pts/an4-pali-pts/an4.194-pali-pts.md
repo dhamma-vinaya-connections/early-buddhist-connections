@@ -31,5 +31,6 @@ PTS: A ii 194
 | [[SA565]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.194]]
 > ◄  [[an4.193-pali-pts]] 📜  [[an4.195-pali-pts]] ►

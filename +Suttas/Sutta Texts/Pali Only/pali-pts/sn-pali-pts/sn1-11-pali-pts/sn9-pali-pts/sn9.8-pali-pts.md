@@ -47,5 +47,6 @@ lahucitto ti tam āhu || nāssa sampajjate vatan ti || ||
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.8]]
 > ◄  [[sn9.7-pali-pts]] 📜  [[sn9.9-pali-pts]] ►

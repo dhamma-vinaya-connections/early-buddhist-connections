@@ -66,5 +66,6 @@ devatā velāmena cāti.
 | [[EA27.3]], [[MA155]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
 > ◄  [[an9.19-pali-sc]] 📜  [[an9.21-pali-sc]] ►

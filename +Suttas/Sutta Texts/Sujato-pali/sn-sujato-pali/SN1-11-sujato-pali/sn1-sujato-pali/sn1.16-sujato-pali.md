@@ -60,5 +60,6 @@ Ariyamaggo visujjhatī"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.199]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.16]]
 > ◄  [[sn1.15-sujato-pali]] 📜  [[sn1.17-sujato-pali]] ►

@@ -23,3 +23,5 @@ satthā ca maṃ paṭiggayha Ānandaṃ etad abravi:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag475-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG475]]
+> ◄  [[thag474-pali-pts]] 📜  [[thag476-pali-pts]] ►

@@ -26,3 +26,5 @@ aṭṭhīnaṃ nagaraṃ kataṃ maṃsalohitalepanaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp149-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP149]]
+> ◄  [[dhp148-pali-pts]] 📜  [[dhp150-pali-pts]] ►

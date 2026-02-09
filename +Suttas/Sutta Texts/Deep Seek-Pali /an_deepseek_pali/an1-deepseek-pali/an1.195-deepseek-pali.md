@@ -35,3 +35,5 @@ The second chapter.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.195-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.195]]
+> ◄  [[an1.194-deepseek-pali]] 📜  [[an1.196-deepseek-pali]] ►

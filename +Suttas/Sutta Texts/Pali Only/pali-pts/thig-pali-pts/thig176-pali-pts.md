@@ -23,3 +23,5 @@ cittaṃ upaṭṭhapetvāna ekaggaṃ susamāhitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig176-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG176]]
+> ◄  [[thig175-pali-pts]] 📜  [[thig177-pali-pts]] ►

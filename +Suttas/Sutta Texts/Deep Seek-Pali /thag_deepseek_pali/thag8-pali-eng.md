@@ -139,3 +139,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG8]]
+> ◄  [[thag7-pali-eng]] 📜  [[thag9-pali-eng]] ►

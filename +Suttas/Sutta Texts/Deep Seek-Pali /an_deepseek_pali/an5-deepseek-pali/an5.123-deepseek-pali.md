@@ -38,5 +38,6 @@ Monks, a sick person endowed with five qualities is easy to tend to. What five? 
 | [[EA32.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.123]]
 > ◄  [[an5.122-deepseek-pali]] 📜  [[an5.124-deepseek-pali]] ►

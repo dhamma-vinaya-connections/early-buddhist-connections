@@ -23,3 +23,5 @@ yaso ca appabuddhīnaṃ viññūnaṃ ayaso ca yo:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag666-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG666]]
+> ◄  [[thag665-pali-pts]] 📜  [[thag667-pali-pts]] ►

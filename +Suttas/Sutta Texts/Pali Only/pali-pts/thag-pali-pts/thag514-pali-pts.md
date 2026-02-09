@@ -23,3 +23,5 @@ tassa mevaṃ viharato passa viriyaparakkamaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag514-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG514]]
+> ◄  [[thag513-pali-pts]] 📜  [[thag515-pali-pts]] ►

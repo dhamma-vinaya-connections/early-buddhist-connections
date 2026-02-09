@@ -23,3 +23,5 @@ Devo ca vassati devo ca gaḷagaḷāyati ekako cāhaṃ bherave bile viharāmi:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag188-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG188]]
+> ◄  [[thag187-pali-pts]] 📜  [[thag189-pali-pts]] ►

@@ -23,5 +23,10 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.109-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN2.21.]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.109]]
 > ◄  [[an2.108-bodhi]] 📜  [[an2.110-bodhi]] ►

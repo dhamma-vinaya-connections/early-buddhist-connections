@@ -64,7 +64,7 @@ attains the taintless liberation of the mind and liberation by wisdom, know ing 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN22]], [[MN10]], [[MN119]] | [[EA12.1]], [[MA31]], [[MA98]] | M i 256 |
+> |  | [[EA12.1]], [[MA31]], [[MA98]] | M i 256 |
 > > [!check]- Partial parallels 
 > > 
 | [[DA25]], [[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]], [[SN42.12]], [[DN25]], [[MN12]], [[MN45]], [[AN3.156-162]] |
@@ -73,6 +73,7 @@ attains the taintless liberation of the mind and liberation by wisdom, know ing 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN22]], [[MN10]], [[MN118]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA81]]
 > ◄  [[ma80-bdk]] 📜  [[ma82-bdk]] ►

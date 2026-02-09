@@ -24,3 +24,5 @@ uttiṭṭhe na-ppamajjeyya dhammaṃ sucaritaṃ care, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp167-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP167]]
+> ◄  [[dhp166-pali-pts]] 📜  [[dhp168-pali-pts]] ►

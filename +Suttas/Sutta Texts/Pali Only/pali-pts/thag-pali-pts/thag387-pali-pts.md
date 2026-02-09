@@ -22,3 +22,5 @@ parihāyati saddhammā maccho appodake yathā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag387-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG387]]
+> ◄  [[thag386-pali-pts]] 📜  [[thag388-pali-pts]] ►

@@ -27,11 +27,12 @@ Nava yime bhikkhave puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikara�
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.16]] | [[EA44.8]] | A iv 373 |
+> |  | [[EA44.8]] | A iv 373 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.16]], [[EA44.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.10]]
 > ◄  [[an9.9-pali-pts]] 📜  [[an9.11-pali-pts]] ►

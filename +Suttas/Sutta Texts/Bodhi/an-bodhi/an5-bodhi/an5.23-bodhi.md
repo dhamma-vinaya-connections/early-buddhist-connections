@@ -40,11 +40,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.101]], [[SN46.33]] | [[SA1246]] | A iii 16 |
+> |  | [[SA1246]] | A iii 16 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN46.33]], [[AN3.101]], [[SA1246]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.23]]
 > ◄  [[an5.22-bodhi]] 📜  [[an5.24-bodhi]] ►

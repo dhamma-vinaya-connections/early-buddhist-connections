@@ -25,3 +25,5 @@ yo 'dha taṇhaṃ pahatvāna anāgāro paribbaje /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp415-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP415]]
+> ◄  [[dhp414-pali-pts]] 📜  [[dhp416-pali-pts]] ►

@@ -31,3 +31,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The Seventh.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti33-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI33]]
+> ◄  [[iti32-deepseek-pali]] 📜  [[iti34-deepseek-pali]] ►

@@ -70,5 +70,6 @@ Austerity and the elephant, Subha and the snare, these two;The snake, the sleepe
 | [[SA-2.24]], [[SA1085]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.10]]
 > ◄  [[sn4.9-deepseek-pali]] 📜  [[sn4.11-deepseek-pali]] ►

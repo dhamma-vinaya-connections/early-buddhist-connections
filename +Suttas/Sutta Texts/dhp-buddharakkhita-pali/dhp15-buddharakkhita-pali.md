@@ -112,3 +112,5 @@ Sukhavaggo pannarasamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp15-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP15-BUDDHARAKKHITA]]
+> ◄  [[dhp14-buddharakkhita-pali]] 📜  [[dhp16-buddharakkhita-pali]] ►

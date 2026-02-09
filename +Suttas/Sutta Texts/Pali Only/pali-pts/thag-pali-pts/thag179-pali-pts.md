@@ -23,3 +23,5 @@ bhavarāgahatassa me sato bhavarāgo puna me na vijjati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag179-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG179]]
+> ◄  [[thag178-pali-pts]] 📜  [[thag180-pali-pts]] ►

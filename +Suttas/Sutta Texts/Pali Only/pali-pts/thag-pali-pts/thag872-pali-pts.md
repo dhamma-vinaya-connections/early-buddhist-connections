@@ -23,3 +23,5 @@ yo have daharo bhikkhu yuñjatī buddhasāsane,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag872-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG872]]
+> ◄  [[thag871-pali-pts]] 📜  [[thag873-pali-pts]] ►

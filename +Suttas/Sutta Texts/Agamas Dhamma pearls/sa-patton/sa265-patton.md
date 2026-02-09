@@ -70,11 +70,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN48.50]], [[SN22.95]] | [[SA265]] |  |
+> |  | [[SA265]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA265]], [[SN48.50]], [[SN22.95]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA265]]
 > ◄  [[sa264-patton]] 📜  [[sa266-patton]] ►

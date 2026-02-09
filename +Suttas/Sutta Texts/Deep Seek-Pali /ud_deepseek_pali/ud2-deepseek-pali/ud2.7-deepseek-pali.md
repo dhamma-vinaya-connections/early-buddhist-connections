@@ -45,5 +45,10 @@ Then, the Blessed One, having understood this matter, on that occasion, uttered 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.7-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN87]], [[SN42:11]], [[UD 2:8]], [[UD 8:8]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.7]]
 > ◄  [[ud2.6-deepseek-pali]] 📜  [[ud2.8-deepseek-pali]] ►

@@ -23,3 +23,5 @@ ajjhattañ ca na jānāti bahiddhā ca na passati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag469-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG469]]
+> ◄  [[thag468-pali-pts]] 📜  [[thag470-pali-pts]] ►

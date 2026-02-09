@@ -163,3 +163,5 @@ washed clean.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG12]]
+> ◄  [[thig10-thanissaro]] 📜  [[thig13-thanissaro]] ►

@@ -23,3 +23,5 @@ Ayaṃ iti kappaṭo Kappaṭakuro. acchāya atibharitāya
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag198-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG198]]
+> ◄  [[thag197-pali-pts]] 📜  [[thag199-pali-pts]] ►

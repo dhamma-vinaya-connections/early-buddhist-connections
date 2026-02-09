@@ -78,5 +78,6 @@ na te mārassa baddhagū"ti.
 | [[SA-2.32]], [[SA1093]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.3]]
 > ◄  [[sn4.2-sujato-pali]] 📜  [[sn4.4-sujato-pali]] ►

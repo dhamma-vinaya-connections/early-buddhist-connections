@@ -23,3 +23,5 @@ nisaṭṭhaṃ te rajjaṃ bhoge bhuñjassu dehi dānāni |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig483-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG483]]
+> ◄  [[thig482-pali-pts]] 📜  [[thig484-pali-pts]] ►

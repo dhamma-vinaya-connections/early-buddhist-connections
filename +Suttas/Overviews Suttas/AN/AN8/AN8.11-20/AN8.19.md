@@ -91,4 +91,5 @@ parallels_partilal: "[[EA42.4]], [[MA35]], [[PLI-TV-KD19]], [[UD5.5]], [[AN8.20]
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.19
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.19.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.18]]  🌐 [[AN8.20]] ►

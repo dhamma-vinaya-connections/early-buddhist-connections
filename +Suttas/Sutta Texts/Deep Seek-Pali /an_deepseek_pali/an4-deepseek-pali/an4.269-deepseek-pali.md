@@ -29,3 +29,5 @@ He himself abstains from harsh speech, he encourages others to abstain from hars
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.269-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.269]]
+> ◄  [[an4.268-deepseek-pali]] 📜  [[an4.270-deepseek-pali]] ►

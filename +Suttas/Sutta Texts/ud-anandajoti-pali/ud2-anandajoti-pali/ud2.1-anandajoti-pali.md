@@ -80,5 +80,6 @@ Paṭhamaṁ.
 | [[PLI-TV-KD1]], [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.1]]
 > ◄  [[]] 📜  [[ud2.2-anandajoti-pali]] ►

@@ -24,3 +24,5 @@ Vijāneyya sakaṃ atthaṃ, avalokeyyātha pāvacanaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag586-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG586]]
+> ◄  [[thag585-pali-pts]] 📜  [[thag587-pali-pts]] ►

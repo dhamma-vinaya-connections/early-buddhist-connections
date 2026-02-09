@@ -23,3 +23,5 @@ khīṇāsavo visaññutto saṅgātīto sunibbuto
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1021-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1021]]
+> ◄  [[thag1020-pali-pts]] 📜  [[thag1022-pali-pts]] ►

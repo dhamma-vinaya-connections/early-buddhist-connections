@@ -505,3 +505,5 @@ Thirty-one eons ago, when I gained that perception; through the power of that pe
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG2]]
+> ◄  [[thag1-pali-eng]] 📜  [[thag3-pali-eng]] ►

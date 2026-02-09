@@ -92,4 +92,5 @@ Speculation about the world
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.77
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.77.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.76]]  🌐 [[AN4.78]] ►

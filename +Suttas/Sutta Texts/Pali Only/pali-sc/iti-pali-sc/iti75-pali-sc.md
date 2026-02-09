@@ -39,3 +39,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti75-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI75]]
+> ◄  [[iti74-pali-sc]] 📜  [[iti76-pali-sc]] ►

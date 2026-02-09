@@ -63,7 +63,8 @@ Samasūpako piṇḍapāto bhuñjitabbo. Yo anādariyaṁ paṭicca sūpaññeva
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-sk34-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SK34]] |
->|       |          | [[ñanatusita-analysis#^-SK34]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SK34]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK34]]

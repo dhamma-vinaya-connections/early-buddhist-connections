@@ -120,7 +120,7 @@ and awakening, and dwells having personally realized. He understands as it reall
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN26]] | [[DA6]] |  |
+> |  | [[DA6]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA8]], [[MA104]], [[DN8]], [[MN12]], [[MN45]], [[MN51]], [[MN60]], [[AN3.156-162]], [[AN4.198]] |
@@ -129,6 +129,7 @@ and awakening, and dwells having personally realized. He understands as it reall
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA60]], [[MA67]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA70]]
 > ◄  [[ma69-bdk]] 📜  [[ma71-bdk]] ►

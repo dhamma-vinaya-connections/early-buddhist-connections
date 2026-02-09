@@ -25,3 +25,5 @@ ko hi tassa janen'; attho janena janitena vā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag149-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG149]]
+> ◄  [[thag148-pali-pts]] 📜  [[thag150-pali-pts]] ►

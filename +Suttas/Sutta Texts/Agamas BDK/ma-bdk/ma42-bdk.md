@@ -28,11 +28,12 @@ through dispassion he attains liberation. Through liberation he knows he is libe
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.1]], [[AN11.1]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA42]]
 > ◄  [[ma41-bdk]] 📜  [[ma43-bdk]] ►

@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN10.108]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA21.7]]"
 parallels_partilal: "[[AN10.108]], [[EA21.7]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[AN10.108]], [[EA21.7]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.108]] | [[EA21.7]] | A i 199 |
+> |  | [[EA21.7]] | A i 199 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.108]], [[EA21.7]] |
@@ -88,5 +88,6 @@ parallels_partilal: "[[AN10.108]], [[EA21.7]]"
 > - Sutta Central: https://suttacentral.net/an3.68/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.68
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.68.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.67]]  🌐 [[AN3.69]] ►

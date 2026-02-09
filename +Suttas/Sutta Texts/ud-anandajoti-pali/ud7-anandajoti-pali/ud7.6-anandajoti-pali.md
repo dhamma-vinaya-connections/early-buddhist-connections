@@ -53,15 +53,16 @@ Chaṭṭhaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP230]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP230]], [[AN4.28]], [[AN4.6]], [[AN5.42]] |
+| [[DHP\|DHP230]], [[AN4.28]], [[AN4.6]], [[AN5.42]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN56.11]], [[MN18]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.6]]
 > ◄  [[ud7.5-anandajoti-pali]] 📜  [[ud7.7-anandajoti-pali]] ►

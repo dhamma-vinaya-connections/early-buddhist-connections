@@ -23,3 +23,5 @@ mohā sabbe pahīnā me, bhavataṇhā padālitā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag343-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG343]]
+> ◄  [[thag342-pali-pts]] 📜  [[thag344-pali-pts]] ►

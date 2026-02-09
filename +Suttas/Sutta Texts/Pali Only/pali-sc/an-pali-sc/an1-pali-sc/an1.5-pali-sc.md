@@ -34,5 +34,6 @@ Pañcamaṁ.
 | [[EA9.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.5]]
 > ◄  [[an1.4-pali-sc]] 📜  [[an1.6-pali-sc]] ►

@@ -90,4 +90,5 @@ Then with conceit given up completely,
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.3
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.2]]  🌐 [[SN8.4]] ►

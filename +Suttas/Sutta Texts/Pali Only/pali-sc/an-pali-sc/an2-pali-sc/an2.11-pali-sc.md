@@ -27,3 +27,5 @@ Imāni kho, bhikkhave, dve balānī"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.11]]
+> ◄  [[an2.10-pali-sc]] 📜  [[an2.12-pali-sc]] ►

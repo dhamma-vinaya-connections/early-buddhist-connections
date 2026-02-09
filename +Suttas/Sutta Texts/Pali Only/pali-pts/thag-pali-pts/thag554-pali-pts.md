@@ -23,3 +23,5 @@ cakkhuṃ sarīraṃ upahanti roṇṇaṃ, nihīyatī vaṇṇabalaṃ matī ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag554-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG554]]
+> ◄  [[thag553-pali-pts]] 📜  [[thag555-pali-pts]] ►

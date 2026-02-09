@@ -91,4 +91,5 @@ Called ‘loveable
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.33
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.33.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.32]]  🌐 [[AN5.34]] ►

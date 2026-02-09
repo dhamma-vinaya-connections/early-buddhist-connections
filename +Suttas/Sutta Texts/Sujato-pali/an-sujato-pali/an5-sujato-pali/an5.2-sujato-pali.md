@@ -66,5 +66,6 @@ Dutiyaṁ.
 | [[AN5.14]], [[EA32.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.2]]
 > ◄  [[an5.1-sujato-pali]] 📜  [[an5.3-sujato-pali]] ►

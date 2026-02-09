@@ -30,7 +30,7 @@ The World-honored One asked further, “Ānanda, how does a monk cling to phenom
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN132]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.85]], [[PE8]] |
@@ -39,6 +39,7 @@ The World-honored One asked further, “Ānanda, how does a monk cling to phenom
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[MA164]], [[MA165]], [[MA166]], [[MA167]], [[MN131]], [[MN132]], [[MN133]], [[MN134]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA167]]
 > ◄  [[ma166-bdk]] 📜  [[ma168-bdk]] ►

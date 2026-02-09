@@ -23,3 +23,5 @@ kiṃ mama paro karissati attano sīsamhi ḍayhamānamhi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig492-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG492]]
+> ◄  [[thig491-pali-pts]] 📜  [[thig493-pali-pts]] ►

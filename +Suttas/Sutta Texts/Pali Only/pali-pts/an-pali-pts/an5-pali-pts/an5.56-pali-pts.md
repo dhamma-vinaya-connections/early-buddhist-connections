@@ -38,5 +38,6 @@ Etarahi me bhante madhurakajāto c'eva kāyo, disā ca me na pakkhāyanti, dhamm
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.17]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.56]]
 > ◄  [[an5.55-pali-pts]] 📜  [[an5.57-pali-pts]] ►

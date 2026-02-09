@@ -154,7 +154,7 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[UD4.1]] | [[MA56]] | A iv 354 |
+> |  | [[MA56]] | A iv 354 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA56]], [[UD4.1]] |
@@ -163,6 +163,7 @@ Tatiyaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.3]]
 > ◄  [[an9.2-sujato-pali]] 📜  [[an9.4-sujato-pali]] ►

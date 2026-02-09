@@ -45,8 +45,9 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN17.10]], [[THAG17.2]] |
+| [[SN17.10]], [[THAG17]].2 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI81]]
 > ◄  [[iti80-pali-sc]] 📜  [[iti82-pali-sc]] ►

@@ -24,3 +24,5 @@ Yathā kalīro susu vaḍḍhitaggo dunnikkhamo hoti pasākhajāto,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag71-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG71]]
+> ◄  [[thag70-pali-pts]] 📜  [[thag72-pali-pts]] ►

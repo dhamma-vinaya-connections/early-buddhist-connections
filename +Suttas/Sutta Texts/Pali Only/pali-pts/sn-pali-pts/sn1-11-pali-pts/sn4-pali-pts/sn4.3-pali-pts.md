@@ -54,5 +54,6 @@ Atha kho Māro pāpimā || jānāti mam Bhagavā jānāti maṃ Sugato ti || duk
 | [[SA-2.32]], [[SA1093]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.3]]
 > ◄  [[sn4.2-pali-pts]] 📜  [[sn4.4-pali-pts]] ►

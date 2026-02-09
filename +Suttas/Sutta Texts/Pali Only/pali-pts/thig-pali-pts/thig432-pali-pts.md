@@ -23,3 +23,5 @@ mātāpitū abhivādayitvā sabbañ ca ñātigaṇavaggaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig432-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG432]]
+> ◄  [[thig431-pali-pts]] 📜  [[thig433-pali-pts]] ►

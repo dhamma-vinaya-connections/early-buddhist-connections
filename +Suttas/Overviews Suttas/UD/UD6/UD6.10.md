@@ -100,4 +100,5 @@ Having bad views, they are not freed from suffering.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.10
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.9]]  🌐 [[UD7.1]] ►

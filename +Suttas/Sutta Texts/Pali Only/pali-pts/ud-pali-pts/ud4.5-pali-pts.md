@@ -46,5 +46,6 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.40]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.5]]
 > ◄  [[ud4.4-pali-pts]] 📜  [[ud4.8-pali-pts]] ►

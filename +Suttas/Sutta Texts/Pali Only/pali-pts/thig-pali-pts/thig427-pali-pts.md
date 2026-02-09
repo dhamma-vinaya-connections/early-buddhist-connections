@@ -23,3 +23,5 @@ taṃ disvāna amhākaṃ uṭṭhāyāsanaṃ tassā paññāpayiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig427-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG427]]
+> ◄  [[thig426-pali-pts]] 📜  [[thig428-pali-pts]] ►

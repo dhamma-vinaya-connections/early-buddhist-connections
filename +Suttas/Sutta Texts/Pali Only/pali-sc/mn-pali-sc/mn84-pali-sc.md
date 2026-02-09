@@ -134,5 +134,6 @@ Tadamināpetaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasm
 | [[SA548]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
 > ◄  [[mn83-pali-sc]] 📜  [[mn85-pali-sc]] ►

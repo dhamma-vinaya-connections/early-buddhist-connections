@@ -32,3 +32,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||1||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti70-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI70]]
+> ◄  [[iti69-pali-pts]] 📜  [[iti71-pali-pts]] ►

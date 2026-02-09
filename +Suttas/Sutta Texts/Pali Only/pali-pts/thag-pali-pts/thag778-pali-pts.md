@@ -23,3 +23,5 @@ kandanti naṃ ñāti pakiriya kese, aho vatā no amarā 'ti cāhu;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag778-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG778]]
+> ◄  [[thag777-pali-pts]] 📜  [[thag779-pali-pts]] ►

@@ -67,5 +67,6 @@ On one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, A
 | [[EA27.3]], [[MA155]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.20]]
 > ◄  [[an9.14-thanissaro]] 📜  [[an9.24-thanissaro]] ►

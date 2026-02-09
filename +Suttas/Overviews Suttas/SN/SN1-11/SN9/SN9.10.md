@@ -89,4 +89,5 @@ Whatever is seen, heard, and thought
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.9]]  🌐 [[SN9.11]] ►

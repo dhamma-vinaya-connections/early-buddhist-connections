@@ -23,3 +23,5 @@ vippamuttaṃ kilesehi suddhacittaṃ anāvilaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag437-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG437]]
+> ◄  [[thag436-pali-pts]] 📜  [[thag438-pali-pts]] ►

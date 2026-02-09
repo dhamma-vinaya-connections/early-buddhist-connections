@@ -97,4 +97,5 @@ like a snake who has abandoned its old, worn-out skin.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp25
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp25.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP24]]  🌐 [[SA1]] ►

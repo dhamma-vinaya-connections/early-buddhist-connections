@@ -95,4 +95,5 @@ The Buddha  is declared supreme
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.30
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.30.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.29]]  🌐 [[SN3.1]] ►

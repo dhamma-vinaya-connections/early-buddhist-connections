@@ -50,15 +50,16 @@ Mottled with delightful colors, Or having the color of a dove, According to its 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.179]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP85]], [[AN10.117]], [[AN10.118]], [[AN10.170]], [[SN45.34]], [[SN46.17]], [[DHP86]], [[DHP87]], [[DHP88]], [[DHP89]] |
+| [[DHP\|DHP85]], [[AN10.117]], [[AN10.118]], [[AN10.170]], [[SN45.34]], [[SN46.17]], [[DHP\|DHP86]], [[DHP\|DHP87]], [[DHP\|DHP88]], [[DHP\|DHP89]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.92]], [[AN3.57]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA128]]
 > ◄  [[ma127-bdk]] 📜  [[ma129-bdk]] ►

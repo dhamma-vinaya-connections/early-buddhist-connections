@@ -24,3 +24,5 @@ ye ime satta bojjhaṅgā maggā nibbānapattiyā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig44-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG44]]
+> ◄  [[thig43-pali-pts]] 📜  [[thig45-pali-pts]] ►

@@ -66,5 +66,6 @@ patiṭṭhā honti pāṇinan"ti.
 | [[SA-2.55]], [[SA1228]], [[SN3.22]], [[SN3.20]], [[SN1.32]], [[JA450]], [[SN1.43]], [[SN2.23]], [[AN5.36]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.4]]
 > ◄  [[sn3.3-pali-sc]] 📜  [[sn3.5-pali-sc]] ►

@@ -31,3 +31,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.307-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.307]]
+> ◄  [[an5.306-sujato-pali]] 📜  [[an5.308-sujato-pali]] ►

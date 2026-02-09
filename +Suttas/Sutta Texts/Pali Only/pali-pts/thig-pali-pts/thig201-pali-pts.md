@@ -23,3 +23,5 @@ tassāhaṃ vacanaṃ sutvā vihariṃ sāsane ratā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig201-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG201]]
+> ◄  [[thig200-pali-pts]] 📜  [[thig202-pali-pts]] ►

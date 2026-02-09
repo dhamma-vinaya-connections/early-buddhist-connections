@@ -46,5 +46,6 @@ This was said by Brahmā Sanaṅkumāra. The Teacher approved. Then Brahmā Sana
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN17.35]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
 > ◄  [[sn6.10-deepseek-pali]] 📜  [[sn6.12-deepseek-pali]] ►

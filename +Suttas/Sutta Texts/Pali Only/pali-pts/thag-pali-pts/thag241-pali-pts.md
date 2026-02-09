@@ -23,3 +23,5 @@ te abbhatītā kālakatā pattā te tidivaṃ sukhaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag241-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG241]]
+> ◄  [[thag240-pali-pts]] 📜  [[thag242-pali-pts]] ►

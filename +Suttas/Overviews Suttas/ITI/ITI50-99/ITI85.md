@@ -94,4 +94,5 @@ from true Dhamma.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti85
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti85.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI84]]  🌐 [[ITI86]] ►

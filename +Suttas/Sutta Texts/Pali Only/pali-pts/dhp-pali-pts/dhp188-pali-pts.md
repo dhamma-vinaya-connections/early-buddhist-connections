@@ -24,3 +24,5 @@ n'; etaṃ kho saraṇaṃ khemaṃ, n'; etaṃ saraṇam uttamaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp188-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP188]]
+> ◄  [[dhp187-pali-pts]] 📜  [[dhp189-pali-pts]] ►

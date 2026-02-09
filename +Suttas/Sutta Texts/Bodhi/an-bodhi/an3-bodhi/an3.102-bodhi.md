@@ -50,5 +50,6 @@ The Third Fifty
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.101]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.102]]
 > ◄  [[an3.101-bodhi]] 📜  [[an3.103-bodhi]] ►

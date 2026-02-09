@@ -142,3 +142,5 @@ Pupphavaggo catuttho.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp4-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP4-BUDDHARAKKHITA]]
+> ◄  [[dhp3-buddharakkhita-pali]] 📜  [[dhp5-buddharakkhita-pali]] ►

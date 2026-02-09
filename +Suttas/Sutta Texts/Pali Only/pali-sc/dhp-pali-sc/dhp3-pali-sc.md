@@ -72,5 +72,6 @@ Na taṃ mātā pitā kayirā aññe vā pi ca ñātakā sammāpaṇihitaṃ cit
 | [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP3]]
 > ◄  [[dhp2-pali-sc]] 📜  [[dhp4-pali-sc]] ►

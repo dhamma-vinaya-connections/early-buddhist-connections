@@ -66,5 +66,6 @@ Then the Blessed One answered the devaputta Siva with a verse:
 | [[SA-2.301]], [[SA1302]], [[JA537]], [[SN1.31]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.21]]
 > ◄  [[sn2.20-deepseek-pali]] 📜  [[sn2.22-deepseek-pali]] ►

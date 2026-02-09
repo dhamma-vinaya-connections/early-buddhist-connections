@@ -25,3 +25,5 @@ tass'; eva tena pāpiyyo yo kudhaṃ paṭikujjhati;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag441-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG441]]
+> ◄  [[thag440-pali-pts]] 📜  [[thag442-pali-pts]] ►

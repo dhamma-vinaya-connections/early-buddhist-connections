@@ -34,11 +34,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.181]] |  | A i 284 |
+> |  |  | A i 284 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.181]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.133]]
 > ◄  [[an3.132-bodhi]] 📜  [[an3.134-bodhi]] ►

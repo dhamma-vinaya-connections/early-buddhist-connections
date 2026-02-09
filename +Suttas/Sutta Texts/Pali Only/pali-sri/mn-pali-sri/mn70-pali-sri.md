@@ -148,12 +148,13 @@ Khuddadijātha sahampati yācaṃ nālaka raññikīṭāgirināmo.
 > |  | [[MA195]] | M i 473 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA195]]; [[AN2.5]]; [[SN12.22]] |
+| [[MA195]], [[AN2.5]], [[SN12.22]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN27]]; [[MN95]]; [[SN48.44]]; [[AN3.65]]
+> - [[MN27]], [[MN95]], [[SN48.44]], [[AN3.65]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN70]]
 > ◄  [[mn69-pali-sri]] 📜  [[mn71-pali-sri]] ►

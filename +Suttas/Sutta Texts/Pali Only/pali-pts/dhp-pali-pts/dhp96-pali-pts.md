@@ -24,3 +24,5 @@ assaddho akataññū ca sandhicchedo ca yo naro /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp96-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP96]]
+> ◄  [[dhp95-pali-pts]] 📜  [[dhp97-pali-pts]] ►

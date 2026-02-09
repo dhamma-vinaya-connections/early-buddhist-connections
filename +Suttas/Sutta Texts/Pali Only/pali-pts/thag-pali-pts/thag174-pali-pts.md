@@ -23,3 +23,5 @@ Ehi Nandaka gacchāma upajjhāyassa santikaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag174-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG174]]
+> ◄  [[thag173-pali-pts]] 📜  [[thag175-pali-pts]] ►

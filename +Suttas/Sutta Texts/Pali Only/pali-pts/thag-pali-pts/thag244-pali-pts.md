@@ -23,3 +23,5 @@ yathā Brahmā tathā eko, yathā devo tathā duve,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag244-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG244]]
+> ◄  [[thag243-pali-pts]] 📜  [[thag245-pali-pts]] ►

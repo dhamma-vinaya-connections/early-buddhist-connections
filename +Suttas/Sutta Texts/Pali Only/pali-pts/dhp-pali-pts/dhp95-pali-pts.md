@@ -24,3 +24,5 @@ santaṃ tassa manaṃ hoti santā vācā ca kamma ca /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp95-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP95]]
+> ◄  [[dhp94-pali-pts]] 📜  [[dhp96-pali-pts]] ►

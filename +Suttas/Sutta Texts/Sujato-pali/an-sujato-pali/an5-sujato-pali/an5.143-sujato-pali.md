@@ -120,5 +120,6 @@ Tatiyaṁ.
 | [[AN5.195]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.143]]
 > ◄  [[an5.142-sujato-pali]] 📜  [[an5.144-sujato-pali]] ►

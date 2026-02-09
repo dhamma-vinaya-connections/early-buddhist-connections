@@ -74,7 +74,8 @@ Nuns’ rules and their analysis
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-sk75-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SK75]] |
->|       |          | [[ñanatusita-analysis#^-SK75]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SK75]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK75]]

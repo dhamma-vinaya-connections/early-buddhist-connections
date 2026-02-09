@@ -107,7 +107,8 @@ Adhammakamme dhammakammasaññī, āpatti dukkaṭassa. Adhammakamme vematiko, �
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc63-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC63]] |
->|       |          | [[ñanatusita-analysis#^PC63]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC63]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC63]]

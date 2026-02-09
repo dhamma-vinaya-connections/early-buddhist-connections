@@ -23,3 +23,5 @@ kañcanassa phalakaṃ va sumaṭṭhaṃ sobhate su kāyo pure mama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig265-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG265]]
+> ◄  [[thig264-pali-pts]] 📜  [[thig266-pali-pts]] ►

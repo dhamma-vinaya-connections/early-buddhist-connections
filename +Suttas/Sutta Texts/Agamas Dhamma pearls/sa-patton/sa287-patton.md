@@ -39,11 +39,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN14]], [[SN12.65]], [[SN6.7-9]] | [[DA1]], [[EA38.4]], [[EA48.4]] |  |
+> |  | [[DA1]], [[EA38.4]], [[EA48.4]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA1]], [[DN14]], [[EA38.4]], [[EA48.4]], [[SN12.65]], [[SN6.7-9]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA287]]
 > ◄  [[sa286-patton]] 📜  [[sa288-patton]] ►

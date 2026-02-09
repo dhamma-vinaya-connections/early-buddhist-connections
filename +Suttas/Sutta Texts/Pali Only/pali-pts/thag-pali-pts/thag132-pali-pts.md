@@ -24,3 +24,5 @@ Yathā agāraṃ ducchannaṃ vuṭṭhi samativijjhati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag132-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG132]]
+> ◄  [[thag131-pali-pts]] 📜  [[thag133-pali-pts]] ►

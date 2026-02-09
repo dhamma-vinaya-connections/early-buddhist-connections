@@ -40,5 +40,6 @@ Navamaṁ.
 | [[EA22.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.9]]
 > ◄  [[an3.8-pali-sc]] 📜  [[an3.10-pali-sc]] ►

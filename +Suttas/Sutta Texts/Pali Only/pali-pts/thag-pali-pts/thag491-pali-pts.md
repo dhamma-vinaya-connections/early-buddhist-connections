@@ -23,3 +23,5 @@ cattāri ariyasaccāni anukampāya pāṇinaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag491-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG491]]
+> ◄  [[thag490-pali-pts]] 📜  [[thag492-pali-pts]] ►

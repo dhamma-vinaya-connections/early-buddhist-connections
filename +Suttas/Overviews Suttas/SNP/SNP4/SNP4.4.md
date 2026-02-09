@@ -103,4 +103,5 @@ They embrace &reject
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.4
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.4.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.3]]  🌐 [[SNP4.5]] ►

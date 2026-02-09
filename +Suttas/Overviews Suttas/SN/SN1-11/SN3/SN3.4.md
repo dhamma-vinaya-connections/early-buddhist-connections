@@ -89,4 +89,5 @@ One finds no-one dearer than oneself.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.4.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.3]]  🌐 [[SN3.5]] ►

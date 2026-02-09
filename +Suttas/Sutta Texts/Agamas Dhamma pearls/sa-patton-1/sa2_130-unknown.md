@@ -32,3 +32,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_130-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_130]]
+> ◄  [[SA2_129]] 📜  [[SA2_180]] ►

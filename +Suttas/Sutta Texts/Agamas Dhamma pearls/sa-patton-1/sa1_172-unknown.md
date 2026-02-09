@@ -79,3 +79,5 @@ He replied, “Yes, Venerable Śāriputra.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa1_172-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA1_172]]
+> ◄  [[SA1_169]] 📜  [[SA1_178]] ►

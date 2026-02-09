@@ -24,3 +24,5 @@ hitvā satapalaṃ kaṃsaṃ sovaṇṇaṃ satarājikaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag844-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG844]]
+> ◄  [[thag843-pali-pts]] 📜  [[thag862-pali-pts]] ►

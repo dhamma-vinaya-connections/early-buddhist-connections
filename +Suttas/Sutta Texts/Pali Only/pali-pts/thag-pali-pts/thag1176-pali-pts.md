@@ -24,3 +24,5 @@ visallaṃ khīṇasaṃyogaṃ tevijjaṃ maccuhāyinaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1176-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1176]]
+> ◄  [[thag1175-pali-pts]] 📜  [[thag1177-pali-pts]] ►

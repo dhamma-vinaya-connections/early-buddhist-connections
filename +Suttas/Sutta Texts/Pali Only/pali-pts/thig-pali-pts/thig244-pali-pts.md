@@ -23,3 +23,5 @@ kumaggaṃ paṭipannaṃ maṃ ariyamaggaṃ samānayi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig244-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG244]]
+> ◄  [[thig243-pali-pts]] 📜  [[thig245-pali-pts]] ►

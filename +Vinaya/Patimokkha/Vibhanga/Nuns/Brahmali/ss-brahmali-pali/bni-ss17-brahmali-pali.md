@@ -373,7 +373,8 @@ saṅghādisesā terasāti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-ss17-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SS17]] |
->|       |          | [[ñanatusita-analysis#^-SS17]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SS17]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS17]]

@@ -23,3 +23,5 @@ nāgassa passe āsīnaṃ muniṃ dukkhassa pāraguṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1248-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1248]]
+> ◄  [[thag1247-pali-pts]] 📜  [[thag1249-pali-pts]] ►

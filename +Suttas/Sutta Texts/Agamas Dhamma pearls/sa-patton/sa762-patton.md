@@ -38,3 +38,5 @@ Last Revised: 25 November 2022
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa762-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA762]]
+> ◄  [[sa761-patton]] 📜  [[sa763-patton]] ►

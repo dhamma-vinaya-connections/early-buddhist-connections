@@ -93,4 +93,5 @@ Sheds that clingy dust with a shake
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.7]]  🌐 [[SN9.9]] ►

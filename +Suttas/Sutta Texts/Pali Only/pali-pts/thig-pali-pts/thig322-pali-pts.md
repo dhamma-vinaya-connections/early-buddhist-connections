@@ -24,3 +24,5 @@ ehi sārathi gacchāhi rathaṃ nīyādayāhi 'maṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig322-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG322]]
+> ◄  [[thig321-pali-pts]] 📜  [[thig323-pali-pts]] ►

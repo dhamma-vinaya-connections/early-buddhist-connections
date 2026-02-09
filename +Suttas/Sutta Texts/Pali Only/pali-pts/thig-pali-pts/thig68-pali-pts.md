@@ -23,3 +23,5 @@ sā bhikkhuniṃ upāgacchiṃ yā me saddhāyikā ahu |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig68-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG68]]
+> ◄  [[thig67-pali-pts]] 📜  [[thig69-pali-pts]] ►

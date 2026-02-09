@@ -88,11 +88,12 @@ The Laṭukikopama Sutta, the sixth, is concluded.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN65]] | [[EA49.7]]; [[MA192]]; [[MA194]] | M i 447 |
+> |  | [[EA49.7]]; [[MA192]]; [[MA194]] | M i 447 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA49.7]]; [[MN65]]; [[MA194]]; [[MA192]] |
+| [[EA49.7]], [[MN65]], [[MA194]], [[MA192]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
 > ◄  [[mn65-deepseek-pali]] 📜  [[mn67-deepseek-pali]] ►

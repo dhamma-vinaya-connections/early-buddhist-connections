@@ -23,3 +23,5 @@ jahanti putte sappaññā tato ñātī tato dhanaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig300-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG300]]
+> ◄  [[thig299-pali-pts]] 📜  [[thig301-pali-pts]] ►

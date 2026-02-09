@@ -23,3 +23,5 @@ pāsādikena vattena kalyāṇairiyāpatho
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag431-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG431]]
+> ◄  [[thag430-pali-pts]] 📜  [[thag432-pali-pts]] ►

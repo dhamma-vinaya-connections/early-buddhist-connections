@@ -24,3 +24,5 @@ samaṇā ti bhoti maṃ vipassi samaṇā ti paṭibujjhasi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig270-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG270]]
+> ◄  [[thig269-pali-pts]] 📜  [[thig271-pali-pts]] ►

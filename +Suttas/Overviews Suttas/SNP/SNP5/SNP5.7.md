@@ -100,4 +100,5 @@ that cannot be classified.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.7
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.6]]  🌐 [[SNP5.8]] ►

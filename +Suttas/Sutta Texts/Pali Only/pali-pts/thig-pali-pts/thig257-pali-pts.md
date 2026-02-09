@@ -23,3 +23,5 @@ saṇhatuṅgasadisī ca nāsikā sobhate su abhiyobbanaṃ paṭi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig257-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG257]]
+> ◄  [[thig256-pali-pts]] 📜  [[thig258-pali-pts]] ►

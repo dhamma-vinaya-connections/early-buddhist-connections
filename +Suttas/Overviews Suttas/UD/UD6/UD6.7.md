@@ -99,4 +99,5 @@ Thus these two ends promote the cemetery grounds, and the cemetery grounds promo
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.7
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.6]]  🌐 [[UD6.8]] ►

@@ -23,3 +23,5 @@ yo ca jātisataṃ gacche sabbā brāhmaṇajātiyo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1169-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1169]]
+> ◄  [[thag1168-pali-pts]] 📜  [[thag1170-pali-pts]] ►

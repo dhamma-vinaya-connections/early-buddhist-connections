@@ -23,3 +23,5 @@ allaṃ sukkhaṃ ca bhuñjanto na bāḷhaṃ suhito siyā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag981-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG981]]
+> ◄  [[thag980-pali-pts]] 📜  [[thag982-pali-pts]] ►

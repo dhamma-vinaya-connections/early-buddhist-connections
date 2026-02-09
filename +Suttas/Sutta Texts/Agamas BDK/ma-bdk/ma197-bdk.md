@@ -49,5 +49,10 @@ is a transaction in accordance with the Dharma, a transaction in accordance with
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma197-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MA196]], [[MN104]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA197]]
 > ◄  [[ma196-bdk]] 📜  [[ma198-bdk]] ►

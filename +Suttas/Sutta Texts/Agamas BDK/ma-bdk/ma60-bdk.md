@@ -61,5 +61,10 @@ Then the World-honored One said: Ānanda, do you think that King Mandhātu of an
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma60-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DA6]], [[DHP\|DHP187.]], [[MA67]], [[MA70]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA60]]
 > ◄  [[ma59-bdk]] 📜  [[ma61-bdk]] ►

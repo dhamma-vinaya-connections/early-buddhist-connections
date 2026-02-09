@@ -24,3 +24,5 @@ lūnakesī paṅkadharī ekasāṭī pure cariṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig106-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG106]]
+> ◄  [[thig105-pali-pts]] 📜  [[thig107-pali-pts]] ►

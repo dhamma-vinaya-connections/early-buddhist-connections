@@ -25,3 +25,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.10]]
+> ◄  [[an2.9-bodhi]] 📜  [[an2.11-bodhi]] ►

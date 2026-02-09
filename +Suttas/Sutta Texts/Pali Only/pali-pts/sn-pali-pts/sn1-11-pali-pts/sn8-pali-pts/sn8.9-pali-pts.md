@@ -46,5 +46,6 @@ Koṇḍañño buddha-sāvako || pāde vandati satthuno ti || ||
 | [[SA-2.225]], [[SA1209]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.9]]
 > ◄  [[sn8.8-pali-pts]] 📜  [[sn8.10-pali-pts]] ►

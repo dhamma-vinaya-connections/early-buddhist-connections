@@ -23,3 +23,5 @@ sara kaṭasiṃ vaḍḍhente punappunaṃ tāsu tāsu jātīsu |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig501-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG501]]
+> ◄  [[thig500-pali-pts]] 📜  [[thig502-pali-pts]] ►

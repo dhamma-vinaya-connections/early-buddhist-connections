@@ -91,4 +91,5 @@ parallels_partilal: "[[SA923]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.111
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.111.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.110]]  🌐 [[AN4.112]] ►

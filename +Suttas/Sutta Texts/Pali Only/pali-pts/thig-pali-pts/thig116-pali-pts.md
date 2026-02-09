@@ -24,3 +24,5 @@ musalāni gahetvāna dhaññaṃ koṭṭenti mānavā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig116-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG116]]
+> ◄  [[thig115-pali-pts]] 📜  [[thig117-pali-pts]] ►

@@ -74,11 +74,12 @@ honest, and without deception, will, after having been taught by me and having f
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN25]] | [[DA8]] |  |
+> |  | [[DA8]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA14]], [[MA134]], [[SNP3.6]], [[SN22.4]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA104]]
 > ◄  [[ma103-bdk]] 📜  [[ma105-bdk]] ►

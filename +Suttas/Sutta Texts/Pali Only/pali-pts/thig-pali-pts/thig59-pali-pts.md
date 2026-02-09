@@ -24,3 +24,5 @@ yaṃ taṃ isīhi pattabbaṃ ṭhānaṃ durabhisaṃbhavaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig59-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG59]]
+> ◄  [[thig58-pali-pts]] 📜  [[thig60-pali-pts]] ►

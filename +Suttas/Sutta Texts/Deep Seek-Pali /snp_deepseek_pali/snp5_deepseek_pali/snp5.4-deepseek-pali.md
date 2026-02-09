@@ -76,5 +76,6 @@ The The Questions of Puṇṇaka, the nth is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SNP3.4]], [[AN3:32ANDAN4:41]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.4]]
 > ◄  [[snp5.3-deepseek-pali]] 📜  [[snp5.5-deepseek-pali]] ►

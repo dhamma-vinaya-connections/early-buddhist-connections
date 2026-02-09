@@ -89,4 +89,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.13
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.13.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.12]]  🌐 [[SNP5.14]] ►

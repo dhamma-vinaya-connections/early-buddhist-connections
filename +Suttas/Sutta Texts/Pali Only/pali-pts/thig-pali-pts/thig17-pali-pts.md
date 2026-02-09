@@ -25,3 +25,5 @@ hitvā rāgañ ca dosañ ca avijjañ ca virājiya |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig17-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG17]]
+> ◄  [[thig16-pali-pts]] 📜  [[thig18-pali-pts]] ►

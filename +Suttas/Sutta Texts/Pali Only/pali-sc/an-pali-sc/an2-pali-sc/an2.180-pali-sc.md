@@ -37,3 +37,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.180-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.180]]
+> ◄  [[an2.163-pali-sc]] 📜  [[an2.230-pali-sc]] ►

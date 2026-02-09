@@ -23,3 +23,5 @@ ehi Kāḷa nivattassu bhuñja kāme yathā pure |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig294-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG294]]
+> ◄  [[thig293-pali-pts]] 📜  [[thig295-pali-pts]] ►

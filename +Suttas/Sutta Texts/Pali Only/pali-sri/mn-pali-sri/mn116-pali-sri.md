@@ -197,5 +197,6 @@ Isigilisuttaṃ jaṭṭhaṃ
 | [[EA38.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116]]
 > ◄  [[mn115-pali-sri]] 📜  [[mn117-pali-sri]] ►

@@ -34,15 +34,16 @@ This meaning, too, was spoken by the Blessed One, thus have I heard. The eighth.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP364]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP364]], [[THAG17.3]] |
+| [[DHP\|DHP364]], [[THAG17]].3 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN8:4]], [[SN12.67]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI86]]
 > ◄  [[iti85-deepseek-pali]] 📜  [[iti87-deepseek-pali]] ►

@@ -23,3 +23,5 @@ kamarāgena ḍayhāmi, cittaṃ me pariḍayhati;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1222-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1222]]
+> ◄  [[thag1221-pali-pts]] 📜  [[thag1223-pali-pts]] ►

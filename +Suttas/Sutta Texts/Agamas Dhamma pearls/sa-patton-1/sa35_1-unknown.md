@@ -62,3 +62,5 @@ _Feeling, conception, volition, and consciousness are likewise._
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa35_1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA35_1]]
+> ◄  [[SA26_11]] 📜  [[SA35_7]] ►

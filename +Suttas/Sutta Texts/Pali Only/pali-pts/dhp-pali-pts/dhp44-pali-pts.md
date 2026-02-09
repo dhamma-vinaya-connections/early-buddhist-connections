@@ -24,3 +24,5 @@ sekho paṭhaviṃ vijessati Yamalokaṃ ca imaṃ sadevakaṃ. /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp44-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP44]]
+> ◄  [[dhp43-pali-pts]] 📜  [[dhp45-pali-pts]] ►

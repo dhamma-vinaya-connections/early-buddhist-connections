@@ -36,7 +36,7 @@ This meaning too was spoken by the Blessed One, so I have heard. Second.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.34]] | [[EA21.1]], [[SA902-904]] |  |
+> |  | [[EA21.1]], [[SA902-904]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.34]], [[EA21.1]], [[AN5.32]], [[SA902-904]], [[SN45.139]] |
@@ -44,7 +44,8 @@ This meaning too was spoken by the Blessed One, so I have heard. Second.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN4.52]], [[AN7.56]], [[AN10.92]], [[DHP188]], [[DHP189]], [[DHP190]], [[DHP191]], [[DHP192]], [[ITI112]]
+> - [[AN4.52]], [[AN7.56]], [[AN10.92]], [[DHP\|DHP188]], [[DHP\|DHP189]], [[DHP\|DHP190]], [[DHP\|DHP191]], [[DHP\|DHP192]], [[ITI112]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI90]]
 > ◄  [[iti89-deepseek-pali]] 📜  [[iti91-deepseek-pali]] ►

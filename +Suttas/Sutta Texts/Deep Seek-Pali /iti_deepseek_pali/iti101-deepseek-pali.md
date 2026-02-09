@@ -37,5 +37,10 @@ This too is the meaning that was spoken by the Blessed One, so I have heard. Fou
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti101-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.9]], [[AN4.27]], [[AN4.28]], [[SN3.12]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI101]]
 > ◄  [[iti100-deepseek-pali]] 📜  [[iti102-deepseek-pali]] ►

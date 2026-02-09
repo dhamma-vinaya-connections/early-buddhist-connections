@@ -113,5 +113,6 @@ Then another deity said this to the Blessed One: "Whose words, Blessed One, are 
 | [[JA424]], [[JA450]], [[SN1.32]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
 > ◄  [[sn1.32-deepseek-pali]] 📜  [[sn1.34-deepseek-pali]] ►

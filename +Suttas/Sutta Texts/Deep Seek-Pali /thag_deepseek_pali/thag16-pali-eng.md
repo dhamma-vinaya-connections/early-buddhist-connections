@@ -1205,3 +1205,5 @@ The Chapter of the Twenties is concluded. Tatruddānaṃ – The summary: Adhimu
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag16-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG16]]
+> ◄  [[thag15-pali-eng]] 📜  [[thag17-pali-eng]] ►

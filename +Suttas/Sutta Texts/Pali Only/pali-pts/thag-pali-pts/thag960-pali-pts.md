@@ -23,3 +23,5 @@ ajegucchaṃ vimuttehi surattaṃ arahaddhajaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag960-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG960]]
+> ◄  [[thag959-pali-pts]] 📜  [[thag961-pali-pts]] ►

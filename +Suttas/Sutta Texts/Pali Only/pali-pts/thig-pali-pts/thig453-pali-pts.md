@@ -24,3 +24,5 @@ saccāni amma buddhavaradesitāni te bahutarā ajānantā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig453-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG453]]
+> ◄  [[thig452-pali-pts]] 📜  [[thig454-pali-pts]] ►

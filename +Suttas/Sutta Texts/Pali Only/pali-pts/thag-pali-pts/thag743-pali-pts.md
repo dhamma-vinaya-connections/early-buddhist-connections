@@ -23,3 +23,5 @@ tacchanto āṇiyā āṇiṃ nihanti balavā yathā:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag743-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG743]]
+> ◄  [[thag742-pali-pts]] 📜  [[thag744-pali-pts]] ►

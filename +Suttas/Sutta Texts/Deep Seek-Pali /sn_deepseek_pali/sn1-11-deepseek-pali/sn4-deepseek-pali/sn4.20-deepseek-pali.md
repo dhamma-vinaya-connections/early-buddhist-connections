@@ -60,11 +60,12 @@ The stone, the lion, the potsherd, and the mind that is fitting; the bowl, the s
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP186-187]] | [[SA1098]] |  |
+> |  | [[SA1098]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA1098]], [[DHP186-187]], [[JA258]], [[SN4.21]], [[PE1]] |
+| [[SA1098]], [[DHP\|DHP186-187]], [[JA258]], [[SN4.21]], [[PE1]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.20]]
 > ◄  [[sn4.19-deepseek-pali]] 📜  [[sn4.21-deepseek-pali]] ►

@@ -32,5 +32,6 @@ Atha kho aññataro bhikkhu yena Bhagavā ten'; upasaṅkami, upasaṅkamitvā B
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.64]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.74]]
 > ◄  [[an5.73-pali-pts]] 📜  [[an5.75-pali-pts]] ►

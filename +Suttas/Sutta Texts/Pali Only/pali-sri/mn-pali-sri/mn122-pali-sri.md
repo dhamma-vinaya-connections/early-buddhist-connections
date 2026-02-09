@@ -142,12 +142,13 @@ Mahāsuññata suttaṃ dutiyaṃ
 > |  | [[MA191]] | M iii 109 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA191]]; [[MN139]] |
+| [[MA191]], [[MN139]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN121]]; [[[[SN35.85]]]]; [[[[AN5.30]]]]; [[[[AN6.42]]]]; [[[[AN8.30]]]]; [[[[SN1.3]], [[MN137]], [[ITI109]], [[MN106]], [[AN8.86]]
+> - [[MN121]], [[SN35.85]], [[AN5.30]], [[AN6.42]], [[AN8.30]], [[SNP1.3]], [[MN137]], [[ITI109]], [[MN106]], [[AN8.86.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN122]]
 > ◄  [[mn121-pali-sri]] 📜  [[mn123-pali-sri]] ►

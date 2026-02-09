@@ -33,3 +33,5 @@ Cuddasamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.264-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.264]]
+> ◄  [[an5.257-sujato-pali]] 📜  [[an5.265-sujato-pali]] ►

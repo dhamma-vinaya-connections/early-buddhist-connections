@@ -25,3 +25,5 @@ Ekaputto ahaṃ āsiṃ piyo mātu piyo pitu
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag472-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG472]]
+> ◄  [[thag471-pali-pts]] 📜  [[thag473-pali-pts]] ►

@@ -104,11 +104,12 @@ Remembering this, a mortal, a person established in the Noble Dhamma, here itsel
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.41]] | [[MA126]] | A ii 65 |
+> |  | [[MA126]] | A ii 65 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.41]], [[MA126]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.61]]
 > ◄  [[an4.60-deepseek-pali]] 📜  [[an4.62-deepseek-pali]] ►

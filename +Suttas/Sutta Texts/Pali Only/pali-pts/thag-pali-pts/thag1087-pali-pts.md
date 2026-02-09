@@ -22,3 +22,5 @@ dhutaguṇe visiṭṭho 'haṃ, sadiso me na vijjati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1087-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1087]]
+> ◄  [[thag1086-pali-pts]] 📜  [[thag1088-pali-pts]] ►

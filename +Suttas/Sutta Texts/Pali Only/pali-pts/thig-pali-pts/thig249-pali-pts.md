@@ -23,3 +23,5 @@ upemi buddhaṃ saraṇaṃ dhammaṃ saṅghañ ca tādinaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig249-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG249]]
+> ◄  [[thig248-pali-pts]] 📜  [[thig250-pali-pts]] ►

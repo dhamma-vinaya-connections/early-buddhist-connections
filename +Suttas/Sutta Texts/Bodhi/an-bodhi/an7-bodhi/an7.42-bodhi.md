@@ -42,5 +42,6 @@ Then, when the Venerable Sāriputta had walked for alms in Sāvatthī, after his
 | [[AN7.20]], [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
 > ◄  [[an7.41-bodhi]] 📜  [[an7.43-bodhi]] ►

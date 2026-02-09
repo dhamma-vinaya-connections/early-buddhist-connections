@@ -78,5 +78,6 @@ not the other who utters incantations.
 | [[SA884-885]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.59]]
 > ◄  [[an3.58-bodhi]] 📜  [[an3.60-bodhi]] ►

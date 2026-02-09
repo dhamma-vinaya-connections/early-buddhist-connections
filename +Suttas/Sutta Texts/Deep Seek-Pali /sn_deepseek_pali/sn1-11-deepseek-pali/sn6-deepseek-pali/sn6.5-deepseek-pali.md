@@ -82,5 +82,6 @@ Thus spoke that Brahmā of his retinue. And that Brahmā was delighted and rejoi
 | [[SA-2.109]], [[SA1196]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.5]]
 > ◄  [[sn6.4-deepseek-pali]] 📜  [[sn6.6-deepseek-pali]] ►

@@ -24,3 +24,5 @@ yaṃ kiñci saṭhilaṃ kammaṃ saṃkiliṭṭhañ ca yaṃ vataṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp311-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP311]]
+> ◄  [[dhp310-pali-pts]] 📜  [[dhp312-pali-pts]] ►

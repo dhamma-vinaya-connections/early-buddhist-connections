@@ -80,5 +80,10 @@ Aṭṭhamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.8-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[THAG16:7]], [[SN46.45]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.8]]
 > ◄  [[ud3.7-anandajoti-pali]] 📜  [[ud3.9-anandajoti-pali]] ►

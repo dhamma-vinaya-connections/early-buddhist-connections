@@ -134,5 +134,6 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 | [[MA214]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
 > ◄  [[mn87-bodhi]] 📜  [[mn89-bodhi]] ►

@@ -24,3 +24,5 @@ yo ca Buddhañ ca Dhammañ ca Saṃghañ ca saraṇaṃ gato /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp189-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP189]]
+> ◄  [[dhp188-pali-pts]] 📜  [[dhp190-pali-pts]] ►

@@ -22,3 +22,5 @@ akkodhano . . . kalyāṇasīlo yo bhikkhu evaṃ pecca na socati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag504-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG504]]
+> ◄  [[thag503-pali-pts]] 📜  [[thag505-pali-pts]] ►

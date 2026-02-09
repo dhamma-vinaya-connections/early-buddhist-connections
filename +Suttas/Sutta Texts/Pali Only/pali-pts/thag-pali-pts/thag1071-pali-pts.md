@@ -22,3 +22,5 @@ yathā ekaggacittassa sammā dhammaṃ vipassato.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1071-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1071]]
+> ◄  [[thag1070-pali-pts]] 📜  [[thag1072-pali-pts]] ►

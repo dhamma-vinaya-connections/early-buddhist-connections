@@ -60,5 +60,6 @@ Agamāsi ca kho so brahmā aparena samayena Bhagavato upaṭṭhānam arahato sa
 | [[SA-2.107]], [[SA1194]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
 > ◄  [[sn6.5-pali-pts]] 📜  [[sn6.7-pali-pts]] ►

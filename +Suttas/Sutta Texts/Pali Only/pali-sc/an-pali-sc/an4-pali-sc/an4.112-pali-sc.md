@@ -30,7 +30,7 @@ Dutiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.203]] |  | A ii 113 |
+> |  |  | A ii 113 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.203]] |
@@ -39,6 +39,7 @@ Dutiyaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.113]], [[MN107]], [[MN65]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.112]]
 > ◄  [[an4.111-pali-sc]] 📜  [[an4.113-pali-sc]] ►

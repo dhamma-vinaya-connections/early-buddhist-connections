@@ -123,8 +123,9 @@ Piṇḍapātapārisuddhisuttaṁ niṭṭhitaṁ navamaṁ.
 > |  | [[EA45.6]]; [[SA236]] | M iii 293 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA45.6]]; [[SA236]] |
+| [[EA45.6]], [[SA236]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
 > ◄  [[mn150-sujato-pali]] 📜  [[mn152-sujato-pali]] ►

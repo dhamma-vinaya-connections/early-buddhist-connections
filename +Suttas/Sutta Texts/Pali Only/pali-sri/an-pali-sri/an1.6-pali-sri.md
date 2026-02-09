@@ -349,5 +349,6 @@ Brāhmaṇavaggo paṭhamo.
 | [[EA9.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.6]]
 > ◄  [[an1.5-pali-sri]] 📜  [[an1.7-pali-sri]] ►

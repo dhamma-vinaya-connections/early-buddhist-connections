@@ -23,3 +23,5 @@ oraṃ odanapākamhā tamhā ṭhānā apakkamiṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag316-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG316]]
+> ◄  [[thag315-pali-pts]] 📜  [[thag317-pali-pts]] ►

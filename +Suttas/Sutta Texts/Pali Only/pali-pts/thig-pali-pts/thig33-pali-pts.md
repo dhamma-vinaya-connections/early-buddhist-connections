@@ -23,3 +23,5 @@ evaṃ viharamānāya sabbo rāgo samūhato |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig33-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG33]]
+> ◄  [[thig32-pali-pts]] 📜  [[thig34-pali-pts]] ►

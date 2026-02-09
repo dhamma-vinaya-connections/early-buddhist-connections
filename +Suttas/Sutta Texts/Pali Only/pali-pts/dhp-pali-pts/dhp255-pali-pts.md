@@ -27,3 +27,5 @@ na tena hoti dhammaṭṭho yen'; atthaṃ sahasā naye, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp255-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP255]]
+> ◄  [[dhp254-pali-pts]] 📜  [[dhp256-pali-pts]] ►

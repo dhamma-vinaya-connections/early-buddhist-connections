@@ -24,3 +24,5 @@ Hārito thero.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag29-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG29]]
+> ◄  [[thag28-pali-pts]] 📜  [[thag30-pali-pts]] ►

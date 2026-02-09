@@ -32,10 +32,11 @@ states, much less that you will regress; rather [I say] that you will, by day an
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.63]], [[SN47.3]] |  | M i 212 |
+> |  |  | M i 212 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.53]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA76]]
 > ◄  [[ma75-bdk]] 📜  [[ma77-bdk]] ►

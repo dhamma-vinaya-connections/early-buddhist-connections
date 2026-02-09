@@ -23,3 +23,5 @@ itthibhāvo no kiṃ kayirā cittamhi susamāhite |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig60-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG60]]
+> ◄  [[thig59-pali-pts]] 📜  [[thig61-pali-pts]] ►

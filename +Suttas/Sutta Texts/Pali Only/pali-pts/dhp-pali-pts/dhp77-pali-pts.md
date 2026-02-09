@@ -24,3 +24,5 @@ na bhaje pāpake mitte na bhaje purisādhame, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp77-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP77]]
+> ◄  [[dhp76-pali-pts]] 📜  [[dhp78-pali-pts]] ►

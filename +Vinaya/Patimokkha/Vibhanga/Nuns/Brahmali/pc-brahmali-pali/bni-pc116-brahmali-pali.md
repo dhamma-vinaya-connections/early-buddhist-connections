@@ -117,7 +117,8 @@ dvāraṁ sappāṇakena cāti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc116-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC116]] |
->|       |          | [[ñanatusita-analysis#^-PC116]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC116]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC116]]

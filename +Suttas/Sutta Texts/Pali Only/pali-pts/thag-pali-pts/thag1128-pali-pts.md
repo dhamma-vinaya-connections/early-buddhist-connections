@@ -23,3 +23,5 @@ na nūna dubbhissasi maṃ punappunaṃ muhuṃ muhuṃ vāraṇikaṃ va dassah
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1128-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1128]]
+> ◄  [[thag1127-pali-pts]] 📜  [[thag1129-pali-pts]] ►

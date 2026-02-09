@@ -58,11 +58,12 @@ pāsena sakuṇī yathā"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.77]] | [[SA-2.290]], [[SA1292]] |  |
+> |  | [[SA-2.290]], [[SA1292]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.290]], [[SN1.77]], [[SA1292]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.79]]
 > ◄  [[sn1.78-sujato-pali]] 📜  [[sn1.80-sujato-pali]] ►

@@ -93,4 +93,5 @@ is finished;
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti94
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti94.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI93]]  🌐 [[ITI95]] ►

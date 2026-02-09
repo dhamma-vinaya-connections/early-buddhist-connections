@@ -189,6 +189,6 @@ The Buddha told the king, “You were foolish, benighted, and unaware, and you�
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN2]] | [[EA43.7]], [[SA154-163]] |  |
+> |  | [[EA43.7]], [[SA154-163]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA27]]
 > ◄  [[da26-patton]] 📜  [[da28-patton]] ►

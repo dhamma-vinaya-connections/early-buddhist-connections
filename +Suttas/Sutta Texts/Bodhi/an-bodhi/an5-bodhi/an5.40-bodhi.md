@@ -66,7 +66,7 @@ delighting in the deva world. \[45\]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.48]] | [[EA50.7]] | A iii 44 |
+> |  | [[EA50.7]] | A iii 44 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.48]], [[EA50.7]], [[ITI107]] |
@@ -75,6 +75,7 @@ delighting in the deva world. \[45\]
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.38]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.40]]
 > ◄  [[an5.39-bodhi]] 📜  [[an5.41-bodhi]] ►

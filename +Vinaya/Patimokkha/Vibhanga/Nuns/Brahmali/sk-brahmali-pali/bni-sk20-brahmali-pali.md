@@ -59,7 +59,8 @@ Ujjagghikavaggo dutiyo.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-sk20-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SK20]] |
->|       |          | [[ñanatusita-analysis#^-SK20]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SK20]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK20]]

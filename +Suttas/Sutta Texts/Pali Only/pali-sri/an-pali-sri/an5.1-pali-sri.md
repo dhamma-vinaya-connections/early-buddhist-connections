@@ -529,5 +529,6 @@ Devadatto ca uttaro, nando kāraṇḍavena cāti.
 | [[SA677-678]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.1]]
 > ◄  [[an4.12-pali-sri]] 📜  [[an5.2-pali-sri]] ►

@@ -81,11 +81,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN117]] | [[MA189]] |  |
+> |  | [[MA189]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MA189]], [[MN117]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA785]]
 > ◄  [[sa784-patton]] 📜  [[sa803-patton]] ►

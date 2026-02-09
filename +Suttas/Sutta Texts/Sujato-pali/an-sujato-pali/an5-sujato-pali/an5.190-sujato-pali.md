@@ -31,3 +31,5 @@ From a cow comes milk, from milk comes curds, from curds come butter, from butte
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.190-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.190]]
+> ◄  [[an5.189-sujato-pali]] 📜  [[an5.191-sujato-pali]] ►

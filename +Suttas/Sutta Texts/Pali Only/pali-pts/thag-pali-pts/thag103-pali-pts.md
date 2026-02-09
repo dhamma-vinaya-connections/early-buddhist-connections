@@ -23,3 +23,5 @@ Lahuko vata me kāyo phuṭṭho ca pītisukhena vipulena,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag103-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG103]]
+> ◄  [[thag102-pali-pts]] 📜  [[thag104-pali-pts]] ►

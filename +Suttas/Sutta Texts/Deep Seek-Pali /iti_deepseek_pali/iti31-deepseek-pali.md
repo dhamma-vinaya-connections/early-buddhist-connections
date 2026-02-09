@@ -38,5 +38,6 @@ This meaning too was spoken by the Blessed One, so I have heard. The Fifth.
 | [[ITI65]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI31]]
 > ◄  [[iti30-deepseek-pali]] 📜  [[iti32-deepseek-pali]] ►

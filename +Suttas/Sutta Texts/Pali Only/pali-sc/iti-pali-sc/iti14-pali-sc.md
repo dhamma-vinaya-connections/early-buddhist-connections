@@ -32,3 +32,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti14-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI14]]
+> ◄  [[iti13-pali-sc]] 📜  [[iti15-pali-sc]] ►

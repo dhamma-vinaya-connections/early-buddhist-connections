@@ -23,3 +23,5 @@ disā hi me khantivādānaṃ avirodhappasaṃsinaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag874-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG874]]
+> ◄  [[thag873-pali-pts]] 📜  [[thag875-pali-pts]] ►

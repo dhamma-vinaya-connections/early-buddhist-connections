@@ -170,5 +170,6 @@ those wise ones attain nibbāna.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.57]], [[AN10.92]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.179]]
 > ◄  [[an5.178-bodhi]] 📜  [[an5.180-bodhi]] ►

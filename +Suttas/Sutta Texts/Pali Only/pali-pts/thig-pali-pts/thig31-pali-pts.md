@@ -23,3 +23,5 @@ sājja ekena bhattena muṇḍā saṃghāṭipārutā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig31-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG31]]
+> ◄  [[thig30-pali-pts]] 📜  [[thig32-pali-pts]] ►

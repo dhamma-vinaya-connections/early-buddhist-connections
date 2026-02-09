@@ -104,5 +104,6 @@ Sattamaṁ.
 | [[EA37.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
 > ◄  [[an7.49-sujato-pali]] 📜  [[an7.51-sujato-pali]] ►

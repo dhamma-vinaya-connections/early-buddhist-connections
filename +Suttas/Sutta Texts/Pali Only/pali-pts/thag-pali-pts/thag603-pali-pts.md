@@ -23,3 +23,5 @@ pariciṇṇo mayā satthā, kataṃ buddhassa sāsanaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag603-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG603]]
+> ◄  [[thag602-pali-pts]] 📜  [[thag604-pali-pts]] ►

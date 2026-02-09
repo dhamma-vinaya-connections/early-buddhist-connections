@@ -42,5 +42,6 @@ Paṭhamaṁ.
 | [[PE6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.31]]
 > ◄  [[an4.30-pali-sc]] 📜  [[an4.32-pali-sc]] ►

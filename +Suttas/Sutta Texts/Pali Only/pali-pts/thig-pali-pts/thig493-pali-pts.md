@@ -23,3 +23,5 @@ dvāraṃ apāpuṇitvāna 'yaṃ mātāpitaro Anikarattañ ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig493-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG493]]
+> ◄  [[thig492-pali-pts]] 📜  [[thig494-pali-pts]] ►

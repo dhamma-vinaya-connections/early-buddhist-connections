@@ -50,3 +50,5 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti29-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI29]]
+> ◄  [[iti28-thanissaro]] 📜  [[iti30-thanissaro]] ►

@@ -23,3 +23,5 @@ dabbaṃ kusaṃ poṭakilaṃ usīraṃ mañjapabbajaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag232-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG232]]
+> ◄  [[thag231-pali-pts]] 📜  [[thag233-pali-pts]] ►

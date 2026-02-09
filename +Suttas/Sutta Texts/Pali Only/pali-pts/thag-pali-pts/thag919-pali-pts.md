@@ -23,3 +23,5 @@ Samaṇassa ahū cintā pupphitamhi mahāvane
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag919-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG919]]
+> ◄  [[thag918-pali-pts]] 📜  [[thag920-pali-pts]] ►

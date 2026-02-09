@@ -76,5 +76,6 @@ Appamādarato bhikkhu pamāde bhayadassi vā abhabbo parihānāya nibbānasseva 
 | [[EA52.7]], [[PE2]], [[PE8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP2]]
 > ◄  [[dhp1-pali-sc]] 📜  [[dhp3-pali-sc]] ►

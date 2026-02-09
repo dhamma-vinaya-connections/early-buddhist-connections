@@ -23,3 +23,5 @@ ito bahiddhā pāsaṇḍā diṭṭhiyo upanissitā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig183-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG183]]
+> ◄  [[thig182-pali-pts]] 📜  [[thig184-pali-pts]] ►

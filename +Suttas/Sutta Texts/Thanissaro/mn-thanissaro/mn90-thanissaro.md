@@ -171,5 +171,6 @@ Then King Pasenadi Kosala, delighting in and approving of the Blessed One’s wo
 | [[MA212]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn87-thanissaro]] 📜  [[mn91-thanissaro]] ►

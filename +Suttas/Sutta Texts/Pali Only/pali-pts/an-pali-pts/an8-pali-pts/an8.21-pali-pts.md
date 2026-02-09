@@ -33,5 +33,6 @@ Ekaṃ samayaṃ Bhagavā Vesāliyaṃ viharati Mahāvane Kūṭāgārasālāya�
 | [[MA38]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.21]]
 > ◄  [[an8.20-pali-pts]] 📜  [[an8.22-pali-pts]] ►

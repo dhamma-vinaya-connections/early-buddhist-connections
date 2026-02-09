@@ -37,7 +37,8 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||1||
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN9]], [[DHP164]]
+> - [[MN9]], [[DHP\|DHP164]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI50]]
 > ◄  [[iti49-pali-pts]] 📜  [[iti51-pali-pts]] ►

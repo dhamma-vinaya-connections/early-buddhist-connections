@@ -51,5 +51,6 @@ Sattamaṁ.
 | [[MN2]], [[MN125]], [[AN4.114]], [[AN4.165]], [[AN5.140]], [[PLI-TV-KD1]], [[PLI-TV-BU-VB-PC65]], [[PLI-TV-BI-VB-PC71]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.157]]
 > ◄  [[an4.156-pali-sc]] 📜  [[an4.158-pali-sc]] ►

@@ -86,4 +86,5 @@ parallels_partilal: "[[SA560]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.170
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.170.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.169]]  🌐 [[AN4.171]] ►

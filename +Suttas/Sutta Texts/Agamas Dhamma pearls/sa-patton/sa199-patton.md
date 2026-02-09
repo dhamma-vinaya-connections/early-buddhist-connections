@@ -36,11 +36,12 @@ _As with the inner senses, the outer senses … up to … cravings that arise fr
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN18.22]], [[SN22.92]] | [[SA24]] |  |
+> |  | [[SA24]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA24]], [[SN18.22]], [[SN22.92]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA199]]
 > ◄  [[sa198-patton]] 📜  [[sa200-patton]] ►

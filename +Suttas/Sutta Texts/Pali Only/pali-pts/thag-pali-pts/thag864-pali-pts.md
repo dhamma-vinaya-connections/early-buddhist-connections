@@ -23,3 +23,5 @@ sīlakkhandhe patiṭṭhāya satiṃ paññañ ca bhāvayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag864-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG864]]
+> ◄  [[thag863-pali-pts]] 📜  [[thag865-pali-pts]] ►

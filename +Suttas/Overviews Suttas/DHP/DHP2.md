@@ -95,4 +95,5 @@ burning up fetters big and small
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp2
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP1]]  🌐 [[DHP3]] ►

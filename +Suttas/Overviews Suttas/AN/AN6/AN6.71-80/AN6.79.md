@@ -86,4 +86,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.79
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.79.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.78]]  🌐 [[AN6.80]] ►

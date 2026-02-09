@@ -23,3 +23,5 @@ acchodikā puthusilā gonaṅgulamigāyutā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag600-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG600]]
+> ◄  [[thag599-pali-pts]] 📜  [[thag601-pali-pts]] ►

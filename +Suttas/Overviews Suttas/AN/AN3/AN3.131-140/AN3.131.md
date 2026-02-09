@@ -86,4 +86,5 @@ parallels_partilal: "[[EA22.4]], [[PLI-TV-PVR7]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.131
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.131.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.130]]  🌐 [[AN3.132]] ►

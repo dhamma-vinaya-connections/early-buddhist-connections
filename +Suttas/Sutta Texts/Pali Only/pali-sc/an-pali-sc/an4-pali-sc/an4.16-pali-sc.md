@@ -55,5 +55,6 @@ Chaṭṭhaṁ.
 | [[ITI62]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.16]]
 > ◄  [[an4.15-pali-sc]] 📜  [[an4.17-pali-sc]] ►

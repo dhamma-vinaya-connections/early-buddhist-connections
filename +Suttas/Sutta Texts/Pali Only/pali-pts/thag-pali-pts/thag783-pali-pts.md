@@ -23,3 +23,5 @@ tasmā hi paññā 'va dhanena seyyo yāya vosānaṃ idhādhigacchati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag783-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG783]]
+> ◄  [[thag782-pali-pts]] 📜  [[thag784-pali-pts]] ►

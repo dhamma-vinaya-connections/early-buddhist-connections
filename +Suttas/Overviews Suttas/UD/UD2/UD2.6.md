@@ -79,7 +79,7 @@ He is a person who is in a state of bondage in regard to (other) people.”
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN21]], [[MN28]], [[DHP200]], [[AN221]], [[AN396]], [[AN421]], [[AN]]
+> - [[DN21]], [[MN28]], [[DHP\|DHP200]], [[AN221]], [[AN396]], [[AN421]], [[AN]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -97,5 +97,6 @@ He is a person who is in a state of bondage in regard to (other) people.”
 > - Sutta Central: https://suttacentral.net/ud2.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.6
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.5]]  🌐 [[UD2.7]] ►

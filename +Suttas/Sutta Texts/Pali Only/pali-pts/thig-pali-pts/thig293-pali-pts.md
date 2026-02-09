@@ -24,3 +24,5 @@ pakkāmissañ ca Nālāto ko 'dha Nālāya vacchati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig293-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG293]]
+> ◄  [[thig292-pali-pts]] 📜  [[thig294-pali-pts]] ►

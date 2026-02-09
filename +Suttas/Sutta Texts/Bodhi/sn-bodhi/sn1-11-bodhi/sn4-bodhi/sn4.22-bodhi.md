@@ -58,5 +58,6 @@ Then Māra the Evil One, realizing, “The bhikkhu Samiddhi knows me,” sad and
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.20]], [[SN4.17]], [[SN35.127]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.22]]
 > ◄  [[sn4.21-bodhi]] 📜  [[sn4.23-bodhi]] ►

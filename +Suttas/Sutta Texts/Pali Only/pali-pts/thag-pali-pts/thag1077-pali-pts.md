@@ -23,3 +23,5 @@ yassa sabrahmacārīsu gāravo n'; ūpalabbhati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1077-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1077]]
+> ◄  [[thag1076-pali-pts]] 📜  [[thag1078-pali-pts]] ►

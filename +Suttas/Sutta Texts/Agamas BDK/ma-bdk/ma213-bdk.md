@@ -47,6 +47,6 @@ Monks, today King Pasenadi of Kosala has spoken before me this “Dis- course on
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.30]], [[MN89]] | [[EA38.10]] |  |
+> |  | [[EA38.10]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA213]]
 > ◄  [[ma212-bdk]] 📜  [[ma214-bdk]] ►

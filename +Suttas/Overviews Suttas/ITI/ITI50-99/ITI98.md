@@ -89,4 +89,5 @@ it purifies their foremost benefit
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti98
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti98.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI97]]  🌐 [[ITI99]] ►

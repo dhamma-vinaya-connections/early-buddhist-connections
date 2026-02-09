@@ -53,11 +53,12 @@ Paṭhamo paṇṇāsako samatto.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.103]] |  | A i 153 |
+> |  |  | A i 153 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.103]], [[PLI-TV-BU-VB-PJ4]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.50]]
 > ◄  [[an3.49-pali-sc]] 📜  [[an3.51-pali-sc]] ►

@@ -24,3 +24,5 @@ sabbadukkhappahānāya dhammaṃ desesi pāṇinaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig305-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG305]]
+> ◄  [[thig304-pali-pts]] 📜  [[thig306-pali-pts]] ►

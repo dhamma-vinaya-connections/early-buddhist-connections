@@ -98,5 +98,6 @@ Ghaṭikāra, Raṭṭhapāla, Maghadeva, Madhurā, Bodhi, Aṅgulimāla, Piyaj�
 | [[MA212]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-deepseek-pali]] 📜  [[mn91-deepseek-pali]] ►

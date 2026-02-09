@@ -58,5 +58,6 @@ And those sacrifices that are without violence, which are always performed with 
 | [[SA-2.61]], [[SA1234]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.9]]
 > ◄  [[sn3.8-deepseek-pali]] 📜  [[sn3.10-deepseek-pali]] ►

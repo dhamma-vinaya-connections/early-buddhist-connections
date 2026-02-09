@@ -62,13 +62,13 @@ Click in any box to expand it.
 > |        | [[THIG]] | [[PDHP]] |
 > #### Topic Indexes: 
 >  Navigate to the Subjects folder to browse by Dhamma topic.
-> - [[✅Suttafriends Topics Index]]
-> - [[ATI INDEX/✅ ATI Similes Index]]
-> - [[ATI INDEX/✅ATI General Index]]
-> - [[ATI INDEX/✅ATI Index by Number]]
-> - [[✅Readingfaithfully.org Sutta Index]]
-> - [[✅Suttafriends Simile Index]]
-> - [[✅Gradual Training Outline 1.4]]
+> - [[ebt-source/Static just copy/Thematic indexes/Suttafriends Topics Index]]
+> - [[ebt-source/Static just copy/Thematic indexes/ATI INDEX/ATI Similes Index]]
+> - [[ebt-source/Static just copy/Thematic indexes/ATI INDEX/ATI General Index]]
+> - [[ebt-source/Static just copy/Thematic indexes/ATI INDEX/ATI Index by Number]]
+> - [[ebt-source/Static just copy/Thematic indexes/Readingfaithfully.org Sutta Index]]
+> - [[ebt-source/Static just copy/Thematic indexes/Suttafriends Simile Index]]
+> - [[ebt-source/Static just copy/Thematic indexes/Gradual Training Outline]]
 
 > [!summary]- 2. The File Explorer
 > Think of it as the "Bookshelf"

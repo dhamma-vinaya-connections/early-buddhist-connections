@@ -23,3 +23,5 @@ avitakkaṃ samāpanno sammāsambuddhasāvako
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag649-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG649]]
+> ◄  [[thag648-pali-pts]] 📜  [[thag650-pali-pts]] ►

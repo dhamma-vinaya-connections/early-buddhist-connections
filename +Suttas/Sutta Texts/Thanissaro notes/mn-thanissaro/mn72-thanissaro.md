@@ -143,12 +143,13 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  | [[SA-2.196]]; [[SA962]] | M i 483 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.196]]; [[SA962]]; [[SN44.1]] |
+| [[SA-2.196]], [[SA962]], [[SN44.1]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN4.24]]; [[AN4.42]]
+> - [[AN4.24]], [[AN4.42]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN72]]
 > ◄  [[mn70-thanissaro]] 📜  [[mn74-thanissaro]] ►

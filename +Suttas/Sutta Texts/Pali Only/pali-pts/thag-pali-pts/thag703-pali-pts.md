@@ -23,3 +23,5 @@ vītarāgo vītadoso vītamoho anāsavo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag703-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG703]]
+> ◄  [[thag702-pali-pts]] 📜  [[thag704-pali-pts]] ►

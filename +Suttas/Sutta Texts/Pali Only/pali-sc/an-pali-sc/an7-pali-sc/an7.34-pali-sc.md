@@ -39,11 +39,12 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP32]] |  | A iv 29 |
+> |  |  | A iv 29 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN6.33]], [[AN7.32]], [[AN7.33]] |
+| [[DHP\|DHP32]], [[AN4.37]], [[AN6.32]], [[AN6.33]], [[AN7.32]], [[AN7.33]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.34]]
 > ◄  [[an7.33-pali-sc]] 📜  [[an7.35-pali-sc]] ►

@@ -108,5 +108,6 @@ sabbattha vihato tamo"ti.
 | [[SA-2.220]], [[SA1204]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
 > ◄  [[sn5.3-sujato-pali]] 📜  [[sn5.5-sujato-pali]] ►

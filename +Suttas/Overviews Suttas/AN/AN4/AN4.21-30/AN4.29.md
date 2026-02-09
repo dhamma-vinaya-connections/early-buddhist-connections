@@ -91,4 +91,5 @@ Is called ‘a diligent one
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.29
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.29.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.28]]  🌐 [[AN4.30]] ►

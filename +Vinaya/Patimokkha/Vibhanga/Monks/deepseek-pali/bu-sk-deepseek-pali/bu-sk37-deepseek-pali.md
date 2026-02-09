@@ -40,7 +40,8 @@ The sixth training rule is completed.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk37-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK37]] |
->|       |          | [[ñanatusita-analysis#^SK37]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK37]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK37]]

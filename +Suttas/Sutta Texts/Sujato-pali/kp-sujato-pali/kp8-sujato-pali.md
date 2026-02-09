@@ -188,3 +188,5 @@ Discourse on the Amount of Savings
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP8]]
+> ◄  [[kp7-sujato-pali]] 📜  [[kp9-sujato-pali]] ►

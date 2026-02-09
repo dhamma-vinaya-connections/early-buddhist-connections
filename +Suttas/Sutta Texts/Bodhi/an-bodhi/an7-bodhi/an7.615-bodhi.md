@@ -27,3 +27,5 @@ The Book of the Sevens is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.615-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.615]]
+> ◄  [[an7.95-bodhi]] 📜  [[]] ►

@@ -23,3 +23,5 @@ yathācārī yathāsato satimā yathā saṃkappacariyāya appamatto
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag980-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG980]]
+> ◄  [[thag979-pali-pts]] 📜  [[thag981-pali-pts]] ►

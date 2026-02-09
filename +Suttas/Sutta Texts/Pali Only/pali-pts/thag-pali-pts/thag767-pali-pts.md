@@ -23,3 +23,5 @@ dīgharattānusayitaṃ cirarattapatiṭṭhitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag767-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG767]]
+> ◄  [[thag766-pali-pts]] 📜  [[thag768-pali-pts]] ►

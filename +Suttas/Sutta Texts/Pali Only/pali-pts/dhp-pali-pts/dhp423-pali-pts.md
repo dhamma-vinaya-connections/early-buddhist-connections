@@ -37,3 +37,5 @@ Dhammapadaṃ niṭṭhitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp423-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP423]]
+> ◄  [[dhp422-pali-pts]] 📜  [[]] ►

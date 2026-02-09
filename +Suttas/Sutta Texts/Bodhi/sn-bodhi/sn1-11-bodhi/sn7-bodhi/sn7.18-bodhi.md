@@ -85,5 +85,6 @@ When this was said, the brahmin of the Bhāradvāja clan said to the Blessed One
 | [[SA-2.97]], [[SA1183]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.18]]
 > ◄  [[sn7.17-bodhi]] 📜  [[sn7.19-bodhi]] ►

@@ -25,3 +25,5 @@ Na nūnāyaṃ paramahitānukampino rahogato anuvigaṇeti sāsanaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag108-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG108]]
+> ◄  [[thag107-pali-pts]] 📜  [[thag109-pali-pts]] ►

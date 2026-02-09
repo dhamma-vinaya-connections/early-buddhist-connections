@@ -113,3 +113,5 @@ These two things lead to the continuation, non-forgetting, and non-disappearance
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.11-20-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.11-20]]
+> ◄  [[an1.51-60-anigha]] 📜  [[an3.63-anigha]] ►

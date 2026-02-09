@@ -86,5 +86,6 @@ Paṭhamo paṇṇāsako samatto.
 | [[AN8.49]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.50]]
 > ◄  [[an8.49-pali-sc]] 📜  [[an8.51-pali-sc]] ►

@@ -24,3 +24,5 @@ saddhāya pabbajitvāna agārasmā anagāriyaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig91-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG91]]
+> ◄  [[thig90-pali-pts]] 📜  [[thig92-pali-pts]] ►

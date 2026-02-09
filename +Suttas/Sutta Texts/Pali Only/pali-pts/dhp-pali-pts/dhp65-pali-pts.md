@@ -24,3 +24,5 @@ caranti bālā dummedhā amitteneva attanā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp65-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP65]]
+> ◄  [[dhp64-pali-pts]] 📜  [[dhp66-pali-pts]] ►

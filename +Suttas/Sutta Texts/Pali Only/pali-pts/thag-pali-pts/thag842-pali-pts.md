@@ -23,3 +23,5 @@ so 'jja bhaddo sātatiko uñchāpattāgate rato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag842-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG842]]
+> ◄  [[thag841-pali-pts]] 📜  [[thag843-pali-pts]] ►

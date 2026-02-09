@@ -33,5 +33,6 @@ Pañc'; imāni bhikkhave vyasanāni. Katamāni pañca?
 | [[DN33]], [[PLI-TV-PVR7]], [[PLI-TV-PVR17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.130]]
 > ◄  [[an5.129-pali-pts]] 📜  [[an5.131-pali-pts]] ►

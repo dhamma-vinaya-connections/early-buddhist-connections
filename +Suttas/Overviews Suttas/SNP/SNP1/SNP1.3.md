@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP328]], [[DHP329]], [[JA12]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[JA12]], [[DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[MA72]], [[DHP329]], [[THAG16.4]], [[MN82]], [[PE2]]"
+parallels_partilal: "[[JA12]], [[DHP\|DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[MA72]], [[DHP\|DHP329]], [[THAG16]].4, [[MN82]], [[PE2]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.2]]  🌐 [[SNP1.4]] ►
 
@@ -64,10 +64,10 @@ parallels_partilal: "[[JA12]], [[DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP328]], [[DHP329]], [[JA12]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[JA12]], [[DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[MA72]], [[DHP329]], [[THAG16.4]], [[MN82]], [[PE2]] |
+| [[JA12]], [[DHP\|DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[MA72]], [[DHP\|DHP329]], [[THAG16]].4, [[MN82]], [[PE2]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -90,5 +90,6 @@ parallels_partilal: "[[JA12]], [[DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]]
 > - Sutta Central: https://suttacentral.net/snp1.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.3
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.3.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.2]]  🌐 [[SNP1.4]] ►

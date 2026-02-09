@@ -193,3 +193,5 @@ Cakkhu āsi yathā purāṇakanti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig14-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG14]]
+> ◄  [[thig13-pali-sc]] 📜  [[thig15-pali-sc]] ►

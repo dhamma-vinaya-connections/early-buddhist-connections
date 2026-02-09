@@ -98,4 +98,5 @@ having given up conceit, wandering alone: that is a mendicant
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud3.8
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud3.8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.7]]  🌐 [[UD3.9]] ►

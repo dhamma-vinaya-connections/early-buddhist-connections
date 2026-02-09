@@ -24,3 +24,5 @@ yo 'dha dīghaṃ va rassaṃ vā aṇuṃthūlaṃ subhāsubhaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp408-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP408]]
+> ◄  [[dhp407-pali-pts]] 📜  [[dhp409-pali-pts]] ►

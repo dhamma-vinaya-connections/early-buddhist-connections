@@ -86,4 +86,5 @@ parallels_partilal: "[[SNP3.12]], [[PE2]], [[PE3]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti41
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti41.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI40]]  🌐 [[ITI42]] ►

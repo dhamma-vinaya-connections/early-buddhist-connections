@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN10.79]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN10.79]], [[AN10.80]], [[AN9.30]], [[DN33]], [[DN34]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[AN10.79]], [[AN10.80]], [[AN9.30]], [[DN33]], [[DN34]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.79]] |  | A iv 408 |
+> |  |  | A iv 408 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.79]], [[AN10.80]], [[AN9.30]], [[DN33]], [[DN34]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[AN10.79]], [[AN10.80]], [[AN9.30]], [[DN33]], [[DN34]]"
 > - Sutta Central: https://suttacentral.net/an9.29/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.29
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.29.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.28]]  🌐 [[AN9.30]] ►

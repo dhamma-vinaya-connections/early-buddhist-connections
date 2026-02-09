@@ -23,3 +23,5 @@ upajjhayassa udakaṃ Anotattā mahāsarā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag429-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG429]]
+> ◄  [[thag428-pali-pts]] 📜  [[thag430-pali-pts]] ►

@@ -24,3 +24,5 @@ tato ca ratham ādāya sahassaṃ cāpi sārathi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig323-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG323]]
+> ◄  [[thig322-pali-pts]] 📜  [[thig324-pali-pts]] ►

@@ -73,5 +73,6 @@ Tatiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN58.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.183]]
 > ◄  [[an4.182-sujato-pali]] 📜  [[an4.184-sujato-pali]] ►

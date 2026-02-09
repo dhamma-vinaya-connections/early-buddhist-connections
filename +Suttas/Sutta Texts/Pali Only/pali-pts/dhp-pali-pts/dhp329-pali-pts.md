@@ -24,3 +24,5 @@ ekassa caritaṃ seyyo, n'; atthi bāle sahāyatā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp329-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP329]]
+> ◄  [[dhp328-pali-pts]] 📜  [[dhp330-pali-pts]] ►

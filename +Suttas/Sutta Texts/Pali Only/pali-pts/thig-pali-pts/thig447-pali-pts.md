@@ -25,3 +25,5 @@ Mantāvatiyā nagare rañño Koñcassa aggamahesiyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig447-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG447]]
+> ◄  [[thig446-pali-pts]] 📜  [[thig448-pali-pts]] ►

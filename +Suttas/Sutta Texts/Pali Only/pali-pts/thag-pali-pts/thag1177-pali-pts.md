@@ -24,3 +24,5 @@ dasa devasahassāni sabbe brahmapurohitā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1177-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1177]]
+> ◄  [[thag1176-pali-pts]] 📜  [[thag1178-pali-pts]] ►

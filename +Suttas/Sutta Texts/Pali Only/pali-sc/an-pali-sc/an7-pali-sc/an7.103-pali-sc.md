@@ -21,3 +21,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.103-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.103]]
+> ◄  [[an7.96-pali-sc]] 📜  [[an7.615-pali-sc]] ►

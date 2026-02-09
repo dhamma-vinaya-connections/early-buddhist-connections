@@ -187,7 +187,8 @@ Bhikkhū passitvā— "Sace mayaṁ gamissāma nassissatāyaṁ aṅgulimuddikā
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc161-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC161]] |
->|       |          | [[ñanatusita-analysis#^-PC161]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC161]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC161]]

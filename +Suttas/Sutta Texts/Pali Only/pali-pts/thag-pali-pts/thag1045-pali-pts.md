@@ -23,3 +23,5 @@ tadāsi yaṃ bhiṃsanakaṃ, tadāsi lomahaṃsanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1045-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1045]]
+> ◄  [[thag1044-pali-pts]] 📜  [[thag1046-pali-pts]] ►

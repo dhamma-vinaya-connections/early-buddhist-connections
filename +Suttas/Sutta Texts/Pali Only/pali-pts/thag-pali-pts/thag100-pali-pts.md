@@ -29,3 +29,5 @@ Hitvā gihitvaṃ anavositatto mukhanaṅgalī odariko kusīto
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag100-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG100]]
+> ◄  [[thag99-pali-pts]] 📜  [[thag101-pali-pts]] ►

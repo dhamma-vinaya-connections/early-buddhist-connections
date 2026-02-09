@@ -123,7 +123,8 @@ Kāle vikālasaññī, āpatti dukkaṭassa. Kāle vematiko, āpatti dukkaṭass
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc120-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC120]] |
->|       |          | [[ñanatusita-analysis#^-PC120]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC120]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC120]]

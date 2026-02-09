@@ -253,8 +253,9 @@ are Unbound.
 > |  |  | Dh 22 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[THAG4.3]], [[THAG8.1]] |
+| [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[THAG4]].3, [[THAG8]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP6]]
 > ◄  [[dhp5-thanissaro]] 📜  [[dhp7-thanissaro]] ►

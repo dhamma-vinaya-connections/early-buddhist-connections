@@ -23,3 +23,5 @@ yadā jiṇṇā bhavissāma ubho daṇḍaparāyanā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag461-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG461]]
+> ◄  [[thag460-pali-pts]] 📜  [[thag462-pali-pts]] ►

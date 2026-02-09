@@ -23,3 +23,5 @@ sace dhāvati te cittaṃ kāmesu ca bhavesu ca,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag445-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG445]]
+> ◄  [[thag444-pali-pts]] 📜  [[thag446-pali-pts]] ►

@@ -86,4 +86,5 @@ parallels_partilal: "[[SA-2.107]], [[SA1194]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.6
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.5]]  🌐 [[SN6.7]] ►

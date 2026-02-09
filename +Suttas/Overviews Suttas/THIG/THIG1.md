@@ -95,4 +95,5 @@ live in the world free of defilements.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig1
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THAG21]]  🌐 [[THIG2]] ►

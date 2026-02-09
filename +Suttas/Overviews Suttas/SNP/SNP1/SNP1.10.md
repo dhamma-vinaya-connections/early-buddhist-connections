@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Spirits"
-parallels_nikaya: "[[SN10.12]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.325]], [[SA1326]], [[SA603]]"
 parallels_partilal: "[[SN10.12]], [[SA-2.325]], [[SA1326]], [[SA603]]"
 ---
@@ -68,7 +68,7 @@ by wisdom one is fully purified.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN10.12]] | [[SA-2.325]], [[SA1326]], [[SA603]] |  |
+> |  | [[SA-2.325]], [[SA1326]], [[SA603]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN10.12]], [[SA-2.325]], [[SA1326]], [[SA603]] |
@@ -94,5 +94,6 @@ by wisdom one is fully purified.”
 > - Sutta Central: https://suttacentral.net/snp1.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.10
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.10.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.9]]  🌐 [[SNP1.11]] ►

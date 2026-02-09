@@ -23,3 +23,5 @@ Dabbaṃ kusaṃ poṭakilaṃ usīraṃ muñjapabbajaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag26-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG26]]
+> ◄  [[thag25-pali-pts]] 📜  [[thag27-pali-pts]] ►

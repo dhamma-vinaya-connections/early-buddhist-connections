@@ -24,3 +24,5 @@ abbhokāse viharasi, sītā hemantikā imā rattiyo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag382-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG382]]
+> ◄  [[thag381-pali-pts]] 📜  [[thag385-pali-pts]] ►

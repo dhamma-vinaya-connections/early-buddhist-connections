@@ -30,5 +30,6 @@ language: "English - Pali"
 | [[EA18.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.26]]
 > ◄  [[an2.25-deepseek-pali]] 📜  [[an2.27-deepseek-pali]] ►

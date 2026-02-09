@@ -25,3 +25,5 @@ yadā sukhī malakhilasokanāsano niraggalo nibbanatho visallo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag525-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG525]]
+> ◄  [[thag524-pali-pts]] 📜  [[thag526-pali-pts]] ►

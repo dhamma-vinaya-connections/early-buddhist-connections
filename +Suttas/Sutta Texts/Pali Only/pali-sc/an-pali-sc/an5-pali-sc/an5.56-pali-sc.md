@@ -59,5 +59,6 @@ Chaṭṭhaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.17]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.56]]
 > ◄  [[an5.55-pali-sc]] 📜  [[an5.57-pali-sc]] ►

@@ -31,3 +31,5 @@ Niṭṭhitā Theragāthāyo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1279-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1279]]
+> ◄  [[thag1278-pali-pts]] 📜  [[]] ►

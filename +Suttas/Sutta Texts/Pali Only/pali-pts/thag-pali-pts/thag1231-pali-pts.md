@@ -23,3 +23,5 @@ saṃkhittena pi deseti vitthārena pi bhāsati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1231-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1231]]
+> ◄  [[thag1230-pali-pts]] 📜  [[thag1232-pali-pts]] ►

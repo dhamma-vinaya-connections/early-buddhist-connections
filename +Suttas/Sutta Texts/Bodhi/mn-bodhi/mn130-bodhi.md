@@ -122,15 +122,16 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.36]] | [[EA32.4]]; [[MA64]] | M iii 178 |
+> |  | [[EA32.4]]; [[MA64]] | M iii 178 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN3.36]]; [[EA32.4]]; [[MA64]]; [[DA30]]; [[MN129]]; [[JA530]] |
+| [[AN3.36]], [[EA32.4]], [[MA64]], [[DA30]], [[MN129]], [[JA530]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA199]], [[MN129]], [[AN3.38]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN130]]
 > ◄  [[mn129-bodhi]] 📜  [[mn131-bodhi]] ►

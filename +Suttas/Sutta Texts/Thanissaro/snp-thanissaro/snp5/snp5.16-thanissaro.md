@@ -103,11 +103,12 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP170]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP170]], [[PE2]] |
+| [[DHP\|DHP170]], [[PE2]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.16]]
 > ◄  [[snp5.15-thanissaro]] 📜  [[]] ►

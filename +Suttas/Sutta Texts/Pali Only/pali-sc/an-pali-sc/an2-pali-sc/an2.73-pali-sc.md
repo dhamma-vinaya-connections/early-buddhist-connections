@@ -21,3 +21,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.73-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.73]]
+> ◄  [[an2.72-pali-sc]] 📜  [[an2.74-pali-sc]] ►

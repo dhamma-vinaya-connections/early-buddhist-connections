@@ -58,5 +58,6 @@ Monks, endowed with these six qualities, a monk is worthy of gifts... an unsurpa
 | [[EA37.5]], [[DN34]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.2]]
 > ◄  [[an6.1-deepseek-pali]] 📜  [[an6.3-deepseek-pali]] ►

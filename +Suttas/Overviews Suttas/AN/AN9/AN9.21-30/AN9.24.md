@@ -89,4 +89,5 @@ parallels_partilal: "[[EA44.1]], [[DN33]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.24
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.24.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.23]]  🌐 [[AN9.25]] ►

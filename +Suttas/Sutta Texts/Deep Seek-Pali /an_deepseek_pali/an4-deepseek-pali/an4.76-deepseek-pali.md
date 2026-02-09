@@ -50,5 +50,6 @@ Then the Blessed One addressed the monks: "Monks, perhaps out of respect for the
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.76]]
 > ◄  [[an4.75-deepseek-pali]] 📜  [[an4.77-deepseek-pali]] ►

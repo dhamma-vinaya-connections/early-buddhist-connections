@@ -26,3 +26,5 @@ iddhi pi me sacchikatā patto me āsavakkhayo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig70-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG70]]
+> ◄  [[thig69-pali-pts]] 📜  [[thig71-pali-pts]] ►

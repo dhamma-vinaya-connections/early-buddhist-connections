@@ -140,3 +140,5 @@ Sahassavaggo aṭṭhamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp8-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP8-BUDDHARAKKHITA]]
+> ◄  [[dhp7-buddharakkhita-pali]] 📜  [[dhp9-buddharakkhita-pali]] ►

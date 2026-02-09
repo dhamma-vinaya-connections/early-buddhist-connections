@@ -31,3 +31,5 @@ Yāhu raṭṭhe samukkaṭṭho rañño Aṅgassa paddhagu
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag631-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG631]]
+> ◄  [[thag630-pali-pts]] 📜  [[thag632-pali-pts]] ►

@@ -74,15 +74,16 @@ The monks said, “Yes.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.80]] | [[SA272]] |  |
+> |  | [[SA272]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP143]] |
+| [[DHP\|DHP143]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[ITI91]], [[MN]], [[SN40121.9]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA140]]
 > ◄  [[ma139-patton]] 📜  [[ma142-patton]] ►

@@ -25,3 +25,5 @@ jhāyāhi jināhi Kātiyāna, yogakkhemapathe sukovido 'si;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag414-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG414]]
+> ◄  [[thag413-pali-pts]] 📜  [[thag415-pali-pts]] ►

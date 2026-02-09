@@ -40,5 +40,6 @@ The Second Fifty
 | [[AN8.49]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.50]]
 > ◄  [[an8.49-bodhi]] 📜  [[an8.51-bodhi]] ►

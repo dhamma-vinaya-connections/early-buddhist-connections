@@ -23,3 +23,5 @@ sattisūlūpamā kāmā khandhānaṃ adhikuṭṭanā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig140-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG140]]
+> ◄  [[thig139-pali-pts]] 📜  [[thig141-pali-pts]] ►

@@ -54,5 +54,6 @@ harmoniously.”[1](#sn1.8note01)
 | [[SA-2.165]], [[SA580]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.8]]
 > ◄  [[sn1.7-thanissaro]] 📜  [[sn1.9-thanissaro]] ►

@@ -23,3 +23,5 @@ evaṃ maṃ bhattikataṃ anuttaraṃ kārikaṃ taṃ nihatamānaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig412-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG412]]
+> ◄  [[thig411-pali-pts]] 📜  [[thig413-pali-pts]] ►

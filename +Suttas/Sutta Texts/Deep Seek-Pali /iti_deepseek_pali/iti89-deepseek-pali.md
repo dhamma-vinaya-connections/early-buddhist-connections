@@ -52,5 +52,6 @@ This meaning too was spoken by the Blessed One, so I have heard. First.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[ITI18]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI89]]
 > ◄  [[iti88-deepseek-pali]] 📜  [[iti90-deepseek-pali]] ►

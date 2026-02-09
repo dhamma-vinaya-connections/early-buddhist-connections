@@ -23,3 +23,5 @@ atho jātikkhayaṃ patto abhiññāvosito muni |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig63-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG63]]
+> ◄  [[thig62-pali-pts]] 📜  [[thig64-pali-pts]] ►

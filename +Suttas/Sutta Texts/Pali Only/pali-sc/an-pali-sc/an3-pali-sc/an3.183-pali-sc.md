@@ -21,3 +21,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.183-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.183]]
+> ◄  [[an3.163-pali-sc]] 📜  [[an3.184-pali-sc]] ►

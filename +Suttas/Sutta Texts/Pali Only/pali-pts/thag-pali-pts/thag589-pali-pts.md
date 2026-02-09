@@ -23,3 +23,5 @@ saṃghe ca cittikāro: etaṃ samaṇassa paṭirūpaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag589-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG589]]
+> ◄  [[thag588-pali-pts]] 📜  [[thag590-pali-pts]] ►

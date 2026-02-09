@@ -86,4 +86,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.394-574
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.394-574.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.378-393]]  🌐 [[AN1.575-615]] ►

@@ -51,5 +51,6 @@ You’re defeated, End-maker!"
 | [[SA1094]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
 > ◄  [[]] 📜  [[sn4.2-bodhi]] ►

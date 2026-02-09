@@ -104,12 +104,13 @@ That is what the Auspicious One said. Pleased, Venerable Lomasakaṅgiya deligh
 > |  | [[MA166]] | M iii 199 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN131]]; [[MN132]]; [[MN133]]; [[MA166]]; [[JA538]] |
+| [[MN131]], [[MN132]], [[MN133]], [[MA166]], [[JA538]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN131]] - 134, [[MA164]]- 167]]
+> - [[MN131-134]], [[MA164-167]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN134]]
 > ◄  [[mn107-anigha]] 📜  [[]] ►

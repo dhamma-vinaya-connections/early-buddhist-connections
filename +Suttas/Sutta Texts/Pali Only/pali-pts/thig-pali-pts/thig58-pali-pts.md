@@ -23,3 +23,5 @@ sabbattha vihatā nandi tamokkhandho padālito |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig58-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG58]]
+> ◄  [[thig57-pali-pts]] 📜  [[thig59-pali-pts]] ►

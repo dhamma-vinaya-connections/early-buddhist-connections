@@ -23,3 +23,5 @@ anikkasāvo kāsāvaṃ yo vatthaṃ paridahissati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag968-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG968]]
+> ◄  [[thag967-pali-pts]] 📜  [[thag969-pali-pts]] ►

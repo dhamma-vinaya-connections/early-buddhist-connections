@@ -24,3 +24,5 @@ sabbattha vihatā nandi tamokkhandho padālito |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig194-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG194]]
+> ◄  [[thig193-pali-pts]] 📜  [[thig195-pali-pts]] ►

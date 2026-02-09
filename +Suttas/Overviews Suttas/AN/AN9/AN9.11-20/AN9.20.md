@@ -86,4 +86,5 @@ parallels_partilal: "[[EA27.3]], [[MA155]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.20
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.20.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.19]]  🌐 [[AN9.21]] ►

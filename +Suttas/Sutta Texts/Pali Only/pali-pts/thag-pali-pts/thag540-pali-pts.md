@@ -23,3 +23,5 @@ ekākiyo adutiyo ramaṇīye mahāvane
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag540-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG540]]
+> ◄  [[thag539-pali-pts]] 📜  [[thag541-pali-pts]] ►

@@ -24,3 +24,5 @@ aciraṃ vat'; ayaṃ kāyo paṭhaviṃ adhisessati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp40-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP40]]
+> ◄  [[dhp39-pali-pts]] 📜  [[dhp41-pali-pts]] ►

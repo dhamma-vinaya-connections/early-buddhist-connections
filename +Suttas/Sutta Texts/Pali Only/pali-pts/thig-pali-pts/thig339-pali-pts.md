@@ -24,3 +24,5 @@ gāmakhettāni bhītāni ramaṇīye pamodite |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig339-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG339]]
+> ◄  [[thig338-pali-pts]] 📜  [[thig340-pali-pts]] ►

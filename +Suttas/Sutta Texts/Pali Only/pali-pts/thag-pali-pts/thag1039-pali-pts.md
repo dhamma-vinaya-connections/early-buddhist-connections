@@ -23,3 +23,5 @@ paṇṇavīsativassāni sekhabhūtassa me sato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1039-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1039]]
+> ◄  [[thag1038-pali-pts]] 📜  [[thag1040-pali-pts]] ►

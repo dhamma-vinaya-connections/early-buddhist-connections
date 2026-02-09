@@ -23,3 +23,5 @@ tato kāruṇiko satthā sabbalokānukampako
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag624-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG624]]
+> ◄  [[thag623-pali-pts]] 📜  [[thag625-pali-pts]] ►

@@ -62,5 +62,6 @@ Pañcamaṁ.
 | [[PE8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
 > ◄  [[an4.4-pali-sc]] 📜  [[an4.6-pali-sc]] ►

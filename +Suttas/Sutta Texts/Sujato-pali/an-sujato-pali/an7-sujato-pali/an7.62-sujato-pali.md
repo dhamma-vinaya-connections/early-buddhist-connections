@@ -156,5 +156,6 @@ Navamaṁ.
 | [[MA138]], [[ITI22]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.62]]
 > ◄  [[an7.61-sujato-pali]] 📜  [[an7.63-sujato-pali]] ►

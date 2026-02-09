@@ -23,3 +23,5 @@ mahānāgaṃ mahāvīraṃ mahājutim anāsavaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag288-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG288]]
+> ◄  [[thag287-pali-pts]] 📜  [[thag289-pali-pts]] ►

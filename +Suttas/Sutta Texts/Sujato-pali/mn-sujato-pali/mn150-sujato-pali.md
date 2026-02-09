@@ -78,5 +78,6 @@ Nagaravindeyyasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 | [[SA280]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
 > ◄  [[mn149-sujato-pali]] 📜  [[mn151-sujato-pali]] ►

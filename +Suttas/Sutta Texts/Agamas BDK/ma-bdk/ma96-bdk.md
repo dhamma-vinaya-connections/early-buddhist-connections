@@ -32,7 +32,7 @@ I have energy,... I have mindfulness,... I have concentration,... and I am free 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.55]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA28.3]], [[PLI-TV-KD16]], [[SN10.8]] |
@@ -41,6 +41,7 @@ I have energy,... I have mindfulness,... I have concentration,... and I am free 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA93]], [[MA95]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA96]]
 > ◄  [[ma95-bdk]] 📜  [[ma97-bdk]] ►

@@ -72,5 +72,6 @@ Navamaṁ.
 | [[EA29.8]], [[ITI105]], [[ITI15]], [[SNP3.12]], [[JA493]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.9]]
 > ◄  [[an4.8-sujato-pali]] 📜  [[an4.10-sujato-pali]] ►

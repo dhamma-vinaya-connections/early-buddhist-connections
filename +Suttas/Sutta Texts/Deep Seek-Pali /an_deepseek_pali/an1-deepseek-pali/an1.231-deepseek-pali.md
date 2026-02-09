@@ -95,3 +95,5 @@ The Eighteenth Chapter: Other Groups of Celestial Nymphs.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.231-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.231]]
+> ◄  [[an1.230-deepseek-pali]] 📜  [[an1.232-deepseek-pali]] ►

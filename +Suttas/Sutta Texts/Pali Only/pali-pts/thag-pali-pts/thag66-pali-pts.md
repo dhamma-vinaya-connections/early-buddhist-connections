@@ -24,3 +24,5 @@ Kilesā jhāpitā mayhaṃ, bhavā sabbe samūhatā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag66-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG66]]
+> ◄  [[thag65-pali-pts]] 📜  [[thag67-pali-pts]] ►

@@ -27,3 +27,5 @@ sabbe tasanti daṇḍassa sabbe bhāyanti maccuno, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp128-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP128]]
+> ◄  [[dhp127-pali-pts]] 📜  [[dhp129-pali-pts]] ►

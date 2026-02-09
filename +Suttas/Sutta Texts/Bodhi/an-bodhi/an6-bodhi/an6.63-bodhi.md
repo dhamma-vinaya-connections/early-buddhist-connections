@@ -164,5 +164,6 @@ but the wise remove the desire for them.
 | [[MA111]], [[MN13]], [[MN14]], [[SN1.34]], [[MN139]], [[SN36.20]], [[SN36.19]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.63]]
 > ◄  [[an6.62-bodhi]] 📜  [[an6.64-bodhi]] ►

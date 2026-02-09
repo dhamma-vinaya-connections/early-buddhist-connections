@@ -23,3 +23,5 @@ cattāro vinipātā dve ca gatiyo kathañci labbhanti |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig455-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG455]]
+> ◄  [[thig454-pali-pts]] 📜  [[thig456-pali-pts]] ►

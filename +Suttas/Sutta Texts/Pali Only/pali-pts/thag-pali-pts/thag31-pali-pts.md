@@ -24,3 +24,5 @@ Ajaraṃ jīramānena tappamānena nibbutiṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag31-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG31]]
+> ◄  [[thag30-pali-pts]] 📜  [[thag32-pali-pts]] ►

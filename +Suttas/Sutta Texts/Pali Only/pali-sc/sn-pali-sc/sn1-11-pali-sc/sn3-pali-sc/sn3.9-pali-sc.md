@@ -63,5 +63,6 @@ pasīdanti ca devatā"ti.
 | [[SA-2.61]], [[SA1234]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.9]]
 > ◄  [[sn3.8-pali-sc]] 📜  [[sn3.10-pali-sc]] ►

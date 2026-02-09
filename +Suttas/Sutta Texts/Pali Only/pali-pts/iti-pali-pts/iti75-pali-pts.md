@@ -51,3 +51,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||6||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti75-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI75]]
+> ◄  [[iti74-pali-pts]] 📜  [[iti76-pali-pts]] ►

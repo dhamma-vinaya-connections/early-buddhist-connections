@@ -43,11 +43,12 @@ Last Revised: 25 November 2022
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN45.15]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN45.15]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA764]]
 > ◄  [[sa763-patton]] 📜  [[sa765-patton]] ►

@@ -23,3 +23,5 @@ bahussuto dhammadharo ca hoti, dhammassa hoti anudhammacārī,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag372-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG372]]
+> ◄  [[thag371-pali-pts]] 📜  [[thag373-pali-pts]] ►

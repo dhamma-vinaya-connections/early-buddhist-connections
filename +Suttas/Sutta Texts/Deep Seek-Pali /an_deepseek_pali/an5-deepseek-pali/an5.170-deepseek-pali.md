@@ -62,5 +62,6 @@ Two on the Dispelling of Anger, Discussion, Harmonious Living, A Question; Quest
 | [[SA484]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.170]]
 > ◄  [[an5.169-deepseek-pali]] 📜  [[an5.171-deepseek-pali]] ►

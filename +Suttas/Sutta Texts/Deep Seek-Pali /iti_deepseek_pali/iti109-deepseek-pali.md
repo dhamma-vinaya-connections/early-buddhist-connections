@@ -51,5 +51,10 @@ This, too, is the meaning of what was said by the Blessed One, and so I have hea
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti109-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN7:48ANDAN10:13.]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI109]]
 > ◄  [[iti108-deepseek-pali]] 📜  [[iti110-deepseek-pali]] ►

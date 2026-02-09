@@ -23,3 +23,5 @@ nīlabbhavaṇṇā rucirā vārisītā sucindharā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1062-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1062]]
+> ◄  [[thag1061-pali-pts]] 📜  [[thag1063-pali-pts]] ►

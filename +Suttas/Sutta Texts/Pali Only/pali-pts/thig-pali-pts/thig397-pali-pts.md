@@ -23,3 +23,5 @@ sotthi siyā brahmacārini na puno edisakaṃ bhavissati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig397-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG397]]
+> ◄  [[thig396-pali-pts]] 📜  [[thig398-pali-pts]] ►

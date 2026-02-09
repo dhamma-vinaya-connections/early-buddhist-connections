@@ -84,5 +84,6 @@ Paṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN5.3]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.41]]
 > ◄  [[an4.40-sujato-pali]] 📜  [[an4.42-sujato-pali]] ►

@@ -100,4 +100,5 @@ the seamstress:          craving.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.3
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.2]]  🌐 [[SNP5.4]] ►

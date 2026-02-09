@@ -23,3 +23,5 @@ divāvihārā nikkhamma satthudassanakamyatā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1240-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1240]]
+> ◄  [[thag1239-pali-pts]] 📜  [[thag1241-pali-pts]] ►

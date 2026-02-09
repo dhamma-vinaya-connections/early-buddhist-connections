@@ -23,3 +23,5 @@ aratiṃ ratiṃ ca pahāya sabbaso gehasitañ ca vitakkaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1213-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1213]]
+> ◄  [[thag1212-pali-pts]] 📜  [[thag1214-pali-pts]] ►

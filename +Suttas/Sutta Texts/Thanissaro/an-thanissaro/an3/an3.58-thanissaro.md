@@ -142,5 +142,6 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 | [[SA884-885]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.58]]
 > ◄  [[an3.53-thanissaro]] 📜  [[an3.61-thanissaro]] ►

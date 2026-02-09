@@ -25,3 +25,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.131-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.131]]
+> ◄  [[an1.130-bodhi]] 📜  [[an1.140-bodhi]] ►

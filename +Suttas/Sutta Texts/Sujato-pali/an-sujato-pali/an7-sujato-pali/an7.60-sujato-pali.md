@@ -45,5 +45,6 @@ Sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN16.13]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.60]]
 > ◄  [[an7.59-sujato-pali]] 📜  [[an7.61-sujato-pali]] ►

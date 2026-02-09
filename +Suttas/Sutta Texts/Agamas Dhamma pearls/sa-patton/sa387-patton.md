@@ -31,3 +31,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa387-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA387]]
+> ◄  [[sa386-patton]] 📜  [[sa388-patton]] ►

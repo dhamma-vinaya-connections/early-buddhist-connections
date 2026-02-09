@@ -21,3 +21,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.269-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.269]]
+> ◄  [[an4.268-pali-sc]] 📜  [[an4.270-pali-sc]] ►

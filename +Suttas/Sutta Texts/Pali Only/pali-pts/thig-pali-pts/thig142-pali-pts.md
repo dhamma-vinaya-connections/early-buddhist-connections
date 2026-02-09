@@ -23,3 +23,5 @@ nakkhattāni namassantā aggiṃ paricaraṃ vane ||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig142-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG142]]
+> ◄  [[thig141-pali-pts]] 📜  [[thig143-pali-pts]] ►

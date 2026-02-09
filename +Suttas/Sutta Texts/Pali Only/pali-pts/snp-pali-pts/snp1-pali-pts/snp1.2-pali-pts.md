@@ -122,5 +122,6 @@ DHANIYASUTTAṂ NIṬṬHITAṂ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD5:5]], [[SNP4:4]], [[SN35:28]], [[ITI93]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.2]]
 > ◄  [[snp1.1-pali-pts]] 📜  [[snp1.3-pali-pts]] ►

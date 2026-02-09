@@ -23,3 +23,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.310-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.310]]
+> ◄  [[an1.309-pali-sc]] 📜  [[an1.311-pali-sc]] ►

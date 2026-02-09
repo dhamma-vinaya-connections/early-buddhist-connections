@@ -533,3 +533,5 @@ The Teacher has been served by me, the Buddha’s teaching has been done; the he
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag17-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG17]]
+> ◄  [[thag16-pali-eng]] 📜  [[thag18-pali-eng]] ►

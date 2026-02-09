@@ -211,12 +211,13 @@ The Discourse on Mahākaccāna and One Who Has Had a Single Excellent Night, the
 > |  | [[MA167]] | M iii 189 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN131]]; [[MN133]]; [[MN134]]; [[MA167]]; [[JA538]] |
+| [[MN131]], [[MN133]], [[MN134]], [[MA167]], [[JA538]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN131]] - 134, [[MA164]]- 167]]
+> - [[MN131-134]], [[MA164-167]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN132]]
 > ◄  [[mn131-deepseek-pali]] 📜  [[mn133-deepseek-pali]] ►

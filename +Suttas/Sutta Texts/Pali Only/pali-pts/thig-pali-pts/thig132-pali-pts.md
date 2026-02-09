@@ -24,3 +24,5 @@ puttasoken'; ahaṃ aṭṭā khittacittā visaññinī |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig132-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG132]]
+> ◄  [[thig131-pali-pts]] 📜  [[thig133-pali-pts]] ►

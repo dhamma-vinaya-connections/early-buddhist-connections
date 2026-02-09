@@ -24,3 +24,5 @@ candanaṃ tagaraṃ vāpi uppalaṃ atha vassikī /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp54-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP54]]
+> ◄  [[dhp53-pali-pts]] 📜  [[dhp55-pali-pts]] ►

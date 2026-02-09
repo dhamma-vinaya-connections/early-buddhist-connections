@@ -23,3 +23,5 @@ ciṇṇā Aṅgā ca Magadhā Vajjī Kāsī ca Kosalā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig109-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG109]]
+> ◄  [[thig108-pali-pts]] 📜  [[thig110-pali-pts]] ►

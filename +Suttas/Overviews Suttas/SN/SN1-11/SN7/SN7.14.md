@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[SN7.15]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]]"
 parallels_partilal: "[[SA-2.262]], [[SA96]], [[SN7.15]], [[SA-2.258]], [[SA92]]"
 ---
@@ -68,7 +68,7 @@ And after death he rejoices in heaven.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN7.15]] | [[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]] |  |
+> |  | [[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.262]], [[SA96]], [[SN7.15]], [[SA-2.258]], [[SA92]] |
@@ -91,5 +91,6 @@ And after death he rejoices in heaven.
 > - Sutta Central: https://suttacentral.net/sn7.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.14
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.14.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.13]]  🌐 [[SN7.15]] ►

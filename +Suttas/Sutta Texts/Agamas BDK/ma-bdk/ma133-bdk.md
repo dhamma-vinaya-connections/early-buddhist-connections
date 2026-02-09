@@ -102,11 +102,12 @@ The deva s came to him, To help him well and add eloquence, In accordance with t
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN56]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.11]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA133]]
 > ◄  [[ma132-bdk]] 📜  [[ma134-bdk]] ►

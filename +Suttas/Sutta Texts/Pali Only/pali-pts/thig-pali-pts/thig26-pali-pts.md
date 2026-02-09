@@ -24,3 +24,5 @@ kiñ cāpi kho mhi kisikā gilānā bāḷhadubbalā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig26-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG26]]
+> ◄  [[thig25-pali-pts]] 📜  [[thig27-pali-pts]] ►

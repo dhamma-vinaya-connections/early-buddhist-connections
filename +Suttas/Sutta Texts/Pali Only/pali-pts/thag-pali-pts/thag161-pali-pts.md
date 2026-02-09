@@ -23,3 +23,5 @@ so 'haṃ khandhe pariññāya abbahitvāna jāliniṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag161-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG161]]
+> ◄  [[thag160-pali-pts]] 📜  [[thag162-pali-pts]] ►

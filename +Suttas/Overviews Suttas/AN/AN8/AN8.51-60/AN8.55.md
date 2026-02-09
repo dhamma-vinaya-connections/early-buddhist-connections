@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN8.54]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.91]], [[SA91]]"
 parallels_partilal: "[[AN8.54]], [[SA-2.91]], [[SA91]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[AN8.54]], [[SA-2.91]], [[SA91]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.54]] | [[SA-2.91]], [[SA91]] | A iv 285 |
+> |  | [[SA-2.91]], [[SA91]] | A iv 285 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.54]], [[SA-2.91]], [[SA91]] |
@@ -88,5 +88,6 @@ parallels_partilal: "[[AN8.54]], [[SA-2.91]], [[SA91]]"
 > - Sutta Central: https://suttacentral.net/an8.55/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.55
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.55.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.54]]  🌐 [[AN8.56]] ►

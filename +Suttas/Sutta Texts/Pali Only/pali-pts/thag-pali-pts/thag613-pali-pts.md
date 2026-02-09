@@ -23,3 +23,5 @@ sīlaṃ balaṃ appaṭimaṃ, sīlaṃ āvudham uttamaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag613-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG613]]
+> ◄  [[thag612-pali-pts]] 📜  [[thag614-pali-pts]] ►

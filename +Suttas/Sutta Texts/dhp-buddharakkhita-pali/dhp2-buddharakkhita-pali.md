@@ -112,3 +112,5 @@ Appamādavaggo dutiyo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp2-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP2-BUDDHARAKKHITA]]
+> ◄  [[dhp1-buddharakkhita-pali]] 📜  [[dhp3-buddharakkhita-pali]] ►

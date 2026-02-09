@@ -34,7 +34,7 @@ sutta_teacher:
   - "Sariputta"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN5.164]], [[AN5.65]], [[AN5.66]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN5.65]], [[AN5.164]], [[AN5.66]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[AN5.65]], [[AN5.164]], [[AN5.66]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.164]], [[AN5.65]], [[AN5.66]] |  | A iii 190 |
+> |  |  | A iii 190 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.65]], [[AN5.164]], [[AN5.66]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[AN5.65]], [[AN5.164]], [[AN5.66]]"
 > - Sutta Central: https://suttacentral.net/an5.163/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.163
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.163.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.162]]  🌐 [[AN5.164]] ►

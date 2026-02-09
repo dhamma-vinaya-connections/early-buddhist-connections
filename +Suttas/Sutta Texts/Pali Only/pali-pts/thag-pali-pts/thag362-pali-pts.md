@@ -23,3 +23,5 @@ upārambhacitto dummedho suṇāti jinasāsanaṃ:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag362-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG362]]
+> ◄  [[thag361-pali-pts]] 📜  [[thag363-pali-pts]] ►

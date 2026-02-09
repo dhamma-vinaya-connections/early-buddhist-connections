@@ -95,3 +95,5 @@ Sammāparibbājanīyasuttaṁ terasamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.13]]
+> ◄  [[snp2.12-pali-sc]] 📜  [[snp2.14-pali-sc]] ►

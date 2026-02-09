@@ -36,9 +36,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP391]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP391]], [[JA348]], [[JA435]]"
+parallels_partilal: "[[DHP\|DHP391]], [[JA348]], [[JA435]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI96]]  🌐 [[ITI98]] ►
 
@@ -66,10 +66,10 @@ he’s called a person of admirable virtue,
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP391]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP391]], [[JA348]], [[JA435]] |
+| [[DHP\|DHP391]], [[JA348]], [[JA435]] |
 | ------------------------ |
 
 
@@ -89,5 +89,6 @@ he’s called a person of admirable virtue,
 > - Sutta Central: https://suttacentral.net/iti97/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti97
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti97.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI96]]  🌐 [[ITI98]] ►

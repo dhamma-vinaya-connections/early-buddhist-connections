@@ -24,3 +24,5 @@ sabbābhibhū sabbavidū 'ham asmi sabbesu dhammesu anūpalitto /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp352-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP352]]
+> ◄  [[dhp351-pali-pts]] 📜  [[dhp353-pali-pts]] ►

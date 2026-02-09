@@ -191,5 +191,6 @@ Daṭṭhabbañca puna kūṭaṃ cattāropi hitena cāti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.176]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.2]]
 > ◄  [[an3.1-pali-sri]] 📜  [[an3.3-pali-sri]] ►

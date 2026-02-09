@@ -153,3 +153,5 @@ Seeing the untamed one tamed, brought under human control, I then settled my min
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG3]]
+> ◄  [[thig2-pali-eng]] 📜  [[thig4-pali-eng]] ►

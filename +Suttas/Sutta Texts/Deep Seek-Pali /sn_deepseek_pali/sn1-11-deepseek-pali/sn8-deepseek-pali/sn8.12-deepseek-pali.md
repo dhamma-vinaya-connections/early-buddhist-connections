@@ -66,5 +66,6 @@ Nikkhantaṃ arati ceva, pesalā atimaññanā;Ānandena subhāsitā, sāriputta
 | [[SA-2.252]], [[SA1217]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.12]]
 > ◄  [[sn8.11-deepseek-pali]] 📜  [[]] ►

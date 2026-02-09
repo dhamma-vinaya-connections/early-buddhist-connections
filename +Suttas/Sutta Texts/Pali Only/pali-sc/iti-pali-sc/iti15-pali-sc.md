@@ -36,5 +36,6 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 | [[AN4.9]], [[ITI105]], [[SNP3.12]], [[JA493]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI15]]
 > ◄  [[iti14-pali-sc]] 📜  [[iti16-pali-sc]] ►

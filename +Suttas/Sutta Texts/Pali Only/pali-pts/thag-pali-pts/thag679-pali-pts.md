@@ -24,3 +24,5 @@ chetvā khīlañ ca pāsañ ca selaṃ chetvāna dubbhidaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag679-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG679]]
+> ◄  [[thag676-pali-pts]] 📜  [[thag680-pali-pts]] ►

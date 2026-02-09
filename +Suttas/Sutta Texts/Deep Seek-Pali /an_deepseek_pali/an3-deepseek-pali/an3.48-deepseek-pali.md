@@ -28,7 +28,7 @@ language: "English - Pali"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.40]] | [[EA50.7]] | A i 152 |
+> |  | [[EA50.7]] | A i 152 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.40]], [[EA50.7]], [[ITI107]] |
@@ -37,6 +37,7 @@ language: "English - Pali"
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.38]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.48]]
 > ◄  [[an3.47-deepseek-pali]] 📜  [[an3.49-deepseek-pali]] ►

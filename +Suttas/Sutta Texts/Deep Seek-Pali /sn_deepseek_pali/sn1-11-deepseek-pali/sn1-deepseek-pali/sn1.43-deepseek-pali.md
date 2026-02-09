@@ -44,5 +44,6 @@ Therefore, having removed stinginess, one should give a gift, having overcome de
 | [[SN2.23]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[AN5.36]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.43]]
 > ◄  [[sn1.42-deepseek-pali]] 📜  [[sn1.44-deepseek-pali]] ►

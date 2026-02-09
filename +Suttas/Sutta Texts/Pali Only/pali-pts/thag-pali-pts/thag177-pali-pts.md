@@ -23,3 +23,5 @@ satthā ca pariciṇṇo me, dhammo saṃgho ca pūjito,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag177-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG177]]
+> ◄  [[thag176-pali-pts]] 📜  [[thag178-pali-pts]] ►

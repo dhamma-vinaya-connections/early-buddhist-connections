@@ -24,3 +24,5 @@ Ahaṃ middhena pakato vihārā upanikkhamiṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag270-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG270]]
+> ◄  [[thag269-pali-pts]] 📜  [[thag271-pali-pts]] ►

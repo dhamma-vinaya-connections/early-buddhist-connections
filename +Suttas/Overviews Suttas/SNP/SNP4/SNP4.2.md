@@ -84,7 +84,7 @@ for states of becoming.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN35.189]], [[THAG16.4]], [[SN4.15]]
+> - [[SN35.189]], [[THAG16]].4, [[SN4.15]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -102,5 +102,6 @@ for states of becoming.
 > - Sutta Central: https://suttacentral.net/snp4.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.2
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.2.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.1]]  🌐 [[SNP4.3]] ►

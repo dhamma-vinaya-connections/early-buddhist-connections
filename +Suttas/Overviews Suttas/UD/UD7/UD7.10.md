@@ -102,4 +102,5 @@ but for one who sees, there is nothing.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.10
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.9]]  🌐 [[UD8.1]] ►

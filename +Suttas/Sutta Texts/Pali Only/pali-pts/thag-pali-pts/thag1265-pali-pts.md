@@ -23,3 +23,5 @@ chind'; eva no vicikicchaṃ, brūhi me taṃ, parinibbutaṃ vedaya bhūripañ�
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1265-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1265]]
+> ◄  [[thag1264-pali-pts]] 📜  [[thag1266-pali-pts]] ►

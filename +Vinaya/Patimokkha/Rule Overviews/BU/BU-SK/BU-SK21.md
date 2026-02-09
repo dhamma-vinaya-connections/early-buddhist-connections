@@ -48,7 +48,7 @@ vin_gender-corr: "BNI-SK21"
 >| Vibhanga | BMC    | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk21-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK21]] |
->| [[bu-sk21-deepseek-pali]]      |   [[The_Concise_Buddhist_Monastic_Code_1.pdf|BMC1 Concise]]       | [[ñanatusita-analysis#^SK21]]    |
+>| [[bu-sk21-deepseek-pali]]      | [[bmc1-concise]]        | [[ñanatusita-analysis#^SK21]]    |
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
@@ -69,5 +69,6 @@ vin_gender-corr: "BNI-SK21"
 > [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-sk?view=normal
+
 
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BNI-SK22]] 🌐 [[BU-SK22]] ►

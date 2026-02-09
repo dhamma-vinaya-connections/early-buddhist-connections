@@ -23,3 +23,5 @@ bahūnaṃ vata atthāya uppajjanti tathāgatā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1255-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1255]]
+> ◄  [[thag1254-pali-pts]] 📜  [[thag1256-pali-pts]] ►

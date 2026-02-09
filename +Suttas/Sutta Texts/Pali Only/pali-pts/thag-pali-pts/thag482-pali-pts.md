@@ -23,3 +23,5 @@ vissajjitesu pañhesu anumodi tathāgato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag482-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG482]]
+> ◄  [[thag481-pali-pts]] 📜  [[thag483-pali-pts]] ►

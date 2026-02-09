@@ -50,5 +50,6 @@ On one occasion the Venerable Ānanda was dwelling at Kosambī in Ghosita’s Pa
 | [[SA560]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.170]]
 > ◄  [[an4.169-bodhi]] 📜  [[an4.171-bodhi]] ►

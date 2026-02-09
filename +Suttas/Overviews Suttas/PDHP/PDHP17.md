@@ -95,4 +95,5 @@ he has no one who is hated.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp17
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp17.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP16]]  🌐 [[PDHP18]] ►

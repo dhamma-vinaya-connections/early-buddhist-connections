@@ -45,5 +45,6 @@ Pa || tatth-ev-antaradhāyīti || ||
 | [[SA-2.28]], [[SA1089]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
 > ◄  [[sn4.5-pali-pts]] 📜  [[sn4.7-pali-pts]] ►

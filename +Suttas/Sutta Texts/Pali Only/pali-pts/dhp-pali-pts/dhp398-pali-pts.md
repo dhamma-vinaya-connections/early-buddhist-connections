@@ -24,3 +24,5 @@ akkosaṃ vadhabandhañ ca aduṭṭho yo titikkhati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp398-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP398]]
+> ◄  [[dhp397-pali-pts]] 📜  [[dhp399-pali-pts]] ►

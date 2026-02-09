@@ -74,5 +74,6 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47.12]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN47]]
 > ◄  [[mn46-bodhi]] 📜  [[mn48-bodhi]] ►

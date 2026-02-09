@@ -25,3 +25,5 @@ dīghā jāgarato rattī dīghaṃ santassa yojanaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp59-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP59]]
+> ◄  [[dhp58-pali-pts]] 📜  [[dhp60-pali-pts]] ►

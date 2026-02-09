@@ -23,3 +23,5 @@ pasannanetto sumukho brahā uju patāpavā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag819-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG819]]
+> ◄  [[thag818-pali-pts]] 📜  [[thag820-pali-pts]] ►

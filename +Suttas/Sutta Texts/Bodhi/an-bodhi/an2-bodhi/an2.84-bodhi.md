@@ -23,3 +23,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.84-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.84]]
+> ◄  [[an2.83-bodhi]] 📜  [[an2.85-bodhi]] ►

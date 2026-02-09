@@ -92,4 +92,5 @@ Kamma determines his destiny
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.57
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.57.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.56]]  🌐 [[SN1.58]] ►

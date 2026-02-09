@@ -32,15 +32,16 @@ The Brahmins of Verañja
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN2.6]]; [[MN41]] | [[SA1042]]; [[SA1043]] | M i 290 |
+> |  | [[SA1042]]; [[SA1043]] | M i 290 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN2.6]]; [[MN41]]; [[SA1042]]; [[SA1043]] |
+| [[AN2.6]], [[MN41]], [[SA1042]], [[SA1043]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN9]]; [[MN135]]; [[AN3.71]]; [[AN4.123-126]]; [[AN7.49]]; [[AN8.54]]; [[AN10.176.]]
+> - [[MN9]], [[MN135]], [[AN3.71]], [[AN4.123-126]], [[AN7.49]], [[AN8.54]], [[AN10.176.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN42]]
 > ◄  [[mn41-bodhi]] 📜  [[mn43-bodhi]] ►

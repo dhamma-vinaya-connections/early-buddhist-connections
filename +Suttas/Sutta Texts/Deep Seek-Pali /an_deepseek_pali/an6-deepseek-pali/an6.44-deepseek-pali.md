@@ -96,11 +96,12 @@ Then the Venerable Ānanda, having received almsfood at the dwelling of the layw
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.75]] | [[SA990]], [[SA991]] | A iii 347 |
+> |  | [[SA990]], [[SA991]] | A iii 347 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.75]], [[SA990]], [[SA991]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.44]]
 > ◄  [[an6.43-deepseek-pali]] 📜  [[an6.45-deepseek-pali]] ►

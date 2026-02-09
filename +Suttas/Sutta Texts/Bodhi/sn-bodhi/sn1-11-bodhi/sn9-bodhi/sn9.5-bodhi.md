@@ -40,5 +40,6 @@ Then the Venerable Ānanda, stirred up by that deity, acquired a sense of urgenc
 | [[SA-2.361]], [[SA1341]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.5]]
 > ◄  [[sn9.4-bodhi]] 📜  [[sn9.6-bodhi]] ►

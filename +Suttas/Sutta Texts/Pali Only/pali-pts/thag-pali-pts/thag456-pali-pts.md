@@ -23,3 +23,5 @@ yo vetā parivajjeti sappasseva padā siro,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag456-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG456]]
+> ◄  [[thag455-pali-pts]] 📜  [[thag457-pali-pts]] ►

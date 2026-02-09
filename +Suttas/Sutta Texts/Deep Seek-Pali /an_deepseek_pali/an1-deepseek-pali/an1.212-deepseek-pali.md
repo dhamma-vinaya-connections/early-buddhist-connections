@@ -23,3 +23,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.212-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.212]]
+> ◄  [[an1.211-deepseek-pali]] 📜  [[an1.213-deepseek-pali]] ►

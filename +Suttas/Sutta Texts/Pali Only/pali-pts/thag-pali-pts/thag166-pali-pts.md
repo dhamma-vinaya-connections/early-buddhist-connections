@@ -23,3 +23,5 @@ Yaṃ kiccaṃ daḷhaviriyena yaṃ kiccaṃ boddhum icchatā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag166-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG166]]
+> ◄  [[thag165-pali-pts]] 📜  [[thag167-pali-pts]] ►

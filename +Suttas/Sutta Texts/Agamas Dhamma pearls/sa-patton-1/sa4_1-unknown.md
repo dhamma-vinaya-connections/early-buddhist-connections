@@ -68,3 +68,5 @@ Kauṇḍinya said to the Buddha, “I’ve known it, Sugata!”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa4_1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA4_1]]
+> ◄  [[SA3_71]] 📜  [[SA4_2]] ►

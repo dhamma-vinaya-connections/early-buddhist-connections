@@ -23,3 +23,5 @@ kocchaṃ pasādaṃ añjanañ ca ādāsakañ ca gaṇhitvā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig410-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG410]]
+> ◄  [[thig409-pali-pts]] 📜  [[thig411-pali-pts]] ►

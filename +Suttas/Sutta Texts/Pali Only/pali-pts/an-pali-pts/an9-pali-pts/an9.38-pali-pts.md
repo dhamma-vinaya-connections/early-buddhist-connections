@@ -32,5 +32,6 @@ Atha kho dve lokāyatikā brāhmaṇā yena Bhagavā ten'; upasaṅkamiṃsu, up
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.45]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.38]]
 > ◄  [[an9.37-pali-pts]] 📜  [[an9.39-pali-pts]] ►

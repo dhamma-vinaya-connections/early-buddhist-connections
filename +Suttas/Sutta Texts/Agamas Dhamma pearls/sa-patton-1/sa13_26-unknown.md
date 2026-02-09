@@ -46,3 +46,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa13_26-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA13_26]]
+> ◄  [[SA13_25]] 📜  [[SA13_27]] ►

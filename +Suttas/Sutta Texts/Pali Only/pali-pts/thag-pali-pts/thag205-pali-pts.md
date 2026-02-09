@@ -23,3 +23,5 @@ mayh'; indriyāni samathaṃ gatāni assā yathā sārathinā sudantā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag205-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG205]]
+> ◄  [[thag204-pali-pts]] 📜  [[thag206-pali-pts]] ►

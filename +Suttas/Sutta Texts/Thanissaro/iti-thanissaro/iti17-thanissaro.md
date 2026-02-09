@@ -44,3 +44,5 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti17-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI17]]
+> ◄  [[iti16-thanissaro]] 📜  [[iti18-thanissaro]] ►

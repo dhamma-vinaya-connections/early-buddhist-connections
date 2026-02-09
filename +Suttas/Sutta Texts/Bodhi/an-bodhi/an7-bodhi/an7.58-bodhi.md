@@ -54,5 +54,6 @@ language: "English"
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.58]]
 > ◄  [[an7.57-bodhi]] 📜  [[an7.59-bodhi]] ►

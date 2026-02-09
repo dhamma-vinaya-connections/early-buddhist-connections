@@ -308,10 +308,11 @@ The monks then said, “Very well!”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.22]] | [[EA40.2]] |  |
+> |  | [[EA40.2]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA196]], [[MN104]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA142]]
 > ◄  [[ma140-patton]] 📜  [[ma146-patton]] ►

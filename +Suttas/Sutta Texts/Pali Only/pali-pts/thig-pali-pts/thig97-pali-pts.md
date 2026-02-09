@@ -23,3 +23,5 @@ sāhaṃ puttadhītarañ ca dhanadhaññañ ca chaḍḍiya |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig97-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG97]]
+> ◄  [[thig96-pali-pts]] 📜  [[thig98-pali-pts]] ►

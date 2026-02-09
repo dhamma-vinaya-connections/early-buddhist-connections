@@ -24,3 +24,5 @@ Rūpaṃ disvā sati muṭṭhā piyanimittaṃ manasikaroto;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag793-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG793]]
+> ◄  [[thag792-pali-pts]] 📜  [[thag794-pali-pts]] ►

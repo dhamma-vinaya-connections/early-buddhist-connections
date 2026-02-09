@@ -91,7 +91,8 @@ Monks’ rules and their analysis
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc22-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC22]] |
->|       |          | [[ñanatusita-analysis#^PC22]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC22]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC22]]

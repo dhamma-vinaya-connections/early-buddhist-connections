@@ -46,5 +46,6 @@ Monks, as long as the monks do not delight in idle talk... are not prone to slee
 | [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.24]]
 > ◄  [[an7.23-deepseek-pali]] 📜  [[an7.25-deepseek-pali]] ►

@@ -23,3 +23,5 @@ idaṃ vatvā sālavane samaṇo bhāvitindriyo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag947-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG947]]
+> ◄  [[thag946-pali-pts]] 📜  [[thag948-pali-pts]] ►

@@ -23,3 +23,5 @@ yassa c'; atthāya pabbajito agārasmā anagāriyaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag379-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG379]]
+> ◄  [[thag378-pali-pts]] 📜  [[thag380-pali-pts]] ►

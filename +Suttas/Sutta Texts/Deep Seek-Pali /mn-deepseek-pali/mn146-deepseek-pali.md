@@ -164,7 +164,8 @@ Chachakkasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN35.101]]; [[AN4.94]]
+> - [[SN35.101]], [[AN4.94]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN146]]
 > ◄  [[mn145-deepseek-pali]] 📜  [[mn147-deepseek-pali]] ►

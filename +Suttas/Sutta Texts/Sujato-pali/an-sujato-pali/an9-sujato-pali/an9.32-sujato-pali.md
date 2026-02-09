@@ -46,5 +46,6 @@ Paṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.34]], [[SN36.11]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.32]]
 > ◄  [[an9.31-sujato-pali]] 📜  [[an9.33-sujato-pali]] ►

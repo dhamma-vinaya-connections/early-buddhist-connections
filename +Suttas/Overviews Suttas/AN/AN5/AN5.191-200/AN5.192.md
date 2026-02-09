@@ -86,4 +86,5 @@ parallels_partilal: "[[MA158]], [[DN13]], [[DN3]], [[MN95]], [[PLI-TV-KD6]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.192
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.192.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.191]]  🌐 [[AN5.193]] ►

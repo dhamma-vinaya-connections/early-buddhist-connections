@@ -23,3 +23,5 @@ nanu ahaṃ citta tayāmhi yācito: Giribbaje citrachadā vihaṃgamā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1107-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1107]]
+> ◄  [[thag1106-pali-pts]] 📜  [[thag1108-pali-pts]] ►

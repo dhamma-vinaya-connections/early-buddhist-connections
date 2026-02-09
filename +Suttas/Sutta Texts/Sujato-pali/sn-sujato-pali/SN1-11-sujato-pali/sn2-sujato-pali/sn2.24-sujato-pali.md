@@ -174,7 +174,7 @@ sarīrantimadhārinan"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.50]] | [[SA-2.189]], [[SA595]] |  |
+> |  | [[SA-2.189]], [[SA595]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.189]], [[SA595]], [[SN1.50]] |
@@ -183,6 +183,7 @@ sarīrantimadhārinan"ti.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.50]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.24]]
 > ◄  [[sn2.23-sujato-pali]] 📜  [[sn2.25-sujato-pali]] ►

@@ -23,3 +23,5 @@ tādisaṃ kammaṃ katvāna bahuṃ duggatigāminaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag881-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG881]]
+> ◄  [[thag880-pali-pts]] 📜  [[thag882-pali-pts]] ►

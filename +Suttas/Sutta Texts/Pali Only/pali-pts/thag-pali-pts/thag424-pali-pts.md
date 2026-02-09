@@ -23,3 +23,5 @@ mātaraṃ pitarañ cāpi aññe pi garusammate
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag424-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG424]]
+> ◄  [[thag423-pali-pts]] 📜  [[thag425-pali-pts]] ►

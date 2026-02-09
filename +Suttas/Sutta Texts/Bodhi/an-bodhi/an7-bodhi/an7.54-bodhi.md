@@ -60,5 +60,6 @@ Then a certain bhikkhu approached the Blessed One, paid homage to him, \[68\] sa
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN63]], [[MN72]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.54]]
 > ◄  [[an7.53-bodhi]] 📜  [[an7.55-bodhi]] ►

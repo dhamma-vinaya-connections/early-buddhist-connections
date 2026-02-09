@@ -382,5 +382,6 @@ Ghaṭikārasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 | [[MA63]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-sujato-pali]] 📜  [[mn82-sujato-pali]] ►

@@ -23,3 +23,5 @@ sabbe kāmā samucchinnā ye dibbā ye ca mānusā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig46-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG46]]
+> ◄  [[thig45-pali-pts]] 📜  [[thig47-pali-pts]] ►

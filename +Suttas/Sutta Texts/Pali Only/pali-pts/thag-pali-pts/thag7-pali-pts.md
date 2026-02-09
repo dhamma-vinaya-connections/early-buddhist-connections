@@ -24,3 +24,5 @@ Yo duddamayo damena danto vīro santusito vitiṇṇakaṅkho
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG7]]
+> ◄  [[thag6-pali-pts]] 📜  [[thag8-pali-pts]] ►

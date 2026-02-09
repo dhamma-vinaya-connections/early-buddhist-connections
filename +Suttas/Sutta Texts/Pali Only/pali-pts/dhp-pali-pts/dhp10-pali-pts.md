@@ -30,8 +30,9 @@ asāre sāramatino sāre cāsāradassino /
 > |  |  | Dh 37 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA221]], [[JA514]], [[THAG17.1]] |
+| [[JA221]], [[JA514]], [[THAG17]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP10]]
 > ◄  [[dhp9-pali-pts]] 📜  [[dhp11-pali-pts]] ►

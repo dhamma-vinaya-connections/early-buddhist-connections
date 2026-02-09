@@ -24,3 +24,5 @@ akkodhanaṃ vatavantaṃ sīlavantaṃ anussutaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp399-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP399]]
+> ◄  [[dhp398-pali-pts]] 📜  [[dhp400-pali-pts]] ►

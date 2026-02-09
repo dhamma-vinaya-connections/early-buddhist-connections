@@ -45,3 +45,5 @@ The Buddha told the monks, “There is the right eightfold path that can end cra
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa13_8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA13_8]]
+> ◄  [[SA13_7]] 📜  [[SA13_9]] ►

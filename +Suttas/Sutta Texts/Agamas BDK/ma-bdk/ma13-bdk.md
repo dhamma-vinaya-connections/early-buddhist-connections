@@ -46,7 +46,7 @@ of contact there is feeling. Monks, one who has feeling will [be able to] know s
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.61]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.201]], [[AN7.59]] |
@@ -55,6 +55,7 @@ of contact there is feeling. Monks, one who has feeling will [be able to] know s
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA19]], [[MN101]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA13]]
 > ◄  [[ma12-bdk]] 📜  [[ma14-bdk]] ►

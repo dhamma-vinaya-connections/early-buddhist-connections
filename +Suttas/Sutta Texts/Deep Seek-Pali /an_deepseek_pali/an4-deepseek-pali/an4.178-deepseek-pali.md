@@ -46,5 +46,6 @@ Here, bhikkhus, a bhikkhu attains and dwells in a certain peaceful liberation of
 | [[SA492]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.178]]
 > ◄  [[an4.177-deepseek-pali]] 📜  [[an4.179-deepseek-pali]] ►

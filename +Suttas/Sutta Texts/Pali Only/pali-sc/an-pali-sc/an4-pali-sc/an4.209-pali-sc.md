@@ -42,5 +42,6 @@ Navamaṁ.
 | [[SA1053]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.209]]
 > ◄  [[an4.208-pali-sc]] 📜  [[an4.210-pali-sc]] ►

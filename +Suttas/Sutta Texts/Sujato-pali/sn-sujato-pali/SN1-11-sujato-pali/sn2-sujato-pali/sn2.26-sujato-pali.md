@@ -86,11 +86,12 @@ Nāsīsati lokamimaṁ parañcā"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.45]], [[AN4.46]] | [[EA43.1]], [[SA-2.306]], [[SA1307]] |  |
+> |  | [[EA43.1]], [[SA-2.306]], [[SA1307]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.45]], [[AN4.46]], [[SA-2.306]], [[SA1307]], [[EA43.1]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.26]]
 > ◄  [[sn2.25-sujato-pali]] 📜  [[sn2.27-sujato-pali]] ►

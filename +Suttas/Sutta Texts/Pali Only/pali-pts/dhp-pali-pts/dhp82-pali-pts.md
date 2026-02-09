@@ -24,3 +24,5 @@ sabbattha ve sappurisā vajanti, na kāmakāmā lapayanti santo, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp82-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP82]]
+> ◄  [[dhp81-pali-pts]] 📜  [[dhp83-pali-pts]] ►

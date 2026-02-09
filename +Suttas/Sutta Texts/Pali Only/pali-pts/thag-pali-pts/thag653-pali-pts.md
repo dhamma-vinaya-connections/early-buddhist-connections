@@ -25,3 +25,5 @@ sampādeth'; appamādena, esā me anusāsanī;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag653-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG653]]
+> ◄  [[thag652-pali-pts]] 📜  [[thag658-pali-pts]] ►

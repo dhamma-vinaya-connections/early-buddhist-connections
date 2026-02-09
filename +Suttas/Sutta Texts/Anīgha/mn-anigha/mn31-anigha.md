@@ -106,15 +106,16 @@ That is what the Auspicious One said. Pleased, the spirit Dīgha Parajana deligh
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN128]] | [[EA24.8]]; [[MA185]]; [[MA72]] | M i 205 |
+> |  | [[EA24.8]]; [[MA185]]; [[MA72]] | M i 205 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA24.8]]; [[MA185]]; [[MN128]]; [[MA72]]; [[PLI-TV-KD10]] |
+| [[EA24.8]], [[MA185]], [[MN128]], [[MA72]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN128]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN31]]
 > ◄  [[mn30-anigha]] 📜  [[mn32-anigha]] ►

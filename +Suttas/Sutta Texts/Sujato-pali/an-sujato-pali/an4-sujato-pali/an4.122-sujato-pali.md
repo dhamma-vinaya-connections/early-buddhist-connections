@@ -68,5 +68,6 @@ Dutiyaṁ.
 | [[MN67]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.122]]
 > ◄  [[an4.121-sujato-pali]] 📜  [[an4.123-sujato-pali]] ►

@@ -60,11 +60,12 @@ Chaṭṭhaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.96]] |  | A ii 250 |
+> |  |  | A ii 250 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.96]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.259]]
 > ◄  [[an4.258-sujato-pali]] 📜  [[an4.260-sujato-pali]] ►

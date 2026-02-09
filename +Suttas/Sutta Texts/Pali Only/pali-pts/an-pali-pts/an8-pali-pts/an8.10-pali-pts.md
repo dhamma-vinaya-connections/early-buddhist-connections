@@ -36,5 +36,6 @@ Kim aññatra bhikkhave Nando indriyesu guttadvāro bhojane mattaññū jāgariy
 | [[MA122]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
 > ◄  [[an8.9-pali-pts]] 📜  [[an8.11-pali-pts]] ►

@@ -23,3 +23,5 @@ Kāḷa 'ṅginiṃ va takkāriṃ pupphitaṃ girimuddhani |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig296-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG296]]
+> ◄  [[thig295-pali-pts]] 📜  [[thig297-pali-pts]] ►

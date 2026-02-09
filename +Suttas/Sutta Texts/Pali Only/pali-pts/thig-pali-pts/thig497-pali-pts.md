@@ -24,3 +24,5 @@ anamatagge saṃsarato mahiṃ Jambudīpam upanītaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig497-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG497]]
+> ◄  [[thig496-pali-pts]] 📜  [[thig498-pali-pts]] ►

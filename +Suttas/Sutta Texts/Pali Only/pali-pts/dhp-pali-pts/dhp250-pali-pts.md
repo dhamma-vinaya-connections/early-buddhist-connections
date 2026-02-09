@@ -24,3 +24,5 @@ n'; atthi rāgasamo aggi n'; atthi dosasamo gaho /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp250-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP250]]
+> ◄  [[dhp249-pali-pts]] 📜  [[dhp251-pali-pts]] ►

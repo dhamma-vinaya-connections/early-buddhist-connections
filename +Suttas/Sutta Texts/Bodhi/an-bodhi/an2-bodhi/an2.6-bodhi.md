@@ -26,11 +26,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN41]], [[MN42]] | [[SA1042]], [[SA1043]] |  |
+> |  | [[SA1042]], [[SA1043]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN41]], [[MN42]], [[SA1042]], [[SA1043]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.6]]
 > ◄  [[an2.5-bodhi]] 📜  [[an2.7-bodhi]] ►

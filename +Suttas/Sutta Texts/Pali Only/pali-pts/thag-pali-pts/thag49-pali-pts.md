@@ -24,3 +24,5 @@ Dharaṇī ca siccati vāti māluto vijjutā carati nabhe,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag49-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG49]]
+> ◄  [[thag48-pali-pts]] 📜  [[thag50-pali-pts]] ►

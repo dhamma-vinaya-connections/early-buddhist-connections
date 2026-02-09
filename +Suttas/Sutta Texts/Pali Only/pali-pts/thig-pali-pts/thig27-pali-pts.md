@@ -23,3 +23,5 @@ saṃghāṭiṃ nikkhipitvāna pattakaṃ ca nikujjiya |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig27-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG27]]
+> ◄  [[thig26-pali-pts]] 📜  [[thig28-pali-pts]] ►

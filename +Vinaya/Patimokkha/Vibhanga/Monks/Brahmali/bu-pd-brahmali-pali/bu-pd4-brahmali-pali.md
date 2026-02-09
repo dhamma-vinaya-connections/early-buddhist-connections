@@ -179,7 +179,8 @@ Yāguyā paṭisaṁvidite tassā parivāro āhariyyati, etaṁ paṭisaṁvidit
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pd4-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PD4]] |
->|       |          | [[ñanatusita-analysis#^PD4]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PD4]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD4]]

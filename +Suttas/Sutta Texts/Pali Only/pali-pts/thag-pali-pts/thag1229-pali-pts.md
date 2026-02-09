@@ -23,3 +23,5 @@ yaṃ buddho bhāsatī vācaṃ khemaṃ nibbānapattiyā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1229-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1229]]
+> ◄  [[thag1228-pali-pts]] 📜  [[thag1230-pali-pts]] ►

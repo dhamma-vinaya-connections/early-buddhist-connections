@@ -23,3 +23,5 @@ svāgataṃ nāpagataṃ, n'; etaṃ dummantitaṃ mama;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag884-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG884]]
+> ◄  [[thag883-pali-pts]] 📜  [[thag885-pali-pts]] ►

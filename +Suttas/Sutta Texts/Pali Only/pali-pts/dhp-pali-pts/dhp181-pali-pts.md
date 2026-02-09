@@ -24,3 +24,5 @@ kiccho manussapaṭilābho kicchaṃ maccāna jīvitaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp181-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP181]]
+> ◄  [[dhp180-pali-pts]] 📜  [[dhp182-pali-pts]] ►

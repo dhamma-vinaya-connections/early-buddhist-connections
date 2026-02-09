@@ -329,3 +329,5 @@ Pilindi kassapo piṇḍo sippaṃ lokena te dasāti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3]]
+> ◄  [[ud2-pali-sri]] 📜  [[ud4-pali-sri]] ►

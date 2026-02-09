@@ -29,3 +29,5 @@ Sattakanipātapāḷi niṭṭhitā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.645-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.645]]
+> ◄  [[an7.618-pali-sc]] 📜  [[]] ►

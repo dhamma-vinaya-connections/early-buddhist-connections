@@ -43,11 +43,12 @@ The monks said to the Buddha, “Bhagavān, the leaves in your hand are few, but
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN56.31]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN56.31]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA404]]
 > ◄  [[sa389-patton]] 📜  [[sa470-patton]] ►

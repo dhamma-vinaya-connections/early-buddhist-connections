@@ -60,11 +60,12 @@ the highest enlightenment.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[ITI110]] |  | A ii 13 |
+> |  |  | A ii 13 |
 > > [!check]- Partial parallels 
 > > 
 | [[ITI110]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.11]]
 > ◄  [[an4.10-bodhi]] 📜  [[an4.12-bodhi]] ►

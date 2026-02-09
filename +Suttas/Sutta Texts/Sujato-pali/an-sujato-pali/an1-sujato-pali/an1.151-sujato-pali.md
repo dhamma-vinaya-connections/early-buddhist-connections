@@ -31,3 +31,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.151-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.151]]
+> ◄  [[an1.150-sujato-pali]] 📜  [[an1.160-sujato-pali]] ►

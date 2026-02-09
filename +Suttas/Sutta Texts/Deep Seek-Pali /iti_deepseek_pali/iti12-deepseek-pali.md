@@ -41,3 +41,5 @@ This too was stated by the Blessed One, so I have heard. The Third.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI12]]
+> ◄  [[iti11-deepseek-pali]] 📜  [[iti13-deepseek-pali]] ►

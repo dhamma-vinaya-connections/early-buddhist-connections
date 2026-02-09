@@ -31,5 +31,6 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.21]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.118]]
 > ◄  [[an2.117-bodhi]] 📜  [[an2.119-bodhi]] ►

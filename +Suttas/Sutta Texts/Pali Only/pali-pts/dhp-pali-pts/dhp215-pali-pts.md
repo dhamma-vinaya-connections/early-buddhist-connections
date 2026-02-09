@@ -24,3 +24,5 @@ taṇhāya jāyatī soko taṇhāya jāyatī bhayaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp215-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP215]]
+> ◄  [[dhp214-pali-pts]] 📜  [[dhp216-pali-pts]] ►

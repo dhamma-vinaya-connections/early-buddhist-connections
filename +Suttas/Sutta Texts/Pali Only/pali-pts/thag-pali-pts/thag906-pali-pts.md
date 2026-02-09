@@ -23,3 +23,5 @@ ete pacchimakā dāni munino phassapañcamā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag906-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG906]]
+> ◄  [[thag905-pali-pts]] 📜  [[thag907-pali-pts]] ►

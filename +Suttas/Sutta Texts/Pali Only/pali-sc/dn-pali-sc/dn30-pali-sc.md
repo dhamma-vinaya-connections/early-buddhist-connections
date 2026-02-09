@@ -487,7 +487,7 @@ Asuciṁ garahitaṁ dhunanti pāpaṁ;
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN33]] | [[DA9]], [[MA59]] | D iii 142 |
+> |  | [[DA9]], [[MA59]] | D iii 142 |
 > > [!check]- Partial parallels 
 > > 
 | [[DN33]], [[MA59]], [[DA9]] |
@@ -496,6 +496,7 @@ Asuciṁ garahitaṁ dhunanti pāpaṁ;
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN83]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN30]]
 > ◄  [[dn29-pali-sc]] 📜  [[dn31-pali-sc]] ►

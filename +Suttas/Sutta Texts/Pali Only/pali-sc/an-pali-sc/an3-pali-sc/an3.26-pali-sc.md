@@ -43,5 +43,6 @@ Chaṭṭhaṁ.
 | [[JA397]], [[AN3.27]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.26]]
 > ◄  [[an3.25-pali-sc]] 📜  [[an3.27-pali-sc]] ►

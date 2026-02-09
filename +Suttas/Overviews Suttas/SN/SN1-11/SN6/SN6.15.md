@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[JA95]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.110]], [[SA1197]]"
-parallels_partilal: "[[SA-2.110]], [[SA1197]], [[DN16]], [[THAG16.9]], [[JA95]], [[DN17]], [[SN15.20]], [[THAG20.1]], [[SN1.11]], [[THAG17.3]], [[JA547]]"
+parallels_partilal: "[[SA-2.110]], [[SA1197]], [[DN16]], [[THAG16]].9, [[JA95]], [[DN17]], [[SN15.20]], [[THAG20]].1, [[SN1.11]], [[THAG17]].3, [[JA547]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.14]]  🌐 [[SN7.1]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[SA-2.110]], [[SA1197]], [[DN16]], [[THAG16.9]], [[JA95]],
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA95]] | [[SA-2.110]], [[SA1197]] |  |
+> |  | [[SA-2.110]], [[SA1197]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.110]], [[SA1197]], [[DN16]], [[THAG16.9]], [[JA95]], [[DN17]], [[SN15.20]], [[THAG20.1]], [[SN1.11]], [[THAG17.3]], [[JA547]] |
+| [[SA-2.110]], [[SA1197]], [[DN16]], [[THAG16]].9, [[JA95]], [[DN17]], [[SN15.20]], [[THAG20]].1, [[SN1.11]], [[THAG17]].3, [[JA547]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -88,5 +88,6 @@ parallels_partilal: "[[SA-2.110]], [[SA1197]], [[DN16]], [[THAG16.9]], [[JA95]],
 > - Sutta Central: https://suttacentral.net/sn6.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.15
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.15.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.14]]  🌐 [[SN7.1]] ►

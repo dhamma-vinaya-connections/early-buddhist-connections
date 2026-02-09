@@ -23,3 +23,5 @@ suciṇṇaṃ brahmacariyaṃ me, maggo cāpi subhāvito,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag709-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG709]]
+> ◄  [[thag708-pali-pts]] 📜  [[thag710-pali-pts]] ►

@@ -29,3 +29,5 @@ Chakkanipātapāḷi niṭṭhitā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.170-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.170]]
+> ◄  [[an6.143-pali-sc]] 📜  [[]] ►

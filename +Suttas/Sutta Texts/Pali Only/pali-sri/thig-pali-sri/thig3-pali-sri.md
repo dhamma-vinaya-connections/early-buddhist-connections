@@ -209,3 +209,5 @@ Tikanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG3]]
+> ◄  [[thig2-pali-sri]] 📜  [[thig4-pali-sri]] ►

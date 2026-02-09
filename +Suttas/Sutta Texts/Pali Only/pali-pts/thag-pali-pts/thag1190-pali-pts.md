@@ -22,3 +22,5 @@ accharā tattha naccanti puthū nānattavaṇṇiyo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1190-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1190]]
+> ◄  [[thag1189-pali-pts]] 📜  [[thag1191-pali-pts]] ►

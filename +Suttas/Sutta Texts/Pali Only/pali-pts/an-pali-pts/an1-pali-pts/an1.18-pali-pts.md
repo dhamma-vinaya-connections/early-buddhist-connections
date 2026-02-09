@@ -34,5 +34,6 @@ Nāhaṃ bhikkhave aññaṃ ekadhammam pi samanupassāmi yena anuppannaṃ vā 
 | [[EA9.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.18]]
 > ◄  [[an1.17-pali-pts]] 📜  [[an1.19-pali-pts]] ►

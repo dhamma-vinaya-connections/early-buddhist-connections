@@ -23,3 +23,5 @@ pañca kkhandhe pariññāya bhāvayitvāna añjasaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag368-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG368]]
+> ◄  [[thag367-pali-pts]] 📜  [[thag369-pali-pts]] ►

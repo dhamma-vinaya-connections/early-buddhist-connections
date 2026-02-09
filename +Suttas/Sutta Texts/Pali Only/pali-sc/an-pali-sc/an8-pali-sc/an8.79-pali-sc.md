@@ -30,11 +30,12 @@ Navamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.31]] |  | A iv 331 |
+> |  |  | A iv 331 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.31]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.79]]
 > ◄  [[an8.78-pali-sc]] 📜  [[an8.80-pali-sc]] ►

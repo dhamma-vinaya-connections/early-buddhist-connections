@@ -79,7 +79,7 @@ In doing deeds of merit.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN55.40]], [[SN48.56 AN4.37]], [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[DHP315]], [[SN2.10]]
+> - [[SN55.40]], [[SN48.56 AN4.37]], [[DHP\|DHP21]], [[DHP\|DHP22]], [[DHP\|DHP23]], [[DHP\|DHP24]], [[DHP\|DHP25]], [[DHP\|DHP26]], [[DHP\|DHP27]], [[DHP\|DHP28]], [[DHP\|DHP29]], [[DHP\|DHP30]], [[DHP\|DHP31]], [[DHP\|DHP32]], [[DHP\|DHP315]], [[SN2.10]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -97,5 +97,6 @@ In doing deeds of merit.
 > - Sutta Central: https://suttacentral.net/sn3.16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.16
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.16.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.15]]  🌐 [[SN3.17]] ►

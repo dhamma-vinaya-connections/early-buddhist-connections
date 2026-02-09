@@ -23,3 +23,5 @@ odahi migavo pāsaṃ, nāsādā vākuraṃ migo;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag773-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG773]]
+> ◄  [[thag772-pali-pts]] 📜  [[thag774-pali-pts]] ►

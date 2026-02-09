@@ -24,3 +24,5 @@ pathavyā ekarajjena saggassa gamanena vā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp177-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP177]]
+> ◄  [[dhp176-pali-pts]] 📜  [[dhp178-pali-pts]] ►

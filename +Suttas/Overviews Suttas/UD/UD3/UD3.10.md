@@ -102,4 +102,5 @@ fading away and cessation with nothing left over.
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud3.10
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud3.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.9]]  🌐 [[UD4.1]] ►

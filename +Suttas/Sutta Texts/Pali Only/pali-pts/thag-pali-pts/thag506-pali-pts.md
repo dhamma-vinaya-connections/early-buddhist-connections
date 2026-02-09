@@ -23,3 +23,5 @@ yassa saddhā tathāgate acalā supatiṭṭhitā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag506-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG506]]
+> ◄  [[thag505-pali-pts]] 📜  [[thag507-pali-pts]] ►

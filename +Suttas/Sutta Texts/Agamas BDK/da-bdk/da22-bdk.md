@@ -561,15 +561,16 @@ delighted to receive it and carried it out as taught by the Buddha.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN4]], [[MN100]], [[MN36]], [[MN85]] | [[DA20]], [[DA21]], [[EA31.8]] |  |
+> |  | [[DA20]], [[DA21]], [[EA31.8]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP307]], [[ITI48]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]] |
+| [[DHP\|DHP307]], [[ITI48]], [[PLI-TV-BU-VB-PJ4]], [[DHP\|DHP308]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN102]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA22]]
 > ◄  [[da21-bdk]] 📜  [[da23-bdk]] ►

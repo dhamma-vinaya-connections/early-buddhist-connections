@@ -55,7 +55,7 @@ Pañcamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.46]], [[SN2.26]] | [[EA43.1]], [[SA-2.306]], [[SA1307]] | A ii 47 |
+> |  | [[EA43.1]], [[SA-2.306]], [[SA1307]] | A ii 47 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.46]], [[SA-2.306]], [[SA1307]], [[SN2.26]], [[EA43.1]] |
@@ -64,6 +64,7 @@ Pañcamaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.38]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.45]]
 > ◄  [[an4.44-pali-sc]] 📜  [[an4.46-pali-sc]] ►

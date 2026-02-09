@@ -40,11 +40,12 @@ And how, bhikkhus, is an excellent thoroughbred person…endowed with speed, end
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.140]], [[AN3.141]], [[AN9.22]] | [[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]] | A i 290 |
+> |  | [[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]] | A i 290 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.145]], [[SA919]], [[AN9.22]], [[AN3.140]], [[AN3.141]], [[SA-2.143]], [[SA917]], [[SA-2.144]], [[SA918]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.142]]
 > ◄  [[an3.141-deepseek-pali]] 📜  [[an3.143-deepseek-pali]] ►

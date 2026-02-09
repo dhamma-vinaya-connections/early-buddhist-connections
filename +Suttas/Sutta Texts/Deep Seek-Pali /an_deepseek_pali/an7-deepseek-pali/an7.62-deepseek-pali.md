@@ -78,5 +78,6 @@ language: "English - Pali"
 | [[MA138]], [[ITI22]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.62]]
 > ◄  [[an7.61-deepseek-pali]] 📜  [[an7.63-deepseek-pali]] ►

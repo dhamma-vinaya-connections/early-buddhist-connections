@@ -60,5 +60,6 @@ Taṁ sinānamanodakan"ti.
 | [[SA-2.246]], [[SA1019]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.58]]
 > ◄  [[sn1.57-sujato-pali]] 📜  [[sn1.59-sujato-pali]] ►

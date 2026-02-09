@@ -23,3 +23,5 @@ itv eva coro asim āvudhañ ca sobbhe papāte narake anvakāsi,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag868-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG868]]
+> ◄  [[thag867-pali-pts]] 📜  [[thag869-pali-pts]] ►

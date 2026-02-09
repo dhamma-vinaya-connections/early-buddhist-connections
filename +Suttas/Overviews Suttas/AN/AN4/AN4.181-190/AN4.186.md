@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[SN1.62]]"
+parallels_nikaya: ""
 parallels_agama: "[[MA172]], [[SA-2.236]], [[SA1009]]"
 parallels_partilal: "[[MA172]], [[SN1.62]], [[SA-2.236]], [[SA1009]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[MA172]], [[SN1.62]], [[SA-2.236]], [[SA1009]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.62]] | [[MA172]], [[SA-2.236]], [[SA1009]] | A ii 177 |
+> |  | [[MA172]], [[SA-2.236]], [[SA1009]] | A ii 177 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA172]], [[SN1.62]], [[SA-2.236]], [[SA1009]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[MA172]], [[SN1.62]], [[SA-2.236]], [[SA1009]]"
 > - Sutta Central: https://suttacentral.net/an4.186/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.186
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.186.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.185]]  🌐 [[AN4.187]] ►

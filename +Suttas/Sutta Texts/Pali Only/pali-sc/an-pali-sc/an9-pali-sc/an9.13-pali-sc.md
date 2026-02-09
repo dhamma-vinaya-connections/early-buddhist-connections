@@ -99,7 +99,7 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN9]] | [[MA29]], [[SA344]] | A iv 382 |
+> |  | [[MA29]], [[SA344]] | A iv 382 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA29]], [[SA344]], [[MN9]], [[MN101]] |
@@ -108,6 +108,7 @@ Tatiyaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN9]], [[MN101]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.13]]
 > ◄  [[an9.12-pali-sc]] 📜  [[an9.14-pali-sc]] ►

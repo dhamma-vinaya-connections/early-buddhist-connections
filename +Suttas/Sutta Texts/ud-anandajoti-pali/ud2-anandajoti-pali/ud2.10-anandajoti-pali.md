@@ -110,5 +110,6 @@ Kāḷīgodhāya bhaddiyoti.
 | [[PLI-TV-KD17]], [[SNP1.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
 > ◄  [[ud2.9-anandajoti-pali]] 📜  [[]] ►

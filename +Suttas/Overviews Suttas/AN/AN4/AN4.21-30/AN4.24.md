@@ -90,4 +90,5 @@ Seen, heard, or thought to be ultimately true or false the realized ones have no
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.24
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.24.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.23]]  🌐 [[AN4.25]] ►

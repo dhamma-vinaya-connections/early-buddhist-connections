@@ -44,7 +44,7 @@ Udāyī, in this way if my disciples come and ask me, I satisfy their minds with
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN77]] |  | M ii 209 |
+> |  |  | M ii 209 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN14.17]], [[SN14.18]], [[SN14.19]], [[SN14.20]], [[SN14.21]], [[SN14.22]], [[SN14.23]], [[SN14.24]], [[SN14.25]], [[SN14.26]], [[SN14.27]], [[SN14.28]], [[SN14.12]] |
@@ -53,6 +53,7 @@ Udāyī, in this way if my disciples come and ask me, I satisfy their minds with
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN32]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA207]]
 > ◄  [[ma206-bdk]] 📜  [[ma208-bdk]] ►

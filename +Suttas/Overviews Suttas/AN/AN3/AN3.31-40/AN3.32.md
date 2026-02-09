@@ -86,4 +86,5 @@ parallels_partilal: "[[SA982]], [[SNP5.4]], [[AN4.41]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.32
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.32.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.31]]  🌐 [[AN3.33]] ►

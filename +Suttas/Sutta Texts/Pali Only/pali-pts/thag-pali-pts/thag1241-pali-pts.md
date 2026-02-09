@@ -23,3 +23,5 @@ ummaggapathaṃ Mārassa abhibhuyya carati pabhijja khilāni;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1241-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1241]]
+> ◄  [[thag1240-pali-pts]] 📜  [[thag1242-pali-pts]] ►

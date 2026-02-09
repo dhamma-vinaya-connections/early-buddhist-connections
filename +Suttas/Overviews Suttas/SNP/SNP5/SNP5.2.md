@@ -101,4 +101,5 @@ mindfully.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.2
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.1]]  🌐 [[SNP5.3]] ►

@@ -25,3 +25,5 @@ _THERĪ-GĀTHĀ. 173_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig506-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG506]]
+> ◄  [[thig505-pali-pts]] 📜  [[thig507-pali-pts]] ►

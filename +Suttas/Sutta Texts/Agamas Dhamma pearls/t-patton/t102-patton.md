@@ -44,3 +44,5 @@ They said, “Virtuous sir, form is impermanent.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:t102-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[T1]]  / 🌐 [[T102]]
+> ◄  [[t101.15-patton]] 📜  [[t109-patton]] ►

@@ -23,3 +23,5 @@ api āvuso jānāsi taṇhakkhayavimuttiyo;--
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1195-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1195]]
+> ◄  [[thag1194-pali-pts]] 📜  [[thag1196-pali-pts]] ►

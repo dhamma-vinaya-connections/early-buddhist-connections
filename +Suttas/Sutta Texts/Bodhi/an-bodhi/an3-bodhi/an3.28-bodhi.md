@@ -40,5 +40,6 @@ language: "English"
 | [[MN114]], [[MN41]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.28]]
 > ◄  [[an3.27-bodhi]] 📜  [[an3.29-bodhi]] ►

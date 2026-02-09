@@ -38,3 +38,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa12_33-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA12_33]]
+> ◄  [[SA12_30]] 📜  [[SA12_34]] ►

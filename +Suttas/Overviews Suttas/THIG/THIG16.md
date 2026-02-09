@@ -95,4 +95,5 @@ but not without striving.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig16
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig16.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG15]]  🌐 [[UD1.1]] ►

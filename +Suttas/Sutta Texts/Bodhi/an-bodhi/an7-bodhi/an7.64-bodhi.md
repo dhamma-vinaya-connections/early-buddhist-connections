@@ -186,5 +186,6 @@ the taintless ones attain nibbāna. \[99\]
 | [[MA129]], [[ITI88]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.64]]
 > ◄  [[an7.63-bodhi]] 📜  [[an7.65-bodhi]] ►

@@ -95,4 +95,5 @@ Is released from all suffering
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.52
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.52.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.51]]  🌐 [[SN1.53]] ►

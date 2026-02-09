@@ -166,11 +166,12 @@ Dhammacetiyasuttaṁ niṭṭhitaṁ navamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.30]] | [[EA38.10]]; [[MA213]] | M ii 118 |
+> |  | [[EA38.10]]; [[MA213]] | M ii 118 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN10.30]]; [[EA38.10]]; [[MA213]] |
+| [[AN10.30]], [[EA38.10]], [[MA213]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN89]]
 > ◄  [[mn88-sujato-pali]] 📜  [[mn90-sujato-pali]] ►

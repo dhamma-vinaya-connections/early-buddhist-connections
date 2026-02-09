@@ -346,3 +346,5 @@ Pattaṃ āyatanaṃ piṇḍaṃ kassakaṃ rajjena te dasāti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.2]]
+> ◄  [[sn4.1-pali-sri]] 📜  [[sn4.3-pali-sri]] ►

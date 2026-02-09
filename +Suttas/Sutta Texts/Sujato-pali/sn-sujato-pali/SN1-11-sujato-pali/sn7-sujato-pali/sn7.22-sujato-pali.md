@@ -81,5 +81,6 @@ Brāhmaṇasaṁyuttaṁ samattaṁ.
 | [[SA-2.94]], [[SA1180]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.22]]
 > ◄  [[sn7.21-sujato-pali]] 📜  [[]] ►

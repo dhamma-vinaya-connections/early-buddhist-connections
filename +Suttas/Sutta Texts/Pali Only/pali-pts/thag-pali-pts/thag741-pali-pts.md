@@ -23,3 +23,5 @@ yañ ca atthena saññuttaṃ yā ca dhammagatā rati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag741-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG741]]
+> ◄  [[thag740-pali-pts]] 📜  [[thag742-pali-pts]] ►

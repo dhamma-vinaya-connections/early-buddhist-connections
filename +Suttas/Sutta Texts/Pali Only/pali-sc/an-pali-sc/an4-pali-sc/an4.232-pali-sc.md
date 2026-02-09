@@ -36,5 +36,6 @@ Paṭhamaṁ.
 | [[DN33]], [[MN57]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.232]]
 > ◄  [[an4.231-pali-sc]] 📜  [[an4.233-pali-sc]] ►

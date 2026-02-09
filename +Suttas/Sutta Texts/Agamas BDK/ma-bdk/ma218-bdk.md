@@ -23,3 +23,5 @@ The venerable Anuruddha answered, “Venerable friends, ask whatever you wish to
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma218-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA218]]
+> ◄  [[ma217-bdk]] 📜  [[ma219-bdk]] ►

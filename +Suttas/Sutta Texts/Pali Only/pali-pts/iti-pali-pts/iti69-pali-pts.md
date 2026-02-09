@@ -34,5 +34,10 @@ Puññaṃ (60) cakkhu (61) ath-indriyā (62) addhā (63) caritaṃ duve (64,65)
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti69-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[ITI109]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI69]]
 > ◄  [[iti68-pali-pts]] 📜  [[iti70-pali-pts]] ►

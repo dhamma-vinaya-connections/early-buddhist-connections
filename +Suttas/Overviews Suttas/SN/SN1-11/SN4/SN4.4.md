@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-parallels_nikaya: "[[SN4.15]], [[SN4.5]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.25]], [[SA1086]], [[SA1096]]"
 parallels_partilal: "[[PLI-TV-KD1]], [[SN4.15]], [[SA-2.25]], [[SA1086]], [[SN4.5]], [[SA1096]]"
 ---
@@ -66,7 +66,7 @@ Don’t fall under Māra’s sway
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN4.15]], [[SN4.5]] | [[SA-2.25]], [[SA1086]], [[SA1096]] |  |
+> |  | [[SA-2.25]], [[SA1086]], [[SA1096]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-KD1]], [[SN4.15]], [[SA-2.25]], [[SA1086]], [[SN4.5]], [[SA1096]] |
@@ -89,5 +89,6 @@ Don’t fall under Māra’s sway
 > - Sutta Central: https://suttacentral.net/sn4.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.4.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.3]]  🌐 [[SN4.5]] ►

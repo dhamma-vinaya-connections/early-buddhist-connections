@@ -23,3 +23,5 @@ ye tuyha chandena vasena vattino narā ca nārī ca anubhonti yaṃ sukhaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1144-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1144]]
+> ◄  [[thag1143-pali-pts]] 📜  [[thag1145-pali-pts]] ►

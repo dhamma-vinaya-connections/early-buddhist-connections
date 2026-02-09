@@ -24,3 +24,5 @@ ye ye lābhaṃ labhissanti micchājīvaratā sadā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag962-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG962]]
+> ◄  [[thag961-pali-pts]] 📜  [[thag963-pali-pts]] ►

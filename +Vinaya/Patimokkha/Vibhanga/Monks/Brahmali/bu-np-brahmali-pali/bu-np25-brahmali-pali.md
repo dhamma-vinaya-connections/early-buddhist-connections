@@ -151,7 +151,8 @@ Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko,
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np25-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP25]] |
->|       |          | [[ñanatusita-analysis#^NP25]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP25]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP25]]

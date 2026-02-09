@@ -23,3 +23,5 @@ kālaṃ kālaṃ bhavā bhavaṃ sakkāyasmiṃ purakkhatā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig198-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG198]]
+> ◄  [[thig197-pali-pts]] 📜  [[thig199-pali-pts]] ►

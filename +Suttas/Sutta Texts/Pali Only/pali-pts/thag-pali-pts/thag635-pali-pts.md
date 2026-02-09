@@ -24,3 +24,5 @@ akiccan te na sevanti kicce sātaccakārino.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag635-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG635]]
+> ◄  [[thag634-pali-pts]] 📜  [[thag636-pali-pts]] ►

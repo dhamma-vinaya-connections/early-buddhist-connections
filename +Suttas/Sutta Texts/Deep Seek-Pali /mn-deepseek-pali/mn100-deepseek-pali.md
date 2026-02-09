@@ -164,11 +164,12 @@ The Middle Fifty is concluded.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN20]]; [[MN36]]; [[MN85]]; [[SN6.1]] | [[DA20]]; [[DA21]]; [[DA22]]; [[EA31.8]]; [[MA101]]; [[MA204]] | M ii 209 |
+> |  | [[DA20]]; [[DA21]]; [[DA22]]; [[EA31.8]]; [[MA101]]; [[MA204]] | M ii 209 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN85]]; [[MN36]]; [[EA31.8]]; [[DA20]]; [[DA21]]; [[DA22]]; [[PLI-TV-KD15]]; [[DN14]]; [[SN6.1]]; [[MA204]]; [[MN26]]; [[MN20]]; [[MN4]]; [[MA101]] |
+| [[MN85]], [[MN36]], [[EA31.8]], [[DA20]], [[DA21]], [[DA22]], [[PLI-TV-KD15]], [[DN14]], [[SN6.1]], [[MA204]], [[MN26]], [[MN20]], [[MN4]], [[MA101]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN100]]
 > ◄  [[mn99-deepseek-pali]] 📜  [[mn101-deepseek-pali]] ►

@@ -23,3 +23,5 @@ kāmapaṅkasattā hi janā bahū loke aviddasū |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig353-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG353]]
+> ◄  [[thig352-pali-pts]] 📜  [[thig354-pali-pts]] ►

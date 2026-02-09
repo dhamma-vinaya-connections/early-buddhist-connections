@@ -84,5 +84,6 @@ Ekādasamaṁ.
 | [[AN7.20]], [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
 > ◄  [[an7.41-sujato-pali]] 📜  [[an7.43-sujato-pali]] ►

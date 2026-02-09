@@ -90,4 +90,5 @@ from the unperturbed,
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti92
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti92.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI91]]  🌐 [[ITI93]] ►

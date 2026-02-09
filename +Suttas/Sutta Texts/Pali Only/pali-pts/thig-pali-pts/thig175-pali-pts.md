@@ -23,3 +23,5 @@ ghaṭatha buddhasāsane yaṃ katvā nānutappati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig175-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG175]]
+> ◄  [[thig174-pali-pts]] 📜  [[thig176-pali-pts]] ►

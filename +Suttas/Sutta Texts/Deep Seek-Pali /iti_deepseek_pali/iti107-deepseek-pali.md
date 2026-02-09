@@ -46,5 +46,6 @@ This matter, too, was spoken by the Blessed One: so I have heard. Tenth.
 | [[AN3.48]], [[AN5.40]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI107]]
 > ◄  [[iti106-deepseek-pali]] 📜  [[iti108-deepseek-pali]] ►

@@ -23,3 +23,5 @@ dhammappati hi so seṭṭho visadosapavāhako
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag757-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG757]]
+> ◄  [[thag756-pali-pts]] 📜  [[thag758-pali-pts]] ►

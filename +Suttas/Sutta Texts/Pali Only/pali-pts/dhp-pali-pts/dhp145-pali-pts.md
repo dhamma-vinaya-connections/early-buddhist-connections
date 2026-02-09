@@ -27,3 +27,5 @@ ko nu hāso kim ānando niccaṃ pajjalite sati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp145-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP145]]
+> ◄  [[dhp144-pali-pts]] 📜  [[dhp146-pali-pts]] ►

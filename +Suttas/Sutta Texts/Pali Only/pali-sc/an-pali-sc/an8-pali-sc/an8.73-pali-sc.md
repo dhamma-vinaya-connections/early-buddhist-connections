@@ -89,11 +89,12 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.19]] | [[EA40.8]] | A iv 316 |
+> |  | [[EA40.8]] | A iv 316 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.19]], [[EA40.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.73]]
 > ◄  [[an8.72-pali-sc]] 📜  [[an8.74-pali-sc]] ►

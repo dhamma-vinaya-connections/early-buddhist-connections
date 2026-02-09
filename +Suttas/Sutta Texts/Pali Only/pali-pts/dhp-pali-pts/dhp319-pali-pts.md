@@ -27,3 +27,5 @@ ahaṃ nāgo va saṃgāme cāpāto patitaṃ saraṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp319-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP319]]
+> ◄  [[dhp318-pali-pts]] 📜  [[dhp320-pali-pts]] ►

@@ -31,3 +31,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.317-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.317]]
+> ◄  [[an1.316-sujato-pali]] 📜  [[an1.318-sujato-pali]] ►

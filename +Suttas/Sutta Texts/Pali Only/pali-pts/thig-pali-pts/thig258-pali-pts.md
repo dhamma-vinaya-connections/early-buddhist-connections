@@ -23,3 +23,5 @@ kaṅkaṇaṃ va sukataṃ suniṭṭhitaṃ sobhate su mama kaṇṇapāḷiyo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig258-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG258]]
+> ◄  [[thig257-pali-pts]] 📜  [[thig259-pali-pts]] ►

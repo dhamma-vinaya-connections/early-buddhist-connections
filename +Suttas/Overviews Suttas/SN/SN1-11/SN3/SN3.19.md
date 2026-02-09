@@ -97,4 +97,5 @@ Merits are the support for living beings
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.19
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.19.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.18]]  🌐 [[SN3.20]] ►

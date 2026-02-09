@@ -94,5 +94,6 @@ language: "English"
 | [[MA34]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
 > ◄  [[mn123-bodhi]] 📜  [[mn125-bodhi]] ►

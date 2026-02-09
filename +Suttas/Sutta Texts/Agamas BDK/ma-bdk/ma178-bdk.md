@@ -37,13 +37,10 @@ What is another place that King Māra and King Māra’s following cannot reach?
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma178-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN25]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.39]], [[MN12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA178]]
 > ◄  [[ma177-bdk]] 📜  [[ma179-bdk]] ►

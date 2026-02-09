@@ -25,3 +25,5 @@ Bhikkhus, one thing, when developed and cultivated, (576) leads to a strong sens
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.575-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.575]]
+> ◄  [[an1.394-bodhi]] 📜  [[an1.583-bodhi]] ►

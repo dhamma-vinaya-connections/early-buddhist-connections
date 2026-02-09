@@ -56,7 +56,8 @@ Nuns’ rules and their analysis
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc65-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC65]] |
->|       |          | [[ñanatusita-analysis#^-PC65]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC65]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC65]]

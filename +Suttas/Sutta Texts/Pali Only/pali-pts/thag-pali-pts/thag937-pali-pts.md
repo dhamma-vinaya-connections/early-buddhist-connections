@@ -23,3 +23,5 @@ dantapoṇaṃ kapiṭṭhañ ca pupphakhādaniyāni ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag937-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG937]]
+> ◄  [[thag936-pali-pts]] 📜  [[thag938-pali-pts]] ►

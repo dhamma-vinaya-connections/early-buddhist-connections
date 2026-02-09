@@ -42,5 +42,6 @@ Sattamaṁ.
 | [[SA1053]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.207]]
 > ◄  [[an4.206-pali-sc]] 📜  [[an4.208-pali-sc]] ►

@@ -24,3 +24,5 @@ saccam bhaṇe na kujjheyya dajjā appasmi yācito /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp223-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP223]]
+> ◄  [[dhp222-pali-pts]] 📜  [[dhp224-pali-pts]] ►

@@ -53,5 +53,6 @@ Here, monks, suppose a monk were to say: ‘The notion "I am" has vanished from 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.200]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.13]]
 > ◄  [[an6.12-deepseek-pali]] 📜  [[an6.14-deepseek-pali]] ►

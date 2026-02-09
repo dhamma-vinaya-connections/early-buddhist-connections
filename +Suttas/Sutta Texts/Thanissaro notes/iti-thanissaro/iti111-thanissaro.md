@@ -77,7 +77,7 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.12]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.12]], [[AN10.71]], [[AN10.17]], [[DN33]], [[DN34]] |
@@ -86,6 +86,7 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4:12.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI111]]
 > ◄  [[iti110-thanissaro]] 📜  [[iti112-thanissaro]] ►

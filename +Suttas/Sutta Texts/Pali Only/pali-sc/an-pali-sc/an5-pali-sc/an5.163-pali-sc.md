@@ -45,11 +45,12 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.164]], [[AN5.65]], [[AN5.66]] |  | A iii 190 |
+> |  |  | A iii 190 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.65]], [[AN5.164]], [[AN5.66]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.163]]
 > ◄  [[an5.162-pali-sc]] 📜  [[an5.164-pali-sc]] ►

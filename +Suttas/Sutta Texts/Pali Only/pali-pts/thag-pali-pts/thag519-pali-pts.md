@@ -23,3 +23,5 @@ yadā sivaṃ dvecaturaṅgagāminaṃ magguttamaṃ sabbakilesasodhanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag519-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG519]]
+> ◄  [[thag518-pali-pts]] 📜  [[thag520-pali-pts]] ►

@@ -86,4 +86,5 @@ parallels_partilal: ""
 > - Dhamma Gift: 
 > - The Buddhas Words: 
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA3.5]]  🌐 [[EA3.7]] ►

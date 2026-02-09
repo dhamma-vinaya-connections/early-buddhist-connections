@@ -88,4 +88,5 @@ They don’t notice that they’ve gone too far,
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.7
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.6]]  🌐 [[SN3.8]] ►

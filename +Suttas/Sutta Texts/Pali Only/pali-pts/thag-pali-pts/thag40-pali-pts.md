@@ -28,3 +28,5 @@ Vivaram anupatanti vijjutā Vebhārassa ca Paṇḍavassa ca,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag40-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG40]]
+> ◄  [[thag39-pali-pts]] 📜  [[thag41-pali-pts]] ►

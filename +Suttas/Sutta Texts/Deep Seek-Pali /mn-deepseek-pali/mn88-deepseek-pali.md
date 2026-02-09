@@ -162,5 +162,6 @@ The Bāhitika Sutta, the eighth, is concluded.
 | [[MA214]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
 > ◄  [[mn87-deepseek-pali]] 📜  [[mn89-deepseek-pali]] ►

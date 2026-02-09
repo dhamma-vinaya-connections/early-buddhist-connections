@@ -23,3 +23,5 @@ nihacca jānuṃ vanditvā saṃmukhā pañjali ahaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig108-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG108]]
+> ◄  [[thig107-pali-pts]] 📜  [[thig109-pali-pts]] ►

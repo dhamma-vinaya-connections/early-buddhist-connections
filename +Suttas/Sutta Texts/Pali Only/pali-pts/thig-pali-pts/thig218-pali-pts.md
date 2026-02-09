@@ -23,3 +23,5 @@ dve puttā kālaṅkatā pati ca panthe mato kapaṇikāya |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig218-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG218]]
+> ◄  [[thig217-pali-pts]] 📜  [[thig219-pali-pts]] ►

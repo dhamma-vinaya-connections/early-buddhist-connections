@@ -23,3 +23,5 @@ rajataṃ jātarūpañ ca khettaṃ vatthuṃ ajeḷakaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag956-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG956]]
+> ◄  [[thag955-pali-pts]] 📜  [[thag957-pali-pts]] ►

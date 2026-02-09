@@ -23,3 +23,5 @@ sāhaṃ etādisaṃ katvā byasanaṃ kāmahetukaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig358-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG358]]
+> ◄  [[thig357-pali-pts]] 📜  [[thig359-pali-pts]] ►

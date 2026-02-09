@@ -88,4 +88,5 @@ But the company of the wicked is fickle
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.47
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.47.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.46]]  🌐 [[AN4.48]] ►

@@ -23,3 +23,5 @@ vedanānaṃ viññāpano upādānappamocano
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag419-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG419]]
+> ◄  [[thag418-pali-pts]] 📜  [[thag420-pali-pts]] ►

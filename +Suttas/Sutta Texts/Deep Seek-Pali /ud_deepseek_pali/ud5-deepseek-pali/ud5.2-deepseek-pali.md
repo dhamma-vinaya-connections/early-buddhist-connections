@@ -46,5 +46,6 @@ Then, having understood this meaning, the Blessed One on that occasion uttered t
 | [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
 > ◄  [[ud5.1-deepseek-pali]] 📜  [[ud5.3-deepseek-pali]] ►

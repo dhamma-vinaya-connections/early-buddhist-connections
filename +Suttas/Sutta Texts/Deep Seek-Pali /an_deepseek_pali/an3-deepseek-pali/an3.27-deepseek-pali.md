@@ -46,5 +46,6 @@ A person declines by associating with the inferior; one does not decline by asso
 | [[JA397]], [[AN3.26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.27]]
 > ◄  [[an3.26-deepseek-pali]] 📜  [[an3.28-deepseek-pali]] ►

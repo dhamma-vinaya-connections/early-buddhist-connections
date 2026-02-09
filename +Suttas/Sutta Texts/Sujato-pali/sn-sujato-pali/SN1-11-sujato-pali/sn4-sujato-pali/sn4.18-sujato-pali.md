@@ -86,11 +86,12 @@ devā ābhassarā yathā"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP200]] | [[EA45.4]], [[SA1095]] |  |
+> |  | [[EA45.4]], [[SA1095]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[EA45.4]], [[SA1095]], [[DHP200]], [[JA539]] |
+| [[EA45.4]], [[SA1095]], [[DHP\|DHP200]], [[JA539]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.18]]
 > ◄  [[sn4.17-sujato-pali]] 📜  [[sn4.19-sujato-pali]] ►

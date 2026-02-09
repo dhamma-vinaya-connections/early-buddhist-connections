@@ -23,3 +23,5 @@ na h'; eva lābhe nālābhe na yase na ca kittiyā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag663-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG663]]
+> ◄  [[thag662-pali-pts]] 📜  [[thag664-pali-pts]] ►

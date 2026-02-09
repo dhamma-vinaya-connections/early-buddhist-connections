@@ -27,3 +27,5 @@ Monks, one thing, when developed and cultivated, leads to great urgency… leads
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.232-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.232]]
+> ◄  [[an1.231-deepseek-pali]] 📜  [[an1.233-deepseek-pali]] ►

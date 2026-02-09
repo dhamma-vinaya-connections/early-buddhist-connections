@@ -2567,3 +2567,5 @@ Dvādasetāni suttāni mahāvaggoti vuccatiti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP3]]
+> ◄  [[snp2-pali-sri]] 📜  [[snp4-pali-sri]] ►

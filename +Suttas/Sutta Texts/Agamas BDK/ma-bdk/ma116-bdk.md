@@ -66,15 +66,16 @@ regarded nuns who were known to the king, and who had practiced the holy life fo
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.51]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[pli-tv-bu-pm-pc30]], [[pli-tv-bu-vb-ay1]], [[pli-tv-bu-vb-ay2]], [[pli-tv-bu-vb-pc44]], [[pli-tv-bu-vb-pc45]] |
+| [[PLI-TV-BU-PM-PC30]], [[PLI-TV-BU-VB-AY1]], [[PLI-TV-BU-VB-AY2]], [[PLI-TV-BU-VB-PC44]], [[PLI-TV-BU-VB-PC45]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN143]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA116]]
 > ◄  [[ma115-bdk]] 📜  [[ma117-bdk]] ►

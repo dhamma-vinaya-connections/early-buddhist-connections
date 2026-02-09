@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[DHP170]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP170]], [[PE2]]"
+parallels_partilal: "[[DHP\|DHP170]], [[PE2]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.15]]  🌐 [[SNP5.17]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[DHP170]], [[PE2]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP170]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP170]], [[PE2]] |
+| [[DHP\|DHP170]], [[PE2]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[DHP170]], [[PE2]]"
 > - Sutta Central: https://suttacentral.net/snp5.16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.16
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.16.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.15]]  🌐 [[SNP5.17]] ►

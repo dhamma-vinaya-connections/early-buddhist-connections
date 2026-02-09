@@ -23,3 +23,5 @@ sā me dhammam adesesi khandhāyatanadhātuyo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig102-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG102]]
+> ◄  [[thig101-pali-pts]] 📜  [[thig103-pali-pts]] ►

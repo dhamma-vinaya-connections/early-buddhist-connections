@@ -25,11 +25,12 @@ PTS: A ii 23
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[ITI112]] | [[MA137]] | A ii 23 |
+> |  | [[MA137]] | A ii 23 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA137]], [[ITI112]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.23]]
 > ◄  [[an4.22-pali-pts]] 📜  [[an4.24-pali-pts]] ►

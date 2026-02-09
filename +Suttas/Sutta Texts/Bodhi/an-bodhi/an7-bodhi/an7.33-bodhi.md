@@ -44,11 +44,12 @@ but is close to nibbāna.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.33]], [[DHP32]] |  | A iv 28 |
+> |  |  | A iv 28 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN6.33]], [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]] |
+| [[AN6.33]], [[DHP\|DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.33]]
 > ◄  [[an7.32-bodhi]] 📜  [[an7.34-bodhi]] ►

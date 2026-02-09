@@ -39,9 +39,5 @@ Speaking in this way, did I not misrepresent the World-honored One? Was it spoke
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma214-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN88]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA214]]
 > ◄  [[ma213-bdk]] 📜  [[ma215-bdk]] ►

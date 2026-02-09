@@ -51,11 +51,12 @@ At Sāvatthī. Standing to one side, the young deva Māgadha addressed the Bl
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP387]], [[SN1.26]] | [[SA-2.309]], [[SA1310]] |  |
+> |  | [[SA-2.309]], [[SA1310]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP387]], [[SN21.11]] |
+| [[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP\|DHP387]], [[SN21.11]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.4]]
 > ◄  [[sn2.3-bodhi]] 📜  [[sn2.5-bodhi]] ►

@@ -24,3 +24,5 @@ Cāpāya ādisitvāna pabbaji anagāriyaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig310-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG310]]
+> ◄  [[thig309-pali-pts]] 📜  [[thig311-pali-pts]] ►

@@ -96,11 +96,12 @@ Then another deity addressed the Blessed One in verse:
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA180]] | [[SA-2.286]], [[SA1288]] |  |
+> |  | [[SA-2.286]], [[SA1288]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.286]], [[SA1288]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[JA450]], [[SN1.43]], [[SN2.23]], [[AN5.36]], [[JA180]], [[JA547]], [[SN1.33]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.32]]
 > ◄  [[sn1.31-deepseek-pali]] 📜  [[sn1.33-deepseek-pali]] ►

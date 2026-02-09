@@ -23,3 +23,5 @@ Yathāpi ekaputtasmiṃ piyasmiṃ kusalī siyā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag32-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG32]]
+> ◄  [[thag31-pali-pts]] 📜  [[thag33-pali-pts]] ►

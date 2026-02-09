@@ -54,5 +54,6 @@ The Sick One, Well-Established Mindfulness, Two Attendants, Two Short-Lived Ones
 | [[DN33]], [[PLI-TV-PVR7]], [[PLI-TV-PVR17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.130]]
 > ◄  [[an5.129-deepseek-pali]] 📜  [[an5.131-deepseek-pali]] ►

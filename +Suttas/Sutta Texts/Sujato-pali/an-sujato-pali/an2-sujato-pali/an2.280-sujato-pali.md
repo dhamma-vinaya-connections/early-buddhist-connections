@@ -37,3 +37,5 @@ Vinayapeyyālaṁ niṭṭhitaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.280-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.280]]
+> ◄  [[an2.230-sujato-pali]] 📜  [[an2.310-sujato-pali]] ►

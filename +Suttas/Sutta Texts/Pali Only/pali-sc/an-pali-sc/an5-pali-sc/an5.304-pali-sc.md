@@ -23,3 +23,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.304-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.304]]
+> ◄  [[an5.303-pali-sc]] 📜  [[an5.305-pali-sc]] ►

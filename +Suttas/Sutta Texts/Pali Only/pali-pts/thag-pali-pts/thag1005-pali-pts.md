@@ -23,3 +23,5 @@ upasanto uparato mantabhāṇī anuddhato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1005-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1005]]
+> ◄  [[thag1004-pali-pts]] 📜  [[thag1006-pali-pts]] ►

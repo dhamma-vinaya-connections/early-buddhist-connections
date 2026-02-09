@@ -36,10 +36,11 @@ holy life has been established, what was to be done has been done. There will no
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.15]] | [[EA39.3]] |  |
+> |  | [[EA39.3]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[ITI69]], [[SN5]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA4]]
 > ◄  [[ma3-bdk]] 📜  [[ma5-bdk]] ►

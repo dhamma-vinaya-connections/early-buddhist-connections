@@ -38,5 +38,6 @@ Paṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.38]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.11]]
 > ◄  [[an7.10-pali-sc]] 📜  [[an7.12-pali-sc]] ►

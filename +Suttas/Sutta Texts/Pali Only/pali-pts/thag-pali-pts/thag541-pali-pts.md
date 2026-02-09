@@ -23,3 +23,5 @@ evaṃ me kattukāmassa adhippāyo samijjhatu;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag541-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG541]]
+> ◄  [[thag540-pali-pts]] 📜  [[thag542-pali-pts]] ►

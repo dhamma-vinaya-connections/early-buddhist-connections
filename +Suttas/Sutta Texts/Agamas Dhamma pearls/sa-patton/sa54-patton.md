@@ -41,3 +41,5 @@ He replied, “Yes, Bhagavān.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa54-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA54]]
+> ◄  [[sa53-patton]] 📜  [[sa55-patton]] ►

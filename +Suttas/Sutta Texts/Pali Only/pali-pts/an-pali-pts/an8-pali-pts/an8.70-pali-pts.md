@@ -28,7 +28,7 @@ Imā kho bhikkhave aṭṭha parisā ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN51.10]], [[UD6.1]] | [[EA42.5]], [[MA36]] | A iv 308 |
+> |  | [[EA42.5]], [[MA36]] | A iv 308 |
 > > [!check]- Partial parallels 
 > > 
 | [[UD6.1]], [[DN16]], [[SN51.10]], [[MA36]], [[EA42.5]], [[PE3]] |
@@ -37,6 +37,7 @@ Imā kho bhikkhave aṭṭha parisā ti.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.70]]
 > ◄  [[an8.69-pali-pts]] 📜  [[an8.71-pali-pts]] ►

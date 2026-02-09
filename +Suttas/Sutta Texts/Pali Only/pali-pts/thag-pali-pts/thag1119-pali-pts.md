@@ -23,3 +23,5 @@ cando yathā dosinapuṇṇamāsiyā, iti ssu . . .
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1119-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1119]]
+> ◄  [[thag1118-pali-pts]] 📜  [[thag1120-pali-pts]] ►

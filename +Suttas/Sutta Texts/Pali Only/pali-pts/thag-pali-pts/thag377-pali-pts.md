@@ -23,3 +23,5 @@ pubbe yaññena santuṭṭho kāmadhātupurakkhato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag377-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG377]]
+> ◄  [[thag376-pali-pts]] 📜  [[thag378-pali-pts]] ►

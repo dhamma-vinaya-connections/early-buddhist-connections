@@ -24,3 +24,5 @@ kīdiso nirayo āsi yattha Dussī apaccatha
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1184-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1184]]
+> ◄  [[thag1183-pali-pts]] 📜  [[thag1187-pali-pts]] ►

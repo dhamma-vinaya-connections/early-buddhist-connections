@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG17.2]], [[THAG14.1]]"
+parallels_partilal: "[[THAG17]].2, [[THAG14]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.3]]  🌐 [[UD3.5]] ►
 
@@ -76,7 +76,7 @@ they are a brahmin, an ascetic, a mendicant
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG17.2]], [[THAG14.1]] |
+| [[THAG17]].2, [[THAG14]].1 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -99,5 +99,6 @@ they are a brahmin, an ascetic, a mendicant
 > - Sutta Central: https://suttacentral.net/ud3.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud3.4
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud3.4.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.3]]  🌐 [[UD3.5]] ►

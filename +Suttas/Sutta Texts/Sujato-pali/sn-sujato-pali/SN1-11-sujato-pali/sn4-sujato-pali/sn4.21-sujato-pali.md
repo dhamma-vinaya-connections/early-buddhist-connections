@@ -78,15 +78,16 @@ Tasseva jantu vinayāya sikkhe"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP186-187]] | [[SA1099]] |  |
+> |  | [[SA1099]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA1099]], [[DHP186-187]], [[JA258]], [[SN4.20]], [[PE1]] |
+| [[SA1099]], [[DHP\|DHP186-187]], [[JA258]], [[SN4.20]], [[PE1]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.20]], [[SN4.17]], [[SN35.127]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.21]]
 > ◄  [[sn4.20-sujato-pali]] 📜  [[sn4.22-sujato-pali]] ►

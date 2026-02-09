@@ -43,12 +43,13 @@ Dve diṭṭhī nissaraṇaṃ rūpaṃ, putto avuṭṭhikena ca;Sukhā ca bhid
 > |  | [[SA446]], [[SA448]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN14.16]], [[THAG2.14]], [[THAG3.16]], [[SA446]], [[SA448]], [[SN14.15]] |
+| [[SN14.16]], [[THAG2]].14, [[THAG3]].16, [[SA446]], [[SA448]], [[SN14.15]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN45.2]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI78]]
 > ◄  [[iti77-pali-sc]] 📜  [[iti79-pali-sc]] ►

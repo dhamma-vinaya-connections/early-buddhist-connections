@@ -23,3 +23,5 @@ na so upavade kañci, upaghātaṃ vivajjaye,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag582-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG582]]
+> ◄  [[thag581-pali-pts]] 📜  [[thag583-pali-pts]] ►

@@ -24,3 +24,5 @@ savanti sabbadā sotā, latā ubbhijja tiṭṭhati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp339-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP339]]
+> ◄  [[dhp338-pali-pts]] 📜  [[dhp340-pali-pts]] ►

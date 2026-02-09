@@ -24,3 +24,5 @@ jhāya bhikkhu mā ca pāmado mā te kāmaguṇe bhamassu cittaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp370-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP370]]
+> ◄  [[dhp369-pali-pts]] 📜  [[dhp371-pali-pts]] ►

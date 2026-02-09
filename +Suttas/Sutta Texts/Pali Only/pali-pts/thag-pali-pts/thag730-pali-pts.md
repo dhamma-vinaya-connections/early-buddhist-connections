@@ -23,3 +23,5 @@ sotindriyañ ca saddesu gacchantaṃ anivārayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag730-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG730]]
+> ◄  [[thag729-pali-pts]] 📜  [[thag731-pali-pts]] ►

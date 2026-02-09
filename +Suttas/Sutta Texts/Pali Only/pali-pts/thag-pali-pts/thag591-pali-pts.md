@@ -23,3 +23,5 @@ adhicitte ca āyogo: etaṃ . . .
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag591-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG591]]
+> ◄  [[thag590-pali-pts]] 📜  [[thag592-pali-pts]] ►

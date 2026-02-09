@@ -76,7 +76,7 @@ makes nothing dear or undear.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN21.2]], [[AN4.184]], [[DHP21]], [[SN5.16]]
+> - [[SN21.2]], [[AN4.184]], [[DHP\|DHP21]], [[SN5.16]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -94,5 +94,6 @@ makes nothing dear or undear.
 > - Sutta Central: https://suttacentral.net/snp4.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.6
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.5]]  🌐 [[SNP4.7]] ►

@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[ITI108]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[ITI108]]"
 ---
@@ -66,7 +66,7 @@ These don’t grow in the teaching
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[ITI108]] |  | A ii 26 |
+> |  |  | A ii 26 |
 > > [!check]- Partial parallels 
 > > 
 | [[ITI108]] |
@@ -89,5 +89,6 @@ These don’t grow in the teaching
 > - Sutta Central: https://suttacentral.net/an4.26/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.26
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.26.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.25]]  🌐 [[AN4.27]] ►

@@ -22,3 +22,5 @@ na vihāyati saddhammā maccho bavhodake yathā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag390-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG390]]
+> ◄  [[thag389-pali-pts]] 📜  [[thag391-pali-pts]] ►

@@ -62,5 +62,6 @@ atthābhisamayādhīro || paṇḍito ti pavuccatīti || ||
 | [[UD5.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
 > ◄  [[sn3.6-pali-pts]] 📜  [[sn3.9-pali-pts]] ►

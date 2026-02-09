@@ -50,5 +50,6 @@ And what, monks, is the danger of sharks? Here, monks, a certain clansman, out o
 | [[MN67]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.122]]
 > ◄  [[an4.121-deepseek-pali]] 📜  [[an4.123-deepseek-pali]] ►

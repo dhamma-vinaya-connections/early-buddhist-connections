@@ -23,3 +23,5 @@ ko me asattho avaṇo sallam abbhantarāpassayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag756-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG756]]
+> ◄  [[thag755-pali-pts]] 📜  [[thag757-pali-pts]] ►

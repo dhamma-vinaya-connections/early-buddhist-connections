@@ -38,5 +38,6 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ.
 | [[SNP3.12]], [[PE2]], [[PE3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI41]]
 > ◄  [[iti40-pali-sc]] 📜  [[iti42-pali-sc]] ►

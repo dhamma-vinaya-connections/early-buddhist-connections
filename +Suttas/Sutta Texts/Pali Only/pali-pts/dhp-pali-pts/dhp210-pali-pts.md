@@ -24,3 +24,5 @@ tasmā piyaṃ na kayirātha piyāpāyo hi pāpako, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp210-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP210]]
+> ◄  [[dhp209-pali-pts]] 📜  [[dhp211-pali-pts]] ►

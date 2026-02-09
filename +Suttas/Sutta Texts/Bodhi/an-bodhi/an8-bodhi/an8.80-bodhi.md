@@ -70,5 +70,6 @@ language: "English"
 | [[DN33]], [[DN34]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
 > ◄  [[an8.79-bodhi]] 📜  [[an8.81-bodhi]] ►

@@ -91,4 +91,5 @@ parallels_partilal: "[[SA-2.6]], [[SA1066]], [[SA275]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.9
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.8]]  🌐 [[AN8.10]] ►

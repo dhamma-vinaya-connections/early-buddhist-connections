@@ -25,3 +25,5 @@ _THERĪ-GĀTHĀ. 165_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig420-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG420]]
+> ◄  [[thig419-pali-pts]] 📜  [[thig421-pali-pts]] ►

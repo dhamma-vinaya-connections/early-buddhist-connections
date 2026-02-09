@@ -47,5 +47,6 @@ Pañcamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.67]], [[AN4.42]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.165]]
 > ◄  [[an5.164-sujato-pali]] 📜  [[an5.166-sujato-pali]] ►

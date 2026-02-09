@@ -50,11 +50,12 @@ The Buddha told the monk, “There is the right eightfold path that can end crav
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN45.30]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN45.30]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA752]]
 > ◄  [[sa751-patton]] 📜  [[sa753-patton]] ►

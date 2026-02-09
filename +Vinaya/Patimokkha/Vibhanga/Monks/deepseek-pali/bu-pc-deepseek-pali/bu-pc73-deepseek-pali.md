@@ -84,7 +84,8 @@ The third training rule on delusion is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc73-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC73]] |
->|       |          | [[ñanatusita-analysis#^PC73]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC73]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC73]]

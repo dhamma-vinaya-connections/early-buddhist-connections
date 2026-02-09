@@ -25,3 +25,5 @@ dhanapālako nāma kuñjaro kaṭukapabhedano dunnivārayo /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp323-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP323]]
+> ◄  [[dhp322-pali-pts]] 📜  [[dhp324-pali-pts]] ►

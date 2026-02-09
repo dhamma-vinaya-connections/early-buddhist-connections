@@ -23,3 +23,5 @@ makkhena makkhitā pajā mānahatā nirayaṃ patanti,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1219-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1219]]
+> ◄  [[thag1218-pali-pts]] 📜  [[thag1220-pali-pts]] ►

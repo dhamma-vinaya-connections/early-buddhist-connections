@@ -25,3 +25,5 @@ dukkho bālehi saṃvāso amitteneva sabbadā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp206-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP206]]
+> ◄  [[dhp205-pali-pts]] 📜  [[dhp207-pali-pts]] ►

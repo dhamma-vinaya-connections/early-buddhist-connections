@@ -23,3 +23,5 @@ kadā nu nāgo va saṃgāmacārī padālaye kāmaguṇesu chandaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1104-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1104]]
+> ◄  [[thag1103-pali-pts]] 📜  [[thag1105-pali-pts]] ►

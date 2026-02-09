@@ -68,5 +68,6 @@ Chaṭṭhaṁ.
 | [[SN46.14]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.6]]
 > ◄  [[ud1.5-anandajoti-pali]] 📜  [[ud1.7-anandajoti-pali]] ►

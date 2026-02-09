@@ -32,5 +32,6 @@ Sattahi bhikkhave dhammehi samannāgato bhikkhu na cirass'; eva āsavānaṃ kha
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN16.13]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.60]]
 > ◄  [[an7.59-pali-pts]] 📜  [[an7.61-pali-pts]] ►

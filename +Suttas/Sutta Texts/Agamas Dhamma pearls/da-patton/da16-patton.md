@@ -298,11 +298,12 @@ Sujāta replied, “Very well. I’d be glad to hear it.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN31]], [[SN45.141-148]] | [[MA135]], [[MA141]], [[SA1239]], [[SA2.66]] |  |
+> |  | [[MA135]], [[MA141]], [[SA1239]], [[SA2.66]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN14]], [[MN85]], [[MN26]], [[SN6.1]], [[PLI-TV-KD1]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA16]]
 > ◄  [[da15-patton]] 📜  [[da17-patton]] ►

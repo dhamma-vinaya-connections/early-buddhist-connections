@@ -31,3 +31,5 @@ Catukkanipātapāḷi niṭṭhitā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.304-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.304]]
+> ◄  [[an4.277-pali-sc]] 📜  [[]] ►

@@ -37,12 +37,13 @@ idha mayhaṃ bhante rahogatassa . . . pe . . . pabbajeyyan ti. pabbājetu maṃ
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG6.13]], [[PLI-TV-KD19]], [[AN8.19]], [[AN8.20]], [[PLI-TV-PVR10]], [[PE2]] |
+| [[THAG6]].13, [[PLI-TV-KD19]], [[AN8.19]], [[AN8.20]], [[PLI-TV-PVR10]], [[PE2]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.129]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.5]]
 > ◄  [[ud5.3-pali-pts]] 📜  [[ud5.6-pali-pts]] ►

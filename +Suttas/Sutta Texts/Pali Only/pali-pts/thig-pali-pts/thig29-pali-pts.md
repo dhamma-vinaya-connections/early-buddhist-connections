@@ -24,3 +24,5 @@ nisinnā c'; amhi selamhi atha cittaṃ vimucci me |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig29-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG29]]
+> ◄  [[thig28-pali-pts]] 📜  [[thig30-pali-pts]] ►

@@ -90,4 +90,5 @@ parallels_partilal: "[[SN2.7]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.42
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.42.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.41]]  🌐 [[AN9.43]] ►

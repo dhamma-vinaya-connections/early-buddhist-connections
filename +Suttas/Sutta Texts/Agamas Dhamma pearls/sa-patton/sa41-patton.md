@@ -64,11 +64,12 @@ Awareness
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.56]] | [[SA41]] |  |
+> |  | [[SA41]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA41]], [[SN22.56]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA41]]
 > ◄  [[sa40-patton]] 📜  [[sa42-patton]] ►

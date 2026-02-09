@@ -74,10 +74,11 @@ Attains cessation in this lifetime, Transcending all that is fearful, And crossi
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.36]], [[MN130]] | [[DA30]], [[EA32.4]] |  |
+> |  | [[DA30]], [[EA32.4]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.38]], [[MA199]], [[MN129]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA64]]
 > ◄  [[ma63-bdk]] 📜  [[ma65-bdk]] ►

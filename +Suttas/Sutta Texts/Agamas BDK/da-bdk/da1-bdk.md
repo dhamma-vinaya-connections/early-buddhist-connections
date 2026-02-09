@@ -362,10 +362,11 @@ instructions that were imparted in it.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN14]], [[SN12.65]] | [[EA38.4]], [[EA48.4]], [[SA287]] |  |
+> |  | [[EA38.4]], [[EA48.4]], [[SA287]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN30]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA1]]
 > ◄  [[]] 📜  [[da2-bdk]] ►

@@ -23,3 +23,5 @@ rāgañ ca ahaṃ dosañ ca vicchindantī viharāmi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig23-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG23]]
+> ◄  [[thig22-pali-pts]] 📜  [[thig24-pali-pts]] ►

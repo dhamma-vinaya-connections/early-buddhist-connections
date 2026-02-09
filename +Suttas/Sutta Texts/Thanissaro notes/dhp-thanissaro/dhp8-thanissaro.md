@@ -200,5 +200,6 @@ lived without seeing
 | [[PE3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP8]]
 > ◄  [[dhp7-thanissaro]] 📜  [[dhp9-thanissaro]] ►

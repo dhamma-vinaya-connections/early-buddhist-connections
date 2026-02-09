@@ -27,3 +27,5 @@ Navakanipātapāḷi niṭṭhitā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.113-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.113]]
+> ◄  [[an9.95-pali-sc]] 📜  [[]] ►

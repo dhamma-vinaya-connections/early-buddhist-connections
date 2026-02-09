@@ -24,3 +24,5 @@ kāyena saṃvutā dhīrā atho vācāya saṃvutā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp233-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP233]]
+> ◄  [[dhp232-pali-pts]] 📜  [[dhp234-pali-pts]] ►

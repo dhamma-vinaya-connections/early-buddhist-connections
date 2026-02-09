@@ -58,8 +58,9 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG18.1]], [[AN2.8]] |
+| [[THAG18]].1, [[AN2.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI42]]
 > ◄  [[iti41-thanissaro]] 📜  [[iti43-thanissaro]] ►

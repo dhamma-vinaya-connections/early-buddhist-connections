@@ -37,5 +37,10 @@ somanassena (37) te dasā-ti ||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti37-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5.57]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI37]]
 > ◄  [[iti36-pali-pts]] 📜  [[iti38-pali-pts]] ►

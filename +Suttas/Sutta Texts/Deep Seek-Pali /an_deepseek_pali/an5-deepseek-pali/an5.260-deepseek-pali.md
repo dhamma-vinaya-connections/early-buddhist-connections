@@ -97,3 +97,5 @@ The Book of the Fives is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.260-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.260]]
+> ◄  [[an5.259-deepseek-pali]] 📜  [[]] ►

@@ -96,4 +96,5 @@ is never scorned by the world with its gods
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.7
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.6]]  🌐 [[UD7.8]] ►

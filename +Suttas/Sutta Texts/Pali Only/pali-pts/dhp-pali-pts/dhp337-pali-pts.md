@@ -26,3 +26,5 @@ yathāpi mūle anupaddave daḷhe chinno pi rukkho punar eva rūhati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp337-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP337]]
+> ◄  [[dhp336-pali-pts]] 📜  [[dhp338-pali-pts]] ►

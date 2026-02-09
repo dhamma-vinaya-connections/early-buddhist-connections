@@ -23,3 +23,5 @@ saṇhakampurī va suppamajjitā sobhate su gīvā pure mama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig261-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG261]]
+> ◄  [[thig260-pali-pts]] 📜  [[thig262-pali-pts]] ►

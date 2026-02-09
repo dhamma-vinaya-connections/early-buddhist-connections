@@ -38,5 +38,6 @@ Atha kho Bhagavā acirapakkante āyasmante Ānande bhikkhū āmantesi:-- Sekho b
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[AN3.72]], [[AN4.42]], [[AN4.192.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.78]]
 > ◄  [[an3.77-pali-pts]] 📜  [[an3.79-pali-pts]] ►

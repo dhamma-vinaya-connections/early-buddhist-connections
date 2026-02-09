@@ -23,3 +23,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.119-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.119]]
+> ◄  [[an8.118-pali-sc]] 📜  [[an8.120-pali-sc]] ►

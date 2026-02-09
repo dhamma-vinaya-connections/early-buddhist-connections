@@ -39,13 +39,10 @@ Completely transcending perceptions of form, with the cessation of perceptions o
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma163-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN137]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.61]], [[AN3.99]], [[MA162]], [[SN42.8]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA163]]
 > ◄  [[ma162-bdk]] 📜  [[ma164-bdk]] ►

@@ -63,13 +63,10 @@ this person’s unwholesome qualities have ceased and his wholesome qual ities h
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma112-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN6.62]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA95]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA112]]
 > ◄  [[ma111-bdk]] 📜  [[ma113-bdk]] ►

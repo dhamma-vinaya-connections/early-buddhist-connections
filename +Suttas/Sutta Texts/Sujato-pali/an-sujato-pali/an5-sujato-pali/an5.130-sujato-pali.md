@@ -53,5 +53,6 @@ Parikuppaṁ byasanena cāti.
 | [[DN33]], [[PLI-TV-PVR7]], [[PLI-TV-PVR17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.130]]
 > ◄  [[an5.129-sujato-pali]] 📜  [[an5.131-sujato-pali]] ►

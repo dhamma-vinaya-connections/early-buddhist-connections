@@ -23,3 +23,5 @@ bhāvito me maggo ariyo aṭṭhaṅgiko amatagāmī |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig221-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG221]]
+> ◄  [[thig220-pali-pts]] 📜  [[thig222-pali-pts]] ►

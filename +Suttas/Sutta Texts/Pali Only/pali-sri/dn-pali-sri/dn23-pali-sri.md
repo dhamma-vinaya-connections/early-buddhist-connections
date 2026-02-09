@@ -411,5 +411,6 @@ Mahāsatipaṭṭhānañca pāyāsī dasamaṃ bhave. (Katthaci)
 | [[DA7]], [[MA71]], [[JA91]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-pali-sri]] 📜  [[dn24-pali-sri]] ►

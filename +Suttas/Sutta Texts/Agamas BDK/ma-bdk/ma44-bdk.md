@@ -26,11 +26,12 @@ If a monk is often forgetful and not rightly attentive, this is detrimental to r
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.3]], [[AN10.4]], [[AN11.3]], [[AN11.4]], [[AN5.168]], [[AN5.21]], [[AN5.22]], [[AN5.24]], [[AN6.50]], [[AN7.65]], [[AN8.81]] | [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]] |  |
+> |  | [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA44]]
 > ◄  [[ma43-bdk]] 📜  [[ma45-bdk]] ►

@@ -326,5 +326,10 @@ The The Questions of the Young Man Piṅgiya, the nth is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.18-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN22:39-42.]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.18]]
 > ◄  [[snp5.17-deepseek-pali]] 📜  [[]] ►

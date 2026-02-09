@@ -23,3 +23,5 @@ ubhinnam atthaṃ carati attano ca parassa ca,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag442-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG442]]
+> ◄  [[thag441-pali-pts]] 📜  [[thag443-pali-pts]] ►

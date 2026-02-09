@@ -23,3 +23,5 @@ so 'jja bhaddo anutrāsī pahīnabhayabheravo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag863-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG863]]
+> ◄  [[thag862-pali-pts]] 📜  [[thag864-pali-pts]] ►

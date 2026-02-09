@@ -73,3 +73,5 @@ Then, having understood this meaning, the Blessed One on that occasion uttered t
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.3]]
+> ◄  [[ud5.2-deepseek-pali]] 📜  [[ud5.4-deepseek-pali]] ►

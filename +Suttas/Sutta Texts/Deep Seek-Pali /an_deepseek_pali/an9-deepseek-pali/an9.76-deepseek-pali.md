@@ -65,3 +65,5 @@ The Book of the Nines is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.76-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.76]]
+> ◄  [[an9.75-deepseek-pali]] 📜  [[]] ►

@@ -22,3 +22,5 @@ yassa sabrahmacārīsu . . . na virūhati saddhamme khette bījaṃ va pūtika�
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag388-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG388]]
+> ◄  [[thag387-pali-pts]] 📜  [[thag389-pali-pts]] ►

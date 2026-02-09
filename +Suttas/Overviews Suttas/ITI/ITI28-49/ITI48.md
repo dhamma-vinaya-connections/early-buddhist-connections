@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP306]], [[DHP307]], [[DHP308]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP307]], [[ITI91]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]]"
+parallels_partilal: "[[DHP\|DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP\|DHP307]], [[ITI91]], [[PLI-TV-BU-VB-PJ4]], [[DHP\|DHP308]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI47]]  🌐 [[ITI49]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP307]], [[ITI91]], 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP306]], [[DHP307]], [[DHP308]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP307]], [[ITI91]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]] |
+| [[DHP\|DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP\|DHP307]], [[ITI91]], [[PLI-TV-BU-VB-PJ4]], [[DHP\|DHP308]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP307]], [[ITI91]], 
 > - Sutta Central: https://suttacentral.net/iti48/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti48
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti48.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI47]]  🌐 [[ITI49]] ►

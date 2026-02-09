@@ -34,5 +34,6 @@ Sattamaṁ.
 | [[EA44.5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.17]]
 > ◄  [[an8.16-pali-sc]] 📜  [[an8.18-pali-sc]] ►

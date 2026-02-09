@@ -23,3 +23,5 @@ so 'mhi Sakyakule jāto, Anuruddho 'ti maṃ vidū,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag910-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG910]]
+> ◄  [[thag909-pali-pts]] 📜  [[thag911-pali-pts]] ►

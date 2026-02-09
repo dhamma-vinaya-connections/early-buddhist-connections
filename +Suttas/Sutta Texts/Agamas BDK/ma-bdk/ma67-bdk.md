@@ -90,7 +90,7 @@ the ultimate purity, not the ultimate holy life, not the ultimate completion of 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN83]] | [[EA1.1]], [[EA50.4]] |  |
+> |  | [[EA1.1]], [[EA50.4]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MA89]] |
@@ -99,6 +99,7 @@ the ultimate purity, not the ultimate holy life, not the ultimate completion of 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA59]], [[MA70]], [[MN129]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA67]]
 > ◄  [[ma66-bdk]] 📜  [[ma68-bdk]] ►

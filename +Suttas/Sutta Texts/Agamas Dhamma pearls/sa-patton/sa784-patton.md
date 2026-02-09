@@ -53,11 +53,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN117]], [[SN45.21]], [[SN45.8]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN117]], [[SN45.21]], [[SN45.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA784]]
 > ◄  [[sa775-patton]] 📜  [[sa785-patton]] ►

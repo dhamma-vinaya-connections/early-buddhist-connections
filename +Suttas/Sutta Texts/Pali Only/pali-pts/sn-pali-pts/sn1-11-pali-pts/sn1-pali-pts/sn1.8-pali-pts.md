@@ -36,5 +36,6 @@ vācaṃ muñceyya kalyāṇiṃ || pāpikaṃ ca na mocaye ti || ||
 | [[SA-2.165]], [[SA580]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.8]]
 > ◄  [[sn1.7-pali-pts]] 📜  [[sn1.9-pali-pts]] ►

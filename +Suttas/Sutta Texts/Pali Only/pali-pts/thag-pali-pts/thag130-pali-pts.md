@@ -23,3 +23,5 @@ Yadāhaṃ dhammam assosiṃ bhāsamānassa satthuno,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag130-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG130]]
+> ◄  [[thag129-pali-pts]] 📜  [[thag131-pali-pts]] ►

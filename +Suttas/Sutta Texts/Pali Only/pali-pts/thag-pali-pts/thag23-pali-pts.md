@@ -24,3 +24,5 @@ Anuvassiko pabbajito, passa dhammasudhammataṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag23-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG23]]
+> ◄  [[thag22-pali-pts]] 📜  [[thag24-pali-pts]] ►

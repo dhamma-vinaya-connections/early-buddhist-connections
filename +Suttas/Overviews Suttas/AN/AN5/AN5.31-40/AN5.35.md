@@ -90,4 +90,5 @@ Having driven out the stain of stinginess
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.35
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.35.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.34]]  🌐 [[AN5.36]] ►

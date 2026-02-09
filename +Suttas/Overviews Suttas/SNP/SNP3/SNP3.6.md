@@ -36,7 +36,7 @@ sutta_audience:
   - "Ascetics"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DN2]], [[DN21]], [[MN92]], [[SNP3.7]], [[THAG16.6]]"
+parallels_partilal: "[[DN2]], [[DN21]], [[MN92]], [[SNP3.7]], [[THAG16]].6"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.5]]  🌐 [[SNP3.7]] ►
 
@@ -72,12 +72,12 @@ he has attained the ending of birth: He is called awakened.”
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DN2]], [[DN21]], [[MN92]], [[SNP3.7]], [[THAG16.6]] |
+| [[DN2]], [[DN21]], [[MN92]], [[SNP3.7]], [[THAG16]].6 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN2]], [[UD1.9]], [[THAG6.9]]
+> - [[DN2]], [[UD1.9]], [[THAG6]].9
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -95,5 +95,6 @@ he has attained the ending of birth: He is called awakened.”
 > - Sutta Central: https://suttacentral.net/snp3.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.6
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.5]]  🌐 [[SNP3.7]] ►

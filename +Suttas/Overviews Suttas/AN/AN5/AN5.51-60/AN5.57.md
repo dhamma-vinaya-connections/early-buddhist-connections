@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN3.39]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA22.8]], [[MA117]]"
 parallels_partilal: "[[AN3.39]], [[MA117]], [[EA22.8]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[AN3.39]], [[MA117]], [[EA22.8]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.39]] | [[EA22.8]], [[MA117]] | A iii 71 |
+> |  | [[EA22.8]], [[MA117]] | A iii 71 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.39]], [[MA117]], [[EA22.8]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[AN3.39]], [[MA117]], [[EA22.8]]"
 > - Sutta Central: https://suttacentral.net/an5.57/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.57
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.57.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.56]]  🌐 [[AN5.58]] ►

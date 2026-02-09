@@ -26,3 +26,5 @@ vāṇijo va bhayaṃ maggaṃ appasattho mahaddhano /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp122-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP122]]
+> ◄  [[dhp121-pali-pts]] 📜  [[dhp123-pali-pts]] ►

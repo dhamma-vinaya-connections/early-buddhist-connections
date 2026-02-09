@@ -35,3 +35,5 @@ Sikkhāpadapeyyālaṁ niṭṭhitaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.294-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.294]]
+> ◄  [[an5.293-sujato-pali]] 📜  [[an5.303-sujato-pali]] ►

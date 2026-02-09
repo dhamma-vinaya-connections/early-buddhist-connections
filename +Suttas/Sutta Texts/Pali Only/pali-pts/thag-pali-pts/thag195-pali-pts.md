@@ -23,3 +23,5 @@ nābhinandāmi maraṇaṃ nābhinandāmi jīvitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag195-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG195]]
+> ◄  [[thag194-pali-pts]] 📜  [[thag196-pali-pts]] ►

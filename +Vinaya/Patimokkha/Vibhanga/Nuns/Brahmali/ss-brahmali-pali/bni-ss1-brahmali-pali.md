@@ -171,7 +171,8 @@ Kathañhi nāma, bhikkhave, thullanandā bhikkhunī ussayavādikā viharissati. 
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-ss1-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SS1]] |
->|       |          | [[ñanatusita-analysis#^-SS1]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SS1]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS1]]

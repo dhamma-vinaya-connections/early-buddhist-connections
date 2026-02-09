@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Lay followers"
-parallels_nikaya: "[[AN10.74]], [[AN5.63]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN10.74]], [[AN5.63]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[AN10.74]], [[AN5.63]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.74]], [[AN5.63]] |  | A iii 80 |
+> |  |  | A iii 80 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.74]], [[AN5.63]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[AN10.74]], [[AN5.63]]"
 > - Sutta Central: https://suttacentral.net/an5.64/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.64
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.64.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.63]]  🌐 [[AN5.65]] ►

@@ -24,3 +24,5 @@ Te me ijjhiṃsu saṃkappā yadattho pāvisiṃ kuṭiṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag59-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG59]]
+> ◄  [[thag58-pali-pts]] 📜  [[thag60-pali-pts]] ►

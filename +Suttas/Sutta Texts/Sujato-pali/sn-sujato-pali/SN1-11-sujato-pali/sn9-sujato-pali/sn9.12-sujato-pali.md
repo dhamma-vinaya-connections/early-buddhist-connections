@@ -56,11 +56,12 @@ sā rati paṭibhāti man"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.15]] | [[SA-2.355]], [[SA1335]] |  |
+> |  | [[SA-2.355]], [[SA1335]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN1.15]], [[SA-2.355]], [[SA1335]], [[JA547]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.12]]
 > ◄  [[sn9.11-sujato-pali]] 📜  [[sn9.13-sujato-pali]] ►

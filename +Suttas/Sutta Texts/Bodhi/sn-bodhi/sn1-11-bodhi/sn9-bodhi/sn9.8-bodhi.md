@@ -63,5 +63,6 @@ On one occasion a certain bhikkhu was dwelling among the Kosalans in a certain w
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.8]]
 > ◄  [[sn9.7-bodhi]] 📜  [[sn9.9-bodhi]] ►

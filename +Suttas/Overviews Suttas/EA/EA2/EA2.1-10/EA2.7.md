@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN4.31]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN4.31]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[AN4.31]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.31]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.31]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[AN4.31]]"
 > - Sutta Central: https://suttacentral.net/ea2.7/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA2.6]]  🌐 [[EA2.8]] ►

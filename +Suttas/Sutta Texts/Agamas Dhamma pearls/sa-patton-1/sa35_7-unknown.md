@@ -64,3 +64,5 @@ Last Revised: 1 November 2023
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa35_7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA35_7]]
+> ◄  [[SA35_1]] 📜  [[SA35_40-42]] ►

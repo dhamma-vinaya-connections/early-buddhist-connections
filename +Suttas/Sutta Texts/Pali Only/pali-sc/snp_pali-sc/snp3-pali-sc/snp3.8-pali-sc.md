@@ -134,7 +134,8 @@ Sallasuttaṁ aṭṭhamaṁ.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN82]], [[MN87]], [[SN21.2]], [[SN36.6]], [[SN47.13]], [[AN5.49]], [[UD8.8]], [[THIG3.5]], [[THIG6.1]]
+> - [[MN82]], [[MN87]], [[SN21.2]], [[SN36.6]], [[SN47.13]], [[AN5.49]], [[UD8.8]], [[THIG3]].5, [[THIG6]].1
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.8]]
 > ◄  [[snp3.7-pali-sc]] 📜  [[snp3.9-pali-sc]] ►

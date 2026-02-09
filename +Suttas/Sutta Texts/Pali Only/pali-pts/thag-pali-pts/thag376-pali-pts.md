@@ -23,3 +23,5 @@ pubbe jaṭilabhūtassa yā me iddhi parittikā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag376-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG376]]
+> ◄  [[thag375-pali-pts]] 📜  [[thag377-pali-pts]] ►

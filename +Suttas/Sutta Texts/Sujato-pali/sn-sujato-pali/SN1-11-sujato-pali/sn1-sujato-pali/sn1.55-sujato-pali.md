@@ -56,5 +56,6 @@ dukkhamassa mahabbhayan"ti.
 | [[SA-2.245]], [[SA1018]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.55]]
 > ◄  [[sn1.54-sujato-pali]] 📜  [[sn1.56-sujato-pali]] ►

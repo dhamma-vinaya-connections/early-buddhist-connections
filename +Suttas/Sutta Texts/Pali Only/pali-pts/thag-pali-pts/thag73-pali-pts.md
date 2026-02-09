@@ -24,3 +24,5 @@ Kāmacchando ca byāpādo thīnamiddhañ ca bhikkhuno
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag73-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG73]]
+> ◄  [[thag72-pali-pts]] 📜  [[thag74-pali-pts]] ►

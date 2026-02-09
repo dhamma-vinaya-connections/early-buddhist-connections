@@ -23,3 +23,5 @@ yathāvādī tathākārī ahū buddhassa sāvako,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1276-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1276]]
+> ◄  [[thag1275-pali-pts]] 📜  [[thag1277-pali-pts]] ►

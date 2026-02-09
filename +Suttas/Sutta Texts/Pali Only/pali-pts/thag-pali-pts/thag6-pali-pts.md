@@ -24,3 +24,5 @@ Yo pānudi maccurājassa senaṃ naḷasetuṃ va sudubbalaṃ mahogho
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG6]]
+> ◄  [[thag5-pali-pts]] 📜  [[thag7-pali-pts]] ►

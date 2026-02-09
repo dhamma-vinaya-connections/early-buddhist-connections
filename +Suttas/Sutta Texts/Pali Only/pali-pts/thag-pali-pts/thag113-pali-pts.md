@@ -23,3 +23,5 @@ Kāyaduṭṭhullagaruno hiyyamānamhi jīvite
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag113-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG113]]
+> ◄  [[thag112-pali-pts]] 📜  [[thag114-pali-pts]] ►

@@ -23,3 +23,5 @@ ogayh'; aṭṭhaṅgikaṃ sotaṃ sabbapāpaṃ pavāhayiṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag348-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG348]]
+> ◄  [[thag347-pali-pts]] 📜  [[thag349-pali-pts]] ►

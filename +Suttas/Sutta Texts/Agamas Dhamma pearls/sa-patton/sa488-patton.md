@@ -29,3 +29,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa488-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA6]]  / 🌐 [[SA488]]
+> ◄  [[sa487-patton]] 📜  [[sa489-patton]] ►

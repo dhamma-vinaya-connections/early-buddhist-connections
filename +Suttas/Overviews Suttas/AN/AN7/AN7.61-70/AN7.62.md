@@ -89,4 +89,5 @@ I experience the agreeable  and desirable results
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.62
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.62.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.61]]  🌐 [[AN7.63]] ►

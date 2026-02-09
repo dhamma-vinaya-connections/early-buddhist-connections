@@ -66,5 +66,6 @@ Jhāyāmahaṁ brahma raho visārado"ti.
 | [[SA-2.97]], [[SA1183]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.18]]
 > ◄  [[sn7.17-pali-sc]] 📜  [[sn7.19-pali-sc]] ►

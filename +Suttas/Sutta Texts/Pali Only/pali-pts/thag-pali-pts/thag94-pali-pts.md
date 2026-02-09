@@ -24,3 +24,5 @@ Andho 'haṃ hatanetto 'smi, kantāraddhāna pakkhanno,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag94-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG94]]
+> ◄  [[thag93-pali-pts]] 📜  [[thag95-pali-pts]] ►

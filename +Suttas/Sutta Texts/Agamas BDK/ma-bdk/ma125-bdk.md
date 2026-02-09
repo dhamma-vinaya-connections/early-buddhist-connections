@@ -62,11 +62,12 @@ This bondage is the most profound suffering. A “hero,” [however,] is free fr
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.45]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP145]], [[MN86]], [[THAG1.19]], [[THAG16.8]] |
+| [[DHP\|DHP145]], [[MN86]], [[THAG1]].19, [[THAG16]].8 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA125]]
 > ◄  [[ma124-bdk]] 📜  [[ma126-bdk]] ►

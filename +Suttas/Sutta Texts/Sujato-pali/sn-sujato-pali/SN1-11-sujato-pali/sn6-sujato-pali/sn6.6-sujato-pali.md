@@ -122,5 +122,6 @@ Tasmā na rūpe ramatī sumedho"ti.
 | [[SA-2.107]], [[SA1194]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
 > ◄  [[sn6.5-sujato-pali]] 📜  [[sn6.7-sujato-pali]] ►

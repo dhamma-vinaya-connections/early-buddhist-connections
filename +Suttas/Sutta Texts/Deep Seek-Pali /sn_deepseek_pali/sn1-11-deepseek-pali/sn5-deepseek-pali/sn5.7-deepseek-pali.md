@@ -51,12 +51,13 @@ Then Māra the Evil One, realizing, “The bhikkhunī Upacālā knows me,” sad
 > |  | [[SA-2.222]], [[SA1206]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.222]], [[SA1206]], [[THIG8.1]] |
+| [[SA-2.222]], [[SA1206]], [[THIG8]].1 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN6.15]], [[SN9.6.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.7]]
 > ◄  [[sn5.6-deepseek-pali]] 📜  [[sn5.8-deepseek-pali]] ►

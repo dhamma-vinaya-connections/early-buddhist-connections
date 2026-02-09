@@ -23,3 +23,5 @@ tato 'haṃ sabbakāmesu bhūsaṃ aratim ajjhagaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig338-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG338]]
+> ◄  [[thig337-pali-pts]] 📜  [[thig339-pali-pts]] ►

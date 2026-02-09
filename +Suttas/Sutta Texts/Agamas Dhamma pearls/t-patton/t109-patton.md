@@ -58,3 +58,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:t109-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[T1]]  / 🌐 [[T109]]
+> ◄  [[t102-patton]] 📜  [[t110-patton]] ►

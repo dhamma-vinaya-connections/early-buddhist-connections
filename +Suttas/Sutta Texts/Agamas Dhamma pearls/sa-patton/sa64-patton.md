@@ -53,11 +53,12 @@ Summary Verse
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.55]] | [[SA64]] |  |
+> |  | [[SA64]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA64]], [[SN22.55]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA64]]
 > ◄  [[sa63-patton]] 📜  [[sa65-patton]] ►

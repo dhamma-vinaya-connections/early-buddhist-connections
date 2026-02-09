@@ -34,5 +34,6 @@ Ayoniso bhikkhave manasikaroto anuppannā c'; eva vicikicchā uppajjati uppannā
 | [[EA9.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.15]]
 > ◄  [[an1.14-pali-pts]] 📜  [[an1.16-pali-pts]] ►

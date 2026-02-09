@@ -31,3 +31,5 @@ N'; atthi koci bhavo nicco saṃkhārā vāpi sassatā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag120-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG120]]
+> ◄  [[thag119-pali-pts]] 📜  [[thag121-pali-pts]] ►

@@ -153,5 +153,10 @@ Upasīvamāṇavapucchā chaṭṭhī.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.7-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN52]], [[MN106]], [[MN111]], [[ANDAN9:36.]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.7]]
 > ◄  [[snp5.6-sujato-pali]] 📜  [[snp5.8-sujato-pali]] ►

@@ -48,7 +48,7 @@ Aṭṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.108]] | [[EA21.7]] | A i 199 |
+> |  | [[EA21.7]] | A i 199 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.108]], [[EA21.7]] |
@@ -57,6 +57,7 @@ Aṭṭhamaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN46.51]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.68]]
 > ◄  [[an3.67-pali-sc]] 📜  [[an3.69-pali-sc]] ►

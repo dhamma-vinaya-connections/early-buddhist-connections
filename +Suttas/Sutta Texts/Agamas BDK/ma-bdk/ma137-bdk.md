@@ -33,9 +33,5 @@ Bow their heads in homage to the Tathāgata, Who is very profound, like the grea
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma137-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN4.23]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA137]]
 > ◄  [[ma136-bdk]] 📜  [[ma138-bdk]] ►

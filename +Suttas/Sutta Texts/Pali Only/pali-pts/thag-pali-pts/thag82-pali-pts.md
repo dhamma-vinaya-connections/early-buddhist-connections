@@ -23,3 +23,5 @@ Sīh'; appamatto vihara rattindivam atandito,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag82-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG82]]
+> ◄  [[thag81-pali-pts]] 📜  [[thag83-pali-pts]] ►

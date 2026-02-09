@@ -76,5 +76,6 @@ thinking: ‘The kamma is strong; what can I do now?’” \[57\]
 | [[EA34.6]], [[JA368]], [[AN5.50]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
 > ◄  [[an5.47-bodhi]] 📜  [[an5.49-bodhi]] ►

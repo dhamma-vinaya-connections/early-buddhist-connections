@@ -23,3 +23,5 @@ pattā te nibbānaṃ ye yuttā dasabalassa pāvacane |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig476-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG476]]
+> ◄  [[thig475-pali-pts]] 📜  [[thig477-pali-pts]] ►

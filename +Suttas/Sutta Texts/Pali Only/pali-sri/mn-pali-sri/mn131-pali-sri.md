@@ -122,12 +122,13 @@ Next Sutta
 > |  |  | M iii 187 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN132]]; [[MN133]]; [[MN134]]; [[JA538]] |
+| [[MN132]], [[MN133]], [[MN134]], [[JA538]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN133]], [[MA165]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN131]]
 > ◄  [[mn130-pali-sri]] 📜  [[mn132-pali-sri]] ►

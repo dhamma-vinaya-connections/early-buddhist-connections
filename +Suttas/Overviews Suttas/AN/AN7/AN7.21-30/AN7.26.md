@@ -86,4 +86,5 @@ parallels_partilal: "[[DN16]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.26
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.26.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.25]]  🌐 [[AN7.27]] ►

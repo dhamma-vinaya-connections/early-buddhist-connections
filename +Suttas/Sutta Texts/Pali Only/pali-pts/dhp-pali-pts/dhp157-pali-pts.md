@@ -24,3 +24,5 @@ attānam eva paṭhamaṃ patirūpe nivesaye, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp157-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP157]]
+> ◄  [[dhp156-pali-pts]] 📜  [[dhp158-pali-pts]] ►

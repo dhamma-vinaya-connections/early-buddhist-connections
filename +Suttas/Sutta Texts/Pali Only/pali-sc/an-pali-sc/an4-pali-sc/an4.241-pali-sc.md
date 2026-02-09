@@ -44,5 +44,6 @@ Dasamaṁ.
 | [[MN11]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.241]]
 > ◄  [[an4.240-pali-sc]] 📜  [[an4.242-pali-sc]] ►

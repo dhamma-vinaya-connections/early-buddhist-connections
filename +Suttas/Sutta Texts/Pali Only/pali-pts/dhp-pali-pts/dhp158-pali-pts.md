@@ -24,3 +24,5 @@ attānañ ce tathā kayirā yath'; aññam anusāsati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp158-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP158]]
+> ◄  [[dhp157-pali-pts]] 📜  [[dhp159-pali-pts]] ►

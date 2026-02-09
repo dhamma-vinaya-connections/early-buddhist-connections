@@ -23,3 +23,5 @@ ninhātasabbapāpo 'mhi nimmalo payato suci
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag347-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG347]]
+> ◄  [[thag346-pali-pts]] 📜  [[thag348-pali-pts]] ►

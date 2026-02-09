@@ -30,7 +30,7 @@ Thus have I heard. At one time the Buddha was staying at Sāvatthī, in Jeta’s
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN1]] | [[EA44.6]] |  |
+> |  | [[EA44.6]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN9.12]], [[JA547]] |
@@ -39,6 +39,7 @@ Thus have I heard. At one time the Buddha was staying at Sāvatthī, in Jeta’s
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.58]], [[AN4.174]], [[SN35.30]], [[SN35:248]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA106]]
 > ◄  [[ma105-bdk]] 📜  [[ma107-bdk]] ►

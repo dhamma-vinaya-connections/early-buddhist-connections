@@ -45,3 +45,5 @@ sabbaṁ chindati bandhanan"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.69-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.69]]
+> ◄  [[sn1.68-pali-sc]] 📜  [[sn1.70-pali-sc]] ►

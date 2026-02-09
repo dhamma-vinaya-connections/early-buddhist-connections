@@ -24,3 +24,5 @@ jighacchāparamā rogā, saṃkhārā paramā dukhā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp202-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP202]]
+> ◄  [[dhp201-pali-pts]] 📜  [[dhp203-pali-pts]] ►

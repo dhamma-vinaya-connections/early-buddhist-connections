@@ -25,3 +25,5 @@ pañcanīvaraṇe yutto, vitakkena samappito,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag571-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG571]]
+> ◄  [[thag570-pali-pts]] 📜  [[thag573-pali-pts]] ►

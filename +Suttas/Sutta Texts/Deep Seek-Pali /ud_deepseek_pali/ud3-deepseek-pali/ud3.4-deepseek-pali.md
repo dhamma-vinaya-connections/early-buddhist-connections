@@ -39,12 +39,13 @@ Then the Blessed One, understanding the meaning of this, on that occasion uttere
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG17.2]], [[THAG14.1]] |
+| [[THAG17]].2, [[THAG14]].1 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG17:2]], [[MN119]], [[SN47:20]], [[SN21:4]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.4]]
 > ◄  [[ud3.3-deepseek-pali]] 📜  [[ud3.5-deepseek-pali]] ►

@@ -72,8 +72,9 @@ Pāmojjabahulā hotha,
 > |  | [[EA43.6]]; [[SA1248]] | M i 225 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA43.6]]; [[SA1248]] |
+| [[EA43.6]], [[SA1248]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-pali-sc]] 📜  [[mn35-pali-sc]] ►

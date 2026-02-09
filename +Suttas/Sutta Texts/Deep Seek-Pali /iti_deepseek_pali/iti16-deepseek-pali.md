@@ -29,3 +29,5 @@ This too was said by the Blessed One, so I heard. Seventh.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti16-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI16]]
+> ◄  [[iti15-deepseek-pali]] 📜  [[iti17-deepseek-pali]] ►

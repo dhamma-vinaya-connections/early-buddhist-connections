@@ -39,11 +39,12 @@ They answered, “We’ve seen it, Bhagavān.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.100]] | [[SA267]] |  |
+> |  | [[SA267]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA267]], [[SN22.100]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA267]]
 > ◄  [[sa266-patton]] 📜  [[sa268-patton]] ►

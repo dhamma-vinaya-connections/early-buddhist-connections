@@ -23,3 +23,5 @@ so 'haṃ eko araññasmiṃ viharanto atandito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag625-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG625]]
+> ◄  [[thag624-pali-pts]] 📜  [[thag626-pali-pts]] ►

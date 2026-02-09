@@ -42,5 +42,6 @@ The mind 	is the one thing
 | [[SA-2.236]], [[SA1009]], [[AN4.186]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.62]]
 > ◄  [[sn1.59-thanissaro]] 📜  [[sn1.63-thanissaro]] ►

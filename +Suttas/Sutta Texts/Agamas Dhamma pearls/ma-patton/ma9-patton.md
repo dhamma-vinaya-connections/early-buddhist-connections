@@ -169,7 +169,7 @@ Venerable Pūrṇa Maitrāyaniputra answered, “Good man, I’m called Pūrṇa
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN24]] | [[EA39.10]] |  |
+> |  | [[EA39.10]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA403]] |
@@ -178,6 +178,7 @@ Venerable Pūrṇa Maitrāyaniputra answered, “Good man, I’m called Pūrṇa
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]], [[SN4.9]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA9]]
 > ◄  [[ma8-patton]] 📜  [[ma10-patton]] ►

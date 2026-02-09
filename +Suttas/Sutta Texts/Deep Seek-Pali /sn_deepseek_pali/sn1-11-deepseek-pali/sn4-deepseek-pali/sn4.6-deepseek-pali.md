@@ -58,5 +58,6 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 | [[SA-2.28]], [[SA1089]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
 > ◄  [[sn4.5-deepseek-pali]] 📜  [[sn4.7-deepseek-pali]] ►

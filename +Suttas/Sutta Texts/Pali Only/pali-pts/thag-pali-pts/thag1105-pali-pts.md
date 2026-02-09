@@ -25,3 +25,5 @@ kadā iṇaṭṭo va daḷiddako nidhiṃ ārādhayitvā dhanikehi pīḷito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1105-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1105]]
+> ◄  [[thag1104-pali-pts]] 📜  [[thag1106-pali-pts]] ►

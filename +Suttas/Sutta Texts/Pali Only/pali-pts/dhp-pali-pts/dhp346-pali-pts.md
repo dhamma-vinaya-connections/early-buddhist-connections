@@ -24,3 +24,5 @@ ye rāgarattānupatanti sotaṃ sayaṃkataṃ makkaṭako va jālaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp346-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP346]]
+> ◄  [[dhp345-pali-pts]] 📜  [[dhp347-pali-pts]] ►

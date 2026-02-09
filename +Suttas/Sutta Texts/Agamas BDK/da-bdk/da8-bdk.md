@@ -377,11 +377,12 @@ the teaching, and carried out what was taught by the Buddha.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN25]] | [[MA104]] |  |
+> |  | [[MA104]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA19]], [[]], [[SN1.37]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA8]]
 > ◄  [[da7-bdk]] 📜  [[da9-bdk]] ►

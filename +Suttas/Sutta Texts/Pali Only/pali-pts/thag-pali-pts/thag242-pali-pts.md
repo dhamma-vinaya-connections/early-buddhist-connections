@@ -23,3 +23,5 @@ Kālāpabbaṅgasaṃkāso kiso dhamanisantato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag242-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG242]]
+> ◄  [[thag241-pali-pts]] 📜  [[thag243-pali-pts]] ►

@@ -23,3 +23,5 @@ pāsādikāsi ayye Isidāsi vayo pi te aparihīno |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig402-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG402]]
+> ◄  [[thig401-pali-pts]] 📜  [[thig403-pali-pts]] ►

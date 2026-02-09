@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[SNP3.3]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.253]], [[SA1218]]"
-parallels_partilal: "[[SNP3.3]], [[SA-2.253]], [[SA1218]], [[THAG21.1]], [[PE3]]"
+parallels_partilal: "[[SNP3.3]], [[SA-2.253]], [[SA1218]], [[THAG21]].1, [[PE3]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.4]]  🌐 [[SN8.6]] ►
 
@@ -68,10 +68,10 @@ That bring nothing bad to others.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SNP3.3]] | [[SA-2.253]], [[SA1218]] |  |
+> |  | [[SA-2.253]], [[SA1218]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SNP3.3]], [[SA-2.253]], [[SA1218]], [[THAG21.1]], [[PE3]] |
+| [[SNP3.3]], [[SA-2.253]], [[SA1218]], [[THAG21]].1, [[PE3]] |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ That bring nothing bad to others.
 > - Sutta Central: https://suttacentral.net/sn8.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.5
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.5.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.4]]  🌐 [[SN8.6]] ►

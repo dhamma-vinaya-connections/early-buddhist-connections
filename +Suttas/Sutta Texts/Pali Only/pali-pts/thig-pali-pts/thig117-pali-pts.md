@@ -24,3 +24,5 @@ khippaṃ pādāni dhovitvā ekamante nisīdatha |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig117-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG117]]
+> ◄  [[thig116-pali-pts]] 📜  [[thig118-pali-pts]] ►

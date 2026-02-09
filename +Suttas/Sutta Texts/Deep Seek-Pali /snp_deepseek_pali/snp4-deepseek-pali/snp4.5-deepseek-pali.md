@@ -73,5 +73,10 @@ The Paramaṭṭhaka Sutta, the fifth, is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.5-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.199]], [[AN6.49]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.5]]
 > ◄  [[snp4.4-deepseek-pali]] 📜  [[snp4.6-deepseek-pali]] ►

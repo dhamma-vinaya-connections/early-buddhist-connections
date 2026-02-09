@@ -265,7 +265,8 @@ Yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo— "
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np22-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP22]] |
->|       |          | [[ñanatusita-analysis#^NP22]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP22]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP22]]

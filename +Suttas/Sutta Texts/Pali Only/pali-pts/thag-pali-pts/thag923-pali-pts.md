@@ -25,3 +25,5 @@ jīvitānaṃ parikkhāre bhesajje atha paccaye
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag923-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG923]]
+> ◄  [[thag922-pali-pts]] 📜  [[thag924-pali-pts]] ►

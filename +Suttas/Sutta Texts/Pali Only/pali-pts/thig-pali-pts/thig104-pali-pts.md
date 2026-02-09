@@ -24,3 +24,5 @@ animittañ ca bhāvemi ekaggā susamāhitā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig104-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG104]]
+> ◄  [[thig103-pali-pts]] 📜  [[thig105-pali-pts]] ►

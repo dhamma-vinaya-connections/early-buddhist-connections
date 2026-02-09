@@ -23,3 +23,5 @@ atha ne bhaṇati Sumedhā mā edisakāni bhavagataṃ asāraṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig464-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG464]]
+> ◄  [[thig463-pali-pts]] 📜  [[thig465-pali-pts]] ►

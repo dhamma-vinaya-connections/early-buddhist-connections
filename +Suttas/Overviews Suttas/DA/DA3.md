@@ -38,7 +38,7 @@ sutta_teacher:
   - "Devas"
 sutta_audience:
   - "Buddha"
-parallels_nikaya: "[[DN19]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: ""
 ---
@@ -72,7 +72,7 @@ Greed, hate, pride, and delusion, and refraining from sex.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN19]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 |  |
@@ -95,5 +95,6 @@ Greed, hate, pride, and delusion, and refraining from sex.
 > - Sutta Central: https://suttacentral.net/da3/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA2]]  🌐 [[DA4]] ►

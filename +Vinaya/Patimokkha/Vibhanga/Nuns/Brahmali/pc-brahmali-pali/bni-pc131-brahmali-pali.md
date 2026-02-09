@@ -140,7 +140,8 @@ senāviddho ime dasāti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc131-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC131]] |
->|       |          | [[ñanatusita-analysis#^-PC131]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC131]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC131]]

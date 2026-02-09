@@ -87,4 +87,5 @@ You get worthy benefits.
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.156
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.156.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.155]]  🌐 [[AN3.157-162]] ►

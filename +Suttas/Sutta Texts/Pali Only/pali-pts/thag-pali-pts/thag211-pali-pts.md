@@ -23,3 +23,5 @@ sukallarūpo sumanassa jhāyitaṃ sunikkhamo sādhu subuddhasāsane;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag211-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG211]]
+> ◄  [[thag210-pali-pts]] 📜  [[thag212-pali-pts]] ►

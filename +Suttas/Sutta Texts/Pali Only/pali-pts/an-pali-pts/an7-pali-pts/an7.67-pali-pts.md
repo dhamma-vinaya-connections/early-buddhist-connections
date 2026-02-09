@@ -33,5 +33,6 @@ Yato kho bhikkhave rañño paccantimaṃ nagaraṃ sattahi nagaraparikkhārehi s
 | [[EA39.4]], [[MA3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.67]]
 > ◄  [[an7.66-pali-pts]] 📜  [[an7.68-pali-pts]] ►

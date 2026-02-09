@@ -23,3 +23,5 @@ pare ca naṃ garahanti attā ce susamāhito:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag159-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG159]]
+> ◄  [[thag158-pali-pts]] 📜  [[thag160-pali-pts]] ►

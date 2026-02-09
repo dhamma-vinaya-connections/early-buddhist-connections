@@ -31,5 +31,6 @@ PTS: A ii 161
 | [[SA249]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.173]]
 > ◄  [[an4.172-pali-pts]] 📜  [[an4.174-pali-pts]] ►

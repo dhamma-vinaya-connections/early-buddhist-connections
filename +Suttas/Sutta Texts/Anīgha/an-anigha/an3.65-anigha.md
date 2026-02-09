@@ -139,5 +139,6 @@ Excellent, Bhante! Excellent! … We go for refuge to Master Gotama, to the teac
 | [[MA16]], [[AN4.193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
 > ◄  [[an3.63-anigha]] 📜  [[an3.84-anigha]] ►

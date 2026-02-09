@@ -23,3 +23,5 @@ dhammārāmo dhammarato dhammaṃ anuvicintayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1031-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1031]]
+> ◄  [[thag1030-pali-pts]] 📜  [[thag1032-pali-pts]] ►

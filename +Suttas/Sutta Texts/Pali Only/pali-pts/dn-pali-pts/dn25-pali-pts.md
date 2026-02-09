@@ -188,5 +188,6 @@ Udumbarika-Sīhanāda-Suttantaṃ Dutiyaṃ.
 | [[DA8]], [[MA104]], [[DN8]], [[MN12]], [[MN45]], [[MN51]], [[MN60]], [[AN3.156-162]], [[AN4.198]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN25]]
 > ◄  [[dn24-pali-pts]] 📜  [[dn26-pali-pts]] ►

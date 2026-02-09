@@ -23,3 +23,5 @@ ramant'; eke mutiṅgehi vīṇāhi paṇavehi ca,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag466-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG466]]
+> ◄  [[thag463-pali-pts]] 📜  [[thag467-pali-pts]] ►

@@ -23,3 +23,5 @@ tayā sudantena avaṭṭhitena hi hayena yoggācariyo va ujjunā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1139-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1139]]
+> ◄  [[thag1138-pali-pts]] 📜  [[thag1140-pali-pts]] ►

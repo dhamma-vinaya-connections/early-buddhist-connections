@@ -89,4 +89,5 @@ The unrepulsive in both
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.144
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.144.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.143]]  🌐 [[AN5.145]] ►

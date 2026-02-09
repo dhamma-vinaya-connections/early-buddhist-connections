@@ -29,3 +29,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti29-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI29]]
+> ◄  [[iti28-pali-sc]] 📜  [[iti30-pali-sc]] ►

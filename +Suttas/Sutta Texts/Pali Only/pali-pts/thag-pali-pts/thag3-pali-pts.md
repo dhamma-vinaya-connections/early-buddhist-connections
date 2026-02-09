@@ -25,3 +25,5 @@ atthaṃ mahantaṃ gambhīraṃ duddasaṃ nipuṇaṃ aṇuṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG3]]
+> ◄  [[thag2-pali-pts]] 📜  [[thag4-pali-pts]] ►

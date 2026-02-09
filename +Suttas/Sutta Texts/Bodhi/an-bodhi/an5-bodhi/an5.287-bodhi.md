@@ -38,3 +38,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.287-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.287]]
+> ◄  [[an5.286-bodhi]] 📜  [[an5.306-bodhi]] ►

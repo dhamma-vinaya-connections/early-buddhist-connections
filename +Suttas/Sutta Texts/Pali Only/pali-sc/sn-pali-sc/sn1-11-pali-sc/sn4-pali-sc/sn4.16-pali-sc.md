@@ -56,5 +56,6 @@ mārasenāpi nājjhagā"ti.
 | [[SA1102]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
 > ◄  [[sn4.15-pali-sc]] 📜  [[sn4.17-pali-sc]] ►

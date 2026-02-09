@@ -35,5 +35,6 @@ Ceto-pasāda-hetucca pana bhikkhave evam idh'; ekacce sattā kāyassa bhedā par
 | [[EA9.6]], [[ITI21]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.44]]
 > ◄  [[an1.43-pali-pts]] 📜  [[an1.45-pali-pts]] ►

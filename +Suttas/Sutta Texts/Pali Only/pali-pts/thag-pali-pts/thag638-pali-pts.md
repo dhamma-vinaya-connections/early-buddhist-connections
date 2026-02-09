@@ -24,3 +24,5 @@ samataṃ paṭipādesiṃ uttamatthassa pattiyā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag638-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG638]]
+> ◄  [[thag637-pali-pts]] 📜  [[thag639-pali-pts]] ►

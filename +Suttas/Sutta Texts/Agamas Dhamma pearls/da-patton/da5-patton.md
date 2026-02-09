@@ -192,11 +192,12 @@ He replied, “Indeed! We left home to cultivate the path on account of our grea
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN27]] | [[MA154]] |  |
+> |  | [[MA154]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA18]], [[SN47.12]], [[AN1.277]], [[MN115]], [[DN1]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA5]]
 > ◄  [[da4-patton]] 📜  [[da6-patton]] ►

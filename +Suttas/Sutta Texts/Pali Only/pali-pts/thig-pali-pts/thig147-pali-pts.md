@@ -23,3 +23,5 @@ disvāna lokapajjotaṃ vanditvāna upāvisiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig147-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG147]]
+> ◄  [[thig146-pali-pts]] 📜  [[thig148-pali-pts]] ►

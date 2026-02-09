@@ -25,3 +25,5 @@ Then the female lay follower Bojjhā … Sirimā … Padumā … Sutanā … Man
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.91-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.91]]
+> ◄  [[an8.90-bodhi]] 📜  [[an8.118-bodhi]] ►

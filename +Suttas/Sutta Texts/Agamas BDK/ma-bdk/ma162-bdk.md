@@ -46,15 +46,16 @@ Dharma and discipline; that is to say, when one is able to repent on one’s own
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN140]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP186-187]], [[JA258]], [[SN4.20]], [[PE1]] |
+| [[DHP\|DHP186-187]], [[JA258]], [[SN4.20]], [[PE1]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DA13]], [[DA2]], [[DN15]], [[MA163]], [[MN106]], [[MN137]], [[SN12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA162]]
 > ◄  [[ma161-bdk]] 📜  [[ma163-bdk]] ►

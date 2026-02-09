@@ -23,3 +23,5 @@ vadho bandho parikeso jāni sokapariddavo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig344-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG344]]
+> ◄  [[thig343-pali-pts]] 📜  [[thig345-pali-pts]] ►

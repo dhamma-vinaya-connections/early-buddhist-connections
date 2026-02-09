@@ -142,3 +142,5 @@ Bālavaggo pañcamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp5-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP5-BUDDHARAKKHITA]]
+> ◄  [[dhp4-buddharakkhita-pali]] 📜  [[dhp6-buddharakkhita-pali]] ►

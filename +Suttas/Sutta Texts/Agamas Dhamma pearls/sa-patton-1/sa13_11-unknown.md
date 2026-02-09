@@ -54,3 +54,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa13_11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA13_11]]
+> ◄  [[SA13_10]] 📜  [[SA13_12]] ►

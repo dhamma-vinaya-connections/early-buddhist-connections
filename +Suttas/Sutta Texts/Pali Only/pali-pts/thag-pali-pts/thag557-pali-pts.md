@@ -23,3 +23,5 @@ so 'haṃ paṇāmito santo saṃghārāmassa koṭṭhake
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag557-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG557]]
+> ◄  [[thag556-pali-pts]] 📜  [[thag558-pali-pts]] ►

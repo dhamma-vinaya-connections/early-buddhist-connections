@@ -24,3 +24,5 @@ susukhaṃ vata jīvāma yesan no n'; atthi kiñcanaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp199-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP199]]
+> ◄  [[dhp198-pali-pts]] 📜  [[dhp200-pali-pts]] ►

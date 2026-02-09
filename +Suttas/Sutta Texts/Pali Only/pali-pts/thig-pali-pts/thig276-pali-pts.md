@@ -23,3 +23,5 @@ kāyakammaṃ suci nesaṃ vacīkammañ ca tādisaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig276-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG276]]
+> ◄  [[thig275-pali-pts]] 📜  [[thig277-pali-pts]] ►

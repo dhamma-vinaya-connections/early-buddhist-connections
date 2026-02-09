@@ -48,3 +48,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa14_3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA14_3]]
+> ◄  [[SA13_75]] 📜  [[SA14_17]] ►

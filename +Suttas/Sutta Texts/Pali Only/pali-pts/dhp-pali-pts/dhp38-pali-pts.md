@@ -24,3 +24,5 @@ anavassutacittassa ananvāhatacetaso /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp38-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP38]]
+> ◄  [[dhp37-pali-pts]] 📜  [[dhp39-pali-pts]] ►

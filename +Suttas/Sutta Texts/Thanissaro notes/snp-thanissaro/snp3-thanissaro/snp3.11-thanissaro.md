@@ -553,15 +553,16 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP129]], [[DHP130]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP129]], [[DHP130]] |
+| [[DHP\|DHP129]], [[DHP\|DHP130]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN3.123]], [[DHP268]], [[DHP269]], [[ITI66]], [[ITI67]], [[SN1.12]]
+> - [[AN3.123]], [[DHP\|DHP268]], [[DHP\|DHP269]], [[ITI66]], [[ITI67]], [[SN1.12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.11]]
 > ◄  [[snp3.10-thanissaro]] 📜  [[snp3.12-thanissaro]] ►

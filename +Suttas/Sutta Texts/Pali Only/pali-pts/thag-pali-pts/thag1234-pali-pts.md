@@ -23,3 +23,5 @@ cakkavattī yathā rājā amaccaparivārito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1234-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1234]]
+> ◄  [[thag1233-pali-pts]] 📜  [[thag1235-pali-pts]] ►

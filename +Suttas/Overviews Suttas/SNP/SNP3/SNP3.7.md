@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[MN92]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA49.6]]"
-parallels_partilal: "[[MN92]], [[PLI-TV-KD6]], [[EA49.6]], [[ITI100]], [[THAG16.6]], [[SNP3.6]]"
+parallels_partilal: "[[MN92]], [[PLI-TV-KD6]], [[EA49.6]], [[ITI100]], [[THAG16]].6, [[SNP3.6]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.6]]  🌐 [[SNP3.8]] ►
 
@@ -70,10 +70,10 @@ Therefore, I’m awakened, brahman.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN92]] | [[EA49.6]] |  |
+> |  | [[EA49.6]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[MN92]], [[PLI-TV-KD6]], [[EA49.6]], [[ITI100]], [[THAG16.6]], [[SNP3.6]] |
+| [[MN92]], [[PLI-TV-KD6]], [[EA49.6]], [[ITI100]], [[THAG16]].6, [[SNP3.6]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -96,5 +96,6 @@ Therefore, I’m awakened, brahman.
 > - Sutta Central: https://suttacentral.net/snp3.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.7
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.7.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.6]]  🌐 [[SNP3.8]] ►

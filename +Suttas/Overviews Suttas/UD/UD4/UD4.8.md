@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP306]], [[UD2.4]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP306]], [[ITI48]], [[SNP3.10]], [[UD2.4]]"
+parallels_partilal: "[[DHP\|DHP306]], [[ITI48]], [[SNP3.10]], [[UD2.4]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.7]]  🌐 [[UD4.9]] ►
 
@@ -73,15 +73,15 @@ a mendicant should endure with no anger in heart.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP306]], [[UD2.4]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP306]], [[ITI48]], [[SNP3.10]], [[UD2.4]] |
+| [[DHP\|DHP306]], [[ITI48]], [[SNP3.10]], [[UD2.4]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DHP306]]
+> - [[DHP\|DHP306]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -99,5 +99,6 @@ a mendicant should endure with no anger in heart.
 > - Sutta Central: https://suttacentral.net/ud4.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.8
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.8.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.7]]  🌐 [[UD4.9]] ►

@@ -70,5 +70,6 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 | [[MA129]], [[ITI88]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.64]]
 > ◄  [[an7.63-thanissaro]] 📜  [[an7.70-thanissaro]] ►

@@ -187,3 +187,5 @@ The Chapter of the Thirties is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig14-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG14]]
+> ◄  [[thig13-pali-eng]] 📜  [[thig15-pali-eng]] ►

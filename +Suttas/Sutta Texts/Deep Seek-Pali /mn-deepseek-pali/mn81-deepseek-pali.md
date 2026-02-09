@@ -90,5 +90,6 @@ The Ghaṭikāra Sutta is concluded, the first (sutta).
 | [[MA63]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-deepseek-pali]] 📜  [[mn82-deepseek-pali]] ►

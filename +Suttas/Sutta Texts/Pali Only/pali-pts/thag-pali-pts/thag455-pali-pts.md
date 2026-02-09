@@ -24,3 +24,5 @@ ye etā upasevanti rattacittā puthujjanā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag455-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG455]]
+> ◄  [[thag454-pali-pts]] 📜  [[thag456-pali-pts]] ►

@@ -453,5 +453,6 @@ Vaṅgīsasaṃyuttaṃ samattaṃ.
 | [[SA-2.250]], [[SA1215]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.1]]
 > ◄  [[sn7.2-pali-sri]] 📜  [[sn9.1-pali-sri]] ►

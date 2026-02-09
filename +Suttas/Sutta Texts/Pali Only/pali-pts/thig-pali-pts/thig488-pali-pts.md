@@ -23,3 +23,5 @@ aniccā addhuvā kāmā bahudukkhā mahāvisā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig488-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG488]]
+> ◄  [[thig487-pali-pts]] 📜  [[thig489-pali-pts]] ►

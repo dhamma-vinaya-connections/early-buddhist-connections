@@ -82,5 +82,6 @@ When this was said, Venerable Mahāmoggallāna said to the Blessed One: "In brie
 | [[MA83]], [[MN37]], [[EA19.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.61]]
 > ◄  [[an7.60-deepseek-pali]] 📜  [[an7.62-deepseek-pali]] ►

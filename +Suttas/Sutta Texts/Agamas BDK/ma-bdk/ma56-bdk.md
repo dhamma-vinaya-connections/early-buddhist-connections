@@ -36,7 +36,7 @@ arouse single-minded and unwavering intention to cultivate wholesome roots witho
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.3]] |  | M i 95 |
+> |  |  | M i 95 |
 > > [!check]- Partial parallels 
 > > 
 | [[PE2]] |
@@ -45,6 +45,7 @@ arouse single-minded and unwavering intention to cultivate wholesome roots witho
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA56]]
 > ◄  [[ma55-bdk]] 📜  [[ma57-bdk]] ►

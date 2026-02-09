@@ -34,5 +34,6 @@ language: "English"
 | [[EA32.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.124]]
 > ◄  [[an5.123-bodhi]] 📜  [[an5.125-bodhi]] ►

@@ -23,3 +23,5 @@ etañ ca samatikkamma rato buddhassa sāsane
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag893-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG893]]
+> ◄  [[thag892-pali-pts]] 📜  [[thag894-pali-pts]] ►

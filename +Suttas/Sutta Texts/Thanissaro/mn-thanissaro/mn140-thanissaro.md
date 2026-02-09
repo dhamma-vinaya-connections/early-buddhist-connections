@@ -125,12 +125,13 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  | [[MA162]] | M iii 237 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA162]]; [[AN6.1]]; [[DN33]]; [[SN35.248]] |
+| [[MA162]], [[AN6.1]], [[DN33]], [[SN35.248]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN106]], [[SN12]], [[DN15]], [[DA13]], [[MA163]], [[MN137]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN140]]
 > ◄  [[mn138-thanissaro]] 📜  [[mn141-thanissaro]] ►

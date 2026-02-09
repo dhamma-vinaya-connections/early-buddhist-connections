@@ -24,3 +24,5 @@ tumhehi kiccaṃ ātappaṃ, akkhātāro tathāgatā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp275-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP275]]
+> ◄  [[dhp274-pali-pts]] 📜  [[dhp276-pali-pts]] ►

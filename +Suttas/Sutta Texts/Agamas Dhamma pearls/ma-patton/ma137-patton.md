@@ -108,9 +108,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma137-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN4.23]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA137]]
 > ◄  [[ma127-patton]] 📜  [[ma139-patton]] ►

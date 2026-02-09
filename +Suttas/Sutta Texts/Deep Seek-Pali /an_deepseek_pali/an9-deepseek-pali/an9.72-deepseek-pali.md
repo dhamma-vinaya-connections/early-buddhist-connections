@@ -52,11 +52,12 @@ Training, Hindrances, Sensual Pleasures, Aggregates, Lower Fetters, Destinations
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.205]], [[AN5.206]], [[AN9.71]], [[AN9.82]], [[AN9.92]], [[MN16]] | [[EA51.4]], [[MA206]] | A iv 461 |
+> |  | [[EA51.4]], [[MA206]] | A iv 461 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.206]], [[DN33]], [[MN16]], [[AN10.14]], [[AN9.82]], [[AN9.92]], [[EA51.4]], [[MA206]], [[AN5.205]], [[AN9.71]], [[DN34]], [[DA10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.72]]
 > ◄  [[an9.71-deepseek-pali]] 📜  [[an9.73-deepseek-pali]] ►

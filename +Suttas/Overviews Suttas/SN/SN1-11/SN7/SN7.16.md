@@ -92,4 +92,5 @@ One can understand well-spoken counsel
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.16
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.16.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.15]]  🌐 [[SN7.17]] ►

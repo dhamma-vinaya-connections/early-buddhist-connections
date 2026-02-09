@@ -54,5 +54,6 @@ Let the wise sacrifice this, for this sacrifice is of great fruit. For the one s
 | [[SA-2.89]], [[SA89]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.39]]
 > ◄  [[an4.38-deepseek-pali]] 📜  [[an4.40-deepseek-pali]] ►

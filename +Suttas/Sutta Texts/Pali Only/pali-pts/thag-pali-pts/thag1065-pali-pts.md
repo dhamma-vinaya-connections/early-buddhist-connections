@@ -23,3 +23,5 @@ alaṃ jhāyitukāmassa pahitattassa me sato;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1065-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1065]]
+> ◄  [[thag1064-pali-pts]] 📜  [[thag1066-pali-pts]] ►

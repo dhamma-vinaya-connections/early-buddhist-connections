@@ -86,5 +86,6 @@ all bad destinations.(#^[].34note02) ^[].34note02-ref
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN42.8]], [[AN3.99]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.34]]
 > ◄  [[an3.33-thanissaro]] 📜  [[an3.35-thanissaro]] ►

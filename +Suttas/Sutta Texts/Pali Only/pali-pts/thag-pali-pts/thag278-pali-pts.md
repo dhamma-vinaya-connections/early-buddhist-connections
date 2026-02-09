@@ -23,3 +23,5 @@ Dhir atthu pūre duggandhe Mārapakkhe avassute;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag278-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG278]]
+> ◄  [[thag277-pali-pts]] 📜  [[thag279-pali-pts]] ►

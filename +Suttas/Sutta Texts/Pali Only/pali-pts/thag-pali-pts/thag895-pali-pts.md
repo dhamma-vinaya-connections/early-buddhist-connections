@@ -23,3 +23,5 @@ piṇḍapātapaṭikkanto eko adutiyo muni
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag895-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG895]]
+> ◄  [[thag894-pali-pts]] 📜  [[thag896-pali-pts]] ►

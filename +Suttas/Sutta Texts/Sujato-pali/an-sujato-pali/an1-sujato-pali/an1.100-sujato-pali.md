@@ -41,3 +41,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.100-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.100]]
+> ◄  [[an1.99-sujato-pali]] 📜  [[an1.114-sujato-pali]] ►

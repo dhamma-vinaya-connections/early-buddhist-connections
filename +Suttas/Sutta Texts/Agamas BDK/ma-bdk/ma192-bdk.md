@@ -68,11 +68,12 @@ the sphere of neither-perception-nor-nonperception he still has not attained sep
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN65]], [[MN66]] | [[EA49.7]], [[MA194]] |  |
+> |  | [[EA49.7]], [[MA194]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN132]], [[MN133]], [[MN134]], [[JA538]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA192]]
 > ◄  [[ma191-bdk]] 📜  [[ma193-bdk]] ►

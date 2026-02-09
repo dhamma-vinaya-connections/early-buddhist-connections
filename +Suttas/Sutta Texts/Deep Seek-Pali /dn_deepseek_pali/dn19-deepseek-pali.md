@@ -497,5 +497,6 @@ This the Blessed One said. Pleased, Pañcasikha the gandhabba, delighting in the
 | [[JA498]], [[JA509]], [[DA3]], [[MN91]], [[SN4.9]], [[JA460]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
 > ◄  [[dn18-deepseek-pali]] 📜  [[dn20-deepseek-pali]] ►

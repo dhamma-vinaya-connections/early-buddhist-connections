@@ -94,4 +94,5 @@ one should not foster worldliness.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp3
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP2]]  🌐 [[PDHP4]] ►

@@ -23,3 +23,5 @@ Sāriputta imaṃ passa āgacchantaṃ kumārakaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag430-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG430]]
+> ◄  [[thag429-pali-pts]] 📜  [[thag431-pali-pts]] ►

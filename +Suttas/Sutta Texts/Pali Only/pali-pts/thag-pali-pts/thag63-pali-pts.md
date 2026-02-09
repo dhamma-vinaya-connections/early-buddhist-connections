@@ -23,3 +23,5 @@ Dumavhayāya uppanno jāto paṇḍaraketunā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag63-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG63]]
+> ◄  [[thag62-pali-pts]] 📜  [[thag64-pali-pts]] ►

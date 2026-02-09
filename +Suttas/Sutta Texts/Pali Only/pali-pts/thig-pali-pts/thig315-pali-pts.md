@@ -24,3 +24,5 @@ abbhutaṃ vata Vāseṭṭhi vācaṃ bhāsasi edisaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig315-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG315]]
+> ◄  [[thig314-pali-pts]] 📜  [[thig316-pali-pts]] ►

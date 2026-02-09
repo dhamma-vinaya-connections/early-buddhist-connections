@@ -24,3 +24,5 @@ middhī yadā hoti mahagghaso ca niddāyitā samparivattasāyī /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp324-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP324]]
+> ◄  [[dhp323-pali-pts]] 📜  [[dhp325-pali-pts]] ►

@@ -23,3 +23,5 @@ ayañ ca daharo bhikkhu, ayam uttamaporiso
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1165-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1165]]
+> ◄  [[thag1164-pali-pts]] 📜  [[thag1166-pali-pts]] ►

@@ -95,4 +95,5 @@ While the sage sees a hundred
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag1
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[T802]]  🌐 [[THAG2]] ►

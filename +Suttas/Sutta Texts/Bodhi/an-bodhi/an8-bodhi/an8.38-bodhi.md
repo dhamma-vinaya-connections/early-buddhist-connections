@@ -58,7 +58,7 @@ and fares on to an auspicious world.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.42]] |  | A iv 244 |
+> |  |  | A iv 244 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.42]] |
@@ -67,6 +67,7 @@ and fares on to an auspicious world.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.40]], [[AN6.37]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.38]]
 > ◄  [[an8.37-bodhi]] 📜  [[an8.39-bodhi]] ►

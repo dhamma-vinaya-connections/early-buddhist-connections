@@ -36,5 +36,6 @@ Ime kho bhikkhave dve paccayā sammādiṭṭhiyā uppādāyā ti.
 | [[EA15.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.126]]
 > ◄  [[an2.125-pali-pts]] 📜  [[an2.127-pali-pts]] ►

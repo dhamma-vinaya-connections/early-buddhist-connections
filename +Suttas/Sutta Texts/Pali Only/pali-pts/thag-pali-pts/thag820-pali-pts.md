@@ -23,3 +23,5 @@ kalyāṇadassano bhikkhu kañcanasannibhattaco:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag820-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG820]]
+> ◄  [[thag819-pali-pts]] 📜  [[thag821-pali-pts]] ►

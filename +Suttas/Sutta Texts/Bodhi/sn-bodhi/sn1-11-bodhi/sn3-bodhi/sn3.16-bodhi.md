@@ -40,5 +40,10 @@ At Sāvatthī. Then King Pasenadi of Kosala approached the Blessed One, paid h
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn3.16-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN55.40]], [[SN48.56 AN4.37]], [[DHP\|DHP21]], [[DHP\|DHP22]], [[DHP\|DHP23]], [[DHP\|DHP24]], [[DHP\|DHP25]], [[DHP\|DHP26]], [[DHP\|DHP27]], [[DHP\|DHP28]], [[DHP\|DHP29]], [[DHP\|DHP30]], [[DHP\|DHP31]], [[DHP\|DHP32]], [[DHP\|DHP315]], [[SN2.10]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.16]]
 > ◄  [[sn3.15-bodhi]] 📜  [[sn3.17-bodhi]] ►

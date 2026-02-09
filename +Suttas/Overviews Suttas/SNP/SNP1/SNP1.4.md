@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[SN7.11]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.264]], [[SA-3.1]], [[SA98]]"
 parallels_partilal: "[[SN7.11]], [[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP3.4]], [[SN7.8]], [[SN7.9]]"
 ---
@@ -70,7 +70,7 @@ and gentleness is my release.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN7.11]] | [[SA-2.264]], [[SA-3.1]], [[SA98]] |  |
+> |  | [[SA-2.264]], [[SA-3.1]], [[SA98]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN7.11]], [[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP3.4]], [[SN7.8]], [[SN7.9]] |
@@ -78,7 +78,7 @@ and gentleness is my release.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN16]], [[SN7.14]], [[SN7.17]], [[AN4.113]], [[THIG13.2]]
+> - [[DN16]], [[SN7.14]], [[SN7.17]], [[AN4.113]], [[THIG13]].2
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -96,5 +96,6 @@ and gentleness is my release.
 > - Sutta Central: https://suttacentral.net/snp1.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.4
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.4.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.3]]  🌐 [[SNP1.5]] ►

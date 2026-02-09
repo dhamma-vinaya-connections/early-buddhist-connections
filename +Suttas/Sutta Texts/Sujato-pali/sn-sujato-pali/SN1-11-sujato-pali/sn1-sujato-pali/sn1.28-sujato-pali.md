@@ -70,5 +70,6 @@ te lokasmiṁ anussukā"ti.
 | [[SA-2.183]], [[SA589]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.28]]
 > ◄  [[sn1.27-sujato-pali]] 📜  [[sn1.29-sujato-pali]] ►

@@ -23,3 +23,5 @@ sabbaññū sabbadassāvī jino ācariyo mama
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag721-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG721]]
+> ◄  [[thag720-pali-pts]] 📜  [[thag722-pali-pts]] ►

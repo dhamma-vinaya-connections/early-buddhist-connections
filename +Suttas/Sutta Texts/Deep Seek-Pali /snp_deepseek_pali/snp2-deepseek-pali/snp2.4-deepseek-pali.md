@@ -101,5 +101,10 @@ The Maṅgala Sutta, the fourth, is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.4-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.31]], [[SN3:5]], [[AN3.110]], [[AN4.128]], [[AN10.17]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.4]]
 > ◄  [[snp2.3-deepseek-pali]] 📜  [[snp2.5-deepseek-pali]] ►

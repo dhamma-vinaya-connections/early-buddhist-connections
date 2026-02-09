@@ -23,3 +23,5 @@ sīlaṃ setu mahesakkho, sīlaṃ gandho anuttaro,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag614-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG614]]
+> ◄  [[thag613-pali-pts]] 📜  [[thag615-pali-pts]] ►

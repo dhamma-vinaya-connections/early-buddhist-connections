@@ -35,11 +35,12 @@ _Thus, [there are more]_ sūtra_s teaching a certain monk. The differences are: 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN35.53-59]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN35.53-59]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA201]]
 > ◄  [[sa200-patton]] 📜  [[sa202-patton]] ►

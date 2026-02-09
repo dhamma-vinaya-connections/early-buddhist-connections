@@ -23,3 +23,5 @@ tadāsi yaṃ bhiṃsanakaṃ, tadāsi lomahaṃsanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1157-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1157]]
+> ◄  [[thag1156-pali-pts]] 📜  [[thag1158-pali-pts]] ►

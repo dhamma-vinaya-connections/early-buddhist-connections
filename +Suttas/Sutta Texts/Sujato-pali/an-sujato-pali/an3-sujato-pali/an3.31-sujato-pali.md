@@ -88,11 +88,12 @@ Paṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.63]] |  | A i 151 |
+> |  |  | A i 151 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.63]], [[ITI106]], [[JA532]], [[SN7.19]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.31]]
 > ◄  [[an3.30-sujato-pali]] 📜  [[an3.32-sujato-pali]] ►

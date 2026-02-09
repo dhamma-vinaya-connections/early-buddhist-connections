@@ -64,5 +64,6 @@ Catutthaṁ.
 | [[SA691]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.4]]
 > ◄  [[an7.3-pali-sc]] 📜  [[an7.5-pali-sc]] ►

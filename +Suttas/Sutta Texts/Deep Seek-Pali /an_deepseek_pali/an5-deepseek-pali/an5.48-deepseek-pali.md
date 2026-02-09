@@ -78,5 +78,6 @@ one should endure without sorrow, thinking: ‘My kamma is firm; what can I do n
 | [[EA34.6]], [[JA368]], [[AN5.50]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
 > ◄  [[an5.47-deepseek-pali]] 📜  [[an5.49-deepseek-pali]] ►

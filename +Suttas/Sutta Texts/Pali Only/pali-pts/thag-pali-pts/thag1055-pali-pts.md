@@ -23,3 +23,5 @@ kuḍḍamūlañ ca nissāya ālopan taṃ abhuñjisaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1055-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1055]]
+> ◄  [[thag1054-pali-pts]] 📜  [[thag1056-pali-pts]] ►

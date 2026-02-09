@@ -23,3 +23,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.83-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.83]]
+> ◄  [[an1.82-bodhi]] 📜  [[an1.84-bodhi]] ►

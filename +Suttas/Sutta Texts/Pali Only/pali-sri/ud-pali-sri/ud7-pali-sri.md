@@ -190,3 +190,5 @@ Sat saditi pa÷yanti ~ pa÷yatāṃ nàsti kiñcana
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7]]
+> ◄  [[ud6-pali-sri]] 📜  [[ud8-pali-sri]] ►

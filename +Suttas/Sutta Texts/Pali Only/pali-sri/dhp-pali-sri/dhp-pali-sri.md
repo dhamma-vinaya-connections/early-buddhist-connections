@@ -3276,3 +3276,5 @@ Dhammapada pāḷi niṭṭhitā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP]]
+> ◄  [[]] 📜  [[]] ►

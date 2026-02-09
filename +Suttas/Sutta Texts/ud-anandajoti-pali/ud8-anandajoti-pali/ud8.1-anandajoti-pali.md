@@ -39,5 +39,10 @@ Paṭhamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.1-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN11]], [[MN49]], [[SN35:117]], [[ITI43]], [[MN144]], [[ANDSN35:87]], [[MN140]], [[SN22.53]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.1]]
 > ◄  [[]] 📜  [[ud8.2-anandajoti-pali]] ►

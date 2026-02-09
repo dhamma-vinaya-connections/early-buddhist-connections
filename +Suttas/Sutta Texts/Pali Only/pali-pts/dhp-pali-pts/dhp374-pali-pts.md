@@ -25,3 +25,5 @@ indriyaguttī santuṭṭhī pātimokkhe ca saṃvaro, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp374-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP374]]
+> ◄  [[dhp373-pali-pts]] 📜  [[dhp375-pali-pts]] ►

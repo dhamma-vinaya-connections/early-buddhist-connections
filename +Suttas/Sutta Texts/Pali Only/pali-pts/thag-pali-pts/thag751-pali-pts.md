@@ -23,3 +23,5 @@ vicikicchākaṅkhāgathitaṃ sārambhabalasaññutaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag751-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG751]]
+> ◄  [[thag750-pali-pts]] 📜  [[thag752-pali-pts]] ►

@@ -212,7 +212,7 @@ rejoiced, respectfully received it, and carried it out.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN26]] | [[MA70]] |  |
+> |  | [[MA70]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA15]] |
@@ -221,6 +221,7 @@ rejoiced, respectfully received it, and carried it out.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA6]]
 > ◄  [[da5-bdk]] 📜  [[da7-bdk]] ►

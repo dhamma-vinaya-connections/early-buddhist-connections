@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN7.33]], [[DHP32]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[AN7.33]], [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]]"
+parallels_partilal: "[[AN7.33]], [[DHP\|DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.32]]  🌐 [[AN6.34]] ►
 
@@ -64,10 +64,10 @@ And has drawn near to extinguishmen
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.33]], [[DHP32]] |  | A iii 331 |
+> |  |  | A iii 331 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN7.33]], [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]] |
+| [[AN7.33]], [[DHP\|DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -90,5 +90,6 @@ And has drawn near to extinguishmen
 > - Sutta Central: https://suttacentral.net/an6.33/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.33
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.33.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.32]]  🌐 [[AN6.34]] ►

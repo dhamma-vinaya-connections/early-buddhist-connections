@@ -23,3 +23,5 @@ idam ajaram idam amaraṃ idam ajarāmaraṇapadam asokaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig511-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG511]]
+> ◄  [[thig510-pali-pts]] 📜  [[thig512-pali-pts]] ►

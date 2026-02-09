@@ -27,3 +27,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti16-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI16]]
+> ◄  [[iti15-pali-sc]] 📜  [[iti17-pali-sc]] ►

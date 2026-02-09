@@ -25,3 +25,5 @@ bhovādi nāma so hoti sa ve hoti sakiñcano, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp395-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP395]]
+> ◄  [[dhp394-pali-pts]] 📜  [[dhp396-pali-pts]] ►

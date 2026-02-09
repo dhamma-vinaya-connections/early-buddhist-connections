@@ -24,3 +24,5 @@ Puṇṇe pūrassu dhammehi cando pannarase-r-iva |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG2]]
+> ◄  [[thig1-pali-pts]] 📜  [[thig3-pali-pts]] ►

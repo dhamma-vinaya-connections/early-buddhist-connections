@@ -52,5 +52,6 @@ These are the three kinds of purity.
 | [[ITI66]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.121]]
 > ◄  [[an3.110-anigha]] 📜  [[an4.12-anigha]] ►

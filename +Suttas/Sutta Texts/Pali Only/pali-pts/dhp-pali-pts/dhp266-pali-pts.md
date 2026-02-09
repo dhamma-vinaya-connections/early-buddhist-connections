@@ -24,3 +24,5 @@ yo 'dha puññañ ca pāpañ ca bāhetvā brahmacariyavā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp266-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP266]]
+> ◄  [[dhp265-pali-pts]] 📜  [[dhp267-pali-pts]] ►

@@ -129,7 +129,8 @@ Pācittiyakaṇḍaṁ niṭṭhitaṁ.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc92-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC92]] |
->|       |          | [[ñanatusita-analysis#^PC92]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC92]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC92]]

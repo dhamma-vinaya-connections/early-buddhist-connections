@@ -49,5 +49,6 @@ Chaṭṭhaṁ.
 | [[PLI-TV-KD17]], [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.16]]
 > ◄  [[an8.15-pali-sc]] 📜  [[an8.17-pali-sc]] ►

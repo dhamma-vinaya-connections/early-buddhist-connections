@@ -228,5 +228,6 @@ vv. 1049–1060
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SNP3.4]], [[AN3:32ANDAN4:41]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.4]]
 > ◄  [[snp5.3-thanissaro]] 📜  [[snp5.5-thanissaro]] ►

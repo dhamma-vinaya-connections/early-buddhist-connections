@@ -24,3 +24,5 @@ Pare ca na vijānanti mayam ettha yamāmase;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag272-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG272]]
+> ◄  [[thag271-pali-pts]] 📜  [[thag275-pali-pts]] ►

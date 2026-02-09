@@ -78,11 +78,12 @@ harbors no enmity toward anyone.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN11.15]] | [[EA49.10]] | A iv 150 |
+> |  | [[EA49.10]] | A iv 150 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN11.15]], [[EA49.10]], [[PLI-TV-PVR7]], [[ITI27]], [[JA451]], [[PE3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.1]]
 > ◄  [[]] 📜  [[an8.2-bodhi]] ►

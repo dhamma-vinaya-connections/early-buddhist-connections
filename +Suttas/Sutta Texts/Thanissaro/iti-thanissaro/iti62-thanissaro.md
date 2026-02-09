@@ -68,5 +68,6 @@ along with his mount.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3:86]], [[ANDITI102.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI62]]
 > ◄  [[iti61-thanissaro]] 📜  [[iti63-thanissaro]] ►

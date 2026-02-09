@@ -24,3 +24,5 @@ yaṃ sāvakena pattabbaṃ satthusāsanakārinā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1246-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1246]]
+> ◄  [[thag1245-pali-pts]] 📜  [[thag1247-pali-pts]] ►

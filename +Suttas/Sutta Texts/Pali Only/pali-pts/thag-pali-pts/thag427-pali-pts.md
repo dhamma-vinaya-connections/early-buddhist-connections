@@ -24,3 +24,5 @@ atimāno ca omāno pahīnā susamūhatā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag427-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG427]]
+> ◄  [[thag426-pali-pts]] 📜  [[thag428-pali-pts]] ►

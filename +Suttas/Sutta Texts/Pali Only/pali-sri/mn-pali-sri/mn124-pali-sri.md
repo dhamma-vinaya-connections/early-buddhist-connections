@@ -181,5 +181,6 @@ Bakkulasuttaṃ catutthaṃ.
 | [[MA34]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
 > ◄  [[mn123-pali-sri]] 📜  [[mn125-pali-sri]] ►

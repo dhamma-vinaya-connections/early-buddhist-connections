@@ -74,5 +74,6 @@ Pañcamaṁ.
 | [[EA43.8]], [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
 > ◄  [[an8.4-sujato-pali]] 📜  [[an8.6-sujato-pali]] ►

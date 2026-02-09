@@ -98,4 +98,5 @@ So you used to urge me, mind.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag18
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag18.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG17]]  🌐 [[THAG19]] ►

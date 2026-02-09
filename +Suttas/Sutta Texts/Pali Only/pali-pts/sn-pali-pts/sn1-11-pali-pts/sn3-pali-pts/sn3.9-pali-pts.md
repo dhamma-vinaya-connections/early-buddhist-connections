@@ -55,5 +55,6 @@ anindito saggam upeti ṭhānan ti ||
 | [[SA-2.61]], [[SA1234]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.9]]
 > ◄  [[sn3.8-pali-pts]] 📜  [[sn3.10-pali-pts]] ►

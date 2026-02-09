@@ -90,7 +90,7 @@ End of the ninth _sūtra_, _Abiding in Qualities_ (631 Chinese characters) ^ma95
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.17]], [[AN10.18]], [[AN10.53]] |  | M i 339 |
+> |  |  | M i 339 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
@@ -99,6 +99,7 @@ End of the ninth _sūtra_, _Abiding in Qualities_ (631 Chinese characters) ^ma95
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA93]], [[MA96]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA95]]
 > ◄  [[ma92-patton]] 📜  [[ma96-patton]] ►

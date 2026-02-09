@@ -38,11 +38,12 @@ Dutiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN57]] |  | A ii 230 |
+> |  |  | A ii 230 |
 > > [!check]- Partial parallels 
 > > 
 | [[MN57]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.233]]
 > ◄  [[an4.232-pali-sc]] 📜  [[an4.234-pali-sc]] ►

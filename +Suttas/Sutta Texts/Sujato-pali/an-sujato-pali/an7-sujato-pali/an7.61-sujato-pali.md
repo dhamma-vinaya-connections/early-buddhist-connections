@@ -124,5 +124,6 @@ Aṭṭhamaṁ.
 | [[MA83]], [[MN37]], [[EA19.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.61]]
 > ◄  [[an7.60-sujato-pali]] 📜  [[an7.62-sujato-pali]] ►

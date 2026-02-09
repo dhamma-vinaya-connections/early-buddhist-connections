@@ -59,7 +59,8 @@ Sakkaccavaggo catuttho.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk40-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK40]] |
->|       |          | [[ñanatusita-analysis#^SK40]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK40]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK40]]

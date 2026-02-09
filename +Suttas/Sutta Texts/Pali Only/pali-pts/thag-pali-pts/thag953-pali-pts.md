@@ -23,3 +23,5 @@ bahū ādīnavā loke uppajjissanti 'nāgate;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag953-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG953]]
+> ◄  [[thag952-pali-pts]] 📜  [[thag954-pali-pts]] ►

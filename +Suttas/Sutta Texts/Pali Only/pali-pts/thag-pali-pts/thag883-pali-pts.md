@@ -23,3 +23,5 @@ mā pamādam anuyuñjetha mā kāmaratisanthavaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag883-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG883]]
+> ◄  [[thag882-pali-pts]] 📜  [[thag884-pali-pts]] ►

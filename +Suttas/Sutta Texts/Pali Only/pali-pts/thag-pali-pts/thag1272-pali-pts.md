@@ -23,3 +23,5 @@ parovaraṃ ariyadhammaṃ viditvā mā mohayi jānam anomaviriya;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1272-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1272]]
+> ◄  [[thag1271-pali-pts]] 📜  [[thag1273-pali-pts]] ►

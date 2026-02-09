@@ -101,13 +101,10 @@ The World-honored One asked: Brahmin, what do you think? Suppose that all of tho
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma150-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN96]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN30]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA150]]
 > ◄  [[ma149-bdk]] 📜  [[ma151-bdk]] ►

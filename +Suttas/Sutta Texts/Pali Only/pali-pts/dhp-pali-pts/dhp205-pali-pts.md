@@ -24,3 +24,5 @@ sādhu dassanam ariyānaṃ sannivāso sadā sukho, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp205-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP205]]
+> ◄  [[dhp204-pali-pts]] 📜  [[dhp206-pali-pts]] ►

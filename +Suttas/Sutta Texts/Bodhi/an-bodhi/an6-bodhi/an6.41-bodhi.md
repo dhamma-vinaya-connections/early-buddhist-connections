@@ -44,5 +44,6 @@ Thus have I heard. On one occasion the Venerable Sāriputta was dwelling at Rāj
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.4.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.41]]
 > ◄  [[an6.40-bodhi]] 📜  [[an6.42-bodhi]] ►

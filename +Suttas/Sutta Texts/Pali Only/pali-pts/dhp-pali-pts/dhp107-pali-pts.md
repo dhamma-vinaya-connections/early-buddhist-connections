@@ -24,3 +24,5 @@ yaṃ kiñci yiṭṭhañ ca hutañ ca loke saṃvaccharaṃ yajetha puññapekh
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp107-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP107]]
+> ◄  [[dhp106-pali-pts]] 📜  [[dhp108-pali-pts]] ►

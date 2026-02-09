@@ -41,3 +41,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.209-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.209]]
+> ◄  [[an1.198-pali-sc]] 📜  [[an1.219-pali-sc]] ►

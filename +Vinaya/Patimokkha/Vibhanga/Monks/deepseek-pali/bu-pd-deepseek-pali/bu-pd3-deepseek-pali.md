@@ -128,7 +128,8 @@ The Third Training Rule Requiring Acknowledgment is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pd3-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PD3]] |
->|       |          | [[ñanatusita-analysis#^PD3]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PD3]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD3]]

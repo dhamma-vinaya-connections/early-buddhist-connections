@@ -24,3 +24,5 @@ kadā nu kho yaṃ viditaṃ mahesinā cattāri saccāni sududdasāni
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1097-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1097]]
+> ◄  [[thag1096-pali-pts]] 📜  [[thag1098-pali-pts]] ►

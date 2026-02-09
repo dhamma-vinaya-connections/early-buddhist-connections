@@ -50,5 +50,6 @@ He who is afraid of sound, like a deer in the forest, they say is light-minded; 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.8]]
 > ◄  [[sn9.7-deepseek-pali]] 📜  [[sn9.9-deepseek-pali]] ►

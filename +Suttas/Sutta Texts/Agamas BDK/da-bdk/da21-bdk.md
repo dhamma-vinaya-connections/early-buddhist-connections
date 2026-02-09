@@ -1065,6 +1065,6 @@ receive it, and he reverentially carried out what the Buddha taught.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN1]], [[MN100]], [[MN36]], [[MN85]] | [[DA20]], [[DA22]], [[EA31.8]] |  |
+> |  | [[DA20]], [[DA22]], [[EA31.8]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA21]]
 > ◄  [[da20-bdk]] 📜  [[da22-bdk]] ►

@@ -47,11 +47,12 @@ When this was said, the mendicant brahmin said to the Blessed One: “Magnificen
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP266]], [[DHP267]] | [[SA-2.263]], [[SA97]] |  |
+> |  | [[SA-2.263]], [[SA97]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.263]], [[SA97]], [[DHP266]], [[DHP267]] |
+| [[SA-2.263]], [[SA97]], [[DHP\|DHP266]], [[DHP\|DHP267]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.20]]
 > ◄  [[sn7.19-bodhi]] 📜  [[sn7.21-bodhi]] ►

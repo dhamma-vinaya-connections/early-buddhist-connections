@@ -70,11 +70,12 @@ in \[a realm\] without affliction.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.54]] | [[SA-2.90]], [[SA90]] | A ii 43 |
+> |  | [[SA-2.90]], [[SA90]] | A ii 43 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.90]], [[SA90]], [[AN8.54]], [[AN6.37]], [[AN8.37]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.40]]
 > ◄  [[an4.39-bodhi]] 📜  [[an4.41-bodhi]] ►

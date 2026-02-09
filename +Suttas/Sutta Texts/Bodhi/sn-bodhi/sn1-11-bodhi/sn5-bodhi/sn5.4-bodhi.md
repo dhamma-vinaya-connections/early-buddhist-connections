@@ -76,5 +76,6 @@ Then Māra the Evil One, realizing “The bhikkhunī Vijayā knows me,” sad an
 | [[SA-2.220]], [[SA1204]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
 > ◄  [[sn5.3-bodhi]] 📜  [[sn5.5-bodhi]] ►

@@ -24,3 +24,5 @@ akataṃ dukkataṃ seyyo pacchā tapati dukkataṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp313-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP313]]
+> ◄  [[dhp312-pali-pts]] 📜  [[dhp314-pali-pts]] ►

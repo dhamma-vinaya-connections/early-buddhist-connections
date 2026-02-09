@@ -23,3 +23,5 @@ cittena vañcitā sattā Mārassa visaye ratā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig163-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG163]]
+> ◄  [[thig162-pali-pts]] 📜  [[thig164-pali-pts]] ►

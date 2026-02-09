@@ -95,11 +95,12 @@ When this was said, the brahmin Kasi Bhāradvāja said to the Blessed One: “Ma
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SNP1.4]] | [[SA-2.264]], [[SA-3.1]], [[SA98]] |  |
+> |  | [[SA-2.264]], [[SA-3.1]], [[SA98]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP1.4]], [[SNP3.4]], [[SN7.8]], [[SN7.9]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.11]]
 > ◄  [[sn7.10-bodhi]] 📜  [[sn7.12-bodhi]] ►

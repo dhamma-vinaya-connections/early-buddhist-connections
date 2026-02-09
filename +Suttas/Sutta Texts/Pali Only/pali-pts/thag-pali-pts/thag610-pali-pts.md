@@ -23,3 +23,5 @@ avaṇṇañ ca akittiñ ca dussīlo labhate naro,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag610-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG610]]
+> ◄  [[thag609-pali-pts]] 📜  [[thag611-pali-pts]] ►

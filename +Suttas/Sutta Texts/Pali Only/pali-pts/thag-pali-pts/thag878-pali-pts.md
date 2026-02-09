@@ -23,3 +23,5 @@ Ahiṃsako 'ti me nāmaṃ hiṃsakassa pure sato;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag878-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG878]]
+> ◄  [[thag877-pali-pts]] 📜  [[thag879-pali-pts]] ►

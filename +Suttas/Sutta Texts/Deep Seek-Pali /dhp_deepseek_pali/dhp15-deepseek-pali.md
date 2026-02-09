@@ -91,5 +91,6 @@ The Chapter on Happiness: The Fifteenth.
 | [[PE1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP15]]
 > ◄  [[dhp14-deepseek-pali]] 📜  [[dhp16-deepseek-pali]] ►

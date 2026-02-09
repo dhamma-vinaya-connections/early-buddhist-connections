@@ -32,11 +32,12 @@ This is what the Buddha said. Having heard the Buddha’s words, the monks were 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.61]], [[AN10.62]] | [[MA51]], [[MA52]] | M iii 277 |
+> |  | [[MA51]], [[MA52]] | M iii 277 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA16]], [[AN4.193]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA53]]
 > ◄  [[ma52-bdk]] 📜  [[ma54-bdk]] ►

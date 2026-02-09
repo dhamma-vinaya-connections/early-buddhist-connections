@@ -23,3 +23,5 @@ sassuyā sassurassa ca sāyaṃ pātaṃ paṇāmam upagamma |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig406-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG406]]
+> ◄  [[thig405-pali-pts]] 📜  [[thig407-pali-pts]] ►

@@ -23,3 +23,5 @@ ujjhānasaññino bālā sīlesu asamāhitā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag957-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG957]]
+> ◄  [[thag956-pali-pts]] 📜  [[thag958-pali-pts]] ►

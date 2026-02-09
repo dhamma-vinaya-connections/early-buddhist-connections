@@ -43,11 +43,12 @@ Summary Verse
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.43]] | [[SA36]] |  |
+> |  | [[SA36]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA36]], [[SN22.43]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA36]]
 > ◄  [[sa35.67-patton]] 📜  [[sa37-patton]] ►

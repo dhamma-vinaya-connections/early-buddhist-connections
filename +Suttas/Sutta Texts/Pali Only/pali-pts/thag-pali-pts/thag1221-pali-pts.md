@@ -23,3 +23,5 @@ tasmā akhilo idham amānavā nīvaraṇāni pahāya visuddho
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1221-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1221]]
+> ◄  [[thag1220-pali-pts]] 📜  [[thag1222-pali-pts]] ►

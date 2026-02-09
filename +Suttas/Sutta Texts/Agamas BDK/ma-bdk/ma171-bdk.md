@@ -58,7 +58,7 @@ realm of existence, in heaven. Ānanda, the Tathāgata knows that this person is
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN136]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-KD1]], [[SN4.15]], [[]], [[SN4.5]] |
@@ -67,6 +67,7 @@ realm of existence, in heaven. Ānanda, the Tathāgata knows that this person is
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.61]], [[AN4.77]], [[AN6.63]], [[AN8.40.]], [[MA170]], [[MN135]], [[MN41]], [[SN36.11]], [[SN42.13]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA171]]
 > ◄  [[ma170-bdk]] 📜  [[ma172-bdk]] ►

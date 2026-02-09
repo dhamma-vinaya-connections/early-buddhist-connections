@@ -56,11 +56,12 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[UD8.6]] |  | A iii 252 |
+> |  |  | A iii 252 |
 > > [!check]- Partial parallels 
 > > 
 | [[DN33]], [[PLI-TV-KD6]], [[UD8.6]], [[DN16]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.213]]
 > ◄  [[an5.212-pali-sc]] 📜  [[an5.214-pali-sc]] ►

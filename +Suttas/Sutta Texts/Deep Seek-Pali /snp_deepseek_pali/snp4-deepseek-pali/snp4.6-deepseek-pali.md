@@ -96,7 +96,8 @@ The Jarā Sutta, the sixth, is finished.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN21.2]], [[AN4.184]], [[DHP21]], [[SN5.16]]
+> - [[SN21.2]], [[AN4.184]], [[DHP\|DHP21]], [[SN5.16]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.6]]
 > ◄  [[snp4.5-deepseek-pali]] 📜  [[snp4.7-deepseek-pali]] ►

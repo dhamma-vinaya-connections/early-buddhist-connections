@@ -24,3 +24,5 @@ daṇḍen'; eke damayanti aṅkusehi kasāhi ca;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag877-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG877]]
+> ◄  [[thag876-pali-pts]] 📜  [[thag878-pali-pts]] ►

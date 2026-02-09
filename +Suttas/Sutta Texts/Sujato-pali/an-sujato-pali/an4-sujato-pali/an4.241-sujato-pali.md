@@ -62,5 +62,6 @@ Dasamaṁ.
 | [[MN11]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.241]]
 > ◄  [[an4.240-sujato-pali]] 📜  [[an4.242-sujato-pali]] ►

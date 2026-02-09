@@ -31,5 +31,10 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dasamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti46-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN6]], [[AN4:37]], [[SN2.10]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI46]]
 > ◄  [[iti45-pali-sc]] 📜  [[iti47-pali-sc]] ►

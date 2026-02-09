@@ -24,3 +24,5 @@ atha maṃ bhaṇati tāto pāpuṇa bodhiñ ca aggadhammañ ca. |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig431-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG431]]
+> ◄  [[thig430-pali-pts]] 📜  [[thig432-pali-pts]] ►

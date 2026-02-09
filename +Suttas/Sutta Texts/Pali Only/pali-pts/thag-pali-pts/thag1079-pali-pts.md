@@ -23,3 +23,5 @@ uddhato capalo bhikkhu paṃsukūlena pāruto
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1079-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1079]]
+> ◄  [[thag1078-pali-pts]] 📜  [[thag1080-pali-pts]] ►

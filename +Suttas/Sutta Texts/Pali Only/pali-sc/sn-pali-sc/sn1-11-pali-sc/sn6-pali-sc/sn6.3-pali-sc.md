@@ -82,5 +82,6 @@ Disvā muniṁ brāhmaṇī oghatiṇṇan"ti.
 | [[SA-2.265]], [[SA99]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
 > ◄  [[sn6.2-pali-sc]] 📜  [[sn6.4-pali-sc]] ►

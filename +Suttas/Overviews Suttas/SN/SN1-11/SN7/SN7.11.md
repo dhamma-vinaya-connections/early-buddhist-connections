@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[SNP1.4]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.264]], [[SA-3.1]], [[SA98]]"
 parallels_partilal: "[[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP1.4]], [[SNP3.4]], [[SN7.8]], [[SN7.9]]"
 ---
@@ -68,7 +68,7 @@ To where, having gone, one does not sorrow
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SNP1.4]] | [[SA-2.264]], [[SA-3.1]], [[SA98]] |  |
+> |  | [[SA-2.264]], [[SA-3.1]], [[SA98]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP1.4]], [[SNP3.4]], [[SN7.8]], [[SN7.9]] |
@@ -91,5 +91,6 @@ To where, having gone, one does not sorrow
 > - Sutta Central: https://suttacentral.net/sn7.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.11
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.11.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.10]]  🌐 [[SN7.12]] ►

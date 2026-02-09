@@ -34,5 +34,6 @@ Mettaṃ bhikkhave ceto-vimuttiṃ yoniso manasikaroto anuppanno c'; eva vyāpā
 | [[EA9.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.17]]
 > ◄  [[an1.16-pali-pts]] 📜  [[an1.18-pali-pts]] ►

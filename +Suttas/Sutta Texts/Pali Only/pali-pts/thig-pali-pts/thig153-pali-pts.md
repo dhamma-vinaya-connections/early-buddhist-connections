@@ -23,3 +23,5 @@ sāhaṃ disvāna sambuddhaṃ lokajeṭṭhaṃ anuttaraṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig153-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG153]]
+> ◄  [[thig152-pali-pts]] 📜  [[thig154-pali-pts]] ►

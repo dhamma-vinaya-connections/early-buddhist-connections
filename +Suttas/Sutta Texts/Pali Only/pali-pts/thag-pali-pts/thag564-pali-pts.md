@@ -23,3 +23,5 @@ vanditvā satthuno pāde ekamantaṃ nisīd'; ahaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag564-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG564]]
+> ◄  [[thag563-pali-pts]] 📜  [[thag565-pali-pts]] ►

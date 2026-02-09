@@ -23,3 +23,5 @@ gambhīrapañño mehāvī maggāmaggassa kovido
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1230-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1230]]
+> ◄  [[thag1229-pali-pts]] 📜  [[thag1231-pali-pts]] ►

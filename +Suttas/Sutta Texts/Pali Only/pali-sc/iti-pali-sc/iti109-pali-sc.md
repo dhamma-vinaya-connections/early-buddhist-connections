@@ -42,5 +42,10 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dvādasamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti109-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN7:48ANDAN10:13.]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI109]]
 > ◄  [[iti108-pali-sc]] 📜  [[iti110-pali-sc]] ►

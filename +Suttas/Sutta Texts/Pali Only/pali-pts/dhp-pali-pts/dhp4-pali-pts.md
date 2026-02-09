@@ -33,5 +33,6 @@ na hi verena verāni sammant'; idha kudācana /
 | [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP4]]
 > ◄  [[dhp3-pali-pts]] 📜  [[dhp5-pali-pts]] ►

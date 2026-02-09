@@ -145,5 +145,6 @@ Imā kho bhikkhave tisso paṭipadāti.
 | [[EA9.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.16]]
 > ◄  [[an1.15-pali-sri]] 📜  [[an1.17-pali-sri]] ►

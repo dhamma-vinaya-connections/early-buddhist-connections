@@ -23,3 +23,5 @@ na vissase ekatiyesu evaṃ agārisu pabbajitesu cāpi;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1008-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1008]]
+> ◄  [[thag1007-pali-pts]] 📜  [[thag1009-pali-pts]] ►

@@ -36,11 +36,12 @@ When this was said, the brahmin Bilaṅgikabhāradvāja said to the Blessed One:
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP125]] | [[SA-2.77]], [[SA1154]] |  |
+> |  | [[SA-2.77]], [[SA1154]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.77]], [[SA1154]], [[DHP125]], [[JA367]], [[SN1.22]], [[SNP3.10]] |
+| [[SA-2.77]], [[SA1154]], [[DHP\|DHP125]], [[JA367]], [[SN1.22]], [[SNP3.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.4]]
 > ◄  [[sn7.3-deepseek-pali]] 📜  [[sn7.5-deepseek-pali]] ►

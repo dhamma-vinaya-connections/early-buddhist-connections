@@ -238,11 +238,12 @@ Evil Māra then confounded their thinking with his own power.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN25]] | [[MA104]] |  |
+> |  | [[MA104]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA19]], [[]], [[SN1.37]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA8]]
 > ◄  [[da7-patton]] 📜  [[da9-patton]] ►

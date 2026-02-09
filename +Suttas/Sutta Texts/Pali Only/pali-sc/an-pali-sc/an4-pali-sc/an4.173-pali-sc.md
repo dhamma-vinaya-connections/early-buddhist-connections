@@ -61,5 +61,6 @@ Tatiyaṁ.
 | [[SA249]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.173]]
 > ◄  [[an4.172-pali-sc]] 📜  [[an4.174-pali-sc]] ►

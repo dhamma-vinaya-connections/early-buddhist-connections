@@ -38,11 +38,12 @@ Just as large amounts of grain and beans of various sorts are amassed in the kin
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.67]] | [[EA39.4]] | M iii 118 |
+> |  | [[EA39.4]] | M iii 118 |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG17.3]] |
+| [[THAG17]].3 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA3]]
 > ◄  [[ma2-bdk]] 📜  [[ma4-bdk]] ►

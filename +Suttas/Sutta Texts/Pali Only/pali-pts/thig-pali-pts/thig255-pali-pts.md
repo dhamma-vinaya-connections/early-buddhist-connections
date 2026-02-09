@@ -23,3 +23,5 @@ cittakārasukatā va lekhitā sobhate su bhamukā pure mama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig255-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG255]]
+> ◄  [[thig254-pali-pts]] 📜  [[thig256-pali-pts]] ►

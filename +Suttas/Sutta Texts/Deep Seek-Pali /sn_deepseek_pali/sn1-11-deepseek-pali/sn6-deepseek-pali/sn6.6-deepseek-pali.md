@@ -64,5 +64,6 @@ Then the Brahma Subrahmā and the Brahma Suddhāvāsa, having stirred that Brahm
 | [[SA-2.107]], [[SA1194]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
 > ◄  [[sn6.5-deepseek-pali]] 📜  [[sn6.7-deepseek-pali]] ►

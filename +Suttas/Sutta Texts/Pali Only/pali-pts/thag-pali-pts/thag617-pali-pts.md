@@ -23,3 +23,5 @@ idh'; eva kittiṃ labhati pecca sagge ca summano,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag617-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG617]]
+> ◄  [[thag616-pali-pts]] 📜  [[thag618-pali-pts]] ►

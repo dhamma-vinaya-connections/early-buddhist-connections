@@ -82,11 +82,12 @@ Dutiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[ITI111]] |  | A ii 136 |
+> |  |  | A ii 136 |
 > > [!check]- Partial parallels 
 > > 
 | [[ITI111]], [[AN10.71]], [[AN10.17]], [[DN33]], [[DN34]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.12]]
 > ◄  [[an4.11-sujato-pali]] 📜  [[an4.13-sujato-pali]] ►

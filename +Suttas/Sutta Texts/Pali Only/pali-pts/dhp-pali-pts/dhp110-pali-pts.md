@@ -24,3 +24,5 @@ yo ca vassasataṃ jīve duppañño asamāhito /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp110-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP110]]
+> ◄  [[dhp109-pali-pts]] 📜  [[dhp111-pali-pts]] ►

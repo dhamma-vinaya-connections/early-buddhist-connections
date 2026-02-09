@@ -80,7 +80,8 @@ What Is in Accordance with the Dhamma, disparagement, causing bewilderment, stri
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc82-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC82]] |
->|       |          | [[ñanatusita-analysis#^PC82]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC82]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC82]]

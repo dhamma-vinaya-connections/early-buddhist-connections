@@ -24,3 +24,5 @@ Jiṇṇañ ca disvā dukkhitañ ca byādhitaṃ matañ ca disvā gatam āyusa�
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag72-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG72]]
+> ◄  [[thag71-pali-pts]] 📜  [[thag73-pali-pts]] ►

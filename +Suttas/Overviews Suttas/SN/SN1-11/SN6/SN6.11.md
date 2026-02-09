@@ -95,4 +95,5 @@ Freed from fear, liberated in the fearless
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.11
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.11.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.10]]  🌐 [[SN6.12]] ►

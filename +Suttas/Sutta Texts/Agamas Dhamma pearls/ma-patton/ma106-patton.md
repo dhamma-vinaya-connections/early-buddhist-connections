@@ -55,7 +55,7 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN1]] | [[EA44.6]] |  |
+> |  | [[EA44.6]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN9.12]], [[JA547]] |
@@ -64,6 +64,7 @@ language: "English"
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.58]], [[AN4.174]], [[SN35.30]], [[SN35:248]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA106]]
 > ◄  [[ma101-patton]] 📜  [[ma109-patton]] ►

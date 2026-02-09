@@ -120,5 +120,6 @@ rena ca te dasāti.
 | [[SA-2.93]], [[SA1179]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
 > ◄  [[sn7.9-pali-sc]] 📜  [[sn7.11-pali-sc]] ►

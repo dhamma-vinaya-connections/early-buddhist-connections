@@ -44,6 +44,6 @@ Shining with pure light, [They are] liberated from every kind of existence. They
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN8.7]] | [[EA32.5]], [[SA1212]], [[SA2.228]] |  |
+> |  | [[EA32.5]], [[SA1212]], [[SA2.228]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA121]]
 > ◄  [[ma120-bdk]] 📜  [[ma122-bdk]] ►

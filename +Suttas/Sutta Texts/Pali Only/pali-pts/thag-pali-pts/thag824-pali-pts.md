@@ -23,3 +23,5 @@ sambuddho paṭijānāsi iti Selo brāhmaṇo dhammarājā anuttaro,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag824-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG824]]
+> ◄  [[thag823-pali-pts]] 📜  [[thag825-pali-pts]] ►

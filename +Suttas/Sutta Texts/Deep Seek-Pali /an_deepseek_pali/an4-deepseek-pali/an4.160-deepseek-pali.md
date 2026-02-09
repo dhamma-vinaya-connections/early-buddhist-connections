@@ -90,5 +90,6 @@ Faculties, faith, wisdom, mindfulness, and exertion as the fifth; An eon, diseas
 | [[AN5.156]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.160]]
 > ◄  [[an4.159-deepseek-pali]] 📜  [[an4.161-deepseek-pali]] ►

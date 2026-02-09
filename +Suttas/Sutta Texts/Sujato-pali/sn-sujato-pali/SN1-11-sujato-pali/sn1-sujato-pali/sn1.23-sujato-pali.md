@@ -76,5 +76,6 @@ etthesā chijjate jaṭā"ti.
 | [[SN7.6]], [[JA497]], [[SN11.19]], [[SA-2.173]], [[SA599]], [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.23]]
 > ◄  [[sn1.22-sujato-pali]] 📜  [[sn1.24-sujato-pali]] ►

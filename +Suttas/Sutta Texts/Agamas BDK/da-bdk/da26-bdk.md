@@ -458,11 +458,12 @@ of the Three Vedas]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN13]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG6.5]], [[JA475]], [[JA516]] |
+| [[THAG6]].5, [[JA475]], [[JA516]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA26]]
 > ◄  [[da25-bdk]] 📜  [[da27-bdk]] ►

@@ -86,4 +86,5 @@ parallels_partilal: "[[JA424]], [[JA450]], [[SN1.32]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.33
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.33.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.32]]  🌐 [[SN1.34]] ►

@@ -23,3 +23,5 @@ purimāni pamuñca bandhanāni saṃghāṭīkhuramuṇḍabhikkhabhojī,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag413-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG413]]
+> ◄  [[thag412-pali-pts]] 📜  [[thag414-pali-pts]] ►

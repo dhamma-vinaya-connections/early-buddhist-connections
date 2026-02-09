@@ -32,7 +32,7 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.3]], [[AN10.4]], [[AN11.3]], [[AN11.4]], [[AN5.168]], [[AN5.21]], [[AN5.22]], [[AN6.50]], [[AN7.65]], [[AN8.81]] | [[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]] | A iii 19 |
+> |  | [[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]] | A iii 19 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[MA45]], [[AN7.65]], [[AN6.50]], [[MA48]], [[AN11.4]], [[AN5.21]], [[MA49]], [[AN5.22]], [[MA50]], [[AN5.168]], [[MA46]], [[SA495]], [[AN10.4]] |
@@ -41,6 +41,7 @@ language: "English"
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.21]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.24]]
 > ◄  [[an5.23-bodhi]] 📜  [[an5.25-bodhi]] ►

@@ -51,3 +51,5 @@ Then Māra the Evil One … disappeared right there.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.19-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.19]]
+> ◄  [[sn4.18-bodhi]] 📜  [[sn4.20-bodhi]] ►

@@ -46,11 +46,12 @@ Summary Verse
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.92]], [[SN18.22]] | [[SA24]] |  |
+> |  | [[SA24]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN22.92]], [[SA24]], [[SN18.22]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA24]]
 > ◄  [[sa23-patton]] 📜  [[sa25-patton]] ►

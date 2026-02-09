@@ -40,11 +40,12 @@ Some have gone to Magadha, some to Kosala, and a few to the land of the Vajjis. 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA403]] | [[SA-2.351]], [[SA1331]] |  |
+> |  | [[SA-2.351]], [[SA1331]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA403]], [[SA-2.351]], [[SA1331]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.4]]
 > ◄  [[sn9.3-deepseek-pali]] 📜  [[sn9.5-deepseek-pali]] ►

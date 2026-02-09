@@ -87,4 +87,5 @@ So you should train like this: ‘we will grow in wisdom
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.76
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.76.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.75]]  🌐 [[AN1.77]] ►

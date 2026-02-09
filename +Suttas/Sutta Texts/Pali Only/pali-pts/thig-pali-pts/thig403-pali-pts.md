@@ -23,3 +23,5 @@ evam anuyuñjamānā sā rahite dhammadesanākusalā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig403-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG403]]
+> ◄  [[thig402-pali-pts]] 📜  [[thig404-pali-pts]] ►

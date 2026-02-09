@@ -134,5 +134,6 @@ Tatiyaṁ.
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.57]]
 > ◄  [[an6.56-sujato-pali]] 📜  [[an6.58-sujato-pali]] ►

@@ -24,3 +24,5 @@ sukhaṃ tvaṃ vuḍḍhike sehi katvā coḷena pārutā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig15-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG15]]
+> ◄  [[thig14-pali-pts]] 📜  [[thig16-pali-pts]] ►

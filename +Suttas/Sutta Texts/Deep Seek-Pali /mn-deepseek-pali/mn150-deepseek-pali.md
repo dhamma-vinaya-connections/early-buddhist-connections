@@ -118,5 +118,6 @@ The Middle Length Discourses are completed.
 | [[SA280]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
 > ◄  [[mn149-deepseek-pali]] 📜  [[]] ►

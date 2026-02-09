@@ -63,7 +63,7 @@ namassamāno Sambuddhaṃ dhammassa ca sudhammatan" ti || Sn_I,10.12 ||
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN10.12]] | [[SA-2.325]], [[SA1326]], [[SA603]] |  |
+> |  | [[SA-2.325]], [[SA1326]], [[SA603]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN10.12]], [[SA-2.325]], [[SA1326]], [[SA603]] |
@@ -72,6 +72,7 @@ namassamāno Sambuddhaṃ dhammassa ca sudhammatan" ti || Sn_I,10.12 ||
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN35]], [[SN2.5]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.10]]
 > ◄  [[snp1.9-pali-pts]] 📜  [[snp1.11-pali-pts]] ►

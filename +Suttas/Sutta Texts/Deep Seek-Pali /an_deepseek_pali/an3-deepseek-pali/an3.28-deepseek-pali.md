@@ -42,5 +42,6 @@ And what, bhikkhus, is the honey-speaker? Here, bhikkhus, a certain person, havi
 | [[MN114]], [[MN41]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.28]]
 > ◄  [[an3.27-deepseek-pali]] 📜  [[an3.29-deepseek-pali]] ►

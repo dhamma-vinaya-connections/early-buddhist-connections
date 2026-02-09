@@ -90,4 +90,5 @@ As suffering and not-self,
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.16
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.16.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.15]]  🌐 [[AN4.17]] ►

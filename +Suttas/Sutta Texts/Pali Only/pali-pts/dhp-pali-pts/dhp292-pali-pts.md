@@ -25,3 +25,5 @@ akiccan te na sevanti kicce sātaccakārino, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp292-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP292]]
+> ◄  [[dhp291-pali-pts]] 📜  [[dhp293-pali-pts]] ►

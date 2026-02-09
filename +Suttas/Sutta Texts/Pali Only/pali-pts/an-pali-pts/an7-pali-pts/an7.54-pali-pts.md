@@ -43,5 +43,6 @@ Tass'; uddānaṃ:
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN63]], [[MN72]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.54]]
 > ◄  [[an7.53-pali-pts]] 📜  [[an7.55-pali-pts]] ►

@@ -23,3 +23,5 @@ sa ve accantarucī nāgo Himavāvaññe siluccaye,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag691-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG691]]
+> ◄  [[thag689-pali-pts]] 📜  [[thag692-pali-pts]] ►

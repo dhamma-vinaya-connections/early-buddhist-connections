@@ -249,5 +249,10 @@ vv. 878–894
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.12-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SNP8.4]], [[SNP8.13]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.12]]
 > ◄  [[snp4.11-thanissaro]] 📜  [[snp4.13-thanissaro]] ►

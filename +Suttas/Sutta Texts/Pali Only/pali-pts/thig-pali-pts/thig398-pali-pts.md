@@ -23,3 +23,5 @@ muttā ca tato sā bhikkhunī agami buddhavarassa santikaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig398-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG398]]
+> ◄  [[thig397-pali-pts]] 📜  [[thig399-pali-pts]] ►

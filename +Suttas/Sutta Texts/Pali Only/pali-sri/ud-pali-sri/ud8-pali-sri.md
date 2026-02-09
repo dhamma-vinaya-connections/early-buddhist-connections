@@ -397,3 +397,5 @@ Uttīrṇā medhāvino janā— (Divyāvadāna 3. 1).
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8]]
+> ◄  [[ud7-pali-sri]] 📜  [[]] ►

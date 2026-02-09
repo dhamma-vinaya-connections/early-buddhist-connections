@@ -23,3 +23,5 @@ cattāro pañca ālope abhutvā udakaṃ pive,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag982-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG982]]
+> ◄  [[thag981-pali-pts]] 📜  [[thag983-pali-pts]] ►

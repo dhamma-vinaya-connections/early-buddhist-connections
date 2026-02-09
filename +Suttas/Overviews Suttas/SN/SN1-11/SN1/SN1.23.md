@@ -90,4 +90,5 @@ From where the bad things come
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.23
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.23.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.22]]  🌐 [[SN1.24]] ►

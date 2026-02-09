@@ -150,5 +150,6 @@ Then the Venerable Ānanda approached the Blessed One, paid homage to him, and s
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN143]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.51]]
 > ◄  [[an8.50-deepseek-pali]] 📜  [[an8.52-deepseek-pali]] ►

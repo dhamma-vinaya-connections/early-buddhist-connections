@@ -24,3 +24,5 @@ etaṃ ñatvā yathābhūtaṃ nibbānaṃ paramaṃ sukhaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp203-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP203]]
+> ◄  [[dhp202-pali-pts]] 📜  [[dhp204-pali-pts]] ►

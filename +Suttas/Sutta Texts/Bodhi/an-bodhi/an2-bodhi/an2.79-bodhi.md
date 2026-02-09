@@ -23,3 +23,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.79-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.79]]
+> ◄  [[an2.78-bodhi]] 📜  [[an2.80-bodhi]] ►

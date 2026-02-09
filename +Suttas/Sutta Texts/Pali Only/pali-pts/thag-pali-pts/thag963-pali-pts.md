@@ -23,3 +23,5 @@ ye ye alābhino lābhaṃ, na te pujjā bhavissare,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag963-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG963]]
+> ◄  [[thag962-pali-pts]] 📜  [[thag964-pali-pts]] ►

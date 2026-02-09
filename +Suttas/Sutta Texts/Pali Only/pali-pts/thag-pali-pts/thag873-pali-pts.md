@@ -23,3 +23,5 @@ disā hi me dhammakathaṃ suṇantu, disā hi me yuñjantu buddhasāsane,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag873-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG873]]
+> ◄  [[thag872-pali-pts]] 📜  [[thag874-pali-pts]] ►

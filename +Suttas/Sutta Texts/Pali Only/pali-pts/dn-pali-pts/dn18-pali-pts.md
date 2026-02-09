@@ -158,8 +158,9 @@ Niṭṭhitaṃ.
 > |  | [[DA4]] | D ii 200 |
 > > [!check]- Partial parallels 
 > > 
-| [[DA4]], [[THAG16.9]] |
+| [[DA4]], [[THAG16]].9 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
 > ◄  [[dn17-pali-pts]] 📜  [[dn19-pali-pts]] ►

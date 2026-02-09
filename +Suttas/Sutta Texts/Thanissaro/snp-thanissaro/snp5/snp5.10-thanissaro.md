@@ -65,3 +65,5 @@ vv. 1092–1095
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.10]]
+> ◄  [[snp5.9-thanissaro]] 📜  [[snp5.11-thanissaro]] ►

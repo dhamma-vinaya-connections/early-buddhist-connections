@@ -23,3 +23,5 @@ tattha viññātasaddhammo pabbajjaṃ samarocayi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig321-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG321]]
+> ◄  [[thig320-pali-pts]] 📜  [[thig322-pali-pts]] ►

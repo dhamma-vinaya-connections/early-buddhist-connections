@@ -73,5 +73,6 @@ tiṇṇaṁ loke visattikan"ti.
 | [[SN1.1]], [[SA-2.169]], [[SA585]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.18]]
 > ◄  [[sn2.17-pali-sc]] 📜  [[sn2.19-pali-sc]] ►

@@ -154,5 +154,6 @@ sabbadukkhā pamuccatī"ti.
 | [[SA-2.285]], [[SA1287]], [[SN2.21]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
 > ◄  [[sn1.30-sujato-pali]] 📜  [[sn1.32-sujato-pali]] ►

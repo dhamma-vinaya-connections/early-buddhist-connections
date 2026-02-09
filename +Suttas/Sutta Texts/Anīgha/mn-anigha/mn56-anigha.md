@@ -303,8 +303,9 @@ Unable to bear this honor paid to the Auspicious One, the Jain Nāṭaputta spew
 > |  | [[MA133]] | M i 371 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA133]]; [[AN4.193]] |
+| [[MA133]], [[AN4.193]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-anigha]] 📜  [[mn57-anigha]] ►

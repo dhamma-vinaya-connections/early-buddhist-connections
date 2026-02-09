@@ -23,3 +23,5 @@ esa brāhmaṇa sambuddho nagaraṃ Mithilaṃ pati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig316-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG316]]
+> ◄  [[thig315-pali-pts]] 📜  [[thig317-pali-pts]] ►

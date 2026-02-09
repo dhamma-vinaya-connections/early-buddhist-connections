@@ -66,5 +66,6 @@ Sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN130]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.37]]
 > ◄  [[an3.36-pali-sc]] 📜  [[an3.38-pali-sc]] ►

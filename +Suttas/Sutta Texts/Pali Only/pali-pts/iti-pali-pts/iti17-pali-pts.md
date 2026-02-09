@@ -28,3 +28,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||7||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti17-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI17]]
+> ◄  [[iti16-pali-pts]] 📜  [[iti18-pali-pts]] ►

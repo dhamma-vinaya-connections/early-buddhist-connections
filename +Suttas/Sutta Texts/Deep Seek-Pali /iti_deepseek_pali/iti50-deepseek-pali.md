@@ -42,7 +42,8 @@ This meaning too was spoken by the Blessed One, so I have heard. Second.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN9]], [[DHP164]]
+> - [[MN9]], [[DHP\|DHP164]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI50]]
 > ◄  [[iti49-deepseek-pali]] 📜  [[iti51-deepseek-pali]] ►

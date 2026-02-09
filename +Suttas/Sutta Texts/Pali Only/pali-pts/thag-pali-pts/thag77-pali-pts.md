@@ -24,3 +24,5 @@ Anekajātisaṃsāraṃ sandhāvissaṃ anibbisaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag77-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG77]]
+> ◄  [[thag76-pali-pts]] 📜  [[thag78-pali-pts]] ►

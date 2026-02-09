@@ -23,3 +23,5 @@ ropetvā rukkhāni yathā phalesī mūle taruṃ chettu tam eva icchasi,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1120-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1120]]
+> ◄  [[thag1119-pali-pts]] 📜  [[thag1121-pali-pts]] ►

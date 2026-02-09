@@ -24,3 +24,5 @@ yo mukhasaññato bhikkhu mantabhāṇī anuddhato /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp362-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP362]]
+> ◄  [[dhp361-pali-pts]] 📜  [[dhp363-pali-pts]] ►

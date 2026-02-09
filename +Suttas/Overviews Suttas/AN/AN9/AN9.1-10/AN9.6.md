@@ -34,7 +34,7 @@ sutta_teacher:
   - "Sariputta"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[MN114]], [[MN17]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA45.3]], [[MA107]], [[MA107-108]]"
 parallels_partilal: "[[EA45.3]], [[MA107]], [[MN114]], [[MN17]], [[MA107-108]], [[MA109]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[EA45.3]], [[MA107]], [[MN114]], [[MN17]], [[MA107-108]], 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN114]], [[MN17]] | [[EA45.3]], [[MA107]], [[MA107-108]] | A iv 365 |
+> |  | [[EA45.3]], [[MA107]], [[MA107-108]] | A iv 365 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA45.3]], [[MA107]], [[MN114]], [[MN17]], [[MA107-108]], [[MA109]] |
@@ -88,5 +88,6 @@ parallels_partilal: "[[EA45.3]], [[MA107]], [[MN114]], [[MN17]], [[MA107-108]], 
 > - Sutta Central: https://suttacentral.net/an9.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.6
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.5]]  🌐 [[AN9.7]] ►

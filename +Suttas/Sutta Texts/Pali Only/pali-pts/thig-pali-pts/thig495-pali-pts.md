@@ -23,3 +23,5 @@ assu thaññaṃ rudhiraṃ saṃsāraṃ anamataggato saratha |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig495-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG495]]
+> ◄  [[thig494-pali-pts]] 📜  [[thig496-pali-pts]] ►

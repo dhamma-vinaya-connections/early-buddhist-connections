@@ -24,3 +24,5 @@ sabbadānaṃ dhammadānaṃ jināti, sabbaṃ rasaṃ dhammaraso jināti, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp353-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP353]]
+> ◄  [[dhp352-pali-pts]] 📜  [[dhp354-pali-pts]] ►

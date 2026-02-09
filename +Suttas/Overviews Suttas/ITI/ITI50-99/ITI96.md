@@ -72,7 +72,7 @@ those who delight in creation,
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN55.54]], [[DHP186]], [[DHP187]], [[AN2:36]], [[AN4.10]]
+> - [[SN55.54]], [[DHP\|DHP186]], [[DHP\|DHP187]], [[AN2:36]], [[AN4.10]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -90,5 +90,6 @@ those who delight in creation,
 > - Sutta Central: https://suttacentral.net/iti96/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti96
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti96.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI95]]  🌐 [[ITI97]] ►

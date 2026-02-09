@@ -45,5 +45,6 @@ addasā kho Sakko devānam indo āyasmantaṃ Mahākassapaṃ dūrato 'va āgacc
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[THAG17:2]], [[MN119]], [[SN47:20]], [[SN21:4]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.5]]
 > ◄  [[ud3.3-pali-pts]] 📜  [[ud3.7-pali-pts]] ►

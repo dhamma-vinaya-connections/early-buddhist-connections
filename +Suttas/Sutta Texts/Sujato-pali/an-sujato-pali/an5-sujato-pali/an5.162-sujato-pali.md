@@ -104,5 +104,6 @@ Dutiyaṁ.
 | [[MA25]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
 > ◄  [[an5.161-sujato-pali]] 📜  [[an5.163-sujato-pali]] ►

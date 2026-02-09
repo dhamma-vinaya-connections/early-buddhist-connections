@@ -564,3 +564,5 @@ paṇḍitehi sahāvase"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG3]]
+> ◄  [[thag2-sujato-pali]] 📜  [[thag4-sujato-pali]] ►

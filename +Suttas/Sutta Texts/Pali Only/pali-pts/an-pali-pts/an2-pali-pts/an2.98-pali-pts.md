@@ -36,5 +36,6 @@ Dhamma-vaggo navamo.1
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.21.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.98]]
 > ◄  [[an2.87-pali-pts]] 📜  [[an2.99-pali-pts]] ►

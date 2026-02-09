@@ -23,3 +23,5 @@ yathā jaḷo ca mūgo ca attānaṃ dassaye tathā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag581-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG581]]
+> ◄  [[thag580-pali-pts]] 📜  [[thag582-pali-pts]] ►

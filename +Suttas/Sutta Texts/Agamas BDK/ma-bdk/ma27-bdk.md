@@ -60,10 +60,11 @@ The monk Sāriputta is endowed with bright wisdom, quick wisdom, lively wisdom, 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN97]] |  | M iii 99 |
+> |  |  | M iii 99 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.15]], [[AN4.178]], [[MA152]], [[MN143]], [[MN99]], [[SN3.17]], [[SN41.10]], [[SN41.7]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA27]]
 > ◄  [[ma26-bdk]] 📜  [[ma28-bdk]] ►

@@ -92,4 +92,5 @@ like the spoon learns not the taste of curry.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp14
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp14.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP13]]  🌐 [[PDHP15]] ►

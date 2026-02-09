@@ -41,3 +41,5 @@ This matter, too, was spoken by the Blessed One, so I have heard. Seventh.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti75-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI75]]
+> ◄  [[iti74-deepseek-pali]] 📜  [[iti76-deepseek-pali]] ►

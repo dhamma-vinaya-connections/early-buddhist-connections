@@ -35,3 +35,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Paṭhamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti98-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI98]]
+> ◄  [[iti97-pali-sc]] 📜  [[iti99-pali-sc]] ►

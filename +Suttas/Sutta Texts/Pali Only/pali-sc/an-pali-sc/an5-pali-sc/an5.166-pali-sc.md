@@ -106,5 +106,6 @@ Chaṭṭhaṁ.
 | [[MA22]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.166]]
 > ◄  [[an5.165-pali-sc]] 📜  [[an5.167-pali-sc]] ►

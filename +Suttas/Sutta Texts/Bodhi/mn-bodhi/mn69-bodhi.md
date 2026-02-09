@@ -72,5 +72,6 @@ Gulissāni
 | [[MA26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn68-bodhi]] 📜  [[mn70-bodhi]] ►

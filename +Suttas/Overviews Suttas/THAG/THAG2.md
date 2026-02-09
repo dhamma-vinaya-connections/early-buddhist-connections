@@ -99,4 +99,5 @@ And one must always be guarded.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag2
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG1]]  🌐 [[THAG3]] ►

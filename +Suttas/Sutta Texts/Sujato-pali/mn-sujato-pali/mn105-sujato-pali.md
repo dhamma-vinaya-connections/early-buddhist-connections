@@ -227,5 +227,6 @@ Sunakkhattasuttaṁ niṭṭhitaṁ pañcamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN112]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
 > ◄  [[mn104-sujato-pali]] 📜  [[mn106-sujato-pali]] ►

@@ -111,8 +111,9 @@ Evameva kho, āvuso moggallāna, bhikkhu cittaṁ vasaṁ vatteti, no ca bhikkhu
 > |  | [[EA37.3]]; [[MA184]] | M i 212 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA37.3]]; [[MA184]] |
+| [[EA37.3]], [[MA184]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
 > ◄  [[mn31-pali-sc]] 📜  [[mn33-pali-sc]] ►

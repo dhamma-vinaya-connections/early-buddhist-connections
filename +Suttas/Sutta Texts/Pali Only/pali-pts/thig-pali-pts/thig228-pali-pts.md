@@ -23,3 +23,5 @@ iddhiyā abhinimmitvā caturassaṃ rathaṃ ahaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig228-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG228]]
+> ◄  [[thig227-pali-pts]] 📜  [[thig229-pali-pts]] ►

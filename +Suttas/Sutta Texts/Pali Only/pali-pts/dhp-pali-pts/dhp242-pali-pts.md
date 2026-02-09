@@ -24,3 +24,5 @@ tato malā malataraṃ avijjā paramaṃ malaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp242-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP242]]
+> ◄  [[dhp241-pali-pts]] 📜  [[dhp243-pali-pts]] ►

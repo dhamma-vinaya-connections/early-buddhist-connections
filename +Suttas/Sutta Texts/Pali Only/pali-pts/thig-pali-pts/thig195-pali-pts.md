@@ -25,3 +25,5 @@ bhikkhunī sīlasampannā indriyesu susaṃvutā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig195-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG195]]
+> ◄  [[thig194-pali-pts]] 📜  [[thig196-pali-pts]] ►

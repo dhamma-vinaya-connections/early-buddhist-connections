@@ -76,7 +76,8 @@ The Second Training Rule on Sharing a Sleeping Place is finished.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc6-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC6]] |
->|       |          | [[ñanatusita-analysis#^PC6]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC6]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC6]]

@@ -23,3 +23,5 @@ mahāraso sugambhīro jarāmaccunivāraṇo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag420-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG420]]
+> ◄  [[thag419-pali-pts]] 📜  [[thag421-pali-pts]] ►

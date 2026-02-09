@@ -23,3 +23,5 @@ yassa c'; atthāya pabbajito agārasmā anagāriyaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag604-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG604]]
+> ◄  [[thag603-pali-pts]] 📜  [[thag605-pali-pts]] ►

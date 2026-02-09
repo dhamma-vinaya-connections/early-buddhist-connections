@@ -111,7 +111,8 @@ Bīje abījasaññī chindati vā chedāpeti vā, bhindati vā bhedāpeti vā, p
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc107-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC107]] |
->|       |          | [[ñanatusita-analysis#^-PC107]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC107]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC107]]

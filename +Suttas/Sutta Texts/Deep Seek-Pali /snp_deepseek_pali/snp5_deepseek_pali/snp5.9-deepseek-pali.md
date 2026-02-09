@@ -55,3 +55,5 @@ The The Questions of the Young Man Hemaka, the nth is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.9]]
+> ◄  [[snp5.8-deepseek-pali]] 📜  [[snp5.10-deepseek-pali]] ►

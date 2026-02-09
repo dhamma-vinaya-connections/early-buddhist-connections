@@ -68,15 +68,16 @@ The Brahmins of Sālā
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN2.6]]; [[MN42]] | [[SA1042]]; [[SA1043]] | M i 285 |
+> |  | [[SA1042]]; [[SA1043]] | M i 285 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN2.6]]; [[MN42]]; [[SA1042]]; [[SA1043]]; [[AN10.176]]; [[MN41]]; [[AN3.28]]; [[MN114]] |
+| [[AN2.6]], [[MN42]], [[SA1042]], [[SA1043]], [[AN10.176]], [[MN41]], [[AN3.28]], [[MN114]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN9]]; [[MN135]]; [[AN3.71]]; [[AN4.123-126]]; [[AN7.49]]; [[AN8.54]]; [[AN10.176.]]
+> - [[MN9]], [[MN135]], [[AN3.71]], [[AN4.123-126]], [[AN7.49]], [[AN8.54]], [[AN10.176.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN41]]
 > ◄  [[mn40-bodhi]] 📜  [[mn42-bodhi]] ►

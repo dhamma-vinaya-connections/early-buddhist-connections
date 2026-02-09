@@ -23,3 +23,5 @@ Tevijjo 'haṃ mahājhāyī cetosamathakovido;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag111-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG111]]
+> ◄  [[thag110-pali-pts]] 📜  [[thag112-pali-pts]] ►

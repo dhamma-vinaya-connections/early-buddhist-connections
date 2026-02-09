@@ -74,5 +74,6 @@ By realizing the benefit in this very life and the benefit in the life to come, 
 | [[ITI23]], [[SN3.17]], [[SN3.18]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.43]]
 > ◄  [[an5.42-deepseek-pali]] 📜  [[an5.44-deepseek-pali]] ►

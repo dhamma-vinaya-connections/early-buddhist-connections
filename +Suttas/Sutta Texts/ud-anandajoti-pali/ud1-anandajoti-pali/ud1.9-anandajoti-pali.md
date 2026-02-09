@@ -50,11 +50,12 @@ Navamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP393]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP393]] |
+| [[DHP\|DHP393]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.9]]
 > ◄  [[ud1.8-anandajoti-pali]] 📜  [[ud1.10-anandajoti-pali]] ►

@@ -23,3 +23,5 @@ yo taṃ tathā pajānāti yathā buddhena desitaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag713-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG713]]
+> ◄  [[thag712-pali-pts]] 📜  [[thag714-pali-pts]] ►

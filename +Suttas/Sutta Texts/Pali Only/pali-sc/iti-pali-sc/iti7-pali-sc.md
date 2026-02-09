@@ -36,5 +36,6 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
 | [[SN35.26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI7]]
 > ◄  [[iti6-pali-sc]] 📜  [[iti8-pali-sc]] ►

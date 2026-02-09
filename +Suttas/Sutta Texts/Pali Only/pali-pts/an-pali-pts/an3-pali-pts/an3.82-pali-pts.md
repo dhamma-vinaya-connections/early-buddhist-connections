@@ -35,5 +35,6 @@ Adhisīla-sikkhā-samādānaṃ, adhicitta-sikkhā-samādānaṃ, adhipaññā-s
 | [[EA16.4]], [[SA828]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.82]]
 > ◄  [[an3.81-pali-pts]] 📜  [[an3.83-pali-pts]] ►

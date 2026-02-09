@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN10.21]], [[MN12]], [[SN12.21-22]], [[SN52.15-24]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA27.6]], [[EA31.8]], [[EA46.4]], [[EA50.6]], [[SA612]], [[SA684]], [[SA701]]"
 parallels_partilal: "[[EA27.6]], [[MN12]], [[AN10.21]], [[EA46.4]], [[SA684]], [[SA701]], [[EA31.8]], [[EA50.6]], [[SA612]], [[SN12.21-22]], [[SN52.15-24]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[EA27.6]], [[MN12]], [[AN10.21]], [[EA46.4]], [[SA684]], [
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.21]], [[MN12]], [[SN12.21-22]], [[SN52.15-24]] | [[EA27.6]], [[EA31.8]], [[EA46.4]], [[EA50.6]], [[SA612]], [[SA684]], [[SA701]] | A ii 8 |
+> |  | [[EA27.6]], [[EA31.8]], [[EA46.4]], [[EA50.6]], [[SA612]], [[SA684]], [[SA701]] | A ii 8 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA27.6]], [[MN12]], [[AN10.21]], [[EA46.4]], [[SA684]], [[SA701]], [[EA31.8]], [[EA50.6]], [[SA612]], [[SN12.21-22]], [[SN52.15-24]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[EA27.6]], [[MN12]], [[AN10.21]], [[EA46.4]], [[SA684]], [
 > - Sutta Central: https://suttacentral.net/an4.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.8
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.8.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.7]]  🌐 [[AN4.9]] ►

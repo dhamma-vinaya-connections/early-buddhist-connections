@@ -48,5 +48,6 @@ language: "English"
 | [[DN8]], [[DN25]], [[MN12]], [[MN45]], [[MN51]], [[MN60]], [[AN4.198]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.156]]
 > ◄  [[an3.155-bodhi]] 📜  [[an3.157-bodhi]] ►

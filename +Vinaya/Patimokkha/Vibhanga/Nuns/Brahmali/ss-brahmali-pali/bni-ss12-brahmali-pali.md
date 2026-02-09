@@ -195,7 +195,8 @@ Tā bhikkhuniyo samanubhāsitabbā. Evañca pana, bhikkhave, samanubhāsitabbā.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-ss12-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SS12]] |
->|       |          | [[ñanatusita-analysis#^-SS12]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SS12]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS12]]

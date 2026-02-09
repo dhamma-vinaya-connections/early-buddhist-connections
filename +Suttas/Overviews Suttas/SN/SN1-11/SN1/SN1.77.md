@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[SN1.79]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.290]], [[SA1292]]"
 parallels_partilal: "[[SA-2.290]], [[SN1.79]], [[SA1292]]"
 ---
@@ -68,7 +68,7 @@ The most excellent of speakers is the Buddha .
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.79]] | [[SA-2.290]], [[SA1292]] |  |
+> |  | [[SA-2.290]], [[SA1292]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.290]], [[SN1.79]], [[SA1292]] |
@@ -91,5 +91,6 @@ The most excellent of speakers is the Buddha .
 > - Sutta Central: https://suttacentral.net/sn1.77/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.77
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.77.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.76]]  🌐 [[SN1.78]] ►

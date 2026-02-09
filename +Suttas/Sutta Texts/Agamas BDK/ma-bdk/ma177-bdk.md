@@ -41,5 +41,10 @@ consciousness, [aware] that “there is nothing,” having attained the sphere o
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma177-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MA176]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA177]]
 > ◄  [[ma176-bdk]] 📜  [[ma178-bdk]] ►

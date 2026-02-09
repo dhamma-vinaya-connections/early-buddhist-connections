@@ -79,11 +79,12 @@ Catutthaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.8]], [[AN8.71]] |  | A iv 358 |
+> |  |  | A iv 358 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.71]], [[AN10.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.4]]
 > ◄  [[an9.3-pali-sc]] 📜  [[an9.5-pali-sc]] ►

@@ -49,3 +49,5 @@ The Chapter on Higher Ordination, the Sixth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.257-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.257]]
+> ◄  [[an5.256-deepseek-pali]] 📜  [[an5.258-deepseek-pali]] ►

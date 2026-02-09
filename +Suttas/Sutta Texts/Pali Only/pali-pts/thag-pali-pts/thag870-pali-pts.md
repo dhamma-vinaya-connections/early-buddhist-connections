@@ -23,3 +23,5 @@ yo pubbe pamajjitvāna pacchā so na ppamajjati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag870-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG870]]
+> ◄  [[thag869-pali-pts]] 📜  [[thag871-pali-pts]] ►

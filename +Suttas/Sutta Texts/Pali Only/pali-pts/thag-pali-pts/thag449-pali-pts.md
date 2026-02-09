@@ -23,3 +23,5 @@ haññati niccam attāṇo pattadaṇḍo va takkaro.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag449-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG449]]
+> ◄  [[thag448-pali-pts]] 📜  [[thag450-pali-pts]] ►

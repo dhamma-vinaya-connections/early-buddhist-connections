@@ -90,5 +90,6 @@ Giñjakasāla Grove, to wander about; the wise one again refuted Saccaka; Mukhav
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN15]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN40]]
 > ◄  [[mn39-deepseek-pali]] 📜  [[mn41-deepseek-pali]] ►

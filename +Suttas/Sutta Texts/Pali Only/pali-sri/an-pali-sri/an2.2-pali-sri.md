@@ -642,3 +642,5 @@ Sokhummaṃ tayo agati bhattuddesena te dasāti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.2]]
+> ◄  [[an2.1-pali-sri]] 📜  [[an2.3-pali-sri]] ►

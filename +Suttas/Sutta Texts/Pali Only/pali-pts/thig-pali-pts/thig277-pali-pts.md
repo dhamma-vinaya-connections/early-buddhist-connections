@@ -23,3 +23,5 @@ vimalā saṃkhamuttā 'va suddhā santarabāhirā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig277-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG277]]
+> ◄  [[thig276-pali-pts]] 📜  [[thig278-pali-pts]] ►

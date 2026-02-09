@@ -44,5 +44,6 @@ Dve ca bhikkhū tapanīyā, tapanīyā paratthehi;Ātāpī [dve pādā (ka.), dv
 | [[AN4.25]], [[ITI35]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI36]]
 > ◄  [[iti35-pali-sc]] 📜  [[iti37-pali-sc]] ►

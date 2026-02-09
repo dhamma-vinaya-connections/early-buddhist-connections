@@ -122,5 +122,6 @@ The Naḷakapāna Sutta, the eighth, is finished.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN2]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN68]]
 > ◄  [[mn67-deepseek-pali]] 📜  [[mn69-deepseek-pali]] ►

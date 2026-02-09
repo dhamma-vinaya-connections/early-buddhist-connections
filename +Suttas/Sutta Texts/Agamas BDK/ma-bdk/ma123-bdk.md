@@ -40,11 +40,12 @@ looking down on others, he told of the benefits here and now, according to his e
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.55]] | [[EA23.3]], [[SA254]] |  |
+> |  | [[EA23.3]], [[SA254]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.117]], [[AN10.118]], [[AN10.169]], [[AN10.170]], [[SN45.34]], [[SN46.17]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA123]]
 > ◄  [[ma122-bdk]] 📜  [[ma124-bdk]] ►

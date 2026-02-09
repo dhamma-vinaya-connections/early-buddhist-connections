@@ -41,5 +41,6 @@ Pañcamaṁ.
 | [[MN70]], [[SN12.22]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.5]]
 > ◄  [[an2.4-pali-sc]] 📜  [[an2.6-pali-sc]] ►

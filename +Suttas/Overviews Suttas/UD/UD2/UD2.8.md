@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[JA100]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[JA100]]"
 ---
@@ -71,7 +71,7 @@ Overcome the heedless one.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA100]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA100]] |
@@ -97,5 +97,6 @@ Overcome the heedless one.”
 > - Sutta Central: https://suttacentral.net/ud2.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.8
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.8.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.7]]  🌐 [[UD2.9]] ►

@@ -165,5 +165,6 @@ Mahādhammasamādānasutta1 chaṭṭhaṃ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN45]], [[AN4.192]], [[MN25]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN46]]
 > ◄  [[mn45-pali-sri]] 📜  [[mn47-pali-sri]] ►

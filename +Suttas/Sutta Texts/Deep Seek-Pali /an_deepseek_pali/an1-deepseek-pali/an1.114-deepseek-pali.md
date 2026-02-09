@@ -39,3 +39,5 @@ The Thirteenth Chapter: The Single Person
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.114-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.114]]
+> ◄  [[an1.113-deepseek-pali]] 📜  [[an1.115-deepseek-pali]] ►

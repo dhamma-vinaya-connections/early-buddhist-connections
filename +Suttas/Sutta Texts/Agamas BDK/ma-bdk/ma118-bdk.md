@@ -31,9 +31,5 @@ Is born in water and grows up nourished by water, [Yet] the muddy water cannot b
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma118-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN6.43]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA118]]
 > ◄  [[ma117-bdk]] 📜  [[ma119-bdk]] ►

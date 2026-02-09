@@ -297,3 +297,5 @@ Kāḷīgodhāya bhaddiyoti
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2]]
+> ◄  [[ud1-pali-sri]] 📜  [[ud3-pali-sri]] ►

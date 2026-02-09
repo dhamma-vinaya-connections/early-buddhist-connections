@@ -24,3 +24,5 @@ na tena thero hoti yen'; assa phalitaṃ siro, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp259-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP259]]
+> ◄  [[dhp258-pali-pts]] 📜  [[dhp260-pali-pts]] ►

@@ -24,3 +24,5 @@ upehi buddhaṃ saraṇaṃ dhammaṃ saṅghañ ca tādinaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig287-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG287]]
+> ◄  [[thig286-pali-pts]] 📜  [[thig288-pali-pts]] ►

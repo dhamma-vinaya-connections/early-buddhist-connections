@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN4.34]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA21.1]], [[SA902-904]]"
 parallels_partilal: "[[AN4.34]], [[EA21.1]], [[AN5.32]], [[SA902-904]], [[SN45.139]]"
 ---
@@ -63,7 +63,7 @@ realizing the supreme Dhamma to be supreme;
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.34]] | [[EA21.1]], [[SA902-904]] |  |
+> |  | [[EA21.1]], [[SA902-904]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.34]], [[EA21.1]], [[AN5.32]], [[SA902-904]], [[SN45.139]] |
@@ -71,7 +71,7 @@ realizing the supreme Dhamma to be supreme;
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN4.52]], [[AN7.56]], [[AN10.92]], [[DHP188]], [[DHP189]], [[DHP190]], [[DHP191]], [[DHP192]], [[ITI112]]
+> - [[AN4.52]], [[AN7.56]], [[AN10.92]], [[DHP\|DHP188]], [[DHP\|DHP189]], [[DHP\|DHP190]], [[DHP\|DHP191]], [[DHP\|DHP192]], [[ITI112]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -89,5 +89,6 @@ realizing the supreme Dhamma to be supreme;
 > - Sutta Central: https://suttacentral.net/iti90/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti90
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti90.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI89]]  🌐 [[ITI91]] ►

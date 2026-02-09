@@ -78,6 +78,6 @@ the Dharma are entirely as spoken by me. Sāriputta, listen as I declare what ki
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN32]] | [[EA37.3]] |  |
+> |  | [[EA37.3]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA184]]
 > ◄  [[ma183-bdk]] 📜  [[ma185-bdk]] ►

@@ -23,3 +23,5 @@ chaḍḍūna naṃ susāne parabhattaṃ nhāyanti jigucchantā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig468-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG468]]
+> ◄  [[thig467-pali-pts]] 📜  [[thig469-pali-pts]] ►

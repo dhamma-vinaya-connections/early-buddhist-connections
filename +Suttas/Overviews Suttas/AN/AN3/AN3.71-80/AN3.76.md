@@ -89,4 +89,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.76
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.76.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.75]]  🌐 [[AN3.77]] ►

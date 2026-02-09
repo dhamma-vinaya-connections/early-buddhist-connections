@@ -23,3 +23,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.626-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.626]]
+> ◄  [[an1.625-bodhi]] 📜  [[an1.627-bodhi]] ►

@@ -23,3 +23,5 @@ ekapādena aṭṭhāsiṃ, āsanaṃ parivajjayiṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag283-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG283]]
+> ◄  [[thag282-pali-pts]] 📜  [[thag284-pali-pts]] ►

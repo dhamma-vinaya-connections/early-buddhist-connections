@@ -48,5 +48,6 @@ therefore you should follow one superior to yourself.
 | [[JA397]], [[AN3.27]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.26]]
 > ◄  [[an3.25-bodhi]] 📜  [[an3.27-bodhi]] ►

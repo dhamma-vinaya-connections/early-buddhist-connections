@@ -96,4 +96,5 @@ Therefore I can sleep in peace
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.13
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.13.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.12]]  🌐 [[SN4.14]] ►

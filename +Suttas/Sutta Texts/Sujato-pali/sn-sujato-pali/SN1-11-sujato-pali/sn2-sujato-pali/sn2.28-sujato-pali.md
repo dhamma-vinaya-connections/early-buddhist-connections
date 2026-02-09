@@ -56,11 +56,12 @@ evaṁ yātrā bhavissatī"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.29]] | [[SA-2.172]], [[SA588]] |  |
+> |  | [[SA-2.172]], [[SA588]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN1.29]], [[SA-2.172]], [[SA588]], [[PE5]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.28]]
 > ◄  [[sn2.27-sujato-pali]] 📜  [[sn2.29-sujato-pali]] ►

@@ -120,11 +120,12 @@ Do not give money To one who is violent and aggressive. The east is parents; The
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN31]], [[SN45.141-148]] | [[DA16]], [[MA141]], [[SA1239]], [[SA2.66]] |  |
+> |  | [[DA16]], [[MA141]], [[SA1239]], [[SA2.66]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SNP3.12]], [[PE2]], [[PE3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA135]]
 > ◄  [[ma134-bdk]] 📜  [[ma136-bdk]] ►

@@ -23,3 +23,5 @@ pallaṅkena nisinnassa jaṇṇuke nābhivassati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag984-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG984]]
+> ◄  [[thag983-pali-pts]] 📜  [[thag985-pali-pts]] ►

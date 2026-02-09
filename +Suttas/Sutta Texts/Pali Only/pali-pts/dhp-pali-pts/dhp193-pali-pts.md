@@ -24,3 +24,5 @@ sukho Buddhānaṃ uppādo sukhā saddhammadesanā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp193-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP193]]
+> ◄  [[dhp192-pali-pts]] 📜  [[dhp194-pali-pts]] ►

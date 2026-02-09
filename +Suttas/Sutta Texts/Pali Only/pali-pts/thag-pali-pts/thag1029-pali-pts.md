@@ -23,3 +23,5 @@ bahussutaṃ dhammadharaṃ sappaññaṃ buddhasāvakaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1029-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1029]]
+> ◄  [[thag1028-pali-pts]] 📜  [[thag1030-pali-pts]] ►

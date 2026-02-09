@@ -37,5 +37,6 @@ Taṃ kissa hetu? Tato nidānaṃ hi so bhikkhave maraṇaṃ vā nigaccheyya ma
 | [[EA33.10]], [[MA5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.72]]
 > ◄  [[an7.71-pali-pts]] 📜  [[an7.73-pali-pts]] ►

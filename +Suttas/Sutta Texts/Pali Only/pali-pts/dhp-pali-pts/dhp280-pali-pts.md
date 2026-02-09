@@ -24,3 +24,5 @@ vācānurakkhī manasā susaṃvuto kāyena ca akusalaṃ na kayirā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp280-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP280]]
+> ◄  [[dhp279-pali-pts]] 📜  [[dhp281-pali-pts]] ►

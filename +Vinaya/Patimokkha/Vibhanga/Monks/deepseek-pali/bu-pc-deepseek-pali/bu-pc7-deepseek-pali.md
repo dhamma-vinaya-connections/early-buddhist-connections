@@ -108,7 +108,8 @@ The seventh training rule on teaching the Dhamma is finished.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc7-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC7]] |
->|       |          | [[ñanatusita-analysis#^PC7]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC7]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC7]]

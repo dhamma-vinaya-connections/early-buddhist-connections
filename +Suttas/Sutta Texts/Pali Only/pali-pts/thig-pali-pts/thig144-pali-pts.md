@@ -24,3 +24,5 @@ alaṃkatā suvasanā mālinī candanokkhitā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig144-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG144]]
+> ◄  [[thig143-pali-pts]] 📜  [[thig145-pali-pts]] ►

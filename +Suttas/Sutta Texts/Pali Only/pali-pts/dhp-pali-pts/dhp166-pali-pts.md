@@ -26,3 +26,5 @@ hīnaṃ dhammaṃ na seveyya pamādena na saṃvase /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp166-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP166]]
+> ◄  [[dhp165-pali-pts]] 📜  [[dhp167-pali-pts]] ►

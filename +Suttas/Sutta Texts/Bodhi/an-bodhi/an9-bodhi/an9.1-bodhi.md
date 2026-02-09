@@ -68,5 +68,6 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī in
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.1]]
 > ◄  [[]] 📜  [[an9.2-bodhi]] ►

@@ -23,3 +23,5 @@ yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ sagandhakaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag323-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG323]]
+> ◄  [[thag322-pali-pts]] 📜  [[thag324-pali-pts]] ►

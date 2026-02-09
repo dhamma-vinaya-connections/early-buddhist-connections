@@ -23,3 +23,5 @@ yañ ca aññe na rakkhanti yo ca aññe na rakkhati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag599-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG599]]
+> ◄  [[thag598-pali-pts]] 📜  [[thag600-pali-pts]] ►

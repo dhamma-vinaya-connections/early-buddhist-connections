@@ -24,3 +24,5 @@ Jātarūpena pacchannā dāsīgaṇapurakkhatā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag298-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG298]]
+> ◄  [[thag297-pali-pts]] 📜  [[thag299-pali-pts]] ►

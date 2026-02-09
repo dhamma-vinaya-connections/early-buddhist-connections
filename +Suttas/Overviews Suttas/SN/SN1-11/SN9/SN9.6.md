@@ -92,4 +92,5 @@ Who are attached to divine maidens
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.6
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.5]]  🌐 [[SN9.7]] ►

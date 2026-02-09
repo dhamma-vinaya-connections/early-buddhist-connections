@@ -24,3 +24,5 @@ Pañca chinde pañca jahe pañca c'; uttari bhāvaye;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag14-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG14]]
+> ◄  [[thag13-pali-pts]] 📜  [[thag15-pali-pts]] ►

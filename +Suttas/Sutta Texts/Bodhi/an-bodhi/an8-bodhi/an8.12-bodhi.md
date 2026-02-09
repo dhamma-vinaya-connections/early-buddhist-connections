@@ -104,5 +104,6 @@ Then, with his own hands, Sīha the general served and satisfied the Saṅgha of
 | [[MA18]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.12]]
 > ◄  [[an8.11-bodhi]] 📜  [[an8.13-bodhi]] ►

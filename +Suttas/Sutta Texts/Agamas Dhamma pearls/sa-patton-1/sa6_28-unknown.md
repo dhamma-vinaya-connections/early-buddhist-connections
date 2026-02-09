@@ -29,3 +29,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa6_28-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA6_28]]
+> ◄  [[SA6_5]] 📜  [[SA6_29]] ►

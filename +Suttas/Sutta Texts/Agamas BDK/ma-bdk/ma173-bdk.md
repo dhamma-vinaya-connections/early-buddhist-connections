@@ -41,13 +41,10 @@ get results. Why is that? He is seeking results in the right way, namely by the 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma173-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN126]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN125]], [[SN12.25]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA173]]
 > ◄  [[ma172-bdk]] 📜  [[ma174-bdk]] ►

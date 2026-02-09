@@ -95,4 +95,5 @@ is indeed worthy of the renunciant’s robe.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp8
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP7]]  🌐 [[PDHP9]] ►

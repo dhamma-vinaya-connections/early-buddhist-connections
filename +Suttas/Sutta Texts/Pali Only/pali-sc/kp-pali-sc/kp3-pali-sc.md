@@ -36,3 +36,5 @@ assu, vasā, kheḷo, siṅghānikā, lasikā, muttaṁ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP3]]
+> ◄  [[kp2-pali-sc]] 📜  [[kp4-pali-sc]] ►

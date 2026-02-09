@@ -47,9 +47,5 @@ Neither insisting on nor rejecting local customs is a state without con flict. W
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma169-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN139]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA169]]
 > ◄  [[ma168-bdk]] 📜  [[ma170-bdk]] ►

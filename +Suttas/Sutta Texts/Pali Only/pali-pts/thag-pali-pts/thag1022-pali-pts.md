@@ -24,3 +24,5 @@ yasmiṃ patiṭṭhitā dhammā buddhassādiccabandhuno
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1022-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1022]]
+> ◄  [[thag1021-pali-pts]] 📜  [[thag1023-pali-pts]] ►

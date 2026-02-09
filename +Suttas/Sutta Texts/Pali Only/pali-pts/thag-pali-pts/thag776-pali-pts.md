@@ -23,3 +23,5 @@ rājā pasayha ppathaviṃ vijetvā sasāgarantaṃ mahim āvasanto
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag776-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG776]]
+> ◄  [[thag775-pali-pts]] 📜  [[thag777-pali-pts]] ►

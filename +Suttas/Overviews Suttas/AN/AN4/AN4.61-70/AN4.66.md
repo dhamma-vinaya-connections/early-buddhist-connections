@@ -89,4 +89,5 @@ And they never imagine that this could be so
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.66
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.66.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.65]]  🌐 [[AN4.67]] ►

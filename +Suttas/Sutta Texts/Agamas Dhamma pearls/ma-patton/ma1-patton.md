@@ -97,7 +97,7 @@ Knowing the Superiority of People
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.68]] | [[EA39.1]] |  |
+> |  | [[EA39.1]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PE1]] |
@@ -106,6 +106,7 @@ Knowing the Superiority of People
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.73]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA1]]
 > ◄  [[]] 📜  [[ma2-patton]] ►

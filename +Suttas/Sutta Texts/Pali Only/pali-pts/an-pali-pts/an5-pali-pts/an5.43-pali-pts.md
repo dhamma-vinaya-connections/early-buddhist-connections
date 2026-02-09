@@ -33,5 +33,6 @@ Atha kho Anāthapiṇḍiko gahapati yena Bhagavā ten'; upasaṅkami, upasaṅk
 | [[ITI23]], [[SN3.17]], [[SN3.18]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.43]]
 > ◄  [[an5.42-pali-pts]] 📜  [[an5.44-pali-pts]] ►

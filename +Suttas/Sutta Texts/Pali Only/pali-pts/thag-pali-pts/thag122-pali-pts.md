@@ -24,3 +24,5 @@ Na idaṃ anayena jīvitaṃ, nāhāro hadayassa santiko,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag122-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG122]]
+> ◄  [[thag121-pali-pts]] 📜  [[thag123-pali-pts]] ►

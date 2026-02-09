@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[DHP393]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP393]]"
+parallels_partilal: "[[DHP\|DHP393]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.8]]  🌐 [[UD1.10]] ►
 
@@ -68,10 +68,10 @@ they are pure, they are brahmins
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP393]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP393]] |
+| [[DHP\|DHP393]] |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ they are pure, they are brahmins
 > - Sutta Central: https://suttacentral.net/ud1.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud1.9
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud1.9.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.8]]  🌐 [[UD1.10]] ►

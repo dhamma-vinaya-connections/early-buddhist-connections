@@ -25,3 +25,5 @@ n'; atthi hi loke sadevake rāgo yattha pi dāni me siyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig384-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG384]]
+> ◄  [[thig383-pali-pts]] 📜  [[thig385-pali-pts]] ►

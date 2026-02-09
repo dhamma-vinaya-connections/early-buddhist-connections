@@ -95,4 +95,5 @@ and gave it to the man right then.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig14
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig14.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG13]]  🌐 [[THIG15]] ►

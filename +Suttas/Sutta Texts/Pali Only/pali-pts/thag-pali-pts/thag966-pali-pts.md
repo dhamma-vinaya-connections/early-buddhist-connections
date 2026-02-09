@@ -23,3 +23,5 @@ abhibhūtassa dukkhena sallaviddhassa ruppato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag966-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG966]]
+> ◄  [[thag965-pali-pts]] 📜  [[thag967-pali-pts]] ►

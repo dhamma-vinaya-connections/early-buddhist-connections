@@ -24,3 +24,5 @@ tassāhaṃ dhammaṃ sutvāna vihāsiṃ santike rato;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag65-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG65]]
+> ◄  [[thag64-pali-pts]] 📜  [[thag66-pali-pts]] ►

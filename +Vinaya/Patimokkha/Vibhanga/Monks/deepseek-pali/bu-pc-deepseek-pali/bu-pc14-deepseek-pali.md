@@ -100,7 +100,8 @@ The first training rule on lodgings, the fourth, is finished.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc14-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC14]] |
->|       |          | [[ñanatusita-analysis#^PC14]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC14]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC14]]

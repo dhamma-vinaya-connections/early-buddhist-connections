@@ -57,5 +57,6 @@ Of the bliss of the destruction of craving." (The Second)
 | [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.2]]
 > ◄  [[ud2.1-deepseek-pali]] 📜  [[ud2.3-deepseek-pali]] ►

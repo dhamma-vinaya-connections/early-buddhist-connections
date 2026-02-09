@@ -23,3 +23,5 @@ teh'; ānuciṇṇaṃ isībhi maggaṃ dassanapattiyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig205-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG205]]
+> ◄  [[thig204-pali-pts]] 📜  [[thig206-pali-pts]] ►

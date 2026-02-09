@@ -22,3 +22,5 @@ so 'haṃ viddho tadā santo sampatto āsavakkhayaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag791-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG791]]
+> ◄  [[thag790-pali-pts]] 📜  [[thag792-pali-pts]] ►

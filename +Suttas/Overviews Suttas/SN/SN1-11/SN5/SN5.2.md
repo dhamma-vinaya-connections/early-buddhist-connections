@@ -36,7 +36,7 @@ sutta_audience:
   - "Mara"
 parallels_nikaya: ""
 parallels_agama: "[[SA-2.215]], [[SA1199]]"
-parallels_partilal: "[[SA-2.215]], [[SA1199]], [[THIG3.8]]"
+parallels_partilal: "[[SA-2.215]], [[SA1199]], [[THIG3]].8"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.1]]  🌐 [[SN5.3]] ►
 
@@ -76,7 +76,7 @@ I’m free from all bonds,
 > |  | [[SA-2.215]], [[SA1199]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.215]], [[SA1199]], [[THIG3.8]] |
+| [[SA-2.215]], [[SA1199]], [[THIG3]].8 |
 | ------------------------ |
 
 
@@ -96,5 +96,6 @@ I’m free from all bonds,
 > - Sutta Central: https://suttacentral.net/sn5.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.2
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.2.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.1]]  🌐 [[SN5.3]] ►

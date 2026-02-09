@@ -23,3 +23,5 @@ rūpā saddā rasā gandhā phoṭṭhabbā ca manoramā:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag454-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG454]]
+> ◄  [[thag453-pali-pts]] 📜  [[thag455-pali-pts]] ►

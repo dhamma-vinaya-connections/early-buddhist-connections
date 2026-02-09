@@ -23,3 +23,5 @@ sopānaṃ sukataṃ suddhaṃ dhammasāramayaṃ daḷhaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag763-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG763]]
+> ◄  [[thag762-pali-pts]] 📜  [[thag764-pali-pts]] ►

@@ -23,3 +23,5 @@ dhuvappayāto maraṇassa Maccurājassa santike,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag570-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG570]]
+> ◄  [[thag569-pali-pts]] 📜  [[thag571-pali-pts]] ►

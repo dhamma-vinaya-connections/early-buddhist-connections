@@ -23,3 +23,5 @@ hatthikkhandhāvapatitaṃ kuñjaro ce anukkame
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag193-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG193]]
+> ◄  [[thag192-pali-pts]] 📜  [[thag194-pali-pts]] ►

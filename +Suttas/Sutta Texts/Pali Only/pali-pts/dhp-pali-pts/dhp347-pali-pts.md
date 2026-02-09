@@ -24,3 +24,5 @@ muñca pure muñca pacchato majjhe muñca bhavassa pāragū, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp347-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP347]]
+> ◄  [[dhp346-pali-pts]] 📜  [[dhp348-pali-pts]] ►

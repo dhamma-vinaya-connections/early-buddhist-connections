@@ -23,3 +23,5 @@ ajjadagge maṃ Sopāka dassanāyopasaṃkama,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag484-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG484]]
+> ◄  [[thag483-pali-pts]] 📜  [[thag485-pali-pts]] ►

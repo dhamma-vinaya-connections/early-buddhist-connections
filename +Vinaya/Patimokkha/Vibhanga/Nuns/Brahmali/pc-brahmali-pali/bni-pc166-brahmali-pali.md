@@ -131,7 +131,8 @@ Pācittiyakaṇḍaṁ niṭṭhitaṁ.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc166-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC166]] |
->|       |          | [[ñanatusita-analysis#^-PC166]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC166]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC166]]

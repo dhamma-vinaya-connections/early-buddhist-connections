@@ -36,7 +36,7 @@ sutta_audience:
   - "Lay followers"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[AN5.47]], [[SN11.14]], [[SN55.26]], [[THAG8.2]], [[PE3]]"
+parallels_partilal: "[[AN5.47]], [[SN11.14]], [[SN55.26]], [[THAG8]].2, [[PE3]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.51]]  🌐 [[AN4.53]] ►
 
@@ -70,7 +70,7 @@ Remembering the instructions of the Buddha s
 > |  |  | A ii 56 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN5.47]], [[SN11.14]], [[SN55.26]], [[THAG8.2]], [[PE3]] |
+| [[AN5.47]], [[SN11.14]], [[SN55.26]], [[THAG8]].2, [[PE3]] |
 | ------------------------ |
 
 
@@ -90,5 +90,6 @@ Remembering the instructions of the Buddha s
 > - Sutta Central: https://suttacentral.net/an4.52/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.52
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.52.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.51]]  🌐 [[AN4.53]] ►

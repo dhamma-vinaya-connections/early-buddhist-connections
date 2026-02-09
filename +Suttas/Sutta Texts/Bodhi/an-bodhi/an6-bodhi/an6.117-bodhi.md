@@ -47,3 +47,5 @@ The Book of the Sixes is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.117-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.117]]
+> ◄  [[an6.116-bodhi]] 📜  [[]] ►

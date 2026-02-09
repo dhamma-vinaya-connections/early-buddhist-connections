@@ -97,4 +97,5 @@ But you will never make me tremble.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.22
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.22.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.21]]  🌐 [[SN4.23]] ►

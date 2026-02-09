@@ -95,4 +95,5 @@ or giant tuskers.
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp23
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp23.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP22]]  🌐 [[DHP24]] ►

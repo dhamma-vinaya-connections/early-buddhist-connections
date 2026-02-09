@@ -34,7 +34,7 @@ sutta_teacher:
   - "Devas"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[SN2.25]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.363]], [[SA1343]]"
 parallels_partilal: "[[SN2.25]], [[SA-2.363]], [[SA1343]]"
 ---
@@ -65,7 +65,7 @@ I pay homage
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN2.25]] | [[SA-2.363]], [[SA1343]] |  |
+> |  | [[SA-2.363]], [[SA1343]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN2.25]], [[SA-2.363]], [[SA1343]] |
@@ -88,5 +88,6 @@ I pay homage
 > - Sutta Central: https://suttacentral.net/sn9.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.13
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.13.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.12]]  🌐 [[SN9.14]] ►

@@ -77,7 +77,8 @@ p_2V_3024Catutthasikkhāpadaṁ niṭṭhitaṁ.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc44-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC44]] |
->|       |          | [[ñanatusita-analysis#^-PC44]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC44]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC44]]

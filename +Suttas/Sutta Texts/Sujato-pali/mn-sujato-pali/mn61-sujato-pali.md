@@ -174,7 +174,8 @@ Ambalaṭṭhikarāhulovādasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN62]]; [[MN147]]; [[MN65]]
+> - [[MN62]], [[MN147]], [[MN65]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN61]]
 > ◄  [[mn60-sujato-pali]] 📜  [[mn62-sujato-pali]] ►

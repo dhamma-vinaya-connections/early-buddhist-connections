@@ -55,5 +55,6 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 | [[AN10.39]], [[PLI-TV-KD17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
 > ◄  [[iti17-thanissaro]] 📜  [[iti19-thanissaro]] ►

@@ -23,3 +23,5 @@ evaṃ bhaṇito bhaṇati yadi me attā sakkoti alaṃ mayhaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig424-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG424]]
+> ◄  [[thig423-pali-pts]] 📜  [[thig425-pali-pts]] ►

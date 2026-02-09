@@ -49,5 +49,6 @@ Standing to one side, the young deva Nanda recited this verse in the presence of
 | [[SN1.4]], [[JA509]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.27]]
 > ◄  [[sn2.26-bodhi]] 📜  [[sn2.28-bodhi]] ►

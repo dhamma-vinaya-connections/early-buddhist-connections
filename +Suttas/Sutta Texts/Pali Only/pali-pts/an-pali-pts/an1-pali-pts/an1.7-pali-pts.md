@@ -34,5 +34,6 @@ Purisagandho bhikkhave itthiyā cittaṃ pariyādāya tiṭṭhatī ti.
 | [[EA9.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.7]]
 > ◄  [[an1.6-pali-pts]] 📜  [[an1.8-pali-pts]] ►

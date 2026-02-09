@@ -23,3 +23,5 @@ oṭṭhapahatamattena attānaṃ pi na passati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1073-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1073]]
+> ◄  [[thag1072-pali-pts]] 📜  [[thag1074-pali-pts]] ►

@@ -86,4 +86,5 @@ parallels_partilal: "[[EA28.5]], [[DA2]], [[DN16]], [[PLI-TV-KD6]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.180
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.180.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.179]]  🌐 [[AN4.181]] ►

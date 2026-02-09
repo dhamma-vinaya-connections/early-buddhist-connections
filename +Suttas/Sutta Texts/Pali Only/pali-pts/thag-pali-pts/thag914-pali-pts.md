@@ -23,3 +23,5 @@ ito satta ito satta saṃsārāni catuddasa
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag914-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG914]]
+> ◄  [[thag913-pali-pts]] 📜  [[thag915-pali-pts]] ►

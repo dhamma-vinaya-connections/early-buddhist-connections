@@ -98,4 +98,5 @@ they’d rightly wander the world.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.13
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.13.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.12]]  🌐 [[SNP2.14]] ►

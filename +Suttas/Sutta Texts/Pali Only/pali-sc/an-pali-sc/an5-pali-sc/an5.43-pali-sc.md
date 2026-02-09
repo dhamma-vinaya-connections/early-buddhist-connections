@@ -63,5 +63,6 @@ Tatiyaṁ.
 | [[ITI23]], [[SN3.17]], [[SN3.18]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.43]]
 > ◄  [[an5.42-pali-sc]] 📜  [[an5.44-pali-sc]] ►

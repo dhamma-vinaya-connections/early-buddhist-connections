@@ -33,3 +33,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.424-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.424]]
+> ◄  [[an1.414-sujato-pali]] 📜  [[an1.431-sujato-pali]] ►

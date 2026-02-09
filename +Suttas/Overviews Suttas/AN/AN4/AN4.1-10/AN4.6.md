@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP230]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP230]], [[AN4.28]], [[AN5.42]], [[UD7.6]]"
+parallels_partilal: "[[DHP\|DHP230]], [[AN4.28]], [[AN5.42]], [[UD7.6]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.5]]  🌐 [[AN4.7]] ►
 
@@ -64,10 +64,10 @@ Such a person is said to beautify the saṅgha
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP230]] |  | A ii 6 |
+> |  |  | A ii 6 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP230]], [[AN4.28]], [[AN5.42]], [[UD7.6]] |
+| [[DHP\|DHP230]], [[AN4.28]], [[AN5.42]], [[UD7.6]] |
 | ------------------------ |
 
 
@@ -87,5 +87,6 @@ Such a person is said to beautify the saṅgha
 > - Sutta Central: https://suttacentral.net/an4.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.6
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.5]]  🌐 [[AN4.7]] ►

@@ -23,3 +23,5 @@ aparimitañ ca sukkhaṃ bahūni ca cittadomanassāni |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig509-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG509]]
+> ◄  [[thig508-pali-pts]] 📜  [[thig510-pali-pts]] ►

@@ -289,3 +289,5 @@ etaṁ brāhmaṇamuttaman’"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG12]]
+> ◄  [[thag11-sujato-pali]] 📜  [[thag13-sujato-pali]] ►

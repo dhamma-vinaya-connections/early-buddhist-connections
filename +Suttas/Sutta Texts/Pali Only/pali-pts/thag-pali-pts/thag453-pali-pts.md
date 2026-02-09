@@ -23,3 +23,5 @@ migaṃ nilīnaṃ kūṭena baliseneva ambujaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag453-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG453]]
+> ◄  [[thag452-pali-pts]] 📜  [[thag454-pali-pts]] ►

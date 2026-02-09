@@ -95,4 +95,5 @@ in which I once was mired
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig6
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG5]]  🌐 [[THIG7]] ►

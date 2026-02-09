@@ -24,3 +24,5 @@ mā puna jātisaṃsāraṃ sandhāveyyaṃ punappunaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig25-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG25]]
+> ◄  [[thig24-pali-pts]] 📜  [[thig26-pali-pts]] ►

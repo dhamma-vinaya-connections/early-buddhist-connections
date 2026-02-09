@@ -23,3 +23,5 @@ upavijaññā gacchantī addasāhaṃ patiṃ mataṃ panthe |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig217-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG217]]
+> ◄  [[thig216-pali-pts]] 📜  [[thig218-pali-pts]] ►

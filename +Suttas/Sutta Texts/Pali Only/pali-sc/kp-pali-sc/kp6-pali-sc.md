@@ -132,3 +132,5 @@ Ratanasuttaṁ Niṭṭhitaṁ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP6]]
+> ◄  [[kp5-pali-sc]] 📜  [[kp7-pali-sc]] ►

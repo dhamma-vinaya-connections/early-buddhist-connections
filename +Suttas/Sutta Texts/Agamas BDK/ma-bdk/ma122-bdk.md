@@ -53,9 +53,5 @@ The pure should associate with the pure, Always together in harmony. Being in ha
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma122-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN8.10]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA122]]
 > ◄  [[ma121-bdk]] 📜  [[ma123-bdk]] ►

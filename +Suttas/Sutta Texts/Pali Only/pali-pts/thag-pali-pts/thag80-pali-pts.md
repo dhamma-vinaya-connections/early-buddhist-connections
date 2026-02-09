@@ -27,3 +27,5 @@ Yaṃ mayā pakataṃ pāpaṃ pubbe aññāsu jātisu,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag80-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG80]]
+> ◄  [[thag79-pali-pts]] 📜  [[thag81-pali-pts]] ►

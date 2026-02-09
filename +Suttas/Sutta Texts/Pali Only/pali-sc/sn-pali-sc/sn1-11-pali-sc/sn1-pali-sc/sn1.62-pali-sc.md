@@ -54,5 +54,6 @@ sabbeva vasamanvagū"ti.
 | [[SA-2.236]], [[SA1009]], [[AN4.186]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.62]]
 > ◄  [[sn1.61-pali-sc]] 📜  [[sn1.63-pali-sc]] ►

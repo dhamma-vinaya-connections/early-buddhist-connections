@@ -30,3 +30,5 @@ niggayhavādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp75-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP75]]
+> ◄  [[dhp74-pali-pts]] 📜  [[dhp76-pali-pts]] ►

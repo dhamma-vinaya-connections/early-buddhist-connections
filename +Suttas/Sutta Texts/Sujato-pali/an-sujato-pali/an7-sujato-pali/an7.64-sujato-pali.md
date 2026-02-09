@@ -255,5 +255,6 @@ Mettā bhariyā kodhekādasāti.
 | [[MA129]], [[ITI88]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.64]]
 > ◄  [[an7.63-sujato-pali]] 📜  [[an7.65-sujato-pali]] ►

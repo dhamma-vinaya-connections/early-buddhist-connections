@@ -172,5 +172,6 @@ Dvedhāvitakkasuttaṁ niṭṭhitaṁ navamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.259]], [[MN20]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
 > ◄  [[mn18-sujato-pali]] 📜  [[mn20-sujato-pali]] ►

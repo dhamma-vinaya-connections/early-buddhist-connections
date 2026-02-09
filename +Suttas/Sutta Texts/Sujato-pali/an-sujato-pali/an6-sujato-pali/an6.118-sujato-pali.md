@@ -33,3 +33,5 @@ Dutiyaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.118-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.118]]
+> ◄  [[an6.117-sujato-pali]] 📜  [[an6.119-sujato-pali]] ►

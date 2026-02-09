@@ -23,3 +23,5 @@ rahade 'ham asmi ogāḷho ahāriyarajamantike
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag758-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG758]]
+> ◄  [[thag757-pali-pts]] 📜  [[thag759-pali-pts]] ►

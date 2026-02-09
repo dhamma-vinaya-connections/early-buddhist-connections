@@ -34,7 +34,7 @@ Then the World-honored One uttered these verses:^401 If someone seeks wealth in 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.91]], [[AN4.61]], [[AN5.41]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.123]] |
@@ -43,6 +43,7 @@ Then the World-honored One uttered these verses:^401 If someone seeks wealth in 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.41]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA126]]
 > ◄  [[ma125-bdk]] 📜  [[ma127-bdk]] ►

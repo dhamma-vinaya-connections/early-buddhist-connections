@@ -23,3 +23,5 @@ kāmā kaṭukā āsīvisūpamā yesu mucchitā bālā |.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig450-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG450]]
+> ◄  [[thig449-pali-pts]] 📜  [[thig451-pali-pts]] ►

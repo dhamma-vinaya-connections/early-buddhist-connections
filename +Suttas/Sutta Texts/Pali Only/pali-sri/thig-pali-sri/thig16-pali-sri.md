@@ -597,3 +597,5 @@ Therīgāthā samattā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig16-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG16]]
+> ◄  [[thig15-pali-sri]] 📜  [[]] ►

@@ -88,4 +88,5 @@ Rid of craving, by not grasping
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.9
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.8]]  🌐 [[AN4.10]] ►

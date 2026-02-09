@@ -95,13 +95,10 @@ The Bhagavān told him, “Ānanda, if a monk accepts nothing, he’ll surely at
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma75-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN106]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA76]], [[MN140]], [[SN22.55]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA75]]
 > ◄  [[ma74-patton]] 📜  [[ma76-patton]] ►

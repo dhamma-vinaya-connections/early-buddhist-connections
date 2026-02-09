@@ -100,7 +100,8 @@ The sixth training rule concerning requesting from unacquainted persons is finis
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np6-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP6]] |
->|       |          | [[ñanatusita-analysis#^NP6]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP6]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP6]]

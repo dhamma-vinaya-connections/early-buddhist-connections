@@ -97,4 +97,5 @@ that will be good for you
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig12
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig12.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG11]]  🌐 [[THIG13]] ►

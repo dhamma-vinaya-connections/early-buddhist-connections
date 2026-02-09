@@ -23,3 +23,5 @@ kadā nu kaṭṭhe ca tiṇe latā ca khandhe ime 'haṃ anite ca dhamme
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1100-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1100]]
+> ◄  [[thag1099-pali-pts]] 📜  [[thag1101-pali-pts]] ►

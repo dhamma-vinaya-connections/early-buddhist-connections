@@ -98,5 +98,6 @@ When this was said, the brahmin Uggatasarīra said to the Blessed One: “Excell
 | [[SA-2.259]], [[SA93]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.47]]
 > ◄  [[an7.46-deepseek-pali]] 📜  [[an7.48-deepseek-pali]] ►

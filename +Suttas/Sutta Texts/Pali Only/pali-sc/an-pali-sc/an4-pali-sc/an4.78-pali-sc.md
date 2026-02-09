@@ -45,5 +45,6 @@ Aṭṭhamaṁ.
 | [[MN142]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.78]]
 > ◄  [[an4.77-pali-sc]] 📜  [[an4.79-pali-sc]] ►

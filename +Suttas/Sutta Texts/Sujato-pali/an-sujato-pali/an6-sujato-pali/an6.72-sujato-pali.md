@@ -40,11 +40,12 @@ Aṭṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.24]], [[AN7.40]] |  | A iii 427 |
+> |  |  | A iii 427 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.24]], [[AN7.40]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.72]]
 > ◄  [[an6.71-sujato-pali]] 📜  [[an6.73-sujato-pali]] ►

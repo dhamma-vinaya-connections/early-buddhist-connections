@@ -23,3 +23,5 @@ anaṅgaṇassa posassa niccaṃ sucigavesino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1000-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1000]]
+> ◄  [[thag999-pali-pts]] 📜  [[thag1001-pali-pts]] ►

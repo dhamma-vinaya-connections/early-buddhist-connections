@@ -23,3 +23,5 @@ siriṃ hatthehi pādehi yo paṇāmeyya āgataṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag510-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG510]]
+> ◄  [[thag509-pali-pts]] 📜  [[thag511-pali-pts]] ►

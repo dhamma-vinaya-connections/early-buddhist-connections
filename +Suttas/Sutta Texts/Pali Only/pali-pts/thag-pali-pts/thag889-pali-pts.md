@@ -23,3 +23,5 @@ vītataṇho anādāno guttadvāro susaṃvuto;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag889-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG889]]
+> ◄  [[thag888-pali-pts]] 📜  [[thag890-pali-pts]] ►

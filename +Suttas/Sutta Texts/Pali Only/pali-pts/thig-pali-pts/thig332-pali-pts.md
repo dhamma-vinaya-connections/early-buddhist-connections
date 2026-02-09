@@ -23,3 +23,5 @@ passa Sundari satthāraṃ hemavaṇṇaṃ harittacaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig332-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG332]]
+> ◄  [[thig331-pali-pts]] 📜  [[thig333-pali-pts]] ►

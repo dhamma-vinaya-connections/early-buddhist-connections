@@ -24,3 +24,5 @@ anupubbena medhāvī thokathokaṃ khaṇe khaṇe /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp238-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP238]]
+> ◄  [[dhp237-pali-pts]] 📜  [[dhp239-pali-pts]] ►

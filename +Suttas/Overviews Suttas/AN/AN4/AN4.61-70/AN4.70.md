@@ -93,4 +93,5 @@ So it is for humans
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.70
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.70.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.69]]  🌐 [[AN4.71]] ►

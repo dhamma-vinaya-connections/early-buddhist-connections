@@ -86,4 +86,5 @@ parallels_partilal: "[[PLI-TV-BU-VB-PC21]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.52
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.52.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.51]]  🌐 [[AN8.53]] ►

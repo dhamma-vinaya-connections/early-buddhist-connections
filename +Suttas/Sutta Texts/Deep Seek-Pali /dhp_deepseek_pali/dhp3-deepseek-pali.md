@@ -95,5 +95,6 @@ The Mind Chapter, the Third, is Concluded.
 | [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP3]]
 > ◄  [[dhp2-deepseek-pali]] 📜  [[dhp4-deepseek-pali]] ►

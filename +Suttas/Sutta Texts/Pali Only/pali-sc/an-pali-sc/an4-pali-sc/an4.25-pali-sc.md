@@ -42,5 +42,6 @@ Pañcamaṁ.
 | [[ITI35]], [[ITI36]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.25]]
 > ◄  [[an4.24-pali-sc]] 📜  [[an4.26-pali-sc]] ►

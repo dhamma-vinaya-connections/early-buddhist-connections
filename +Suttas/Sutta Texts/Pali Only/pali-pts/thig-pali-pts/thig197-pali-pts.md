@@ -23,3 +23,5 @@ tāvatiṃsā ca yāmā ca tusitā cāpi devatā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig197-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG197]]
+> ◄  [[thig196-pali-pts]] 📜  [[thig198-pali-pts]] ►

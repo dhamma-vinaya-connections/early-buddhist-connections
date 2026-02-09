@@ -99,5 +99,6 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN45]], [[AN4.192]], [[MN25]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN46]]
 > ◄  [[mn45-bodhi]] 📜  [[mn47-bodhi]] ►

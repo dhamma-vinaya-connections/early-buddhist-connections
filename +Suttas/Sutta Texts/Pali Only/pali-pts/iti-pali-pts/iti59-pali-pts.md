@@ -30,3 +30,5 @@ Mūladhātu (50,51) atha vedanā duve (52,53) esanā ca duve (54,55) āsavā duv
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti59-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI59]]
+> ◄  [[iti58-pali-pts]] 📜  [[iti60-pali-pts]] ►

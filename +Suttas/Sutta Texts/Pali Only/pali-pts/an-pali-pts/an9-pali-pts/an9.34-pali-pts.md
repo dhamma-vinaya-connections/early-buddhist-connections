@@ -33,5 +33,6 @@ Imā kho bhikkhave nava anupubbavihārasamāpattiyo ti
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.31]], [[AN9.33]], [[AN9.36]], [[AN9.42]], [[AN11.10MN111]], [[SN22.5]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.34]]
 > ◄  [[an9.33-pali-pts]] 📜  [[an9.35-pali-pts]] ►

@@ -36,5 +36,6 @@ Then the Venerable Anuruddha approached the Blessed One, paid homage to him, sat
 | [[EA22.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.129]]
 > ◄  [[an3.128-bodhi]] 📜  [[an3.130-bodhi]] ►

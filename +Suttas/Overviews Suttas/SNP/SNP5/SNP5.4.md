@@ -102,4 +102,5 @@ he, I tell you, has crossed over birth &aging.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.4
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.4.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.3]]  🌐 [[SNP5.5]] ►

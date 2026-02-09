@@ -76,7 +76,8 @@ The training rule on using cast-off robes, the fourth, is finished.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np4-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP4]] |
->|       |          | [[ñanatusita-analysis#^NP4]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP4]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP4]]

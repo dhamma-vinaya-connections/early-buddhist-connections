@@ -24,3 +24,5 @@ khiyyati nopaciyyati evaṃ so caratī sato;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag806-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG806]]
+> ◄  [[thag795-pali-pts]] 📜  [[thag807-pali-pts]] ►

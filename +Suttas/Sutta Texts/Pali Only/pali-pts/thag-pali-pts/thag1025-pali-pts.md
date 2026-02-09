@@ -23,3 +23,5 @@ bahussuto appasutaṃ yo sutenātimaññati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1025-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1025]]
+> ◄  [[thag1024-pali-pts]] 📜  [[thag1026-pali-pts]] ►

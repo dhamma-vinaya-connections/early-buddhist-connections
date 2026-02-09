@@ -23,3 +23,5 @@ bahūni vassāni tayāmhi yācito: agāravāsena alaṃ nu te idaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1106-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1106]]
+> ◄  [[thag1105-pali-pts]] 📜  [[thag1107-pali-pts]] ►

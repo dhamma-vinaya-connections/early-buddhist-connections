@@ -86,4 +86,5 @@ parallels_partilal: "[[SA688]], [[SA689]], [[SA690]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.3
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.2]]  🌐 [[AN7.4]] ►

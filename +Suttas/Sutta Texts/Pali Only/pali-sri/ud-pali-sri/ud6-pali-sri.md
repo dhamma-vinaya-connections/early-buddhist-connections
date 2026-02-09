@@ -995,3 +995,5 @@ Udānapāḷi samattā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6]]
+> ◄  [[ud5-pali-sri]] 📜  [[ud7-pali-sri]] ►

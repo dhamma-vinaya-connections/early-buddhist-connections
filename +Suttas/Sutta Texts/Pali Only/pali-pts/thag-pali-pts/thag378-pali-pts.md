@@ -23,3 +23,5 @@ pubbenivāsaṃ jānāmi, dibbacakkhuṃ visodhitaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag378-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG378]]
+> ◄  [[thag377-pali-pts]] 📜  [[thag379-pali-pts]] ►

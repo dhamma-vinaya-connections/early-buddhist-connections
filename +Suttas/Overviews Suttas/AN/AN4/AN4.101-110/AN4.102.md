@@ -94,4 +94,5 @@ One both makes a hole and lives in it.
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.102
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.102.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.101]]  🌐 [[AN4.103]] ►

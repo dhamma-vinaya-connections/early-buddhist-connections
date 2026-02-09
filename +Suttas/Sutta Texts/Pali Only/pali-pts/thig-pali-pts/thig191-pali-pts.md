@@ -23,3 +23,5 @@ atthi Sakyakule jāto sambuddho aparājito |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig191-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG191]]
+> ◄  [[thig190-pali-pts]] 📜  [[thig192-pali-pts]] ►

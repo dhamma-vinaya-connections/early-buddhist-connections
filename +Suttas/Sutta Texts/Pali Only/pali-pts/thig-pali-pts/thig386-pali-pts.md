@@ -23,3 +23,5 @@ yassā siyā apaccavekkhitaṃ satthā vā anusāsito siyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig386-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG386]]
+> ◄  [[thig385-pali-pts]] 📜  [[thig387-pali-pts]] ►

@@ -42,5 +42,6 @@ Thus spoke Kassapa the devaputta; the Teacher approved. Then, thinking, “The T
 | [[SA-2.316]], [[SA1317]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
 > ◄  [[]] 📜  [[sn2.2-deepseek-pali]] ►

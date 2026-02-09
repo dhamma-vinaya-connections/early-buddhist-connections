@@ -72,11 +72,12 @@ Thus they pay homage to him, the great one, fearless. In the world with its gods
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[ITI112]] | [[MA137]] | A ii 23 |
+> |  | [[MA137]] | A ii 23 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA137]], [[ITI112]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.23]]
 > ◄  [[an4.22-deepseek-pali]] 📜  [[an4.24-deepseek-pali]] ►

@@ -25,3 +25,5 @@ taṇhāya mūlaṃ khanatha usīrattho va bīraṇaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp336-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP336]]
+> ◄  [[dhp335-pali-pts]] 📜  [[dhp337-pali-pts]] ►

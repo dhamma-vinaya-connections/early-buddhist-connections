@@ -23,3 +23,5 @@ tato pāsādikaṃ āsi gataṃ bhuttaṃ nisevitaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag926-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG926]]
+> ◄  [[thag925-pali-pts]] 📜  [[thag927-pali-pts]] ►

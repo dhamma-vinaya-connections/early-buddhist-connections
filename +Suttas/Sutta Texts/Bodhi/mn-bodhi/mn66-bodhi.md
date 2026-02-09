@@ -118,11 +118,12 @@ That is what the Blessed One said. The venerable Udāyin was satisfied and deli
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN65]] | [[EA49.7]]; [[MA192]]; [[MA194]] | M i 447 |
+> |  | [[EA49.7]]; [[MA192]]; [[MA194]] | M i 447 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA49.7]]; [[MN65]]; [[MA194]]; [[MA192]] |
+| [[EA49.7]], [[MN65]], [[MA194]], [[MA192]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN66]]
 > ◄  [[mn65-bodhi]] 📜  [[mn67-bodhi]] ►

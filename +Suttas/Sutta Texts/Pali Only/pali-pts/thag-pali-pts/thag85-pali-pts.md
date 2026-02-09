@@ -24,3 +24,5 @@ Itobahiddhā puthuaññavādinaṃ maggo na nibbānagamo yathā ayaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag85-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG85]]
+> ◄  [[thag84-pali-pts]] 📜  [[thag86-pali-pts]] ►

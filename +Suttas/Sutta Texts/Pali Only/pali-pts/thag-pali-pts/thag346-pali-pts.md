@@ -23,3 +23,5 @@ sutvā subhāsitaṃ vācaṃ dhammatthasahitaṃ padaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag346-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG346]]
+> ◄  [[thag345-pali-pts]] 📜  [[thag347-pali-pts]] ►

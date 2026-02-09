@@ -24,3 +24,5 @@ susukhaṃ vata jīvāma āturesu anāturā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp197-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP197]]
+> ◄  [[dhp196-pali-pts]] 📜  [[dhp198-pali-pts]] ►

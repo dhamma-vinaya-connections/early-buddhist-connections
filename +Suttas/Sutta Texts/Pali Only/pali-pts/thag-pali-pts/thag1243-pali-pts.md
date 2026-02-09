@@ -23,3 +23,5 @@ pajjotakaro ativijjha sabbaṭṭhitīnaṃ atikkamam addā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1243-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1243]]
+> ◄  [[thag1242-pali-pts]] 📜  [[thag1244-pali-pts]] ►

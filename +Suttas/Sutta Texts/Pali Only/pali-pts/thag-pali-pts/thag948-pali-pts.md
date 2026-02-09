@@ -33,3 +33,5 @@ Pāsādike bahū disvā bhāvitatte susaṃvute
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag948-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG948]]
+> ◄  [[thag947-pali-pts]] 📜  [[thag949-pali-pts]] ►

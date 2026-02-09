@@ -33,3 +33,5 @@ The monks said to the Buddha, “The Bhagavān is the root of the Dharma, the ey
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa203-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA203]]
+> ◄  [[sa202-patton]] 📜  [[sa204-patton]] ►

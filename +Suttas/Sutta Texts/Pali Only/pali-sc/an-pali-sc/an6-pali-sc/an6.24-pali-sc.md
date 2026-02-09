@@ -28,11 +28,12 @@ Catutthaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.40]] |  | A iii 311 |
+> |  |  | A iii 311 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.72]], [[AN7.40]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.24]]
 > ◄  [[an6.23-pali-sc]] 📜  [[an6.25-pali-sc]] ►

@@ -23,3 +23,5 @@ yāya no anukampāya amhe pabbājayī muni,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag175-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG175]]
+> ◄  [[thag174-pali-pts]] 📜  [[thag176-pali-pts]] ►

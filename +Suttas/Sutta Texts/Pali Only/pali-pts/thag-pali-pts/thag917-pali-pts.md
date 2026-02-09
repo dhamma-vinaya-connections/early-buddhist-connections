@@ -22,3 +22,5 @@ itthabhāvaññathābhāvaṃ jhāne pañcaṅgike ṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag917-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG917]]
+> ◄  [[thag916-pali-pts]] 📜  [[thag918-pali-pts]] ►

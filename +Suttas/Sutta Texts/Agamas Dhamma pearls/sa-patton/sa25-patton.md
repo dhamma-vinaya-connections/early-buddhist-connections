@@ -32,3 +32,5 @@ The monk said to the Buddha, “Indeed, Bhagavān.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa25-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA25]]
+> ◄  [[sa24-patton]] 📜  [[sa25.57-patton]] ►

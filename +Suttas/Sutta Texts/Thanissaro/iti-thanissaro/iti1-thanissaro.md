@@ -41,3 +41,5 @@ _This, too, was the meaning of what was said by the Blessed One, so I have heard
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI1]]
+> ◄  [[]] 📜  [[iti2-thanissaro]] ►

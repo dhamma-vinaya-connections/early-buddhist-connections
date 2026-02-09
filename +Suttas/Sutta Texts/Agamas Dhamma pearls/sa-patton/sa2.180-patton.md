@@ -54,11 +54,12 @@ The Buddha said, “I really did.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.52]], [[SN35.158-159]] | [[SA2]] |  |
+> |  | [[SA2]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA2]], [[SN22.52]], [[SN35.158-159]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA2.180]]
 > ◄  [[sa2-patton]] 📜  [[sa3-patton]] ►

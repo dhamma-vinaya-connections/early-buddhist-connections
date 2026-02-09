@@ -115,8 +115,9 @@ Then the brahmin Vassakāra, the minister of Magadha, having delighted and rejo
 > |  | [[MA145]] | M iii 7 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA145]]; [[SN22.58]]; [[DN33]] |
+| [[MA145]], [[SN22.58]], [[DN33]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-bodhi]] 📜  [[mn109-bodhi]] ►

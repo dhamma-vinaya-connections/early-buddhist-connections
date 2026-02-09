@@ -24,3 +24,5 @@ bāhitapāpo ti brāhmaṇo samacariyā samaṇo ti vuccati. /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp387-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP387]]
+> ◄  [[dhp386-pali-pts]] 📜  [[dhp388-pali-pts]] ►

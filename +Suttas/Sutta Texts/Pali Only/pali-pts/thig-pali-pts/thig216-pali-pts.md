@@ -23,3 +23,5 @@ gale apakantanti sukhumāliniyo visāni khādanti |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig216-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG216]]
+> ◄  [[thig215-pali-pts]] 📜  [[thig217-pali-pts]] ►

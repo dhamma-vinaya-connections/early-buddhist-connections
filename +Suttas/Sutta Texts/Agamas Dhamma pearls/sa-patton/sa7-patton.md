@@ -38,11 +38,12 @@ Summary Verse
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.29]], [[SN22.24]], [[SN35.19-20]] | [[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]] |  |
+> |  | [[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]], [[SN22.29]], [[SN22.24]], [[SN35.19-20]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA7]]
 > ◄  [[sa4-patton]] 📜  [[sa8-patton]] ►

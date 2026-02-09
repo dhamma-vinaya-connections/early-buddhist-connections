@@ -23,3 +23,5 @@ duggatigamanaṃ maggaṃ manussā kāmahetukaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig354-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG354]]
+> ◄  [[thig353-pali-pts]] 📜  [[thig355-pali-pts]] ►

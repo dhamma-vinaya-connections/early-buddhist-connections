@@ -24,3 +24,5 @@ udakaṃ hi nayanti nettikā, usukārā namayanti tejanaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag876-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG876]]
+> ◄  [[thag875-pali-pts]] 📜  [[thag877-pali-pts]] ►

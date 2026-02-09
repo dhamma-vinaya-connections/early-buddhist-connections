@@ -89,4 +89,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.83
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.83.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.82]]  🌐 [[AN5.84]] ►

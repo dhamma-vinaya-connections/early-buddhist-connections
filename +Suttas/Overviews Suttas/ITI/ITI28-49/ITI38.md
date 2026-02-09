@@ -70,7 +70,7 @@ parallels_partilal: "[[DN14]], [[MN85]], [[MN26]], [[SN6.1]], [[PLI-TV-KD1]]"
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DHP28]]
+> - [[DHP\|DHP28]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -88,5 +88,6 @@ parallels_partilal: "[[DN14]], [[MN85]], [[MN26]], [[SN6.1]], [[PLI-TV-KD1]]"
 > - Sutta Central: https://suttacentral.net/iti38/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti38
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti38.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI37]]  🌐 [[ITI39]] ►

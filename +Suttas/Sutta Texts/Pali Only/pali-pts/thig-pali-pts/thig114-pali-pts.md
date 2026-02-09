@@ -25,3 +25,5 @@ tato dīpaṃ gahetvāna vihāraṃ pāvisiṃ ahaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig114-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG114]]
+> ◄  [[thig113-pali-pts]] 📜  [[thig115-pali-pts]] ►

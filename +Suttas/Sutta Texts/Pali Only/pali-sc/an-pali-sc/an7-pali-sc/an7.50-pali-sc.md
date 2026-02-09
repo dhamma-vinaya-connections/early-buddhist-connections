@@ -67,5 +67,6 @@ Sattamaṁ.
 | [[EA37.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
 > ◄  [[an7.49-pali-sc]] 📜  [[an7.51-pali-sc]] ►

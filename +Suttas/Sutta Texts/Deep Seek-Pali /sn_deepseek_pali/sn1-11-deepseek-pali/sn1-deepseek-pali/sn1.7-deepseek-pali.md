@@ -42,5 +42,6 @@ Those for whom the truths are well comprehended, who are not carried away by the
 | [[SA-2.164]], [[SA579]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
 > ◄  [[sn1.6-deepseek-pali]] 📜  [[sn1.8-deepseek-pali]] ►

@@ -94,5 +94,6 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Sāketa in t
 | [[SN1.1]], [[SA-2.169]], [[SA585]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.18]]
 > ◄  [[sn2.17-bodhi]] 📜  [[sn2.19-bodhi]] ►

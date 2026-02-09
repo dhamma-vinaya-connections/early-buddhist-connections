@@ -23,3 +23,5 @@ bālā te duppaññā acetanā dukkhasamudayoruddhā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig452-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG452]]
+> ◄  [[thig451-pali-pts]] 📜  [[thig453-pali-pts]] ►

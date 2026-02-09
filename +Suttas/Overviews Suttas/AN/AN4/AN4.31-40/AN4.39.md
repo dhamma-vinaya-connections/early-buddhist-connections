@@ -89,4 +89,5 @@ In the fertile field of spiritual practitioners
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.39
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.39.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.38]]  🌐 [[AN4.40]] ►

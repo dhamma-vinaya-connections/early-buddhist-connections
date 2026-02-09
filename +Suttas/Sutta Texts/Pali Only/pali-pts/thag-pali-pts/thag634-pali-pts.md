@@ -23,3 +23,5 @@ yaṃ hi kiccaṃ tad apaviddhaṃ, akiccaṃ pana kayirati;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag634-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG634]]
+> ◄  [[thag633-pali-pts]] 📜  [[thag635-pali-pts]] ►

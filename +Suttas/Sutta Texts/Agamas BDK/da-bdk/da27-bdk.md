@@ -558,6 +558,6 @@ the Life of a Śramaṇa ]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN2]] | [[EA43.7]], [[SA154-163]] |  |
+> |  | [[EA43.7]], [[SA154-163]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA27]]
 > ◄  [[da26-bdk]] 📜  [[da28-bdk]] ►

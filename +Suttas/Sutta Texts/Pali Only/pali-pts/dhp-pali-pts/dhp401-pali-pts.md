@@ -24,3 +24,5 @@ yo dukkhassa pajānāti idh'; eva khayam attano /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp401-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP401]]
+> ◄  [[dhp400-pali-pts]] 📜  [[dhp402-pali-pts]] ►

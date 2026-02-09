@@ -122,7 +122,8 @@ Asammāsambuddhāva pana te, pāpima, samānā sammāsambuddhāmhāti paṭijān
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN11]]; [[MN1]]; [[MN72]]; [[MN86]]
+> - [[DN11]], [[MN1]], [[MN72]], [[MN86]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-pali-sc]] 📜  [[mn50-pali-sc]] ►

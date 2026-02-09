@@ -23,3 +23,5 @@ yo sukhaṃ dukkhato adda, dukkhaṃ addakkhi sallato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag985-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG985]]
+> ◄  [[thag984-pali-pts]] 📜  [[thag986-pali-pts]] ►

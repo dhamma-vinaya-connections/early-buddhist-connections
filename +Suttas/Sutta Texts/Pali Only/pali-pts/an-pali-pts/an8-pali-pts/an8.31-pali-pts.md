@@ -33,5 +33,6 @@ Aṭṭh'; imāni bhikkhave dānāni. Katamāni aṭṭha?
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.31]]
 > ◄  [[an8.30-pali-pts]] 📜  [[an8.32-pali-pts]] ►

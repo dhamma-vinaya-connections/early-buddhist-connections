@@ -23,3 +23,5 @@ upāyakusalenāhaṃ buddhenādiccabandhunā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag157-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG157]]
+> ◄  [[thag156-pali-pts]] 📜  [[thag158-pali-pts]] ►

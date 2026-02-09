@@ -1605,3 +1605,5 @@ Dvādasetāni suttāni uragavaggoti vuccati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP1]]
+> ◄  [[]] 📜  [[snp2-pali-sri]] ►

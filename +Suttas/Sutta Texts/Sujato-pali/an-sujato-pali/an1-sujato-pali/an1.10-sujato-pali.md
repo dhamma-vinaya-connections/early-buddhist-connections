@@ -44,5 +44,6 @@ Rūpādivaggo paṭhamo.
 | [[EA9.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.10]]
 > ◄  [[an1.9-sujato-pali]] 📜  [[an1.11-sujato-pali]] ►

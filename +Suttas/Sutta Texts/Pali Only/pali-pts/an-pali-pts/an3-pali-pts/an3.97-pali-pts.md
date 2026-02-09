@@ -31,5 +31,6 @@ PTS: A i 245
 | [[SA-2.146]], [[SA920]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.97]]
 > ◄  [[an3.96-pali-pts]] 📜  [[an3.98-pali-pts]] ►

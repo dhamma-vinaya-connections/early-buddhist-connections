@@ -98,4 +98,5 @@ they’re freed from Māra’s bonds.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.9
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.8]]  🌐 [[UD4.10]] ►

@@ -46,5 +46,6 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 | [[EA22.4]], [[PLI-TV-PVR7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.131]]
 > ◄  [[an3.129-thanissaro]] 📜  [[an3.133-thanissaro]] ►

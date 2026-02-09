@@ -23,3 +23,5 @@ kāveyyamattā vicarimha pubbe gāmā gāmaṃ purā puraṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1252-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1252]]
+> ◄  [[thag1251-pali-pts]] 📜  [[thag1253-pali-pts]] ►

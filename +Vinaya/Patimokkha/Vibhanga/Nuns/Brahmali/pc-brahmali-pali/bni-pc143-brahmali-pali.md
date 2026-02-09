@@ -91,7 +91,8 @@ Appāṇake sappāṇakasaññī, āpatti dukkaṭassa. Appāṇake vematiko, ā
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc143-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC143]] |
->|       |          | [[ñanatusita-analysis#^-PC143]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC143]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC143]]

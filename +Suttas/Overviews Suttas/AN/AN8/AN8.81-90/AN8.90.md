@@ -86,4 +86,5 @@ parallels_partilal: "[[PLI-TV-KD14]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.90
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.90.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.89]]  🌐 [[AN8.91-117]] ►

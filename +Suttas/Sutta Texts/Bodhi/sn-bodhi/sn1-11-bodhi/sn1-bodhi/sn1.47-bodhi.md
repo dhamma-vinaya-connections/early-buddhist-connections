@@ -59,5 +59,6 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN54.4]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.47]]
 > ◄  [[sn1.46-bodhi]] 📜  [[sn1.48-bodhi]] ►

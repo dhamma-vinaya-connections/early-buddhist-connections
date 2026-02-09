@@ -23,3 +23,5 @@ sabbe me āsavā khīṇā appamattassa jhāyato |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig208-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG208]]
+> ◄  [[thig207-pali-pts]] 📜  [[thig209-pali-pts]] ►

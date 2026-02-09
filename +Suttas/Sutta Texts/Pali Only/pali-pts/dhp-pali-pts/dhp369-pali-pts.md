@@ -24,3 +24,5 @@ pañca chinde pañca jahe pañca vuttaribhāvaye, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp369-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP369]]
+> ◄  [[dhp368-pali-pts]] 📜  [[dhp370-pali-pts]] ►

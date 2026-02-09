@@ -23,3 +23,5 @@ divase divase tī sattisatāni navanavā pateyyuṃ kāyamhi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig472-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG472]]
+> ◄  [[thig471-pali-pts]] 📜  [[thig473-pali-pts]] ►

@@ -293,3 +293,5 @@ Upaseno vaṅgantaputto sāriputto ca te dasāti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4]]
+> ◄  [[ud3-pali-sri]] 📜  [[ud5-pali-sri]] ►

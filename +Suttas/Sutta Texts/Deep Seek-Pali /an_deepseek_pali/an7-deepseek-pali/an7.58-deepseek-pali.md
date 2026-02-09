@@ -50,5 +50,6 @@ language: "English - Pali"
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.58]]
 > ◄  [[an7.57-deepseek-pali]] 📜  [[an7.59-deepseek-pali]] ►

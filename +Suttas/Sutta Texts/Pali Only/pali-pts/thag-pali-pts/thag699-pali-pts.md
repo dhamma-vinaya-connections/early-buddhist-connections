@@ -23,3 +23,5 @@ yathāpi udake jātaṃ puṇḍarīkaṃ pavaḍḍhati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag699-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG699]]
+> ◄  [[thag698-pali-pts]] 📜  [[thag700-pali-pts]] ►

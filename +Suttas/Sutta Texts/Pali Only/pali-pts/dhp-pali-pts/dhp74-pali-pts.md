@@ -25,3 +25,5 @@ evam etaṃ abhiññāya bhikkhu Buddhassa sāvako /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp74-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP74]]
+> ◄  [[dhp73-pali-pts]] 📜  [[dhp75-pali-pts]] ►

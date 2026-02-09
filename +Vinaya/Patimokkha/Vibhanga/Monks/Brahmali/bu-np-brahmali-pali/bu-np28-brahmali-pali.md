@@ -151,7 +151,8 @@ Anadhiṭṭhite adhiṭṭhitasaññī … pe … avikappite vikappitasaññī 
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np28-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP28]] |
->|       |          | [[ñanatusita-analysis#^NP28]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP28]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP28]]

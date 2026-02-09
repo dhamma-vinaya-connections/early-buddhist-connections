@@ -24,3 +24,5 @@ appalābho pi ce bhikkhu salābhaṃ nātimaññati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp365-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP365]]
+> ◄  [[dhp364-pali-pts]] 📜  [[dhp366-pali-pts]] ►

@@ -483,6 +483,6 @@ were delighted and carried out what was taught by the Buddha.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN33]], [[DN34]] | [[DA10]], [[DA9]] |  |
+> |  | [[DA10]], [[DA9]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA11]]
 > ◄  [[da10-bdk]] 📜  [[da12-bdk]] ►

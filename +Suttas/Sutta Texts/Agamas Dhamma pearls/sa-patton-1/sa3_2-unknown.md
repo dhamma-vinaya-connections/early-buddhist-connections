@@ -36,3 +36,5 @@ They answered, “Yes, Bhagavān!”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa3_2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_2]]
+> ◄  [[SA3_1]] 📜  [[SA3_3]] ►

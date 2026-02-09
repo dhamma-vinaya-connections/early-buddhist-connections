@@ -59,3 +59,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.51-60-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.51-60]]
+> ◄  [[]] 📜  [[an2.11-20-anigha]] ►

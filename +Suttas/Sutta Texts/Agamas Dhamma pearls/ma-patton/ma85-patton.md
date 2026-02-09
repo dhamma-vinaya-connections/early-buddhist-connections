@@ -117,7 +117,7 @@ The monks then accepted the teaching and listened.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN113]] | [[EA17.9]] |  |
+> |  | [[EA17.9]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN2.23]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[AN5.36]] |
@@ -126,6 +126,7 @@ The monks then accepted the teaching and listened.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.31]], [[AN4.73]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA85]]
 > ◄  [[ma84-patton]] 📜  [[ma92-patton]] ►

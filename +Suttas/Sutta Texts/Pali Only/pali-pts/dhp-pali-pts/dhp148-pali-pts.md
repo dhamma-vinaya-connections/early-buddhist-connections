@@ -24,3 +24,5 @@ yān'; imāni apatthāni alāpūn'; eva sārade /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp148-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP148]]
+> ◄  [[dhp147-pali-pts]] 📜  [[dhp149-pali-pts]] ►

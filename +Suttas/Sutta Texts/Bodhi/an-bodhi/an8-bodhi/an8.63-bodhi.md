@@ -54,7 +54,7 @@ Having received such an exhortation from the Blessed One, that bhikkhu rose from
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN47.3]] | [[MA76]] | A iv 299 |
+> |  | [[MA76]] | A iv 299 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA76]], [[SN47.3]] |
@@ -63,6 +63,7 @@ Having received such an exhortation from the Blessed One, that bhikkhu rose from
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.53]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.63]]
 > ◄  [[an8.62-bodhi]] 📜  [[an8.64-bodhi]] ►

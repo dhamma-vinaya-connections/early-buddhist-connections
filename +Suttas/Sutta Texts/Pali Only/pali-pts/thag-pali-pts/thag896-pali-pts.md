@@ -23,3 +23,5 @@ vicini aggahī dhovi rajayī dhārayī muni
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag896-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG896]]
+> ◄  [[thag895-pali-pts]] 📜  [[thag897-pali-pts]] ►

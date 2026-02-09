@@ -54,5 +54,6 @@ language: "English - Pali"
 | [[SA-2.250]], [[SA1215]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.1]]
 > ◄  [[]] 📜  [[sn8.2-deepseek-pali]] ►

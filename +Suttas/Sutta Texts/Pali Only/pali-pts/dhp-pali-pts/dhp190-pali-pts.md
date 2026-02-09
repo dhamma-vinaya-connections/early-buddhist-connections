@@ -24,3 +24,5 @@ dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp190-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP190]]
+> ◄  [[dhp189-pali-pts]] 📜  [[dhp191-pali-pts]] ►

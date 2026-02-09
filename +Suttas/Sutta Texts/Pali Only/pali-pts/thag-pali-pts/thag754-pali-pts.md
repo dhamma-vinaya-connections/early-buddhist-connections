@@ -23,3 +23,5 @@ ajjhattaṃ me samuṭṭhāya khippaṃ paccati māmakaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag754-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG754]]
+> ◄  [[thag753-pali-pts]] 📜  [[thag755-pali-pts]] ►

@@ -73,9 +73,5 @@ old age, sickness, death, sorrow, and distress. I have now attained com- plete l
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma63-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN81]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA63]]
 > ◄  [[ma62-bdk]] 📜  [[ma64-bdk]] ►

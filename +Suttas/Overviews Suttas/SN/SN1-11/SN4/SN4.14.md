@@ -92,4 +92,5 @@ From attraction and repulsion
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.14
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.14.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.13]]  🌐 [[SN4.15]] ►

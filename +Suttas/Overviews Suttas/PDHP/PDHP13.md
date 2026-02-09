@@ -94,4 +94,5 @@ he is said to be a fool indeed.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp13
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp13.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP12]]  🌐 [[PDHP14]] ►

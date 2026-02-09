@@ -29,5 +29,10 @@ is contact conditioned? The answer is: contact is conditioned by the six senses.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma55-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MA42]], [[MA43]], [[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA55]]
 > ◄  [[ma54-bdk]] 📜  [[ma56-bdk]] ►

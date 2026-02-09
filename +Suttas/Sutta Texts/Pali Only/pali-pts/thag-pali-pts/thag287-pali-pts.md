@@ -23,3 +23,5 @@ mahappabhaṃ gaṇācariyaṃ aggapattaṃ vināyakaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag287-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG287]]
+> ◄  [[thag286-pali-pts]] 📜  [[thag288-pali-pts]] ►

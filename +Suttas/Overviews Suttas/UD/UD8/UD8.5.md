@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN8.68-70]], [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.6]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DN16]], [[AN8.68-70]], [[DA2]], [[UD6.1]], [[UD8.6]], [[SN51.10]], [[AN10.176]], [[PE2]], [[PE8]]"
 ---
@@ -73,7 +73,7 @@ is totally unbound.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.68-70]], [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.6]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN16]], [[AN8.68-70]], [[DA2]], [[UD6.1]], [[UD8.6]], [[SN51.10]], [[AN10.176]], [[PE2]], [[PE8]] |
@@ -99,5 +99,6 @@ is totally unbound.
 > - Sutta Central: https://suttacentral.net/ud8.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.5
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.5.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.4]]  🌐 [[UD8.6]] ►

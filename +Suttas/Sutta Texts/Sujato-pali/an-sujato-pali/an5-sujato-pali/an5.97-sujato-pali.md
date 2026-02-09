@@ -70,5 +70,6 @@ Sattamaṁ.
 | [[SA801]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.97]]
 > ◄  [[an5.96-sujato-pali]] 📜  [[an5.98-sujato-pali]] ►

@@ -90,4 +90,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.115
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.115.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.114]]  🌐 [[AN6.116]] ►

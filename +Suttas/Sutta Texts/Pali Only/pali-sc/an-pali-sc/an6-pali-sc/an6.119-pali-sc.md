@@ -25,3 +25,5 @@ Tatiyaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.119-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.119]]
+> ◄  [[an6.118-pali-sc]] 📜  [[an6.120-pali-sc]] ►

@@ -23,3 +23,5 @@ so 'haṃ tato cavitvā nirayamhi apaccisaṃ ciraṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig435-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG435]]
+> ◄  [[thig434-pali-pts]] 📜  [[thig436-pali-pts]] ►

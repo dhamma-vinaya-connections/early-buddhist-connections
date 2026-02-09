@@ -23,3 +23,5 @@ saritvā pubbake yogī tesaṃ vattam anussaraṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag946-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG946]]
+> ◄  [[thag945-pali-pts]] 📜  [[thag947-pali-pts]] ►

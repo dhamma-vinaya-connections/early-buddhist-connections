@@ -47,5 +47,6 @@ Atha kho Māro pāpimā jānāti maṃ Selā bhikkhunī ti dukkhī dummano tatth
 | [[SA-2.219]], [[SA1203]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
 > ◄  [[sn5.8-pali-pts]] 📜  [[sn5.10-pali-pts]] ►

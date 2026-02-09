@@ -66,5 +66,6 @@ Aṭṭhamaṁ.
 | [[PLI-TV-KD17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.8]]
 > ◄  [[ud5.7-anandajoti-pali]] 📜  [[ud5.9-anandajoti-pali]] ►

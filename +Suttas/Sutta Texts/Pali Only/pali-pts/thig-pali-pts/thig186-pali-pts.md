@@ -23,3 +23,5 @@ tassāhaṃ vacanaṃ sutvā vihariṃ sāsane ratā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig186-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG186]]
+> ◄  [[thig185-pali-pts]] 📜  [[thig187-pali-pts]] ►

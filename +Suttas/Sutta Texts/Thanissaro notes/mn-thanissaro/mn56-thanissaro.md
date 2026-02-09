@@ -401,8 +401,9 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  | [[MA133]] | M i 371 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA133]]; [[AN4.193]] |
+| [[MA133]], [[AN4.193]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-thanissaro]] 📜  [[mn58-thanissaro]] ►

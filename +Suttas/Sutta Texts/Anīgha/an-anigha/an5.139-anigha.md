@@ -83,5 +83,6 @@ A bhikkhu with these five qualities is worthy of offerings dedicated to the gods
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN2]], [[AN3.94]], [[AN5.139]], [[AN8.13]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.139]]
 > ◄  [[an5.114-anigha]] 📜  [[an5.151-anigha]] ►

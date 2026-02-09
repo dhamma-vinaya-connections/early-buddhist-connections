@@ -109,5 +109,10 @@ The Āmagandha Sutta, the second, is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.2-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN55]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.2]]
 > ◄  [[snp2.1-deepseek-pali]] 📜  [[snp2.3-deepseek-pali]] ►

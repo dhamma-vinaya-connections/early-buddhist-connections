@@ -54,5 +54,6 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Rājagaha on 
 | [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.23]]
 > ◄  [[an7.22-bodhi]] 📜  [[an7.24-bodhi]] ►

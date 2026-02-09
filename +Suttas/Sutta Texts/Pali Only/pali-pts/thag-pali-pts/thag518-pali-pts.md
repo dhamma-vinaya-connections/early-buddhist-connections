@@ -23,3 +23,5 @@ yadā dukkhassāvahaniṃ visattikaṃ papañcasaṃghāṭadukhādhivāhaniṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag518-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG518]]
+> ◄  [[thag517-pali-pts]] 📜  [[thag519-pali-pts]] ►

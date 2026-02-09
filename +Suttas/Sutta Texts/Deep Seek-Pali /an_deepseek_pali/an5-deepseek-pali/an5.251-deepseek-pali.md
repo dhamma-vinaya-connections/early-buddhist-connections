@@ -34,5 +34,6 @@ language: "English - Pali"
 | [[PLI-TV-KD1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.251]]
 > ◄  [[an5.250-deepseek-pali]] 📜  [[an5.252-deepseek-pali]] ►

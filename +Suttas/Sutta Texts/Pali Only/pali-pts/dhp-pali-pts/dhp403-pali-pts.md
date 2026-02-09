@@ -24,3 +24,5 @@ asaṃsaṭṭhaṃ gahaṭṭhehi anāgārehi c'; ūbhayaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp403-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP403]]
+> ◄  [[dhp402-pali-pts]] 📜  [[dhp404-pali-pts]] ►

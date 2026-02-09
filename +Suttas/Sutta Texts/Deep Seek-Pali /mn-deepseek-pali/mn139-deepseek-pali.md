@@ -147,8 +147,9 @@ The Discourse on the Analysis of the Truths, the eleventh, is concluded.
 > |  | [[MA169]] | M iii 230 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA169]]; [[MN122]]; [[MN13]]; [[MN14]]; [[SN36.20]]; [[SN36.19]]; [[AN6.63]] |
+| [[MA169]], [[MN122]], [[MN13]], [[MN14]], [[SN36.20]], [[SN36.19]], [[AN6.63]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN139]]
 > ◄  [[mn138-deepseek-pali]] 📜  [[mn140-deepseek-pali]] ►

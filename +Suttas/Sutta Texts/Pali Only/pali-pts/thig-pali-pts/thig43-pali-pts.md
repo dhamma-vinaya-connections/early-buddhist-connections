@@ -24,3 +24,5 @@ sattāhaṃ ekapallaṅke nisīdiṃ pītisukhasamappitā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig43-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG43]]
+> ◄  [[thig42-pali-pts]] 📜  [[thig44-pali-pts]] ►

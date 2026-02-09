@@ -27,11 +27,12 @@ Ye hi keci bhikkhave atītam addhānaṃ parihāyiṃsu kusalehi dhammehi, sabbe
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.56]] |  | A iii 310 |
+> |  |  | A iii 310 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.56]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.23]]
 > ◄  [[an6.22-pali-pts]] 📜  [[an6.24-pali-pts]] ►

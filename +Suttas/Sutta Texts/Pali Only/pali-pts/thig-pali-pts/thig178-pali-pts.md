@@ -23,3 +23,5 @@ rattiyā purime yāme pubbajātim anussariṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig178-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG178]]
+> ◄  [[thig177-pali-pts]] 📜  [[thig179-pali-pts]] ►

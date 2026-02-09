@@ -88,7 +88,7 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.100]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN142]] |
@@ -97,6 +97,7 @@ language: "English"
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.217]], [[AN10.218]], [[AN10.219]], [[MA15]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA11]]
 > ◄  [[ma10-patton]] 📜  [[ma12-patton]] ►

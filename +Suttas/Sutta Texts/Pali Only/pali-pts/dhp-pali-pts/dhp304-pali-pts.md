@@ -24,3 +24,5 @@ ekāsanaṃ ekaseyyaṃ eko caram atandito /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp304-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP304]]
+> ◄  [[dhp303-pali-pts]] 📜  [[dhp305-pali-pts]] ►

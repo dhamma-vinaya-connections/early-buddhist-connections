@@ -23,3 +23,5 @@ vane kusumasañchanne pabbhāre nūna sītale
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag544-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG544]]
+> ◄  [[thag543-pali-pts]] 📜  [[thag545-pali-pts]] ►

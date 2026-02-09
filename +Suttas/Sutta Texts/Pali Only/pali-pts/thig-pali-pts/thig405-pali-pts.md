@@ -23,3 +23,5 @@ atha me Sāketato varako āgacchi uttamakulīno |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig405-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG405]]
+> ◄  [[thig404-pali-pts]] 📜  [[thig406-pali-pts]] ►

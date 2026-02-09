@@ -89,3 +89,5 @@ tumhehi puññaṁ pasutaṁ anappakaṁ!
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP7]]
+> ◄  [[kp6-pali-sc]] 📜  [[kp8-pali-sc]] ►

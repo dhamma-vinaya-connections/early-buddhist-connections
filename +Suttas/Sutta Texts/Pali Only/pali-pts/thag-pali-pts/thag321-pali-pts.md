@@ -22,3 +22,5 @@ sabbāni pi ce ossajjeyya andho va siyā samavisamassa adassanato.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag321-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG321]]
+> ◄  [[thag317-pali-pts]] 📜  [[thag322-pali-pts]] ►

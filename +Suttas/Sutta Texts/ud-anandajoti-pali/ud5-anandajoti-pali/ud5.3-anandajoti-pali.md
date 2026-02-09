@@ -127,3 +127,5 @@ Tatiyaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.3]]
+> ◄  [[ud5.2-anandajoti-pali]] 📜  [[ud5.4-anandajoti-pali]] ►

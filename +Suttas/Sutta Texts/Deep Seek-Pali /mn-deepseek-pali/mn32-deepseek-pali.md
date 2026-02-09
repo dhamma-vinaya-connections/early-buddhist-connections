@@ -91,8 +91,9 @@ The Great Gosiṅga Sutta, the second, is concluded.
 > |  | [[EA37.3]]; [[MA184]] | M i 212 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA37.3]]; [[MA184]] |
+| [[EA37.3]], [[MA184]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
 > ◄  [[mn31-deepseek-pali]] 📜  [[mn33-deepseek-pali]] ►

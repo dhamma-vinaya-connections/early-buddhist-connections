@@ -155,7 +155,8 @@ Anuyyutte uyyuttasaññī, āpatti dukkaṭassa. Anuyyutte vematiko, āpatti duk
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc129-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC129]] |
->|       |          | [[ñanatusita-analysis#^-PC129]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC129]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC129]]

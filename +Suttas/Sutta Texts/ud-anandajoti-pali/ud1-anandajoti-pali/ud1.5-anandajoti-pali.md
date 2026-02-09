@@ -52,3 +52,5 @@ Pañcamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.5]]
+> ◄  [[ud1.4-anandajoti-pali]] 📜  [[ud1.6-anandajoti-pali]] ►

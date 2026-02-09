@@ -72,3 +72,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa6_5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA6_5]]
+> ◄  [[SA4_55]] 📜  [[SA6_28]] ►

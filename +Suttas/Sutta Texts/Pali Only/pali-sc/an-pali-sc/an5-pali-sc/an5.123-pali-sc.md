@@ -36,5 +36,6 @@ Tatiyaṁ.
 | [[EA32.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.123]]
 > ◄  [[an5.122-pali-sc]] 📜  [[an5.124-pali-sc]] ►

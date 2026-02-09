@@ -42,5 +42,6 @@ Paṭhamaṁ.
 | [[EA24.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.41]]
 > ◄  [[an3.40-sujato-pali]] 📜  [[an3.42-sujato-pali]] ►

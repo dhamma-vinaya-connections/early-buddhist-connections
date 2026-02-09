@@ -23,3 +23,5 @@ yadā nadīnaṃ kusumākulānaṃ vicittavāneyyavaṭaṃsakānaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag522-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG522]]
+> ◄  [[thag521-pali-pts]] 📜  [[thag523-pali-pts]] ►

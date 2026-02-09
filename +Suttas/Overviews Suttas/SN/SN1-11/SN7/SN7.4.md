@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[DHP125]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.77]], [[SA1154]]"
-parallels_partilal: "[[SA-2.77]], [[SA1154]], [[DHP125]], [[JA367]], [[SN1.22]], [[SNP3.10]]"
+parallels_partilal: "[[SA-2.77]], [[SA1154]], [[DHP\|DHP125]], [[JA367]], [[SN1.22]], [[SNP3.10]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.3]]  🌐 [[SN7.5]] ►
 
@@ -66,10 +66,10 @@ You win a battle hard to win
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP125]] | [[SA-2.77]], [[SA1154]] |  |
+> |  | [[SA-2.77]], [[SA1154]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.77]], [[SA1154]], [[DHP125]], [[JA367]], [[SN1.22]], [[SNP3.10]] |
+| [[SA-2.77]], [[SA1154]], [[DHP\|DHP125]], [[JA367]], [[SN1.22]], [[SNP3.10]] |
 | ------------------------ |
 
 
@@ -89,5 +89,6 @@ You win a battle hard to win
 > - Sutta Central: https://suttacentral.net/sn7.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.4.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.3]]  🌐 [[SN7.5]] ►

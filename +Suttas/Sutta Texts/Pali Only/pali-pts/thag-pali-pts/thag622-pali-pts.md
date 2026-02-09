@@ -23,3 +23,5 @@ nikkhipitvāna byābhaṅgiṃ vandituṃ upasaṃkamiṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag622-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG622]]
+> ◄  [[thag621-pali-pts]] 📜  [[thag623-pali-pts]] ►

@@ -23,3 +23,5 @@ ambilamadhuraggañ ca tittakaggam anussaraṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag732-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG732]]
+> ◄  [[thag731-pali-pts]] 📜  [[thag733-pali-pts]] ►

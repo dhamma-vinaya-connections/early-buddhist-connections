@@ -24,3 +24,5 @@ uyyuñjanti satīmanto na nikete ramanti te /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp90-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP90]]
+> ◄  [[dhp89-pali-pts]] 📜  [[dhp91-pali-pts]] ►

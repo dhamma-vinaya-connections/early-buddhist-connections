@@ -57,5 +57,6 @@ he doesn’t strain, for he’s gone
 | [[SA-2.310]], [[SA1311]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.5]]
 > ◄  [[sn2.2-thanissaro]] 📜  [[sn2.7-thanissaro]] ►

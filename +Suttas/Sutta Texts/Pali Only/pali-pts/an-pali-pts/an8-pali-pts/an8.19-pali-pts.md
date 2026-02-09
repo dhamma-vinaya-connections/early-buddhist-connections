@@ -34,5 +34,6 @@ Imehi kho bhikkhave aṭṭhah'; ākārehi puriso itthiṃ bandhati. Tehi bhikkh
 | [[EA42.4]], [[MA35]], [[PLI-TV-KD19]], [[UD5.5]], [[AN8.20]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
 > ◄  [[an8.18-pali-pts]] 📜  [[an8.20-pali-pts]] ►

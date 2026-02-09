@@ -23,3 +23,5 @@ ye keci Vaḍḍha saṅkhārā hīnaukkaṭṭhamajjhimā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig207-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG207]]
+> ◄  [[thig206-pali-pts]] 📜  [[thig208-pali-pts]] ►

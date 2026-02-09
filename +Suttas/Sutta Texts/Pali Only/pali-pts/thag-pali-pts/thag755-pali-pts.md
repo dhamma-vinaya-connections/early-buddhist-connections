@@ -23,3 +23,5 @@ taṃ na passāmi tekicchaṃ yo me taṃ sallam uddhare
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag755-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG755]]
+> ◄  [[thag754-pali-pts]] 📜  [[thag756-pali-pts]] ►

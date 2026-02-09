@@ -76,7 +76,7 @@ wax from the ears,
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN119]], [[AN4.163]], [[AN7.48]], [[AN9.15]], [[DHP147]], [[DHP150]], [[THAG6.9]], [[THAG7.1]], [[THAG10.5]], [[THIG13.1]]
+> - [[MN119]], [[AN4.163]], [[AN7.48]], [[AN9.15]], [[DHP\|DHP147]], [[DHP\|DHP150]], [[THAG6]].9, [[THAG7]].1, [[THAG10]].5, [[THIG13]].1
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -94,5 +94,6 @@ wax from the ears,
 > - Sutta Central: https://suttacentral.net/snp1.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.11
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.11.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.10]]  🌐 [[SNP1.12]] ►

@@ -146,3 +146,5 @@ Pakiṇṇakavaggo ekavīsatimo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp21-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP21-BUDDHARAKKHITA]]
+> ◄  [[dhp20-buddharakkhita-pali]] 📜  [[dhp22-buddharakkhita-pali]] ►

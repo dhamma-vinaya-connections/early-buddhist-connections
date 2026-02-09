@@ -35,5 +35,6 @@ Imehi kho bhikkhave catuhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ
 | [[MN11]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.241]]
 > ◄  [[an4.240-pali-pts]] 📜  [[an4.242-pali-pts]] ►

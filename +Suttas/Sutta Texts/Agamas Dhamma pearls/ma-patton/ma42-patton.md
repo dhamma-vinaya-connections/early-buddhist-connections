@@ -86,11 +86,12 @@ The Bhagavān replied, “Ānanda, the lack of desire has the purpose of causing
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.1]], [[AN11.1]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA42]]
 > ◄  [[ma41-patton]] 📜  [[ma43-patton]] ►

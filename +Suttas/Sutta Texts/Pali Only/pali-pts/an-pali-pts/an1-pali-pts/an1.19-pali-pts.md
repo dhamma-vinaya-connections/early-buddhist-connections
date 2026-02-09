@@ -34,5 +34,6 @@ Vūpasanta-cittassa bhikkhave anuppannaṃ c'; eva uddhaccakukkuccaṃ n'; uppaj
 | [[EA9.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.19]]
 > ◄  [[an1.18-pali-pts]] 📜  [[an1.20-pali-pts]] ►

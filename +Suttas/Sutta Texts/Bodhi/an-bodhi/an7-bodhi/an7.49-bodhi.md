@@ -89,5 +89,6 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.70]], [[AN9.16]], [[AN10.60]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.49]]
 > ◄  [[an7.48-bodhi]] 📜  [[an7.50-bodhi]] ►

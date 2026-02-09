@@ -71,5 +71,6 @@ Chaṭṭhaṁ.
 | [[SA-2.20]], [[SA1081]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.128]]
 > ◄  [[an3.127-pali-sc]] 📜  [[an3.129-pali-sc]] ►

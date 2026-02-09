@@ -24,3 +24,5 @@ ath'; addasāsiṃ sambuddhaṃ bhikkhusaṃghapurakkhataṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag621-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG621]]
+> ◄  [[thag620-pali-pts]] 📜  [[thag622-pali-pts]] ►

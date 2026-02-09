@@ -44,5 +44,6 @@ pañcabhi parisujjhatī"ti.
 | [[SA-2.141]], [[SA1003]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.6]]
 > ◄  [[sn1.5-pali-sc]] 📜  [[sn1.7-pali-sc]] ►

@@ -40,5 +40,6 @@ samaṇam punappunāyantaṃ || abhinandanti paṇḍitāti || ||
 | [[SA-2.164]], [[SA579]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
 > ◄  [[sn1.6-pali-pts]] 📜  [[sn1.8-pali-pts]] ►

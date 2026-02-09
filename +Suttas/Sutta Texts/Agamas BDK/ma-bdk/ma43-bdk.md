@@ -26,11 +26,12 @@ is a law of nature that those who have concentration will see things as they rea
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.2]], [[AN11.2]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA43]]
 > ◄  [[ma42-bdk]] 📜  [[ma44-bdk]] ►

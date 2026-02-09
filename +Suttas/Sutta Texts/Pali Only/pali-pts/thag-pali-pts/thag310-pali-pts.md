@@ -23,3 +23,5 @@ Pabbajiṃ jīvikattho 'haṃ, laddhāna upasampadaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag310-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG310]]
+> ◄  [[thag309-pali-pts]] 📜  [[thag311-pali-pts]] ►

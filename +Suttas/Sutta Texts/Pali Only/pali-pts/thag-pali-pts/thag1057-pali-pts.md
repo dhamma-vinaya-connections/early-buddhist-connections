@@ -24,3 +24,5 @@ tassa buddhassa dāyādo sampajāno patissato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1057-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1057]]
+> ◄  [[thag1056-pali-pts]] 📜  [[thag1058-pali-pts]] ►

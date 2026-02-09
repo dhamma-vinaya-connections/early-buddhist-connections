@@ -54,5 +54,6 @@ Then Māra… vanished right there.
 | [[DN19]], [[SA-2.23]], [[SA1084]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.9]]
 > ◄  [[sn4.8-deepseek-pali]] 📜  [[sn4.10-deepseek-pali]] ►

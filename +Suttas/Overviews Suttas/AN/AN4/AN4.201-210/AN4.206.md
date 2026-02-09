@@ -88,4 +88,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.206
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.206.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.205]]  🌐 [[AN4.207]] ►

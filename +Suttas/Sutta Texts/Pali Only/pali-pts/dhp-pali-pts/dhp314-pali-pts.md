@@ -25,3 +25,5 @@ evaṃ gopetha attānaṃ, khaṇo ve mā upaccagā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp314-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP314]]
+> ◄  [[dhp313-pali-pts]] 📜  [[dhp315-pali-pts]] ►

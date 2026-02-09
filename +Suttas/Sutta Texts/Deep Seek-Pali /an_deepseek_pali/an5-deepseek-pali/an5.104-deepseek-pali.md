@@ -46,5 +46,6 @@ language: "English - Pali"
 | [[AN4.87]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.104]]
 > ◄  [[an5.103-deepseek-pali]] 📜  [[an5.105-deepseek-pali]] ►

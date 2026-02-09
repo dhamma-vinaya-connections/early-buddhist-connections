@@ -23,3 +23,5 @@ tassa taṃ vacanaṃ sutvā abbhutaṃ lomahaṃsanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag719-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG719]]
+> ◄  [[thag718-pali-pts]] 📜  [[thag720-pali-pts]] ►

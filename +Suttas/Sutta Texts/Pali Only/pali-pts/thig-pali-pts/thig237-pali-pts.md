@@ -23,3 +23,5 @@ jānantī ca tuvaṃ bhoti Puṇṇike paripucchasi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig237-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG237]]
+> ◄  [[thig236-pali-pts]] 📜  [[thig238-pali-pts]] ►

@@ -147,12 +147,13 @@ The Great Mass of Suffering Discourse, the third, is concluded.
 > |  | [[EA21.9]]; [[MA99]] | M i 83 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA21.9]]; [[MA99]]; [[AN2.1]]; [[MN129]]; [[AN6.63]]; [[MN14]]; [[MN139]]; [[SN36.20]]; [[SN36.19]] |
+| [[EA21.9]], [[MA99]], [[AN2.1]], [[MN129]], [[AN6.63]], [[MN14]], [[MN139]], [[SN36.20]], [[SN36.19]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN14]], [[MN54]]]]; [[[[SN35.63]]]]; [[[[SN35.115]]]]; [[[[SN35.189]]]]; [[[[AN6.63]]]]; [[[[AN9.34]]]]; [[[[AN9.36]]]]; [[[[THIG13.1]]
+> - [[MN14]], [[MN54]], [[SN35.63]], [[SN35.115]], [[SN35.189]], [[AN6.63]], [[AN9.34]], [[AN9.36]], [[THIG13]].1.
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
 > ◄  [[mn12-deepseek-pali]] 📜  [[mn14-deepseek-pali]] ►

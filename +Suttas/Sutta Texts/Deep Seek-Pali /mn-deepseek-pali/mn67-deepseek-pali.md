@@ -68,11 +68,12 @@ The Cātuma Sutta, the seventh, is concluded.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.122]] | [[EA45.2]] | M i 456 |
+> |  | [[EA45.2]] | M i 456 |
 > > [!check]- Partial parallels 
 > > 
-| [[SN22.80]]; [[EA45.2]]; [[AN4.122]]; [[UD3.3]] |
+| [[SN22.80]], [[EA45.2]], [[AN4.122]], [[UD3.3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN67]]
 > ◄  [[mn66-deepseek-pali]] 📜  [[mn68-deepseek-pali]] ►

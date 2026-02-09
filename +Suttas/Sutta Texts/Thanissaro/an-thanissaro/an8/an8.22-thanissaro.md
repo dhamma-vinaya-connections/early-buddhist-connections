@@ -61,5 +61,6 @@ Then the monk, having received almsfood at the home of Ugga the householder of H
 | [[MA38]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.22]]
 > ◄  [[an8.19-thanissaro]] 📜  [[an8.23-thanissaro]] ►

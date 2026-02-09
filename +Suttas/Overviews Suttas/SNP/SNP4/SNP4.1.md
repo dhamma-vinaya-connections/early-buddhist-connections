@@ -81,7 +81,7 @@ has reached the far shore.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN13]], [[MN14]], [[MN22]], [[MN54]], [[SN1.20]], [[SN35.63]], [[SN35.115]], [[SN35.197]], [[AN6.63]], [[SN2.8]], [[THAG5.1]], [[THAG7.1]], [[THAG10.5]], [[THIG5.4]], [[THIG13.5]]
+> - [[MN13]], [[MN14]], [[MN22]], [[MN54]], [[SN1.20]], [[SN35.63]], [[SN35.115]], [[SN35.197]], [[AN6.63]], [[SN2.8]], [[THAG5]].1, [[THAG7]].1, [[THAG10]].5, [[THIG5]].4, [[THIG13]].5
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -99,5 +99,6 @@ has reached the far shore.
 > - Sutta Central: https://suttacentral.net/snp4.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.1
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.1.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.12]]  🌐 [[SNP4.2]] ►

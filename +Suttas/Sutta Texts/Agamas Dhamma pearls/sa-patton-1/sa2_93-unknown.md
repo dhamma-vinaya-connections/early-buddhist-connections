@@ -36,3 +36,5 @@ He answered, “No, Bhagavān.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_93-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_93]]
+> ◄  [[SA2_81-92]] 📜  [[SA2_95]] ►

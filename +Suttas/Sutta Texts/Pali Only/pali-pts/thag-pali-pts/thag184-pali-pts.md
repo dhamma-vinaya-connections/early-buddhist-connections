@@ -23,3 +23,5 @@ Arahaṃ sugato loke vāteh'; ābādhito muni;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag184-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG184]]
+> ◄  [[thag183-pali-pts]] 📜  [[thag185-pali-pts]] ►

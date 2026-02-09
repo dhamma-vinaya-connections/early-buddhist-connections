@@ -69,5 +69,6 @@ Dasamaṁ.
 | [[AN5.156]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.160]]
 > ◄  [[an4.159-pali-sc]] 📜  [[an4.161-pali-sc]] ►

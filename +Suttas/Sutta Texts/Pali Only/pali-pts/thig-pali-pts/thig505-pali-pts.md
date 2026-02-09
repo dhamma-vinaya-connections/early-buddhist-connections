@@ -23,3 +23,5 @@ mokkhamhi vijjamāne kin tava kāmehi yesu vaḍhabandho |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig505-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG505]]
+> ◄  [[thig504-pali-pts]] 📜  [[thig506-pali-pts]] ►

@@ -23,3 +23,5 @@ na hi jātu so mamaṃ hiṃse aññaṃ vā pana kañcinaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag875-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG875]]
+> ◄  [[thag874-pali-pts]] 📜  [[thag876-pali-pts]] ►

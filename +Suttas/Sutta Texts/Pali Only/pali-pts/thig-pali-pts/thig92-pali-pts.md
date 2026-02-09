@@ -25,3 +25,5 @@ riñcitvā paramaṃ atthaṃ hīnam atthaṃ asevi 'haṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig92-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG92]]
+> ◄  [[thig91-pali-pts]] 📜  [[thig93-pali-pts]] ►

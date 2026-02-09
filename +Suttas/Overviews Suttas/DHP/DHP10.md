@@ -36,7 +36,7 @@ sutta_audience:
   - "People"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[JA221]], [[JA514]], [[THAG17.1]]"
+parallels_partilal: "[[JA221]], [[JA514]], [[THAG17]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP9]]  🌐 [[DHP11]] ►
 
@@ -74,7 +74,7 @@ and the rod may spring back on you
 > |  |  | Dh 37 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA221]], [[JA514]], [[THAG17.1]] |
+| [[JA221]], [[JA514]], [[THAG17]].1 |
 | ------------------------ |
 
 
@@ -94,5 +94,6 @@ and the rod may spring back on you
 > - Sutta Central: https://suttacentral.net/dhp10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp10
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp10.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP9]]  🌐 [[DHP11]] ►

@@ -92,4 +92,5 @@ You’re defeated, end-maker
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.11
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.11.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.10]]  🌐 [[SN4.12]] ►

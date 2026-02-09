@@ -23,3 +23,5 @@ sukhumaṃ paṭivijjhanti vālaggam usunā yathā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1159-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1159]]
+> ◄  [[thag1158-pali-pts]] 📜  [[thag1160-pali-pts]] ►

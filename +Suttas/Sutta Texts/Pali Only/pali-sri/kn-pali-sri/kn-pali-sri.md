@@ -782,3 +782,5 @@ Khuddatapāṭhapāḷi niṭṭhitā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kn-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KN]]  / 🌐 [[KN]]
+> ◄  [[]] 📜  [[]] ►

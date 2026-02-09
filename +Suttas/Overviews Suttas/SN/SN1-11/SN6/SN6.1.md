@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahma"
-parallels_nikaya: "[[DN14]], [[MN26]], [[MN85]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA19.1]], [[EA24.5]], [[MA204]]"
 parallels_partilal: "[[MN85]], [[PLI-TV-KD15]], [[DN14]], [[MA204]], [[MN100]], [[MN26]], [[MN36]], [[ITI38]], [[PLI-TV-KD1]], [[SN11.17]], [[EA19.1]], [[EA24.5]]"
 ---
@@ -70,7 +70,7 @@ The sophisticated, sublime Dhamma among humans
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN14]], [[MN26]], [[MN85]] | [[EA19.1]], [[EA24.5]], [[MA204]] |  |
+> |  | [[EA19.1]], [[EA24.5]], [[MA204]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN85]], [[PLI-TV-KD15]], [[DN14]], [[MA204]], [[MN100]], [[MN26]], [[MN36]], [[ITI38]], [[PLI-TV-KD1]], [[SN11.17]], [[EA19.1]], [[EA24.5]] |
@@ -93,5 +93,6 @@ The sophisticated, sublime Dhamma among humans
 > - Sutta Central: https://suttacentral.net/sn6.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.1.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.10]]  🌐 [[SN6.2]] ►

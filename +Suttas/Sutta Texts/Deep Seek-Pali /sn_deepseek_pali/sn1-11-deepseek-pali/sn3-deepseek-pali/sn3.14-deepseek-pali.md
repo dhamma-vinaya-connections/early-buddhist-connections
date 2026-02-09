@@ -44,11 +44,12 @@ Victory begets enmity; the defeated lie down in suffering. The peaceful lie down
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP201]] | [[SA-2.63]], [[SA1236]] |  |
+> |  | [[SA-2.63]], [[SA1236]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.63]], [[SA1236]], [[DHP201]] |
+| [[SA-2.63]], [[SA1236]], [[DHP\|DHP201]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.14]]
 > ◄  [[sn3.13-deepseek-pali]] 📜  [[sn3.15-deepseek-pali]] ►

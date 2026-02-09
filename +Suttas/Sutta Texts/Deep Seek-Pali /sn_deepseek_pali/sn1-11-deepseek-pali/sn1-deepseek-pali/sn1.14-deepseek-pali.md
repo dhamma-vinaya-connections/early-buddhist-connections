@@ -46,5 +46,6 @@ and a dutiful child is best among children.
 | [[SA-2.233]], [[SA1007]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.14]]
 > ◄  [[sn1.13-deepseek-pali]] 📜  [[sn1.15-deepseek-pali]] ►

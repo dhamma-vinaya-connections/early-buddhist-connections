@@ -99,13 +99,10 @@ They answered, “No.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma101-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN100]], [[MN20]], [[MN26]], [[MN36]], [[MN4]], [[MN85]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN10]], [[MN19]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA101]]
 > ◄  [[ma98-patton]] 📜  [[ma106-patton]] ►

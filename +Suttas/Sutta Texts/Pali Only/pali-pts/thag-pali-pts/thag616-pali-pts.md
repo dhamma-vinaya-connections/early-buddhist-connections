@@ -23,3 +23,5 @@ idh'; eva nindaṃ labhati peccāpāye ca dummano,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag616-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG616]]
+> ◄  [[thag615-pali-pts]] 📜  [[thag617-pali-pts]] ►

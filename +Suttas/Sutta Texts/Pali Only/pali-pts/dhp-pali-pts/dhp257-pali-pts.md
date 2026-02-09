@@ -23,3 +23,5 @@ na tena paṇḍito hoti yāvatā bahu bhāsati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp257-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP257]]
+> ◄  [[dhp256-pali-pts]] 📜  [[dhp258-pali-pts]] ►

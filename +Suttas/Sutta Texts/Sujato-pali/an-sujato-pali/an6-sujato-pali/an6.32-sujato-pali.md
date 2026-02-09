@@ -70,15 +70,16 @@ Dutiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.32]], [[DHP32]] |  | A iii 330 |
+> |  |  | A iii 330 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN7.32]], [[DHP32]], [[AN4.37]], [[AN6.33]], [[AN7.33]], [[AN7.34]] |
+| [[AN7.32]], [[DHP\|DHP32]], [[AN4.37]], [[AN6.33]], [[AN7.33]], [[AN7.34]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.31]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.32]]
 > ◄  [[an6.31-sujato-pali]] 📜  [[an6.33-sujato-pali]] ►

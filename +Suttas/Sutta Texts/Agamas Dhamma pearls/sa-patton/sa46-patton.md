@@ -47,11 +47,12 @@ Summary Verse
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.79]] | [[SA46]] |  |
+> |  | [[SA46]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[AN11.9]], [[THAG18.1]], [[SA46]], [[SN22.79]] |
+| [[AN11.9]], [[THAG18]].1, [[SA46]], [[SN22.79]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA46]]
 > ◄  [[sa45-patton]] 📜  [[sa47-patton]] ►

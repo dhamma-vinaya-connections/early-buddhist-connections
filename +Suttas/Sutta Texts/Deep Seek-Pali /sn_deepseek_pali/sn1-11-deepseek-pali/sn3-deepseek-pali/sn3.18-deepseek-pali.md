@@ -90,5 +90,6 @@ The heedful wise one grasps both kinds of welfare: welfare in this present life 
 | [[SA1238]], [[SA-2.65]], [[AN5.43]], [[ITI23]], [[SN3.17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
 > ◄  [[sn3.17-deepseek-pali]] 📜  [[sn3.19-deepseek-pali]] ►

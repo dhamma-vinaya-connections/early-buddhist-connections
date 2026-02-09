@@ -26,3 +26,5 @@ suññato animitto ca vimokkho yassa gocaro,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag91-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG91]]
+> ◄  [[thag90-pali-pts]] 📜  [[thag92-pali-pts]] ►

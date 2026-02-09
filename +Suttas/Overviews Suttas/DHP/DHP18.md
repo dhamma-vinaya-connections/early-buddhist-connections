@@ -95,4 +95,5 @@ You're far from their ending
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp18
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp18.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP17]]  🌐 [[DHP19]] ►

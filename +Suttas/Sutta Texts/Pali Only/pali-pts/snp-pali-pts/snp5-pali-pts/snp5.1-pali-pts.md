@@ -160,3 +160,5 @@ VATTHUGĀTHĀ NIṬṬHITĀ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.1]]
+> ◄  [[]] 📜  [[snp5.2-pali-pts]] ►

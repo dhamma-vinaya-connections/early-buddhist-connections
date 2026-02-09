@@ -23,3 +23,5 @@ telasaṇhehi kesehi capalā añjanakkhikā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag959-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG959]]
+> ◄  [[thag958-pali-pts]] 📜  [[thag960-pali-pts]] ►

@@ -80,7 +80,7 @@ like a suckling calf its mother
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG4.8]]
+> - [[THAG4]].8
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -98,5 +98,6 @@ like a suckling calf its mother
 > - Sutta Central: https://suttacentral.net/ud7.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.3
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.3.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.2]]  🌐 [[UD7.4]] ►

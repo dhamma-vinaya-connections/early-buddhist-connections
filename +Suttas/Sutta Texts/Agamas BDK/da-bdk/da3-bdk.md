@@ -244,9 +244,5 @@ delighted and respectfully followed what had been instructed.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:da3-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[DN19]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA3]]
 > ◄  [[da2-bdk]] 📜  [[da4-bdk]] ►

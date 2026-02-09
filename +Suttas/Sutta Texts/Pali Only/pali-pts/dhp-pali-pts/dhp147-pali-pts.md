@@ -24,3 +24,5 @@ parijiṇṇaṃ idaṃ rūpaṃ roganiḍḍaṃ pabhaṅguṇaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp147-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP147]]
+> ◄  [[dhp146-pali-pts]] 📜  [[dhp148-pali-pts]] ►

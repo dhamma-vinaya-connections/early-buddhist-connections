@@ -118,5 +118,6 @@ kālaṁ kaṅkhati sudanto"ti.
 | [[SA-2.305]], [[SA1306]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
 > ◄  [[sn2.28-sujato-pali]] 📜  [[sn2.30-sujato-pali]] ►

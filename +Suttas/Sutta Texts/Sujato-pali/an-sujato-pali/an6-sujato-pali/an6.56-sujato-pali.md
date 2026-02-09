@@ -146,5 +146,6 @@ Dutiyaṁ.
 | [[SA1023]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
 > ◄  [[an6.55-sujato-pali]] 📜  [[an6.57-sujato-pali]] ►

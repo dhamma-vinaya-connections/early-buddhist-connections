@@ -23,3 +23,5 @@ bhajitabbā sappurisā paññā tathā pavaḍḍhati bhajantānaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig213-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG213]]
+> ◄  [[thig212-pali-pts]] 📜  [[thig214-pali-pts]] ►

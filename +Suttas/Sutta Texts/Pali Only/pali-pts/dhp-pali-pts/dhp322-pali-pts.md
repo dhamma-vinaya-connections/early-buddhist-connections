@@ -24,3 +24,5 @@ na hi etehi yānehi gaccheyya agataṃ disaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp322-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP322]]
+> ◄  [[dhp321-pali-pts]] 📜  [[dhp323-pali-pts]] ►

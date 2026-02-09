@@ -25,3 +25,5 @@ yo ca appam pi sutvāna dhammaṃ kāyena passati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp258-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP258]]
+> ◄  [[dhp257-pali-pts]] 📜  [[dhp259-pali-pts]] ►

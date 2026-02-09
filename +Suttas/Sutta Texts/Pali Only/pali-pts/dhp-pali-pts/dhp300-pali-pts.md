@@ -24,3 +24,5 @@ suppabuddhaṃ pabujjhanti sadā Gotamasāvakā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp300-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP300]]
+> ◄  [[dhp299-pali-pts]] 📜  [[dhp301-pali-pts]] ►

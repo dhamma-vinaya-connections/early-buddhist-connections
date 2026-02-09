@@ -48,7 +48,7 @@ This meaning, too, was spoken by the Blessed One, thus have I heard. The ninth.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN46.40]] | [[SA706]] |  |
+> |  | [[SA706]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN46.40]], [[SA706]] |
@@ -57,6 +57,7 @@ This meaning, too, was spoken by the Blessed One, thus have I heard. The ninth.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN19]], [[MN20]], [[ITI110]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI87]]
 > ◄  [[iti86-deepseek-pali]] 📜  [[iti88-deepseek-pali]] ►

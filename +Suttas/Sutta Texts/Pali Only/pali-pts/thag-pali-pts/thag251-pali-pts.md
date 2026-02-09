@@ -24,3 +24,5 @@ Paṇḍitaṃ vata maṃ santaṃ alamatthavicintakaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag251-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG251]]
+> ◄  [[thag250-pali-pts]] 📜  [[thag252-pali-pts]] ►

@@ -24,3 +24,5 @@ yassāhaṃ vacanaṃ sutvā anusiṭṭho janettiyā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag334-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG334]]
+> ◄  [[thag333-pali-pts]] 📜  [[thag335-pali-pts]] ►

@@ -134,3 +134,5 @@ nihato tvamasi antaka".
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG7]]
+> ◄  [[thig6-pali-sc]] 📜  [[thig8-pali-sc]] ►

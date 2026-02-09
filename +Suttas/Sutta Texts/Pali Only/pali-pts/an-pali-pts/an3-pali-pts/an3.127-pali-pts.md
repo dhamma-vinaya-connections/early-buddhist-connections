@@ -37,5 +37,6 @@ Tatiyam pi kho Bhagavā Mahānāmaṃ Sakkaṃ etad avoca:-Nānā ti Mahānāma 
 | [[SA-2.188]], [[SA594]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.127]]
 > ◄  [[an3.126-pali-pts]] 📜  [[an3.128-pali-pts]] ►

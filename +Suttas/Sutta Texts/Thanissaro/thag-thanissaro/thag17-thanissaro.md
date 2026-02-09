@@ -383,3 +383,5 @@ everywhere.(#)
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag17-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG17]]
+> ◄  [[thag16-thanissaro]] 📜  [[thag18-thanissaro]] ►

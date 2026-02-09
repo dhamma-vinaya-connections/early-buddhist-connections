@@ -62,8 +62,9 @@ Then Māra the Evil One, realizing, “The bhikkhunī Somā knows me,” sad and
 > |  | [[SA-2.215]], [[SA1199]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.215]], [[SA1199]], [[THIG3.8]] |
+| [[SA-2.215]], [[SA1199]], [[THIG3]].8 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.2]]
 > ◄  [[sn5.1-bodhi]] 📜  [[sn5.3-bodhi]] ►

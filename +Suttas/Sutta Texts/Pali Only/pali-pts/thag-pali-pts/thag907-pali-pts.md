@@ -23,3 +23,5 @@ n'; atthi dāni punāvāso devakāyasmi jālini;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag907-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG907]]
+> ◄  [[thag906-pali-pts]] 📜  [[thag908-pali-pts]] ►

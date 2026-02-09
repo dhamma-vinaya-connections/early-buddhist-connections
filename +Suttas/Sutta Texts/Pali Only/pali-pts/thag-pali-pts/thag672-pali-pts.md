@@ -30,3 +30,5 @@ Esa bhiyyo pasīdāmi sutvā dhammaṃ mahārasaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag672-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG672]]
+> ◄  [[thag671-pali-pts]] 📜  [[thag673-pali-pts]] ►

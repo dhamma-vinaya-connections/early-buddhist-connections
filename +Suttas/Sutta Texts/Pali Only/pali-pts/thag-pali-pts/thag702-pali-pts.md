@@ -23,3 +23,5 @@ atthassāyaṃ viññāpanī upamā viññūhi desitā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag702-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG702]]
+> ◄  [[thag701-pali-pts]] 📜  [[thag703-pali-pts]] ►

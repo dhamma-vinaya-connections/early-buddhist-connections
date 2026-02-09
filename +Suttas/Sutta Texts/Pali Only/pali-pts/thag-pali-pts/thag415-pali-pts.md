@@ -24,3 +24,5 @@ evam pi tuvaṃ anādiyāno Māraṃ Indasagotta niddhunāhi.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag415-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG415]]
+> ◄  [[thag414-pali-pts]] 📜  [[thag416-pali-pts]] ►

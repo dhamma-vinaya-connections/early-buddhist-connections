@@ -23,3 +23,5 @@ satthā hi vijesi maggam etaṃ saṅgā jātijarābhayā atītaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag412-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG412]]
+> ◄  [[thag411-pali-pts]] 📜  [[thag413-pali-pts]] ►

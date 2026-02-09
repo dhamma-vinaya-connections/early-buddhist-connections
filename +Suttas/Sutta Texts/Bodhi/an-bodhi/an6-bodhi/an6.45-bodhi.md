@@ -202,5 +202,6 @@ this is the highest freedom from debt. \[355\]
 | [[AN3.85]], [[MA125]], [[ITI30]], [[ITI64]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.45]]
 > ◄  [[an6.44-bodhi]] 📜  [[an6.46-bodhi]] ►

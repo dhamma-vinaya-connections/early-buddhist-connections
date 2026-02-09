@@ -35,3 +35,5 @@ upasantā ca te sadā, -- tiṇṇā loke visattikan" ti || Sn_V,9.4 ||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.9]]
+> ◄  [[snp5.8-pali-pts]] 📜  [[snp5.10-pali-pts]] ►

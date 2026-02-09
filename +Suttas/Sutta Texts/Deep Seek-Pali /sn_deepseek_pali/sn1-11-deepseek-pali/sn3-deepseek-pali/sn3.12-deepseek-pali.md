@@ -78,5 +78,6 @@ Then those five kings presented the lay follower Candanaṅgalika with five uppe
 | [[EA33.1]], [[SA-2.72]], [[SA1149]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.12]]
 > ◄  [[sn3.11-deepseek-pali]] 📜  [[sn3.13-deepseek-pali]] ►

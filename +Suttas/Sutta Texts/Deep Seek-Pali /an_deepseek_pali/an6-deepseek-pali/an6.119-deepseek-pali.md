@@ -69,3 +69,5 @@ The Book of the Sixes is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.119-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.119]]
+> ◄  [[an6.118-deepseek-pali]] 📜  [[]] ►

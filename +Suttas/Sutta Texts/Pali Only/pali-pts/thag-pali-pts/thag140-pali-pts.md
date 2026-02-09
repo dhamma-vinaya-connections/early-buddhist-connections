@@ -28,3 +28,5 @@ Sussūsā sutavaḍḍhanī, sutaṃ paññāya vaḍḍhanaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag140-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG140]]
+> ◄  [[thag139-pali-pts]] 📜  [[thag141-pali-pts]] ►

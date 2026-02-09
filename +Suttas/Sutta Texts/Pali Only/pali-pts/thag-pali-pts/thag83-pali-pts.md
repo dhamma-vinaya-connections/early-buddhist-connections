@@ -26,3 +26,5 @@ Sabbarattiṃ supitvāna divā saṃgaṇike rato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag83-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG83]]
+> ◄  [[thag82-pali-pts]] 📜  [[thag84-pali-pts]] ►

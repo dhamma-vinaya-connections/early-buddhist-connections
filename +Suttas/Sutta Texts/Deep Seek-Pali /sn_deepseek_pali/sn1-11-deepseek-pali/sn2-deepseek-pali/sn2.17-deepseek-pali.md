@@ -48,5 +48,6 @@ If there is a state free from trembling, that you must tell me when I ask.”
 | [[SA-2.181]], [[SA596]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
 > ◄  [[sn2.16-deepseek-pali]] 📜  [[sn2.18-deepseek-pali]] ►

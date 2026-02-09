@@ -45,3 +45,5 @@ He replied, “Venerable Śāriputra, that awareness is not made by oneself, not
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa3_6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_6]]
+> ◄  [[SA3_5]] 📜  [[SA3_7]] ►

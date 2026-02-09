@@ -124,3 +124,5 @@ Nāgavaggo tevīsatimo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp23-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP23-BUDDHARAKKHITA]]
+> ◄  [[dhp22-buddharakkhita-pali]] 📜  [[dhp24-buddharakkhita-pali]] ►

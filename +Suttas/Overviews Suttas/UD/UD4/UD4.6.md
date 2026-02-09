@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP185]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP185]], [[DN14]]"
+parallels_partilal: "[[DHP\|DHP185]], [[DN14]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.5]]  🌐 [[UD4.7]] ►
 
@@ -70,15 +70,15 @@ calm and ever mindful
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP185]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP185]], [[DN14]] |
+| [[DHP\|DHP185]], [[DN14]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG1:685]], [[THAG1:68.]]
+> - [[THAG1:685]], THAG1:68.
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -96,5 +96,6 @@ calm and ever mindful
 > - Sutta Central: https://suttacentral.net/ud4.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.6
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.5]]  🌐 [[UD4.7]] ►

@@ -23,3 +23,5 @@ saṃkārapuñjā āhatvā susānā rathiyāhi ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag577-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG577]]
+> ◄  [[thag576-pali-pts]] 📜  [[thag578-pali-pts]] ►

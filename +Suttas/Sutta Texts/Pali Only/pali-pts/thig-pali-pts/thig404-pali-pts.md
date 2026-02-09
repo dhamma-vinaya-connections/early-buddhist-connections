@@ -23,3 +23,5 @@ Ujjeniyā puravare mayhaṃ pitā sīlasaṃvuto seṭṭhi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig404-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG404]]
+> ◄  [[thig403-pali-pts]] 📜  [[thig405-pali-pts]] ►

@@ -25,3 +25,5 @@ putto buddhassa dāyādo Kassapo susamāhito |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig62-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG62]]
+> ◄  [[thig61-pali-pts]] 📜  [[thig63-pali-pts]] ►

@@ -23,3 +23,5 @@ cirassaṃ vata man tāta samaṇānaṃ paripucchasi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig273-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG273]]
+> ◄  [[thig272-pali-pts]] 📜  [[thig274-pali-pts]] ►

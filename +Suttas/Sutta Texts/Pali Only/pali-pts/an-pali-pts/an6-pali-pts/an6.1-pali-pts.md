@@ -33,5 +33,6 @@ Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 | [[DN33]], [[MN140]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.1]]
 > ◄  [[]] 📜  [[an6.2-pali-pts]] ►

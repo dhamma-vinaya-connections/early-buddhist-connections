@@ -23,3 +23,5 @@ bhikkhunī upasampajja pubbajātim anussariṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig99-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG99]]
+> ◄  [[thig98-pali-pts]] 📜  [[thig100-pali-pts]] ►

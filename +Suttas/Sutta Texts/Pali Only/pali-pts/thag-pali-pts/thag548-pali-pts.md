@@ -23,3 +23,5 @@ odātaṃ vata me cittaṃ appamāṇaṃ subhāvitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag548-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG548]]
+> ◄  [[thag547-pali-pts]] 📜  [[thag549-pali-pts]] ►

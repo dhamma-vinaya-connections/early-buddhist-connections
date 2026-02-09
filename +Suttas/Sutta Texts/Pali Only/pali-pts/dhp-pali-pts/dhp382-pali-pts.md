@@ -27,3 +27,5 @@ chinda sotaṃ parakkamma, kāme panuda brāhmaṇa, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp382-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP382]]
+> ◄  [[dhp381-pali-pts]] 📜  [[dhp383-pali-pts]] ►

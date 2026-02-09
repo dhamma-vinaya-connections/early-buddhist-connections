@@ -25,3 +25,5 @@ _DASA-NIPĀTO. 59_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag555-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG555]]
+> ◄  [[thag554-pali-pts]] 📜  [[thag556-pali-pts]] ►

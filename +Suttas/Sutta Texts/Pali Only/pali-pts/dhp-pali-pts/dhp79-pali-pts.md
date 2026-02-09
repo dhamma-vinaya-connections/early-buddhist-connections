@@ -26,3 +26,5 @@ _6. Paṇḍitavagga 23_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp79-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP79]]
+> ◄  [[dhp78-pali-pts]] 📜  [[dhp80-pali-pts]] ►

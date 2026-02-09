@@ -58,7 +58,7 @@ This brief instruction that the World-honored One gave without explaining its de
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN133]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.71]], [[MA105]], [[AN2.36:2.1]], [[DN2]], [[SN47.46]] |
@@ -67,6 +67,7 @@ This brief instruction that the World-honored One gave without explaining its de
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[MA164]], [[MA165]], [[MA166]], [[MA167]], [[MN131]], [[MN132]], [[MN133]], [[MN134]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA165]]
 > ◄  [[ma164-bdk]] 📜  [[ma166-bdk]] ►

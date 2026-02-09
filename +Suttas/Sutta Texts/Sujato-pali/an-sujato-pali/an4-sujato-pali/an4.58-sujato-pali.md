@@ -72,5 +72,6 @@ Aṭṭhamaṁ.
 | [[AN4.59]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.58]]
 > ◄  [[an4.57-sujato-pali]] 📜  [[an4.59-sujato-pali]] ►

@@ -25,3 +25,5 @@ mātā putto pitā bhātā ayyikā ca pure ahuṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig158-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG158]]
+> ◄  [[thig157-pali-pts]] 📜  [[thig159-pali-pts]] ►

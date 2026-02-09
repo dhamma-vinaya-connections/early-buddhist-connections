@@ -34,5 +34,6 @@ Avūpasanta-cittassa bhikkhave anuppannaṃ c'; eva uddhaccakukkuccaṃ uppajjat
 | [[EA9.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.14]]
 > ◄  [[an1.13-pali-pts]] 📜  [[an1.15-pali-pts]] ►

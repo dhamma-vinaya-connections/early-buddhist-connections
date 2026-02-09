@@ -228,5 +228,6 @@ Dutiyaṁ.
 | [[MA158]], [[DN13]], [[DN3]], [[MN95]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
 > ◄  [[an5.191-sujato-pali]] 📜  [[an5.193-sujato-pali]] ►

@@ -116,5 +116,6 @@ saraṁ buddhāna sāsanan"ti.
 | [[AN4.21]], [[SA-2.101]], [[SA1188]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
 > ◄  [[sn6.1-sujato-pali]] 📜  [[sn6.3-sujato-pali]] ►

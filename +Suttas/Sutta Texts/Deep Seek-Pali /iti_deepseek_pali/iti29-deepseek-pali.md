@@ -31,3 +31,5 @@ This meaning, too, was spoken by the Blessed One—so I have heard. The Third.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti29-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI29]]
+> ◄  [[iti28-deepseek-pali]] 📜  [[iti30-deepseek-pali]] ►

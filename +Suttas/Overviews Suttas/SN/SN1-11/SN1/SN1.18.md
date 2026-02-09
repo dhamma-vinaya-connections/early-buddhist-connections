@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[DHP143]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.163]], [[SA578]]"
-parallels_partilal: "[[SA-2.163]], [[SA578]], [[DHP143]]"
+parallels_partilal: "[[SA-2.163]], [[SA578]], [[DHP\|DHP143]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.17]]  🌐 [[SN1.19]] ►
 
@@ -65,10 +65,10 @@ Discontent, and grogginess, uncontrolled mind, conscience and shame
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP143]] | [[SA-2.163]], [[SA578]] |  |
+> |  | [[SA-2.163]], [[SA578]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.163]], [[SA578]], [[DHP143]] |
+| [[SA-2.163]], [[SA578]], [[DHP\|DHP143]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -91,5 +91,6 @@ Discontent, and grogginess, uncontrolled mind, conscience and shame
 > - Sutta Central: https://suttacentral.net/sn1.18/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.18
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.18.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.17]]  🌐 [[SN1.19]] ►

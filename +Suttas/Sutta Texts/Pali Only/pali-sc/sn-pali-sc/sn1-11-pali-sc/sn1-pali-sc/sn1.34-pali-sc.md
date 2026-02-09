@@ -67,11 +67,12 @@ Saṅgātigā tepi bhavanti bhikkhū"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP221]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]] |
+| [[DHP\|DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.34]]
 > ◄  [[sn1.33-pali-sc]] 📜  [[sn1.35-pali-sc]] ►

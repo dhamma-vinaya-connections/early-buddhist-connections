@@ -437,5 +437,6 @@ Mahāvaggapāḷi niṭṭhitā.
 | [[DA7]], [[MA71]], [[JA91]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-pali-sc]] 📜  [[dn24-pali-sc]] ►

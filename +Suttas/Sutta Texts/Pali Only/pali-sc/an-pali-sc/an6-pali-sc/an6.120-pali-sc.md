@@ -27,3 +27,5 @@ Sāmaññavaggo dvādasamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an6.120-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN6.120]]
+> ◄  [[an6.119-pali-sc]] 📜  [[an6.140-pali-sc]] ►

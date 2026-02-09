@@ -44,11 +44,12 @@ _(As with impermanence, pain, emptiness, and not self were likewise taught.)_
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN35.10-12]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN35.10-12]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA208]]
 > ◄  [[sa207-patton]] 📜  [[sa209-patton]] ►

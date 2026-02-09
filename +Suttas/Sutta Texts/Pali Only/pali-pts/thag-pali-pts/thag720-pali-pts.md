@@ -23,3 +23,5 @@ kiṃ bhaddante karitvāna, ko vā ācariyo tava,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag720-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG720]]
+> ◄  [[thag719-pali-pts]] 📜  [[thag721-pali-pts]] ►

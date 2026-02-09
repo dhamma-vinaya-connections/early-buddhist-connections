@@ -145,3 +145,5 @@ Dhammaṭṭhavaggo ekūnavīsatimo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp19-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP19-BUDDHARAKKHITA]]
+> ◄  [[dhp18-buddharakkhita-pali]] 📜  [[dhp20-buddharakkhita-pali]] ►

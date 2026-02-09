@@ -23,3 +23,5 @@ Uttiṇṇā paṅkā palipā, pātālā parivajjitā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag88-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG88]]
+> ◄  [[thag87-pali-pts]] 📜  [[thag89-pali-pts]] ►

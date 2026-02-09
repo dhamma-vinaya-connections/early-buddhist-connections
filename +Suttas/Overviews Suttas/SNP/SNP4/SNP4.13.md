@@ -101,4 +101,5 @@ in connection with that.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.13
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.13.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.12]]  🌐 [[SNP4.14]] ►

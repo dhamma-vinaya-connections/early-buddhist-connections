@@ -66,5 +66,6 @@ Ettha dinnaṁ mahapphalan"ti.
 | [[MA127]], [[SA992]], [[EA42.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.35]]
 > ◄  [[an2.34-sujato-pali]] 📜  [[an2.36-sujato-pali]] ►

@@ -96,5 +96,6 @@ Not long afterward, Citta Hatthisāriputta shaved off his hair and beard, put on
 | [[MA82]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.60]]
 > ◄  [[an6.59-bodhi]] 📜  [[an6.61-bodhi]] ►

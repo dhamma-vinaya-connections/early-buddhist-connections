@@ -24,3 +24,5 @@ yo ca vassasataṃ jīve apassaṃ dhammam uttamaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp114-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP114]]
+> ◄  [[dhp113-pali-pts]] 📜  [[dhp115-pali-pts]] ►

@@ -23,3 +23,5 @@ brahmabandhu pure āsiṃ, idāni kho 'mhi brāhmaṇo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag220-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG220]]
+> ◄  [[thag219-pali-pts]] 📜  [[thag221-pali-pts]] ►

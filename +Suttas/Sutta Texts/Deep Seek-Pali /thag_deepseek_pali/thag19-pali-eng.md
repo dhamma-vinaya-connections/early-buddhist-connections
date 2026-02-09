@@ -290,3 +290,5 @@ The summary: Paññāsamhi nipātamhi, eko tālapuṭo suci;Gāthāyo tattha pa�
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag19-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG19]]
+> ◄  [[thag18-pali-eng]] 📜  [[thag20-pali-eng]] ►

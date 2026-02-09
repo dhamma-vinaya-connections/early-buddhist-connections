@@ -23,3 +23,5 @@ hatthikkhandhato oruyha saṃvegaṃ alabhin tadā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag197-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG197]]
+> ◄  [[thag196-pali-pts]] 📜  [[thag198-pali-pts]] ►

@@ -249,3 +249,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa26_11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA26_11]]
+> ◄  [[SA25_57]] 📜  [[SA35_1]] ►

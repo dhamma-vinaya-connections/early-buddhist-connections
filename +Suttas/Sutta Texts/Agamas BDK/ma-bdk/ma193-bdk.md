@@ -68,7 +68,7 @@ It is well, it is well, you should repeatedly recollect the simile of being cut 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN21]], [[MN22]] | [[EA50.8]], [[MA200]] |  |
+> |  | [[EA50.8]], [[MA200]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MA170]], [[MN99]], [[MA152]] |
@@ -77,6 +77,7 @@ It is well, it is well, you should repeatedly recollect the simile of being cut 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.63]], [[MA30]], [[MN21]], [[MN40]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA193]]
 > ◄  [[ma192-bdk]] 📜  [[ma194-bdk]] ►

@@ -23,3 +23,5 @@ diṭṭhigahaṇapakkhanno parāmāsena mohito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag341-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG341]]
+> ◄  [[thag340-pali-pts]] 📜  [[thag342-pali-pts]] ►

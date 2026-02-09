@@ -33,13 +33,10 @@ like this: “I too repeatedly examine and repeatedly purify my bodily, verbal, 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma14-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN61]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN147]], [[MN62]], [[MN65]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA14]]
 > ◄  [[ma13-bdk]] 📜  [[ma15-bdk]] ►

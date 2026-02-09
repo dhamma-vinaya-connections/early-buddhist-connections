@@ -37,3 +37,5 @@ When this was said, the brahmin Sangarava said to the Blessed One: "Excellent, M
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.21-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.21]]
+> ◄  [[sn7.20-deepseek-pali]] 📜  [[sn7.22-deepseek-pali]] ►

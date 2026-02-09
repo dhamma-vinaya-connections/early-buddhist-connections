@@ -37,5 +37,6 @@ Satta vo bhikkhave aparihāniye dhamme desessāmi . . . pe . . .
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.48]], [[AN10.60]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.27]]
 > ◄  [[an7.26-pali-pts]] 📜  [[an7.28-pali-pts]] ►

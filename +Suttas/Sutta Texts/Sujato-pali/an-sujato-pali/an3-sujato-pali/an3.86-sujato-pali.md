@@ -62,5 +62,6 @@ Chaṭṭhaṁ.
 | [[SA821]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.86]]
 > ◄  [[an3.85-sujato-pali]] 📜  [[an3.87-sujato-pali]] ►

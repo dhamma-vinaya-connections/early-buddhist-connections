@@ -94,15 +94,16 @@ That is what the venerable Sāriputta said. The bhikkhus were satisfied and del
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN10]] | [[EA12.1]]; [[EA27.1]]; [[MA31]]; [[MA98]] | M iii 248 |
+> |  | [[EA12.1]]; [[EA27.1]]; [[MA31]]; [[MA98]] | M iii 248 |
 > > [!check]- Partial parallels 
 > > 
-| [[DN22]]; [[EA27.1]]; [[MA31]]; [[EA12.1]]; [[MA98]]; [[MN10]] |
+| [[DN22]], [[EA27.1]], [[MA31]], [[EA12.1]], [[MA98]], [[MN10]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MA31]], [[MN117]], [[DN22]]; [[SN12.20]]; [[SN56.11]]; [[AN3.134]]
+> - [[MA31]], [[MN117]], [[DN22]], [[SN12.20]], [[SN56.11]], [[AN3.134]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN141]]
 > ◄  [[mn140-bodhi]] 📜  [[mn142-bodhi]] ►

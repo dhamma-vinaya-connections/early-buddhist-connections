@@ -39,5 +39,10 @@ This matter, too, was spoken by the Blessed One, so I have heard. Ninth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti77-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[THAG11]], [[THAG14]].1
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI77]]
 > ◄  [[iti76-deepseek-pali]] 📜  [[iti78-deepseek-pali]] ►

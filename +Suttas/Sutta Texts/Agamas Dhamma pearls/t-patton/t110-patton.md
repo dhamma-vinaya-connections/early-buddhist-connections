@@ -66,3 +66,5 @@ He replied, “I understood it, Sugata.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:t110-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[T1]]  / 🌐 [[T110]]
+> ◄  [[t109-patton]] 📜  [[t112-patton]] ►

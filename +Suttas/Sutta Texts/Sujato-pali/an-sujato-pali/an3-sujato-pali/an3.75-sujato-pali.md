@@ -76,5 +76,6 @@ Pañcamaṁ.
 | [[EA21.4]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.75]]
 > ◄  [[an3.74-sujato-pali]] 📜  [[an3.76-sujato-pali]] ►

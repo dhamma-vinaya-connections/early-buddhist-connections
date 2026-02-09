@@ -38,11 +38,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.206]], [[AN9.71]], [[AN9.72]], [[AN9.82]], [[AN9.92]], [[MN16]] | [[EA51.4]], [[MA206]] | A iii 248 |
+> |  | [[EA51.4]], [[MA206]] | A iii 248 |
 > > [!check]- Partial parallels 
 > > 
 | [[DN33]], [[AN9.71]], [[MN16]], [[DN34]], [[DA10]], [[AN10.14]], [[EA51.4]], [[MA206]], [[AN5.206]], [[AN9.72]], [[AN9.82]], [[AN9.92]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.205]]
 > ◄  [[an5.204-bodhi]] 📜  [[an5.206-bodhi]] ►

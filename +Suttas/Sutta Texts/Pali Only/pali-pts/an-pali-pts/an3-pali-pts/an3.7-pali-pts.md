@@ -38,5 +38,6 @@ Anavajjena kāyakammena, anavajjena vacīkammena, anavajjena manokammena . . . p
 | [[EA22.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.7]]
 > ◄  [[an3.6-pali-pts]] 📜  [[an3.8-pali-pts]] ►

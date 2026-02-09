@@ -23,3 +23,5 @@ tenāyaṃ desito dhammo khayagāmī anuttaro,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag722-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG722]]
+> ◄  [[thag721-pali-pts]] 📜  [[thag723-pali-pts]] ►

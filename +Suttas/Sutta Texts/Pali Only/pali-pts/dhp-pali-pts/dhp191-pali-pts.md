@@ -24,3 +24,5 @@ etaṃ kho saraṇaṃ khemaṃ etaṃ saraṇam uttamaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp191-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP191]]
+> ◄  [[dhp190-pali-pts]] 📜  [[dhp192-pali-pts]] ►

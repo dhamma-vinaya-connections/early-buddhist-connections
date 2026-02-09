@@ -23,3 +23,5 @@ esa sutvā pasīdāmi vaco te isisattama,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1275-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1275]]
+> ◄  [[thag1274-pali-pts]] 📜  [[thag1276-pali-pts]] ►

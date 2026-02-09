@@ -36,15 +36,16 @@ If he wants to be competent in discussion, A wise one should know the [proper] t
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.67]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[AN7.33]], [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]] |
+| [[AN7.33]], [[DHP\|DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.42]], [[AN5.165]], [[SN4.8]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA119]]
 > ◄  [[ma118-bdk]] 📜  [[ma120-bdk]] ►

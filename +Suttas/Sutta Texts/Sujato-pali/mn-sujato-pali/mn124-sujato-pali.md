@@ -174,5 +174,6 @@ Bākulasuttaṁ niṭṭhitaṁ catutthaṁ.
 | [[MA34]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
 > ◄  [[mn123-sujato-pali]] 📜  [[mn125-sujato-pali]] ►

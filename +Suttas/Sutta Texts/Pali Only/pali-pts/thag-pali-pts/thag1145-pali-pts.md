@@ -30,3 +30,5 @@ SAṬṬHIKANIPĀTO.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1145-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1145]]
+> ◄  [[thag1144-pali-pts]] 📜  [[thag1146-pali-pts]] ►

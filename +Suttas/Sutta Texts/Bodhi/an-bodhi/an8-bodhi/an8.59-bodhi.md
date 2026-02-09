@@ -48,5 +48,6 @@ what is given to the Saṅgha bears great fruit.
 | [[EA43.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.59]]
 > ◄  [[an8.58-bodhi]] 📜  [[an8.60-bodhi]] ►

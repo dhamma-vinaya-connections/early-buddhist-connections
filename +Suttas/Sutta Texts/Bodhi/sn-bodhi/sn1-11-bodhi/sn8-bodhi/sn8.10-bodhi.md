@@ -65,8 +65,9 @@ Then the Venerable Vaṅgīsa extolled the Venerable Mahāmoggallāna in the Ble
 > |  | [[SA-2.227]], [[SA1211]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.227]], [[SA1211]], [[THAG21.1]] |
+| [[SA-2.227]], [[SA1211]], [[THAG21]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.10]]
 > ◄  [[sn8.9-bodhi]] 📜  [[sn8.11-bodhi]] ►

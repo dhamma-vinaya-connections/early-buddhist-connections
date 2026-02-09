@@ -41,3 +41,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.259-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.259]]
+> ◄  [[an5.258-deepseek-pali]] 📜  [[an5.260-deepseek-pali]] ►

@@ -95,4 +95,5 @@ the truth-speaker’s words are never wrong
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig13
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig13.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG12]]  🌐 [[THIG14]] ►

@@ -23,3 +23,5 @@ narassa hi sujātassa ye bhavanti viyañjanā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag818-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG818]]
+> ◄  [[thag807-pali-pts]] 📜  [[thag819-pali-pts]] ►

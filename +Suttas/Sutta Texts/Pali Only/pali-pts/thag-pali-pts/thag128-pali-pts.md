@@ -24,3 +24,5 @@ Api ce hoti tevijjo maccuhāyī anāsavo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag128-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG128]]
+> ◄  [[thag127-pali-pts]] 📜  [[thag129-pali-pts]] ►

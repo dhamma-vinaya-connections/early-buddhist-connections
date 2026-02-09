@@ -150,5 +150,10 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.8-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN18]], [[MN36]], [[MN58]], [[MN101]], [[SN42.8]], [[AN2.36]], [[AN3.62]], [[AN3.68]], [[AN3.73]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.8]]
 > ◄  [[snp4.7-thanissaro]] 📜  [[snp4.9-thanissaro]] ►

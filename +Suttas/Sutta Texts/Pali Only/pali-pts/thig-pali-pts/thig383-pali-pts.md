@@ -23,3 +23,5 @@ apathena payātum icchasi candaṃ kīḷanakaṃ gavesasi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig383-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG383]]
+> ◄  [[thig382-pali-pts]] 📜  [[thig384-pali-pts]] ►

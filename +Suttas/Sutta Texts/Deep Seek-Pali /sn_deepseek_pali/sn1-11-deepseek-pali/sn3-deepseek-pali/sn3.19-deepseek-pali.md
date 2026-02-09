@@ -66,5 +66,6 @@ The wise and discerning, having acquired wealth,Enjoys it and is active in good 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.20]], [[AN5.41]], [[AN5.148.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.19]]
 > ◄  [[sn3.18-deepseek-pali]] 📜  [[sn3.20-deepseek-pali]] ►

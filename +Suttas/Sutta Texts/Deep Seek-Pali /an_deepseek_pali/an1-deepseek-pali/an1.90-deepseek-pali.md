@@ -31,3 +31,5 @@ The Chapter on Heedlessness, etc., is the ninth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.90-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.90]]
+> ◄  [[an1.89-deepseek-pali]] 📜  [[an1.91-deepseek-pali]] ►

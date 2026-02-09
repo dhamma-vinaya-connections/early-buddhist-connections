@@ -25,3 +25,5 @@ kāḷakā bhamaravaṇṇasadisā vellitaggā mama muddhajā ahuṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig251-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG251]]
+> ◄  [[thig250-pali-pts]] 📜  [[thig252-pali-pts]] ►

@@ -23,3 +23,5 @@ paṅko 'ti hi naṃ avedayuṃ yāyaṃ vandanapūjanā kulesu,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag494-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG494]]
+> ◄  [[thag493-pali-pts]] 📜  [[thag495-pali-pts]] ►

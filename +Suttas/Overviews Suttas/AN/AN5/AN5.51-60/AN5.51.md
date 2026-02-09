@@ -91,4 +91,5 @@ parallels_partilal: "[[SN46.37]], [[SN46.39]], [[SA707]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.51
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.51.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.50]]  🌐 [[AN5.52]] ►

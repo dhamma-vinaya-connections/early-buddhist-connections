@@ -49,11 +49,12 @@ Summary Verse
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.80]] | [[MA140]], [[SA272]] |  |
+> |  | [[MA140]], [[SA272]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MA140]], [[SA272]], [[MN67]], [[SN22.80]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA272]]
 > ◄  [[sa271-patton]] 📜  [[sa276-patton]] ►

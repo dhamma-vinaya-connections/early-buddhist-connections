@@ -116,5 +116,6 @@ Paṭhamaṁ.
 | [[SA-2.207]], [[SA973]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.71]]
 > ◄  [[an3.70-sujato-pali]] 📜  [[an3.72-sujato-pali]] ►

@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[JA95]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA31.9]], [[SA-2.161]], [[SA576]]"
-parallels_partilal: "[[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[DN16]], [[SN15.20]], [[SN6.15]], [[THAG20.1]]"
+parallels_partilal: "[[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[DN16]], [[SN15.20]], [[SN6.15]], [[THAG20]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.10]]  🌐 [[SN1.12]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA95]] | [[EA31.9]], [[SA-2.161]], [[SA576]] |  |
+> |  | [[EA31.9]], [[SA-2.161]], [[SA576]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[DN16]], [[SN15.20]], [[SN6.15]], [[THAG20.1]] |
+| [[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[DN16]], [[SN15.20]], [[SN6.15]], [[THAG20]].1 |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[
 > - Sutta Central: https://suttacentral.net/sn1.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.11
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.11.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.10]]  🌐 [[SN1.12]] ►

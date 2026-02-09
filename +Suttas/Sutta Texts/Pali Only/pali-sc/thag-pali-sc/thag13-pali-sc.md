@@ -92,3 +92,5 @@ vayañcassānupassatī"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG13]]
+> ◄  [[thag12-pali-sc]] 📜  [[thag14-pali-sc]] ►

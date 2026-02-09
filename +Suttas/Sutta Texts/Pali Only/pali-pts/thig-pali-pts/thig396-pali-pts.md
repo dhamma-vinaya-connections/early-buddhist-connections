@@ -23,3 +23,5 @@ tassa ca viramāsi tāvade rāgo tattha khamāpayi ca naṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig396-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG396]]
+> ◄  [[thig395-pali-pts]] 📜  [[thig397-pali-pts]] ►

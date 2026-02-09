@@ -23,3 +23,5 @@ suddhaṃ dhammasamuppādaṃ suddhaṃ saṃkhārasantatiṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag715-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG715]]
+> ◄  [[thag714-pali-pts]] 📜  [[thag716-pali-pts]] ►

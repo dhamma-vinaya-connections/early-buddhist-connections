@@ -23,3 +23,5 @@ coro yathā sandhimukhe gahīto sakammunā haññati pāpadhammo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag785-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG785]]
+> ◄  [[thag784-pali-pts]] 📜  [[thag786-pali-pts]] ►

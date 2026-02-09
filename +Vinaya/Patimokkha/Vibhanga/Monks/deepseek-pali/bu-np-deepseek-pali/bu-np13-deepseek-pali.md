@@ -76,7 +76,8 @@ The training rule on two parts is finished, the third [is next].
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np13-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP13]] |
->|       |          | [[ñanatusita-analysis#^NP13]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP13]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP13]]

@@ -23,3 +23,5 @@ yadā nabhe gajjati meghadundubhi dhārākulā vihaṅgapathe samantato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag521-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG521]]
+> ◄  [[thag520-pali-pts]] 📜  [[thag522-pali-pts]] ►

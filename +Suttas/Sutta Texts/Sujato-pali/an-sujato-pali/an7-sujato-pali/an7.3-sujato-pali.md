@@ -70,5 +70,6 @@ Tatiyaṁ.
 | [[SA688]], [[SA689]], [[SA690]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.3]]
 > ◄  [[an7.2-sujato-pali]] 📜  [[an7.4-sujato-pali]] ►

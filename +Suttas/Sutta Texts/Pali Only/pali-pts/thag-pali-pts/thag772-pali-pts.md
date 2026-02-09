@@ -23,3 +23,5 @@ añjanī 'va navā cittā pūtikāyo alaṃkato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag772-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG772]]
+> ◄  [[thag771-pali-pts]] 📜  [[thag773-pali-pts]] ►

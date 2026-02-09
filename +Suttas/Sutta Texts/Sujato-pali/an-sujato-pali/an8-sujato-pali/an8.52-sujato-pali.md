@@ -72,5 +72,6 @@ Dutiyaṁ.
 | [[PLI-TV-BU-VB-PC21]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.52]]
 > ◄  [[an8.51-sujato-pali]] 📜  [[an8.53-sujato-pali]] ►

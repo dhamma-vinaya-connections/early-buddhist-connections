@@ -23,3 +23,5 @@ suyuddhena suyiṭṭhena saṃgāmavijayena ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag235-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG235]]
+> ◄  [[thag234-pali-pts]] 📜  [[thag236-pali-pts]] ►

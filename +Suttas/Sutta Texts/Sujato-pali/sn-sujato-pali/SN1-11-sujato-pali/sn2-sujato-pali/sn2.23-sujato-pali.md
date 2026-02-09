@@ -127,7 +127,7 @@ patiṭṭhā honti pāṇinan’"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.43]] | [[SA-2.136]], [[SA999]] |  |
+> |  | [[SA-2.136]], [[SA999]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN1.43]], [[SA-2.136]], [[SA999]], [[SN3.22]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[AN5.36]] |
@@ -136,6 +136,7 @@ patiṭṭhā honti pāṇinan’"ti.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.50]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.23]]
 > ◄  [[sn2.22-sujato-pali]] 📜  [[sn2.24-sujato-pali]] ►

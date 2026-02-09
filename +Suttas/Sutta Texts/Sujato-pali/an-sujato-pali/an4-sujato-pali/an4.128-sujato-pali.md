@@ -66,5 +66,6 @@ Aṭṭhamaṁ.
 | [[EA25.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.128]]
 > ◄  [[an4.127-sujato-pali]] 📜  [[an4.129-sujato-pali]] ►

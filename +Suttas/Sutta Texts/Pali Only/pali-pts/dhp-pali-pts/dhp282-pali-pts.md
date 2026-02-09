@@ -24,3 +24,5 @@ vanaṃ chindatha, mā rukkhaṃ, vanato jāyatī bhayaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp282-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP282]]
+> ◄  [[dhp281-pali-pts]] 📜  [[dhp283-pali-pts]] ►

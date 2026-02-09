@@ -73,5 +73,6 @@ Then the Venerable Vaṅgīsa, having aroused remorse in himself, on that occasi
 | [[SA-2.251]], [[SA1216]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.3]]
 > ◄  [[sn8.2-bodhi]] 📜  [[sn8.4-bodhi]] ►

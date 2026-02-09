@@ -22,3 +22,5 @@ na pi passaṃ nipātessaṃ taṇhāsalle anūhate.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag313-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG313]]
+> ◄  [[thag312-pali-pts]] 📜  [[thag314-pali-pts]] ►

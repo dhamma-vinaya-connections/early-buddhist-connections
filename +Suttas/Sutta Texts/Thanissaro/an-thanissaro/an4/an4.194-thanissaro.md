@@ -43,5 +43,6 @@ On one occasion Ven. Ānanda was staying among the Koliyans, near the Koliyan to
 | [[SA565]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.194]]
 > ◄  [[an4.192-thanissaro]] 📜  [[an4.195-thanissaro]] ►

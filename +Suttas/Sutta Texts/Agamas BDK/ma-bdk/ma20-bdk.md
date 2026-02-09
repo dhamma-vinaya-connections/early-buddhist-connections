@@ -82,11 +82,12 @@ the entire world [with a mind that is] boundless, exalted, immeasurable and well
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN42.13]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.29]], [[MA124]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA20]]
 > ◄  [[ma19-bdk]] 📜  [[ma21-bdk]] ►

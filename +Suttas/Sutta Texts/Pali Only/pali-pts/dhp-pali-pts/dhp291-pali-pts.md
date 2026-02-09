@@ -24,3 +24,5 @@ yaṃ hi kiccaṃ apaviddhaṃ akiccaṃ pana kayirati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp291-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP291]]
+> ◄  [[dhp290-pali-pts]] 📜  [[dhp292-pali-pts]] ►

@@ -46,11 +46,12 @@ Sattamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.8]], [[DN29]] | [[DA17]] | A iv 369 |
+> |  | [[DA17]] | A iv 369 |
 > > [!check]- Partial parallels 
 > > 
 | [[DN29]], [[DA17]], [[AN9.8]], [[MN76]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.7]]
 > ◄  [[an9.6-sujato-pali]] 📜  [[an9.8-sujato-pali]] ►

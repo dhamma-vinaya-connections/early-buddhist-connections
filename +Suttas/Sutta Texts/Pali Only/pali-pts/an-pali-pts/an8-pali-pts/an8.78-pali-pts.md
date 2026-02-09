@@ -27,11 +27,12 @@ Tatra kho āyasmā Sāriputto bhikkhū āmantesi . . . pe . . . Chah'; āvuso dh
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.62]] |  | A iv 328 |
+> |  |  | A iv 328 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.62]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.78]]
 > ◄  [[an8.77-pali-pts]] 📜  [[an8.79-pali-pts]] ►

@@ -31,3 +31,5 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Pubbārāme M
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.3]]
+> ◄  [[ud5.2-pali-pts]] 📜  [[ud5.5-pali-pts]] ►

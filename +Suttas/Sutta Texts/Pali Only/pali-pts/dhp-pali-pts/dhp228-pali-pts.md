@@ -24,3 +24,5 @@ yañ ce viññū pasaṃsanti anuvicca suve suve /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp228-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP228]]
+> ◄  [[dhp227-pali-pts]] 📜  [[dhp229-pali-pts]] ►

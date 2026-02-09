@@ -91,4 +91,5 @@ parallels_partilal: "[[MA160]], [[AN7.66]], [[AN6.54]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.74
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.74.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.73]]  🌐 [[AN7.75]] ►

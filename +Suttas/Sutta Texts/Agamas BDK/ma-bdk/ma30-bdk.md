@@ -98,7 +98,7 @@ Venerable friends, if internally the ear... , the nose... , the tongue... , the 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN28]] |  | M iii 124 |
+> |  |  | M iii 124 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA28]], [[]], [[PLI-TV-KD16]], [[AN3.35]] |
@@ -107,6 +107,7 @@ Venerable friends, if internally the ear... , the nose... , the tongue... , the 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.197]], [[AN7.62]], [[MA193]], [[MA31]], [[MA8]], [[MN141]], [[MN21]], [[SN22.5]], [[SN4.9]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA30]]
 > ◄  [[ma29-bdk]] 📜  [[ma31-bdk]] ►

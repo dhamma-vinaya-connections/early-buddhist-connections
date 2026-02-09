@@ -30,3 +30,5 @@ atha kho Bāhiyo Dārucīriyo yena te bhikkhū ten'; upasaṅkami, upasaṅkamit
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.8]]
+> ◄  [[ud1.5-pali-pts]] 📜  [[ud1.10-pali-pts]] ►

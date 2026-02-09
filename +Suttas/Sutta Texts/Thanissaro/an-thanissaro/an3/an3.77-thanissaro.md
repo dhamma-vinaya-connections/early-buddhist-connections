@@ -50,5 +50,6 @@ Then Ven. Ānanda went to the Blessed One and, on arrival, bowed down to him and
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.54]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.77]]
 > ◄  [[an3.74-thanissaro]] 📜  [[an3.78-thanissaro]] ►

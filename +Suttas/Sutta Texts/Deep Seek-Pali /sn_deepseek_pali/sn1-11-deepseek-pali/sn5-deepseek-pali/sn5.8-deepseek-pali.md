@@ -58,5 +58,6 @@ Then Māra the Evil One, realizing, “The bhikkhunī Sīsupacālā knows me,”
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN6.15]], [[SN9.6.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.8]]
 > ◄  [[sn5.7-deepseek-pali]] 📜  [[sn5.9-deepseek-pali]] ►

@@ -29,3 +29,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI13]]
+> ◄  [[iti12-pali-sc]] 📜  [[iti14-pali-sc]] ►

@@ -24,3 +24,5 @@ yo ca vassasataṃ jīve apassaṃ udayavyayaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp112-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP112]]
+> ◄  [[dhp111-pali-pts]] 📜  [[dhp113-pali-pts]] ►

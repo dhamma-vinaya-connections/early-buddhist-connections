@@ -23,3 +23,5 @@ etañ ce ruccatī bhoto sammāsambuddhasāsanaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag834-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG834]]
+> ◄  [[thag833-pali-pts]] 📜  [[thag835-pali-pts]] ►

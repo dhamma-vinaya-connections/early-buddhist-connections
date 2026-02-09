@@ -23,3 +23,5 @@ sā ca manasikaroti Anikaratto ca āruhi turitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig481-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG481]]
+> ◄  [[thig480-pali-pts]] 📜  [[thig482-pali-pts]] ►

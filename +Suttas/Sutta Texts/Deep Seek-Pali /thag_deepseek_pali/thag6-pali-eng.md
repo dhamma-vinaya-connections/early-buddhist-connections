@@ -428,3 +428,5 @@ Superiority conceit and inferiority conceit have been abandoned, thoroughly upro
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG6]]
+> ◄  [[thag5-pali-eng]] 📜  [[thag7-pali-eng]] ►

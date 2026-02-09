@@ -89,4 +89,5 @@ Wherever they’re reborn
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.57
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.57.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.56]]  🌐 [[AN4.58]] ►

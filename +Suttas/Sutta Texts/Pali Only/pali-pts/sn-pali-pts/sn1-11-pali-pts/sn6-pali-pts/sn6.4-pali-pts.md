@@ -65,11 +65,12 @@ Idam avoca Bhagavā || attamanā te bhikkhū Bhagavato bhāsitam abhinandun ti |
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA405]] | [[SA-2.108]], [[SA1195]] |  |
+> |  | [[SA-2.108]], [[SA1195]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.108]], [[SA1195]], [[JA405]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
 > ◄  [[sn6.3-pali-pts]] 📜  [[sn6.5-pali-pts]] ►

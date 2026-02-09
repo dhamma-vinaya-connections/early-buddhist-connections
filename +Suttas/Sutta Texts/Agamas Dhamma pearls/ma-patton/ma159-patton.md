@@ -106,3 +106,5 @@ The Bhagavān replied, “Priest, you want the basis of something that’s endle
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma159-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA159]]
+> ◄  [[ma153-patton]] 📜  [[ma176-patton]] ►

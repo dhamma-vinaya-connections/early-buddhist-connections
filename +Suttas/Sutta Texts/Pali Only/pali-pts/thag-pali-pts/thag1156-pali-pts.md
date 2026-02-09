@@ -22,3 +22,5 @@ mā pāpacitte āhari aggikkhandhaṃ va pakkhimā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1156-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1156]]
+> ◄  [[thag1155-pali-pts]] 📜  [[thag1157-pali-pts]] ►

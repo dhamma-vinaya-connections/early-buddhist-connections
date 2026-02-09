@@ -26,3 +26,5 @@ Yo ve garūnaṃ vacanaññu dhīro vase ca tamhi janayetha pemaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag369-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG369]]
+> ◄  [[thag368-pali-pts]] 📜  [[thag370-pali-pts]] ►

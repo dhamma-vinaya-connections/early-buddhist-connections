@@ -65,3 +65,5 @@ Going for Refuge
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP1]]
+> ◄  [[]] 📜  [[kp2-sujato-pali]] ►

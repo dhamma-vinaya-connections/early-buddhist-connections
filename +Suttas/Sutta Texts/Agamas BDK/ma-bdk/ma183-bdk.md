@@ -34,15 +34,16 @@ What is a noble one? It is one who is far removed from all evil and unwholesome 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN40]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP98]], [[THAG17.2]], [[JA355]] |
+| [[DHP\|DHP98]], [[THAG17]].2, [[JA355]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN15]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA183]]
 > ◄  [[ma180-bdk]] 📜  [[ma184-bdk]] ►

@@ -24,3 +24,5 @@ santakāyo santavāco santavā susamāhito /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp377-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP377]]
+> ◄  [[dhp376-pali-pts]] 📜  [[dhp378-pali-pts]] ►

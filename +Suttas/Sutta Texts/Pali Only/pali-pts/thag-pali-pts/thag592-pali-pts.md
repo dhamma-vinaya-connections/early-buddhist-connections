@@ -23,3 +23,5 @@ sīlañ ca bāhusaccañ ca dhammānaṃ pavicayo yathābhūtaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag592-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG592]]
+> ◄  [[thag591-pali-pts]] 📜  [[thag593-pali-pts]] ►

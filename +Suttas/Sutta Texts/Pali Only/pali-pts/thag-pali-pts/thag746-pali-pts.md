@@ -24,3 +24,5 @@ Cirarattaṃ vatātāpī dhammaṃ anuvicintayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag746-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG746]]
+> ◄  [[thag745-pali-pts]] 📜  [[thag747-pali-pts]] ►

@@ -36,9 +36,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[DHP367]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP367]]"
+parallels_partilal: "[[DHP\|DHP367]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.14]]  🌐 [[SNP4.16]] ►
 
@@ -75,10 +75,10 @@ But simply on pulling it out
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP367]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP367]] |
+| [[DHP\|DHP367]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -101,5 +101,6 @@ But simply on pulling it out
 > - Sutta Central: https://suttacentral.net/snp4.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.15
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.15.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.14]]  🌐 [[SNP4.16]] ►

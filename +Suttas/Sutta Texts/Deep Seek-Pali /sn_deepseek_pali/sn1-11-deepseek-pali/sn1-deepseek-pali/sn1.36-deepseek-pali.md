@@ -57,11 +57,12 @@ Attains supreme happiness."
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP221]], [[DHP26]], [[DHP27]] | [[SA-2.284]], [[SA1286]] |  |
+> |  | [[SA-2.284]], [[SA1286]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.284]], [[SA1286]], [[DHP221]], [[SN1.34]], [[DHP26]], [[MN86]], [[THAG16.8]], [[DHP27]] |
+| [[SA-2.284]], [[SA1286]], [[DHP\|DHP221]], [[SN1.34]], [[DHP\|DHP26]], [[MN86]], [[THAG16]].8, [[DHP\|DHP27]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.36]]
 > ◄  [[sn1.35-deepseek-pali]] 📜  [[sn1.37-deepseek-pali]] ►

@@ -34,5 +34,6 @@ language: "English"
 | [[AN4.58]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.59]]
 > ◄  [[an4.58-bodhi]] 📜  [[an4.60-bodhi]] ►

@@ -40,11 +40,12 @@ Not by water is one purified, though many people bathe here; He in whom are trut
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP393]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP393]] |
+| [[DHP\|DHP393]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.9]]
 > ◄  [[ud1.8-deepseek-pali]] 📜  [[ud1.10-deepseek-pali]] ►

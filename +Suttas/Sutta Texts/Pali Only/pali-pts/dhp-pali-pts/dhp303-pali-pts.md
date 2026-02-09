@@ -26,3 +26,5 @@ dūre santo pakāsenti himavanto va pabbato, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp303-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP303]]
+> ◄  [[dhp302-pali-pts]] 📜  [[dhp304-pali-pts]] ►

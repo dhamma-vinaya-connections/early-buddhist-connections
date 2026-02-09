@@ -49,5 +49,6 @@ Esāhaṃ bho Kaccāna taṃ Bhagavantaṃ Gotamaṃ saraṇaṃ gacchāmi dhamm
 | [[SA546]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.37]]
 > ◄  [[an2.36-pali-pts]] 📜  [[an2.38-pali-pts]] ►

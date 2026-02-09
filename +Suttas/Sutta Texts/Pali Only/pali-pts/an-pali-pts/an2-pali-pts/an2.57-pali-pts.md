@@ -35,5 +35,6 @@ Bhikkhu ca khīṇāsavo hatthājānīyo ca. Ime kho bhikkhave dve asaniyā phal
 | [[EA17.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.57]]
 > ◄  [[an2.56-pali-pts]] 📜  [[an2.58-pali-pts]] ►

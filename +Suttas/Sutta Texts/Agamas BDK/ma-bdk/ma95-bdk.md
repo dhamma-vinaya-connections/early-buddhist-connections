@@ -28,7 +28,7 @@ same way a monk, wishing to eradicate these evil unwholesome states, will quickl
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.17]], [[AN10.18]], [[AN10.53]] |  | M i 339 |
+> |  |  | M i 339 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
@@ -37,6 +37,7 @@ same way a monk, wishing to eradicate these evil unwholesome states, will quickl
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA93]], [[MA96]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA95]]
 > ◄  [[ma94-bdk]] 📜  [[ma96-bdk]] ►

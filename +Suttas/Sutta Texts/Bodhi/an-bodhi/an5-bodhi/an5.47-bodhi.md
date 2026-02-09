@@ -65,12 +65,13 @@ confidence and vision of the Dhamma.
 > |  |  | A iii 53 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN4.52]], [[SN11.14]], [[SN55.26]], [[THAG8.2]], [[PE3]] |
+| [[AN4.52]], [[SN11.14]], [[SN55.26]], [[THAG8]].2, [[PE3]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.52]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.47]]
 > ◄  [[an5.46-bodhi]] 📜  [[an5.48-bodhi]] ►

@@ -33,5 +33,6 @@ Atha kho so bhikkhu Uggassa gahapatino Vesālikassa nivesane piṇḍapātaṃ g
 | [[MA38]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.22]]
 > ◄  [[an8.21-pali-pts]] 📜  [[an8.23-pali-pts]] ►

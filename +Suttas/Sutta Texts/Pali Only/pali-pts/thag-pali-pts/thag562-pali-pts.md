@@ -23,3 +23,5 @@ sahassakkhattum attānaṃ nimminitvāna Panthako
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag562-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG562]]
+> ◄  [[thag561-pali-pts]] 📜  [[thag563-pali-pts]] ►

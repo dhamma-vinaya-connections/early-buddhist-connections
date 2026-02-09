@@ -36,3 +36,5 @@ The monks said to the Buddha, “No, Bhagavān.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa86-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA86]]
+> ◄  [[sa81-patton]] 📜  [[sa104-patton]] ►

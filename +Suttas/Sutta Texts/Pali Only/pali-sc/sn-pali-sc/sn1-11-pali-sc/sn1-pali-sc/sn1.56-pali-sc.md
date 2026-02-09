@@ -54,5 +54,6 @@ dukkhā na parimuccatī"ti.
 | [[SA-2.243]], [[SA1016]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.56]]
 > ◄  [[sn1.55-pali-sc]] 📜  [[sn1.57-pali-sc]] ►

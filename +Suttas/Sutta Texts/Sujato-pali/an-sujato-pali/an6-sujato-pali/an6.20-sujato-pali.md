@@ -79,7 +79,7 @@ Sāraṇīyavaggo dutiyo.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.74]] |  | A iii 306 |
+> |  |  | A iii 306 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.74]] |
@@ -88,6 +88,7 @@ Sāraṇīyavaggo dutiyo.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.56]], [[AN6.19]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.20]]
 > ◄  [[an6.19-sujato-pali]] 📜  [[an6.21-sujato-pali]] ►

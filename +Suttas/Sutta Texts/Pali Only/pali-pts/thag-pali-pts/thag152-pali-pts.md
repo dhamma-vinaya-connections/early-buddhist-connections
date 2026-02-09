@@ -24,3 +24,5 @@ Bahū sapatte labhati muṇḍo saṃghāṭipāruto
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag152-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG152]]
+> ◄  [[thag151-pali-pts]] 📜  [[thag153-pali-pts]] ►

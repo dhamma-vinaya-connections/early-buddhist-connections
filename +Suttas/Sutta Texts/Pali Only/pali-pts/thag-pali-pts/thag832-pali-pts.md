@@ -23,3 +23,5 @@ Brahmabhūtaṃ atitulaṃ Mārasenappamaddanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag832-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG832]]
+> ◄  [[thag831-pali-pts]] 📜  [[thag833-pali-pts]] ►

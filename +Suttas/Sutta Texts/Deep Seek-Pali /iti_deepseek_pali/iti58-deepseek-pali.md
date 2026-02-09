@@ -46,5 +46,6 @@ Mūladhātu atha vedanā duve, esanā ca duve āsavā duve;Taṇhāto ca atha [t
 | [[AN4.49]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI58]]
 > ◄  [[iti57-deepseek-pali]] 📜  [[iti59-deepseek-pali]] ►

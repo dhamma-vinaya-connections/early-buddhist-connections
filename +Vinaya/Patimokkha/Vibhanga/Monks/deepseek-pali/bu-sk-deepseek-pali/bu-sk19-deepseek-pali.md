@@ -40,7 +40,8 @@ The eighth training rule is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk19-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK19]] |
->|       |          | [[ñanatusita-analysis#^SK19]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK19]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK19]]

@@ -76,7 +76,8 @@ The seventh training rule, that on having wool washed, is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np17-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP17]] |
->|       |          | [[ñanatusita-analysis#^NP17]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP17]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP17]]

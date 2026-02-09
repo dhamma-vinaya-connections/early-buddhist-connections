@@ -23,3 +23,5 @@ alaṃ me phāsukāmassa pahitattassa bhikkhuno;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1066-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1066]]
+> ◄  [[thag1065-pali-pts]] 📜  [[thag1067-pali-pts]] ►

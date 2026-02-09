@@ -64,5 +64,6 @@ Then the Blessed One, with reference to the Venerable Sāriputta, replied to th
 | [[SA-2.305]], [[SA1306]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
 > ◄  [[sn2.28-bodhi]] 📜  [[sn2.30-bodhi]] ►

@@ -23,3 +23,5 @@ satipaṭṭhānagīvo so saddhāhattho mahāmuni
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1089-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1089]]
+> ◄  [[thag1088-pali-pts]] 📜  [[thag1090-pali-pts]] ►

@@ -199,12 +199,13 @@ santo ācikkhate munī"ti.
 > |  | [[MA165]] | M iii 192 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN131]]; [[MN132]]; [[MN134]]; [[MA165]]; [[JA538]] |
+| [[MN131]], [[MN132]], [[MN134]], [[MA165]], [[JA538]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN131]], [[MN132]], [[MN133]], [[MN134]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN133]]
 > ◄  [[mn132-pali-sc]] 📜  [[mn134-pali-sc]] ►

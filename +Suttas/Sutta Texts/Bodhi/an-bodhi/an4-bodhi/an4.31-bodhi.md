@@ -44,5 +44,6 @@ along with happiness accrue to him.
 | [[PE6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.31]]
 > ◄  [[an4.30-bodhi]] 📜  [[an4.32-bodhi]] ►

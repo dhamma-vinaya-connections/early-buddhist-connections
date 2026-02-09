@@ -30,3 +30,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_9]]
+> ◄  [[SA2_8]] 📜  [[SA2_10]] ►

@@ -141,3 +141,5 @@ have said this.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG10]]
+> ◄  [[thig9-thanissaro]] 📜  [[thig12-thanissaro]] ►

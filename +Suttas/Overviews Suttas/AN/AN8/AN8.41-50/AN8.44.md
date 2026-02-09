@@ -95,4 +95,5 @@ You should sleep on a low bed
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.44
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.44.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.43]]  🌐 [[AN8.45]] ►

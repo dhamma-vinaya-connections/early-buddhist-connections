@@ -88,4 +88,5 @@ parallels_partilal: "[[MN114]], [[MN41]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.28
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.28.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.27]]  🌐 [[AN3.29]] ►

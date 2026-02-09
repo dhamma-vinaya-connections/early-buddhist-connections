@@ -106,4 +106,5 @@ I am everywhere free
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag17
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag17.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG16]]  🌐 [[THAG18]] ►

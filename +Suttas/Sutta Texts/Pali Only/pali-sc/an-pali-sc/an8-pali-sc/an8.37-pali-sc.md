@@ -52,5 +52,6 @@ Sattamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.40]], [[AN6.37]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.37]]
 > ◄  [[an8.36-pali-sc]] 📜  [[an8.38-pali-sc]] ►

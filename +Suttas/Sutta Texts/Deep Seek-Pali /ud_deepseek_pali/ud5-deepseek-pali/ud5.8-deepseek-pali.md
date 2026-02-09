@@ -54,5 +54,6 @@ Then, the Blessed One, having realized the meaning of it, on that occasion, utte
 | [[PLI-TV-KD17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.8]]
 > ◄  [[ud5.7-deepseek-pali]] 📜  [[ud5.9-deepseek-pali]] ►

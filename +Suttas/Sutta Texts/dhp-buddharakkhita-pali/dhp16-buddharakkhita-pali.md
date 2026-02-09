@@ -110,3 +110,5 @@ Piyavaggo soḷasamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp16-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP16-BUDDHARAKKHITA]]
+> ◄  [[dhp15-buddharakkhita-pali]] 📜  [[dhp17-buddharakkhita-pali]] ►

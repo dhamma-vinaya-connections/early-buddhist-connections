@@ -80,7 +80,7 @@ released
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN3.123]], [[DHP268]], [[DHP269]], [[ITI66]], [[ITI67]], [[SN3.11]], [[SNP1.1]]
+> - [[AN3.123]], [[DHP\|DHP268]], [[DHP\|DHP269]], [[ITI66]], [[ITI67]], [[SN3.11]], [[SNP1.1]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -98,5 +98,6 @@ released
 > - Sutta Central: https://suttacentral.net/snp1.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.12
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.12.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.11]]  🌐 [[SNP2.1]] ►

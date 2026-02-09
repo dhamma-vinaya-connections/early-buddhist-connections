@@ -23,3 +23,5 @@ rājā arahasi bhavituṃ cakkavattirathesabho
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag821-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG821]]
+> ◄  [[thag820-pali-pts]] 📜  [[thag822-pali-pts]] ►

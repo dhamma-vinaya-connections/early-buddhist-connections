@@ -25,3 +25,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.76-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.76]]
+> ◄  [[an2.75-bodhi]] 📜  [[an2.77-bodhi]] ►

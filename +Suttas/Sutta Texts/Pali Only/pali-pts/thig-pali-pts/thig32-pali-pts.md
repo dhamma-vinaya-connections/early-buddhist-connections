@@ -24,3 +24,5 @@ uddhaṃ pādatalā amma adho ce kesamatthakā ||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig32-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG32]]
+> ◄  [[thig31-pali-pts]] 📜  [[thig33-pali-pts]] ►

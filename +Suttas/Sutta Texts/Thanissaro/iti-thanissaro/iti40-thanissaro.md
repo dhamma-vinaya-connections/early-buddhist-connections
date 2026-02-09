@@ -49,3 +49,5 @@ would abandon all bad destinations.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti40-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI40]]
+> ◄  [[iti39-thanissaro]] 📜  [[iti41-thanissaro]] ►

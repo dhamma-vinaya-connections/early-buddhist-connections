@@ -76,11 +76,12 @@ Obhāsayaṁ tiṭṭhati brahmalokan"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA405]] | [[SA-2.108]], [[SA1195]] |  |
+> |  | [[SA-2.108]], [[SA1195]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.108]], [[SA1195]], [[JA405]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
 > ◄  [[sn6.3-pali-sc]] 📜  [[sn6.5-pali-sc]] ►

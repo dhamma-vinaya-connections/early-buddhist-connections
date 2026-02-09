@@ -100,5 +100,6 @@ Chaṭṭhaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.34]], [[AN9.36]], [[AN11.1]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
 > ◄  [[an9.36-sujato-pali]] 📜  [[an9.38-sujato-pali]] ►

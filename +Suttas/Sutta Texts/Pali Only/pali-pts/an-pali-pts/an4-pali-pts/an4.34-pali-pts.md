@@ -34,11 +34,12 @@ Sutvā arahato vākyaṃ vippamuttassa tādino ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[ITI90]] | [[EA21.1]], [[SA902-904]] | A ii 34 |
+> |  | [[EA21.1]], [[SA902-904]] | A ii 34 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA21.1]], [[AN5.32]], [[ITI90]], [[SA902-904]], [[SN45.139]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.34]]
 > ◄  [[an4.33-pali-pts]] 📜  [[an4.35-pali-pts]] ►

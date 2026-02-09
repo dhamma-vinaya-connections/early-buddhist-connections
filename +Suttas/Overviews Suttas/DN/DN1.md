@@ -126,4 +126,5 @@ When a mendicant truly understands the six fields of contacts’ origin, ending,
 > - Dhamma Gift: https://dhamma.gift/read/?q=dn1
 > - The Buddhas Words: https://thebuddhaswords.net/dn/dn1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DHP26]]  🌐 [[DN2]] ►

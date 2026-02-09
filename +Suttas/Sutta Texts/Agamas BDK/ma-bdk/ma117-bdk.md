@@ -28,7 +28,7 @@ Again I thought, “I am myself subject to old age, not exempt from old age. If 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.39]], [[AN5.57]] | [[EA22.8]] |  |
+> |  | [[EA22.8]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA33.3]] |
@@ -37,6 +37,7 @@ Again I thought, “I am myself subject to old age, not exempt from old age. If 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN4.15]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA117]]
 > ◄  [[ma116-bdk]] 📜  [[ma118-bdk]] ►

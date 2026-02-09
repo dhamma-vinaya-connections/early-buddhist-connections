@@ -70,5 +70,6 @@ Then the independent brahmās Subrahmā and Suddhāvāsa, having stirred up a se
 | [[SA-2.107]], [[SA1194]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.6]]
 > ◄  [[sn6.5-bodhi]] 📜  [[sn6.7-bodhi]] ►

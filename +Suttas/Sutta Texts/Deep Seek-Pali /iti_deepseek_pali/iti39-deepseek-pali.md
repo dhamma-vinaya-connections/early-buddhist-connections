@@ -33,3 +33,5 @@ This too was spoken by the Blessed One—thus have I heard. This is the third di
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti39-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI39]]
+> ◄  [[iti38-deepseek-pali]] 📜  [[iti40-deepseek-pali]] ►

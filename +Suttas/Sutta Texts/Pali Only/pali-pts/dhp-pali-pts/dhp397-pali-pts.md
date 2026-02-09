@@ -24,3 +24,5 @@ chetvā nandhiṃ varattañ ca sandānaṃ sahanukkamaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp397-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP397]]
+> ◄  [[dhp396-pali-pts]] 📜  [[dhp398-pali-pts]] ►

@@ -46,5 +46,6 @@ This too is the meaning that was stated by the Blessed One: so I have heard. Fif
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.86]], [[ITI62]], [[AN56:22]], [[SN3.12]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI102]]
 > ◄  [[iti101-deepseek-pali]] 📜  [[iti103-deepseek-pali]] ►

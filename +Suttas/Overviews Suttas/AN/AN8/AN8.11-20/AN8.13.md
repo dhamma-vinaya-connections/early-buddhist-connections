@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN8.14]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.149]], [[SA-2.150]], [[SA924]], [[SA925]]"
 parallels_partilal: "[[SA-2.150]], [[SA925]], [[AN8.14]], [[SA-2.149]], [[SA924]]"
 ---
@@ -64,7 +64,7 @@ parallels_partilal: "[[SA-2.150]], [[SA925]], [[AN8.14]], [[SA-2.149]], [[SA924]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.14]] | [[SA-2.149]], [[SA-2.150]], [[SA924]], [[SA925]] | A iv 188 |
+> |  | [[SA-2.149]], [[SA-2.150]], [[SA924]], [[SA925]] | A iv 188 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.150]], [[SA925]], [[AN8.14]], [[SA-2.149]], [[SA924]] |
@@ -90,5 +90,6 @@ parallels_partilal: "[[SA-2.150]], [[SA925]], [[AN8.14]], [[SA-2.149]], [[SA924]
 > - Sutta Central: https://suttacentral.net/an8.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.13
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.13.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.12]]  🌐 [[AN8.14]] ►

@@ -145,5 +145,10 @@ The Discourse on Acting Promptly, the fourteenth, is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.13-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN24]], [[AN4:24]], [[SNP8.12]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.13]]
 > ◄  [[snp4.12-deepseek-pali]] 📜  [[snp4.14-deepseek-pali]] ►

@@ -92,4 +92,5 @@ the birth &origin of stress.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.5
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.4]]  🌐 [[SNP5.6]] ►

@@ -23,3 +23,5 @@ amatamhi vijjamāne kin tava kāmehi ye pariḷāhā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig503-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG503]]
+> ◄  [[thig502-pali-pts]] 📜  [[thig504-pali-pts]] ►

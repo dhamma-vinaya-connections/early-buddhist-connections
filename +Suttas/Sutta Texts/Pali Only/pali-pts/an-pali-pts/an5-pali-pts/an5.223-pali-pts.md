@@ -33,5 +33,6 @@ Pañc'ime bhikkhave ādīnavā atinivāse. Katame pañca?
 | [[EA33.8-9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.223]]
 > ◄  [[an5.222-pali-pts]] 📜  [[an5.224-pali-pts]] ►

@@ -46,5 +46,6 @@ When this was said, Venerable Sāriputta said to the Blessed One: “It is wonde
 | [[SA482]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.176]]
 > ◄  [[an5.175-deepseek-pali]] 📜  [[an5.177-deepseek-pali]] ►

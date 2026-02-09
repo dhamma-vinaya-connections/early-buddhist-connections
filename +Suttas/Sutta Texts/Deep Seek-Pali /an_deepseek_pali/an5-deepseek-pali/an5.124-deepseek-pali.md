@@ -38,5 +38,6 @@ Monks, a caregiver endowed with five qualities is fit to attend to the sick. Wha
 | [[EA32.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.124]]
 > ◄  [[an5.123-deepseek-pali]] 📜  [[an5.125-deepseek-pali]] ►

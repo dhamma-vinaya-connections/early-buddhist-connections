@@ -52,5 +52,6 @@ Navamaṁ.
 | [[MN128]], [[JA428]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.9]]
 > ◄  [[ud5.8-anandajoti-pali]] 📜  [[ud5.10-anandajoti-pali]] ►

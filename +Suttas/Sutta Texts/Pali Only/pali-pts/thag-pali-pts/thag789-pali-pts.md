@@ -23,3 +23,5 @@ kāme ādittato disvā jātarūpāni satthato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag789-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG789]]
+> ◄  [[thag788-pali-pts]] 📜  [[thag790-pali-pts]] ►

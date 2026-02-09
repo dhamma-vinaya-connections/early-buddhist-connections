@@ -199,5 +199,6 @@ destination.
 | [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
 > ◄  [[dhp21-thanissaro]] 📜  [[dhp23-thanissaro]] ►

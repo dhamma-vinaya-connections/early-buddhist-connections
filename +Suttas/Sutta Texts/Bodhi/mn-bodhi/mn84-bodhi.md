@@ -126,5 +126,6 @@ language: "English"
 | [[SA548]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
 > ◄  [[mn83-bodhi]] 📜  [[mn85-bodhi]] ►

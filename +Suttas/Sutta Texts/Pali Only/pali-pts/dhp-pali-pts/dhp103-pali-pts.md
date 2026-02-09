@@ -24,3 +24,5 @@ attā have jitaṃ seyyo yā cāyaṃ itarā pajā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp103-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP103]]
+> ◄  [[dhp102-pali-pts]] 📜  [[dhp104-pali-pts]] ►

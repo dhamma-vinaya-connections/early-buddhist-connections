@@ -35,5 +35,6 @@ Ime kho bhikkhave dve puggalā dullabhā lokasmin ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.21]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.119]]
 > ◄  [[an2.118-pali-pts]] 📜  [[an2.120-pali-pts]] ►

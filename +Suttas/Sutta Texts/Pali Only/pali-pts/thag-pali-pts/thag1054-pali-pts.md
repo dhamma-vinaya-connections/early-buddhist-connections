@@ -23,3 +23,5 @@ so taṃ pakkena hattena ālopaṃ upanāmayi;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1054-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1054]]
+> ◄  [[thag1053-pali-pts]] 📜  [[thag1055-pali-pts]] ►

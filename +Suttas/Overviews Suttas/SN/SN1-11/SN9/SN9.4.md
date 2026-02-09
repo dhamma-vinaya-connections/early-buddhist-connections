@@ -34,7 +34,7 @@ sutta_teacher:
   - "Devas"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[JA403]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.351]], [[SA1331]]"
 parallels_partilal: "[[JA403]], [[SA-2.351]], [[SA1331]]"
 ---
@@ -67,7 +67,7 @@ Practice absorption, gotama, don’t be negligent
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA403]] | [[SA-2.351]], [[SA1331]] |  |
+> |  | [[SA-2.351]], [[SA1331]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA403]], [[SA-2.351]], [[SA1331]] |
@@ -90,5 +90,6 @@ Practice absorption, gotama, don’t be negligent
 > - Sutta Central: https://suttacentral.net/sn9.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.4.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.3]]  🌐 [[SN9.5]] ►

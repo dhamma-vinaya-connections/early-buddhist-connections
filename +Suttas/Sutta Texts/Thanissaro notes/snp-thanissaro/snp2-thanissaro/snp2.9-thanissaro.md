@@ -165,5 +165,6 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN29]], [[MN30]], [[AN5.151]], [[AN5.202]], [[AN6.86]], [[AN8.53]], [[AN10.58]], [[THAG5:10]], [[AN6.26]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.9]]
 > ◄  [[snp2.8-thanissaro]] 📜  [[snp2.10-thanissaro]] ►

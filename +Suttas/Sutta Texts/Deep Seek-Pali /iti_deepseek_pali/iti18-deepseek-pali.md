@@ -38,5 +38,6 @@ This too was said by the Blessed One, so I heard. Ninth.
 | [[AN10.39]], [[PLI-TV-KD17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
 > ◄  [[iti17-deepseek-pali]] 📜  [[iti19-deepseek-pali]] ►

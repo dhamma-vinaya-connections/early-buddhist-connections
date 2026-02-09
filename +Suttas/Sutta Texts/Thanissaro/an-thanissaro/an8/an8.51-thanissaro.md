@@ -103,5 +103,6 @@ Then Ven. Ānanda returned to the Blessed One and, having bowed down, sat to one
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN143]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.51]]
 > ◄  [[an8.40-thanissaro]] 📜  [[an8.53-thanissaro]] ►

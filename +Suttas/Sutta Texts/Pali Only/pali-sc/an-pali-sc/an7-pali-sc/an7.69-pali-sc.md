@@ -68,5 +68,6 @@ Pañcamaṁ.
 | [[EA39.2]], [[MA2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.69]]
 > ◄  [[an7.68-pali-sc]] 📜  [[an7.70-pali-sc]] ►

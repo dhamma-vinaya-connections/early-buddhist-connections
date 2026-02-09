@@ -118,15 +118,16 @@ Taṁ kiṁ maññathāvuso nigaṇṭhā, evaṁ sante ko sukhavihāritaro rāj
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN55.21]] | [[EA41.1]]; [[MA100]] | M i 91 |
+> |  | [[EA41.1]]; [[MA100]] | M i 91 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN71]]; [[EA41.1]]; [[MA100]]; [[SN55.21]]; [[AN6.63]]; [[MN13]]; [[MN139]]; [[SN36.20]]; [[SN36.19]] |
+| [[MN71]], [[EA41.1]], [[MA100]], [[SN55.21]], [[AN6.63]], [[MN13]], [[MN139]], [[SN36.20]], [[SN36.19]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN13]], [[MN54]]; [[SN35.63]]; [[SN35.115]]; [[SN35.189]]; [[SN36.6]]; [[AN2.30]]; [[AN6.63]]
+> - [[MN13]], [[MN54]], [[SN35.63]], [[SN35.115]], [[SN35.189]], [[SN36.6]], [[AN2.30]], [[AN6.63]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN14]]
 > ◄  [[mn13-pali-sc]] 📜  [[mn15-pali-sc]] ►

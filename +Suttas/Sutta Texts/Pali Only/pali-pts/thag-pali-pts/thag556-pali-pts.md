@@ -24,3 +24,5 @@ Dandhā mayhaṃ gatī āsi, paribhūto pure ahaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag556-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG556]]
+> ◄  [[thag555-pali-pts]] 📜  [[thag557-pali-pts]] ►

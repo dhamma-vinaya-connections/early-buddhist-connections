@@ -316,3 +316,5 @@ He who knows the meaning of what is spoken, and having understood the meaning ac
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG5]]
+> ◄  [[thag4-pali-eng]] 📜  [[thag6-pali-eng]] ►

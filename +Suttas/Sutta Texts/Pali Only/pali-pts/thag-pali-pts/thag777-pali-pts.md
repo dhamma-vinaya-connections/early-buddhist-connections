@@ -23,3 +23,5 @@ rājā ca aññe ca bahū manussā avītataṇhā maraṇaṃ upenti,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag777-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG777]]
+> ◄  [[thag776-pali-pts]] 📜  [[thag778-pali-pts]] ►

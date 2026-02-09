@@ -86,7 +86,8 @@ The Sixth Division: that on drinking fermented liquor
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc60-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC60]] |
->|       |          | [[ñanatusita-analysis#^PC60]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC60]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC60]]

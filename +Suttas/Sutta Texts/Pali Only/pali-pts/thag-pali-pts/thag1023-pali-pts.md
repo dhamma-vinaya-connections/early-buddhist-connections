@@ -23,3 +23,5 @@ dvāsītiṃ buddhato gaṇhi, dve sahassāni bhikkhuto:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1023-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1023]]
+> ◄  [[thag1022-pali-pts]] 📜  [[thag1024-pali-pts]] ►

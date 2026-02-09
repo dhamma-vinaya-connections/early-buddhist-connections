@@ -26,5 +26,10 @@ Ahirikañ ca anottappañ ca. Ime kho bhikkhave dve dhammā kaṇhā ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.7-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN7.6.]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.7]]
 > ◄  [[an2.6-pali-pts]] 📜  [[an2.8-pali-pts]] ►

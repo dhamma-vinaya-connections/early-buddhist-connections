@@ -86,4 +86,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti16
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti16.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI15]]  🌐 [[ITI17]] ►

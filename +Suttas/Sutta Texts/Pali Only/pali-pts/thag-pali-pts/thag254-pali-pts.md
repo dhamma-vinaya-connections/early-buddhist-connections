@@ -24,3 +24,5 @@ Suṇātha ñātayo sabbe yāvant'; ettha samāgatā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag254-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG254]]
+> ◄  [[thag253-pali-pts]] 📜  [[thag255-pali-pts]] ►

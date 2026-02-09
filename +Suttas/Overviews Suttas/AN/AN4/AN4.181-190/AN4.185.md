@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[AN10.93]], [[AN10.96]], [[AN3.64]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA26.8]], [[SA-2.201]], [[SA-2.202]], [[SA-2.204]], [[SA-2.206]], [[SA967]], [[SA968]], [[SA970]], [[SA972]]"
 parallels_partilal: "[[EA26.8]], [[SA-2.206]], [[SA972]], [[AN10.93]], [[SA-2.202]], [[SA968]], [[AN10.96]], [[SA-2.201]], [[SA967]], [[AN3.64]], [[SA-2.204]], [[SA970]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[EA26.8]], [[SA-2.206]], [[SA972]], [[AN10.93]], [[SA-2.20
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.93]], [[AN10.96]], [[AN3.64]] | [[EA26.8]], [[SA-2.201]], [[SA-2.202]], [[SA-2.204]], [[SA-2.206]], [[SA967]], [[SA968]], [[SA970]], [[SA972]] | A ii 176 |
+> |  | [[EA26.8]], [[SA-2.201]], [[SA-2.202]], [[SA-2.204]], [[SA-2.206]], [[SA967]], [[SA968]], [[SA970]], [[SA972]] | A ii 176 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA26.8]], [[SA-2.206]], [[SA972]], [[AN10.93]], [[SA-2.202]], [[SA968]], [[AN10.96]], [[SA-2.201]], [[SA967]], [[AN3.64]], [[SA-2.204]], [[SA970]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[EA26.8]], [[SA-2.206]], [[SA972]], [[AN10.93]], [[SA-2.20
 > - Sutta Central: https://suttacentral.net/an4.185/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.185
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.185.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.184]]  🌐 [[AN4.186]] ►

@@ -23,3 +23,5 @@ appakaṃ jīvitaṃ mayhaṃ jarā byādhi ca maddati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig94-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG94]]
+> ◄  [[thig93-pali-pts]] 📜  [[thig95-pali-pts]] ►

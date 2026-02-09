@@ -207,3 +207,5 @@ and carried out what was taught by the Buddha.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:da12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA12]]
+> ◄  [[da11-bdk]] 📜  [[da13-bdk]] ►

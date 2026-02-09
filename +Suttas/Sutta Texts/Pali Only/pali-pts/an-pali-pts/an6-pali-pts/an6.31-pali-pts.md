@@ -27,7 +27,7 @@ Cha yime bhikkhave dhammā sekhassa bhikkhuno parihānāya saṃvattanti. Katame
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.79]] |  | A iii 329 |
+> |  |  | A iii 329 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.79]] |
@@ -36,6 +36,7 @@ Cha yime bhikkhave dhammā sekhassa bhikkhuno parihānāya saṃvattanti. Katame
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.32]], [[AN33]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.31]]
 > ◄  [[an6.30-pali-pts]] 📜  [[an6.32-pali-pts]] ►

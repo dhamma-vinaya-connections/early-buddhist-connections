@@ -23,3 +23,5 @@ Yadā paṭhamam addakkhiṃ satthāraṃ akutobhayaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag509-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG509]]
+> ◄  [[thag508-pali-pts]] 📜  [[thag510-pali-pts]] ►

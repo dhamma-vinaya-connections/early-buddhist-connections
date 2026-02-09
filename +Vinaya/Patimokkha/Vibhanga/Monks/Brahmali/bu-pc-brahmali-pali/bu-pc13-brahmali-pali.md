@@ -133,7 +133,8 @@ Adhammakamme adhammakammasaññī āpatti dukkaṭassa.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc13-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC13]] |
->|       |          | [[ñanatusita-analysis#^PC13]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC13]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC13]]

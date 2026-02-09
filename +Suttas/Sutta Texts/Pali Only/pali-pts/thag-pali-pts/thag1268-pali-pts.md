@@ -23,3 +23,5 @@ dhīrā ca pajjotakarā bhavanti, taṃ taṃ ahaṃ dhīra tath'; eva maññe,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1268-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1268]]
+> ◄  [[thag1267-pali-pts]] 📜  [[thag1269-pali-pts]] ►

@@ -48,11 +48,12 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Ekādasamaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.26]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.26]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI108]]
 > ◄  [[iti107-pali-sc]] 📜  [[iti109-pali-sc]] ►

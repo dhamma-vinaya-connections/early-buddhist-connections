@@ -33,3 +33,5 @@ The monks said to the Buddha, “The Bhagavān is the root of the Dharma, the ey
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_76-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_76]]
+> ◄  [[SA2_75]] 📜  [[SA2_77]] ►

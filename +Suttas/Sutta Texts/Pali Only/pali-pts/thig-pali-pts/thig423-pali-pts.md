@@ -23,3 +23,5 @@ atha naṃ bhaṇati tāto ammā sabbo ca me ñātigaṇavaggo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig423-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG423]]
+> ◄  [[thig422-pali-pts]] 📜  [[thig424-pali-pts]] ►

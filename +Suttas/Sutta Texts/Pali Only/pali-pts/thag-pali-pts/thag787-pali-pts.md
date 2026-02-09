@@ -23,3 +23,5 @@ dumapphalānīva patanti māṇavā daharā ca vuḍḍhā ca sarīrabhedā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag787-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG787]]
+> ◄  [[thag786-pali-pts]] 📜  [[thag788-pali-pts]] ►

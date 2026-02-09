@@ -59,5 +59,6 @@ Aṭṭhamaṁ.
 | [[SA819]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.88]]
 > ◄  [[an3.87-pali-sc]] 📜  [[an3.89-pali-sc]] ►

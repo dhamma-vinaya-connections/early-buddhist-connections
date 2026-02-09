@@ -45,5 +45,6 @@ Chaṭṭhaṁ.
 | [[EA50.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.156]]
 > ◄  [[an4.155-pali-sc]] 📜  [[an4.157-pali-sc]] ►

@@ -23,3 +23,5 @@ tapanīyakatā va dhītikā vicarasi Cittarathe va accharā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig373-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG373]]
+> ◄  [[thig372-pali-pts]] 📜  [[thig374-pali-pts]] ►

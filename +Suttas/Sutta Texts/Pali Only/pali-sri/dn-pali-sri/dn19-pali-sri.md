@@ -521,5 +521,6 @@ Mahāgovindasuttaṃchaṭṭhaṃ.
 | [[JA498]], [[JA509]], [[DA3]], [[MN91]], [[SN4.9]], [[JA460]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN19]]
 > ◄  [[dn18-pali-sri]] 📜  [[dn20-pali-sri]] ►

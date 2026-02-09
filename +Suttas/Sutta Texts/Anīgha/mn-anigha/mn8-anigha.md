@@ -169,12 +169,13 @@ That is what the Auspicious One said. Pleased, Venerable Mahācunda delighted in
 > |  | [[EA47.9]]; [[MA91]] | M i 40 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA91]]; [[EA47.9]] |
+| [[MA91]], [[EA47.9]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN3]], [[MN15]], [[MN7]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN8]]
 > ◄  [[mn7-anigha]] 📜  [[mn9-anigha]] ►

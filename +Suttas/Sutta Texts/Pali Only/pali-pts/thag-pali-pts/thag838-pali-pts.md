@@ -23,3 +23,5 @@ tuvaṃ buddho, tuvaṃ satthā, tuvaṃ Mārābhibhū muni,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag838-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG838]]
+> ◄  [[thag837-pali-pts]] 📜  [[thag839-pali-pts]] ►

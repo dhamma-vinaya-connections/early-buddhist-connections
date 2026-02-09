@@ -86,4 +86,5 @@ parallels_partilal: "[[SN12.25]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.171
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.171.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.170]]  🌐 [[AN4.172]] ►

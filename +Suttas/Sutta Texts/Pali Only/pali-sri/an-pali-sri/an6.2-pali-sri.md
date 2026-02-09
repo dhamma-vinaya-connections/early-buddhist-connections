@@ -521,5 +521,6 @@ Dasamo dve ca gopālo cattāro ca samādhināti.
 | [[EA37.5]], [[DN34]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.2]]
 > ◄  [[an6.1-pali-sri]] 📜  [[an6.3-pali-sri]] ►

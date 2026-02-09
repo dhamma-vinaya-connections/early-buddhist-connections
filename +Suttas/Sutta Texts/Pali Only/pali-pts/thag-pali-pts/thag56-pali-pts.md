@@ -24,3 +24,5 @@ Ayam āhu purāṇiyā kuṭi, aññaṃ patthayase navaṃ kuṭiṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag56-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG56]]
+> ◄  [[thag55-pali-pts]] 📜  [[thag57-pali-pts]] ►

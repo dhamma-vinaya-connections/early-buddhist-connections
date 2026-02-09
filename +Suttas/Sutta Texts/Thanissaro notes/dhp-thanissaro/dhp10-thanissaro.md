@@ -228,8 +228,9 @@ themselves.
 > |  |  | Dh 37 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA221]], [[JA514]], [[THAG17.1]] |
+| [[JA221]], [[JA514]], [[THAG17]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP10]]
 > ◄  [[dhp9-thanissaro]] 📜  [[dhp11-thanissaro]] ►

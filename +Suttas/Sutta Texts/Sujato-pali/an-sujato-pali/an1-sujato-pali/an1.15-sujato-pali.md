@@ -42,5 +42,6 @@ Pañcamaṁ.
 | [[EA9.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.15]]
 > ◄  [[an1.14-sujato-pali]] 📜  [[an1.16-sujato-pali]] ►

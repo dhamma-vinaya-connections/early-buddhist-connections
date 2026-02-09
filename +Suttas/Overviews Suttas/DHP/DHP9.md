@@ -36,7 +36,7 @@ sutta_audience:
   - "People"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[JA221]], [[JA514]], [[THAG17.1]]"
+parallels_partilal: "[[JA221]], [[JA514]], [[THAG17]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP8]]  🌐 [[DHP10]] ►
 
@@ -76,7 +76,7 @@ piled up bit by bit.
 > |  |  | Dh 33 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA221]], [[JA514]], [[THAG17.1]] |
+| [[JA221]], [[JA514]], [[THAG17]].1 |
 | ------------------------ |
 
 
@@ -96,5 +96,6 @@ piled up bit by bit.
 > - Sutta Central: https://suttacentral.net/dhp9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp9
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp9.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP8]]  🌐 [[DHP10]] ►

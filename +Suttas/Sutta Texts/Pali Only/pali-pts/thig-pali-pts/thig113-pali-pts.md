@@ -24,3 +24,5 @@ pādodakañ ca disvāna thalato ninnam āgataṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig113-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG113]]
+> ◄  [[thig112-pali-pts]] 📜  [[thig114-pali-pts]] ►

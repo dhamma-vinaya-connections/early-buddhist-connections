@@ -36,11 +36,12 @@ Then, after some time, that monk trained in higher virtue, higher mind, and high
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.83]], [[AN3.91]], [[SN54.10]] | [[SA813]], [[SA829]], [[SA830-831]], [[SA966]] | A i 230 |
+> |  | [[SA813]], [[SA829]], [[SA830-831]], [[SA966]] | A i 230 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA829]], [[AN3.91]], [[SA830-831]], [[SN54.10]], [[SA813]], [[AN10.83]], [[SA966]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.84]]
 > ◄  [[an3.83-deepseek-pali]] 📜  [[an3.85-deepseek-pali]] ►

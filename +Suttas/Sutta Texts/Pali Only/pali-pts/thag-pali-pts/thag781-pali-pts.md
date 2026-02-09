@@ -23,3 +23,5 @@ na dīgham āyuṃ labhate dhanena na cāpi vittena jaraṃ vihanti;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag781-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG781]]
+> ◄  [[thag780-pali-pts]] 📜  [[thag782-pali-pts]] ►

@@ -84,6 +84,6 @@ If an ignorant person violates the precepts and is lax, giving rise to evil and 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.72]] | [[EA33.10]] |  |
+> |  | [[EA33.10]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA5]]
 > ◄  [[ma4-bdk]] 📜  [[ma6-bdk]] ►

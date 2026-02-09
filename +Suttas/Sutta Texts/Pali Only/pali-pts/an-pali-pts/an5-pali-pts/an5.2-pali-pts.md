@@ -34,5 +34,6 @@ Saddhābalaṃ, hiribalaṃ, ottappabalaṃ, viriyabalam, paññābalaṃ. Katam
 | [[AN5.14]], [[EA32.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.2]]
 > ◄  [[an5.1-pali-pts]] 📜  [[an5.3-pali-pts]] ►

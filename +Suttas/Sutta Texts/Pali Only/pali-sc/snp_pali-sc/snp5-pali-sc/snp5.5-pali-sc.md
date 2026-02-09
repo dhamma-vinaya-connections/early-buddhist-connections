@@ -92,3 +92,5 @@ Mettagūmāṇavapucchā catutthī.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.5]]
+> ◄  [[snp5.4-pali-sc]] 📜  [[snp5.6-pali-sc]] ►

@@ -62,5 +62,6 @@ Then the Venerable Kassapagotta, stirred up by that devatā, acquired a sense of
 | [[SA-2.359]], [[SA1339]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.3]]
 > ◄  [[sn9.2-bodhi]] 📜  [[sn9.4-bodhi]] ►

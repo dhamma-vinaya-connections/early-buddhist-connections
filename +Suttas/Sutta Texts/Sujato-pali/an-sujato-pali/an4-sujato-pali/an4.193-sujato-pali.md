@@ -206,5 +206,6 @@ Tatiyaṁ.
 | [[AN3.65]], [[AN8.44]], [[MN56]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.193]]
 > ◄  [[an4.192-sujato-pali]] 📜  [[an4.194-sujato-pali]] ►

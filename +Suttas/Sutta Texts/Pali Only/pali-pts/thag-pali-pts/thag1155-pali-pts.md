@@ -23,3 +23,5 @@ tadākāsasamaṃ cittaṃ ajjhattaṃ susamāhitaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1155-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1155]]
+> ◄  [[thag1154-pali-pts]] 📜  [[thag1156-pali-pts]] ►

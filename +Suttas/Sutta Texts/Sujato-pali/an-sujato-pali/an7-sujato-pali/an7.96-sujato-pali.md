@@ -53,3 +53,5 @@ meditates observing impermanence in the five aggregates … the aggregate of for
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.96-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.96]]
+> ◄  [[an7.95-sujato-pali]] 📜  [[an7.103-sujato-pali]] ►

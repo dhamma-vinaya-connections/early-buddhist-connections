@@ -38,5 +38,6 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||9||
 | [[AN10.40]], [[PLI-TV-KD17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI19]]
 > ◄  [[iti18-pali-pts]] 📜  [[iti20-pali-pts]] ►

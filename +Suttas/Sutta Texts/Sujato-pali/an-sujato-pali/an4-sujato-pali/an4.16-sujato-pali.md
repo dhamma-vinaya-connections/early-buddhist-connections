@@ -90,5 +90,6 @@ Chaṭṭhaṁ.
 | [[ITI62]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.16]]
 > ◄  [[an4.15-sujato-pali]] 📜  [[an4.17-sujato-pali]] ►

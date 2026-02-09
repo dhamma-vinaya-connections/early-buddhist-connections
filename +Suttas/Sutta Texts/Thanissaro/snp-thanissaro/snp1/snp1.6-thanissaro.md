@@ -287,5 +287,10 @@ vv. 91–115
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.6-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN5.129]], [[AN5.175]], [[AN8.54]], [[AN10.165]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.6]]
 > ◄  [[snp1.5-thanissaro]] 📜  [[snp1.7-thanissaro]] ►

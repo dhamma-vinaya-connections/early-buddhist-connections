@@ -76,5 +76,6 @@ Then Māra the Evil One, realizing, “The bhikkhunī Selā knows me,” sad and
 | [[SA-2.219]], [[SA1203]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.9]]
 > ◄  [[sn5.8-bodhi]] 📜  [[sn5.10-bodhi]] ►

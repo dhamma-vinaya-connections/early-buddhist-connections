@@ -38,7 +38,7 @@ world—then they incur the tenth kind of censure in accordance with the Dharma.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN117]] | [[SA785]] |  |
+> |  | [[SA785]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA458]] |
@@ -47,6 +47,7 @@ world—then they incur the tenth kind of censure in accordance with the Dharma.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.25]], [[AN5.28]], [[SN12.15]], [[SN45.1]], [[SN45.8]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA189]]
 > ◄  [[ma188-bdk]] 📜  [[ma190-bdk]] ►

@@ -141,7 +141,8 @@ Ekatoavassute “khādissāmi bhuñjissāmī”ti paṭiggaṇhāti, āpatti duk
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-ss5-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SS5]] |
->|       |          | [[ñanatusita-analysis#^-SS5]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SS5]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS5]]

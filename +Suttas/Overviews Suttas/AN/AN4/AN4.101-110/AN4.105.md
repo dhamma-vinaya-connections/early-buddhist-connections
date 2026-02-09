@@ -100,4 +100,5 @@ One is deep and appears deep
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.105
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.105.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.104]]  🌐 [[AN4.106]] ►

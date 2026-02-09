@@ -23,3 +23,5 @@ dālemu Maccuno senaṃ ajjhattaṃ susamāhitā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1146-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1146]]
+> ◄  [[thag1145-pali-pts]] 📜  [[thag1147-pali-pts]] ►

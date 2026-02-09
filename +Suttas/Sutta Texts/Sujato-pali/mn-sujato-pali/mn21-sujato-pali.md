@@ -326,15 +326,16 @@ Kakacūpamasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN22]] | [[EA50.8]]; [[MA193]]; [[MA200]] | M i 122 |
+> |  | [[EA50.8]]; [[MA193]]; [[MA200]] | M i 122 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA50.8]]; [[MA193]]; [[MN22]]; [[MA200]]; [[MN28]] |
+| [[EA50.8]], [[MA193]], [[MN22]], [[MA200]], [[MN28]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.63]], [[MN40]], [[MN21]], [[MA30]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN21]]
 > ◄  [[mn20-sujato-pali]] 📜  [[mn22-sujato-pali]] ►

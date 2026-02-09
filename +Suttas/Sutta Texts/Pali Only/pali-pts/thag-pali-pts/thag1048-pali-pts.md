@@ -23,3 +23,5 @@ gatimanto satīmanto dhitimanto ca yo isi
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1048-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1048]]
+> ◄  [[thag1047-pali-pts]] 📜  [[thag1049-pali-pts]] ►

@@ -48,7 +48,8 @@ The Chapter on Arms Akimbo is the third.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk31-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK31]] |
->|       |          | [[ñanatusita-analysis#^SK31]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK31]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK31]]

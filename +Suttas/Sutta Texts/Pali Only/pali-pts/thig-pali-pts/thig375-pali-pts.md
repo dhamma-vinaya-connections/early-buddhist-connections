@@ -23,3 +23,5 @@ yadi me vacanaṃ karissasi sukhitā ehi agāram āvasa |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig375-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG375]]
+> ◄  [[thig374-pali-pts]] 📜  [[thig376-pali-pts]] ►

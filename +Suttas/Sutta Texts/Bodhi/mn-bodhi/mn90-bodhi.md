@@ -152,5 +152,6 @@ King Pasenadi of Kosala said to the Blessed One: “Venerable sir, we have asked
 | [[MA212]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-bodhi]] 📜  [[mn91-bodhi]] ►

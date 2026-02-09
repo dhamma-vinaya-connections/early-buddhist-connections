@@ -32,3 +32,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa3_71-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_71]]
+> ◄  [[SA3_26]] 📜  [[SA4_1]] ►

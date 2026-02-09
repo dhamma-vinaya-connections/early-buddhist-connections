@@ -23,3 +23,5 @@ asisūlūpamā kāmā kāmā sappasiropamā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig487-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG487]]
+> ◄  [[thig486-pali-pts]] 📜  [[thig488-pali-pts]] ►

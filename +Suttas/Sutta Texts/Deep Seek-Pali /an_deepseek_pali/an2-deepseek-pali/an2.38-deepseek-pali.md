@@ -58,5 +58,6 @@ When this was said, the brahmin Ārāmadaṇḍa rose from his seat, arranged hi
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.94]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.38]]
 > ◄  [[an2.37-deepseek-pali]] 📜  [[an2.39-deepseek-pali]] ►

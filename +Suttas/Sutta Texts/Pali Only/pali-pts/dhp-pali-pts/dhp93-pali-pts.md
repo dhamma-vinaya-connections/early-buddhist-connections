@@ -24,3 +24,5 @@ yass'; indriyāni samathaṃ gatāni assā yathā sārathinā sudantā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp93-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP93]]
+> ◄  [[dhp92-pali-pts]] 📜  [[dhp94-pali-pts]] ►

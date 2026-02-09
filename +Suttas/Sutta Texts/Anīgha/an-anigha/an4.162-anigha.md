@@ -46,5 +46,6 @@ These are the four kinds of practice.”
 | [[EA31.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.162]]
 > ◄  [[an4.12-anigha]] 📜  [[an4.163-anigha]] ►

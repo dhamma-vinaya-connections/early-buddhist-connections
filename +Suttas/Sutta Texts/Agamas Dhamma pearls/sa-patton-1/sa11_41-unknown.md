@@ -62,3 +62,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa11_41-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA11_41]]
+> ◄  [[SA7_10]] 📜  [[SA11_58]] ►

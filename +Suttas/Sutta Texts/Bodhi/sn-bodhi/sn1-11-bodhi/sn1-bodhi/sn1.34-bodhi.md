@@ -104,11 +104,12 @@ Then one devatā, standing to one side, recited this verse in the presence of t
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP221]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]] |
+| [[DHP\|DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.34]]
 > ◄  [[sn1.33-bodhi]] 📜  [[sn1.35-bodhi]] ►

@@ -23,3 +23,5 @@ tāmatamadasaṃghasuppahīnā bhekā mandavatī panādayanti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag309-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG309]]
+> ◄  [[thag308-pali-pts]] 📜  [[thag310-pali-pts]] ►

@@ -24,3 +24,5 @@ uṭṭhānakālamhi anuṭṭhahāno yuvā balī ālasiyaṃ upeto /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp279-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP279]]
+> ◄  [[dhp278-pali-pts]] 📜  [[dhp280-pali-pts]] ►

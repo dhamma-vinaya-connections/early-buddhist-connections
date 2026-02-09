@@ -28,7 +28,7 @@ Ekamantaṃ nisinnaṃ kho Sīhaṃ senāpatiṃ Bhagavā dhammiyā kathāya san
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.14]] | [[SA-2.149]], [[SA-2.150]], [[SA924]], [[SA925]] | A iv 188 |
+> |  | [[SA-2.149]], [[SA-2.150]], [[SA924]], [[SA925]] | A iv 188 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.150]], [[SA925]], [[AN8.14]], [[SA-2.149]], [[SA924]] |
@@ -37,6 +37,7 @@ Ekamantaṃ nisinnaṃ kho Sīhaṃ senāpatiṃ Bhagavā dhammiyā kathāya san
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.81(II)]], [[AN3.94]], [[AN5.139]], [[AN5.140]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.13]]
 > ◄  [[an8.12-pali-pts]] 📜  [[an8.14-pali-pts]] ►

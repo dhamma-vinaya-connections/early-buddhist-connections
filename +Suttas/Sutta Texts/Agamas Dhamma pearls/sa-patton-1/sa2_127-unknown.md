@@ -30,3 +30,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_127-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_127]]
+> ◄  [[SA2_126]] 📜  [[SA2_128]] ►

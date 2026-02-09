@@ -24,3 +24,5 @@ catukkhattuṃ pañcakkhattuṃ vihārā upanikkhamiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig41-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG41]]
+> ◄  [[thig40-pali-pts]] 📜  [[thig42-pali-pts]] ►

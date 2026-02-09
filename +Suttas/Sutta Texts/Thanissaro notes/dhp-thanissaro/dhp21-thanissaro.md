@@ -201,5 +201,6 @@ walking alone,
 | [[JA520]], [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP21]]
 > ◄  [[dhp20-thanissaro]] 📜  [[dhp22-thanissaro]] ►

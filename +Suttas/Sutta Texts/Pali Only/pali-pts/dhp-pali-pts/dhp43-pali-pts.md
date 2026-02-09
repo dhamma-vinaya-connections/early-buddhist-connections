@@ -24,3 +24,5 @@ ko imaṃ paṭhaviṃ vijessati Yamalokaṃ ca imaṃ sadevakaṃ ? /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp43-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP43]]
+> ◄  [[dhp42-pali-pts]] 📜  [[dhp44-pali-pts]] ►

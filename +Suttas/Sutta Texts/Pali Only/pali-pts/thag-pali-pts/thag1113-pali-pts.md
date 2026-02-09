@@ -24,3 +24,5 @@ bhāvehi jhānāni ca indriyāni ca balāni bojjhaṅgasamādhibhāvanā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1113-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1113]]
+> ◄  [[thag1112-pali-pts]] 📜  [[thag1114-pali-pts]] ►

@@ -35,5 +35,6 @@ On one occasion the Blessed One was dwelling at Sāvatthī at Jeta’s Grove, An
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.70]], [[AN10.46]], [[UD2.10]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.45]]
 > ◄  [[an8.44-bodhi]] 📜  [[an8.46-bodhi]] ►

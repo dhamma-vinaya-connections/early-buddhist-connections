@@ -23,3 +23,5 @@ evaṃ vijitasaṃgāmaṃ satthavāhaṃ anuttaraṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1235-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1235]]
+> ◄  [[thag1234-pali-pts]] 📜  [[thag1236-pali-pts]] ►

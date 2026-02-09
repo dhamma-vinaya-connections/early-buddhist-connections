@@ -60,5 +60,6 @@ Aṭṭhamaṁ.
 | [[MN114]], [[MN41]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.28]]
 > ◄  [[an3.27-sujato-pali]] 📜  [[an3.29-sujato-pali]] ►

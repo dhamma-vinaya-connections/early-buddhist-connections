@@ -89,4 +89,5 @@ Like a rotten seed in a good field
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.43
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.43.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.42]]  🌐 [[AN4.44]] ►

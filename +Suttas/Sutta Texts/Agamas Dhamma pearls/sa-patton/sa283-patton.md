@@ -39,11 +39,12 @@ They answered, “It wouldn’t, Bhagavān.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN12.1-2]], [[SN12.57]], [[SN7.11]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.1-2]], [[SN12.57]], [[SN7.11]], [[SNP1.4]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA283]]
 > ◄  [[sa276-patton]] 📜  [[sa284-patton]] ►

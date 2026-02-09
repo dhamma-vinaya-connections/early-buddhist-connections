@@ -46,5 +46,6 @@ language: "English - Pali"
 | [[MA160]], [[AN7.66]], [[AN6.54]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.73]]
 > ◄  [[an7.72-deepseek-pali]] 📜  [[an7.74-deepseek-pali]] ►

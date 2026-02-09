@@ -23,3 +23,5 @@ cittamhi vasībhūtāhaṃ iddhipādā subhāvitā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig232-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG232]]
+> ◄  [[thig231-pali-pts]] 📜  [[thig233-pali-pts]] ►

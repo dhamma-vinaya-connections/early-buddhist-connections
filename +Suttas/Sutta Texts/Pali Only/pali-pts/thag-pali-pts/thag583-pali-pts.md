@@ -23,3 +23,5 @@ suggahītanimitt'; assa cittass'; uppādakovido,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag583-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG583]]
+> ◄  [[thag582-pali-pts]] 📜  [[thag584-pali-pts]] ►

@@ -23,3 +23,5 @@ saggaṃ nūna gamissanti sabbe maṇḍūkakacchapā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig240-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG240]]
+> ◄  [[thig239-pali-pts]] 📜  [[thig241-pali-pts]] ►

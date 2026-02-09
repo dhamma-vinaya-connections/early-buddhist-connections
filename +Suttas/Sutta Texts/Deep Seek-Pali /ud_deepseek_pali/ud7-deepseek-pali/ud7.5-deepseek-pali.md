@@ -58,5 +58,6 @@ Then, having understood this matter, the Blessed One on that occasion uttered th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN21.5]], [[SN41:5]], [[AN]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.5]]
 > ◄  [[ud7.4-deepseek-pali]] 📜  [[ud7.6-deepseek-pali]] ►

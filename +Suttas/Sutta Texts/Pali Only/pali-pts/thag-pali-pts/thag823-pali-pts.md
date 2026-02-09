@@ -25,3 +25,5 @@ rājāham asmi Selā 'ti bhagavā dhammarājā anuttaro,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag823-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG823]]
+> ◄  [[thag822-pali-pts]] 📜  [[thag824-pali-pts]] ►

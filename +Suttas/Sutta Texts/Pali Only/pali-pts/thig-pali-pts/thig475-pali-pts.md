@@ -23,3 +23,5 @@ nirayyesu bahū vinipātagatassa kilissamānassa |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig475-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG475]]
+> ◄  [[thig474-pali-pts]] 📜  [[thig476-pali-pts]] ►

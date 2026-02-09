@@ -23,3 +23,5 @@ sikkhāpentāpi therehi bālā cīvaradhāraṇaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag974-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG974]]
+> ◄  [[thag973-pali-pts]] 📜  [[thag975-pali-pts]] ►

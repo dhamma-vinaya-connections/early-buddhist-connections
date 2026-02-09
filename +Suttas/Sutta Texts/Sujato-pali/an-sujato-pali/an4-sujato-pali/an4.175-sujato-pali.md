@@ -104,11 +104,12 @@ Pañcamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN43]] | [[MA211]], [[SA251]] | A ii 163 |
+> |  | [[MA211]], [[SA251]] | A ii 163 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA251]], [[MA211]], [[MN43]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.175]]
 > ◄  [[an4.174-sujato-pali]] 📜  [[an4.176-sujato-pali]] ►

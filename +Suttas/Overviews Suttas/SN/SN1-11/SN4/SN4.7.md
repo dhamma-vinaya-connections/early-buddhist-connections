@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-parallels_nikaya: "[[DHP180]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.26]], [[SA1087]]"
-parallels_partilal: "[[SA-2.26]], [[SA1087]], [[DHP180]]"
+parallels_partilal: "[[SA-2.26]], [[SA1087]], [[DHP\|DHP180]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.6]]  🌐 [[SN4.8]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[SA-2.26]], [[SA1087]], [[DHP180]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP180]] | [[SA-2.26]], [[SA1087]] |  |
+> |  | [[SA-2.26]], [[SA1087]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.26]], [[SA1087]], [[DHP180]] |
+| [[SA-2.26]], [[SA1087]], [[DHP\|DHP180]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA-2.26]], [[SA1087]], [[DHP180]]"
 > - Sutta Central: https://suttacentral.net/sn4.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.7
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.7.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.6]]  🌐 [[SN4.8]] ►

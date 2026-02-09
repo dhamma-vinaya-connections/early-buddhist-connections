@@ -33,5 +33,6 @@ Ekaṃ samayaṃ Bhagavā Vesāliyaṃ viharati Mahāvane Kūṭāgārasālāya�
 | [[AN5.195]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.143]]
 > ◄  [[an5.142-pali-pts]] 📜  [[an5.144-pali-pts]] ►

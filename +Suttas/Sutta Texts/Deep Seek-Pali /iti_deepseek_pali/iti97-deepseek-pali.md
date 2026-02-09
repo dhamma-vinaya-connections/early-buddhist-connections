@@ -50,11 +50,12 @@ The Book of Threes is finished.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP391]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP391]], [[JA348]], [[JA435]] |
+| [[DHP\|DHP391]], [[JA348]], [[JA435]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI97]]
 > ◄  [[iti96-deepseek-pali]] 📜  [[iti98-deepseek-pali]] ►

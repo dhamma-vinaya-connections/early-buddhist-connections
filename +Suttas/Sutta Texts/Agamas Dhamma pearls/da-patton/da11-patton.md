@@ -188,6 +188,6 @@ The monks then accepted the teaching and listened.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN33]], [[DN34]] | [[DA10]], [[DA9]] |  |
+> |  | [[DA10]], [[DA9]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA11]]
 > ◄  [[da10-patton]] 📜  [[da12-patton]] ►

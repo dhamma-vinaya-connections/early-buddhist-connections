@@ -25,3 +25,5 @@ yesaṃ sambodhi-aṅgesu sammā cittaṃ subhāvitaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp88-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP88]]
+> ◄  [[dhp87-pali-pts]] 📜  [[dhp89-pali-pts]] ►

@@ -373,7 +373,8 @@ saṅghādisesā terasāti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-ss13-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SS13]] |
->|       |          | [[ñanatusita-analysis#^SS13]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SS13]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS13]]

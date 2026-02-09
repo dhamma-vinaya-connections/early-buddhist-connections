@@ -197,5 +197,10 @@ Dutiyaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud3.2-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN41.3]], [[AN8.30]], [[THAG6:10]], [[AN]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.2]]
 > ◄  [[ud3.1-anandajoti-pali]] 📜  [[ud3.3-anandajoti-pali]] ►

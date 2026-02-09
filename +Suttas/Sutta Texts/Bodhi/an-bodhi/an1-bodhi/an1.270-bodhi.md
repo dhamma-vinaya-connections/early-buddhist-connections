@@ -26,11 +26,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN115]] | [[MA181]] |  |
+> |  | [[MA181]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN115]], [[MA181]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.270]]
 > ◄  [[an1.269-bodhi]] 📜  [[an1.271-bodhi]] ►

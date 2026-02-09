@@ -24,3 +24,5 @@ dhātuyo dukkhato disvā mā jāti punar āgami |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG13]]
+> ◄  [[thig12-pali-pts]] 📜  [[thig14-pali-pts]] ►

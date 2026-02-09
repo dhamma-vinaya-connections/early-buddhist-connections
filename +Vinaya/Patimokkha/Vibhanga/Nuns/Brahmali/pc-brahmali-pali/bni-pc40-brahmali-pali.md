@@ -77,7 +77,8 @@ Tuvaṭṭavaggo catuttho.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc40-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC40]] |
->|       |          | [[ñanatusita-analysis#^-PC40]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC40]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC40]]

@@ -23,3 +23,5 @@ yathā divā tathā rattiṃ, yathā rattiṃ tathā divā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag396-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG396]]
+> ◄  [[thag395-pali-pts]] 📜  [[thag397-pali-pts]] ►

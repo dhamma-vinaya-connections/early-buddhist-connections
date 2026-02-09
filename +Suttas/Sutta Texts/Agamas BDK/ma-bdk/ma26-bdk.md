@@ -40,6 +40,6 @@ Be respectful, refrain from frivolous jokes, Do not engage in irrelevant talk an
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN69]] |  | M i 68 |
+> |  |  | M i 68 |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA26]]
 > ◄  [[ma25-bdk]] 📜  [[ma27-bdk]] ►

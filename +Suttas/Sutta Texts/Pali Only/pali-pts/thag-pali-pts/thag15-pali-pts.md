@@ -25,3 +25,5 @@ gacchati appakasirena, evaṃ rattindivā mama
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag15-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG15]]
+> ◄  [[thag14-pali-pts]] 📜  [[thag16-pali-pts]] ►

@@ -118,5 +118,6 @@ Then the Kālāmas of Kesaputta approached the Blessed One. Some paid homage to 
 | [[MA16]], [[AN4.193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
 > ◄  [[an3.64-bodhi]] 📜  [[an3.66-bodhi]] ►

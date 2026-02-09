@@ -23,3 +23,5 @@ pūjito naradevena uppanno maraṇābhibhū
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1179-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1179]]
+> ◄  [[thag1178-pali-pts]] 📜  [[thag1180-pali-pts]] ►

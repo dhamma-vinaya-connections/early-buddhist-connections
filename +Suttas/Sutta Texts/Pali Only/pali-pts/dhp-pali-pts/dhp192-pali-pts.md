@@ -25,3 +25,5 @@ dullabho purisājañño na so sabbattha jāyati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp192-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP192]]
+> ◄  [[dhp191-pali-pts]] 📜  [[dhp193-pali-pts]] ►

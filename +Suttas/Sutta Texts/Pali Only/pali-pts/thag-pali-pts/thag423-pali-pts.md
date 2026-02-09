@@ -23,3 +23,5 @@ nāttano samakaṃ kañci atirekaṃ ca maññisaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag423-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG423]]
+> ◄  [[thag422-pali-pts]] 📜  [[thag424-pali-pts]] ►

@@ -23,3 +23,5 @@ yen'; eva maggena gato Vipassī yen'; eva maggena Sikhī ca Vessabhū
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag489-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG489]]
+> ◄  [[thag488-pali-pts]] 📜  [[thag490-pali-pts]] ►

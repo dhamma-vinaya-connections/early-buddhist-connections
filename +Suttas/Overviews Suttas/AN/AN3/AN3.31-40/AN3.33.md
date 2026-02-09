@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Ananda"
-parallels_nikaya: "[[AN4.199]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-3.8]], [[SA983]], [[SA984]]"
 parallels_partilal: "[[SA983]], [[SA-3.8]], [[AN4.199]], [[SA984]], [[SNP5.14]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[SA983]], [[SA-3.8]], [[AN4.199]], [[SA984]], [[SNP5.14]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.199]] | [[SA-3.8]], [[SA983]], [[SA984]] | A i 133 |
+> |  | [[SA-3.8]], [[SA983]], [[SA984]] | A i 133 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA983]], [[SA-3.8]], [[AN4.199]], [[SA984]], [[SNP5.14]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA983]], [[SA-3.8]], [[AN4.199]], [[SA984]], [[SNP5.14]]"
 > - Sutta Central: https://suttacentral.net/an3.33/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.33
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.33.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.32]]  🌐 [[AN3.34]] ►

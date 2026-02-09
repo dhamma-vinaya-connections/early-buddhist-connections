@@ -283,12 +283,13 @@ That is what the Blessed One said. The venerable Mahā Cunda was satisfied and d
 > |  | [[EA47.9]]; [[MA91]] | M i 40 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA91]]; [[EA47.9]] |
+| [[MA91]], [[EA47.9]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN3]], [[MN15]], [[MN7]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN8]]
 > ◄  [[mn7-bodhi]] 📜  [[mn9-bodhi]] ►

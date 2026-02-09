@@ -23,3 +23,5 @@ sāmaṇero 'nuruddhassa iddhiyā ca visārado,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag432-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG432]]
+> ◄  [[thag431-pali-pts]] 📜  [[thag433-pali-pts]] ►

@@ -24,3 +24,5 @@ gāme vā yadi vāraññe ninne vā yadi vā thale /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp97-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP97]]
+> ◄  [[dhp96-pali-pts]] 📜  [[dhp98-pali-pts]] ►

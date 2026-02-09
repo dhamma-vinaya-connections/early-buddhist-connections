@@ -51,5 +51,6 @@ Sattamaṁ.
 | [[AN6.62]], [[PLI-TV-KD17]], [[PLI-TV-PVR7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.7]]
 > ◄  [[an8.6-pali-sc]] 📜  [[an8.8-pali-sc]] ►

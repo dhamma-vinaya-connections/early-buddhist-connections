@@ -31,3 +31,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_5]]
+> ◄  [[SA2_1-4]] 📜  [[SA2_7]] ►

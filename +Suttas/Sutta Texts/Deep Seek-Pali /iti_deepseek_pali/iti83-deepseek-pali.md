@@ -37,3 +37,5 @@ This too is the meaning spoken by the Blessed One, so I have heard. The fifth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti83-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI83]]
+> ◄  [[iti82-deepseek-pali]] 📜  [[iti84-deepseek-pali]] ►

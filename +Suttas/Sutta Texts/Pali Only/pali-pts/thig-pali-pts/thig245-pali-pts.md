@@ -23,3 +23,5 @@ tuyh'; eva sāṭako hotu nāham icchāmi sāṭakaṃ. |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig245-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG245]]
+> ◄  [[thig244-pali-pts]] 📜  [[thig246-pali-pts]] ►

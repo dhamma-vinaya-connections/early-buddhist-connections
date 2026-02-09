@@ -25,3 +25,5 @@ upasanto anāyāso vippasannamanāvilo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1007-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1007]]
+> ◄  [[thag1006-pali-pts]] 📜  [[thag1008-pali-pts]] ►

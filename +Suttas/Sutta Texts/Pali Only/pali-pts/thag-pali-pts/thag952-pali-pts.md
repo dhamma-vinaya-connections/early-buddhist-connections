@@ -23,3 +23,5 @@ aññātamānino dhamme gambhīre tīragocarā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag952-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG952]]
+> ◄  [[thag951-pali-pts]] 📜  [[thag953-pali-pts]] ►

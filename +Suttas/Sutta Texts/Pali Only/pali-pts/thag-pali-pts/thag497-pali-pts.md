@@ -23,3 +23,5 @@ pare ca na vijānanti mayam ettha yamāmase;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag497-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG497]]
+> ◄  [[thag496-pali-pts]] 📜  [[thag498-pali-pts]] ►

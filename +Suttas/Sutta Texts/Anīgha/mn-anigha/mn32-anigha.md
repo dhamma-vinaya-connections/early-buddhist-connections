@@ -91,8 +91,9 @@ That is what the Auspicious One said. Pleased, those venerables delighted in wha
 > |  | [[EA37.3]]; [[MA184]] | M i 212 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA37.3]]; [[MA184]] |
+| [[EA37.3]], [[MA184]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN32]]
 > ◄  [[mn31-anigha]] 📜  [[mn33-anigha]] ►

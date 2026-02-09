@@ -38,11 +38,12 @@ Rāhula said to the Buddha, “Yes, Bhagavān.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.91]], [[SN18.21]] | [[SA23]] |  |
+> |  | [[SA23]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN22.91]], [[SA23]], [[SN18.21]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA23]]
 > ◄  [[sa22-patton]] 📜  [[sa24-patton]] ►

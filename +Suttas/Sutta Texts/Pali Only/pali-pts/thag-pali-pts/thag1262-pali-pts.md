@@ -23,3 +23,5 @@ pucchāmi satthāram anomapaññaṃ diṭṭheva dhamme yo vicikicchānaṃ che
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1262-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1262]]
+> ◄  [[thag1261-pali-pts]] 📜  [[thag1263-pali-pts]] ►

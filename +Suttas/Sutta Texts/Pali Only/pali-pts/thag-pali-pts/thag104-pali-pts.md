@@ -23,3 +23,5 @@ Ukkaṇṭhito pi na vase ramamāno pi pakkame,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag104-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG104]]
+> ◄  [[thag103-pali-pts]] 📜  [[thag105-pali-pts]] ►

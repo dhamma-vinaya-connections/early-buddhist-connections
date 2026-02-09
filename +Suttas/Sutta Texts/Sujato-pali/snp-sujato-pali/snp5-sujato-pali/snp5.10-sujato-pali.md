@@ -85,3 +85,5 @@ Todeyyamāṇavapucchā navamā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.10]]
+> ◄  [[snp5.9-sujato-pali]] 📜  [[snp5.11-sujato-pali]] ►

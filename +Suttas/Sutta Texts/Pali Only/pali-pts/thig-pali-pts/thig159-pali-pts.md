@@ -23,3 +23,5 @@ diṭṭho hi me so bhagavā antimo 'yaṃ samussayo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig159-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG159]]
+> ◄  [[thig158-pali-pts]] 📜  [[thig160-pali-pts]] ►

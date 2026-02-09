@@ -40,7 +40,7 @@ Not to train in the holy life under me because of holding the view “the world 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN63]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN35.107]], [[MN148]] |
@@ -49,6 +49,7 @@ Not to train in the holy life under me because of holding the view “the world 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.24]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA221]]
 > ◄  [[ma220-bdk]] 📜  [[ma222-bdk]] ►

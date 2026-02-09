@@ -24,3 +24,5 @@ idaṃ pure cittam acāri cārikaṃ yenicchakaṃ yatthakāmaṃ yathāsukhaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp325-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP325]]
+> ◄  [[dhp324-pali-pts]] 📜  [[dhp326-pali-pts]] ►

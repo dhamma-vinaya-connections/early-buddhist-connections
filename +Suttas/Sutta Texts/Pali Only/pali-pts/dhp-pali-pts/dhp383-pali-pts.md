@@ -24,3 +24,5 @@ yadā dvayesu dhammesu pāragū hoti brāhmaṇo /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp383-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP383]]
+> ◄  [[dhp382-pali-pts]] 📜  [[dhp384-pali-pts]] ►

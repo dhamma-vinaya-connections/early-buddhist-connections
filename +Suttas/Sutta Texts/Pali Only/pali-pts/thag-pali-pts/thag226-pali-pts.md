@@ -23,3 +23,5 @@ susukhaṃ vata nibbānaṃ sammāsambuddhadesitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag226-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG226]]
+> ◄  [[thag225-pali-pts]] 📜  [[thag227-pali-pts]] ►

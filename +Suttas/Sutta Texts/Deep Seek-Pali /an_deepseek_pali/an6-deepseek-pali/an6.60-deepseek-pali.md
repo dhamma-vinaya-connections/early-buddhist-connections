@@ -74,5 +74,6 @@ And then, before long, Citta the Elephant-Trainer's Son shaved off his hair and 
 | [[MA82]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.60]]
 > ◄  [[an6.59-deepseek-pali]] 📜  [[an6.61-deepseek-pali]] ►

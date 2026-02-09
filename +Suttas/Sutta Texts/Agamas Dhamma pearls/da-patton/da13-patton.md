@@ -292,6 +292,6 @@ Translated by Charles Patton
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN15]] | [[MA97]] |  |
+> |  | [[MA97]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA13]]
 > ◄  [[da12-patton]] 📜  [[da14-patton]] ►

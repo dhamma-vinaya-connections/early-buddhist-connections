@@ -47,5 +47,6 @@ Then the householder Anāthapiṇḍika approached the Blessed One, paid homage 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.202]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.109]]
 > ◄  [[an3.108-bodhi]] 📜  [[an3.110-bodhi]] ►

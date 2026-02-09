@@ -61,13 +61,10 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma41-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN8.23]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.256]], [[AN4.32]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA41]]
 > ◄  [[ma36-patton]] 📜  [[ma42-patton]] ►

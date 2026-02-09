@@ -26,3 +26,5 @@ nekatikā vañcanikā kūṭasakkhī avāṭukā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag938-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG938]]
+> ◄  [[thag937-pali-pts]] 📜  [[thag940-pali-pts]] ►

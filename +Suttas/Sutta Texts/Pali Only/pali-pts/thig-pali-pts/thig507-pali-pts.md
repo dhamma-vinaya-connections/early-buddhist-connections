@@ -23,3 +23,5 @@ mā appakassa hetu kāmasukhassa vipulaṃ jahi sukhaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig507-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG507]]
+> ◄  [[thig506-pali-pts]] 📜  [[thig508-pali-pts]] ►

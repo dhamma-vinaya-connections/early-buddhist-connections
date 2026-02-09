@@ -179,3 +179,5 @@ Malavaggo aṭṭhārasamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp18-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP18-BUDDHARAKKHITA]]
+> ◄  [[dhp17-buddharakkhita-pali]] 📜  [[dhp19-buddharakkhita-pali]] ►

@@ -24,3 +24,5 @@ Ukkhepakatavacchassa saṃkalitaṃ bahūhi vassehi
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag64-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG64]]
+> ◄  [[thag63-pali-pts]] 📜  [[thag65-pali-pts]] ►

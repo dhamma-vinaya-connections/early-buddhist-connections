@@ -118,7 +118,7 @@ Catutthaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.57]] | [[EA32.10]], [[EA52.6]] | A iii 38 |
+> |  | [[EA32.10]], [[EA52.6]] | A iii 38 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA52.6]], [[AN7.57]], [[EA32.10]], [[PE3]] |
@@ -127,6 +127,7 @@ Catutthaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.148]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.34]]
 > ◄  [[an5.33-sujato-pali]] 📜  [[an5.35-sujato-pali]] ►

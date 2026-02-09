@@ -517,5 +517,6 @@ Devaputtasaṃyuttaṃ samattaṃ
 | [[SN1.71]], [[SN7.1]], [[SN11.21]], [[SA1309]], [[SA-2.308]], [[SA1158]], [[SA-2.81]], [[SA1116]], [[SA-2.45]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.3]]
 > ◄  [[sn2.2-pali-sri]] 📜  [[sn3.1-pali-sri]] ►

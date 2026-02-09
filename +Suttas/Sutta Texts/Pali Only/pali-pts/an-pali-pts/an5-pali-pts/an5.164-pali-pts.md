@@ -27,11 +27,12 @@ Pañcah'āvuso dhammehi samannāgato bhikkhu alaṃsākaccho sabrahmacārīnaṃ
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.163]], [[AN5.65]], [[AN5.66]] |  | A iii 191 |
+> |  |  | A iii 191 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.65]], [[AN5.163]], [[AN5.66]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.164]]
 > ◄  [[an5.163-pali-pts]] 📜  [[an5.165-pali-pts]] ►

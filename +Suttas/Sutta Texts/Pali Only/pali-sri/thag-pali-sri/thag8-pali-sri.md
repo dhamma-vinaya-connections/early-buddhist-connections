@@ -243,3 +243,5 @@ Aṭṭhakanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG8]]
+> ◄  [[thag7-pali-sri]] 📜  [[thag9-pali-sri]] ►

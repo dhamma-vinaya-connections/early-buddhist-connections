@@ -34,3 +34,5 @@ The Buddha told Śāriputra, “That refers to the seven parts of the right path
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa13_7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA13_7]]
+> ◄  [[SA13_6]] 📜  [[SA13_8]] ►

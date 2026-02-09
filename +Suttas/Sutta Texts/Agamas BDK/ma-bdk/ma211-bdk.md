@@ -62,7 +62,7 @@ There are two causes, two conditions for remaining in the signless con- centrati
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.175]], [[MN43]] | [[SA251]] | M ii 252 |
+> |  | [[SA251]] | M ii 252 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA157]], [[PLI-TV-BU-VB-PJ1]] |
@@ -71,6 +71,7 @@ There are two causes, two conditions for remaining in the signless con- centrati
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN106]], [[MN121.]], [[MN122]], [[MN44]], [[SN22.23]], [[SN22.79]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA211]]
 > ◄  [[ma210-bdk]] 📜  [[ma212-bdk]] ►

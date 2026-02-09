@@ -38,7 +38,7 @@ five,... four,... three,... two days,... or one day and one night?” The Niga�
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN14]], [[SN55.21]] | [[EA41.1]] |  |
+> |  | [[EA41.1]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MA75]] |
@@ -47,6 +47,7 @@ five,... four,... three,... two days,... or one day and one night?” The Niga�
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.30]], [[AN6.63]], [[MA99]], [[MN54]], [[SN35.115]], [[SN35.189]], [[SN35.63]], [[SN36.6]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA100]]
 > ◄  [[ma99-bdk]] 📜  [[ma101-bdk]] ►

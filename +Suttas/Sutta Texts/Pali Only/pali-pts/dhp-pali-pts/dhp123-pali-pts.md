@@ -24,3 +24,5 @@ pāṇimhi ce vaṇo nāssa hareyya pāṇinā visaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp123-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP123]]
+> ◄  [[dhp122-pali-pts]] 📜  [[dhp124-pali-pts]] ►

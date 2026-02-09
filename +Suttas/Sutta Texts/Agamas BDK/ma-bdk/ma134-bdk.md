@@ -132,7 +132,7 @@ from the dust of defilement as, [in regard to] all phenomena, the Dharma eye aro
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN21]] | [[DA14]] |  |
+> |  | [[DA14]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN98]], [[SNP3.9]] |
@@ -141,6 +141,7 @@ from the dust of defilement as, [in regard to] all phenomena, the Dharma eye aro
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN101]], [[MN137]], [[MN18.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA134]]
 > ◄  [[ma133-bdk]] 📜  [[ma135-bdk]] ►

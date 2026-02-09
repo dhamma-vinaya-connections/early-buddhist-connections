@@ -72,7 +72,8 @@ The first training rule on injuring seeds and plants is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc11-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC11]] |
->|       |          | [[ñanatusita-analysis#^PC11]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC11]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC11]]

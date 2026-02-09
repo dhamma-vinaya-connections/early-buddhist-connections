@@ -51,5 +51,6 @@ Tasmā te bhonto samaṇabrāhmaṇā sakkātabbā garukātabbā mānetabbā pū
 | [[SA280]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
 > ◄  [[mn149-pali-sc]] 📜  [[mn151-pali-sc]] ►

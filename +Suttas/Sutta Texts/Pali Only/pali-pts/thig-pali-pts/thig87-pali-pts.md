@@ -23,3 +23,5 @@ bahūvatasamādānā aḍḍhaṃ sīsassa olikhiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig87-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG87]]
+> ◄  [[thig86-pali-pts]] 📜  [[thig88-pali-pts]] ►

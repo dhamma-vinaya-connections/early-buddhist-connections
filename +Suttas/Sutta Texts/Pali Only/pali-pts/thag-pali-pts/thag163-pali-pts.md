@@ -23,3 +23,5 @@ sahassakaṇḍu satabheṇḍu dhajālu haritāmayo;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag163-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG163]]
+> ◄  [[thag162-pali-pts]] 📜  [[thag164-pali-pts]] ►

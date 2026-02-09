@@ -23,3 +23,5 @@ khantyā chandikato hoti, ussahitvā tuleti taṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1028-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1028]]
+> ◄  [[thag1027-pali-pts]] 📜  [[thag1029-pali-pts]] ►

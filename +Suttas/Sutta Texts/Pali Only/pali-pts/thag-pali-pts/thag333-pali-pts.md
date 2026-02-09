@@ -23,3 +23,5 @@ anusāsi maṃ ariyavatā, anukampī anuggahi;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag333-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG333]]
+> ◄  [[thag332-pali-pts]] 📜  [[thag334-pali-pts]] ►

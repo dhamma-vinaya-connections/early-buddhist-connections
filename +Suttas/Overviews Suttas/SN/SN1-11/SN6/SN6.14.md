@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG3.13]], [[DN16]], [[PE3]]"
+parallels_partilal: "[[THAG3]].13, [[DN16]], [[PE3]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.13]]  🌐 [[SN6.15]] ►
 
@@ -71,7 +71,7 @@ Will make an end to suffering.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG3.13]], [[DN16]], [[PE3]] |
+| [[THAG3]].13, [[DN16]], [[PE3]] |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ Will make an end to suffering.
 > - Sutta Central: https://suttacentral.net/sn6.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.14
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.14.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.13]]  🌐 [[SN6.15]] ►

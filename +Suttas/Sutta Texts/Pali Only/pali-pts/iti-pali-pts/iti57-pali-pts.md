@@ -31,5 +31,10 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||8||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti57-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN4]], [[MN9]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI57]]
 > ◄  [[iti56-pali-pts]] 📜  [[iti58-pali-pts]] ►

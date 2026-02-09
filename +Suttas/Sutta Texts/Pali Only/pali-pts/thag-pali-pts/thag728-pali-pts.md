@@ -23,3 +23,5 @@ indriyān'; eva sārakkhaṃ indriyāni ca gopayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag728-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG728]]
+> ◄  [[thag727-pali-pts]] 📜  [[thag729-pali-pts]] ►

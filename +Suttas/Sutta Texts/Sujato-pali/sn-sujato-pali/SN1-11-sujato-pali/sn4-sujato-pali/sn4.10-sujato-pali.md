@@ -91,5 +91,6 @@ Sappo supati nandanaṁ,
 | [[SA-2.24]], [[SA1085]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.10]]
 > ◄  [[sn4.9-sujato-pali]] 📜  [[sn4.11-sujato-pali]] ►

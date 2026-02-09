@@ -23,3 +23,5 @@ Sammappadhānasampanno satipaṭṭhānagocaro
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag99-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG99]]
+> ◄  [[thag98-pali-pts]] 📜  [[thag100-pali-pts]] ►

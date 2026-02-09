@@ -23,3 +23,5 @@ dhammena ca alābho yo yo ca lābho adhammiko:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag665-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG665]]
+> ◄  [[thag664-pali-pts]] 📜  [[thag666-pali-pts]] ►

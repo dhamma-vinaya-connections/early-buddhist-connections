@@ -35,5 +35,6 @@ Yo ca neyyatthaṃ suttantaṃ neyyattho suttanto ti dīpito: yo ca nītatthaṃ
 | [[EA18.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.26]]
 > ◄  [[an2.25-pali-pts]] 📜  [[an2.27-pali-pts]] ►

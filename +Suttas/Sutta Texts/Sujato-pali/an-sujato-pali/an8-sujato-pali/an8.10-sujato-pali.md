@@ -141,5 +141,6 @@ nando kāraṇḍavena cāti.
 | [[MA122]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
 > ◄  [[an8.9-sujato-pali]] 📜  [[an8.11-sujato-pali]] ►

@@ -78,5 +78,6 @@ Then that monk, having received almsfood at the residence of Ugga the householde
 | [[MA38]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.22]]
 > ◄  [[an8.21-deepseek-pali]] 📜  [[an8.23-deepseek-pali]] ►

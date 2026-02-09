@@ -33,3 +33,5 @@ The Buddha told the monk, “[Listen closely!] Listen closely, and consider it w
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa28-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA28]]
+> ◄  [[sa27-patton]] 📜  [[sa29-patton]] ►

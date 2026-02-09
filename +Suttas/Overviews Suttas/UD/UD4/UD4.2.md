@@ -93,4 +93,5 @@ a mendicant who has overcome dullness and drowsiness
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.2
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.1]]  🌐 [[UD4.3]] ►

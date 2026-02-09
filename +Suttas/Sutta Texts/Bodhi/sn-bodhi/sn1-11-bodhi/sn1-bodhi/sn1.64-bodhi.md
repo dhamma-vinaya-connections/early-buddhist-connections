@@ -47,5 +47,6 @@ language: "English"
 | [[SA-2.237]], [[SA1010]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.64]]
 > ◄  [[sn1.63-bodhi]] 📜  [[sn1.65-bodhi]] ►

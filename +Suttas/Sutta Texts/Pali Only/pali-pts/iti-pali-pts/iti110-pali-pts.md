@@ -63,7 +63,7 @@ Itivuttakaṃ niṭṭhitaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.11]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.11]] |
@@ -72,6 +72,7 @@ Itivuttakaṃ niṭṭhitaṃ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN19]], [[MN20]], [[AN3.102]], [[AN4.11]], [[AN6.20]], [[AN10.51]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI110]]
 > ◄  [[iti98-pali-pts]] 📜  [[]] ►

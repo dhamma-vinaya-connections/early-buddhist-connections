@@ -43,5 +43,6 @@ They are well-awakened, rightly knowing, they walk evenly in the uneven."
 | [[SA-2.165]], [[SA580]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.8]]
 > ◄  [[sn1.7-deepseek-pali]] 📜  [[sn1.9-deepseek-pali]] ►

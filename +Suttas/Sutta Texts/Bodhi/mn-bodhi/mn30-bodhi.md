@@ -83,15 +83,16 @@ of the Heartwood
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN29]] | [[EA43.4]] | M i 198 |
+> |  | [[EA43.4]] | M i 198 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN29]]; [[EA43.4]] |
+| [[MN29]], [[EA43.4]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN29]]; [[SN17.3]]; [[SN17.5]]; [[SN17.8]]; [[AN8.7]]; [[AN8.8]]; [[AN10.58.]]
+> - [[MN29]], [[SN17.3]], [[SN17.5]], [[SN17.8]], [[AN8.7]], [[AN8.8]], [[AN10.58.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN30]]
 > ◄  [[mn29-bodhi]] 📜  [[mn31-bodhi]] ►

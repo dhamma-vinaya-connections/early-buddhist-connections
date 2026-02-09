@@ -24,3 +24,5 @@ yassa c'; etaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp249-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP249]]
+> ◄  [[dhp248-pali-pts]] 📜  [[dhp250-pali-pts]] ►

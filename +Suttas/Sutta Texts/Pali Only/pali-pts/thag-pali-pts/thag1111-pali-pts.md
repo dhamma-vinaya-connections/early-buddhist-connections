@@ -23,3 +23,5 @@ kāmā hi citrā madhurā manoramā aviddasū yattha sitā puthujjanā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1111-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1111]]
+> ◄  [[thag1110-pali-pts]] 📜  [[thag1112-pali-pts]] ►

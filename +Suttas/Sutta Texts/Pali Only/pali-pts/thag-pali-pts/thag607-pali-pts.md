@@ -31,3 +31,5 @@ Sīlam ev'; idha sikkhetha asmiṃ loke susikkhitaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag607-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG607]]
+> ◄  [[thag606-pali-pts]] 📜  [[thag608-pali-pts]] ►

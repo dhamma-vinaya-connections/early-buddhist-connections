@@ -86,5 +86,6 @@ Soon after the Blessed One had left, Venerable Phagguna passed away. And at the 
 | [[SA1023]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
 > ◄  [[an6.55-deepseek-pali]] 📜  [[an6.57-deepseek-pali]] ►

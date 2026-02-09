@@ -117,7 +117,8 @@ Anukkhittake ukkhittakasaññī, āpatti dukkaṭassa. Anukkhittake vematiko, ā
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc69-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC69]] |
->|       |          | [[ñanatusita-analysis#^PC69]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC69]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC69]]

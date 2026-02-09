@@ -23,3 +23,5 @@ satthavāhe mahāvīre sārathīnaṃ varuttame:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag131-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG131]]
+> ◄  [[thag130-pali-pts]] 📜  [[thag132-pali-pts]] ►

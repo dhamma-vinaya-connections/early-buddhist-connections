@@ -35,5 +35,6 @@ PTS: A i 173
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN101]], [[MA19]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.61]]
 > ◄  [[an3.60-pali-pts]] 📜  [[an3.62-pali-pts]] ►

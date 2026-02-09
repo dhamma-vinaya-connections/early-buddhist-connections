@@ -24,3 +24,5 @@ suññāgāraṃ paviṭṭhassa santacittassa bhikkhuno /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp372-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP372]]
+> ◄  [[dhp371-pali-pts]] 📜  [[dhp373-pali-pts]] ►

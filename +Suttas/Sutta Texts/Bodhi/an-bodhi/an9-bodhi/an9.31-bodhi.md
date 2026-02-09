@@ -38,5 +38,6 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.34]], [[SN36.11]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.31]]
 > ◄  [[an9.30-bodhi]] 📜  [[an9.32-bodhi]] ►

@@ -23,3 +23,5 @@ sunīlagīvā susikhā supekhuṇā sucittapattacchadanā vihaṃgamā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1135-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1135]]
+> ◄  [[thag1134-pali-pts]] 📜  [[thag1136-pali-pts]] ►

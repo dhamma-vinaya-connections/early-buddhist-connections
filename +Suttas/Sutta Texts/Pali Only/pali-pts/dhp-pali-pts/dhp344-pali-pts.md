@@ -26,3 +26,5 @@ na taṃ daḷhaṃ bandhanam āhu dhīrā yad āyasaṃ dārujaṃ pabbajañ ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp344-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP344]]
+> ◄  [[dhp343-pali-pts]] 📜  [[dhp345-pali-pts]] ►

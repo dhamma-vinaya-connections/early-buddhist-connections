@@ -33,3 +33,5 @@ Bhikkhu sīvathikaṃ gantvā addasaṃ itthim ujjhitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag314-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG314]]
+> ◄  [[thag313-pali-pts]] 📜  [[thag315-pali-pts]] ►

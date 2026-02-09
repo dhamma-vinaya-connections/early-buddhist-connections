@@ -23,3 +23,5 @@ devesu mahiddhikā ahumhā manussakamhi ko pana vādo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig519-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG519]]
+> ◄  [[thig518-pali-pts]] 📜  [[thig520-pali-pts]] ►

@@ -23,3 +23,5 @@ pakkhanno Māravisaye daḷhasallasamappito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag252-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG252]]
+> ◄  [[thag251-pali-pts]] 📜  [[thag253-pali-pts]] ►

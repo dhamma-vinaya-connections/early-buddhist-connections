@@ -64,11 +64,12 @@ Venerable sir, as for these visible fruits of giving declared by the Blessed One
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.34]] | [[EA32.10]], [[EA52.6]] | A iv 79 |
+> |  | [[EA32.10]], [[EA52.6]] | A iv 79 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.34]], [[EA52.6]], [[EA32.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.57]]
 > ◄  [[an7.56-deepseek-pali]] 📜  [[an7.58-deepseek-pali]] ►

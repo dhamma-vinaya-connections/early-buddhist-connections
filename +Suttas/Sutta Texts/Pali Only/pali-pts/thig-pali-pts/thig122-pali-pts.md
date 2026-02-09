@@ -23,3 +23,5 @@ pattaṃ daṇḍaṃ ca gaṇhitvā bhikkhamānā kulā kulaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig122-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG122]]
+> ◄  [[thig121-pali-pts]] 📜  [[thig123-pali-pts]] ►

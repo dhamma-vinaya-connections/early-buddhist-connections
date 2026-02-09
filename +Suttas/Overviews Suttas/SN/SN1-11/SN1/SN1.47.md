@@ -95,4 +95,5 @@ With right view running out in front
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.47
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.47.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.46]]  🌐 [[SN1.48]] ►

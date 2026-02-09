@@ -31,3 +31,5 @@ in reciting and practicing what one has widely heard, [no distinction or virtue]
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma147-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA147]]
+> ◄  [[ma146-bdk]] 📜  [[ma148-bdk]] ►

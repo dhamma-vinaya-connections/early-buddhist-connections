@@ -24,3 +24,5 @@ haṃsādiccapathe yanti ākāse yanti iddhiyā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp174-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP174]]
+> ◄  [[dhp173-pali-pts]] 📜  [[dhp175-pali-pts]] ►

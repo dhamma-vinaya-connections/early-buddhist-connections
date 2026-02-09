@@ -24,3 +24,5 @@ yo 'dha puññañ ca pāpañ ca ubho saṅgaṃ upaccagā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp411-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP411]]
+> ◄  [[dhp410-pali-pts]] 📜  [[dhp412-pali-pts]] ►

@@ -23,3 +23,5 @@ evaṃ me bhayajātassa apārā pāram esato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag762-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG762]]
+> ◄  [[thag761-pali-pts]] 📜  [[thag763-pali-pts]] ►

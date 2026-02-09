@@ -112,5 +112,6 @@ Then,  just as quickly as a strong man might extend his drawn-in arm or draw in 
 | [[SA-2.265]], [[SA99]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
 > ◄  [[sn6.2-bodhi]] 📜  [[sn6.4-bodhi]] ►

@@ -109,11 +109,12 @@ Venerable Bakula said to him, “You shouldn’t ask that. Ask about something e
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN124]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN9.13]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA34]]
 > ◄  [[ma31-patton]] 📜  [[ma36-patton]] ►

@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP191]], [[SN15.10]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.340]], [[SA-3.11]], [[SA947]]"
-parallels_partilal: "[[SN15.10]], [[SA-2.340]], [[SA-3.11]], [[SA947]], [[DHP191]], [[THAG21.1]], [[THIG7.2]], [[THIG7.3]], [[THIG13.3]], [[THIG13.4]]"
+parallels_partilal: "[[SN15.10]], [[SA-2.340]], [[SA-3.11]], [[SA947]], [[DHP\|DHP191]], [[THAG21]].1, [[THIG7]].2, [[THIG7]].3, [[THIG13]].3, [[THIG13]].4"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI23]]  🌐 [[ITI25]] ►
 
@@ -71,10 +71,10 @@ he makes an end of stress.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP191]], [[SN15.10]] | [[SA-2.340]], [[SA-3.11]], [[SA947]] |  |
+> |  | [[SA-2.340]], [[SA-3.11]], [[SA947]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN15.10]], [[SA-2.340]], [[SA-3.11]], [[SA947]], [[DHP191]], [[THAG21.1]], [[THIG7.2]], [[THIG7.3]], [[THIG13.3]], [[THIG13.4]] |
+| [[SN15.10]], [[SA-2.340]], [[SA-3.11]], [[SA947]], [[DHP\|DHP191]], [[THAG21]].1, [[THIG7]].2, [[THIG7]].3, [[THIG13]].3, [[THIG13]].4 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -97,5 +97,6 @@ he makes an end of stress.
 > - Sutta Central: https://suttacentral.net/iti24/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti24
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti24.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI23]]  🌐 [[ITI25]] ►

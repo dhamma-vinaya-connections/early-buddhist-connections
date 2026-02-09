@@ -28,11 +28,12 @@ Esā bhikkhave tulā etaṃ pamāṇaṃ mama sāvakānaṃ bhikkhūnaṃ yadida
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.176]] |  | A i 88 |
+> |  |  | A i 88 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.176]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.130]]
 > ◄  [[an2.129-pali-pts]] 📜  [[an2.131-pali-pts]] ►

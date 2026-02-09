@@ -24,3 +24,5 @@ yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ agandhakaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp50-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP50]]
+> ◄  [[dhp49-pali-pts]] 📜  [[dhp51-pali-pts]] ►

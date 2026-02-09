@@ -40,11 +40,12 @@ Then Māra the Evil One, realizing, "The Blessed One knows me, the Sugata knows 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.12]] | [[SA-2.142]], [[SA1004]] |  |
+> |  | [[SA-2.142]], [[SA1004]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN1.12]], [[SA-2.142]], [[SA1004]], [[SNP1.2]], [[PE2]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.8]]
 > ◄  [[sn4.7-deepseek-pali]] 📜  [[sn4.9-deepseek-pali]] ►

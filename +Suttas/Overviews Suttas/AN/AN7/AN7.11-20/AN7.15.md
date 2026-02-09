@@ -91,4 +91,5 @@ parallels_partilal: "[[EA39.3]], [[MA4]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.15
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.15.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.14]]  🌐 [[AN7.16]] ►

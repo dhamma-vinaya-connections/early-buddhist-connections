@@ -112,7 +112,7 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.108]] | [[EA21.7]] | A i 199 |
+> |  | [[EA21.7]] | A i 199 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.108]], [[EA21.7]] |
@@ -121,6 +121,7 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN46.51]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.68]]
 > ◄  [[an3.66-thanissaro]] 📜  [[an3.69-thanissaro]] ►

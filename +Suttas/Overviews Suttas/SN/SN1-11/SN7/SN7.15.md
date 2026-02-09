@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[SN7.14]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]]"
 parallels_partilal: "[[SN7.14]], [[SA-2.262]], [[SA96]], [[SA-2.258]], [[SA92]]"
 ---
@@ -68,7 +68,7 @@ Towards these one should avoid conceit
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN7.14]] | [[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]] |  |
+> |  | [[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN7.14]], [[SA-2.262]], [[SA96]], [[SA-2.258]], [[SA92]] |
@@ -91,5 +91,6 @@ Towards these one should avoid conceit
 > - Sutta Central: https://suttacentral.net/sn7.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.15
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.15.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.14]]  🌐 [[SN7.16]] ►

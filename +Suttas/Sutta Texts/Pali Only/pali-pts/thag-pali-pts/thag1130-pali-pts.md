@@ -23,3 +23,5 @@ satthā ca me lokam imaṃ adhiṭṭhahi aniccato addhuvato asārato;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1130-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1130]]
+> ◄  [[thag1129-pali-pts]] 📜  [[thag1131-pali-pts]] ►

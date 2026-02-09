@@ -80,11 +80,12 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.93]], [[AN10.96]], [[AN4.185]] | [[SA-2.201]], [[SA-2.202]], [[SA-2.204]], [[SA967]], [[SA968]], [[SA970]] | A i 185 |
+> |  | [[SA-2.201]], [[SA-2.202]], [[SA-2.204]], [[SA967]], [[SA968]], [[SA970]] | A i 185 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.204]], [[SA970]], [[AN10.93]], [[SA-2.202]], [[SA968]], [[AN10.96]], [[SA-2.201]], [[SA967]], [[AN4.185]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.64]]
 > ◄  [[an3.63-thanissaro]] 📜  [[an3.66-thanissaro]] ►

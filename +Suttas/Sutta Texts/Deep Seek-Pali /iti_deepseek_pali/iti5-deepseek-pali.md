@@ -29,3 +29,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The fifth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI5]]
+> ◄  [[iti4-deepseek-pali]] 📜  [[iti6-deepseek-pali]] ►

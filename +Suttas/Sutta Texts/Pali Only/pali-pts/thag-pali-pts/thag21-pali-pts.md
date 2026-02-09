@@ -23,3 +23,5 @@ Nīlā sugīvā sikhino morā Kāraṃviyaṃ abhinadanti,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag21-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG21]]
+> ◄  [[thag20-pali-pts]] 📜  [[thag22-pali-pts]] ►

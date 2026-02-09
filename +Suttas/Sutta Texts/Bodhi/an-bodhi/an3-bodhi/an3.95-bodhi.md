@@ -38,11 +38,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN55.38]] |  | A i 242 |
+> |  |  | A i 242 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.61]], [[AN10.62]], [[AN4.147]], [[SN55.38]], [[SN12.23]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.95]]
 > ◄  [[an3.94-bodhi]] 📜  [[an3.96-bodhi]] ►

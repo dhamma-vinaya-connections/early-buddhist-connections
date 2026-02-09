@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP423]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP423]], [[AN3.58]], [[AN3.59]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4.1]]"
+parallels_partilal: "[[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI98]]  🌐 [[ITI100]] ►
 
@@ -67,15 +67,15 @@ citing, reciting.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP423]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP423]], [[AN3.58]], [[AN3.59]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4.1]] |
+| [[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4]].1 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN4]], [[THIG5.11]], [[THIG5.12]], [[THIG12]], [[THIG13.2]]
+> - [[MN4]], [[THIG5]].11, [[THIG5]].12, [[THIG12]], [[THIG13]].2
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -93,5 +93,6 @@ citing, reciting.
 > - Sutta Central: https://suttacentral.net/iti99/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti99
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti99.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI98]]  🌐 [[ITI100]] ►

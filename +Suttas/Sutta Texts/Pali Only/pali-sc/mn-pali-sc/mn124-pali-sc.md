@@ -104,5 +104,6 @@ Acirūpasampanno panāyasmā kassapo eko vūpakaṭṭho appamatto ātāpī pahi
 | [[MA34]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN124]]
 > ◄  [[mn123-pali-sc]] 📜  [[mn125-pali-sc]] ►

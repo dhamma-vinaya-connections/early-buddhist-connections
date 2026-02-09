@@ -31,3 +31,5 @@ This meaning, too, was spoken by the Blessed One, so I have heard. First.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti59-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI59]]
+> ◄  [[iti58-deepseek-pali]] 📜  [[iti60-deepseek-pali]] ►

@@ -44,11 +44,12 @@ On one occasion the Blessed One was dwelling at Nādika in the brick hall. There
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.20]] |  | A iv 320 |
+> |  |  | A iv 320 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.20]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.74]]
 > ◄  [[an8.73-bodhi]] 📜  [[an8.75-bodhi]] ►

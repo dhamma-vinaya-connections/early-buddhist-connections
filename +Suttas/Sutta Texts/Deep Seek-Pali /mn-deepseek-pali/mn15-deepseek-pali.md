@@ -318,5 +318,6 @@ The Discourse on Self-Observation, the fifth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN40]], [[MN5]], [[MN7]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN15]]
 > ◄  [[mn14-deepseek-pali]] 📜  [[mn16-deepseek-pali]] ►

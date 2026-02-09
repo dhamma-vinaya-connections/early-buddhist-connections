@@ -126,5 +126,6 @@ The Great Discourse on the Undertaking of Practices, the sixth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN45]], [[AN4.192]], [[MN25]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN46]]
 > ◄  [[mn45-deepseek-pali]] 📜  [[mn47-deepseek-pali]] ►

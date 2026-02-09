@@ -23,3 +23,5 @@ tass'; etaṃ kammaphalaṃ yaṃ maṃ apakaritūna gacchanti |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig446-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG446]]
+> ◄  [[thig445-pali-pts]] 📜  [[thig447-pali-pts]] ►

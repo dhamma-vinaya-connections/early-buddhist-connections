@@ -98,5 +98,6 @@ Just as, bhikkhus, that warrior endures the dust cloud, endures the banner, endu
 | [[EA33.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
 > ◄  [[an5.74-deepseek-pali]] 📜  [[an5.76-deepseek-pali]] ►

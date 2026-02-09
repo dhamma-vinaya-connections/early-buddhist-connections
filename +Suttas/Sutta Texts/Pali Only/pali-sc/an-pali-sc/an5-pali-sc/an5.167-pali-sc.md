@@ -69,5 +69,6 @@ Sattamaṁ.
 | [[SA497]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.167]]
 > ◄  [[an5.166-pali-sc]] 📜  [[an5.168-pali-sc]] ►

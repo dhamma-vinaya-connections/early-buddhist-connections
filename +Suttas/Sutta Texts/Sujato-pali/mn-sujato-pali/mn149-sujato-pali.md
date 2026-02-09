@@ -146,5 +146,6 @@ Mahāsaḷāyatanikasuttaṁ niṭṭhitaṁ sattamaṁ.
 | [[SA305]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-sujato-pali]] 📜  [[mn150-sujato-pali]] ►

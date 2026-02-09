@@ -25,3 +25,5 @@ mam'; evātivasā assu kiccākiccesu kismici", /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp73-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP73]]
+> ◄  [[dhp72-pali-pts]] 📜  [[dhp74-pali-pts]] ►

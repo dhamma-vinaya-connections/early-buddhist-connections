@@ -24,3 +24,5 @@ rājato va upassaggaṃ abbhakkhānaṃ va dāruṇaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp138-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP138]]
+> ◄  [[dhp137-pali-pts]] 📜  [[dhp139-pali-pts]] ►

@@ -242,11 +242,12 @@ and followed it.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN27]] | [[MA154]] |  |
+> |  | [[MA154]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA18]], [[SN47.12]], [[AN1.277]], [[MN115]], [[DN1]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA5]]
 > ◄  [[da4-bdk]] 📜  [[da6-bdk]] ►

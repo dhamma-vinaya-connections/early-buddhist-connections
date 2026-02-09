@@ -24,3 +24,5 @@ andhabhūto ayaṃ loko tanuk'; ettha vipassati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp173-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP173]]
+> ◄  [[dhp172-pali-pts]] 📜  [[dhp174-pali-pts]] ►

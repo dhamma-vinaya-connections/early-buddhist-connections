@@ -23,3 +23,5 @@ na kulāni upabbaje muni, vimano hoti, samādhi dullabho;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1051-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1051]]
+> ◄  [[thag1050-pali-pts]] 📜  [[thag1052-pali-pts]] ►

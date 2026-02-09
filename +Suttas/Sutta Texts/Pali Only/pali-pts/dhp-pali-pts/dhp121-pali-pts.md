@@ -25,3 +25,5 @@ udabindunipātena udakumbho pi pūrati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp121-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP121]]
+> ◄  [[dhp120-pali-pts]] 📜  [[dhp122-pali-pts]] ►

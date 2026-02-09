@@ -95,4 +95,5 @@ Avīci, unmitigated hell.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti89
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti89.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI88]]  🌐 [[ITI90]] ►

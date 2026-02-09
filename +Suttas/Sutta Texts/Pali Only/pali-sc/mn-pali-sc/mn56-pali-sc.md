@@ -344,8 +344,9 @@ Atha kho nigaṇṭhassa nāṭaputtassa bhagavato sakkāraṁ asahamānassa tat
 > |  | [[MA133]] | M i 371 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA133]]; [[AN4.193]] |
+| [[MA133]], [[AN4.193]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-pali-sc]] 📜  [[mn57-pali-sc]] ►

@@ -23,3 +23,5 @@ nīcaṃ manaṃ karitvāna sapadānaṃ kulā kulaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag578-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG578]]
+> ◄  [[thag577-pali-pts]] 📜  [[thag579-pali-pts]] ►

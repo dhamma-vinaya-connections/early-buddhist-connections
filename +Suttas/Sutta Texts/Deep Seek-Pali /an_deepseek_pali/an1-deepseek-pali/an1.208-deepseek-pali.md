@@ -31,3 +31,5 @@ The second section.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.208-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.208]]
+> ◄  [[an1.207-deepseek-pali]] 📜  [[an1.209-deepseek-pali]] ►

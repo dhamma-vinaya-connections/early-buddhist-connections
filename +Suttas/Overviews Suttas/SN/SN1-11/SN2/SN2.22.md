@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[DHP66]], [[DHP67]], [[DHP68]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.274]], [[SA1276]]"
-parallels_partilal: "[[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]]"
+parallels_partilal: "[[SA-2.274]], [[SA1276]], [[DHP\|DHP66]], [[DHP\|DHP67]], [[DHP\|DHP68]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.21]]  🌐 [[SN2.23]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP66]], [[DHP67]], [[DHP68]] | [[SA-2.274]], [[SA1276]] |  |
+> |  | [[SA-2.274]], [[SA1276]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]] |
+| [[SA-2.274]], [[SA1276]], [[DHP\|DHP66]], [[DHP\|DHP67]], [[DHP\|DHP68]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]]"
 > - Sutta Central: https://suttacentral.net/sn2.22/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.22
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.22.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.21]]  🌐 [[SN2.23]] ►

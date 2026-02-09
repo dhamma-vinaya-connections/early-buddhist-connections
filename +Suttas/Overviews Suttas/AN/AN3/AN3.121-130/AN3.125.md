@@ -86,4 +86,5 @@ parallels_partilal: "[[PLI-TV-KD21]], [[DN16]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.125
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.125.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.124]]  🌐 [[AN3.126]] ►

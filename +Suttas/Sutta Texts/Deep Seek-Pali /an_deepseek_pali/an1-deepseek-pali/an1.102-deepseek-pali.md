@@ -27,3 +27,5 @@ Bhikkhus, I do not perceive any other single quality that conduces to such corru
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.102-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.102]]
+> ◄  [[an1.101-deepseek-pali]] 📜  [[an1.103-deepseek-pali]] ►

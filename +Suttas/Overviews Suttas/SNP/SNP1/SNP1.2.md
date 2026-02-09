@@ -92,4 +92,5 @@ further, no evil is found in me:
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.2
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.1]]  🌐 [[SNP1.3]] ►

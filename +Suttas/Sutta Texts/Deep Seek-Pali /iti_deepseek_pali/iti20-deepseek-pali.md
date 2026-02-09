@@ -42,5 +42,6 @@ This meaning, too, was spoken by the Blessed One, thus I have heard. First.
 | [[AN1.43]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI20]]
 > ◄  [[iti19-deepseek-pali]] 📜  [[iti21-deepseek-pali]] ►

@@ -24,3 +24,5 @@ passantu taṃ Sākiyā Koḷiyā ca pacchāmukhaṃ Rohiṇiyaṃ tarantaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag529-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG529]]
+> ◄  [[thag528-pali-pts]] 📜  [[thag530-pali-pts]] ►

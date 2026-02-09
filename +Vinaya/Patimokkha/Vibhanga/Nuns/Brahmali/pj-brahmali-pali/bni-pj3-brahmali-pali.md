@@ -1007,7 +1007,8 @@ Te taṁ loṇasovīrakaṁ pāyesuṁ. So kālamakāsi. Tassā kukkuccaṁ ahos
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pj3-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PJ3]] |
->|       |          | [[ñanatusita-analysis#^-PJ3]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PJ3]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ3]]

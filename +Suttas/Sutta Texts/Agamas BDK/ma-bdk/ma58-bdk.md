@@ -24,11 +24,12 @@ Thus have I heard: At one time the Buddha was staying at Sāvatthī, in Jeta’s
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN46.42]] | [[EA39.7]], [[SA721-722]] |  |
+> |  | [[EA39.7]], [[SA721-722]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MA67]], [[MN83]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA58]]
 > ◄  [[ma57-bdk]] 📜  [[ma59-bdk]] ►

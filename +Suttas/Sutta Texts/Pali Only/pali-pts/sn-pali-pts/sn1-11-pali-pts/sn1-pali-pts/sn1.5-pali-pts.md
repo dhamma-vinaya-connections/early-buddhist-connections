@@ -37,11 +37,12 @@ paralokaṃ na bhāye ti || ||
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP370]], [[THAG1.15]] | [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]] |  |
+> |  | [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]], [[DHP370]], [[THAG1.15]] |
+| [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]], [[DHP\|DHP370]], [[THAG1]].15 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.5]]
 > ◄  [[sn1.4-pali-pts]] 📜  [[sn1.6-pali-pts]] ►

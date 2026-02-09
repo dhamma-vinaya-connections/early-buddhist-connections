@@ -56,11 +56,12 @@ Then Venerable Vaṅgīsa rose from his seat, arranged his upper robe over one s
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SNP3.3]] | [[SA-2.253]], [[SA1218]] |  |
+> |  | [[SA-2.253]], [[SA1218]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SNP3.3]], [[SA-2.253]], [[SA1218]], [[THAG21.1]], [[PE3]] |
+| [[SNP3.3]], [[SA-2.253]], [[SA1218]], [[THAG21]].1, [[PE3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.5]]
 > ◄  [[sn8.4-deepseek-pali]] 📜  [[sn8.6-deepseek-pali]] ►

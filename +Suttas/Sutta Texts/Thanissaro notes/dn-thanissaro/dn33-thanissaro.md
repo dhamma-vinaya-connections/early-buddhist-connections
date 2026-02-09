@@ -1031,7 +1031,7 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN1.447-454]], [[AN4.232]], [[AN4.256]], [[AN5.130]], [[AN5.205]], [[AN5.206]], [[AN5.213]], [[AN6.11]], [[AN6.12]], [[AN6.36]], [[AN6.57]], [[AN7.44]], [[AN8.120]], [[AN8.31]], [[AN8.35]], [[AN8.66]], [[AN8.80]], [[AN9.24]], [[AN9.31]], [[AN9.32]], [[AN9.71]], [[AN9.72]], [[AN9.82]], [[AN9.92]], [[DN30]], [[DN34]], [[MN16]], [[UD8.6]] | [[DA10]], [[DA11]], [[DA9]], [[EA37.1]], [[EA39.5]], [[EA44.1]], [[EA51.4]], [[MA206]], [[MA59]] | D iii 207 |
+> |  | [[DA10]], [[DA11]], [[DA9]], [[EA37.1]], [[EA39.5]], [[EA44.1]], [[EA51.4]], [[MA206]], [[MA59]] | D iii 207 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.205]], [[AN9.71]], [[MN16]], [[DN34]], [[DA10]], [[AN10.14]], [[EA51.4]], [[MA206]], [[AN5.206]], [[AN9.72]], [[AN9.82]], [[AN9.92]], [[AN8.120]], [[AN1.447-454]], [[MN137]], [[AN8.66]], [[DN16]], [[DN15]], [[MN77]], [[MA59]], [[DA9]], [[DN30]], [[MN148]], [[DA11]], [[DN33]], [[AN10.19]], [[AN10.25]], [[AN10.29]], [[AN8.65]], [[AN1.439]], [[AN8.119]], [[AN10.71]], [[AN4.12]], [[ITI111]], [[AN10.17]], [[AN10.79]], [[AN9.29]], [[AN10.80]], [[AN9.30]], [[AN11.12]], [[AN6.8]], [[AN3.67]], [[AN4.17]], [[PLI-TV-PVR7]], [[AN4.232]], [[MN57]], [[AN4.250]], [[AN4.256]], [[AN4.32]], [[AN8.24]], [[AN4.28]], [[AN5.130]], [[PLI-TV-PVR17]], [[AN5.213]], [[PLI-TV-KD6]], [[UD8.6]], [[AN6.1]], [[MN140]], [[AN6.11]], [[AN6.12]], [[EA37.1]], [[PLI-TV-PVR4]], [[AN6.36]], [[MN104]], [[PLI-TV-KD14]], [[AN6.57]], [[AN7.20]], [[AN7.42]], [[AN7.44]], [[EA39.5]], [[AN7.58]], [[AN8.31]], [[AN8.35]], [[AN8.5]], [[AN8.80]], [[AN9.24]], [[EA44.1]], [[AN9.31]], [[AN9.32]], [[MN108]], [[PE2]], [[PLI-TV-BU-VB-PJ1]], [[MN60]], [[MN51]] |
@@ -1039,7 +1039,8 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[D12 34]], [[DA11]], [[DA1]]
+> - [[D1234]], [[DA11]], [[DA1]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN33]]
 > ◄  [[dn29-thanissaro]] 📜  [[dn34-thanissaro]] ►

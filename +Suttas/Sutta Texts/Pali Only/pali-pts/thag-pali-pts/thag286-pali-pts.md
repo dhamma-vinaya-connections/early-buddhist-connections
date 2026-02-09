@@ -23,3 +23,5 @@ Svāgataṃ vata me āsi Gayāyaṃ Gayaphagguyā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag286-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG286]]
+> ◄  [[thag285-pali-pts]] 📜  [[thag287-pali-pts]] ►

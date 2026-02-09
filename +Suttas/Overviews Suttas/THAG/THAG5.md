@@ -95,4 +95,5 @@ Knowing about Dhammas, they’re distinguished
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag5
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG4]]  🌐 [[THAG6]] ►

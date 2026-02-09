@@ -85,7 +85,8 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, puratop
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk1-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK1]] |
->|       |          | [[ñanatusita-analysis#^SK1]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK1]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK1]]

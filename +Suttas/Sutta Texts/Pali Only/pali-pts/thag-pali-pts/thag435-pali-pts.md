@@ -23,3 +23,5 @@ pūtisukhena vipulena pharitvāna samussayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag435-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG435]]
+> ◄  [[thag434-pali-pts]] 📜  [[thag436-pali-pts]] ►

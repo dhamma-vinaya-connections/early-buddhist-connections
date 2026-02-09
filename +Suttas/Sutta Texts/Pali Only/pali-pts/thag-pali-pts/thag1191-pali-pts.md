@@ -23,3 +23,5 @@ yo ve buddhena codito bhikkhusaṃghassa pekkhato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1191-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1191]]
+> ◄  [[thag1190-pali-pts]] 📜  [[thag1192-pali-pts]] ►

@@ -38,5 +38,6 @@ Ime kho bhikkhave cha dhammā vijjābhāgiyā ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN104]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.36]]
 > ◄  [[an6.35-pali-pts]] 📜  [[an6.37-pali-pts]] ►

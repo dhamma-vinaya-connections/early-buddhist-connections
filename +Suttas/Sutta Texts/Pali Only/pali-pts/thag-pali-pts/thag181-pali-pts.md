@@ -23,3 +23,5 @@ Brahmuno pekkhamānassa tato cittaṃ vimucci me;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag181-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG181]]
+> ◄  [[thag180-pali-pts]] 📜  [[thag182-pali-pts]] ►

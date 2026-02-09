@@ -23,3 +23,5 @@ dvādasavassāni ahaṃ nillacchito dārake parivahitvā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig438-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG438]]
+> ◄  [[thig437-pali-pts]] 📜  [[thig439-pali-pts]] ►

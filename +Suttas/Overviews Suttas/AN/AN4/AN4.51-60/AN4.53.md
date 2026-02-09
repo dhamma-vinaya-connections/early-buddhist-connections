@@ -87,4 +87,5 @@ Disciplined, living properly,
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.53
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.53.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.52]]  🌐 [[AN4.54]] ►

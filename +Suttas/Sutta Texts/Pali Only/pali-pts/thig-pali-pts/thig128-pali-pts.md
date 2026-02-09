@@ -23,3 +23,5 @@ ayācito tato 'gacchi ananuññāto ito gato |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig128-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG128]]
+> ◄  [[thig127-pali-pts]] 📜  [[thig129-pali-pts]] ►

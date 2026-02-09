@@ -319,5 +319,6 @@ Satipaṭṭhāna-Pāyāsi Mahāvaggassa saṅgaho.
 | [[DA7]], [[MA71]], [[JA91]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-pali-pts]] 📜  [[dn24-pali-pts]] ►

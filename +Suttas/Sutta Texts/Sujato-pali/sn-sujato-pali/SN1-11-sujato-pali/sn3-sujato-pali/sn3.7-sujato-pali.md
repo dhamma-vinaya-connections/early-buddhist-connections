@@ -66,5 +66,6 @@ vipāko hissa pāpako"ti.
 | [[SA-2.57]], [[SA1231]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.7]]
 > ◄  [[sn3.6-sujato-pali]] 📜  [[sn3.8-sujato-pali]] ►

@@ -23,3 +23,5 @@ bhikkhuniṃ puna disvāna annapānassa lābhiniṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig123-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG123]]
+> ◄  [[thig122-pali-pts]] 📜  [[thig124-pali-pts]] ►

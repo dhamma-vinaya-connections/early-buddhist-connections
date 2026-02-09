@@ -24,3 +24,5 @@ buddha vīra namo ty atthu sabbasattānam uttama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig156-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG156]]
+> ◄  [[thig155-pali-pts]] 📜  [[thig157-pali-pts]] ►

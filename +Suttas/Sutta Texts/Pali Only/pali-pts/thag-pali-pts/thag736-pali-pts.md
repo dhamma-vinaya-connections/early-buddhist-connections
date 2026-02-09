@@ -23,3 +23,5 @@ kaṭukaṃ madhurassādaṃ piyanibandhanaṃ dukhaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag736-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG736]]
+> ◄  [[thag735-pali-pts]] 📜  [[thag737-pali-pts]] ►

@@ -417,11 +417,12 @@ Mahāsamayasuttaṃsamattaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.37]] | [[DA19]], [[SA-2.105]], [[SA1192]] | D ii 253 |
+> |  | [[DA19]], [[SA-2.105]], [[SA1192]] | D ii 253 |
 > > [!check]- Partial parallels 
 > > 
 | [[DA19]], [[SA-2.105]], [[SA1192]], [[SN1.37]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN20]]
 > ◄  [[dn19-pali-sri]] 📜  [[dn21-pali-sri]] ►

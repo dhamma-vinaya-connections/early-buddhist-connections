@@ -24,3 +24,5 @@ idha vassaṃ vasissāmi idha hemantagimhisu /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp285-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP285]]
+> ◄  [[dhp284-pali-pts]] 📜  [[dhp286-pali-pts]] ►

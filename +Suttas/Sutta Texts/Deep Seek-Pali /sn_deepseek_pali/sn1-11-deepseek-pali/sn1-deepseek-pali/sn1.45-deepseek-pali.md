@@ -27,5 +27,10 @@ Behold him of peerless name, seeing subtle meanings, bestowing wisdom, unattache
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.45-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN54.4]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.45]]
 > ◄  [[sn1.44-deepseek-pali]] 📜  [[sn1.46-deepseek-pali]] ►

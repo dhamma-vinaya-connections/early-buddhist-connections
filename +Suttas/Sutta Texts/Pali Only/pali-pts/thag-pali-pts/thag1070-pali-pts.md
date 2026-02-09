@@ -23,3 +23,5 @@ na pañcaṅgikena turiyena rati me hoti tādisī
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1070-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1070]]
+> ◄  [[thag1069-pali-pts]] 📜  [[thag1071-pali-pts]] ►

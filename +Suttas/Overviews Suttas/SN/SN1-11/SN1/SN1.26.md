@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[DHP387]], [[SN2.4]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.309]], [[SA1310]]"
-parallels_partilal: "[[SA-2.309]], [[SA1310]], [[SN2.4]], [[DHP387]], [[SN21.11]]"
+parallels_partilal: "[[SA-2.309]], [[SA1310]], [[SN2.4]], [[DHP\|DHP387]], [[SN21.11]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.25]]  🌐 [[SN1.27]] ►
 
@@ -63,10 +63,10 @@ This is the supreme radiance
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP387]], [[SN2.4]] | [[SA-2.309]], [[SA1310]] |  |
+> |  | [[SA-2.309]], [[SA1310]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.309]], [[SA1310]], [[SN2.4]], [[DHP387]], [[SN21.11]] |
+| [[SA-2.309]], [[SA1310]], [[SN2.4]], [[DHP\|DHP387]], [[SN21.11]] |
 | ------------------------ |
 
 
@@ -86,5 +86,6 @@ This is the supreme radiance
 > - Sutta Central: https://suttacentral.net/sn1.26/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.26
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.26.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.25]]  🌐 [[SN1.27]] ►

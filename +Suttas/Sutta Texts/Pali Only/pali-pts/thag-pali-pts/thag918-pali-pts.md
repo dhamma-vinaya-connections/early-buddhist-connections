@@ -23,3 +23,5 @@ Vajjīnaṃ Veḷuvagāme ahaṃ jīvitasaṃkhayā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag918-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG918]]
+> ◄  [[thag917-pali-pts]] 📜  [[thag919-pali-pts]] ►

@@ -228,11 +228,12 @@ Bhayabheravasuttaṁ niṭṭhitaṁ catutthaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN20]]; [[MN85]] | [[EA31.1]]; [[MA101]] | M i 16 |
+> |  | [[EA31.1]]; [[MA101]] | M i 16 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA31.1]]; [[MN100]]; [[MN26]]; [[MN36]]; [[MN85]]; [[MN20]]; [[MA101]] |
+| [[EA31.1]], [[MN100]], [[MN26]], [[MN36]], [[MN85]], [[MN20]], [[MA101]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN4]]
 > ◄  [[mn3-sujato-pali]] 📜  [[mn5-sujato-pali]] ►

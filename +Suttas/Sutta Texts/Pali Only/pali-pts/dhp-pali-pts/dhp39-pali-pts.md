@@ -24,3 +24,5 @@ kumbhūpamaṃ kāyam imaṃ viditvā nagarūpamaṃ cittam idaṃ ṭhapetvā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp39-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP39]]
+> ◄  [[dhp38-pali-pts]] 📜  [[dhp40-pali-pts]] ►

@@ -133,5 +133,6 @@ The Yamaka Chapter, the First, is Ended.
 | [[EA52.7]], [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP1]]
 > ◄  [[]] 📜  [[dhp2-deepseek-pali]] ►

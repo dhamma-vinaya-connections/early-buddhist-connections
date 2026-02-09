@@ -50,5 +50,6 @@ And how, bhikkhus, is a person most refined among ascetics? Here, bhikkhus, a bh
 | [[EA28.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.88]]
 > ◄  [[an4.87-deepseek-pali]] 📜  [[an4.89-deepseek-pali]] ►

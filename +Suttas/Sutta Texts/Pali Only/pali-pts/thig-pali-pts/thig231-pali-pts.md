@@ -23,3 +23,5 @@ esā antaradhāyāmi kucchiṃ vā pavisāmi te |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig231-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG231]]
+> ◄  [[thig230-pali-pts]] 📜  [[thig232-pali-pts]] ►

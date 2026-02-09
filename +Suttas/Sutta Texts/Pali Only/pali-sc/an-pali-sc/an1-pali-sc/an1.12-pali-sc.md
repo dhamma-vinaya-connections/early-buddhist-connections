@@ -34,5 +34,6 @@ Dutiyaṁ.
 | [[EA9.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.12]]
 > ◄  [[an1.11-pali-sc]] 📜  [[an1.13-pali-sc]] ►

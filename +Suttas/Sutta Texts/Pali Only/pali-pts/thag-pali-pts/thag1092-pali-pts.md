@@ -23,3 +23,5 @@ kadā aniccaṃ vadharoganīḷaṃ kāyaṃ imaṃ maccujarāy'; upaddutaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1092-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1092]]
+> ◄  [[thag1091-pali-pts]] 📜  [[thag1093-pali-pts]] ►

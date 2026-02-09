@@ -204,12 +204,13 @@ Mūlapaṇṇāsakaṁ samattaṁ.
 > |  | [[MA131]] | M i 332 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA131]]; [[THAG20.1]] |
+| [[MA131]], [[THAG20]].1 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN37]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN50]]
 > ◄  [[mn49-pali-sc]] 📜  [[mn51-pali-sc]] ►

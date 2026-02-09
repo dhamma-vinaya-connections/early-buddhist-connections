@@ -92,4 +92,5 @@ By this truth may there be well-being.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.1
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.12]]  🌐 [[SNP2.2]] ►

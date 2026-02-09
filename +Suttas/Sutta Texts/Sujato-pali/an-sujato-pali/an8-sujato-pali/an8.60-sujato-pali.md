@@ -73,5 +73,6 @@ dve ca aṭṭha puggalāti.
 | [[EA43.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
 > ◄  [[an8.59-sujato-pali]] 📜  [[an8.61-sujato-pali]] ►

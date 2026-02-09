@@ -24,3 +24,5 @@ Pāto majjhantikaṃ sāyaṃ tikkhattuṃ divasass'; ahaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag344-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG344]]
+> ◄  [[thag343-pali-pts]] 📜  [[thag345-pali-pts]] ►

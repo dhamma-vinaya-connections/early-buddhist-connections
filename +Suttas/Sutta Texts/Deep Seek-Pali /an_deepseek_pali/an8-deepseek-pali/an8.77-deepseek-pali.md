@@ -60,11 +60,12 @@ Here, friends, a bhikkhu living secluded, independent in his way of life, a desi
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.61]] |  | A iv 325 |
+> |  |  | A iv 325 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.61]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.77]]
 > ◄  [[an8.76-deepseek-pali]] 📜  [[an8.78-deepseek-pali]] ►

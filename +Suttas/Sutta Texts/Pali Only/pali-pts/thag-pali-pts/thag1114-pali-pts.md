@@ -23,3 +23,5 @@ bhāvehi maggaṃ amatassa pattiyā niyyānikaṃ sabbadukhakkhayogadhaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1114-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1114]]
+> ◄  [[thag1113-pali-pts]] 📜  [[thag1115-pali-pts]] ►

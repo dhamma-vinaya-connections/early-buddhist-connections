@@ -25,3 +25,5 @@ Vassati devo yathā sugītaṃ, channā me kuṭikā sukhā nivātā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag324-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG324]]
+> ◄  [[thag323-pali-pts]] 📜  [[thag325-pali-pts]] ►

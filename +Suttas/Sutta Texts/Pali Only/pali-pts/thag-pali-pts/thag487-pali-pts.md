@@ -25,3 +25,5 @@ na mayhaṃ kappate ajja sare hatthehi bhañjituṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag487-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG487]]
+> ◄  [[thag486-pali-pts]] 📜  [[thag488-pali-pts]] ►

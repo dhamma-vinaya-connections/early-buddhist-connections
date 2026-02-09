@@ -23,3 +23,5 @@ rūpā saddā rasā gandhā phoṭṭhabbā ca manoramā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag894-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG894]]
+> ◄  [[thag893-pali-pts]] 📜  [[thag895-pali-pts]] ►

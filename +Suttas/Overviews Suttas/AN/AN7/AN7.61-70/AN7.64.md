@@ -89,4 +89,5 @@ He suffers as if burned with fire
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.64
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.64.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.63]]  🌐 [[AN7.65]] ►

@@ -23,3 +23,5 @@ sameto naccagītehi sammaṭāḷappabodhano
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag892-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG892]]
+> ◄  [[thag891-pali-pts]] 📜  [[thag893-pali-pts]] ►

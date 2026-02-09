@@ -94,4 +94,5 @@ having done unwholesome actions, must experience little suffering as their fruit
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.100
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.100.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.99]]  🌐 [[AN3.101]] ►

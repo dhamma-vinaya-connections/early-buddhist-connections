@@ -23,3 +23,5 @@ tassāhaṃ vacanaṃ sutvā vihāsiṃ sāsane rato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag560-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG560]]
+> ◄  [[thag559-pali-pts]] 📜  [[thag561-pali-pts]] ►

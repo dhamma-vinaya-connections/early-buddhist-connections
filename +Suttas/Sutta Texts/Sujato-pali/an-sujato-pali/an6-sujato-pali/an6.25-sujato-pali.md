@@ -72,6 +72,6 @@ Pañcamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.10]] | [[SA2.156]], [[SA931]] | A iii 312 |
+> |  | [[SA2.156]], [[SA931]] | A iii 312 |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.25]]
 > ◄  [[an6.24-sujato-pali]] 📜  [[an6.26-sujato-pali]] ►

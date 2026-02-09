@@ -23,3 +23,5 @@ piṇḍikāya paviṭṭho 'haṃ gacchanto naṃ udikkhisaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag267-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG267]]
+> ◄  [[thag264-pali-pts]] 📜  [[thag268-pali-pts]] ►

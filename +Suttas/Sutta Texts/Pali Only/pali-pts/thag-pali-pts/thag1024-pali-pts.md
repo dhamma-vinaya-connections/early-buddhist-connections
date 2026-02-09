@@ -23,3 +23,5 @@ appassuto 'yaṃ puriso balivaddo va jīrati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1024-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1024]]
+> ◄  [[thag1023-pali-pts]] 📜  [[thag1025-pali-pts]] ►

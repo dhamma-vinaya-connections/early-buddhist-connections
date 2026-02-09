@@ -44,5 +44,6 @@ Atha kho āyasmā Kassapagotto tāya devatāya saṃvejito saṃvegam āpādīti
 | [[SA-2.359]], [[SA1339]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.3]]
 > ◄  [[sn9.2-pali-pts]] 📜  [[sn9.4-pali-pts]] ►

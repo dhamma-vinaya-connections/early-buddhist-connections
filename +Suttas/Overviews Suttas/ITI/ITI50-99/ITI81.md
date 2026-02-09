@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[SN17.10]], [[THAG17.2]]"
+parallels_partilal: "[[SN17.10]], [[THAG17]].2"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI80]]  🌐 [[ITI82]] ►
 
@@ -70,7 +70,7 @@ enjoying the ending of clinging
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN17.10]], [[THAG17.2]] |
+| [[SN17.10]], [[THAG17]].2 |
 | ------------------------ |
 
 
@@ -90,5 +90,6 @@ enjoying the ending of clinging
 > - Sutta Central: https://suttacentral.net/iti81/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti81
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti81.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI80]]  🌐 [[ITI82]] ►

@@ -36,5 +36,6 @@ Nihīyati tassa yaso kāḷapakkhe va candimāti
 | [[DN33]], [[PLI-TV-PVR7]], [[DN31]], [[PE3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.17]]
 > ◄  [[an4.16-pali-pts]] 📜  [[an4.18-pali-pts]] ►

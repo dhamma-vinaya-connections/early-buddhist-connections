@@ -23,3 +23,5 @@ anuddhato acapalo nipako saṃvutindriyo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1080-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1080]]
+> ◄  [[thag1079-pali-pts]] 📜  [[thag1081-pali-pts]] ►

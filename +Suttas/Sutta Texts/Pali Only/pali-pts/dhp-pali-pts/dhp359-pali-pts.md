@@ -29,3 +29,5 @@ cakkhunā saṃvaro sādhu, sādhu sotena saṃvaro, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp359-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP359]]
+> ◄  [[dhp358-pali-pts]] 📜  [[dhp360-pali-pts]] ►

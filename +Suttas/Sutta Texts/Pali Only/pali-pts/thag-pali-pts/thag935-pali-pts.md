@@ -23,3 +23,5 @@ sabbakārukasippāni cittikatvāna sikkhare,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag935-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG935]]
+> ◄  [[thag934-pali-pts]] 📜  [[thag936-pali-pts]] ►

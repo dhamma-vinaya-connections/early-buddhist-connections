@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP228]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP228]]"
+parallels_partilal: "[[DHP\|DHP228]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.2]]  🌐 [[UD6.4]] ►
 
@@ -65,10 +65,10 @@ It wasn’t, won’t be,
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP228]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP228]] |
+| [[DHP\|DHP228]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -91,5 +91,6 @@ It wasn’t, won’t be,
 > - Sutta Central: https://suttacentral.net/ud6.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.3
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.3.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.2]]  🌐 [[UD6.4]] ►

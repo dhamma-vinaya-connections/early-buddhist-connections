@@ -33,5 +33,6 @@ Yasmiṃ bhikkhave puggale āghāto jāyetha, asati amanasikāro tasmiṃ puggal
 | [[MA25]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
 > ◄  [[an5.161-pali-pts]] 📜  [[an5.163-pali-pts]] ►

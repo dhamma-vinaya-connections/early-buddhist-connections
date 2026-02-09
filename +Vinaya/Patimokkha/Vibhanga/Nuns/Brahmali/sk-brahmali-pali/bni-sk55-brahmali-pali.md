@@ -75,7 +75,8 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma te, bhikkhave, moghapurisā 
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-sk55-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SK55]] |
->|       |          | [[ñanatusita-analysis#^-SK55]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SK55]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK55]]

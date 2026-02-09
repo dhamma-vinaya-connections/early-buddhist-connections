@@ -25,3 +25,5 @@ cūḷāsītisahassāni sabbā Jīvasanāmikā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig50-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG50]]
+> ◄  [[thig49-pali-pts]] 📜  [[thig51-pali-pts]] ►

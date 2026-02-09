@@ -40,5 +40,6 @@ Appamādo hirimā ca dve suvacā duve sakhā Dve paṭisambhidā dve vasā nidda
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.48]], [[AN10.60]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.44]]
 > ◄  [[an7.43-pali-pts]] 📜  [[an7.45-pali-pts]] ►

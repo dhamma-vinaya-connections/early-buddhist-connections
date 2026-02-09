@@ -24,3 +24,5 @@ pavivekarasaṃ pītvā rasaṃ upasamassa ca /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp204-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP204]]
+> ◄  [[dhp203-pali-pts]] 📜  [[dhp205-pali-pts]] ►

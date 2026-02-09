@@ -23,3 +23,5 @@ evaṃ bahudukkhā kāmā akkhātā antarāyikā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig491-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG491]]
+> ◄  [[thig490-pali-pts]] 📜  [[thig492-pali-pts]] ►

@@ -23,3 +23,5 @@ dvinnaṃ antaravassānaṃ ekā vācā me bhāsitā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag127-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG127]]
+> ◄  [[thag126-pali-pts]] 📜  [[thag128-pali-pts]] ►

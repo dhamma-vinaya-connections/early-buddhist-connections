@@ -150,7 +150,8 @@ Kathañhi nāma, bhikkhave, thullanandā bhikkhunī jānaṁ pārājikaṁ dhamm
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pj6-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PJ6]] |
->|       |          | [[ñanatusita-analysis#^-PJ6]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PJ6]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ6]]

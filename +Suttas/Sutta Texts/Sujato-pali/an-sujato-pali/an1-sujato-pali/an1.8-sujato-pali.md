@@ -42,5 +42,6 @@ Aṭṭhamaṁ.
 | [[EA9.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.8]]
 > ◄  [[an1.7-sujato-pali]] 📜  [[an1.9-sujato-pali]] ►

@@ -25,3 +25,5 @@ akkharānaṃ sannipātaṃ jaññā pubbāparāni ca /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp351-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP351]]
+> ◄  [[dhp350-pali-pts]] 📜  [[dhp352-pali-pts]] ►

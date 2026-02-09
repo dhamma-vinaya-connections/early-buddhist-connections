@@ -59,5 +59,6 @@ Vaggo tena pavuccati.
 | [[SA-2.132]], [[SA995]], [[JA538]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
 > ◄  [[sn1.9-pali-sc]] 📜  [[sn1.11-pali-sc]] ►

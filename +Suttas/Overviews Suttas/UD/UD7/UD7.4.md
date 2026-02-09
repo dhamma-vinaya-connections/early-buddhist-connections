@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP334]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG4.8]], [[DHP334]], [[PE2]]"
+parallels_partilal: "[[THAG4]].8, [[DHP\|DHP334]], [[PE2]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.3]]  🌐 [[UD7.5]] ►
 
@@ -72,15 +72,15 @@ like a suckling calf its mother
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP334]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG4.8]], [[DHP334]], [[PE2]] |
+| [[THAG4]].8, [[DHP\|DHP334]], [[PE2]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG4.8]]
+> - [[THAG4]].8
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -98,5 +98,6 @@ like a suckling calf its mother
 > - Sutta Central: https://suttacentral.net/ud7.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.4
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.4.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.3]]  🌐 [[UD7.5]] ►

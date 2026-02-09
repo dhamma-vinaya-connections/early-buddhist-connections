@@ -23,3 +23,5 @@ bhāveyya ca bojjhaṅge iddhipādāni indriyabalāni
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag594-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG594]]
+> ◄  [[thag593-pali-pts]] 📜  [[thag595-pali-pts]] ►

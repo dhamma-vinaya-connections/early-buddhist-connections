@@ -23,3 +23,5 @@ cattāro satipaṭṭhāne satta aṭṭha ca bhāvayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag165-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG165]]
+> ◄  [[thag164-pali-pts]] 📜  [[thag166-pali-pts]] ►

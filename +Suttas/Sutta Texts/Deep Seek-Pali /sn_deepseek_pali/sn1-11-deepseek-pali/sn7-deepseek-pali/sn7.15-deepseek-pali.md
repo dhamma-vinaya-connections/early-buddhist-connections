@@ -52,11 +52,12 @@ When this was said, the brahmin Mānatthaddha said to the Blessed One: “Excell
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN7.14]] | [[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]] |  |
+> |  | [[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN7.14]], [[SA-2.262]], [[SA96]], [[SA-2.258]], [[SA92]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.15]]
 > ◄  [[sn7.14-deepseek-pali]] 📜  [[sn7.16-deepseek-pali]] ►

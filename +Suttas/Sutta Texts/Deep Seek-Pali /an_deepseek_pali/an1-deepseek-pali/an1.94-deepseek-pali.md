@@ -27,3 +27,5 @@ Bhikkhus, I do not perceive any other single internal factor that conduces to su
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.94-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.94]]
+> ◄  [[an1.93-deepseek-pali]] 📜  [[an1.95-deepseek-pali]] ►

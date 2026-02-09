@@ -66,5 +66,6 @@ appamatto sadā namassam anusikkhe ti || ||
 | [[SA1219]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
 > ◄  [[sn8.7-pali-pts]] 📜  [[sn8.9-pali-pts]] ►

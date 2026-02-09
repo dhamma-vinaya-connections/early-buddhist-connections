@@ -37,5 +37,6 @@ Sattahi bhikkhave dhammehi samannāgato bhikkhu āhuneyyo hoti . . . pe . . . an
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.73]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.68]]
 > ◄  [[an7.67-pali-pts]] 📜  [[an7.69-pali-pts]] ►

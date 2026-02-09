@@ -23,3 +23,5 @@ dāyādakā tassa dhanaṃ haranti, satto pana gacchati yenakammaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag780-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG780]]
+> ◄  [[thag779-pali-pts]] 📜  [[thag781-pali-pts]] ►

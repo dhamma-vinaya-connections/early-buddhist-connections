@@ -23,3 +23,5 @@ vantā mahesinā kāmā ye dibbā ye ca mānusā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig349-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG349]]
+> ◄  [[thig348-pali-pts]] 📜  [[thig350-pali-pts]] ►

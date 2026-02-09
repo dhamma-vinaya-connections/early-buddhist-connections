@@ -31,3 +31,5 @@ To give up these five emotional shackles you should develop the four bases of ps
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.92-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.92]]
+> ◄  [[an9.84-sujato-pali]] 📜  [[an9.93-sujato-pali]] ►

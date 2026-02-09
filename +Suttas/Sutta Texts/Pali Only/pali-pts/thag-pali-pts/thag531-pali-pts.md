@@ -23,3 +23,5 @@ punappunaṃ yācanakā caranti, punappunaṃ dānapatī dadanti,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag531-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG531]]
+> ◄  [[thag530-pali-pts]] 📜  [[thag532-pali-pts]] ►

@@ -282,3 +282,5 @@ pallaṅkena upāvisin"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG8]]
+> ◄  [[thag7-sujato-pali]] 📜  [[thag9-sujato-pali]] ►

@@ -23,3 +23,5 @@ na te dukkhā pamuty atthi upeccāpi palāyato. |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig247-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG247]]
+> ◄  [[thig246-pali-pts]] 📜  [[thig248-pali-pts]] ►

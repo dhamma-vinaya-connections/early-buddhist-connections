@@ -90,5 +90,6 @@ Upadhīsu tāṇaṁ na karonti buddhā"ti.
 | [[SA-2.28]], [[SA1089]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.6]]
 > ◄  [[sn4.5-sujato-pali]] 📜  [[sn4.7-sujato-pali]] ►

@@ -24,3 +24,5 @@ Dipādako 'yam asuci duggandho parihīrati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag452-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG452]]
+> ◄  [[thag451-pali-pts]] 📜  [[thag453-pali-pts]] ►

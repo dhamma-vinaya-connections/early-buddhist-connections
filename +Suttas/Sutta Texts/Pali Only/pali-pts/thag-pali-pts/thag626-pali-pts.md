@@ -24,3 +24,5 @@ rattiyā majjhimaṃ yāmaṃ dibbacakkhuṃ visodhitaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag626-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG626]]
+> ◄  [[thag625-pali-pts]] 📜  [[thag627-pali-pts]] ►

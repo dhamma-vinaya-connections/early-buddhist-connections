@@ -41,5 +41,6 @@ At one time the Auspicious One was staying near Vesālī, at the Great Wood, in 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.79]], [[AN8.30]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.53]]
 > ◄  [[an8.6-anigha]] 📜  [[an9.7-anigha]] ►

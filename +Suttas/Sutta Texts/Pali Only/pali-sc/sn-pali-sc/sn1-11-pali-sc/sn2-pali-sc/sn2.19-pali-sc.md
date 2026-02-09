@@ -36,11 +36,12 @@ Lokāmisaṁ pajahe santipekkho"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.3]] | [[SA-2.138]], [[SA1001]] |  |
+> |  | [[SA-2.138]], [[SA1001]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN1.3]], [[SA-2.138]], [[SA1001]], [[AN3.51]], [[JA498]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
 > ◄  [[sn2.18-pali-sc]] 📜  [[sn2.20-pali-sc]] ►

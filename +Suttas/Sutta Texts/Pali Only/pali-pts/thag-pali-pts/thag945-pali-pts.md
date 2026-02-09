@@ -23,3 +23,5 @@ yathā kaṇṭakaṭṭhānamhi careyya anupāhano
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag945-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG945]]
+> ◄  [[thag944-pali-pts]] 📜  [[thag946-pali-pts]] ►

@@ -31,5 +31,6 @@ PTS: A ii 247
 | [[MN26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.255]]
 > ◄  [[an4.253-pali-pts]] 📜  [[an4.256-pali-pts]] ►

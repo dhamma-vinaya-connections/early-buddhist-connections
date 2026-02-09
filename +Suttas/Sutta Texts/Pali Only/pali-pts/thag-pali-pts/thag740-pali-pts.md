@@ -23,3 +23,5 @@ atho sīdati saññuttaṃ vajje kiccaṃ niratthakaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag740-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG740]]
+> ◄  [[thag739-pali-pts]] 📜  [[thag741-pali-pts]] ►

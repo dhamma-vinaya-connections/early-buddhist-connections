@@ -37,8 +37,9 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG18.1]], [[AN2.8]] |
+| [[THAG18]].1, [[AN2.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI42]]
 > ◄  [[iti41-pali-sc]] 📜  [[iti43-pali-sc]] ►

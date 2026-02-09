@@ -40,7 +40,7 @@ Catutthaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.256]] | [[MA40]] | A iv 218 |
+> |  | [[MA40]] | A iv 218 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA40]], [[AN4.256]], [[AN4.32]], [[DN33]] |
@@ -49,6 +49,7 @@ Catutthaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.32]], [[AN4.256]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.24]]
 > ◄  [[an8.23-pali-sc]] 📜  [[an8.25-pali-sc]] ►

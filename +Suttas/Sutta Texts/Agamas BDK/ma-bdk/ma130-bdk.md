@@ -40,7 +40,7 @@ Anyone who might deride, condemn, or attack him Would be committing an even more
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.54]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.117]], [[AN10.118]], [[AN10.169]], [[AN10.170]], [[SN45.34]], [[SN46.17]] |
@@ -49,6 +49,7 @@ Anyone who might deride, condemn, or attack him Would be committing an even more
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.61]], [[AN3.99]], [[AN7.62]], [[MA13]], [[SN35.145]], [[SN36.21]], [[SN42.11]], [[SN42.8]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA130]]
 > ◄  [[ma129-bdk]] 📜  [[ma132-bdk]] ►

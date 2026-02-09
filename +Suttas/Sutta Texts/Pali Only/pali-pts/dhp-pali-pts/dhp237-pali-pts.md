@@ -24,3 +24,5 @@ so karohi dīpam attano khippaṃ vāyama paṇḍito bhava, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp237-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP237]]
+> ◄  [[dhp236-pali-pts]] 📜  [[dhp238-pali-pts]] ►

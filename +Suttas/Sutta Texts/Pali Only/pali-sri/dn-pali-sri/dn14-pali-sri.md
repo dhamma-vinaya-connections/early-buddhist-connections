@@ -589,15 +589,16 @@ Mahāpadānasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP183]], [[DHP184]], [[DHP185]], [[MN26]], [[MN85]], [[SN12.4]], [[SN12.65]], [[SN6.1]] | [[DA1]], [[EA19.1]], [[EA24.5]], [[EA38.4]], [[EA48.4]], [[MA204]], [[SA287]] | D ii 1 |
+> |  | [[DA1]], [[EA19.1]], [[EA24.5]], [[EA38.4]], [[EA48.4]], [[MA204]], [[SA287]] | D ii 1 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP183]], [[DA1]], [[EA48.4]], [[SN12.65]], [[MN85]], [[PLI-TV-KD15]], [[SN6.1]], [[MA204]], [[MN100]], [[MN26]], [[MN36]], [[EA38.4]], [[SA287]], [[PE2]], [[DHP184]], [[DHP185]], [[UD4.6]], [[ITI38]], [[PLI-TV-KD1]], [[SN11.17]], [[EA19.1]], [[EA24.5]], [[SN12.4]] |
+| [[DHP\|DHP183]], [[DA1]], [[EA48.4]], [[SN12.65]], [[MN85]], [[PLI-TV-KD15]], [[SN6.1]], [[MA204]], [[MN100]], [[MN26]], [[MN36]], [[EA38.4]], [[SA287]], [[PE2]], [[DHP\|DHP184]], [[DHP\|DHP185]], [[UD4.6]], [[ITI38]], [[PLI-TV-KD1]], [[SN11.17]], [[EA19.1]], [[EA24.5]], [[SN12.4]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN30]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN14]]
 > ◄  [[dn13-pali-sri]] 📜  [[dn15-pali-sri]] ►

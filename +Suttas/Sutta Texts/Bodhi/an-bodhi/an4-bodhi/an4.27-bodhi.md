@@ -55,5 +55,6 @@ who is content and heedful.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.30]], [[AN10.71]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.27]]
 > ◄  [[an4.26-bodhi]] 📜  [[an4.28-bodhi]] ►

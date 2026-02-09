@@ -23,3 +23,5 @@ yañ hi kayirā tañ hi vade, yaṃ na kayirā na taṃ vade.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag225-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG225]]
+> ◄  [[thag224-pali-pts]] 📜  [[thag226-pali-pts]] ►

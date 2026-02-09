@@ -92,4 +92,5 @@ conduct yourself well in body, speech and mind
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp17
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp17.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP16]]  🌐 [[DHP18]] ►

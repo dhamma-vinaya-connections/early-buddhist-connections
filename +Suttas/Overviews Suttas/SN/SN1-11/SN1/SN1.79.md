@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[SN1.77]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.290]], [[SA1292]]"
 parallels_partilal: "[[SA-2.290]], [[SN1.77]], [[SA1292]]"
 ---
@@ -68,7 +68,7 @@ To cut off all bondage.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.77]] | [[SA-2.290]], [[SA1292]] |  |
+> |  | [[SA-2.290]], [[SA1292]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.290]], [[SN1.77]], [[SA1292]] |
@@ -91,5 +91,6 @@ To cut off all bondage.
 > - Sutta Central: https://suttacentral.net/sn1.79/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.79
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.79.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.78]]  🌐 [[SN1.80]] ►

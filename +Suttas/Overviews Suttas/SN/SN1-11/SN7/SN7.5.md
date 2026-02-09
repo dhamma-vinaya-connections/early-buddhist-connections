@@ -77,7 +77,7 @@ You’ll attain the highest happiness
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG6.12]]
+> - [[THAG6]].12
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -95,5 +95,6 @@ You’ll attain the highest happiness
 > - Sutta Central: https://suttacentral.net/sn7.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.5
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.5.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.4]]  🌐 [[SN7.6]] ►

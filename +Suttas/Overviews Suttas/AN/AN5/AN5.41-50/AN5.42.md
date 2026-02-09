@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN8.38]], [[DHP230]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[AN8.38]], [[DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]]"
+parallels_partilal: "[[AN8.38]], [[DHP\|DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.41]]  🌐 [[AN5.43]] ►
 
@@ -64,10 +64,10 @@ parallels_partilal: "[[AN8.38]], [[DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.38]], [[DHP230]] |  | A iii 46 |
+> |  |  | A iii 46 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN8.38]], [[DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]] |
+| [[AN8.38]], [[DHP\|DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]] |
 | ------------------------ |
 
 
@@ -87,5 +87,6 @@ parallels_partilal: "[[AN8.38]], [[DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]]"
 > - Sutta Central: https://suttacentral.net/an5.42/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.42
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.42.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.41]]  🌐 [[AN5.43]] ►

@@ -23,3 +23,5 @@ divāvihārā nikkhamma Gijjhakūṭamhi pabbate |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig107-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG107]]
+> ◄  [[thig106-pali-pts]] 📜  [[thig108-pali-pts]] ►

@@ -23,3 +23,5 @@ nīcaniviṭṭhā subharā mudū atthaddhamānasā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag925-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG925]]
+> ◄  [[thag924-pali-pts]] 📜  [[thag926-pali-pts]] ►

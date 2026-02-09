@@ -87,3 +87,5 @@ Purābhedasuttaṁ dasamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.10]]
+> ◄  [[snp4.9-pali-sc]] 📜  [[snp4.11-pali-sc]] ►

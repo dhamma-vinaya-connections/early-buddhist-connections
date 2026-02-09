@@ -24,3 +24,5 @@ na monena munī hoti mūḷharūpo aviddasu, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp267-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP267]]
+> ◄  [[dhp266-pali-pts]] 📜  [[dhp268-pali-pts]] ►

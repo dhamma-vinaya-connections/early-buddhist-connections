@@ -92,4 +92,5 @@ To cut off all bondage.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.61
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.61.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.60]]  🌐 [[SN1.62]] ►

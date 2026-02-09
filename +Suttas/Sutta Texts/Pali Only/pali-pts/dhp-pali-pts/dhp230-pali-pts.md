@@ -24,3 +24,5 @@ kāyappakopaṃ rakkheyya kāyena saṃvuto siyā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp230-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP230]]
+> ◄  [[dhp229-pali-pts]] 📜  [[dhp231-pali-pts]] ►

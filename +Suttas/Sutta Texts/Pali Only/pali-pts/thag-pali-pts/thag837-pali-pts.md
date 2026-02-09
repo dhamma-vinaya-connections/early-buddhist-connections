@@ -24,3 +24,5 @@ yan taṃ saraṇam āgamma ito aṭṭhami cakkhuma,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag837-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG837]]
+> ◄  [[thag836-pali-pts]] 📜  [[thag838-pali-pts]] ►

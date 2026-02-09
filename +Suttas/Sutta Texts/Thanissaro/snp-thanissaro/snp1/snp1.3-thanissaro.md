@@ -564,15 +564,16 @@ vv. 35–75
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP328]], [[DHP329]], [[JA12]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[JA12]], [[DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[MA72]], [[DHP329]], [[THAG16.4]], [[MN82]], [[PE2]] |
+| [[JA12]], [[DHP\|DHP328]], [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[MA72]], [[DHP\|DHP329]], [[THAG16]].4, [[MN82]], [[PE2]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN21.10]], [[SN35.63]], [[AN9.40]], [[UD4.5]], [[ITI15]], [[ITI38]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.3]]
 > ◄  [[snp1.2-thanissaro]] 📜  [[snp1.4-thanissaro]] ►

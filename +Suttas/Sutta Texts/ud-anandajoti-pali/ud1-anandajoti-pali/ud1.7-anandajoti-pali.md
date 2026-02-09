@@ -51,3 +51,5 @@ Sattamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.7]]
+> ◄  [[ud1.6-anandajoti-pali]] 📜  [[ud1.8-anandajoti-pali]] ►

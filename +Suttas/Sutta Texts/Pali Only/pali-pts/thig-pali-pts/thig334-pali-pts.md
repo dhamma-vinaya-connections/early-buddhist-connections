@@ -23,3 +23,5 @@ Bārāṇasīto nikkhamma tava santikam āgatā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig334-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG334]]
+> ◄  [[thig333-pali-pts]] 📜  [[thig335-pali-pts]] ►

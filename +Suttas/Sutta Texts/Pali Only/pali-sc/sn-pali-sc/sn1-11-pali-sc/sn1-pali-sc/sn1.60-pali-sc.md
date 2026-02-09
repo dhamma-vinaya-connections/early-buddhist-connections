@@ -63,5 +63,6 @@ kavinā pūrito vaggoti.
 | [[SA-2.248]], [[SA1021]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.60]]
 > ◄  [[sn1.59-pali-sc]] 📜  [[sn1.61-pali-sc]] ►

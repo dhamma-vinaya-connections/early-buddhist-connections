@@ -35,5 +35,6 @@ Ime kho bhikkhave dve asaniyā phalantiyā na santasantī ti.
 | [[EA19.4]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.59]]
 > ◄  [[an2.58-pali-pts]] 📜  [[an2.60-pali-pts]] ►

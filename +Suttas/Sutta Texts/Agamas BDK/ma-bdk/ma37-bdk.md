@@ -46,6 +46,6 @@ Again, Mahā Moggallāna, just as there are five large rivers of Jam budīpa tha
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.20]] | [[EA48.2]] | M iii 178 |
+> |  | [[EA48.2]] | M iii 178 |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA37]]
 > ◄  [[ma36-bdk]] 📜  [[ma38-bdk]] ►

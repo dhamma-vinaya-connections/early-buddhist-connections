@@ -33,5 +33,6 @@ Pañc'ime bhikkhave yodhājīvā santo saṃvijjamānā lokasmiṃ. Katame pañc
 | [[EA33.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
 > ◄  [[an5.74-pali-pts]] 📜  [[an5.76-pali-pts]] ►

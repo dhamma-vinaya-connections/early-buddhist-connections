@@ -70,11 +70,12 @@ Soppati kiṁ tavettha mārā"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP180]] | [[SA-2.26]], [[SA1087]] |  |
+> |  | [[SA-2.26]], [[SA1087]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.26]], [[SA1087]], [[DHP180]] |
+| [[SA-2.26]], [[SA1087]], [[DHP\|DHP180]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.7]]
 > ◄  [[sn4.6-sujato-pali]] 📜  [[sn4.8-sujato-pali]] ►

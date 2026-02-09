@@ -334,3 +334,5 @@ Hearing her words, I acted on her instruction. The noble lady’s advice was not
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG5]]
+> ◄  [[thig4-pali-eng]] 📜  [[thig6-pali-eng]] ►

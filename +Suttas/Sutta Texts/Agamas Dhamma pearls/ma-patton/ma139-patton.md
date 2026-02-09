@@ -114,3 +114,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma139-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA139]]
+> ◄  [[ma137-patton]] 📜  [[ma140-patton]] ►

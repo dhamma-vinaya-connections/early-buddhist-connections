@@ -23,3 +23,5 @@ yathā abbhāni verambo vāto nudati pāvuse,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag597-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG597]]
+> ◄  [[thag596-pali-pts]] 📜  [[thag598-pali-pts]] ►

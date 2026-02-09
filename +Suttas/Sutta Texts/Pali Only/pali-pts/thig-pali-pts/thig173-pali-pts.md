@@ -23,3 +23,5 @@ pītisukhena ca kāyaṃ pharitvā vihariṃ tadā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig173-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG173]]
+> ◄  [[thig172-pali-pts]] 📜  [[thig174-pali-pts]] ►

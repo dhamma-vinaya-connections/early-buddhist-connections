@@ -364,3 +364,5 @@ Therefore, one should wish for wise and learned members in one's family. For by 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG10]]
+> ◄  [[thag9-pali-eng]] 📜  [[thag11-pali-eng]] ►

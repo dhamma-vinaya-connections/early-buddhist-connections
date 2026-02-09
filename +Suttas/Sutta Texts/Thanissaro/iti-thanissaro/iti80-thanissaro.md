@@ -51,5 +51,10 @@ self-awakening.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti80-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.102]], [[SN17:5]], [[SN17.8]], [[THIG5]].6
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI80]]
 > ◄  [[iti79-thanissaro]] 📜  [[iti81-thanissaro]] ►

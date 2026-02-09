@@ -112,5 +112,6 @@ Dutiyaṁ.
 | [[MA38]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.22]]
 > ◄  [[an8.21-sujato-pali]] 📜  [[an8.23-sujato-pali]] ►

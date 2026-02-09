@@ -23,3 +23,5 @@ nāganāmo 'si bhagavā, isīnaṃ isisattamo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1239-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1239]]
+> ◄  [[thag1238-pali-pts]] 📜  [[thag1240-pali-pts]] ►

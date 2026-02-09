@@ -137,8 +137,9 @@ And so the holy life waxed mighty and prospered and spread widely as it was proc
 > |  | [[DA4]] | D ii 200 |
 > > [!check]- Partial parallels 
 > > 
-| [[DA4]], [[THAG16.9]] |
+| [[DA4]], [[THAG16]].9 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
 > ◄  [[dn17-walshe]] 📜  [[dn19-walshe]] ►

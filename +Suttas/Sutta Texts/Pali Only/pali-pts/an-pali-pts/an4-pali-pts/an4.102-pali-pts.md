@@ -35,5 +35,6 @@ PTS: A ii 103
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.101]], [[AN4.102]], [[AN4.103]], [[AN4.104]], [[AN4.105]], [[AN4.106]], [[AN4.107]], [[AN4.108]], [[AN4.109]], [[AN4.110]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.102]]
 > ◄  [[an4.101-pali-pts]] 📜  [[an4.103-pali-pts]] ►

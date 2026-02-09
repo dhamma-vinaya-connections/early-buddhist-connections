@@ -27,3 +27,5 @@ Duppabbajjaṃ ve, duradhivāsā gehā, dhammo gambhīro, duradhigamā bhogā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag110-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG110]]
+> ◄  [[thag109-pali-pts]] 📜  [[thag111-pali-pts]] ►

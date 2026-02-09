@@ -202,11 +202,12 @@ After he had requested this of the Bhagavān on behalf of the people of Magadha,
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN18]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN9.11]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA4]]
 > ◄  [[da3-patton]] 📜  [[da5-patton]] ►

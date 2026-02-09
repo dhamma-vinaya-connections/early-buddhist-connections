@@ -26,3 +26,5 @@ Mā ca musā bhaṇimhā mā ca paraṃ abhūtena abbhācikkhimhā ti. Ime kho b
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.60-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.60]]
+> ◄  [[an2.59-pali-pts]] 📜  [[an2.62-pali-pts]] ►

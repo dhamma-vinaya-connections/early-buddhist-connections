@@ -24,3 +24,5 @@ vitakkapamathitassa jantuno tibbarāgassa subhānupassino /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp348-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP348]]
+> ◄  [[dhp347-pali-pts]] 📜  [[dhp349-pali-pts]] ►

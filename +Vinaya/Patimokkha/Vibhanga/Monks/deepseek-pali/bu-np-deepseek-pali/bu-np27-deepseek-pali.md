@@ -108,7 +108,8 @@ The seventh training rule, that on making large robes, is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np27-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP27]] |
->|       |          | [[ñanatusita-analysis#^NP27]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP27]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP27]]

@@ -120,7 +120,8 @@ The eighth training rule, concerning what is prepared, is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np8-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP8]] |
->|       |          | [[ñanatusita-analysis#^NP8]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP8]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP8]]

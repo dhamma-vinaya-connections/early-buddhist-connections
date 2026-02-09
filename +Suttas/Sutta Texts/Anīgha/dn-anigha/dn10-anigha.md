@@ -180,5 +180,6 @@ This is that noble aggregate of understanding that the Auspicious One praised. A
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN10]]
 > ◄  [[dn2-anigha]] 📜  [[]] ►

@@ -23,3 +23,5 @@ phusissaṃ catasso appamaññāyo tāhi ca sukhito viharissaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag385-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG385]]
+> ◄  [[thag382-pali-pts]] 📜  [[thag386-pali-pts]] ►

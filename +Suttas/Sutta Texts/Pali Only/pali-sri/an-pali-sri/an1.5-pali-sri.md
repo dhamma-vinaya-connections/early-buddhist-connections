@@ -149,5 +149,6 @@ Paṭhamo paṇṇāsako samatto.
 | [[EA9.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.5]]
 > ◄  [[an1.4-pali-sri]] 📜  [[an1.6-pali-sri]] ►

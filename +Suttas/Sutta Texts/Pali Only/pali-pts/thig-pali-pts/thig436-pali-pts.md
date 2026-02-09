@@ -24,3 +24,5 @@ tass'; etaṃ kammaphalaṃ yathā pi gantvāna paradāraṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig436-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG436]]
+> ◄  [[thig435-pali-pts]] 📜  [[thig437-pali-pts]] ►

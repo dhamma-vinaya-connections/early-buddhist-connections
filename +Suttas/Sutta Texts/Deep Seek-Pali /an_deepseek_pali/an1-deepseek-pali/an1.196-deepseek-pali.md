@@ -27,3 +27,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.196-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.196]]
+> ◄  [[an1.195-deepseek-pali]] 📜  [[an1.197-deepseek-pali]] ►

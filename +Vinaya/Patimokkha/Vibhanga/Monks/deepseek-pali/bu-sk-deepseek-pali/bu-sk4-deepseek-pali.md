@@ -44,7 +44,8 @@ The third training rule is complete.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk4-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK4]] |
->|       |          | [[ñanatusita-analysis#^SK4]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK4]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK4]]

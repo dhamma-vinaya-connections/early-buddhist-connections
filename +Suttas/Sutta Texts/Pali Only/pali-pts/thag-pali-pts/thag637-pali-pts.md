@@ -23,3 +23,5 @@ accāraddhamhi viriyamhi satthā loke anuttaro
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag637-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG637]]
+> ◄  [[thag636-pali-pts]] 📜  [[thag638-pali-pts]] ►

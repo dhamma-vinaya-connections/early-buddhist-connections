@@ -24,3 +24,5 @@ ovadeyyānusāseyya asabbhā ca nivāraye, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp76-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP76]]
+> ◄  [[dhp75-pali-pts]] 📜  [[dhp77-pali-pts]] ►

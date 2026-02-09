@@ -23,3 +23,5 @@ raṇaṃ karitvā kāmānaṃ sītibhāvābhikaṅkhinī |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig359-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG359]]
+> ◄  [[thig358-pali-pts]] 📜  [[thig360-pali-pts]] ►

@@ -64,11 +64,12 @@ When this was said, Devahita the brahmin said to the Blessed One: “Excellent, 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP423]] | [[SA-2.95]], [[SA1181]] |  |
+> |  | [[SA-2.95]], [[SA1181]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.95]], [[SA1181]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4.1]] |
+| [[SA-2.95]], [[SA1181]], [[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.13]]
 > ◄  [[sn7.12-deepseek-pali]] 📜  [[sn7.14-deepseek-pali]] ►

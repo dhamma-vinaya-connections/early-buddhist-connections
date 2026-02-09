@@ -25,3 +25,5 @@ dukkho 'samānasaṃvāso, dukkhānupatit'; addhagū /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp301-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP301]]
+> ◄  [[dhp300-pali-pts]] 📜  [[dhp302-pali-pts]] ►

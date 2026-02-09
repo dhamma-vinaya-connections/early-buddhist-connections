@@ -34,5 +34,6 @@ Imehi kho bhikkhave chahi dhammehi samannāgato bhikkhu āhuneyyo hoti . . . pe 
 | [[AN11.12]], [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.8]]
 > ◄  [[an6.7-pali-pts]] 📜  [[an6.9-pali-pts]] ►

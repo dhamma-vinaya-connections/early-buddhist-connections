@@ -24,3 +24,5 @@ Paṇṇavīsativassāni yato pabbajito ahaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag404-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG404]]
+> ◄  [[thag403-pali-pts]] 📜  [[thag405-pali-pts]] ►

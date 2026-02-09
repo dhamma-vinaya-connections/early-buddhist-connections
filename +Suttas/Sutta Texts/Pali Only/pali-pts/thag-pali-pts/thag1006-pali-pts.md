@@ -22,3 +22,5 @@ dhunāti pāpake dhamme dumapattaṃ va māluto.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1006-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1006]]
+> ◄  [[thag1005-pali-pts]] 📜  [[thag1007-pali-pts]] ►

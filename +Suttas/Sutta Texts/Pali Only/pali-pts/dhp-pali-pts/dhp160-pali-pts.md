@@ -24,3 +24,5 @@ attanā va kataṃ pāpaṃ attajaṃ attasambhavaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp160-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP160]]
+> ◄  [[dhp159-pali-pts]] 📜  [[dhp161-pali-pts]] ►

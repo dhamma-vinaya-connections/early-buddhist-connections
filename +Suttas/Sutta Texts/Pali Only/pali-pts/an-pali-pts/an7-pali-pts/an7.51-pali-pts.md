@@ -32,5 +32,6 @@ Saṃyogavisaṃyogaṃ vo bhikkhave dhammapariyāyaṃ desessāmi, taṃ suṇ�
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.48]], [[AN10.60]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.51]]
 > ◄  [[an7.50-pali-pts]] 📜  [[an7.52-pali-pts]] ►

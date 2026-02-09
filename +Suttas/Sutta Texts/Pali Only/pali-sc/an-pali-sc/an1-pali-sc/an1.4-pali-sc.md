@@ -34,5 +34,6 @@ Catutthaṁ.
 | [[EA9.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.4]]
 > ◄  [[an1.3-pali-sc]] 📜  [[an1.5-pali-sc]] ►

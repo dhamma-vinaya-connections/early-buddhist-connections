@@ -86,4 +86,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti34
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti34.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI33]]  🌐 [[ITI35]] ►

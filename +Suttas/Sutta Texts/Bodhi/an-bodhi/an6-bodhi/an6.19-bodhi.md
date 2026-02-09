@@ -72,7 +72,7 @@ When this was said, the Blessed One said to those bhikkhus: “Bhikkhus, (1) the
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.73]] | [[EA40.8]] | A iii 303 |
+> |  | [[EA40.8]] | A iii 303 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA40.8]], [[AN8.73]] |
@@ -81,6 +81,7 @@ When this was said, the Blessed One said to those bhikkhus: “Bhikkhus, (1) the
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.56]], [[AN6.19]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.19]]
 > ◄  [[an6.18-bodhi]] 📜  [[an6.20-bodhi]] ►

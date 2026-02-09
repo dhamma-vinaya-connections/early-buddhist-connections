@@ -33,5 +33,6 @@ Aṭṭh'; imā bhikkhave sampadā. Katamā aṭṭha?
 | [[AN8.54]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.75]]
 > ◄  [[an8.74-pali-pts]] 📜  [[an8.76-pali-pts]] ►

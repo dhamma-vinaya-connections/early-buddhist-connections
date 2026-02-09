@@ -24,3 +24,5 @@ Khīṇā hi mayhaṃ jāti, vusitaṃ jinasāsanaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag134-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG134]]
+> ◄  [[thag133-pali-pts]] 📜  [[thag135-pali-pts]] ►

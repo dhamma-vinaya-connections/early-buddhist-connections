@@ -100,7 +100,7 @@ In this way he eradicates like or dislike for the feelings he experiences, wheth
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN38]] | [[EA21.3]] |  |
+> |  | [[EA21.3]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA21.3]], [[MA201]], [[MN148]], [[SN35.60]], [[]], [[MN18]], [[AN10.176]], [[DN2]], [[MN27]], [[MN76]], [[MN94]], [[MN101]], [[AN10.99]], [[AN4.198]], [[MN51]], [[SN35.120]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN53]], [[MN60]], [[MN79]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN5.76]], [[AN5.140]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]] |
@@ -109,6 +109,7 @@ In this way he eradicates like or dislike for the feelings he experiences, wheth
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN22]], [[MN2]], [[SN12.31]], [[SN35.206]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA201]]
 > ◄  [[ma200-bdk]] 📜  [[ma202-bdk]] ►

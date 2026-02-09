@@ -23,3 +23,5 @@ vuṭṭhamhi deve caturaṅgule tiṇe sampupphite meghanibhamhi kānane
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1136-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1136]]
+> ◄  [[thag1135-pali-pts]] 📜  [[thag1137-pali-pts]] ►

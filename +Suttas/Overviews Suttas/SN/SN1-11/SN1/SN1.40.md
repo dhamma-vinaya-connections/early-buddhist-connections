@@ -97,4 +97,5 @@ That is painful and harmful
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.40
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.40.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.39]]  🌐 [[SN1.41]] ►

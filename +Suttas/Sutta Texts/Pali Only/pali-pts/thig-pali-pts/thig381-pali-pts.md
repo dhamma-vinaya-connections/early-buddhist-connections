@@ -23,3 +23,5 @@ uppalasikharopamānite vimale hāṭakasannibhe mukhe |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig381-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG381]]
+> ◄  [[thig380-pali-pts]] 📜  [[thig382-pali-pts]] ►

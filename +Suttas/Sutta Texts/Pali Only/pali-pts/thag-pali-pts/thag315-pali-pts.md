@@ -23,3 +23,5 @@ yaṃ hi eke jigucchanti mataṃ disvāna pāpakaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag315-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG315]]
+> ◄  [[thag314-pali-pts]] 📜  [[thag316-pali-pts]] ►

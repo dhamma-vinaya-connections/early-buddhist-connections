@@ -24,3 +24,5 @@ sukhā matteyyatā loke atho petteyyatā sukhā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp331-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP331]]
+> ◄  [[dhp330-pali-pts]] 📜  [[dhp332-pali-pts]] ►

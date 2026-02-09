@@ -89,4 +89,5 @@ Or conceal the instructions
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.18
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.18.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.17]]  🌐 [[AN8.19]] ►

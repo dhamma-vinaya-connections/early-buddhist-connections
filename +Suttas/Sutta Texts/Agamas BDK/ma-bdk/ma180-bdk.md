@@ -36,7 +36,7 @@ Then, the World-honored One spoke these stanzas: A diligent one offers to one wh
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN142]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA424]], [[AN3.52]] |
@@ -45,6 +45,7 @@ Then, the World-honored One spoke these stanzas: A diligent one offers to one wh
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.24]], [[AN4.78]], [[AN6.59]], [[MA182]], [[MN39]], [[SN3.24]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA180]]
 > ◄  [[ma179-bdk]] 📜  [[ma183-bdk]] ►

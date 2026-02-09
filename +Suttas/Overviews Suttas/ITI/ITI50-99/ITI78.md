@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: "[[SA446]], [[SA448]]"
-parallels_partilal: "[[SN14.16]], [[THAG2.14]], [[THAG3.16]], [[SA446]], [[SA448]], [[SN14.15]]"
+parallels_partilal: "[[SN14.16]], [[THAG2]].14, [[THAG3]].16, [[SA446]], [[SA448]], [[SN14.15]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI77]]  🌐 [[ITI79]] ►
 
@@ -69,7 +69,7 @@ their persistence constantly aroused the wise.
 > |  | [[SA446]], [[SA448]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN14.16]], [[THAG2.14]], [[THAG3.16]], [[SA446]], [[SA448]], [[SN14.15]] |
+| [[SN14.16]], [[THAG2]].14, [[THAG3]].16, [[SA446]], [[SA448]], [[SN14.15]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -92,5 +92,6 @@ their persistence constantly aroused the wise.
 > - Sutta Central: https://suttacentral.net/iti78/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti78
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti78.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI77]]  🌐 [[ITI79]] ►

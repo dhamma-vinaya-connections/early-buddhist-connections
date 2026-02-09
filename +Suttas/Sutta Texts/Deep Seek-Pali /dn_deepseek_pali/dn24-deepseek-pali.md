@@ -449,5 +449,6 @@ The Pāṭhika Sutta, the first, is concluded.
 | [[DA15]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-deepseek-pali]] 📜  [[dn25-deepseek-pali]] ►

@@ -31,3 +31,5 @@ Disvāna pāṭihīrāni Gotamassa yasassino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag374-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG374]]
+> ◄  [[thag373-pali-pts]] 📜  [[thag375-pali-pts]] ►

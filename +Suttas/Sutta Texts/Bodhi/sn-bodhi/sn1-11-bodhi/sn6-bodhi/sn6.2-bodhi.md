@@ -76,5 +76,6 @@ This is what Brahmā Sahampati said. Having said this, he further said this:
 | [[AN4.21]], [[SA-2.101]], [[SA1188]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.2]]
 > ◄  [[sn6.1-bodhi]] 📜  [[sn6.3-bodhi]] ►

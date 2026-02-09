@@ -191,5 +191,6 @@ Dhammacetiya suttaṃ ca dasamaṃ kaṇṇakatthalaṃ.
 | [[MA212]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-pali-sri]] 📜  [[mn91-pali-sri]] ►

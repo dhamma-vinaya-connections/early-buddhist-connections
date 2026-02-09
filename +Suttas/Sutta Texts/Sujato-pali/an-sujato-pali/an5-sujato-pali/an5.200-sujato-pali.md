@@ -74,5 +74,6 @@ Catuttho paṇṇāsako samatto.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.13]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.200]]
 > ◄  [[an5.199-sujato-pali]] 📜  [[an5.201-sujato-pali]] ►

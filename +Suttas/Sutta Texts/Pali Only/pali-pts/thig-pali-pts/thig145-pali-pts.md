@@ -23,3 +23,5 @@ annaṃ pānaṃ ca ādāya khajjaṃ bhojjaṃ anappakaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig145-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG145]]
+> ◄  [[thig144-pali-pts]] 📜  [[thig146-pali-pts]] ►

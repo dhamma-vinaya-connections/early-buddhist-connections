@@ -33,5 +33,6 @@ Aṭṭh'; imāni bhikkhave balāni. Katamāni aṭṭha?
 | [[SA692]], [[SA693]], [[EA38.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.27]]
 > ◄  [[an8.26-pali-pts]] 📜  [[an8.28-pali-pts]] ►

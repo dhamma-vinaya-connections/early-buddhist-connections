@@ -64,7 +64,7 @@ vin_gender-corr: "BNI-SS9"
 >| Vibhanga | BMC    | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-ss9-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SS9]] |
->| [[bu-ss9-deepseek-pali]]      |   [[The_Concise_Buddhist_Monastic_Code_1.pdf|BMC1 Concise]]       | [[ñanatusita-analysis#^SS9]]    |
+>| [[bu-ss9-deepseek-pali]]      | [[bmc1-concise]]        | [[ñanatusita-analysis#^SS9]]    |
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
@@ -85,5 +85,6 @@ vin_gender-corr: "BNI-SS9"
 > [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-ss?view=normal
+
 
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BU-SS8]] 🌐 [[BU-SS10]] ►

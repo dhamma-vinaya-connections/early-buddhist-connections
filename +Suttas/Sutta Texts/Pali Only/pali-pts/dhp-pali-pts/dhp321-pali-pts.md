@@ -24,3 +24,5 @@ varam assatarā dantā ājānīyā ca sindhavā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp321-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP321]]
+> ◄  [[dhp320-pali-pts]] 📜  [[dhp322-pali-pts]] ►

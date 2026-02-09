@@ -58,5 +58,6 @@ That is what the Blessed One said… the deva disappeared right there.
 | [[SA-2.181]], [[SA596]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
 > ◄  [[sn2.8-thanissaro]] 📜  [[sn2.19-thanissaro]] ►

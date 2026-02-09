@@ -307,15 +307,16 @@ Subhasuttaṃ navamaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN135]] | [[MA152]]; [[MA170]] | M ii 196 |
+> |  | [[MA152]]; [[MA170]] | M ii 196 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN135]]; [[MA170]]; [[MA152]] |
+| [[MN135]], [[MA170]], [[MA152]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN97]], [[MA27]], [[SN3.17]]; [[SN41.7]]; [[SN41.10]]; [[AN4.178]]; [[AN10.15]], [[MN27]], [[MN95]], [[MN135]]
+> - [[MN97]], [[MA27]], [[SN3.17]], [[SN41.7]], [[SN41.10]], [[AN4.178]], [[AN10.15]], [[MN27]], [[MN95]], [[MN135]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN99]]
 > ◄  [[mn98-pali-sri]] 📜  [[mn100-pali-sri]] ►

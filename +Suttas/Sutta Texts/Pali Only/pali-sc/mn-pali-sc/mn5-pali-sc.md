@@ -151,12 +151,13 @@ Itiha te ubho mahānāgā aññamaññassa subhāsitaṁ samanumodiṁsūti.
 > |  | [[EA25.6]]; [[MA87]] | M i 24 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA25.6]]; [[MA87]] |
+| [[EA25.6]], [[MA87]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN3]], [[MN7]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN5]]
 > ◄  [[mn4-pali-sc]] 📜  [[mn6-pali-sc]] ►

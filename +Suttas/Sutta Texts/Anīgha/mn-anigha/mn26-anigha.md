@@ -258,15 +258,16 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.255]]; [[DHP353]]; [[DN14]]; [[MN20]]; [[MN85]]; [[SN6.1]] | [[EA19.1]]; [[EA24.5]]; [[MA101]]; [[MA204]] | M i 160 |
+> |  | [[EA19.1]]; [[EA24.5]]; [[MA101]]; [[MA204]] | M i 160 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN4.255]]; [[MN85]]; [[PLI-TV-KD15]]; [[DN14]]; [[SN6.1]]; [[MA204]]; [[MN100]]; [[MN36]]; [[DHP353]]; [[PLI-TV-KD1]]; [[ITI38]]; [[SN11.17]]; [[EA19.1]]; [[EA24.5]]; [[MN20]]; [[MN4]]; [[MA101]] |
+| [[AN4.255]], [[MN85]], [[PLI-TV-KD15]], [[DN14]], [[SN6.1]], [[MA204]], [[MN100]], [[MN36]], [[DHP\|DHP353]], [[PLI-TV-KD1]], [[ITI38]], [[SN11.17]], [[EA19.1]], [[EA24.5]], [[MN20]], [[MN4]], [[MA101]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[UD2.10]], [[SN5.15]], [[SN22.87]]
+> - [[UD2.10]], [[SNP5.15]], [[SN22.87]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN26]]
 > ◄  [[mn25-anigha]] 📜  [[mn27-anigha]] ►

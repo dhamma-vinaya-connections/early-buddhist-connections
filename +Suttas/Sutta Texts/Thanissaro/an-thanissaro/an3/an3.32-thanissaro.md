@@ -66,5 +66,6 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 | [[SA982]], [[SNP5.4]], [[AN4.41]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.32]]
 > ◄  [[an3.30-thanissaro]] 📜  [[an3.33-thanissaro]] ►

@@ -23,3 +23,5 @@ pariyuṭṭhitā kilesehi sukhasaññānuvattinī |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig77-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG77]]
+> ◄  [[thig76-pali-pts]] 📜  [[thig78-pali-pts]] ►

@@ -24,3 +24,5 @@ yassa pāraṃ apāraṃ vā pārāpāraṃ na vijjati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp384-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP384]]
+> ◄  [[dhp383-pali-pts]] 📜  [[dhp385-pali-pts]] ►

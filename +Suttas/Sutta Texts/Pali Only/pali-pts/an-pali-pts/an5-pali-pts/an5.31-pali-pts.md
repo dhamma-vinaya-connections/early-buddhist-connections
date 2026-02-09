@@ -37,5 +37,6 @@ Ekaṃ samayaṃ Bhagavā Sāvatthiyaṃ viharati Jetavane Anāthapiṇḍikassa
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.32]], [[AN5.36]], [[AN5.37]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.31]]
 > ◄  [[an5.30-pali-pts]] 📜  [[an5.32-pali-pts]] ►

@@ -23,3 +23,5 @@ lobhanaṃ madanaṃ c'; etaṃ mohanaṃ rajavaḍḍhanaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig342-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG342]]
+> ◄  [[thig341-pali-pts]] 📜  [[thig343-pali-pts]] ►

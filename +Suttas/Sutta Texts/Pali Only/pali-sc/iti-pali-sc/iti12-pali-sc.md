@@ -37,3 +37,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI12]]
+> ◄  [[iti11-pali-sc]] 📜  [[iti13-pali-sc]] ►

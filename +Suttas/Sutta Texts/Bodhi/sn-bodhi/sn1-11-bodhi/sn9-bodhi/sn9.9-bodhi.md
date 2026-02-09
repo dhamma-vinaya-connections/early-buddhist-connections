@@ -54,5 +54,6 @@ Then that bhikkhu, stirred up by that devatā, acquired a sense of urgency.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.1]], [[SN9.14.SN5.7]], [[SN6.15.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.9]]
 > ◄  [[sn9.8-bodhi]] 📜  [[sn9.10-bodhi]] ►

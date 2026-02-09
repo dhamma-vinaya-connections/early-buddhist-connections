@@ -407,3 +407,5 @@ Pañcakanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG5]]
+> ◄  [[thig4-pali-sri]] 📜  [[thig6-pali-sri]] ►

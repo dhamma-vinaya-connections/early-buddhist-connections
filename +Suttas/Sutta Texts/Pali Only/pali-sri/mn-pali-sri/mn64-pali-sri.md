@@ -124,8 +124,9 @@ Mahāmāluṅkyasuttaṃ catutthaṃ.
 > |  | [[MA205]] | M i 432 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA205]]; [[MN52]]; [[AN9.36]]; [[AN11.16]] |
+| [[MA205]], [[MN52]], [[AN9.36]], [[AN11.16]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-pali-sri]] 📜  [[mn65-pali-sri]] ►

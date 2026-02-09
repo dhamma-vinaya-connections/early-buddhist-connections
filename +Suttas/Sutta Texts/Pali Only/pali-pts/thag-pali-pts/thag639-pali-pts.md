@@ -23,3 +23,5 @@ nekkhamme adhimuttassa pavivekañ ca cetaso,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag639-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG639]]
+> ◄  [[thag638-pali-pts]] 📜  [[thag640-pali-pts]] ►

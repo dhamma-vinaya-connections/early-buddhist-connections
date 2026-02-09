@@ -55,5 +55,6 @@ One rightly understands, one gone to the far shore of becoming.
 | [[EA43.8]], [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
 > ◄  [[an8.4-deepseek-pali]] 📜  [[an8.6-deepseek-pali]] ►

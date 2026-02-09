@@ -35,5 +35,6 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN121]], [[AN9.34]], [[SN2.7]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.47]]
 > ◄  [[an9.46-bodhi]] 📜  [[an9.48-bodhi]] ►

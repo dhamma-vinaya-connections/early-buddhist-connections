@@ -243,5 +243,6 @@ Atha nigrodhaṁ paribbājakaṁ etadavoca: "iti kho, bhante nigrodha, yaṁ ma�
 | [[DA8]], [[MA104]], [[DN8]], [[MN12]], [[MN45]], [[MN51]], [[MN60]], [[AN3.156-162]], [[AN4.198]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN25]]
 > ◄  [[dn24-pali-sc]] 📜  [[dn26-pali-sc]] ►

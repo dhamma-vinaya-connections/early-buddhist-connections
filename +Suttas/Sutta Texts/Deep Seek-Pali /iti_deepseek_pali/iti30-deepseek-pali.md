@@ -34,11 +34,12 @@ This meaning, too, was spoken by the Blessed One—so I have heard. The Fourth.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP140]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]] |
+| [[DHP\|DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI30]]
 > ◄  [[iti29-deepseek-pali]] 📜  [[iti31-deepseek-pali]] ►

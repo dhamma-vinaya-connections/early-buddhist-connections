@@ -100,11 +100,12 @@ Citra’s friends answered, “No. Why is that? After a night has passed and the
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.60]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN11.15]], [[THAG17.2]], [[JA355]] |
+| [[SN11.15]], [[THAG17]].2, [[JA355]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA82]]
 > ◄  [[ma81-patton]] 📜  [[ma83-patton]] ►

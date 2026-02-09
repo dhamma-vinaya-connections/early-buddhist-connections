@@ -35,5 +35,6 @@ Katamāni dve?
 | [[EA15.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.141]]
 > ◄  [[an2.140-pali-pts]] 📜  [[an2.142-pali-pts]] ►

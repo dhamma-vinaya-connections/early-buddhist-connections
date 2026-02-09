@@ -60,11 +60,12 @@ who has gone beyond existence. \[10\]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.21]], [[MN12]], [[SN12.21-22]], [[SN52.15-24]] | [[EA27.6]], [[EA31.8]], [[EA46.4]], [[EA50.6]], [[SA612]], [[SA684]], [[SA701]] | A ii 8 |
+> |  | [[EA27.6]], [[EA31.8]], [[EA46.4]], [[EA50.6]], [[SA612]], [[SA684]], [[SA701]] | A ii 8 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA27.6]], [[MN12]], [[AN10.21]], [[EA46.4]], [[SA684]], [[SA701]], [[EA31.8]], [[EA50.6]], [[SA612]], [[SN12.21-22]], [[SN52.15-24]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.8]]
 > ◄  [[an4.7-bodhi]] 📜  [[an4.9-bodhi]] ►

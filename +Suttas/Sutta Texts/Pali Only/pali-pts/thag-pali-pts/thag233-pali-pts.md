@@ -24,3 +24,5 @@ Ye cittakathī bahussutā samaṇā Pāṭaliputtavāsino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag233-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG233]]
+> ◄  [[thag232-pali-pts]] 📜  [[thag234-pali-pts]] ►

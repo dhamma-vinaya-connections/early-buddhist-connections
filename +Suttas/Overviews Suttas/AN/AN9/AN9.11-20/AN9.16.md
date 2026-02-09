@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN10.56]], [[AN5.61]], [[AN7.48]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA46.9]]"
 parallels_partilal: "[[AN10.56]], [[EA46.9]], [[AN5.61]], [[AN7.48]], [[AN5.121]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[AN10.56]], [[EA46.9]], [[AN5.61]], [[AN7.48]], [[AN5.121]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.56]], [[AN5.61]], [[AN7.48]] | [[EA46.9]] | A iv 387 |
+> |  | [[EA46.9]] | A iv 387 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.56]], [[EA46.9]], [[AN5.61]], [[AN7.48]], [[AN5.121]] |
@@ -88,5 +88,6 @@ parallels_partilal: "[[AN10.56]], [[EA46.9]], [[AN5.61]], [[AN7.48]], [[AN5.121]
 > - Sutta Central: https://suttacentral.net/an9.16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.16
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.16.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.15]]  🌐 [[AN9.17]] ►

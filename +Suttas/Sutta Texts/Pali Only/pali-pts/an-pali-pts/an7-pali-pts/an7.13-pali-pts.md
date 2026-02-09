@@ -27,11 +27,12 @@ Sattahi bhikkhave aṅgehi samannāgataṃ kulaṃ anupagantvā vā nālaṃ upa
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.17]] |  | A iv 10 |
+> |  |  | A iv 10 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN9.17]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.13]]
 > ◄  [[an7.12-pali-pts]] 📜  [[an7.14-pali-pts]] ►

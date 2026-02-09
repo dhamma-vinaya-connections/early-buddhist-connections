@@ -80,5 +80,6 @@ Tatiyaṁ.
 | [[SA-2.158]], [[SA934]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.73]]
 > ◄  [[an3.72-sujato-pali]] 📜  [[an3.74-sujato-pali]] ►

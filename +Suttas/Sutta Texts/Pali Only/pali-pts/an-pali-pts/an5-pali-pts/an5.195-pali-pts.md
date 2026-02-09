@@ -36,5 +36,6 @@ Atha kho te Licchavī pañcahi uttarāsaṅgasatehi Piṅgiyāniṃ brāhmaṇa�
 | [[AN5.143]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.195]]
 > ◄  [[an5.194-pali-pts]] 📜  [[an5.196-pali-pts]] ►

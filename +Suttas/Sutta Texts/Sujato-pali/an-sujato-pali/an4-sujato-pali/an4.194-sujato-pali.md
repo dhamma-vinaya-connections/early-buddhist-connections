@@ -68,5 +68,6 @@ Catutthaṁ.
 | [[SA565]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.194]]
 > ◄  [[an4.193-sujato-pali]] 📜  [[an4.195-sujato-pali]] ►

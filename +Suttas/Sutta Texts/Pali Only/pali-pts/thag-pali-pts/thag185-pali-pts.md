@@ -23,3 +23,5 @@ pūjito pūjaneyyānaṃ sakkareyyāna sakkato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag185-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG185]]
+> ◄  [[thag184-pali-pts]] 📜  [[thag186-pali-pts]] ►

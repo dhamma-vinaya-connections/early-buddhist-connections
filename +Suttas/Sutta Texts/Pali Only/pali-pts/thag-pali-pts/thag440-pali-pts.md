@@ -24,3 +24,5 @@ Akkodhassa kuto kodho dantassa samajīvino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag440-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG440]]
+> ◄  [[thag439-pali-pts]] 📜  [[thag441-pali-pts]] ►

@@ -33,5 +33,6 @@ Atha kho aññataro brāhmaṇo yena Bhagavā ten'; upasaṅkami, upasaṅkamitv
 | [[SA459]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.38]]
 > ◄  [[an6.37-pali-pts]] 📜  [[an6.39-pali-pts]] ►

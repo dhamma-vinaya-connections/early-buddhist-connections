@@ -37,3 +37,5 @@ Nihato tvamasi antakā"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.2]]
+> ◄  [[sn4.1-pali-sc]] 📜  [[sn4.3-pali-sc]] ►

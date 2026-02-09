@@ -90,4 +90,5 @@ So let him enjoy your offering of choice alms
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.3
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.2]]  🌐 [[SN6.4]] ►

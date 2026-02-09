@@ -268,3 +268,5 @@ Pāvāya saṅgāmaji jaṭilā bāhiyena te dasāti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1]]
+> ◄  [[]] 📜  [[ud2-pali-sri]] ►

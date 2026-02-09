@@ -119,7 +119,8 @@ Anukkhittake ukkhittakasaññī, āpatti dukkaṭassa. Anukkhittake vematiko, ā
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc147-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC147]] |
->|       |          | [[ñanatusita-analysis#^-PC147]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC147]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC147]]

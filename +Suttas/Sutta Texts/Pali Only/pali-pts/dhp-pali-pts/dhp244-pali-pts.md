@@ -24,3 +24,5 @@ hirīmatā ca dujjīvaṃ niccaṃ sucigavesinā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp244-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP244]]
+> ◄  [[dhp243-pali-pts]] 📜  [[dhp245-pali-pts]] ►

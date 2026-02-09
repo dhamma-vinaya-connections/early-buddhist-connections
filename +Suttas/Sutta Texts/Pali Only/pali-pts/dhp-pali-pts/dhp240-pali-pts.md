@@ -24,3 +24,5 @@ asajjhāyamalā mantā, anuṭṭhānamalā gharā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp240-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP240]]
+> ◄  [[dhp239-pali-pts]] 📜  [[dhp241-pali-pts]] ►

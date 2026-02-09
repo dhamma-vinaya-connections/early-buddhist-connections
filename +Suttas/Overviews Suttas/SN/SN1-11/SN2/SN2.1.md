@@ -88,4 +88,5 @@ Healthy-minded, independent, that is their reward
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.81]]  🌐 [[SN2.2]] ►

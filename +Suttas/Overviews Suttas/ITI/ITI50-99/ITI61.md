@@ -91,4 +91,5 @@ the eye of discernment unsurpassed:
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti61
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti61.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI60]]  🌐 [[ITI62]] ►

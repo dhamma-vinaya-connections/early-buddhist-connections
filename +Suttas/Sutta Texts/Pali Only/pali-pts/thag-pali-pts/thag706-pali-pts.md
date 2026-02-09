@@ -23,3 +23,5 @@ n'; atthi cetasikaṃ dukkhaṃ anapekkhassa gāmaṇi,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag706-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG706]]
+> ◄  [[thag705-pali-pts]] 📜  [[thag707-pali-pts]] ►

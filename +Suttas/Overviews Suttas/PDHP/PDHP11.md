@@ -96,4 +96,5 @@ you will not return to birth and old age.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp11
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp11.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP10]]  🌐 [[PDHP12]] ►

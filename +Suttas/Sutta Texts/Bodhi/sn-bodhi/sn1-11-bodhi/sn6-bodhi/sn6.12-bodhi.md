@@ -38,5 +38,6 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Rājagaha on 
 | [[AN4.68]], [[PLI-TV-KD17]], [[SN17.35]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.12]]
 > ◄  [[sn6.11-bodhi]] 📜  [[sn6.13-bodhi]] ►

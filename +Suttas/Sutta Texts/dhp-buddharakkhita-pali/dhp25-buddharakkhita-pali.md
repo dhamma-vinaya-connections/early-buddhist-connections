@@ -196,3 +196,5 @@ Bhikkhuvaggo pañcavīsatimo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp25-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP25-BUDDHARAKKHITA]]
+> ◄  [[dhp24-buddharakkhita-pali]] 📜  [[dhp26-buddharakkhita-pali]] ►

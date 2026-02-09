@@ -23,3 +23,5 @@ taṃ Sakko devasaṅghena upasaṃgamma iddhiyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig364-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG364]]
+> ◄  [[thig363-pali-pts]] 📜  [[thig365-pali-pts]] ►

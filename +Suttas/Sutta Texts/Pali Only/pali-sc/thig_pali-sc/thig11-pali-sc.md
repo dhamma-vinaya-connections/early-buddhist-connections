@@ -87,3 +87,5 @@ Nihato tvamasi antakā"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG11]]
+> ◄  [[thig10-pali-sc]] 📜  [[thig12-pali-sc]] ►

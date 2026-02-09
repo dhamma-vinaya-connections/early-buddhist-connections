@@ -740,7 +740,7 @@ The Discourse on the Marks, the Seventh.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN33]] | [[DA9]], [[MA59]] | D iii 142 |
+> |  | [[DA9]], [[MA59]] | D iii 142 |
 > > [!check]- Partial parallels 
 > > 
 | [[DN33]], [[MA59]], [[DA9]] |
@@ -749,6 +749,7 @@ The Discourse on the Marks, the Seventh.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN83]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN30]]
 > ◄  [[dn29-deepseek-pali]] 📜  [[dn31-deepseek-pali]] ►

@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[AN3.52]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.86]], [[SA-2.87]]"
 parallels_partilal: "[[SA-2.86]], [[AN3.52]], [[SA-2.87]], [[SN2.19]], [[SN1.3]], [[JA498]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[SA-2.86]], [[AN3.52]], [[SA-2.87]], [[SN2.19]], [[SN1.3]]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.52]] | [[SA-2.86]], [[SA-2.87]] | A i 155 |
+> |  | [[SA-2.86]], [[SA-2.87]] | A i 155 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.86]], [[AN3.52]], [[SA-2.87]], [[SN2.19]], [[SN1.3]], [[JA498]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA-2.86]], [[AN3.52]], [[SA-2.87]], [[SN2.19]], [[SN1.3]]
 > - Sutta Central: https://suttacentral.net/an3.51/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.51
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.51.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.50]]  🌐 [[AN3.52]] ►

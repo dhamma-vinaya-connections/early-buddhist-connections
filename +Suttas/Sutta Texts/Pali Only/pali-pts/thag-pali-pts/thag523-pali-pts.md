@@ -23,3 +23,5 @@ yadā nisīthe rahitamhi kānane deve gaḷantamhi nadanti dāṭhino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag523-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG523]]
+> ◄  [[thag522-pali-pts]] 📜  [[thag524-pali-pts]] ►

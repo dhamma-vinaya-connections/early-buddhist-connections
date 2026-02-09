@@ -120,7 +120,8 @@ The Brahmanimantanika Sutta, the ninth, is concluded.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN11]]; [[MN1]]; [[MN72]]; [[MN86]]
+> - [[DN11]], [[MN1]], [[MN72]], [[MN86]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN49]]
 > ◄  [[mn48-deepseek-pali]] 📜  [[mn50-deepseek-pali]] ►

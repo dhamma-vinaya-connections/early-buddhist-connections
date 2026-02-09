@@ -62,5 +62,6 @@ upasanto carissasī"ti.
 | [[EA35.9]], [[SA-2.230]], [[SA1214]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.4]]
 > ◄  [[sn8.3-pali-sc]] 📜  [[sn8.5-pali-sc]] ►

@@ -24,3 +24,5 @@ yāvaṃ hi vanatho na chijjati aṇumatto pi narassa nārisu /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp283-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP283]]
+> ◄  [[dhp282-pali-pts]] 📜  [[dhp284-pali-pts]] ►

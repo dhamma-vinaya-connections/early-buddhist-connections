@@ -206,5 +206,6 @@ Chaṭṭhaṁ.
 | [[MA82]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.60]]
 > ◄  [[an6.59-sujato-pali]] 📜  [[an6.61-sujato-pali]] ►

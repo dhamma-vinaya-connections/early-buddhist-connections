@@ -148,7 +148,8 @@ The seventh discourse, the Dhanañjāni Sutta, is complete.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN143]]; [[SN3.17]]; [[SN41.7]]; [[SN41.10]]; [[AN4.178]]; [[AN10.15]], [[MN99]], [[MA152]]
+> - [[MN143]], [[SN3.17]], [[SN41.7]], [[SN41.10]], [[AN4.178]], [[AN10.15]], [[MN99]], [[MA152]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN97]]
 > ◄  [[mn96-deepseek-pali]] 📜  [[mn98-deepseek-pali]] ►

@@ -39,3 +39,5 @@ Herein [he contemplates] not bones and tendons, Not flesh and not blood, Not kid
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma139-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA139]]
+> ◄  [[ma138-bdk]] 📜  [[ma140-bdk]] ►

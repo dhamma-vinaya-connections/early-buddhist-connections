@@ -31,5 +31,6 @@ PTS: A i 267
 | [[AN4.123]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.116]]
 > ◄  [[an3.114-pali-pts]] 📜  [[an3.117-pali-pts]] ►

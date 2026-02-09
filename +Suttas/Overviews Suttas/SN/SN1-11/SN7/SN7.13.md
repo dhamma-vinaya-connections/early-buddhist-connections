@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[DHP423]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.95]], [[SA1181]]"
-parallels_partilal: "[[SA-2.95]], [[SA1181]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4.1]]"
+parallels_partilal: "[[SA-2.95]], [[SA1181]], [[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.12]]  🌐 [[SN7.14]] ►
 
@@ -68,10 +68,10 @@ An offering brings success
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP423]] | [[SA-2.95]], [[SA1181]] |  |
+> |  | [[SA-2.95]], [[SA1181]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.95]], [[SA1181]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4.1]] |
+| [[SA-2.95]], [[SA1181]], [[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.8]], [[THIG4]].1 |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ An offering brings success
 > - Sutta Central: https://suttacentral.net/sn7.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.13
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.13.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.12]]  🌐 [[SN7.14]] ►

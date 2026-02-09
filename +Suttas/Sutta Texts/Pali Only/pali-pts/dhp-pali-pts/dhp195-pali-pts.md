@@ -23,3 +23,5 @@ te tādise pūjayato nibbute akutobhaye /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp195-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP195]]
+> ◄  [[dhp194-pali-pts]] 📜  [[dhp196-pali-pts]] ►

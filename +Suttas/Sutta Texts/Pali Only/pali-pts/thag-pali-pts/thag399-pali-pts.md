@@ -23,3 +23,5 @@ yaṃ esā sahatī jammī taṇhā loke visattikā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag399-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG399]]
+> ◄  [[thag398-pali-pts]] 📜  [[thag400-pali-pts]] ►

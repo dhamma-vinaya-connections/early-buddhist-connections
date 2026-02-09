@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Ascetics"
-parallels_nikaya: "[[AN10.93]], [[AN10.96]], [[AN4.185]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.201]], [[SA-2.202]], [[SA-2.204]], [[SA967]], [[SA968]], [[SA970]]"
 parallels_partilal: "[[SA-2.204]], [[SA970]], [[AN10.93]], [[SA-2.202]], [[SA968]], [[AN10.96]], [[SA-2.201]], [[SA967]], [[AN4.185]]"
 ---
@@ -64,7 +64,7 @@ parallels_partilal: "[[SA-2.204]], [[SA970]], [[AN10.93]], [[SA-2.202]], [[SA968
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.93]], [[AN10.96]], [[AN4.185]] | [[SA-2.201]], [[SA-2.202]], [[SA-2.204]], [[SA967]], [[SA968]], [[SA970]] | A i 185 |
+> |  | [[SA-2.201]], [[SA-2.202]], [[SA-2.204]], [[SA967]], [[SA968]], [[SA970]] | A i 185 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.204]], [[SA970]], [[AN10.93]], [[SA-2.202]], [[SA968]], [[AN10.96]], [[SA-2.201]], [[SA967]], [[AN4.185]] |
@@ -87,5 +87,6 @@ parallels_partilal: "[[SA-2.204]], [[SA970]], [[AN10.93]], [[SA-2.202]], [[SA968
 > - Sutta Central: https://suttacentral.net/an3.64/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.64
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.64.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.63]]  🌐 [[AN3.65]] ►

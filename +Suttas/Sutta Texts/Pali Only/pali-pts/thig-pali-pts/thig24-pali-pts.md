@@ -24,3 +24,5 @@ yāva Kāsijanapado suṅko me tattako ahu |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig24-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG24]]
+> ◄  [[thig23-pali-pts]] 📜  [[thig25-pali-pts]] ►

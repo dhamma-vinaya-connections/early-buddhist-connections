@@ -44,11 +44,12 @@ the knowledge arises:
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN48.23]] | [[SA642]], [[SA824]] | A i 231 |
+> |  | [[SA642]], [[SA824]] | A i 231 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.45]], [[SA824]], [[SA642]], [[SN48.23]], [[ITI102]], [[ITI62]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.85]]
 > ◄  [[an3.84-bodhi]] 📜  [[an3.86-bodhi]] ►

@@ -40,5 +40,6 @@ The Section on Form, Etc. (First)
 | [[EA9.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.10]]
 > ◄  [[an1.9-deepseek-pali]] 📜  [[an1.11-deepseek-pali]] ►

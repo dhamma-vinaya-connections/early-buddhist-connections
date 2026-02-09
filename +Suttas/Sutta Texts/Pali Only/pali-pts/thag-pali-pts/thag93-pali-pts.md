@@ -23,3 +23,5 @@ Namo hi tassa bhagavato Sakyaputtassa sirīmato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag93-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG93]]
+> ◄  [[thag92-pali-pts]] 📜  [[thag94-pali-pts]] ►

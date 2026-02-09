@@ -52,5 +52,6 @@ Then the preceptor took his pupil to the Blessed One. \[71\] He paid homage to t
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.17]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.56]]
 > ◄  [[an5.55-bodhi]] 📜  [[an5.57-bodhi]] ►

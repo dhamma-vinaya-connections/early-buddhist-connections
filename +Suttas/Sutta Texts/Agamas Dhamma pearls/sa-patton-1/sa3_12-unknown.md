@@ -33,3 +33,5 @@ The monks said to the Buddha, “The Bhagavān is the Dharma root, Dharma eye, a
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa3_12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_12]]
+> ◄  [[SA3_11]] 📜  [[SA3_13]] ►

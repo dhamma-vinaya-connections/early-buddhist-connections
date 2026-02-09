@@ -34,11 +34,12 @@ is painful and quick, because it is painful and quick, I have not proclaimed thi
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.29]] |  | M iii 15 |
+> |  |  | M iii 15 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA215]]
 > ◄  [[ma214-bdk]] 📜  [[ma216-bdk]] ►

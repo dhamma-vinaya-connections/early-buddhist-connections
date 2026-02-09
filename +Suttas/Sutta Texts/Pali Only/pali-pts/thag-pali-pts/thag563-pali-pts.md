@@ -23,3 +23,5 @@ tato me satthā pāhesi dūtaṃ kālappavedakaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag563-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG563]]
+> ◄  [[thag562-pali-pts]] 📜  [[thag564-pali-pts]] ►

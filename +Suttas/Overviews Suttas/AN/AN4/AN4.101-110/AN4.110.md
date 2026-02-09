@@ -94,4 +94,5 @@ One whose venom is neither fast-acting nor lethal.
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.110
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.110.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.109]]  🌐 [[AN4.111]] ►

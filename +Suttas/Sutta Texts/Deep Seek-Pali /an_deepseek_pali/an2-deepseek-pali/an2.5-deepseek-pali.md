@@ -33,5 +33,6 @@ language: "English - Pali"
 | [[MN70]], [[SN12.22]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.5]]
 > ◄  [[an2.4-deepseek-pali]] 📜  [[an2.6-deepseek-pali]] ►

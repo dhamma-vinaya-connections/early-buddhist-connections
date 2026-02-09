@@ -23,3 +23,5 @@ sājja piṇḍaṃ caritvāna muṇḍā saṃghāṭipārutā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig74-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG74]]
+> ◄  [[thig73-pali-pts]] 📜  [[thig75-pali-pts]] ►

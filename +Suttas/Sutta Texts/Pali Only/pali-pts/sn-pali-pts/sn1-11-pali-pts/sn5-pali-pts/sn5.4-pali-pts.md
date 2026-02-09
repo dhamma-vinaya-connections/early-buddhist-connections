@@ -48,5 +48,6 @@ Atha kho Māro pāpimā || jānāti maṃ Vijayā bhikkhunīti || dukkhī dumman
 | [[SA-2.220]], [[SA1204]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.4]]
 > ◄  [[sn5.3-pali-pts]] 📜  [[sn5.5-pali-pts]] ►

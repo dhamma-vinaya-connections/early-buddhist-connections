@@ -58,5 +58,6 @@ taṁ mittaṁ samparāyikan"ti.
 | [[SA-2.137]], [[SA1000]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
 > ◄  [[sn1.52-pali-sc]] 📜  [[sn1.54-pali-sc]] ►

@@ -36,7 +36,7 @@ sutta_audience:
   - "People"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG7.2]]"
+parallels_partilal: "[[THAG7]].2"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.64]]  🌐 [[AN4.66]] ►
 
@@ -68,7 +68,7 @@ They don’t get carried away by a voice
 > |  |  | A ii 71 |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG7.2]] |
+| [[THAG7]].2 |
 | ------------------------ |
 
 
@@ -88,5 +88,6 @@ They don’t get carried away by a voice
 > - Sutta Central: https://suttacentral.net/an4.65/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.65
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.65.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.64]]  🌐 [[AN4.66]] ►

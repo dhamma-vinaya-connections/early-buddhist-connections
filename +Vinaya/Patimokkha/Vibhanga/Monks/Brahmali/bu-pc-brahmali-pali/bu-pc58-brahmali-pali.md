@@ -119,7 +119,8 @@ Bhikkhū na sañjānanti. Te ujjhāyanti khiyyanti vipācenti:
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc58-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC58]] |
->|       |          | [[ñanatusita-analysis#^PC58]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC58]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC58]]

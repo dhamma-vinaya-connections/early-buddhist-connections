@@ -62,5 +62,10 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti96-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN55.54]], [[DHP\|DHP186]], [[DHP\|DHP187]], [[AN2:36]], [[AN4.10]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI96]]
 > ◄  [[iti95-thanissaro]] 📜  [[iti97-thanissaro]] ►

@@ -23,3 +23,5 @@ addasa brāhmaṇo buddhaṃ vippamuttaṃ nirupadhiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig319-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG319]]
+> ◄  [[thig318-pali-pts]] 📜  [[thig320-pali-pts]] ►

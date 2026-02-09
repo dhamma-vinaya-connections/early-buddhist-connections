@@ -42,5 +42,6 @@ Then, the Blessed One, having understood this matter, on that occasion, uttered 
 | [[MN128]], [[JA428]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.9]]
 > ◄  [[ud5.8-deepseek-pali]] 📜  [[ud5.10-deepseek-pali]] ►

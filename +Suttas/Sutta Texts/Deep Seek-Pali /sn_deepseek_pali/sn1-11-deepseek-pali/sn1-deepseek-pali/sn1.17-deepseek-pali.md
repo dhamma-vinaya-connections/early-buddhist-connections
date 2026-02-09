@@ -53,5 +53,6 @@ As a tortoise draws its limbs into its shell, a bhikkhu should restrain his thou
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.199]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.17]]
 > ◄  [[sn1.16-deepseek-pali]] 📜  [[sn1.18-deepseek-pali]] ►

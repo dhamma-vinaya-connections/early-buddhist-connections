@@ -23,3 +23,5 @@ pītisukhena vipulena pharamāno samussayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag350-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG350]]
+> ◄  [[thag349-pali-pts]] 📜  [[thag351-pali-pts]] ►

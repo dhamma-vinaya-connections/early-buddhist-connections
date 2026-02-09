@@ -151,3 +151,5 @@ Having abandoned home, I went forth, having abandoned son, possessions, and what
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG1]]
+> ◄  [[]] 📜  [[thig2-pali-eng]] ►

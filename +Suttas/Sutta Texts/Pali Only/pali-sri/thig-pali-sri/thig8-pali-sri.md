@@ -77,3 +77,5 @@ Aṭṭhakanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG8]]
+> ◄  [[thig7-pali-sri]] 📜  [[thig9-pali-sri]] ►

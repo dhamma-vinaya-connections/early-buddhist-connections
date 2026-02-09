@@ -24,3 +24,5 @@ cattāri ariyasaccāni indriyāni balāni ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig170-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG170]]
+> ◄  [[thig169-pali-pts]] 📜  [[thig171-pali-pts]] ►

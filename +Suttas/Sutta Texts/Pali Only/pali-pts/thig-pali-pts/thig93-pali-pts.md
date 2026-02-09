@@ -23,3 +23,5 @@ tassā me ahu saṃvego nisinnāya vihārake |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig93-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG93]]
+> ◄  [[thig92-pali-pts]] 📜  [[thig94-pali-pts]] ►

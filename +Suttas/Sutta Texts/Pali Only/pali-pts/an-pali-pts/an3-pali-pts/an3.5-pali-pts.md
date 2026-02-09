@@ -38,5 +38,6 @@ Yoniso pañhaṃ kattā hoti, yoniso pañhaṃ vissajjetā hoti, parassa kho pan
 | [[EA22.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.5]]
 > ◄  [[an3.4-pali-pts]] 📜  [[an3.6-pali-pts]] ►

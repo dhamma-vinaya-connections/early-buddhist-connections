@@ -72,5 +72,6 @@ he has here transcended the seamstress.’”
 | [[SA1164]], [[SNP5.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.61]]
 > ◄  [[an6.60-bodhi]] 📜  [[an6.62-bodhi]] ►

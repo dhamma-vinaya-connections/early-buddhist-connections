@@ -36,11 +36,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.124-125]] | [[SA22]] |  |
+> |  | [[SA22]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA22]], [[SN22.124-125]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA22]]
 > ◄  [[sa21-patton]] 📜  [[sa23-patton]] ►

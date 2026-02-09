@@ -34,11 +34,12 @@ in it, he will at death be reborn among the deva s of the sphere of neither perc
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.123-124]], [[MN120]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MA18]], [[PLI-TV-KD6]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA168]]
 > ◄  [[ma167-bdk]] 📜  [[ma169-bdk]] ►

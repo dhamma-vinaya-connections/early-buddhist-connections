@@ -33,5 +33,6 @@ Sādhu sādhu Upavāna. Imehi kho Upavāna pañcahi dhammehi samannāgato thero 
 | [[SA497]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.167]]
 > ◄  [[an5.166-pali-pts]] 📜  [[an5.168-pali-pts]] ►

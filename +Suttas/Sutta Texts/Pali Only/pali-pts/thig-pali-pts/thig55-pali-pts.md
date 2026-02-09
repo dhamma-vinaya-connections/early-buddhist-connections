@@ -23,3 +23,5 @@ sukkā sukkehi dhammehi vītarāgā samāhitā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig55-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG55]]
+> ◄  [[thig54-pali-pts]] 📜  [[thig56-pali-pts]] ►

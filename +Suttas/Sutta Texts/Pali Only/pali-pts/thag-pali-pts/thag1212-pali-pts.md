@@ -23,3 +23,5 @@ evam evaṃ viharantaṃ pāpima upagacchasi;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1212-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1212]]
+> ◄  [[thag1211-pali-pts]] 📜  [[thag1213-pali-pts]] ►

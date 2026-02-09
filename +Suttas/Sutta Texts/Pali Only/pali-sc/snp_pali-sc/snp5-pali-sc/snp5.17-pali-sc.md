@@ -58,3 +58,5 @@ Piṅgiyamāṇavapucchā soḷasamā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.17-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.17]]
+> ◄  [[snp5.16-pali-sc]] 📜  [[snp5.18-pali-sc]] ►

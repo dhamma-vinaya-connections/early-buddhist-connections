@@ -23,3 +23,5 @@ Yadā navo pabbajito jātiyā sattavassiko,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag428-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG428]]
+> ◄  [[thag427-pali-pts]] 📜  [[thag429-pali-pts]] ►

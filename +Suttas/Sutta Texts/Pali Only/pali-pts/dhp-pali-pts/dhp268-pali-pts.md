@@ -24,3 +24,5 @@ pāpāni parivajjeti sa munī tena so muni, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp268-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP268]]
+> ◄  [[dhp267-pali-pts]] 📜  [[dhp269-pali-pts]] ►

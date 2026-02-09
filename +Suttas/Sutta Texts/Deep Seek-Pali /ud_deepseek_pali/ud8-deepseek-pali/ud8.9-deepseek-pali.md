@@ -41,5 +41,10 @@ Then, the Blessed One, having understood the significance of this, on that occas
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud8.9-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN11]], [[MN72]], [[SN6.15]], [[SN22.86]], [[AN4.173]], [[THIG5]].10
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.9]]
 > ◄  [[ud8.8-deepseek-pali]] 📜  [[ud8.10-deepseek-pali]] ►

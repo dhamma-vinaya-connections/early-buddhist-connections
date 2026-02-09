@@ -23,3 +23,5 @@ vikkhīṇo jātisaṃsāro n'; atthi dāni punabbhavo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig160-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG160]]
+> ◄  [[thig159-pali-pts]] 📜  [[thig161-pali-pts]] ►

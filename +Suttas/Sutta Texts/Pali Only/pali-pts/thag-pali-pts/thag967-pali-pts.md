@@ -23,3 +23,5 @@ chaddanto hi tadā disvā surattaṃ arahaddhajaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag967-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG967]]
+> ◄  [[thag966-pali-pts]] 📜  [[thag968-pali-pts]] ►

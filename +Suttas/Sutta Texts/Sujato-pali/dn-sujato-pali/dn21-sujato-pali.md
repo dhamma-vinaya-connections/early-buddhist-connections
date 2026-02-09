@@ -1088,5 +1088,6 @@ Sakkapañhasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 | [[DA14]], [[MA134]], [[SNP3.6]], [[SN22.4]], [[SA552]], [[SA505]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
 > ◄  [[dn20-sujato-pali]] 📜  [[dn22-sujato-pali]] ►

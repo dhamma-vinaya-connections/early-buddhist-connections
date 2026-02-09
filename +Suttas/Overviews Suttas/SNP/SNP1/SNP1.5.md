@@ -94,4 +94,5 @@ For how could one equate the undefiled with the defiled, the pure with the impur
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.5
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.4]]  🌐 [[SNP1.6]] ►

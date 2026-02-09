@@ -24,3 +24,5 @@ na brāhmaṇassa pahareyya nāssa muñcetha brāhmaṇo, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp388-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP388]]
+> ◄  [[dhp387-pali-pts]] 📜  [[dhp389-pali-pts]] ►

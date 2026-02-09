@@ -23,3 +23,5 @@ tathā tu kassāmi yathāpi issaro; yaṃ labbhatī tena pi hotu me alaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1138-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1138]]
+> ◄  [[thag1137-pali-pts]] 📜  [[thag1139-pali-pts]] ►

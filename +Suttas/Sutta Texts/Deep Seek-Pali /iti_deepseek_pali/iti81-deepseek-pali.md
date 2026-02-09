@@ -43,8 +43,9 @@ This matter, too, was spoken by the Blessed One: thus I have heard. The third.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN17.10]], [[THAG17.2]] |
+| [[SN17.10]], [[THAG17]].2 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI81]]
 > ◄  [[iti80-deepseek-pali]] 📜  [[iti82-deepseek-pali]] ►

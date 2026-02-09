@@ -60,11 +60,12 @@ And what, monks, are the taints to be abandoned by avoidance, which are abandone
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN2]] | [[EA40.6]], [[MA10]] | A iii 387 |
+> |  | [[EA40.6]], [[MA10]] | A iii 387 |
 > > [!check]- Partial parallels 
 > > 
 | [[MN2]], [[EA40.6]], [[MA10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.58]]
 > ◄  [[an6.57-deepseek-pali]] 📜  [[an6.59-deepseek-pali]] ►

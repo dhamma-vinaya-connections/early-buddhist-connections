@@ -93,4 +93,5 @@ like a shadow that never leaves.
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp1
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DA30]]  🌐 [[DHP2]] ►

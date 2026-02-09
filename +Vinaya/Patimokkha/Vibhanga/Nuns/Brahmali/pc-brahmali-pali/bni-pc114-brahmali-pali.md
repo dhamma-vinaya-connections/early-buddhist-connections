@@ -119,7 +119,8 @@ Puggalike puggalikasaññī aññassa puggalike, āpatti dukkaṭassa. Attano pu
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc114-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC114]] |
->|       |          | [[ñanatusita-analysis#^-PC114]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC114]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC114]]

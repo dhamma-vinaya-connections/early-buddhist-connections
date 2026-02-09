@@ -240,15 +240,16 @@ The monks then replied, “Very well, we will accept the teaching and listen.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN14]], [[MN100]], [[MN26]], [[MN36]], [[MN85]], [[SN56.11]], [[SN56.12]], [[SN6.1]] | [[EA19.1]], [[EA19.2]], [[EA24.5]], [[SA379]] |  |
+> |  | [[EA19.1]], [[EA19.2]], [[EA24.5]], [[SA379]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP125]], [[JA367]], [[SN7.4]], [[SNP3.10]] |
+| [[DHP\|DHP125]], [[JA367]], [[SN7.4]], [[SNP3.10]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN141]], [[SN22.87]], [[SN5.15]], [[UD2.10]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA204]]
 > ◄  [[ma200-patton]] 📜  [[ma210-patton]] ►

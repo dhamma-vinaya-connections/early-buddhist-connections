@@ -91,4 +91,5 @@ parallels_partilal: "[[MA112]], [[AN8.7]], [[PLI-TV-KD17]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.62
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.62.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.61]]  🌐 [[AN6.63]] ►

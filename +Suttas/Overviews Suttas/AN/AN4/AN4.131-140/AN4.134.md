@@ -89,4 +89,5 @@ One who lives off the fruit of neither initiative nor deeds
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.134
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.134.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.133]]  🌐 [[AN4.135]] ►

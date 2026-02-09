@@ -101,4 +101,5 @@ this is the best happiness.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag16
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag16.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG15]]  🌐 [[THAG17]] ►

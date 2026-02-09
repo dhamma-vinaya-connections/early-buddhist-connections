@@ -23,3 +23,5 @@ abbuhi vata me sallaṃ duddasaṃ hadayanissitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig130-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG130]]
+> ◄  [[thig129-pali-pts]] 📜  [[thig131-pali-pts]] ►

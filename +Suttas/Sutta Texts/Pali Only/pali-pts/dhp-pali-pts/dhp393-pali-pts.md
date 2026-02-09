@@ -26,3 +26,5 @@ kin te jaṭāhi dummedha, kin te ajinasāṭiyā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp393-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP393]]
+> ◄  [[dhp392-pali-pts]] 📜  [[dhp394-pali-pts]] ►

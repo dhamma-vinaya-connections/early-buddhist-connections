@@ -147,7 +147,8 @@ dabbañca pariṇāmananti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc160-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC160]] |
->|       |          | [[ñanatusita-analysis#^-PC160]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC160]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC160]]

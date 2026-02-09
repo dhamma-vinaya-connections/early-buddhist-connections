@@ -40,11 +40,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.102]] | [[SA270]] |  |
+> |  | [[SA270]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA270]], [[SN22.102]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA270]]
 > ◄  [[sa269-patton]] 📜  [[sa271-patton]] ►

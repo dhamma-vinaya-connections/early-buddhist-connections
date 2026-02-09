@@ -268,8 +268,9 @@ The Pāli text of the Dhammapada is concluded.
 > |  |  | Dh 108 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN86]], [[SN1.36]], [[THAG16.8]] |
+| [[MN86]], [[SN1.36]], [[THAG16]].8 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP26]]
 > ◄  [[dhp25-deepseek-pali]] 📜  [[]] ►

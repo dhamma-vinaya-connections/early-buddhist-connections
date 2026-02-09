@@ -23,3 +23,5 @@ ahumha pubbe gaṇino asamaṇā samaṇamānino |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig304-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG304]]
+> ◄  [[thig303-pali-pts]] 📜  [[thig305-pali-pts]] ►

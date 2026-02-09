@@ -23,3 +23,5 @@ taṇhakkhayādhimuttassa asammohañ ca cetaso
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag640-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG640]]
+> ◄  [[thag639-pali-pts]] 📜  [[thag641-pali-pts]] ►

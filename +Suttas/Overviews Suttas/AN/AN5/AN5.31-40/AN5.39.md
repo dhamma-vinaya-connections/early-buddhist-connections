@@ -90,4 +90,5 @@ Such a child is praiseworthy
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.39
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.39.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.38]]  🌐 [[AN5.40]] ►

@@ -38,5 +38,6 @@ The Chapter on Requesting, the Second.
 | [[EA15.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.141]]
 > ◄  [[an2.140-deepseek-pali]] 📜  [[an2.142-deepseek-pali]] ►

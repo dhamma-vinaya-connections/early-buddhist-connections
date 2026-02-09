@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN5.57]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA22.8]], [[MA117]]"
 parallels_partilal: "[[MA117]], [[EA22.8]], [[AN5.57]]"
 ---
@@ -65,7 +65,7 @@ As I looked to extinguishment
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.57]] | [[EA22.8]], [[MA117]] | A i 145 |
+> |  | [[EA22.8]], [[MA117]] | A i 145 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA117]], [[EA22.8]], [[AN5.57]] |
@@ -91,5 +91,6 @@ As I looked to extinguishment
 > - Sutta Central: https://suttacentral.net/an3.39/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.39
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.39.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.38]]  🌐 [[AN3.40]] ►

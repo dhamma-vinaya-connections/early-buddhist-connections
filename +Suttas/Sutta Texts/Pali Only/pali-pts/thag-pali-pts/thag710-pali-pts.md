@@ -23,3 +23,5 @@ pāragū anupādāno katakicco anāsavo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag710-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG710]]
+> ◄  [[thag709-pali-pts]] 📜  [[thag711-pali-pts]] ►

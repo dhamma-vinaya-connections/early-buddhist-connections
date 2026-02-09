@@ -101,4 +101,5 @@ Having no lasting stability
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag20
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag20.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG19]]  🌐 [[THAG21]] ►

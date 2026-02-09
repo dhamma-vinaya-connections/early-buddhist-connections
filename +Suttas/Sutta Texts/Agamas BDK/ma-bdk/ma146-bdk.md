@@ -53,13 +53,10 @@ me as a lay disciple from this day forth until the end of life, as having person
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma146-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN27]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA146]]
 > ◄  [[ma145-bdk]] 📜  [[ma147-bdk]] ►

@@ -126,3 +126,5 @@ Nirayavaggo dvāvīsatimo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp22-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP22-BUDDHARAKKHITA]]
+> ◄  [[dhp21-buddharakkhita-pali]] 📜  [[dhp23-buddharakkhita-pali]] ►

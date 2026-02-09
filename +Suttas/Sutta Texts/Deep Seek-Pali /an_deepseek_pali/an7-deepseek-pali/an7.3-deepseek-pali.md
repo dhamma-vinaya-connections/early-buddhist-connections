@@ -44,5 +44,6 @@ A bhikkhu strong with these powers lives happily, a wise one.”
 | [[SA688]], [[SA689]], [[SA690]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.3]]
 > ◄  [[an7.2-deepseek-pali]] 📜  [[an7.4-deepseek-pali]] ►

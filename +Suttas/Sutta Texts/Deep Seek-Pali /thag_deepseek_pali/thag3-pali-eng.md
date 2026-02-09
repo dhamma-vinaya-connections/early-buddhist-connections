@@ -255,3 +255,5 @@ Just as one who boards a small plank would sink in the great ocean, so even one 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG3]]
+> ◄  [[thag2-pali-eng]] 📜  [[thag4-pali-eng]] ►

@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[DHP221]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]]"
+parallels_partilal: "[[DHP\|DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.33]]  🌐 [[SN1.35]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP221]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]] |
+| [[DHP\|DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[DHP221]], [[SN1.36]], [[AN6.63]], [[SA1285]], [[SA-2.283]
 > - Sutta Central: https://suttacentral.net/sn1.34/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.34
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.34.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.33]]  🌐 [[SN1.35]] ►

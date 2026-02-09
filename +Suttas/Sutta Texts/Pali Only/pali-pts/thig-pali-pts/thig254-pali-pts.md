@@ -23,3 +23,5 @@ saṇhagandhakasuvaṇṇamaṇḍitaṃ sobhate su veṇihi alaṅkataṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig254-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG254]]
+> ◄  [[thig253-pali-pts]] 📜  [[thig255-pali-pts]] ►

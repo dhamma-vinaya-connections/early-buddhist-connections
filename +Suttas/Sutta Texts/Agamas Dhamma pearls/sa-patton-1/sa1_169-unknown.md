@@ -46,3 +46,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa1_169-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA1_169]]
+> ◄  [[SA1_168]] 📜  [[SA1_172]] ►

@@ -23,3 +23,5 @@ savanti sabbadhī sotā, latā ubbhijja tiṭṭhati:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag760-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG760]]
+> ◄  [[thag759-pali-pts]] 📜  [[thag761-pali-pts]] ►

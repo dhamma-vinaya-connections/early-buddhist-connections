@@ -96,4 +96,5 @@ We don’t praise those of limited discernment.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.14
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.14.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.13]]  🌐 [[SNP3.1]] ►

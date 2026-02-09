@@ -24,3 +24,5 @@ phusāmi nekkhammasukhaṃ aputhujjanasevitaṃ; /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp271-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP271]]
+> ◄  [[dhp270-pali-pts]] 📜  [[dhp272-pali-pts]] ►

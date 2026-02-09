@@ -288,7 +288,8 @@ Nimantite vematiko santaṁ bhikkhuṁ anāpucchā purebhattaṁ vā pacchābhat
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc46-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC46]] |
->|       |          | [[ñanatusita-analysis#^PC46]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC46]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC46]]

@@ -28,5 +28,6 @@ language: "English"
 | [[SA820]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.87]]
 > ◄  [[an3.85-thanissaro]] 📜  [[an3.88-thanissaro]] ►

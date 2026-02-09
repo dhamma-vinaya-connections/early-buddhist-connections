@@ -88,4 +88,5 @@ Following the best, you’ll quickly rise up
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.27
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.27.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.26]]  🌐 [[AN3.28]] ►

@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP315]], [[THIG1.5]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP315]], [[THAG17.2]], [[AN8.29]], [[THAG14.1]], [[THIG1.5]], [[THAG6.5]]"
+parallels_partilal: "[[DHP\|DHP315]], [[THAG17]].2, [[AN8.29]], [[THAG14]].1, [[THIG1]].5, [[THAG6]].5"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.9]]  🌐 [[SNP2.11]] ►
 
@@ -70,15 +70,15 @@ comes from heedlessness,
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP315]], [[THIG1.5]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP315]], [[THAG17.2]], [[AN8.29]], [[THAG14.1]], [[THIG1.5]], [[THAG6.5]] |
+| [[DHP\|DHP315]], [[THAG17]].2, [[AN8.29]], [[THAG14]].1, [[THIG1]].5, [[THAG6]].5 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[DHP315]], [[SN3.17]], [[SN36.6]], [[AN4.37]], [[THAG1.84]], [[THAG2.37]]
+> - [[DHP\|DHP21]], [[DHP\|DHP22]], [[DHP\|DHP23]], [[DHP\|DHP24]], [[DHP\|DHP25]], [[DHP\|DHP26]], [[DHP\|DHP27]], [[DHP\|DHP28]], [[DHP\|DHP29]], [[DHP\|DHP30]], [[DHP\|DHP31]], [[DHP\|DHP32]], [[DHP\|DHP315]], [[SN3.17]], [[SN36.6]], [[AN4.37]], [[THAG1]].84, [[THAG2]].37
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -96,5 +96,6 @@ comes from heedlessness,
 > - Sutta Central: https://suttacentral.net/snp2.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.10
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.10.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.9]]  🌐 [[SNP2.11]] ►

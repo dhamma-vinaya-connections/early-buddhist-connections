@@ -239,15 +239,16 @@ Mahāvedallasuttaṃ tatiyaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.175]] | [[MA211]]; [[SA251]] | M i 292 |
+> |  | [[MA211]]; [[SA251]] | M i 292 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA211]]; [[AN4.175]]; [[SA251]] |
+| [[MA211]], [[AN4.175]], [[SA251]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN44]]; [[MN122]]; [[SN22.23]]; [[SN22.79]], [[MN106]], [[MN121]]
+> - [[MN44]], [[MN122]], [[SN22.23]], [[SN22.79]], [[MN106]], [[MN121.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN43]]
 > ◄  [[mn42-pali-sri]] 📜  [[mn44-pali-sri]] ►

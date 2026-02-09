@@ -48,5 +48,6 @@ Then the Venerable Ānanda took Mahānāma the Sakyan by the arm, led him off to
 | [[SA-2.158]], [[SA934]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.73]]
 > ◄  [[an3.72-bodhi]] 📜  [[an3.74-bodhi]] ►

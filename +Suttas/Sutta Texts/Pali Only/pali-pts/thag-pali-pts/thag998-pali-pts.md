@@ -23,3 +23,5 @@ avitakkaṃ samāpanno sammāsambuddhasāvako
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag998-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG998]]
+> ◄  [[thag997-pali-pts]] 📜  [[thag999-pali-pts]] ►

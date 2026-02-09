@@ -23,3 +23,5 @@ Yo 'dha koci manussesu parapāṇāni hiṃsati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag236-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG236]]
+> ◄  [[thag235-pali-pts]] 📜  [[thag237-pali-pts]] ►

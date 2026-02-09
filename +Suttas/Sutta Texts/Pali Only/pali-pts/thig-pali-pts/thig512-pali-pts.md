@@ -23,3 +23,5 @@ adhigatam idaṃ bahūhi amataṃ ajjāpi ca labhanīyam idaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig512-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG512]]
+> ◄  [[thig511-pali-pts]] 📜  [[thig513-pali-pts]] ►

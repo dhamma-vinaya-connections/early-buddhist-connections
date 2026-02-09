@@ -53,3 +53,5 @@ Bālavaggo tatiyo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.31-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.31]]
+> ◄  [[an2.30-sujato-pali]] 📜  [[an2.32-sujato-pali]] ►

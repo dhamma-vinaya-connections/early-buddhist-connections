@@ -115,5 +115,6 @@ Te sabbasaṅgātigate mahesī,
 | [[EA38.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116]]
 > ◄  [[mn115-pali-sc]] 📜  [[mn117-pali-sc]] ►

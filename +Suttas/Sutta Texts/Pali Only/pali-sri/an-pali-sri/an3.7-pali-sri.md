@@ -215,5 +215,6 @@ Iddhipādā ca dve vuttā nibbidā cāsavakkhayā.
 | [[EA22.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.7]]
 > ◄  [[an3.6-pali-sri]] 📜  [[an3.8-pali-sri]] ►

@@ -23,3 +23,5 @@ yamhā gāmā pakkamanti na vilokenti kiñcanaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig281-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG281]]
+> ◄  [[thig280-pali-pts]] 📜  [[thig282-pali-pts]] ►

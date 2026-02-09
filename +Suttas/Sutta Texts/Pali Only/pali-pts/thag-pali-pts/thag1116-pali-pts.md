@@ -23,3 +23,5 @@ aniccaṃ dukkhan ti vipassa yoniso suññaṃ anattā 'ti aghaṃ vadhan ti ca,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1116-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1116]]
+> ◄  [[thag1115-pali-pts]] 📜  [[thag1117-pali-pts]] ►

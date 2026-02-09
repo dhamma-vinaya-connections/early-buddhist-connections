@@ -23,3 +23,5 @@ ye ca kho bālā dummedhā dummantī mohapārutā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag280-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG280]]
+> ◄  [[thag279-pali-pts]] 📜  [[thag281-pali-pts]] ►

@@ -24,3 +24,5 @@ piyato jāyatī soko piyato jāyatī bhayaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp211-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP211]]
+> ◄  [[dhp210-pali-pts]] 📜  [[dhp212-pali-pts]] ►

@@ -23,3 +23,5 @@ sati gīvā, siro paññā, vīmaṃsā dhammacintanā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag694-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG694]]
+> ◄  [[thag693-pali-pts]] 📜  [[thag695-pali-pts]] ►

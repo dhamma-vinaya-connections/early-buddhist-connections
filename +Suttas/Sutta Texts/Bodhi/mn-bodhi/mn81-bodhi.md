@@ -112,5 +112,6 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 | [[MA63]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-bodhi]] 📜  [[mn82-bodhi]] ►

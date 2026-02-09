@@ -33,5 +33,6 @@ Tatra kho āyasmā Sāriputto bhikkhū āmantesi . . . pe . . .
 | [[MA22]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.166]]
 > ◄  [[an5.165-pali-pts]] 📜  [[an5.167-pali-pts]] ►

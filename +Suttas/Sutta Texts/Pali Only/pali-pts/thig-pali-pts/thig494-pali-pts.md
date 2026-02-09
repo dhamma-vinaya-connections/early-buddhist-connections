@@ -23,3 +23,5 @@ dīgho bālānaṃ saṃsāro punappunaṃ ca rodataṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig494-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG494]]
+> ◄  [[thig493-pali-pts]] 📜  [[thig495-pali-pts]] ►

@@ -26,3 +26,5 @@ vedanaṃ pharusaṃ jāniṃ sarīrassa ca bhedanaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp137-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP137]]
+> ◄  [[dhp136-pali-pts]] 📜  [[dhp138-pali-pts]] ►

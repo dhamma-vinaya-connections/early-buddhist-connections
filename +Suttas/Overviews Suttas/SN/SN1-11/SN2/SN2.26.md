@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[AN4.45]], [[AN4.46]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA43.1]], [[SA-2.306]], [[SA1307]]"
 parallels_partilal: "[[AN4.45]], [[AN4.46]], [[SA-2.306]], [[SA1307]], [[EA43.1]]"
 ---
@@ -65,7 +65,7 @@ There is no release from suffering
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.45]], [[AN4.46]] | [[EA43.1]], [[SA-2.306]], [[SA1307]] |  |
+> |  | [[EA43.1]], [[SA-2.306]], [[SA1307]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.45]], [[AN4.46]], [[SA-2.306]], [[SA1307]], [[EA43.1]] |
@@ -88,5 +88,6 @@ There is no release from suffering
 > - Sutta Central: https://suttacentral.net/sn2.26/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.26
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.26.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.25]]  🌐 [[SN2.27]] ►

@@ -48,7 +48,7 @@ vin_gender-corr: ""
 >| Vibhanga | BMC    | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc41-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC41]] |
->| [[bni-pc41-deepseek-pali]]      |   [[The_Concise_Buddhist_Monastic_Code_1.pdf|BMC1 Concise]]       | [[ñanatusita-analysis#^-PC41]]    |
+>| [[bni-pc41-deepseek-pali]]      | [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC41]]    |
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
@@ -69,5 +69,6 @@ vin_gender-corr: ""
 > [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bi-vb-pc?view=dense
+
 
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC40]] 🌐 [[BNI-PC42]] ►

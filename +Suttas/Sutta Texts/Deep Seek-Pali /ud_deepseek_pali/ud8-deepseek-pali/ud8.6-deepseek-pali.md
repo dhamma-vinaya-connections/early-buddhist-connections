@@ -144,7 +144,7 @@ Then the Blessed One, understanding the significance of it, on that occasion exc
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.213]], [[AN8.68-70]], [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.5]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN16]], [[AN8.68-70]], [[DA2]], [[UD6.1]], [[UD8.5]], [[SN51.10]], [[PLI-TV-KD6]], [[AN5.213]], [[DN33]] |
@@ -153,6 +153,7 @@ Then the Blessed One, understanding the significance of it, on that occasion exc
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN108]], [[AN4.183]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.6]]
 > ◄  [[ud8.5-deepseek-pali]] 📜  [[ud8.7-deepseek-pali]] ►

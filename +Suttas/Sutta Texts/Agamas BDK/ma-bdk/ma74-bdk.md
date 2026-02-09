@@ -44,10 +44,11 @@ In a bamboo grove at Vesālī My life will come to an end. Beneath the bamboos o
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.30]] | [[EA42.6]] | M i 198 |
+> |  | [[EA42.6]] | M i 198 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.28]], [[AN8.53]], [[SN48.10]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA74]]
 > ◄  [[ma73-bdk]] 📜  [[ma75-bdk]] ►

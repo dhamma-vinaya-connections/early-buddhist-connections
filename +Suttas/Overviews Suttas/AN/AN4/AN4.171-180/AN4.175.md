@@ -34,7 +34,7 @@ sutta_teacher:
   - "Sariputta"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[MN43]]"
+parallels_nikaya: ""
 parallels_agama: "[[MA211]], [[SA251]]"
 parallels_partilal: "[[SA251]], [[MA211]], [[MN43]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[SA251]], [[MA211]], [[MN43]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN43]] | [[MA211]], [[SA251]] | A ii 163 |
+> |  | [[MA211]], [[SA251]] | A ii 163 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA251]], [[MA211]], [[MN43]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA251]], [[MA211]], [[MN43]]"
 > - Sutta Central: https://suttacentral.net/an4.175/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.175
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.175.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.174]]  🌐 [[AN4.176]] ►

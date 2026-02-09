@@ -119,5 +119,6 @@ Na, bhante, āyasmā anuruddho evamāha: ‘evaṁ me sutan’ti vā ‘evaṁ a
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN128]], [[AN10.29]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN127]]
 > ◄  [[mn126-pali-sc]] 📜  [[mn128-pali-sc]] ►

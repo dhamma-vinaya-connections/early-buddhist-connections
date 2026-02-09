@@ -89,4 +89,5 @@ Contentment brings happiness
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.6
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.5]]  🌐 [[SN2.7]] ►

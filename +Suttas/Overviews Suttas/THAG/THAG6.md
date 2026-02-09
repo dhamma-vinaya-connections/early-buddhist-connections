@@ -95,4 +95,5 @@ I have attained clairaudience.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag6
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG5]]  🌐 [[THAG7]] ►

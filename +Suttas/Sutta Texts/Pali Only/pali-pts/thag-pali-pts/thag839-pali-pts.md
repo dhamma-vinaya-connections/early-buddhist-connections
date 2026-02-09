@@ -23,3 +23,5 @@ upadhī te samatikkantā, āsavā te padālitā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag839-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG839]]
+> ◄  [[thag838-pali-pts]] 📜  [[thag840-pali-pts]] ►

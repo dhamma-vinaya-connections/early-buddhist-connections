@@ -66,5 +66,6 @@ language: "English - Pali"
 | [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.23]]
 > ◄  [[an7.22-deepseek-pali]] 📜  [[an7.24-deepseek-pali]] ►

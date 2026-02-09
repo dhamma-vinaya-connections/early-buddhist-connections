@@ -199,5 +199,6 @@ Bāhitikasuttaṃ aṭṭhamaṃ.
 | [[MA214]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
 > ◄  [[mn87-pali-sri]] 📜  [[mn89-pali-sri]] ►

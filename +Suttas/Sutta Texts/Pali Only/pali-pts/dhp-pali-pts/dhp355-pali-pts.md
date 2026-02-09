@@ -23,3 +23,5 @@ tiṇadosāni khettāni, rāgadosā ayaṃ pajā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp355-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP355]]
+> ◄  [[dhp354-pali-pts]] 📜  [[dhp356-pali-pts]] ►

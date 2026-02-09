@@ -23,3 +23,5 @@ kappiyatañ ca ādeti cīvaraṃ idamatthikaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag983-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG983]]
+> ◄  [[thag982-pali-pts]] 📜  [[thag984-pali-pts]] ►

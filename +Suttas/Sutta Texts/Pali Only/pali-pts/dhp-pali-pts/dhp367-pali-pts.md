@@ -24,3 +24,5 @@ mettāvihārī yo bhikkhu pasanno buddhasāsane /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp367-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP367]]
+> ◄  [[dhp366-pali-pts]] 📜  [[dhp368-pali-pts]] ►

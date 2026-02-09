@@ -97,7 +97,8 @@ p_2V_3200Dutiyasikkhāpadaṁ niṭṭhitaṁ.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc62-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC62]] |
->|       |          | [[ñanatusita-analysis#^-PC62]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC62]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC62]]

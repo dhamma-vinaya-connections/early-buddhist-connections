@@ -70,5 +70,6 @@ Furthermore, monks, the Saṅgha dwells in concord, rejoicing, without contentio
 | [[AN4.160]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.156]]
 > ◄  [[an5.155-deepseek-pali]] 📜  [[an5.157-deepseek-pali]] ►

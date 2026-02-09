@@ -46,11 +46,12 @@ They answered, “No, Bhagavān.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.34]], [[SN35.101]], [[SN35.102]], [[SN35.138]], [[SN35.139]], [[SN22.33]], [[SN22.33-34]] | [[SA269]] |  |
+> |  | [[SA269]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA269]], [[SN35.101]], [[SN35.102]], [[SN35.138]], [[SN35.139]], [[SN22.34]], [[SN22.33]], [[SN22.33-34]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA269]]
 > ◄  [[sa268-patton]] 📜  [[sa270-patton]] ►

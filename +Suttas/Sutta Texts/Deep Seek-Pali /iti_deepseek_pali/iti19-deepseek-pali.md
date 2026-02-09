@@ -50,5 +50,6 @@ Delusion, anger, hypocrisy, ignorance, craving, and the two on trainees; schism,
 | [[AN10.40]], [[PLI-TV-KD17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI19]]
 > ◄  [[iti18-deepseek-pali]] 📜  [[iti20-deepseek-pali]] ►

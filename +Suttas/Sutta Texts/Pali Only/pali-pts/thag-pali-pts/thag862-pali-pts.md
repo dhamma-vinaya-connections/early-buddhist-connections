@@ -23,3 +23,5 @@ ucce maṇḍalipākāre daḷhamaṭṭālakoṭṭhake
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag862-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG862]]
+> ◄  [[thag844-pali-pts]] 📜  [[thag863-pali-pts]] ►

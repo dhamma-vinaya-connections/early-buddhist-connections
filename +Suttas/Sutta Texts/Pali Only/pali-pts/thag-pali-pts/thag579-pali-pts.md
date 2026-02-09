@@ -23,3 +23,5 @@ lūkhena pi ca santusse, nāññaṃ patthe rasaṃ bahuṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag579-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG579]]
+> ◄  [[thag578-pali-pts]] 📜  [[thag580-pali-pts]] ►

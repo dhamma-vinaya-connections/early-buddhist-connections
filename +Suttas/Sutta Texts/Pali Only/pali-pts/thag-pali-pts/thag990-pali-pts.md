@@ -23,3 +23,5 @@ gāme vā yadi vāraññe ninne vā yadi vā thale,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag990-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG990]]
+> ◄  [[thag989-pali-pts]] 📜  [[thag991-pali-pts]] ►

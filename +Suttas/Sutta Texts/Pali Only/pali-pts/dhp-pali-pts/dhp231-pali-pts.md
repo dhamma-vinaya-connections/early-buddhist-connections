@@ -24,3 +24,5 @@ vacīpakopaṃ rakkheyya vācāya saṃvuto siyā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp231-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP231]]
+> ◄  [[dhp230-pali-pts]] 📜  [[dhp232-pali-pts]] ►

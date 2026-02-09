@@ -125,7 +125,8 @@ Bhājanagataṁ udakaṁ vā kañjikaṁ vā khīraṁ vā takkaṁ vā rajana�
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc134-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC134]] |
->|       |          | [[ñanatusita-analysis#^-PC134]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC134]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC134]]

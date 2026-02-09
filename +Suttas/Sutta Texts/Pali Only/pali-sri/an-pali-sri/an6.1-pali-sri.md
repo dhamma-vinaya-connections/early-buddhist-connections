@@ -335,5 +335,6 @@ Dve saññā manasikāro sandho moranivāpakanti.
 | [[DN33]], [[MN140]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.1]]
 > ◄  [[an5.11-pali-sri]] 📜  [[an6.2-pali-sri]] ►

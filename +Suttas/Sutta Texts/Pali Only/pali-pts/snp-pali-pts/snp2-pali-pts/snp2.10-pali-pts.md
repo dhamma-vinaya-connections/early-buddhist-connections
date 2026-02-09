@@ -36,15 +36,16 @@ UṬṬHĀNASUTTAṂ NIṬṬHITAṂ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP315]], [[THIG1.5]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP315]], [[THAG17.2]], [[AN8.29]], [[THAG14.1]], [[THIG1.5]], [[THAG6.5]] |
+| [[DHP\|DHP315]], [[THAG17]].2, [[AN8.29]], [[THAG14]].1, [[THIG1]].5, [[THAG6]].5 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[DHP315]], [[SN3.17]], [[SN36.6]], [[AN4.37]], [[THAG1.84]], [[THAG2.37]]
+> - [[DHP\|DHP21]], [[DHP\|DHP22]], [[DHP\|DHP23]], [[DHP\|DHP24]], [[DHP\|DHP25]], [[DHP\|DHP26]], [[DHP\|DHP27]], [[DHP\|DHP28]], [[DHP\|DHP29]], [[DHP\|DHP30]], [[DHP\|DHP31]], [[DHP\|DHP32]], [[DHP\|DHP315]], [[SN3.17]], [[SN36.6]], [[AN4.37]], [[THAG1]].84, [[THAG2]].37
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.10]]
 > ◄  [[snp2.9-pali-pts]] 📜  [[snp2.11-pali-pts]] ►

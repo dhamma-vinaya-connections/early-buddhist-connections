@@ -23,3 +23,5 @@ athā 'haṃ bhaṇāmi tātaṃ rodantī añjaliṃ paṇāmetvā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig430-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG430]]
+> ◄  [[thig429-pali-pts]] 📜  [[thig431-pali-pts]] ►

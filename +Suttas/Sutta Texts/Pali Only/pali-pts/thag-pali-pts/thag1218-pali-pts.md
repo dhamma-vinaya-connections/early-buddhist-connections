@@ -23,3 +23,5 @@ mānaṃ pajahassu Gotama mānapathañ ca jahassu asesaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1218-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1218]]
+> ◄  [[thag1217-pali-pts]] 📜  [[thag1219-pali-pts]] ►

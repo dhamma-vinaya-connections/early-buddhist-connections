@@ -38,5 +38,6 @@ language: "English - Pali"
 | [[EA22.4]], [[PLI-TV-PVR7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.131]]
 > ◄  [[an3.130-deepseek-pali]] 📜  [[an3.132-deepseek-pali]] ►

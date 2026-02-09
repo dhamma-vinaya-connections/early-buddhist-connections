@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP230]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP230]], [[AN4.6]], [[AN5.42]], [[UD7.6]], [[DN33]]"
+parallels_partilal: "[[DHP\|DHP230]], [[AN4.6]], [[AN5.42]], [[UD7.6]], [[DN33]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.27]]  🌐 [[AN4.29]] ►
 
@@ -63,10 +63,10 @@ For the wise one is not beaten by discontent
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP230]] |  | A ii 27 |
+> |  |  | A ii 27 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP230]], [[AN4.6]], [[AN5.42]], [[UD7.6]], [[DN33]] |
+| [[DHP\|DHP230]], [[AN4.6]], [[AN5.42]], [[UD7.6]], [[DN33]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -89,5 +89,6 @@ For the wise one is not beaten by discontent
 > - Sutta Central: https://suttacentral.net/an4.28/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.28
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.28.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.27]]  🌐 [[AN4.29]] ►

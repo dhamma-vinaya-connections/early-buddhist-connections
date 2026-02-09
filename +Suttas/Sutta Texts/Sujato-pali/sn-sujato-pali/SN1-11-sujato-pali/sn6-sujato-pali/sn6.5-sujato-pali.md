@@ -150,5 +150,6 @@ bahū buddhassa sāvakā’"ti.
 | [[SA-2.109]], [[SA1196]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.5]]
 > ◄  [[sn6.4-sujato-pali]] 📜  [[sn6.6-sujato-pali]] ►

@@ -27,3 +27,5 @@ sucinā manokammena. Imehi kho bhikkhave tīhi dhammehi samannāgato yathābhata
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.149-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.149]]
+> ◄  [[an3.148-pali-pts]] 📜  [[an3.150-pali-pts]] ►

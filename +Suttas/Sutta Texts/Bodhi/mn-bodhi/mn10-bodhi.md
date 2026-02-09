@@ -158,15 +158,16 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN22]]; [[MN119]]; [[MN141]] | [[EA12.1]]; [[EA27.1]]; [[MA31]]; [[MA81]]; [[MA98]] | M i 55 |
+> |  | [[EA12.1]]; [[EA27.1]]; [[MA31]]; [[MA81]]; [[MA98]] | M i 55 |
 > > [!check]- Partial parallels 
 > > 
-| [[DN22]]; [[EA12.1]]; [[MA98]]; [[MA31]]; [[MN119]]; [[MA81]]; [[MN141]]; [[EA27.1]]; [[SN47.1]]; [[MN9]] |
+| [[DN22]], [[EA12.1]], [[MA98]], [[MA31]], [[MN119]], [[MA81]], [[MN141]], [[EA27.1]], [[SN47.1]], [[MN9]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN22]], [[SN47]], [[MN119]], [[MN118]]
+> - [[IDENTICALTODN22]], [[BUTWITHOUTITSDETAILEDEXPOSITIONOFTHEFOURNOBLETRUTHS]], [[SN47]], [[MN119]], [[MN118]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN10]]
 > ◄  [[mn9-bodhi]] 📜  [[mn11-bodhi]] ►

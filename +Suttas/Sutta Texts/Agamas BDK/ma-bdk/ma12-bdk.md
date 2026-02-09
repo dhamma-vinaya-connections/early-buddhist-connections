@@ -42,11 +42,12 @@ it is just as when someone with clear vision uncovers what was covered, exposes 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.195]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-KD14]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA12]]
 > ◄  [[ma11-bdk]] 📜  [[ma13-bdk]] ►

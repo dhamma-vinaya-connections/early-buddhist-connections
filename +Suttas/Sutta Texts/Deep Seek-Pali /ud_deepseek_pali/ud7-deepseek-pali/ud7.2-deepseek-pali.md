@@ -37,5 +37,10 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.2-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN21.5]], [[SN41:5]], [[AN]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.2]]
 > ◄  [[ud7.1-deepseek-pali]] 📜  [[ud7.3-deepseek-pali]] ►

@@ -47,5 +47,6 @@ These indeed adorn the Saṅgha, these are the Saṅgha's adornments. Seventh.
 | [[EA27.7]], [[SA873]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.7]]
 > ◄  [[an4.6-deepseek-pali]] 📜  [[an4.8-deepseek-pali]] ►

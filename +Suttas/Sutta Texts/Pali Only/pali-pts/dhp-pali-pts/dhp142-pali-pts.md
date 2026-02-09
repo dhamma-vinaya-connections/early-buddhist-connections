@@ -31,3 +31,5 @@ saddhāya sīlena ca viriyena ca samādhinā dhammavinicchayena ca /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp142-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP142]]
+> ◄  [[dhp141-pali-pts]] 📜  [[dhp144-pali-pts]] ►

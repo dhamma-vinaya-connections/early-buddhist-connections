@@ -65,5 +65,6 @@ Then Māra the Evil One, realizing, “The bhikkhunī Kisāgotamī knows me,” 
 | [[SA-2.216]], [[SA1200]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
 > ◄  [[sn5.2-bodhi]] 📜  [[sn5.4-bodhi]] ►

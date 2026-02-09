@@ -23,3 +23,5 @@ pīnavaṭṭapahituggatā ubho sobhate su thanakā pure mama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig264-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG264]]
+> ◄  [[thig263-pali-pts]] 📜  [[thig265-pali-pts]] ►

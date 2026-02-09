@@ -88,4 +88,5 @@ parallels_partilal: "[[ITI67]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.122
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.122.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.121]]  🌐 [[AN3.123]] ►

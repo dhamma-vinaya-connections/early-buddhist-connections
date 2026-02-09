@@ -23,3 +23,5 @@ yadā vitakke uparundhiy'; attano nagantare nagavivaraṃ samassito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag524-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG524]]
+> ◄  [[thag523-pali-pts]] 📜  [[thag525-pali-pts]] ►

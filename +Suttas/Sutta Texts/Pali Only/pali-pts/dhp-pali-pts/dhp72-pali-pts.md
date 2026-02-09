@@ -24,3 +24,5 @@ asataṃ bhāvanam iccheyya purekkhārañ ca bhikkhusu /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp72-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP72]]
+> ◄  [[dhp71-pali-pts]] 📜  [[dhp73-pali-pts]] ►

@@ -52,11 +52,12 @@ Those who live heedfully:
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN9.13]] | [[SA-2.363]], [[SA1343]] |  |
+> |  | [[SA-2.363]], [[SA1343]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.363]], [[SA1343]], [[SN9.13]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.25]]
 > ◄  [[sn2.23-thanissaro]] 📜  [[sn2.26-thanissaro]] ►

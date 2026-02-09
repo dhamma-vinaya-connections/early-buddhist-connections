@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP131]], [[DHP132]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP131]], [[DHP132]]"
+parallels_partilal: "[[DHP\|DHP131]], [[DHP\|DHP132]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.2]]  🌐 [[UD2.4]] ►
 
@@ -74,10 +74,10 @@ after death you will find happiness
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP131]], [[DHP132]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP131]], [[DHP132]] |
+| [[DHP\|DHP131]], [[DHP\|DHP132]] |
 | ------------------------ |
 
 
@@ -97,5 +97,6 @@ after death you will find happiness
 > - Sutta Central: https://suttacentral.net/ud2.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.3
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.3.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.2]]  🌐 [[UD2.4]] ►

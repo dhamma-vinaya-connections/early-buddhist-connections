@@ -23,3 +23,5 @@ tav'; eva hetū asurā bhavāmase, tvaṃmūlakaṃ nerayikā bhavāmase,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1127-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1127]]
+> ◄  [[thag1126-pali-pts]] 📜  [[thag1128-pali-pts]] ►

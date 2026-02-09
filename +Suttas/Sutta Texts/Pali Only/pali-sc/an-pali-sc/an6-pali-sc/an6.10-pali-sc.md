@@ -55,11 +55,12 @@ mahānāmena te dasāti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.25]] | [[SA-2.156]], [[SA931]] | A iii 284 |
+> |  | [[SA-2.156]], [[SA931]] | A iii 284 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.25]], [[SA-2.156]], [[SA931]], [[AN11.11]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.10]]
 > ◄  [[an6.9-pali-sc]] 📜  [[an6.11-pali-sc]] ►

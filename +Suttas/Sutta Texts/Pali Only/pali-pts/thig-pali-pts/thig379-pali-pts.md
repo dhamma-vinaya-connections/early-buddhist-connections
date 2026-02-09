@@ -23,3 +23,5 @@ kin te idha sārasammataṃ kuṇapapūramhi susānavaḍḍhane |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig379-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG379]]
+> ◄  [[thig378-pali-pts]] 📜  [[thig380-pali-pts]] ►

@@ -30,8 +30,9 @@ yathā agāraṃ succhannaṃ vuṭṭhi na samativijjhati /
 > |  |  | Dh 48 |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG2.7]] |
+| [[THAG2]].7 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP13]]
 > ◄  [[dhp12-pali-pts]] 📜  [[dhp14-pali-pts]] ►

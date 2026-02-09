@@ -25,3 +25,5 @@ kalyāṇamittatā muninā lokaṃ ādissa vaṇṇitā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig212-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG212]]
+> ◄  [[thig211-pali-pts]] 📜  [[thig213-pali-pts]] ►

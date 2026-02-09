@@ -98,3 +98,5 @@ The Book of the Twos is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.190-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.190]]
+> ◄  [[an2.189-deepseek-pali]] 📜  [[]] ►

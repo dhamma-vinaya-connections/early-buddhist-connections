@@ -51,3 +51,5 @@ The Buddha said, “I really did.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_180-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_180]]
+> ◄  [[SA2_130]] 📜  [[SA2_221]] ►

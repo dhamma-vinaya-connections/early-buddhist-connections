@@ -23,3 +23,5 @@ jātiyā sattavasso 'haṃ laddhāna upasampadaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag485-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG485]]
+> ◄  [[thag484-pali-pts]] 📜  [[thag486-pali-pts]] ►

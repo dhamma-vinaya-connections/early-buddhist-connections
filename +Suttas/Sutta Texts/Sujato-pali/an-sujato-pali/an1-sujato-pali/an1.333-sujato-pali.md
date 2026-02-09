@@ -59,3 +59,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.333-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.333]]
+> ◄  [[an1.329-sujato-pali]] 📜  [[an1.348-sujato-pali]] ►

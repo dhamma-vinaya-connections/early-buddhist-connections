@@ -46,5 +46,6 @@ Aññāya nikkhepanamāhu santo"ti.
 | [[SA-2.357]], [[SA1337]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.10]]
 > ◄  [[sn9.9-pali-sc]] 📜  [[sn9.11-pali-sc]] ►

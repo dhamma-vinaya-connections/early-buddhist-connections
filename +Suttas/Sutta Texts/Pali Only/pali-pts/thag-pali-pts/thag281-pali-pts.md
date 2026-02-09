@@ -23,3 +23,5 @@ yesaṃ rāgo ca doso ca avijjā ca virājitā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag281-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG281]]
+> ◄  [[thag280-pali-pts]] 📜  [[thag282-pali-pts]] ►

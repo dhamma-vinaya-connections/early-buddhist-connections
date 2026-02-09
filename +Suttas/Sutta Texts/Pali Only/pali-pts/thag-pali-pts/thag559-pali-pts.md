@@ -23,3 +23,5 @@ anukampāya me satthā pādāsi pādapuñchaniṃ:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag559-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG559]]
+> ◄  [[thag558-pali-pts]] 📜  [[thag560-pali-pts]] ►

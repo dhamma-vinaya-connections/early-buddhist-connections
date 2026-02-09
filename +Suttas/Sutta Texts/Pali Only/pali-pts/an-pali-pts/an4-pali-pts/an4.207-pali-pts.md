@@ -35,5 +35,6 @@ Ayaṃ vuccati bhikkhave asappurisena asappurisataro.
 | [[SA1053]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.207]]
 > ◄  [[an4.206-pali-pts]] 📜  [[an4.208-pali-pts]] ►

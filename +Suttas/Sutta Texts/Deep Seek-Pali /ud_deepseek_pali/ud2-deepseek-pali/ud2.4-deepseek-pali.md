@@ -40,7 +40,7 @@ Then, the Blessed One, having understood this matter, on that occasion, uttered 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[UD4.8]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[UD4.8]] |
@@ -48,7 +48,8 @@ Then, the Blessed One, having understood this matter, on that occasion, uttered 
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN21]], [[MN28]], [[DHP200]], [[AN221]], [[AN396]], [[AN421]], [[AN]]
+> - [[DN21]], [[MN28]], [[DHP\|DHP200]], [[AN221]], [[AN396]], [[AN421]], [[AN]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.4]]
 > ◄  [[ud2.3-deepseek-pali]] 📜  [[ud2.5-deepseek-pali]] ►

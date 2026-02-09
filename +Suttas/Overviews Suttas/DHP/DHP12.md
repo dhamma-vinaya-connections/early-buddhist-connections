@@ -86,4 +86,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp12
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp12.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP11]]  🌐 [[DHP13]] ►

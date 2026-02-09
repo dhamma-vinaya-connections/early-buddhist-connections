@@ -24,3 +24,5 @@ Dabbo cirarattaṃ samāhito akuhako nipako apihālu
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1217-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1217]]
+> ◄  [[thag1216-pali-pts]] 📜  [[thag1218-pali-pts]] ►

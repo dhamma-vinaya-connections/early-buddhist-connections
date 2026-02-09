@@ -23,3 +23,5 @@ kassa brāhmaṇa tvaṃ bhīto sadā udakam otari |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig236-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG236]]
+> ◄  [[thig235-pali-pts]] 📜  [[thig237-pali-pts]] ►

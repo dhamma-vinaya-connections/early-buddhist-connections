@@ -24,3 +24,5 @@ Upāsitā sappurisā, sutā dhammā abhiṇhaso;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag178-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG178]]
+> ◄  [[thag177-pali-pts]] 📜  [[thag179-pali-pts]] ►

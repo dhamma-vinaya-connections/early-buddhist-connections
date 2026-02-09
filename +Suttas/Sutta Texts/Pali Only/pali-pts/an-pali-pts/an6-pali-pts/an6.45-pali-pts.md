@@ -35,5 +35,6 @@ Evam eva kho bhikkhave yassa kassaci saddhā natthi kusalesu dhammesu, hiri natt
 | [[AN3.85]], [[MA125]], [[ITI30]], [[ITI64]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.45]]
 > ◄  [[an6.44-pali-pts]] 📜  [[an6.46-pali-pts]] ►

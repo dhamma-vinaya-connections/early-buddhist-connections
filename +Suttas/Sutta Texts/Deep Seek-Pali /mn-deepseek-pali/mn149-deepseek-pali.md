@@ -102,5 +102,6 @@ The discourse on the purity of alms-food, the ninth, is concluded.
 | [[SA305]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-deepseek-pali]] 📜  [[mn150-deepseek-pali]] ►

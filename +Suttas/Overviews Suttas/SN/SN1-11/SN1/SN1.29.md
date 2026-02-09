@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[SN2.28]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.172]], [[SA588]]"
 parallels_partilal: "[[SA-2.172]], [[SA588]], [[SN2.28]], [[PE5]]"
 ---
@@ -64,7 +64,7 @@ You’re released from all suffering
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN2.28]] | [[SA-2.172]], [[SA588]] |  |
+> |  | [[SA-2.172]], [[SA588]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.172]], [[SA588]], [[SN2.28]], [[PE5]] |
@@ -87,5 +87,6 @@ You’re released from all suffering
 > - Sutta Central: https://suttacentral.net/sn1.29/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.29
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.29.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.28]]  🌐 [[SN1.30]] ►

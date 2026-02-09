@@ -86,4 +86,5 @@ parallels_partilal: "[[ITI35]], [[ITI36]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.25
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.25.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.24]]  🌐 [[AN4.26]] ►

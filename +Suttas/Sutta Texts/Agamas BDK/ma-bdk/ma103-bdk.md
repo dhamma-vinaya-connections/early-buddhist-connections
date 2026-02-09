@@ -36,7 +36,7 @@ to views, and clinging to a self. Not clinging, he is not agitated; being withou
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN11]] | [[EA27.2]] |  |
+> |  | [[EA27.2]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA547]] |
@@ -45,6 +45,7 @@ to views, and clinging to a self. Not clinging, he is not agitated; being withou
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.239]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA103]]
 > ◄  [[ma102-bdk]] 📜  [[ma104-bdk]] ►

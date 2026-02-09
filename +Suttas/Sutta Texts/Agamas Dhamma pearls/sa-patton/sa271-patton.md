@@ -51,11 +51,12 @@ Tiṣya answered, “No, Bhagavān. It would be so were it not to change.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.84]] | [[SA271]] |  |
+> |  | [[SA271]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA271]], [[SN22.84]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA271]]
 > ◄  [[sa270-patton]] 📜  [[sa272-patton]] ►

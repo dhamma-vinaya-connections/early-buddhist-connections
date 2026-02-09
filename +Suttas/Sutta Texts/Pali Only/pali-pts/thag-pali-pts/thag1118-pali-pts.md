@@ -23,3 +23,5 @@ susaṃvutatto visikhantaraṃ caraṃ kulesu kāmesu asaṅgamānaso
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1118-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1118]]
+> ◄  [[thag1117-pali-pts]] 📜  [[thag1119-pali-pts]] ►

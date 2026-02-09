@@ -435,7 +435,7 @@ Lord Śakra said to the Buddha, “From that joy and happiness, I’m going to p
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN21]] | [[MA134]] |  |
+> |  | [[MA134]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN98]], [[SNP3.9]] |
@@ -444,6 +444,7 @@ Lord Śakra said to the Buddha, “From that joy and happiness, I’m going to p
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN140]], [[MN162]], [[SN12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA14]]
 > ◄  [[da13-patton]] 📜  [[da15-patton]] ►

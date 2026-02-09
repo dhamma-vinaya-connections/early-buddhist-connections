@@ -23,3 +23,5 @@ api dūragatā saremhase āyatapamhe visuddhadassane |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig382-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG382]]
+> ◄  [[thig381-pali-pts]] 📜  [[thig383-pali-pts]] ►

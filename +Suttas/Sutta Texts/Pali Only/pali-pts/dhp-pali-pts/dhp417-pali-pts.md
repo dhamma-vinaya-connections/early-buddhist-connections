@@ -24,3 +24,5 @@ hitvā ratiñ ca aratiñ ca sītibhūtaṃ nirūpadhiṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp417-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP417]]
+> ◄  [[dhp416-pali-pts]] 📜  [[dhp418-pali-pts]] ►

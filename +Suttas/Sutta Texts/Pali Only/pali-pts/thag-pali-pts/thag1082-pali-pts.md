@@ -23,3 +23,5 @@ dhammasenāpatiṃ dhīraṃ mahājhāyiṃ samāhitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1082-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1082]]
+> ◄  [[thag1081-pali-pts]] 📜  [[thag1083-pali-pts]] ►

@@ -60,5 +60,6 @@ Then the wanderer Channa approached the Venerable Ānanda and exchanged greeting
 | [[SA-2.207]], [[SA973]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.71]]
 > ◄  [[an3.70-bodhi]] 📜  [[an3.72-bodhi]] ►

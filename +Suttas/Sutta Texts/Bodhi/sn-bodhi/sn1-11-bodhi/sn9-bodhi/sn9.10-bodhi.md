@@ -52,5 +52,6 @@ On one occasion a certain bhikkhu was dwelling among the Kosalans in a certain w
 | [[SA-2.357]], [[SA1337]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.10]]
 > ◄  [[sn9.9-bodhi]] 📜  [[sn9.11-bodhi]] ►

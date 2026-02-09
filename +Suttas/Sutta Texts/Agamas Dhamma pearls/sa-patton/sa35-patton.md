@@ -33,3 +33,5 @@ The monks said to the Buddha, “No, Bhagavān.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa35-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA35]]
+> ◄  [[sa34-patton]] 📜  [[sa35.1-patton]] ►

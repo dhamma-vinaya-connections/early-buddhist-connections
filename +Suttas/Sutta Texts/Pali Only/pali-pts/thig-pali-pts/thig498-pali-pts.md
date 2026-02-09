@@ -23,3 +23,5 @@ sara tiṇakaṭṭhaṃ sākhāpalāsaṃ upanītaṃ anamataggato |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig498-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG498]]
+> ◄  [[thig497-pali-pts]] 📜  [[thig499-pali-pts]] ►

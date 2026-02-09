@@ -26,3 +26,5 @@ Cha phassāyatane hitvā guttadvāro susaṃvuto
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag115-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG115]]
+> ◄  [[thag114-pali-pts]] 📜  [[thag116-pali-pts]] ►

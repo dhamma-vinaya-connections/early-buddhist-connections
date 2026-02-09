@@ -23,3 +23,5 @@ jīvatevāpi sappañño api vittaparikkhayā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag498-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG498]]
+> ◄  [[thag497-pali-pts]] 📜  [[thag499-pali-pts]] ►

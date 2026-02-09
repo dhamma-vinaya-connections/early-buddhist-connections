@@ -33,5 +33,6 @@ Ekamantaṃ ṭhitā kho sā devatā Bhagavantaṃ etad avoca ‘tayo 'me bhante
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.32]], [[AN33]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.21]]
 > ◄  [[an6.20-pali-pts]] 📜  [[an6.22-pali-pts]] ►

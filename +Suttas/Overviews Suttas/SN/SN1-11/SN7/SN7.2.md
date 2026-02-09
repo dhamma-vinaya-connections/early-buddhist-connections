@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[DHP96]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.75]], [[SA1152-1153]]"
-parallels_partilal: "[[SA-2.75]], [[SA1152-1153]], [[DHP96]], [[THAG6.12]], [[SN7.3]], [[SN11.4]], [[SN11.5]]"
+parallels_partilal: "[[SA-2.75]], [[SA1152-1153]], [[DHP\|DHP96]], [[THAG6]].12, [[SN7.3]], [[SN11.4]], [[SN11.5]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.1]]  🌐 [[SN7.3]] ►
 
@@ -66,10 +66,10 @@ You win a battle hard to win
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP96]] | [[SA-2.75]], [[SA1152-1153]] |  |
+> |  | [[SA-2.75]], [[SA1152-1153]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.75]], [[SA1152-1153]], [[DHP96]], [[THAG6.12]], [[SN7.3]], [[SN11.4]], [[SN11.5]] |
+| [[SA-2.75]], [[SA1152-1153]], [[DHP\|DHP96]], [[THAG6]].12, [[SN7.3]], [[SN11.4]], [[SN11.5]] |
 | ------------------------ |
 
 
@@ -89,5 +89,6 @@ You win a battle hard to win
 > - Sutta Central: https://suttacentral.net/sn7.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.2
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.2.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.1]]  🌐 [[SN7.3]] ►

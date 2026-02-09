@@ -23,3 +23,5 @@ tassa te n'; atthi bhītattaṃ, bhiyyo vaṇṇo pasīdati;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag705-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG705]]
+> ◄  [[thag704-pali-pts]] 📜  [[thag706-pali-pts]] ►

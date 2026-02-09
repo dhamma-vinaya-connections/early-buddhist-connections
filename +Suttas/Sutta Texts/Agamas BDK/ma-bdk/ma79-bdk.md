@@ -52,7 +52,7 @@ him. Having taught [Chamberlain Isidatta] the Dharma with countless skillful mea
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN127]] |  | M i 227 |
+> |  |  | M i 227 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN1.4]], [[JA509]] |
@@ -61,6 +61,7 @@ him. Having taught [Chamberlain Isidatta] the Dharma with countless skillful mea
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.29]], [[MA72]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA79]]
 > ◄  [[ma78-bdk]] 📜  [[ma80-bdk]] ►

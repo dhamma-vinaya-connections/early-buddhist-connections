@@ -66,5 +66,6 @@ language: "English"
 | [[EA33.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.75]]
 > ◄  [[an5.74-bodhi]] 📜  [[an5.76-bodhi]] ►

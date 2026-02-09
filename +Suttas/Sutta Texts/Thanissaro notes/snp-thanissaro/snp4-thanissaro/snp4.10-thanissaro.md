@@ -260,3 +260,5 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.10]]
+> ◄  [[snp4.9-thanissaro]] 📜  [[snp4.11-thanissaro]] ►

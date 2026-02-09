@@ -24,3 +24,5 @@ Passa cittakataṃ bimbaṃ arukāyaṃ samussitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag768-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG768]]
+> ◄  [[thag767-pali-pts]] 📜  [[thag769-pali-pts]] ►

@@ -88,11 +88,12 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP383]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP311]], [[DHP312]], [[THAG4.3]], [[DHP313]], [[DHP314]], [[DHP383]], [[SN2.8]] |
+| [[DHP\|DHP311]], [[DHP\|DHP312]], [[THAG4]].3, [[DHP\|DHP313]], [[DHP\|DHP314]], [[DHP\|DHP383]], [[SN2.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
 > ◄  [[sn2.7-thanissaro]] 📜  [[sn2.17-thanissaro]] ►

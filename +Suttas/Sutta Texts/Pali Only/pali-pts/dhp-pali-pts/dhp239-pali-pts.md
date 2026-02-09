@@ -24,3 +24,5 @@ ayasā va malaṃ samuṭṭhitaṃ taduṭṭhāya tam eva khādati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp239-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP239]]
+> ◄  [[dhp238-pali-pts]] 📜  [[dhp240-pali-pts]] ►

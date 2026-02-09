@@ -89,4 +89,5 @@ A god surrounded by gods.
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.91
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.91.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.90]]  🌐 [[AN4.92]] ►

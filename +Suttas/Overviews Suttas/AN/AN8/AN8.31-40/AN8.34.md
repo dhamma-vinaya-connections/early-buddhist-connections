@@ -88,4 +88,5 @@ It leads to many excellences
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.34
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.34.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.33]]  🌐 [[AN8.35]] ►

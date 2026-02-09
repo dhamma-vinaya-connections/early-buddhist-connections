@@ -27,3 +27,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.9]]
+> ◄  [[snp4.9-anigha]] 📜  [[]] ►

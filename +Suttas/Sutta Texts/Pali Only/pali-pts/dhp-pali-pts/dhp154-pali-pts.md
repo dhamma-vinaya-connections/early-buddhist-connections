@@ -24,3 +24,5 @@ acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp154-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP154]]
+> ◄  [[dhp153-pali-pts]] 📜  [[dhp155-pali-pts]] ►

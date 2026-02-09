@@ -92,5 +92,6 @@ Aññā hi lābhūpanisā aññā nibbānagāminī evam etaṃ abhiññāya bhik
 | [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP5]]
 > ◄  [[dhp4-pali-sc]] 📜  [[dhp6-pali-sc]] ►

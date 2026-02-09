@@ -178,7 +178,7 @@ Venerable Aniruddha replied, “Good man, Kātyāyana, you can say that the rela
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN127]] |  | M i 227 |
+> |  |  | M i 227 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN1.4]], [[JA509]] |
@@ -187,6 +187,7 @@ Venerable Aniruddha replied, “Good man, Kātyāyana, you can say that the rela
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.29]], [[MA72]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA79]]
 > ◄  [[ma78-patton]] 📜  [[ma80-patton]] ►

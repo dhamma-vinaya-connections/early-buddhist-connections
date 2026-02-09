@@ -48,5 +48,10 @@ santi kho pana bhante etarahi bhikkhū bhagavato sāvakā viyattā . . . uggahet
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5.7-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SNP4.1]], [[SNP4.2]], [[SNP4.3]], [[SNP4.4]], [[SNP4.5]], [[SNP4.6]], [[SNP4.7]], [[SNP4.8]], [[SNP4.9]], [[SNP4.10]], [[SNP4.11]], [[SNP4.12]], [[SNP4.13]], [[SNP4.14]], [[SNP4.15]], [[SNP4.16]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.7]]
 > ◄  [[ud5.6-pali-pts]] 📜  [[ud6.1-pali-pts]] ►

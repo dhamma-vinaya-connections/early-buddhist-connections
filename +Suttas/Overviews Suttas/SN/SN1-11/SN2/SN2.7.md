@@ -92,4 +92,5 @@ Are perfectly serene in samādhi.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.7
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.6]]  🌐 [[SN2.8]] ►

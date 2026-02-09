@@ -23,3 +23,5 @@ pañca kkhandhā pariññātā tiṭṭhanti chinnamūlakā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag439-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG439]]
+> ◄  [[thag438-pali-pts]] 📜  [[thag440-pali-pts]] ►

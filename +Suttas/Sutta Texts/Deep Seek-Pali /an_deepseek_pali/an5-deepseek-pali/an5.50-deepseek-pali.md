@@ -142,5 +142,6 @@ The First Fifty Discourses are concluded.
 | [[EA32.7]], [[AN5.48]], [[JA368]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.50]]
 > ◄  [[an5.49-deepseek-pali]] 📜  [[an5.51-deepseek-pali]] ►

@@ -47,3 +47,5 @@ The Buddha told the monk, “There is the right eightfold path that can end crav
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa13_5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA13_5]]
+> ◄  [[SA13_4]] 📜  [[SA13_6]] ►

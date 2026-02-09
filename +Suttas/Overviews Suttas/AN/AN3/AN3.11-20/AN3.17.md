@@ -86,4 +86,5 @@ parallels_partilal: "[[SA1245]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.17
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.17.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.16]]  🌐 [[AN3.18]] ►

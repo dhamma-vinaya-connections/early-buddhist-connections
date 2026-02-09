@@ -52,5 +52,6 @@ is the emancipation of the mind.
 | [[SA688]], [[SA689]], [[SA690]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.3]]
 > ◄  [[an7.2-bodhi]] 📜  [[an7.4-bodhi]] ►

@@ -82,5 +82,6 @@ Intention, Analysis, Compartment, Ānanda, Upavāṇa the fifth; Request, Rāhul
 | [[EA28.5]], [[DA2]], [[DN16]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.180]]
 > ◄  [[an4.179-deepseek-pali]] 📜  [[an4.181-deepseek-pali]] ►

@@ -35,5 +35,6 @@ Esā bhikkhave tulā etaṃ pamāṇaṃ mama sāvikānaṃ upāsikānaṃ yadid
 | [[AN4.176]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.133]]
 > ◄  [[an2.132-pali-pts]] 📜  [[an2.134-pali-pts]] ►

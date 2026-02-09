@@ -95,4 +95,5 @@ who hold nothing as loved or as unloved.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp6
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP5]]  🌐 [[PDHP7]] ►

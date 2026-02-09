@@ -41,5 +41,6 @@ Aṭṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47.19]], [[AN4.95]], [[AN4.96]], [[AN4.99]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.18]]
 > ◄  [[an5.17-sujato-pali]] 📜  [[an5.19-sujato-pali]] ►

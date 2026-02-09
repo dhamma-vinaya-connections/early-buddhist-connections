@@ -33,5 +33,6 @@ Pañc'ime bhikkhave ānisaṃsā yāguyā. Katame pañca?
 | [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.207]]
 > ◄  [[an5.206-pali-pts]] 📜  [[an5.208-pali-pts]] ►

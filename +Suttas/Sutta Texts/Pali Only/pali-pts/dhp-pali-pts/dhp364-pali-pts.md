@@ -24,3 +24,5 @@ salābhaṃ nātimaññeyya nāññesaṃ pihayaṃ care. /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp364-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP364]]
+> ◄  [[dhp363-pali-pts]] 📜  [[dhp365-pali-pts]] ►

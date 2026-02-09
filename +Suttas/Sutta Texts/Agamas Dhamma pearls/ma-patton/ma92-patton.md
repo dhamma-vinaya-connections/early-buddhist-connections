@@ -76,3 +76,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma92-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA92]]
+> ◄  [[ma85-patton]] 📜  [[ma95-patton]] ►

@@ -93,4 +93,5 @@ of death.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti63
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti63.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI62]]  🌐 [[ITI64]] ►

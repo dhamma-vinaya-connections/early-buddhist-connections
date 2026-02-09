@@ -41,13 +41,10 @@ who dies well-tamed is reckoned to have “died well-tamed.” Aciravata, a youn
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma198-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN125]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.111]], [[AN8.9]], [[MN107]], [[MN65]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA198]]
 > ◄  [[ma197-bdk]] 📜  [[ma199-bdk]] ►

@@ -23,3 +23,5 @@ tass'; atthā paripūranti sukkapakkhe va candimā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag293-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG293]]
+> ◄  [[thag292-pali-pts]] 📜  [[thag294-pali-pts]] ►

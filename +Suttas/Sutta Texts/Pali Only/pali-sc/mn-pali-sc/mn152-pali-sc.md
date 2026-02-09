@@ -101,5 +101,6 @@ Tīhi paṇṇāsakehi paṭimaṇḍito sakalo
 | [[SA282]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN152]]
 > ◄  [[mn151-pali-sc]] 📜  [[]] ►

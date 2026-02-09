@@ -66,5 +66,6 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.42]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN121]]
 > ◄  [[mn120-bodhi]] 📜  [[mn122-bodhi]] ►

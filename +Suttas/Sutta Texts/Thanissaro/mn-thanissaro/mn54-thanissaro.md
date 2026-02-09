@@ -78,12 +78,13 @@ _In this passage, the Buddha teaches Potaliya the householder what it means, in 
 > |  | [[MA203]] | M i 359 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA203]]; [[SN35.244]] |
+| [[MA203]], [[SN35.244]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN137]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN54]]
 > ◄  [[mn53-thanissaro]] 📜  [[mn55-thanissaro]] ►

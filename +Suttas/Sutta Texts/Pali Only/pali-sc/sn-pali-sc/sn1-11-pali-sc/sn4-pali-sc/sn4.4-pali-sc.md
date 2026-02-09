@@ -44,11 +44,12 @@ Nihato tvamasi antakā"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN4.15]], [[SN4.5]] | [[SA-2.25]], [[SA1086]], [[SA1096]] |  |
+> |  | [[SA-2.25]], [[SA1086]], [[SA1096]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-KD1]], [[SN4.15]], [[SA-2.25]], [[SA1086]], [[SN4.5]], [[SA1096]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.4]]
 > ◄  [[sn4.3-pali-sc]] 📜  [[sn4.5-pali-sc]] ►

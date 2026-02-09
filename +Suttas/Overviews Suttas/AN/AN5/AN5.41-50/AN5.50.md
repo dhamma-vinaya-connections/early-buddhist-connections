@@ -88,4 +88,5 @@ As they’re able to assess what’s beneficial
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.50
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.50.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.49]]  🌐 [[AN5.51]] ►

@@ -23,3 +23,5 @@ Panādo nāma so rājā yassa yūpo suvaṇṇayo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag162-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG162]]
+> ◄  [[thag161-pali-pts]] 📜  [[thag163-pali-pts]] ►

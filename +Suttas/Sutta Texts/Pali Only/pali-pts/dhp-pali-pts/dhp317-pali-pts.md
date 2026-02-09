@@ -24,3 +24,5 @@ avajje vajjamatino vajje cāvajjadassino /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp317-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP317]]
+> ◄  [[dhp316-pali-pts]] 📜  [[dhp318-pali-pts]] ►

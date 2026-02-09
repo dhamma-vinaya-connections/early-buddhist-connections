@@ -23,3 +23,5 @@ yāvatā buddhakhettamhi ṭhapayitvā mahāmuniṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1086-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1086]]
+> ◄  [[thag1085-pali-pts]] 📜  [[thag1087-pali-pts]] ►

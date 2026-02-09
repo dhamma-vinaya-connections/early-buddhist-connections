@@ -109,5 +109,6 @@ Migajātāti kho, bhikkhave, samaṇabrāhmaṇānametaṁ adhivacanaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN12]], [[AN9.39]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN25]]
 > ◄  [[mn24-pali-sc]] 📜  [[mn26-pali-sc]] ►

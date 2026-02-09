@@ -24,3 +24,5 @@ satam āsi ayosaṅkū sabbe paccattavedanā:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1187-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1187]]
+> ◄  [[thag1184-pali-pts]] 📜  [[thag1188-pali-pts]] ►

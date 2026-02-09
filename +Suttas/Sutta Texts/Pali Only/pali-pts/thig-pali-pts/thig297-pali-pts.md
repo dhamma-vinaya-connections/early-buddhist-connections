@@ -23,3 +23,5 @@ haricandanalittaṅgiṃ kāsikuttamadhāriniṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig297-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG297]]
+> ◄  [[thig296-pali-pts]] 📜  [[thig298-pali-pts]] ►

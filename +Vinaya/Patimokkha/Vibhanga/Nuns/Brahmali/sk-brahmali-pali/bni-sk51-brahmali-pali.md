@@ -83,7 +83,8 @@ Atha kho bhagavā taṁ bhikkhuṁ anekapariyāyena vigarahitvā dubbharatāya �
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-sk51-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SK51]] |
->|       |          | [[ñanatusita-analysis#^-SK51]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SK51]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK51]]

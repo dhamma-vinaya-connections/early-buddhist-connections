@@ -96,4 +96,5 @@ is totally unbound.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti57
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti57.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI56]]  🌐 [[ITI58]] ►

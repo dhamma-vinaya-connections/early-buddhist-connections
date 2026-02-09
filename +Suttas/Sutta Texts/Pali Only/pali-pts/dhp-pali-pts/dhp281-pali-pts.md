@@ -25,3 +25,5 @@ etaṃ dvedhāpathaṃ ñatvā bhavāya vibhavāya ca /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp281-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP281]]
+> ◄  [[dhp280-pali-pts]] 📜  [[dhp282-pali-pts]] ►

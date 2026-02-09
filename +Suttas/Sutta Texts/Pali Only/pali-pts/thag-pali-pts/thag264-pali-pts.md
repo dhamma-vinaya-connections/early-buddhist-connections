@@ -35,3 +35,5 @@ Alaṃkatā suvasanā mālinī candanussadā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag264-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG264]]
+> ◄  [[thag260-pali-pts]] 📜  [[thag267-pali-pts]] ►

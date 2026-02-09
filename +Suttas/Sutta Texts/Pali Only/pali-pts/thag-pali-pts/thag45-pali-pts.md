@@ -25,3 +25,5 @@ sati paññā ca me vuḍḍhā cittañ ca susamāhitaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag45-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG45]]
+> ◄  [[thag44-pali-pts]] 📜  [[thag46-pali-pts]] ►

@@ -86,4 +86,5 @@ parallels_partilal: "[[DN33]], [[PLI-TV-PVR7]], [[PLI-TV-PVR17]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.130
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.130.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.129]]  🌐 [[AN5.131]] ►

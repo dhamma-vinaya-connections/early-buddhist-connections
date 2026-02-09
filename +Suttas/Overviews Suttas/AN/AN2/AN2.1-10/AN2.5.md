@@ -86,4 +86,5 @@ parallels_partilal: "[[MN70]], [[SN12.22]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.5
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.4]]  🌐 [[AN2.6]] ►

@@ -34,11 +34,12 @@ paññājīviṃ jīvitaṃ āhu setthaṇ ti || ||
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN2.19]] | [[SA-2.138]], [[SA1001]] |  |
+> |  | [[SA-2.138]], [[SA1001]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.138]], [[SA1001]], [[SN2.19]], [[AN3.51]], [[JA498]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.3]]
 > ◄  [[sn1.2-pali-pts]] 📜  [[sn1.4-pali-pts]] ►

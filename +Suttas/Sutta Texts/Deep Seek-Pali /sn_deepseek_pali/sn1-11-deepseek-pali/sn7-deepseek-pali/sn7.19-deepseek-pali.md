@@ -42,5 +42,6 @@ When this was said, the brahmin Mātuposaka said this to the Blessed One: "Excel
 | [[SA-2.88]], [[SA88]], [[AN3.31]], [[AN4.63]], [[ITI106]], [[JA532]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.19]]
 > ◄  [[sn7.18-deepseek-pali]] 📜  [[sn7.20-deepseek-pali]] ►

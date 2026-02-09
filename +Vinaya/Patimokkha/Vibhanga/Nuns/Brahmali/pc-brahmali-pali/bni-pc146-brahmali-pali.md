@@ -185,7 +185,8 @@ Dutiyampi etamatthaṁ vadāmi … pe … tatiyampi etamatthaṁ vadāmi— su�
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc146-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC146]] |
->|       |          | [[ñanatusita-analysis#^-PC146]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC146]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC146]]

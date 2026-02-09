@@ -82,5 +82,6 @@ Channa the Ajivaka, Sakka, Nigantha, and Nivesaka; two on becoming, on moral pra
 | [[SA423-425]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.80]]
 > ◄  [[an3.79-deepseek-pali]] 📜  [[an3.81-deepseek-pali]] ►

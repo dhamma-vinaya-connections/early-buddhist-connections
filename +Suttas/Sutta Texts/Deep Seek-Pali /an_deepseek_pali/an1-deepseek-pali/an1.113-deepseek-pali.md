@@ -27,3 +27,5 @@ Monks, with the appearance of a single person, there is the appearance of great 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.113-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.113]]
+> ◄  [[an1.112-deepseek-pali]] 📜  [[an1.114-deepseek-pali]] ►

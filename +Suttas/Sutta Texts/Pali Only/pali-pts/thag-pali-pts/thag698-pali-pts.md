@@ -23,3 +23,5 @@ saṃyojanaṃ aṇuṃ thūlaṃ sabbaṃ chetvāna bandhanaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag698-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG698]]
+> ◄  [[thag697-pali-pts]] 📜  [[thag699-pali-pts]] ►

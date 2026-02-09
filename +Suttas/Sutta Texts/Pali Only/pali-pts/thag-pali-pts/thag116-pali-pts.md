@@ -24,3 +24,5 @@ Suvilitto suvasano sabbābharaṇabhūsito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag116-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG116]]
+> ◄  [[thag115-pali-pts]] 📜  [[thag117-pali-pts]] ►

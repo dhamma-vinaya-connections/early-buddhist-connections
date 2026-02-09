@@ -24,3 +24,5 @@ Yathāpi bhaddo ājañño khalitvā patitiṭṭhati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag44-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG44]]
+> ◄  [[thag43-pali-pts]] 📜  [[thag45-pali-pts]] ►

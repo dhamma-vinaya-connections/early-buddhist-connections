@@ -1611,7 +1611,8 @@ chejjavatthū asaṁsayāti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pj4-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PJ4]] |
->|       |          | [[ñanatusita-analysis#^PJ4]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PJ4]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PJ]] I 🌐 [[BU-PJ4]]

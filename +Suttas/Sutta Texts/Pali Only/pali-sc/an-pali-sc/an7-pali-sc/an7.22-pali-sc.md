@@ -104,5 +104,6 @@ Dutiyaṁ.
 | [[EA40.2]], [[MA142]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
 > ◄  [[an7.21-pali-sc]] 📜  [[an7.23-pali-sc]] ►

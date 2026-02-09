@@ -23,3 +23,5 @@ sīlam eva idha aggaṃ, paññavā pana uttamo;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag618-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG618]]
+> ◄  [[thag617-pali-pts]] 📜  [[thag619-pali-pts]] ►

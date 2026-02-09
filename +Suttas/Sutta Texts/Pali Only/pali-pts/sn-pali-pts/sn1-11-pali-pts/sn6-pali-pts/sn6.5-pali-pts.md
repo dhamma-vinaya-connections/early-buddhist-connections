@@ -68,5 +68,6 @@ Parinibbānena ca desitam idaṃ Brahma-pañcakaṃ || ||
 | [[SA-2.109]], [[SA1196]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.5]]
 > ◄  [[sn6.4-pali-pts]] 📜  [[sn6.6-pali-pts]] ►

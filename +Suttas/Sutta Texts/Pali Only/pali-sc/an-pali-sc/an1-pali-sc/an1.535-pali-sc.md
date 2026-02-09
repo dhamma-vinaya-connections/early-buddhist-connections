@@ -25,3 +25,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.535-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.535]]
+> ◄  [[an1.495-pali-sc]] 📜  [[an1.575-pali-sc]] ►

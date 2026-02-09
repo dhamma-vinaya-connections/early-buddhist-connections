@@ -48,7 +48,7 @@ great benefit on visiting and paying homage to him on [this] suitable occasion. 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN24]] | [[EA39.10]] |  |
+> |  | [[EA39.10]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA403]] |
@@ -57,6 +57,7 @@ great benefit on visiting and paying homage to him on [this] suitable occasion. 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]], [[SN4.9]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA9]]
 > ◄  [[ma8-bdk]] 📜  [[ma10-bdk]] ►

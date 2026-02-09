@@ -50,11 +50,12 @@ Rāhula then rejoiced and was gladdened by what the Buddha taught. He bowed to t
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN147]], [[SN18.1-5]], [[SN35.121]], [[SN3.7]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN147]], [[SN18.1-5]], [[SN35.121]], [[SN3.7]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA200]]
 > ◄  [[sa199-patton]] 📜  [[sa201-patton]] ►

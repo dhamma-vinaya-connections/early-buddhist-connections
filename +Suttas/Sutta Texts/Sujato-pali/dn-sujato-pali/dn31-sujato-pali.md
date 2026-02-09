@@ -125,11 +125,12 @@ In this way, the western direction is protected and made peaceful and secure.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.17-18]], [[SN45.141-148]] | [[DA16]], [[MA135]], [[MA141]], [[SA-2.66]], [[SA1239]] | D iii 180 |
+> |  | [[DA16]], [[MA135]], [[MA141]], [[SA-2.66]], [[SA1239]] | D iii 180 |
 > > [!check]- Partial parallels 
 > > 
-| [[DA16]], [[MA135]], [[SN45.141-148]], [[MA141]], [[SA-2.66]], [[SA1239]], [[AN4.17]], [[PE3]], [[AN4.32]], [[JA532]], [[THAG3.5]], [[AN4.64]], [[AN4.19]], [[AN4.17-18]], [[JA443]] |
+| [[DA16]], [[MA135]], [[SN45.141-148]], [[MA141]], [[SA-2.66]], [[SA1239]], [[AN4.17]], [[PE3]], [[AN4.32]], [[JA532]], [[THAG3]].5, [[AN4.64]], [[AN4.19]], [[AN4.17-18]], [[JA443]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN31]]
 > ◄  [[dn30-sujato-pali]] 📜  [[dn32-sujato-pali]] ►

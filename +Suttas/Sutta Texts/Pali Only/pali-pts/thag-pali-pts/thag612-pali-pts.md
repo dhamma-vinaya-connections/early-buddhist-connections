@@ -23,3 +23,5 @@ velā ca saṃvaraṃ sīlaṃ cittassa abhibhāsanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag612-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG612]]
+> ◄  [[thag611-pali-pts]] 📜  [[thag613-pali-pts]] ►

@@ -23,3 +23,5 @@ mayhaṃ hi akkuṭṭhavandite sukhadukkhe ca sati upaṭṭhitā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig387-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG387]]
+> ◄  [[thig386-pali-pts]] 📜  [[thig388-pali-pts]] ►

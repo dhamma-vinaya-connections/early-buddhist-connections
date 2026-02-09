@@ -40,5 +40,6 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 | [[AN4.25]], [[ITI36]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI35]]
 > ◄  [[iti34-pali-sc]] 📜  [[iti36-pali-sc]] ►

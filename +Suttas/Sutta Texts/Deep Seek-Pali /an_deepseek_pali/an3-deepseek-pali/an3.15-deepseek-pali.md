@@ -51,3 +51,5 @@ Therefore, bhikkhus, you should train yourselves thus: ‘We will abandon bodily
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.15-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.15]]
+> ◄  [[an3.14-deepseek-pali]] 📜  [[an3.16-deepseek-pali]] ►

@@ -41,5 +41,6 @@ atha kho aññataro bhikkhu yena bhagavā ten'; upasaṅkami, upasaṅkamitvā b
 | [[PLI-TV-KD17]], [[SNP1.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
 > ◄  [[ud2.8-pali-pts]] 📜  [[ud3.2-pali-pts]] ►

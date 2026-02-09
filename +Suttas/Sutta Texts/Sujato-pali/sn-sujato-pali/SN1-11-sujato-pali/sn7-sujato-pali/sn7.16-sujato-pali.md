@@ -86,5 +86,6 @@ sa ve jaññā subhāsitan"ti.
 | [[SA-2.78]], [[SA-3.7]], [[SA1155]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.16]]
 > ◄  [[sn7.15-sujato-pali]] 📜  [[sn7.17-sujato-pali]] ►

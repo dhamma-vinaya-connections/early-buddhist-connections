@@ -273,7 +273,8 @@ Dutiyampi yācitabbā. Tatiyampi yācitabbā. Byattena bhikkhunā paṭibalena s
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-ss7-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SS7]] |
->|       |          | [[ñanatusita-analysis#^SS7]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SS7]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS7]]

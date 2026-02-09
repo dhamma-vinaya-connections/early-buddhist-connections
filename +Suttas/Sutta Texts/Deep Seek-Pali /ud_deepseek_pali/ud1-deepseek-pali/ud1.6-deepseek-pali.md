@@ -46,5 +46,6 @@ Then, having understood this matter, on that occasion the Blessed One uttered th
 | [[SN46.14]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.6]]
 > ◄  [[ud1.5-deepseek-pali]] 📜  [[ud1.7-deepseek-pali]] ►

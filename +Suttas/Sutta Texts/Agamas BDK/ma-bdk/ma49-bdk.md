@@ -26,11 +26,12 @@ that are part of the] wisdom group. If the wisdom group is not fulfilled, it is 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.3]], [[AN10.4]], [[AN11.3]], [[AN11.4]], [[AN5.168]], [[AN5.21]], [[AN5.22]], [[AN5.24]], [[AN6.50]], [[AN7.65]], [[AN8.81]] | [[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA50]], [[SA495]] |  |
+> |  | [[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA50]], [[SA495]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA49]]
 > ◄  [[ma48-bdk]] 📜  [[ma50-bdk]] ►

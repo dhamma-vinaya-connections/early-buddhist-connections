@@ -23,3 +23,5 @@ tass'; atthā parihāyanti kālapakkhe va candimā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag291-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG291]]
+> ◄  [[thag290-pali-pts]] 📜  [[thag292-pali-pts]] ►

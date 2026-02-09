@@ -23,3 +23,5 @@ atthāya vata no bhoti kule jātā si Rohiṇi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig285-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG285]]
+> ◄  [[thig284-pali-pts]] 📜  [[thig286-pali-pts]] ►

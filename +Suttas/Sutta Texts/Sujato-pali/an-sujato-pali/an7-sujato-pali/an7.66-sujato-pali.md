@@ -148,11 +148,12 @@ Dutiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.73]], [[AN7.73-74]] | [[EA40.1]], [[MA160]], [[MA8]] | A iv 100 |
+> |  | [[EA40.1]], [[MA160]], [[MA8]] | A iv 100 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA40.1]], [[MA8]], [[AN7.73-74]], [[MA160]], [[AN6.54]], [[AN7.73]], [[DN16]], [[AN4.1]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.66]]
 > ◄  [[an7.65-sujato-pali]] 📜  [[an7.67-sujato-pali]] ►

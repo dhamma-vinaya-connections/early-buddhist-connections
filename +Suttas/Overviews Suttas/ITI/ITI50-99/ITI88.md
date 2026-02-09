@@ -92,4 +92,5 @@ unreleased from Māra’s shackles,
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti88
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti88.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI87]]  🌐 [[ITI89]] ►

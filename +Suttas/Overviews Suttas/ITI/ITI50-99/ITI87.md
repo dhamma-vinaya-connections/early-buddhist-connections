@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[SN46.40]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA706]]"
 parallels_partilal: "[[SN46.40]], [[SA706]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[SN46.40]], [[SA706]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN46.40]] | [[SA706]] |  |
+> |  | [[SA706]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN46.40]], [[SA706]] |
@@ -88,5 +88,6 @@ parallels_partilal: "[[SN46.40]], [[SA706]]"
 > - Sutta Central: https://suttacentral.net/iti87/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti87
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti87.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI86]]  🌐 [[ITI88]] ►

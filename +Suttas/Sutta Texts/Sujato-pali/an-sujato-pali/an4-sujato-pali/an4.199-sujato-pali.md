@@ -76,7 +76,7 @@ Navamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.33]] | [[SA983]], [[SA984]] | A ii 211 |
+> |  | [[SA983]], [[SA984]] | A ii 211 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA984]], [[AN3.33]], [[SA983]] |
@@ -85,6 +85,7 @@ Navamaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.200.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.199]]
 > ◄  [[an4.198-sujato-pali]] 📜  [[an4.200-sujato-pali]] ►

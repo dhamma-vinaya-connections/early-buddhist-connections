@@ -23,3 +23,5 @@ na parass'; upanidhāya kammaṃ maccassa pāpakaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag495-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG495]]
+> ◄  [[thag494-pali-pts]] 📜  [[thag496-pali-pts]] ►

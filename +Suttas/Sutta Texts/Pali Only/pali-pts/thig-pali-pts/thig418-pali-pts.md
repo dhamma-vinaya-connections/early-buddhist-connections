@@ -23,3 +23,5 @@ te maṃ pitu gharaṃ paṭi nayiṃsu vimanā dukkhena |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig418-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG418]]
+> ◄  [[thig417-pali-pts]] 📜  [[thig419-pali-pts]] ►

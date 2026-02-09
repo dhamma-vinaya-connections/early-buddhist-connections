@@ -24,3 +24,5 @@ dūraṅgamaṃ ekacaraṃ asarīraṃ guhāsayaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp36-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP36]]
+> ◄  [[dhp35-pali-pts]] 📜  [[dhp37-pali-pts]] ►

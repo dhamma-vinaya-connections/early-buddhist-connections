@@ -24,3 +24,5 @@ sārattacitto vedeti tañ ca ajjhosa tiṭṭhati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag97-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG97]]
+> ◄  [[thag96-pali-pts]] 📜  [[thag98-pali-pts]] ►

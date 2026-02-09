@@ -24,3 +24,5 @@ Paṇḍitavaggo chaṭṭho
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp89-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP89]]
+> ◄  [[dhp88-pali-pts]] 📜  [[dhp90-pali-pts]] ►

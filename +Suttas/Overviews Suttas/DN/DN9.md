@@ -115,4 +115,5 @@ Substantial,  a mind-made and a non-physical reincarnations, and which one is r
 > - Dhamma Gift: https://dhamma.gift/read/?q=dn9
 > - The Buddhas Words: https://thebuddhaswords.net/dn/dn9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DN8]]  🌐 [[DN10]] ►

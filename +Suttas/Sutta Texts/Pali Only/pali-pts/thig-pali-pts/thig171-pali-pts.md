@@ -23,3 +23,5 @@ tassāhaṃ vacanaṃ sutvā karontī anusāsaniṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig171-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG171]]
+> ◄  [[thig170-pali-pts]] 📜  [[thig172-pali-pts]] ►

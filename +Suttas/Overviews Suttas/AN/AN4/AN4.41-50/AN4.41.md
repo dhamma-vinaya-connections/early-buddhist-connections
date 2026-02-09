@@ -92,4 +92,5 @@ They’ve crossed over birth and old age, I declare
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.41
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.41.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.40]]  🌐 [[AN4.42]] ►

@@ -46,11 +46,12 @@ Or hangs himself with a rope, Or takes various kinds of poison. Such is the natu
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.64]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP80]], [[MN86]], [[THAG1.19]], [[THAG16.8]] |
+| [[DHP\|DHP80]], [[MN86]], [[THAG1]].19, [[THAG16]].8 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA129]]
 > ◄  [[ma128-bdk]] 📜  [[ma130-bdk]] ►

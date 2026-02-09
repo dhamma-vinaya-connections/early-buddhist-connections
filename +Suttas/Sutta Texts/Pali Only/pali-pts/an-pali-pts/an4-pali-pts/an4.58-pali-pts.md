@@ -35,5 +35,6 @@ Bhojanaṃ Suppavase dentī ariyasāvikā paṭiggāhakānaṃ cattāri ṭhān�
 | [[AN4.59]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.58]]
 > ◄  [[an4.57-pali-pts]] 📜  [[an4.59-pali-pts]] ►

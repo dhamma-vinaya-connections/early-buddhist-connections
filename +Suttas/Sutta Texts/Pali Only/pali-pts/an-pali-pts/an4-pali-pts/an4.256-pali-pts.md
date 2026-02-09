@@ -35,5 +35,6 @@ Imāni kho bhikkhave cattāri saṅgahavatthūnī ti.
 | [[AN4.32]], [[AN8.24]], [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.256]]
 > ◄  [[an4.255-pali-pts]] 📜  [[an4.257-pali-pts]] ►

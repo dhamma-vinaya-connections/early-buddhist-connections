@@ -334,11 +334,12 @@ receive it, and he reverentially carried out what the Buddha taught.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN8]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.23]], [[MA137]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA25]]
 > ◄  [[da24-bdk]] 📜  [[da26-bdk]] ►

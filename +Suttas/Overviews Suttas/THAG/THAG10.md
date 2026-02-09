@@ -95,4 +95,5 @@ now there’ll be no more future lives
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag10
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG9]]  🌐 [[THAG11]] ►

@@ -24,3 +24,5 @@ tath'; eva katapuññam pi asmā lokā paraṃ gataṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp219-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP219]]
+> ◄  [[dhp218-pali-pts]] 📜  [[dhp220-pali-pts]] ►

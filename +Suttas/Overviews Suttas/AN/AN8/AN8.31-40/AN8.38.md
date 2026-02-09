@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN5.42]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN5.42]]"
 ---
@@ -67,7 +67,7 @@ They’ll enjoy a world of grace
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.42]] |  | A iv 244 |
+> |  |  | A iv 244 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.42]] |
@@ -93,5 +93,6 @@ They’ll enjoy a world of grace
 > - Sutta Central: https://suttacentral.net/an8.38/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.38
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.38.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.37]]  🌐 [[AN8.39]] ►

@@ -87,4 +87,5 @@ Long, fractious, and troublesome
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.63
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.63.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.62]]  🌐 [[AN2.64]] ►

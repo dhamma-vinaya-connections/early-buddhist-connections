@@ -23,3 +23,5 @@ rāgaṃ mānaṃ avijjañ ca uddhaccañ ca vivajjiya |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig166-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG166]]
+> ◄  [[thig165-pali-pts]] 📜  [[thig167-pali-pts]] ►

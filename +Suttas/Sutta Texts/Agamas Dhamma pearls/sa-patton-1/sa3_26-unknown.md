@@ -87,3 +87,5 @@ Susīma said to the Buddha, “Extreme pain, Bhagavān. The pain would be diffic
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa3_26-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_26]]
+> ◄  [[SA3_14]] 📜  [[SA3_71]] ►

@@ -503,5 +503,6 @@ Pāthikasuttaṃniṭṭhitaṃ paṭhamaṃ.
 | [[DA15]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-pali-sri]] 📜  [[dn25-pali-sri]] ►

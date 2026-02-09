@@ -32,3 +32,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa12_21-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA12_21]]
+> ◄  [[SA12_20]] 📜  [[SA12_30]] ►

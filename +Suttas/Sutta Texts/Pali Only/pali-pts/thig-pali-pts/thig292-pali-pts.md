@@ -23,3 +23,5 @@ mā me kujjha mahāvīra mā me kujjha mahāmuni |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig292-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG292]]
+> ◄  [[thig291-pali-pts]] 📜  [[thig293-pali-pts]] ►

@@ -93,4 +93,5 @@ They recuperate their right mind:
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.49
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.49.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.48]]  🌐 [[AN4.50]] ►

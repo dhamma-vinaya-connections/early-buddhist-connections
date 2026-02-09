@@ -23,3 +23,5 @@ tato me manasīkāro yoniso udapajjatha,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag268-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG268]]
+> ◄  [[thag267-pali-pts]] 📜  [[thag269-pali-pts]] ►

@@ -81,8 +81,9 @@ That is what the Auspicious One said. Pleased, Venerable Kassapa the Prince deli
 > |  | [[EA39.9]]; [[SA-2.18]]; [[SA1079]] | M i 142 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA39.9]]; [[SA-2.18]]; [[SA1079]] |
+| [[EA39.9]], [[SA-2.18]], [[SA1079]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
 > ◄  [[mn22-anigha]] 📜  [[mn24-anigha]] ►

@@ -24,3 +24,5 @@ aggiṃ candañ ca sūriyañ ca devatā ca namassi 'haṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig86-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG86]]
+> ◄  [[thig85-pali-pts]] 📜  [[thig87-pali-pts]] ►

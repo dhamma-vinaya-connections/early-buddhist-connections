@@ -43,5 +43,6 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.78]], [[AN5.79]], [[AN5.80]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.77]]
 > ◄  [[an5.76-bodhi]] 📜  [[an5.78-bodhi]] ►

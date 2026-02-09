@@ -113,8 +113,9 @@ The Tenth Chapter on Punishment is finished.
 > |  |  | Dh 37 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA221]], [[JA514]], [[THAG17.1]] |
+| [[JA221]], [[JA514]], [[THAG17]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP10]]
 > ◄  [[dhp9-deepseek-pali]] 📜  [[dhp11-deepseek-pali]] ►

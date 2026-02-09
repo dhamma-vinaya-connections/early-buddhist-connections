@@ -23,3 +23,5 @@ arūpa dūraṃgama ekacāri na te karissaṃ vacanaṃ idāni 'haṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1121-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1121]]
+> ◄  [[thag1120-pali-pts]] 📜  [[thag1122-pali-pts]] ►

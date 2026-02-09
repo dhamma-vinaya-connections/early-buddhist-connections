@@ -94,7 +94,7 @@ Burning, What Is Given, Food, One Root, Unequalled, Accharā, Grove, Planted, St
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN2.24]] | [[SA-2.189]], [[SA595]] |  |
+> |  | [[SA-2.189]], [[SA595]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN2.24]], [[SA-2.189]], [[SA595]] |
@@ -103,6 +103,7 @@ Burning, What Is Given, Food, One Root, Unequalled, Accharā, Grove, Planted, St
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN143]], [[MN140]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.50]]
 > ◄  [[sn1.49-deepseek-pali]] 📜  [[sn1.51-deepseek-pali]] ►

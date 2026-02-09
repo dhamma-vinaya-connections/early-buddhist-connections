@@ -33,5 +33,6 @@ Idha pana bhikkhave bhikkhu sīlesu paripūrakārī hoti samādhismiṃ mattaso 
 | [[SA820]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.87]]
 > ◄  [[an3.86-pali-pts]] 📜  [[an3.88-pali-pts]] ►

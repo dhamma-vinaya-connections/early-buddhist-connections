@@ -23,3 +23,5 @@ taṃ kāmam aham ujjhitvā chetvā Mārassa bandhanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag297-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG297]]
+> ◄  [[thag296-pali-pts]] 📜  [[thag298-pali-pts]] ►

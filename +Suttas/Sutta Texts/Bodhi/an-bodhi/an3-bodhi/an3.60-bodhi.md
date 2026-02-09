@@ -92,5 +92,6 @@ Then the Blessed One thought: “Even for a third time the brahmin Saṅgārava,
 | [[MA143]], [[DN11]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
 > ◄  [[an3.59-bodhi]] 📜  [[an3.61-bodhi]] ►

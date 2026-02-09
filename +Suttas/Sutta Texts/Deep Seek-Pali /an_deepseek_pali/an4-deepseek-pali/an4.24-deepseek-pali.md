@@ -71,5 +71,6 @@ There is no such clinging for Tathāgatas." Fourth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN2]], [[MN58]], [[MN63]], [[MN72]], [[AN10.93]], [[AN10.94]], [[AN10.95]], [[AN10.96]], [[UD1.10]], [[UD8.1.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.24]]
 > ◄  [[an4.23-deepseek-pali]] 📜  [[an4.25-deepseek-pali]] ►

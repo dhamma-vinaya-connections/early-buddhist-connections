@@ -302,3 +302,5 @@ upasantāmhi nibbutā"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG1]]
+> ◄  [[]] 📜  [[thig2-sujato-pali]] ►

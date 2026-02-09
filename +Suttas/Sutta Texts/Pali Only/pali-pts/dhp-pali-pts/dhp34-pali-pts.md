@@ -24,3 +24,5 @@ dunniggahassa lahuno yatthakāmanipātino /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp34-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP34]]
+> ◄  [[dhp33-pali-pts]] 📜  [[dhp35-pali-pts]] ►

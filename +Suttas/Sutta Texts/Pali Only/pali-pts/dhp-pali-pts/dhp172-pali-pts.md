@@ -24,3 +24,5 @@ yassa pāpaṃ kataṃ kammaṃ kusalena pithīyati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp172-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP172]]
+> ◄  [[dhp171-pali-pts]] 📜  [[dhp173-pali-pts]] ►

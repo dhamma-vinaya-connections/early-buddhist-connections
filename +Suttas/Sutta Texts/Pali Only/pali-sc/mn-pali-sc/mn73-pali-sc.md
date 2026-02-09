@@ -130,8 +130,9 @@ Atha kho āyasmā vacchagotto eko vūpakaṭṭho appamatto ātāpī pahitatto v
 > |  | [[SA-2.198]]; [[SA964]] | M i 489 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.198]]; [[SA964]] |
+| [[SA-2.198]], [[SA964]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
 > ◄  [[mn72-pali-sc]] 📜  [[mn74-pali-sc]] ►

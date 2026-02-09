@@ -105,12 +105,13 @@ Chaṭṭhaṁ.
 > |  |  | A iv 5 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN7.5]], [[AN7.7]], [[THAG8.2]] |
+| [[AN7.5]], [[AN7.7]], [[THAG8]].2 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.9]], [[SN1.2]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.6]]
 > ◄  [[an7.5-sujato-pali]] 📜  [[an7.7-sujato-pali]] ►

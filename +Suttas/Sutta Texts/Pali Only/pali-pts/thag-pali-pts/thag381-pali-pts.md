@@ -22,3 +22,5 @@ Atihitā vīhi, khalagatā sāli, na ca labhe piṇḍaṃ, katham ahaṃ kassa�
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag381-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG381]]
+> ◄  [[thag380-pali-pts]] 📜  [[thag382-pali-pts]] ►

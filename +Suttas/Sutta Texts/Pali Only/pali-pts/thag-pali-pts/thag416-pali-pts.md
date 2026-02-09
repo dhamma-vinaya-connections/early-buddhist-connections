@@ -24,3 +24,5 @@ Sudesito cakkhumatā buddhenādiccabandhunā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag416-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG416]]
+> ◄  [[thag415-pali-pts]] 📜  [[thag417-pali-pts]] ►

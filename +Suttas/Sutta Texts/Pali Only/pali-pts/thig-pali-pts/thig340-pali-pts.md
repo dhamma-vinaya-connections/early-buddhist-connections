@@ -24,3 +24,5 @@ na me taṃ assa patirūpaṃ ākiñcaññaṃ hi patthaye |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig340-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG340]]
+> ◄  [[thig339-pali-pts]] 📜  [[thig341-pali-pts]] ►

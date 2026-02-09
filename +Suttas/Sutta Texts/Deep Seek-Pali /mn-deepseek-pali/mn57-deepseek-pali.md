@@ -76,15 +76,16 @@ The Discourse on the Dog-Duty Ascetic: The Seventh.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.232]]; [[AN4.233]] |  | M i 387 |
+> |  |  | M i 387 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN4.233]]; [[AN4.232]]; [[DN33]] |
+| [[AN4.233]], [[AN4.232]], [[DN33]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.235]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN57]]
 > ◄  [[mn56-deepseek-pali]] 📜  [[mn58-deepseek-pali]] ►

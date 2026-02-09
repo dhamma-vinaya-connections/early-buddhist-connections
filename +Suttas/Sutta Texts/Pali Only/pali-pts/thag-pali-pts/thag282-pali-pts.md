@@ -23,3 +23,5 @@ Pañcapaññāsa vassāni rajojallam adhārayiṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag282-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG282]]
+> ◄  [[thag281-pali-pts]] 📜  [[thag283-pali-pts]] ►

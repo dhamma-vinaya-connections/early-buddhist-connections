@@ -22,3 +22,5 @@ so 'ham ajja kathaṃ vajjaṃ: ahaṃ nicco 'mhi sassato;--
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1200-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1200]]
+> ◄  [[thag1199-pali-pts]] 📜  [[thag1201-pali-pts]] ►

@@ -23,3 +23,5 @@ Acchodikā puthusilā gonaṅgulamigāyutā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag112-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG112]]
+> ◄  [[thag111-pali-pts]] 📜  [[thag113-pali-pts]] ►

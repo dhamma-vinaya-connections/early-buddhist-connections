@@ -23,3 +23,5 @@ te puna naṅgalam ahaṃ sakaṭaṃ ca dhārayāmi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig440-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG440]]
+> ◄  [[thig439-pali-pts]] 📜  [[thig441-pali-pts]] ►

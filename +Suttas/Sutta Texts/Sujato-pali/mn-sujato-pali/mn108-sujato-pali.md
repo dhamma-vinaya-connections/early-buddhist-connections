@@ -273,8 +273,9 @@ Gopakamoggallānasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 > |  | [[MA145]] | M iii 7 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA145]]; [[SN22.58]]; [[DN33]] |
+| [[MA145]], [[SN22.58]], [[DN33]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-sujato-pali]] 📜  [[mn109-sujato-pali]] ►

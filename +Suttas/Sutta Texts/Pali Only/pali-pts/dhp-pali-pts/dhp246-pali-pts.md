@@ -24,3 +24,5 @@ surāmerayapānañ ca yo naro anuyuñjati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp246-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP246]]
+> ◄  [[dhp245-pali-pts]] 📜  [[dhp247-pali-pts]] ►

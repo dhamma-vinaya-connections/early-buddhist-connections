@@ -26,3 +26,5 @@ Yaṃ patthayāno dhammesu upajjhāyo anuggahi
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag325-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG325]]
+> ◄  [[thag324-pali-pts]] 📜  [[thag330-pali-pts]] ►

@@ -23,3 +23,5 @@ mā evaṃ putta avaca Isidāsī paṇḍitā paribyattā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig414-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG414]]
+> ◄  [[thig413-pali-pts]] 📜  [[thig415-pali-pts]] ►

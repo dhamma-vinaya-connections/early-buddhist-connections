@@ -269,3 +269,5 @@ Having pervaded my body with rapture and bliss, then I dwelt; on the seventh day
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG6]]
+> ◄  [[thig5-pali-eng]] 📜  [[thig7-pali-eng]] ►

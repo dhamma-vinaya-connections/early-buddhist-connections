@@ -102,5 +102,6 @@ The Discourse on the Two Kinds of Thought, the ninth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.259]], [[MN20]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN19]]
 > ◄  [[mn18-deepseek-pali]] 📜  [[mn20-deepseek-pali]] ►

@@ -123,7 +123,8 @@ Amātugāme mātugāmasaññī, āpatti dukkaṭassa. Amātugāme vematiko, āpa
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc126-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC126]] |
->|       |          | [[ñanatusita-analysis#^-PC126]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC126]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC126]]

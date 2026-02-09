@@ -111,5 +111,6 @@ Three insights, the grunting sound, the brahmin, and with Kassapa; The goat, the
 | [[SN35.95]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.10]]
 > ◄  [[ud1.9-deepseek-pali]] 📜  [[]] ►

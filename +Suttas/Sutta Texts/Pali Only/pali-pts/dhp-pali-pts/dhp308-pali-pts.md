@@ -24,3 +24,5 @@ cattāri ṭhānāni naro pamatto āpajjatī paradārūpasevī: /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp308-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP308]]
+> ◄  [[dhp307-pali-pts]] 📜  [[dhp309-pali-pts]] ►

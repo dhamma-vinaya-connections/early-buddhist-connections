@@ -92,4 +92,5 @@ Discontent, and grogginess, uncontrolled mind, conscience and shame
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.17
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.17.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.16]]  🌐 [[SN1.18]] ►

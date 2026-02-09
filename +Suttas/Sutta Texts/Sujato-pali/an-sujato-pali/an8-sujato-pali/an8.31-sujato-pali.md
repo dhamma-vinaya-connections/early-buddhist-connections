@@ -42,5 +42,6 @@ Paṭhamaṁ.
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.31]]
 > ◄  [[an8.30-sujato-pali]] 📜  [[an8.32-sujato-pali]] ►

@@ -78,5 +78,6 @@ and the deities too are pleased.
 | [[SA-2.89]], [[SA89]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.39]]
 > ◄  [[an4.38-bodhi]] 📜  [[an4.40-bodhi]] ►

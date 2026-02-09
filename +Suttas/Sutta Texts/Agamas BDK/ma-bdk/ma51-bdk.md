@@ -30,6 +30,6 @@ is association with good friends, there will be hearing of the true Dharma. Once
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.61]], [[AN10.62]] | [[MA52]], [[MA53]] |  |
+> |  | [[MA52]], [[MA53]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA51]]
 > ◄  [[ma50-bdk]] 📜  [[ma52-bdk]] ►

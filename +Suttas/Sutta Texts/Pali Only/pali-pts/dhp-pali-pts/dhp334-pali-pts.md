@@ -24,3 +24,5 @@ yaṃ esā sahatī jammī taṇhā loke visattikā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp334-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP334]]
+> ◄  [[dhp333-pali-pts]] 📜  [[dhp335-pali-pts]] ►

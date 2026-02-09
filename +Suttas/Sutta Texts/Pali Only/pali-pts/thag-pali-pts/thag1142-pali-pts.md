@@ -23,3 +23,5 @@ catubbipallāsavasaṃ adhiṭṭhitaṃ gāmaṇḍalaṃ va parinesi citta ma�
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1142-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1142]]
+> ◄  [[thag1141-pali-pts]] 📜  [[thag1143-pali-pts]] ►

@@ -107,5 +107,6 @@ Paṭhamaṁ.
 | [[SN12.25]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.171]]
 > ◄  [[an4.170-sujato-pali]] 📜  [[an4.172-sujato-pali]] ►

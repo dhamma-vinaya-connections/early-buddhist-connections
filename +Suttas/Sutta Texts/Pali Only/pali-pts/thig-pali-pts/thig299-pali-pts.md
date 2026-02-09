@@ -23,3 +23,5 @@ imaṃ ca me puttaphalaṃ Kāḷa uppāditaṃ tayā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig299-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG299]]
+> ◄  [[thig298-pali-pts]] 📜  [[thig300-pali-pts]] ►

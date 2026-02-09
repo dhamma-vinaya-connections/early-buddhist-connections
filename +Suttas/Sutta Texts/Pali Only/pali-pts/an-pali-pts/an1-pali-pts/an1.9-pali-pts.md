@@ -35,5 +35,6 @@ Rūpādi-vaggo paṭhamo.1
 | [[EA9.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.9]]
 > ◄  [[an1.8-pali-pts]] 📜  [[an1.11-pali-pts]] ►

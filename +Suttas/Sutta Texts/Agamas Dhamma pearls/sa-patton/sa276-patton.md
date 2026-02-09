@@ -96,11 +96,12 @@ They answered, “No, Venerable Nanda.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN146]], [[SN5.6]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN146]], [[SN5.6]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA276]]
 > ◄  [[sa272-patton]] 📜  [[sa283-patton]] ►

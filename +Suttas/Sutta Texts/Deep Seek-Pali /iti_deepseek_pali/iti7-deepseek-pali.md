@@ -41,5 +41,6 @@ This matter too was stated by the Blessed One; so I heard. Seventh.
 | [[SN35.26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI7]]
 > ◄  [[iti6-deepseek-pali]] 📜  [[iti8-deepseek-pali]] ►

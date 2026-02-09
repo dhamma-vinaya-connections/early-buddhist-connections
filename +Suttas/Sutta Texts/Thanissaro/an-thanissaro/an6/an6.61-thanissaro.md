@@ -85,5 +85,6 @@ The Blessed One said, “Contact, monks, is the first side, the origination of c
 | [[SA1164]], [[SNP5.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.61]]
 > ◄  [[an6.60-thanissaro]] 📜  [[an6.63-thanissaro]] ►

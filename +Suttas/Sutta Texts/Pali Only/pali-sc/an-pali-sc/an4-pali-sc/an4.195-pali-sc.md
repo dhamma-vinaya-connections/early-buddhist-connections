@@ -79,5 +79,6 @@ Pañcamaṁ.
 | [[MA12]], [[SN42.12]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.195]]
 > ◄  [[an4.194-pali-sc]] 📜  [[an4.196-pali-sc]] ►

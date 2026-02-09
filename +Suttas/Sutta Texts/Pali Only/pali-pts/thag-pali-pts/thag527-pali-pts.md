@@ -23,3 +23,5 @@ dumāni phullāni manoramāni samantato sabbadisā pavanti
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag527-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG527]]
+> ◄  [[thag526-pali-pts]] 📜  [[thag528-pali-pts]] ►

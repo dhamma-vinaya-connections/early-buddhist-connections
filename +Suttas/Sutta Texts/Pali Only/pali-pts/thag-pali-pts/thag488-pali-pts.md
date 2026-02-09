@@ -23,3 +23,5 @@ sakalaṃ samattaṃ rogaṃ Sarabhaṅgo nāddasaṃ pubbe,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag488-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG488]]
+> ◄  [[thag487-pali-pts]] 📜  [[thag489-pali-pts]] ►

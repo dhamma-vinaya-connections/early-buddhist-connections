@@ -77,8 +77,9 @@ Na antalikkhe na samuddamajjhe, na pabbatānaṃ vivaraṃ pavissa; na vijjatī 
 > |  |  | Dh 33 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA221]], [[JA514]], [[THAG17.1]] |
+| [[JA221]], [[JA514]], [[THAG17]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP9]]
 > ◄  [[dhp8-pali-sc]] 📜  [[dhp10-pali-sc]] ►

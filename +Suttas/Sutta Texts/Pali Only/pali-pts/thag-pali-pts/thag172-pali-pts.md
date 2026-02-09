@@ -24,3 +24,5 @@ Yathāpi bhaddo ājañño khalitvā patitiṭṭhati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag172-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG172]]
+> ◄  [[thag171-pali-pts]] 📜  [[thag173-pali-pts]] ►

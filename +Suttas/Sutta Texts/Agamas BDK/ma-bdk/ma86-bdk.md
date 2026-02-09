@@ -61,3 +61,5 @@ Go and sit in meditation and contemplation in a secluded place, on a mountain, i
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma86-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA86]]
+> ◄  [[ma85-bdk]] 📜  [[ma87-bdk]] ►

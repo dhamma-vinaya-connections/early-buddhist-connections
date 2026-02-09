@@ -72,8 +72,9 @@ That is what the Blessed One said. Gratified, Ven. Sāriputta delighted in the B
 > |  | [[EA45.6]]; [[SA236]] | M iii 293 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA45.6]]; [[SA236]] |
+| [[EA45.6]], [[SA236]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
 > ◄  [[mn149-thanissaro]] 📜  [[mn152-thanissaro]] ►

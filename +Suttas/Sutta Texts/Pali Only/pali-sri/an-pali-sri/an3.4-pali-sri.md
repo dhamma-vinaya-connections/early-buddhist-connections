@@ -435,5 +435,6 @@ Kāla bhojana saddhāya puttasālehi te dasāti.
 | [[EA22.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.4]]
 > ◄  [[an3.3-pali-sri]] 📜  [[an3.5-pali-sri]] ►

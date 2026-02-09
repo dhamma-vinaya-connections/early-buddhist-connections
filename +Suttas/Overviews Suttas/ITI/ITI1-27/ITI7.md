@@ -86,4 +86,5 @@ parallels_partilal: "[[SN35.26]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti7
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI6]]  🌐 [[ITI8]] ►

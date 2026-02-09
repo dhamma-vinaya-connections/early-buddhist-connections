@@ -23,3 +23,5 @@ ekaṃsaṃ cīvaraṃ katvā saṃharitvāna pāṇiyo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag480-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG480]]
+> ◄  [[thag479-pali-pts]] 📜  [[thag481-pali-pts]] ►

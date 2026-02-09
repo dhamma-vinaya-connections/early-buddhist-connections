@@ -44,11 +44,12 @@ Then the Blessed One said to Venerable Visākha Pañcālaputta: “Good, good, V
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN21.7]] | [[SA-2.8]], [[SA1069]] | A ii 51 |
+> |  | [[SA-2.8]], [[SA1069]] | A ii 51 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN21.7]], [[SA-2.8]], [[SA1069]], [[JA537]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.48]]
 > ◄  [[an4.47-deepseek-pali]] 📜  [[an4.49-deepseek-pali]] ►

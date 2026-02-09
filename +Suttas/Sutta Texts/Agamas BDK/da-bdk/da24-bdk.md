@@ -281,11 +281,12 @@ Buddha taught.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN11]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[SNP1.3]], [[MA72]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA24]]
 > ◄  [[da23-bdk]] 📜  [[da25-bdk]] ►

@@ -23,3 +23,5 @@ acchecchi taṇhaṃ idha nāmarūpe 'ti bhagavā, taṇhāya sotaṃ dīgharatt
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1274-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1274]]
+> ◄  [[thag1273-pali-pts]] 📜  [[thag1275-pali-pts]] ►

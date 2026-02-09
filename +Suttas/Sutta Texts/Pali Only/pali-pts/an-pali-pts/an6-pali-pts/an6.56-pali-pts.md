@@ -36,5 +36,6 @@ Seyyathā pi bhante dakkho goghātako vā goghātakantevāsī vā tiṇhena govi
 | [[SA1023]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
 > ◄  [[an6.55-pali-pts]] 📜  [[an6.57-pali-pts]] ►

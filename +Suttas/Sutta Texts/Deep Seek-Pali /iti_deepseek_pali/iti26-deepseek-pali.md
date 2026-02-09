@@ -57,5 +57,10 @@ The Book of the Ones is concluded.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti26-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3:52-53]], [[AN5.34]], [[AN5:36]], [[AN7:49]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI26]]
 > ◄  [[iti25-deepseek-pali]] 📜  [[iti27-deepseek-pali]] ►

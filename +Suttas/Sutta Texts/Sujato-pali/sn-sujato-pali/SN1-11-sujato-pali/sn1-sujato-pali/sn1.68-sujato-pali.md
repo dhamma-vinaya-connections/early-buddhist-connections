@@ -56,5 +56,6 @@ jarāya parivārito"ti.
 | [[SA-2.238]], [[SA1011]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.68]]
 > ◄  [[sn1.67-sujato-pali]] 📜  [[sn1.69-sujato-pali]] ►

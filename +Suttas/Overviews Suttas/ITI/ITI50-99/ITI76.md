@@ -36,7 +36,7 @@ sutta_audience:
   - "Lay followers"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[JA545]], [[JA503]], [[THAG12.1]]"
+parallels_partilal: "[[JA545]], [[JA503]], [[THAG12]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI75]]  🌐 [[ITI77]] ►
 
@@ -72,7 +72,7 @@ that sort.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[JA545]], [[JA503]], [[THAG12.1]] |
+| [[JA545]], [[JA503]], [[THAG12]].1 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -95,5 +95,6 @@ that sort.
 > - Sutta Central: https://suttacentral.net/iti76/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti76
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti76.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI75]]  🌐 [[ITI77]] ►

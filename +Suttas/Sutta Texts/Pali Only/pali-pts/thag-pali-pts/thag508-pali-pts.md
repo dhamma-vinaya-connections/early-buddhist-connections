@@ -23,3 +23,5 @@ tasmā saddhañ ca sīlañ ca pasādaṃ dhammadassanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag508-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG508]]
+> ◄  [[thag507-pali-pts]] 📜  [[thag509-pali-pts]] ►

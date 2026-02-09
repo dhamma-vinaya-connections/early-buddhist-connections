@@ -40,11 +40,12 @@ Then, having understood this matter, on that occasion the Blessed One uttered th
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[UD1.1]], [[UD1.3]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-KD1]], [[UD1.1]], [[UD1.3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.1]]
 > ◄  [[]] 📜  [[ud1.2-deepseek-pali]] ►

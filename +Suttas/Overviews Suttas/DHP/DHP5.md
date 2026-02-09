@@ -95,4 +95,5 @@ they fall into suffering
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp5
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP4]]  🌐 [[DHP6]] ►

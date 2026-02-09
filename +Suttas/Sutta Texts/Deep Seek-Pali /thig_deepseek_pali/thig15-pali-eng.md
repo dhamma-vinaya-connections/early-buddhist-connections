@@ -250,3 +250,5 @@ Evamanuyuñjiyamānā sā, rahite dhammadesanākusalā;Isidāsī vacanamabravi, 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig15-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG15]]
+> ◄  [[thig14-pali-eng]] 📜  [[thig16-pali-eng]] ►

@@ -23,3 +23,5 @@ disvā ādīnavaṃ loke ubho pabbajitā mayaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig65-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG65]]
+> ◄  [[thig64-pali-pts]] 📜  [[thig66-pali-pts]] ►

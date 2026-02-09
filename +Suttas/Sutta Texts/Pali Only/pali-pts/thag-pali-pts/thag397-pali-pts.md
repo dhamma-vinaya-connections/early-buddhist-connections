@@ -23,3 +23,5 @@ pañcaṅgikena turiyena na rati hoti tādisī
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag397-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG397]]
+> ◄  [[thag396-pali-pts]] 📜  [[thag398-pali-pts]] ►

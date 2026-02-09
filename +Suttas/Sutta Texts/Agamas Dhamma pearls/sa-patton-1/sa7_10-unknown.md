@@ -34,3 +34,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa7_10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA7_10]]
+> ◄  [[SA7_10-11]] 📜  [[SA11_41]] ►

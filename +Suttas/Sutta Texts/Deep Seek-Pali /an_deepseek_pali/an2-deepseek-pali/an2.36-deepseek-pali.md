@@ -38,5 +38,6 @@ One in training and one beyond training in this world are worthy of offerings fr
 | [[MA21]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.36]]
 > ◄  [[an2.35-deepseek-pali]] 📜  [[an2.37-deepseek-pali]] ►

@@ -24,3 +24,5 @@ Accayanti ahorattā, jīvitaṃ uparujjhati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag144-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG144]]
+> ◄  [[thag143-pali-pts]] 📜  [[thag145-pali-pts]] ►

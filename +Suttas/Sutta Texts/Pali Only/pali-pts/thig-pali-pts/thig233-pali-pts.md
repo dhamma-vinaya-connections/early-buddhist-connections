@@ -23,3 +23,5 @@ sattisūlūpamā kāmā khandhānaṃ adhikuṭṭanā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig233-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG233]]
+> ◄  [[thig232-pali-pts]] 📜  [[thig234-pali-pts]] ►

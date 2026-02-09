@@ -503,5 +503,6 @@ Appakā atthakaraṇā mallikā yaññabandhanantī.
 | [[SA-2.53]], [[SA1226]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.1]]
 > ◄  [[sn2.3-pali-sri]] 📜  [[sn3.2-pali-sri]] ►

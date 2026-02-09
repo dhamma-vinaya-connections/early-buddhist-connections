@@ -58,10 +58,11 @@ What is knowledge of the cessation of formations as it really is? It is this: wi
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.13]], [[MN9]] | [[SA344]] | M iii 109 |
+> |  | [[SA344]] | M iii 109 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.94]], [[MA30]], [[MN117]], [[MN141]], [[MN61]], [[SN12.11]], [[SN12.12]], [[SN12.15]], [[SN12.63]], [[SN12.64]], [[SN3.12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA29]]
 > ◄  [[ma28-bdk]] 📜  [[ma30-bdk]] ►

@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[SN2.24]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.189]], [[SA595]]"
 parallels_partilal: "[[SN2.24]], [[SA-2.189]], [[SA595]]"
 ---
@@ -68,7 +68,7 @@ They cut through the bondage of existence.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN2.24]] | [[SA-2.189]], [[SA595]] |  |
+> |  | [[SA-2.189]], [[SA595]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN2.24]], [[SA-2.189]], [[SA595]] |
@@ -94,5 +94,6 @@ They cut through the bondage of existence.
 > - Sutta Central: https://suttacentral.net/sn1.50/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.50
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.50.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.49]]  🌐 [[SN1.51]] ►

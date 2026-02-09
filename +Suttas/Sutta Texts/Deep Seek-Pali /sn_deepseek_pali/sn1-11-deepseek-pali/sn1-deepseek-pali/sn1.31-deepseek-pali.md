@@ -90,5 +90,6 @@ Thus spoke the Blessed One. Pleased, those devas, having paid homage to the Bles
 | [[SA-2.285]], [[SA1287]], [[SN2.21]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
 > ◄  [[sn1.30-deepseek-pali]] 📜  [[sn1.32-deepseek-pali]] ►

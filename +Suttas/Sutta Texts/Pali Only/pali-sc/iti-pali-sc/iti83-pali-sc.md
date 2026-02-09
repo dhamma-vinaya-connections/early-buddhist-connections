@@ -37,3 +37,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti83-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI83]]
+> ◄  [[iti82-pali-sc]] 📜  [[iti84-pali-sc]] ►

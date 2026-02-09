@@ -29,3 +29,5 @@ Parallel to 9:64–9:72, but formulated by way of the four bases for psychic pot
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.84-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.84]]
+> ◄  [[an9.83-sujato-pali]] 📜  [[an9.92-sujato-pali]] ►

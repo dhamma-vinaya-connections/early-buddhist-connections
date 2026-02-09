@@ -77,11 +77,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.162]] |  | M iii 88 |
+> |  |  | M iii 88 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN11.6]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA25]]
 > ◄  [[ma17-patton]] 📜  [[ma29-patton]] ►

@@ -24,3 +24,5 @@ hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp416-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP416]]
+> ◄  [[dhp415-pali-pts]] 📜  [[dhp417-pali-pts]] ►

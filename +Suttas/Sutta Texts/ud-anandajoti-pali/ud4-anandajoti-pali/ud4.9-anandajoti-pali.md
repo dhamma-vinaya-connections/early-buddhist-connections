@@ -68,5 +68,6 @@ Navamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SNP3.12]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.9]]
 > ◄  [[ud4.8-anandajoti-pali]] 📜  [[ud4.10-anandajoti-pali]] ►

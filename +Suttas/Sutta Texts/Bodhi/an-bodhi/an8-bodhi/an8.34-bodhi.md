@@ -98,5 +98,6 @@ this is total accomplishment.
 | [[SA980]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.34]]
 > ◄  [[an8.33-bodhi]] 📜  [[an8.35-bodhi]] ►

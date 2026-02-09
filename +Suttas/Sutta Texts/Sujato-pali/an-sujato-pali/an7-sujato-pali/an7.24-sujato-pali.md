@@ -56,5 +56,6 @@ Catutthaṁ.
 | [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.24]]
 > ◄  [[an7.23-sujato-pali]] 📜  [[an7.25-sujato-pali]] ►

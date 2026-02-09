@@ -57,5 +57,6 @@ Then Māra the Evil One … disappeared right there.
 | [[SA1103]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
 > ◄  [[sn4.16-bodhi]] 📜  [[sn4.18-bodhi]] ►

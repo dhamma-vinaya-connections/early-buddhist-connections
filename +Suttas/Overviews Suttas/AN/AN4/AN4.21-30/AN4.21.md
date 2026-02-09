@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[SN6.2]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.101]], [[SA1188]]"
 parallels_partilal: "[[SN6.2]], [[SA-2.101]], [[SA1188]]"
 ---
@@ -63,7 +63,7 @@ And since the saṅgha has also achieved greatness, I also respect the saṅgha.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN6.2]] | [[SA-2.101]], [[SA1188]] | A ii 20 |
+> |  | [[SA-2.101]], [[SA1188]] | A ii 20 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN6.2]], [[SA-2.101]], [[SA1188]] |
@@ -86,5 +86,6 @@ And since the saṅgha has also achieved greatness, I also respect the saṅgha.
 > - Sutta Central: https://suttacentral.net/an4.21/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.21
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.21.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.20]]  🌐 [[AN4.22]] ►

@@ -70,11 +70,12 @@ rakkhitoti pavuccatī"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP361]] | [[SA-2.56]], [[SA1229]] |  |
+> |  | [[SA-2.56]], [[SA1229]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.56]], [[SA1229]], [[DHP361]], [[PE2]] |
+| [[SA-2.56]], [[SA1229]], [[DHP\|DHP361]], [[PE2]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.5]]
 > ◄  [[sn3.4-sujato-pali]] 📜  [[sn3.6-sujato-pali]] ►

@@ -95,4 +95,5 @@ the ending of all fetters.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag11
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag11.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG10]]  🌐 [[THAG12]] ►

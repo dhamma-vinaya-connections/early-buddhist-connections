@@ -24,3 +24,5 @@ na pupphagandho paṭivātam eti na candanaṃ tagaramallikā vā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp53-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP53]]
+> ◄  [[dhp52-pali-pts]] 📜  [[dhp54-pali-pts]] ►

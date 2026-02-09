@@ -62,5 +62,6 @@ language: "English - Pali"
 | [[AN10.220]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.16]]
 > ◄  [[an2.15-sujato-pali]] 📜  [[an2.17-sujato-pali]] ►

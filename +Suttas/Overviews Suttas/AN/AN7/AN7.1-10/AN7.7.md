@@ -36,7 +36,7 @@ sutta_audience:
   - "Lay followers"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[AN7.5]], [[AN7.6]], [[THAG8.2]]"
+parallels_partilal: "[[AN7.5]], [[AN7.6]], [[THAG8]].2"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.6]]  🌐 [[AN7.8]] ►
 
@@ -68,7 +68,7 @@ Their life is not in vain
 > |  |  | A iv 6 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN7.5]], [[AN7.6]], [[THAG8.2]] |
+| [[AN7.5]], [[AN7.6]], [[THAG8]].2 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -91,5 +91,6 @@ Their life is not in vain
 > - Sutta Central: https://suttacentral.net/an7.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.7
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.7.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.6]]  🌐 [[AN7.8]] ►

@@ -110,5 +110,6 @@ When this was said, the brahmin Verañja said to the Blessed One: “Master Gota
 | [[MA157]], [[PLI-TV-BU-VB-PJ1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
 > ◄  [[an8.10-deepseek-pali]] 📜  [[an8.12-deepseek-pali]] ►

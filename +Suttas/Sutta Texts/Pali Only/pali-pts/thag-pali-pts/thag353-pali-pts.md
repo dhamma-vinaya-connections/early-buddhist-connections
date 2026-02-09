@@ -23,3 +23,5 @@ anussaranto sambuddhaṃ aggadantaṃ samāhitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag353-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG353]]
+> ◄  [[thag352-pali-pts]] 📜  [[thag354-pali-pts]] ►

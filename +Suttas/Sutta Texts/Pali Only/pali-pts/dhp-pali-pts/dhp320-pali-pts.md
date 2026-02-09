@@ -24,3 +24,5 @@ dantaṃ nayanti samitiṃ dantaṃ rājābhirūhati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp320-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP320]]
+> ◄  [[dhp319-pali-pts]] 📜  [[dhp321-pali-pts]] ►

@@ -69,5 +69,6 @@ Then Rāhu, lord of the asuras, released the young deva Candimā and hurriedly
 | [[SA-2.167]], [[SA583]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.9]]
 > ◄  [[sn2.8-bodhi]] 📜  [[sn2.10-bodhi]] ►

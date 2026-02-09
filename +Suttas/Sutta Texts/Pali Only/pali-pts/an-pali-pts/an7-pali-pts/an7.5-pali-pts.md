@@ -30,12 +30,13 @@ Idha bhikkhave ariyasāvako ottappī hoti, ottappati kāyaduccaritena vacīducca
 > |  |  | A iv 4 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN7.6]], [[AN7.7]], [[THAG8.2]] |
+| [[AN7.6]], [[AN7.7]], [[THAG8]].2 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.9]], [[SN1.2]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.5]]
 > ◄  [[an7.4-pali-pts]] 📜  [[an7.6-pali-pts]] ►

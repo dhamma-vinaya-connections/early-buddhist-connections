@@ -204,15 +204,16 @@ The Discourse on the Fool and the Wise, the ninth, is concluded.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP3]]; [[DHP328]]; [[DHP329]]; [[DHP330]]; [[DHP4]]; [[DHP5]]; [[DHP6]]; [[MN31]]; [[JA371]]; [[JA428]] | [[EA24.8]]; [[MA185]]; [[MA72]] | M iii 152 |
+> |  | [[EA24.8]]; [[MA185]]; [[MA72]] | M iii 152 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA371]]; [[MA72]]; [[EA24.8]]; [[JA428]]; [[PLI-TV-KD10]]; [[DHP3]]; [[DHP328]]; [[SNP1.3]]; [[DHP329]]; [[DHP330]]; [[DHP4]]; [[DHP5]]; [[DHP6]]; [[THAG4.3]]; [[THAG8.1]]; [[UD5.9]]; [[MN31]]; [[MA185]] |
+| [[JA371]], [[MA72]], [[EA24.8]], [[JA428]], [[PLI-TV-KD10]], [[DHP\|DHP3]], [[DHP\|DHP328]], [[SNP1.3]], [[DHP\|DHP329]], [[DHP\|DHP330]], [[DHP\|DHP4]], [[DHP\|DHP5]], [[DHP\|DHP6]], [[THAG4]].3, [[THAG8]].1, [[UD5.9]], [[MN31]], [[MA185]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN48]], [[MN31]], [[MN127]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN128]]
 > ◄  [[mn127-deepseek-pali]] 📜  [[mn129-deepseek-pali]] ►

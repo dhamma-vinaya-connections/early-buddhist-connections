@@ -27,3 +27,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa20-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA20]]
+> ◄  [[sa19.15-patton]] 📜  [[sa21-patton]] ►

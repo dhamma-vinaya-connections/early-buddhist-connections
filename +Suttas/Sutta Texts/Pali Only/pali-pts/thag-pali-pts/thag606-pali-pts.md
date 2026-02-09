@@ -23,3 +23,5 @@ nābhinandāmi maraṇaṃ nābhinandāmi jīvitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag606-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG606]]
+> ◄  [[thag605-pali-pts]] 📜  [[thag607-pali-pts]] ►

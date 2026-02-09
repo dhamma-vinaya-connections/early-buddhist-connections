@@ -34,5 +34,6 @@ Paṭhamaṁ.
 | [[EA9.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.11]]
 > ◄  [[an1.10-pali-sc]] 📜  [[an1.12-pali-sc]] ►

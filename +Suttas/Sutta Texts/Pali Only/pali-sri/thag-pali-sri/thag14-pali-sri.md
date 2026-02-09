@@ -232,3 +232,5 @@ Cuddasanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag14-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG14]]
+> ◄  [[thag13-pali-sri]] 📜  [[thag15-pali-sri]] ►

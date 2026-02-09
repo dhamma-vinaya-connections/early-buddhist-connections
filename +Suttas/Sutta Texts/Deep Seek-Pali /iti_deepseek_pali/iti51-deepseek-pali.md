@@ -33,5 +33,10 @@ This too was spoken by the Blessed One, so I heard. This is the third discourse.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti51-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[ITI72]], [[ITI73]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI51]]
 > ◄  [[iti50-deepseek-pali]] 📜  [[iti52-deepseek-pali]] ►

@@ -23,3 +23,5 @@ tvañ ñeva no citta karosi brāhmaṇo tvaṃ khattiyā rājadisī karosi,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1126-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1126]]
+> ◄  [[thag1125-pali-pts]] 📜  [[thag1127-pali-pts]] ►

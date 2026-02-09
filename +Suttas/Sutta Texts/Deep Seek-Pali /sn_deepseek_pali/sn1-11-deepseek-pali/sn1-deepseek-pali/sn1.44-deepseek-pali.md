@@ -27,5 +27,10 @@ One root, two turnings, three defilements, fivefold spread; the ocean with twelv
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.44-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN54.4]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.44]]
 > ◄  [[sn1.43-deepseek-pali]] 📜  [[sn1.45-deepseek-pali]] ►

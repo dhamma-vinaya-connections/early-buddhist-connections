@@ -274,7 +274,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN10]], [[MN119]], [[MN141]] | [[EA12.1]], [[EA27.1]], [[MA31]], [[MA81]], [[MA98]] | D ii 290 |
+> |  | [[EA12.1]], [[EA27.1]], [[MA31]], [[MA81]], [[MA98]] | D ii 290 |
 > > [!check]- Partial parallels 
 > > 
 | [[MN141]], [[EA27.1]], [[MA31]], [[EA12.1]], [[MA98]], [[MN10]], [[MN119]], [[MA81]], [[SN47.1]], [[MN9]], [[PLI-TV-KD1]] |
@@ -282,7 +282,8 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN47]], [[MN119]], [[MN118]], [[MN141]]
+> - [[IDENTICALTOMN10BUTWITHITSDETAILEDEXPOSITIONOFTHEFOURNOBLETRUTHS]], [[SN47]], [[MN119]], [[MN118]], [[MN141]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN22]]
 > ◄  [[dn21-thanissaro]] 📜  [[dn26-thanissaro]] ►

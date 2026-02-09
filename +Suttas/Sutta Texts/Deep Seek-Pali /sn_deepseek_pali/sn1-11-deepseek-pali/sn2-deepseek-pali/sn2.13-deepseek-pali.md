@@ -29,3 +29,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.13]]
+> ◄  [[sn2.12-deepseek-pali]] 📜  [[sn2.14-deepseek-pali]] ►

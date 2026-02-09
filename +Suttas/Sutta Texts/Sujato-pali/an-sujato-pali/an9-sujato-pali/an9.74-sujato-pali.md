@@ -29,3 +29,5 @@ Parallel to 9:64–9:72, but formulated by way of the four right strivings.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.74-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.74]]
+> ◄  [[an9.73-sujato-pali]] 📜  [[an9.83-sujato-pali]] ►

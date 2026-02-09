@@ -30,3 +30,5 @@ Aṅgārino dāni dumā bhadante phalesino chadanaṃ vippahāya,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag526-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG526]]
+> ◄  [[thag525-pali-pts]] 📜  [[thag527-pali-pts]] ►

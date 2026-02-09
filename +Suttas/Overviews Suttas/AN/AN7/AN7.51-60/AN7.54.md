@@ -89,4 +89,5 @@ parallels_partilal: "[[MA220]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.54
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.54.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.53]]  🌐 [[AN7.55]] ►

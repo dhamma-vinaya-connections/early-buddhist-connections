@@ -23,3 +23,5 @@ māyaṃ viya aggato kataṃ supinante vasuvaṇṇapādapaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig393-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG393]]
+> ◄  [[thig392-pali-pts]] 📜  [[thig394-pali-pts]] ►

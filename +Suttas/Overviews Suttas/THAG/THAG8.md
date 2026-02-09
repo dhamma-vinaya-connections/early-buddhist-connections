@@ -99,4 +99,5 @@ even a rich person doesn’t really live.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag8
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG7]]  🌐 [[THAG9]] ►

@@ -23,3 +23,5 @@ sudhotarajapacchadaṃ subhaṃ gonakatūlikasantataṃ navaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig377-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG377]]
+> ◄  [[thig376-pali-pts]] 📜  [[thig378-pali-pts]] ►

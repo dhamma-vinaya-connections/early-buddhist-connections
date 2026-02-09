@@ -77,5 +77,6 @@ Navamaṁ.
 | [[AN8.50]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.49]]
 > ◄  [[an8.48-pali-sc]] 📜  [[an8.50-pali-sc]] ►

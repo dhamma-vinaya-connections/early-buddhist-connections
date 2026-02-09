@@ -89,4 +89,5 @@ Fruit distributor …cake distributor … dispenser of minor accessories
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.273-285
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.273-285.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.272]]  🌐 [[AN5.286]] ►

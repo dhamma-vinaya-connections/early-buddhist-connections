@@ -22,3 +22,5 @@ ajaḷo jaḷasamāno sadā carati nibbuto.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1015-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1015]]
+> ◄  [[thag1014-pali-pts]] 📜  [[thag1016-pali-pts]] ►

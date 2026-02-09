@@ -23,3 +23,5 @@ tassāhaṃ dhammam aññāya vihāsiṃ sāsane rato;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag902-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG902]]
+> ◄  [[thag901-pali-pts]] 📜  [[thag903-pali-pts]] ►

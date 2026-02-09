@@ -23,3 +23,5 @@ yaṃ kiñci sithilaṃ kammaṃ saṃkiliṭṭhañ ca yaṃ vataṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag276-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG276]]
+> ◄  [[thag275-pali-pts]] 📜  [[thag277-pali-pts]] ►

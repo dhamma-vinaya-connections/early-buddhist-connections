@@ -51,3 +51,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.333-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.333]]
+> ◄  [[an1.328-bodhi]] 📜  [[an1.348-bodhi]] ►

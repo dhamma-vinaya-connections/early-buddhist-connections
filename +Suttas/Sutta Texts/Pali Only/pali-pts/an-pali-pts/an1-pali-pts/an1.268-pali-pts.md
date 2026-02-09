@@ -36,11 +36,12 @@ anussavappasannānaṃ yadidaṃ Kāḷī upāsikā Kurara-gharikā ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN115]] | [[MA181]] | A i 26 |
+> |  | [[MA181]] | A i 26 |
 > > [!check]- Partial parallels 
 > > 
 | [[MN115]], [[MA181]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.268]]
 > ◄  [[an1.187-pali-pts]] 📜  [[an1.278-pali-pts]] ►

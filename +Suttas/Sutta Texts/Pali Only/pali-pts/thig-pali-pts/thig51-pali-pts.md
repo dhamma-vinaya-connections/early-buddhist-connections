@@ -25,3 +25,5 @@ abbuhi vata me sallaṃ duddasaṃ hadayanissitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig51-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG51]]
+> ◄  [[thig50-pali-pts]] 📜  [[thig52-pali-pts]] ►

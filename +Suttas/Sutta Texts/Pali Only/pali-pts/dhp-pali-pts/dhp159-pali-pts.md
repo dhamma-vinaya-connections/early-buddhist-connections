@@ -24,3 +24,5 @@ attā hi attano nātho, ko hi nātho paro siyā; /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp159-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP159]]
+> ◄  [[dhp158-pali-pts]] 📜  [[dhp160-pali-pts]] ►

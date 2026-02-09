@@ -44,5 +44,6 @@ On one occasion the Venerable Ānanda was dwelling among the Koliyans near the K
 | [[SA565]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.194]]
 > ◄  [[an4.193-bodhi]] 📜  [[an4.195-bodhi]] ►

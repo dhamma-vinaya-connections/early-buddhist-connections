@@ -24,3 +24,5 @@ candaṃ va vimalaṃ suddhaṃ vippasannam anāvilaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp412-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP412]]
+> ◄  [[dhp411-pali-pts]] 📜  [[dhp413-pali-pts]] ►

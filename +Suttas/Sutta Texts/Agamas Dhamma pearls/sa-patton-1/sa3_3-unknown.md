@@ -42,3 +42,5 @@ The monks said to the Buddha, “Yes, Bhagavān.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa3_3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_3]]
+> ◄  [[SA3_2]] 📜  [[SA3_4]] ►

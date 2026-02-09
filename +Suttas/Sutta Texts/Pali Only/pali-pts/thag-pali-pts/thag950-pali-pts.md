@@ -23,3 +23,5 @@ suṇohi vacanaṃ mayhaṃ isi Paṇḍarasavhaya,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag950-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG950]]
+> ◄  [[thag949-pali-pts]] 📜  [[thag951-pali-pts]] ►

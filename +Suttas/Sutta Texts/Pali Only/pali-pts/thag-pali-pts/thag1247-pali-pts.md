@@ -23,3 +23,5 @@ mahānubhāvo tevijjo cetopariyakovido
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1247-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1247]]
+> ◄  [[thag1246-pali-pts]] 📜  [[thag1248-pali-pts]] ►

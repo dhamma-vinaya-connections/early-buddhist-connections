@@ -337,5 +337,10 @@ vv. 487–509
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.5-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN3.24]], [[SN20.4]], [[AN5.53]], [[AN6.37]], [[AN8.54]], [[AN9.20]], [[ITI22]], [[ITI27]], [[ITI100]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.5]]
 > ◄  [[snp3.4-thanissaro]] 📜  [[snp3.6-thanissaro]] ►

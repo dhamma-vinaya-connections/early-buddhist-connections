@@ -24,3 +24,5 @@ sīladassanasampannaṃ dhammaṭṭhaṃ saccavādinaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp216-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP216]]
+> ◄  [[dhp215-pali-pts]] 📜  [[dhp217-pali-pts]] ►

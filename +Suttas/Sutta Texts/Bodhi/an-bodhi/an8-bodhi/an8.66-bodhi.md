@@ -44,11 +44,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN1.447-454]], [[AN8.120]] |  | A iv 306 |
+> |  |  | A iv 306 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.120]], [[AN1.447-454]], [[MN137]], [[DN16]], [[DN15]], [[MN77]], [[DN34]], [[DN33]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.66]]
 > ◄  [[an8.65-bodhi]] 📜  [[an8.67-bodhi]] ►

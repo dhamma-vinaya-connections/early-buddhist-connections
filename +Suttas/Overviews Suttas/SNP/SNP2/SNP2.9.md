@@ -94,4 +94,5 @@ of learning &understanding.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.9
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.8]]  🌐 [[SNP2.10]] ►

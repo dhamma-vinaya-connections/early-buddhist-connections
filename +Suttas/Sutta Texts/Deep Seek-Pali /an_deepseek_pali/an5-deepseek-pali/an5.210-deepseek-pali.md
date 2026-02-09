@@ -54,5 +54,6 @@ Chapter 2: The Abuser
 | [[PLI-TV-KD8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.210]]
 > ◄  [[an5.209-deepseek-pali]] 📜  [[an5.211-deepseek-pali]] ►

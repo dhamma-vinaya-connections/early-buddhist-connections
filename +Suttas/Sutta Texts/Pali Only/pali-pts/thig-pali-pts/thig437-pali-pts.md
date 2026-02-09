@@ -22,3 +22,5 @@ so 'haṃ tato cavitvā kālaṃ karitvā Sindhavāraññe |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig437-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG437]]
+> ◄  [[thig436-pali-pts]] 📜  [[thig438-pali-pts]] ►

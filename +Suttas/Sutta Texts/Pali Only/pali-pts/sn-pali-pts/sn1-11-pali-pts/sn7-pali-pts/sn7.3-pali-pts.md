@@ -55,8 +55,9 @@ Evaṃ vutte Devahito brāhmaṇo Bhagavantam etad avoca || || Abhikkantam bho G
 > |  | [[SA-2.74]], [[SA-3.25]], [[SA1151]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.74]], [[SA-3.25]], [[SA1151]], [[SN7.2]], [[SN11.4]], [[SN11.5]], [[THAG6.12]] |
+| [[SA-2.74]], [[SA-3.25]], [[SA1151]], [[SN7.2]], [[SN11.4]], [[SN11.5]], [[THAG6]].12 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.3]]
 > ◄  [[sn7.2-pali-pts]] 📜  [[sn7.4-pali-pts]] ►

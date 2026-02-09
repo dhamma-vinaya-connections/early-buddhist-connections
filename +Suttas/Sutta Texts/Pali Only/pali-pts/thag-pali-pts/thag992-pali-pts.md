@@ -25,3 +25,5 @@ niggayhavādiṃ medhāviṃ, tādisaṃ paṇḍitaṃ bhaje;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag992-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG992]]
+> ◄  [[thag991-pali-pts]] 📜  [[thag993-pali-pts]] ►

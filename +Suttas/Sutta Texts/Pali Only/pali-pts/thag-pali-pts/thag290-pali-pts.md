@@ -23,3 +23,5 @@ Yo dandhakāle tarati taraṇīye ca dandhaye,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag290-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG290]]
+> ◄  [[thag289-pali-pts]] 📜  [[thag291-pali-pts]] ►

@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[MN86]], [[SN1.36]], [[THAG16.8]]"
+parallels_partilal: "[[MN86]], [[SN1.36]], [[THAG16]].8"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP25]]  🌐 [[DN1]] ►
 
@@ -79,7 +79,7 @@ that’s who I call a brahmin
 > |  |  | Dh 108 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN86]], [[SN1.36]], [[THAG16.8]] |
+| [[MN86]], [[SN1.36]], [[THAG16]].8 |
 | ------------------------ |
 
 
@@ -99,5 +99,6 @@ that’s who I call a brahmin
 > - Sutta Central: https://suttacentral.net/dhp26/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp26
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp26.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP25]]  🌐 [[DN1]] ►

@@ -56,5 +56,6 @@ Tato tato mano nivāraye"ti.
 | [[SA-2.279]], [[SA1281]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.24]]
 > ◄  [[sn1.23-sujato-pali]] 📜  [[sn1.25-sujato-pali]] ►

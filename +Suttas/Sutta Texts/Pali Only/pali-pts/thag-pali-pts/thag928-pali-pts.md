@@ -23,3 +23,5 @@ kusalānañ ca dhammānaṃ paññāya ca parikkhayā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag928-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG928]]
+> ◄  [[thag927-pali-pts]] 📜  [[thag929-pali-pts]] ►

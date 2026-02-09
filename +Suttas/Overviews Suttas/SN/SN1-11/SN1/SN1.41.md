@@ -92,4 +92,5 @@ Merits are the support for living beings
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.41
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.41.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.40]]  🌐 [[SN1.42]] ►

@@ -24,3 +24,5 @@ paṭiccuppannadhammānaṃ yathāvālokadassano
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag421-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG421]]
+> ◄  [[thag420-pali-pts]] 📜  [[thag422-pali-pts]] ►

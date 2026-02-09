@@ -77,7 +77,7 @@ End of the third _sūtra_, _Examining One’s Own Mind_ (635 Chinese characters)
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.54]], [[AN9.6]], [[MN114]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SNP5.4]], [[AN4.41]] |
@@ -86,6 +86,7 @@ End of the third _sūtra_, _Examining One’s Own Mind_ (635 Chinese characters)
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.71]], [[AN2.30]], [[AN4.170]], [[AN4.94]], [[AN]], [[MA109]], [[MA114]], [[SN35.204]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA109]]
 > ◄  [[ma106-patton]] 📜  [[ma110-patton]] ►

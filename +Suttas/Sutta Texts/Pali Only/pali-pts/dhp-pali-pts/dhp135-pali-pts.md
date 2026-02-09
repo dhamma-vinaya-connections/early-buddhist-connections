@@ -24,3 +24,5 @@ atha pāpāni kammāni karaṃ bālo na bujjhati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp135-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP135]]
+> ◄  [[dhp134-pali-pts]] 📜  [[dhp136-pali-pts]] ►

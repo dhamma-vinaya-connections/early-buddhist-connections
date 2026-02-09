@@ -86,4 +86,5 @@ parallels_partilal: "[[JA520]], [[PE5]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp21
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp21.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP20]]  🌐 [[DHP22]] ►

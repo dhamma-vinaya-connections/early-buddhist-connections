@@ -23,3 +23,5 @@ Brahmabhūto atitulo Mārasenappamaddano
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag830-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG830]]
+> ◄  [[thag829-pali-pts]] 📜  [[thag831-pali-pts]] ►

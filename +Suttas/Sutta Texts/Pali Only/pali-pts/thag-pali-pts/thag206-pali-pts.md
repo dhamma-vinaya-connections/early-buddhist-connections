@@ -26,3 +26,5 @@ Chavipāpaka cittabhaddaka Mogharāja satataṃ samāhito,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag206-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG206]]
+> ◄  [[thag205-pali-pts]] 📜  [[thag207-pali-pts]] ►

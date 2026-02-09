@@ -36,5 +36,6 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī in
 | [[EA9.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.1]]
 > ◄  [[]] 📜  [[an1.2-bodhi]] ►

@@ -34,5 +34,6 @@ Ime kho bhikkhave satta aggī ti.
 | [[SA-2.259]], [[SA93]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.47]]
 > ◄  [[an7.46-pali-pts]] 📜  [[an7.48-pali-pts]] ►

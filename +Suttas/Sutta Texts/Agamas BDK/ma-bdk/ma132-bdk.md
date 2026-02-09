@@ -140,7 +140,7 @@ Deeply attached to continued existence, The foolish do evil deeds. In regard to 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN82]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PE9]] |
@@ -148,7 +148,8 @@ Deeply attached to continued existence, The foolish do evil deeds. In regard to 
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG16.4]]
+> - [[THAG16]].4
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA132]]
 > ◄  [[ma130-bdk]] 📜  [[ma133-bdk]] ►

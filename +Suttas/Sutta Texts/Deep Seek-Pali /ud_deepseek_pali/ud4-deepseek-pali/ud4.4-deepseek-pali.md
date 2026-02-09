@@ -67,12 +67,13 @@ Then, having understood the significance of this, on that occasion the Blessed O
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG2.36]], [[PE2]], [[PE8]] |
+| [[THAG2]].36, [[PE2]], [[PE8]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP43]]
+> - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP\|DHP43]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.4]]
 > ◄  [[ud4.3-deepseek-pali]] 📜  [[ud4.5-deepseek-pali]] ►

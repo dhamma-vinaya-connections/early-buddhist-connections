@@ -114,5 +114,6 @@ Chaṭṭhaṁ.
 | [[MA82]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.60]]
 > ◄  [[an6.59-pali-sc]] 📜  [[an6.61-pali-sc]] ►

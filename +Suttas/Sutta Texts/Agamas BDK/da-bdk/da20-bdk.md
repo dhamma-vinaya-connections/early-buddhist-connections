@@ -3013,15 +3013,16 @@ This is a offline tool, your data stays locally and is not send to any server!
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN3]], [[MN100]], [[MN36]], [[MN85]] | [[DA21]], [[DA22]], [[EA31.8]] |  |
+> |  | [[DA21]], [[DA22]], [[EA31.8]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP176]] |
+| [[DHP\|DHP176]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN17]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA20]]
 > ◄  [[da19-bdk]] 📜  [[da21-bdk]] ►

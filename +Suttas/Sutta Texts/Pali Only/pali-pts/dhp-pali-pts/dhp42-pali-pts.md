@@ -24,3 +24,5 @@ na taṃ mātā pitā kayirā aññe vāpi ca ñātakā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp42-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP42]]
+> ◄  [[dhp41-pali-pts]] 📜  [[dhp43-pali-pts]] ►

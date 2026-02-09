@@ -90,4 +90,5 @@ parallels_partilal: "[[SA-2.146]], [[SA920]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.97
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.97.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.96]]  🌐 [[AN3.98]] ►

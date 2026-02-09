@@ -24,3 +24,5 @@ yathāpi rahado gambhīro vipasanno anāvilo /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp81-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP81]]
+> ◄  [[dhp80-pali-pts]] 📜  [[dhp82-pali-pts]] ►

@@ -42,5 +42,6 @@ Then Venerable Ānanda, stirred by that deity, experienced spiritual urgency.
 | [[SA-2.361]], [[SA1341]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.5]]
 > ◄  [[sn9.4-deepseek-pali]] 📜  [[sn9.6-deepseek-pali]] ►

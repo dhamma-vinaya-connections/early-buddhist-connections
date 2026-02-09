@@ -23,3 +23,5 @@ vibhūsetvā imaṃ kāyaṃ sucittaṃ bālālapanaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig72-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG72]]
+> ◄  [[thig71-pali-pts]] 📜  [[thig73-pali-pts]] ►

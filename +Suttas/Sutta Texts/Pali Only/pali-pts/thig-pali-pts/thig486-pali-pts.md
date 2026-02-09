@@ -23,3 +23,5 @@ satta ratanāni vasseyya vuṭṭhimā dasadisā samantena |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig486-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG486]]
+> ◄  [[thig485-pali-pts]] 📜  [[thig487-pali-pts]] ►

@@ -80,7 +80,7 @@ Soon after the World-honored One returned to his hut, Venerable Sāriputta made 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN12.32]] |  | M iii 71 |
+> |  |  | M iii 71 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN20.2]] |
@@ -89,6 +89,7 @@ Soon after the World-honored One returned to his hut, Venerable Sāriputta made 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[MN74]], [[SN12.2]], [[SN12:12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA23]]
 > ◄  [[ma22-bdk]] 📜  [[ma24-bdk]] ►

@@ -31,3 +31,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti34-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI34]]
+> ◄  [[iti33-pali-sc]] 📜  [[iti35-pali-sc]] ►

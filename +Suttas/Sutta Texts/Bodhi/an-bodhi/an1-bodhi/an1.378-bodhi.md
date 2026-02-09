@@ -25,3 +25,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.378-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.378]]
+> ◄  [[an1.348-bodhi]] 📜  [[an1.394-bodhi]] ►

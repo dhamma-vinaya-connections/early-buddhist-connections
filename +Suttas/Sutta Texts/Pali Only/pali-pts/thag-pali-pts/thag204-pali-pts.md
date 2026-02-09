@@ -24,3 +24,5 @@ Kass'; indriyāni samathaṃ gatāni assā yathā sārathinā sudantā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag204-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG204]]
+> ◄  [[thag203-pali-pts]] 📜  [[thag205-pali-pts]] ►

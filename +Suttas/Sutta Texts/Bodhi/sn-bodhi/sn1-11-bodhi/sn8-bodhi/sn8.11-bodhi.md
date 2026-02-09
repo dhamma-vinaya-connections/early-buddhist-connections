@@ -46,5 +46,6 @@ Then the Venerable Vaṅgīsa extolled the Blessed One to his face with a suitab
 | [[SA-2.224]], [[SA1208]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.11]]
 > ◄  [[sn8.10-bodhi]] 📜  [[sn8.12-bodhi]] ►

@@ -23,3 +23,5 @@ vīthisaṅkārakūṭesu susāne rathiyāsu ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig133-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG133]]
+> ◄  [[thig132-pali-pts]] 📜  [[thig134-pali-pts]] ►

@@ -74,5 +74,6 @@ By these three true knowledges a brahmin is one who possesses the three true kno
 | [[MA143]], [[DN11]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
 > ◄  [[an3.59-deepseek-pali]] 📜  [[an3.61-deepseek-pali]] ►

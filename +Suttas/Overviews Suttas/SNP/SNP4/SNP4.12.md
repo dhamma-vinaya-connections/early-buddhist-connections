@@ -95,4 +95,5 @@ would argue with one who knows.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.12
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.12.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.11]]  🌐 [[SNP4.13]] ►

@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG2.36]], [[PE2]], [[PE8]]"
+parallels_partilal: "[[THAG2]].36, [[PE2]], [[PE8]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.3]]  🌐 [[UD4.5]] ►
 
@@ -73,12 +73,12 @@ whose mind is developed like this?
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG2.36]], [[PE2]], [[PE8]] |
+| [[THAG2]].36, [[PE2]], [[PE8]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP43]]
+> - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP\|DHP43]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -96,5 +96,6 @@ whose mind is developed like this?
 > - Sutta Central: https://suttacentral.net/ud4.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.4
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.4.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.3]]  🌐 [[UD4.5]] ►

@@ -23,3 +23,5 @@ ramaṇīyā araññāni, yattha na ramatī jano,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag991-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG991]]
+> ◄  [[thag990-pali-pts]] 📜  [[thag992-pali-pts]] ►

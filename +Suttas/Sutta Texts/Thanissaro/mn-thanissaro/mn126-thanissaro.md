@@ -95,5 +95,6 @@ That is what the Blessed One said. Gratified, Ven. Bhūmija delighted in the Ble
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN125]], [[SN12.25]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
 > ◄  [[mn125-thanissaro]] 📜  [[mn128-thanissaro]] ►

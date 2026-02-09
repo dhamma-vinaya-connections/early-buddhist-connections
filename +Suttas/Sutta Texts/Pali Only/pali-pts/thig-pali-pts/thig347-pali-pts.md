@@ -23,3 +23,5 @@ taṃ mañ ñātī amittā va kiṃ maṃ kāmesu yuñjatha |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig347-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG347]]
+> ◄  [[thig346-pali-pts]] 📜  [[thig348-pali-pts]] ►

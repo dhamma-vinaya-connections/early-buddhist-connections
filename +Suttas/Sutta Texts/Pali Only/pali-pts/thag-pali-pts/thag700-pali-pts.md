@@ -23,3 +23,5 @@ tath'; eva ca loke jāto buddho loke viharati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag700-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG700]]
+> ◄  [[thag699-pali-pts]] 📜  [[thag701-pali-pts]] ►

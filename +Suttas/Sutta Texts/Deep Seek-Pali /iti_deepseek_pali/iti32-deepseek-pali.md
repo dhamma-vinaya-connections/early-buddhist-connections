@@ -29,3 +29,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The Sixth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti32-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI32]]
+> ◄  [[iti31-deepseek-pali]] 📜  [[iti33-deepseek-pali]] ►

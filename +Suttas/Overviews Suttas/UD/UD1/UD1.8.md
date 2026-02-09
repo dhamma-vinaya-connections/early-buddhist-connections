@@ -92,4 +92,5 @@ they are pure, they are brahmins
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud1.8
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud1.8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.7]]  🌐 [[UD1.9]] ►

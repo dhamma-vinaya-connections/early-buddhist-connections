@@ -81,5 +81,6 @@ At Sāvatthī. Now on that occasion the bhikkhu Kokālika was sick , afflicted ,
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.9]]
 > ◄  [[sn6.8-bodhi]] 📜  [[sn6.10-bodhi]] ►

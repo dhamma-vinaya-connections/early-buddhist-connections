@@ -295,5 +295,6 @@ Tatiyo nipāto.
 | [[EA9.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.18]]
 > ◄  [[an1.17-pali-sri]] 📜  [[an2.1-pali-sri]] ►

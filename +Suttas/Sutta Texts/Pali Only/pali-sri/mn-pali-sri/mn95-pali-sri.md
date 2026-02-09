@@ -269,12 +269,13 @@ Caṅkīsuttaṃ pañcamaṃ.
 > |  |  | M ii 164 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN5.192]]; [[DN13]]; [[DN3]]; [[PLI-TV-KD6]]; [[DN4]]; [[DN5]] |
+| [[AN5.192]], [[DN13]], [[DN3]], [[PLI-TV-KD6]], [[DN4]], [[DN5]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN3.65]]; [[AN9.1]]
+> - [[AN3.65]], [[AN9.1]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN95]]
 > ◄  [[mn94-pali-sri]] 📜  [[mn96-pali-sri]] ►

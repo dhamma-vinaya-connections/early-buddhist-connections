@@ -50,5 +50,6 @@ Suffering            is one’s great danger.”
 | [[SA-2.245]], [[SA1018]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.55]]
 > ◄  [[sn1.51-thanissaro]] 📜  [[sn1.56-thanissaro]] ►

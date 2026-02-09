@@ -84,5 +84,6 @@ Vajjañca vajjato ñatvā, avajjañca avajjato; sammādiṭṭhisamādānā, sat
 | [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
 > ◄  [[dhp21-pali-sc]] 📜  [[dhp23-pali-sc]] ►

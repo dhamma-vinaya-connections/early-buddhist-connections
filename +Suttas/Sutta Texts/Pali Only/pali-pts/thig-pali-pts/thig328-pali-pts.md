@@ -24,3 +24,5 @@ uttiṭṭhapiṇḍo uñcho ca paṃsukūlañ ca cīvaraṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig328-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG328]]
+> ◄  [[thig327-pali-pts]] 📜  [[thig329-pali-pts]] ►

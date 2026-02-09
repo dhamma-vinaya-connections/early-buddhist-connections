@@ -23,3 +23,5 @@ Abhisattho va nipatati vayo, rūpam aññam iva tath'; eva santaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag117-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG117]]
+> ◄  [[thag116-pali-pts]] 📜  [[thag118-pali-pts]] ►

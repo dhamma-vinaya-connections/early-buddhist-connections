@@ -48,7 +48,8 @@ Venerable sirs, the introduction has been recited; the four rules entailing defe
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-as1-7-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#AS1-7]] |
->|       |          | [[ñanatusita-analysis#^AS1-7]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^AS1-7]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AS1-]] I 🌐 [[BU-AS1-7]]

@@ -1530,3 +1530,5 @@ End Notes
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI3]]
+> ◄  [[iti2-pali-sri]] 📜  [[iti4-pali-sri]] ►

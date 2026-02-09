@@ -23,3 +23,5 @@ akkodhano anupanāhī amāyo rittapesuṇo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag502-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG502]]
+> ◄  [[thag501-pali-pts]] 📜  [[thag503-pali-pts]] ►

@@ -23,3 +23,5 @@ sā ca tahiṃ samāpannā Anikaratto ca āgato nagaraṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig480-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG480]]
+> ◄  [[thig479-pali-pts]] 📜  [[thig481-pali-pts]] ►

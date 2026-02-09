@@ -23,3 +23,5 @@ yathāpi pabbato selo acalo supatiṭṭhito,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag999-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG999]]
+> ◄  [[thag998-pali-pts]] 📜  [[thag1000-pali-pts]] ►

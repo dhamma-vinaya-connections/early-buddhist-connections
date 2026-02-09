@@ -40,5 +40,6 @@ This too was spoken by the Blessed One—thus have I heard. This is the fifth di
 | [[SNP3.12]], [[PE2]], [[PE3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI41]]
 > ◄  [[iti40-deepseek-pali]] 📜  [[iti42-deepseek-pali]] ►

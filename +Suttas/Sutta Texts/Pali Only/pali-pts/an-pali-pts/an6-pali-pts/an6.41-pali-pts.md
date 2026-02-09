@@ -37,5 +37,6 @@ Ko nu kho bhante hetu, ko paccayo yena Tathāgate parinibbute saddhammo na cira�
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.4.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.41]]
 > ◄  [[an6.40-pali-pts]] 📜  [[an6.42-pali-pts]] ►

@@ -24,3 +24,5 @@ pheṇūpamaṃ kāyam imaṃ viditvā marīcidhammaṃ abhisambudhāno /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp45-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP45]]
+> ◄  [[dhp44-pali-pts]] 📜  [[dhp46-pali-pts]] ►

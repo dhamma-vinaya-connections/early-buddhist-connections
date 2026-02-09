@@ -23,3 +23,5 @@ sevetha pantāni senāsanāni, careyya saṃyojanavippamokkhaṃ:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag141-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG141]]
+> ◄  [[thag140-pali-pts]] 📜  [[thag142-pali-pts]] ►

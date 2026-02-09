@@ -40,11 +40,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.101]] | [[SA263]] | A iv 125 |
+> |  | [[SA263]] | A iv 125 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN22.101]], [[SA263]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.71]]
 > ◄  [[an7.70-bodhi]] 📜  [[an7.72-bodhi]] ►

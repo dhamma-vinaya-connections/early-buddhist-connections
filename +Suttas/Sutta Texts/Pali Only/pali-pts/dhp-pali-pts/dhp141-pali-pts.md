@@ -24,3 +24,5 @@ alaṃkato ce pi samaṃ careyya santo danto niyato brahmacārī /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp141-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP141]]
+> ◄  [[dhp140-pali-pts]] 📜  [[dhp142-pali-pts]] ►

@@ -293,5 +293,6 @@ Sappo soppasi nandatiṃ āyunā apare duveti.
 | [[SA1094]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
 > ◄  [[sn3.3-pali-sri]] 📜  [[sn4.2-pali-sri]] ►

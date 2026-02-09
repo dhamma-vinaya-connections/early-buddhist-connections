@@ -55,5 +55,6 @@ Koṇḍañña, an heir of the Buddha, bows at the Teacher’s feet.”
 | [[SA-2.225]], [[SA1209]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.9]]
 > ◄  [[sn8.8-deepseek-pali]] 📜  [[sn8.10-deepseek-pali]] ►

@@ -84,5 +84,6 @@ Dutiyaṁ.
 | [[SA1023]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
 > ◄  [[an6.55-pali-sc]] 📜  [[an6.57-pali-sc]] ►

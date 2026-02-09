@@ -23,3 +23,5 @@ satthaṃ vā āharissāmi, ko attho jīvitena me,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag406-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG406]]
+> ◄  [[thag405-pali-pts]] 📜  [[thag407-pali-pts]] ►

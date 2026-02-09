@@ -354,11 +354,12 @@ The monks accepted his instructions and listened.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.14]], [[AN5.205]], [[AN5.206]], [[AN9.71]], [[AN9.72]], [[AN9.82]], [[AN9.92]], [[DN33]], [[DN34]], [[MN16]] | [[DA11]], [[DA9]], [[EA51.4]], [[MA206]] |  |
+> |  | [[DA11]], [[DA9]], [[EA51.4]], [[MA206]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-BU-VB-PC83]], [[EA46.6]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA10]]
 > ◄  [[da9-patton]] 📜  [[da11-patton]] ►

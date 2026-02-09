@@ -33,5 +33,6 @@ te jhāyino sātatikā niccaṃ daḷhaparakkamā /
 | [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
 > ◄  [[dhp21-pali-pts]] 📜  [[dhp23-pali-pts]] ►

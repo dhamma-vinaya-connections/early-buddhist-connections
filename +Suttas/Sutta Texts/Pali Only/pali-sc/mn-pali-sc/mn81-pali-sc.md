@@ -198,5 +198,6 @@ Siyā kho pana te, ānanda, evamassa: ‘añño nūna tena samayena jotipālo m�
 | [[MA63]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-pali-sc]] 📜  [[mn82-pali-sc]] ►

@@ -58,5 +58,6 @@ For a third time, the Venerable Candikāputta addressed the bhikkhus: “Friends
 | [[SA499]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.26]]
 > ◄  [[an9.25-deepseek-pali]] 📜  [[an9.27-deepseek-pali]] ►

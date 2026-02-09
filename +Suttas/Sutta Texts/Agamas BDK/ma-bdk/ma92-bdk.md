@@ -30,3 +30,5 @@ You should together remember this “Discourse on the Simile of the Blue and Whi
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma92-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA92]]
+> ◄  [[ma91-bdk]] 📜  [[ma93-bdk]] ►

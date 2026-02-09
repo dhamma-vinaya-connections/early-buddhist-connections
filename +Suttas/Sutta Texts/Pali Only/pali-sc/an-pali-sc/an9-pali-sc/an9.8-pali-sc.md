@@ -32,11 +32,12 @@ Aṭṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.8]], [[DN29]] | [[DA17]] | A iv 371 |
+> |  | [[DA17]] | A iv 371 |
 > > [!check]- Partial parallels 
 > > 
 | [[DN29]], [[DA17]], [[AN9.8]], [[MN76]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.8]]
 > ◄  [[an9.7-pali-sc]] 📜  [[an9.9-pali-sc]] ►

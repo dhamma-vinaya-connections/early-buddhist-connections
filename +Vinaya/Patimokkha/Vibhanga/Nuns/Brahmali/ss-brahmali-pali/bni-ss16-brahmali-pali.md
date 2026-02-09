@@ -197,7 +197,8 @@ So bhikkhu samanubhāsitabbo.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-ss16-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SS16]] |
->|       |          | [[ñanatusita-analysis#^-SS16]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SS16]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS16]]

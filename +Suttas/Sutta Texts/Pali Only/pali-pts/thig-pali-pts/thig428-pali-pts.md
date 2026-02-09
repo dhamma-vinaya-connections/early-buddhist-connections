@@ -23,3 +23,5 @@ annena ca pānena ca khajjena ca yañ ca tattha sannihitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig428-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG428]]
+> ◄  [[thig427-pali-pts]] 📜  [[thig429-pali-pts]] ►

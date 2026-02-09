@@ -23,3 +23,5 @@ abhiññeyyaṃ abhiññātaṃ, bhāvetabbañ ca bhāvitaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag827-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG827]]
+> ◄  [[thag826-pali-pts]] 📜  [[thag828-pali-pts]] ►

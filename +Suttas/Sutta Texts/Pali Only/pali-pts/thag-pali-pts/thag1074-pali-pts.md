@@ -23,3 +23,5 @@ aseyyo seyyasamānaṃ bālo maññati attānaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1074-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1074]]
+> ◄  [[thag1073-pali-pts]] 📜  [[thag1075-pali-pts]] ►

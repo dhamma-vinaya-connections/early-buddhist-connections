@@ -45,3 +45,5 @@ My Dharma is well expounded, very widely revealing, well protected and without d
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma136-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA136]]
+> ◄  [[ma135-bdk]] 📜  [[ma137-bdk]] ►

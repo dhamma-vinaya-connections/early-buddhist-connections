@@ -34,7 +34,7 @@ sutta_teacher:
   - "Sariputta"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DN30]], [[DN33]], [[DN34]]"
+parallels_nikaya: ""
 parallels_agama: "[[DA10]], [[DA11]], [[MA59]]"
 parallels_partilal: ""
 ---
@@ -62,7 +62,7 @@ parallels_partilal: ""
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN30]], [[DN33]], [[DN34]] | [[DA10]], [[DA11]], [[MA59]] |  |
+> |  | [[DA10]], [[DA11]], [[MA59]] |  |
 > > [!check]- Partial parallels 
 > > 
 |  |
@@ -85,5 +85,6 @@ parallels_partilal: ""
 > - Sutta Central: https://suttacentral.net/da9/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA8]]  🌐 [[DA10]] ►

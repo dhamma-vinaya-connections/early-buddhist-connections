@@ -23,3 +23,5 @@ kadā nu Gaṅgaṃ Yamunaṃ Sarassatiṃ pātālakhittaṃ baḷavāmukhañ ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1103-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1103]]
+> ◄  [[thag1102-pali-pts]] 📜  [[thag1104-pali-pts]] ►

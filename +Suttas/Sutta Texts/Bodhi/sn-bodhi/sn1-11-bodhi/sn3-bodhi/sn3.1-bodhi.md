@@ -144,5 +144,6 @@ When this was said, King Pasenadi of Kosala said to the Blessed One: “Magnific
 | [[SA-2.53]], [[SA1226]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.1]]
 > ◄  [[]] 📜  [[sn3.2-bodhi]] ►

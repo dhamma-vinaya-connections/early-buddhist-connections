@@ -473,3 +473,5 @@ patto me āsavakkhayo"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG6]]
+> ◄  [[thag5-pali-sc]] 📜  [[thag7-pali-sc]] ►

@@ -63,5 +63,6 @@ icchā lokena te dasāti.
 | [[SA-2.235]], [[SA1008]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.70]]
 > ◄  [[sn1.69-pali-sc]] 📜  [[sn1.71-pali-sc]] ►

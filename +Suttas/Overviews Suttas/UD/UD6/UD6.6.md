@@ -100,4 +100,5 @@ they don’t escape transmigration
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.6
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.5]]  🌐 [[UD6.7]] ►

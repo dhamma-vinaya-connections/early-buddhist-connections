@@ -164,15 +164,16 @@ Tāsañca anekānaṁ devatāsahassānaṁ virajaṁ vītamalaṁ dhammacakkhu�
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN18.1-5]]; [[SN35.121]] | [[SA200]] | M iii 277 |
+> |  | [[SA200]] | M iii 277 |
 > > [!check]- Partial parallels 
 > > 
-| [[SN35.121]]; [[SA200]]; [[SN18.1-5]] |
+| [[SN35.121]], [[SA200]], [[SN18.1-5]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN61]]; [[MN62]], [[SN22.59]], [[SN35.28.]]
+> - [[MN61]], [[MN62]], [[SN22.59]], [[SN35.28.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN147]]
 > ◄  [[mn146-pali-sc]] 📜  [[mn148-pali-sc]] ►

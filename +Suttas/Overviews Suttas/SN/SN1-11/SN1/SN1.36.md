@@ -34,9 +34,9 @@ sutta_teacher:
   - "Devas"
 sutta_audience:
   - "Buddha"
-parallels_nikaya: "[[DHP221]], [[DHP26]], [[DHP27]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.284]], [[SA1286]]"
-parallels_partilal: "[[SA-2.284]], [[SA1286]], [[DHP221]], [[SN1.34]], [[DHP26]], [[MN86]], [[THAG16.8]], [[DHP27]]"
+parallels_partilal: "[[SA-2.284]], [[SA1286]], [[DHP\|DHP221]], [[SN1.34]], [[DHP\|DHP26]], [[MN86]], [[THAG16]].8, [[DHP\|DHP27]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.35]]  🌐 [[SN1.37]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[SA-2.284]], [[SA1286]], [[DHP221]], [[SN1.34]], [[DHP26]]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP221]], [[DHP26]], [[DHP27]] | [[SA-2.284]], [[SA1286]] |  |
+> |  | [[SA-2.284]], [[SA1286]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.284]], [[SA1286]], [[DHP221]], [[SN1.34]], [[DHP26]], [[MN86]], [[THAG16.8]], [[DHP27]] |
+| [[SA-2.284]], [[SA1286]], [[DHP\|DHP221]], [[SN1.34]], [[DHP\|DHP26]], [[MN86]], [[THAG16]].8, [[DHP\|DHP27]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA-2.284]], [[SA1286]], [[DHP221]], [[SN1.34]], [[DHP26]]
 > - Sutta Central: https://suttacentral.net/sn1.36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.36
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.36.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.35]]  🌐 [[SN1.37]] ►

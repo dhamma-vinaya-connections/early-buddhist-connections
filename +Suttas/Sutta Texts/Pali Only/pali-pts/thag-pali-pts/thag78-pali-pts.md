@@ -24,3 +24,5 @@ Sabbo rāgo pahīno me, sabbo doso samūhato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag78-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG78]]
+> ◄  [[thag77-pali-pts]] 📜  [[thag79-pali-pts]] ►

@@ -24,3 +24,5 @@ anavaṭṭhitacittassa saddhammaṃ avijānato /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp37-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP37]]
+> ◄  [[dhp36-pali-pts]] 📜  [[dhp38-pali-pts]] ►

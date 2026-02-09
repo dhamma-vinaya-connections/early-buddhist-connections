@@ -24,3 +24,5 @@ Pisunena ca kodhanena maccharinā ca vibhūtinandinā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1017-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1017]]
+> ◄  [[thag1016-pali-pts]] 📜  [[thag1018-pali-pts]] ►

@@ -25,3 +25,5 @@ Katame dve? Akkodho ca anupanāho ca … amakkho ca apaḷāso ca … anissā ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.230-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.230]]
+> ◄  [[an2.180-pali-sc]] 📜  [[an2.280-pali-sc]] ►

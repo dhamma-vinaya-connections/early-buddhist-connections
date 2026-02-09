@@ -42,5 +42,6 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN26]], [[AN3.39]], [[AN4.252]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI54]]
 > ◄  [[iti53-pali-sc]] 📜  [[iti55-pali-sc]] ►

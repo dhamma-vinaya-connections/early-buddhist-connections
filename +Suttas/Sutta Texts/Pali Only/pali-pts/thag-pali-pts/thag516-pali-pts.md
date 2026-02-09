@@ -23,3 +23,5 @@ tato ratyā vivasane suriyass'; uggamanaṃ pati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag516-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG516]]
+> ◄  [[thag515-pali-pts]] 📜  [[thag517-pali-pts]] ►

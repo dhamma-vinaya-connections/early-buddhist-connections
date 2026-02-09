@@ -23,3 +23,5 @@ uttamaṃ dhammataṃ patto sabbaloke anatthiko
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag711-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG711]]
+> ◄  [[thag710-pali-pts]] 📜  [[thag712-pali-pts]] ►

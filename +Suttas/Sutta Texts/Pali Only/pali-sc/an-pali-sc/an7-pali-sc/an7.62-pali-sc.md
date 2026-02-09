@@ -84,5 +84,6 @@ Navamaṁ.
 | [[MA138]], [[ITI22]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.62]]
 > ◄  [[an7.61-pali-sc]] 📜  [[an7.63-pali-sc]] ►

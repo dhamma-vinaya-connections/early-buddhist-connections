@@ -75,7 +75,7 @@ Dutiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.70]], [[AN8.43]] | [[EA24.6]], [[MA202]], [[SA861-863]] | A iv 251 |
+> |  | [[EA24.6]], [[MA202]], [[SA861-863]] | A iv 251 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.70]], [[MA202]], [[SA861-863]], [[AN8.43]], [[EA24.6]] |
@@ -84,6 +84,7 @@ Dutiyaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.70]], [[AN10.46]], [[UD2.10]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.42]]
 > ◄  [[an8.41-pali-sc]] 📜  [[an8.43-pali-sc]] ►

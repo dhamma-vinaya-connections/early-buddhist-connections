@@ -39,5 +39,6 @@ pajjotass'; eva nibbānaṃ, vimokho hoti cetaso ti.
 | [[SA691]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.4]]
 > ◄  [[an7.3-pali-pts]] 📜  [[an7.5-pali-pts]] ►

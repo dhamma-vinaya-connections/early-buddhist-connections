@@ -51,5 +51,6 @@ Atha kho Māro pāpimā || jānāti maṃ Kisā-Gotamī bhikkhunīti dukkhī dum
 | [[SA-2.216]], [[SA1200]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
 > ◄  [[sn5.2-pali-pts]] 📜  [[sn5.4-pali-pts]] ►

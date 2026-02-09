@@ -90,11 +90,12 @@ Susīma said to the Buddha, “Extreme pain, Bhagavān. The pain would be diffic
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN12.70]], [[SN7.5]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.70]], [[SN7.5]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA347]]
 > ◄  [[sa296-patton]] 📜  [[sa371-patton]] ►

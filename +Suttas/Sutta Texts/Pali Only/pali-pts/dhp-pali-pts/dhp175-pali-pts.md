@@ -24,3 +24,5 @@ ekaṃ dhammaṃ atītassa musāvādissa jantuno /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp175-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP175]]
+> ◄  [[dhp174-pali-pts]] 📜  [[dhp176-pali-pts]] ►

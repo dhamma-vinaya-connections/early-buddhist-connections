@@ -242,5 +242,6 @@ Excellent, venerable sir... We go to the Blessed One for refuge, and to the Dham
 | [[MA16]], [[AN4.193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
 > ◄  [[an3.64-deepseek-pali]] 📜  [[an3.66-deepseek-pali]] ►

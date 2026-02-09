@@ -23,3 +23,5 @@ Sattiyā viya omaṭṭho ḍayhamāne va matthake
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag38-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG38]]
+> ◄  [[thag37-pali-pts]] 📜  [[thag39-pali-pts]] ►

@@ -23,3 +23,5 @@ sampannaveyyākaraṇaṃ tavedaṃ samujjapaññassa samuggahītaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1271-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1271]]
+> ◄  [[thag1270-pali-pts]] 📜  [[thag1272-pali-pts]] ►

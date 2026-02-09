@@ -22,3 +22,5 @@ akampitaṃ atuliyaṃ aputhujjanasevitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig200-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG200]]
+> ◄  [[thig199-pali-pts]] 📜  [[thig201-pali-pts]] ►

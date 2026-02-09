@@ -34,5 +34,6 @@ manasā ce pasannena bhāsatī vā karoti vā /
 | [[EA52.7]], [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP1]]
 > ◄  [[]] 📜  [[dhp2-pali-pts]] ►

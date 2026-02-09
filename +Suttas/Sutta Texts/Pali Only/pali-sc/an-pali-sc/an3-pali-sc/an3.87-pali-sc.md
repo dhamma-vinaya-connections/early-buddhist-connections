@@ -42,5 +42,6 @@ Sattamaṁ.
 | [[SA820]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.87]]
 > ◄  [[an3.86-pali-sc]] 📜  [[an3.88-pali-sc]] ►

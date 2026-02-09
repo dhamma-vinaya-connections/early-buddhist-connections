@@ -23,3 +23,5 @@ anuppatto sacchikato sayaṃ dhammo anītiho;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag330-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG330]]
+> ◄  [[thag325-pali-pts]] 📜  [[thag331-pali-pts]] ►

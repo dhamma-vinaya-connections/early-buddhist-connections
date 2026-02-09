@@ -43,5 +43,6 @@ ye appamattā viharanti || namo tesam karom-ahan ti || ||
 | [[SA-2.310]], [[SA1311]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.5]]
 > ◄  [[sn2.4-pali-pts]] 📜  [[sn2.6-pali-pts]] ►

@@ -23,3 +23,5 @@ yathā kuñjaraṃ adantaṃ navaggaham aṅkusaggaho
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag356-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG356]]
+> ◄  [[thag355-pali-pts]] 📜  [[thag357-pali-pts]] ►

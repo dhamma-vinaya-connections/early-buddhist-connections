@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN3.140]], [[AN3.141]], [[AN3.142]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]]"
 parallels_partilal: "[[AN3.140]], [[SA-2.143]], [[SA917]], [[AN3.141]], [[SA-2.144]], [[SA918]], [[AN3.142]], [[SA-2.145]], [[SA919]]"
 ---
@@ -64,7 +64,7 @@ parallels_partilal: "[[AN3.140]], [[SA-2.143]], [[SA917]], [[AN3.141]], [[SA-2.1
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.140]], [[AN3.141]], [[AN3.142]] | [[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]] | A iv 397 |
+> |  | [[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]] | A iv 397 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.140]], [[SA-2.143]], [[SA917]], [[AN3.141]], [[SA-2.144]], [[SA918]], [[AN3.142]], [[SA-2.145]], [[SA919]] |
@@ -87,5 +87,6 @@ parallels_partilal: "[[AN3.140]], [[SA-2.143]], [[SA917]], [[AN3.141]], [[SA-2.1
 > - Sutta Central: https://suttacentral.net/an9.22/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.22
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.22.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.21]]  🌐 [[AN9.23]] ►

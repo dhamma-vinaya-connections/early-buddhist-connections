@@ -23,3 +23,5 @@ Pare ca naṃ pasaṃsanti attā ce asamāhito:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag158-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG158]]
+> ◄  [[thag157-pali-pts]] 📜  [[thag159-pali-pts]] ►

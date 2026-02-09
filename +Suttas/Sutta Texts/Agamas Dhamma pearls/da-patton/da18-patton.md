@@ -171,11 +171,12 @@ He replied, “I don’t know them.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN28]], [[SN47.12]] | [[SA498]] |  |
+> |  | [[SA498]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.9]], [[ITI105]], [[SNP3.12]], [[JA493]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA18]]
 > ◄  [[da17-patton]] 📜  [[da19-patton]] ►

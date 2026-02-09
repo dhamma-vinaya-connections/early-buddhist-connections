@@ -92,5 +92,6 @@ Anindito saggamupeti ṭhānan"ti.
 | [[JA424]], [[AN3.52]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.41]]
 > ◄  [[sn1.40-sujato-pali]] 📜  [[sn1.42-sujato-pali]] ►

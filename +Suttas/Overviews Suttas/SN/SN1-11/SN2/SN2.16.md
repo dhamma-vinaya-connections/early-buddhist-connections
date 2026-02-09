@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[SN1.21]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.170]], [[SA586]]"
-parallels_partilal: "[[SN1.21]], [[SA-2.170]], [[SA586]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]]"
+parallels_partilal: "[[SN1.21]], [[SA-2.170]], [[SA586]], [[THAG1]].39, [[THAG1]].40, [[THAG20]].1, [[PE2]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.15]]  🌐 [[SN2.17]] ►
 
@@ -68,10 +68,10 @@ That’s how you should know me, friend
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.21]] | [[SA-2.170]], [[SA586]] |  |
+> |  | [[SA-2.170]], [[SA586]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN1.21]], [[SA-2.170]], [[SA586]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]] |
+| [[SN1.21]], [[SA-2.170]], [[SA586]], [[THAG1]].39, [[THAG1]].40, [[THAG20]].1, [[PE2]] |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ That’s how you should know me, friend
 > - Sutta Central: https://suttacentral.net/sn2.16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.16
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.16.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.15]]  🌐 [[SN2.17]] ►

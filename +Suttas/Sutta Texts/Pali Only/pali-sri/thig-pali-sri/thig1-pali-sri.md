@@ -255,3 +255,5 @@ Ekakanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG1]]
+> ◄  [[]] 📜  [[thig2-pali-sri]] ►

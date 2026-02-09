@@ -146,8 +146,9 @@ Atha kho vassakāro brāhmaṇo magadhamahāmatto āyasmato ānandassa bhāsita�
 > |  | [[MA145]] | M iii 7 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA145]]; [[SN22.58]]; [[DN33]] |
+| [[MA145]], [[SN22.58]], [[DN33]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-pali-sc]] 📜  [[mn109-pali-sc]] ►

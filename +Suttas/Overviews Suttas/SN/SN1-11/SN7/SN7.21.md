@@ -92,4 +92,5 @@ Those speaking on Dhamma are alone the good
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.21
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.21.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.20]]  🌐 [[SN7.22]] ►

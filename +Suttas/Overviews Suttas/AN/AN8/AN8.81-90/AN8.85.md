@@ -87,4 +87,5 @@ Released, I release others from their chains
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.85
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.85.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.84]]  🌐 [[AN8.86]] ►

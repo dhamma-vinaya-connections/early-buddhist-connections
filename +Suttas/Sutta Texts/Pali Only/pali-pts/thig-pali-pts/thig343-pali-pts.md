@@ -23,3 +23,5 @@ ettha rattā pamattā ca saṃkiliṭṭhamanā narā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig343-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG343]]
+> ◄  [[thig342-pali-pts]] 📜  [[thig344-pali-pts]] ►

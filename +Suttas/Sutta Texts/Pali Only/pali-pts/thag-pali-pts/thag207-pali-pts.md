@@ -23,3 +23,5 @@ sampannasassā Magadhā kevalā iti me sutaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag207-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG207]]
+> ◄  [[thag206-pali-pts]] 📜  [[thag208-pali-pts]] ►

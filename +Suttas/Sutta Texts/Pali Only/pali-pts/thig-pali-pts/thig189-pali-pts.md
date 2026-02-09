@@ -23,3 +23,5 @@ kiṃ nu jātiṃ na rocesi jāto kāmāni bhuñjati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig189-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG189]]
+> ◄  [[thig188-pali-pts]] 📜  [[thig190-pali-pts]] ►

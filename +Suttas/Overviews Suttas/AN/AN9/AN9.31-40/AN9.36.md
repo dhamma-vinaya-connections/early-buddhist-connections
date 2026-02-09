@@ -89,4 +89,5 @@ parallels_partilal: "[[MN64]], [[MN52]], [[AN11.16]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.36
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.36.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.35]]  🌐 [[AN9.37]] ►

@@ -23,3 +23,5 @@ dummedhehi pasaṃsā ca viññūhi garahā ca yā:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag667-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG667]]
+> ◄  [[thag666-pali-pts]] 📜  [[thag668-pali-pts]] ►

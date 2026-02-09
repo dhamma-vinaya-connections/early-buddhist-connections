@@ -75,3 +75,5 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.61-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.61]]
+> ◄  [[an2.46-thanissaro]] 📜  [[an2.123-thanissaro]] ►

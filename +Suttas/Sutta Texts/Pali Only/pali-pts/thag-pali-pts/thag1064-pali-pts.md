@@ -23,3 +23,5 @@ abhivuṭṭhā rammatalā nagā isibhi sevitā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1064-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1064]]
+> ◄  [[thag1063-pali-pts]] 📜  [[thag1065-pali-pts]] ►

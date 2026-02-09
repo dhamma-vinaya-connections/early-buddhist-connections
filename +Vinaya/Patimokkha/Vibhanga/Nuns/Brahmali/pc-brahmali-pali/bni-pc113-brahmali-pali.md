@@ -141,7 +141,8 @@ Ye te bhikkhū appicchā … pe … te ujjhāyanti khiyyanti vipācenti: "Katha�
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc113-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC113]] |
->|       |          | [[ñanatusita-analysis#^-PC113]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC113]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC113]]

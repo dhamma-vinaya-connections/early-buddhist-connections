@@ -23,3 +23,5 @@ sattisūlūpamā kāmā khandhānaṃ adhikuṭṭanā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig57-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG57]]
+> ◄  [[thig56-pali-pts]] 📜  [[thig58-pali-pts]] ►

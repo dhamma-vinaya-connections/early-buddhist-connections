@@ -89,4 +89,5 @@ Merit grows by generosity
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.75
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.75.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.74]]  🌐 [[AN8.76]] ►

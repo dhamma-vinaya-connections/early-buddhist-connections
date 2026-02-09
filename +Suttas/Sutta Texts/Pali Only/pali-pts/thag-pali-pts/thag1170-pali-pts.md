@@ -23,3 +23,5 @@ ajjhāyako pi ce assa tiṇṇaṃ vedāna pāragū,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1170-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1170]]
+> ◄  [[thag1169-pali-pts]] 📜  [[thag1171-pali-pts]] ►

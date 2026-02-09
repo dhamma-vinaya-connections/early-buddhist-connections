@@ -54,5 +54,6 @@ Then King Pasenadi of Kosala gradually settled down to a nāḷika of rice. Then
 | [[SA-2.73]], [[SA1150]], [[SN3.13]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.13]]
 > ◄  [[sn3.12-deepseek-pali]] 📜  [[sn3.14-deepseek-pali]] ►

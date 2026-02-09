@@ -112,3 +112,5 @@ The monks who heard what the Buddha taught rejoiced and approved.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:da12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA12]]
+> ◄  [[da11-patton]] 📜  [[da13-patton]] ►

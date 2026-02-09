@@ -23,3 +23,5 @@ addhā daliddā ca phusanti phassaṃ, bālo ca dhīro ca tath'; eva phuṭṭho
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag782-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG782]]
+> ◄  [[thag781-pali-pts]] 📜  [[thag783-pali-pts]] ►

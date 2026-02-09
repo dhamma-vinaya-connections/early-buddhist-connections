@@ -33,5 +33,6 @@ Evam me sutaṃ. Ekaṃ samayaṃ Bhagavā Verañjāyaṃ viharati Naḷerupucim
 | [[MA157]], [[PLI-TV-BU-VB-PJ1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
 > ◄  [[an8.10-pali-pts]] 📜  [[an8.12-pali-pts]] ►

@@ -89,4 +89,5 @@ He has escaped the seamstress here.’
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.61
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.61.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.60]]  🌐 [[AN6.62]] ►

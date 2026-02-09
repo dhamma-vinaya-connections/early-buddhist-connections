@@ -95,4 +95,5 @@ guard your success, and do not be attached.
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp3
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP2]]  🌐 [[DHP4]] ►

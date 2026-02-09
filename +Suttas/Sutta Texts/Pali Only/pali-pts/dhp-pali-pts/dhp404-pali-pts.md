@@ -24,3 +24,5 @@ nidhāya daṇḍaṃ bhūtesu tasesu thāvaresu ca /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp404-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP404]]
+> ◄  [[dhp403-pali-pts]] 📜  [[dhp405-pali-pts]] ►

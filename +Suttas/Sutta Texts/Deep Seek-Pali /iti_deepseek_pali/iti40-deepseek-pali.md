@@ -33,3 +33,5 @@ This too was spoken by the Blessed One—thus have I heard. This is the fourth d
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti40-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI40]]
+> ◄  [[iti39-deepseek-pali]] 📜  [[iti41-deepseek-pali]] ►

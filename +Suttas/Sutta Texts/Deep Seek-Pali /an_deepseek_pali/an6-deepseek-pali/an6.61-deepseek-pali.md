@@ -74,5 +74,6 @@ When this was said, a certain bhikkhu said to the elder bhikkhus: “Friends, we
 | [[SA1164]], [[SNP5.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.61]]
 > ◄  [[an6.60-deepseek-pali]] 📜  [[an6.62-deepseek-pali]] ►

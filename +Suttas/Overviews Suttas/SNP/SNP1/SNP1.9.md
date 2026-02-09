@@ -39,7 +39,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Spirits"
-parallels_nikaya: "[[SN2.15]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.178]], [[SA-2.315]], [[SA-2.328]], [[SA1269]], [[SA1316]], [[SA1329]]"
 parallels_partilal: "[[SA-2.178]], [[SA1269]], [[SA-2.315]], [[SA1316]], [[SN2.15]], [[SN1.30]], [[SA1329]], [[SA-2.328]]"
 ---
@@ -73,7 +73,7 @@ the Buddha has the vision of phenomena.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN2.15]] | [[SA-2.178]], [[SA-2.315]], [[SA-2.328]], [[SA1269]], [[SA1316]], [[SA1329]] |  |
+> |  | [[SA-2.178]], [[SA-2.315]], [[SA-2.328]], [[SA1269]], [[SA1316]], [[SA1329]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.178]], [[SA1269]], [[SA-2.315]], [[SA1316]], [[SN2.15]], [[SN1.30]], [[SA1329]], [[SA-2.328]] |
@@ -96,5 +96,6 @@ the Buddha has the vision of phenomena.”
 > - Sutta Central: https://suttacentral.net/snp1.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.9
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.9.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.8]]  🌐 [[SNP1.10]] ►

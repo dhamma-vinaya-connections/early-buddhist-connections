@@ -25,3 +25,5 @@ _THERĪ-GĀTHĀ. 171_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig485-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG485]]
+> ◄  [[thig484-pali-pts]] 📜  [[thig486-pali-pts]] ►

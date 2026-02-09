@@ -36,7 +36,7 @@ sutta_audience:
   - "Buddha"
 parallels_nikaya: ""
 parallels_agama: "[[SA-2.104]], [[SA1191]]"
-parallels_partilal: "[[SA-2.104]], [[SA1191]], [[THAG2.11]]"
+parallels_partilal: "[[SA-2.104]], [[SA1191]], [[THAG2]].11"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.12]]  🌐 [[SN6.14]] ►
 
@@ -71,7 +71,7 @@ Freed from fear, liberated in the fearless
 > |  | [[SA-2.104]], [[SA1191]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.104]], [[SA1191]], [[THAG2.11]] |
+| [[SA-2.104]], [[SA1191]], [[THAG2]].11 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -94,5 +94,6 @@ Freed from fear, liberated in the fearless
 > - Sutta Central: https://suttacentral.net/sn6.13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.13
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.13.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.12]]  🌐 [[SN6.14]] ►

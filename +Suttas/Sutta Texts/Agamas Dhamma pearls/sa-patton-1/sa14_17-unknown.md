@@ -68,3 +68,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa14_17-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA14_17]]
+> ◄  [[SA14_3]] 📜  [[SA19_15]] ►

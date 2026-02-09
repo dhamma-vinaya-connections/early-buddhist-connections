@@ -44,7 +44,8 @@ The first training rule is completed.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk32-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK32]] |
->|       |          | [[ñanatusita-analysis#^SK32]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK32]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK32]]

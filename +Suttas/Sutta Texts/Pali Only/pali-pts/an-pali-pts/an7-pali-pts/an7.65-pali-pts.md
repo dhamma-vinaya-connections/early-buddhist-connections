@@ -27,11 +27,12 @@ Hirottappe bhikkhave asati hirottappavipannassa hatupaniso hoti indriyasaṃvaro
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.3]], [[AN10.4]], [[AN11.3]], [[AN11.4]], [[AN5.168]], [[AN5.21]], [[AN5.22]], [[AN5.24]], [[AN6.50]], [[AN8.81]] | [[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]] | A iv 99 |
+> |  | [[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]] | A iv 99 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[MA45]], [[AN6.50]], [[MA48]], [[AN11.4]], [[AN5.21]], [[MA49]], [[AN5.22]], [[MA50]], [[AN5.24]], [[AN5.168]], [[MA46]], [[SA495]], [[AN10.4]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.65]]
 > ◄  [[an7.64-pali-pts]] 📜  [[an7.66-pali-pts]] ►

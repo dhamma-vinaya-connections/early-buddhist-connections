@@ -676,7 +676,7 @@ all rejoiced and respectfully carried out what was taught by the Buddha.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN21]] | [[MA134]] |  |
+> |  | [[MA134]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN98]], [[SNP3.9]] |
@@ -685,6 +685,7 @@ all rejoiced and respectfully carried out what was taught by the Buddha.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN140]], [[MN162]], [[SN12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA14]]
 > ◄  [[da13-bdk]] 📜  [[da15-bdk]] ►

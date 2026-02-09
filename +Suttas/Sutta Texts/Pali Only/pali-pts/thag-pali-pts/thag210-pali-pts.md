@@ -24,3 +24,5 @@ Nadanti morā susikhā supekhuṇā sunīlagīvā sumukhā sugajjino,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag210-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG210]]
+> ◄  [[thag209-pali-pts]] 📜  [[thag211-pali-pts]] ►

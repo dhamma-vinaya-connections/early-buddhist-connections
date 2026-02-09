@@ -23,3 +23,5 @@ jānāmi attano satta jātiyo yassā yaṃ phalaṃ vipāko |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig433-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG433]]
+> ◄  [[thig432-pali-pts]] 📜  [[thig434-pali-pts]] ►

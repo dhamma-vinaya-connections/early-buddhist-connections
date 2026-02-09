@@ -46,5 +46,6 @@ When this was said, the brahmin Bhāradvāja the Builder said to the Blessed One
 | [[SA-2.96]], [[SA1182]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.17]]
 > ◄  [[sn7.16-deepseek-pali]] 📜  [[sn7.18-deepseek-pali]] ►

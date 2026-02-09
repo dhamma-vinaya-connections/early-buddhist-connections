@@ -23,3 +23,5 @@ so 'haṃ padhānapahitatto rattindivam atandito |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig211-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG211]]
+> ◄  [[thig210-pali-pts]] 📜  [[thig212-pali-pts]] ►

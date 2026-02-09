@@ -23,3 +23,5 @@ brahmajacco pure āsiṃ, udicco ubhato ahuṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag888-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG888]]
+> ◄  [[thag887-pali-pts]] 📜  [[thag889-pali-pts]] ►

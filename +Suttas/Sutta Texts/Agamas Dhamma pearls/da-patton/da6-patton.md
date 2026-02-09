@@ -222,7 +222,7 @@ Translated by Charles Patton
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN26]] | [[MA70]] |  |
+> |  | [[MA70]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA15]] |
@@ -231,6 +231,7 @@ Translated by Charles Patton
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA6]]
 > ◄  [[da5-patton]] 📜  [[da7-patton]] ►

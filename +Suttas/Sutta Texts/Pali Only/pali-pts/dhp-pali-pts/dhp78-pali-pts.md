@@ -24,3 +24,5 @@ dhammapīti sukhaṃ seti vipasannena cetasā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp78-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP78]]
+> ◄  [[dhp77-pali-pts]] 📜  [[dhp79-pali-pts]] ►

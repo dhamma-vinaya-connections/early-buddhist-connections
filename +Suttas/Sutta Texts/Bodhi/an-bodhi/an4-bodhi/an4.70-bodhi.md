@@ -76,5 +76,6 @@ if the king is righteous.
 | [[EA17.11]], [[JA334]], [[JA527]], [[JA528]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.70]]
 > ◄  [[an4.69-bodhi]] 📜  [[an4.71-bodhi]] ►

@@ -39,3 +39,5 @@ The Fifth Section.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.166-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.166]]
+> ◄  [[an1.165-deepseek-pali]] 📜  [[an1.167-deepseek-pali]] ►

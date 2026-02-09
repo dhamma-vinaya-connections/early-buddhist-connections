@@ -23,3 +23,5 @@ Manujassa pamattacārino taṇhā vaḍḍhati māḷuvā viyā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag398-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG398]]
+> ◄  [[thag397-pali-pts]] 📜  [[thag399-pali-pts]] ►

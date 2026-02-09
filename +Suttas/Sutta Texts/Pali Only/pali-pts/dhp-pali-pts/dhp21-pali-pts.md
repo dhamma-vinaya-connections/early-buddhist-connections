@@ -33,5 +33,6 @@ etaṃ visesato ñatvā appamādamhi paṇḍitā /
 | [[JA520]], [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP21]]
 > ◄  [[dhp20-pali-pts]] 📜  [[dhp22-pali-pts]] ►

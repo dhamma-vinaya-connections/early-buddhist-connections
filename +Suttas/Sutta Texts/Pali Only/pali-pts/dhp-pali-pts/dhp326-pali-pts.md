@@ -24,3 +24,5 @@ appamādaratā hotha, sacittam anurakkhatha, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp326-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP326]]
+> ◄  [[dhp325-pali-pts]] 📜  [[dhp327-pali-pts]] ►

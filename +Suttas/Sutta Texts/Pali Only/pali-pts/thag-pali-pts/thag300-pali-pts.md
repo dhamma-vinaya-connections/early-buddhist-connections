@@ -24,3 +24,5 @@ Dhammo have rakkhati dhammacāriṃ, dhammo suciṇṇo sukham āvahāti:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag300-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG300]]
+> ◄  [[thag299-pali-pts]] 📜  [[thag303-pali-pts]] ►

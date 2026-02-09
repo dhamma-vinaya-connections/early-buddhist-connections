@@ -23,3 +23,5 @@ mālute upavāyante sīte surabhigandhake
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag543-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG543]]
+> ◄  [[thag542-pali-pts]] 📜  [[thag544-pali-pts]] ►

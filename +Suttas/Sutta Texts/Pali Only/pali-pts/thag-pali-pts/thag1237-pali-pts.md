@@ -23,3 +23,5 @@ parosahassaṃ bhikkhūnaṃ sugataṃ payirupāsati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1237-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1237]]
+> ◄  [[thag1236-pali-pts]] 📜  [[thag1238-pali-pts]] ►

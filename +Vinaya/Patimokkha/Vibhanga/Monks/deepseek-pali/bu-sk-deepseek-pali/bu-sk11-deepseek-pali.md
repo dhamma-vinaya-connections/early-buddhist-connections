@@ -48,7 +48,8 @@ The First Chapter on Proper Robe-Wearing.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk11-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK11]] |
->|       |          | [[ñanatusita-analysis#^SK11]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK11]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK11]]

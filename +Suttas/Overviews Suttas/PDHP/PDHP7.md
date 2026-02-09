@@ -95,4 +95,5 @@ having abandoned victory and defeat.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp7
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP6]]  🌐 [[PDHP8]] ►

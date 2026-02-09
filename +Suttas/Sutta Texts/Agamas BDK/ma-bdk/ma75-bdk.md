@@ -39,13 +39,10 @@ Thus spoke the Buddha. Having heard what the Buddha said, Venerable Ānanda and 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma75-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN106]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA76]], [[MN140]], [[SN22.55]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA75]]
 > ◄  [[ma74-bdk]] 📜  [[ma76-bdk]] ►

@@ -23,3 +23,5 @@ Atisītaṃ atiuṇhaṃ atisāyam idaṃ ahū,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag230-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG230]]
+> ◄  [[thag229-pali-pts]] 📜  [[thag231-pali-pts]] ►

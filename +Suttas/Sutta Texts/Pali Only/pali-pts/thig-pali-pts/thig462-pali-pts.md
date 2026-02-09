@@ -23,3 +23,5 @@ aggamahesī bhavissasi Anikarattassa rājino bhariyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig462-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG462]]
+> ◄  [[thig461-pali-pts]] 📜  [[thig463-pali-pts]] ►

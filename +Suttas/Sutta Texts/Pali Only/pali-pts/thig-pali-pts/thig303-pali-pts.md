@@ -25,3 +25,5 @@ _THERĪ-GĀTHĀ. 153_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig303-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG303]]
+> ◄  [[thig302-pali-pts]] 📜  [[thig304-pali-pts]] ►

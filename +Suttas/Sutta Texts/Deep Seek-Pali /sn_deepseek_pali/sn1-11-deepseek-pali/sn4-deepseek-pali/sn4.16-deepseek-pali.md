@@ -54,5 +54,6 @@ Then Māra the Evil One… …vanished right there.
 | [[SA1102]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
 > ◄  [[sn4.15-deepseek-pali]] 📜  [[sn4.17-deepseek-pali]] ►

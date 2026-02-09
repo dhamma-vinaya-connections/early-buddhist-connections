@@ -24,3 +24,5 @@ ye ca kho sammadakkhāte dhamme dhammānuvattino /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp85-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP85]]
+> ◄  [[dhp84-pali-pts]] 📜  [[dhp86-pali-pts]] ►

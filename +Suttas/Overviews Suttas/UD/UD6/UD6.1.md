@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-parallels_nikaya: "[[AN8.68-70]], [[AN8.70]], [[DN16]], [[SN51.10]], [[UD8.5]], [[UD8.6]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA42.5]], [[MA36]]"
 parallels_partilal: "[[DN16]], [[AN8.70]], [[SN51.10]], [[AN8.68-70]], [[DA2]], [[UD8.5]], [[UD8.6]], [[MA36]], [[EA42.5]], [[PE3]]"
 ---
@@ -65,7 +65,7 @@ he shattered self-creation like a suit of armor
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.68-70]], [[AN8.70]], [[DN16]], [[SN51.10]], [[UD8.5]], [[UD8.6]] | [[EA42.5]], [[MA36]] |  |
+> |  | [[EA42.5]], [[MA36]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN16]], [[AN8.70]], [[SN51.10]], [[AN8.68-70]], [[DA2]], [[UD8.5]], [[UD8.6]], [[MA36]], [[EA42.5]], [[PE3]] |
@@ -91,5 +91,6 @@ he shattered self-creation like a suit of armor
 > - Sutta Central: https://suttacentral.net/ud6.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.1
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.1.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.10]]  🌐 [[UD6.2]] ►

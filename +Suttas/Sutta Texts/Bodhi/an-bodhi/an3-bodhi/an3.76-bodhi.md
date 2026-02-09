@@ -53,5 +53,6 @@ Then the Venerable Ānanda approached the Blessed One, paid homage to him, sat d
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.54]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.76]]
 > ◄  [[an3.75-bodhi]] 📜  [[an3.77-bodhi]] ►

@@ -23,3 +23,5 @@ khandhadhātuāyatanaṃ saṅkhataṃ jātimūlakaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig471-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG471]]
+> ◄  [[thig470-pali-pts]] 📜  [[thig472-pali-pts]] ►

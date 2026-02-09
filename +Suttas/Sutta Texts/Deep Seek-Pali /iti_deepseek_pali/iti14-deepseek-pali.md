@@ -32,3 +32,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The fifth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti14-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI14]]
+> ◄  [[iti13-deepseek-pali]] 📜  [[iti15-deepseek-pali]] ►

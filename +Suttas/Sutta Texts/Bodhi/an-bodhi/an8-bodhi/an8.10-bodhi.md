@@ -92,5 +92,6 @@ you will make an end of suffering.
 | [[MA122]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
 > ◄  [[an8.9-bodhi]] 📜  [[an8.11-bodhi]] ►

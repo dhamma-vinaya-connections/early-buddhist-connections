@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG18.1]], [[AN2.8]]"
+parallels_partilal: "[[THAG18]].1, [[AN2.8]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI41]]  🌐 [[ITI43]] ►
 
@@ -65,7 +65,7 @@ parallels_partilal: "[[THAG18.1]], [[AN2.8]]"
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG18.1]], [[AN2.8]] |
+| [[THAG18]].1, [[AN2.8]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[THAG18.1]], [[AN2.8]]"
 > - Sutta Central: https://suttacentral.net/iti42/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti42
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti42.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI41]]  🌐 [[ITI43]] ►

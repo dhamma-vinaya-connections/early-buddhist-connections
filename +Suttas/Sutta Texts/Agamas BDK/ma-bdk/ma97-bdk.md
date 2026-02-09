@@ -117,10 +117,11 @@ the liberation of the cessation of perception and knowing, and seeing with wisdo
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN15]] | [[DA13]] | M i 353 |
+> |  | [[DA13]] | M i 353 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA97]]
 > ◄  [[ma96-bdk]] 📜  [[ma98-bdk]] ►

@@ -503,7 +503,8 @@ tena cattamano ahūti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc98-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC98]] |
->|       |          | [[ñanatusita-analysis#^-PC98]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC98]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC98]]

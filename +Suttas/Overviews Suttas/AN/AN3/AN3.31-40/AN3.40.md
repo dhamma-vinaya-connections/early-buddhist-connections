@@ -88,4 +88,5 @@ With the teaching in charge, live in line with that teaching:
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.40
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.40.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.39]]  🌐 [[AN3.41]] ►

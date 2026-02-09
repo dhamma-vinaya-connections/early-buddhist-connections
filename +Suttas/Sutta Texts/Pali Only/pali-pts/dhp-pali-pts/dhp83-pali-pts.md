@@ -24,3 +24,5 @@ na attahetu na parassa hetu na puttam icche na dhanaṃ na raṭṭhaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp83-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP83]]
+> ◄  [[dhp82-pali-pts]] 📜  [[dhp84-pali-pts]] ►

@@ -23,3 +23,5 @@ asaṃhīraṃ asaṃkuppaṃ cittaṃ āmodayām'; ahaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag648-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG648]]
+> ◄  [[thag647-pali-pts]] 📜  [[thag649-pali-pts]] ►

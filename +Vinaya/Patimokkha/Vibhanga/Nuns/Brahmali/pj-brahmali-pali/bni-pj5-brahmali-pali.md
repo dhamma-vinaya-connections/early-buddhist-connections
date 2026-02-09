@@ -295,7 +295,8 @@ p_2V_2132 Nissaggiyena kāyaṁ āmasati, āpatti dukkaṭassa. Nissaggiyena kā
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pj5-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PJ5]] |
->|       |          | [[ñanatusita-analysis#^-PJ5]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PJ5]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ5]]

@@ -39,5 +39,6 @@ Catutthaṁ.
 | [[DN31]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.64]]
 > ◄  [[an4.63-pali-sc]] 📜  [[an4.65-pali-sc]] ►

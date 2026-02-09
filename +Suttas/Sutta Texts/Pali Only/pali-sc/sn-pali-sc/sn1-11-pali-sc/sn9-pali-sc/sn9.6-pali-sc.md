@@ -67,5 +67,6 @@ natthi dāni punabbhavo"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.1]], [[SN9.14.SN5.7]], [[SN6.15.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.6]]
 > ◄  [[sn9.5-pali-sc]] 📜  [[sn9.7-pali-sc]] ►

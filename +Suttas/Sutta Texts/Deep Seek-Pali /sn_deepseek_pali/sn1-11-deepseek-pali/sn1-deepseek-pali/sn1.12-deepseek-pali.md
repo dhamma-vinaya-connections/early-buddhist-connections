@@ -39,11 +39,12 @@ but he who has no possessions grieves not.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN4.8]] | [[SA-2.142]], [[SA1004]] |  |
+> |  | [[SA-2.142]], [[SA1004]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.142]], [[SA1004]], [[SN4.8]], [[SNP1.2]], [[PE2]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.12]]
 > ◄  [[sn1.11-deepseek-pali]] 📜  [[sn1.13-deepseek-pali]] ►

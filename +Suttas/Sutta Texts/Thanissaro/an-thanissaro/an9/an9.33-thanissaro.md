@@ -74,5 +74,6 @@ The Blessed One said, “And what, monks, are the nine step-by-step dwelling-att
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.34]], [[SN36.11]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.33]]
 > ◄  [[an9.32-thanissaro]] 📜  [[an9.34-thanissaro]] ►

@@ -25,3 +25,5 @@ Vaggo paṭhamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.297-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.297]]
+> ◄  [[an1.296-pali-sc]] 📜  [[an1.306-pali-sc]] ►

@@ -23,3 +23,5 @@ taṃ maṃ tato satthavāho ussannāya vipulāya vaḍḍhiyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig443-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG443]]
+> ◄  [[thig442-pali-pts]] 📜  [[thig444-pali-pts]] ►

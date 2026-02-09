@@ -62,11 +62,12 @@ Paṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.133]] |  | A ii 170 |
+> |  |  | A ii 170 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.133]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.181]]
 > ◄  [[an4.180-sujato-pali]] 📜  [[an4.182-sujato-pali]] ►

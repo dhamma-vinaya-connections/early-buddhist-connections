@@ -50,7 +50,7 @@ unaware of them. Ānanda, the Tathāgata is aware of thoughts... of perceptions 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.127]], [[MN123]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.14]] |
@@ -59,6 +59,7 @@ unaware of them. Ānanda, the Tathāgata is aware of thoughts... of perceptions 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.127]], [[AN8.70]], [[MA36]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA32]]
 > ◄  [[ma31-bdk]] 📜  [[ma33-bdk]] ►

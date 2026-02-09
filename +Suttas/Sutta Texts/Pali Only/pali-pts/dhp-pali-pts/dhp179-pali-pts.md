@@ -24,3 +24,5 @@ yassa jālinī visattikā taṇhā n'; atthi kuhiñci netave /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp179-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP179]]
+> ◄  [[dhp178-pali-pts]] 📜  [[dhp180-pali-pts]] ►

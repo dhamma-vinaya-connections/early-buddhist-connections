@@ -24,3 +24,5 @@ ucce kule ahaṃ jātā bahuvitte mahaddhane |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig150-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG150]]
+> ◄  [[thig149-pali-pts]] 📜  [[thig151-pali-pts]] ►

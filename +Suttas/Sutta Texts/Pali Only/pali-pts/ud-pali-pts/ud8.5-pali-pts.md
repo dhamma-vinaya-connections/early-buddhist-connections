@@ -39,7 +39,7 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Magadhesu cārikañ caramāno mahatā
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.68-70]], [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.6]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN16]], [[AN8.68-70]], [[DA2]], [[UD6.1]], [[UD8.6]], [[SN51.10]], [[AN10.176]], [[PE2]], [[PE8]] |
@@ -48,6 +48,7 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Magadhesu cārikañ caramāno mahatā
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[AN10:176]], [[SN1.5]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.5]]
 > ◄  [[ud7.8-pali-pts]] 📜  [[ud8.6-pali-pts]] ►

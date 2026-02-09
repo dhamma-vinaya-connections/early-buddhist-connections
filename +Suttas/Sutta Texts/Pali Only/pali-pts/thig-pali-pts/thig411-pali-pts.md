@@ -23,3 +23,5 @@ sayam eva odanaṃ sādhayāmi sayam eva bhājanaṃ dhoviṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig411-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG411]]
+> ◄  [[thig410-pali-pts]] 📜  [[thig412-pali-pts]] ►

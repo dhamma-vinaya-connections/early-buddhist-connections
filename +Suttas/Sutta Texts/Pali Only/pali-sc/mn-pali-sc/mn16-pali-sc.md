@@ -102,11 +102,12 @@ Kiñcāpi tassā kukkuṭiyā na evaṁ icchā uppajjeyya: ‘aho vatime kukku�
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.205]]; [[AN5.206]]; [[AN9.71]]; [[AN9.72]]; [[AN9.82]]; [[AN9.92]] | [[EA51.4]]; [[MA206]] | M i 101 |
+> |  | [[EA51.4]]; [[MA206]] | M i 101 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN5.205]]; [[DN33]]; [[AN9.71]]; [[DN34]]; [[DA10]]; [[AN10.14]]; [[EA51.4]]; [[MA206]]; [[AN5.206]]; [[AN9.72]]; [[AN9.82]]; [[AN9.92]]; [[MN53]] |
+| [[AN5.205]], [[DN33]], [[AN9.71]], [[DN34]], [[DA10]], [[AN10.14]], [[EA51.4]], [[MA206]], [[AN5.206]], [[AN9.72]], [[AN9.82]], [[AN9.92]], [[MN53]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN16]]
 > ◄  [[mn15-pali-sc]] 📜  [[mn17-pali-sc]] ►

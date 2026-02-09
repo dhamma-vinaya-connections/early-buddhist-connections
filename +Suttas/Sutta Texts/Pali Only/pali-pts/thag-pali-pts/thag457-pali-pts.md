@@ -23,3 +23,5 @@ kāmesv ādīnavaṃ disvā nekkhammaṃ daṭṭhu khemato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag457-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG457]]
+> ◄  [[thag456-pali-pts]] 📜  [[thag458-pali-pts]] ►

@@ -76,7 +76,8 @@ Knowing living beings, complaining, the two who departed; having previously pull
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc20-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC20]] |
->|       |          | [[ñanatusita-analysis#^PC20]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC20]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC20]]

@@ -126,6 +126,6 @@ They answered, “Good people are its cultivation.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.61]], [[AN10.62]] | [[MA52]], [[MA53]] |  |
+> |  | [[MA52]], [[MA53]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA51]]
 > ◄  [[ma50-patton]] 📜  [[ma55-patton]] ►

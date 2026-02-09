@@ -87,3 +87,5 @@ sabbaso taṁ vivajjaye"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.76-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.76]]
+> ◄  [[sn1.75-sujato-pali]] 📜  [[sn1.77-sujato-pali]] ►

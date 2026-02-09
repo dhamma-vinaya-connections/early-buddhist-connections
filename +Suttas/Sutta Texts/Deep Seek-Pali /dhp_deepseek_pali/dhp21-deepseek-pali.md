@@ -111,5 +111,6 @@ The Miscellaneous Chapter, the twenty-first, is concluded.
 | [[JA520]], [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP21]]
 > ◄  [[dhp20-deepseek-pali]] 📜  [[dhp22-deepseek-pali]] ►

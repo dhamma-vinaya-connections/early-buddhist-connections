@@ -31,3 +31,5 @@ Kadā nu 'haṃ pabbatakandarāsu ekākiyo addutiyo vihassaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1090-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1090]]
+> ◄  [[thag1089-pali-pts]] 📜  [[thag1091-pali-pts]] ►

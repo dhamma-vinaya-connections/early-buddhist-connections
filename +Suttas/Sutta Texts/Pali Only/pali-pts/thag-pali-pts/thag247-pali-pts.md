@@ -23,3 +23,5 @@ paccati munino bhattaṃ thokaṃ thokaṃ kule kule;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag247-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG247]]
+> ◄  [[thag246-pali-pts]] 📜  [[thag248-pali-pts]] ►

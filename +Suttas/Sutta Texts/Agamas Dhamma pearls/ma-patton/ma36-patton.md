@@ -86,7 +86,7 @@ The Bhagavān said to Venerable Ānanda, “Yes, Ānanda! Yes, Ānanda! The virt
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.70]], [[DN16]], [[SN51.10]] | [[EA42.5]] |  |
+> |  | [[EA42.5]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.55-56]], [[SN12.58]] |
@@ -95,6 +95,7 @@ The Bhagavān said to Venerable Ānanda, “Yes, Ānanda! Yes, Ānanda! The virt
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[MN123]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA36]]
 > ◄  [[ma34-patton]] 📜  [[ma41-patton]] ►

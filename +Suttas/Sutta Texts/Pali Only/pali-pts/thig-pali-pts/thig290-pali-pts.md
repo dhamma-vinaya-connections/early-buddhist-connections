@@ -24,3 +24,5 @@ laṭṭhihattho pure āsiṃ so dāni migaluddako |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig290-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG290]]
+> ◄  [[thig289-pali-pts]] 📜  [[thig291-pali-pts]] ►

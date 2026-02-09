@@ -23,3 +23,5 @@ saddhena ca pesalena ca paññavatā bahussutena ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1018-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1018]]
+> ◄  [[thag1017-pali-pts]] 📜  [[thag1019-pali-pts]] ►

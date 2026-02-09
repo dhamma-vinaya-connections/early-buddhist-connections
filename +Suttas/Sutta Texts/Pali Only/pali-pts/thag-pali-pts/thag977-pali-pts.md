@@ -23,3 +23,5 @@ purā āgacchate etaṃ anāgataṃ mahabbhayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag977-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG977]]
+> ◄  [[thag976-pali-pts]] 📜  [[thag978-pali-pts]] ►

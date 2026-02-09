@@ -48,7 +48,7 @@ vin_gender-corr: "BNI-SK46"
 >| Vibhanga | BMC    | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk46-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK46]] |
->| [[bu-sk46-deepseek-pali]]      |   [[The_Concise_Buddhist_Monastic_Code_1.pdf|BMC1 Concise]]       | [[ñanatusita-analysis#^SK46]]    |
+>| [[bu-sk46-deepseek-pali]]      | [[bmc1-concise]]        | [[ñanatusita-analysis#^SK46]]    |
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
@@ -69,5 +69,6 @@ vin_gender-corr: "BNI-SK46"
 > [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-sk?view=normal
+
 
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BU]] I ◄  [[BNI-SK46]] 🌐 [[BNI-SK47]] ►

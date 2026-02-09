@@ -125,7 +125,8 @@ Anupasampannāya upasampannasaññā, āpatti dukkaṭassa. Anupasampannāya vem
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-np3-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-NP3]] |
->|       |          | [[ñanatusita-analysis#^-NP3]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-NP3]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP3]]

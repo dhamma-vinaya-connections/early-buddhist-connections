@@ -23,3 +23,5 @@ buddhassa putto 'mhi asayhasāhino Aṅgīrasass'; appaṭimassa tādino,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag535-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG535]]
+> ◄  [[thag534-pali-pts]] 📜  [[thag536-pali-pts]] ►

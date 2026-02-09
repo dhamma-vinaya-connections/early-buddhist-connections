@@ -24,3 +24,5 @@ yāvajīvam pi ce bālo paṇḍitaṃ payirupāsati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp63-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP63]]
+> ◄  [[dhp62-pali-pts]] 📜  [[dhp64-pali-pts]] ►

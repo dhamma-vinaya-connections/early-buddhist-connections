@@ -55,5 +55,6 @@ Then the Venerable Nāgadatta, stirred up by that deity, acquired a sense of urg
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.7]]
 > ◄  [[sn9.6-bodhi]] 📜  [[sn9.8-bodhi]] ►

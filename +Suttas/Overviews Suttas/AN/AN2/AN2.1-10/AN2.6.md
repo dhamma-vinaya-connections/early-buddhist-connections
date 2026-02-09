@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[MN41]], [[MN42]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA1042]], [[SA1043]]"
 parallels_partilal: "[[MN41]], [[MN42]], [[SA1042]], [[SA1043]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[MN41]], [[MN42]], [[SA1042]], [[SA1043]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN41]], [[MN42]] | [[SA1042]], [[SA1043]] | A i 50 |
+> |  | [[SA1042]], [[SA1043]] | A i 50 |
 > > [!check]- Partial parallels 
 > > 
 | [[MN41]], [[MN42]], [[SA1042]], [[SA1043]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[MN41]], [[MN42]], [[SA1042]], [[SA1043]]"
 > - Sutta Central: https://suttacentral.net/an2.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.6
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.5]]  🌐 [[AN2.7]] ►

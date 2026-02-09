@@ -71,12 +71,13 @@ This is what Venerable Sāriputta said. Pleased, the bhikkhus delighted in what 
 > |  | [[EA18.3]]; [[MA88]] | M i 12 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA18.3]]; [[MA88]] |
+| [[EA18.3]], [[MA88]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN5]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN3]]
 > ◄  [[mn2-anigha]] 📜  [[mn4-anigha]] ►

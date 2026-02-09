@@ -23,3 +23,5 @@ sabbe kāmā pahīnā me, bhavā sabbe padālitā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag253-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG253]]
+> ◄  [[thag252-pali-pts]] 📜  [[thag254-pali-pts]] ►

@@ -23,3 +23,5 @@ madhurañ ca pavanti sabbaso kusumarajena samuddhatā dumā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig370-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG370]]
+> ◄  [[thig369-pali-pts]] 📜  [[thig371-pali-pts]] ►

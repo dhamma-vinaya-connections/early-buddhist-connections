@@ -94,4 +94,5 @@ For the sake of knowledge and clarity.
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.67
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.67.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.66]]  🌐 [[AN3.68]] ►

@@ -33,5 +33,6 @@ anikkasāvo kāsāvaṃ yo vatthaṃ paridahessati /
 | [[PE3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP8]]
 > ◄  [[dhp7-pali-pts]] 📜  [[dhp9-pali-pts]] ►

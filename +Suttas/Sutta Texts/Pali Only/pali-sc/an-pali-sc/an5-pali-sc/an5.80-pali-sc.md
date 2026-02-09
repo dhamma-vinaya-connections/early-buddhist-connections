@@ -52,5 +52,6 @@ cattāro ca anāgatāti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN16.13]], [[AN5.77]], [[AN5.78]], [[AN5.79]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.80]]
 > ◄  [[an5.79-pali-sc]] 📜  [[an5.81-pali-sc]] ►

@@ -23,3 +23,5 @@ saccaṃ ve amatā vācā, esa dhammo sanantano;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1228-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1228]]
+> ◄  [[thag1227-pali-pts]] 📜  [[thag1229-pali-pts]] ►

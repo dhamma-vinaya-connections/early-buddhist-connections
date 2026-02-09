@@ -25,3 +25,5 @@ taṇhāya mūlaṃ khaṇatha usīrattho va bīraṇaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag401-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG401]]
+> ◄  [[thag400-pali-pts]] 📜  [[thag402-pali-pts]] ►

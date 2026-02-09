@@ -40,11 +40,12 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP131]], [[DHP132]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP131]], [[DHP132]] |
+| [[DHP\|DHP131]], [[DHP\|DHP132]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.3]]
 > ◄  [[ud1.10-pali-pts]] 📜  [[ud2.6-pali-pts]] ►

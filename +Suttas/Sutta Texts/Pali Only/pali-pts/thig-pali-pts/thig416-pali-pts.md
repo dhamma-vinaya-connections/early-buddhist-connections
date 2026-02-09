@@ -23,3 +23,5 @@ tassa vacanaṃ suṇitvā sassū sassuro ca me apucchiṃsu |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig416-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG416]]
+> ◄  [[thig415-pali-pts]] 📜  [[thig417-pali-pts]] ►

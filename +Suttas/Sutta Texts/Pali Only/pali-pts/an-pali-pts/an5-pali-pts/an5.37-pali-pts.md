@@ -33,5 +33,6 @@ Bhojanaṃ bhikkhave dadamāno dāyako paṭiggāhakānaṃ pañca ṭhānāni d
 | [[EA32.11]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.37]]
 > ◄  [[an5.36-pali-pts]] 📜  [[an5.38-pali-pts]] ►

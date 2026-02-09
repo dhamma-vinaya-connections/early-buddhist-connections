@@ -24,3 +24,5 @@ sahassam api ce vācā anatthapadasaṃhitā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp99-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP99]]
+> ◄  [[dhp98-pali-pts]] 📜  [[dhp100-pali-pts]] ►

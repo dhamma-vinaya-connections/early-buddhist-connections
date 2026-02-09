@@ -86,4 +86,5 @@ parallels_partilal: "[[SA-2.301]], [[SA1302]], [[JA537]], [[SN1.31]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.21
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.21.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.20]]  🌐 [[SN2.22]] ►

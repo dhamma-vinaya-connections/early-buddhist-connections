@@ -57,5 +57,6 @@ Anassuṃ kho Sāriputta aññatitthiyā paribbājakā ye imaṃ dhammapariyāya
 | [[MA21]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.36]]
 > ◄  [[an2.35-pali-pts]] 📜  [[an2.37-pali-pts]] ►

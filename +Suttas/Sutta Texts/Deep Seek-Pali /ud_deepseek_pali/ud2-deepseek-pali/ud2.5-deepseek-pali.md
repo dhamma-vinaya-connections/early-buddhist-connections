@@ -40,5 +40,10 @@ A person bound amidst the crowd!"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.5-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN21]], [[MN28]], [[DHP\|DHP200]], [[AN221]], [[AN396]], [[AN421]], [[AN]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.5]]
 > ◄  [[ud2.4-deepseek-pali]] 📜  [[ud2.6-deepseek-pali]] ►

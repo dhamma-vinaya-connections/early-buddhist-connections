@@ -23,3 +23,5 @@ uḷāraṃ vata me mātā patodaṃ samavassari |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig209-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG209]]
+> ◄  [[thig208-pali-pts]] 📜  [[thig210-pali-pts]] ►

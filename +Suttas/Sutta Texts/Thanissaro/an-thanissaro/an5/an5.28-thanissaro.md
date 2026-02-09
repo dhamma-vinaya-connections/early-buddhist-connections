@@ -84,5 +84,6 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.36]], [[AN10.7]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.28]]
 > ◄  [[an5.27-thanissaro]] 📜  [[an5.30-thanissaro]] ►

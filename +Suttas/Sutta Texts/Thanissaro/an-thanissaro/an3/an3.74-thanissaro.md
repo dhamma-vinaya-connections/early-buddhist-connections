@@ -45,5 +45,6 @@ Then the thought occurred to Ven. Ānanda, “Here the Blessed One has just reco
 | [[SA563]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.74]]
 > ◄  [[an3.73-thanissaro]] 📜  [[an3.77-thanissaro]] ►

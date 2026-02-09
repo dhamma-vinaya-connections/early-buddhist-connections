@@ -24,3 +24,5 @@ attadatthaṃ paratthena bahunā pi na hāpaye, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp165-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP165]]
+> ◄  [[dhp164-pali-pts]] 📜  [[dhp166-pali-pts]] ►

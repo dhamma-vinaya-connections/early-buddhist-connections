@@ -32,5 +32,6 @@ So vata bhikkhave bhikkhu nibbānaṃ sukhato samanupassanto anulomikāya khanti
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.89]], [[AN6.90]], [[AN6.91]], [[AN6.92]], [[AN6.93]], [[AN6.94]], [[AN6.95]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.101]]
 > ◄  [[an6.100-pali-pts]] 📜  [[an6.102-pali-pts]] ►

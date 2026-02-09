@@ -34,15 +34,16 @@ This too is the meaning that was spoken by the Blessed One, so I have heard. Sec
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP423]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP423]], [[AN3.58]], [[AN3.59]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4.1]] |
+| [[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4]].1 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN4]], [[THIG5.11]], [[THIG5.12]], [[THIG12]], [[THIG13.2]]
+> - [[MN4]], [[THIG5]].11, [[THIG5]].12, [[THIG12]], [[THIG13]].2
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI99]]
 > ◄  [[iti98-deepseek-pali]] 📜  [[iti100-deepseek-pali]] ►

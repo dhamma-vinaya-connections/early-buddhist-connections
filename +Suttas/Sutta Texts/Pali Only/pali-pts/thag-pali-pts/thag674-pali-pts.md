@@ -23,3 +23,5 @@ rajam upātaṃ vātena yathā megho pasāmaye,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag674-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG674]]
+> ◄  [[thag673-pali-pts]] 📜  [[thag675-pali-pts]] ►

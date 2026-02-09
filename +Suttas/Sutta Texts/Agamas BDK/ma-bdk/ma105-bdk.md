@@ -26,11 +26,12 @@ Monks, should you wish, “May I attain the peaceful liberations that transcend 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.71]], [[MN6]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.29]], [[SN12.30]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA105]]
 > ◄  [[ma104-bdk]] 📜  [[ma106-bdk]] ►

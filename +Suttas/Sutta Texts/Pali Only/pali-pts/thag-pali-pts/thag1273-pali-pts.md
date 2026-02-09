@@ -23,3 +23,5 @@ yadatthiyaṃ brahmacariyaṃ acāri Kappāyano kacci 'ssa taṃ amoghaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1273-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1273]]
+> ◄  [[thag1272-pali-pts]] 📜  [[thag1274-pali-pts]] ►

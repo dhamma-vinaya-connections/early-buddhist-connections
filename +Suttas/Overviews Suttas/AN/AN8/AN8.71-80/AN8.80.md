@@ -86,4 +86,5 @@ parallels_partilal: "[[DN33]], [[DN34]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.80
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.80.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.79]]  🌐 [[AN8.81]] ►

@@ -33,5 +33,6 @@ Satta bhikkhave purisagatiyo desissāmi anupādā ca parinibbānaṃ, taṃ su�
 | [[MA6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.55]]
 > ◄  [[an7.54-pali-pts]] 📜  [[an7.56-pali-pts]] ►

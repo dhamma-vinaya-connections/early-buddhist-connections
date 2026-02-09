@@ -32,3 +32,5 @@ You’re defeated, End-maker!"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.2]]
+> ◄  [[sn4.1-bodhi]] 📜  [[sn4.3-bodhi]] ►

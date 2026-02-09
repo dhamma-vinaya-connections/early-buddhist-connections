@@ -24,3 +24,5 @@ ayonisomanasikārā kāmarāgena additā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig76-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG76]]
+> ◄  [[thig75-pali-pts]] 📜  [[thig77-pali-pts]] ►

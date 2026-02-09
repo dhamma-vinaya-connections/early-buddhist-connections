@@ -147,3 +147,5 @@ Daṇḍavaggo dasamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp10-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP10-BUDDHARAKKHITA]]
+> ◄  [[dhp9-buddharakkhita-pali]] 📜  [[dhp11-buddharakkhita-pali]] ►

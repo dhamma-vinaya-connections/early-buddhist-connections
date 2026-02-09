@@ -23,3 +23,5 @@ apaṇḍaro aṇḍasambhavo sīvathikāya niketacāriko
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag598-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG598]]
+> ◄  [[thag597-pali-pts]] 📜  [[thag599-pali-pts]] ►

@@ -23,3 +23,5 @@ kan nu tattha na ramenti jambuyo ubhato tahiṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag308-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG308]]
+> ◄  [[thag307-pali-pts]] 📜  [[thag309-pali-pts]] ►

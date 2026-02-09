@@ -34,7 +34,7 @@ Not being frequently under the influence of sensual desire, his mind does not ex
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN45]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN12]], [[AN10.21]], [[EA46.4]], [[]], [[AN4.8]], [[EA27.6]], [[EA31.8]], [[EA50.6]], [[SN52.15-24]] |
@@ -43,6 +43,7 @@ Not being frequently under the influence of sensual desire, his mind does not ex
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.192]], [[MN25]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA174]]
 > ◄  [[ma173-bdk]] 📜  [[ma175-bdk]] ►

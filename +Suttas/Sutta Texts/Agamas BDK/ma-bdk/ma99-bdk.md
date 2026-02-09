@@ -58,15 +58,16 @@ Any renunciants or brahmins who do not know, as it really is, the grat ification
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN13]] | [[EA21.9]] |  |
+> |  | [[EA21.9]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP201]] |
+| [[DHP\|DHP201]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN6.63]], [[AN9.34]], [[AN9.36]], [[MA100]], [[MN54]], [[SN35.115]], [[SN35.189]], [[SN35.63]], [[THIG13.1.]]
+> - [[AN6.63]], [[AN9.34]], [[AN9.36]], [[MA100]], [[MN54]], [[SN35.115]], [[SN35.189]], [[SN35.63]], [[THIG13]].1.
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA99]]
 > ◄  [[ma98-bdk]] 📜  [[ma100-bdk]] ►

@@ -24,3 +24,5 @@ tasiṇāya purakkhatā pajā parisappanti saso va bādhito, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp341-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP341]]
+> ◄  [[dhp340-pali-pts]] 📜  [[dhp342-pali-pts]] ►

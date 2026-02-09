@@ -121,5 +121,6 @@ Uragasuttaṁ paṭhamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SNP1.12]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.1]]
 > ◄  [[]] 📜  [[snp1.2-pali-sc]] ►

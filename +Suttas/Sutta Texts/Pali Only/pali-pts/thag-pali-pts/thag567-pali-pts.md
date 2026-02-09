@@ -23,3 +23,5 @@ pubbaruhirasampuṇṇo gūthakūpe nigāḷhiko
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag567-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG567]]
+> ◄  [[thag566-pali-pts]] 📜  [[thag568-pali-pts]] ►

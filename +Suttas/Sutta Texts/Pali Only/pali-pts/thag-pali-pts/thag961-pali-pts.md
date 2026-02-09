@@ -23,3 +23,5 @@ lābhakāmā bhavissanti kusītā hīnavīriyā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag961-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG961]]
+> ◄  [[thag960-pali-pts]] 📜  [[thag962-pali-pts]] ►

@@ -23,3 +23,5 @@ kadā nu 'haṃ bhayajananiṃ dukkhāvahaṃ taṇhālataṃ bahuvidhānuvattan
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1093-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1093]]
+> ◄  [[thag1092-pali-pts]] 📜  [[thag1094-pali-pts]] ►

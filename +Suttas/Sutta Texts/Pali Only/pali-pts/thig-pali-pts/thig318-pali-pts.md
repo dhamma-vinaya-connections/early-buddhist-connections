@@ -23,3 +23,5 @@ so ahaṃ pi gamissāmi nagaraṃ Mithilaṃ pati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig318-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG318]]
+> ◄  [[thig317-pali-pts]] 📜  [[thig319-pali-pts]] ►

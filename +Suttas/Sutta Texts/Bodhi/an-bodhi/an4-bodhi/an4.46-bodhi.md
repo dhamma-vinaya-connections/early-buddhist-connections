@@ -30,7 +30,7 @@ Then when that night had passed, the Blessed One addressed the bhikkhus: “Bhik
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.45]], [[SN2.26]] | [[EA43.1]], [[SA-2.306]], [[SA1307]] | A ii 49 |
+> |  | [[EA43.1]], [[SA-2.306]], [[SA1307]] | A ii 49 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.45]], [[SA-2.306]], [[SA1307]], [[SN2.26]], [[EA43.1]] |
@@ -39,6 +39,7 @@ Then when that night had passed, the Blessed One addressed the bhikkhus: “Bhik
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.38]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.46]]
 > ◄  [[an4.45-bodhi]] 📜  [[an4.47-bodhi]] ►

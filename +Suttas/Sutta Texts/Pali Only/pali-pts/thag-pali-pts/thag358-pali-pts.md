@@ -23,3 +23,5 @@ satiyā taṃ nibandhissaṃ, payatatto vo damessāmi;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag358-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG358]]
+> ◄  [[thag357-pali-pts]] 📜  [[thag359-pali-pts]] ►

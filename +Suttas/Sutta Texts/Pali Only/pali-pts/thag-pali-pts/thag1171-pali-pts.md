@@ -23,3 +23,5 @@ yo so aṭṭha vimokkhāni purebhattaṃ apassayi
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1171-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1171]]
+> ◄  [[thag1170-pali-pts]] 📜  [[thag1172-pali-pts]] ►

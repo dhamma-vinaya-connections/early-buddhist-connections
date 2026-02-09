@@ -23,3 +23,5 @@ ahaṃ tava vasānugo siyaṃ yadi viharemasi kānanantare |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig374-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG374]]
+> ◄  [[thig373-pali-pts]] 📜  [[thig375-pali-pts]] ►

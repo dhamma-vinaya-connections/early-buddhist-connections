@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Lay followers"
-parallels_nikaya: "[[AN4.256]]"
+parallels_nikaya: ""
 parallels_agama: "[[MA40]]"
 parallels_partilal: "[[MA40]], [[AN4.256]], [[AN4.32]], [[DN33]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[MA40]], [[AN4.256]], [[AN4.32]], [[DN33]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.256]] | [[MA40]] | A iv 218 |
+> |  | [[MA40]] | A iv 218 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA40]], [[AN4.256]], [[AN4.32]], [[DN33]] |
@@ -88,5 +88,6 @@ parallels_partilal: "[[MA40]], [[AN4.256]], [[AN4.32]], [[DN33]]"
 > - Sutta Central: https://suttacentral.net/an8.24/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.24
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.24.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.23]]  🌐 [[AN8.25]] ►

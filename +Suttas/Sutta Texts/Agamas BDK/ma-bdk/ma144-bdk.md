@@ -45,13 +45,10 @@ Gotama, it is just as the blue lotus is foremost among all flowers that grow in 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma144-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN107]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]], [[AN9.64]], [[AN9.65]], [[SN47.4]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA144]]
 > ◄  [[ma143-bdk]] 📜  [[ma145-bdk]] ►

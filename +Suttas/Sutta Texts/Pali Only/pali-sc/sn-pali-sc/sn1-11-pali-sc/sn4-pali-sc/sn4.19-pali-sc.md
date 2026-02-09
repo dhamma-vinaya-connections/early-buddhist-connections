@@ -46,3 +46,5 @@ na me maggampi dakkhasī"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn4.19-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.19]]
+> ◄  [[sn4.18-pali-sc]] 📜  [[sn4.20-pali-sc]] ►

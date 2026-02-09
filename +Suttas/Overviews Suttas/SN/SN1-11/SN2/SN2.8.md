@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP383]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP311]], [[DHP312]], [[THAG4.3]], [[DHP313]], [[DHP314]], [[DHP383]], [[SN2.8]]"
+parallels_partilal: "[[DHP\|DHP311]], [[DHP\|DHP312]], [[THAG4]].3, [[DHP\|DHP313]], [[DHP\|DHP314]], [[DHP\|DHP383]], [[SN2.8]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.7]]  🌐 [[SN2.9]] ►
 
@@ -68,10 +68,10 @@ Are perfectly serene in samādhi.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP383]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP311]], [[DHP312]], [[THAG4.3]], [[DHP313]], [[DHP314]], [[DHP383]], [[SN2.8]] |
+| [[DHP\|DHP311]], [[DHP\|DHP312]], [[THAG4]].3, [[DHP\|DHP313]], [[DHP\|DHP314]], [[DHP\|DHP383]], [[SN2.8]] |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ Are perfectly serene in samādhi.
 > - Sutta Central: https://suttacentral.net/sn2.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.8.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.7]]  🌐 [[SN2.9]] ►

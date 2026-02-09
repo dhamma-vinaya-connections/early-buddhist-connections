@@ -23,3 +23,5 @@ brāhmaṇā tisatā ime yācanti pañjalīkatā:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag835-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG835]]
+> ◄  [[thag834-pali-pts]] 📜  [[thag836-pali-pts]] ►

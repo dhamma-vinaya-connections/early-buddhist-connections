@@ -35,5 +35,6 @@ PTS: A i 197
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.42]], [[AN5.165]], [[SN4.8]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.67]]
 > ◄  [[an3.66-pali-pts]] 📜  [[an3.68-pali-pts]] ►

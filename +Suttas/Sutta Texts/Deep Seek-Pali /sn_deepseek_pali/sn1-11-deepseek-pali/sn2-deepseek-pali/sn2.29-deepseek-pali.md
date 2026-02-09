@@ -90,5 +90,6 @@ Then the Blessed One, referring to the Venerable Sāriputta, addressed Susīma t
 | [[SA-2.305]], [[SA1306]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.29]]
 > ◄  [[sn2.28-deepseek-pali]] 📜  [[sn2.30-deepseek-pali]] ►

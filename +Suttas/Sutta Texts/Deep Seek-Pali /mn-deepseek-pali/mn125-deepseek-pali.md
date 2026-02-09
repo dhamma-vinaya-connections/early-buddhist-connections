@@ -83,12 +83,13 @@ The Bhūmija Sutta, the sixth, is concluded.
 > |  | [[MA198]] | M iii 128 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN2]]; [[AN4.114]]; [[AN4.157]]; [[AN4.165]]; [[AN5.140]]; [[PLI-TV-KD1]]; [[PLI-TV-BU-VB-PC65]]; [[PLI-TV-BI-VB-PC71]]; [[MN107]]; [[MA198]] |
+| [[MN2]], [[AN4.114]], [[AN4.157]], [[AN4.165]], [[AN5.140]], [[PLI-TV-KD1]], [[PLI-TV-BU-VB-PC65]], [[PLI-TV-BI-VB-PC71]], [[MN107]], [[MA198]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]], [[AN4.111]], [[MN107]], [[MN65]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN125]]
 > ◄  [[mn124-deepseek-pali]] 📜  [[mn126-deepseek-pali]] ►

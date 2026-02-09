@@ -52,10 +52,11 @@ their abode, living beings are correspondingly superior or inferior, excellent o
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN135]], [[MN99]] | [[MA152]] |  |
+> |  | [[MA152]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.199]], [[AN8.40]], [[MA171]], [[MN136]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA170]]
 > ◄  [[ma169-bdk]] 📜  [[ma171-bdk]] ►

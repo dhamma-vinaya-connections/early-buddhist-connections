@@ -69,5 +69,6 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 | [[SNP3.12]], [[PE2]], [[PE3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI41]]
 > ◄  [[iti40-thanissaro]] 📜  [[iti42-thanissaro]] ►

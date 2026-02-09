@@ -137,3 +137,5 @@ samparāye ca suggatī"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.49-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.49]]
+> ◄  [[sn1.48-pali-sc]] 📜  [[sn1.50-pali-sc]] ►

@@ -23,3 +23,5 @@ pabbājetvāna maṃ satthā vihāraṃ pāvisī jino;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag476-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG476]]
+> ◄  [[thag475-pali-pts]] 📜  [[thag477-pali-pts]] ►

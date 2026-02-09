@@ -90,12 +90,13 @@ On one occasion the Blessed One was dwelling among the Magadhans at Andhakavinda
 > |  | [[SA-2.104]], [[SA1191]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.104]], [[SA1191]], [[THAG2.11]] |
+| [[SA-2.104]], [[SA1191]], [[THAG2]].11 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN17.35]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.13]]
 > ◄  [[sn6.12-bodhi]] 📜  [[sn6.14-bodhi]] ►

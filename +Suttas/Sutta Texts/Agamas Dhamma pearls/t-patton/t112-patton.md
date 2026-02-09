@@ -70,3 +70,5 @@ Thus, then, is the liberation of self and others.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:t112-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[T1]]  / 🌐 [[T112]]
+> ◄  [[t110-patton]] 📜  [[]] ►

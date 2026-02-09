@@ -31,13 +31,10 @@ the eradication of the taints, the taintless and unconditioned liberation of the
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma190-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN121]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.42]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA190]]
 > ◄  [[ma189-bdk]] 📜  [[ma191-bdk]] ►

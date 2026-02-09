@@ -86,5 +86,6 @@ Then the Venerable Vaṅgīsa, having dispelled his own dissatisfaction and arou
 | [[SA-2.250]], [[SA1215]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.1]]
 > ◄  [[]] 📜  [[sn8.2-bodhi]] ►

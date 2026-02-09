@@ -35,3 +35,5 @@ The Chapter on What is Not Dhamma: The Eleventh.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.105-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.105]]
+> ◄  [[an1.104-deepseek-pali]] 📜  [[an1.106-deepseek-pali]] ►

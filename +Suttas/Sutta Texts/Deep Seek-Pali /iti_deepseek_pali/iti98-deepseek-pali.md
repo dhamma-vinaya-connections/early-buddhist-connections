@@ -37,3 +37,5 @@ This too is the meaning that was spoken by the Blessed One, so I have heard. Fir
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti98-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI98]]
+> ◄  [[iti97-deepseek-pali]] 📜  [[iti99-deepseek-pali]] ►

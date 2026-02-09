@@ -1471,7 +1471,8 @@ Taṁ uttiṇṇaṁ gopālikā passitvā etadavoca: "ehi, bhante, methunaṁ dh
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pj2-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PJ2]] |
->|       |          | [[ñanatusita-analysis#^-PJ2]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PJ2]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ2]]

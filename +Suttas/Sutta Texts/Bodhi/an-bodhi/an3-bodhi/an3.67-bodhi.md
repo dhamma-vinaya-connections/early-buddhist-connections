@@ -116,5 +116,6 @@ should not swell up but should discuss things.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.42]], [[AN5.165]], [[SN4.8]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.67]]
 > ◄  [[an3.66-bodhi]] 📜  [[an3.68-bodhi]] ►

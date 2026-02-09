@@ -247,8 +247,9 @@ This matter was heard by the yakkha Janavasabha in King Vessavaṇa’s own asse
 > |  | [[DA4]] | D ii 200 |
 > > [!check]- Partial parallels 
 > > 
-| [[DA4]], [[THAG16.9]] |
+| [[DA4]], [[THAG16]].9 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN18]]
 > ◄  [[dn17-deepseek-pali]] 📜  [[dn19-deepseek-pali]] ►

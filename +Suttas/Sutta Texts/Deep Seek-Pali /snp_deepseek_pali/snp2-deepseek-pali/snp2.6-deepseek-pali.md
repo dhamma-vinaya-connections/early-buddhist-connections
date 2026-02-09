@@ -85,5 +85,10 @@ The Dhamma-Conduct Sutta, the sixth, is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.6-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN35.200]], [[AN3.83]], [[AN3.129]], [[AN8:13-14]], [[UD5.5]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.6]]
 > ◄  [[snp2.5-deepseek-pali]] 📜  [[snp2.7-deepseek-pali]] ►

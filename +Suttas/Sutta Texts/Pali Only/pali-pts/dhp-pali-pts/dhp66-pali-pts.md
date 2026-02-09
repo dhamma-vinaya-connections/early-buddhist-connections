@@ -24,3 +24,5 @@ na taṃ kammaṃ kataṃ sādhu yaṃ katvā anutappati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp66-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP66]]
+> ◄  [[dhp65-pali-pts]] 📜  [[dhp67-pali-pts]] ►

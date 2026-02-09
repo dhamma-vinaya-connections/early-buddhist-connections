@@ -98,4 +98,5 @@ after death you will find happiness
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.1
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.10]]  🌐 [[UD2.2]] ►

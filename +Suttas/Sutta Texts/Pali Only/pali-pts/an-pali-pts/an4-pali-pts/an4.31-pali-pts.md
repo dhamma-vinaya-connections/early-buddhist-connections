@@ -31,5 +31,6 @@ PTS: A ii 32
 | [[PE6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.31]]
 > ◄  [[an4.30-pali-pts]] 📜  [[an4.32-pali-pts]] ►

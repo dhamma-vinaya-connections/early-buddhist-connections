@@ -185,7 +185,8 @@ Vasalasuttaṁ sattamaṁ.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN5.175]], [[AN10.165]], [[DHP129]], [[DHP130]], [[DHP131]], [[DHP132]], [[DHP133]], [[DHP134]], [[DHP135]], [[DHP136]], [[DHP137]], [[DHP138]], [[DHP139]], [[DHP140]], [[DHP306]], [[DHP307]], [[DHP308]], [[DHP309]], [[DHP310]], [[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP315]], [[DHP316]], [[DHP317]], [[DHP318]], [[DHP319]]
+> - [[AN5.175]], [[AN10.165]], [[DHP\|DHP129]], [[DHP\|DHP130]], [[DHP\|DHP131]], [[DHP\|DHP132]], [[DHP\|DHP133]], [[DHP\|DHP134]], [[DHP\|DHP135]], [[DHP\|DHP136]], [[DHP\|DHP137]], [[DHP\|DHP138]], [[DHP\|DHP139]], [[DHP\|DHP140]], [[DHP\|DHP306]], [[DHP\|DHP307]], [[DHP\|DHP308]], [[DHP\|DHP309]], [[DHP\|DHP310]], [[DHP\|DHP311]], [[DHP\|DHP312]], [[DHP\|DHP313]], [[DHP\|DHP314]], [[DHP\|DHP315]], [[DHP\|DHP316]], [[DHP\|DHP317]], [[DHP\|DHP318]], [[DHP\|DHP319]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.7]]
 > ◄  [[snp1.6-pali-sc]] 📜  [[snp1.8-pali-sc]] ►

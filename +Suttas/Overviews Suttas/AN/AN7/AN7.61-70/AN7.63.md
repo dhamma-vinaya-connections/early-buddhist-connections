@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN2.33]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA20.11]], [[EA51.9]]"
 parallels_partilal: "[[AN2.33]], [[EA20.11]], [[EA51.9]]"
 ---
@@ -63,7 +63,7 @@ Killer, thief, and lord after death go to hell. and the mother, sister, friend, 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN2.33]] | [[EA20.11]], [[EA51.9]] | A iv 91 |
+> |  | [[EA20.11]], [[EA51.9]] | A iv 91 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN2.33]], [[EA20.11]], [[EA51.9]] |
@@ -86,5 +86,6 @@ Killer, thief, and lord after death go to hell. and the mother, sister, friend, 
 > - Sutta Central: https://suttacentral.net/an7.63/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.63
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.63.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.62]]  🌐 [[AN7.64]] ►

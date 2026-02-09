@@ -294,13 +294,10 @@ The Buddha told the wanderer, “If someone of a different training wants to lea
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:da28-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[DN9]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN39]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA28]]
 > ◄  [[da27-patton]] 📜  [[da29-patton]] ►

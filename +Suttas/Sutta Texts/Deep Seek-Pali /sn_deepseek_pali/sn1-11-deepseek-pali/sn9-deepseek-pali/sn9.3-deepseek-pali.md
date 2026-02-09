@@ -50,5 +50,6 @@ Then the Venerable Kassapagotta, stirred by that deity, attained to urgency.
 | [[SA-2.359]], [[SA1339]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.3]]
 > ◄  [[sn9.2-deepseek-pali]] 📜  [[sn9.4-deepseek-pali]] ►

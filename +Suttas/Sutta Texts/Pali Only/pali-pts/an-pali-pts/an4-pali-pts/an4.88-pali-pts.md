@@ -36,5 +36,6 @@ Ime kho bhikkhave cattāro puggalā santo saṃvijjamānā lokasmin ti.
 | [[EA28.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.88]]
 > ◄  [[an4.87-pali-pts]] 📜  [[an4.89-pali-pts]] ►

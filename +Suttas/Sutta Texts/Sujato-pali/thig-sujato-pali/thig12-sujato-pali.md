@@ -203,3 +203,5 @@ sottiyo camhi nhātako"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG12]]
+> ◄  [[thig11-sujato-pali]] 📜  [[thig13-sujato-pali]] ►

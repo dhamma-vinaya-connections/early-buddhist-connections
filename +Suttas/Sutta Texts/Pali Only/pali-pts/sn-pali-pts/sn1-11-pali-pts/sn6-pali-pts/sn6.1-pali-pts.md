@@ -33,11 +33,12 @@ Atha kho brahmā Sanaṃkumāro samanuñño me satthā ti Bhagavantam abhivādet
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN14]], [[MN26]], [[MN85]] | [[EA19.1]], [[EA24.5]], [[MA204]] |  |
+> |  | [[EA19.1]], [[EA24.5]], [[MA204]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN85]], [[PLI-TV-KD15]], [[DN14]], [[MA204]], [[MN100]], [[MN26]], [[MN36]], [[ITI38]], [[PLI-TV-KD1]], [[SN11.17]], [[EA19.1]], [[EA24.5]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.1]]
 > ◄  [[]] 📜  [[sn6.2-pali-pts]] ►

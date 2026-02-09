@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[ITI90]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA21.1]], [[SA902-904]]"
 parallels_partilal: "[[EA21.1]], [[AN5.32]], [[ITI90]], [[SA902-904]], [[SN45.139]]"
 ---
@@ -65,7 +65,7 @@ They rejoice at reaching the best
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[ITI90]] | [[EA21.1]], [[SA902-904]] | A ii 34 |
+> |  | [[EA21.1]], [[SA902-904]] | A ii 34 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA21.1]], [[AN5.32]], [[ITI90]], [[SA902-904]], [[SN45.139]] |
@@ -88,5 +88,6 @@ They rejoice at reaching the best
 > - Sutta Central: https://suttacentral.net/an4.34/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.34
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.34.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.33]]  🌐 [[AN4.35]] ►

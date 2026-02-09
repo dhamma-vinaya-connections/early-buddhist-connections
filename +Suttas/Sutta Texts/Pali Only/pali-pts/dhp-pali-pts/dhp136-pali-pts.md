@@ -24,3 +24,5 @@ yo daṇḍena adaṇḍesu appaduṭṭhesu dussati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp136-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP136]]
+> ◄  [[dhp135-pali-pts]] 📜  [[dhp137-pali-pts]] ►

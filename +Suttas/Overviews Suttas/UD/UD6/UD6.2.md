@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[SN3.11]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.71]], [[SA1148]]"
 parallels_partilal: "[[SN3.11]], [[SA-2.71]], [[SA1148]]"
 ---
@@ -65,7 +65,7 @@ It wasn’t, won’t be,
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN3.11]] | [[SA-2.71]], [[SA1148]] |  |
+> |  | [[SA-2.71]], [[SA1148]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN3.11]], [[SA-2.71]], [[SA1148]] |
@@ -91,5 +91,6 @@ It wasn’t, won’t be,
 > - Sutta Central: https://suttacentral.net/ud6.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud6.2
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud6.2.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD6.1]]  🌐 [[UD6.3]] ►

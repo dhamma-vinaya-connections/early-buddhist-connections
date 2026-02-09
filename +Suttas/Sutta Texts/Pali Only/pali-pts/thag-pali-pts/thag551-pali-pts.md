@@ -23,3 +23,5 @@ nāyaṃ ajjatano dhammo n'; acchero na pi abbhuto:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag551-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG551]]
+> ◄  [[thag550-pali-pts]] 📜  [[thag552-pali-pts]] ►

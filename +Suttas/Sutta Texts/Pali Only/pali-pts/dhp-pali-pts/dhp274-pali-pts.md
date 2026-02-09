@@ -24,3 +24,5 @@ etaṃ hi tumhe paṭipannā dukkhass'; antaṃ karissatha, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp274-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP274]]
+> ◄  [[dhp273-pali-pts]] 📜  [[dhp275-pali-pts]] ►

@@ -31,11 +31,12 @@ Chaṭṭhaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.205]], [[AN9.71]], [[AN9.72]], [[AN9.82]], [[AN9.92]], [[MN16]] | [[EA51.4]], [[MA206]] | A iii 249 |
+> |  | [[EA51.4]], [[MA206]] | A iii 249 |
 > > [!check]- Partial parallels 
 > > 
 | [[DN33]], [[AN9.72]], [[MN16]], [[AN10.14]], [[AN9.82]], [[AN9.92]], [[EA51.4]], [[MA206]], [[AN5.205]], [[AN9.71]], [[DN34]], [[DA10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.206]]
 > ◄  [[an5.205-pali-sc]] 📜  [[an5.207-pali-sc]] ►

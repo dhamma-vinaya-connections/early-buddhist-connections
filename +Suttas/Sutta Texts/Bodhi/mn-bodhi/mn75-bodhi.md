@@ -150,11 +150,12 @@ Now it has gradually become current among ordinary people. And although this bod
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP204]] | [[MA153]] | M i 501 |
+> |  | [[MA153]] | M i 501 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA153]]; [[DHP204]]; [[MN75]] |
+| [[MA153]], [[DHP\|DHP204]], [[MN75]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN75]]
 > ◄  [[mn74-bodhi]] 📜  [[mn76-bodhi]] ►

@@ -38,5 +38,6 @@ language: "English - Pali"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN15]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.23]]
 > ◄  [[an9.22-deepseek-pali]] 📜  [[an9.24-deepseek-pali]] ►

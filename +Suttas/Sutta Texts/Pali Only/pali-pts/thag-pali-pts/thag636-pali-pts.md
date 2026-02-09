@@ -23,3 +23,5 @@ ujumaggamhi akkhāte gacchatha mā nivattatha;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag636-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG636]]
+> ◄  [[thag635-pali-pts]] 📜  [[thag637-pali-pts]] ►

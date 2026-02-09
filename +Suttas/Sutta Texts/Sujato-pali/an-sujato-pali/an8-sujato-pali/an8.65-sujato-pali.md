@@ -78,5 +78,6 @@ Pañcamaṁ.
 | [[DN16]], [[AN1.439]], [[MN77]], [[AN8.119]], [[AN10.29]], [[DN33]], [[DN34]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.65]]
 > ◄  [[an8.64-sujato-pali]] 📜  [[an8.66-sujato-pali]] ►

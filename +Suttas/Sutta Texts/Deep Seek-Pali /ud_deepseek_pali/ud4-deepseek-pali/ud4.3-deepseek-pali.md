@@ -52,15 +52,16 @@ Then, having understood the significance of this, on that occasion the Blessed O
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP42]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP42]] |
+| [[DHP\|DHP42]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP43]]
+> - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP\|DHP43]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.3]]
 > ◄  [[ud4.2-deepseek-pali]] 📜  [[ud4.4-deepseek-pali]] ►

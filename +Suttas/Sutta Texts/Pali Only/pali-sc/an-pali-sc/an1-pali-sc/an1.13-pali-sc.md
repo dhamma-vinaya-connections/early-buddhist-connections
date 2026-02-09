@@ -34,5 +34,6 @@ Tatiyaṁ.
 | [[EA9.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.13]]
 > ◄  [[an1.12-pali-sc]] 📜  [[an1.14-pali-sc]] ►

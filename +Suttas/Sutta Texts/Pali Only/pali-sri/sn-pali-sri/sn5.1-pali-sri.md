@@ -415,5 +415,6 @@ Bhikkhunīsaṃyuttaṃ samattaṃ.
 | [[SA-2.214]], [[SA1198]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
 > ◄  [[sn4.3-pali-sri]] 📜  [[sn6.1-pali-sri]] ►

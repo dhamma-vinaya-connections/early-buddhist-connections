@@ -45,5 +45,6 @@ TISSAMETTEYYAMĀṆAVAPUCCHĀ NIṬṬHITĀ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.61]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.3]]
 > ◄  [[snp5.2-pali-pts]] 📜  [[snp5.4-pali-pts]] ►

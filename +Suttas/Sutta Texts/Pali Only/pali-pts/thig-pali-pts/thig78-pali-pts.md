@@ -23,3 +23,5 @@ kisā paṇḍu vivaṇṇā ca satta vassāni cāri 'haṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig78-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG78]]
+> ◄  [[thig77-pali-pts]] 📜  [[thig79-pali-pts]] ►

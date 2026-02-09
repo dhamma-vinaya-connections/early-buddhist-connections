@@ -73,5 +73,6 @@ Catutthaṁ.
 | [[SA980]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.34]]
 > ◄  [[an8.33-pali-sc]] 📜  [[an8.35-pali-sc]] ►

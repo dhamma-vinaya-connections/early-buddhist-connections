@@ -188,3 +188,5 @@ The Book of Sevens is finished. Tatruddānaṃ – The summary: Sundarasamuddo t
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG7]]
+> ◄  [[thag6-pali-eng]] 📜  [[thag8-pali-eng]] ►

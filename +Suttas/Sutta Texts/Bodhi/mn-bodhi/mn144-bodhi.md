@@ -64,11 +64,12 @@ That is what the Blessed One said. The venerable Sāriputta was satisfied and d
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN35.87]] | [[SA1266]] | M iii 263 |
+> |  | [[SA1266]] | M iii 263 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA1266]]; [[SN35.87]] |
+| [[SA1266]], [[SN35.87]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
 > ◄  [[mn143-bodhi]] 📜  [[mn145-bodhi]] ►

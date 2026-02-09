@@ -33,3 +33,5 @@ This is what Venerable Ānanda said, Having heard Venerable Ānanda’s words, t
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma39-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA39]]
+> ◄  [[ma38-bdk]] 📜  [[ma40-bdk]] ►

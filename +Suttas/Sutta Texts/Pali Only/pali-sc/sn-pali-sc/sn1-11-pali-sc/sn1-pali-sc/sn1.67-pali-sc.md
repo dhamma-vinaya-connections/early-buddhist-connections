@@ -45,3 +45,5 @@ dukkhe loko patiṭṭhito"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.67-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.67]]
+> ◄  [[sn1.66-pali-sc]] 📜  [[sn1.68-pali-sc]] ►

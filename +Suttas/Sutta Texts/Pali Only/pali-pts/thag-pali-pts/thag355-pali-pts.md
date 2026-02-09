@@ -24,3 +24,5 @@ tvaṃ olaggo na gacchisi dvāravivaraṃ gajo va alabhanto,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag355-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG355]]
+> ◄  [[thag354-pali-pts]] 📜  [[thag356-pali-pts]] ►

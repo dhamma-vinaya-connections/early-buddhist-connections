@@ -23,3 +23,5 @@ suvuttavādī dvipadānam uttamo mahābhisakko naradammasārathi:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1110-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1110]]
+> ◄  [[thag1109-pali-pts]] 📜  [[thag1111-pali-pts]] ►

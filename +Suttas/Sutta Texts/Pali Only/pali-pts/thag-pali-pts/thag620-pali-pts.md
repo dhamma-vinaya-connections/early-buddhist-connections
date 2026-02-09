@@ -23,3 +23,5 @@ jigucchito manussānaṃ paribhūto ca vambhito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag620-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG620]]
+> ◄  [[thag619-pali-pts]] 📜  [[thag621-pali-pts]] ►

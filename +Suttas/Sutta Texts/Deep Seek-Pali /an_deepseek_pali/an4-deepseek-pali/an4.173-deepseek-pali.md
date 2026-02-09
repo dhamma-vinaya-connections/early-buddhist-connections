@@ -74,5 +74,6 @@ Friend, saying, ‘With the complete fading away and cessation of the six sense 
 | [[SA249]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.173]]
 > ◄  [[an4.172-deepseek-pali]] 📜  [[an4.174-deepseek-pali]] ►

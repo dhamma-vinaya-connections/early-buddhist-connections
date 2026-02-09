@@ -24,3 +24,5 @@ hananti bhogā dummedhaṃ no ce pāragavesino, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp354-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP354]]
+> ◄  [[dhp353-pali-pts]] 📜  [[dhp355-pali-pts]] ►

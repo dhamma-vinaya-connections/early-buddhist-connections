@@ -24,3 +24,5 @@ mattā vaṇṇena rūpena sobhaggena yasena ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig71-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG71]]
+> ◄  [[thig70-pali-pts]] 📜  [[thig72-pali-pts]] ►

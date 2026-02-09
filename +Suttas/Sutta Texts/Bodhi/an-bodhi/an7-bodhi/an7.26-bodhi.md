@@ -38,5 +38,6 @@ language: "English"
 | [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.26]]
 > ◄  [[an7.25-bodhi]] 📜  [[an7.27-bodhi]] ►

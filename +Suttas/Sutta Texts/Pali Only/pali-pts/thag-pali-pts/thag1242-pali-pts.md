@@ -23,3 +23,5 @@ oghassa hi nittharaṇatthaṃ anekavihitaṃ maggaṃ akkhāsi,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1242-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1242]]
+> ◄  [[thag1241-pali-pts]] 📜  [[thag1243-pali-pts]] ►

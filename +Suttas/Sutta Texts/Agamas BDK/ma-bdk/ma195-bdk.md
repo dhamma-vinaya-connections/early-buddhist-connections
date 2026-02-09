@@ -59,13 +59,10 @@ Thus spoke the Buddha. Having heard what the Buddha said, the monks were delight
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma195-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN70]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.65]], [[MN27]], [[MN95]], [[SN48.44]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA195]]
 > ◄  [[ma194-bdk]] 📜  [[ma196-bdk]] ►

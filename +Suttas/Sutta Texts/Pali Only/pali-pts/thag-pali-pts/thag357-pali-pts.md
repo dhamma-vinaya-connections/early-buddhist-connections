@@ -23,3 +23,5 @@ yathā varahayadamakusalo sārathi pavaro dameti ājaññaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag357-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG357]]
+> ◄  [[thag356-pali-pts]] 📜  [[thag358-pali-pts]] ►

@@ -70,11 +70,12 @@ dukkhassantaṁ karissasī"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP376]] | [[SA-2.354]], [[SA1334]] |  |
+> |  | [[SA-2.354]], [[SA1334]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.354]], [[SA1334]], [[DHP376]] |
+| [[SA-2.354]], [[SA1334]], [[DHP\|DHP376]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.11]]
 > ◄  [[sn9.10-sujato-pali]] 📜  [[sn9.12-sujato-pali]] ►

@@ -24,3 +24,5 @@ Savīsaṃvassasatiko pabbajiṃ anagāriyaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag107-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG107]]
+> ◄  [[thag106-pali-pts]] 📜  [[thag108-pali-pts]] ►

@@ -90,4 +90,5 @@ You win a battle hard to win
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.15]]  🌐 [[SN7.2]] ►

@@ -82,5 +82,6 @@ Navamaṁ.
 | [[SA884-885]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.59]]
 > ◄  [[an3.58-pali-sc]] 📜  [[an3.60-pali-sc]] ►

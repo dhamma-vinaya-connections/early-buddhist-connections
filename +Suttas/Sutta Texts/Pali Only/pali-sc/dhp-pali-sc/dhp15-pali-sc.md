@@ -76,5 +76,6 @@ Tasmā hi– dhīrañca paññañca bahussutañca, dhorayhasīlaṃ vatavantamar
 | [[PE1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP15]]
 > ◄  [[dhp14-pali-sc]] 📜  [[dhp16-pali-sc]] ►

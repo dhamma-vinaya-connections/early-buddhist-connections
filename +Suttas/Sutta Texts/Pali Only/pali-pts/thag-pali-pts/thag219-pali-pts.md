@@ -23,3 +23,5 @@ taṃ sukhena sukhaṃ laddhaṃ; passa dhammasudhammataṃ:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag219-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG219]]
+> ◄  [[thag218-pali-pts]] 📜  [[thag220-pali-pts]] ►

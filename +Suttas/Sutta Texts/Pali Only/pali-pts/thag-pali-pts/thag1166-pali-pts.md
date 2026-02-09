@@ -23,3 +23,5 @@ vivaram anupatanti vijjutā Vebhārassa ca Paṇḍavassa ca,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1166-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1166]]
+> ◄  [[thag1165-pali-pts]] 📜  [[thag1167-pali-pts]] ►

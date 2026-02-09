@@ -63,5 +63,6 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.9]], [[AN4.27]], [[AN4.28]], [[SN3.12]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI105]]
 > ◄  [[iti104-thanissaro]] 📜  [[iti106-thanissaro]] ►

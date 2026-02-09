@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[SN8.5]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.253]], [[SA1218]]"
-parallels_partilal: "[[SN8.5]], [[SA-2.253]], [[SA1218]], [[THAG21.1]], [[PE3]]"
+parallels_partilal: "[[SN8.5]], [[SA-2.253]], [[SA1218]], [[THAG21]].1, [[PE3]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.2]]  🌐 [[SNP3.4]] ►
 
@@ -69,10 +69,10 @@ That speech is truly well-spoken.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN8.5]] | [[SA-2.253]], [[SA1218]] |  |
+> |  | [[SA-2.253]], [[SA1218]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN8.5]], [[SA-2.253]], [[SA1218]], [[THAG21.1]], [[PE3]] |
+| [[SN8.5]], [[SA-2.253]], [[SA1218]], [[THAG21]].1, [[PE3]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -95,5 +95,6 @@ That speech is truly well-spoken.
 > - Sutta Central: https://suttacentral.net/snp3.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.3
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.3.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.2]]  🌐 [[SNP3.4]] ►

@@ -23,3 +23,5 @@ yo ve samuddo va ṭhito anejo gambhīrapañño nipuṇatthadassī,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag371-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG371]]
+> ◄  [[thag370-pali-pts]] 📜  [[thag372-pali-pts]] ►

@@ -446,3 +446,5 @@ End Notes
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI4]]
+> ◄  [[iti3-pali-sri]] 📜  [[]] ►

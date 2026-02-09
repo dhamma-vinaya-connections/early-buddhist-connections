@@ -38,5 +38,6 @@ language: "English - Pali"
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.8]]
 > ◄  [[sn6.7-deepseek-pali]] 📜  [[sn6.9-deepseek-pali]] ►

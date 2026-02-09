@@ -41,3 +41,5 @@ Being liberated, he knows that he is liberated, and he knows as it really is: �
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma65-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA65]]
+> ◄  [[ma64-bdk]] 📜  [[ma66-bdk]] ►

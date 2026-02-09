@@ -111,5 +111,6 @@ The Eighth Chapter on Thousands is finished.
 | [[PE3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP8]]
 > ◄  [[dhp7-deepseek-pali]] 📜  [[dhp9-deepseek-pali]] ►

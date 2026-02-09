@@ -113,5 +113,6 @@ Indriyavaggo paṭhamo.
 | [[AN5.156]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.160]]
 > ◄  [[an4.159-sujato-pali]] 📜  [[an4.161-sujato-pali]] ►

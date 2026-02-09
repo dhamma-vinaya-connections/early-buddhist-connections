@@ -30,7 +30,7 @@ Kusalañ ca h'; idam bhikkhave bhāvitaṃ ahitāya dukkhāya saṃvatteyya nāh
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.29]], [[SN22.57]] |  | A i 60 |
+> |  |  | A i 60 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN22.57]], [[AN3.29]] |
@@ -39,6 +39,7 @@ Kusalañ ca h'; idam bhikkhave bhāvitaṃ ahitāya dukkhāya saṃvatteyya nāh
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN12]], [[SN6.1]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.19]]
 > ◄  [[an2.18-pali-pts]] 📜  [[an2.20-pali-pts]] ►

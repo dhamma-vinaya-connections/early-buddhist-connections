@@ -52,5 +52,6 @@ Catutthaṁ.
 | [[SA563]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.74]]
 > ◄  [[an3.73-pali-sc]] 📜  [[an3.75-pali-sc]] ►

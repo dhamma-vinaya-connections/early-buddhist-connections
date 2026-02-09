@@ -95,4 +95,5 @@ we have become cool and quenched.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig4
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig4.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG3]]  🌐 [[THIG5]] ►

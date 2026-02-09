@@ -34,5 +34,6 @@ Tatiyaṁ.
 | [[PLI-TV-KD1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.253]]
 > ◄  [[an5.252-pali-sc]] 📜  [[an5.254-pali-sc]] ►

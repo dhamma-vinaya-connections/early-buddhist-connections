@@ -44,11 +44,12 @@ Sukhumaṃ tayo agati bhattuddesena te dasā ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.17-18]] |  | A ii 19 |
+> |  |  | A ii 19 |
 > > [!check]- Partial parallels 
 > > 
 | [[DN31]], [[AN4.17-18]], [[JA443]], [[PE3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.19]]
 > ◄  [[an4.18-pali-pts]] 📜  [[an4.21-pali-pts]] ►

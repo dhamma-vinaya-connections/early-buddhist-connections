@@ -36,7 +36,7 @@ sutta_audience:
   - "Mara"
 parallels_nikaya: ""
 parallels_agama: "[[SA-2.221]], [[SA1205]]"
-parallels_partilal: "[[SA-2.221]], [[SA1205]], [[THIG7.3]], [[ITI73]], [[SNP3.12]]"
+parallels_partilal: "[[SA-2.221]], [[SA1205]], [[THIG7]].3, [[ITI73]], [[SNP3.12]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.5]]  🌐 [[SN5.7]] ►
 
@@ -71,7 +71,7 @@ He has attained the end of all deeds
 > |  | [[SA-2.221]], [[SA1205]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.221]], [[SA1205]], [[THIG7.3]], [[ITI73]], [[SNP3.12]] |
+| [[SA-2.221]], [[SA1205]], [[THIG7]].3, [[ITI73]], [[SNP3.12]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -94,5 +94,6 @@ He has attained the end of all deeds
 > - Sutta Central: https://suttacentral.net/sn5.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.6
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.5]]  🌐 [[SN5.7]] ►

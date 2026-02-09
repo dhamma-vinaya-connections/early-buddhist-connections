@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[DHP370]], [[THAG1.15]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]]"
-parallels_partilal: "[[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]], [[DHP370]], [[THAG1.15]]"
+parallels_partilal: "[[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]], [[DHP\|DHP370]], [[THAG1]].15"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.4]]  🌐 [[SN1.6]] ►
 
@@ -68,10 +68,10 @@ To where, having gone, one does not sorrow
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP370]], [[THAG1.15]] | [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]] |  |
+> |  | [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]], [[DHP370]], [[THAG1.15]] |
+| [[SA-2.140]], [[SA-2.311]], [[SA1002]], [[SA1312]], [[DHP\|DHP370]], [[THAG1]].15 |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ To where, having gone, one does not sorrow
 > - Sutta Central: https://suttacentral.net/sn1.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.5
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.5.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.4]]  🌐 [[SN1.6]] ►

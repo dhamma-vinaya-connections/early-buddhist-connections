@@ -23,3 +23,5 @@ yathā idaṃ tathā etaṃ, yathā etaṃ tathā idaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag395-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG395]]
+> ◄  [[thag394-pali-pts]] 📜  [[thag396-pali-pts]] ►

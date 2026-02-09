@@ -48,5 +48,6 @@ To the Nagaravindans
 | [[SA280]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
 > ◄  [[mn149-bodhi]] 📜  [[mn151-bodhi]] ►

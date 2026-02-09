@@ -23,3 +23,5 @@ sataṃ sahassānaṃ pi dhuttakānaṃ samāgatā edisakā bhaveyyuṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig230-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG230]]
+> ◄  [[thig229-pali-pts]] 📜  [[thig231-pali-pts]] ►

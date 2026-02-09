@@ -58,5 +58,6 @@ He, indeed, is the calm and mindful monk, tranquil and undefeated; having realiz
 | [[ITI55]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.38]]
 > ◄  [[an4.37-deepseek-pali]] 📜  [[an4.39-deepseek-pali]] ►

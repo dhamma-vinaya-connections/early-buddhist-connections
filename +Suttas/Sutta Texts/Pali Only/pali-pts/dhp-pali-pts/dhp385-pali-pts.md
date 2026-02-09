@@ -24,3 +24,5 @@ jhāyiṃ virajam āsīnaṃ katakiccaṃ anāsavaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp385-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP385]]
+> ◄  [[dhp384-pali-pts]] 📜  [[dhp386-pali-pts]] ►

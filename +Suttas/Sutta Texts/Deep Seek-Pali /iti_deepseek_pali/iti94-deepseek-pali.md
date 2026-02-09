@@ -35,5 +35,10 @@ This meaning too was spoken by the Blessed One, so I have heard. The sixth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti94-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN138]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI94]]
 > ◄  [[iti93-deepseek-pali]] 📜  [[iti95-deepseek-pali]] ►

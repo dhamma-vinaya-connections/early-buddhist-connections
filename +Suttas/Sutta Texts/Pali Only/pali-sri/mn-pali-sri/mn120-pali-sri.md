@@ -169,11 +169,12 @@ Isigilikittitacattālīsaṃ-ānāpānasatī upapattiṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.123-124]] | [[MA168]] | M iii 99 |
+> |  | [[MA168]] | M iii 99 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN4.123-124]]; [[MA168]] |
+| [[AN4.123-124]], [[MA168]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN120]]
 > ◄  [[mn119-pali-sri]] 📜  [[mn121-pali-sri]] ►

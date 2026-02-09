@@ -121,8 +121,9 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  | [[EA13.3]]; [[MA216]] | M ii 106 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA13.3]]; [[MA216]] |
+| [[EA13.3]], [[MA216]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
 > ◄  [[mn86-thanissaro]] 📜  [[mn90-thanissaro]] ►

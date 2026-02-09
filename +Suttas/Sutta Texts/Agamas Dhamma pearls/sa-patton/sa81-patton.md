@@ -49,11 +49,12 @@ Summary Verse
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.60]] | [[SA81]] |  |
+> |  | [[SA81]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA81]], [[SN22.60]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA81]]
 > ◄  [[sa65-patton]] 📜  [[sa86-patton]] ►

@@ -39,3 +39,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.271-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.271]]
+> ◄  [[an1.270-sujato-pali]] 📜  [[an1.277-sujato-pali]] ►

@@ -23,3 +23,5 @@ araññe rukkhamūle vā pabbatesu guhāsu vā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag886-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG886]]
+> ◄  [[thag885-pali-pts]] 📜  [[thag887-pali-pts]] ►

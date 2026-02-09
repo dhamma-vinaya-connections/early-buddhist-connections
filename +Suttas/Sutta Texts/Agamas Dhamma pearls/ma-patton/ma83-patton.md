@@ -91,6 +91,6 @@ Venerable Maudgalyāyana said to the Bhagavān, “Indeed, Bhagavān!”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.61]], [[MN37]] | [[EA19.3]] |  |
+> |  | [[EA19.3]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA83]]
 > ◄  [[ma82-patton]] 📜  [[ma84-patton]] ►

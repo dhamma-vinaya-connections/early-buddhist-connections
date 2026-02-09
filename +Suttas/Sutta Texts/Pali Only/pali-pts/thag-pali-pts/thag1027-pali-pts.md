@@ -23,3 +23,5 @@ pubbāparaññū atthaññū niruttipadakovido
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1027-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1027]]
+> ◄  [[thag1026-pali-pts]] 📜  [[thag1028-pali-pts]] ►

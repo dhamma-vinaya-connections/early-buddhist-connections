@@ -34,11 +34,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.90]] | [[SA816]], [[SA817]], [[SA832]] | A ii 105 |
+> |  | [[SA816]], [[SA817]], [[SA832]] | A ii 105 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA817]], [[SA832]], [[AN3.90]], [[SA816]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.89]]
 > ◄  [[an3.88-bodhi]] 📜  [[an3.90-bodhi]] ►

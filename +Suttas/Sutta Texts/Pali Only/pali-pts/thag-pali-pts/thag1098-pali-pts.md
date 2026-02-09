@@ -23,3 +23,5 @@ kadā nu rūpe amite ca sadde gandhe rase phusitabbe ca dhamme
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1098-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1098]]
+> ◄  [[thag1097-pali-pts]] 📜  [[thag1099-pali-pts]] ►

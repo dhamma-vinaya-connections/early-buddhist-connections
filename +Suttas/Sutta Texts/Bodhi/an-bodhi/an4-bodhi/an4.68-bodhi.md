@@ -34,11 +34,12 @@ so does honor destroy the vile man. \[74\]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN17.35-36]] | [[EA12.7]], [[EA23.7]], [[SA-2.3]], [[SA1064]] | A ii 73 |
+> |  | [[EA12.7]], [[EA23.7]], [[SA-2.3]], [[SA1064]] | A ii 73 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA12.7]], [[SN17.35-36]], [[PLI-TV-KD17]], [[SA1064]], [[EA23.7]], [[SA-2.3]], [[SN17.35]], [[SN6.12]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.68]]
 > ◄  [[an4.67-bodhi]] 📜  [[an4.69-bodhi]] ►

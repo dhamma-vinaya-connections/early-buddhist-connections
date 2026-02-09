@@ -23,3 +23,5 @@ apuññaṃ pasavī Māro āsajja naṃ tathāgataṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1205-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1205]]
+> ◄  [[thag1204-pali-pts]] 📜  [[thag1206-pali-pts]] ►

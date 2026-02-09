@@ -148,7 +148,8 @@ Yaṁ kho, ānanda, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampake
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN22.55]]]]; [[[[MN140]]
+> - [[SN22.55]], [[MN140]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN106]]
 > ◄  [[mn105-sujato-pali]] 📜  [[mn107-sujato-pali]] ►

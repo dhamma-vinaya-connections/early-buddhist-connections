@@ -23,3 +23,5 @@ khippaṃ giraṃ eraya vaggu vagguṃ haṃso va paggayha sanikaṃ nikūjaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1269-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1269]]
+> ◄  [[thag1268-pali-pts]] 📜  [[thag1270-pali-pts]] ►

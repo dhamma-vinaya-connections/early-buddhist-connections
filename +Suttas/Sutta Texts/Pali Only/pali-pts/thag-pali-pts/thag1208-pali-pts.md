@@ -31,3 +31,5 @@ Nikkhantaṃ vata maṃ santaṃ agārasmā anagāriyaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1208-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1208]]
+> ◄  [[thag1207-pali-pts]] 📜  [[thag1209-pali-pts]] ►

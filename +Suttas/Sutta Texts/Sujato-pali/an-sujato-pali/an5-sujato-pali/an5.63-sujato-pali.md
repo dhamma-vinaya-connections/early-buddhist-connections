@@ -48,11 +48,12 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.74]], [[AN5.64]] |  | A iii 80 |
+> |  |  | A iii 80 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.74]], [[AN5.64]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.63]]
 > ◄  [[an5.62-sujato-pali]] 📜  [[an5.64-sujato-pali]] ►

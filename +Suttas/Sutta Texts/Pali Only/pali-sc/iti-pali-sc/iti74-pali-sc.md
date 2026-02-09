@@ -41,3 +41,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti74-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI74]]
+> ◄  [[iti73-pali-sc]] 📜  [[iti75-pali-sc]] ►

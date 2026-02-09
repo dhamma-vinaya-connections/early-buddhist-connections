@@ -34,5 +34,6 @@ Imehi kho bhikkhave pañcahi dhammehi samannāgato bhikkhu na cirass'eva akuppa�
 | [[SA801]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.96]]
 > ◄  [[an5.95-pali-pts]] 📜  [[an5.97-pali-pts]] ►

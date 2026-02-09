@@ -24,3 +24,5 @@ Nīce kulamhi jāto 'haṃ daḷiddo appabhojano;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag619-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG619]]
+> ◄  [[thag618-pali-pts]] 📜  [[thag620-pali-pts]] ►

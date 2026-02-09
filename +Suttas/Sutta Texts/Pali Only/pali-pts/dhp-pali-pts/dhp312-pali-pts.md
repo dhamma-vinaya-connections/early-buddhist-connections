@@ -24,3 +24,5 @@ kayirañ ce kayirāth'; enaṃ daḷham enaṃ parakkame, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp312-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP312]]
+> ◄  [[dhp311-pali-pts]] 📜  [[dhp313-pali-pts]] ►

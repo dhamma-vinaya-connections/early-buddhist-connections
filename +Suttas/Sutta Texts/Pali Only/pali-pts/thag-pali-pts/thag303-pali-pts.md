@@ -23,3 +23,5 @@ na hi dhammo adhammo ca ubho samavipākino;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag303-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG303]]
+> ◄  [[thag300-pali-pts]] 📜  [[thag304-pali-pts]] ►

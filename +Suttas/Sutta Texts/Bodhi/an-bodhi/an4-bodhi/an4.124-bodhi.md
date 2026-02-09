@@ -32,11 +32,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN120]] | [[MA168]] | A ii 128 |
+> |  | [[MA168]] | A ii 128 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA168]], [[MN120]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.124]]
 > ◄  [[an4.123-bodhi]] 📜  [[an4.125-bodhi]] ►

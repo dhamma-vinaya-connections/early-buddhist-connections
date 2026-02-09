@@ -23,3 +23,5 @@ anujānātha maṃ ubhayo pabbajituṃ dasabalassa pāvacane |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig456-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG456]]
+> ◄  [[thig455-pali-pts]] 📜  [[thig457-pali-pts]] ►

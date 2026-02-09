@@ -263,15 +263,16 @@ Alagaddūpamasuttaṃ dutiyaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN21]] | [[EA43.5]]; [[EA50.8]]; [[MA193]]; [[MA200]] | M i 130 |
+> |  | [[EA43.5]]; [[EA50.8]]; [[MA193]]; [[MA200]] | M i 130 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA43.5]]; [[MA200]]; [[EA50.8]]; [[MN21]]; [[MA193]]; [[PLI-TV-BU-VB-PC68]]; [[PLI-TV-KD11]] |
+| [[EA43.5]], [[MA200]], [[EA50.8]], [[MN21]], [[MA193]], [[PLI-TV-BU-VB-PC68]], [[PLI-TV-KD11]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN22.23]], [[MN63]], [[SN56.31]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN22]]
 > ◄  [[mn21-pali-sri]] 📜  [[mn23-pali-sri]] ►

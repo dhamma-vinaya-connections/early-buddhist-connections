@@ -128,3 +128,5 @@ In the last watch of the night, I shattered the mass of darkness; then I arose, 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG7]]
+> ◄  [[thig6-pali-eng]] 📜  [[thig8-pali-eng]] ►

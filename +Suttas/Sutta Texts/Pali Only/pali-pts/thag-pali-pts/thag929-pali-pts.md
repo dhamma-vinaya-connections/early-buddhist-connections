@@ -23,3 +23,5 @@ pāpakānañ ca dhammānaṃ kilesānañ ca yo utu
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag929-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG929]]
+> ◄  [[thag928-pali-pts]] 📜  [[thag930-pali-pts]] ►

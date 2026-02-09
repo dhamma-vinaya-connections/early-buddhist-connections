@@ -52,11 +52,12 @@ Aṭṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN55.29]] | [[SA845]] | A iv 407 |
+> |  | [[SA845]] | A iv 407 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN55.29]], [[SA845]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.28]]
 > ◄  [[an9.27-sujato-pali]] 📜  [[an9.29-sujato-pali]] ►

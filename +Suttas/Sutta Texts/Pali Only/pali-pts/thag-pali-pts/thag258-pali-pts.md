@@ -23,3 +23,5 @@ mānuso pi ca bhavo 'bhirādhito, saggakāyam agamaṃ sakiṃ sakiṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag258-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG258]]
+> ◄  [[thag257-pali-pts]] 📜  [[thag259-pali-pts]] ►

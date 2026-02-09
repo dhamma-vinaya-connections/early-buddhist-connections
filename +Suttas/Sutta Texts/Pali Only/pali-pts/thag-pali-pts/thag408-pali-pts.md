@@ -25,3 +25,5 @@ Uṭṭhāhi nisīda Kātiyāna mā niddābahulo ahu jāgarassu,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag408-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG408]]
+> ◄  [[thag407-pali-pts]] 📜  [[thag411-pali-pts]] ►

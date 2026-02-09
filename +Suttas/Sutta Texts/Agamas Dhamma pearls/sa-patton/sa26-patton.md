@@ -36,11 +36,12 @@ The Buddha told the monk, “[Listen closely!] Listen closely, and consider it w
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.115-116]] | [[SA26]] |  |
+> |  | [[SA26]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA26]], [[SN22.115-116]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA26]]
 > ◄  [[sa25.57-patton]] 📜  [[sa26.11-patton]] ►

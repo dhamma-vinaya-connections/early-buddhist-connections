@@ -23,3 +23,5 @@ evaṃ etaṃ avekkhantī rattindivam atanditā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig83-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG83]]
+> ◄  [[thig82-pali-pts]] 📜  [[thig84-pali-pts]] ►

@@ -42,5 +42,6 @@ language: "English"
 | [[MN142]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.78]]
 > ◄  [[an4.77-bodhi]] 📜  [[an4.79-bodhi]] ►

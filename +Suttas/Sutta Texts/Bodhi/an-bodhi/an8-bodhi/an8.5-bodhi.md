@@ -56,5 +56,6 @@ he understands rightly and has transcended existence.
 | [[EA43.8]], [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.5]]
 > ◄  [[an8.4-bodhi]] 📜  [[an8.6-bodhi]] ►

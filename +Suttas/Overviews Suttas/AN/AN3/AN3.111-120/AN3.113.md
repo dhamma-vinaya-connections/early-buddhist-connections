@@ -86,4 +86,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.113
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.113.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.112]]  🌐 [[AN3.114]] ►

@@ -24,3 +24,5 @@ na ve kadariyā devalokaṃ vajanti bālā have na-ppasaṃsanti dānaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp176-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP176]]
+> ◄  [[dhp175-pali-pts]] 📜  [[dhp177-pali-pts]] ►

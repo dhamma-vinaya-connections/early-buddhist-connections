@@ -143,5 +143,10 @@ vv. 780–787
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.3-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN18]], [[MN22]], [[MN58]], [[MN72]], [[AN2.36]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.3]]
 > ◄  [[snp4.2-thanissaro]] 📜  [[snp4.4-thanissaro]] ►

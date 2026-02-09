@@ -46,5 +46,6 @@ Navamaṁ.
 | [[MA160]], [[AN7.66]], [[AN6.54]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.73]]
 > ◄  [[an7.72-pali-sc]] 📜  [[an7.74-pali-sc]] ►

@@ -47,3 +47,5 @@ The Section on Mindfulness of the Body, the Nineteenth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.236-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.236]]
+> ◄  [[an1.235-deepseek-pali]] 📜  [[an1.237-deepseek-pali]] ►

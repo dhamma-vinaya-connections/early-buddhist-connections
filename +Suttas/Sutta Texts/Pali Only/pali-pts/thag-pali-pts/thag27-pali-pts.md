@@ -24,3 +24,5 @@ Kacci no vatthapasuto, kacci no bhūsanārato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag27-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG27]]
+> ◄  [[thag26-pali-pts]] 📜  [[thag28-pali-pts]] ►

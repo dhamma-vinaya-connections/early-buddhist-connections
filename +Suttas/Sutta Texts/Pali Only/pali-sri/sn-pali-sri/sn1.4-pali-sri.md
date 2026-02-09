@@ -611,5 +611,6 @@ Saddhā samayo sakalikaṃ ubho pajjunnadhītaro’ti.
 | [[SA-2.139]], [[SN2.27]], [[JA509]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.4]]
 > ◄  [[sn1.3-pali-sri]] 📜  [[sn1.5-pali-sri]] ►

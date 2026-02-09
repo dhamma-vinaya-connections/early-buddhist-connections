@@ -24,3 +24,5 @@ Atthāya vata me buddho nadiṃ Nerañjaraṃ agā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag339-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG339]]
+> ◄  [[thag338-pali-pts]] 📜  [[thag340-pali-pts]] ►

@@ -108,3 +108,5 @@ Nidhikaṇḍasuttaṁ Niṭṭhitaṁ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP8]]
+> ◄  [[kp7-pali-sc]] 📜  [[kp9-pali-sc]] ►

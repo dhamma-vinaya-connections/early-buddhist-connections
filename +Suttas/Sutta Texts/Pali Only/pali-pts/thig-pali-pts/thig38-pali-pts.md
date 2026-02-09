@@ -25,3 +25,5 @@ paṇṇavīsati vassāni yato pabbajitāya me |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig38-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG38]]
+> ◄  [[thig37-pali-pts]] 📜  [[thig39-pali-pts]] ►

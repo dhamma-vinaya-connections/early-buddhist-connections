@@ -36,7 +36,7 @@ alone in a secluded place and practiced diligently, without negligence—he atta
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.96]] | [[SA264]] |  |
+> |  | [[SA264]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.191]] |
@@ -45,6 +45,7 @@ alone in a secluded place and practiced diligently, without negligence—he atta
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN17]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA61]]
 > ◄  [[ma60-bdk]] 📜  [[ma62-bdk]] ►

@@ -43,3 +43,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.157-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.157]]
+> ◄  [[an3.156-bodhi]] 📜  [[an3.163-bodhi]] ►

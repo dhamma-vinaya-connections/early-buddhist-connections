@@ -23,3 +23,5 @@ yo ca mettena cittena sabbapāṇ'; ānukampati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag237-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG237]]
+> ◄  [[thag236-pali-pts]] 📜  [[thag238-pali-pts]] ►

@@ -23,3 +23,5 @@ yo imasmiṃ dhammavinaye appamatto vihessati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag256-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG256]]
+> ◄  [[thag255-pali-pts]] 📜  [[thag257-pali-pts]] ►

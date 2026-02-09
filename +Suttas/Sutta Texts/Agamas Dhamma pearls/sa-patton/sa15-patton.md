@@ -42,11 +42,12 @@ The monk said to the Buddha, “I’ve understood, Bhagavān! I’ve understood,
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.63-65]], [[SN22.36]] | [[SA15]] |  |
+> |  | [[SA15]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA15]], [[SN22.63-65]], [[SN22.36]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA15]]
 > ◄  [[sa14-patton]] 📜  [[sa16-patton]] ►

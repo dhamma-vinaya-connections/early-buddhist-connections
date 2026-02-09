@@ -56,5 +56,6 @@ He is touched by the spear, and matted hair is a hindrance to the mind; the ligh
 | [[SA-2.177]], [[SA602]], [[SNP1.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.30]]
 > ◄  [[sn1.29-deepseek-pali]] 📜  [[sn1.31-deepseek-pali]] ►

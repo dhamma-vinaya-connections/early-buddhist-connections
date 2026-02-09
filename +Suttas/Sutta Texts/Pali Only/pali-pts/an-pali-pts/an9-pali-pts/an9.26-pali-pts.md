@@ -34,5 +34,6 @@ Yato kho bhikkhave bhikkhuno paññāya cittaṃ suparicitaṃ hoti, tass'; eta�
 | [[SA499]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.26]]
 > ◄  [[an9.25-pali-pts]] 📜  [[an9.27-pali-pts]] ►

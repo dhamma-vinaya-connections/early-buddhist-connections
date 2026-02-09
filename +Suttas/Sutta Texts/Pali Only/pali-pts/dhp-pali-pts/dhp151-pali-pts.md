@@ -24,3 +24,5 @@ appassutāyaṃ puriso balivaddo va jīrati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp151-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP151]]
+> ◄  [[dhp150-pali-pts]] 📜  [[dhp152-pali-pts]] ►

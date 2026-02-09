@@ -23,3 +23,5 @@ santharitvāna saṃghāṭiṃ seyyaṃ kappesi Gotamo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag366-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG366]]
+> ◄  [[thag365-pali-pts]] 📜  [[thag367-pali-pts]] ►

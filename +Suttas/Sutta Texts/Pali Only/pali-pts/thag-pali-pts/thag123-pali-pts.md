@@ -23,3 +23,5 @@ paṅko 'ti hi naṃ avedayuṃ yāyaṃ vandanapūjanā kulesu,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag123-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG123]]
+> ◄  [[thag122-pali-pts]] 📜  [[thag124-pali-pts]] ►

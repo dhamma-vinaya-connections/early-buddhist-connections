@@ -23,3 +23,5 @@ idāni te imaṃ puttaṃ daṇḍena churikāya vā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig301-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG301]]
+> ◄  [[thig300-pali-pts]] 📜  [[thig302-pali-pts]] ►

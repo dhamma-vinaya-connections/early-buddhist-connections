@@ -76,15 +76,16 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN35.88]] | [[SA311]] | M iii 267 |
+> |  | [[SA311]] | M iii 267 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA311]]; [[SN35.88]] |
+| [[SA311]], [[SN35.88]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD1.10]], [[MN21]], [[MN148]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN145]]
 > ◄  [[mn144-bodhi]] 📜  [[mn146-bodhi]] ►

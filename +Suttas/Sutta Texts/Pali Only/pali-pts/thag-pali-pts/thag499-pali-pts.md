@@ -23,3 +23,5 @@ sabbaṃ suṇāti sotena, sabbaṃ passati cakkhunā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag499-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG499]]
+> ◄  [[thag498-pali-pts]] 📜  [[thag500-pali-pts]] ►

@@ -66,11 +66,12 @@ Then the Blessed One, having understood the meaning of this, on that occasion re
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP69]] | [[SA-2.64]], [[SA1237]] |  |
+> |  | [[SA-2.64]], [[SA1237]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.64]], [[SA1237]], [[JA239]], [[DHP69]] |
+| [[SA-2.64]], [[SA1237]], [[JA239]], [[DHP\|DHP69]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
 > ◄  [[sn3.14-bodhi]] 📜  [[sn3.16-bodhi]] ►

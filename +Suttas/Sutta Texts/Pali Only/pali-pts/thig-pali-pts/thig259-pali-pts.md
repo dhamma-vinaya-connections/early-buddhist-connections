@@ -23,3 +23,5 @@ pattalimakulavaṇṇasadisā sobhate su dantā pure mama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig259-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG259]]
+> ◄  [[thig258-pali-pts]] 📜  [[thig260-pali-pts]] ►

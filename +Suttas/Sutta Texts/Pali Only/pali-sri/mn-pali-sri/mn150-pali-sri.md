@@ -83,5 +83,6 @@ Next Sutta
 | [[SA280]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN150]]
 > ◄  [[mn149-pali-sri]] 📜  [[mn151-pali-sri]] ►

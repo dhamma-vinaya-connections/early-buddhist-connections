@@ -152,5 +152,6 @@ Aṭṭhamaṁ.
 | [[EA33.10]], [[MA5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.72]]
 > ◄  [[an7.71-sujato-pali]] 📜  [[an7.73-sujato-pali]] ►

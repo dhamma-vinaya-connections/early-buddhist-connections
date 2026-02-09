@@ -24,3 +24,5 @@ vārijo va thale khitto okamokata ubbhato /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp33-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP33]]
+> ◄  [[dhp32-pali-pts]] 📜  [[dhp34-pali-pts]] ►

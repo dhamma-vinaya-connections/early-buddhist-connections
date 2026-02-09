@@ -26,11 +26,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.24]] |  | A iv 34 |
+> |  |  | A iv 34 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.72]], [[AN6.24]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.40]]
 > ◄  [[an7.39-bodhi]] 📜  [[an7.41-bodhi]] ►

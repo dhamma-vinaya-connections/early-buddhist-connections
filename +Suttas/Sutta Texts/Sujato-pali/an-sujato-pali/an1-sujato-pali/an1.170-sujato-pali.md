@@ -50,5 +50,6 @@ Tathāgato arahaṁ sammāsambuddho. Ayaṁ kho, bhikkhave, ekapuggalo loke uppa
 | [[EA8.2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.170]]
 > ◄  [[an1.161-sujato-pali]] 📜  [[an1.171-sujato-pali]] ►

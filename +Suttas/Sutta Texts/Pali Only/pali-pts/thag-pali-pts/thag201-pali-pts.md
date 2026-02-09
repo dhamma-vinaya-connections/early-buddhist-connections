@@ -24,3 +24,5 @@ tesaṃ ayaṃ pacchimako, carimo 'yaṃ samussayo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag201-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG201]]
+> ◄  [[thag200-pali-pts]] 📜  [[thag202-pali-pts]] ►

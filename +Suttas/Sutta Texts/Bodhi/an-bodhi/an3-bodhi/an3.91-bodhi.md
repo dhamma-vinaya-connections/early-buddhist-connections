@@ -48,11 +48,12 @@ Then the bhikkhu Kassapagotta cleaned up his lodging, took his bowl and robe, an
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.83]], [[AN3.84]], [[SN54.10]] | [[SA813]], [[SA829]], [[SA830-831]], [[SA966]] | A i 236 |
+> |  | [[SA813]], [[SA829]], [[SA830-831]], [[SA966]] | A i 236 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA830-831]], [[AN3.84]], [[SA829]], [[SN54.10]], [[SA813]], [[AN10.83]], [[SA966]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.91]]
 > ◄  [[an3.90-bodhi]] 📜  [[an3.92-bodhi]] ►

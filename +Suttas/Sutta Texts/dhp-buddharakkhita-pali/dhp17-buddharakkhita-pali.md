@@ -126,3 +126,5 @@ Kodhavaggo sattarasamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp17-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP17-BUDDHARAKKHITA]]
+> ◄  [[dhp16-buddharakkhita-pali]] 📜  [[dhp18-buddharakkhita-pali]] ►

@@ -89,4 +89,5 @@ extinguishment is the ultimate happiness
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp15
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp15.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP14]]  🌐 [[DHP16]] ►

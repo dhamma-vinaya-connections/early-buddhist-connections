@@ -23,3 +23,5 @@ saṇhamuddikāsuvaṇṇamaṇḍitā sobhate su hatthā pure mama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig263-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG263]]
+> ◄  [[thig262-pali-pts]] 📜  [[thig264-pali-pts]] ►

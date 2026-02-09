@@ -24,3 +24,5 @@ paṭisanthāravutt'; assa ācārakusalo siyā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp375-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP375]]
+> ◄  [[dhp374-pali-pts]] 📜  [[dhp376-pali-pts]] ►

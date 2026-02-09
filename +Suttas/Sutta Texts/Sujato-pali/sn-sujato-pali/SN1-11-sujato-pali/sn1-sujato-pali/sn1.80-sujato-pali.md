@@ -67,3 +67,5 @@ Ye pāṇā pathavissitā"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.80-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.80]]
+> ◄  [[sn1.79-sujato-pali]] 📜  [[sn1.81-sujato-pali]] ►

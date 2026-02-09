@@ -65,5 +65,6 @@ The Forest is called the tenth; therefore this is called the chapter.
 | [[SA-2.132]], [[SA995]], [[JA538]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
 > ◄  [[sn1.9-deepseek-pali]] 📜  [[sn1.11-deepseek-pali]] ►

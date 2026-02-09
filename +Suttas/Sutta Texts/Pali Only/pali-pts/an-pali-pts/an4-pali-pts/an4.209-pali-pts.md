@@ -31,5 +31,6 @@ PTS: A ii 223
 | [[SA1053]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.209]]
 > ◄  [[an4.208-pali-pts]] 📜  [[an4.211-pali-pts]] ►

@@ -48,7 +48,8 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG4.8]]
+> - [[THAG4]].8
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.3]]
 > ◄  [[ud7.2-deepseek-pali]] 📜  [[ud7.4-deepseek-pali]] ►

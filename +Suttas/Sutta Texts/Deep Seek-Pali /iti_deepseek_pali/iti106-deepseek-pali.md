@@ -44,5 +44,6 @@ This matter, too, was spoken by the Blessed One: so I have heard. Ninth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2:31-32]], [[AN4.63]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI106]]
 > ◄  [[iti105-deepseek-pali]] 📜  [[iti107-deepseek-pali]] ►

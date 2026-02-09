@@ -48,5 +48,6 @@ he has, I say, crossed over birth and old age.”
 | [[SA982]], [[SNP5.4]], [[AN4.41]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.32]]
 > ◄  [[an3.31-bodhi]] 📜  [[an3.33-bodhi]] ►

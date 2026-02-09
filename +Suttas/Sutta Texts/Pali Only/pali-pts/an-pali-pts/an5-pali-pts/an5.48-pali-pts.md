@@ -33,5 +33,6 @@ Pañc'; imāni bhikkhave alabbhanīyāni ṭhānāni samaṇena vā brāhmaṇen
 | [[EA34.6]], [[JA368]], [[AN5.50]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
 > ◄  [[an5.47-pali-pts]] 📜  [[an5.49-pali-pts]] ►

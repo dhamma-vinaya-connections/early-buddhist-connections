@@ -33,5 +33,6 @@ Pañcahi bhikkhave dhammehi samannāgato bhikkhu yathābhataṃ nikkhitto evaṃ
 | [[SA681-683]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.5]]
 > ◄  [[an5.4-pali-pts]] 📜  [[an5.6-pali-pts]] ►

@@ -63,8 +63,9 @@ confidence and vision of the Dhamma.
 > |  |  | A ii 56 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN5.47]], [[SN11.14]], [[SN55.26]], [[THAG8.2]], [[PE3]] |
+| [[AN5.47]], [[SN11.14]], [[SN55.26]], [[THAG8]].2, [[PE3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.52]]
 > ◄  [[an4.51-bodhi]] 📜  [[an4.53-bodhi]] ►

@@ -86,4 +86,5 @@ parallels_partilal: "[[MA127]], [[SA992]], [[EA42.8]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.35
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.35.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.34]]  🌐 [[AN2.36]] ►

@@ -23,3 +23,5 @@ tā piṇḍāya caritvā bhattatthaṃ kariya dhotapattāyo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig401-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG401]]
+> ◄  [[thig400-pali-pts]] 📜  [[thig402-pali-pts]] ►

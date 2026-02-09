@@ -24,3 +24,5 @@ acchariyam abbhutan taṃ nibbānaṃ āsi rājakaññāya |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig516-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG516]]
+> ◄  [[thig515-pali-pts]] 📜  [[thig517-pali-pts]] ►

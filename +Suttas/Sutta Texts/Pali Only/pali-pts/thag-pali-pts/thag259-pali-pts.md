@@ -23,3 +23,5 @@ sambhavā suviditā asārakā saṃkhatā pacalitā sad'; eritā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag259-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG259]]
+> ◄  [[thag258-pali-pts]] 📜  [[thag260-pali-pts]] ►

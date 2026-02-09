@@ -160,3 +160,5 @@ Those who have abandoned sensual desire and anger, with minds at peace regarding
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag14-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG14]]
+> ◄  [[thag13-pali-eng]] 📜  [[thag15-pali-eng]] ►

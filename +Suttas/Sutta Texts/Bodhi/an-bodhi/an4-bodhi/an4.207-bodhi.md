@@ -40,5 +40,6 @@ language: "English"
 | [[SA1053]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.207]]
 > ◄  [[an4.206-bodhi]] 📜  [[an4.208-bodhi]] ►

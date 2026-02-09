@@ -23,3 +23,5 @@ mama saṃkappam aññāya satthā loke anuttaro
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag900-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG900]]
+> ◄  [[thag899-pali-pts]] 📜  [[thag901-pali-pts]] ►

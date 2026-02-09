@@ -95,4 +95,5 @@ what you’ve done or left undone
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp4
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp4.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP3]]  🌐 [[DHP5]] ►

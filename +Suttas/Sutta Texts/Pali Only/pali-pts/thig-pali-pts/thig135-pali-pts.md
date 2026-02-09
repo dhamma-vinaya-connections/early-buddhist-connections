@@ -23,3 +23,5 @@ saṃ cittaṃ paṭiladdhāna vanditvāna upāvisiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig135-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG135]]
+> ◄  [[thig134-pali-pts]] 📜  [[thig136-pali-pts]] ►

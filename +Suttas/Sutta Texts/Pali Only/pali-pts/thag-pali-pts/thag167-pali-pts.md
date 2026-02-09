@@ -23,3 +23,5 @@ tvañ ca me maggam akkhāhi añjasaṃ amatogadhaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag167-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG167]]
+> ◄  [[thag166-pali-pts]] 📜  [[thag168-pali-pts]] ►

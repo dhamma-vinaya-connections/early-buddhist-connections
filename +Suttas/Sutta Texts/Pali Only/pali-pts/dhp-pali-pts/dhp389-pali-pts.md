@@ -24,3 +24,5 @@ na brāhmaṇass'; etad akiñci seyyo yadā nisedho manaso piyehi, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp389-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP389]]
+> ◄  [[dhp388-pali-pts]] 📜  [[dhp390-pali-pts]] ►

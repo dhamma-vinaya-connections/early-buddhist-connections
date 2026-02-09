@@ -92,4 +92,5 @@ makes himself the same as his enemy wishes him to be.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp20
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp20.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP19]]  🌐 [[PDHP21]] ►

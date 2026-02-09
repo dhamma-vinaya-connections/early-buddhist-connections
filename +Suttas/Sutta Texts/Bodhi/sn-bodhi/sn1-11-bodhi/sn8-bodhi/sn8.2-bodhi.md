@@ -93,8 +93,9 @@ Then the Venerable Vaṅgīsa, having dispelled his own dissatisfaction and arou
 > |  | [[SA-2.229]], [[SA1213]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.229]], [[SA1213]], [[THAG21.1]] |
+| [[SA-2.229]], [[SA1213]], [[THAG21]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.2]]
 > ◄  [[sn8.1-bodhi]] 📜  [[sn8.3-bodhi]] ►

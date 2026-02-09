@@ -28,7 +28,7 @@ his own mind, skillfully knows his own mind, skillfully takes up [some qualities
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.54]], [[AN9.6]], [[MN114]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SNP5.4]], [[AN4.41]] |
@@ -37,6 +37,7 @@ his own mind, skillfully knows his own mind, skillfully takes up [some qualities
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.71]], [[AN2.30]], [[AN4.170]], [[AN4.94]], [[AN]], [[MA109]], [[MA114]], [[SN35.204]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA109]]
 > ◄  [[ma108-bdk]] 📜  [[ma110-bdk]] ►

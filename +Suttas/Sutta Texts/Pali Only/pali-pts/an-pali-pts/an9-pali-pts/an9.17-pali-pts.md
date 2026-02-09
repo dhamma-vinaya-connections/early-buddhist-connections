@@ -28,11 +28,12 @@ Imā kho bhikkhave nava saññā bhāvitā bahulīkatā mahapphalā honti mahān
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.13]] |  | A iv 387 |
+> |  |  | A iv 387 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN7.13]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.17]]
 > ◄  [[an9.16-pali-pts]] 📜  [[an9.18-pali-pts]] ►

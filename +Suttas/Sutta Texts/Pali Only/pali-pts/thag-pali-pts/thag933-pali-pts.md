@@ -23,3 +23,5 @@ dhanañ ca puttaṃ bhariyañ ca chaḍḍayitvāna niggatā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag933-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG933]]
+> ◄  [[thag932-pali-pts]] 📜  [[thag934-pali-pts]] ►

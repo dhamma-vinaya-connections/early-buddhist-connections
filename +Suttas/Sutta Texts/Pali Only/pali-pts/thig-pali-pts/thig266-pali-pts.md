@@ -23,3 +23,5 @@ nāgabhogasadisopamā ubho sobhate su ūrū pure mama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig266-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG266]]
+> ◄  [[thig265-pali-pts]] 📜  [[thig267-pali-pts]] ►

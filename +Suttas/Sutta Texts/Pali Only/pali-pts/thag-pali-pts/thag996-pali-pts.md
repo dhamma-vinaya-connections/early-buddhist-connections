@@ -23,3 +23,5 @@ cetopariyāyaiddhiyā cutiyā upapattiyā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag996-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG996]]
+> ◄  [[thag995-pali-pts]] 📜  [[thag997-pali-pts]] ►

@@ -52,5 +52,6 @@ The devas honor one of such a kind."
 | [[SA-2.182]], [[SA597]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.14]]
 > ◄  [[sn2.13-deepseek-pali]] 📜  [[sn2.15-deepseek-pali]] ►

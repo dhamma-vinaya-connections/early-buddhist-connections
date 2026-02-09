@@ -24,3 +24,5 @@ karotha buddhasāsanaṃ yaṃ katvā nānutappati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG12]]
+> ◄  [[thig11-pali-pts]] 📜  [[thig13-pali-pts]] ►

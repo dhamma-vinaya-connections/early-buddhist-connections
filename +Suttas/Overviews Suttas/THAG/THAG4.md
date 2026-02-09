@@ -95,4 +95,5 @@ And I was firmly repulsed.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag4
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag4.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG3]]  🌐 [[THAG5]] ►

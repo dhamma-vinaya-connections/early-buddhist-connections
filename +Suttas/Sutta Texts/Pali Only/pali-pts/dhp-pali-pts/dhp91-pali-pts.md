@@ -25,3 +25,5 @@ suññato animitto ca vimokho yesaṃ gocaro /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp91-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP91]]
+> ◄  [[dhp90-pali-pts]] 📜  [[dhp92-pali-pts]] ►

@@ -44,7 +44,7 @@ sutta_teacher:
   - "Brahma"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[DN18]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SN9.11]]"
 ---
@@ -78,7 +78,7 @@ Observing them keen, aware, and mindful, rid of desire and aversion for the worl
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN18]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN9.11]] |
@@ -101,5 +101,6 @@ Observing them keen, aware, and mindful, rid of desire and aversion for the worl
 > - Sutta Central: https://suttacentral.net/da4/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA3]]  🌐 [[DA5]] ►

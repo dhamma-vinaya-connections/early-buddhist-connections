@@ -117,7 +117,8 @@ Api ca, ānanda, ke ca aññatitthiyā paribbājakā bālā abyattā ke ca tath�
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN41]]; [[MN135]]; [[SN42.13]]; [[AN3.61]]; [[AN4.77]]; [[AN6.63]]; [[AN8.40.]]
+> - [[MN41]], [[MN135]], [[SN42.13]], [[AN3.61]], [[AN4.77]], [[AN6.63]], [[AN8.40.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN136]]
 > ◄  [[mn135-pali-sc]] 📜  [[mn137-pali-sc]] ►

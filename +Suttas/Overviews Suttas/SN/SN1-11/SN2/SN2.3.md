@@ -88,4 +88,5 @@ And a honey tip
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.3
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.2]]  🌐 [[SN2.4]] ►

@@ -124,15 +124,16 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN54.1]]; [[SN54.13-16]] | [[SA-3.15]]; [[SA803]]; [[SA810-812]]; [[SA815]] | M iii 78 |
+> |  | [[SA-3.15]]; [[SA803]]; [[SA810-812]]; [[SA815]] | M iii 78 |
 > > [!check]- Partial parallels 
 > > 
-| [[SN54.1]]; [[MN62]]; [[PLI-TV-BU-VB-PJ3]]; [[SA803]]; [[SA815]]; [[SA810-812]]; [[SN54.13-16]]; [[SA-3.15]] |
+| [[SN54.1]], [[MN62]], [[PLI-TV-BU-VB-PJ3]], [[SA803]], [[SA815]], [[SA810-812]], [[SN54.13-16]], [[SA-3.15]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN119]], [[MN10]], [[DN22]], [[SN54.8]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN118]]
 > ◄  [[mn117-bodhi]] 📜  [[mn119-bodhi]] ►

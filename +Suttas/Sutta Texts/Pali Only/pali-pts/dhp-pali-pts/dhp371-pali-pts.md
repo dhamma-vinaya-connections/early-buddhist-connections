@@ -26,3 +26,5 @@ n'; atthi jhānaṃ apaññassa paññā n'; atthi ajhāyato, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp371-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP371]]
+> ◄  [[dhp370-pali-pts]] 📜  [[dhp372-pali-pts]] ►

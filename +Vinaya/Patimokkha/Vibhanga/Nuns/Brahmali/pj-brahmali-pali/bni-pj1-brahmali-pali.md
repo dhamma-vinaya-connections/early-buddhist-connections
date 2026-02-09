@@ -1569,7 +1569,8 @@ Anujānāmi, bhikkhave, divā paṭisallīyantena dvāraṁ saṁvaritvā paṭi
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pj1-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PJ1]] |
->|       |          | [[ñanatusita-analysis#^-PJ1]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PJ1]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ1]]

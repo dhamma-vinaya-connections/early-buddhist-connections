@@ -23,3 +23,5 @@ yo ve taṃ sahatī jammiṃ taṇhaṃ loke duraccayaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag400-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG400]]
+> ◄  [[thag399-pali-pts]] 📜  [[thag401-pali-pts]] ►

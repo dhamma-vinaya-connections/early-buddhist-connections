@@ -23,3 +23,5 @@ kāmā hi citrā madhurā manoramā virūparūpena mathenti cittaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag786-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG786]]
+> ◄  [[thag785-pali-pts]] 📜  [[thag787-pali-pts]] ►

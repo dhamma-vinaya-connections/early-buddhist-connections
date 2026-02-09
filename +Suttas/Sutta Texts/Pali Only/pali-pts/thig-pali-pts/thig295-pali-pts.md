@@ -23,3 +23,5 @@ etto ceva catubbhāgaṃ yathā bhāsasi taṃ Cāpe |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig295-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG295]]
+> ◄  [[thig294-pali-pts]] 📜  [[thig296-pali-pts]] ►

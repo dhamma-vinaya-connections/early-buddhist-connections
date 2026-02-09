@@ -37,5 +37,10 @@ This too is the meaning of what was said by the Blessed One, so I have heard. Fi
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti79-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN7:17ANDTHIG13:2.]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI79]]
 > ◄  [[iti78-deepseek-pali]] 📜  [[iti80-deepseek-pali]] ►

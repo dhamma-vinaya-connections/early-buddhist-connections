@@ -68,10 +68,11 @@ What are the six? If a monk undertakes bodily deeds of loving-kindness toward hi
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.22]] | [[EA40.2]] |  |
+> |  | [[EA40.2]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA196]], [[MN104]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA142]]
 > ◄  [[ma141-bdk]] 📜  [[ma143-bdk]] ►

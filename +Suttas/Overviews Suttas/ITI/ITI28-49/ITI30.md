@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP140]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]]"
+parallels_partilal: "[[DHP\|DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI29]]  🌐 [[ITI31]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP140]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]] |
+| [[DHP\|DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]]"
 > - Sutta Central: https://suttacentral.net/iti30/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti30
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti30.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI29]]  🌐 [[ITI31]] ►

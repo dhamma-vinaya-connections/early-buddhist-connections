@@ -23,3 +23,5 @@ animittañ ca bhāvehi mānānusayam ujjaha |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig19-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG19]]
+> ◄  [[thig18-pali-pts]] 📜  [[thig20-pali-pts]] ►

@@ -23,3 +23,5 @@ Cutā patanti patitā giddhā ca punar āgatā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag62-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG62]]
+> ◄  [[thag61-pali-pts]] 📜  [[thag63-pali-pts]] ►

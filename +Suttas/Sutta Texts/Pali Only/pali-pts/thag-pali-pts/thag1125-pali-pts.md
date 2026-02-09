@@ -23,3 +23,5 @@ sabbattha te citta vaco kataṃ mayā, bahūsu, jātīsu na me 'si kopito,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1125-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1125]]
+> ◄  [[thag1124-pali-pts]] 📜  [[thag1126-pali-pts]] ►

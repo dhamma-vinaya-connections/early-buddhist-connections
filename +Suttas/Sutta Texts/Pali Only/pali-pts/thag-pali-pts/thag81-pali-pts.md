@@ -23,3 +23,5 @@ Yena yena subhikkhāni sivāni abhayāni ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag81-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG81]]
+> ◄  [[thag80-pali-pts]] 📜  [[thag82-pali-pts]] ►

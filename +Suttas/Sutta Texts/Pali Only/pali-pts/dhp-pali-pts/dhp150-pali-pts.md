@@ -24,3 +24,5 @@ jīranti ve rājarathā sucittā atho sarīram pi jaraṃ upeti /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp150-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP150]]
+> ◄  [[dhp149-pali-pts]] 📜  [[dhp151-pali-pts]] ►

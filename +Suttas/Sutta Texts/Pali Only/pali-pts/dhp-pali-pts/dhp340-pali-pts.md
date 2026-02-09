@@ -24,3 +24,5 @@ saritāni sinehitāni ca somanassāni bhavanti jantuno /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp340-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP340]]
+> ◄  [[dhp339-pali-pts]] 📜  [[dhp341-pali-pts]] ►

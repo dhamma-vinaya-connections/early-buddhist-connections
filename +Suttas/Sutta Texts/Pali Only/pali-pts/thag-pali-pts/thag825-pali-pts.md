@@ -23,3 +23,5 @@ ko nu senāpatī bhoto sāvako satthur anvayo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag825-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG825]]
+> ◄  [[thag824-pali-pts]] 📜  [[thag826-pali-pts]] ►

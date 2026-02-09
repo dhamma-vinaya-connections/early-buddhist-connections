@@ -23,3 +23,5 @@ taṃ tathā devakāyehi pūjitaṃ pūjanārahaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1085-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1085]]
+> ◄  [[thag1084-pali-pts]] 📜  [[thag1086-pali-pts]] ►

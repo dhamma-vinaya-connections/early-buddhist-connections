@@ -23,3 +23,5 @@ buddhānubuddho yo thero Koṇḍañño tibbanikkhamo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1245-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1245]]
+> ◄  [[thag1244-pali-pts]] 📜  [[thag1246-pali-pts]] ►

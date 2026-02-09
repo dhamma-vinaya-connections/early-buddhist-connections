@@ -90,4 +90,5 @@ They’re far from seniority
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.22
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.22.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.21]]  🌐 [[AN4.23]] ►

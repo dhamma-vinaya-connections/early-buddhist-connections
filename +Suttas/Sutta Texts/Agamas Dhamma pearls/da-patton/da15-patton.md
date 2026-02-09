@@ -317,7 +317,7 @@ Translated by Charles Patton
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN24]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.120]], [[AN1.447-454]], [[MN137]], [[AN8.66]], [[DN16]], [[MN77]], [[DN34]], [[DN33]], [[DA13]], [[MA97]], [[AN9.23]] |
@@ -326,6 +326,7 @@ Translated by Charles Patton
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN101]], [[MN137]], [[MN18.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA15]]
 > ◄  [[da14-patton]] 📜  [[da16-patton]] ►

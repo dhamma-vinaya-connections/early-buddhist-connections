@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Lay followers"
-parallels_nikaya: "[[DHP205]], [[JA363]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP205]], [[JA363]], [[JA361]]"
+parallels_partilal: "[[DHP\|DHP205]], [[JA363]], [[JA361]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.2]]  🌐 [[SNP2.4]] ►
 
@@ -69,10 +69,10 @@ That’s a true friend
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP205]], [[JA363]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP205]], [[JA363]], [[JA361]] |
+| [[DHP\|DHP205]], [[JA363]], [[JA361]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -95,5 +95,6 @@ That’s a true friend
 > - Sutta Central: https://suttacentral.net/snp2.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.3
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.3.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.2]]  🌐 [[SNP2.4]] ►

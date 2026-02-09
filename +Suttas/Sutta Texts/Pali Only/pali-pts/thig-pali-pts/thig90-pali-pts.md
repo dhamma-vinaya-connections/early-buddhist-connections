@@ -23,3 +23,5 @@ sabbe bhavā samucchinnā icchā ca patthanā pi ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig90-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG90]]
+> ◄  [[thig89-pali-pts]] 📜  [[thig91-pali-pts]] ►

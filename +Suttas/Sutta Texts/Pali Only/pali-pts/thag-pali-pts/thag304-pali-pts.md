@@ -23,3 +23,5 @@ tasmā hi dhammesu kareyya chandaṃ iti modamāno sugatena tādinā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag304-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG304]]
+> ◄  [[thag303-pali-pts]] 📜  [[thag305-pali-pts]] ►

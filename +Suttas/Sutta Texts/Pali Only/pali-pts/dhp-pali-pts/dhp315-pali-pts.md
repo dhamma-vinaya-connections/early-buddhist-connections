@@ -24,3 +24,5 @@ alajjitāye lajjanti lajjitāye na lajjare /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp315-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP315]]
+> ◄  [[dhp314-pali-pts]] 📜  [[dhp316-pali-pts]] ►

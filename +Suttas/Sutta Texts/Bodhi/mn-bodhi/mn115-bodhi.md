@@ -106,15 +106,16 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN1.268-277]]; [[SN14.1]] | [[MA181]]; [[SA451]] | M iii 61 |
+> |  | [[MA181]]; [[SA451]] | M iii 61 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN1.268-277]]; [[MA181]]; [[SN14.1]]; [[SA451]]; [[AN1.277]]; [[DN28]] |
+| [[AN1.268-277]], [[MA181]], [[SN14.1]], [[SA451]], [[AN1.277]], [[DN28]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN33-34]],]]
+> - [[DN33-34]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN115]]
 > ◄  [[mn114-bodhi]] 📜  [[mn116-bodhi]] ►

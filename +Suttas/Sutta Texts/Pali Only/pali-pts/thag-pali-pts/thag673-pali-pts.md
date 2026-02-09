@@ -23,3 +23,5 @@ bahūni loke citrāni asmiṃ puthuvimaṇḍale
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag673-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG673]]
+> ◄  [[thag672-pali-pts]] 📜  [[thag674-pali-pts]] ►

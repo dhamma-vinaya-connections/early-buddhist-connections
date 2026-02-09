@@ -119,5 +119,6 @@ Vīmaṃsakasuttaṃ sattamaṃ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47.12]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN47]]
 > ◄  [[mn46-pali-sri]] 📜  [[mn48-pali-sri]] ►

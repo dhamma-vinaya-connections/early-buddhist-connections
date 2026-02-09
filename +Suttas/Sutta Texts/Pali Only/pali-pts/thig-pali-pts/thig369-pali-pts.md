@@ -23,3 +23,5 @@ daharā ca apāpikā c'; asi kiṃ te pabbajjā karissati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig369-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG369]]
+> ◄  [[thig368-pali-pts]] 📜  [[thig370-pali-pts]] ►

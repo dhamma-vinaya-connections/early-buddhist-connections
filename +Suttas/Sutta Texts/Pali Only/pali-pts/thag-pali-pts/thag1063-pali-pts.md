@@ -23,3 +23,5 @@ nīlabbhakūṭasadisā kūṭāgāravarūpamā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1063-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1063]]
+> ◄  [[thag1062-pali-pts]] 📜  [[thag1064-pali-pts]] ►

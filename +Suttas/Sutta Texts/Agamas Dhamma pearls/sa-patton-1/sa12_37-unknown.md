@@ -40,3 +40,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa12_37-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA12_37]]
+> ◄  [[SA12_34]] 📜  [[SA13_1]] ►

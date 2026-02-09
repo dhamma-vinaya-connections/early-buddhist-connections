@@ -69,3 +69,5 @@ The Ten Training Rules
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP2]]
+> ◄  [[kp1-sujato-pali]] 📜  [[kp3-sujato-pali]] ►

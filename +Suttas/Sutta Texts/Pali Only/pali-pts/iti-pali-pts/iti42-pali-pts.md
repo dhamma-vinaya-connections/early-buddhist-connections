@@ -39,8 +39,9 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||5||
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG18.1]], [[AN2.8]] |
+| [[THAG18]].1, [[AN2.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI42]]
 > ◄  [[iti41-pali-pts]] 📜  [[iti43-pali-pts]] ►

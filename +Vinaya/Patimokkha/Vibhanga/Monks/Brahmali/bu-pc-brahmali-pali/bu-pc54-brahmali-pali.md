@@ -99,7 +99,8 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṁ, moghapurisa, anādar
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc54-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC54]] |
->|       |          | [[ñanatusita-analysis#^PC54]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC54]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC54]]

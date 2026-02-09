@@ -48,11 +48,12 @@ language: "English - Pali"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.78]] |  | A ii 33 |
+> |  |  | A ii 33 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN22.78]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.33]]
 > ◄  [[an4.32-deepseek-pali]] 📜  [[an4.34-deepseek-pali]] ►

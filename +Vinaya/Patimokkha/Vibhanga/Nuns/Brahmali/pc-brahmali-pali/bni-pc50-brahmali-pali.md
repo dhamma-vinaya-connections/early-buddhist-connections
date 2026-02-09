@@ -83,7 +83,8 @@ Cittāgāravaggo pañcamo.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc50-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC50]] |
->|       |          | [[ñanatusita-analysis#^-PC50]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC50]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC50]]

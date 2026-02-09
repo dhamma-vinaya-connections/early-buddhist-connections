@@ -24,3 +24,5 @@ naṅgalehi kasaṃ khettaṃ bījāni pavapaṃ chamā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig111-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG111]]
+> ◄  [[thig110-pali-pts]] 📜  [[thig112-pali-pts]] ►

@@ -39,5 +39,6 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 | [[AN10.39]], [[PLI-TV-KD17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI18]]
 > ◄  [[iti17-pali-sc]] 📜  [[iti19-pali-sc]] ►

@@ -102,5 +102,6 @@ That is what the Blessed One said. The venerable Anuruddha was satisfied and del
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN2]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN68]]
 > ◄  [[mn67-bodhi]] 📜  [[mn69-bodhi]] ►

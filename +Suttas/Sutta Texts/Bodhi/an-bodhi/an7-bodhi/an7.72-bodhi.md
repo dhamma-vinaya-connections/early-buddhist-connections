@@ -80,5 +80,6 @@ This is what the Blessed One said. Now while this exposition was being spoken, s
 | [[EA33.10]], [[MA5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.72]]
 > ◄  [[an7.71-bodhi]] 📜  [[an7.73-bodhi]] ►

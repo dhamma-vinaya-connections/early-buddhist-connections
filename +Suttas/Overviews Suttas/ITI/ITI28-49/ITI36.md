@@ -86,4 +86,5 @@ parallels_partilal: "[[AN4.25]], [[ITI35]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti36
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti36.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI35]]  🌐 [[ITI37]] ►

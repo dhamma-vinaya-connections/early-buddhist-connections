@@ -29,3 +29,5 @@ This meaning too was spoken by the Blessed One, thus have I heard. Second.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI2]]
+> ◄  [[iti1-deepseek-pali]] 📜  [[iti3-deepseek-pali]] ►

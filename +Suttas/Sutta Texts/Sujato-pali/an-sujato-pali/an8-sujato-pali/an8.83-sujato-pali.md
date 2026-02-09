@@ -62,11 +62,12 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.58]] | [[MA113]] | A iv 338 |
+> |  | [[MA113]] | A iv 338 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.58]], [[MA113]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.83]]
 > ◄  [[an8.82-sujato-pali]] 📜  [[an8.84-sujato-pali]] ►

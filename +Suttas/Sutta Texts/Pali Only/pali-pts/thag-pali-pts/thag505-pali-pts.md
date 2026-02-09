@@ -24,3 +24,5 @@ _AṬṬHA-NIPĀTO. 53_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag505-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG505]]
+> ◄  [[thag504-pali-pts]] 📜  [[thag506-pali-pts]] ►

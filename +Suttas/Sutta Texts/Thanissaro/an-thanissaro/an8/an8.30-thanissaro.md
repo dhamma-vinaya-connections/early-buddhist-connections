@@ -109,12 +109,13 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  | [[EA42.6]], [[MA74]] | A iv 228 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA42.6]], [[MA74]], [[DN34]], [[THAG16.9]] |
+| [[EA42.6]], [[MA74]], [[DN34]], [[THAG16]].9 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN48.10]], [[AN4.28]], [[AN8.53]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.30]]
 > ◄  [[an8.28-thanissaro]] 📜  [[an8.39-thanissaro]] ►

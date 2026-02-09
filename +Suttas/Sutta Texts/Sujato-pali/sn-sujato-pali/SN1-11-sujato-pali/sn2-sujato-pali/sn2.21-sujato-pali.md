@@ -122,5 +122,6 @@ sabbadukkhā pamuccatī"ti.
 | [[SA-2.301]], [[SA1302]], [[JA537]], [[SN1.31]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.21]]
 > ◄  [[sn2.20-sujato-pali]] 📜  [[sn2.22-sujato-pali]] ►

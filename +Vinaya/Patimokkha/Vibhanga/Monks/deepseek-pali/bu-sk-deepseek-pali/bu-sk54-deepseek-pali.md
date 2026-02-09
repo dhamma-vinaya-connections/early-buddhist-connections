@@ -40,7 +40,8 @@ The second training rule is completed.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk54-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK54]] |
->|       |          | [[ñanatusita-analysis#^SK54]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK54]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK54]]

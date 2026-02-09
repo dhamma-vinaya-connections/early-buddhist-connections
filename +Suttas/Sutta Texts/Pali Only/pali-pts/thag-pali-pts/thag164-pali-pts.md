@@ -23,3 +23,5 @@ Satimā paññavā bhikkhu āraddhabalavīriyo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag164-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG164]]
+> ◄  [[thag163-pali-pts]] 📜  [[thag165-pali-pts]] ►

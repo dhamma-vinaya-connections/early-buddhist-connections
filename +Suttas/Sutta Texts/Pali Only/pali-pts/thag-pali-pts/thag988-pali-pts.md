@@ -23,3 +23,5 @@ yo papañcam anuyutto papañcābhirato mago,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag988-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG988]]
+> ◄  [[thag987-pali-pts]] 📜  [[thag989-pali-pts]] ►

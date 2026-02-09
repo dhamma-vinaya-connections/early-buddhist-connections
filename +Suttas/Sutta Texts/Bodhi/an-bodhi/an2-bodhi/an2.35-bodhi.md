@@ -48,5 +48,6 @@ This is what the Blessed One said. Having said this, the Fortunate One, the Teac
 | [[MA127]], [[SA992]], [[EA42.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.35]]
 > ◄  [[an2.34-bodhi]] 📜  [[an2.36-bodhi]] ►

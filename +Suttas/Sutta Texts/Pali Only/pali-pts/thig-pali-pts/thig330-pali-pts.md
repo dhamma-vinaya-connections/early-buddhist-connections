@@ -23,3 +23,5 @@ tuvaṃ nissāya kalyāṇi therīsaṅghassa sobhaṇe |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig330-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG330]]
+> ◄  [[thig329-pali-pts]] 📜  [[thig331-pali-pts]] ►

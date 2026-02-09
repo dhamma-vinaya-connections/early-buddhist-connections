@@ -23,3 +23,5 @@ buddhesu sagāravatā dhamme apaciti yathābhūtaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag588-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG588]]
+> ◄  [[thag587-pali-pts]] 📜  [[thag589-pali-pts]] ►

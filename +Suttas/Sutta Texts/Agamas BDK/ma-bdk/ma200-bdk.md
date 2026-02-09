@@ -58,7 +58,7 @@ My teaching is well spoken, revealed and disseminated without defi- ciency, tran
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN21]], [[MN22]] | [[EA43.5]], [[EA50.8]], [[MA193]] |  |
+> |  | [[EA43.5]], [[EA50.8]], [[MA193]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MA189]], [[]], [[AN4.30]], [[SN22.62]] |
@@ -67,6 +67,7 @@ My teaching is well spoken, revealed and disseminated without defi- ciency, tran
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN63]], [[SN22.23]], [[SN56.31]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA200]]
 > ◄  [[ma199-bdk]] 📜  [[ma201-bdk]] ►

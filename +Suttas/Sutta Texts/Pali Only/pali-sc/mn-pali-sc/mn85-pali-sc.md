@@ -358,11 +358,12 @@ Esāhaṁ, samma sañjikāputta, tatiyakampi bhagavantaṁ saraṇaṁ gacchāmi
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP353]]; [[DN14]]; [[MN100]]; [[MN20]]; [[MN26]]; [[MN36]]; [[SN6.1]] | [[DA20]]; [[DA21]]; [[DA22]]; [[EA19.1]]; [[EA24.5]]; [[EA31.8]]; [[MA101]]; [[MA204]] | M ii 91 |
+> |  | [[DA20]]; [[DA21]]; [[DA22]]; [[EA19.1]]; [[EA24.5]]; [[EA31.8]]; [[MA101]]; [[MA204]] | M ii 91 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN100]]; [[MN36]]; [[EA31.8]]; [[DA20]]; [[DA21]]; [[DA22]]; [[PLI-TV-KD15]]; [[DN14]]; [[SN6.1]]; [[MA204]]; [[MN26]]; [[PLI-TV-KD17]]; [[DHP353]]; [[PLI-TV-KD1]]; [[ITI38]]; [[SN11.17]]; [[EA19.1]]; [[EA24.5]]; [[MN20]]; [[MN4]]; [[MA101]] |
+| [[MN100]], [[MN36]], [[EA31.8]], [[DA20]], [[DA21]], [[DA22]], [[PLI-TV-KD15]], [[DN14]], [[SN6.1]], [[MA204]], [[MN26]], [[PLI-TV-KD17]], [[DHP\|DHP353]], [[PLI-TV-KD1]], [[ITI38]], [[SN11.17]], [[EA19.1]], [[EA24.5]], [[MN20]], [[MN4]], [[MA101]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN85]]
 > ◄  [[mn84-pali-sc]] 📜  [[mn86-pali-sc]] ►

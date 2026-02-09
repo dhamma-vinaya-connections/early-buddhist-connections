@@ -36,7 +36,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN5.140]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN5.140]], [[MN2]], [[MN125]], [[AN4.157]], [[AN4.165]], [[PLI-TV-KD1]], [[PLI-TV-BU-VB-PC65]], [[PLI-TV-BI-VB-PC71]], [[AN4.164]]"
 ---
@@ -66,7 +66,7 @@ parallels_partilal: "[[AN5.140]], [[MN2]], [[MN125]], [[AN4.157]], [[AN4.165]], 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.140]] |  | A ii 116 |
+> |  |  | A ii 116 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.140]], [[MN2]], [[MN125]], [[AN4.157]], [[AN4.165]], [[PLI-TV-KD1]], [[PLI-TV-BU-VB-PC65]], [[PLI-TV-BI-VB-PC71]], [[AN4.164]] |
@@ -89,5 +89,6 @@ parallels_partilal: "[[AN5.140]], [[MN2]], [[MN125]], [[AN4.157]], [[AN4.165]], 
 > - Sutta Central: https://suttacentral.net/an4.114/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.114
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.114.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.113]]  🌐 [[AN4.115]] ►

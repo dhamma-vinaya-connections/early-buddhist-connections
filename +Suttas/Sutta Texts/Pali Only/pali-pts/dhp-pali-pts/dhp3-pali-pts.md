@@ -33,5 +33,6 @@ ye taṃ upanayhanti veraṃ tesaṃ na sammati.
 | [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP3]]
 > ◄  [[dhp2-pali-pts]] 📜  [[dhp4-pali-pts]] ►

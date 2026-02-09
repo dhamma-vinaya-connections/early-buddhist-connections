@@ -105,5 +105,10 @@ Jatukaṇṇimāṇavapucchā ekādasamā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.12-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN26]], [[MN49]], [[SN4.19]], [[SN4.21]], [[SN35.115]], [[SN35.189]], [[SN35.199]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.12]]
 > ◄  [[snp5.11-sujato-pali]] 📜  [[snp5.13-sujato-pali]] ►

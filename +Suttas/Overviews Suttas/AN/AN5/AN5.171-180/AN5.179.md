@@ -89,4 +89,5 @@ parallels_partilal: "[[MA128]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.179
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.179.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.178]]  🌐 [[AN5.180]] ►

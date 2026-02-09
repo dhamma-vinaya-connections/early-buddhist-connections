@@ -89,4 +89,5 @@ Developed, well tamed, he awaits the time.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.29
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.29.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.28]]  🌐 [[SN2.30]] ►

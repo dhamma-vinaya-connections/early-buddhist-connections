@@ -24,3 +24,5 @@ Vātarogābhinīto tvaṃ viharaṃ kānane vane
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag349-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG349]]
+> ◄  [[thag348-pali-pts]] 📜  [[thag350-pali-pts]] ►

@@ -29,3 +29,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti71-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI71]]
+> ◄  [[iti70-pali-sc]] 📜  [[iti72-pali-sc]] ►

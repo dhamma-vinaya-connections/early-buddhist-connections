@@ -62,5 +62,6 @@ Thoughts, honor, sound, decline, the world, the foul; Dhamma, darkness, stain, a
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.28]], [[UD3:10]], [[MN5]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI88]]
 > ◄  [[iti87-deepseek-pali]] 📜  [[iti89-deepseek-pali]] ►

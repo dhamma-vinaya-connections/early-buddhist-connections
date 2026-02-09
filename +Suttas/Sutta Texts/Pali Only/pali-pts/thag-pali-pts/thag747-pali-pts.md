@@ -24,3 +24,5 @@ ko so pāraṃgato loke, ko patto amatogadhaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag747-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG747]]
+> ◄  [[thag746-pali-pts]] 📜  [[thag748-pali-pts]] ►

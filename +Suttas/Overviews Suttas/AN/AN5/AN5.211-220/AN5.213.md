@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[UD8.6]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DN33]], [[PLI-TV-KD6]], [[UD8.6]], [[DN16]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[DN33]], [[PLI-TV-KD6]], [[UD8.6]], [[DN16]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[UD8.6]] |  | A iii 252 |
+> |  |  | A iii 252 |
 > > [!check]- Partial parallels 
 > > 
 | [[DN33]], [[PLI-TV-KD6]], [[UD8.6]], [[DN16]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[DN33]], [[PLI-TV-KD6]], [[UD8.6]], [[DN16]]"
 > - Sutta Central: https://suttacentral.net/an5.213/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.213
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.213.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.212]]  🌐 [[AN5.214]] ►

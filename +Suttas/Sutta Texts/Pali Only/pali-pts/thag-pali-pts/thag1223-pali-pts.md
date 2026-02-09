@@ -23,3 +23,5 @@ saññāya vipariyesā cittan te pariḍayhati;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1223-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1223]]
+> ◄  [[thag1222-pali-pts]] 📜  [[thag1224-pali-pts]] ►

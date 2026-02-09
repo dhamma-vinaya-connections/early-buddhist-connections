@@ -28,11 +28,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN55.38]] |  | A ii 140 |
+> |  |  | A ii 140 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.61]], [[AN3.95]], [[AN10.62]], [[SN55.38]], [[SN12.23]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.147]]
 > ◄  [[an4.146-bodhi]] 📜  [[an4.148-bodhi]] ►

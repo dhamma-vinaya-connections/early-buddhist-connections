@@ -56,5 +56,6 @@ gabbho assatariṁ yathā"ti.
 | [[AN4.68]], [[PLI-TV-KD17]], [[SN17.35]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.12]]
 > ◄  [[sn6.11-sujato-pali]] 📜  [[sn6.13-sujato-pali]] ►

@@ -32,3 +32,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||8||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI8]]
+> ◄  [[iti7-pali-pts]] 📜  [[iti9-pali-pts]] ►

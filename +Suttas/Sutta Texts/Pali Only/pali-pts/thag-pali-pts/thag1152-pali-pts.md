@@ -23,3 +23,5 @@ evañ ce taṃ jano jaññā yathā jānāmi taṃ ahaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1152-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1152]]
+> ◄  [[thag1151-pali-pts]] 📜  [[thag1153-pali-pts]] ►

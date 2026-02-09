@@ -24,3 +24,5 @@ udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp144-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP144]]
+> ◄  [[dhp142-pali-pts]] 📜  [[dhp145-pali-pts]] ►

@@ -24,3 +24,5 @@ cutiṃ yo vedi sattānaṃ upapattiñ ca sabbaso /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp418-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP418]]
+> ◄  [[dhp417-pali-pts]] 📜  [[dhp419-pali-pts]] ►

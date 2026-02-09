@@ -97,4 +97,5 @@ always delighting in quenching
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig3
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG2]]  🌐 [[THIG4]] ►

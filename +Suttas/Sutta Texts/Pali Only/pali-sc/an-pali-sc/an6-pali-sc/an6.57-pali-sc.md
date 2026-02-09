@@ -78,5 +78,6 @@ Tatiyaṁ.
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.57]]
 > ◄  [[an6.56-pali-sc]] 📜  [[an6.58-pali-sc]] ►

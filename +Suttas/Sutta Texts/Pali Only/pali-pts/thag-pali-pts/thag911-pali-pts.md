@@ -23,3 +23,5 @@ ath'; addasāsiṃ sambuddhaṃ satthāraṃ akutobhayaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag911-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG911]]
+> ◄  [[thag910-pali-pts]] 📜  [[thag912-pali-pts]] ►

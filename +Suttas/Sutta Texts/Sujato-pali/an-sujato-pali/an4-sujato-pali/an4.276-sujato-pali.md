@@ -33,3 +33,5 @@ Tatiyaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.276-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.276]]
+> ◄  [[an4.275-sujato-pali]] 📜  [[an4.277-sujato-pali]] ►

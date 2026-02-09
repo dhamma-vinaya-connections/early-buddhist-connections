@@ -341,5 +341,6 @@ Kappo rogo parihānī bhikkhunī sugatena cāti. (this footnote can not be locat
 | [[AN10.220]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.16]]
 > ◄  [[an2.15-pali-sri]] 📜  [[an2.17-pali-sri]] ►

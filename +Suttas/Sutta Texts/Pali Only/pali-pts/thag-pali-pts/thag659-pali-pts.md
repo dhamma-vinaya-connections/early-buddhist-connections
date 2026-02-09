@@ -23,3 +23,5 @@ evaṃ paññāya ye tittā samuddo vārinā yathā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag659-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG659]]
+> ◄  [[thag658-pali-pts]] 📜  [[thag660-pali-pts]] ►

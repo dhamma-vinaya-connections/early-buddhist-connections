@@ -42,5 +42,6 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 | [[MN92]], [[SNP3.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI100]]
 > ◄  [[iti99-pali-sc]] 📜  [[iti101-pali-sc]] ►

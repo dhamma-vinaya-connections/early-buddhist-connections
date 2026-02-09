@@ -149,5 +149,6 @@ Tatiyaṁ.
 | [[AN3.85]], [[MA125]], [[ITI30]], [[ITI64]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.45]]
 > ◄  [[an6.44-pali-sc]] 📜  [[an6.46-pali-sc]] ►

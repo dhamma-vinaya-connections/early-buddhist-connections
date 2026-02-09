@@ -23,3 +23,5 @@ brahmabandhu pure āsiṃ so idāni 'mhi brāhmaṇo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig289-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG289]]
+> ◄  [[thig288-pali-pts]] 📜  [[thig290-pali-pts]] ►

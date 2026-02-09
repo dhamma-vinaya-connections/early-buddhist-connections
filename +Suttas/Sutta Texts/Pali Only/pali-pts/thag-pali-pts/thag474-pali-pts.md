@@ -23,3 +23,5 @@ kicchā laddho ayaṃ putto sukhumālo sukhedito,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag474-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG474]]
+> ◄  [[thag473-pali-pts]] 📜  [[thag475-pali-pts]] ►

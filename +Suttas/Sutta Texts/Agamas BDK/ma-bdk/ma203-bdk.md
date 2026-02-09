@@ -66,7 +66,7 @@ or brahmins, I would say, “Venerable friends, I abstain from worldliness. I ha
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN54]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.4-9]] |
@@ -75,6 +75,7 @@ or brahmins, I would say, “Venerable friends, I abstain from worldliness. I ha
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN137]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA203]]
 > ◄  [[ma202-bdk]] 📜  [[ma204-bdk]] ►

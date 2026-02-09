@@ -23,3 +23,5 @@ tiṭṭha makkaṭa mā dhāvi, na hi te taṃ yathā pure;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag125-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG125]]
+> ◄  [[thag124-pali-pts]] 📜  [[thag126-pali-pts]] ►

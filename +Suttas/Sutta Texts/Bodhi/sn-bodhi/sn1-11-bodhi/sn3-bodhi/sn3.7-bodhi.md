@@ -44,5 +44,6 @@ At Sāvatthī. Sitting to one side, King Pasenadi of Kosala said to the Blesse
 | [[SA-2.57]], [[SA1231]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.7]]
 > ◄  [[sn3.6-bodhi]] 📜  [[sn3.8-bodhi]] ►

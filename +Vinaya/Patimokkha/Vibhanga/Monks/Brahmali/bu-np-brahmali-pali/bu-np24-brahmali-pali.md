@@ -117,7 +117,8 @@ Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhi
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np24-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP24]] |
->|       |          | [[ñanatusita-analysis#^NP24]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP24]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP24]]

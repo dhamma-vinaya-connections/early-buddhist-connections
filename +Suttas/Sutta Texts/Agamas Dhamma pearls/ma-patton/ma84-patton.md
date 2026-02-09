@@ -96,11 +96,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.72]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA21.4]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA84]]
 > ◄  [[ma83-patton]] 📜  [[ma85-patton]] ►

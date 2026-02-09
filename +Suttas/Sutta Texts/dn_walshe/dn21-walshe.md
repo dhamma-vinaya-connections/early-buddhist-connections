@@ -330,5 +330,6 @@ Such were the questions which Sakka, ruler of the gods, was desirous to ask, and
 | [[DA14]], [[MA134]], [[SNP3.6]], [[SN22.4]], [[SA552]], [[SA505]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
 > ◄  [[dn20-walshe]] 📜  [[dn22-walshe]] ►

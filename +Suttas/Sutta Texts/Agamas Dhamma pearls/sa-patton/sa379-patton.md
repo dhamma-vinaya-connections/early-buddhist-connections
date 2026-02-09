@@ -71,11 +71,12 @@ Kauṇḍinya said to the Buddha, “I’ve known it, Sugata!”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN56.11]], [[SN56.12]] | [[EA19.2]], [[MA204]] |  |
+> |  | [[EA19.2]], [[MA204]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[EA19.2]], [[MA204]], [[SN56.11]], [[SN56.12]], [[pli-tv-kd1]] |
+| [[EA19.2]], [[MA204]], [[SN56.11]], [[SN56.12]], [[PLI-TV-KD1]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA4]]  / 🌐 [[SA379]]
 > ◄  [[sa371-patton]] 📜  [[sa380-patton]] ►

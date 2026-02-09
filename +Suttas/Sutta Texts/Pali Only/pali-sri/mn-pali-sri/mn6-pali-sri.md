@@ -111,11 +111,12 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.71]]; [[AN2.36:2.1]] | [[MA105]] | M i 33 |
+> |  | [[MA105]] | M i 33 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN10.71]]; [[MA105]]; [[AN2.36:2.1]]; [[DN2]]; [[SN47.46]] |
+| [[AN10.71]], [[MA105]], [[AN2.36:2.1]], [[DN2]], [[SN47.46]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN6]]
 > ◄  [[mn5-pali-sri]] 📜  [[mn7-pali-sri]] ►

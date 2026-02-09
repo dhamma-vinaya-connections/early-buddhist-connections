@@ -43,5 +43,6 @@ Abhikkantaṃ bho Kaccāna . . . pe . . . Upāsakaṃ maṃ bhavaṃ Kaccāno dh
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.94]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.38]]
 > ◄  [[an2.37-pali-pts]] 📜  [[an2.39-pali-pts]] ►

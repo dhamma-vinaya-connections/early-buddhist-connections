@@ -23,3 +23,5 @@ tassa mevaṃ viharato passa viriyaparakkamaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag223-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG223]]
+> ◄  [[thag222-pali-pts]] 📜  [[thag224-pali-pts]] ►

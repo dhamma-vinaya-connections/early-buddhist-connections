@@ -189,5 +189,6 @@ Evameva kho, āvuso, sace bhikkhu paccavekkhamāno sabbepime pāpake akusale dha
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN40]], [[MN5]], [[MN7]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN15]]
 > ◄  [[mn14-pali-sc]] 📜  [[mn16-pali-sc]] ►

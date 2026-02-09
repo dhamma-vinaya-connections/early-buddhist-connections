@@ -23,3 +23,5 @@ sabbamitto sabbasakho sabbabhūtānukampako
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag647-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG647]]
+> ◄  [[thag646-pali-pts]] 📜  [[thag648-pali-pts]] ►

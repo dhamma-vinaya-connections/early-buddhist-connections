@@ -33,9 +33,5 @@ What is “knowing the cessation of dukkha ”? The cessation of craving is the 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma111-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN6.63]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA111]]
 > ◄  [[ma110-bdk]] 📜  [[ma112-bdk]] ►

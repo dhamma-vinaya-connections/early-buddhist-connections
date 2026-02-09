@@ -201,12 +201,13 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  | [[MA146]] | M i 175 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA146]]; [[DN2]]; [[MN38]]; [[MN76]]; [[MN94]]; [[MN101]]; [[AN10.99]]; [[AN4.198]]; [[MN51]]; [[SN35.120]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN53]]; [[MN60]]; [[MN79]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN5.76]]; [[AN5.140]]; [[AN11.17]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[MN33]] |
+| [[MA146]], [[DN2]], [[MN38]], [[MN76]], [[MN94]], [[MN101]], [[AN10.99]], [[AN4.198]], [[MN51]], [[SN35.120]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN53]], [[MN60]], [[MN79]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN5.76]], [[AN5.140]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN27]]
 > ◄  [[mn26-thanissaro]] 📜  [[mn28-thanissaro]] ►

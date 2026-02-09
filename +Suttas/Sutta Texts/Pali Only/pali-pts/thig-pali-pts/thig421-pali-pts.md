@@ -23,3 +23,5 @@ bhikkhāya ca vicarantaṃ damakaṃ dantaṃ me pitā bhaṇati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig421-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG421]]
+> ◄  [[thig420-pali-pts]] 📜  [[thig422-pali-pts]] ►

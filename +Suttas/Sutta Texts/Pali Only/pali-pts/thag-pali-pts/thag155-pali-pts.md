@@ -23,3 +23,5 @@ pahāy'; anappake bhoge uñchāpattāgate ratā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag155-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG155]]
+> ◄  [[thag154-pali-pts]] 📜  [[thag156-pali-pts]] ►

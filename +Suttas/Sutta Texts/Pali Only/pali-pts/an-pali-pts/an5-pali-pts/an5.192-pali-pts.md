@@ -33,5 +33,6 @@ Atha kho Doṇo brāhmaṇo yena Bhagavā ten'; upasaṅkami, upasaṅkamitvā B
 | [[MA158]], [[DN13]], [[DN3]], [[MN95]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
 > ◄  [[an5.191-pali-pts]] 📜  [[an5.193-pali-pts]] ►

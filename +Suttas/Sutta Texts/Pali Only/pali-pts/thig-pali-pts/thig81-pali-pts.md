@@ -24,3 +24,5 @@ Sīhā. ||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig81-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG81]]
+> ◄  [[thig80-pali-pts]] 📜  [[thig82-pali-pts]] ►

@@ -24,3 +24,5 @@ nekkhaṃ jambonadasseva ko taṃ ninditum arahati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp229-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP229]]
+> ◄  [[dhp228-pali-pts]] 📜  [[dhp230-pali-pts]] ►

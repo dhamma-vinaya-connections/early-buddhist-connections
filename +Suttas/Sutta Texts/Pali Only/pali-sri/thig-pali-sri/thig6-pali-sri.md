@@ -551,3 +551,5 @@ Chakkanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG6]]
+> ◄  [[thig5-pali-sri]] 📜  [[thig7-pali-sri]] ►

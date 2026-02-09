@@ -42,3 +42,5 @@ Last Revised: 1 November 2022
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa750-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA750]]
+> ◄  [[sa749-patton]] 📜  [[sa751-patton]] ►

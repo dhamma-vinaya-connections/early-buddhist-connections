@@ -26,3 +26,5 @@ attā hi attano nātho attā hi attano gati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp379-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP379]]
+> ◄  [[dhp378-pali-pts]] 📜  [[dhp380-pali-pts]] ►

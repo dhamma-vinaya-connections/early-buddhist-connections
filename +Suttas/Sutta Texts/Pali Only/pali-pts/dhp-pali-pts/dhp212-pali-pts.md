@@ -24,3 +24,5 @@ pemato jāyatī soko pemato jāyatī bhayaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp212-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP212]]
+> ◄  [[dhp211-pali-pts]] 📜  [[dhp213-pali-pts]] ►

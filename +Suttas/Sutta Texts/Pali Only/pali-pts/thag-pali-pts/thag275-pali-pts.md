@@ -23,3 +23,5 @@ yadā ca avijānantā iriyanty amarā viyā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag275-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG275]]
+> ◄  [[thag272-pali-pts]] 📜  [[thag276-pali-pts]] ►

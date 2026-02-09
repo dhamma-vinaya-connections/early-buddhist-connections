@@ -27,3 +27,5 @@ The World-honored One replied: Brahmin, you are asking for a dependence of what 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma159-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA159]]
+> ◄  [[ma158-bdk]] 📜  [[ma160-bdk]] ►

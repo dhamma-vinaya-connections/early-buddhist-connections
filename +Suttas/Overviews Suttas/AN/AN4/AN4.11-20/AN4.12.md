@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[ITI111]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[ITI111]], [[AN10.71]], [[AN10.17]], [[DN33]], [[DN34]]"
 ---
@@ -67,7 +67,7 @@ Lost among things that delude
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[ITI111]] |  | A ii 14 |
+> |  |  | A ii 14 |
 > > [!check]- Partial parallels 
 > > 
 | [[ITI111]], [[AN10.71]], [[AN10.17]], [[DN33]], [[DN34]] |
@@ -90,5 +90,6 @@ Lost among things that delude
 > - Sutta Central: https://suttacentral.net/an4.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.12
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.12.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.11]]  🌐 [[AN4.13]] ►

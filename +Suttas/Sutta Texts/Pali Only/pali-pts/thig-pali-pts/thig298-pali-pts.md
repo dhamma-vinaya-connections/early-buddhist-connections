@@ -23,3 +23,5 @@ sākunitikko va sakuṇiṃ yathā bandhitum icchati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig298-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG298]]
+> ◄  [[thig297-pali-pts]] 📜  [[thig299-pali-pts]] ►

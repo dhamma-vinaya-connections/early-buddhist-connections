@@ -51,8 +51,9 @@ When this was said, the brahmin Udaya said to the Blessed One: "Excellent, Maste
 > |  | [[SA-2.80]], [[SA1157]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.80]], [[SA1157]], [[THAG10.1]] |
+| [[SA-2.80]], [[SA1157]], [[THAG10]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.12]]
 > ◄  [[sn7.11-deepseek-pali]] 📜  [[sn7.13-deepseek-pali]] ►

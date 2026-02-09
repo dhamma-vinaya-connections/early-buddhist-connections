@@ -95,4 +95,5 @@ my mind adores that place
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig8
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG7]]  🌐 [[THIG9]] ►

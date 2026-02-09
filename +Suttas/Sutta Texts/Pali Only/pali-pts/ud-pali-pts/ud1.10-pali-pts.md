@@ -51,5 +51,6 @@ evam me sutaṃ. ekaṃ samayaṃ bhagavā Sāvatthiyaṃ viharati Jetavane Anā
 | [[SN35.95]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.10]]
 > ◄  [[ud1.8-pali-pts]] 📜  [[ud2.3-pali-pts]] ►

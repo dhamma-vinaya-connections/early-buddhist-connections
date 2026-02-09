@@ -24,3 +24,5 @@ yassa gatiṃ na jānanti devā gandhabbamānusā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp419-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP419]]
+> ◄  [[dhp418-pali-pts]] 📜  [[dhp420-pali-pts]] ►

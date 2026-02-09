@@ -23,3 +23,5 @@ kin nu uddissa muṇḍā si samaṇī viya dissasi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig182-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG182]]
+> ◄  [[thig181-pali-pts]] 📜  [[thig183-pali-pts]] ►

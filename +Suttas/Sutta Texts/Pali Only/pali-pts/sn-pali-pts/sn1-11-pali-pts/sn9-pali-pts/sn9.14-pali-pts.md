@@ -54,11 +54,12 @@ Ayoniso Majjhantikālamhi ca || Pākatindriya-padumapupphena cuddasa bhaveti || 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA392]] | [[SA-2.358]], [[SA1338]] |  |
+> |  | [[SA-2.358]], [[SA1338]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.358]], [[SA1338]], [[JA392]], [[THAG14.1]], [[THAG17.2]] |
+| [[SA-2.358]], [[SA1338]], [[JA392]], [[THAG14]].1, [[THAG17]].2 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.14]]
 > ◄  [[sn9.13-pali-pts]] 📜  [[]] ►

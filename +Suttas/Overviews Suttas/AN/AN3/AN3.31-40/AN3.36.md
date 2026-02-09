@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[MN130]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA32.4]], [[MA64]]"
 parallels_partilal: "[[EA32.4]], [[MA64]], [[DA30]], [[MN130]], [[MN129]], [[JA530]]"
 ---
@@ -65,7 +65,7 @@ The teaching of the noble ones
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN130]] | [[EA32.4]], [[MA64]] | A i 138 |
+> |  | [[EA32.4]], [[MA64]] | A i 138 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA32.4]], [[MA64]], [[DA30]], [[MN130]], [[MN129]], [[JA530]] |
@@ -91,5 +91,6 @@ The teaching of the noble ones
 > - Sutta Central: https://suttacentral.net/an3.36/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.36
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.36.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.35]]  🌐 [[AN3.37]] ►

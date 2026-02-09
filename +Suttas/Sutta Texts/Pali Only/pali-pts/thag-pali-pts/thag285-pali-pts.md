@@ -23,3 +23,5 @@ saraṇagamanaṃ passa, passa dhammasudhammataṃ:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag285-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG285]]
+> ◄  [[thag284-pali-pts]] 📜  [[thag286-pali-pts]] ►

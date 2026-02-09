@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN8.36]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN8.36]], [[ITI22]]"
 ---
@@ -66,7 +66,7 @@ a mind of good will.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.36]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.36]], [[ITI22]] |
@@ -92,5 +92,6 @@ a mind of good will.
 > - Sutta Central: https://suttacentral.net/iti60/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti60
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti60.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI59]]  🌐 [[ITI61]] ►

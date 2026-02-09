@@ -23,3 +23,5 @@ evaṃ anāgataddhānaṃ paṭipatti bhavissati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag976-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG976]]
+> ◄  [[thag975-pali-pts]] 📜  [[thag977-pali-pts]] ►

@@ -110,5 +110,6 @@ Tamahaṁ naraṁ dhammasārīti brūmī"ti.
 | [[SA-2.99]], [[SA1184]], [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.9]]
 > ◄  [[sn7.8-pali-sc]] 📜  [[sn7.10-pali-sc]] ►

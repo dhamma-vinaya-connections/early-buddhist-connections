@@ -139,3 +139,5 @@ Vimuttacittā imaṁ bhaṇī"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG10]]
+> ◄  [[thig9-sujato-pali]] 📜  [[thig11-sujato-pali]] ►

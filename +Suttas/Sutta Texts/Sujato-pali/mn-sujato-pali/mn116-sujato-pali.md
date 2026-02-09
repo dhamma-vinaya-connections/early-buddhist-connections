@@ -256,5 +256,6 @@ Isigilisuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 | [[EA38.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116]]
 > ◄  [[mn115-sujato-pali]] 📜  [[mn117-sujato-pali]] ►

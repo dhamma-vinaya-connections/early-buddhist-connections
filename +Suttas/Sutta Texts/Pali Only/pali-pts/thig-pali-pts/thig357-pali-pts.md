@@ -23,3 +23,5 @@ anantādīnavā kāmā bahudukkhā mahāvisā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig357-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG357]]
+> ◄  [[thig356-pali-pts]] 📜  [[thig358-pali-pts]] ►

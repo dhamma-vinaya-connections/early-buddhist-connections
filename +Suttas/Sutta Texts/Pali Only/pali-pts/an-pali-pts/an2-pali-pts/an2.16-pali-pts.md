@@ -38,5 +38,6 @@ Seyyathāpi bho Gotama nikkujjitaṃ vā ukkujjeyya paṭicchannaṃ vā vivarey
 | [[AN10.220]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.16]]
 > ◄  [[an2.15-pali-pts]] 📜  [[an2.17-pali-pts]] ►

@@ -60,5 +60,6 @@ Then the Venerable Ānanda \[381\] approached the Blessed One, paid homage to hi
 | [[SA1023]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.56]]
 > ◄  [[an6.55-bodhi]] 📜  [[an6.57-bodhi]] ►

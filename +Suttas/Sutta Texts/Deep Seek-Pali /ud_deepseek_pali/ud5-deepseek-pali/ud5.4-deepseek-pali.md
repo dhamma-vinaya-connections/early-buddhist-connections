@@ -50,5 +50,6 @@ If you do an evil deed, or if you are doing one, there is no escape from sufferi
 | [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.4]]
 > ◄  [[ud5.3-deepseek-pali]] 📜  [[ud5.5-deepseek-pali]] ►

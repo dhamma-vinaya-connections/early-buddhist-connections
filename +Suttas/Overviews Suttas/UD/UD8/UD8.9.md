@@ -84,7 +84,7 @@ unwavering bliss.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN11]], [[MN72]], [[SN6.15]], [[SN22.86]], [[AN4.173]], [[THIG5.10]]
+> - [[DN11]], [[MN72]], [[SN6.15]], [[SN22.86]], [[AN4.173]], [[THIG5]].10
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -102,5 +102,6 @@ unwavering bliss.
 > - Sutta Central: https://suttacentral.net/ud8.9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.9
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.9.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.8]]  🌐 [[UD8.10]] ►

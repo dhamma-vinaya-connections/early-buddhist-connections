@@ -86,4 +86,5 @@ parallels_partilal: "[[SA-2.259]], [[SA93]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.47
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.47.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.46]]  🌐 [[AN7.48]] ►

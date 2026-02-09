@@ -24,3 +24,5 @@ yo ca pubbe pamajjitvā pacchā so na-ppamajjati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp171-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP171]]
+> ◄  [[dhp170-pali-pts]] 📜  [[dhp172-pali-pts]] ►

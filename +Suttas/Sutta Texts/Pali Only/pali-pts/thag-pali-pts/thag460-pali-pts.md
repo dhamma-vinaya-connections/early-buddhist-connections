@@ -24,3 +24,5 @@ bhuñja mānusake kāme, ahaṃ vittaṃ dadāmi te.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag460-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG460]]
+> ◄  [[thag459-pali-pts]] 📜  [[thag461-pali-pts]] ►

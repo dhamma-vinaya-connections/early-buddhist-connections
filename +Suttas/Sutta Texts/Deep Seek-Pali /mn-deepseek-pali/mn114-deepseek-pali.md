@@ -104,11 +104,12 @@ The Discourse on the Variety of Elements, the fifth, is concluded.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.6]] | [[EA45.3]]; [[MA107]] | M iii 45 |
+> |  | [[EA45.3]]; [[MA107]] | M iii 45 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN10.54]]; [[AN9.6]]; [[EA45.3]]; [[MA107]]; [[MA109]]; [[AN3.28]]; [[MN41]] |
+| [[AN10.54]], [[AN9.6]], [[EA45.3]], [[MA107]], [[MA109]], [[AN3.28]], [[MN41]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN114]]
 > ◄  [[mn113-deepseek-pali]] 📜  [[mn115-deepseek-pali]] ►

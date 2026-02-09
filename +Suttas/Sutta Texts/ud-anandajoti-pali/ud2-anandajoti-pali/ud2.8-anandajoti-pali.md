@@ -142,7 +142,7 @@ Aṭṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA100]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA100]] |
@@ -151,6 +151,7 @@ Aṭṭhamaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN87]], [[SN42:11]], [[UD 2:8]], [[UD 8:8]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.8]]
 > ◄  [[ud2.7-anandajoti-pali]] 📜  [[ud2.9-anandajoti-pali]] ►

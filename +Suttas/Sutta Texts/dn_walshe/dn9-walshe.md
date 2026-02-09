@@ -163,5 +163,6 @@ And the Venerable Citta, son of the elephant-trainer, became another of the Arah
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN140]], [[AN9.36]], [[AN9.36]], [[AN4.72]], [[AN4.192]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN9]]
 > ◄  [[dn8-walshe]] 📜  [[dn10-walshe]] ►

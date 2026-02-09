@@ -54,5 +54,6 @@ Saṇikaṁ jīrati āyupālayan"ti.
 | [[SA-2.73]], [[SA1150]], [[SN3.13]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.13]]
 > ◄  [[sn3.12-pali-sc]] 📜  [[sn3.14-pali-sc]] ►

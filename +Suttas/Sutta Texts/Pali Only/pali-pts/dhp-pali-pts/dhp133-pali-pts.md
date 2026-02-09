@@ -24,3 +24,5 @@ sace neresi attānaṃ kaṃso upahato yathā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp133-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP133]]
+> ◄  [[dhp132-pali-pts]] 📜  [[dhp134-pali-pts]] ►

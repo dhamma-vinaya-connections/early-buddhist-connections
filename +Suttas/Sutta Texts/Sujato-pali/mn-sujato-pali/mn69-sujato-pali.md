@@ -128,5 +128,6 @@ Goliyānisuttaṁ niṭṭhitaṁ navamaṁ.
 | [[MA26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn68-sujato-pali]] 📜  [[mn70-sujato-pali]] ►

@@ -34,5 +34,6 @@ Abhikkantaṃ bho Gotama abhikkantaṃ bho Gotama, seyyathā pi bho Gotama nikku
 | [[MA18]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.12]]
 > ◄  [[an8.11-pali-pts]] 📜  [[an8.13-pali-pts]] ►

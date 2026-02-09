@@ -23,3 +23,5 @@ bahūhi dukkhadhammehi appamādaratāya me |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig35-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG35]]
+> ◄  [[thig34-pali-pts]] 📜  [[thig36-pali-pts]] ►

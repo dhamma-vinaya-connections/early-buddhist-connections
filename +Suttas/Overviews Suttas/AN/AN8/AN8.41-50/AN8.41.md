@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Lay followers"
-parallels_nikaya: "[[AN9.18]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA43.2]]"
 parallels_partilal: "[[EA43.2]], [[AN9.18]]"
 ---
@@ -68,7 +68,7 @@ You should sleep on a low bed
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.18]] | [[EA43.2]] | A iv 248 |
+> |  | [[EA43.2]] | A iv 248 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA43.2]], [[AN9.18]] |
@@ -94,5 +94,6 @@ You should sleep on a low bed
 > - Sutta Central: https://suttacentral.net/an8.41/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.41
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.41.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.40]]  🌐 [[AN8.42]] ►

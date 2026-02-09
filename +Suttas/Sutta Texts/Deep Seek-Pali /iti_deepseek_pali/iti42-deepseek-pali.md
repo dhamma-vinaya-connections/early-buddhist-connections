@@ -39,8 +39,9 @@ This too was spoken by the Blessed One—thus have I heard. This is the sixth di
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG18.1]], [[AN2.8]] |
+| [[THAG18]].1, [[AN2.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI42]]
 > ◄  [[iti41-deepseek-pali]] 📜  [[iti43-deepseek-pali]] ►

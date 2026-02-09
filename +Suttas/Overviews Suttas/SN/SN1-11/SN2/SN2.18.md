@@ -92,4 +92,5 @@ That’s how you should know me, friend
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.18
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.18.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.17]]  🌐 [[SN2.19]] ►

@@ -39,5 +39,6 @@ Hiri ca ottappañ ca. Ime kho bhikkhave dve dhammā sukkā ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.6.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.8]]
 > ◄  [[an2.7-pali-pts]] 📜  [[an2.9-pali-pts]] ►

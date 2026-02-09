@@ -23,3 +23,5 @@ jātassa maraṇaṃ hoti hatthapādāna chedanaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig190-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG190]]
+> ◄  [[thig189-pali-pts]] 📜  [[thig191-pali-pts]] ►

@@ -76,11 +76,12 @@ Furthermore, friends, a monk teaches the Dhamma to the monks—good in the begin
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.8]], [[AN8.71]] |  | A iv 358 |
+> |  |  | A iv 358 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.71]], [[AN10.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.4]]
 > ◄  [[an9.3-deepseek-pali]] 📜  [[an9.5-deepseek-pali]] ►

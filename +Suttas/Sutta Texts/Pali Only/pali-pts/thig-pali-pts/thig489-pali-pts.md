@@ -23,3 +23,5 @@ rukkhapphalūpamā kāmā maṃsapesūpamā dukhā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig489-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG489]]
+> ◄  [[thig488-pali-pts]] 📜  [[thig490-pali-pts]] ►

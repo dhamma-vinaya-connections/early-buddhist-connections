@@ -23,3 +23,5 @@ vibhūsamaṇḍanaratā nhāpanucchādanehi ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig88-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG88]]
+> ◄  [[thig87-pali-pts]] 📜  [[thig89-pali-pts]] ►

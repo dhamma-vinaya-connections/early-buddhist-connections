@@ -23,3 +23,5 @@ sati ca sampajaññañ ca caraṇā nāgassa te pare.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag693-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG693]]
+> ◄  [[thag692-pali-pts]] 📜  [[thag694-pali-pts]] ►

@@ -86,4 +86,5 @@ parallels_partilal: "[[EA32.11]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.37
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.37.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.36]]  🌐 [[AN5.38]] ►

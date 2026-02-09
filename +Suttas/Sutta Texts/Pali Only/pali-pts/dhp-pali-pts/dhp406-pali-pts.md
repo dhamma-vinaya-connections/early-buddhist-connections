@@ -24,3 +24,5 @@ yassa rāgo ca doso ca māno makkho ca pātito /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp406-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP406]]
+> ◄  [[dhp405-pali-pts]] 📜  [[dhp407-pali-pts]] ►

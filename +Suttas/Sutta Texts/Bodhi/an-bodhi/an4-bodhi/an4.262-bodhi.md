@@ -33,5 +33,6 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN19]], [[UD2.10]], [[THAG18]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.262]]
 > ◄  [[an4.261-bodhi]] 📜  [[an4.263-bodhi]] ►

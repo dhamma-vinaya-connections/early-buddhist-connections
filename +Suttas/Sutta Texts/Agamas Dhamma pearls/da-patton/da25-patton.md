@@ -125,11 +125,12 @@ The Buddha told Kāśyapa, “I would give you my assent, but it’s simply that
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN8]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.23]], [[MA137]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA25]]
 > ◄  [[da24-patton]] 📜  [[da26-patton]] ►

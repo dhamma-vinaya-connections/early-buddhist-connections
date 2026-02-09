@@ -127,3 +127,5 @@ The Discourse on Proper Wandering, the thirteenth, is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.13]]
+> ◄  [[snp2.12-deepseek-pali]] 📜  [[snp2.14-deepseek-pali]] ►

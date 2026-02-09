@@ -93,3 +93,5 @@ They answered, “No, Venerable Nanda.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_221-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_221]]
+> ◄  [[SA2_180]] 📜  [[SA3_1]] ►

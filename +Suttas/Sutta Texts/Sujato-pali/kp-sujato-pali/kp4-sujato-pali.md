@@ -89,3 +89,5 @@ The Questions to the Boy
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP4]]
+> ◄  [[kp3-sujato-pali]] 📜  [[kp5-sujato-pali]] ►

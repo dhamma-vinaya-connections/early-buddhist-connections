@@ -66,5 +66,6 @@ And what, monks, is final Nibbāna without clinging? Here, monks, a monk is prac
 | [[MA6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.55]]
 > ◄  [[an7.54-deepseek-pali]] 📜  [[an7.56-deepseek-pali]] ►

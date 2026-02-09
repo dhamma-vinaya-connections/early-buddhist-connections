@@ -95,4 +95,5 @@ his speech under control.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.10
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.9]]  🌐 [[SNP4.11]] ►

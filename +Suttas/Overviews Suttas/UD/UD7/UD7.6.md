@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP230]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP230]], [[AN4.28]], [[AN4.6]], [[AN5.42]]"
+parallels_partilal: "[[DHP\|DHP230]], [[AN4.28]], [[AN4.6]], [[AN5.42]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.5]]  🌐 [[UD7.7]] ►
 
@@ -69,10 +69,10 @@ is never scorned by the world with its gods
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP230]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP230]], [[AN4.28]], [[AN4.6]], [[AN5.42]] |
+| [[DHP\|DHP230]], [[AN4.28]], [[AN4.6]], [[AN5.42]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -95,5 +95,6 @@ is never scorned by the world with its gods
 > - Sutta Central: https://suttacentral.net/ud7.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.6
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.5]]  🌐 [[UD7.7]] ►

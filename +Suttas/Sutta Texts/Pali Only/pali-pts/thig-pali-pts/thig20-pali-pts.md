@@ -24,3 +24,5 @@ ye ime satta bojjhaṅgā maggā nibbānapattiyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig20-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG20]]
+> ◄  [[thig19-pali-pts]] 📜  [[thig21-pali-pts]] ►

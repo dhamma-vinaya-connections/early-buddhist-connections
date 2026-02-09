@@ -24,3 +24,5 @@ yassa pure ca pacchā ca majjhe ca n'; atthi kiñcanaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp420-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP420]]
+> ◄  [[dhp419-pali-pts]] 📜  [[dhp421-pali-pts]] ►

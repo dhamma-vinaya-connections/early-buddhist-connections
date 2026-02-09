@@ -42,3 +42,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa3_9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_9]]
+> ◄  [[SA3_8]] 📜  [[SA3_10]] ►

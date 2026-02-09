@@ -94,4 +94,5 @@ Sweet, friendly, and tender.
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.38
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.38.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.37]]  🌐 [[AN5.39]] ►

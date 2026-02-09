@@ -86,4 +86,5 @@ parallels_partilal: "[[MA111]], [[MN13]], [[MN14]], [[SN1.34]], [[MN139]], [[SN3
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.63
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.63.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.62]]  🌐 [[AN6.64]] ►

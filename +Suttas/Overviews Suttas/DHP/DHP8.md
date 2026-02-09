@@ -94,4 +94,5 @@ unethical and lacking immersion.
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp8
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP7]]  🌐 [[DHP9]] ►

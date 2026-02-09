@@ -106,7 +106,7 @@ The Kasibhāradvāja Sutta, the fourth, is concluded.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN7.11]] | [[SA-2.264]], [[SA-3.1]], [[SA98]] |  |
+> |  | [[SA-2.264]], [[SA-3.1]], [[SA98]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN7.11]], [[SA-2.264]], [[SA-3.1]], [[SA98]], [[SNP3.4]], [[SN7.8]], [[SN7.9]] |
@@ -114,7 +114,8 @@ The Kasibhāradvāja Sutta, the fourth, is concluded.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN16]], [[SN7.14]], [[SN7.17]], [[AN4.113]], [[THIG13.2]]
+> - [[DN16]], [[SN7.14]], [[SN7.17]], [[AN4.113]], [[THIG13]].2
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.4]]
 > ◄  [[snp1.3-deepseek-pali]] 📜  [[snp1.5-deepseek-pali]] ►

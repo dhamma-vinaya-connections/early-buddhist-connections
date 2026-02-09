@@ -86,4 +86,5 @@ parallels_partilal: "[[EA9.8]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.10
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.9]]  🌐 [[AN1.11]] ►

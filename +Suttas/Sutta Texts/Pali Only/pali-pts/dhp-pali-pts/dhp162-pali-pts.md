@@ -24,3 +24,5 @@ sukarāni asādhūni attano ahitāni ca, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp162-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP162]]
+> ◄  [[dhp161-pali-pts]] 📜  [[dhp163-pali-pts]] ►

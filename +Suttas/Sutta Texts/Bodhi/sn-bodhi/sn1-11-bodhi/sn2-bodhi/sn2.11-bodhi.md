@@ -48,5 +48,6 @@ At Sāvatthī. Then, when the night had advanced, the young deva Candimasa, of
 | [[SA-2.302]], [[SA1303]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.11]]
 > ◄  [[sn2.10-bodhi]] 📜  [[sn2.12-bodhi]] ►

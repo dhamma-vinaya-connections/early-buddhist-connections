@@ -23,3 +23,5 @@ nibbuyhati susānaṃ aciraṃ kāyo apetaviññāṇo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig467-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG467]]
+> ◄  [[thig466-pali-pts]] 📜  [[thig468-pali-pts]] ►

@@ -89,4 +89,5 @@ parallels_partilal: "[[ITI73]], [[SN5.6]], [[ITI41]], [[UD4.9]], [[AN4.9]], [[IT
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.12
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.12.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.11]]  🌐 [[SNP4.1]] ►

@@ -161,7 +161,8 @@ Bhojanavaggo catuttho.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc122-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC122]] |
->|       |          | [[ñanatusita-analysis#^-PC122]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC122]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC122]]

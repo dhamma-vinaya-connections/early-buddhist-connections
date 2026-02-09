@@ -25,3 +25,5 @@ _MAHĀ-NIPĀTO. 115_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1277-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1277]]
+> ◄  [[thag1276-pali-pts]] 📜  [[thag1278-pali-pts]] ►

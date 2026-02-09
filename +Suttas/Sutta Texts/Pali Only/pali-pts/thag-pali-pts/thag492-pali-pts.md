@@ -24,3 +24,5 @@ bhedā imassa kāyassa jīvitassa ca saṃkhayā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag492-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG492]]
+> ◄  [[thag491-pali-pts]] 📜  [[thag493-pali-pts]] ►

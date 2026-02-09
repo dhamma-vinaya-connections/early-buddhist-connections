@@ -171,7 +171,8 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tvaṁ, moghapurisa, mātug�
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-an1-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#AN1]] |
->|       |          | [[ñanatusita-analysis#^AN1]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^AN1]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN1]]

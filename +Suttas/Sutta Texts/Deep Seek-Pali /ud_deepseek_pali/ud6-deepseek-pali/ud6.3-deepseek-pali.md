@@ -36,15 +36,16 @@ Then the Blessed One, knowing that many evil, unwholesome qualities had been aba
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP228]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP228]] |
+| [[DHP\|DHP228]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]], [[MN110]], [[AN4.192]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.3]]
 > ◄  [[ud6.2-deepseek-pali]] 📜  [[ud6.4-deepseek-pali]] ►

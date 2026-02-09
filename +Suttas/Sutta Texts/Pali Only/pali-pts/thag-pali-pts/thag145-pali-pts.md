@@ -23,3 +23,5 @@ atha pāpāni kammāni karaṃ bālo na bujjhati;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag145-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG145]]
+> ◄  [[thag144-pali-pts]] 📜  [[thag146-pali-pts]] ►

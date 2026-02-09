@@ -23,3 +23,5 @@ tapena brahmacariyena saṃyamena damena ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag630-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG630]]
+> ◄  [[thag629-pali-pts]] 📜  [[thag631-pali-pts]] ►

@@ -43,3 +43,5 @@ sītibhūtamha nibbutā"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG4]]
+> ◄  [[thig3-pali-sc]] 📜  [[thig5-pali-sc]] ►

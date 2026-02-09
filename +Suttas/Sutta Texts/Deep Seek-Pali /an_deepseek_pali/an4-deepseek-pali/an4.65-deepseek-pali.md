@@ -47,8 +47,9 @@ language: "English - Pali"
 > |  |  | A ii 71 |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG7.2]] |
+| [[THAG7]].2 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.65]]
 > ◄  [[an4.64-deepseek-pali]] 📜  [[an4.66-deepseek-pali]] ►

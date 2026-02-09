@@ -29,5 +29,10 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Sattamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti85-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN8:4]], [[SN12.67]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI85]]
 > ◄  [[iti84-pali-sc]] 📜  [[iti86-pali-sc]] ►

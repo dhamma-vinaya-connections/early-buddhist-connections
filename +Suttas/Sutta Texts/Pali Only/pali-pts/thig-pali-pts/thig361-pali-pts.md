@@ -23,3 +23,5 @@ imaṃ passatha dhammaṭṭhaṃ Subbaṃ kammāradhītaraṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig361-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG361]]
+> ◄  [[thig360-pali-pts]] 📜  [[thig362-pali-pts]] ►

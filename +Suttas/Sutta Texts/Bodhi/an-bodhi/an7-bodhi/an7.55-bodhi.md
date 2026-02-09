@@ -70,5 +70,6 @@ language: "English"
 | [[MA6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.55]]
 > ◄  [[an7.54-bodhi]] 📜  [[an7.56-bodhi]] ►

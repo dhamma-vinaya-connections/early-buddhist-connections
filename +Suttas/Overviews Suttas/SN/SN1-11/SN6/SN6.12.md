@@ -88,4 +88,5 @@ So do honours destroy the scoundrel
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.12
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.12.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.11]]  🌐 [[SN6.13]] ►

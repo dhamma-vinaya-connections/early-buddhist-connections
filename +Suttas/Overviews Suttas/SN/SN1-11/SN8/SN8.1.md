@@ -89,4 +89,5 @@ That’s attractive, provoking lust
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.22]]  🌐 [[SN8.2]] ►

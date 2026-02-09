@@ -83,5 +83,6 @@ On one occasion the Blessed One was staying near Verañja at the root of Naḷer
 | [[EA42.4]], [[MA35]], [[PLI-TV-KD19]], [[UD5.5]], [[AN8.20]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
 > ◄  [[an8.14-thanissaro]] 📜  [[an8.22-thanissaro]] ►

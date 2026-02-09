@@ -105,5 +105,6 @@ Navamaṁ.
 | [[SA-2.89]], [[SA89]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.39]]
 > ◄  [[an4.38-sujato-pali]] 📜  [[an4.40-sujato-pali]] ►

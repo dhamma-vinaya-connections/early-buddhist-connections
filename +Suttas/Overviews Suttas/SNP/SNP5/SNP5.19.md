@@ -91,4 +91,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.19
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.19.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.18]]  🌐 [[T757]] ►

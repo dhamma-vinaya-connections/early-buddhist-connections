@@ -23,3 +23,5 @@ taṃ sāvakaṃ Sakka mayam pi sabbe aññātum icchāma samantacakkhu:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1264-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1264]]
+> ◄  [[thag1263-pali-pts]] 📜  [[thag1265-pali-pts]] ►

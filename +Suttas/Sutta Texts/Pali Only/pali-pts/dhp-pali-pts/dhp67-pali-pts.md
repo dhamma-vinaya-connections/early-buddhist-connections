@@ -24,3 +24,5 @@ tañ ca kammaṃ kataṃ sādhu yaṃ katvā nānutappati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp67-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP67]]
+> ◄  [[dhp66-pali-pts]] 📜  [[dhp68-pali-pts]] ►

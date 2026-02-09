@@ -35,3 +35,5 @@ The Book of the Fives is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.308-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.308]]
+> ◄  [[an5.307-sujato-pali]] 📜  [[]] ►

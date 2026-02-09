@@ -41,5 +41,6 @@ Mallikā Tissā Tissāya mātā Soṇā Soṇāya mātā Kāṇā Kāṇāya mā
 | [[PLI-TV-KD14]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.90]]
 > ◄  [[an8.89-pali-pts]] 📜  [[]] ►

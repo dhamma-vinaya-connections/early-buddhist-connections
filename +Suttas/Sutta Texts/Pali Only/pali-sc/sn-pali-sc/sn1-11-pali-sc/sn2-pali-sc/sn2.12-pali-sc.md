@@ -42,5 +42,6 @@ Na maccuvasagā siyun"ti.
 | [[SA-2.303]], [[SA1304]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.12]]
 > ◄  [[sn2.11-pali-sc]] 📜  [[sn2.13-pali-sc]] ►

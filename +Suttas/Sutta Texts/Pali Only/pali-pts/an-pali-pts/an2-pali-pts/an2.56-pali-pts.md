@@ -35,5 +35,6 @@ Tathāgato ca arahaṃ sammā sambuddho paccekabuddho ca. Ime kho bhikkhave dve 
 | [[EA17.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.56]]
 > ◄  [[an2.55-pali-pts]] 📜  [[an2.57-pali-pts]] ►

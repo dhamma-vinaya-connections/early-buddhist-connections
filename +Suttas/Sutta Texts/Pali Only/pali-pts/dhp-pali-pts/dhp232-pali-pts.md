@@ -24,3 +24,5 @@ manopakopaṃ rakkheyya manasā saṃvuto siyā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp232-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP232]]
+> ◄  [[dhp231-pali-pts]] 📜  [[dhp233-pali-pts]] ►

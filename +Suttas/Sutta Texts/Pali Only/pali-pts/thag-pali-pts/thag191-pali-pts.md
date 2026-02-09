@@ -24,3 +24,5 @@ virattaṃ rajanīyesu kuppanīye na kuppati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag191-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG191]]
+> ◄  [[thag190-pali-pts]] 📜  [[thag192-pali-pts]] ►

@@ -37,11 +37,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.21]], [[AN4.8]], [[MN12]], [[SN12.21-22]], [[SN52.15-24]] | [[EA27.6]], [[EA31.8]], [[EA46.4]], [[EA50.6]] |  |
+> |  | [[EA27.6]], [[EA31.8]], [[EA46.4]], [[EA50.6]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.21]], [[AN4.8]], [[EA27.6]], [[EA31.8]], [[EA46.4]], [[EA50.6]], [[MN12]], [[SN12.21-22]], [[SN52.15-24]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA7]]  / 🌐 [[SA612]]
 > ◄  [[sa489-patton]] 📜  [[sa684-patton]] ►

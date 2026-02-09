@@ -68,11 +68,12 @@ hitvā jayaparājayan"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP201]] | [[SA-2.63]], [[SA1236]] |  |
+> |  | [[SA-2.63]], [[SA1236]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.63]], [[SA1236]], [[DHP201]] |
+| [[SA-2.63]], [[SA1236]], [[DHP\|DHP201]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.14]]
 > ◄  [[sn3.13-sujato-pali]] 📜  [[sn3.15-sujato-pali]] ►

@@ -39,3 +39,5 @@ The Tenth Chapter: The Second on Heedlessness, and So Forth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.104-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.104]]
+> ◄  [[an1.103-deepseek-pali]] 📜  [[an1.105-deepseek-pali]] ►

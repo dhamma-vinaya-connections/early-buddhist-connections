@@ -36,11 +36,12 @@ Vaggo paṭhamo.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN115]] | [[MA181]] |  |
+> |  | [[MA181]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN115]], [[MA181]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.277]]
 > ◄  [[an1.271-sujato-pali]] 📜  [[an1.278-sujato-pali]] ►

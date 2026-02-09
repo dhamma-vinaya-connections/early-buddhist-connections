@@ -95,4 +95,5 @@ for the attainment of safety from bondage
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig9
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG8]]  🌐 [[THIG10]] ►

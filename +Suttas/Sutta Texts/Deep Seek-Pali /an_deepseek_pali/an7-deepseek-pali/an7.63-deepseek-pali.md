@@ -80,11 +80,12 @@ Then the Blessed One addressed Sujātā, the daughter-in-law: “Come, Sujātā.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN2.33]] | [[EA20.11]], [[EA51.9]] | A iv 91 |
+> |  | [[EA20.11]], [[EA51.9]] | A iv 91 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN2.33]], [[EA20.11]], [[EA51.9]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.63]]
 > ◄  [[an7.62-deepseek-pali]] 📜  [[an7.64-deepseek-pali]] ►

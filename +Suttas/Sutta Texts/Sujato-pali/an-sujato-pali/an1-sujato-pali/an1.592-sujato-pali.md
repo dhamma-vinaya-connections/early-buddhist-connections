@@ -29,3 +29,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.592-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.592]]
+> ◄  [[an1.589-sujato-pali]] 📜  [[an1.596-sujato-pali]] ►

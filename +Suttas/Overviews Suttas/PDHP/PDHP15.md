@@ -94,4 +94,5 @@ keeping company with such is surely better for you, not worse.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp15
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp15.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP14]]  🌐 [[PDHP16]] ►

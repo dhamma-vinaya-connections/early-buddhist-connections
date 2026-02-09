@@ -24,3 +24,5 @@ paṭipannā pamokkhanti jhāyino Mārabandhanā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp276-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP276]]
+> ◄  [[dhp275-pali-pts]] 📜  [[dhp277-pali-pts]] ►

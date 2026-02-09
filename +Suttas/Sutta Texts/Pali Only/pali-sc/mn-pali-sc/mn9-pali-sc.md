@@ -171,15 +171,16 @@ Katamo panāvuso, āsavo, katamo āsavasamudayo, katamo āsavanirodho, katamā �
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.13]] | [[MA29]]; [[SA344]] | M i 46 |
+> |  | [[MA29]]; [[SA344]] | M i 46 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN9.13]]; [[MA29]]; [[SA344]]; [[DN22]]; [[MN10]] |
+| [[AN9.13]], [[MA29]], [[SA344]], [[DN22]], [[MN10]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN61]]; [[MN117]]; [[MN141]]; [[SN12.11]]; [[SN12.12]]; [[SN12.15]]; [[SN12.63]]; [[SN12.64]]; [[AN10.94]]; [[SN3.12]]
+> - [[MN61]], [[MN117]], [[MN141]], [[SN12.11]], [[SN12.12]], [[SN12.15]], [[SN12.63]], [[SN12.64]], [[AN10.94]], [[SN3.12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN9]]
 > ◄  [[mn8-pali-sc]] 📜  [[mn10-pali-sc]] ►

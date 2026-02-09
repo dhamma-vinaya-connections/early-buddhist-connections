@@ -25,3 +25,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.84-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.84]]
+> ◄  [[an9.83-bodhi]] 📜  [[an9.93-bodhi]] ►

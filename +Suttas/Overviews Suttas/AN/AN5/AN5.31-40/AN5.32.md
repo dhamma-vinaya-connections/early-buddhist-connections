@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Lay followers"
-parallels_nikaya: "[[AN4.34]], [[ITI90]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA21.1]], [[SA902-904]]"
 parallels_partilal: "[[AN4.34]], [[EA21.1]], [[ITI90]], [[SA902-904]], [[SN45.139]]"
 ---
@@ -65,7 +65,7 @@ Fame, reputation, happiness, and strength
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.34]], [[ITI90]] | [[EA21.1]], [[SA902-904]] | A iii 35 |
+> |  | [[EA21.1]], [[SA902-904]] | A iii 35 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.34]], [[EA21.1]], [[ITI90]], [[SA902-904]], [[SN45.139]] |
@@ -91,5 +91,6 @@ Fame, reputation, happiness, and strength
 > - Sutta Central: https://suttacentral.net/an5.32/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.32
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.32.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.31]]  🌐 [[AN5.33]] ►

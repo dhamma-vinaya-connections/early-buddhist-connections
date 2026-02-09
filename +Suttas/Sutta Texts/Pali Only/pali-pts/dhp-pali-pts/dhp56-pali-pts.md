@@ -24,3 +24,5 @@ tesaṃ sampannasīlānaṃ appamādavihārinaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp56-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP56]]
+> ◄  [[dhp55-pali-pts]] 📜  [[dhp57-pali-pts]] ►

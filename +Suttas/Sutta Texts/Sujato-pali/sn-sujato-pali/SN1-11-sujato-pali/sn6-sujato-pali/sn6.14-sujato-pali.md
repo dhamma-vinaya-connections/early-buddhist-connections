@@ -179,8 +179,9 @@ dukkhassantaṁ karissatī’ti.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG3.13]], [[DN16]], [[PE3]] |
+| [[THAG3]].13, [[DN16]], [[PE3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.14]]
 > ◄  [[sn6.13-sujato-pali]] 📜  [[sn6.15-sujato-pali]] ►

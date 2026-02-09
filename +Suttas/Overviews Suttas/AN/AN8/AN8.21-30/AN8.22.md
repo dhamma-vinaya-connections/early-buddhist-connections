@@ -86,4 +86,5 @@ parallels_partilal: "[[MA38]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.22
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.22.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.21]]  🌐 [[AN8.23]] ►

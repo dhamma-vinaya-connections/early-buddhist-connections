@@ -36,3 +36,5 @@ The Buddha addressed the monk, “There is. It’s known as the noble eightfold 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa756-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA13]]  / 🌐 [[SA756]]
+> ◄  [[sa755-patton]] 📜  [[sa757-patton]] ►

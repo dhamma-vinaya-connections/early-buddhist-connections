@@ -23,3 +23,5 @@ chinnā pāsā migavassa, nāsādā vākuraṃ migo;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag774-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG774]]
+> ◄  [[thag773-pali-pts]] 📜  [[thag775-pali-pts]] ►

@@ -25,3 +25,5 @@ tiṃsativassamhi mato sākaṭikakulamhi dārikā jātā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig442-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG442]]
+> ◄  [[thig441-pali-pts]] 📜  [[thig443-pali-pts]] ►

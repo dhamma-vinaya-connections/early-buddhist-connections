@@ -211,7 +211,8 @@ dasa sikkhāpadā imeti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc148-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC148]] |
->|       |          | [[ñanatusita-analysis#^-PC148]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC148]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC148]]

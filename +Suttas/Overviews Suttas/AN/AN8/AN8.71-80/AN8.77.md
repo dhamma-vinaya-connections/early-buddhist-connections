@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN8.61]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN8.61]]"
 ---
@@ -65,7 +65,7 @@ Merit grows by generosity
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.61]] |  | A iv 325 |
+> |  |  | A iv 325 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.61]] |
@@ -88,5 +88,6 @@ Merit grows by generosity
 > - Sutta Central: https://suttacentral.net/an8.77/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.77
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.77.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.76]]  🌐 [[AN8.78]] ►

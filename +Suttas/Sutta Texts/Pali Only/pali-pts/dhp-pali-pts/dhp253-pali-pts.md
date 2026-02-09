@@ -24,3 +24,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp253-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP253]]
+> ◄  [[dhp252-pali-pts]] 📜  [[dhp254-pali-pts]] ►

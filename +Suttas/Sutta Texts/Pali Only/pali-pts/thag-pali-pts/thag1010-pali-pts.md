@@ -23,3 +23,5 @@ yassa sakkariyamānassa asakkārena c'; ūbhayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1010-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1010]]
+> ◄  [[thag1009-pali-pts]] 📜  [[thag1011-pali-pts]] ►

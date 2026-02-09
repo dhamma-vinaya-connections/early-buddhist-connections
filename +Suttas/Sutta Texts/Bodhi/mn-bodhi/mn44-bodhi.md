@@ -199,15 +199,16 @@ That is what the Blessed One said. The lay follower Visākha was satisfied and d
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN41.6]] | [[MA210]]; [[SA568]] | M i 299 |
+> |  | [[MA210]]; [[SA568]] | M i 299 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA210]]; [[AN4.200]]; [[MN109]]; [[SN22.44]]; [[SN41.3]]; [[SN41.6]]; [[SA568]] |
+| [[MA210]], [[AN4.200]], [[MN109]], [[SN22.44]], [[SN41.3]], [[SN41.6]], [[SA568]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.6]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN44]]
 > ◄  [[mn43-bodhi]] 📜  [[mn45-bodhi]] ►

@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN4.97]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN4.97]]"
 ---
@@ -67,7 +67,7 @@ One who practices to benefit both themselves and others.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.97]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.97]] |
@@ -90,5 +90,6 @@ One who practices to benefit both themselves and others.
 > - Sutta Central: https://suttacentral.net/ea2.8/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA2.7]]  🌐 [[EA2.9]] ►

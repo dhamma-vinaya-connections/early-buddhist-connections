@@ -88,4 +88,5 @@ parallels_partilal: "[[AN3.85]], [[MA125]], [[ITI30]], [[ITI64]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.45
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.45.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.44]]  🌐 [[AN6.46]] ►

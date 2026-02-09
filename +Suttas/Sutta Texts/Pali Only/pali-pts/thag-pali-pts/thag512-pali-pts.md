@@ -23,3 +23,5 @@ sikkhāsājīvasampanno indriyesu susaṃvuto
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag512-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG512]]
+> ◄  [[thag511-pali-pts]] 📜  [[thag513-pali-pts]] ►

@@ -24,3 +24,5 @@ Vihavihābhinadite sippikābhirutehi ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag48-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG48]]
+> ◄  [[thag47-pali-pts]] 📜  [[thag49-pali-pts]] ►

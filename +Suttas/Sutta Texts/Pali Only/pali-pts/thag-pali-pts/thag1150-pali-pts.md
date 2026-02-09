@@ -23,3 +23,5 @@ gūthabhaste taconaddhe uragaṇḍapisācini
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1150-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1150]]
+> ◄  [[thag1149-pali-pts]] 📜  [[thag1151-pali-pts]] ►

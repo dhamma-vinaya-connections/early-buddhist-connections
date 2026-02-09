@@ -23,3 +23,5 @@ supupphitaggaṃ upagamma pādapaṃ ekā tuvaṃ tiṭṭhasi rukkhamūle |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig229-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG229]]
+> ◄  [[thig228-pali-pts]] 📜  [[thig230-pali-pts]] ►

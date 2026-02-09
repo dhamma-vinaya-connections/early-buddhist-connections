@@ -30,11 +30,12 @@ Again, Venerable Bakkula declared: Venerable friends, during my eighty years of 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN124]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN9.13]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA34]]
 > ◄  [[ma33-bdk]] 📜  [[ma35-bdk]] ►

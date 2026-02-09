@@ -40,5 +40,6 @@ This meaning too was spoken by the Blessed One, so I have heard. The Ninth.
 | [[AN4.25]], [[ITI36]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI35]]
 > ◄  [[iti34-deepseek-pali]] 📜  [[iti36-deepseek-pali]] ►

@@ -23,3 +23,5 @@ yo ca sīlena sampanno vītarāgo samāhito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag971-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG971]]
+> ◄  [[thag970-pali-pts]] 📜  [[thag972-pali-pts]] ►

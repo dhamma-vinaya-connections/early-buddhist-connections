@@ -31,5 +31,6 @@ PTS: A i 222
 | [[EA21.4]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.75]]
 > ◄  [[an3.74-pali-pts]] 📜  [[an3.76-pali-pts]] ►

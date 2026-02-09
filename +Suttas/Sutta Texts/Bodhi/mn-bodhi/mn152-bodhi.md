@@ -84,5 +84,6 @@ List of Abbreviations
 | [[SA282]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN152]]
 > ◄  [[mn151-bodhi]] 📜  [[]] ►

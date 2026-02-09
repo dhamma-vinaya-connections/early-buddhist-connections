@@ -24,3 +24,5 @@ yo appaduṭṭhassa narassa dussati suddhassa posassa anaṅgaṇassa /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp124-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP124]]
+> ◄  [[dhp123-pali-pts]] 📜  [[dhp125-pali-pts]] ►

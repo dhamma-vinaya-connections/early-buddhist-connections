@@ -75,11 +75,12 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP391]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP391]], [[JA348]], [[JA435]] |
+| [[DHP\|DHP391]], [[JA348]], [[JA435]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI97]]
 > ◄  [[iti96-thanissaro]] 📜  [[iti98-thanissaro]] ►

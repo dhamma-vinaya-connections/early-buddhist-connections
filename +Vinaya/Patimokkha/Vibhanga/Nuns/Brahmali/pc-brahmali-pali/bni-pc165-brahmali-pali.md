@@ -91,7 +91,8 @@ Kathañhi nāma tumhe, moghapurisā, appamāṇikāyo kaṇḍuppaṭicchādiyo 
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc165-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC165]] |
->|       |          | [[ñanatusita-analysis#^-PC165]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC165]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC165]]

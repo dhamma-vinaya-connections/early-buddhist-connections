@@ -34,11 +34,12 @@ inclining toward the uncreated. They should cultivate the basis for supernormal 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.14]], [[AN5.205]], [[AN5.206]], [[AN9.71]], [[AN9.72]], [[AN9.82]], [[AN9.92]], [[DN33]], [[DN34]], [[MN16]] | [[DA10]], [[EA51.4]] |  |
+> |  | [[DA10]], [[EA51.4]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.1]], [[MA42]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA206]]
 > ◄  [[ma205-bdk]] 📜  [[ma207-bdk]] ►

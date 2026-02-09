@@ -92,3 +92,5 @@ Maṅgalasuttaṁ Niṭṭhitaṁ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP5]]
+> ◄  [[kp4-pali-sc]] 📜  [[kp6-pali-sc]] ►

@@ -33,3 +33,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.75-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.75]]
+> ◄  [[an9.74-deepseek-pali]] 📜  [[an9.76-deepseek-pali]] ►

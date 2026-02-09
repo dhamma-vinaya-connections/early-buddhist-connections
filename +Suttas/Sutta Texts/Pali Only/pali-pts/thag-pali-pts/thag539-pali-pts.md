@@ -23,3 +23,5 @@ supupphite Sītavane sītale girikandare
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag539-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG539]]
+> ◄  [[thag538-pali-pts]] 📜  [[thag540-pali-pts]] ►

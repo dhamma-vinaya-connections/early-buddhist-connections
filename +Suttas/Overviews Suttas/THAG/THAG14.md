@@ -95,4 +95,5 @@ seems as big as a cloud.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag14
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag14.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG13]]  🌐 [[THAG15]] ►

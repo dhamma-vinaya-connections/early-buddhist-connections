@@ -94,4 +94,5 @@ of longing.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti54
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti54.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI53]]  🌐 [[ITI55]] ►

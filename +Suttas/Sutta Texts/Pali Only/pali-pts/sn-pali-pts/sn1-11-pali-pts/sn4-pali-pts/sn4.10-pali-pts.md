@@ -47,5 +47,6 @@ Sappo Suppati Nandanaṃ || Āyunā apare duve ti || ||
 | [[SA-2.24]], [[SA1085]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.10]]
 > ◄  [[sn4.9-pali-pts]] 📜  [[]] ►

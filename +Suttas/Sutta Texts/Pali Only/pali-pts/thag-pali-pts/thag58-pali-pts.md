@@ -24,3 +24,5 @@ Saddhāyāhaṃ pabbajito, araññe me kuṭikā katā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag58-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG58]]
+> ◄  [[thag57-pali-pts]] 📜  [[thag59-pali-pts]] ►

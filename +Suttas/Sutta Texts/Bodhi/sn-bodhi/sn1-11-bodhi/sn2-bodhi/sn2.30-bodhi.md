@@ -32,5 +32,6 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN24.6]], [[SN24.7]], [[SN3.1]], [[DN2]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.30]]
 > ◄  [[sn2.29-bodhi]] 📜  [[]] ►

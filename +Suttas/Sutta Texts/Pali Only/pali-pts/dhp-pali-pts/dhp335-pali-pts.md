@@ -24,3 +24,5 @@ yo c'; etaṃ sahatī jammiṃ taṇhaṃ loke duraccayaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp335-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP335]]
+> ◄  [[dhp334-pali-pts]] 📜  [[dhp336-pali-pts]] ►

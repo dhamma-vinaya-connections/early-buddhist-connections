@@ -26,3 +26,5 @@ udakahārī ahaṃ sīte sadā udakam otariṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig235-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG235]]
+> ◄  [[thig234-pali-pts]] 📜  [[thig236-pali-pts]] ►

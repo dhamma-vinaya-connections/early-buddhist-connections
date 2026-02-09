@@ -141,5 +141,6 @@ And how, bhikkhus, is a royal elephant capable of enduring smells? Here, bhikkhu
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN2]], [[AN3.94]], [[AN5.139]], [[AN8.13]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.139]]
 > ◄  [[an5.138-deepseek-pali]] 📜  [[an5.140-deepseek-pali]] ►

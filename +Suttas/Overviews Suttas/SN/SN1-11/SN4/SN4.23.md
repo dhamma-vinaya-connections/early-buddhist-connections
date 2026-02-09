@@ -95,4 +95,5 @@ Godhika has attained final nibbāna
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.23
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.23.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.22]]  🌐 [[SN4.24]] ►

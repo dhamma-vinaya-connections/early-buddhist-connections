@@ -84,15 +84,16 @@ The Man from Aṭṭhakanāgara
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN11.16]] | [[MA217]] | M i 349 |
+> |  | [[MA217]] | M i 349 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN11.16]]; [[MA217]]; [[MN64]]; [[AN9.36]] |
+| [[AN11.16]], [[MA217]], [[MN64]], [[AN9.36]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.36]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN52]]
 > ◄  [[mn51-bodhi]] 📜  [[mn53-bodhi]] ►

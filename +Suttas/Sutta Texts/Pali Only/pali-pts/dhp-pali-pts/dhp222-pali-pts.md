@@ -24,3 +24,5 @@ akkodhena jine kodhaṃ asādhuṃ sādhunā jine, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp222-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP222]]
+> ◄  [[dhp221-pali-pts]] 📜  [[dhp223-pali-pts]] ►

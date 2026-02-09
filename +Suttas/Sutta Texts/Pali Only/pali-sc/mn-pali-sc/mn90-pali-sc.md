@@ -187,5 +187,6 @@ dasamaṁ kaṇṇakatthalaṁ.
 | [[MA212]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN90]]
 > ◄  [[mn89-pali-sc]] 📜  [[mn91-pali-sc]] ►

@@ -68,11 +68,12 @@ When this was said, the Blessed One said to Brahmā Baka: “It seems, good Brah
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA405]] | [[SA-2.108]], [[SA1195]] |  |
+> |  | [[SA-2.108]], [[SA1195]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.108]], [[SA1195]], [[JA405]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.4]]
 > ◄  [[sn6.3-deepseek-pali]] 📜  [[sn6.5-deepseek-pali]] ►

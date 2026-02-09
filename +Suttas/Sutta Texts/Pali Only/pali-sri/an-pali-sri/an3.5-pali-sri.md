@@ -551,5 +551,6 @@ Paṭhamo paṇṇāsako
 | [[EA22.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.5]]
 > ◄  [[an3.4-pali-sri]] 📜  [[an3.6-pali-sri]] ►

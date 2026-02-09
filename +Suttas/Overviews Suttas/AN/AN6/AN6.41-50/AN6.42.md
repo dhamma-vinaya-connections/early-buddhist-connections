@@ -89,4 +89,5 @@ parallels_partilal: "[[SA1250-1251]], [[AN5.30]], [[AN8.86]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.42
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.42.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.41]]  🌐 [[AN6.43]] ►

@@ -25,3 +25,5 @@ madhuvā maññatī bālo yāva pāpaṃ na paccati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp68-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP68]]
+> ◄  [[dhp67-pali-pts]] 📜  [[dhp69-pali-pts]] ►

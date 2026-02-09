@@ -24,3 +24,5 @@ Sutvāna dhammaṃ mahato mahārasaṃ sabbaññutaññāṇavarena desitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag68-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG68]]
+> ◄  [[thag67-pali-pts]] 📜  [[thag69-pali-pts]] ►

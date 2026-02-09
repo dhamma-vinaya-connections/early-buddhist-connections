@@ -24,3 +24,5 @@ asāhasena dhammena samena nayatī pare /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp256-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP256]]
+> ◄  [[dhp255-pali-pts]] 📜  [[dhp257-pali-pts]] ►

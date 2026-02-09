@@ -304,15 +304,16 @@ The Brahmāyu Sutta, the first, is concluded.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP423]] | [[MA161]] | M ii 133 |
+> |  | [[MA161]] | M ii 133 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA161]]; [[DN19]]; [[DHP423]]; [[AN3.58]]; [[AN3.59]]; [[ITI99]]; [[MN98]]; [[SNP3.9]]; [[SN7.13]]; [[SN7.8]]; [[THIG4.1]] |
+| [[MA161]], [[DN19]], [[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4]].1 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN30]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN91]]
 > ◄  [[mn90-deepseek-pali]] 📜  [[mn92-deepseek-pali]] ►

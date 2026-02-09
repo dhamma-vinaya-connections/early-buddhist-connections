@@ -41,5 +41,6 @@ pa || upāsakaṃ maṃ bhavaṃ Gotamo dhāretu ajjatagge pāṇupetaṃ sara�
 | [[SA-2.93]], [[SA1179]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
 > ◄  [[sn7.9-pali-pts]] 📜  [[sn7.11-pali-pts]] ►

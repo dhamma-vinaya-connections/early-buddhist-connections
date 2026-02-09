@@ -38,5 +38,6 @@ language: "English - Pali"
 | [[DN31]], [[AN4.19]], [[JA443]], [[PE3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.18]]
 > ◄  [[an4.17-deepseek-pali]] 📜  [[an4.19-deepseek-pali]] ►

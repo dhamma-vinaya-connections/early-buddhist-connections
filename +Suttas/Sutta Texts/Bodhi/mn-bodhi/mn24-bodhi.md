@@ -81,12 +81,13 @@ Thus it was that these two great beings rejoiced in each other’s good words.
 > |  | [[EA39.10]]; [[MA9]] | M i 145 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA39.10]]; [[MA9]] |
+| [[EA39.10]], [[MA9]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN10.69]], [[SN4.9]]
+> - [[AN10.69]], [[SNP4.9]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN24]]
 > ◄  [[mn23-bodhi]] 📜  [[mn25-bodhi]] ►

@@ -23,3 +23,5 @@ Kese me olikhissan ti kappako upasaṃkami,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag168-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG168]]
+> ◄  [[thag167-pali-pts]] 📜  [[thag169-pali-pts]] ►

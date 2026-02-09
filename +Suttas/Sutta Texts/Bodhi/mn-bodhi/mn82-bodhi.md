@@ -340,15 +340,16 @@ King Koravya sat down on a seat made ready and said:
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP147]] | [[MA132]] | M ii 54 |
+> |  | [[MA132]] | M ii 54 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA132]]; [[PLI-TV-BU-VB-PJ1]]; [[DHP147]]; [[THAG16.4]]; [[THAG20.1]]; [[JA467]]; [[SNP1.3]]; [[JA524]]; [[PE2]] |
+| [[MA132]], [[PLI-TV-BU-VB-PJ1]], [[DHP\|DHP147]], [[THAG16]].4, [[THAG20]].1, [[JA467]], [[SNP1.3]], [[JA524]], [[PE2]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG16.4]]
+> - [[THAG16]].4
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN82]]
 > ◄  [[mn81-bodhi]] 📜  [[mn83-bodhi]] ►

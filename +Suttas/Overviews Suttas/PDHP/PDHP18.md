@@ -97,4 +97,5 @@ the pollutants are laid to rest.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp18
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp18.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP17]]  🌐 [[PDHP19]] ►

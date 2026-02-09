@@ -24,3 +24,5 @@ gambhīrapaññaṃ medhāviṃ maggāmaggassa kovidaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp402-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP402]]
+> ◄  [[dhp401-pali-pts]] 📜  [[dhp403-pali-pts]] ►

@@ -23,3 +23,5 @@ buddhānaṃ uppādo vivajjito akkhaṇo khaṇo laddho |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig458-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG458]]
+> ◄  [[thig457-pali-pts]] 📜  [[thig459-pali-pts]] ►

@@ -243,7 +243,8 @@ Tatuttari tatuttarisaññī bhesajjaṁ viññāpeti, āpatti pācittiyassa. Tat
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc128-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC128]] |
->|       |          | [[ñanatusita-analysis#^-PC128]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC128]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC128]]

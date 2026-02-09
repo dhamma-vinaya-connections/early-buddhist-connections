@@ -90,4 +90,5 @@ For having slain that, one does not sorrow.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.71
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.71.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.70]]  🌐 [[SN1.72]] ►

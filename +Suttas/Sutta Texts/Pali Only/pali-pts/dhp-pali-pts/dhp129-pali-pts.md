@@ -24,3 +24,5 @@ sabbe tasanti daṇḍassa sabbesaṃ jīvitaṃ piyaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp129-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP129]]
+> ◄  [[dhp128-pali-pts]] 📜  [[dhp130-pali-pts]] ►

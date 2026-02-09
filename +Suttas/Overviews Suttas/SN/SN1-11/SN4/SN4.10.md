@@ -88,4 +88,5 @@ For attachments are a man’s sorrow
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.9]]  🌐 [[SN4.11]] ►

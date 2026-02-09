@@ -95,4 +95,5 @@ Mindful, I found peace
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag3
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG2]]  🌐 [[THAG4]] ►

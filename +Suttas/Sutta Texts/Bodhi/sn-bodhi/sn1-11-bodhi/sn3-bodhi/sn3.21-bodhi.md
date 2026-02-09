@@ -155,11 +155,12 @@ At Sāvatthī. Then King Pasenadi of Kosala approached the Blessed One, paid h
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.85]] | [[SA-2.69]], [[SA1146]] |  |
+> |  | [[SA-2.69]], [[SA1146]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.69]], [[SA1146]], [[AN4.85]], [[PE8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.21]]
 > ◄  [[sn3.20-bodhi]] 📜  [[sn3.22-bodhi]] ►

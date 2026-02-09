@@ -23,3 +23,5 @@ sabbadukkhaṃ pariññātaṃ hetutaṇhā visositā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig157-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG157]]
+> ◄  [[thig156-pali-pts]] 📜  [[thig158-pali-pts]] ►

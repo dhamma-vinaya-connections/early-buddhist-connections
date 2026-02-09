@@ -97,8 +97,9 @@ Te tādise pūjayato, nibbute akutobhaye; na sakkā puññaṃ saṅkhātuṃ, i
 > |  |  | Dh 51 |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG2.7]] |
+| [[THAG2]].7 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP14]]
 > ◄  [[dhp13-pali-sc]] 📜  [[dhp15-pali-sc]] ►

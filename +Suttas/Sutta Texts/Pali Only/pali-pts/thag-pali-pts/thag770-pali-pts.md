@@ -23,3 +23,5 @@ alattakakatā pāpā mukhaṃ cuṇṇakamakkhitaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag770-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG770]]
+> ◄  [[thag769-pali-pts]] 📜  [[thag771-pali-pts]] ►

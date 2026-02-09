@@ -197,7 +197,8 @@ Avikappite vikappitasaññī, nissaggiyaṁ pācittiyaṁ. Avissajjite vissajjit
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-np13-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-NP13]] |
->|       |          | [[ñanatusita-analysis#^-NP13]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-NP13]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP13]]

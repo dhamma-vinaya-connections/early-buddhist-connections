@@ -24,3 +24,5 @@ ayoge yuñjaṃ attānaṃ yogasmiñ ca ayojayaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp208-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP208]]
+> ◄  [[dhp207-pali-pts]] 📜  [[dhp209-pali-pts]] ►

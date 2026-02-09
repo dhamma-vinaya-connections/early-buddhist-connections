@@ -90,4 +90,5 @@ lives the mendicant life.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti14
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti14.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI10-13]]  🌐 [[ITI15]] ►

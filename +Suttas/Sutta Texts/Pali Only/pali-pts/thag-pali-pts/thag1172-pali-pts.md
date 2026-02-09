@@ -24,3 +24,5 @@ abhippasādehi manaṃ arahantamhi tādine,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1172-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1172]]
+> ◄  [[thag1171-pali-pts]] 📜  [[thag1173-pali-pts]] ►

@@ -25,3 +25,5 @@ vāri pokkharapatte va āragge-r-iva sāsapo /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp400-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP400]]
+> ◄  [[dhp399-pali-pts]] 📜  [[dhp401-pali-pts]] ►

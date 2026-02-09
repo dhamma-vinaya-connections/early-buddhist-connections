@@ -86,3 +86,5 @@ Hemakamāṇavapucchā aṭṭhamā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.9]]
+> ◄  [[snp5.8-sujato-pali]] 📜  [[snp5.10-sujato-pali]] ►

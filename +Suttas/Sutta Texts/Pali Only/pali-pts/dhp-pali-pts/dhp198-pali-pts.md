@@ -24,3 +24,5 @@ susukhaṃ vata jīvāma ussukesu anussukā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp198-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP198]]
+> ◄  [[dhp197-pali-pts]] 📜  [[dhp199-pali-pts]] ►

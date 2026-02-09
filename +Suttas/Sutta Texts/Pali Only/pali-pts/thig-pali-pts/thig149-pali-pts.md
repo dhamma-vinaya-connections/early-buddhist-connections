@@ -23,3 +23,5 @@ tato viññātasaddhammā pabbajiṃ anagāriyaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig149-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG149]]
+> ◄  [[thig148-pali-pts]] 📜  [[thig150-pali-pts]] ►

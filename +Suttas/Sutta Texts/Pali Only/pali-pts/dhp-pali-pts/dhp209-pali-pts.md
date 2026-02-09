@@ -24,3 +24,5 @@ mā piyehi samāgañchi appiyehi kudācanaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp209-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP209]]
+> ◄  [[dhp208-pali-pts]] 📜  [[dhp210-pali-pts]] ►

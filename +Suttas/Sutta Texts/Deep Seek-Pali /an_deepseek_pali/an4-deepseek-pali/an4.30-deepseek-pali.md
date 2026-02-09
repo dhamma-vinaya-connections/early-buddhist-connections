@@ -82,5 +82,6 @@ Two (discourses on) Uruvelā, the world, Kāḷaka, the fifth (on) the holy life
 | [[MN117]], [[SN22.62]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
 > ◄  [[an4.29-deepseek-pali]] 📜  [[an4.31-deepseek-pali]] ►

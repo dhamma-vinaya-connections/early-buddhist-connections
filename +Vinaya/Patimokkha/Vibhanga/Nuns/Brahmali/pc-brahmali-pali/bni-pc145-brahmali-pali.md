@@ -125,7 +125,8 @@ Bhikkhu saṁvidahati, manussā na saṁvidahanti, āpatti dukkaṭassa. Atheyya
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc145-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC145]] |
->|       |          | [[ñanatusita-analysis#^-PC145]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC145]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC145]]

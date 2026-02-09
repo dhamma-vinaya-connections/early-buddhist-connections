@@ -89,4 +89,5 @@ They live freed from fetters
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.49
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.49.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.48]]  🌐 [[AN6.50]] ►

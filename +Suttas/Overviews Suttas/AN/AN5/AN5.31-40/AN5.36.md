@@ -93,4 +93,5 @@ Support them in the next world
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.36
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.36.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.35]]  🌐 [[AN5.37]] ►

@@ -31,3 +31,5 @@ This meaning, too, was spoken by the Blessed One, thus have I heard. Ninth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI9]]
+> ◄  [[iti8-deepseek-pali]] 📜  [[iti10-deepseek-pali]] ►

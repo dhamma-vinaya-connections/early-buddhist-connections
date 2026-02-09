@@ -34,11 +34,12 @@ if there is a person whose bodily actions, verbal actions, and mental actions ar
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.162]] |  | M iii 88 |
+> |  |  | M iii 88 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN11.6]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA25]]
 > ◄  [[ma24-bdk]] 📜  [[ma26-bdk]] ►

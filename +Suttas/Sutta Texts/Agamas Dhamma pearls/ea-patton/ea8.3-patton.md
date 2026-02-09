@@ -45,3 +45,5 @@ Last Revised: 7 February 2023
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ea8.3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[EA]] / 📂 [[EA8]]  / 🌐 [[EA8.3]]
+> ◄  [[ea8.2-patton]] 📜  [[ea8.4-patton]] ►

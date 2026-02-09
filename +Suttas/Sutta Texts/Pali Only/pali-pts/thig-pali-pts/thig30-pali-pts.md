@@ -27,3 +27,5 @@ _THERĪ-GĀTHĀ. 127_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig30-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG30]]
+> ◄  [[thig29-pali-pts]] 📜  [[thig31-pali-pts]] ►

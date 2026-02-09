@@ -181,7 +181,8 @@ Sace so chaḍḍeti, iccetaṁ kusalaṁ; no ce chaḍḍeti, pañcahaṅgehi s
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-np21-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-NP21]] |
->|       |          | [[ñanatusita-analysis#^-NP21]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-NP21]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP21]]

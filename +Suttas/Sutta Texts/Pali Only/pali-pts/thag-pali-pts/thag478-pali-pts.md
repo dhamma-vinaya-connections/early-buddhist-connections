@@ -23,3 +23,5 @@ jātiyā sattavassena laddhā me upasampadā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag478-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG478]]
+> ◄  [[thag477-pali-pts]] 📜  [[thag479-pali-pts]] ►

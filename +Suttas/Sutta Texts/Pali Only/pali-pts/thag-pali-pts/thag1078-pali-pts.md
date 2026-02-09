@@ -23,3 +23,5 @@ yesañ ca hiriottappaṃ sadā sammā upaṭṭhitaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1078-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1078]]
+> ◄  [[thag1077-pali-pts]] 📜  [[thag1079-pali-pts]] ►

@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "King"
-parallels_nikaya: "[[DHP361]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.56]], [[SA1229]]"
-parallels_partilal: "[[SA-2.56]], [[SA1229]], [[DHP361]], [[PE2]]"
+parallels_partilal: "[[SA-2.56]], [[SA1229]], [[DHP\|DHP361]], [[PE2]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.4]]  🌐 [[SN3.6]] ►
 
@@ -65,10 +65,10 @@ One finds no-one dearer than oneself.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP361]] | [[SA-2.56]], [[SA1229]] |  |
+> |  | [[SA-2.56]], [[SA1229]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.56]], [[SA1229]], [[DHP361]], [[PE2]] |
+| [[SA-2.56]], [[SA1229]], [[DHP\|DHP361]], [[PE2]] |
 | ------------------------ |
 
 
@@ -88,5 +88,6 @@ One finds no-one dearer than oneself.
 > - Sutta Central: https://suttacentral.net/sn3.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.5
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.5.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.4]]  🌐 [[SN3.6]] ►

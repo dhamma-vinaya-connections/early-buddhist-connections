@@ -23,3 +23,5 @@ cetasā anupariyeti Moggallāno mahiddhiko
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1249-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1249]]
+> ◄  [[thag1248-pali-pts]] 📜  [[thag1250-pali-pts]] ►

@@ -92,4 +92,5 @@ Crosses the flood so hard to cross.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.9]]  🌐 [[SN2.11]] ►

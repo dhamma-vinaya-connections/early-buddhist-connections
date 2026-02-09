@@ -50,5 +50,6 @@ Then that bhikkhunī got up from her bed, arranged her upper robe over one shoul
 | [[SA564]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.159]]
 > ◄  [[an4.158-bodhi]] 📜  [[an4.160-bodhi]] ►

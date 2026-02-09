@@ -83,7 +83,7 @@ in his isolated spot,
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN35.117]], [[SN35.200]], [[AN4.28]], [[THAG3.8]], [[THAG5.8]], [[THAG6.2]], [[THAG18]]
+> - [[SN35.117]], [[SN35.200]], [[AN4.28]], [[THAG3]].8, [[THAG5]].8, [[THAG6]].2, [[THAG18]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -101,5 +101,6 @@ in his isolated spot,
 > - Sutta Central: https://suttacentral.net/snp4.16/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.16
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.16.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.15]]  🌐 [[SNP5.1]] ►

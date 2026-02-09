@@ -107,5 +107,6 @@ Atha kho bhagavā āyasmantaṁ anuruddhaṁ āmantesi: "Kacci tumhe, anuruddhā
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN2]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN68]]
 > ◄  [[mn67-pali-sc]] 📜  [[mn69-pali-sc]] ►

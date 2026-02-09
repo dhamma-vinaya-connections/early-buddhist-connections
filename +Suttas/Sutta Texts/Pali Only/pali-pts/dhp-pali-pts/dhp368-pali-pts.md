@@ -24,3 +24,5 @@ siñca bhikkhu imaṃ nāvaṃ, sittā te lahum essati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp368-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP368]]
+> ◄  [[dhp367-pali-pts]] 📜  [[dhp369-pali-pts]] ►

@@ -24,3 +24,5 @@ Sādhu suvihitāna dassanaṃ, kaṅkhā chijjati, buddhi vaḍḍhati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag74-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG74]]
+> ◄  [[thag73-pali-pts]] 📜  [[thag75-pali-pts]] ►

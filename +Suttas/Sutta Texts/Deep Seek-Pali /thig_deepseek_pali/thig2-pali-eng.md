@@ -146,3 +146,5 @@ Through many painful experiences, due to delighting in diligence, I have attaine
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG2]]
+> ◄  [[thig1-pali-eng]] 📜  [[thig3-pali-eng]] ►

@@ -88,5 +88,6 @@ Vohāramattena so vohareyyā"ti.
 | [[SA-2.166]], [[SA581-582]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.25]]
 > ◄  [[sn1.24-pali-sc]] 📜  [[sn1.26-pali-sc]] ►

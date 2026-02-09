@@ -23,3 +23,5 @@ yam idha pathaviñ ca vihāsaṃ rūpagataṃ jagatogandhaṃ kiñci,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1214-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1214]]
+> ◄  [[thag1213-pali-pts]] 📜  [[thag1215-pali-pts]] ►

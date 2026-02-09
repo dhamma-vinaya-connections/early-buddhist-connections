@@ -49,13 +49,10 @@ monks, one may keep contemplating in such and such a way. Monks, hav ing contemp
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma164-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN138]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.192]], [[AN7.64]], [[AN8.54]], [[UD6.2]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA164]]
 > ◄  [[ma163-bdk]] 📜  [[ma165-bdk]] ►

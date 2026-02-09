@@ -343,5 +343,6 @@ Uggasaññojanaṃ ceva pahānamacchariyena cā, ti sīmu.
 | [[AN7.66]], [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.1]]
 > ◄  [[an3.26-pali-sri]] 📜  [[an4.2-pali-sri]] ►

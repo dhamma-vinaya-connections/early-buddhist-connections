@@ -97,4 +97,5 @@ I go to strive.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.1
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.14]]  🌐 [[SNP3.2]] ►

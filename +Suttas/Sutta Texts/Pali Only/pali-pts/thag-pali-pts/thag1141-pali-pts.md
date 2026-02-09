@@ -23,3 +23,5 @@ paññāya chetvā vipathānusārinaṃ yogena niggayha pathe nivesiya
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1141-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1141]]
+> ◄  [[thag1140-pali-pts]] 📜  [[thag1142-pali-pts]] ►

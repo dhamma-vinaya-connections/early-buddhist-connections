@@ -335,5 +335,6 @@ Uttaro navamo vutto dasamo anāthapiṇḍikoti.
 | [[SA-2.317]], [[SA1318]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.2]]
 > ◄  [[sn2.1-pali-sri]] 📜  [[sn2.3-pali-sri]] ►

@@ -38,5 +38,6 @@ At Sāvatthī…. (as above) … Then, referring to the bhikkhu Katamorakatissak
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.8]]
 > ◄  [[sn6.7-bodhi]] 📜  [[sn6.9-bodhi]] ►

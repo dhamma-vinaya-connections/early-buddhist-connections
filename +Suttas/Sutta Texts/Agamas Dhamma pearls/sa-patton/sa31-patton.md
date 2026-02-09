@@ -48,11 +48,12 @@ He replied, “No.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.50]], [[SN22.49]] | [[SA30]], [[SA31]] |  |
+> |  | [[SA30]], [[SA31]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA30]], [[SN22.50]], [[SA31]], [[SN22.49]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA31]]
 > ◄  [[sa30-patton]] 📜  [[sa32-patton]] ►

@@ -74,5 +74,6 @@ Known, memorable is the monk, a wheel-turner, and a mindful one; the reliable on
 | [[SA-3.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.20]]
 > ◄  [[an3.19-deepseek-pali]] 📜  [[an3.21-deepseek-pali]] ►

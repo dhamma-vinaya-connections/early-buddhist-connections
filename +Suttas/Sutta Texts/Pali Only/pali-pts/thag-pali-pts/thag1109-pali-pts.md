@@ -23,3 +23,5 @@ mam'; eva etaṃ, na hi taṃ paresaṃ; sannāhakāle paridevitena kiṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1109-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1109]]
+> ◄  [[thag1108-pali-pts]] 📜  [[thag1110-pali-pts]] ►

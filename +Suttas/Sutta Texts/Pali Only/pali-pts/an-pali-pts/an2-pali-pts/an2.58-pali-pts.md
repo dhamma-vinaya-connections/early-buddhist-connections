@@ -25,3 +25,5 @@ Katame dve: Bhikkhu ca khīṇāsavo assājāniyo ca. Ime kho bhikkhave dve asan
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.58-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.58]]
+> ◄  [[an2.57-pali-pts]] 📜  [[an2.59-pali-pts]] ►

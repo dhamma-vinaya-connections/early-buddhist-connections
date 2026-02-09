@@ -60,7 +60,8 @@ The Ninth Training Rule Concerning Lodging is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc49-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC49]] |
->|       |          | [[ñanatusita-analysis#^PC49]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC49]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC49]]

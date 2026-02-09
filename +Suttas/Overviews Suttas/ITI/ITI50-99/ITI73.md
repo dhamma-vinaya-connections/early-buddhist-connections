@@ -89,4 +89,5 @@ parallels_partilal: "[[SNP3.12]], [[SN5.6]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti73
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti73.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI72]]  🌐 [[ITI74]] ►

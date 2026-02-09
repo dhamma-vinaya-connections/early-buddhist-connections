@@ -23,3 +23,5 @@ yaṃ vo kiccaṃ sarīrena taṃ karotha yad'; icchatha;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag718-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG718]]
+> ◄  [[thag717-pali-pts]] 📜  [[thag719-pali-pts]] ►

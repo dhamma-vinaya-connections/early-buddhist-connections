@@ -61,11 +61,12 @@ This, too, is the meaning of what was said by the Blessed One, and so I have hea
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.26]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.26]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI108]]
 > ◄  [[iti107-deepseek-pali]] 📜  [[iti109-deepseek-pali]] ►

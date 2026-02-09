@@ -167,7 +167,8 @@ Nissajjitvā āpatti desetabbā. Tāya bhikkhuniyā āpatti paṭiggahetabbā. N
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-np1-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-NP1]] |
->|       |          | [[ñanatusita-analysis#^-NP1]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-NP1]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP1]]

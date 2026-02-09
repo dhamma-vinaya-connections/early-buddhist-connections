@@ -23,3 +23,5 @@ bahussutā dhammaddharā ariyā dhammajīvino |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig278-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG278]]
+> ◄  [[thig277-pali-pts]] 📜  [[thig279-pali-pts]] ►

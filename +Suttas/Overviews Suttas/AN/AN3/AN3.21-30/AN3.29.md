@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN2.19]], [[SN22.57]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SN22.57]], [[AN2.19]]"
 ---
@@ -64,7 +64,7 @@ But you should keep the two-eyed close
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN2.19]], [[SN22.57]] |  | A i 128 |
+> |  |  | A i 128 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN22.57]], [[AN2.19]] |
@@ -87,5 +87,6 @@ But you should keep the two-eyed close
 > - Sutta Central: https://suttacentral.net/an3.29/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.29
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.29.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.28]]  🌐 [[AN3.30]] ►

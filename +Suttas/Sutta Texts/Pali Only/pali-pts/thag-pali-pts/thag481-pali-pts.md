@@ -23,3 +23,5 @@ tato pañhe apucchi maṃ pañhānaṃ kovido vidū,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag481-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG481]]
+> ◄  [[thag480-pali-pts]] 📜  [[thag482-pali-pts]] ►

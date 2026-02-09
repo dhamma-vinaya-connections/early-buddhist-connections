@@ -23,3 +23,5 @@ anākiṇṇā gahaṭṭhehi migasaṃghanisevitā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1068-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1068]]
+> ◄  [[thag1067-pali-pts]] 📜  [[thag1069-pali-pts]] ►

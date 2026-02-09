@@ -81,3 +81,5 @@ Everywhere delight has been banished, the mass of darkness has been shattered. T
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG11]]
+> ◄  [[thig10-pali-eng]] 📜  [[thig12-pali-eng]] ►

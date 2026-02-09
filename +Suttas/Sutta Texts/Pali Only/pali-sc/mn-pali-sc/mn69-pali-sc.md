@@ -76,5 +76,6 @@ Tena kho pana samayena goliyāni nāma bhikkhu āraññiko padasamācāro saṁg
 | [[MA26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn68-pali-sc]] 📜  [[mn70-pali-sc]] ►

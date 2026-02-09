@@ -25,3 +25,5 @@ _PAÑÑĀSA-NIPĀTO. 101_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1123-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1123]]
+> ◄  [[thag1122-pali-pts]] 📜  [[thag1124-pali-pts]] ►

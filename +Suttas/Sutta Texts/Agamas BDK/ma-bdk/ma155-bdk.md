@@ -32,11 +32,12 @@ not the ultimate purity, not the ultimate holy life, not the ultimate com- pleti
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.20]] | [[EA27.3]] |  |
+> |  | [[EA27.3]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN7.20]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA155]]
 > ◄  [[ma154-bdk]] 📜  [[ma156-bdk]] ►

@@ -25,3 +25,5 @@ na tena bhikkhu hoti yāvatā bhikkhate pare, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp265-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP265]]
+> ◄  [[dhp264-pali-pts]] 📜  [[dhp266-pali-pts]] ►

@@ -23,3 +23,5 @@ karotha buddhavacanaṃ, khaṇo ve mā upaccagā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag402-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG402]]
+> ◄  [[thag401-pali-pts]] 📜  [[thag403-pali-pts]] ►

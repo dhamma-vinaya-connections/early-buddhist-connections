@@ -44,5 +44,6 @@ This too was spoken by the Blessed One, so I heard. This is the seventh discours
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN26]], [[AN3.39]], [[AN4.252]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI55]]
 > ◄  [[iti54-deepseek-pali]] 📜  [[iti56-deepseek-pali]] ►

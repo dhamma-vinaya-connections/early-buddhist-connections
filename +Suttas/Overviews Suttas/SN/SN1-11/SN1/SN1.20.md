@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[JA167]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.17]], [[SA1078]]"
 parallels_partilal: "[[ITI63]], [[SA-2.17]], [[SA1078]], [[JA167]]"
 ---
@@ -63,7 +63,7 @@ Having given up sensual pleasures, mindful and aware,
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA167]] | [[SA-2.17]], [[SA1078]] |  |
+> |  | [[SA-2.17]], [[SA1078]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[ITI63]], [[SA-2.17]], [[SA1078]], [[JA167]] |
@@ -89,5 +89,6 @@ Having given up sensual pleasures, mindful and aware,
 > - Sutta Central: https://suttacentral.net/sn1.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.20
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.20.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.19]]  🌐 [[SN1.21]] ►

@@ -24,3 +24,5 @@ kāsāvakaṇṭhā bahavo pāpadhammā asaññatā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp306-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP306]]
+> ◄  [[dhp305-pali-pts]] 📜  [[dhp307-pali-pts]] ►

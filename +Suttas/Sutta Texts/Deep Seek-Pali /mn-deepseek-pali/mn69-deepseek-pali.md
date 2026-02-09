@@ -114,5 +114,6 @@ The Goliyāni Sutta, the Ninth, is finished.
 | [[MA26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn68-deepseek-pali]] 📜  [[mn70-deepseek-pali]] ►

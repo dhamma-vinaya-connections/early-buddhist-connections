@@ -79,7 +79,7 @@ There is no greater pleasure than this.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG1.41]], [[THAG1.110]], [[THAG18]]
+> - [[THAG1]].41, [[THAG1]].110, [[THAG18]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -97,5 +97,6 @@ There is no greater pleasure than this.
 > - Sutta Central: https://suttacentral.net/thag9/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag9
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag9.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG8]]  🌐 [[THAG10]] ►

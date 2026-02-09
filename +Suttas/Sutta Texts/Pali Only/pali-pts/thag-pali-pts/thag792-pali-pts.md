@@ -22,3 +22,5 @@ pariciṇṇo . . . (= 604)
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag792-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG792]]
+> ◄  [[thag791-pali-pts]] 📜  [[thag793-pali-pts]] ►

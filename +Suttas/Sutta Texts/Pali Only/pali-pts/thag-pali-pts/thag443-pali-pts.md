@@ -23,3 +23,5 @@ ubhinnaṃ tikicchantan taṃ attano ca parassa ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag443-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG443]]
+> ◄  [[thag442-pali-pts]] 📜  [[thag444-pali-pts]] ►

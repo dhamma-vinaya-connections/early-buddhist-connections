@@ -23,3 +23,5 @@ yassa pāpaṃ kataṃ kammaṃ kusalena pithīyati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag871-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG871]]
+> ◄  [[thag870-pali-pts]] 📜  [[thag872-pali-pts]] ►

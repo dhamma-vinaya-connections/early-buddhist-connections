@@ -24,3 +24,5 @@ Makkaṭo pañcadvārāyaṃ kuṭikāyaṃ pasakkiya
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag124-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG124]]
+> ◄  [[thag123-pali-pts]] 📜  [[thag125-pali-pts]] ►

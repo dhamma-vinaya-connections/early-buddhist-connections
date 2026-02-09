@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN4.102]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA25.10]], [[EA2.10]]"
 parallels_partilal: "[[AN4.102]], [[EA25.10]], [[EA2.10]]"
 ---
@@ -67,7 +67,7 @@ One both makes a hole and lives in it.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.102]] | [[EA25.10]], [[EA2.10]] |  |
+> |  | [[EA25.10]], [[EA2.10]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.102]], [[EA25.10]], [[EA2.10]] |
@@ -90,5 +90,6 @@ One both makes a hole and lives in it.
 > - Sutta Central: https://suttacentral.net/ea2.10/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA2.9]]  🌐 [[EA3.1]] ►

@@ -21,3 +21,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG1]]
+> ◄  [[]] 📜  [[thag2-anigha]] ►

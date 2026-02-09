@@ -23,3 +23,5 @@ nisinnaṃ maṃ viditvāna atha satthā paṭiggahi.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag565-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG565]]
+> ◄  [[thag564-pali-pts]] 📜  [[thag566-pali-pts]] ►

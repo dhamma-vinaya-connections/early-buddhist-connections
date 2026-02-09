@@ -374,6 +374,6 @@ Translated by Charles Patton
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN1]], [[MN100]], [[MN36]], [[MN85]] | [[DA20]], [[DA22]], [[EA31.8]] |  |
+> |  | [[DA20]], [[DA22]], [[EA31.8]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA21]]
 > ◄  [[da20-patton]] 📜  [[da22-patton]] ►

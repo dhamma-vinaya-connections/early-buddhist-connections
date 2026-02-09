@@ -24,3 +24,5 @@ bahuṃ ve saraṇaṃ yanti pabbatāni vanāni ca /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp187-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP187]]
+> ◄  [[dhp186-pali-pts]] 📜  [[dhp188-pali-pts]] ►

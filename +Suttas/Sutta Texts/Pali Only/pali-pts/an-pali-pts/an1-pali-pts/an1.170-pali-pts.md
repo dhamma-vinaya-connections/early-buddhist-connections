@@ -34,5 +34,6 @@ Ayaṃ kho bhikkhave ekapuggalo loke uppajjamāno . . . pe . . . devamanussānan
 | [[EA8.2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.170]]
 > ◄  [[an1.150-pali-pts]] 📜  [[an1.187-pali-pts]] ►

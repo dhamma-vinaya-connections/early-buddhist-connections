@@ -24,3 +24,5 @@ yathā saṃkāradhānasmiṃ ujjhitasmiṃ mahāpathe /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp57-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP57]]
+> ◄  [[dhp56-pali-pts]] 📜  [[dhp58-pali-pts]] ►

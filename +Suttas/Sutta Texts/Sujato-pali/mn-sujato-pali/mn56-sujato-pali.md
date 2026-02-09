@@ -795,8 +795,9 @@ Upālisuttaṁ niṭṭhitaṁ chaṭṭhaṁ.
 > |  | [[MA133]] | M i 371 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA133]]; [[AN4.193]] |
+| [[MA133]], [[AN4.193]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-sujato-pali]] 📜  [[mn57-sujato-pali]] ►

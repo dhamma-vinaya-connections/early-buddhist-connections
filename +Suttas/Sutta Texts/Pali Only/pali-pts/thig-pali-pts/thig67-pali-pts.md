@@ -23,3 +23,5 @@ aladdhā cetaso santiṃ kāmarāgen'; avassutā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig67-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG67]]
+> ◄  [[thig66-pali-pts]] 📜  [[thig68-pali-pts]] ►

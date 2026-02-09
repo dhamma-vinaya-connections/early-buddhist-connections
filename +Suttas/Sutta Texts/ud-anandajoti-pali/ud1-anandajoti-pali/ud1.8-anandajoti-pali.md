@@ -91,3 +91,5 @@ Aṭṭhamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.8]]
+> ◄  [[ud1.7-anandajoti-pali]] 📜  [[ud1.9-anandajoti-pali]] ►

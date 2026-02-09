@@ -277,5 +277,10 @@ sabbānaṭṭhakavaggikāti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.16-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN35.117]], [[SN35.200]], [[AN4.28]], [[THAG3]].8, [[THAG5]].8, [[THAG6]].2, [[THAG18]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.16]]
 > ◄  [[snp4.15-sujato-pali]] 📜  [[]] ►

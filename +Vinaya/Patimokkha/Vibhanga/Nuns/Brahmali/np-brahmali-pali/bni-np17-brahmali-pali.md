@@ -165,7 +165,8 @@ Evañca pana, bhikkhave, nissajjitabbaṁ … pe …
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-np17-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-NP17]] |
->|       |          | [[ñanatusita-analysis#^-NP17]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-NP17]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP17]]

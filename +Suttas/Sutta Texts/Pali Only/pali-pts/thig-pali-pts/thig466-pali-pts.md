@@ -23,3 +23,5 @@ kim iva t'; āhaṃ jānantī vikūlakaṃ maṃsasoṇitapalittaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig466-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG466]]
+> ◄  [[thig465-pali-pts]] 📜  [[thig467-pali-pts]] ►

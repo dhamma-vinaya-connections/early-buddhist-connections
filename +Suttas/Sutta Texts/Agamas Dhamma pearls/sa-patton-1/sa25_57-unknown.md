@@ -51,3 +51,5 @@ The Buddha said, “Yes, god.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa25_57-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA25_57]]
+> ◄  [[SA19_15]] 📜  [[SA26_11]] ►

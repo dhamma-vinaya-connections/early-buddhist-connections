@@ -361,5 +361,6 @@ The Great Lineage Discourse, the Root Discourse, the Great Discourse on Nibbāna
 | [[DA7]], [[MA71]], [[JA91]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN23]]
 > ◄  [[dn22-deepseek-pali]] 📜  [[dn24-deepseek-pali]] ►

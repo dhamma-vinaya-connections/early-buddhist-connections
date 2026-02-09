@@ -41,3 +41,5 @@ The Buddha told the brahmins, “You may go when you’re ready.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa53-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA53]]
+> ◄  [[sa52-patton]] 📜  [[sa54-patton]] ►

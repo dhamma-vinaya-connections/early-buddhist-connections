@@ -25,3 +25,5 @@ hatthigavassaṃ maṇikuṇḍalañ ca phītañ c'; imaṃ gehavigataṃ pahāy
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig326-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG326]]
+> ◄  [[thig325-pali-pts]] 📜  [[thig327-pali-pts]] ►

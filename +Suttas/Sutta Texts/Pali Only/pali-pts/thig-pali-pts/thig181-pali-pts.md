@@ -26,3 +26,5 @@ satiṃ upaṭṭhapetvāna bhikkhunī bhāvitindriyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig181-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG181]]
+> ◄  [[thig180-pali-pts]] 📜  [[thig182-pali-pts]] ►

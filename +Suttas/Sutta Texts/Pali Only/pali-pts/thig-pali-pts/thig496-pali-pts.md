@@ -23,3 +23,5 @@ sara caturo 'dadhī upanīte assuthaññarudhiramhi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig496-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG496]]
+> ◄  [[thig495-pali-pts]] 📜  [[thig497-pali-pts]] ►

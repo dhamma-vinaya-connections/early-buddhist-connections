@@ -25,3 +25,5 @@ appamatto pamattesu suttesu bahujāgaro /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp28-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP28]]
+> ◄  [[dhp27-pali-pts]] 📜  [[dhp29-pali-pts]] ►

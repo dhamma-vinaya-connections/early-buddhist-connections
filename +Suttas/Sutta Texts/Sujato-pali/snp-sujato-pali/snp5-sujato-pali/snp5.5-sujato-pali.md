@@ -174,3 +174,5 @@ Mettagūmāṇavapucchā catutthī.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.5]]
+> ◄  [[snp5.4-sujato-pali]] 📜  [[snp5.6-sujato-pali]] ►

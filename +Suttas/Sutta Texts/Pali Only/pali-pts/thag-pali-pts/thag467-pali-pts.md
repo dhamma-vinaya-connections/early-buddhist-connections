@@ -23,3 +23,5 @@ buddho ca me varaṃ dajjā so ca labbhetha me varo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag467-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG467]]
+> ◄  [[thag466-pali-pts]] 📜  [[thag468-pali-pts]] ►

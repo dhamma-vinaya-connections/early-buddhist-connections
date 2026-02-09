@@ -86,4 +86,5 @@ parallels_partilal: "[[EA15.3]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.141
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.141.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.140]]  🌐 [[AN2.142]] ►

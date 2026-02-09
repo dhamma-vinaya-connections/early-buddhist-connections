@@ -24,3 +24,5 @@ yassa accantadussīlyaṃ māluvā sālam iv'; otataṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp161-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP161]]
+> ◄  [[dhp160-pali-pts]] 📜  [[dhp162-pali-pts]] ►

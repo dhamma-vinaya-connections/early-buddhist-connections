@@ -89,4 +89,5 @@ And viewpoints eradicated
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.38
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.38.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.37]]  🌐 [[AN4.39]] ►

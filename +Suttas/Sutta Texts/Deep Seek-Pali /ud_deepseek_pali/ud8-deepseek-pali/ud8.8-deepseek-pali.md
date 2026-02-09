@@ -64,7 +64,8 @@ Then, the Blessed One, having realized the meaning of this, on that occasion, ut
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN87]], [[THIG3.5]], [[THIG6.1]]
+> - [[MN87]], [[THIG3]].5, [[THIG6]].1
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.8]]
 > ◄  [[ud8.7-deepseek-pali]] 📜  [[ud8.9-deepseek-pali]] ►

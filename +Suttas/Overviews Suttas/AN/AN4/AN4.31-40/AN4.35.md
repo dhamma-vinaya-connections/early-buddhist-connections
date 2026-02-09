@@ -92,4 +92,5 @@ Is called ‘a great man, of great wisdom
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.35
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.35.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.34]]  🌐 [[AN4.36]] ►

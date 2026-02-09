@@ -98,4 +98,5 @@ for the sake of a person’s next life.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.11
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.11.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.10]]  🌐 [[SNP4.12]] ►

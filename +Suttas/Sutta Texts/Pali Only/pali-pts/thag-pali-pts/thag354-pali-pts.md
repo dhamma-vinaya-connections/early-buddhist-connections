@@ -23,3 +23,5 @@ Olaggessāmi te citta āṇidvāre va hatthinaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag354-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG354]]
+> ◄  [[thag353-pali-pts]] 📜  [[thag355-pali-pts]] ►

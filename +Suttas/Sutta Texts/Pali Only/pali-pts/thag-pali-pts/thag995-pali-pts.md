@@ -23,3 +23,5 @@ tam me amoghaṃ savanaṃ, vimutto 'mhi anāsavo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag995-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG995]]
+> ◄  [[thag994-pali-pts]] 📜  [[thag996-pali-pts]] ►

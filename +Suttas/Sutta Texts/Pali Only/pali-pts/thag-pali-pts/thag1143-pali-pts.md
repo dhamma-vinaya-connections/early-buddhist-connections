@@ -23,3 +23,5 @@ migo yathā seri sucittakānane rammaṃ giriṃ pāvisi abbhaḷ mālinaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1143-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1143]]
+> ◄  [[thag1142-pali-pts]] 📜  [[thag1144-pali-pts]] ►

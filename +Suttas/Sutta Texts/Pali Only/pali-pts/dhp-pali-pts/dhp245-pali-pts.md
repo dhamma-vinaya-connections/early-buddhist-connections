@@ -24,3 +24,5 @@ yo pāṇaṃ atimāpeti musāvādañ ca bhāsati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp245-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP245]]
+> ◄  [[dhp244-pali-pts]] 📜  [[dhp246-pali-pts]] ►

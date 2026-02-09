@@ -23,3 +23,5 @@ kadā nu 'haṃ dubbacanena vutto tatonimittaṃ vimano na hessaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1099-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1099]]
+> ◄  [[thag1098-pali-pts]] 📜  [[thag1100-pali-pts]] ►

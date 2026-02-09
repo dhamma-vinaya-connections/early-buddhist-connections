@@ -34,10 +34,11 @@ gods who delight in the creations of others. When I gave teachings about the [wa
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.66]] | [[EA40.1]] | M i 237 |
+> |  | [[EA40.1]] | M i 237 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA30]], [[MN28]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA8]]
 > ◄  [[ma7-bdk]] 📜  [[ma9-bdk]] ►

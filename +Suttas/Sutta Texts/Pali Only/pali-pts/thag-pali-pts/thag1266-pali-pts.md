@@ -23,3 +23,5 @@ ye keci gandhā idha mohamaggā aññāṇapakkhā vicikicchaṭṭhānā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1266-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1266]]
+> ◄  [[thag1265-pali-pts]] 📜  [[thag1267-pali-pts]] ►

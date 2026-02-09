@@ -23,3 +23,5 @@ evaṃ nānappayātamhi ni dāni sukaraṃ tathā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag944-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG944]]
+> ◄  [[thag943-pali-pts]] 📜  [[thag945-pali-pts]] ►

@@ -24,3 +24,5 @@ akakkasaṃ viññāpaniṃ giraṃ saccaṃ udīraye /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp407-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP407]]
+> ◄  [[dhp406-pali-pts]] 📜  [[dhp408-pali-pts]] ►

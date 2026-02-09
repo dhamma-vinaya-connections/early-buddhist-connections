@@ -23,3 +23,5 @@ tasmā saddhañ ca sīlañ ca pasādaṃ dhammadassanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag203-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG203]]
+> ◄  [[thag202-pali-pts]] 📜  [[thag204-pali-pts]] ►

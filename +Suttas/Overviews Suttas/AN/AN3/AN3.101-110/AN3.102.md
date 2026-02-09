@@ -91,4 +91,5 @@ parallels_partilal: "[[SA1247]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.102
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.102.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.101]]  🌐 [[AN3.103]] ►

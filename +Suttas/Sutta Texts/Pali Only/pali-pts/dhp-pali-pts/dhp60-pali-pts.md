@@ -24,3 +24,5 @@ carañ ce nādhigaccheyya seyyaṃ sadisam attano /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp60-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP60]]
+> ◄  [[dhp59-pali-pts]] 📜  [[dhp61-pali-pts]] ►

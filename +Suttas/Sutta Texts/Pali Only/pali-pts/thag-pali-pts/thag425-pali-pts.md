@@ -23,3 +23,5 @@ disvā vināyakaṃ aggaṃ sārathīnaṃ varuttamaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag425-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG425]]
+> ◄  [[thag424-pali-pts]] 📜  [[thag426-pali-pts]] ►

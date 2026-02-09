@@ -42,5 +42,6 @@ This too is the meaning that was spoken by the Blessed One, so I have heard. Thi
 | [[MN92]], [[SNP3.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI100]]
 > ◄  [[iti99-deepseek-pali]] 📜  [[iti101-deepseek-pali]] ►

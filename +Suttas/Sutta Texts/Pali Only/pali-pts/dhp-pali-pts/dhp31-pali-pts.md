@@ -24,3 +24,5 @@ appamādarato bhikkhu pamāde bhayadassivā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp31-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP31]]
+> ◄  [[dhp30-pali-pts]] 📜  [[dhp32-pali-pts]] ►

@@ -100,11 +100,12 @@ Dasamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.89]] | [[SA816]], [[SA817]], [[SA832]] | A ii 106 |
+> |  | [[SA816]], [[SA817]], [[SA832]] | A ii 106 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA816]], [[AN3.89]], [[SA817]], [[SA832]], [[THAG6.4]] |
+| [[SA816]], [[AN3.89]], [[SA817]], [[SA832]], [[THAG6]].4 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.90]]
 > ◄  [[an3.89-sujato-pali]] 📜  [[an3.91-sujato-pali]] ►

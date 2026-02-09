@@ -23,3 +23,5 @@ yadā asokaṃ virajaṃ asaṃkhataṃ santaṃ padaṃ sabbakilesasodhanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag520-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG520]]
+> ◄  [[thag519-pali-pts]] 📜  [[thag521-pali-pts]] ►

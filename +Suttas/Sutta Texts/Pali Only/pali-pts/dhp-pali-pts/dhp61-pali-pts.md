@@ -24,3 +24,5 @@ ekacariyaṃ daḷhaṃ kayirā n'; atthi bāle sahāyatā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp61-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP61]]
+> ◄  [[dhp60-pali-pts]] 📜  [[dhp62-pali-pts]] ►

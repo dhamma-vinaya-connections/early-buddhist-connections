@@ -23,3 +23,5 @@ uṭṭhāya Anikaratto pañjaliko yāci tassā pitaraṃ so |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig514-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG514]]
+> ◄  [[thig513-pali-pts]] 📜  [[thig515-pali-pts]] ►

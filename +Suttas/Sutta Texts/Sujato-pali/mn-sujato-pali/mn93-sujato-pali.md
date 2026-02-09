@@ -419,8 +419,9 @@ Assalāyanasuttaṁ niṭṭhitaṁ tatiyaṁ.
 > |  | [[EA40.9]]; [[MA151]] | M ii 147 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA40.9]]; [[MA151]] |
+| [[EA40.9]], [[MA151]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn92-sujato-pali]] 📜  [[mn94-sujato-pali]] ►

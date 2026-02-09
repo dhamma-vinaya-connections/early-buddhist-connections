@@ -44,5 +44,6 @@ Akammaniyavaggo tatiyo.
 | [[EA11.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.30]]
 > ◄  [[an1.29-sujato-pali]] 📜  [[an1.31-sujato-pali]] ►

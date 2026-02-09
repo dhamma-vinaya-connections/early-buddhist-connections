@@ -56,15 +56,16 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.6]] | [[EA45.3]]; [[MA107-108]] | M i 104 |
+> |  | [[EA45.3]]; [[MA107-108]] | M i 104 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA45.3]]; [[MA107-108]]; [[AN9.6]] |
+| [[EA45.3]], [[MA107-108]], [[AN9.6]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.6]], [[MN3]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN17]]
 > ◄  [[mn16-bodhi]] 📜  [[mn18-bodhi]] ►

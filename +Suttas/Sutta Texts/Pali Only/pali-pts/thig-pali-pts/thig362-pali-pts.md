@@ -23,3 +23,5 @@ ajj'; aṭṭhamī pabbajitā saddhā saddhammasobhaṇā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig362-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG362]]
+> ◄  [[thig361-pali-pts]] 📜  [[thig363-pali-pts]] ►

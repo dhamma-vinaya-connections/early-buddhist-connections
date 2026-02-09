@@ -105,3 +105,5 @@ Cittavaggo tatiyo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp3-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP3-BUDDHARAKKHITA]]
+> ◄  [[dhp2-buddharakkhita-pali]] 📜  [[dhp4-buddharakkhita-pali]] ►

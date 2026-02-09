@@ -23,3 +23,5 @@ anujānāhi me ayye icche Sāvatthiṃ gantave |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig331-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG331]]
+> ◄  [[thig330-pali-pts]] 📜  [[thig332-pali-pts]] ►

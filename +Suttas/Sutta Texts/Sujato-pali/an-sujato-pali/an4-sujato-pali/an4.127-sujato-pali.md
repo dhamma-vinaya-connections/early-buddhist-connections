@@ -62,11 +62,12 @@ Sattamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN123]] | [[MA32]] | A ii 140 |
+> |  | [[MA32]] | A ii 140 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA32]], [[MN123]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.127]]
 > ◄  [[an4.126-sujato-pali]] 📜  [[an4.128-sujato-pali]] ►

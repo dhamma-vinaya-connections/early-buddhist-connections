@@ -23,3 +23,5 @@ accheraṃ vata buddhānaṃ gambhīro gocaro sako,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1084-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1084]]
+> ◄  [[thag1083-pali-pts]] 📜  [[thag1085-pali-pts]] ►

@@ -36,5 +36,6 @@ Dīghāyu yasavā hoti yattha yatth'; upapajjatīti.
 | [[AN4.58]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.59]]
 > ◄  [[an4.58-pali-pts]] 📜  [[an4.60-pali-pts]] ►

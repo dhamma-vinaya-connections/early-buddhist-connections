@@ -52,11 +52,12 @@ language: "English - Pali"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP66]], [[DHP67]], [[DHP68]] | [[SA-2.274]], [[SA1276]] |  |
+> |  | [[SA-2.274]], [[SA1276]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.274]], [[SA1276]], [[DHP66]], [[DHP67]], [[DHP68]] |
+| [[SA-2.274]], [[SA1276]], [[DHP\|DHP66]], [[DHP\|DHP67]], [[DHP\|DHP68]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.22]]
 > ◄  [[sn2.21-deepseek-pali]] 📜  [[sn2.23-deepseek-pali]] ►

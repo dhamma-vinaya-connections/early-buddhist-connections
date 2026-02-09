@@ -66,7 +66,7 @@ End of Chapter 8: Defilement of the _Medium Discourses_ (16,140 Chinese characte
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.55]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA28.3]], [[PLI-TV-KD16]], [[SN10.8]] |
@@ -75,6 +75,7 @@ End of Chapter 8: Defilement of the _Medium Discourses_ (16,140 Chinese characte
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA93]], [[MA95]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA96]]
 > ◄  [[ma95-patton]] 📜  [[ma98-patton]] ►

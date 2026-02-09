@@ -52,13 +52,10 @@ End of the fourth _sūtra_, _Examining One’s Own Mind_ (660 Chinese characters
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma110-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN10.51]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN15]], [[MN3]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA110]]
 > ◄  [[ma109-patton]] 📜  [[ma127-patton]] ►

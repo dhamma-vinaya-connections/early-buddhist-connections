@@ -103,4 +103,5 @@ he goes where the King of Death can’t see.
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud5.6
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud5.6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.5]]  🌐 [[UD5.7]] ►

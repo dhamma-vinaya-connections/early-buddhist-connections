@@ -28,5 +28,6 @@ language: "English"
 | [[EA22.5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.47]]
 > ◄  [[an3.42-thanissaro]] 📜  [[an3.49-thanissaro]] ►

@@ -101,5 +101,6 @@ The Chapter on Hell, the twenty-second, is concluded.
 | [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP22]]
 > ◄  [[dhp21-deepseek-pali]] 📜  [[dhp23-deepseek-pali]] ►

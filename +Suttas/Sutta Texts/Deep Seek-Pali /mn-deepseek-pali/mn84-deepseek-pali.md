@@ -110,5 +110,6 @@ The Madhura Sutta, the fourth, is concluded.
 | [[SA548]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
 > ◄  [[mn83-deepseek-pali]] 📜  [[mn85-deepseek-pali]] ►

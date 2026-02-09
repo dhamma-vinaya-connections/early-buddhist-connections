@@ -107,7 +107,8 @@ Nissajjitabbaṁ saṁghassa vā gaṇassa vā ekabhikkhuniyā vā. Evañca pana
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-np9-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-NP9]] |
->|       |          | [[ñanatusita-analysis#^-NP9]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-NP9]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP9]]

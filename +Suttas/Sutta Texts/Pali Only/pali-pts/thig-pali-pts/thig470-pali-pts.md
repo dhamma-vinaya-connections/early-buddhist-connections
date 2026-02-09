@@ -23,3 +23,5 @@ yo naṃ vinibbhujitvā abbhantaram assa bāhiraṃ kayirā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig470-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG470]]
+> ◄  [[thig469-pali-pts]] 📜  [[thig471-pali-pts]] ►

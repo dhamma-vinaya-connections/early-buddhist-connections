@@ -43,11 +43,12 @@ Setting at Rājagaha. Standing to one side, the young deva Uttara recited this 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.3]] | [[SA-2.138]], [[SA1001]] |  |
+> |  | [[SA-2.138]], [[SA1001]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN1.3]], [[SA-2.138]], [[SA1001]], [[AN3.51]], [[JA498]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.19]]
 > ◄  [[sn2.18-bodhi]] 📜  [[sn2.20-bodhi]] ►

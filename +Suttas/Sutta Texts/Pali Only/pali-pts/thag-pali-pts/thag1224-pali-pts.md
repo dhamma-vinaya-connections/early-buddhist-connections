@@ -23,3 +23,5 @@ asubhāya cittaṃ bhāvehi ekaggaṃ susamāhitaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1224-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1224]]
+> ◄  [[thag1223-pali-pts]] 📜  [[thag1225-pali-pts]] ►

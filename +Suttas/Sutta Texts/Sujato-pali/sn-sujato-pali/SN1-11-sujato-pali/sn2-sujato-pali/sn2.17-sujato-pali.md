@@ -70,5 +70,6 @@ sotthiṁ passāmi pāṇinan"ti.
 | [[SA-2.181]], [[SA596]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
 > ◄  [[sn2.16-sujato-pali]] 📜  [[sn2.18-sujato-pali]] ►

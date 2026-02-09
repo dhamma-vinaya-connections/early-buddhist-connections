@@ -22,3 +22,5 @@ yassa . . . so virūhati saddhamme khette bījaṃ va bhaddakaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag391-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG391]]
+> ◄  [[thag390-pali-pts]] 📜  [[thag392-pali-pts]] ►

@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG1.68]], [[PLI-TV-BU-VB-PC22]]"
+parallels_partilal: "[[THAG1]].68, [[PLI-TV-BU-VB-PC22]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.6]]  🌐 [[UD4.8]] ►
 
@@ -73,12 +73,12 @@ calm and ever mindful
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG1.68]], [[PLI-TV-BU-VB-PC22]] |
+| [[THAG1]].68, [[PLI-TV-BU-VB-PC22]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG1:685]], [[THAG1:68.]]
+> - [[THAG1:685]], THAG1:68.
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -96,5 +96,6 @@ calm and ever mindful
 > - Sutta Central: https://suttacentral.net/ud4.7/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.7
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.7.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.6]]  🌐 [[UD4.8]] ►

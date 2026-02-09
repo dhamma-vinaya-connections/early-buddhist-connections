@@ -144,15 +144,16 @@ Cūḷakammavibhaṅgasuttaṁ niṭṭhitaṁ pañcamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN99]] | [[MA152]]; [[MA170]] | M iii 202 |
+> |  | [[MA152]]; [[MA170]] | M iii 202 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA170]]; [[MN99]]; [[MA152]] |
+| [[MA170]], [[MN99]], [[MA152]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN136]], [[AN8.40]], [[AN5.199]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN135]]
 > ◄  [[mn134-sujato-pali]] 📜  [[mn136-sujato-pali]] ►

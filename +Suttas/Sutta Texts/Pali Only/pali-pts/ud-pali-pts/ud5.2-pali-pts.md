@@ -36,5 +36,6 @@ aham pi dhammaṃ sossāmī 'ti. atha kho bhagavā sabbāvantaṃ parisaṃ ceta
 | [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.2]]
 > ◄  [[ud4.9-pali-pts]] 📜  [[ud5.3-pali-pts]] ►

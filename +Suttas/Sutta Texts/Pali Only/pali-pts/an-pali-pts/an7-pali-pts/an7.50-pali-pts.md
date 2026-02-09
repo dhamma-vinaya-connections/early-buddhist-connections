@@ -33,5 +33,6 @@ Atha kho Jānussoṇī brāhmaṇo yena Bhagavā ten'; upasaṅkami, upasaṅkam
 | [[EA37.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
 > ◄  [[an7.49-pali-pts]] 📜  [[an7.51-pali-pts]] ►

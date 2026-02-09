@@ -63,11 +63,12 @@ The monk said to the Buddha, “No, Bhagavān.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.96]] | [[MA61]], [[SA264]] |  |
+> |  | [[MA61]], [[SA264]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MA61]], [[SA264]], [[DN17]], [[SN22.96]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA264]]
 > ◄  [[sa263-patton]] 📜  [[sa265-patton]] ►

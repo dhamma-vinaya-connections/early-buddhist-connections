@@ -36,5 +36,6 @@ language: "English"
 | [[PLI-TV-KD8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.210]]
 > ◄  [[an5.209-bodhi]] 📜  [[an5.211-bodhi]] ►

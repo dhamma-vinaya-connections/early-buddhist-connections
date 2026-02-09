@@ -24,3 +24,5 @@ dhammaṃ care sucaritaṃ na naṃ duccaritaṃ care, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp168-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP168]]
+> ◄  [[dhp167-pali-pts]] 📜  [[dhp169-pali-pts]] ►

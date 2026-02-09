@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahma"
-parallels_nikaya: "[[JA405]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.108]], [[SA1195]]"
 parallels_partilal: "[[SA-2.108]], [[SA1195]], [[JA405]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[SA-2.108]], [[SA1195]], [[JA405]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA405]] | [[SA-2.108]], [[SA1195]] |  |
+> |  | [[SA-2.108]], [[SA1195]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.108]], [[SA1195]], [[JA405]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA-2.108]], [[SA1195]], [[JA405]]"
 > - Sutta Central: https://suttacentral.net/sn6.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.4.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.3]]  🌐 [[SN6.5]] ►

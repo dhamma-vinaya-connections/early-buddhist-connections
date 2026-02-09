@@ -24,3 +24,5 @@ daharā tuvaṃ rūpavatī ahaṃ pi daharo yuvā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig138-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG138]]
+> ◄  [[thig137-pali-pts]] 📜  [[thig139-pali-pts]] ►

@@ -34,5 +34,6 @@ language: "English"
 | [[PLI-TV-KD14]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.90]]
 > ◄  [[an8.89-bodhi]] 📜  [[an8.91-bodhi]] ►

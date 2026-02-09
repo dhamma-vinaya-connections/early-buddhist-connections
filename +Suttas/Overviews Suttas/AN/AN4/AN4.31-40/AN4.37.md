@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP32]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[AN6.32]], [[DHP32]], [[AN6.33]], [[AN7.32]], [[AN7.33]], [[AN7.34]], [[SN35.120]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN33]]"
+parallels_partilal: "[[AN6.32]], [[DHP\|DHP32]], [[AN6.33]], [[AN7.32]], [[AN7.33]], [[AN7.34]], [[SN35.120]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN33]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.36]]  🌐 [[AN4.38]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[AN6.32]], [[DHP32]], [[AN6.33]], [[AN7.32]], [[AN7.33]], 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP32]] |  | A ii 39 |
+> |  |  | A ii 39 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN6.32]], [[DHP32]], [[AN6.33]], [[AN7.32]], [[AN7.33]], [[AN7.34]], [[SN35.120]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN33]] |
+| [[AN6.32]], [[DHP\|DHP32]], [[AN6.33]], [[AN7.32]], [[AN7.33]], [[AN7.34]], [[SN35.120]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN33]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[AN6.32]], [[DHP32]], [[AN6.33]], [[AN7.32]], [[AN7.33]], 
 > - Sutta Central: https://suttacentral.net/an4.37/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.37
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.37.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.36]]  🌐 [[AN4.38]] ►

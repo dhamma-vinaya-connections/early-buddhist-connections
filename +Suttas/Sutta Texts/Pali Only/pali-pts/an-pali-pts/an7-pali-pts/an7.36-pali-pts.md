@@ -27,11 +27,12 @@ Sattahi bhikkhave aṅgehi samannāgato bhikkhu mitto sevitabbo. Katamehi sattah
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.135]] |  | A iv 31 |
+> |  |  | A iv 31 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.135]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.36]]
 > ◄  [[an7.35-pali-pts]] 📜  [[an7.37-pali-pts]] ►

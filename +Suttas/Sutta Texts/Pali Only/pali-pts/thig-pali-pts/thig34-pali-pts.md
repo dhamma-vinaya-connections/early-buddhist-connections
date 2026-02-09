@@ -24,3 +24,5 @@ Abhaye bhiduro kāyo yattha sattā puthujjanā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig34-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG34]]
+> ◄  [[thig33-pali-pts]] 📜  [[thig35-pali-pts]] ►

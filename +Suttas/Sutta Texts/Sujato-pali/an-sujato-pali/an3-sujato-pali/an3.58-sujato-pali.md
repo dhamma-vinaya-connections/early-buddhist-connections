@@ -170,5 +170,6 @@ Aṭṭhamaṁ.
 | [[SA884-885]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.58]]
 > ◄  [[an3.57-sujato-pali]] 📜  [[an3.59-sujato-pali]] ►

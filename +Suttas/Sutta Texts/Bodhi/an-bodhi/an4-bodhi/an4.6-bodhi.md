@@ -80,11 +80,12 @@ by Brahmā too he is praised.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP230]] |  | A ii 6 |
+> |  |  | A ii 6 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP230]], [[AN4.28]], [[AN5.42]], [[UD7.6]] |
+| [[DHP\|DHP230]], [[AN4.28]], [[AN5.42]], [[UD7.6]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.6]]
 > ◄  [[an4.5-bodhi]] 📜  [[an4.7-bodhi]] ►

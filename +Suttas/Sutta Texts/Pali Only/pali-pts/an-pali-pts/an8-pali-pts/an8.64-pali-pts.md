@@ -39,5 +39,6 @@ Bhadante ti te bhikkhū Bhagavato paccassosuṃ. Bhagavā etad avoca:--
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN128]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.64]]
 > ◄  [[an8.63-pali-pts]] 📜  [[an8.65-pali-pts]] ►

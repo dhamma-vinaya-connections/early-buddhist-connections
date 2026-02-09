@@ -66,5 +66,6 @@ Then the Venerable Mahāmoggallāna grabbed that person by the arm, evicted him 
 | [[PLI-TV-KD19]], [[EA48.2]], [[MA37]], [[AN8.19]], [[UD5.5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
 > ◄  [[an8.19-bodhi]] 📜  [[an8.21-bodhi]] ►

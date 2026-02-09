@@ -80,5 +80,6 @@ Pañcamaṁ.
 | [[AN5.143]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.195]]
 > ◄  [[an5.194-sujato-pali]] 📜  [[an5.196-sujato-pali]] ►

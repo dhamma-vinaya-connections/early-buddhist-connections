@@ -182,5 +182,6 @@ Atha kho bhagavā bhikkhū āmantesi:
 | [[MA214]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
 > ◄  [[mn87-pali-sc]] 📜  [[mn89-pali-sc]] ►

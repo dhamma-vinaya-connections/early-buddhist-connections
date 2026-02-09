@@ -77,7 +77,7 @@ dear in the world anywhere.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN87]], [[THIG3.5]], [[THIG6.1]]
+> - [[MN87]], [[THIG3]].5, [[THIG6]].1
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -95,5 +95,6 @@ dear in the world anywhere.
 > - Sutta Central: https://suttacentral.net/ud8.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.8
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.8.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.7]]  🌐 [[UD8.9]] ►

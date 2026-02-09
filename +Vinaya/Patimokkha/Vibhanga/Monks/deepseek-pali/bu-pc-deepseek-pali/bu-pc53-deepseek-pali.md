@@ -56,7 +56,8 @@ The Training Rule Concerning Water-Play, the third, is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc53-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC53]] |
->|       |          | [[ñanatusita-analysis#^PC53]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC53]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC53]]

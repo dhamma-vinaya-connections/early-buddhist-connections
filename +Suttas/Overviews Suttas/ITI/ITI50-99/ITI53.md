@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[SN36.5]], [[THAG17.2]]"
+parallels_partilal: "[[SN36.5]], [[THAG17]].2"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI52]]  🌐 [[ITI54]] ►
 
@@ -69,12 +69,12 @@ he is a monk who’s seen rightly.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN36.5]], [[THAG17.2]] |
+| [[SN36.5]], [[THAG17]].2 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN3.12]], [[DHP92]], [[DHP93]], [[MN44]], [[SN36.4]], [[SN36.6]]
+> - [[SN3.12]], [[DHP\|DHP92]], [[DHP\|DHP93]], [[MN44]], [[SN36.4]], [[SN36.6]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -92,5 +92,6 @@ he is a monk who’s seen rightly.
 > - Sutta Central: https://suttacentral.net/iti53/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti53
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti53.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI52]]  🌐 [[ITI54]] ►

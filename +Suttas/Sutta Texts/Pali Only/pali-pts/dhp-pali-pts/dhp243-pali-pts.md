@@ -24,3 +24,5 @@ sujīvaṃ ahirīkena kākasūrena dhaṃsinā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp243-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP243]]
+> ◄  [[dhp242-pali-pts]] 📜  [[dhp244-pali-pts]] ►

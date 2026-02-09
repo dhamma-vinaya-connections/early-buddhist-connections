@@ -109,8 +109,9 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  | [[MA205]] | M i 432 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA205]]; [[MN52]]; [[AN9.36]]; [[AN11.16]] |
+| [[MA205]], [[MN52]], [[AN9.36]], [[AN11.16]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-thanissaro]] 📜  [[mn66-thanissaro]] ►

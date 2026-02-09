@@ -1017,5 +1017,6 @@ Pañcakanipāto samatto.
 | [[JA397]], [[AN3.27]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.26]]
 > ◄  [[an3.25-pali-sri]] 📜  [[an4.1-pali-sri]] ►

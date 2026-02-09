@@ -24,3 +24,5 @@ appamatto ayaṃ gandho yāyaṃ tagaracandanī /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp55-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP55]]
+> ◄  [[dhp54-pali-pts]] 📜  [[dhp56-pali-pts]] ►

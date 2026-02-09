@@ -23,3 +23,5 @@ evaṃ viharamānassa suddhikāmassa bhikkhuno
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag585-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG585]]
+> ◄  [[thag584-pali-pts]] 📜  [[thag586-pali-pts]] ►

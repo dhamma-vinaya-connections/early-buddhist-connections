@@ -23,3 +23,5 @@ araññe rukkhamūlesu kandarāsu guhāsu ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag924-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG924]]
+> ◄  [[thag923-pali-pts]] 📜  [[thag925-pali-pts]] ►

@@ -109,5 +109,10 @@ The Vijaya Sutta, the eleventh, is concluded.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.11-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN119]], [[AN4.163]], [[AN7.48]], [[AN9.15]], [[DHP\|DHP147]], [[DHP\|DHP150]], [[THAG6]].9, [[THAG7]].1, [[THAG10]].5, [[THIG13]].1
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.11]]
 > ◄  [[snp1.10-deepseek-pali]] 📜  [[snp1.12-deepseek-pali]] ►

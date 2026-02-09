@@ -25,3 +25,5 @@ pamādaṃ bhayato disvā appamādañ ca khemato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag979-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG979]]
+> ◄  [[thag978-pali-pts]] 📜  [[thag980-pali-pts]] ►

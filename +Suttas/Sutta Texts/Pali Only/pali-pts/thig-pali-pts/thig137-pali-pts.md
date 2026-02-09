@@ -23,3 +23,5 @@ sabbe sokā samucchinnā pahīnā etadantikā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig137-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG137]]
+> ◄  [[thig136-pali-pts]] 📜  [[thig138-pali-pts]] ►

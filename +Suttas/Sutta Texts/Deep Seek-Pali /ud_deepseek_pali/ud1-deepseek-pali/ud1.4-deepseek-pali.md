@@ -46,5 +46,6 @@ Then, understanding this matter, the Blessed One on that occasion uttered this i
 | [[PLI-TV-KD1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.4]]
 > ◄  [[ud1.3-deepseek-pali]] 📜  [[ud1.5-deepseek-pali]] ►

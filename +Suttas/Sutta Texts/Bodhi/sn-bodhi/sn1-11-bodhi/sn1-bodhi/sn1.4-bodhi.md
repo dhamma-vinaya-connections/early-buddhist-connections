@@ -48,5 +48,6 @@ At Sāvatthī. Standing to one side, that devatā recited this verse in the p
 | [[SA-2.139]], [[SN2.27]], [[JA509]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.4]]
 > ◄  [[sn1.3-bodhi]] 📜  [[sn1.5-bodhi]] ►

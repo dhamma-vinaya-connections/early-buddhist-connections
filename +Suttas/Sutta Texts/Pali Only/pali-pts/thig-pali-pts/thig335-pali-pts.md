@@ -23,3 +23,5 @@ tuvaṃ. buddho tuvaṃ satthā tuyhaṃ dhīta mhi brāhmaṇa |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig335-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG335]]
+> ◄  [[thig334-pali-pts]] 📜  [[thig336-pali-pts]] ►

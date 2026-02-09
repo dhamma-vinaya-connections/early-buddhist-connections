@@ -24,3 +24,5 @@ paravajjānupassissa niccaṃ ujjhānasaññino /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp252-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP252]]
+> ◄  [[dhp251-pali-pts]] 📜  [[dhp253-pali-pts]] ►

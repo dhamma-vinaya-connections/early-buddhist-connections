@@ -92,5 +92,6 @@ Paṭhamaṁ.
 | [[AN7.66]], [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.1]]
 > ◄  [[]] 📜  [[an4.2-sujato-pali]] ►

@@ -29,3 +29,5 @@ Khandhā mayā pariññātā, taṇhā me susamūhatā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag160-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG160]]
+> ◄  [[thag159-pali-pts]] 📜  [[thag161-pali-pts]] ►

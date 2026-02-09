@@ -42,5 +42,6 @@ Then the Venerable Rāhula approached the Blessed One, paid homage to him, and s
 | [[SA465]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.177]]
 > ◄  [[an4.176-bodhi]] 📜  [[an4.178-bodhi]] ►

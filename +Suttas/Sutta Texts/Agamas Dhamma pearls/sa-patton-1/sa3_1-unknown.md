@@ -36,3 +36,5 @@ They answered, “It wouldn’t, Bhagavān.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa3_1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA3_1]]
+> ◄  [[SA2_221]] 📜  [[SA3_2]] ►

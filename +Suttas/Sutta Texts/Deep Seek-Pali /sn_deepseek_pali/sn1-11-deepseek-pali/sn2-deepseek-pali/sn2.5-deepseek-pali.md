@@ -50,5 +50,6 @@ This is the simile, O Dāmali, For the brahmin, one whose taints are destroyed, 
 | [[SA-2.310]], [[SA1311]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.5]]
 > ◄  [[sn2.4-deepseek-pali]] 📜  [[sn2.6-deepseek-pali]] ►

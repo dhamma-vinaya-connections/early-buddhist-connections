@@ -23,3 +23,5 @@ na so passati saddhammaṃ saṃsārena purakkhato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1173-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1173]]
+> ◄  [[thag1172-pali-pts]] 📜  [[thag1174-pali-pts]] ►

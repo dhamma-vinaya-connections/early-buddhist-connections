@@ -35,11 +35,12 @@ The monk said to the Buddha, “Indeed, Bhagavān.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.39-42]] | [[SA27]] |  |
+> |  | [[SA27]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA27]], [[SN22.39-42]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA27]]
 > ◄  [[sa26.11-patton]] 📜  [[sa28-patton]] ►

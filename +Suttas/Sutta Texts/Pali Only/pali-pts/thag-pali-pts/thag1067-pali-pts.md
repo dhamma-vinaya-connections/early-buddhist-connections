@@ -23,3 +23,5 @@ ummāpupphavasamānā gaganā v'; abbhachāditā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1067-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1067]]
+> ◄  [[thag1066-pali-pts]] 📜  [[thag1068-pali-pts]] ►

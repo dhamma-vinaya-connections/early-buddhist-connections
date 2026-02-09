@@ -60,11 +60,12 @@ Pañcamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN48.8]] | [[SA646]], [[SA675]] | A iii 11 |
+> |  | [[SA646]], [[SA675]] | A iii 11 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA675]], [[SA646]], [[SN48.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.15]]
 > ◄  [[an5.14-sujato-pali]] 📜  [[an5.16-sujato-pali]] ►

@@ -44,5 +44,6 @@ Then King Pasenadi of Kosala descended from the palace and approached the Blesse
 | [[UD5.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
 > ◄  [[sn3.7-bodhi]] 📜  [[sn3.9-bodhi]] ►

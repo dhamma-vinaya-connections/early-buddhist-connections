@@ -93,4 +93,5 @@ have gone  beyond.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti58
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti58.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI57]]  🌐 [[ITI59]] ►

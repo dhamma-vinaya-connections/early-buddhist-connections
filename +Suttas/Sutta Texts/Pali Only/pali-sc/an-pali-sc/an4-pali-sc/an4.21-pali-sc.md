@@ -60,11 +60,12 @@ Paṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN6.2]] | [[SA-2.101]], [[SA1188]] | A ii 20 |
+> |  | [[SA-2.101]], [[SA1188]] | A ii 20 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN6.2]], [[SA-2.101]], [[SA1188]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.21]]
 > ◄  [[an4.20-pali-sc]] 📜  [[an4.22-pali-sc]] ►

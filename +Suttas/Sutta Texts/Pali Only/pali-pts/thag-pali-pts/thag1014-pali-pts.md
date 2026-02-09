@@ -23,3 +23,5 @@ paññāpāramitaṃ patto mahābuddhi mahāmuni
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1014-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1014]]
+> ◄  [[thag1013-pali-pts]] 📜  [[thag1015-pali-pts]] ►

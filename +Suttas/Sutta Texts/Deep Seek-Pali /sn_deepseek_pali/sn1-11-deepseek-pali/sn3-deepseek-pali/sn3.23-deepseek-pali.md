@@ -32,11 +32,12 @@ language: "English - Pali"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN3.2]] | [[SA-2.4]], [[SA1065]] |  |
+> |  | [[SA-2.4]], [[SA1065]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.4]], [[SA1065]], [[SN3.2]], [[ITI50]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.23]]
 > ◄  [[sn3.22-deepseek-pali]] 📜  [[sn3.24-deepseek-pali]] ►

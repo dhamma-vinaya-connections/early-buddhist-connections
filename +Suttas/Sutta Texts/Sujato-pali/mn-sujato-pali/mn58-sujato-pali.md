@@ -151,7 +151,8 @@ Abhayarājakumārasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 > |  |  | M i 392 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN4.24]]; [[AN4.42]]; [[AN4.183]]
+> - [[AN4.24]], [[AN4.42]], [[AN4.183]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN58]]
 > ◄  [[mn57-sujato-pali]] 📜  [[mn59-sujato-pali]] ►

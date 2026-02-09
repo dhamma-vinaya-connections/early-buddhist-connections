@@ -39,3 +39,5 @@ The Book of the Ones is concluded.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.246-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.246]]
+> ◄  [[an1.245-deepseek-pali]] 📜  [[]] ►

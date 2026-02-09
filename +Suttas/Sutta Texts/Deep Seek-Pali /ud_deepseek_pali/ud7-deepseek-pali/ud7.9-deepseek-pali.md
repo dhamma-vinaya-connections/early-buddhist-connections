@@ -49,5 +49,10 @@ Then, having understood this matter, the Blessed One on that occasion uttered th
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.9-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN10:29]], [[MN106]], [[SN22.55]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.9]]
 > ◄  [[ud7.8-deepseek-pali]] 📜  [[ud7.10-deepseek-pali]] ►

@@ -19,3 +19,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.10]]
+> ◄  [[sn2.9-bodhi]] 📜  [[sn2.11-bodhi]] ►

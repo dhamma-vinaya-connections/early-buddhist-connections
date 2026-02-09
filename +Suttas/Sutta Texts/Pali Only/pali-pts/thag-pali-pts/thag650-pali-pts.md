@@ -23,3 +23,5 @@ yathāpi pabbato selo acalo suppatiṭṭhito,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag650-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG650]]
+> ◄  [[thag649-pali-pts]] 📜  [[thag651-pali-pts]] ►

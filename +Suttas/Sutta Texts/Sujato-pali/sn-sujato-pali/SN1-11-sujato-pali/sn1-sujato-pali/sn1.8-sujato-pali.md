@@ -68,5 +68,6 @@ caranti visame saman"ti.
 | [[SA-2.165]], [[SA580]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.8]]
 > ◄  [[sn1.7-sujato-pali]] 📜  [[sn1.9-sujato-pali]] ►

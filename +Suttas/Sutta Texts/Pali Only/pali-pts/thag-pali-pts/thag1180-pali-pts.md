@@ -23,3 +23,5 @@ yasse muhutte sahassadhā loko saṃvidito, sa Brahmakappo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1180-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1180]]
+> ◄  [[thag1179-pali-pts]] 📜  [[thag1181-pali-pts]] ►

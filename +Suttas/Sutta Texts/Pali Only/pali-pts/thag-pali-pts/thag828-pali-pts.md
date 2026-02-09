@@ -23,3 +23,5 @@ vinayassu mayī kaṅkhaṃ. adhimuccassu brāhmaṇa.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag828-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG828]]
+> ◄  [[thag827-pali-pts]] 📜  [[thag829-pali-pts]] ►

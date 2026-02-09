@@ -40,3 +40,5 @@ The monks said to the Buddha, “Bhagavān, the leaves in your hand are few, but
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa4_55-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA4_55]]
+> ◄  [[SA4_11]] 📜  [[SA6_5]] ►

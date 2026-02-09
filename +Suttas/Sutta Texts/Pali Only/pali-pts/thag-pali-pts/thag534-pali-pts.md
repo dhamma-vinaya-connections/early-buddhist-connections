@@ -23,3 +23,5 @@ sā Gotamī kālakatā ito cutā dibbehi kāmehi samaṅgibhūtā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag534-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG534]]
+> ◄  [[thag533-pali-pts]] 📜  [[thag535-pali-pts]] ►

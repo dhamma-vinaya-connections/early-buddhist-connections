@@ -23,3 +23,5 @@ yaṃ āpadā uppatitā uḷārā na kkhambhayante paṭisaṃkhayantaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag370-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG370]]
+> ◄  [[thag369-pali-pts]] 📜  [[thag371-pali-pts]] ►

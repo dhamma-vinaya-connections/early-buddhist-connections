@@ -24,3 +24,5 @@ mā voca pharusaṃ kañci vuttā paṭivadeyyu taṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp132-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP132]]
+> ◄  [[dhp131-pali-pts]] 📜  [[dhp133-pali-pts]] ►

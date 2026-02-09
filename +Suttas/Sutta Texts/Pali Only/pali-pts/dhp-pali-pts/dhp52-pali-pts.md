@@ -24,3 +24,5 @@ yathāpi puppharāsimhā kayirā mālāguṇe bahū /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp52-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP52]]
+> ◄  [[dhp51-pali-pts]] 📜  [[dhp53-pali-pts]] ►

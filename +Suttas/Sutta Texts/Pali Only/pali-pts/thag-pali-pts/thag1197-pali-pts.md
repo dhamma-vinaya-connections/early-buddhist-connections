@@ -25,3 +25,5 @@ tassa Brahmā viyākāsi pañhaṃ puṭṭho yathātathaṃ:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1197-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1197]]
+> ◄  [[thag1196-pali-pts]] 📜  [[thag1199-pali-pts]] ►

@@ -23,3 +23,5 @@ aññāṇamūlabhedāya kammayantavighāṭano
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag418-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG418]]
+> ◄  [[thag417-pali-pts]] 📜  [[thag419-pali-pts]] ►

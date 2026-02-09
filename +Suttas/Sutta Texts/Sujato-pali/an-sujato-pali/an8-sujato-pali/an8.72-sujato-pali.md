@@ -52,11 +52,12 @@ Dutiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.9]] |  | A iv 315 |
+> |  |  | A iv 315 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.9]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.72]]
 > ◄  [[an8.71-sujato-pali]] 📜  [[an8.73-sujato-pali]] ►

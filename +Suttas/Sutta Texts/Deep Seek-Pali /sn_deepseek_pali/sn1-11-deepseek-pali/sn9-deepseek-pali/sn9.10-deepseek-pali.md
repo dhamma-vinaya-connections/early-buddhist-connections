@@ -42,5 +42,6 @@ Formerly there was delight in the teachings, until we met with dispassion. Since
 | [[SA-2.357]], [[SA1337]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.10]]
 > ◄  [[sn9.9-deepseek-pali]] 📜  [[sn9.11-deepseek-pali]] ►

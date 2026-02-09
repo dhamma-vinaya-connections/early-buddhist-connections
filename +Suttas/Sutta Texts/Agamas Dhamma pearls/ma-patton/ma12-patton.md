@@ -108,11 +108,12 @@ Vāṣpa said, “Yes, Gautama. A well-versed noble disciple who is correctly li
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.195]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-KD14]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA12]]
 > ◄  [[ma11-patton]] 📜  [[ma13-patton]] ►

@@ -191,7 +191,8 @@ Te bhikkhū samanubhāsitabbā.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-ss11-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SS11]] |
->|       |          | [[ñanatusita-analysis#^SS11]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SS11]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS11]]

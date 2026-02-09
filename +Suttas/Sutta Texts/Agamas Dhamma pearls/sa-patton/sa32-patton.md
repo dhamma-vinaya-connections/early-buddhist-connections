@@ -46,3 +46,5 @@ He replied, “No.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa32-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA32]]
+> ◄  [[sa31-patton]] 📜  [[sa33-patton]] ►

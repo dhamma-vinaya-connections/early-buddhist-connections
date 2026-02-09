@@ -29,3 +29,5 @@ Aṭṭhamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.293-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.293]]
+> ◄  [[an5.287-sujato-pali]] 📜  [[an5.294-sujato-pali]] ►

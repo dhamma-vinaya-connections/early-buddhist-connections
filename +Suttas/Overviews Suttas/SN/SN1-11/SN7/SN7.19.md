@@ -92,4 +92,5 @@ And after death he rejoices in heaven.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.19
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.19.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.18]]  🌐 [[SN7.20]] ►

@@ -170,7 +170,8 @@ Monks’ rules and their analysis
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-ss4-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SS4]] |
->|       |          | [[ñanatusita-analysis#^SS4]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SS4]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]

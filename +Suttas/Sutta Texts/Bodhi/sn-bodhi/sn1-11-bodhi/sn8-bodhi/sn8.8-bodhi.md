@@ -128,5 +128,6 @@ Then the Venerable Vaṅgīsa extolled the Blessed One to his face with suitable
 | [[SA1219]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
 > ◄  [[sn8.7-bodhi]] 📜  [[sn8.9-bodhi]] ►

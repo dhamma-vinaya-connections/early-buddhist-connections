@@ -92,4 +92,5 @@ Remembering the instructions of the Buddha s
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.46
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.46.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.45]]  🌐 [[AN5.47]] ►

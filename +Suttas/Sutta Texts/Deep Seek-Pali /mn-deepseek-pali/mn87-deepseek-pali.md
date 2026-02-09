@@ -87,8 +87,9 @@ The Piyajātika Sutta, the seventh, is concluded.
 > |  | [[EA13.3]]; [[MA216]] | M ii 106 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA13.3]]; [[MA216]] |
+| [[EA13.3]], [[MA216]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN87]]
 > ◄  [[mn86-deepseek-pali]] 📜  [[mn88-deepseek-pali]] ►

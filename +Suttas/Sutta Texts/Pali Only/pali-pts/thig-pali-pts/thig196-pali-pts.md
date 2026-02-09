@@ -24,3 +24,5 @@ nimmānaratino devā ye devā vasavattino |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig196-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG196]]
+> ◄  [[thig195-pali-pts]] 📜  [[thig197-pali-pts]] ►

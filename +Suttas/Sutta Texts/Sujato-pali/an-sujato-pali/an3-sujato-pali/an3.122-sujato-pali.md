@@ -77,5 +77,6 @@ Dve soceyyāni moneyyanti.
 | [[ITI67]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.122]]
 > ◄  [[an3.121-sujato-pali]] 📜  [[an3.123-sujato-pali]] ►

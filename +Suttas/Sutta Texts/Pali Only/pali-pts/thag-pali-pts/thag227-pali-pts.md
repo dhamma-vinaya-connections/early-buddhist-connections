@@ -24,3 +24,5 @@ Sukhañ ce jīvituṃ icche sāmaññasmiṃ apekkhavā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag227-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG227]]
+> ◄  [[thag226-pali-pts]] 📜  [[thag228-pali-pts]] ►

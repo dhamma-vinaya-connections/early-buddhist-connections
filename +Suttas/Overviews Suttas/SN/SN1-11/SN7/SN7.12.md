@@ -36,7 +36,7 @@ sutta_audience:
   - "Brahmins"
 parallels_nikaya: ""
 parallels_agama: "[[SA-2.80]], [[SA1157]]"
-parallels_partilal: "[[SA-2.80]], [[SA1157]], [[THAG10.1]]"
+parallels_partilal: "[[SA-2.80]], [[SA1157]], [[THAG10]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.11]]  🌐 [[SN7.13]] ►
 
@@ -71,7 +71,7 @@ Of not becoming over again
 > |  | [[SA-2.80]], [[SA1157]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.80]], [[SA1157]], [[THAG10.1]] |
+| [[SA-2.80]], [[SA1157]], [[THAG10]].1 |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ Of not becoming over again
 > - Sutta Central: https://suttacentral.net/sn7.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.12
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.12.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.11]]  🌐 [[SN7.13]] ►

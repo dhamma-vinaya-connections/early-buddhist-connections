@@ -26,3 +26,5 @@ Yassa sabrahmacārīsu gāravo n'; ūpalabbhati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag386-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG386]]
+> ◄  [[thag385-pali-pts]] 📜  [[thag387-pali-pts]] ►

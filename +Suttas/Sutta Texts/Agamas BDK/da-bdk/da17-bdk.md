@@ -815,9 +815,5 @@ respectfully received it, and carried it out as taught by the Buddha.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:da17-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN9.7]], [[AN9.8]], [[DN29]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA17]]
 > ◄  [[da16-bdk]] 📜  [[da18-bdk]] ►

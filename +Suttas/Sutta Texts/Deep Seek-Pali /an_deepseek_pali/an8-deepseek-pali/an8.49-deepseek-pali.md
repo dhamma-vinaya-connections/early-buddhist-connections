@@ -90,5 +90,6 @@ language: "English - Pali"
 | [[AN8.50]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.49]]
 > ◄  [[an8.48-deepseek-pali]] 📜  [[an8.50-deepseek-pali]] ►

@@ -32,5 +32,6 @@ Idhāvuso bhikkhu vivicc'; eva kāmehi . . . pe . . . paṭhamaṃ jhānaṃ upa
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN121]], [[AN9.34]], [[SN2.7]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.60]]
 > ◄  [[an9.59-pali-pts]] 📜  [[an9.61-pali-pts]] ►

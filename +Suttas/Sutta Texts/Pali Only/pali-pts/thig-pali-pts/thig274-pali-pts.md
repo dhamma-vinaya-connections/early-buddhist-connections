@@ -23,3 +23,5 @@ kammakāmā analasā kammaseṭṭhassa kārakā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig274-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG274]]
+> ◄  [[thig273-pali-pts]] 📜  [[thig275-pali-pts]] ►

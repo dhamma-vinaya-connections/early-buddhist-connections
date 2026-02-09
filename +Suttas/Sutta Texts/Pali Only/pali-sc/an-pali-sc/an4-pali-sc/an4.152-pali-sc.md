@@ -34,5 +34,6 @@ Dutiyaṁ.
 | [[SA-3.18]], [[SA667]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.152]]
 > ◄  [[an4.151-pali-sc]] 📜  [[an4.153-pali-sc]] ►

@@ -24,3 +24,5 @@ petāni bhoti puttāni khādamānā tuvaṃ pure |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig311-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG311]]
+> ◄  [[thig310-pali-pts]] 📜  [[thig312-pali-pts]] ►

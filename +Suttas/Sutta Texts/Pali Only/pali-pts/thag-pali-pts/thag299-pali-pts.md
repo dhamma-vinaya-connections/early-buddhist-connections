@@ -23,3 +23,5 @@ tañ ca disvāna āyantiṃ sakaputtassa mātaraṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag299-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG299]]
+> ◄  [[thag298-pali-pts]] 📜  [[thag300-pali-pts]] ►

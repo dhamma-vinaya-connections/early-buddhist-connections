@@ -23,3 +23,5 @@ ime haññantu vajjhantu dukkhaṃ pappontu pāṇino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag645-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG645]]
+> ◄  [[thag644-pali-pts]] 📜  [[thag646-pali-pts]] ►

@@ -87,7 +87,8 @@ Kumāribhūtavaggo aṭṭhamo.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc83-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC83]] |
->|       |          | [[ñanatusita-analysis#^-PC83]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC83]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC83]]

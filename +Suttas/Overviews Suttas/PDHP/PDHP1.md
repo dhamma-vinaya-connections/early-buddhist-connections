@@ -96,4 +96,5 @@ their hatred is never appeased.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp1
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[MN152]]  🌐 [[PDHP2]] ►

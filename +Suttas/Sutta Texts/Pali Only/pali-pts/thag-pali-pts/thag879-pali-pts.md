@@ -23,3 +23,5 @@ coro ahaṃ pure āsiṃ Aṅgulimālo 'ti vissuto,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag879-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG879]]
+> ◄  [[thag878-pali-pts]] 📜  [[thag880-pali-pts]] ►

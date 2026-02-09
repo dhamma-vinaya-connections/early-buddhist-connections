@@ -34,11 +34,12 @@ language: "English - Pali"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN115]] | [[MA181]] | A i 26 |
+> |  | [[MA181]] | A i 26 |
 > > [!check]- Partial parallels 
 > > 
 | [[MN115]], [[MA181]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.268]]
 > ◄  [[an1.258-sujato-pali]] 📜  [[an1.269-sujato-pali]] ►

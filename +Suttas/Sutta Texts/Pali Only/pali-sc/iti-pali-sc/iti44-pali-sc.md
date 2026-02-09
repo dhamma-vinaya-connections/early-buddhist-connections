@@ -29,5 +29,10 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Aṭṭhamaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti44-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.47]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI44]]
 > ◄  [[iti43-pali-sc]] 📜  [[iti45-pali-sc]] ►

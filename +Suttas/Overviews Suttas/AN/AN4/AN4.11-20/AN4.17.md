@@ -86,4 +86,5 @@ parallels_partilal: "[[DN33]], [[PLI-TV-PVR7]], [[DN31]], [[PE3]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.17
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.17.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.16]]  🌐 [[AN4.18]] ►

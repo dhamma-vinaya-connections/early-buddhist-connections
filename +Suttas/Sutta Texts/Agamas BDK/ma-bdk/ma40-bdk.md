@@ -56,7 +56,7 @@ Then the World-honored One told the monks: For this reason I extolled the househ
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.24]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA539]], [[SN4.18]] |
@@ -65,6 +65,7 @@ Then the World-honored One told the monks: For this reason I extolled the househ
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.256]], [[AN4.32]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA40]]
 > ◄  [[ma39-bdk]] 📜  [[ma41-bdk]] ►

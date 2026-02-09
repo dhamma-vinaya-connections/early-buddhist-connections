@@ -24,3 +24,5 @@ yamhi saccañ ca dhammo ca ahiṃsā saññamo damo /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp260-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP260]]
+> ◄  [[dhp259-pali-pts]] 📜  [[dhp261-pali-pts]] ►

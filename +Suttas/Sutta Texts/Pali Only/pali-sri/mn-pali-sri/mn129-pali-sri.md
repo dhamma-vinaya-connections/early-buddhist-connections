@@ -252,12 +252,13 @@ Bālapaṇḍitasuttaṃ navamaṃ.
 > |  | [[MA199]] | M iii 163 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA199]]; [[AN2.1]]; [[MN13]]; [[AN3.3]]; [[PE3]]; [[AN3.36]]; [[MN130]]; [[JA530]] |
+| [[MA199]], [[AN2.1]], [[MN13]], [[AN3.3]], [[PE3]], [[AN3.36]], [[MN130]], [[JA530]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN130]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN129]]
 > ◄  [[mn128-pali-sri]] 📜  [[mn130-pali-sri]] ►

@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN8.74]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[AN8.74]]"
 ---
@@ -66,7 +66,7 @@ To live as long as it takes to chew and swallow a single mouthful … or to liv
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.74]] |  | A iii 306 |
+> |  |  | A iii 306 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.74]] |
@@ -92,5 +92,6 @@ To live as long as it takes to chew and swallow a single mouthful … or to liv
 > - Sutta Central: https://suttacentral.net/an6.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.20
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.20.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.19]]  🌐 [[AN6.21]] ►

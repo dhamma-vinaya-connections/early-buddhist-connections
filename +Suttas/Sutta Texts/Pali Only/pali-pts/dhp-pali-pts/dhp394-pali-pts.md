@@ -24,3 +24,5 @@ paṃsukūladharaṃ jantuṃ kisaṃ dhamanisanthataṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp394-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP394]]
+> ◄  [[dhp393-pali-pts]] 📜  [[dhp395-pali-pts]] ►

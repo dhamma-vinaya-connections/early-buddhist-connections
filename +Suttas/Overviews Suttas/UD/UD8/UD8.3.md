@@ -92,4 +92,5 @@ who knows and sees, there is nothing
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.3
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.2]]  🌐 [[UD8.4]] ►

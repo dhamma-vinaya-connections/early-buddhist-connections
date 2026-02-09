@@ -28,6 +28,6 @@ Tatra kho āyasmā Mahākaccāno bhikkhū āmantesi:--
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.9]], [[AN6.10]] |  | A iii 314 |
+> |  |  | A iii 314 |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.26]]
 > ◄  [[an6.25-pali-pts]] 📜  [[an6.27-pali-pts]] ►

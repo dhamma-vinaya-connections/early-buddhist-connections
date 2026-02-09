@@ -38,5 +38,6 @@ Monks, if the Saṅgha wishes, they may turn up the bowl of a lay follower endow
 | [[PLI-TV-KD15]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.87]]
 > ◄  [[an8.86-deepseek-pali]] 📜  [[an8.88-deepseek-pali]] ►

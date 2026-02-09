@@ -82,5 +82,6 @@ cakkhu hissa na vijjatī"ti.
 | [[SA-2.359]], [[SA1339]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.3]]
 > ◄  [[sn9.2-sujato-pali]] 📜  [[sn9.4-sujato-pali]] ►

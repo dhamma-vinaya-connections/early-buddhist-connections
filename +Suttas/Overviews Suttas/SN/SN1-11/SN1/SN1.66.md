@@ -36,7 +36,7 @@ sutta_audience:
   - "Devas"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG6.13]]"
+parallels_partilal: "[[THAG6]].13"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.65]]  🌐 [[SN1.67]] ►
 
@@ -71,7 +71,7 @@ To cut off all bondage.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG6.13]] |
+| [[THAG6]].13 |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ To cut off all bondage.
 > - Sutta Central: https://suttacentral.net/sn1.66/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.66
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.66.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.65]]  🌐 [[SN1.67]] ►

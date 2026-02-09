@@ -24,3 +24,5 @@ suppabuddhaṃ pabujjhanti sadā Gotamasāvakā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp298-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP298]]
+> ◄  [[dhp297-pali-pts]] 📜  [[dhp299-pali-pts]] ►

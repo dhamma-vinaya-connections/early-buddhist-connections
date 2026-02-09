@@ -586,3 +586,5 @@ The Chapter of the Twenties is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG13]]
+> ◄  [[thig12-pali-eng]] 📜  [[thig14-pali-eng]] ►

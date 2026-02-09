@@ -36,7 +36,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Sariputta"
-parallels_nikaya: "[[AN10.90]], [[SN50.1-12]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA694-698]]"
 parallels_partilal: "[[AN10.90]], [[SN50.1-12]], [[SA694-698]]"
 ---
@@ -64,7 +64,7 @@ parallels_partilal: "[[AN10.90]], [[SN50.1-12]], [[SA694-698]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.90]], [[SN50.1-12]] | [[SA694-698]] | A iv 223 |
+> |  | [[SA694-698]] | A iv 223 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.90]], [[SN50.1-12]], [[SA694-698]] |
@@ -87,5 +87,6 @@ parallels_partilal: "[[AN10.90]], [[SN50.1-12]], [[SA694-698]]"
 > - Sutta Central: https://suttacentral.net/an8.28/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.28
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.28.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.27]]  🌐 [[AN8.29]] ►

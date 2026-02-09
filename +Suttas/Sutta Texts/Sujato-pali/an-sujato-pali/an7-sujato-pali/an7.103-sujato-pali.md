@@ -47,3 +47,5 @@ language: "English - Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.103-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.103]]
+> ◄  [[an7.96-sujato-pali]] 📜  [[an7.615-sujato-pali]] ►

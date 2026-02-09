@@ -23,3 +23,5 @@ kodhanā upanāhī ca makkhī thambhī saṭhā bahū
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag951-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG951]]
+> ◄  [[thag950-pali-pts]] 📜  [[thag952-pali-pts]] ►

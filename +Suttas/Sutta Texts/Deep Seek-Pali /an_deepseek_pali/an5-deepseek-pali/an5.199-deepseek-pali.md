@@ -49,5 +49,6 @@ Bhikkhus, when virtuous renunciants approach a family, and the people there ask 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN135]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.199]]
 > ◄  [[an5.198-deepseek-pali]] 📜  [[an5.200-deepseek-pali]] ►

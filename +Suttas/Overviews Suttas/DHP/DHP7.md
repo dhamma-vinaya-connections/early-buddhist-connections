@@ -95,4 +95,5 @@ is a delightful place
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp7
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP6]]  🌐 [[DHP8]] ►

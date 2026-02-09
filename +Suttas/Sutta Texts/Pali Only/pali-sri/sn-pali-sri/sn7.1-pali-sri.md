@@ -483,5 +483,6 @@ Sundarikaṃ bahudhītukena2 ca te dasāti.
 | [[SN2.3]], [[SN1.71]], [[SN11.21]], [[SA1309]], [[SA-2.308]], [[SA1158]], [[SA-2.81]], [[SA1116]], [[SA-2.45]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.1]]
 > ◄  [[sn6.2-pali-sri]] 📜  [[sn7.2-pali-sri]] ►

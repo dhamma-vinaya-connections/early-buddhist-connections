@@ -86,4 +86,5 @@ parallels_partilal: "[[EA40.2]], [[MA142]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.22
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.22.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.21]]  🌐 [[AN7.23]] ►

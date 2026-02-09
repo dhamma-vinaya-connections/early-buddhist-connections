@@ -174,15 +174,16 @@ Kalaha, the two Vyūhas, and then Tuvaṭaka; the excellent Attadaṇḍa Sutta,
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP367]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP367]] |
+| [[DHP\|DHP367]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD2:10.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.15]]
 > ◄  [[snp4.14-deepseek-pali]] 📜  [[]] ►

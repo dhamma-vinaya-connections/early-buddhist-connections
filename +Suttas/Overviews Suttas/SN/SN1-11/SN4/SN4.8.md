@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-parallels_nikaya: "[[SN1.12]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.142]], [[SA1004]]"
 parallels_partilal: "[[SN1.12]], [[SA-2.142]], [[SA1004]], [[SNP1.2]], [[PE2]]"
 ---
@@ -64,7 +64,7 @@ For attachments are a man’s sorrow
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.12]] | [[SA-2.142]], [[SA1004]] |  |
+> |  | [[SA-2.142]], [[SA1004]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN1.12]], [[SA-2.142]], [[SA1004]], [[SNP1.2]], [[PE2]] |
@@ -87,5 +87,6 @@ For attachments are a man’s sorrow
 > - Sutta Central: https://suttacentral.net/sn4.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.8.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.7]]  🌐 [[SN4.9]] ►

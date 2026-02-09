@@ -23,3 +23,5 @@ na brāhmaṇo bahivaṇṇo, antovaṇṇo hi brāhmaṇo;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag139-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG139]]
+> ◄  [[thag138-pali-pts]] 📜  [[thag140-pali-pts]] ►

@@ -23,3 +23,5 @@ sabbo ādīpito loko sabbo loko paridīpito |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig199-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG199]]
+> ◄  [[thig198-pali-pts]] 📜  [[thig200-pali-pts]] ►

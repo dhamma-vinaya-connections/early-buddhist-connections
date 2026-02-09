@@ -23,3 +23,5 @@ Pañca kkhandhā pariññātā tiṭṭhanti chinnamūlakā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag89-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG89]]
+> ◄  [[thag88-pali-pts]] 📜  [[thag90-pali-pts]] ►

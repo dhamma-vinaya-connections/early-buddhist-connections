@@ -91,4 +91,5 @@ parallels_partilal: "[[EA33.4]], [[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN5]
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.76
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.76.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.75]]  🌐 [[AN5.77]] ►

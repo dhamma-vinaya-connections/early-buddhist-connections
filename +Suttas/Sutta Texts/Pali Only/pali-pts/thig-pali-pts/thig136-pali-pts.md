@@ -23,3 +23,5 @@ tassa dhammaṃ suṇitvāna pabbajiṃ anagāriyaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig136-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG136]]
+> ◄  [[thig135-pali-pts]] 📜  [[thig137-pali-pts]] ►

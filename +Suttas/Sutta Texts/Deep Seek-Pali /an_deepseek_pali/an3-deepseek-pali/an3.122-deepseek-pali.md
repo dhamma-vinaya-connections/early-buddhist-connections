@@ -62,5 +62,6 @@ States of Woe, Hard to Obtain, Immeasurable; Loss and Prosperity of the Impertur
 | [[ITI67]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.122]]
 > ◄  [[an3.121-deepseek-pali]] 📜  [[an3.123-deepseek-pali]] ►

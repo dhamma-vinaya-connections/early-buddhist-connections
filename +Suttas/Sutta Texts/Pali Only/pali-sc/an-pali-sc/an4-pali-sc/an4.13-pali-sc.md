@@ -44,11 +44,12 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.275]], [[AN4.69]] | [[SA875]], [[SA876]] | A ii 141 |
+> |  | [[SA875]], [[SA876]] | A ii 141 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.69]], [[SA875]], [[SA876]], [[AN4.275]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.13]]
 > ◄  [[an4.12-pali-sc]] 📜  [[an4.14-pali-sc]] ►

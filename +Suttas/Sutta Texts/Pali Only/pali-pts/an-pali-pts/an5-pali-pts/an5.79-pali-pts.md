@@ -34,5 +34,6 @@ Imāni kho bhikkhave pañca anāgatabhayāni sampassamānena alam eva bhikkhunā
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN16.13]], [[AN5.77]], [[AN5.78]], [[AN5.80]], [[MN36]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.79]]
 > ◄  [[an5.78-pali-pts]] 📜  [[an5.80-pali-pts]] ►

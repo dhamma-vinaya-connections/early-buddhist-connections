@@ -34,5 +34,6 @@ Katamehi pañcahi?
 | [[SA801]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.97]]
 > ◄  [[an5.96-pali-pts]] 📜  [[an5.98-pali-pts]] ►

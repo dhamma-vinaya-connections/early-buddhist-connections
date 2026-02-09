@@ -23,3 +23,5 @@ dhi-r-atthu kāmā asucī duggandhā bahukaṇṭakā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig224-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG224]]
+> ◄  [[thig223-pali-pts]] 📜  [[thig225-pali-pts]] ►

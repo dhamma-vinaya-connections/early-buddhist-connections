@@ -25,3 +25,5 @@ dassanāya atikkante nānāverajjake puthū
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1037-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1037]]
+> ◄  [[thag1036-pali-pts]] 📜  [[thag1038-pali-pts]] ►

@@ -316,5 +316,6 @@ Atha kho bhagavā bhikkhū āmantesi:
 | [[MA214]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN88]]
 > ◄  [[mn87-sujato-pali]] 📜  [[mn89-sujato-pali]] ►

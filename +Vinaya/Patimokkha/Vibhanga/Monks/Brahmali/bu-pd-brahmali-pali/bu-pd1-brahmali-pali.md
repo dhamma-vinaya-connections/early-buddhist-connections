@@ -172,7 +172,8 @@ Atha kho sā bhikkhunī seṭṭhissa gahapatissa etamatthaṁ ārocesi. Seṭ�
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pd1-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PD1]] |
->|       |          | [[ñanatusita-analysis#^PD1]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PD1]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PD]] I 🌐 [[BU-PD1]]

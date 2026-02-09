@@ -50,5 +50,6 @@ When this was said, the brahmin Ārāmadaṇḍa rose from his seat, arranged hi
 | [[SA546]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.37]]
 > ◄  [[an2.36-bodhi]] 📜  [[an2.38-bodhi]] ►

@@ -24,3 +24,5 @@ pāde pakkhālayitvāna ekamantaṃ upāvisuṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig118-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG118]]
+> ◄  [[thig117-pali-pts]] 📜  [[thig119-pali-pts]] ►

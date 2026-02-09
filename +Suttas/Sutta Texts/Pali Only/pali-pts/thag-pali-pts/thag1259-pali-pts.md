@@ -23,3 +23,5 @@ evam ete tathā vuttā, diṭṭhā me te yathātathā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1259-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1259]]
+> ◄  [[thag1258-pali-pts]] 📜  [[thag1260-pali-pts]] ►

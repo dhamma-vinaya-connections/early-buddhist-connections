@@ -33,5 +33,6 @@ Puna ca paraṃ bhikkhave yadā bodhisatto sato sampajāno mātu kucchismā nikk
 | [[EA25.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.128]]
 > ◄  [[an4.127-pali-pts]] 📜  [[an4.129-pali-pts]] ►

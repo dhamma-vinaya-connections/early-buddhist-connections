@@ -23,3 +23,5 @@ lesakappe pariyāye parikappe 'nudhāvitā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag940-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG940]]
+> ◄  [[thag938-pali-pts]] 📜  [[thag941-pali-pts]] ►

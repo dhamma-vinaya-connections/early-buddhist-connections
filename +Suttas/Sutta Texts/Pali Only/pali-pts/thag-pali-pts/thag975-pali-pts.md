@@ -23,3 +23,5 @@ te tathā sikkhitā bālā aññamaññaṃ agāravā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag975-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG975]]
+> ◄  [[thag974-pali-pts]] 📜  [[thag976-pali-pts]] ►

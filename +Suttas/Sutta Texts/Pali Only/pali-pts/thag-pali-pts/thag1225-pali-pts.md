@@ -23,3 +23,5 @@ animittañ ca bhāvehi, mānānusayam ujjaha,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1225-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1225]]
+> ◄  [[thag1224-pali-pts]] 📜  [[thag1226-pali-pts]] ►

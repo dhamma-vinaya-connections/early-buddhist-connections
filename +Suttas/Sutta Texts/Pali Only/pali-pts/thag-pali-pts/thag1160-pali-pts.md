@@ -23,3 +23,5 @@ ye ca passanti saṃkhāre parato no ca attato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1160-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1160]]
+> ◄  [[thag1159-pali-pts]] 📜  [[thag1161-pali-pts]] ►

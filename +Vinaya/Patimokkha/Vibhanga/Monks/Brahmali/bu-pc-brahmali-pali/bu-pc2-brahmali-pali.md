@@ -501,7 +501,8 @@ tena cattamano ahūti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc2-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC2]] |
->|       |          | [[ñanatusita-analysis#^PC2]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC2]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC2]]

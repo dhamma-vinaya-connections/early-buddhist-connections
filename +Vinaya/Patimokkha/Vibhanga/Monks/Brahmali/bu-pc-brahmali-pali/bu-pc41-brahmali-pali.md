@@ -167,7 +167,8 @@ Atha kho te upāsakā bhagavatā dhammiyā kathāya sandassitā samādapitā sam
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc41-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC41]] |
->|       |          | [[ñanatusita-analysis#^PC41]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC41]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC41]]

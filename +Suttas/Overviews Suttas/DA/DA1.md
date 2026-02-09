@@ -42,7 +42,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DN14]], [[SN12.65]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA38.4]], [[EA48.4]], [[SA287]]"
 parallels_partilal: ""
 ---
@@ -89,7 +89,7 @@ This is the instruction of the Buddha s.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN14]], [[SN12.65]] | [[EA38.4]], [[EA48.4]], [[SA287]] |  |
+> |  | [[EA38.4]], [[EA48.4]], [[SA287]] |  |
 > > [!check]- Partial parallels 
 > > 
 |  |
@@ -115,5 +115,6 @@ This is the instruction of the Buddha s.
 > - Sutta Central: https://suttacentral.net/da1/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[AN11.982-1151]]  🌐 [[DA2]] ►

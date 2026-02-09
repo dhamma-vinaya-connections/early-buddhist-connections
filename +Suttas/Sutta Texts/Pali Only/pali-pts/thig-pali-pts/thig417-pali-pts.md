@@ -23,3 +23,5 @@ na pi 'haṃ aparajjhaṃ kiñci na pi hiṃs'; eva na gaṇāmi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig417-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG417]]
+> ◄  [[thig416-pali-pts]] 📜  [[thig418-pali-pts]] ►

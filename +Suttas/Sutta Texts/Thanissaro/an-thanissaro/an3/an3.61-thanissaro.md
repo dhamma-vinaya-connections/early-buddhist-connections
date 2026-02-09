@@ -99,5 +99,6 @@ So the Blessed One said to the brahman Saṅgārava, “Brahman, what was the to
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN101]], [[MA19]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.61]]
 > ◄  [[an3.58-thanissaro]] 📜  [[an3.62-thanissaro]] ►

@@ -24,3 +24,5 @@ yo nibbanatho vanādhimutto vanamutto vanam eva dhāvati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp343-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP343]]
+> ◄  [[dhp342-pali-pts]] 📜  [[dhp344-pali-pts]] ►

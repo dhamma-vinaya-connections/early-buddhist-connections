@@ -23,3 +23,5 @@ saddhaṃ viriyaṃ samādhiñ ca satipaññañ ca bhāvayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag744-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG744]]
+> ◄  [[thag743-pali-pts]] 📜  [[thag745-pali-pts]] ►

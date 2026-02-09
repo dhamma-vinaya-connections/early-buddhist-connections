@@ -23,3 +23,5 @@ yogipītikaraṃ rammaṃ mattakuñjarasevitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag538-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG538]]
+> ◄  [[thag537-pali-pts]] 📜  [[thag539-pali-pts]] ►

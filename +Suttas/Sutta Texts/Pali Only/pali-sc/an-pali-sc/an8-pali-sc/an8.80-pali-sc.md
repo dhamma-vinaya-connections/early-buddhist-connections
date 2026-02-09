@@ -79,5 +79,6 @@ kusītārambhavatthūnīti.
 | [[DN33]], [[DN34]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
 > ◄  [[an8.79-pali-sc]] 📜  [[an8.81-pali-sc]] ►

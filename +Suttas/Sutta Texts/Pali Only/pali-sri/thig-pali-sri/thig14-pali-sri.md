@@ -357,3 +357,5 @@ Tiṃsati nipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig14-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG14]]
+> ◄  [[thig13-pali-sri]] 📜  [[thig15-pali-sri]] ►

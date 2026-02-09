@@ -56,7 +56,7 @@ non-forgetfulness of what the mind is responding to—this is called right mindf
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN22]], [[MN10]], [[MN119]], [[MN141]] | [[EA12.1]], [[EA27.1]], [[MA81]], [[MA98]] |  |
+> |  | [[EA12.1]], [[EA27.1]], [[MA81]], [[MA98]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA21]], [[SN41.3]], [[PLI-TV-KD21]], [[AN10.69]], [[DN2]], [[MN76]], [[PLI-TV-BU-VB-PC85]], [[SN56.10]], [[PLI-TV-KD5]], [[DN28]] |
@@ -65,6 +65,7 @@ non-forgetfulness of what the mind is responding to—this is called right mindf
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.134]], [[DN22]], [[MA31]], [[MN117]], [[SN12.20]], [[SN56.11]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA31]]
 > ◄  [[ma30-bdk]] 📜  [[ma32-bdk]] ►

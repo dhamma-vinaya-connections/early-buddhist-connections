@@ -31,5 +31,10 @@ This too is the meaning that was stated by the Blessed One: so I have heard. Six
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti103-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.86]], [[ITI62]], [[AN56:22]], [[SN3.12]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI103]]
 > ◄  [[iti102-deepseek-pali]] 📜  [[iti104-deepseek-pali]] ►

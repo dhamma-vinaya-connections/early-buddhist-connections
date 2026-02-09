@@ -48,9 +48,5 @@ Knowing that [Ānanda] had accepted by remaining silent, the brahmin Gopaka Mogg
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma145-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN108]], [[SN22.58]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA145]]
 > ◄  [[ma144-bdk]] 📜  [[ma146-bdk]] ►

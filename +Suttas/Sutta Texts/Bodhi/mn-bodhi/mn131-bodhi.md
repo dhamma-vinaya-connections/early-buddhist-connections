@@ -72,12 +72,13 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > |  |  | M iii 187 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN132]]; [[MN133]]; [[MN134]]; [[JA538]] |
+| [[MN132]], [[MN133]], [[MN134]], [[JA538]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN133]], [[MA165]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN131]]
 > ◄  [[mn130-bodhi]] 📜  [[mn132-bodhi]] ►

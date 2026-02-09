@@ -23,3 +23,5 @@ mittaṃ idha kalyāṇaṃ sikkhāvipulaṃ samādānaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag587-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG587]]
+> ◄  [[thag586-pali-pts]] 📜  [[thag588-pali-pts]] ►

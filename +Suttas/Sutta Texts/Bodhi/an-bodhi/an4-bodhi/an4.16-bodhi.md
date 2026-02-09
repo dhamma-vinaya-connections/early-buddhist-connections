@@ -54,5 +54,6 @@ having conquered Māra and his mount.
 | [[ITI62]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.16]]
 > ◄  [[an4.15-bodhi]] 📜  [[an4.17-bodhi]] ►

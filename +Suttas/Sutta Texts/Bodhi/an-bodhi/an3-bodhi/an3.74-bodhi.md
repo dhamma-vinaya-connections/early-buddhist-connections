@@ -48,5 +48,6 @@ When this was said, the Licchavi Paṇḍitakumāra said to the Licchavi Abhaya:
 | [[SA563]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.74]]
 > ◄  [[an3.73-bodhi]] 📜  [[an3.75-bodhi]] ►

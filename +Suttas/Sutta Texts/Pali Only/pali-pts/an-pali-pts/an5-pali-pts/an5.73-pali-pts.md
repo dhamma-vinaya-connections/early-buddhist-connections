@@ -32,5 +32,6 @@ Idha bhikkhave bhikkhuno ponobbhaviko jātisaṃsāro pahīno hoti ucchinnamūlo
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.64]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.73]]
 > ◄  [[an5.72-pali-pts]] 📜  [[an5.74-pali-pts]] ►

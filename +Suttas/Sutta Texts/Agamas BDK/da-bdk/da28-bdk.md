@@ -599,13 +599,10 @@ to receive it and reverentially carried out what the Buddha taught.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:da28-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[DN9]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN39]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA28]]
 > ◄  [[da27-bdk]] 📜  [[da29-bdk]] ►

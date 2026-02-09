@@ -77,8 +77,9 @@ Tasmātiha, sāriputta, bhikkhu sace ākaṅkheyya: ‘suññatāvihārena bahul
 > |  | [[EA45.6]]; [[SA236]] | M iii 293 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA45.6]]; [[SA236]] |
+| [[EA45.6]], [[SA236]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN151]]
 > ◄  [[mn150-pali-sc]] 📜  [[mn152-pali-sc]] ►

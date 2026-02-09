@@ -92,7 +92,8 @@ Evaṁ jānāhi brāhmaṇā"ti.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG6.12]]
+> - [[THAG6]].12
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.7]]
 > ◄  [[sn7.6-sujato-pali]] 📜  [[sn7.8-sujato-pali]] ►

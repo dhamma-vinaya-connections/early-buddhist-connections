@@ -41,3 +41,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.209-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.209]]
+> ◄  [[an1.198-bodhi]] 📜  [[an1.219-bodhi]] ►

@@ -23,3 +23,5 @@ na te hiraññaṃ gaṇhanti na suvaṇṇaṃ na rūpiyaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig283-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG283]]
+> ◄  [[thig282-pali-pts]] 📜  [[thig284-pali-pts]] ►

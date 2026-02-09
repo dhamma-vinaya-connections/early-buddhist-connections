@@ -154,8 +154,9 @@ Mahāvacchagottasuttaṃ tatiyaṃ.
 > |  | [[SA-2.198]]; [[SA964]] | M i 489 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.198]]; [[SA964]] |
+| [[SA-2.198]], [[SA964]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN73]]
 > ◄  [[mn72-pali-sri]] 📜  [[mn74-pali-sri]] ►

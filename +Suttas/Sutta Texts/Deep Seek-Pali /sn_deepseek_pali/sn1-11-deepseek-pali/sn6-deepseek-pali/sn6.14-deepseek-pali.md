@@ -75,8 +75,9 @@ Thus spoke the Blessed One. Those monks, glad at heart, rejoiced at the Blessed 
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG3.13]], [[DN16]], [[PE3]] |
+| [[THAG3]].13, [[DN16]], [[PE3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.14]]
 > ◄  [[sn6.13-deepseek-pali]] 📜  [[sn6.15-deepseek-pali]] ►

@@ -23,3 +23,5 @@ kadā nu paññāmayam uggatejaṃ satthaṃ isīnaṃ sahasādiyitvā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1094-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1094]]
+> ◄  [[thag1093-pali-pts]] 📜  [[thag1095-pali-pts]] ►

@@ -43,7 +43,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DN26]]"
+parallels_nikaya: ""
 parallels_agama: "[[MA70]]"
 parallels_partilal: "[[DA15]]"
 ---
@@ -78,7 +78,7 @@ Decadence starts from not paying money to the penniless then poverty, theft, s
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN26]] | [[MA70]] |  |
+> |  | [[MA70]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA15]] |
@@ -104,5 +104,6 @@ Decadence starts from not paying money to the penniless then poverty, theft, s
 > - Sutta Central: https://suttacentral.net/da6/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA5]]  🌐 [[DA7]] ►

@@ -60,5 +60,6 @@ Kiṁ te biḷibiḷikā karissatī"ti.
 | [[SA-2.361]], [[SA1341]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.5]]
 > ◄  [[sn9.4-sujato-pali]] 📜  [[sn9.6-sujato-pali]] ►

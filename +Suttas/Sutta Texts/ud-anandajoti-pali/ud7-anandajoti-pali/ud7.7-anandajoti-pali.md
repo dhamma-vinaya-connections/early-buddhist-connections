@@ -45,5 +45,10 @@ Sattamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud7.7-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[SN56.11]], [[MN18]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.7]]
 > ◄  [[ud7.6-anandajoti-pali]] 📜  [[ud7.8-anandajoti-pali]] ►

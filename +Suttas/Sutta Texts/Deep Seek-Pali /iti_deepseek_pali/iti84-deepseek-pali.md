@@ -31,3 +31,5 @@ This too is the meaning spoken by the Blessed One, so I have heard. The sixth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti84-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI84]]
+> ◄  [[iti83-deepseek-pali]] 📜  [[iti85-deepseek-pali]] ►

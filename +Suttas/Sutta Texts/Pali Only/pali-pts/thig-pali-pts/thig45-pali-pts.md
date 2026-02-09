@@ -23,3 +23,5 @@ suññatassānimittassa lābhinī 'haṃ yad icchitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig45-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG45]]
+> ◄  [[thig44-pali-pts]] 📜  [[thig46-pali-pts]] ►

@@ -64,7 +64,7 @@ vin_gender-corr: "BU-PC49"
 >| Vibhanga | BMC    | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc130-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC130]] |
->| [[bni-pc130-deepseek-pali]]      |   [[The_Concise_Buddhist_Monastic_Code_1.pdf|BMC1 Concise]]       | [[ñanatusita-analysis#^-PC130]]    |
+>| [[bni-pc130-deepseek-pali]]      | [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC130]]    |
 
 > [!done]-  Monk - Nuns Rule Correlation and PTS reference
 > 
@@ -85,5 +85,6 @@ vin_gender-corr: "BU-PC49"
 > [!info]- Expand for more [[Online Resources]]
 >
 > - Sutta Central: https://suttacentral.net/pli-tv-bu-vb-pc?view=normal
+
 
 > [!tip] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] | 📒 [[BNI]] I ◄  [[BNI-PC129]] 🌐 [[BNI-PC131]] ►

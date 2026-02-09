@@ -34,5 +34,6 @@ Ime kho bhikkhave pañca ādīnavā āyatakena gītassarena dhammaṃ bhaṇanta
 | [[PLI-TV-KD8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.210]]
 > ◄  [[an5.209-pali-pts]] 📜  [[an5.211-pali-pts]] ►

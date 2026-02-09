@@ -35,5 +35,6 @@ Atth'; āvuso nevasaññānāsaññāyatanūpagā devā, idaṃ bhavānaṃ agga
 | [[SA484]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.170]]
 > ◄  [[an5.169-pali-pts]] 📜  [[an5.171-pali-pts]] ►

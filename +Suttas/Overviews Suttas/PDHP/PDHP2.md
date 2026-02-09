@@ -95,4 +95,5 @@ unconcerned like a solitary elephant in the forest.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp2
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP1]]  🌐 [[PDHP3]] ►

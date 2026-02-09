@@ -64,5 +64,6 @@ Chaṭṭhaṁ.
 | [[SA-2.146]], [[SA920]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.97]]
 > ◄  [[an3.96-sujato-pali]] 📜  [[an3.98-sujato-pali]] ►

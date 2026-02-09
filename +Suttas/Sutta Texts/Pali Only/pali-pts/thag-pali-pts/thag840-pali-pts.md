@@ -23,3 +23,5 @@ bhikkhavo tisatā ime tiṭṭhantī pañjalīkatā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag840-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG840]]
+> ◄  [[thag839-pali-pts]] 📜  [[thag841-pali-pts]] ►

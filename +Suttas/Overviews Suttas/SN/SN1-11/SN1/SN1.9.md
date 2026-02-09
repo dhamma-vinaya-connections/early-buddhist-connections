@@ -86,4 +86,5 @@ parallels_partilal: "[[SA-2.133]], [[SA996]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.9
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.8]]  🌐 [[SN1.10]] ►

@@ -50,5 +50,6 @@ language: "English"
 | [[SA1047]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.118]]
 > ◄  [[an3.117-bodhi]] 📜  [[an3.119-bodhi]] ►

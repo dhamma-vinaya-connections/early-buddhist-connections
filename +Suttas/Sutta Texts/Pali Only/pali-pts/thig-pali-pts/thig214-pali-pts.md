@@ -23,3 +23,5 @@ dukkhañ ca vijāneyya dukkhassa ca samudayaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig214-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG214]]
+> ◄  [[thig213-pali-pts]] 📜  [[thig215-pali-pts]] ►

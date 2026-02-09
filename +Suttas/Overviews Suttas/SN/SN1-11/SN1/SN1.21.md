@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[SN2.16]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.170]], [[SA586]]"
-parallels_partilal: "[[SA-2.170]], [[SA586]], [[SN2.16]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]]"
+parallels_partilal: "[[SA-2.170]], [[SA586]], [[SN2.16]], [[THAG1]].39, [[THAG1]].40, [[THAG20]].1, [[PE2]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.20]]  🌐 [[SN1.22]] ►
 
@@ -63,10 +63,10 @@ The evil backfires on the fool
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN2.16]] | [[SA-2.170]], [[SA586]] |  |
+> |  | [[SA-2.170]], [[SA586]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.170]], [[SA586]], [[SN2.16]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]] |
+| [[SA-2.170]], [[SA586]], [[SN2.16]], [[THAG1]].39, [[THAG1]].40, [[THAG20]].1, [[PE2]] |
 | ------------------------ |
 
 
@@ -86,5 +86,6 @@ The evil backfires on the fool
 > - Sutta Central: https://suttacentral.net/sn1.21/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.21
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.21.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.20]]  🌐 [[SN1.22]] ►

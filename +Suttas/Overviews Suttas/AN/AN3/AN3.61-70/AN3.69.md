@@ -91,4 +91,5 @@ parallels_partilal: "[[SN45.1]], [[PLI-TV-PVR7]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.69
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.69.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.68]]  🌐 [[AN3.70]] ►

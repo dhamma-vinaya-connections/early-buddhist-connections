@@ -88,5 +88,6 @@ Māradheyyaṁ atikkamma,
 | [[SA1103]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.17]]
 > ◄  [[sn4.16-sujato-pali]] 📜  [[sn4.18-sujato-pali]] ►

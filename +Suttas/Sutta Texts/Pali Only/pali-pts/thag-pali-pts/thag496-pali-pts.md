@@ -23,3 +23,5 @@ na pare vacanā coro, na pare vacanā muni;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag496-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG496]]
+> ◄  [[thag495-pali-pts]] 📜  [[thag497-pali-pts]] ►

@@ -132,7 +132,8 @@ The third training rule on eating in succession is finished.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc33-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC33]] |
->|       |          | [[ñanatusita-analysis#^PC33]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC33]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC33]]

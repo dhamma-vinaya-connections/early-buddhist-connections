@@ -24,3 +24,5 @@ so 'haṃ paripuṇṇasaṃkappo cando pannaraso yathā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag545-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG545]]
+> ◄  [[thag544-pali-pts]] 📜  [[thag546-pali-pts]] ►

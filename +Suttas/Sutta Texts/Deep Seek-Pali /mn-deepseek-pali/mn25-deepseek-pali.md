@@ -150,5 +150,6 @@ The Nivāpa Sutta, the fifth, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN12]], [[AN9.39]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN25]]
 > ◄  [[mn24-deepseek-pali]] 📜  [[mn26-deepseek-pali]] ►

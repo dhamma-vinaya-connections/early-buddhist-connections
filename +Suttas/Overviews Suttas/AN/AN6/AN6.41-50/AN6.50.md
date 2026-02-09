@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN10.3]], [[AN10.4]], [[AN11.3]], [[AN11.4]], [[AN5.168]], [[AN5.21]], [[AN5.22]], [[AN5.24]], [[AN7.65]], [[AN8.81]]"
+parallels_nikaya: ""
 parallels_agama: "[[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]]"
 parallels_partilal: "[[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[MA45]], [[AN7.65]], [[MA48]], [[AN11.4]], [[AN5.21]], [[MA49]], [[AN5.22]], [[MA50]], [[AN5.24]], [[AN5.168]], [[MA46]], [[SA495]], [[AN10.4]]"
 ---
@@ -64,7 +64,7 @@ parallels_partilal: "[[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[M
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.3]], [[AN10.4]], [[AN11.3]], [[AN11.4]], [[AN5.168]], [[AN5.21]], [[AN5.22]], [[AN5.24]], [[AN7.65]], [[AN8.81]] | [[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]] | A iii 360 |
+> |  | [[MA44]], [[MA45]], [[MA46]], [[MA47]], [[MA48]], [[MA49]], [[MA50]], [[SA495]] | A iii 360 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[MA45]], [[AN7.65]], [[MA48]], [[AN11.4]], [[AN5.21]], [[MA49]], [[AN5.22]], [[MA50]], [[AN5.24]], [[AN5.168]], [[MA46]], [[SA495]], [[AN10.4]] |
@@ -87,5 +87,6 @@ parallels_partilal: "[[AN10.3]], [[AN11.3]], [[MA47]], [[MA44]], [[AN8.81]], [[M
 > - Sutta Central: https://suttacentral.net/an6.50/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.50
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.50.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.49]]  🌐 [[AN6.51]] ►

@@ -78,5 +78,6 @@ Then the Blessed One addressed Vassakāra the brahmin, the chief minister of Mag
 | [[EA40.2]], [[MA142]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
 > ◄  [[an7.21-deepseek-pali]] 📜  [[an7.23-deepseek-pali]] ►

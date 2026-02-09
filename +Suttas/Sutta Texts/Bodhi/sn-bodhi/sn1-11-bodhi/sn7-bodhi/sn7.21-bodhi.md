@@ -45,3 +45,5 @@ When this was said, the brahmin Saṅgārava said to the Blessed One: “Magnifi
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.21-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.21]]
+> ◄  [[sn7.20-bodhi]] 📜  [[sn7.22-bodhi]] ►

@@ -175,12 +175,13 @@ Mahāhatthipadopamasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
 > |  | [[MA30]] | M i 184 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA30]]; [[MN21]]; [[MN28]] |
+| [[MA30]], [[MN21]], [[MN28]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN21]], [[MA193]], [[MA8]], [[AN7.62]], [[AN5.197]], [[SN22.5]]; [[SN4.9]], [[MA31]], [[MN141]]
+> - [[MN21]], [[MA193]], [[MA8]], [[AN7.62]], [[AN5.197]], [[SN22.5]], [[SN4.9]], [[MA31]], [[MN141]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN28]]
 > ◄  [[mn27-sujato-pali]] 📜  [[mn29-sujato-pali]] ►

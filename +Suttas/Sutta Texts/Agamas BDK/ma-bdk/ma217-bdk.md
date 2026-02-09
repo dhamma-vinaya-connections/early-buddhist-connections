@@ -36,10 +36,11 @@ Venerable Ānanda, it is as if, not far from a village, there were a large house
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN11.16]], [[MN52]] |  | M iii 20 |
+> |  |  | M iii 20 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.36]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA217]]
 > ◄  [[ma216-bdk]] 📜  [[ma218-bdk]] ►

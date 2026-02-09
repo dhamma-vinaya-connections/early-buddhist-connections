@@ -25,3 +25,5 @@ Sīlam eva idha aggaṃ, paññavā pana uttamo;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag69-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG69]]
+> ◄  [[thag68-pali-pts]] 📜  [[thag70-pali-pts]] ►

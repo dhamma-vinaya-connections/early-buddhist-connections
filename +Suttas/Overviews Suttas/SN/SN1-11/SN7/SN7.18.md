@@ -92,4 +92,5 @@ He is truly called a bhikkhu
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.18
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.18.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.17]]  🌐 [[SN7.19]] ►

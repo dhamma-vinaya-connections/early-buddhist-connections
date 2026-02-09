@@ -24,3 +24,5 @@ Yo have daharo bhikkhu yañjati buddhasāsane,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag202-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG202]]
+> ◄  [[thag201-pali-pts]] 📜  [[thag203-pali-pts]] ►

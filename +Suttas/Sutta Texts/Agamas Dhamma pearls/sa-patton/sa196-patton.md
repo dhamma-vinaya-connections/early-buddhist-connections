@@ -34,11 +34,12 @@ _Like the teaching that “everything is impermanent,” thus “everything is p
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN35.33-52]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN35.33-52]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA196]]
 > ◄  [[sa195-patton]] 📜  [[sa197-patton]] ►

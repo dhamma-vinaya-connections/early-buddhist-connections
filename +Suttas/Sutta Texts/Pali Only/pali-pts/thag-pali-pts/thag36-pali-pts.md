@@ -25,3 +25,5 @@ samādhiñ ca virādhenti, kiṃ su raṭṭhaṃcariyā karissati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag36-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG36]]
+> ◄  [[thag35-pali-pts]] 📜  [[thag37-pali-pts]] ►

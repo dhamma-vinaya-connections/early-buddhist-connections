@@ -24,3 +24,5 @@ mā purāṇam amaññittho, māsādesi tathāgate;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag279-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG279]]
+> ◄  [[thag278-pali-pts]] 📜  [[thag280-pali-pts]] ►

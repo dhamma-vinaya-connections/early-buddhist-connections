@@ -150,5 +150,6 @@ Kosalasaṁyuttaṁ samattaṁ.
 | [[SA-2.70]], [[SA1147]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.25]]
 > ◄  [[sn3.24-sujato-pali]] 📜  [[]] ►

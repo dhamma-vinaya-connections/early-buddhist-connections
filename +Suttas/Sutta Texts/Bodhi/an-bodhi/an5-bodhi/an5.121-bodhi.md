@@ -34,5 +34,6 @@ On one occasion the Blessed One was dwelling at Vesālī in the hall with the pe
 | [[AN9.16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.121]]
 > ◄  [[an5.120-bodhi]] 📜  [[an5.122-bodhi]] ►

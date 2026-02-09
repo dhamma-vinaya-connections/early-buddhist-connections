@@ -25,3 +25,5 @@ na hiraññasuvaṇṇena parikkhīyanti āsavā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig346-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG346]]
+> ◄  [[thig345-pali-pts]] 📜  [[thig347-pali-pts]] ►

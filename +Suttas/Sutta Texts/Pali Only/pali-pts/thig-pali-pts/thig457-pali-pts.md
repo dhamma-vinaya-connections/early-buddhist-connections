@@ -23,3 +23,5 @@ kiṃ bhavagatena abhinanditena kāyakalinā asārena |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig457-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG457]]
+> ◄  [[thig456-pali-pts]] 📜  [[thig458-pali-pts]] ►

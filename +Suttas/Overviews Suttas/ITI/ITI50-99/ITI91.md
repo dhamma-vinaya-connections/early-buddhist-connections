@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP307]], [[DHP308]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP307]], [[ITI48]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]]"
+parallels_partilal: "[[DHP\|DHP307]], [[ITI48]], [[PLI-TV-BU-VB-PJ4]], [[DHP\|DHP308]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI90]]  🌐 [[ITI92]] ►
 
@@ -67,15 +67,15 @@ on the householder’s enjoyment
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP307]], [[DHP308]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP307]], [[ITI48]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]] |
+| [[DHP\|DHP307]], [[ITI48]], [[PLI-TV-BU-VB-PJ4]], [[DHP\|DHP308]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DHP308.]]
+> - [[DHP\|DHP308.]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -93,5 +93,6 @@ on the householder’s enjoyment
 > - Sutta Central: https://suttacentral.net/iti91/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti91
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti91.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI90]]  🌐 [[ITI92]] ►

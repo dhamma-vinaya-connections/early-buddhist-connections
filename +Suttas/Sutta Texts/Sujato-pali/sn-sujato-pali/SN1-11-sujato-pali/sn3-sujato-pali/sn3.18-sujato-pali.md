@@ -126,5 +126,6 @@ paṇḍitoti pavuccatī"ti.
 | [[SA1238]], [[SA-2.65]], [[AN5.43]], [[ITI23]], [[SN3.17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.18]]
 > ◄  [[sn3.17-sujato-pali]] 📜  [[sn3.19-sujato-pali]] ►

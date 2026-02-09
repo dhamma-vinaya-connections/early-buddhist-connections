@@ -25,3 +25,5 @@ Pāpamitte vivajjetvā bhajeyy'; uttamapuggale
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag260-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG260]]
+> ◄  [[thag259-pali-pts]] 📜  [[thag264-pali-pts]] ►

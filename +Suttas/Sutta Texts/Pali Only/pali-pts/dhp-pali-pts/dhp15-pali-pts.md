@@ -33,5 +33,6 @@ idha modati pecca modati katapuñño ubhayattha modati, /
 | [[PE1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP15]]
 > ◄  [[dhp14-pali-pts]] 📜  [[dhp16-pali-pts]] ►

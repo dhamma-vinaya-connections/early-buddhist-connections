@@ -28,11 +28,12 @@ Ime kho bhikkhave pañca ānisaṃsā dhammasavane ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.112]] |  | A iii 248 |
+> |  |  | A iii 248 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.112]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.203]]
 > ◄  [[an5.202-pali-pts]] 📜  [[an5.204-pali-pts]] ►

@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-parallels_nikaya: "[[DHP200]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA45.4]], [[SA1095]]"
-parallels_partilal: "[[EA45.4]], [[SA1095]], [[DHP200]], [[JA539]]"
+parallels_partilal: "[[EA45.4]], [[SA1095]], [[DHP\|DHP200]], [[JA539]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.17]]  🌐 [[SN4.19]] ►
 
@@ -66,10 +66,10 @@ Like the devas of streaming radiance
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP200]] | [[EA45.4]], [[SA1095]] |  |
+> |  | [[EA45.4]], [[SA1095]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[EA45.4]], [[SA1095]], [[DHP200]], [[JA539]] |
+| [[EA45.4]], [[SA1095]], [[DHP\|DHP200]], [[JA539]] |
 | ------------------------ |
 
 
@@ -89,5 +89,6 @@ Like the devas of streaming radiance
 > - Sutta Central: https://suttacentral.net/sn4.18/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.18
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.18.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.17]]  🌐 [[SN4.19]] ►

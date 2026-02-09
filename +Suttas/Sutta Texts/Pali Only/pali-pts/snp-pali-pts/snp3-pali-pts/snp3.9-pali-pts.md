@@ -181,15 +181,16 @@ VĀSEṬṬHASUTTAṂ NIṬṬHITAṂ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP386]], [[DHP396]], [[DHP397]], [[DHP398]], [[DHP399]], [[DHP400]], [[DHP401]], [[DHP402]], [[DHP403]], [[DHP404]], [[DHP405]], [[DHP406]], [[DHP407]], [[DHP408]], [[DHP409]], [[DHP410]], [[DHP411]], [[DHP412]], [[DHP413]], [[DHP414]], [[DHP415]], [[DHP416]], [[DHP417]], [[DHP418]], [[DHP419]], [[DHP420]], [[DHP421]], [[DHP422]], [[DHP423]], [[MN98]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[MN98]], [[DHP386]], [[SNP5.14]], [[DHP396]], [[DHP397]], [[DHP398]], [[DHP399]], [[DHP400]], [[DHP401]], [[DHP402]], [[DHP403]], [[DHP404]], [[DHP405]], [[DHP406]], [[DHP407]], [[DHP408]], [[DHP409]], [[DHP410]], [[DHP411]], [[DHP412]], [[DHP413]], [[DHP414]], [[DHP415]], [[DHP416]], [[DHP417]], [[DHP418]], [[DHP419]], [[DHP420]], [[DHP421]], [[DHP422]], [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[SN7.13]], [[SN7.8]], [[THIG4.1]], [[THAG12.2]] |
+| [[MN98]], [[DHP\|DHP386]], [[SNP5.14]], [[DHP\|DHP396]], [[DHP\|DHP397]], [[DHP\|DHP398]], [[DHP\|DHP399]], [[DHP\|DHP400]], [[DHP\|DHP401]], [[DHP\|DHP402]], [[DHP\|DHP403]], [[DHP\|DHP404]], [[DHP\|DHP405]], [[DHP\|DHP406]], [[DHP\|DHP407]], [[DHP\|DHP408]], [[DHP\|DHP409]], [[DHP\|DHP410]], [[DHP\|DHP411]], [[DHP\|DHP412]], [[DHP\|DHP413]], [[DHP\|DHP414]], [[DHP\|DHP415]], [[DHP\|DHP416]], [[DHP\|DHP417]], [[DHP\|DHP418]], [[DHP\|DHP419]], [[DHP\|DHP420]], [[DHP\|DHP421]], [[DHP\|DHP422]], [[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[SN7.13]], [[SN7.8]], [[THIG4]].1, [[THAG12]].2 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN23:2]], [[AN11:10]], [[ANDDHP92]], [[ANDDHP93]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.9]]
 > ◄  [[snp3.8-pali-pts]] 📜  [[snp3.10-pali-pts]] ►

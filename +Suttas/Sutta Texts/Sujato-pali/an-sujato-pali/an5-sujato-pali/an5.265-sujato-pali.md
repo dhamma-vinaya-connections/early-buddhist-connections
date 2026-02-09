@@ -35,3 +35,5 @@ Upasampadāvaggo chaṭṭho.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.265-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.265]]
+> ◄  [[an5.264-sujato-pali]] 📜  [[an5.272-sujato-pali]] ►

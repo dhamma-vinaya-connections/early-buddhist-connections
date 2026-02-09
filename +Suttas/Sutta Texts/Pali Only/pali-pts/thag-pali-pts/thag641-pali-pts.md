@@ -24,3 +24,5 @@ tassa sammāvimuttassa santacittassa bhikkhuno
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag641-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG641]]
+> ◄  [[thag640-pali-pts]] 📜  [[thag642-pali-pts]] ►

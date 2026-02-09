@@ -34,7 +34,7 @@ ediso dhammo, n'; ediso dhammo, n'; ediso dhammo ediso dhammo 'ti. atha kho samb
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN3.11]] | [[SA-2.71]], [[SA1148]] |  |
+> |  | [[SA-2.71]], [[SA1148]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN3.11]], [[SA-2.71]], [[SA1148]] |
@@ -43,6 +43,7 @@ ediso dhammo, n'; ediso dhammo, n'; ediso dhammo ediso dhammo 'ti. atha kho samb
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]], [[MN110]], [[AN4.192]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.2]]
 > ◄  [[ud6.1-pali-pts]] 📜  [[ud6.4-pali-pts]] ►

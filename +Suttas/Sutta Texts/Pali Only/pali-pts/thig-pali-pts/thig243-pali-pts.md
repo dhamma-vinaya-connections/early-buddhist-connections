@@ -23,3 +23,5 @@ yassa brāhmaṇa tvaṃ bhīto sadā udakam otari |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig243-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG243]]
+> ◄  [[thig242-pali-pts]] 📜  [[thig244-pali-pts]] ►

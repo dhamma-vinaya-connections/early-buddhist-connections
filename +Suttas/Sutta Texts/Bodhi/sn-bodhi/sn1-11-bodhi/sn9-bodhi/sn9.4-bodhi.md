@@ -42,11 +42,12 @@ When this was said, another devatā replied in verse:
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA403]] | [[SA-2.351]], [[SA1331]] |  |
+> |  | [[SA-2.351]], [[SA1331]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA403]], [[SA-2.351]], [[SA1331]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.4]]
 > ◄  [[sn9.3-bodhi]] 📜  [[sn9.5-bodhi]] ►

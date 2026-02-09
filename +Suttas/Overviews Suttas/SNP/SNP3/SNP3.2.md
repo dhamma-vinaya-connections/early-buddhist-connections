@@ -96,4 +96,5 @@ I will smash with discernment
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.2
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.1]]  🌐 [[SNP3.3]] ►

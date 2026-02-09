@@ -23,3 +23,5 @@ tava sarīraṃ navasotaṃ duggandhaṃ kariparibandha,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1151-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1151]]
+> ◄  [[thag1150-pali-pts]] 📜  [[thag1152-pali-pts]] ►

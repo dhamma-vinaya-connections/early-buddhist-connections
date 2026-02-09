@@ -91,4 +91,5 @@ he’s incapable of touching superlative self-awakening.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti79
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti79.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI78]]  🌐 [[ITI80]] ►

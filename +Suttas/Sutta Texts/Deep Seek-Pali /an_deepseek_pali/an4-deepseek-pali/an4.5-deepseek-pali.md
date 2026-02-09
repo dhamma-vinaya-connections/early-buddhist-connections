@@ -74,5 +74,6 @@ Gone to the end of the world, is called 'gone beyond'." Fifth.
 | [[PE8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
 > ◄  [[an4.4-deepseek-pali]] 📜  [[an4.6-deepseek-pali]] ►

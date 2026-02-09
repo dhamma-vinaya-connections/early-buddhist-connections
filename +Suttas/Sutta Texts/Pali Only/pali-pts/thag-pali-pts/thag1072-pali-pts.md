@@ -23,3 +23,5 @@ kammaṃ bahukaṃ na kāraye, parivajjeyya anatthaneyyam etaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1072-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1072]]
+> ◄  [[thag1071-pali-pts]] 📜  [[thag1073-pali-pts]] ►

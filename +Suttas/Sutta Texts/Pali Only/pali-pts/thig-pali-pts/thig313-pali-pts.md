@@ -23,3 +23,5 @@ bahūni me puttasatāni ñātisaṅghasatāni ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig313-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG313]]
+> ◄  [[thig312-pali-pts]] 📜  [[thig314-pali-pts]] ►

@@ -23,3 +23,5 @@ indriyāni manussānaṃ hitāya ahitāya ca:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag727-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG727]]
+> ◄  [[thag726-pali-pts]] 📜  [[thag728-pali-pts]] ►

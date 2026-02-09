@@ -24,3 +24,5 @@ Cittanimittassa kovido pavivekarasaṃ vijāniya
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag84-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG84]]
+> ◄  [[thag83-pali-pts]] 📜  [[thag85-pali-pts]] ►

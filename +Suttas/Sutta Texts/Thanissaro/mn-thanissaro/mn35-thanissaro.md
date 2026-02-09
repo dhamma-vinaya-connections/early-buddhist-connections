@@ -185,11 +185,12 @@ So the Blessed One early in the morning adjusted his lower robe and—taking his
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.15]]; [[SN22.16]]; [[SN22.17]] | [[EA37.10]]; [[SA10]]; [[SA110]]; [[SA9]] | M i 227 |
+> |  | [[EA37.10]]; [[SA10]]; [[SA110]]; [[SA9]] | M i 227 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA37.10]]; [[SA110]]; [[SN22.15]]; [[SA10]]; [[SA9]]; [[SN22.16]]; [[SN22.17]] |
+| [[EA37.10]], [[SA110]], [[SN22.15]], [[SA10]], [[SA9]], [[SN22.16]], [[SN22.17]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN35]]
 > ◄  [[mn33-thanissaro]] 📜  [[mn36-thanissaro]] ►

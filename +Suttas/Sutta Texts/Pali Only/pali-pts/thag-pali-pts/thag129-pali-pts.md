@@ -25,3 +25,5 @@ yo ca kho annapānassa lābhī hoti 'dha puggalo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag129-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG129]]
+> ◄  [[thag128-pali-pts]] 📜  [[thag130-pali-pts]] ►

@@ -54,5 +54,6 @@ Then Māra the Evil One, [thinking,] “The bhikkhunī Āḷavikā knows me,” 
 | [[SA-2.214]], [[SA1198]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.1]]
 > ◄  [[]] 📜  [[sn5.2-deepseek-pali]] ►

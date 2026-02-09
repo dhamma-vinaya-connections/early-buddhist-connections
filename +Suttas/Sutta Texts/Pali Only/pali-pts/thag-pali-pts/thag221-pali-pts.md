@@ -24,3 +24,5 @@ Pañcāhāhaṃ pabbajito sekho appattamānaso,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag221-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG221]]
+> ◄  [[thag220-pali-pts]] 📜  [[thag222-pali-pts]] ►

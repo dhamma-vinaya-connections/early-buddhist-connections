@@ -213,11 +213,12 @@ Next Sutta
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.82]] | [[SA58]] | M iii 15 |
+> |  | [[SA58]] | M iii 15 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA58]]; [[SN22.82]]; [[AN4.200]]; [[MN44]]; [[SN22.44]]; [[SN41.3]] |
+| [[SA58]], [[SN22.82]], [[AN4.200]], [[MN44]], [[SN22.44]], [[SN41.3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
 > ◄  [[mn108-pali-sri]] 📜  [[mn110-pali-sri]] ►

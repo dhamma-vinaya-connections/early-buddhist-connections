@@ -62,5 +62,6 @@ like a green reed cut down.”
 | [[SA-2.132]], [[SA995]], [[JA538]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
 > ◄  [[sn1.9-thanissaro]] 📜  [[sn1.17-thanissaro]] ►

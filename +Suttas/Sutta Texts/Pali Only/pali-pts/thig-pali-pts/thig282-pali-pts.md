@@ -25,3 +25,5 @@ na te saṃ koṭṭhe osenti na kumbhiṃ na kaḷopiyaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig282-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG282]]
+> ◄  [[thig281-pali-pts]] 📜  [[thig283-pali-pts]] ►

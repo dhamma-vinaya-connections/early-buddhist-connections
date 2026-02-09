@@ -100,5 +100,6 @@ Tasmā supe sabbabhūtānukampī"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN1.38]], [[SN36.6]], [[AN5.129]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.13]]
 > ◄  [[sn4.12-sujato-pali]] 📜  [[sn4.14-sujato-pali]] ►

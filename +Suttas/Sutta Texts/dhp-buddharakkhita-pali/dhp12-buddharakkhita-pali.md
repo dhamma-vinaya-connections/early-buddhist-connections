@@ -100,3 +100,5 @@ Attavaggo dvādasamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp12-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP12-BUDDHARAKKHITA]]
+> ◄  [[dhp11-buddharakkhita-pali]] 📜  [[dhp13-buddharakkhita-pali]] ►

@@ -36,10 +36,11 @@ freely, as he likes. Being a righteous Dharma king, he attains seven treas- ures
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN30]], [[DN33]] | [[DA9]] |  |
+> |  | [[DA9]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA60]], [[MA67]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA59]]
 > ◄  [[ma58-bdk]] 📜  [[ma60-bdk]] ►

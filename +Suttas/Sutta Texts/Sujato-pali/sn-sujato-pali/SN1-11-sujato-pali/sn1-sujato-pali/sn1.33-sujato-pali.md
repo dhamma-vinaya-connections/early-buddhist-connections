@@ -203,5 +203,6 @@ Nibbānamevajjhagamuṁ sapaññā"ti.
 | [[JA424]], [[JA450]], [[SN1.32]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
 > ◄  [[sn1.32-sujato-pali]] 📜  [[sn1.34-sujato-pali]] ►

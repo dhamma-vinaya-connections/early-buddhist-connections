@@ -82,5 +82,6 @@ Puggalo upaparikkhitabbo: ‘iti mayhañca avihesā bhavissati parassa ca puggal
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN104]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN103]]
 > ◄  [[mn102-pali-sc]] 📜  [[mn104-pali-sc]] ►

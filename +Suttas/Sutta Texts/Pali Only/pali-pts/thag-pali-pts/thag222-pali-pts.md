@@ -23,3 +23,5 @@ nāsissaṃ na pivissāmi vihārato na nikkhame
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag222-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG222]]
+> ◄  [[thag221-pali-pts]] 📜  [[thag223-pali-pts]] ►

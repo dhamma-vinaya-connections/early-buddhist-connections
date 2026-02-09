@@ -60,5 +60,6 @@ Dhamme ṭhito paralokaṁ na bhāye"ti.
 | [[JA458]], [[SA-2.314]], [[SA1315]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.75]]
 > ◄  [[sn1.74-sujato-pali]] 📜  [[sn1.76-sujato-pali]] ►

@@ -59,5 +59,6 @@ Chaṭṭhaṁ.
 | [[AN4.160]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.156]]
 > ◄  [[an5.155-pali-sc]] 📜  [[an5.157-pali-sc]] ►

@@ -176,5 +176,6 @@ sammadeva samācare"ti.
 | [[SA-2.53]], [[SA1226]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.1]]
 > ◄  [[]] 📜  [[sn3.2-sujato-pali]] ►

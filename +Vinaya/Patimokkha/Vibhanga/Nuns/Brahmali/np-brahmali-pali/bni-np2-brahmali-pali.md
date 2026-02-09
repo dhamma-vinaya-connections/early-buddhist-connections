@@ -131,7 +131,8 @@ Kālacīvare akālacīvarasaññā, āpatti dukkaṭassa. Kālacīvare vematikā
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-np2-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-NP2]] |
->|       |          | [[ñanatusita-analysis#^-NP2]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-NP2]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP2]]

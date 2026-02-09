@@ -180,15 +180,16 @@ The Sabbasava Sutta is concluded. Second.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.58]] | [[EA40.6]]; [[MA10]] | M i 6 |
+> |  | [[EA40.6]]; [[MA10]] | M i 6 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN125]]; [[AN4.114]]; [[AN4.157]]; [[AN4.165]]; [[AN5.140]]; [[PLI-TV-KD1]]; [[PLI-TV-BU-VB-PC65]]; [[PLI-TV-BI-VB-PC71]]; [[AN6.58]]; [[EA40.6]]; [[MA10]]; [[SN12.23]]; [[ITI102]]; [[SN22.101]]; [[SN56.25]] |
+| [[MN125]], [[AN4.114]], [[AN4.157]], [[AN4.165]], [[AN5.140]], [[PLI-TV-KD1]], [[PLI-TV-BU-VB-PC65]], [[PLI-TV-BI-VB-PC71]], [[AN6.58]], [[EA40.6]], [[MA10]], [[SN12.23]], [[ITI102]], [[SN22.101]], [[SN56.25]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN4.24]]; [[AN5.140]]
+> - [[AN4.24]], [[AN5.140]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN2]]
 > ◄  [[mn1-deepseek-pali]] 📜  [[mn3-deepseek-pali]] ►

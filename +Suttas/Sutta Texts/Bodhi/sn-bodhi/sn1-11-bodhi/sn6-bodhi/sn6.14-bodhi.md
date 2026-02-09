@@ -66,8 +66,9 @@ This is what the Blessed One said. Elated, those bhikkhus delighted in the Bless
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG3.13]], [[DN16]], [[PE3]] |
+| [[THAG3]].13, [[DN16]], [[PE3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.14]]
 > ◄  [[sn6.13-bodhi]] 📜  [[sn6.15-bodhi]] ►

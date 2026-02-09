@@ -23,3 +23,5 @@ pañca kkhandhā pariññātā tiṭṭhanti chinnamūlakā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig105-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG105]]
+> ◄  [[thig104-pali-pts]] 📜  [[thig106-pali-pts]] ►

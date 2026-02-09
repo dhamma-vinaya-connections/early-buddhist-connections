@@ -23,3 +23,5 @@ saṅkhāre parato disvā hetujāte palokine |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig100-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG100]]
+> ◄  [[thig99-pali-pts]] 📜  [[thig101-pali-pts]] ►

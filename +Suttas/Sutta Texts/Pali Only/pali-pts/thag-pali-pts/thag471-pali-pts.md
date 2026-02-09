@@ -23,3 +23,5 @@ ajjhattañ ca pajānāti bahiddhā ca vipassati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag471-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG471]]
+> ◄  [[thag470-pali-pts]] 📜  [[thag472-pali-pts]] ►

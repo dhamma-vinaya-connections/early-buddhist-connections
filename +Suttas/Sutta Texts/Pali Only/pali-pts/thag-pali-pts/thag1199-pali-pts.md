@@ -23,3 +23,5 @@ passāmi vītivattantaṃ Brahmaloke pabhassaraṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1199-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1199]]
+> ◄  [[thag1197-pali-pts]] 📜  [[thag1200-pali-pts]] ►

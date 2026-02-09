@@ -165,8 +165,9 @@ paṭiggaṇhāmi voccayan"ti.
 > |  | [[SA-2.275]], [[SA1277]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.275]], [[SA1277]], [[JA363]], [[JA320]], [[JA380]], [[THAG3.15]], [[THAG3.3]], [[THAG5.2]], [[PLI-TV-BU-VB-PJ4]] |
+| [[SA-2.275]], [[SA1277]], [[JA363]], [[JA320]], [[JA380]], [[THAG3]].15, [[THAG3]].3, [[THAG5]].2, [[PLI-TV-BU-VB-PJ4]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.35]]
 > ◄  [[sn1.34-sujato-pali]] 📜  [[sn1.36-sujato-pali]] ►

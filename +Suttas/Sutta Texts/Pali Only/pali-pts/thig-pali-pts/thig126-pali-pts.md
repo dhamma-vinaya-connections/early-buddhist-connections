@@ -25,3 +25,5 @@ yassa maggaṃ na jānāsi āgatassa gatassa vā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig126-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG126]]
+> ◄  [[thig125-pali-pts]] 📜  [[thig127-pali-pts]] ►

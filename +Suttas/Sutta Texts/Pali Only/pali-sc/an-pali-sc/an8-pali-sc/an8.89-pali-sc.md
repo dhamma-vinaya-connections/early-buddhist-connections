@@ -36,5 +36,6 @@ Navamaṁ.
 | [[PLI-TV-KD11]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.89]]
 > ◄  [[an8.88-pali-sc]] 📜  [[an8.90-pali-sc]] ►

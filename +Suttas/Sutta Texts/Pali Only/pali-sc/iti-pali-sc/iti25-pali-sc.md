@@ -36,15 +36,16 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP176]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP176]] |
+| [[DHP\|DHP176]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN61]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI25]]
 > ◄  [[iti24-pali-sc]] 📜  [[iti26-pali-sc]] ►

@@ -184,7 +184,8 @@ The fourth training rule, on attending to one's own desires, is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-ss4-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SS4]] |
->|       |          | [[ñanatusita-analysis#^SS4]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SS4]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS4]]

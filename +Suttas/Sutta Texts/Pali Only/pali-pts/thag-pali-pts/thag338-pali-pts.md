@@ -23,3 +23,5 @@ pariyantakataṃ dukkhaṃ, antimo 'yaṃ samussayo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag338-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG338]]
+> ◄  [[thag337-pali-pts]] 📜  [[thag339-pali-pts]] ►

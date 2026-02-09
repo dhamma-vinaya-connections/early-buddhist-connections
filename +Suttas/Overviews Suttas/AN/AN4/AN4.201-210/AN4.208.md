@@ -86,4 +86,5 @@ parallels_partilal: "[[SA1053]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.208
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.208.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.207]]  🌐 [[AN4.209]] ►

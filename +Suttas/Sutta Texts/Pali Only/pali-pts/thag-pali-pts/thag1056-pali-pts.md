@@ -24,3 +24,5 @@ senāsanaṃ rukkhamūlaṃ paṃsukūlañ ca cīvaraṃ:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1056-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1056]]
+> ◄  [[thag1055-pali-pts]] 📜  [[thag1057-pali-pts]] ►

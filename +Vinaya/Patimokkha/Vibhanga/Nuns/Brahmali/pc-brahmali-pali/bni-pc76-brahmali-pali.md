@@ -85,7 +85,8 @@ p_2V_3360Chaṭṭhasikkhāpadaṁ niṭṭhitaṁ.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc76-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC76]] |
->|       |          | [[ñanatusita-analysis#^-PC76]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC76]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC76]]

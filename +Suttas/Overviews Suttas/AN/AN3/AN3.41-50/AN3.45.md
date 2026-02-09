@@ -89,4 +89,5 @@ And peaceful spiritual practitioners
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.45
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.45.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.44]]  🌐 [[AN3.46]] ►

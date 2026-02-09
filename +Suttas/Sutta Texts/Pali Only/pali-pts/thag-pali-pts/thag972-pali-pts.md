@@ -23,3 +23,5 @@ uddhato unnaḷo bālo sīlaṃ yassa na vijjati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag972-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG972]]
+> ◄  [[thag971-pali-pts]] 📜  [[thag973-pali-pts]] ►

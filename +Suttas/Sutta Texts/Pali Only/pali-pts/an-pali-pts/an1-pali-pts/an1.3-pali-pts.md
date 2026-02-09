@@ -34,5 +34,6 @@ Itthiraso bhikkhave purisassa cittaṃ pariyādāya tiṭṭhatī ti.
 | [[EA9.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.3]]
 > ◄  [[an1.2-pali-pts]] 📜  [[an1.4-pali-pts]] ►

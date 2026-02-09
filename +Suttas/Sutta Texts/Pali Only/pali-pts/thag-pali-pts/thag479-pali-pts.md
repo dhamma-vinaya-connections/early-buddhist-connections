@@ -23,3 +23,5 @@ Disvā pāsādachāyāyaṃ caṅkamantaṃ naruttamaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag479-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG479]]
+> ◄  [[thag478-pali-pts]] 📜  [[thag480-pali-pts]] ►

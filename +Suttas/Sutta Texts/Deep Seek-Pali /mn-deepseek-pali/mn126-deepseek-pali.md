@@ -118,5 +118,6 @@ The Anuruddha Sutta, the seventh, is concluded.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN125]], [[SN12.25]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN126]]
 > ◄  [[mn125-deepseek-pali]] 📜  [[mn127-deepseek-pali]] ►

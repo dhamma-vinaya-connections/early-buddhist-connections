@@ -24,3 +24,5 @@ no ce labhetha nipakaṃ sahāyaṃ saddhiṃcaraṃ sādhuvihāridhīraṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp328-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP328]]
+> ◄  [[dhp327-pali-pts]] 📜  [[dhp329-pali-pts]] ►

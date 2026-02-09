@@ -25,3 +25,5 @@ yadi pi idham eva idham eva athavāpi alam eva alam eva;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag42-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG42]]
+> ◄  [[thag41-pali-pts]] 📜  [[thag43-pali-pts]] ►

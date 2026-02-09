@@ -23,3 +23,5 @@ unnaḷassa pamattassa bāhirāsassa bhikkhuno
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag633-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG633]]
+> ◄  [[thag632-pali-pts]] 📜  [[thag634-pali-pts]] ►

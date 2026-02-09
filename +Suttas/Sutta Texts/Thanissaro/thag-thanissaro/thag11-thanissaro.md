@@ -141,3 +141,5 @@ mindful, alert.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG11]]
+> ◄  [[thag10-thanissaro]] 📜  [[thag12-thanissaro]] ►

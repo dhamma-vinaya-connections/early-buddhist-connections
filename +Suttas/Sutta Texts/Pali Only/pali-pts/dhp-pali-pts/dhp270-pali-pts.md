@@ -24,3 +24,5 @@ na sīlabbatamattena bāhusaccena vā puna /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp270-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP270]]
+> ◄  [[dhp269-pali-pts]] 📜  [[dhp271-pali-pts]] ►

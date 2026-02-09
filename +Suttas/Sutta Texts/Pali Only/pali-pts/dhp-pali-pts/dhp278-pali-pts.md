@@ -24,3 +24,5 @@ atha nibbindatī dukkhe, esa maggo visuddhiyā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp278-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP278]]
+> ◄  [[dhp277-pali-pts]] 📜  [[dhp279-pali-pts]] ►

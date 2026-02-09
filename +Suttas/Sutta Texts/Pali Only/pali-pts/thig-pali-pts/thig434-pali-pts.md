@@ -23,3 +23,5 @@ nagaramhi Erakakacche suvaṇṇakāro ahaṃ bahutadhano |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig434-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG434]]
+> ◄  [[thig433-pali-pts]] 📜  [[thig435-pali-pts]] ►

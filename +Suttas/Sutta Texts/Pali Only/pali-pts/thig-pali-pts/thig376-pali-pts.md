@@ -23,3 +23,5 @@ kāsikasukhumāni dhāraya abhiropehi ca mālavaṇṇakaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig376-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG376]]
+> ◄  [[thig375-pali-pts]] 📜  [[thig377-pali-pts]] ►

@@ -24,3 +24,5 @@ anekajātisaṃsāraṃ sandhāvissaṃ anibbisaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp152-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP152]]
+> ◄  [[dhp151-pali-pts]] 📜  [[dhp153-pali-pts]] ►

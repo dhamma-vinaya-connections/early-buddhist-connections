@@ -121,5 +121,6 @@ Seyyathāpi, sunakkhatta, āpānīyakaṁso vaṇṇasampanno gandhasampanno ras
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN112]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN105]]
 > ◄  [[mn104-pali-sc]] 📜  [[mn106-pali-sc]] ►

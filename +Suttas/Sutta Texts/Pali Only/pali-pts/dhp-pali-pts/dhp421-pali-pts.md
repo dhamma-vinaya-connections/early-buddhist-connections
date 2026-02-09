@@ -24,3 +24,5 @@ usabhaṃ pavaraṃ vīraṃ mahesiṃ vijitāvinaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp421-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP421]]
+> ◄  [[dhp420-pali-pts]] 📜  [[dhp422-pali-pts]] ►

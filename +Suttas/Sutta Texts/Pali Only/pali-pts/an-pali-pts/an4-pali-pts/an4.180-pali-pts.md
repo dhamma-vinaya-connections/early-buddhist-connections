@@ -35,5 +35,6 @@ Idh'; āvuso Ānanda sattā imā hānabhāgiyā saññā ti yathābhūtaṃ napp
 | [[EA28.5]], [[DA2]], [[DN16]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.180]]
 > ◄  [[an4.179-pali-pts]] 📜  [[an4.181-pali-pts]] ►

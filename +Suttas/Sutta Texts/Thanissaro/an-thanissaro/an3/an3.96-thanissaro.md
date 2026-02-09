@@ -44,11 +44,12 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.259]] |  | A i 244 |
+> |  |  | A i 244 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.259]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.96]]
 > ◄  [[an3.93-thanissaro]] 📜  [[an3.97-thanissaro]] ►

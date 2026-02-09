@@ -55,12 +55,13 @@ Sattamaṁ.
 > |  |  | A iv 6 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN7.5]], [[AN7.6]], [[THAG8.2]] |
+| [[AN7.5]], [[AN7.6]], [[THAG8]].2 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.9]], [[SN1.2]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.7]]
 > ◄  [[an7.6-pali-sc]] 📜  [[an7.8-pali-sc]] ►

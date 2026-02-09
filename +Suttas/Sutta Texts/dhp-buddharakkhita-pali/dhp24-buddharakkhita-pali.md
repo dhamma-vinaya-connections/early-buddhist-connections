@@ -256,3 +256,5 @@ dinnaṁ hoti mahapphalaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp24-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP24-BUDDHARAKKHITA]]
+> ◄  [[dhp23-buddharakkhita-pali]] 📜  [[dhp25-buddharakkhita-pali]] ►

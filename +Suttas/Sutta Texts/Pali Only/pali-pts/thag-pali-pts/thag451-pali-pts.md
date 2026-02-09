@@ -23,3 +23,5 @@ carato tiṭṭhato vāpi āsīnasayanassa vā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag451-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG451]]
+> ◄  [[thag450-pali-pts]] 📜  [[thag452-pali-pts]] ►

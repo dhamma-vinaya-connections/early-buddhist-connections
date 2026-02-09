@@ -24,3 +24,5 @@ na cāhu na ca bhavissati na c'; etarahi vijjati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp227-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP227]]
+> ◄  [[dhp226-pali-pts]] 📜  [[dhp228-pali-pts]] ►

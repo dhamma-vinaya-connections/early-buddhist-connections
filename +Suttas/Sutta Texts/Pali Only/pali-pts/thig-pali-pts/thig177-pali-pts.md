@@ -23,3 +23,5 @@ tassāhaṃ vacanaṃ sutvā Paṭācārānusāsaniṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig177-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG177]]
+> ◄  [[thig176-pali-pts]] 📜  [[thig178-pali-pts]] ►

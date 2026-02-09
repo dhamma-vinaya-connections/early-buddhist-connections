@@ -23,3 +23,5 @@ vanaṃ Pubbavidehānaṃ ye ca bhūmisayā narā, --**|| 1202 ||**
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1201-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1201]]
+> ◄  [[thag1200-pali-pts]] 📜  [[thag1203-pali-pts]] ►

@@ -29,3 +29,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti84-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI84]]
+> ◄  [[iti83-pali-sc]] 📜  [[iti85-pali-sc]] ►

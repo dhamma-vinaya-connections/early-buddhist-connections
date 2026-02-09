@@ -24,3 +24,5 @@ Samunnamayam attānaṃ usukāro va tejanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag28-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG28]]
+> ◄  [[thag27-pali-pts]] 📜  [[thag29-pali-pts]] ►

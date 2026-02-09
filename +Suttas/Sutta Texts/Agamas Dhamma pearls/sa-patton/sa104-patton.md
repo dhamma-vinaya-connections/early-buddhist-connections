@@ -82,11 +82,12 @@ He replied, “Yes, Venerable Śāriputra.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.85]] | [[SA104]] |  |
+> |  | [[SA104]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA104]], [[SN22.85]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA104]]
 > ◄  [[sa86-patton]] 📜  [[sa110-patton]] ►

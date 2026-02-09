@@ -69,11 +69,12 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP306]], [[DHP307]], [[DHP308]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP307]], [[ITI91]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]] |
+| [[DHP\|DHP306]], [[SNP3.10]], [[UD4.8]], [[DHP\|DHP307]], [[ITI91]], [[PLI-TV-BU-VB-PJ4]], [[DHP\|DHP308]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI48]]
 > ◄  [[iti47-thanissaro]] 📜  [[iti49-thanissaro]] ►

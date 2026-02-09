@@ -68,7 +68,8 @@ The sixth training rule concerning the requesting of thread is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np26-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP26]] |
->|       |          | [[ñanatusita-analysis#^NP26]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP26]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP26]]

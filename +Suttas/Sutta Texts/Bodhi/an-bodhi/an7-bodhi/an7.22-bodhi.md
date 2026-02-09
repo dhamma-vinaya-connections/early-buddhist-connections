@@ -90,5 +90,6 @@ Then the brahmin Vassakāra, the chief minister of Magadha, having delighted and
 | [[EA40.2]], [[MA142]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
 > ◄  [[an7.21-bodhi]] 📜  [[an7.23-bodhi]] ►

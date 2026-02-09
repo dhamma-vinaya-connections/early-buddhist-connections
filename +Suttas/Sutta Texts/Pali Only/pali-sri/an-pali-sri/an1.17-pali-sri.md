@@ -245,5 +245,6 @@ Kammapathapeyyālaṃ niṭṭhitaṃ*
 | [[EA9.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.17]]
 > ◄  [[an1.16-pali-sri]] 📜  [[an1.18-pali-sri]] ►

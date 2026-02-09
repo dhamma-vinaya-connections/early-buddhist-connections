@@ -88,7 +88,8 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN22.55]]]]; [[[[MN140]]
+> - [[SN22.55]], [[MN140]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN106]]
 > ◄  [[mn105-bodhi]] 📜  [[mn107-bodhi]] ►

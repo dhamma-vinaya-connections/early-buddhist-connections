@@ -119,5 +119,10 @@ Tato ratiṁ paramataraṁ na vindatī"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag9-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[THAG1]].41, [[THAG1]].110, [[THAG18]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG9]]
 > ◄  [[thag8-sujato-pali]] 📜  [[thag10-sujato-pali]] ►

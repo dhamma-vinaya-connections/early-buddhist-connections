@@ -34,5 +34,6 @@ Purisarūpaṃ bhikkhave itthiyā cittaṃ pariyādāya tiṭṭhatī ti.
 | [[EA9.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.5]]
 > ◄  [[an1.4-pali-pts]] 📜  [[an1.6-pali-pts]] ►

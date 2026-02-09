@@ -421,9 +421,5 @@ The Buddha said, “You may tell me if you like.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:da3-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[DN19]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA3]]
 > ◄  [[da2-patton]] 📜  [[da4-patton]] ►

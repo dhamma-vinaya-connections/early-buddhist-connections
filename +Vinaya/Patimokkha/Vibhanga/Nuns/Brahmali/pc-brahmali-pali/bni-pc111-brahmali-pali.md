@@ -121,7 +121,8 @@ Vihārassa upacāre vā upaṭṭhānasālāyaṁ vā maṇḍape vā rukkhamūl
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc111-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC111]] |
->|       |          | [[ñanatusita-analysis#^-PC111]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC111]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC111]]

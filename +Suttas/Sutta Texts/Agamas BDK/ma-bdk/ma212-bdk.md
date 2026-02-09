@@ -66,11 +66,12 @@ King Pasenadi of Kosala, having heard what the World-honored One had said, recei
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN90]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.68]], [[PLI-TV-KD17]], [[SN6.12]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA212]]
 > ◄  [[ma211-bdk]] 📜  [[ma213-bdk]] ►

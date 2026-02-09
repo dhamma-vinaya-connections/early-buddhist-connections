@@ -72,5 +72,6 @@ Catutthaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]], [[MN49]], [[SN35:117]], [[ITI43]], [[MN144]], [[ANDSN35:87]], [[MN140]], [[SN22.53]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD8.4]]
 > ◄  [[ud8.3-anandajoti-pali]] 📜  [[ud8.5-anandajoti-pali]] ►

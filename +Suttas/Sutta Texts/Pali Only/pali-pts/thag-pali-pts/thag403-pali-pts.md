@@ -23,3 +23,5 @@ pamādo rajo, pamādānupatito rajo;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag403-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG403]]
+> ◄  [[thag402-pali-pts]] 📜  [[thag404-pali-pts]] ►

@@ -23,3 +23,5 @@ bhāvento satta bojjhaṅge indriyāni balāni ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag436-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG436]]
+> ◄  [[thag435-pali-pts]] 📜  [[thag437-pali-pts]] ►

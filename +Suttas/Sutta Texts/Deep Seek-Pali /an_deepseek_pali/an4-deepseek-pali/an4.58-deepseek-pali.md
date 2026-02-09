@@ -46,5 +46,6 @@ That person, the giver of long life, beauty, happiness, and strength, becomes lo
 | [[AN4.59]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.58]]
 > ◄  [[an4.57-deepseek-pali]] 📜  [[an4.59-deepseek-pali]] ►

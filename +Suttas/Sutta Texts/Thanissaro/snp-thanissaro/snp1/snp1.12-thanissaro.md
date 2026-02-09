@@ -235,5 +235,10 @@ vv. 207–221
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp1.12-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.123]], [[DHP\|DHP268]], [[DHP\|DHP269]], [[ITI66]], [[ITI67]], [[SN3.11]], [[SNP1.1]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.12]]
 > ◄  [[snp1.11-thanissaro]] 📜  [[]] ►

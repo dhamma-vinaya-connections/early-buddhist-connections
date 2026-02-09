@@ -23,3 +23,5 @@ bahussuto ca medhāvī sīlesu susamāhito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag987-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG987]]
+> ◄  [[thag986-pali-pts]] 📜  [[thag988-pali-pts]] ►

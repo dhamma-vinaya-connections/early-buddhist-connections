@@ -59,11 +59,12 @@ Devakāyaṁ paripūressantī"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN20]] | [[DA19]], [[SA-2.105]], [[SA1192]] |  |
+> |  | [[DA19]], [[SA-2.105]], [[SA1192]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN20]], [[DA19]], [[SA-2.105]], [[SA1192]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.37]]
 > ◄  [[sn1.36-pali-sc]] 📜  [[sn1.38-pali-sc]] ►

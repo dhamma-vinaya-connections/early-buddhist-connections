@@ -42,5 +42,6 @@ language: "English"
 | [[EA31.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.162]]
 > ◄  [[an4.161-bodhi]] 📜  [[an4.163-bodhi]] ►

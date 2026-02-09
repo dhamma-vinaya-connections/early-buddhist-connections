@@ -95,4 +95,5 @@ has no sorrow, let alone fear
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp16
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp16.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP15]]  🌐 [[DHP17]] ►

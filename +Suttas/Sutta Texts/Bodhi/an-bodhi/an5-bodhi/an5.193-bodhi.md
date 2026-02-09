@@ -56,11 +56,12 @@ _\[Why the hymns are remembered\]_
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN46.55]] |  | A iii 230 |
+> |  |  | A iii 230 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN46.55]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.193]]
 > ◄  [[an5.192-bodhi]] 📜  [[an5.194-bodhi]] ►

@@ -23,3 +23,5 @@ cakkhundriyañ ce rūpesu gacchantaṃ anivārayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag729-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG729]]
+> ◄  [[thag728-pali-pts]] 📜  [[thag730-pali-pts]] ►

@@ -46,10 +46,11 @@ eightfold uposatha will, on the breaking up of the body with the ending of life,
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.70]], [[AN8.42]], [[AN8.43]] | [[EA24.6]], [[SA861-863]] |  |
+> |  | [[EA24.6]], [[SA861-863]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.46]], [[AN3.70]], [[AN8.43]], [[UD2.10]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA202]]
 > ◄  [[ma201-bdk]] 📜  [[ma203-bdk]] ►

@@ -309,15 +309,16 @@ reverentially carried out what the Buddha taught.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN12]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[UD7.4]], [[THAG4.8]], [[THAG6.5]] |
+| [[UD7.4]], [[THAG4]].8, [[THAG6]].5 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.192]], [[AN4.72]], [[AN9.36]], [[MN140]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA29]]
 > ◄  [[da28-bdk]] 📜  [[da30-bdk]] ►

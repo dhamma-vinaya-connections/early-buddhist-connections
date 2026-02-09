@@ -90,5 +90,6 @@ language: "Pali"
 | [[SA305]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-pali-sc]] 📜  [[mn150-pali-sc]] ►

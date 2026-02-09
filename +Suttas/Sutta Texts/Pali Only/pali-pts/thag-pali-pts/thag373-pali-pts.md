@@ -23,3 +23,5 @@ atthañ ca yo jānāti bhāsitassa atthañ ca ñatvāna tathā karoti,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag373-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG373]]
+> ◄  [[thag372-pali-pts]] 📜  [[thag374-pali-pts]] ►

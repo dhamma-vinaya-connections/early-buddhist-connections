@@ -59,5 +59,6 @@ viharāmi anāsavā"ti.
 | [[SA-2.216]], [[SA1200]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.3]]
 > ◄  [[sn5.2-pali-sc]] 📜  [[sn5.4-pali-sc]] ►

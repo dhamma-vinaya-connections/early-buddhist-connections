@@ -90,4 +90,5 @@ As the sun (dwells) lighting up the firmament.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud1.4
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud1.4.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.3]]  🌐 [[UD1.5]] ►

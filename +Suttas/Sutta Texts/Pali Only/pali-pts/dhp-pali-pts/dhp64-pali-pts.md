@@ -24,3 +24,5 @@ muhuttam api ce viññū paṇḍitaṃ payirupāsati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp64-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP64]]
+> ◄  [[dhp63-pali-pts]] 📜  [[dhp65-pali-pts]] ►

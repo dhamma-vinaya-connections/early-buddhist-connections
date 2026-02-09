@@ -40,11 +40,12 @@ The monks said to the Buddha, “No, Bhagavān.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN56.11]], [[SN22.59]] | [[SA33]], [[SA34]] |  |
+> |  | [[SA33]], [[SA34]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA33]], [[SA34]], [[SN56.11]], [[PLI-TV-KD1]], [[SN22.59]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA33]]
 > ◄  [[sa32-patton]] 📜  [[sa34-patton]] ►

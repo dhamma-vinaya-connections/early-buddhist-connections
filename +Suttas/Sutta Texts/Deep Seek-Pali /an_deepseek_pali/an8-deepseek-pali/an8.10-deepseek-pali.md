@@ -90,5 +90,6 @@ Loving-kindness and wisdom, both are dear; / Two worlds, two kinds of ruin; / De
 | [[MA122]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
 > ◄  [[an8.9-deepseek-pali]] 📜  [[an8.11-deepseek-pali]] ►

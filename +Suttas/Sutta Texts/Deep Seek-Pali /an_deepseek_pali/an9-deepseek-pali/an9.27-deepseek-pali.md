@@ -60,11 +60,12 @@ Ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi akamm�
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.92]], [[SN12.41]], [[SN55.28]] | [[SA846]] | A iv 405 |
+> |  | [[SA846]] | A iv 405 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.92]], [[SN55.28]], [[SA846]], [[SN12.41]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.27]]
 > ◄  [[an9.26-deepseek-pali]] 📜  [[an9.28-deepseek-pali]] ►

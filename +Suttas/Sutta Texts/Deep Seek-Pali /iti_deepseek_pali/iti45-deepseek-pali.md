@@ -31,5 +31,10 @@ This meaning, too, was spoken by the Blessed One, thus I heard. Ninth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti45-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN6]], [[AN4:37]], [[SN2.10]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI45]]
 > ◄  [[iti44-deepseek-pali]] 📜  [[iti46-deepseek-pali]] ►

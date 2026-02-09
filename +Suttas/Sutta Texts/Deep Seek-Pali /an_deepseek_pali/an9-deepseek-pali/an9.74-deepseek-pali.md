@@ -37,3 +37,5 @@ The Chapter on the Right Strivings, the Third.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.74-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.74]]
+> ◄  [[an9.73-deepseek-pali]] 📜  [[an9.75-deepseek-pali]] ►

@@ -135,3 +135,5 @@ Terasanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG13]]
+> ◄  [[thag12-pali-sri]] 📜  [[thag14-pali-sri]] ►

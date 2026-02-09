@@ -23,3 +23,5 @@ Sataliṅgassa atthassa satalakkhaṇadhārino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag105-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG105]]
+> ◄  [[thag104-pali-pts]] 📜  [[thag106-pali-pts]] ►

@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN1.16-20]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA9.10]]"
 parallels_partilal: "[[EA9.10]], [[AN1.16-20]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[EA9.10]], [[AN1.16-20]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN1.16-20]] | [[EA9.10]] |  |
+> |  | [[EA9.10]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA9.10]], [[AN1.16-20]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[EA9.10]], [[AN1.16-20]]"
 > - Sutta Central: https://suttacentral.net/ea9.10/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[EA]] | ◄  [[EA9.9]]  🌐 [[EA10.1]] ►

@@ -89,7 +89,8 @@ p_2V_3392Navamasikkhāpadaṁ niṭṭhitaṁ.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc79-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC79]] |
->|       |          | [[ñanatusita-analysis#^-PC79]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC79]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC79]]

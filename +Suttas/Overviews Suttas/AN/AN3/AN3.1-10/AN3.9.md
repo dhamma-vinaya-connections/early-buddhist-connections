@@ -86,4 +86,5 @@ parallels_partilal: "[[EA22.6]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.9
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.8]]  🌐 [[AN3.10]] ►

@@ -336,15 +336,16 @@ vv. 548–573
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN92]] | [[EA49.6]] |  |
+> |  | [[EA49.6]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[MN92]], [[PLI-TV-KD6]], [[EA49.6]], [[ITI100]], [[THAG16.6]], [[SNP3.6]] |
+| [[MN92]], [[PLI-TV-KD6]], [[EA49.6]], [[ITI100]], [[THAG16]].6, [[SNP3.6]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN4.20]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.7]]
 > ◄  [[snp3.6-thanissaro]] 📜  [[snp3.8-thanissaro]] ►

@@ -48,5 +48,6 @@ Then those Licchavis presented the brahmin Piṅgiyānī with five hundred upper
 | [[AN5.143]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.195]]
 > ◄  [[an5.194-bodhi]] 📜  [[an5.196-bodhi]] ►

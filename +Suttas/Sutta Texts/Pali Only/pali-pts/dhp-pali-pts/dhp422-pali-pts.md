@@ -25,3 +25,5 @@ atho jātikkhayaṃ patto abhiññāvosito muni /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp422-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP422]]
+> ◄  [[dhp421-pali-pts]] 📜  [[dhp423-pali-pts]] ►

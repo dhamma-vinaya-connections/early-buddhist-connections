@@ -104,7 +104,8 @@ The sixth training rule on fire is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc56-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC56]] |
->|       |          | [[ñanatusita-analysis#^PC56]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC56]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC56]]

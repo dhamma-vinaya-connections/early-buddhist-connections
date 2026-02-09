@@ -68,5 +68,6 @@ Sattamaṁ.
 | [[JA537]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.47]]
 > ◄  [[an4.46-sujato-pali]] 📜  [[an4.48-sujato-pali]] ►

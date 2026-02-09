@@ -86,4 +86,5 @@ parallels_partilal: "[[EA21.4]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.75
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.75.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.74]]  🌐 [[AN3.76]] ►

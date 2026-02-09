@@ -27,7 +27,7 @@ Pharusā bhikkhave vācā āsevitā bhāvitā bahulīkatā nirayasaṃvattanikā
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.18]] | [[EA43.2]] | A iv 248 |
+> |  | [[EA43.2]] | A iv 248 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA43.2]], [[AN9.18]] |
@@ -36,6 +36,7 @@ Pharusā bhikkhave vācā āsevitā bhāvitā bahulīkatā nirayasaṃvattanikā
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.70]], [[AN10.46]], [[UD2.10]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.41]]
 > ◄  [[an8.40-pali-pts]] 📜  [[an8.42-pali-pts]] ►

@@ -319,5 +319,6 @@ Putto saññojanaṃ ceva diṭṭhikhandhena te dasāti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.6.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.9]]
 > ◄  [[an2.8-pali-sri]] 📜  [[an2.10-pali-sri]] ►

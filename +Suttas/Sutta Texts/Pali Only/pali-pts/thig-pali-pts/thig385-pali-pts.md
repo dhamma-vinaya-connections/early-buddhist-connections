@@ -23,3 +23,5 @@ iṅghāḷakhuyā va ujjhito visapatto-r-iva aggato kato |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig385-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG385]]
+> ◄  [[thig384-pali-pts]] 📜  [[thig386-pali-pts]] ►

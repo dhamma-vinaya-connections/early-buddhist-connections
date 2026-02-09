@@ -23,3 +23,5 @@ so patvā pāramaṃ santiṃ sacchikatvā akuppataṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag433-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG433]]
+> ◄  [[thag432-pali-pts]] 📜  [[thag434-pali-pts]] ►

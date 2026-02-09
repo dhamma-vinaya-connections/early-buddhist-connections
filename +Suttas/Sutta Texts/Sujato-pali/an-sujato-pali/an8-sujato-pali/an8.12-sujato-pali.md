@@ -224,5 +224,6 @@ Dutiyaṁ.
 | [[MA18]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.12]]
 > ◄  [[an8.11-sujato-pali]] 📜  [[an8.13-sujato-pali]] ►

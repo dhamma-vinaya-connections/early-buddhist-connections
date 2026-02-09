@@ -48,11 +48,12 @@ He replied, “Venerable Śāriputra, that awareness is not made by oneself, not
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.20]], [[SN12.67]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.20]], [[SN12.67]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA288]]
 > ◄  [[sa287-patton]] 📜  [[sa289-patton]] ►

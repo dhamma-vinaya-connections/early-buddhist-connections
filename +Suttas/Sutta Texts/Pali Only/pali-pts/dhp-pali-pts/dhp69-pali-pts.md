@@ -24,3 +24,5 @@ māse māse kusaggena bālo bhuñjetha bhojanaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp69-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP69]]
+> ◄  [[dhp68-pali-pts]] 📜  [[dhp70-pali-pts]] ►

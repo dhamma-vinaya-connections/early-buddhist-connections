@@ -43,11 +43,12 @@ The Buddha told the monk, “The expression ‘factors of awakening’ refers to
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN46.5]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN46.5]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA12]]  / 🌐 [[SA733]]
 > ◄  [[sa724-patton]] 📜  [[sa736-patton]] ►

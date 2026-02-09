@@ -90,4 +90,5 @@ Not-self … ugliness … drawbacks … giving up …fading away … cessati
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.27
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.27.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.26]]  🌐 [[AN7.28]] ►

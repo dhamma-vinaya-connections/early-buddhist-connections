@@ -27,3 +27,5 @@ mattāsukhapariccāgā passe ce vipulaṃ sukhaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp289-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP289]]
+> ◄  [[dhp288-pali-pts]] 📜  [[dhp290-pali-pts]] ►

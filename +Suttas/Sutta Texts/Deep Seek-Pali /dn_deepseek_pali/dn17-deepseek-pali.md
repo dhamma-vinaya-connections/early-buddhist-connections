@@ -315,12 +315,13 @@ Then, Ānanda, King Mahāsudassana approached the Great Array Hall. Having appro
 > |  | [[MA68]] | D ii 169 |
 > > [!check]- Partial parallels 
 > > 
-| [[DA2]], [[MA68]], [[DN16]], [[SN22.96]], [[JA95]], [[SN15.20]], [[SN6.15]], [[THAG20.1]], [[SN1.11]] |
+| [[DA2]], [[MA68]], [[DN16]], [[SN22.96]], [[JA95]], [[SN15.20]], [[SN6.15]], [[THAG20]].1, [[SN1.11]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]], [[DA2]], [[MA70]], [[MA67]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN17]]
 > ◄  [[dn16-deepseek-pali]] 📜  [[dn18-deepseek-pali]] ►

@@ -64,7 +64,7 @@ Then, having understood this matter, on that occasion the Blessed One uttered th
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN3.11]] | [[SA-2.71]], [[SA1148]] |  |
+> |  | [[SA-2.71]], [[SA1148]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN3.11]], [[SA-2.71]], [[SA1148]] |
@@ -73,6 +73,7 @@ Then, having understood this matter, on that occasion the Blessed One uttered th
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN95]], [[MN110]], [[AN4.192]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.2]]
 > ◄  [[ud6.1-deepseek-pali]] 📜  [[ud6.3-deepseek-pali]] ►

@@ -96,4 +96,5 @@ as a serpent sheds its old worn-out skin.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.1
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SN56.61-131]]  🌐 [[SNP1.2]] ►

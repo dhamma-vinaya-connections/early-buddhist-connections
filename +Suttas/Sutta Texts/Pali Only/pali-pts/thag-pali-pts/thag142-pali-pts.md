@@ -25,3 +25,5 @@ manusse uparundhanti pharusupakkamā janā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag142-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG142]]
+> ◄  [[thag141-pali-pts]] 📜  [[thag143-pali-pts]] ►

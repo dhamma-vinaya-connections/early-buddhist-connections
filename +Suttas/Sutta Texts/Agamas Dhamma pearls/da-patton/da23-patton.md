@@ -376,11 +376,12 @@ The Buddha said, “Suppose a Tathāgata, Arhat, and Completely Awakened One app
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN5]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.85]], [[ITI62]], [[MN2]], [[SN12.23]], [[SN22.101]], [[SN56.25]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA23]]
 > ◄  [[da22-patton]] 📜  [[da24-patton]] ►

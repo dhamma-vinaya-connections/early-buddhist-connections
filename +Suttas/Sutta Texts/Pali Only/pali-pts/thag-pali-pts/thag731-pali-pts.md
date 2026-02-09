@@ -25,3 +25,5 @@ anissaraṇadassāvī gandhe ce paṭisevati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag731-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG731]]
+> ◄  [[thag730-pali-pts]] 📜  [[thag732-pali-pts]] ►

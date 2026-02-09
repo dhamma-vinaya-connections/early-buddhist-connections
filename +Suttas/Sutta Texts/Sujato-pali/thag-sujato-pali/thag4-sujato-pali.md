@@ -549,3 +549,5 @@ kataṁ buddhassa sāsanan"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG4]]
+> ◄  [[thag3-sujato-pali]] 📜  [[thag5-sujato-pali]] ►

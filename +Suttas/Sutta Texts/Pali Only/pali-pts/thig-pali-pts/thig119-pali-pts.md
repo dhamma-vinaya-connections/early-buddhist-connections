@@ -24,3 +24,5 @@ rattiyā majjhime yāme dibbacakkhuṃ visodhayuṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig119-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG119]]
+> ◄  [[thig118-pali-pts]] 📜  [[thig120-pali-pts]] ►

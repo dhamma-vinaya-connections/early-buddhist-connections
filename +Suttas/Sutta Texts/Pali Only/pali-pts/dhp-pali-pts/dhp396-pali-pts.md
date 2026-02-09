@@ -24,3 +24,5 @@ sabbasaṃyojanaṃ chetvā yo ve na paritassati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp396-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP396]]
+> ◄  [[dhp395-pali-pts]] 📜  [[dhp397-pali-pts]] ►

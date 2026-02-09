@@ -24,3 +24,5 @@ api dibbesu kāmesu ratiṃ so nādhigacchati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp186-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP186]]
+> ◄  [[dhp185-pali-pts]] 📜  [[dhp187-pali-pts]] ►

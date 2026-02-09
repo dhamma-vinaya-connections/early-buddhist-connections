@@ -23,3 +23,5 @@ Upasampadā ca me laddhā, vimutto c'; amhi anāsavo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag364-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG364]]
+> ◄  [[thag363-pali-pts]] 📜  [[thag365-pali-pts]] ►

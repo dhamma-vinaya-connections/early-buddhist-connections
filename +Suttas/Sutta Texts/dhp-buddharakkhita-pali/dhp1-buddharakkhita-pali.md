@@ -176,3 +176,5 @@ Yamakavaggo paṭhamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp1-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP1-BUDDHARAKKHITA]]
+> ◄  [[]] 📜  [[dhp2-buddharakkhita-pali]] ►

@@ -90,4 +90,5 @@ I attained ultimate purity
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.1
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.25]]  🌐 [[SN4.2]] ►

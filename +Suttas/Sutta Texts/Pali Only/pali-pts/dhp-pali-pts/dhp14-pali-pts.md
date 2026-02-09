@@ -30,8 +30,9 @@ idha socati pecca socati pāpakārī ubhayattha socati, /
 > |  |  | Dh 51 |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG2.7]] |
+| [[THAG2]].7 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP14]]
 > ◄  [[dhp13-pali-pts]] 📜  [[dhp15-pali-pts]] ►

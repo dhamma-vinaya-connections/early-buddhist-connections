@@ -128,12 +128,13 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[JA545]], [[JA503]], [[THAG12.1]] |
+| [[JA545]], [[JA503]], [[THAG12]].1 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.54]], [[AN9.1]], [[UD4:1]], [[ITI78]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI76]]
 > ◄  [[iti75-thanissaro]] 📜  [[iti77-thanissaro]] ►

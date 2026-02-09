@@ -24,3 +24,5 @@ evaṃ saṃkārabhūtesu andhabhūte puthujjane /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp58-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP58]]
+> ◄  [[dhp57-pali-pts]] 📜  [[dhp59-pali-pts]] ►

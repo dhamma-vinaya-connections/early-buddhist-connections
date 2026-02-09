@@ -60,5 +60,6 @@ Then the brahmin Doṇa approached the Blessed One and exchanged greetings with 
 | [[MA158]], [[DN13]], [[DN3]], [[MN95]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.192]]
 > ◄  [[an5.191-bodhi]] 📜  [[an5.193-bodhi]] ►

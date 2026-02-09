@@ -92,11 +92,12 @@ Soṇa, Phagguna, Bhijāti, The Taints and Dāruhatthi as well; In the middle, p
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.21]], [[MN12]] | [[EA46.4]], [[SA684]], [[SA686-687]], [[SA701]] | A iii 417 |
+> |  | [[EA46.4]], [[SA684]], [[SA686-687]], [[SA701]] | A iii 417 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.21]], [[EA46.4]], [[SA684]], [[SA701]], [[MN12]], [[SA686-687]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.64]]
 > ◄  [[an6.63-deepseek-pali]] 📜  [[an6.65-deepseek-pali]] ►

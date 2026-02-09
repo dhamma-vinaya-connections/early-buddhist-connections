@@ -139,15 +139,16 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.241]] | [[EA27.2]]; [[MA103]] | M i 63 |
+> |  | [[EA27.2]]; [[MA103]] | M i 63 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA27.2]]; [[MA103]]; [[AN4.241]] |
+| [[EA27.2]], [[MA103]], [[AN4.241]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.239]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN11]]
 > ◄  [[mn10-thanissaro]] 📜  [[mn12-thanissaro]] ►

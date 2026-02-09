@@ -23,3 +23,5 @@ Ayonisomanasīkārā maṇḍanaṃ anuyuñjisaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag156-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG156]]
+> ◄  [[thag155-pali-pts]] 📜  [[thag157-pali-pts]] ►

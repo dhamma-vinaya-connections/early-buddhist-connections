@@ -23,3 +23,5 @@ puññaṃ ca pasaviṃ bahuṃ sappañño vat'; āyam upāsako |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig110-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG110]]
+> ◄  [[thig109-pali-pts]] 📜  [[thig111-pali-pts]] ►

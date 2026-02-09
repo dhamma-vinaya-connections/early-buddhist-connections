@@ -23,3 +23,5 @@ tato disvāna maṃ satthā devasaṃghapurakkhataṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag629-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG629]]
+> ◄  [[thag628-pali-pts]] 📜  [[thag630-pali-pts]] ►

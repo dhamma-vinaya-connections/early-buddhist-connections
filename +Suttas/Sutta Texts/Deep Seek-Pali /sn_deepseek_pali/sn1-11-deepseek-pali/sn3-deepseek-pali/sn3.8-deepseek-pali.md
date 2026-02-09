@@ -46,5 +46,6 @@ Then, the Blessed One, having understood this matter, on that occasion recited t
 | [[UD5.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
 > ◄  [[sn3.7-deepseek-pali]] 📜  [[sn3.9-deepseek-pali]] ►

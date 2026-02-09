@@ -28,11 +28,12 @@ Imehi kho bhikkhave pañcahi dhammehi samannāgato bhikkhu ussaṅkitaparisaṅk
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.50]] |  | A iii 128 |
+> |  |  | A iii 128 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.50]], [[PLI-TV-BU-VB-PJ4]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.103]]
 > ◄  [[an5.102-pali-pts]] 📜  [[an5.104-pali-pts]] ►

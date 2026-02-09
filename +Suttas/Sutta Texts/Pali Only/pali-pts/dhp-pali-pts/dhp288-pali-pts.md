@@ -24,3 +24,5 @@ etam atthavasaṃ ñatvā paṇḍito sīlasaṃvuto /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp288-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP288]]
+> ◄  [[dhp287-pali-pts]] 📜  [[dhp289-pali-pts]] ►

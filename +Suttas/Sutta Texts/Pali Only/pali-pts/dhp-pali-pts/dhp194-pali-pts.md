@@ -24,3 +24,5 @@ pūjārahe pūjayato Buddhe yadi va sāvake /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp194-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP194]]
+> ◄  [[dhp193-pali-pts]] 📜  [[dhp195-pali-pts]] ►

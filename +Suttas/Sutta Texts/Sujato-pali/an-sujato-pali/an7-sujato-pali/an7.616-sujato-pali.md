@@ -33,3 +33,5 @@ Aniccasaññā, anattasaññā, asubhasaññā, ādīnavasaññā, pahānasaññ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.616-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.616]]
+> ◄  [[an7.615-sujato-pali]] 📜  [[an7.617-sujato-pali]] ►

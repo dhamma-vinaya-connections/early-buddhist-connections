@@ -23,3 +23,5 @@ pañcapaññāsa vassāni yato nesajjiko ahaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag903-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG903]]
+> ◄  [[thag902-pali-pts]] 📜  [[thag904-pali-pts]] ►

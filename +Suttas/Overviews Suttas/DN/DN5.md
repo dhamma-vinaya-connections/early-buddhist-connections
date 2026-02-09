@@ -102,4 +102,5 @@ Gradual training abbreviated
 > - Dhamma Gift: https://dhamma.gift/read/?q=dn5
 > - The Buddhas Words: https://thebuddhaswords.net/dn/dn5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DN4]]  🌐 [[DN6]] ►

@@ -33,3 +33,5 @@ This too was spoken by the Blessed One; so I have heard. Fourth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI13]]
+> ◄  [[iti12-deepseek-pali]] 📜  [[iti14-deepseek-pali]] ►

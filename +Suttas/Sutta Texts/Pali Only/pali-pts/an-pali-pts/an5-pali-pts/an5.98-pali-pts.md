@@ -33,5 +33,6 @@ Pañcahi bhikkhave dhammehi samannāgato bhikkhu ānāpānasatiṃ bahulīkaront
 | [[SA801]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.98]]
 > ◄  [[an5.97-pali-pts]] 📜  [[an5.99-pali-pts]] ►

@@ -23,3 +23,5 @@ taṃ devadevaṃ vandāmi puttaṃ te dvipaduttama
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1278-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1278]]
+> ◄  [[thag1277-pali-pts]] 📜  [[thag1279-pali-pts]] ►

@@ -84,5 +84,6 @@ Ever mindful, revering, one should constantly train.”
 | [[SA1219]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.8]]
 > ◄  [[sn8.7-deepseek-pali]] 📜  [[sn8.9-deepseek-pali]] ►

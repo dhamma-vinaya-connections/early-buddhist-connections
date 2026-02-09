@@ -24,3 +24,5 @@ kiñ cāpi kho mhi dukkhitā dubbalā gatayobbanā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig28-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG28]]
+> ◄  [[thig27-pali-pts]] 📜  [[thig29-pali-pts]] ►

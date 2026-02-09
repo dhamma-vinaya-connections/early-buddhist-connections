@@ -363,5 +363,6 @@ Pañcālacaṇḍo tāyano candimasuriyena te dasāti.
 | [[SA-2.316]], [[SA1317]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
 > ◄  [[sn1.8-pali-sri]] 📜  [[sn2.2-pali-sri]] ►

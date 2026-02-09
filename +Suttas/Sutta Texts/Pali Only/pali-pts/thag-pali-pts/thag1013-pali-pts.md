@@ -23,3 +23,5 @@ cakkānuvattako thero mahāñāṇī samāhito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1013-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1013]]
+> ◄  [[thag1012-pali-pts]] 📜  [[thag1014-pali-pts]] ►

@@ -35,5 +35,6 @@ Ayaṃ vuccati bhikkhave kalyāṇena kalyāṇataro.
 | [[SA1053]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.208]]
 > ◄  [[an4.207-pali-pts]] 📜  [[an4.209-pali-pts]] ►

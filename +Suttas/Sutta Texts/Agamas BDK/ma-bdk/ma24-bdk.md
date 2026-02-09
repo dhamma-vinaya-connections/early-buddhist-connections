@@ -40,6 +40,6 @@ Thereupon, that monk [who had accused Sāriputta] rose from his seat, paid homag
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.11]] | [[EA37.6]] | M iii 78 |
+> |  | [[EA37.6]] | M iii 78 |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA24]]
 > ◄  [[ma23-bdk]] 📜  [[ma25-bdk]] ►

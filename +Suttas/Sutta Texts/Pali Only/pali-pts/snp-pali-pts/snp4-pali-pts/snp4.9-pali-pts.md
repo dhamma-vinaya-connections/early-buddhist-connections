@@ -103,5 +103,6 @@ MĀGANDIYASUTTAṂ NIṬṬHITAṂ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN9]], [[MN63]], [[MN72]], [[AN4.194]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.9]]
 > ◄  [[snp4.8-pali-pts]] 📜  [[snp4.10-pali-pts]] ►

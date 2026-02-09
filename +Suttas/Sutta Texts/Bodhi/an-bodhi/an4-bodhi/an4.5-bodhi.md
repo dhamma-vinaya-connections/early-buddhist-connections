@@ -76,5 +76,6 @@ reached the world’s end, is called
 | [[PE8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
 > ◄  [[an4.4-bodhi]] 📜  [[an4.6-bodhi]] ►

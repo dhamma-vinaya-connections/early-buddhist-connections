@@ -30,7 +30,7 @@ Thus spoke the Buddha. Having heard what the Buddha said, the monks were delight
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.6]], [[MN17]] | [[EA45.3]] |  |
+> |  | [[EA45.3]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN22]], [[EA12.1]], [[MA98]], [[MN10]], [[MA31]], [[MA81]] |
@@ -39,6 +39,7 @@ Thus spoke the Buddha. Having heard what the Buddha said, the monks were delight
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.6]], [[MA88]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA108]]
 > ◄  [[ma107-bdk]] 📜  [[ma109-bdk]] ►

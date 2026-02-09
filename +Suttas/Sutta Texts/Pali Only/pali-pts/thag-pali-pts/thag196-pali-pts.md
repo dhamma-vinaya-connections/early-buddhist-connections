@@ -23,3 +23,5 @@ Ambapallavasaṃkāsaṃ aṃse katvāna cīvaraṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag196-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG196]]
+> ◄  [[thag195-pali-pts]] 📜  [[thag197-pali-pts]] ►

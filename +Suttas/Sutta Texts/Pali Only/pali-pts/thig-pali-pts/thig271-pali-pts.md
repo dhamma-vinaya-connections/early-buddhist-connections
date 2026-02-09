@@ -23,3 +23,5 @@ vipulaṃ annañ ca pānañ ca samaṇānaṃ pavecchasi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig271-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG271]]
+> ◄  [[thig270-pali-pts]] 📜  [[thig272-pali-pts]] ►

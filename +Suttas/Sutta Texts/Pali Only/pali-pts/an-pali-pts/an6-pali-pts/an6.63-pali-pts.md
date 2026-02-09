@@ -33,5 +33,6 @@ Nibbedhikapariyāyaṃ vo bhikkhave dhammapariyāyaṃ desessāmi, taṃ suṇā
 | [[MA111]], [[MN13]], [[MN14]], [[SN1.34]], [[MN139]], [[SN36.20]], [[SN36.19]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.63]]
 > ◄  [[an6.62-pali-pts]] 📜  [[an6.64-pali-pts]] ►

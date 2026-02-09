@@ -23,3 +23,5 @@ sīlaṃ sambalam ev'; aggaṃ, sīlaṃ pātheyyam uttamaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag615-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG615]]
+> ◄  [[thag614-pali-pts]] 📜  [[thag616-pali-pts]] ►

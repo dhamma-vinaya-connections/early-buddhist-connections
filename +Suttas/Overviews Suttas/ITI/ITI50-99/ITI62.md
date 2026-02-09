@@ -95,4 +95,5 @@ the gnosis of  one released
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti62
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti62.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI61]]  🌐 [[ITI63]] ►

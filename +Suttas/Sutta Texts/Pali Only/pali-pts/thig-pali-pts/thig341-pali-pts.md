@@ -23,3 +23,5 @@ rajataṃ jātarūpaṃ vā na bodhāya na santaye |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig341-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG341]]
+> ◄  [[thig340-pali-pts]] 📜  [[thig342-pali-pts]] ►

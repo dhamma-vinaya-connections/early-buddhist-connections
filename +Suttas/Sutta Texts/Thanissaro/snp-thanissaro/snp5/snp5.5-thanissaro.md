@@ -129,3 +129,5 @@ vv. 1061–1068
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.5]]
+> ◄  [[snp5.4-thanissaro]] 📜  [[snp5.6-thanissaro]] ►

@@ -36,11 +36,12 @@ Dasamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.80]] |  | A iv 408 |
+> |  |  | A iv 408 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.80]], [[AN10.79]], [[AN9.29]], [[DN33]], [[DN34]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.30]]
 > ◄  [[an9.29-sujato-pali]] 📜  [[an9.31-sujato-pali]] ►

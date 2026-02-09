@@ -23,3 +23,5 @@ anantaraṃ hi jātassa jīvitā maraṇaṃ dhuvaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag552-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG552]]
+> ◄  [[thag551-pali-pts]] 📜  [[thag553-pali-pts]] ►

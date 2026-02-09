@@ -23,3 +23,5 @@ yaṃ mayā pakataṃ pāpaṃ pubbe aññāsu jātisu
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag345-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG345]]
+> ◄  [[thag344-pali-pts]] 📜  [[thag346-pali-pts]] ►

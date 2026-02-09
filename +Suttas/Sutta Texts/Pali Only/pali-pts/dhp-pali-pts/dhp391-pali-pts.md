@@ -24,3 +24,5 @@ yamhā dhammaṃ vijāneyya sammāsambuddhadesitaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp391-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP391]]
+> ◄  [[dhp390-pali-pts]] 📜  [[dhp392-pali-pts]] ►

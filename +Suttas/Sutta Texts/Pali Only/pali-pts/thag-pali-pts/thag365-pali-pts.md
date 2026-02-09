@@ -23,3 +23,5 @@ bahud eva rattiṃ bhagavā abbhokāse 'tināmayi,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag365-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG365]]
+> ◄  [[thag364-pali-pts]] 📜  [[thag366-pali-pts]] ►

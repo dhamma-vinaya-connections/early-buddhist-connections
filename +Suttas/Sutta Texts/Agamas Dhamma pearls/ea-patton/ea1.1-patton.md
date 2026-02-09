@@ -460,3 +460,5 @@ Last Revised: 7 January 2023
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ea1.1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[EA]]  / 🌐 [[EA1.1]]
+> ◄  [[]] 📜  [[ea2.1-patton]] ►

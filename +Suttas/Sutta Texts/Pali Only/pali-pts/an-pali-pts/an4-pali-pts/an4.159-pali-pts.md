@@ -36,5 +36,6 @@ Yo hi koci āvuso bhikkhu vā bhikkhunī vā ime cattāro dhamme attani samanupa
 | [[SA564]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.159]]
 > ◄  [[an4.158-pali-pts]] 📜  [[an4.160-pali-pts]] ►

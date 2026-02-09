@@ -130,15 +130,16 @@ Udayamāṇavapucchā terasamā.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP386]], [[DHP403]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP386]], [[MN98]], [[SNP3.9]], [[DHP403]], [[AN3.33]] |
+| [[DHP\|DHP386]], [[MN98]], [[SNP3.9]], [[DHP\|DHP403]], [[AN3.33]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN52]], [[MN102]], [[MN106]], [[MN111]], [[MN140]], [[ANDAN9:36.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.14]]
 > ◄  [[snp5.13-sujato-pali]] 📜  [[snp5.15-sujato-pali]] ►

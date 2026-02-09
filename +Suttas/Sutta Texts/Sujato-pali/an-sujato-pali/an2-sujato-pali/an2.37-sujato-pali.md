@@ -110,5 +110,6 @@ Then the brahmin Ārāmadaṇḍa went up to Mahākaccāna, and exchanged greeti
 | [[SA546]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.37]]
 > ◄  [[an2.36-sujato-pali]] 📜  [[an2.38-sujato-pali]] ►

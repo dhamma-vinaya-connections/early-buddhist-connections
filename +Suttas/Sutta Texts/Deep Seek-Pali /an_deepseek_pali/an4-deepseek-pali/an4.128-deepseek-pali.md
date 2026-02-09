@@ -46,5 +46,6 @@ Monks, beings are gone into ignorance, egg-born, and enveloped. When the Tathāg
 | [[EA25.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.128]]
 > ◄  [[an4.127-deepseek-pali]] 📜  [[an4.129-deepseek-pali]] ►

@@ -217,12 +217,13 @@ SABHIYASUTTAṂ NIṬṬHITAṂ.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DN2]], [[DN21]], [[MN92]], [[SNP3.7]], [[THAG16.6]] |
+| [[DN2]], [[DN21]], [[MN92]], [[SNP3.7]], [[THAG16]].6 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN2]], [[UD1.9]], [[THAG6.9]]
+> - [[DN2]], [[UD1.9]], [[THAG6]].9
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.6]]
 > ◄  [[snp3.5-pali-pts]] 📜  [[snp3.7-pali-pts]] ►

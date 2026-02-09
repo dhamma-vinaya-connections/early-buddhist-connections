@@ -24,3 +24,5 @@ kiṃ me katā Rājagahe manussā madhuṃ pītā va acchare |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig53-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG53]]
+> ◄  [[thig52-pali-pts]] 📜  [[thig54-pali-pts]] ►

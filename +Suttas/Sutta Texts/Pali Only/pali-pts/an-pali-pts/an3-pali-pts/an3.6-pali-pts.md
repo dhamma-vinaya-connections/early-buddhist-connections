@@ -38,5 +38,6 @@ Kusalena kāyakammena, kusalena vacīkammena, kusalena manokammena. Imehi kho bh
 | [[EA22.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.6]]
 > ◄  [[an3.5-pali-pts]] 📜  [[an3.7-pali-pts]] ►

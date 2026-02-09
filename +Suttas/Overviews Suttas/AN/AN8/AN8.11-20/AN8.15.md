@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP241]], [[DHP242]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP241]], [[DHP242]]"
+parallels_partilal: "[[DHP\|DHP241]], [[DHP\|DHP242]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.14]]  🌐 [[AN8.16]] ►
 
@@ -63,10 +63,10 @@ Is ignorance, the worst of stains
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP241]], [[DHP242]] |  | A iv 195 |
+> |  |  | A iv 195 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP241]], [[DHP242]] |
+| [[DHP\|DHP241]], [[DHP\|DHP242]] |
 | ------------------------ |
 
 
@@ -86,5 +86,6 @@ Is ignorance, the worst of stains
 > - Sutta Central: https://suttacentral.net/an8.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.15
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.15.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.14]]  🌐 [[AN8.16]] ►

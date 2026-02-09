@@ -60,7 +60,8 @@ The first training rule on intentionally depriving of life is finished.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc61-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC61]] |
->|       |          | [[ñanatusita-analysis#^PC61]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC61]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC61]]

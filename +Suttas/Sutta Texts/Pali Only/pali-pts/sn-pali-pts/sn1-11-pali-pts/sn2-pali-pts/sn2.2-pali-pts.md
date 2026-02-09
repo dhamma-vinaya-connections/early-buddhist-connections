@@ -45,5 +45,6 @@ mando maccumukhaṃ patto || akkhachinno va jhāyatīti || ||
 | [[SA-2.317]], [[SA1318]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.2]]
 > ◄  [[sn2.1-pali-pts]] 📜  [[sn2.3-pali-pts]] ►

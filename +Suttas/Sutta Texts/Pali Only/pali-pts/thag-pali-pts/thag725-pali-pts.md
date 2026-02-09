@@ -23,3 +23,5 @@ Samaṇassa ahū cintā Pārāpariyassa bhikkhuno
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag725-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG725]]
+> ◄  [[thag724-pali-pts]] 📜  [[thag726-pali-pts]] ►

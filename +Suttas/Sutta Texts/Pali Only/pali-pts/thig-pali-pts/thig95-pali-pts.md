@@ -23,3 +23,5 @@ yathābhūtam apekkhantī khandhānaṃ udayabbayaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig95-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG95]]
+> ◄  [[thig94-pali-pts]] 📜  [[thig96-pali-pts]] ►

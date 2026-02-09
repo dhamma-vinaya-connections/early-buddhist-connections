@@ -34,5 +34,6 @@ Saddhammagaru hoti na kodhagaru, saddhammagaru hoti na makkhagaru, saddhammagaru
 | [[SN3.21]], [[PE8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.85]]
 > ◄  [[an4.84-pali-pts]] 📜  [[an4.86-pali-pts]] ►

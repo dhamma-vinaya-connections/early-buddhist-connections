@@ -24,3 +24,5 @@ Tisse yuñjassu dhammehi khaṇo taṃ mā upaccagā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG4]]
+> ◄  [[thig3-pali-pts]] 📜  [[thig5-pali-pts]] ►

@@ -38,3 +38,5 @@ Discourses Extra to the Chapter
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.257-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.257]]
+> ◄  [[an5.256-bodhi]] 📜  [[an5.272-bodhi]] ►

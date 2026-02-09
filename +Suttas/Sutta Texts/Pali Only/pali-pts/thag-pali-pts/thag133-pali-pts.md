@@ -23,3 +23,5 @@ yathā agāraṃ succhannaṃ vuṭṭhi na samativijjhati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag133-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG133]]
+> ◄  [[thag132-pali-pts]] 📜  [[thag134-pali-pts]] ►

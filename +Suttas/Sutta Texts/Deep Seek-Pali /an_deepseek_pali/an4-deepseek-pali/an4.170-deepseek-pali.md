@@ -74,5 +74,6 @@ Brief, expanded, repulsive, two on forbearance, both ways; Moggallāna, Sāriput
 | [[SA560]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.170]]
 > ◄  [[an4.169-deepseek-pali]] 📜  [[an4.171-deepseek-pali]] ►

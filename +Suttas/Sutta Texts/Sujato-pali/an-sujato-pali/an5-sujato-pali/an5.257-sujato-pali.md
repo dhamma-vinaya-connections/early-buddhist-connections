@@ -37,3 +37,5 @@ Terasamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.257-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.257]]
+> ◄  [[an5.256-sujato-pali]] 📜  [[an5.264-sujato-pali]] ►

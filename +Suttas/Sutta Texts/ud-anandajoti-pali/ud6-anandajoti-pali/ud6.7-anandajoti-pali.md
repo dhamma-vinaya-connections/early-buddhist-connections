@@ -49,5 +49,10 @@ Sattamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.7-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[ITI49]], [[AN4:10]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.7]]
 > ◄  [[ud6.6-anandajoti-pali]] 📜  [[ud6.8-anandajoti-pali]] ►

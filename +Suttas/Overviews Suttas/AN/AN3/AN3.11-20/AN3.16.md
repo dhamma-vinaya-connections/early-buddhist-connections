@@ -86,4 +86,5 @@ parallels_partilal: "[[EA21.6]], [[SN35.120]], [[MN39]], [[SN35.127]], [[SN35.24
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.16
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.16.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.15]]  🌐 [[AN3.17]] ►

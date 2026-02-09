@@ -40,5 +40,6 @@ the wise do not praise such deeds.
 | [[DN31]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.64]]
 > ◄  [[an4.63-bodhi]] 📜  [[an4.65-bodhi]] ►

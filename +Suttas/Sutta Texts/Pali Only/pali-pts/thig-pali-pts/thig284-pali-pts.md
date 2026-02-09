@@ -23,3 +23,5 @@ nānākulā pabbajitā nānājanapadehi ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig284-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG284]]
+> ◄  [[thig283-pali-pts]] 📜  [[thig285-pali-pts]] ►

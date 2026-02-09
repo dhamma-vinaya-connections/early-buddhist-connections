@@ -26,3 +26,5 @@ maggān'; aṭṭhaṅgiko seṭṭho saccānaṃ caturo padā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp272-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP272]]
+> ◄  [[dhp271-pali-pts]] 📜  [[dhp273-pali-pts]] ►

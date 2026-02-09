@@ -95,5 +95,6 @@ That is what the Auspicious One said. Pleased, the bhikkhus delighted in what th
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN12]], [[AN9.39]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN25]]
 > ◄  [[mn24-anigha]] 📜  [[mn26-anigha]] ►

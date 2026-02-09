@@ -23,3 +23,5 @@ punappunaṃ c'; eva vapanti bījaṃ, punappunaṃ vassati devarājā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag530-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG530]]
+> ◄  [[thag529-pali-pts]] 📜  [[thag531-pali-pts]] ►

@@ -91,4 +91,5 @@ would keenly practice the spiritual life
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud5.1
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud5.1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.10]]  🌐 [[UD5.2]] ►

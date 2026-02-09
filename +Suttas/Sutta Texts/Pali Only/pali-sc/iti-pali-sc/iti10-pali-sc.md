@@ -33,3 +33,5 @@ Rāgadosā atha moho, kodhamakkhā mānaṃ sabbaṃ;Mānato rāgadosā puna dve
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI10]]
+> ◄  [[iti9-pali-sc]] 📜  [[iti11-pali-sc]] ►

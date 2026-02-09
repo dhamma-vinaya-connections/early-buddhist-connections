@@ -39,5 +39,6 @@ I consider one who measures the immeasurable to be a common person, shrouded.”
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.7]]
 > ◄  [[sn6.6-deepseek-pali]] 📜  [[sn6.8-deepseek-pali]] ►

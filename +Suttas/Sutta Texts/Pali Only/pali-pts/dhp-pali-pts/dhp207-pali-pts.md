@@ -24,3 +24,5 @@ dhīrañ ca paññañ ca bahussutañ ca dhoreyyasīlaṃ vatavantam āriyaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp207-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP207]]
+> ◄  [[dhp206-pali-pts]] 📜  [[dhp208-pali-pts]] ►

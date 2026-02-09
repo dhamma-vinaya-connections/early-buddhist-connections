@@ -31,5 +31,6 @@ PTS: A i 188
 | [[MA16]], [[AN4.193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.65]]
 > ◄  [[an3.64-pali-pts]] 📜  [[an3.66-pali-pts]] ►

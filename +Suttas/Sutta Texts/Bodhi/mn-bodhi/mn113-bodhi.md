@@ -73,12 +73,13 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > |  | [[EA17.9]]; [[MA85]] | M iii 37 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA17.9]]; [[MA85]] |
+| [[EA17.9]], [[MA85]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.31]], [[AN4.73]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN113]]
 > ◄  [[mn112-bodhi]] 📜  [[mn114-bodhi]] ►

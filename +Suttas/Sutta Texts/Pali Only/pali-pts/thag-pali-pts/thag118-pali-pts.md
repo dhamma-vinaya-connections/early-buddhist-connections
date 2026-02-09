@@ -23,3 +23,5 @@ Rukkhamūlagahanaṃ pasakkiya nibbānaṃ hadayasmiṃ osiya
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag118-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG118]]
+> ◄  [[thag117-pali-pts]] 📜  [[thag119-pali-pts]] ►

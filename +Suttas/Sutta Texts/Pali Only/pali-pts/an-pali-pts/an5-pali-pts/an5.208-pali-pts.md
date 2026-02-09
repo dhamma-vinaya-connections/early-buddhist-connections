@@ -34,5 +34,6 @@ Ime kho bhikkhave pañca ānisaṃsā yāguyā ti.
 | [[EA36.3]], [[PLI-TV-KD15]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.208]]
 > ◄  [[an5.207-pali-pts]] 📜  [[an5.209-pali-pts]] ►

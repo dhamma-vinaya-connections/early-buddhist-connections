@@ -23,3 +23,5 @@ pucchāmi taṃ samaṇa etam atthaṃ: kasmā ṭhito tvaṃ aham aṭṭhito '
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag866-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG866]]
+> ◄  [[thag865-pali-pts]] 📜  [[thag867-pali-pts]] ►

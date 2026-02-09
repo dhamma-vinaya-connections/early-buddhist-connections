@@ -29,11 +29,12 @@ Imehi kho bhikkhave catuhi dhammehi asamannāgato imasmā dhammavinayā papatito
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN6.10]], [[SN6.9]] | [[EA21.5]], [[SA-2.276]], [[SA1278]] | A ii 2 |
+> |  | [[EA21.5]], [[SA-2.276]], [[SA1278]] | A ii 2 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN6.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[SN6.9]], [[SNP3.10]], [[AN10.89]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.3]]
 > ◄  [[an4.2-pali-pts]] 📜  [[an4.4-pali-pts]] ►

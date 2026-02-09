@@ -23,3 +23,5 @@ saṃghe pasādo yass'; atthi ujubhūtañ ca dassanaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag507-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG507]]
+> ◄  [[thag506-pali-pts]] 📜  [[thag508-pali-pts]] ►

@@ -23,3 +23,5 @@ sājja abbūḷhasallāhaṃ nicchātā parinibbutā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig52-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG52]]
+> ◄  [[thig51-pali-pts]] 📜  [[thig53-pali-pts]] ►

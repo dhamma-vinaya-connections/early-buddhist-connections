@@ -86,4 +86,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.347-377
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.347-377.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.333-346]]  🌐 [[AN1.378-393]] ►

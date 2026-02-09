@@ -127,5 +127,6 @@ Dutiyo paṇṇāsako samatto.
 | [[PLI-TV-KD17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.100]]
 > ◄  [[an5.99-sujato-pali]] 📜  [[an5.101-sujato-pali]] ►

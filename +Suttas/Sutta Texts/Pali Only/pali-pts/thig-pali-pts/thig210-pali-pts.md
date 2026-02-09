@@ -23,3 +23,5 @@ tassāhaṃ vacanaṃ sutvā anusiṭṭhiṃ janettiyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig210-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG210]]
+> ◄  [[thig209-pali-pts]] 📜  [[thig211-pali-pts]] ►

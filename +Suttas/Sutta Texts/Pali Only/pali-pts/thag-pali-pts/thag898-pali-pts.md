@@ -23,3 +23,5 @@ sato ca hoti appiccho santuṭṭho avighātavā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag898-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG898]]
+> ◄  [[thag897-pali-pts]] 📜  [[thag899-pali-pts]] ►

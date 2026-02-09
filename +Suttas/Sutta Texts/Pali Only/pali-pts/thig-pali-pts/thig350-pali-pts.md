@@ -23,3 +23,5 @@ māhaṃ kāmehi saṃgacchiṃ yesu tāṇaṃ na vijjati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig350-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG350]]
+> ◄  [[thig349-pali-pts]] 📜  [[thig351-pali-pts]] ►

@@ -23,3 +23,5 @@ amoghaṃ divasaṃ kayirā appena bahukena vā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag450-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG450]]
+> ◄  [[thag449-pali-pts]] 📜  [[thag451-pali-pts]] ►

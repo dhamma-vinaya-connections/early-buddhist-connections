@@ -95,4 +95,5 @@ just as the victor advised me.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag12
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag12.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG11]]  🌐 [[THAG13]] ►

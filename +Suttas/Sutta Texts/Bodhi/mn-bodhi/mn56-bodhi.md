@@ -343,8 +343,9 @@ When this was said, the householder Upāli rose from his seat, and arranging hi
 > |  | [[MA133]] | M i 371 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA133]]; [[AN4.193]] |
+| [[MA133]], [[AN4.193]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN56]]
 > ◄  [[mn55-bodhi]] 📜  [[mn57-bodhi]] ►

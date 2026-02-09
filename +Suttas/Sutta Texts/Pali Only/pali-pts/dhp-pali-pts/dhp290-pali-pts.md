@@ -24,3 +24,5 @@ paradukkhūpadhānena yo attano sukham icchati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp290-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP290]]
+> ◄  [[dhp289-pali-pts]] 📜  [[dhp291-pali-pts]] ►

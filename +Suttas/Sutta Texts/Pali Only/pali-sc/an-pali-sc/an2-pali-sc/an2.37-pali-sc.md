@@ -62,5 +62,6 @@ language: "Pali"
 | [[SA546]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.37]]
 > ◄  [[an2.36-pali-sc]] 📜  [[an2.38-pali-sc]] ►

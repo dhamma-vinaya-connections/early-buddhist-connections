@@ -89,4 +89,5 @@ from pleasure and pain they are released
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud1.10
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud1.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.9]]  🌐 [[UD2.1]] ►

@@ -25,3 +25,5 @@ ath'; addasāmi sugataṃ nagaraṃ Mithilaṃ gataṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig134-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG134]]
+> ◄  [[thig133-pali-pts]] 📜  [[thig135-pali-pts]] ►

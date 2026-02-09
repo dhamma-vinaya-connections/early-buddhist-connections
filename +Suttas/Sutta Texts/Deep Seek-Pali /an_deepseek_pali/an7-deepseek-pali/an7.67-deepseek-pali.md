@@ -130,5 +130,6 @@ language: "English - Pali"
 | [[EA39.4]], [[MA3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.67]]
 > ◄  [[an7.66-deepseek-pali]] 📜  [[an7.68-deepseek-pali]] ►

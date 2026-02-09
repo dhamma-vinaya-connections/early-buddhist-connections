@@ -70,7 +70,7 @@ parallels_partilal: "[[AN5.43]], [[SN3.17]], [[SN3.18]]"
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN4.113]], [[AN6:19]], [[AN10:15]], [[DHP21]], [[DHP22]], [[DHP23]], [[DHP24]], [[DHP25]], [[DHP26]], [[DHP27]], [[DHP28]], [[DHP29]], [[DHP30]], [[DHP31]], [[DHP32]], [[SN3:4]], [[SN3:17]], [[AN3:66]], [[AN5.27]], [[AN11.16]], [[KHP9]], [[AN3:20]], [[SN3:25]], [[AN§60]]
+> - [[AN4.113]], [[AN6:19]], [[AN10:15]], [[DHP\|DHP21]], [[DHP\|DHP22]], [[DHP\|DHP23]], [[DHP\|DHP24]], [[DHP\|DHP25]], [[DHP\|DHP26]], [[DHP\|DHP27]], [[DHP\|DHP28]], [[DHP\|DHP29]], [[DHP\|DHP30]], [[DHP\|DHP31]], [[DHP\|DHP32]], [[SN3:4]], [[SN3:17]], [[AN3:66]], [[AN5.27]], [[AN11.16]], [[KHP9]], [[AN3:20]], [[SN3:25]], [[AN§60]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -88,5 +88,6 @@ parallels_partilal: "[[AN5.43]], [[SN3.17]], [[SN3.18]]"
 > - Sutta Central: https://suttacentral.net/iti23/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti23
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti23.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI22]]  🌐 [[ITI24]] ►

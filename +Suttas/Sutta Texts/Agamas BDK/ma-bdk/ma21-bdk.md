@@ -36,11 +36,12 @@ has assembled with a gathering of monks at the assembly hall. He has explained t
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN2.36]] |  | M ii 238 |
+> |  |  | M ii 238 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA29.8]], [[ITI105]], [[ITI15]], [[SNP3.12]], [[JA493]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA21]]
 > ◄  [[ma20-bdk]] 📜  [[ma22-bdk]] ►

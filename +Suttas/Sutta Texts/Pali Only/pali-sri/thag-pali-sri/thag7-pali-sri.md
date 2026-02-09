@@ -320,3 +320,5 @@ Sattakanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG7]]
+> ◄  [[thag6-pali-sri]] 📜  [[thag8-pali-sri]] ►

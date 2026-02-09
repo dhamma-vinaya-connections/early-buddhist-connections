@@ -23,3 +23,5 @@ pubbenivāsaṃ jānāmi yattha me vusitaṃ pure,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag912-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG912]]
+> ◄  [[thag911-pali-pts]] 📜  [[thag913-pali-pts]] ►

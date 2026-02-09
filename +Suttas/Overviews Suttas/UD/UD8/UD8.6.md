@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN5.213]], [[AN8.68-70]], [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.5]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[DN16]], [[AN8.68-70]], [[DA2]], [[UD6.1]], [[UD8.5]], [[SN51.10]], [[PLI-TV-KD6]], [[AN5.213]], [[DN33]]"
 ---
@@ -65,7 +65,7 @@ intelligent people have crossed over
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.213]], [[AN8.68-70]], [[DN16]], [[SN51.10]], [[UD6.1]], [[UD8.5]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN16]], [[AN8.68-70]], [[DA2]], [[UD6.1]], [[UD8.5]], [[SN51.10]], [[PLI-TV-KD6]], [[AN5.213]], [[DN33]] |
@@ -91,5 +91,6 @@ intelligent people have crossed over
 > - Sutta Central: https://suttacentral.net/ud8.6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud8.6
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud8.6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD8.5]]  🌐 [[UD8.7]] ►

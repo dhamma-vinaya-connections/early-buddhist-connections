@@ -23,3 +23,5 @@ appiccho c'; eva santuṭṭho pavivitto vase muni,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag580-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG580]]
+> ◄  [[thag579-pali-pts]] 📜  [[thag581-pali-pts]] ►

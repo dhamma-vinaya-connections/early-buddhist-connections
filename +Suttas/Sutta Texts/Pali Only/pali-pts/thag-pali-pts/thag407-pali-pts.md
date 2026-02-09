@@ -23,3 +23,5 @@ tadāhaṃ khuram ādāya mañcakamhi upāvisiṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag407-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG407]]
+> ◄  [[thag406-pali-pts]] 📜  [[thag408-pali-pts]] ►

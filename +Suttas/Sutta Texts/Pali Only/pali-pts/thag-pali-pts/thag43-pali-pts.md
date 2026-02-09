@@ -24,3 +24,5 @@ Mataṃ vā amma rodanti yo vā jīvaṃ na dissati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag43-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG43]]
+> ◄  [[thag42-pali-pts]] 📜  [[thag44-pali-pts]] ►

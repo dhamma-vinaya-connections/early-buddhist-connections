@@ -74,5 +74,6 @@ Having shaken off all defilements, having attained the accomplishment of Nibbān
 | [[SA980]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.34]]
 > ◄  [[an8.33-deepseek-pali]] 📜  [[an8.35-deepseek-pali]] ►

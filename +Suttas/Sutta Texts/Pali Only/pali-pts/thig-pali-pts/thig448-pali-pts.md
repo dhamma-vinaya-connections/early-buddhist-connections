@@ -23,3 +23,5 @@ sīlavatī cittakathikā bahussutā buddhasāsane vinītā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig448-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG448]]
+> ◄  [[thig447-pali-pts]] 📜  [[thig449-pali-pts]] ►

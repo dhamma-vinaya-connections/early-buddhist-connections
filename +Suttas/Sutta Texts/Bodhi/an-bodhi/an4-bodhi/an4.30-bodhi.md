@@ -62,5 +62,6 @@ is said to be heedful. \[32\]
 | [[MN117]], [[SN22.62]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
 > ◄  [[an4.29-bodhi]] 📜  [[an4.31-bodhi]] ►

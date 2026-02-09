@@ -81,5 +81,6 @@ nando kāraṇḍavena cāti.
 | [[MA122]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.10]]
 > ◄  [[an8.9-pali-sc]] 📜  [[an8.11-pali-sc]] ►

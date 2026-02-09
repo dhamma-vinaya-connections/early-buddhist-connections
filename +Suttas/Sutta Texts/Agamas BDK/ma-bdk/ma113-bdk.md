@@ -26,7 +26,7 @@ If they ask further, “What is their culmination?”, you should answer in this
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.58]], [[AN8.83]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.40]], [[EA50.7]], [[ITI107]] |
@@ -35,6 +35,7 @@ If they ask further, “What is their culmination?”, you should answer in this
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.60]], [[AN7.48]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA113]]
 > ◄  [[ma112-bdk]] 📜  [[ma114-bdk]] ►

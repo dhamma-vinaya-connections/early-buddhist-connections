@@ -91,8 +91,9 @@ The Great Full Moon Discourse, the ninth, is concluded.
 > |  | [[MA145]] | M iii 7 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA145]]; [[SN22.58]]; [[DN33]] |
+| [[MA145]], [[SN22.58]], [[DN33]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN108]]
 > ◄  [[mn107-deepseek-pali]] 📜  [[mn109-deepseek-pali]] ►

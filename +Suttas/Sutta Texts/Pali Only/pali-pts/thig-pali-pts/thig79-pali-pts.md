@@ -23,3 +23,5 @@ tato rajjuṃ gahetvāna pāvisiṃ vana-m-antaraṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig79-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG79]]
+> ◄  [[thig78-pali-pts]] 📜  [[thig80-pali-pts]] ►

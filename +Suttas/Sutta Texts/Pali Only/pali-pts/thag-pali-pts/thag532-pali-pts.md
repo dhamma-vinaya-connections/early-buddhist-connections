@@ -25,3 +25,5 @@ vīro have sattayugaṃ puneti yasmiṃ kule jāyati bhūripañño;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag532-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG532]]
+> ◄  [[thag531-pali-pts]] 📜  [[thag533-pali-pts]] ►

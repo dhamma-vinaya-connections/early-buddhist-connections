@@ -23,3 +23,5 @@ sabbattha te na lippanti udabindu va pokkhare,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag664-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG664]]
+> ◄  [[thag663-pali-pts]] 📜  [[thag665-pali-pts]] ►

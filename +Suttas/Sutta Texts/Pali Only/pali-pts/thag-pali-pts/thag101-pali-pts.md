@@ -24,3 +24,5 @@ Mānena vañcitāse saṃkhāresu saṃkilissamānāse
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag101-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG101]]
+> ◄  [[thag100-pali-pts]] 📜  [[thag102-pali-pts]] ►

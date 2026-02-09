@@ -23,3 +23,5 @@ atha soḷasame vasse disvāna maṃ pattayobbanaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig444-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG444]]
+> ◄  [[thig443-pali-pts]] 📜  [[thig445-pali-pts]] ►

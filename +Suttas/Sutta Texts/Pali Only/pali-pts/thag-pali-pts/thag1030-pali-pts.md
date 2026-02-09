@@ -23,3 +23,5 @@ bahussuto dhammadharo kosārakkho mahesino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1030-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1030]]
+> ◄  [[thag1029-pali-pts]] 📜  [[thag1031-pali-pts]] ►

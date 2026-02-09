@@ -27,9 +27,5 @@ The venerable Ānanda told him, “Brahmin, do not take refuge in me. Since I my
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma220-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN7.54]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA220]]
 > ◄  [[ma219-bdk]] 📜  [[ma221-bdk]] ►

@@ -100,15 +100,16 @@ A second time and a third time the Blessed One told her: “Give it to the Sangh
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.78]] | [[MA180]] | M iii 253 |
+> |  | [[MA180]] | M iii 253 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA180]]; [[AN4.78]] |
+| [[MA180]], [[AN4.78]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.59]], [[AN3.24]], [[AN4.78]], [[MN39]], [[MA182]], [[SN3.24]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN142]]
 > ◄  [[mn141-bodhi]] 📜  [[mn143-bodhi]] ►

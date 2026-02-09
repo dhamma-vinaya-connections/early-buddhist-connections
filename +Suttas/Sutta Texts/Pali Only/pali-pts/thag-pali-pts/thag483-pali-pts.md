@@ -24,3 +24,5 @@ cīvaraṃ piṇḍapātañ ca paccayaṃ sayanāsanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag483-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG483]]
+> ◄  [[thag482-pali-pts]] 📜  [[thag484-pali-pts]] ►

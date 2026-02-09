@@ -23,3 +23,5 @@ sājja sabbāni khāditvā satta puttāni brāhmaṇi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig312-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG312]]
+> ◄  [[thig311-pali-pts]] 📜  [[thig313-pali-pts]] ►

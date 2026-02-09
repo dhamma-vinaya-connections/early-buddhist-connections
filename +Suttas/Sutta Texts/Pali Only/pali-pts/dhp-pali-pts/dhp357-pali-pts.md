@@ -24,3 +24,5 @@ tiṇadosāni khettāni, mohadosā ayaṃ pajā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp357-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP357]]
+> ◄  [[dhp356-pali-pts]] 📜  [[dhp358-pali-pts]] ►

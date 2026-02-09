@@ -23,3 +23,5 @@ so 'haṃ tato cavitvā govāṇijakassa gāviyā jāto |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig439-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG439]]
+> ◄  [[thig438-pali-pts]] 📜  [[thig440-pali-pts]] ►

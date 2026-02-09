@@ -40,3 +40,5 @@ Last Revised: 25 November 2022
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa13_18-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA13_18]]
+> ◄  [[SA13_17]] 📜  [[SA13_19]] ►

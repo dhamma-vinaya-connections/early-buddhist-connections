@@ -68,5 +68,6 @@ Catutthaṁ.
 | [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.4]]
 > ◄  [[ud5.3-anandajoti-pali]] 📜  [[ud5.5-anandajoti-pali]] ►

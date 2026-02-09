@@ -38,6 +38,6 @@ He answered: Mallikā, all of the five strands of sensual pleasure that I am end
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN87]] | [[EA13.3]] | M i 63 |
+> |  | [[EA13.3]] | M i 63 |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA216]]
 > ◄  [[ma215-bdk]] 📜  [[ma217-bdk]] ►

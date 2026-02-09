@@ -22,3 +22,5 @@ na ve aggi cetayati ahaṃ bālaṃ dahāmīti,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1203-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1203]]
+> ◄  [[thag1201-pali-pts]] 📜  [[thag1204-pali-pts]] ►

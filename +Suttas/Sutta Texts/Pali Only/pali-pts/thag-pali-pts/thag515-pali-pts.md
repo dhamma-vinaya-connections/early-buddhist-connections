@@ -23,3 +23,5 @@ pubbenivāsaṃ jānāmi, dibbacakkhuṃ visodhitaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag515-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG515]]
+> ◄  [[thag514-pali-pts]] 📜  [[thag516-pali-pts]] ►

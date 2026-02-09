@@ -52,6 +52,6 @@ and their wisdom. Brahmin, there comes a time when, being endowed with a good fr
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.31]] | [[EA17.8]], [[SA2.260]], [[SA94]] |  |
+> |  | [[EA17.8]], [[SA2.260]], [[SA94]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA148]]
 > ◄  [[ma147-bdk]] 📜  [[ma149-bdk]] ►

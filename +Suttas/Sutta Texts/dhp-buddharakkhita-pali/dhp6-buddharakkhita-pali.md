@@ -130,3 +130,5 @@ Paṇḍitavaggo chaṭṭho.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp6-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP6-BUDDHARAKKHITA]]
+> ◄  [[dhp5-buddharakkhita-pali]] 📜  [[dhp7-buddharakkhita-pali]] ►

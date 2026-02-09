@@ -24,3 +24,5 @@ codito bhāvitattena sarīrantimadhārinā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1161-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1161]]
+> ◄  [[thag1160-pali-pts]] 📜  [[thag1164-pali-pts]] ►

@@ -135,12 +135,13 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  | [[EA49.8]]; [[MA182]] | M i 271 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA49.8]]; [[MA182]]; [[SN35.120]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]]; [[DN2]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN27]]; [[MN38]]; [[MN51]]; [[MN53]]; [[MN60]]; [[MN76]]; [[MN79]]; [[MN94]]; [[MN101]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN4.198]]; [[AN5.76]]; [[AN5.140]]; [[AN10.99]]; [[AN11.17]]; [[MN33]] |
+| [[EA49.8]], [[MA182]], [[SN35.120]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[AN11.17]], [[MN33]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN2]]; [[DHP XXVI. AN8.9]]
+> - [[DN2]], [[DHP\|DHPXXVI.AN8.9]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN39]]
 > ◄  [[mn38-thanissaro]] 📜  [[mn40-thanissaro]] ►

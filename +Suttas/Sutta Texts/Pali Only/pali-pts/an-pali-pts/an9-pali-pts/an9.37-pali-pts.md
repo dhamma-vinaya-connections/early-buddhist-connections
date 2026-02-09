@@ -38,5 +38,6 @@ Evam me sutaṃ. Ekaṃ samayaṃ āyasmā Ānando Kosambiyaṃ viharati Ghosit�
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.34]], [[AN9.36]], [[AN11.1]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.37]]
 > ◄  [[an9.36-pali-pts]] 📜  [[an9.38-pali-pts]] ►

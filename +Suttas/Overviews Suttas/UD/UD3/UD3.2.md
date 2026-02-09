@@ -98,4 +98,5 @@ trembles not at pleasure and pain.
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud3.2
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud3.2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.1]]  🌐 [[UD3.3]] ►

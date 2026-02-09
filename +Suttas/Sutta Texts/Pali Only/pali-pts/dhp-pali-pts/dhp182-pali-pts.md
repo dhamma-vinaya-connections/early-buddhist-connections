@@ -24,3 +24,5 @@ sabbapāpassa akaraṇaṃ kusalassa upasampadā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp182-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP182]]
+> ◄  [[dhp181-pali-pts]] 📜  [[dhp183-pali-pts]] ►

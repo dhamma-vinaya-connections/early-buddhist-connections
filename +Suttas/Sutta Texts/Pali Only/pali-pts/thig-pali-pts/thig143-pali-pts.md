@@ -23,3 +23,5 @@ ahañ ca kho namassantī sambuddhaṃ purisuttamaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig143-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG143]]
+> ◄  [[thig142-pali-pts]] 📜  [[thig144-pali-pts]] ►

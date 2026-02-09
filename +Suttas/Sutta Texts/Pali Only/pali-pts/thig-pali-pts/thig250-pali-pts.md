@@ -23,3 +23,5 @@ brahmabandhu pure āsiṃ ajj'; amhi saccaṃ brāhmaṇo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig250-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG250]]
+> ◄  [[thig249-pali-pts]] 📜  [[thig251-pali-pts]] ►

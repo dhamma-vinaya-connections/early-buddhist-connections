@@ -25,3 +25,5 @@ tuccho kāyo adissittha, andhakāre tamo byagā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag169-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG169]]
+> ◄  [[thag168-pali-pts]] 📜  [[thag170-pali-pts]] ►

@@ -35,3 +35,5 @@ This matter, too, was spoken by the Blessed One: so I have heard. The Second.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti70-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI70]]
+> ◄  [[iti69-deepseek-pali]] 📜  [[iti71-deepseek-pali]] ►

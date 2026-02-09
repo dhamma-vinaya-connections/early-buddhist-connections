@@ -25,3 +25,5 @@ evaṃ kusītam āgamma sādhujīvī pi sīdati;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag146-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG146]]
+> ◄  [[thag145-pali-pts]] 📜  [[thag147-pali-pts]] ►

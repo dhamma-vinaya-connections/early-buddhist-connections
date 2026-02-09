@@ -138,5 +138,6 @@ intelligent, a man of integrity:
 | [[PE1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP15]]
 > ◄  [[dhp14-thanissaro]] 📜  [[dhp16-thanissaro]] ►

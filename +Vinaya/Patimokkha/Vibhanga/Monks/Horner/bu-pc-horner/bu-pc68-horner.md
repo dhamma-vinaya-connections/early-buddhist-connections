@@ -78,7 +78,8 @@ Monks’ rules and their analysis
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc68-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC68]] |
->|       |          | [[ñanatusita-analysis#^PC68]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC68]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC68]]

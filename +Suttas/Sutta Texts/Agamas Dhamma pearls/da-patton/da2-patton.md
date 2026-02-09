@@ -1816,11 +1816,12 @@ He replied, “I’m coming from Kuśinagara.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.180]], [[AN8.68-70]], [[DN16]], [[DN17]], [[SN47.9]], [[SN51.10]] | [[EA28.5]], [[MA68]] |  |
+> |  | [[EA28.5]], [[MA68]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-KD17]], [[PE5]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA2]]
 > ◄  [[da1-patton]] 📜  [[da3-patton]] ►

@@ -59,3 +59,5 @@ This custom of undertaking sacrifices Was the principal transgression. There is 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma156-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA156]]
+> ◄  [[ma155-bdk]] 📜  [[ma157-bdk]] ►

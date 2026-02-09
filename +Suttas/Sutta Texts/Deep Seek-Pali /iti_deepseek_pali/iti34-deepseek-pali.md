@@ -31,3 +31,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The Eighth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti34-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI34]]
+> ◄  [[iti33-deepseek-pali]] 📜  [[iti35-deepseek-pali]] ►

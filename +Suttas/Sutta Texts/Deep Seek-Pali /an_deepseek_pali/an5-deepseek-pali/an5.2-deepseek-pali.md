@@ -54,5 +54,6 @@ Therefore, monks, you should train yourselves thus: ‘We will be endowed with t
 | [[AN5.14]], [[EA32.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.2]]
 > ◄  [[an5.1-deepseek-pali]] 📜  [[an5.3-deepseek-pali]] ►

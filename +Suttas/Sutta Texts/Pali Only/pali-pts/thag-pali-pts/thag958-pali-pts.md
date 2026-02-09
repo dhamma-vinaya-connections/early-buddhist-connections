@@ -23,3 +23,5 @@ uddhatā ca bhavissanti nīlacīvarapārutā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag958-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG958]]
+> ◄  [[thag957-pali-pts]] 📜  [[thag959-pali-pts]] ►

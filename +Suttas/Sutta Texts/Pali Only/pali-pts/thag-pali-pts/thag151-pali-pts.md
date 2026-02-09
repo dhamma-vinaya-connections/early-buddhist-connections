@@ -23,3 +23,5 @@ yo ve avidvā upadhiṃ karoti punappunaṃ dukkham upeti mando.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag151-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG151]]
+> ◄  [[thag150-pali-pts]] 📜  [[thag152-pali-pts]] ►

@@ -24,3 +24,5 @@ Pare Ambāṭakārāme vanasaṇḍamhi Bhaddiyo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag463-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG463]]
+> ◄  [[thag462-pali-pts]] 📜  [[thag466-pali-pts]] ►

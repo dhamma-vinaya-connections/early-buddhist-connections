@@ -25,3 +25,5 @@ sayaṃ samāhito nāgo, nisinno pi samāhito:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag695-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG695]]
+> ◄  [[thag694-pali-pts]] 📜  [[thag697-pali-pts]] ►

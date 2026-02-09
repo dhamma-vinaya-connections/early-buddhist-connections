@@ -71,5 +71,6 @@ When this was said, Ven. Mahā Moggallāna said to Ven. Sāriputta, “Sāriputt
 | [[MA26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn67-thanissaro]] 📜  [[mn70-thanissaro]] ►

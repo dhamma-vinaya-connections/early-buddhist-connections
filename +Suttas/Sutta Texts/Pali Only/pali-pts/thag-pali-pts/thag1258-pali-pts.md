@@ -23,3 +23,5 @@ dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1258-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1258]]
+> ◄  [[thag1257-pali-pts]] 📜  [[thag1259-pali-pts]] ►

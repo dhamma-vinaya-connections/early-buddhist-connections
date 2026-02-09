@@ -24,3 +24,5 @@ pāmojjabahulo bhikkhu pasanno Buddhasāsane /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp380-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP380]]
+> ◄  [[dhp379-pali-pts]] 📜  [[dhp381-pali-pts]] ►

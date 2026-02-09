@@ -70,5 +70,6 @@ Pattakamma, Ānaṇya, Sābrahma, Niraya, Rūpa the fifth; Sarāga, Ahirāja, De
 | [[EA17.11]], [[JA334]], [[JA527]], [[JA528]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.70]]
 > ◄  [[an4.69-deepseek-pali]] 📜  [[an4.71-deepseek-pali]] ►

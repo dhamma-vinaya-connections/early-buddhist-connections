@@ -51,11 +51,12 @@ That group of monks then went to Venerable Ānanda after having this discussion 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN35.116]], [[SN42.9]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN35.116]], [[SN42.9]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA234]]
 > ◄  [[sa233-patton]] 📜  [[sa235-patton]] ►

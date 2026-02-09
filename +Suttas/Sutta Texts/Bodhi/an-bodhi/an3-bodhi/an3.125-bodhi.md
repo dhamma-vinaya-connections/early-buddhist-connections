@@ -36,5 +36,6 @@ This is what the Blessed One said. Elated, those bhikkhus delighted in the Bless
 | [[PLI-TV-KD21]], [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.125]]
 > ◄  [[an3.124-bodhi]] 📜  [[an3.126-bodhi]] ►

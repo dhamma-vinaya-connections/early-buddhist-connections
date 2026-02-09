@@ -36,7 +36,7 @@ language: "English - Pali"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.201]], [[AN6.40]] |  | A iv 84 |
+> |  |  | A iv 84 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.201]], [[AN6.40]] |
@@ -45,6 +45,7 @@ language: "English - Pali"
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN16.13]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.59]]
 > ◄  [[an7.58-deepseek-pali]] 📜  [[an7.60-deepseek-pali]] ►

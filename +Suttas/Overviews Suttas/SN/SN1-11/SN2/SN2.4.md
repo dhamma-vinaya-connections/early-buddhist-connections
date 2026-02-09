@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[DHP387]], [[SN1.26]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.309]], [[SA1310]]"
-parallels_partilal: "[[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP387]], [[SN21.11]]"
+parallels_partilal: "[[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP\|DHP387]], [[SN21.11]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.3]]  🌐 [[SN2.5]] ►
 
@@ -67,10 +67,10 @@ Need not strive, for they have reached the far shore
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP387]], [[SN1.26]] | [[SA-2.309]], [[SA1310]] |  |
+> |  | [[SA-2.309]], [[SA1310]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP387]], [[SN21.11]] |
+| [[SN1.26]], [[SA-2.309]], [[SA1310]], [[DHP\|DHP387]], [[SN21.11]] |
 | ------------------------ |
 
 
@@ -90,5 +90,6 @@ Need not strive, for they have reached the far shore
 > - Sutta Central: https://suttacentral.net/sn2.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.4
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.4.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.3]]  🌐 [[SN2.5]] ►

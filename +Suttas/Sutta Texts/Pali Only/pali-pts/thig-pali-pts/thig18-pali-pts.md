@@ -25,3 +25,5 @@ ekikā theriyo samattā. ||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig18-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG18]]
+> ◄  [[thig17-pali-pts]] 📜  [[thig19-pali-pts]] ►

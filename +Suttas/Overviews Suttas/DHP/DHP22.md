@@ -97,4 +97,5 @@ grieve, consigned to hell.
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp22
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp22.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP21]]  🌐 [[DHP23]] ►

@@ -23,3 +23,5 @@ kusumitasikharā ca pādapā abhigajjanti va māluteritā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig371-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG371]]
+> ◄  [[thig370-pali-pts]] 📜  [[thig372-pali-pts]] ►

@@ -67,11 +67,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN2.35]] | [[EA42.8]], [[SA992]] |  |
+> |  | [[EA42.8]], [[SA992]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA334]], [[JA527]], [[JA528]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA127]]
 > ◄  [[ma110-patton]] 📜  [[ma137-patton]] ►

@@ -24,3 +24,5 @@ Nānākulamalasampuṇṇo mahāukkārasambhavo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag566-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG566]]
+> ◄  [[thag565-pali-pts]] 📜  [[thag567-pali-pts]] ►

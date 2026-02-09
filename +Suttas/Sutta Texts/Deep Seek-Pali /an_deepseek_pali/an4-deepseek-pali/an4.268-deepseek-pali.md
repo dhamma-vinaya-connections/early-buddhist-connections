@@ -29,3 +29,5 @@ He himself abstains from divisive speech, he encourages others to abstain from d
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.268-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.268]]
+> ◄  [[an4.267-deepseek-pali]] 📜  [[an4.269-deepseek-pali]] ►

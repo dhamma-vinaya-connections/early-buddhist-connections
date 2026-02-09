@@ -23,3 +23,5 @@ Obhāsajātaṃ phalagaṃ cittaṃ yassa abhiṇhaso,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag24-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG24]]
+> ◄  [[thag23-pali-pts]] 📜  [[thag25-pali-pts]] ►

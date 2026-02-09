@@ -177,5 +177,10 @@ Pañcamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.5-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN2]], [[SN12.20]], [[SN12.35]], [[SN12.67]], [[AN3:62]], [[SN12:20]], [[SN12.35]], [[SN12.67]], [[AN3.62]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.5]]
 > ◄  [[ud6.4-anandajoti-pali]] 📜  [[ud6.6-anandajoti-pali]] ►

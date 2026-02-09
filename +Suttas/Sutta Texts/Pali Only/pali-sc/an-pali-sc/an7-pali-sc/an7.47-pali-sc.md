@@ -90,5 +90,6 @@ Catutthaṁ.
 | [[SA-2.259]], [[SA93]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.47]]
 > ◄  [[an7.46-pali-sc]] 📜  [[an7.48-pali-sc]] ►

@@ -23,3 +23,5 @@ puriso aṅkusam ādāya dehi pādan ti yācati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig48-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG48]]
+> ◄  [[thig47-pali-pts]] 📜  [[thig49-pali-pts]] ►

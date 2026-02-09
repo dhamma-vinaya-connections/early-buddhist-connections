@@ -23,3 +23,5 @@ yo ca seyyo 'ham asmīti, nāhaṃ seyyo 'ti vā puna,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1075-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1075]]
+> ◄  [[thag1074-pali-pts]] 📜  [[thag1076-pali-pts]] ►

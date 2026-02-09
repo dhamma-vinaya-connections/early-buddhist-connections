@@ -23,3 +23,5 @@ aladdhā cetaso santiṃ citte avasavattini |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig39-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG39]]
+> ◄  [[thig38-pali-pts]] 📜  [[thig40-pali-pts]] ►

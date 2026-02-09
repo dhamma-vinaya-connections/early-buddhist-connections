@@ -34,5 +34,6 @@ Asubhanimittaṃ bhikkhave yoniso manasikaroto anuppanno c'; eva kāmacchando n'
 | [[EA9.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.16]]
 > ◄  [[an1.15-pali-pts]] 📜  [[an1.17-pali-pts]] ►

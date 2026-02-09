@@ -34,10 +34,11 @@ with them, converse with them, and get a response from them; know the family nam
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.64]] |  | M i 12 |
+> |  |  | M i 12 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA72]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA73]]
 > ◄  [[ma72-bdk]] 📜  [[ma74-bdk]] ►

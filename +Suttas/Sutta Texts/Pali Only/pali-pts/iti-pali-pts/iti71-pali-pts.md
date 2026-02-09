@@ -33,3 +33,5 @@ _VAGGO III., SUTTAṂ 4. 61_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti71-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI71]]
+> ◄  [[iti70-pali-pts]] 📜  [[iti72-pali-pts]] ►

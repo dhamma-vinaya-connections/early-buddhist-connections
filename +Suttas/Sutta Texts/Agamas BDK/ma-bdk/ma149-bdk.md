@@ -26,6 +26,6 @@ What do they engage in? What is their support? On what do they depend? What is t
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.52]] | [[EA37.8]] |  |
+> |  | [[EA37.8]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA149]]
 > ◄  [[ma148-bdk]] 📜  [[ma150-bdk]] ►

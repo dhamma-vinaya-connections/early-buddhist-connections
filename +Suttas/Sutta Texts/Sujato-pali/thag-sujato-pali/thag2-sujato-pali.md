@@ -1215,3 +1215,5 @@ patto me āsavakkhayo"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG2]]
+> ◄  [[thag1-sujato-pali]] 📜  [[thag3-sujato-pali]] ►

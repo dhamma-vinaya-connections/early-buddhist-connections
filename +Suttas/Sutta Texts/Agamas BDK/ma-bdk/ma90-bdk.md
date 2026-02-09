@@ -30,7 +30,7 @@ and scruples,... desires and evil views; and in that venerable one’s mind evi
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.24]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
@@ -39,6 +39,7 @@ and scruples,... desires and evil views; and in that venerable one’s mind evi
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA89]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA90]]
 > ◄  [[ma89-bdk]] 📜  [[ma91-bdk]] ►

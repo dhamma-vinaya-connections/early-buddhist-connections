@@ -23,3 +23,5 @@ evaṃ dassanasampannaṃ sammāsambuddhasāvakaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag173-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG173]]
+> ◄  [[thag172-pali-pts]] 📜  [[thag174-pali-pts]] ►

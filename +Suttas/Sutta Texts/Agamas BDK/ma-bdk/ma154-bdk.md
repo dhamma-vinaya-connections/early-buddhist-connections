@@ -98,7 +98,7 @@ had to be done has been done. There will not be another experiencing of existenc
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN27]] | [[DA5]] |  |
+> |  | [[DA5]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN9.7]], [[DA17]], [[AN9.8]], [[MN76]] |
@@ -107,6 +107,7 @@ had to be done has been done. There will not be another experiencing of existenc
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA154]]
 > ◄  [[ma153-bdk]] 📜  [[ma155-bdk]] ►

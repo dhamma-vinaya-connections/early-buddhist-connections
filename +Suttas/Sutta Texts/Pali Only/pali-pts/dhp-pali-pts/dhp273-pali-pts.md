@@ -24,3 +24,5 @@ es'; eva maggo n'; atth'; añño dassanassa visuddhiyā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp273-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP273]]
+> ◄  [[dhp272-pali-pts]] 📜  [[dhp274-pali-pts]] ►

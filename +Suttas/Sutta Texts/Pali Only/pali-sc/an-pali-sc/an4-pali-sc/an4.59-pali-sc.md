@@ -46,5 +46,6 @@ Navamaṁ.
 | [[AN4.58]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.59]]
 > ◄  [[an4.58-pali-sc]] 📜  [[an4.60-pali-sc]] ►

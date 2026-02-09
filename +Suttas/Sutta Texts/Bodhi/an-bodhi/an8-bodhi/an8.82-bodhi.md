@@ -34,11 +34,12 @@ Then the Venerable Puṇṇiya approached the Blessed One, paid homage to him, s
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.83]] | [[SA966]] | A iv 337 |
+> |  | [[SA966]] | A iv 337 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.83]], [[SA966]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.82]]
 > ◄  [[an8.81-bodhi]] 📜  [[an8.83-bodhi]] ►

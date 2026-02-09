@@ -181,7 +181,8 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma tumhe, moghapurisā, bhikkhu
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc105-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC105]] |
->|       |          | [[ñanatusita-analysis#^-PC105]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC105]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC105]]

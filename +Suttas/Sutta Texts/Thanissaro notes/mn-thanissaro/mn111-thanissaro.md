@@ -77,7 +77,8 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > |  |  | M iii 25 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN9.34]], [[9.36]]]]; [[[[SN22.5]]
+> - [[AN9.34]], [[9.36]], [[SN22.5]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN111]]
 > ◄  [[mn110-thanissaro]] 📜  [[mn113-thanissaro]] ►

@@ -95,4 +95,5 @@ that is a cause of a downfall.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.6
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.5]]  🌐 [[SNP1.7]] ►

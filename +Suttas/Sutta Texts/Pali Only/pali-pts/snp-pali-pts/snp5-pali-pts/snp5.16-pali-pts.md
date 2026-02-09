@@ -37,11 +37,12 @@ MOGHARĀJAMĀṆAVAPUCCHĀ NIṬṬHITĀ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP170]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP170]], [[PE2]] |
+| [[DHP\|DHP170]], [[PE2]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.16]]
 > ◄  [[snp5.15-pali-pts]] 📜  [[snp5.17-pali-pts]] ►

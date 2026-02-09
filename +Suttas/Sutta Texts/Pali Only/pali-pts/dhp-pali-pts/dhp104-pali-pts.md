@@ -24,3 +24,5 @@ n'; eva devo na gandhabbo na Māro saha Brahmunā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp104-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP104]]
+> ◄  [[dhp103-pali-pts]] 📜  [[dhp105-pali-pts]] ►

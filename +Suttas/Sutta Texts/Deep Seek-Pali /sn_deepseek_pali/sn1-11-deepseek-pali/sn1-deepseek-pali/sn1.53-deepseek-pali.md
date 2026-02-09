@@ -40,5 +40,6 @@ A caravan is a friend when traveling abroad, a mother is a friend in one’s own
 | [[SA-2.137]], [[SA1000]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.53]]
 > ◄  [[sn1.52-deepseek-pali]] 📜  [[sn1.54-deepseek-pali]] ►

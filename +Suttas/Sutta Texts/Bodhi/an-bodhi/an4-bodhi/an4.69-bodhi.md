@@ -48,11 +48,12 @@ can attain the destruction of suffering.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.13]], [[AN4.275]] | [[SA875]], [[SA876]] | A ii 10 |
+> |  | [[SA875]], [[SA876]] | A ii 10 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.13]], [[SA875]], [[SA876]], [[AN4.275]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.69]]
 > ◄  [[an4.68-bodhi]] 📜  [[an4.70-bodhi]] ►

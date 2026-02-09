@@ -160,5 +160,6 @@ Tevijjavacchasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 | [[MN14]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-sujato-pali]] 📜  [[mn72-sujato-pali]] ►

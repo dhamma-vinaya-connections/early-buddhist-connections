@@ -38,5 +38,6 @@ At Sāvatthī. Now on that occasion the Blessed One had gone for his day’s abi
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.7]]
 > ◄  [[sn6.6-bodhi]] 📜  [[sn6.8-bodhi]] ►

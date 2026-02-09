@@ -110,5 +110,6 @@ Catutthaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN128]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.64]]
 > ◄  [[an8.63-sujato-pali]] 📜  [[an8.65-sujato-pali]] ►

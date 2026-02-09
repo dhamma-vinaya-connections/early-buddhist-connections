@@ -43,5 +43,6 @@ language: "English - Pali"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.19]], [[AN2.98]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.21]]
 > ◄  [[an2.20-sujato-pali]] 📜  [[an2.22-sujato-pali]] ►

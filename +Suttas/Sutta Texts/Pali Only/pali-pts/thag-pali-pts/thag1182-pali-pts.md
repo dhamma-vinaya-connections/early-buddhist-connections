@@ -23,3 +23,5 @@ koṭisatasahassassa attabhāvaṃ khaṇena nimmine,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1182-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1182]]
+> ◄  [[thag1181-pali-pts]] 📜  [[thag1183-pali-pts]] ►

@@ -86,4 +86,5 @@ parallels_partilal: "[[SA482]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.176
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.176.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.175]]  🌐 [[AN5.177]] ►

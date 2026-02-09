@@ -26,3 +26,5 @@ kodhaṃ jahe vippajaheyya mānaṃ saññojanaṃ sabbam atikkameyya /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp220-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP220]]
+> ◄  [[dhp219-pali-pts]] 📜  [[dhp221-pali-pts]] ►

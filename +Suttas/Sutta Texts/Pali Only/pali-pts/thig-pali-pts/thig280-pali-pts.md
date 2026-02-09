@@ -23,3 +23,5 @@ dūraṅgamā satimanto mantabhāṇī anuddhatā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig280-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG280]]
+> ◄  [[thig279-pali-pts]] 📜  [[thig281-pali-pts]] ►

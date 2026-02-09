@@ -98,8 +98,9 @@ Cūḷagopālakasuttaṃ catutthaṃ.
 > |  | [[EA43.6]]; [[SA1248]] | M i 225 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA43.6]]; [[SA1248]] |
+| [[EA43.6]], [[SA1248]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-pali-sri]] 📜  [[mn35-pali-sri]] ►

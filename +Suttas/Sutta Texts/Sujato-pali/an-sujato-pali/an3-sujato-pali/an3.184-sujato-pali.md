@@ -35,3 +35,5 @@ The Book of the Threes is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.184-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.184]]
+> ◄  [[an3.183-sujato-pali]] 📜  [[]] ►

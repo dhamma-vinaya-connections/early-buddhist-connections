@@ -92,5 +92,6 @@ Ekāsanaṃ ekaseyyaṃ, eko caramatandito; eko damayamattānaṃ, vanante ramit
 | [[JA520]], [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP21]]
 > ◄  [[dhp20-pali-sc]] 📜  [[dhp22-pali-sc]] ►

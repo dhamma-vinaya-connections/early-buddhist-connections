@@ -29,3 +29,5 @@ This too is a matter that was said by the Blessed One, so I have heard. First.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti11-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI11]]
+> ◄  [[iti10-deepseek-pali]] 📜  [[iti12-deepseek-pali]] ►

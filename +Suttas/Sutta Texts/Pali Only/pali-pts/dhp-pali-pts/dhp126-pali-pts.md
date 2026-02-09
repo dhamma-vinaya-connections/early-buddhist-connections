@@ -24,3 +24,5 @@ na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp126-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP126]]
+> ◄  [[dhp125-pali-pts]] 📜  [[dhp127-pali-pts]] ►

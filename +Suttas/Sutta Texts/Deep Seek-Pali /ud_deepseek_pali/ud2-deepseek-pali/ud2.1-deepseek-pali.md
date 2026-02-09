@@ -55,5 +55,6 @@ Joyful is detachment in the world, the surmounting of sensual pleasures; the sub
 | [[PLI-TV-KD1]], [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.1]]
 > ◄  [[]] 📜  [[ud2.2-deepseek-pali]] ►

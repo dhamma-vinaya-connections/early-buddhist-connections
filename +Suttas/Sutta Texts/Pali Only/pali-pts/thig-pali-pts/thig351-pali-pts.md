@@ -23,3 +23,5 @@ paripantho eso sabhayo savighāto sakaṇṭako |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig351-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG351]]
+> ◄  [[thig350-pali-pts]] 📜  [[thig352-pali-pts]] ►

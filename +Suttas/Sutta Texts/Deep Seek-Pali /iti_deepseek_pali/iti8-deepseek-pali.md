@@ -31,3 +31,5 @@ This meaning, too, was spoken by the Blessed One, thus have I heard. The eighth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI8]]
+> ◄  [[iti7-deepseek-pali]] 📜  [[iti9-deepseek-pali]] ►

@@ -88,5 +88,6 @@ is reborn in an agreeable deva world.
 | [[AN8.50]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.49]]
 > ◄  [[an8.48-bodhi]] 📜  [[an8.50-bodhi]] ►

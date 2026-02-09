@@ -23,3 +23,5 @@ agāravo ca kāsāve tadā tesaṃ bhavissati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag965-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG965]]
+> ◄  [[thag964-pali-pts]] 📜  [[thag966-pali-pts]] ►

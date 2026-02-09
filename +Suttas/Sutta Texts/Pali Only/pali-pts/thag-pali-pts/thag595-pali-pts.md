@@ -23,3 +23,5 @@ taṇhaṃ pajaheyya munī, samūlake āsave padāleyya,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag595-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG595]]
+> ◄  [[thag594-pali-pts]] 📜  [[thag596-pali-pts]] ►

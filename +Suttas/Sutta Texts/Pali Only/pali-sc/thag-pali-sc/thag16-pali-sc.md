@@ -1308,3 +1308,5 @@ isi khīṇapunabbhavo"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag16-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG16]]
+> ◄  [[thag15-pali-sc]] 📜  [[thag17-pali-sc]] ►

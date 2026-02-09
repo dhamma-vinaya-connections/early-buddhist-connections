@@ -86,5 +86,6 @@ Then the Blessed One addressed Venerable Sariputta: "Forgive, Sariputta, this wo
 | [[EA37.6]], [[MA24]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
 > ◄  [[an9.10-deepseek-pali]] 📜  [[an9.12-deepseek-pali]] ►

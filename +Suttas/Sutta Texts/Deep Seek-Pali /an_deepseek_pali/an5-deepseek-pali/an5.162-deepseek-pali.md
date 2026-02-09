@@ -66,5 +66,6 @@ Just so, friends, when a person has pure bodily conduct, pure verbal conduct, an
 | [[MA25]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.162]]
 > ◄  [[an5.161-deepseek-pali]] 📜  [[an5.163-deepseek-pali]] ►

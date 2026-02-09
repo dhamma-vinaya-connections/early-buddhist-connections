@@ -111,5 +111,6 @@ Brāhmaṇavaggo paṭhamo.
 | [[MA143]], [[DN11]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.60]]
 > ◄  [[an3.59-pali-sc]] 📜  [[an3.61-pali-sc]] ►

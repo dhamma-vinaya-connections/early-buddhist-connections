@@ -27,3 +27,5 @@ abhittharetha kalyāṇe pāpā cittaṃ nivāraye, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp115-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP115]]
+> ◄  [[dhp114-pali-pts]] 📜  [[dhp116-pali-pts]] ►

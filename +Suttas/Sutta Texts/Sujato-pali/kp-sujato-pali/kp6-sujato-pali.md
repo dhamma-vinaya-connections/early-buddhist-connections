@@ -248,3 +248,5 @@ The Discourse on the Treasures
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP6]]
+> ◄  [[kp5-sujato-pali]] 📜  [[kp7-sujato-pali]] ►

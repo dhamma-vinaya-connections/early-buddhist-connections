@@ -91,4 +91,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.73
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.73.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.72]]  🌐 [[AN4.74]] ►

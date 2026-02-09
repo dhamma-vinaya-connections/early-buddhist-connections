@@ -53,5 +53,6 @@ Navamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.53]], [[SN56.11]], [[MN72]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.83]]
 > ◄  [[an7.82-sujato-pali]] 📜  [[an7.84-sujato-pali]] ►

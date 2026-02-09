@@ -92,4 +92,5 @@ if they’re jealous, stingy, and devious
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp19
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp19.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP18]]  🌐 [[DHP20]] ►

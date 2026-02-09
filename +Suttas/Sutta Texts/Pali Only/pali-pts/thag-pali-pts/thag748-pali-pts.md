@@ -23,3 +23,5 @@ antovaṅkagato āsiṃ maccho va ghasam āmisaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag748-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG748]]
+> ◄  [[thag747-pali-pts]] 📜  [[thag749-pali-pts]] ►

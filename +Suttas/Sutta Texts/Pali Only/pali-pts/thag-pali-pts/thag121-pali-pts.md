@@ -23,3 +23,5 @@ etaṃ ādīnavaṃ ñatvā bhaven'; amhi anatthiko,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag121-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG121]]
+> ◄  [[thag120-pali-pts]] 📜  [[thag122-pali-pts]] ►

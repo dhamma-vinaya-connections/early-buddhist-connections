@@ -23,3 +23,5 @@ khepetvā jātisaṃsāraṃ pariññāya punabbhavaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig167-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG167]]
+> ◄  [[thig166-pali-pts]] 📜  [[thig168-pali-pts]] ►

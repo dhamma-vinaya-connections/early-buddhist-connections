@@ -77,5 +77,10 @@ The Rāhula Sutta, the eleventh, is concluded.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.11-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN61]], [[MN62]], [[MN147]], [[THAG4:8]], [[SN41.7]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.11]]
 > ◄  [[snp2.10-deepseek-pali]] 📜  [[snp2.12-deepseek-pali]] ►

@@ -93,5 +93,6 @@ pahārādo uposathoti.
 | [[PLI-TV-KD19]], [[EA48.2]], [[MA37]], [[AN8.19]], [[UD5.5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.20]]
 > ◄  [[an8.19-pali-sc]] 📜  [[an8.21-pali-sc]] ►

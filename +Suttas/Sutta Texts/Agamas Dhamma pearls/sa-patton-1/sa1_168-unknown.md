@@ -35,3 +35,5 @@ Summary Verse
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa1_168-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA1_168]]
+> ◄  [[SA1_167]] 📜  [[SA1_169]] ►

@@ -86,11 +86,12 @@ Then, when the night had passed, the Blessed One addressed the bhikkhus thus: �
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP383]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP311]], [[DHP312]], [[THAG4.3]], [[DHP313]], [[DHP314]], [[DHP383]], [[SN2.8]] |
+| [[DHP\|DHP311]], [[DHP\|DHP312]], [[THAG4]].3, [[DHP\|DHP313]], [[DHP\|DHP314]], [[DHP\|DHP383]], [[SN2.8]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.8]]
 > ◄  [[sn2.7-bodhi]] 📜  [[sn2.9-bodhi]] ►

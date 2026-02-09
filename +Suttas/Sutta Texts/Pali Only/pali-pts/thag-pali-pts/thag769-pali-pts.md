@@ -23,3 +23,5 @@ passa cittakataṃ rūpaṃ maṇinā kuṇḍalena ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag769-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG769]]
+> ◄  [[thag768-pali-pts]] 📜  [[thag770-pali-pts]] ►

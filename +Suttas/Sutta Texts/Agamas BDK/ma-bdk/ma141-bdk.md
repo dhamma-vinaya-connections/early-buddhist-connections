@@ -30,6 +30,6 @@ of the Tathāgata’s disciples is foremost; just as, of all dharmas, conditione
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN31]], [[SN3.17]], [[SN45.141-148]] | [[DA16]], [[EA26.1-4]], [[MA135]], [[SA1239]], [[SA2.66]] |  |
+> |  | [[DA16]], [[EA26.1-4]], [[MA135]], [[SA1239]], [[SA2.66]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA141]]
 > ◄  [[ma140-bdk]] 📜  [[ma142-bdk]] ►

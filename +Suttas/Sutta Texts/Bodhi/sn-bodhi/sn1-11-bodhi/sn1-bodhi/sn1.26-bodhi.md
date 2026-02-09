@@ -49,11 +49,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP387]], [[SN2.4]] | [[SA-2.309]], [[SA1310]] |  |
+> |  | [[SA-2.309]], [[SA1310]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.309]], [[SA1310]], [[SN2.4]], [[DHP387]], [[SN21.11]] |
+| [[SA-2.309]], [[SA1310]], [[SN2.4]], [[DHP\|DHP387]], [[SN21.11]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.26]]
 > ◄  [[sn1.25-bodhi]] 📜  [[sn1.27-bodhi]] ►

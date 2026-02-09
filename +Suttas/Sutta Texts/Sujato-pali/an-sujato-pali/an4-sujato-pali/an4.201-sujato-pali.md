@@ -64,5 +64,6 @@ Paṭhamaṁ.
 | [[SA1055]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.201]]
 > ◄  [[an4.200-sujato-pali]] 📜  [[an4.202-sujato-pali]] ►

@@ -46,5 +46,6 @@ cittavūpasamassa cā"ti.
 | [[SA-2.316]], [[SA1317]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.1]]
 > ◄  [[]] 📜  [[sn2.2-pali-sc]] ►

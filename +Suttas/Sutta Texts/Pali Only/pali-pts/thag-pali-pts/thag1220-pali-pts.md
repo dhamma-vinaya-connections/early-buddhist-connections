@@ -23,3 +23,5 @@ na hi socati bhikkhu kadāci maggajino sammā paṭipanno,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1220-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1220]]
+> ◄  [[thag1219-pali-pts]] 📜  [[thag1221-pali-pts]] ►

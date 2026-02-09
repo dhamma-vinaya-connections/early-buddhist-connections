@@ -28,3 +28,5 @@ Phuṭṭho ḍaṃsehi makasehi araññasmiṃ brahāvane
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag30-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG30]]
+> ◄  [[thag29-pali-pts]] 📜  [[thag31-pali-pts]] ►

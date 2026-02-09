@@ -23,3 +23,5 @@ kānanaṃ va sahitaṃ suropitaṃ kocchasūcivicitaggasobhitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig253-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG253]]
+> ◄  [[thig252-pali-pts]] 📜  [[thig254-pali-pts]] ►

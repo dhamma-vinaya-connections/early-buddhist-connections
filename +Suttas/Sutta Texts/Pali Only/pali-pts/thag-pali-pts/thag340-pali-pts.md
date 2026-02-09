@@ -25,3 +25,5 @@ yajiṃ uccāvace yaññe, aggihuttaṃ juhiṃ ahaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag340-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG340]]
+> ◄  [[thag339-pali-pts]] 📜  [[thag341-pali-pts]] ►

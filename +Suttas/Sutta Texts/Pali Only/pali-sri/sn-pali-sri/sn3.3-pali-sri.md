@@ -331,11 +331,12 @@ Kosalasaṃyuttaṃ samattaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP151]] | [[EA26.6]], [[SA-2.67]], [[SA1240]] |  |
+> |  | [[EA26.6]], [[SA-2.67]], [[SA1240]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[EA26.6]], [[SA-2.67]], [[SA1240]], [[DHP151]], [[JA537]] |
+| [[EA26.6]], [[SA-2.67]], [[SA1240]], [[DHP\|DHP151]], [[JA537]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.3]]
 > ◄  [[sn3.2-pali-sri]] 📜  [[sn4.1-pali-sri]] ►

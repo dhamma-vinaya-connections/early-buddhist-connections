@@ -23,3 +23,5 @@ ahaṃ sakaraṇīyo 'mhi sekho appattamānaso,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1044-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1044]]
+> ◄  [[thag1040-pali-pts]] 📜  [[thag1045-pali-pts]] ►

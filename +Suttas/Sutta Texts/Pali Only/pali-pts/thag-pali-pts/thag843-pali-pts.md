@@ -23,3 +23,5 @@ paṃsukūlī sātatiko uñchāpattāgate rato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag843-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG843]]
+> ◄  [[thag842-pali-pts]] 📜  [[thag844-pali-pts]] ►

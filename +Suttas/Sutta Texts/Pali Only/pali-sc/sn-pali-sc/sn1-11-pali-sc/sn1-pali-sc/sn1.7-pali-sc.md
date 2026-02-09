@@ -44,5 +44,6 @@ Caranti visame saman"ti.
 | [[SA-2.164]], [[SA579]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.7]]
 > ◄  [[sn1.6-pali-sc]] 📜  [[sn1.8-pali-sc]] ►

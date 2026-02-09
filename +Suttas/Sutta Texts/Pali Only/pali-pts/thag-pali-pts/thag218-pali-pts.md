@@ -33,3 +33,5 @@ Ayonisuddhiṃ anvesaṃ aggiṃ paricariṃ vane,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag218-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG218]]
+> ◄  [[thag217-pali-pts]] 📜  [[thag219-pali-pts]] ►

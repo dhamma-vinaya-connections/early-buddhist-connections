@@ -37,3 +37,5 @@ attains the ending of stress.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti16-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI16]]
+> ◄  [[iti15-thanissaro]] 📜  [[iti17-thanissaro]] ►

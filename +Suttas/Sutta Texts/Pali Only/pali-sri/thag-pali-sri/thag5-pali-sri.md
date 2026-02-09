@@ -565,3 +565,5 @@ Pañcakanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG5]]
+> ◄  [[thag4-pali-sri]] 📜  [[thag6-pali-sri]] ►

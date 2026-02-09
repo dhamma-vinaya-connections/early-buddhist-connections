@@ -31,3 +31,5 @@ If they develop the power of faith … the power of energy … the power of mind
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.414-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.414]]
+> ◄  [[an1.410-sujato-pali]] 📜  [[an1.424-sujato-pali]] ►

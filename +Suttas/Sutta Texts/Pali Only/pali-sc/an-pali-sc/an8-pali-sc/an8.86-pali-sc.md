@@ -64,11 +64,12 @@ Chaṭṭhaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.30]] | [[SA1250]] | A iv 340 |
+> |  | [[SA1250]] | A iv 340 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.30]], [[SA1250]], [[AN6.42]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.86]]
 > ◄  [[an8.85-pali-sc]] 📜  [[an8.87-pali-sc]] ►

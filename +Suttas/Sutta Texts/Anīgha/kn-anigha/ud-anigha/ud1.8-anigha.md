@@ -36,3 +36,5 @@ Then, understanding this matter, on that occasion the Auspicious One expressed t
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.8]]
+> ◄  [[]] 📜  [[]] ►

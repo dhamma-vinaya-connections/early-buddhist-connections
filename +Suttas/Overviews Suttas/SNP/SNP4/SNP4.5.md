@@ -97,4 +97,5 @@ or think of oneself as “inferior” or “superior.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.5
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.4]]  🌐 [[SNP4.6]] ►

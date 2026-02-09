@@ -32,15 +32,16 @@ As with dwelling in dependence on a forest, in the same way it is with dwelling 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.6]], [[MN114]] | [[EA45.3]] |  |
+> |  | [[EA45.3]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG15.1]], [[PE2]], [[AN3.136]] |
+| [[THAG15]].1, [[PE2]], [[AN3.136]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.6]], [[MA88]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA107]]
 > ◄  [[ma106-bdk]] 📜  [[ma108-bdk]] ►

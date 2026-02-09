@@ -258,7 +258,7 @@ The nun Dharmadinnā answered, “Madam, you’re asking about an endless subjec
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN44]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN11.17]], [[EA49.5]], [[SN12.57]] |
@@ -267,6 +267,7 @@ The nun Dharmadinnā answered, “Madam, you’re asking about an endless subjec
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.6]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA210]]
 > ◄  [[ma204-patton]] 📜  [[]] ►

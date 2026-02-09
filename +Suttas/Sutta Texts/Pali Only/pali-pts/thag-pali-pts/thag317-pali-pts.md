@@ -27,3 +27,5 @@ abbūḷhaṃ aghataṃ vijitaṃ ekañ ce ossajjeyya kalī va siyā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag317-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG317]]
+> ◄  [[thag316-pali-pts]] 📜  [[thag321-pali-pts]] ►

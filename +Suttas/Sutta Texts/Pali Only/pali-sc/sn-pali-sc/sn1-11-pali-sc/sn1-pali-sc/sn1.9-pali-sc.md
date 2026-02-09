@@ -44,5 +44,6 @@ Sa maccudheyyassa tareyya pāran"ti.
 | [[SA-2.133]], [[SA996]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.9]]
 > ◄  [[sn1.8-pali-sc]] 📜  [[sn1.10-pali-sc]] ►

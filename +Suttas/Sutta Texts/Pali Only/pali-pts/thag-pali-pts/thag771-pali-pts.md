@@ -23,3 +23,5 @@ aṭṭhāpadakatā kesā, nettā añjanamakkhitā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag771-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG771]]
+> ◄  [[thag770-pali-pts]] 📜  [[thag772-pali-pts]] ►

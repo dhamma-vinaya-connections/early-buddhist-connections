@@ -605,5 +605,6 @@ Aggisaññāaparā duve sīmu 4. Aggisaññā ca dve parāmachasaṃ
 | [[PE8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
 > ◄  [[an4.4-pali-sri]] 📜  [[an4.6-pali-sri]] ►

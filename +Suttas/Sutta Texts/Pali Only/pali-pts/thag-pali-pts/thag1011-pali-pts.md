@@ -23,3 +23,5 @@ taṃ jhāyinaṃ sātatikaṃ sukhumadiṭṭhivipassakaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1011-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1011]]
+> ◄  [[thag1010-pali-pts]] 📜  [[thag1012-pali-pts]] ►

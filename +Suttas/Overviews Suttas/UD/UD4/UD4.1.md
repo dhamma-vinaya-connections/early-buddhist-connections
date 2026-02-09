@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN9.3]]"
+parallels_nikaya: ""
 parallels_agama: "[[MA56]]"
 parallels_partilal: "[[AN9.3]], [[MA56]]"
 ---
@@ -66,7 +66,7 @@ a mendicant who has overcome dullness and drowsiness
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.3]] | [[MA56]] |  |
+> |  | [[MA56]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN9.3]], [[MA56]] |
@@ -92,5 +92,6 @@ a mendicant who has overcome dullness and drowsiness
 > - Sutta Central: https://suttacentral.net/ud4.1/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.1
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.1.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.10]]  🌐 [[UD4.2]] ►

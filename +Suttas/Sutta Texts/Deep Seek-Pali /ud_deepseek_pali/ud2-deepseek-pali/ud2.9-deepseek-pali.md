@@ -37,3 +37,5 @@ All that is dependent on others is suffering, all that is independent is happine
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud2.9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.9]]
+> ◄  [[ud2.8-deepseek-pali]] 📜  [[ud2.10-deepseek-pali]] ►

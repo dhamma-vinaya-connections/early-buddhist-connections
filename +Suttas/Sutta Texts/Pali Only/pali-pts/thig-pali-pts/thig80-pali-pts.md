@@ -23,3 +23,5 @@ daḷhapāsaṃ karitvāna rukkhasākhāya bandhiya |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig80-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG80]]
+> ◄  [[thig79-pali-pts]] 📜  [[thig81-pali-pts]] ►

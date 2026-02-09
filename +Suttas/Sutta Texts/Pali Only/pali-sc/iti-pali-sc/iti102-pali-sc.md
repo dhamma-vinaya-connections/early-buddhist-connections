@@ -44,5 +44,6 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Pañcamaṃ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.86]], [[ITI62]], [[AN56:22]], [[SN3.12]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI102]]
 > ◄  [[iti101-pali-sc]] 📜  [[iti103-pali-sc]] ►

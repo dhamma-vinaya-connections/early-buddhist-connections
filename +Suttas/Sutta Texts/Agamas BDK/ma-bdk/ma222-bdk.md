@@ -1365,3 +1365,5 @@ This is a offline tool, your data stays locally and is not send to any server!
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma222-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA222]]
+> ◄  [[ma221-bdk]] 📜  [[]] ►

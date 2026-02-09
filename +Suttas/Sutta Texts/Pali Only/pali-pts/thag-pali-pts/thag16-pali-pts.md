@@ -25,3 +25,5 @@ Middhī yadā hoti mahagghaso ca niddāyitā samparivattasāyī
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag16-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG16]]
+> ◄  [[thag15-pali-pts]] 📜  [[thag17-pali-pts]] ►

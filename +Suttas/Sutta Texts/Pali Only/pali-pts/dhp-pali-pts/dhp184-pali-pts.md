@@ -25,3 +25,5 @@ mattaññutā ca bhattasmiṃ pantañ ca sayanāsanaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp184-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP184]]
+> ◄  [[dhp183-pali-pts]] 📜  [[dhp185-pali-pts]] ►

@@ -23,3 +23,5 @@ niyyāniko uttaraṇo taṇhāmūlavisosano,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag417-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG417]]
+> ◄  [[thag416-pali-pts]] 📜  [[thag418-pali-pts]] ►

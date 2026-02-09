@@ -23,3 +23,5 @@ yo ca sītañ ca uṇhañ ca tiṇā bhiyyo na maññati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag231-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG231]]
+> ◄  [[thag230-pali-pts]] 📜  [[thag232-pali-pts]] ►

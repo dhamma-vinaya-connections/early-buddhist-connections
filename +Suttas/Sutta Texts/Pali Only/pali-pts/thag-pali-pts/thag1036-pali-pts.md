@@ -23,3 +23,5 @@ dassanāya atikkante nānāverajjake bahū
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1036-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1036]]
+> ◄  [[thag1035-pali-pts]] 📜  [[thag1037-pali-pts]] ►

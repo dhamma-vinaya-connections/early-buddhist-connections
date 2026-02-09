@@ -114,5 +114,6 @@ Sattamaṁ.
 | [[SA497]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.167]]
 > ◄  [[an5.166-sujato-pali]] 📜  [[an5.168-sujato-pali]] ►

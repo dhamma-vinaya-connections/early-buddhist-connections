@@ -68,15 +68,16 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN36.19]] | [[SA485]] | M i 396 |
+> |  | [[SA485]] | M i 396 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA485]]; [[SN36.19]] |
+| [[SA485]], [[SN36.19]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN137]]; [[AN9.34]], [[SN36.22.]]
+> - [[MN137]], [[AN9.34]], [[SN36.22.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN59]]
 > ◄  [[mn58-bodhi]] 📜  [[mn60-bodhi]] ►

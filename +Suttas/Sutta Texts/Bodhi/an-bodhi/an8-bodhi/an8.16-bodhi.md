@@ -54,5 +54,6 @@ of going on a mission.
 | [[PLI-TV-KD17]], [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.16]]
 > ◄  [[an8.15-bodhi]] 📜  [[an8.17-bodhi]] ►

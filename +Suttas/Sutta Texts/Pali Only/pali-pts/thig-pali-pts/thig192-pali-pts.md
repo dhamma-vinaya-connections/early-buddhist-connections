@@ -23,3 +23,5 @@ dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig192-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG192]]
+> ◄  [[thig191-pali-pts]] 📜  [[thig193-pali-pts]] ►

@@ -83,3 +83,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn_summary-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SN_SUMMARY]]
+> ◄  [[]] 📜  [[]] ►

@@ -56,11 +56,12 @@ A killer obtains a killer; the victor finds a victor; an abuser obtains abuse; t
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP69]] | [[SA-2.64]], [[SA1237]] |  |
+> |  | [[SA-2.64]], [[SA1237]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.64]], [[SA1237]], [[JA239]], [[DHP69]] |
+| [[SA-2.64]], [[SA1237]], [[JA239]], [[DHP\|DHP69]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.15]]
 > ◄  [[sn3.14-deepseek-pali]] 📜  [[sn3.16-deepseek-pali]] ►

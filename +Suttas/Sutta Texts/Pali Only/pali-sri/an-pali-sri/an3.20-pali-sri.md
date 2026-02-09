@@ -459,5 +459,6 @@ Catuttho paṇṇāsako samatto.
 | [[SA-3.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.20]]
 > ◄  [[an3.19-pali-sri]] 📜  [[an3.21-pali-sri]] ►

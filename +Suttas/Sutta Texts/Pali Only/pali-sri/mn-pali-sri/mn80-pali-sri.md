@@ -139,5 +139,6 @@ Puṇḍarī aggi sahā katināmo, dīghanakho puna bhāradvājagotto sandaka ud
 | [[MA209]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
 > ◄  [[mn79-pali-sri]] 📜  [[mn81-pali-sri]] ►

@@ -219,3 +219,5 @@ Dvādasanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG12]]
+> ◄  [[thag11-pali-sri]] 📜  [[thag13-pali-sri]] ►

@@ -24,3 +24,5 @@ na muṇḍakena samaṇo abbato alikaṃ bhaṇaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp263-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP263]]
+> ◄  [[dhp262-pali-pts]] 📜  [[dhp264-pali-pts]] ►

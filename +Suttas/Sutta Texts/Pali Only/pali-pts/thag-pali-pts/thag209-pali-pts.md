@@ -23,3 +23,5 @@ susukhumanipuṇatthadassinā matikusalena nivātavuttinā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag209-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG209]]
+> ◄  [[thag208-pali-pts]] 📜  [[thag210-pali-pts]] ►

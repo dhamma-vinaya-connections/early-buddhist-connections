@@ -24,3 +24,5 @@ ye jhānapasutā dhīrā nekkhammūpasame ratā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp180-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP180]]
+> ◄  [[dhp179-pali-pts]] 📜  [[dhp181-pali-pts]] ►

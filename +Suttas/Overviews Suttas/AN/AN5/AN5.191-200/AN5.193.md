@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[SN46.55]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[SN46.55]]"
 ---
@@ -64,7 +64,7 @@ parallels_partilal: "[[SN46.55]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN46.55]] |  | A iii 230 |
+> |  |  | A iii 230 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN46.55]] |
@@ -87,5 +87,6 @@ parallels_partilal: "[[SN46.55]]"
 > - Sutta Central: https://suttacentral.net/an5.193/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.193
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.193.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.192]]  🌐 [[AN5.194]] ►

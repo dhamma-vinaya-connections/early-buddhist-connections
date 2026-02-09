@@ -23,3 +23,5 @@ niggayha anukampāya coditā ñātayo mayā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag240-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG240]]
+> ◄  [[thag239-pali-pts]] 📜  [[thag241-pali-pts]] ►

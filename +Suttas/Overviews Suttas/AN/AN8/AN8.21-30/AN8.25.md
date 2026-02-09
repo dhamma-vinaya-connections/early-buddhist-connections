@@ -86,4 +86,5 @@ parallels_partilal: "[[SA-2.154]], [[SA929]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.25
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.25.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.24]]  🌐 [[AN8.26]] ►

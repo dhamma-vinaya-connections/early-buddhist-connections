@@ -23,3 +23,5 @@ iddhi pi me sacchikatā patto me āsavakkhayo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig227-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG227]]
+> ◄  [[thig226-pali-pts]] 📜  [[thig228-pali-pts]] ►

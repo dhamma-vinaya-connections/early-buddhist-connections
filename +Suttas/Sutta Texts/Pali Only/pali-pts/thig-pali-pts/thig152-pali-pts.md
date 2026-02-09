@@ -23,3 +23,5 @@ yattakaṃ tulitā esā tuyhaṃ dhītā Anopamā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig152-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG152]]
+> ◄  [[thig151-pali-pts]] 📜  [[thig153-pali-pts]] ►

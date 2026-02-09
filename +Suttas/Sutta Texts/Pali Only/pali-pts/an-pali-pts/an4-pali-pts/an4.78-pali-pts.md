@@ -33,5 +33,6 @@ Pasādā kho tvaṃ Ānanda vadesi, ñāṇam eva h'; ettha Ānanda Tathāgatass
 | [[MN142]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.78]]
 > ◄  [[an4.77-pali-pts]] 📜  [[an4.79-pali-pts]] ►

@@ -43,5 +43,6 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||5||
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN26]], [[AN3.39]], [[AN4.252]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI54]]
 > ◄  [[iti53-pali-pts]] 📜  [[iti55-pali-pts]] ►

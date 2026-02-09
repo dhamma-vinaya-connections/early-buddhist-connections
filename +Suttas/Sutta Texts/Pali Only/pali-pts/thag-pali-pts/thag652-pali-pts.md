@@ -23,3 +23,5 @@ nagaraṃ yathā paccantaṃ guttaṃ santarabāhiraṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag652-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG652]]
+> ◄  [[thag651-pali-pts]] 📜  [[thag653-pali-pts]] ►

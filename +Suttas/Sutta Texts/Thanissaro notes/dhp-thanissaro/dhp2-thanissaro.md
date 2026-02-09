@@ -207,5 +207,6 @@ of Unbinding.
 | [[EA52.7]], [[PE2]], [[PE8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP2]]
 > ◄  [[dhp1-thanissaro]] 📜  [[dhp3-thanissaro]] ►

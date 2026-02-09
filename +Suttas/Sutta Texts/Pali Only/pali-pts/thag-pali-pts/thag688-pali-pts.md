@@ -24,3 +24,5 @@ Manussabhūtaṃ sambuddhaṃ attadantaṃ samāhitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag688-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG688]]
+> ◄  [[thag687-pali-pts]] 📜  [[thag689-pali-pts]] ►

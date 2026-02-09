@@ -34,7 +34,7 @@ That there is a way of practice that is pleasant now and results in future pleas
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN46]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.10]] |
@@ -43,6 +43,7 @@ That there is a way of practice that is pleasant now and results in future pleas
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.192]], [[MA174]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA175]]
 > ◄  [[ma174-bdk]] 📜  [[ma176-bdk]] ►

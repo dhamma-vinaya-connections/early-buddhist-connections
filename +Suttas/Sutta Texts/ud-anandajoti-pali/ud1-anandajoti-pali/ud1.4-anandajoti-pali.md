@@ -64,5 +64,6 @@ Catutthaṁ.
 | [[PLI-TV-KD1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.4]]
 > ◄  [[ud1.3-anandajoti-pali]] 📜  [[ud1.5-anandajoti-pali]] ►

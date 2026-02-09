@@ -31,3 +31,5 @@ Yaññatthaṃ vā dhanatthaṃ vā ye hanāma mayaṃ pure
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag704-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG704]]
+> ◄  [[thag703-pali-pts]] 📜  [[thag705-pali-pts]] ►

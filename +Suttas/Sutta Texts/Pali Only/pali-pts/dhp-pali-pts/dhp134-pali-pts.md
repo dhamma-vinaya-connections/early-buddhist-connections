@@ -24,3 +24,5 @@ yathā daṇḍena gopālo gāvo pāceti gocaraṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp134-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP134]]
+> ◄  [[dhp133-pali-pts]] 📜  [[dhp135-pali-pts]] ►

@@ -62,11 +62,12 @@ Pañcamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP241]], [[DHP242]] |  | A iv 195 |
+> |  |  | A iv 195 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP241]], [[DHP242]] |
+| [[DHP\|DHP241]], [[DHP\|DHP242]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.15]]
 > ◄  [[an8.14-sujato-pali]] 📜  [[an8.16-sujato-pali]] ►

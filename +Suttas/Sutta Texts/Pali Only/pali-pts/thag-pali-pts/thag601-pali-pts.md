@@ -23,3 +23,5 @@ vasitam me araññesu kandarāsu guhāsu ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag601-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG601]]
+> ◄  [[thag600-pali-pts]] 📜  [[thag602-pali-pts]] ►

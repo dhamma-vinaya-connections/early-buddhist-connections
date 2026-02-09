@@ -486,7 +486,7 @@ Venerable Kimbila said, “Bhagavān, I am doing well. There isn’t anything th
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN128]], [[MN31]] | [[EA24.8]], [[MA185]] |  |
+> |  | [[EA24.8]], [[MA185]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN22]], [[EA27.1]], [[MA31]], [[EA12.1]], [[MA98]], [[MN10]] |
@@ -495,6 +495,7 @@ Venerable Kimbila said, “Bhagavān, I am doing well. There isn’t anything th
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA73]], [[MN127]], [[MN31]], [[MN48]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA72]]
 > ◄  [[ma58-patton]] 📜  [[ma73-patton]] ►

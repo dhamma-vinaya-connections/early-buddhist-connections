@@ -45,3 +45,5 @@ Forest Dwelling, Robe-Wearer, Tree-Root Dweller, Charnel Ground Dweller, Open-Ai
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.190-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.190]]
+> ◄  [[an5.189-deepseek-pali]] 📜  [[an5.191-deepseek-pali]] ►

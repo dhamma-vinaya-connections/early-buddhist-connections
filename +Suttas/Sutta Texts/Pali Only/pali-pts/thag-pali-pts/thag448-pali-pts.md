@@ -23,3 +23,5 @@ maccun'; abbhāhato loko parikkhitto jarāya ca,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag448-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG448]]
+> ◄  [[thag447-pali-pts]] 📜  [[thag449-pali-pts]] ►

@@ -26,3 +26,5 @@ Pahāya mātāpitaro bhaginīñātibhātaro
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag891-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG891]]
+> ◄  [[thag890-pali-pts]] 📜  [[thag892-pali-pts]] ►

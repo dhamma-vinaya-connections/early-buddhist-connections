@@ -53,8 +53,9 @@ icchādhūpāyito sadā"ti.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG6.13]] |
+| [[THAG6]].13 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.66]]
 > ◄  [[sn1.65-sujato-pali]] 📜  [[sn1.67-sujato-pali]] ►

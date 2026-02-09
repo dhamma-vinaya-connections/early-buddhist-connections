@@ -91,4 +91,5 @@ The peaceful sleep well
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.35
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.35.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.34]]  🌐 [[AN3.36]] ►

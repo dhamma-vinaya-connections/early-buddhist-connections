@@ -23,3 +23,5 @@ cirassaṃ vata me mahito mahesi mahāvanaṃ samaṇo paccupādi;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag867-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG867]]
+> ◄  [[thag866-pali-pts]] 📜  [[thag868-pali-pts]] ►

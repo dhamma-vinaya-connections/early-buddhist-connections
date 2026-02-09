@@ -95,4 +95,5 @@ no one should wish suffering for another.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp1.8
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp1.8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP1.7]]  🌐 [[SNP1.9]] ►

@@ -95,4 +95,5 @@ this is the highest blessing.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.4
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.4.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.3]]  🌐 [[SNP2.5]] ►

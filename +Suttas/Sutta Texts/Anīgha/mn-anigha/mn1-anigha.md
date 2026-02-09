@@ -112,12 +112,13 @@ That is what the Auspicious One said. But the bhikkhus did not delight in what t
 > |  | [[EA44.6]]; [[MA106]] | M i 1 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA106]]; [[EA44.6]] |
+| [[MA106]], [[EA44.6]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN35.248]], [[AN4.174]], [[AN10.58]], [[SN35.30]]
+> - [[SN35:248]], [[AN4.174]], [[AN10.58]], [[SN35.30]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN1]]
 > ◄  [[]] 📜  [[mn2-anigha]] ►

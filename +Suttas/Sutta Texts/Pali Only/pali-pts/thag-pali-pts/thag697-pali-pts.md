@@ -23,3 +23,5 @@ bhuñjati anavajjāni, sāvajjāni na bhuñjati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag697-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG697]]
+> ◄  [[thag695-pali-pts]] 📜  [[thag698-pali-pts]] ►

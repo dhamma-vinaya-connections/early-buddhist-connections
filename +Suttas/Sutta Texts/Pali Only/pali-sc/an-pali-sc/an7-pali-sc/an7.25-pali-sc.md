@@ -42,5 +42,6 @@ Pañcamaṁ.
 | [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.25]]
 > ◄  [[an7.24-pali-sc]] 📜  [[an7.26-pali-sc]] ►

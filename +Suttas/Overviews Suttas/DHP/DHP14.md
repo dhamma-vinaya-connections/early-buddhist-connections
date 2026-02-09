@@ -36,7 +36,7 @@ sutta_audience:
   - "Lay followers"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG2.7]]"
+parallels_partilal: "[[THAG2]].7"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP13]]  🌐 [[DHP15]] ►
 
@@ -74,7 +74,7 @@ with right understanding
 > |  |  | Dh 51 |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG2.7]] |
+| [[THAG2]].7 |
 | ------------------------ |
 
 
@@ -94,5 +94,6 @@ with right understanding
 > - Sutta Central: https://suttacentral.net/dhp14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp14
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp14.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP13]]  🌐 [[DHP15]] ►

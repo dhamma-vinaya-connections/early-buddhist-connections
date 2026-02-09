@@ -94,4 +94,5 @@ Sustain their life by rain
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.53
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.53.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.52]]  🌐 [[SN1.54]] ►

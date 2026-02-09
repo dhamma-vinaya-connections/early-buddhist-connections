@@ -51,3 +51,5 @@ are cut through.”
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.69-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.69]]
+> ◄  [[sn1.65-thanissaro]] 📜  [[sn1.71-thanissaro]] ►

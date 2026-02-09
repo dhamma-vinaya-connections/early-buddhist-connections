@@ -22,3 +22,5 @@ iddhibalen'; upatthaddho saṃvejesi ca devatā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1194-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1194]]
+> ◄  [[thag1193-pali-pts]] 📜  [[thag1195-pali-pts]] ►

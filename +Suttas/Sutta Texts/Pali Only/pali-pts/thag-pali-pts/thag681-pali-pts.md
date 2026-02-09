@@ -23,3 +23,5 @@ anuddhato acapalo nipako saṃvutindriyo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag681-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG681]]
+> ◄  [[thag680-pali-pts]] 📜  [[thag682-pali-pts]] ►

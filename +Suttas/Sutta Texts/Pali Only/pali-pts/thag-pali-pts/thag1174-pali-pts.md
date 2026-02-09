@@ -23,3 +23,5 @@ kimī va mīḷhasallitto saṃkhāre adhimucchito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1174-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1174]]
+> ◄  [[thag1173-pali-pts]] 📜  [[thag1175-pali-pts]] ►

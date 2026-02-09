@@ -33,5 +33,6 @@ Pañcahi bhikkhave dhammehi samannāgato gilāno supaṭṭhāko hoti. Katamehi 
 | [[EA32.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.124]]
 > ◄  [[an5.123-pali-pts]] 📜  [[an5.125-pali-pts]] ►

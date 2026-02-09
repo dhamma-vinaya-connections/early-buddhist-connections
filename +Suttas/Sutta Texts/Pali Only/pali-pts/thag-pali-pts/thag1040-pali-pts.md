@@ -25,3 +25,5 @@ buddhassa caṅkamantassa piṭṭhito anucaṅkamiṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1040-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1040]]
+> ◄  [[thag1039-pali-pts]] 📜  [[thag1044-pali-pts]] ►

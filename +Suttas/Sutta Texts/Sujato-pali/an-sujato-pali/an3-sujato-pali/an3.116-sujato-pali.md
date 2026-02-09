@@ -58,5 +58,6 @@ Catutthaṁ.
 | [[AN4.123]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.116]]
 > ◄  [[an3.115-sujato-pali]] 📜  [[an3.117-sujato-pali]] ►

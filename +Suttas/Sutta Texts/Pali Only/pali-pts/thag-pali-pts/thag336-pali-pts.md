@@ -23,3 +23,5 @@ ajjhattañ ca bahiddhā ca ye me vijjiṃsu āsavā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag336-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG336]]
+> ◄  [[thag335-pali-pts]] 📜  [[thag337-pali-pts]] ►

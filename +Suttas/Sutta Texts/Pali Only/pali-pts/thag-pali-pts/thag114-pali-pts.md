@@ -23,3 +23,5 @@ Es'; āvahiyyase pabbatena bahukuṭajasallakikena
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag114-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG114]]
+> ◄  [[thag113-pali-pts]] 📜  [[thag115-pali-pts]] ►

@@ -25,3 +25,5 @@ gāmā araññam āgamma tato gehaṃ upāvisiṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag33-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG33]]
+> ◄  [[thag32-pali-pts]] 📜  [[thag34-pali-pts]] ►

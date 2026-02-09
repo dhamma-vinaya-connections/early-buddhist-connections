@@ -23,3 +23,5 @@ mahāgini pajjalito anāhāro pasammati
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag701-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG701]]
+> ◄  [[thag700-pali-pts]] 📜  [[thag702-pali-pts]] ►

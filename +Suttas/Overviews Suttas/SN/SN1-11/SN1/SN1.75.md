@@ -92,4 +92,5 @@ Avoid these fissures completely.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.75
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.75.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.74]]  🌐 [[SN1.76]] ►

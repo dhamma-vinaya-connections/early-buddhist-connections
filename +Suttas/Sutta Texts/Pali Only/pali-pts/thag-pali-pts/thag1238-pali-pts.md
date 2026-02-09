@@ -23,3 +23,5 @@ suṇanti dhammaṃ vipulaṃ sammāsambuddhadesitaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1238-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1238]]
+> ◄  [[thag1237-pali-pts]] 📜  [[thag1239-pali-pts]] ►

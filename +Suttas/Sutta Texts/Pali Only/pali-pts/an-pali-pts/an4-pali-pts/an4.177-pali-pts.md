@@ -33,5 +33,6 @@ Saddhā bhikkhave bhikkhunī evaṃ sammā āyācamānā āyāceyya: tādisā ho
 | [[SA465]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.177]]
 > ◄  [[an4.176-pali-pts]] 📜  [[an4.178-pali-pts]] ►

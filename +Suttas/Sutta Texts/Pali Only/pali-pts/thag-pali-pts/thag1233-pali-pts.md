@@ -23,3 +23,5 @@ ajja pannarase visuddhiyā bhikkhū pañcasatā samagatā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1233-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1233]]
+> ◄  [[thag1232-pali-pts]] 📜  [[thag1234-pali-pts]] ►

@@ -64,5 +64,6 @@ Navamaṁ.
 | [[EA43.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.59]]
 > ◄  [[an8.58-sujato-pali]] 📜  [[an8.60-sujato-pali]] ►

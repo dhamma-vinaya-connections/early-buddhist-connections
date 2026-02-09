@@ -50,5 +50,6 @@ Venerable Sāriputta neither approved nor rejected what those wanderers of other
 | [[AN7.20]], [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.42]]
 > ◄  [[an7.41-deepseek-pali]] 📜  [[an7.43-deepseek-pali]] ►

@@ -25,3 +25,5 @@ Dutiyaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.99-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.99]]
+> ◄  [[an1.98-pali-sc]] 📜  [[an1.100-pali-sc]] ►

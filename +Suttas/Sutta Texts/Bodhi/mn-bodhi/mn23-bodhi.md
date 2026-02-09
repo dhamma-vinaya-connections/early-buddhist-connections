@@ -87,8 +87,9 @@ That is what the Blessed One said. The venerable Kumāra Kassapa was satisfied a
 > |  | [[EA39.9]]; [[SA-2.18]]; [[SA1079]] | M i 142 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA39.9]]; [[SA-2.18]]; [[SA1079]] |
+| [[EA39.9]], [[SA-2.18]], [[SA1079]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN23]]
 > ◄  [[mn22-bodhi]] 📜  [[mn24-bodhi]] ►

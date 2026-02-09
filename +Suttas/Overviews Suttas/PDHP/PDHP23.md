@@ -102,4 +102,5 @@ this is the path to purity.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp23
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp23.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP22]]  🌐 [[PDHP24]] ►

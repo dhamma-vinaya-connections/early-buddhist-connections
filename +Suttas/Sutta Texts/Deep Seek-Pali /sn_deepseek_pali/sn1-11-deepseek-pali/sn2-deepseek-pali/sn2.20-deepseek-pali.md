@@ -92,11 +92,12 @@ Candimasa and Veṇḍu, Dīghalaṭṭhi and Nandana, Candana and Vāsudatta, S
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN143]], [[SN1.48]], [[SN55.26]] | [[EA51.8]], [[MA28]], [[SA-2.187]], [[SA1032]], [[SA593]] |  |
+> |  | [[EA51.8]], [[MA28]], [[SA-2.187]], [[SA1032]], [[SA593]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN143]], [[EA51.8]], [[MA28]], [[SA-2.187]], [[SA1032]], [[SA593]], [[SN1.48]], [[SN55.26]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.20]]
 > ◄  [[sn2.19-deepseek-pali]] 📜  [[sn2.21-deepseek-pali]] ►

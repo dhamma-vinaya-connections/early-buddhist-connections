@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-parallels_nikaya: "[[SN4.4]], [[SN4.5]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.25]], [[SA1086]], [[SA1096]]"
 parallels_partilal: "[[PLI-TV-KD1]], [[SA-2.25]], [[SA1086]], [[SN4.4]], [[SN4.5]], [[SA1096]]"
 ---
@@ -68,7 +68,7 @@ You’re defeated, end-maker
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN4.4]], [[SN4.5]] | [[SA-2.25]], [[SA1086]], [[SA1096]] |  |
+> |  | [[SA-2.25]], [[SA1086]], [[SA1096]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-KD1]], [[SA-2.25]], [[SA1086]], [[SN4.4]], [[SN4.5]], [[SA1096]] |
@@ -91,5 +91,6 @@ You’re defeated, end-maker
 > - Sutta Central: https://suttacentral.net/sn4.15/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.15
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.15.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.14]]  🌐 [[SN4.16]] ►

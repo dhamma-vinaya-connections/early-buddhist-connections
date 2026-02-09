@@ -54,5 +54,6 @@ Apaṇṇako ca kammanto,
 | [[ITI67]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.122]]
 > ◄  [[an3.121-pali-sc]] 📜  [[an3.123-pali-sc]] ►

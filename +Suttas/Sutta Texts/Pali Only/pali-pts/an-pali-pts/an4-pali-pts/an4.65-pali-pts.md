@@ -31,8 +31,9 @@ Paradāra-gamanañ cāpi nappasaṃsanti paṇḍitāti.
 > |  |  | A ii 71 |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG7.2]] |
+| [[THAG7]].2 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.65]]
 > ◄  [[an4.64-pali-pts]] 📜  [[an4.66-pali-pts]] ►

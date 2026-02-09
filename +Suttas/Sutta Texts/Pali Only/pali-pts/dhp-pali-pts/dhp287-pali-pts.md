@@ -24,3 +24,5 @@ na santi puttā tāṇāya na pitā na pi bandhavā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp287-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP287]]
+> ◄  [[dhp286-pali-pts]] 📜  [[dhp288-pali-pts]] ►

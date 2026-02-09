@@ -40,9 +40,9 @@ sutta_teacher:
 sutta_audience:
   - "King"
   - "Ascetics"
-parallels_nikaya: "[[DHP129]], [[DHP130]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP129]], [[DHP130]]"
+parallels_partilal: "[[DHP\|DHP129]], [[DHP\|DHP130]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.10]]  🌐 [[SNP3.12]] ►
 
@@ -75,15 +75,15 @@ the highest of the biped race.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP129]], [[DHP130]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP129]], [[DHP130]] |
+| [[DHP\|DHP129]], [[DHP\|DHP130]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[AN3.123]], [[DHP268]], [[DHP269]], [[ITI66]], [[ITI67]], [[SN1.12]]
+> - [[AN3.123]], [[DHP\|DHP268]], [[DHP\|DHP269]], [[ITI66]], [[ITI67]], [[SN1.12]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -101,5 +101,6 @@ the highest of the biped race.”
 > - Sutta Central: https://suttacentral.net/snp3.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.11
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.11.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.10]]  🌐 [[SNP3.12]] ►

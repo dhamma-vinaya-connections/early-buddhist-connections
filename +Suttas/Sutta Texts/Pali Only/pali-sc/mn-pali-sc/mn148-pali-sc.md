@@ -106,15 +106,16 @@ Nibbindaṁ virajjati, virāgā vimuccati. Vimuttasmiṁ vimuttamiti ñāṇaṁ
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN35.60]] | [[SA304]]; [[SA323-327]]; [[SA330]] | M iii 280 |
+> |  | [[SA304]]; [[SA323-327]]; [[SA330]] | M iii 280 |
 > > [!check]- Partial parallels 
 > > 
-| [[DN33]]; [[MN137]]; [[SA304]]; [[SN35.60]]; [[SA323-327]]; [[SA330]]; [[MN38]]; [[MN18]]; [[SN12.44]] |
+| [[DN33]], [[MN137]], [[SA304]], [[SN35.60]], [[SA323-327]], [[SA330]], [[MN38]], [[MN18]], [[SN12.44]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[UD1.10]], [[MN21]], [[MN145]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN148]]
 > ◄  [[mn147-pali-sc]] 📜  [[mn149-pali-sc]] ►

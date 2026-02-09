@@ -23,3 +23,5 @@ handa eko gamissāmi araññaṃ buddhavaṇṇitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag537-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG537]]
+> ◄  [[thag536-pali-pts]] 📜  [[thag538-pali-pts]] ►

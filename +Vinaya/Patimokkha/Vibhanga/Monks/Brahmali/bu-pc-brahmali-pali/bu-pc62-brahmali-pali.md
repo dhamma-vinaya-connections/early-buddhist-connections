@@ -89,7 +89,8 @@ Appāṇake sappāṇakasaññī, āpatti dukkaṭassa. Appāṇake vematiko, ā
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc62-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC62]] |
->|       |          | [[ñanatusita-analysis#^PC62]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC62]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC62]]

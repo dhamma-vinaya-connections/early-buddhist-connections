@@ -23,3 +23,5 @@ piṇḍapātapaṭikkanto selam āruyha Kassapo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1058-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1058]]
+> ◄  [[thag1057-pali-pts]] 📜  [[thag1059-pali-pts]] ►

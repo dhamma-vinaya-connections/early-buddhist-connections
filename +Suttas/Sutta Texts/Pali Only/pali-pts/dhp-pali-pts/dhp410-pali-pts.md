@@ -24,3 +24,5 @@ yassālayā na vijjanti aññāya akathaṃkathī /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp410-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP410]]
+> ◄  [[dhp409-pali-pts]] 📜  [[dhp411-pali-pts]] ►

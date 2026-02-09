@@ -23,3 +23,5 @@ kāmaṃ kāmesu damassu tāva sunakho va saṅkhalāboddho |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig508-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG508]]
+> ◄  [[thig507-pali-pts]] 📜  [[thig509-pali-pts]] ►

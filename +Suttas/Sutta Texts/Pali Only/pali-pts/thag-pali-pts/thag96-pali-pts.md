@@ -24,3 +24,5 @@ Hitvā satapalaṃ kaṃsaṃ sovaṇṇaṃ satarājikaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag96-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG96]]
+> ◄  [[thag95-pali-pts]] 📜  [[thag97-pali-pts]] ►

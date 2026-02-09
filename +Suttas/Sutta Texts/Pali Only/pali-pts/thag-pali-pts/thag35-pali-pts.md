@@ -24,3 +24,5 @@ Sādhu sutaṃ sādhu caritakaṃ sādhu sadā aniketavihāro
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag35-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG35]]
+> ◄  [[thag34-pali-pts]] 📜  [[thag36-pali-pts]] ►

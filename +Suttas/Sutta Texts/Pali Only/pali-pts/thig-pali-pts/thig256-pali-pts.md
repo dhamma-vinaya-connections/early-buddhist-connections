@@ -23,3 +23,5 @@ bhassarā surucirā yathā maṇi nettāhesuṃ abhinīla-m-āyatā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig256-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG256]]
+> ◄  [[thig255-pali-pts]] 📜  [[thig257-pali-pts]] ►

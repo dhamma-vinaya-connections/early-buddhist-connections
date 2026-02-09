@@ -23,3 +23,5 @@ Sukhaṃ sukhattho labhate tad ācaraṃ, kittiñ ca pappoti, yas'; assa vaḍ�
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag34-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG34]]
+> ◄  [[thag33-pali-pts]] 📜  [[thag35-pali-pts]] ►

@@ -183,13 +183,10 @@ Aniruddha and the others accepted the teaching and listened.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma77-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN68]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA10]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA77]]
 > ◄  [[ma76-patton]] 📜  [[ma78-patton]] ►

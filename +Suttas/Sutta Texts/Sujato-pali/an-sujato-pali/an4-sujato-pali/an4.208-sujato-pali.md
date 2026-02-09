@@ -58,5 +58,6 @@ Aṭṭhamaṁ.
 | [[SA1053]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.208]]
 > ◄  [[an4.207-sujato-pali]] 📜  [[an4.209-sujato-pali]] ►

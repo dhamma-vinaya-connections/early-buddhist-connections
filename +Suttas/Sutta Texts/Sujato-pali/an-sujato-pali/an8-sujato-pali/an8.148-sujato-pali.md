@@ -35,3 +35,5 @@ Aṭṭhakanipātapāḷi niṭṭhitā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.148-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.148]]
+> ◄  [[an8.121-sujato-pali]] 📜  [[]] ►

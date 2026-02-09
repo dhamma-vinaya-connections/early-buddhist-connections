@@ -88,4 +88,5 @@ I had not released the moon.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.9
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.8]]  🌐 [[SN2.10]] ►

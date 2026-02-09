@@ -28,3 +28,5 @@ Yato ahaṃ pabbajito sammāsambuddhasāsane,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag180-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG180]]
+> ◄  [[thag179-pali-pts]] 📜  [[thag181-pali-pts]] ►

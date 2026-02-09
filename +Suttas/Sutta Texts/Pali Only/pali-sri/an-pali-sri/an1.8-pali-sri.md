@@ -309,5 +309,6 @@ Evaṃ vutte bhagavā āyasmantaṃ udāyiṃ etadavoca: mā hevaṃ udāyi, mā
 | [[EA9.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.8]]
 > ◄  [[an1.7-pali-sri]] 📜  [[an1.9-pali-sri]] ►

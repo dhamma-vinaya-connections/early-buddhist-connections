@@ -23,3 +23,5 @@ ete sambahulā devā iddhimanto yasassino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1081-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1081]]
+> ◄  [[thag1080-pali-pts]] 📜  [[thag1082-pali-pts]] ►

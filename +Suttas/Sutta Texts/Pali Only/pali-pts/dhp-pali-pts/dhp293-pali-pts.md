@@ -26,3 +26,5 @@ mātaraṃ pitaraṃ hantvā rājāno dve ca khattiye /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp293-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP293]]
+> ◄  [[dhp292-pali-pts]] 📜  [[dhp294-pali-pts]] ►

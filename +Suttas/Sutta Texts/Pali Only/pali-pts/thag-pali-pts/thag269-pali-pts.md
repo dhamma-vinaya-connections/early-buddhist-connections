@@ -23,3 +23,5 @@ tato cittaṃ vimucci me, passa dhammasudhammataṃ:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag269-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG269]]
+> ◄  [[thag268-pali-pts]] 📜  [[thag270-pali-pts]] ►

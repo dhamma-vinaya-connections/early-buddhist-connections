@@ -23,3 +23,5 @@ atha maṃ bhaṇati tāto idh'; eva puttaka carāhi taṃ dhammaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig429-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG429]]
+> ◄  [[thig428-pali-pts]] 📜  [[thig430-pali-pts]] ►

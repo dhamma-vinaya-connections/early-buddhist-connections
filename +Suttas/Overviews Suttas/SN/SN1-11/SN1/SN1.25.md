@@ -89,4 +89,5 @@ They’d use these terms as no more than expressions.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.25
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.25.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.24]]  🌐 [[SN1.26]] ►

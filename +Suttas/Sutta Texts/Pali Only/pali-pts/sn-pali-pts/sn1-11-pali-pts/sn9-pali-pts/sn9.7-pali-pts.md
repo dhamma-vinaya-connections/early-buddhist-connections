@@ -50,5 +50,6 @@ Atha kho āyasmā Nāgadatto tāya devatāya saṃvejito {saṃvegam} āpādī t
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.7]]
 > ◄  [[sn9.6-pali-pts]] 📜  [[sn9.8-pali-pts]] ►

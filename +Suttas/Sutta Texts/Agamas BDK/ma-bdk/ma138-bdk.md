@@ -39,9 +39,5 @@ Of great wealth and much property— Such was the clan into which he was born, E
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma138-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN7.62]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA138]]
 > ◄  [[ma137-bdk]] 📜  [[ma139-bdk]] ►

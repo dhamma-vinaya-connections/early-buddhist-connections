@@ -95,5 +95,6 @@ The Chapter on Heedfulness, the Second, is Finished.
 | [[EA52.7]], [[PE2]], [[PE8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP2]]
 > ◄  [[dhp1-deepseek-pali]] 📜  [[dhp3-deepseek-pali]] ►

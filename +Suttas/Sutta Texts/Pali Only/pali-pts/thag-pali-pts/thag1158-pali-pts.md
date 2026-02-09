@@ -24,3 +24,5 @@ _SAṬṬHIKA-NIPĀTO. 105_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1158-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1158]]
+> ◄  [[thag1157-pali-pts]] 📜  [[thag1159-pali-pts]] ►

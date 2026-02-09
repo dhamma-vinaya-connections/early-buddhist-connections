@@ -23,3 +23,5 @@ mettacittā kāruṇikā hotha sīle susaṃvutā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag978-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG978]]
+> ◄  [[thag977-pali-pts]] 📜  [[thag979-pali-pts]] ►

@@ -33,3 +33,5 @@ of craving
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.65-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.65]]
+> ◄  [[sn1.64-thanissaro]] 📜  [[sn1.69-thanissaro]] ►

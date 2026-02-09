@@ -823,5 +823,6 @@ Pāthikasuttaṁ niṭṭhitaṁ paṭhamaṁ.
 | [[DA15]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-sujato-pali]] 📜  [[dn25-sujato-pali]] ►

@@ -24,3 +24,5 @@ yo ca sameti pāpāni aṇuṃthūlāni sabbaso /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp264-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP264]]
+> ◄  [[dhp263-pali-pts]] 📜  [[dhp265-pali-pts]] ►

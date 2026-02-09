@@ -23,3 +23,5 @@ tañ ca disvāna yācantiṃ vesikaṃ pañjalīkataṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag462-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG462]]
+> ◄  [[thag461-pali-pts]] 📜  [[thag463-pali-pts]] ►

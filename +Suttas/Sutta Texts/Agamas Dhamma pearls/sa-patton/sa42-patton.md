@@ -71,11 +71,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN2.19]], [[AN3.29]], [[SN22.57]] | [[SA42]], [[EA2.3]], [[EA2.1]] |  |
+> |  | [[SA42]], [[EA2.3]], [[EA2.1]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN2.19]], [[AN3.29]], [[SA42]], [[EA2.3]], [[SN22.57]], [[EA2.1]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA42]]
 > ◄  [[sa41-patton]] 📜  [[sa44-patton]] ►

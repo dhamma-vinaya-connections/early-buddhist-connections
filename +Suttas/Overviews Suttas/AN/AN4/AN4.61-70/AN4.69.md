@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN4.13]], [[AN4.275]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA875]], [[SA876]]"
 parallels_partilal: "[[AN4.13]], [[SA875]], [[SA876]], [[AN4.275]]"
 ---
@@ -63,7 +63,7 @@ May attain the ending of suffering
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.13]], [[AN4.275]] | [[SA875]], [[SA876]] | A ii 74 |
+> |  | [[SA875]], [[SA876]] | A ii 74 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.13]], [[SA875]], [[SA876]], [[AN4.275]] |
@@ -86,5 +86,6 @@ May attain the ending of suffering
 > - Sutta Central: https://suttacentral.net/an4.69/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.69
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.69.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.68]]  🌐 [[AN4.70]] ►

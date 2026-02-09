@@ -88,4 +88,5 @@ parallels_partilal: "[[PLI-TV-KD19]], [[EA48.2]], [[MA37]], [[AN8.19]], [[UD5.5]
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.20
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.20.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.19]]  🌐 [[AN8.21]] ►

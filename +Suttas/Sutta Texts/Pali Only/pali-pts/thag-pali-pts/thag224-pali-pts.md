@@ -23,3 +23,5 @@ Yo pubbe karaṇīyāni pacchā so kātum icchati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag224-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG224]]
+> ◄  [[thag223-pali-pts]] 📜  [[thag225-pali-pts]] ►

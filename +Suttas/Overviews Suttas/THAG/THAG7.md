@@ -95,4 +95,5 @@ my mind was freed.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag7
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG6]]  🌐 [[THAG8]] ►

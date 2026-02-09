@@ -28,5 +28,10 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||8||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti77-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[THAG11]], [[THAG14]].1
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI77]]
 > ◄  [[iti76-pali-pts]] 📜  [[iti78-pali-pts]] ►

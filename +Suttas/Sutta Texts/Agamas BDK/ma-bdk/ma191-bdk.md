@@ -48,7 +48,7 @@ is how disciples behave toward the teacher with resentment and not with loving-k
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN122]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[JA537]], [[SN1.31]] |
@@ -57,6 +57,7 @@ is how disciples behave toward the teacher with resentment and not with loving-k
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.30]], [[AN6.42]], [[AN8.30]], [[AN8.86.]], [[AN8.9]], [[ITI109]], [[MN106]], [[MN121]], [[MN137]], [[SN1.3]], [[SN35.85]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA191]]
 > ◄  [[ma190-bdk]] 📜  [[ma192-bdk]] ►

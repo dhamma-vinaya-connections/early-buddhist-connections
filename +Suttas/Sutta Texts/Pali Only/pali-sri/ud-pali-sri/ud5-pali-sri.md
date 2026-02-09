@@ -305,3 +305,5 @@ Soṇo ca revato nando saddhāya panthakena cāti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5]]
+> ◄  [[ud4-pali-sri]] 📜  [[ud6-pali-sri]] ►

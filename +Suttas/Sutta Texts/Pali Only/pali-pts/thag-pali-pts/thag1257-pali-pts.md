@@ -23,3 +23,5 @@ sudesitā cakkhumatā buddhenādiccabandhunā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1257-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1257]]
+> ◄  [[thag1256-pali-pts]] 📜  [[thag1258-pali-pts]] ►

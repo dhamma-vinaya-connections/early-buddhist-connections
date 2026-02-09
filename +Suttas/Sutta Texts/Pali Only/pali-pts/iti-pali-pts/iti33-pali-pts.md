@@ -30,3 +30,5 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||6||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti33-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI33]]
+> ◄  [[iti32-pali-pts]] 📜  [[iti34-pali-pts]] ►

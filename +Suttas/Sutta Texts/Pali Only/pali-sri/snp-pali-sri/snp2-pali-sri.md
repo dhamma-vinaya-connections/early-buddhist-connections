@@ -1549,3 +1549,5 @@ Cuddasetāni suttāni cullavaggoti vuccati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP2]]
+> ◄  [[snp1-pali-sri]] 📜  [[snp3-pali-sri]] ►

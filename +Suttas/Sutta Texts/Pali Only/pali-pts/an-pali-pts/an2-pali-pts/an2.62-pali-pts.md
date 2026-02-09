@@ -26,3 +26,5 @@ Methunadhammasamāpattiyā ca vijāyanassa ca. Imesaṃ kho bhikkhave dvinnaṃ 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.62-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.62]]
+> ◄  [[an2.60-pali-pts]] 📜  [[an2.63-pali-pts]] ►

@@ -23,3 +23,5 @@ tassa dhammā ime honti kusalā bodhipakkhikā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag899-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG899]]
+> ◄  [[thag898-pali-pts]] 📜  [[thag900-pali-pts]] ►

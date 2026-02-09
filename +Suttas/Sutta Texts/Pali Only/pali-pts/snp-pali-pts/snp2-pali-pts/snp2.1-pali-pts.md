@@ -117,5 +117,10 @@ RATANASUTTAṂ NIṬṬHITAṂ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.1-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN4.67]], [[SN55:40]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.1]]
 > ◄  [[]] 📜  [[snp2.2-pali-pts]] ►

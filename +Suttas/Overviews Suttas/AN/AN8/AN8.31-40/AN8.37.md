@@ -94,4 +94,5 @@ They’ll enjoy a world of grace
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.37
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.37.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.36]]  🌐 [[AN8.38]] ►

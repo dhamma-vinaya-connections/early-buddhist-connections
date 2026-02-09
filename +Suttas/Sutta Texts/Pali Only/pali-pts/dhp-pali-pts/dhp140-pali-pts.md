@@ -24,3 +24,5 @@ na naggacariyā na jaṭā na paṃkā nānāsakā thaṇḍilasāyikā vā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp140-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP140]]
+> ◄  [[dhp139-pali-pts]] 📜  [[dhp141-pali-pts]] ►

@@ -32,5 +32,6 @@ language: "English"
 | [[EA9.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.17]]
 > ◄  [[an1.16-bodhi]] 📜  [[an1.18-bodhi]] ►

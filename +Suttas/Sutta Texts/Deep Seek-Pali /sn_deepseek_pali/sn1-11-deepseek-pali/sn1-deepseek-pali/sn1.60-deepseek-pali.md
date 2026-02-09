@@ -56,5 +56,6 @@ Old Age, The Deathless, Friend, Object, Three, People, Wrong Path, Second, and t
 | [[SA-2.248]], [[SA1021]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.60]]
 > ◄  [[sn1.59-deepseek-pali]] 📜  [[sn1.61-deepseek-pali]] ►

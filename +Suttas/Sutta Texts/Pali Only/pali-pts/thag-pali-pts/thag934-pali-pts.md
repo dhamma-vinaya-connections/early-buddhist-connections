@@ -23,3 +23,5 @@ udarāvadehakaṃ bhutvā sayant'; uttānaseyyakā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag934-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG934]]
+> ◄  [[thag933-pali-pts]] 📜  [[thag935-pali-pts]] ►

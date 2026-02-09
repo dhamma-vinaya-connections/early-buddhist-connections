@@ -23,3 +23,5 @@ mānaṃ madañ ca chaḍḍetvā vippasannena cetasā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag426-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG426]]
+> ◄  [[thag425-pali-pts]] 📜  [[thag427-pali-pts]] ►

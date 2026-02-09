@@ -152,7 +152,7 @@ Catutthaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.40]], [[AN8.55]] | [[SA-2.90]], [[SA-2.91]], [[SA90]], [[SA91]] | A iv 281 |
+> |  | [[SA-2.90]], [[SA-2.91]], [[SA90]], [[SA91]] | A iv 281 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.91]], [[SA91]], [[AN8.55]], [[AN4.40]], [[SA-2.90]], [[SA90]], [[AN8.75]] |
@@ -161,6 +161,7 @@ Catutthaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.19]], [[SN45.2]], [[AN4.62]], [[AN5.34]], [[AN5.38]], [[AN5.41]], [[AN5.175]], [[AN5.179]], [[AN6.45]], [[AN8.80.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.54]]
 > ◄  [[an8.53-sujato-pali]] 📜  [[an8.55-sujato-pali]] ►

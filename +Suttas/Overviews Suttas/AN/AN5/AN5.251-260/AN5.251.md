@@ -86,4 +86,5 @@ parallels_partilal: "[[PLI-TV-KD1]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.251
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.251.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.250]]  🌐 [[AN5.252]] ►

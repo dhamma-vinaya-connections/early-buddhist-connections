@@ -71,13 +71,10 @@ understand the nature of a fool and the nature of a wise man. Having understood 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma199-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN129]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN130]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA199]]
 > ◄  [[ma198-bdk]] 📜  [[ma200-bdk]] ►

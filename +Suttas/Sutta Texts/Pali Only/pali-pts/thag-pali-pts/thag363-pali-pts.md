@@ -24,3 +24,5 @@ khepetvā āsave sabbe sacchikatvā akuppataṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag363-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG363]]
+> ◄  [[thag362-pali-pts]] 📜  [[thag364-pali-pts]] ►

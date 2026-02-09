@@ -24,3 +24,5 @@ saddhāya pabbajitvāna Mitte mittaratā bhava |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG7]]
+> ◄  [[thig6-pali-pts]] 📜  [[thig8-pali-pts]] ►

@@ -25,3 +25,5 @@ sukhaṃ hi Vaḍḍha munayo anejā chinnasaṃsayā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig204-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG204]]
+> ◄  [[thig203-pali-pts]] 📜  [[thig205-pali-pts]] ►

@@ -98,4 +98,5 @@ The Buddha’s instruction is completed
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag21
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag21.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG20]]  🌐 [[THIG1]] ►

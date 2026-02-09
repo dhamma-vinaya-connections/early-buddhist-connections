@@ -24,3 +24,5 @@ taṇhakkhayo anuppatto kataṃ buddhassa sāsanaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig40-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG40]]
+> ◄  [[thig39-pali-pts]] 📜  [[thig41-pali-pts]] ►

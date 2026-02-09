@@ -56,5 +56,6 @@ bhattā paññāṇamitthiyā"ti.
 | [[SA-2.249]], [[SA1022]], [[JA547]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.72]]
 > ◄  [[sn1.71-sujato-pali]] 📜  [[sn1.73-sujato-pali]] ►

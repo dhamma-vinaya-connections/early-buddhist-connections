@@ -94,4 +94,5 @@ They had study as their wealth.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.7
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.6]]  🌐 [[SNP2.8]] ►

@@ -23,3 +23,5 @@ uṭṭhehi puttaka kiṃ socitena dinnā si Vāraṇavatimhi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig461-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG461]]
+> ◄  [[thig460-pali-pts]] 📜  [[thig462-pali-pts]] ►

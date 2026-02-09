@@ -33,5 +33,6 @@ Santaṃ vā ajjhattaṃ vicikicchaṃ atthi me ajjhattaṃ vicikicchā ti pajā
 | [[ITI67]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.122]]
 > ◄  [[an3.121-pali-pts]] 📜  [[an3.123-pali-pts]] ►

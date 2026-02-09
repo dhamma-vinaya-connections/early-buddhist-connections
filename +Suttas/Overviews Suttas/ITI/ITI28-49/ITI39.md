@@ -88,4 +88,5 @@ you will make an end of suffering
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti39
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti39.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI38]]  🌐 [[ITI40]] ►

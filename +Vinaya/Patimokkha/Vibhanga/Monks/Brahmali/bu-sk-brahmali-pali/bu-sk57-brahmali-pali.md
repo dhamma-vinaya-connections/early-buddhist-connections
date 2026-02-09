@@ -117,7 +117,8 @@ Na chattapāṇissa agilānassa dhammo desetabbo. Yo anādariyaṁ paṭicca cha
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk57-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK57]] |
->|       |          | [[ñanatusita-analysis#^SK57]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK57]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK57]]

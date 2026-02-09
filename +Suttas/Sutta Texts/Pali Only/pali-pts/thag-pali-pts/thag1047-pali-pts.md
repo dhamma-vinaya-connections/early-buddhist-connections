@@ -22,3 +22,5 @@ cakkhu sabbassa lokassa Ānando parinibbuto.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1047-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1047]]
+> ◄  [[thag1046-pali-pts]] 📜  [[thag1048-pali-pts]] ►

@@ -23,3 +23,5 @@ disvā adantaṃ damitaṃ manussānaṃ vasaṃ gataṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig49-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG49]]
+> ◄  [[thig48-pali-pts]] 📜  [[thig50-pali-pts]] ►

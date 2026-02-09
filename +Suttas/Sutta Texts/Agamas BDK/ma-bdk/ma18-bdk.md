@@ -35,9 +35,5 @@ Senior Minister Sīha said to the World-honored One: Gotama, I have known it! We
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma18-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN8.12]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA18]]
 > ◄  [[ma17-bdk]] 📜  [[ma19-bdk]] ►

@@ -57,7 +57,8 @@ language: "Pali - English"
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-sk53-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SK53]] |
->|       |          | [[ñanatusita-analysis#^-SK53]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SK53]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SK]] I 🌐 [[BNI-SK53]]

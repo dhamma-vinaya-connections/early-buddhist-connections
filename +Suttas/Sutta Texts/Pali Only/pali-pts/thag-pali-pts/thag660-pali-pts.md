@@ -24,3 +24,5 @@ kāle kālavasam pattā bhavābhavavasaṃ gatā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag660-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG660]]
+> ◄  [[thag659-pali-pts]] 📜  [[thag661-pali-pts]] ►

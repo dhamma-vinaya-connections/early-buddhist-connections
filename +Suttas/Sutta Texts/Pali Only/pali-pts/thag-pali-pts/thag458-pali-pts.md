@@ -34,3 +34,5 @@ Alaṃkatā suvasanā māladhārī vibhūsitā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag458-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG458]]
+> ◄  [[thag457-pali-pts]] 📜  [[thag459-pali-pts]] ►

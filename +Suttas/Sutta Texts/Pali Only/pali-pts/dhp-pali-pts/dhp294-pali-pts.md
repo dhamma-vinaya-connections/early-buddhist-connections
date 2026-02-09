@@ -24,3 +24,5 @@ mātaraṃ pitaraṃ hantvā rājāno dve ca sotthiye /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp294-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP294]]
+> ◄  [[dhp293-pali-pts]] 📜  [[dhp295-pali-pts]] ►

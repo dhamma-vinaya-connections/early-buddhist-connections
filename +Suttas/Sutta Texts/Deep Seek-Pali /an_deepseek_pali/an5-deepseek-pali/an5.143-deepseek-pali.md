@@ -50,5 +50,6 @@ Then those Licchavis approached the Blessed One; having approached, they paid ho
 | [[AN5.195]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.143]]
 > ◄  [[an5.142-deepseek-pali]] 📜  [[an5.144-deepseek-pali]] ►

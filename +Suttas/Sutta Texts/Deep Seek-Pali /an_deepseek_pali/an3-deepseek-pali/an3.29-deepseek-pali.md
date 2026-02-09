@@ -60,11 +60,12 @@ The blind and the one-eyed, one should avoid from afar; but associate with the t
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN2.19]], [[SN22.57]] |  | A i 150 |
+> |  |  | A i 150 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN22.57]], [[AN2.19]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.29]]
 > ◄  [[an3.28-deepseek-pali]] 📜  [[an3.30-deepseek-pali]] ►

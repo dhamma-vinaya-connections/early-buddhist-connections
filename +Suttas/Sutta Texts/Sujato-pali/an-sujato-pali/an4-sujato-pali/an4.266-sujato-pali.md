@@ -31,3 +31,5 @@ They themselves don’t commit sexual misconduct …
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.266-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.266]]
+> ◄  [[an4.265-sujato-pali]] 📜  [[an4.267-sujato-pali]] ►

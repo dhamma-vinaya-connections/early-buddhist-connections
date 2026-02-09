@@ -68,5 +68,6 @@ is called “one who has drawn back.”
 | [[ITI55]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.38]]
 > ◄  [[an4.37-bodhi]] 📜  [[an4.39-bodhi]] ►

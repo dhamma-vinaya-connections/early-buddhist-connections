@@ -24,3 +24,5 @@ Ekakā mayaṃ araññe viharāma apaviddhaṃ va vanasmi dārukaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag61-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG61]]
+> ◄  [[thag60-pali-pts]] 📜  [[thag62-pali-pts]] ►

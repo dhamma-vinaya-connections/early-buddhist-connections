@@ -97,5 +97,10 @@ Posālamāṇavapucchā cuddasamā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.15-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN15]], [[MN22]], [[MN26]], [[MN49]], [[MN121]], [[SN22.1]], [[SN4.19]], [[SN5.10]], [[SN12.15]], [[SN35.23]], [[SN35.82]], [[SN35.85]], [[AN9.39]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.15]]
 > ◄  [[snp5.14-sujato-pali]] 📜  [[snp5.16-sujato-pali]] ►

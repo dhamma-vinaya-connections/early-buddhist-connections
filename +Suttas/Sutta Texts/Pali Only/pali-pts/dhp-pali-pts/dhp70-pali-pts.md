@@ -24,3 +24,5 @@ na hi pāpaṃ kataṃ kammaṃ sajju khīraṃ va mucchati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp70-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP70]]
+> ◄  [[dhp69-pali-pts]] 📜  [[dhp71-pali-pts]] ►

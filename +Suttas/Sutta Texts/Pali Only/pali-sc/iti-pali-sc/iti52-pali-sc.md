@@ -40,7 +40,8 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN3.12]], [[DHP92]], [[DHP93]], [[MN44]], [[SN36.4]], [[SN36.6]]
+> - [[SN3.12]], [[DHP\|DHP92]], [[DHP\|DHP93]], [[MN44]], [[SN36.4]], [[SN36.6]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI52]]
 > ◄  [[iti51-pali-sc]] 📜  [[iti53-pali-sc]] ►

@@ -247,5 +247,6 @@ Pasāda (90) jīvita (91) saṅghāṭi (92) aggi (93) upaparikkhayā (94) | upa
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[ITI18]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI89]]
 > ◄  [[iti80-pali-pts]] 📜  [[iti98-pali-pts]] ►

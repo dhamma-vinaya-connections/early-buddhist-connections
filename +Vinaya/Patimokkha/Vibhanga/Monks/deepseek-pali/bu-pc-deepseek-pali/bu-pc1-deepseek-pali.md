@@ -151,7 +151,8 @@ The first training rule on false speech is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc1-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC1]] |
->|       |          | [[ñanatusita-analysis#^PC1]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC1]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC1]]

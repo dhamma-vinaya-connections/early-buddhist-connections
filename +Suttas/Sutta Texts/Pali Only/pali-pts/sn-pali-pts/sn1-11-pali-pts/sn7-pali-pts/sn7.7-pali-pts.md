@@ -48,7 +48,8 @@ Evaṃ vutte navakammika-bhāradvājo brāhmaṇo Bhagavantam etad avoca || || A
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG6.12]]
+> - [[THAG6]].12
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.7]]
 > ◄  [[sn7.6-pali-pts]] 📜  [[sn7.8-pali-pts]] ►

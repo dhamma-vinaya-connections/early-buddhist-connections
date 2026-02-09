@@ -95,5 +95,6 @@ Paṭhamabhāṇavāro niṭṭhito.
 | [[SA-3.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.20]]
 > ◄  [[an3.19-sujato-pali]] 📜  [[an3.21-sujato-pali]] ►

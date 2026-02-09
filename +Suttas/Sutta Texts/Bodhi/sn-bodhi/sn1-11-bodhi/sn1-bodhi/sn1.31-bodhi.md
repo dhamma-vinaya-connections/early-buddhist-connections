@@ -108,5 +108,6 @@ This is what the Blessed One said. Elated, those devatās paid homage to the Bl
 | [[SA-2.285]], [[SA1287]], [[SN2.21]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.31]]
 > ◄  [[sn1.30-bodhi]] 📜  [[sn1.32-bodhi]] ►

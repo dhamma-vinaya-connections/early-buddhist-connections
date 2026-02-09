@@ -28,3 +28,5 @@ Paripuṇṇakāyo suruci sujāto cārudassano
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag807-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG807]]
+> ◄  [[thag806-pali-pts]] 📜  [[thag818-pali-pts]] ►

@@ -39,9 +39,5 @@ my own purified knowledge I know: the Tathāgata is one who is free from attachm
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma38-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN8.21-22]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA38]]
 > ◄  [[ma37-bdk]] 📜  [[ma39-bdk]] ►

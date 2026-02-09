@@ -31,3 +31,5 @@ The first section.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.200-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.200]]
+> ◄  [[an1.199-deepseek-pali]] 📜  [[an1.201-deepseek-pali]] ►

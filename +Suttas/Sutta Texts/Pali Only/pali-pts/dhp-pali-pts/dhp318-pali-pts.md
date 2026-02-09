@@ -24,3 +24,5 @@ vajjañ ca vajjato ñatvā avajjañ ca avajjato /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp318-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP318]]
+> ◄  [[dhp317-pali-pts]] 📜  [[dhp319-pali-pts]] ►

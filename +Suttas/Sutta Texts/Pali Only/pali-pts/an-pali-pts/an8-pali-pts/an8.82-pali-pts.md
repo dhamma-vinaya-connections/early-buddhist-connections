@@ -27,11 +27,12 @@ Atha kho āyasmā Puṇṇiyo yena Bhagavā ten'; upasaṅkami, upasaṅkamitvā
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.83]] | [[SA966]] | A iv 337 |
+> |  | [[SA966]] | A iv 337 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.83]], [[SA966]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.82]]
 > ◄  [[an8.81-pali-pts]] 📜  [[an8.83-pali-pts]] ►

@@ -23,3 +23,5 @@ rattiyā majjhime yāme dibbacakkhuṃ visodhayiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig172-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG172]]
+> ◄  [[thig171-pali-pts]] 📜  [[thig173-pali-pts]] ►

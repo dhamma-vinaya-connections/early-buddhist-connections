@@ -107,15 +107,16 @@ Idhānanda, bhikkhuno mettaṁ kāyakammaṁ paccupaṭṭhitaṁ hoti sabrahmac
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.36]] | [[MA196]] | M ii 243 |
+> |  | [[MA196]] | M ii 243 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA196]]; [[AN6.36]]; [[DN33]]; [[PLI-TV-KD14]]; [[PLI-TV-PVR4]] |
+| [[MA196]], [[AN6.36]], [[DN33]], [[PLI-TV-KD14]], [[PLI-TV-PVR4]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN103]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN104]]
 > ◄  [[mn103-pali-sc]] 📜  [[mn105-pali-sc]] ►

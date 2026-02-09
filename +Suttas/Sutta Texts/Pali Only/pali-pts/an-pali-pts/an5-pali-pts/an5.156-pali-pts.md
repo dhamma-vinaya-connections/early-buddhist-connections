@@ -33,5 +33,6 @@ Puna ca paraṃ bhikkhave bhikkhū yathāsutaṃ yathāpariyattaṃ dhammaṃ vi
 | [[AN4.160]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.156]]
 > ◄  [[an5.155-pali-pts]] 📜  [[an5.157-pali-pts]] ►

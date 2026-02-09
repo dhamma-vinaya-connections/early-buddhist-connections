@@ -24,3 +24,5 @@ dasa putte vijāyitvā asmiṃ rūpasamussaye |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig101-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG101]]
+> ◄  [[thig100-pali-pts]] 📜  [[thig102-pali-pts]] ►

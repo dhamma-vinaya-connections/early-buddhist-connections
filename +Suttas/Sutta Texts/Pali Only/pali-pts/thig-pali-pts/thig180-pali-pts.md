@@ -23,3 +23,5 @@ Sakkaṃ va devā tidasā saṃgāme aparājitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig180-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG180]]
+> ◄  [[thig179-pali-pts]] 📜  [[thig181-pali-pts]] ►

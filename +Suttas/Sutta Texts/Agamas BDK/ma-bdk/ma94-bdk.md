@@ -32,15 +32,16 @@ good water and fodder, and look after me well!” yet people do tether it in a c
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.87]] |  | M i 332 |
+> |  |  | M i 332 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP423]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4.1]] |
+| [[DHP\|DHP423]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[SN7.8]], [[THIG4]].1 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA89]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA94]]
 > ◄  [[ma93-bdk]] 📜  [[ma95-bdk]] ►

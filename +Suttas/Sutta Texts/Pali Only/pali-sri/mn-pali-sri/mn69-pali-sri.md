@@ -107,5 +107,6 @@ Gulissāni suttaṃ navamaṃ.
 | [[MA26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN69]]
 > ◄  [[mn68-pali-sri]] 📜  [[mn70-pali-sri]] ►

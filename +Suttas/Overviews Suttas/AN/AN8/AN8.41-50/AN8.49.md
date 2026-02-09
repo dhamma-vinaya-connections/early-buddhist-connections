@@ -89,4 +89,5 @@ Called ‘loveable
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.49
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.49.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.48]]  🌐 [[AN8.50]] ►

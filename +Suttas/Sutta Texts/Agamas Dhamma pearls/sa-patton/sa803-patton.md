@@ -51,11 +51,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN118]], [[MN62]], [[SN54.1]], [[SN54.13-16]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[MN118]], [[MN62]], [[SN54.1]], [[SN54.13-16]], [[pli-tv-bu-vb-pj3]] |
+| [[MN118]], [[MN62]], [[SN54.1]], [[SN54.13-16]], [[PLI-TV-BU-VB-PJ3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA14]]  / 🌐 [[SA803]]
 > ◄  [[sa785-patton]] 📜  [[sa810-patton]] ►

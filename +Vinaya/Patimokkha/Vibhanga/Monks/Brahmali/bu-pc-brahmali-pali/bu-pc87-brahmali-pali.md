@@ -97,7 +97,8 @@ Aññena kataṁ paṭilabhitvā paribhuñjati, āpatti dukkaṭassa.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc87-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC87]] |
->|       |          | [[ñanatusita-analysis#^PC87]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC87]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC87]]

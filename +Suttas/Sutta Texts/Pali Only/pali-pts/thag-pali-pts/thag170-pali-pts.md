@@ -24,3 +24,5 @@ Pañca nīvaraṇe hitvā yogakkhemassa pattiyā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag170-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG170]]
+> ◄  [[thag169-pali-pts]] 📜  [[thag171-pali-pts]] ►

@@ -23,3 +23,5 @@ aññathā lokanāthamhi tiṭṭhante purisuttame
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag920-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG920]]
+> ◄  [[thag919-pali-pts]] 📜  [[thag921-pali-pts]] ►

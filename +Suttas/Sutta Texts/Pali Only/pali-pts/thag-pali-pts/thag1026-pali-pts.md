@@ -23,3 +23,5 @@ bahussutaṃ upāseyya sutañ ca na vināsaye;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1026-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1026]]
+> ◄  [[thag1025-pali-pts]] 📜  [[thag1027-pali-pts]] ►

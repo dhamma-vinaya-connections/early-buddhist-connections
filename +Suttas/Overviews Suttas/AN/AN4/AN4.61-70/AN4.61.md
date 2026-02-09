@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN5.41]]"
+parallels_nikaya: ""
 parallels_agama: "[[MA126]]"
 parallels_partilal: "[[AN5.41]], [[MA126]]"
 ---
@@ -64,7 +64,7 @@ I’ve given uplifting religious donations; and support disciplined spiritual pr
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.41]] | [[MA126]] | A ii 65 |
+> |  | [[MA126]] | A ii 65 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.41]], [[MA126]] |
@@ -87,5 +87,6 @@ I’ve given uplifting religious donations; and support disciplined spiritual pr
 > - Sutta Central: https://suttacentral.net/an4.61/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.61
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.61.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.60]]  🌐 [[AN4.62]] ►

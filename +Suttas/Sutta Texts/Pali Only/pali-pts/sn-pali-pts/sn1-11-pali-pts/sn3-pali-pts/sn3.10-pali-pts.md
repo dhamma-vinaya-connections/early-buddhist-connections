@@ -105,11 +105,12 @@ upeti tidivaṃ ṭhānaṃ || joti-joti-parāyano ti || ||
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP345]], [[DHP346]], [[THAG2.34]] | [[SA-2.62]], [[SA1235]] |  |
+> |  | [[SA-2.62]], [[SA1235]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.62]], [[SA1235]], [[DHP345]], [[JA201]], [[PE2]], [[DHP346]], [[THAG2.34]] |
+| [[SA-2.62]], [[SA1235]], [[DHP\|DHP345]], [[JA201]], [[PE2]], [[DHP\|DHP346]], [[THAG2]].34 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.10]]
 > ◄  [[sn3.9-pali-pts]] 📜  [[]] ►

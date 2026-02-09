@@ -24,3 +24,5 @@ appakā te manussesu ye janā pāragāmino, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp84-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP84]]
+> ◄  [[dhp83-pali-pts]] 📜  [[dhp85-pali-pts]] ►

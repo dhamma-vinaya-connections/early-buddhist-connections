@@ -38,11 +38,12 @@ What is the nutriment of association with good friends? The answer is: its nutri
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.61]], [[AN10.62]] | [[MA51]], [[MA53]] |  |
+> |  | [[MA51]], [[MA53]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.93]], [[]], [[AN10.96]], [[]], [[AN4.185]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA52]]
 > ◄  [[ma51-bdk]] 📜  [[ma53-bdk]] ►

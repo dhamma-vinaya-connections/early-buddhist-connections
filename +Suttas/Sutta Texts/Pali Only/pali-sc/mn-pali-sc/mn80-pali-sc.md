@@ -130,5 +130,6 @@ Maṇiko tathākaccāno varavaggo.
 | [[MA209]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
 > ◄  [[mn79-pali-sc]] 📜  [[mn81-pali-sc]] ►

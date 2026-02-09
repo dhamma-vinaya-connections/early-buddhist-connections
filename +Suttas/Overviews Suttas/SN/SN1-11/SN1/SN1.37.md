@@ -34,7 +34,7 @@ sutta_teacher:
   - "Devas"
 sutta_audience:
   - "Buddha"
-parallels_nikaya: "[[DN20]]"
+parallels_nikaya: ""
 parallels_agama: "[[DA19]], [[SA-2.105]], [[SA1192]]"
 parallels_partilal: "[[DN20]], [[DA19]], [[SA-2.105]], [[SA1192]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[DN20]], [[DA19]], [[SA-2.105]], [[SA1192]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN20]] | [[DA19]], [[SA-2.105]], [[SA1192]] |  |
+> |  | [[DA19]], [[SA-2.105]], [[SA1192]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN20]], [[DA19]], [[SA-2.105]], [[SA1192]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[DN20]], [[DA19]], [[SA-2.105]], [[SA1192]]"
 > - Sutta Central: https://suttacentral.net/sn1.37/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.37
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.37.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.36]]  🌐 [[SN1.38]] ►

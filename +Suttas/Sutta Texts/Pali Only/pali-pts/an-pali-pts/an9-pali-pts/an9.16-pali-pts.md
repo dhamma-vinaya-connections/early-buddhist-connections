@@ -27,7 +27,7 @@ Nava yimā bhikkhave saññā bhāvitā bahulīkatā mahapphalā honti mahānisa
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.56]], [[AN5.61]], [[AN7.48]] | [[EA46.9]] | A iv 387 |
+> |  | [[EA46.9]] | A iv 387 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.56]], [[EA46.9]], [[AN5.61]], [[AN7.48]], [[AN5.121]] |
@@ -36,6 +36,7 @@ Nava yimā bhikkhave saññā bhāvitā bahulīkatā mahapphalā honti mahānisa
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.48]], [[AN10.60]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.16]]
 > ◄  [[an9.15-pali-pts]] 📜  [[an9.17-pali-pts]] ►

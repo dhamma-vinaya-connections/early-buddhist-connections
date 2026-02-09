@@ -23,3 +23,5 @@ tato kalyāṇavākkaraṇo sammāsambuddhasāvako
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag367-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG367]]
+> ◄  [[thag366-pali-pts]] 📜  [[thag368-pali-pts]] ►

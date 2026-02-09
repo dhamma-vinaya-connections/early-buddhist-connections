@@ -23,3 +23,5 @@ ovadeyyānusāseyya asabbhā ca nivāraye,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag993-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG993]]
+> ◄  [[thag992-pali-pts]] 📜  [[thag994-pali-pts]] ►

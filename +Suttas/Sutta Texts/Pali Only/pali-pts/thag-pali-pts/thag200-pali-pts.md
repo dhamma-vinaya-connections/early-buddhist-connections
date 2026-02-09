@@ -28,3 +28,5 @@ Aho buddhā aho dhammā aho no satthu sampadā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag200-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG200]]
+> ◄  [[thag199-pali-pts]] 📜  [[thag201-pali-pts]] ►

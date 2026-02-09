@@ -56,15 +56,16 @@ my true Dharma and discipline, whichever part of it he contemplates, he gets the
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN18]] | [[EA40.10]] |  |
+> |  | [[EA40.10]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SNP3.3]], [[]], [[THAG21.1]], [[PE3]] |
+| [[SNP3.3]], [[]], [[THAG21]].1, [[PE3]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.72]], [[DN21]], [[SA273]], [[SN4.8]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA115]]
 > ◄  [[ma114-bdk]] 📜  [[ma116-bdk]] ►

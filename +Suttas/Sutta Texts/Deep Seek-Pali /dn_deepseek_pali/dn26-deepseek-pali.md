@@ -300,7 +300,8 @@ The Discourse on the Wheel-Turning Monarch, the Third.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN47.6]]-7]]
+> - [[SN47.6-7]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN26]]
 > ◄  [[dn25-deepseek-pali]] 📜  [[dn27-deepseek-pali]] ►

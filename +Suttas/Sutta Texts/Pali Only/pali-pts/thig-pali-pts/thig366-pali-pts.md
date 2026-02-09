@@ -23,3 +23,5 @@ kiṃ te aparādhitaṃ mayā yaṃ maṃ ovariyāna tiṭṭhasi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig366-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG366]]
+> ◄  [[thig365-pali-pts]] 📜  [[thig367-pali-pts]] ►

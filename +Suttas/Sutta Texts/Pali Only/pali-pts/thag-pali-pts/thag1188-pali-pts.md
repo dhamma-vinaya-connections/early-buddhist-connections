@@ -23,3 +23,5 @@ yo etam abhijānāti bhikkhu buddhassa sāvako,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1188-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1188]]
+> ◄  [[thag1187-pali-pts]] 📜  [[thag1189-pali-pts]] ►

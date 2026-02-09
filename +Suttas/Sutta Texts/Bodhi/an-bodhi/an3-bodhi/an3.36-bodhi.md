@@ -110,7 +110,7 @@ they have transcended all suffering.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN130]] | [[EA32.4]], [[MA64]] | A i 138 |
+> |  | [[EA32.4]], [[MA64]] | A i 138 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA32.4]], [[MA64]], [[DA30]], [[MN130]], [[MN129]], [[JA530]] |
@@ -119,6 +119,7 @@ they have transcended all suffering.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SAMEASMN130]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.36]]
 > ◄  [[an3.35-bodhi]] 📜  [[an3.37-bodhi]] ►

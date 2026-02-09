@@ -240,5 +240,6 @@ So Citta the elephant trainer’s son obtained the going forth in the Blessed On
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN140]], [[AN9.36]], [[AN9.36]], [[AN4.72]], [[AN4.192]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN9]]
 > ◄  [[dn2-thanissaro]] 📜  [[dn11-thanissaro]] ►

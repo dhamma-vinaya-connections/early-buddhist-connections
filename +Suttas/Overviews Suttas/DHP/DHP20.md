@@ -94,4 +94,5 @@ this is the path to purity
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp20
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp20.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP19]]  🌐 [[DHP21]] ►

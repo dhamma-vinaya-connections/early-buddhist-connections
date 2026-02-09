@@ -24,3 +24,5 @@ yadā balākā suvisuddhapaṇḍarā kāḷassa meghassa bhayena tajjitā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag307-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG307]]
+> ◄  [[thag306-pali-pts]] 📜  [[thag308-pali-pts]] ►

@@ -23,3 +23,5 @@ khīṇāya bhavanettiyā diṭṭhe dhamme yathātathe
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag707-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG707]]
+> ◄  [[thag706-pali-pts]] 📜  [[thag708-pali-pts]] ►

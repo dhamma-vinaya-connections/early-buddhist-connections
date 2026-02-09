@@ -24,3 +24,5 @@ selo yathā ekaghano vātena na samīrati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp80-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP80]]
+> ◄  [[dhp79-pali-pts]] 📜  [[dhp81-pali-pts]] ►

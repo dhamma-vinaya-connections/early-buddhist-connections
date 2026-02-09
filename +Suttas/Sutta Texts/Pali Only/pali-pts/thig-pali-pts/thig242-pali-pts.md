@@ -23,3 +23,5 @@ sace imā nadiyo te pāpaṃ pubbekataṃ vaheyyuṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig242-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG242]]
+> ◄  [[thig241-pali-pts]] 📜  [[thig243-pali-pts]] ►

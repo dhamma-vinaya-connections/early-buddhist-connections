@@ -23,3 +23,5 @@ so ḍayhati sūlehi tujjamāno ekena vatthena pahāya bhoge;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag779-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG779]]
+> ◄  [[thag778-pali-pts]] 📜  [[thag780-pali-pts]] ►

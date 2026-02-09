@@ -24,3 +24,5 @@ Eko pi saddho medhāvī asaddhān'; idha ñātinaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag239-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG239]]
+> ◄  [[thag238-pali-pts]] 📜  [[thag240-pali-pts]] ►

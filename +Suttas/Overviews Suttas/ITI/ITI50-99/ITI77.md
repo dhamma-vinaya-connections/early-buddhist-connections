@@ -76,7 +76,7 @@ composed.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG11]], [[THAG14.1]]
+> - [[THAG11]], [[THAG14]].1
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -94,5 +94,6 @@ composed.
 > - Sutta Central: https://suttacentral.net/iti77/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti77
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti77.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI76]]  🌐 [[ITI78]] ►

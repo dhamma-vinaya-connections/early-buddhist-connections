@@ -24,3 +24,5 @@ catukkhattuṃ pañcakkhattuṃ vihārā upanikkhamiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig36-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG36]]
+> ◄  [[thig35-pali-pts]] 📜  [[thig37-pali-pts]] ►

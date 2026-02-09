@@ -23,3 +23,5 @@ tassa pi aññā bhariyā sīlavatī guṇavatī yasavatī ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig445-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG445]]
+> ◄  [[thig444-pali-pts]] 📜  [[thig446-pali-pts]] ►

@@ -87,4 +87,5 @@ Doesn’t fall away from the true teaching
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.29
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.29.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.28]]  🌐 [[AN7.30]] ►

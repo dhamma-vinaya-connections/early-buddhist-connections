@@ -173,7 +173,8 @@ sāmaṁ apanidhena cāti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc141-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC141]] |
->|       |          | [[ñanatusita-analysis#^-PC141]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC141]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC141]]

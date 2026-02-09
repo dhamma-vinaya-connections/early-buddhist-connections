@@ -24,3 +24,5 @@ pupphāni h'; eva pacinantaṃ vyāsattamanasaṃ naraṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp47-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP47]]
+> ◄  [[dhp46-pali-pts]] 📜  [[dhp48-pali-pts]] ►

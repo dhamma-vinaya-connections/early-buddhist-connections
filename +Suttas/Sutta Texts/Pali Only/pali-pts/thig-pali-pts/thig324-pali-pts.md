@@ -23,3 +23,5 @@ etaṃ c'; ahaṃ assarathaṃ sahassaṃ cāpi sārathi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig324-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG324]]
+> ◄  [[thig323-pali-pts]] 📜  [[thig325-pali-pts]] ►

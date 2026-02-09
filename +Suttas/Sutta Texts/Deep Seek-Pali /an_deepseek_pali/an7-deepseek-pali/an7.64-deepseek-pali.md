@@ -142,5 +142,6 @@ Undeclared, the Man’s Destination, Tissa, Siha, Arakkhita, Kimila, Seven, Paca
 | [[MA129]], [[ITI88]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.64]]
 > ◄  [[an7.63-deepseek-pali]] 📜  [[an7.65-deepseek-pali]] ►

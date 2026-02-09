@@ -52,5 +52,6 @@ Dutiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN58]], [[MN72]], [[SUTTASINTHEAVYAKATASAMYUTTA]], [[AN3.67]], [[AN3.78]], [[AN5.165]], [[AN10.96]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.42]]
 > ◄  [[an4.41-pali-sc]] 📜  [[an4.43-pali-sc]] ►

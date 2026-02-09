@@ -23,3 +23,5 @@ ye 'maṃ kāyaṃ vivajjenti gūthalittaṃ va pannagaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag575-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG575]]
+> ◄  [[thag574-pali-pts]] 📜  [[thag576-pali-pts]] ►

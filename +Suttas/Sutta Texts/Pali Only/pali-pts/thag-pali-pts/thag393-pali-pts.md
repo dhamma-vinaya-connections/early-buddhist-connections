@@ -23,3 +23,5 @@ apaviddhaṃ susānasmiṃ khajjantiṃ kimihī phuṭaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag393-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG393]]
+> ◄  [[thag392-pali-pts]] 📜  [[thag394-pali-pts]] ►

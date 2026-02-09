@@ -40,5 +40,6 @@ Dutiyaṁ.
 | [[MN26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.255]]
 > ◄  [[an4.254-pali-sc]] 📜  [[an4.256-pali-sc]] ►

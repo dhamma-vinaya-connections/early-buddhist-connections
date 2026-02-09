@@ -123,5 +123,6 @@ Paṭhamo paṇṇāsako samatto.
 | [[EA32.7]], [[AN5.48]], [[JA368]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.50]]
 > ◄  [[an5.49-pali-sc]] 📜  [[an5.51-pali-sc]] ►

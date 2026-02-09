@@ -86,4 +86,5 @@ parallels_partilal: "[[DN31]], [[AN4.19]], [[JA443]], [[PE3]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.18
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.18.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.17]]  🌐 [[AN4.19]] ►

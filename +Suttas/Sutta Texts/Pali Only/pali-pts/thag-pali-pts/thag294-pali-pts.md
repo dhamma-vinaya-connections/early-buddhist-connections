@@ -26,3 +26,5 @@ Ubhayen'; eva sampanno Rāhulabhaddo 'ti maṃ vidu,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag294-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG294]]
+> ◄  [[thag293-pali-pts]] 📜  [[thag295-pali-pts]] ►

@@ -118,11 +118,12 @@ Pañcamaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN47.12]] | [[DA18]], [[SA498]] | D iii 99 |
+> |  | [[DA18]], [[SA498]] | D iii 99 |
 > > [!check]- Partial parallels 
 > > 
 | [[DA18]], [[SA498]], [[SN47.12]], [[AN1.277]], [[MN115]], [[DN1]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN28]]
 > ◄  [[dn27-pali-pts]] 📜  [[dn29-pali-pts]] ►

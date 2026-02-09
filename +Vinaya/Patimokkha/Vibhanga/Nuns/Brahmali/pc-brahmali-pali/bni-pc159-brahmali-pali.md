@@ -121,7 +121,8 @@ Adhammakamme dhammakammasaññī, āpatti dukkaṭassa. Adhammakamme vematiko, �
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc159-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC159]] |
->|       |          | [[ñanatusita-analysis#^-PC159]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC159]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC159]]

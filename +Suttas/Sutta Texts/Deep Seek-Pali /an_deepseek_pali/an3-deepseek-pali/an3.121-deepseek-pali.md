@@ -46,5 +46,6 @@ language: "English - Pali"
 | [[ITI66]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.121]]
 > ◄  [[an3.120-deepseek-pali]] 📜  [[an3.122-deepseek-pali]] ►

@@ -90,4 +90,5 @@ For the wise one is not beaten by discontent
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.27
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.27.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.26]]  🌐 [[AN4.28]] ►

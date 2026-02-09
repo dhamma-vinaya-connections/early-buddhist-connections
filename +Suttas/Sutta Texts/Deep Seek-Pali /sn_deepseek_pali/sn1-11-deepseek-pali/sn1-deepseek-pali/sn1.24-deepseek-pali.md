@@ -42,5 +42,6 @@ From that quarter one does not suffer. He should restrain his mind from everythi
 | [[SA-2.279]], [[SA1281]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.24]]
 > ◄  [[sn1.23-deepseek-pali]] 📜  [[sn1.25-deepseek-pali]] ►

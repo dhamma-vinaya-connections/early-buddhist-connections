@@ -1725,3 +1725,5 @@ Tāni etāni suttāni sabbānaṭṭhakavaggikāti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP4]]
+> ◄  [[snp3-pali-sri]] 📜  [[snp5-pali-sri]] ►

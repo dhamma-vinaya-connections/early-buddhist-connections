@@ -110,5 +110,6 @@ Ariyā hi visame samā"ti.
 | [[SA-2.312]], [[SA1313]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.6]]
 > ◄  [[sn2.5-sujato-pali]] 📜  [[sn2.7-sujato-pali]] ►

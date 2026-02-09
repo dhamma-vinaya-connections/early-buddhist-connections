@@ -91,4 +91,5 @@ Practice absorption, gotama, don’t be negligent
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.3
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.3.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.2]]  🌐 [[SN9.4]] ►

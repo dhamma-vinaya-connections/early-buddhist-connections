@@ -92,4 +92,5 @@ You’ll never find happiness that way
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.7
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.6]]  🌐 [[SN6.8]] ►

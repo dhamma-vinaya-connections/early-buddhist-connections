@@ -86,4 +86,5 @@ parallels_partilal: "[[SA-2.207]], [[SA973]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.71
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.71.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.70]]  🌐 [[AN3.72]] ►

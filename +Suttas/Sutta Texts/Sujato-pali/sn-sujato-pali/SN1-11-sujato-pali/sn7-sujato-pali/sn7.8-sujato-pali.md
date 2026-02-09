@@ -118,11 +118,12 @@ Khettañhi taṁ puññapekkhassa hotī"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP423]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[THIG4.1]], [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.9]] |
+| [[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[THIG4]].1, [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.9]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.8]]
 > ◄  [[sn7.7-sujato-pali]] 📜  [[sn7.9-sujato-pali]] ►

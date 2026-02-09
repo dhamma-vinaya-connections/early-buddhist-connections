@@ -23,3 +23,5 @@ Ahū tuyhaṃ pure saddhā, sā te ajja na vijjati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag245-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG245]]
+> ◄  [[thag244-pali-pts]] 📜  [[thag246-pali-pts]] ►

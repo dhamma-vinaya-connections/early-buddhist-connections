@@ -35,5 +35,6 @@ Paresaṃ Ānanda dhammaṃ desentena pañca dhamme ajjhattaṃ upaṭṭhāpetv
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN4.8]], [[AN3.72]], [[DN16]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.159]]
 > ◄  [[an5.158-pali-pts]] 📜  [[an5.160-pali-pts]] ►

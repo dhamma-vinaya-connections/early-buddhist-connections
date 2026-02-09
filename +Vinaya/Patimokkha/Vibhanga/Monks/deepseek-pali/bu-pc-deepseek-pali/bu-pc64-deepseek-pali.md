@@ -68,7 +68,8 @@ The fourth training rule on grave offenses is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc64-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC64]] |
->|       |          | [[ñanatusita-analysis#^PC64]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC64]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC64]]

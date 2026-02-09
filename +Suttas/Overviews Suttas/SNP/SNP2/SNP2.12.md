@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG21.1]]"
+parallels_partilal: "[[THAG21]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.11]]  🌐 [[SNP2.13]] ►
 
@@ -71,7 +71,7 @@ Even brilliant people wouldn’t shine bright.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG21.1]] |
+| [[THAG21]].1 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -94,5 +94,6 @@ Even brilliant people wouldn’t shine bright.
 > - Sutta Central: https://suttacentral.net/snp2.12/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.12
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.12.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.11]]  🌐 [[SNP2.13]] ►

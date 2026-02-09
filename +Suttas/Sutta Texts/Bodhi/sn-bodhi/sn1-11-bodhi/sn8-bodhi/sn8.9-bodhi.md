@@ -68,5 +68,6 @@ Then the Venerable Vaṅgīsa extolled the Venerable Aññā Koṇḍañña in t
 | [[SA-2.225]], [[SA1209]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.9]]
 > ◄  [[sn8.8-bodhi]] 📜  [[sn8.10-bodhi]] ►

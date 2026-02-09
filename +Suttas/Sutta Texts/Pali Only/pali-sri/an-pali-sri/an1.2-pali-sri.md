@@ -209,5 +209,6 @@ Vaggo dutiyo.
 | [[EA9.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.2]]
 > ◄  [[an1.1-pali-sri]] 📜  [[an1.3-pali-sri]] ►

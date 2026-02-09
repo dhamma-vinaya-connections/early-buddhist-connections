@@ -25,3 +25,5 @@ evaṃ hi dantā āyanti satthu pādāni vandikā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig336-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG336]]
+> ◄  [[thig335-pali-pts]] 📜  [[thig337-pali-pts]] ►

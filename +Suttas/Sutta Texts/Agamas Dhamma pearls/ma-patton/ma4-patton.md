@@ -117,10 +117,11 @@ The monks then accepted the teaching and listened.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.15]] | [[EA39.3]] |  |
+> |  | [[EA39.3]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN]], [[ITI69]], [[SN5]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA4]]
 > ◄  [[ma3-patton]] 📜  [[ma5-patton]] ►

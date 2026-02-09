@@ -23,3 +23,5 @@ evaṃ bhaṇati Sumedhā mātāpitaro na tāva āhāraṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig459-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG459]]
+> ◄  [[thig458-pali-pts]] 📜  [[thig460-pali-pts]] ►

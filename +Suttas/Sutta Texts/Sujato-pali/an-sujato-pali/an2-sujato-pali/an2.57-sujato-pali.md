@@ -40,5 +40,6 @@ language: "English - Pali"
 | [[EA17.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.57]]
 > ◄  [[an2.56-sujato-pali]] 📜  [[an2.58-sujato-pali]] ►

@@ -29,6 +29,6 @@ Again, the noble disciple destroys the taints, [attains] liberation of the mind,
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.69]] | [[EA39.2]] |  |
+> |  | [[EA39.2]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA2]]
 > ◄  [[ma1-bdk]] 📜  [[ma3-bdk]] ►

@@ -34,3 +34,5 @@ khuddaputtaṃ hi samaṇa posa man ti. tatiyam pi kho āyasmā Saṅgāmaji tu�
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.5]]
+> ◄  [[ud1.2-pali-pts]] 📜  [[ud1.8-pali-pts]] ►

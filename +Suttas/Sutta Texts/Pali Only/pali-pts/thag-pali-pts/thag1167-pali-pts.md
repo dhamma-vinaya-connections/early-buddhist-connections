@@ -23,3 +23,5 @@ upasanto uparato pantasenāsano muni
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1167-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1167]]
+> ◄  [[thag1166-pali-pts]] 📜  [[thag1168-pali-pts]] ►

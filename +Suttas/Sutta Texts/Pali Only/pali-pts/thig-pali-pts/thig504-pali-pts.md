@@ -23,3 +23,5 @@ asapattamhi samāne kin tava kāmehi ye bahusapattā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig504-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG504]]
+> ◄  [[thig503-pali-pts]] 📜  [[thig505-pali-pts]] ►

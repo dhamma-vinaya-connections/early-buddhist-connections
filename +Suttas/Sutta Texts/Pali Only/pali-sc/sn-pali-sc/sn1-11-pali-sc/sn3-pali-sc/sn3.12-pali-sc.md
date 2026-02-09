@@ -82,5 +82,6 @@ Tapantamādiccamivantalikkhe"ti.
 | [[EA33.1]], [[SA-2.72]], [[SA1149]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.12]]
 > ◄  [[sn3.11-pali-sc]] 📜  [[sn3.13-pali-sc]] ►

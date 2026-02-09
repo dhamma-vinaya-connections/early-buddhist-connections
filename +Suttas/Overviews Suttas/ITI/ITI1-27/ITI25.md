@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP176]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP176]]"
+parallels_partilal: "[[DHP\|DHP176]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI24]]  🌐 [[ITI26]] ►
 
@@ -64,10 +64,10 @@ there’s no evil not to be done.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP176]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP176]] |
+| [[DHP\|DHP176]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -90,5 +90,6 @@ there’s no evil not to be done.
 > - Sutta Central: https://suttacentral.net/iti25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti25
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti25.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI24]]  🌐 [[ITI26]] ►

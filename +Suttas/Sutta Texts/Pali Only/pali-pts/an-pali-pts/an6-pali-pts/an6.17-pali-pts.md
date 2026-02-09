@@ -39,5 +39,6 @@ Ekamantaṃ nisinnaṃ kho Nakulapitaraṃ gahapatiṃ Bhagavā etad avoca:--
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.56]], [[AN6.20]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.17]]
 > ◄  [[an6.16-pali-pts]] 📜  [[an6.18-pali-pts]] ►

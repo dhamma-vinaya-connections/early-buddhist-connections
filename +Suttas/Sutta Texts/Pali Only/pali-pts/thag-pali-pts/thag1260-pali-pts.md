@@ -23,3 +23,5 @@ svāgataṃ vata me āsi mama buddhassa santike;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1260-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1260]]
+> ◄  [[thag1259-pali-pts]] 📜  [[thag1261-pali-pts]] ►

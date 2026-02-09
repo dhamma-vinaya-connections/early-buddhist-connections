@@ -88,4 +88,5 @@ Such a person is said to beautify the saṅgha
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.7
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.6]]  🌐 [[AN4.8]] ►

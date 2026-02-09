@@ -99,5 +99,6 @@ Anassuṁ kho, sāriputta, aññatitthiyā paribbājakā ye imaṁ dhammapariyā
 | [[MA21]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.36]]
 > ◄  [[an2.35-sujato-pali]] 📜  [[an2.37-sujato-pali]] ►

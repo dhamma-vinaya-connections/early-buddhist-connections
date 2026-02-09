@@ -24,3 +24,5 @@ vandanaṃ dāni te vajjaṃ lokanāthaṃ anuttaraṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig307-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG307]]
+> ◄  [[thig306-pali-pts]] 📜  [[thig308-pali-pts]] ►

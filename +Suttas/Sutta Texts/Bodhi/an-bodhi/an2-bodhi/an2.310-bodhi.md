@@ -29,3 +29,5 @@ The Book of the Twos is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.310-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.310]]
+> ◄  [[an2.280-bodhi]] 📜  [[]] ►

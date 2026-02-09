@@ -23,3 +23,5 @@ na te idaṃ citta yathāpurāṇakaṃ, nāhaṃ alaṃ tuyha vase nivattituṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1131-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1131]]
+> ◄  [[thag1130-pali-pts]] 📜  [[thag1132-pali-pts]] ►

@@ -99,3 +99,5 @@ Catutthavagga
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.219-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.219]]
+> ◄  [[an1.209-sujato-pali]] 📜  [[an1.235-sujato-pali]] ►

@@ -23,3 +23,5 @@ tañ ca appaṭivāniyaṃ asecanakam ojavaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig54-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG54]]
+> ◄  [[thig53-pali-pts]] 📜  [[thig55-pali-pts]] ►

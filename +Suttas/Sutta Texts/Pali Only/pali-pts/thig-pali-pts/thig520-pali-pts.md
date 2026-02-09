@@ -23,3 +23,5 @@ so hetu so pabhavo taṃ mūlaṃ satthu sāsane khanti |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig520-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG520]]
+> ◄  [[thig519-pali-pts]] 📜  [[thig521-pali-pts]] ►

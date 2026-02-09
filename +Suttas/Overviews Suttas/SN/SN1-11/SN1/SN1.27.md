@@ -87,4 +87,5 @@ Fire and air find no footing
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.27
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.27.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.26]]  🌐 [[SN1.28]] ►

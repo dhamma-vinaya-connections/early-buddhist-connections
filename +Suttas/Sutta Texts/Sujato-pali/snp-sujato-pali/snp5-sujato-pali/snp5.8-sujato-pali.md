@@ -167,3 +167,5 @@ Nandamāṇavapucchā sattamā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.8]]
+> ◄  [[snp5.7-sujato-pali]] 📜  [[snp5.9-sujato-pali]] ►

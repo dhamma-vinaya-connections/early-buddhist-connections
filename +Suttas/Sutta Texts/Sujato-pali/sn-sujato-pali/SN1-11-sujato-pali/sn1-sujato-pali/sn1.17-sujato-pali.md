@@ -70,5 +70,6 @@ Parinibbuto nūpavadeyya kañcī"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.199]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.17]]
 > ◄  [[sn1.16-sujato-pali]] 📜  [[sn1.18-sujato-pali]] ►

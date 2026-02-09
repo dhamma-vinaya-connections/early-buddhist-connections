@@ -23,3 +23,5 @@ tadāhaṃ puttadārañ ca dhanadhaññañ ca chaḍḍayiṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag511-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG511]]
+> ◄  [[thag510-pali-pts]] 📜  [[thag512-pali-pts]] ►

@@ -23,3 +23,5 @@ Vivittaṃ appanigghosaṃ vāḷamiganisevitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag576-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG576]]
+> ◄  [[thag575-pali-pts]] 📜  [[thag577-pali-pts]] ►

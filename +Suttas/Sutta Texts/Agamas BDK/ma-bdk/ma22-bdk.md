@@ -46,11 +46,12 @@ understanding and awakening, and dwells having personally realized. He knows as 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.166]] |  | M iii 37 |
+> |  |  | M iii 37 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA126]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA22]]
 > ◄  [[ma21-bdk]] 📜  [[ma23-bdk]] ►

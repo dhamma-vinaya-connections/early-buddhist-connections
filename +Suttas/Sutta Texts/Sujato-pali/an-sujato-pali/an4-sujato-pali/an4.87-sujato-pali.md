@@ -70,11 +70,12 @@ Sattamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.104]] |  | A ii 86 |
+> |  |  | A ii 86 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.104]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.87]]
 > ◄  [[an4.86-sujato-pali]] 📜  [[an4.88-sujato-pali]] ►

@@ -102,4 +102,5 @@ be one who’s cultivated disenchantment.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.11
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.11.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.10]]  🌐 [[SNP2.12]] ►

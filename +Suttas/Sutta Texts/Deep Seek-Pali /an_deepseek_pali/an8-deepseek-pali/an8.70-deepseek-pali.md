@@ -120,7 +120,7 @@ Desire, enough, and the concise; Gayā, along with the victor; Liberation, two e
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN51.10]], [[UD6.1]] | [[EA42.5]], [[MA36]] | A iv 308 |
+> |  | [[EA42.5]], [[MA36]] | A iv 308 |
 > > [!check]- Partial parallels 
 > > 
 | [[UD6.1]], [[DN16]], [[SN51.10]], [[MA36]], [[EA42.5]], [[PE3]] |
@@ -129,6 +129,7 @@ Desire, enough, and the concise; Gayā, along with the victor; Liberation, two e
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.70]]
 > ◄  [[an8.69-deepseek-pali]] 📜  [[an8.71-deepseek-pali]] ►

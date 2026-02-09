@@ -23,3 +23,5 @@ so me dhammam adesesi anukampāya Gotamo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig154-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG154]]
+> ◄  [[thig153-pali-pts]] 📜  [[thig155-pali-pts]] ►

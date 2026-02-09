@@ -35,3 +35,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.585-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.585]]
+> ◄  [[an1.584-bodhi]] 📜  [[an1.616-bodhi]] ►

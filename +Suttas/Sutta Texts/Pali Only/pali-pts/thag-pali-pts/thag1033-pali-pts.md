@@ -23,3 +23,5 @@ na pakkhanti disā sabbā, dhammā na paṭibhanti maṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1033-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1033]]
+> ◄  [[thag1032-pali-pts]] 📜  [[thag1034-pali-pts]] ►

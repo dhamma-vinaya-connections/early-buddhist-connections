@@ -99,4 +99,5 @@ That is a secure refuge,
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp16
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp16.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP15]]  🌐 [[PDHP17]] ►

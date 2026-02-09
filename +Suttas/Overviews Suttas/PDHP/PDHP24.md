@@ -95,4 +95,5 @@ for one who knows the True Dhamma.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp24
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp24.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP23]]  🌐 [[PDHP25]] ►

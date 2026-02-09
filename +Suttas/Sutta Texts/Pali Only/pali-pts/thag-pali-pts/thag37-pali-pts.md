@@ -24,3 +24,5 @@ Yo iddhiyā Sarabhuṃ aṭṭhapesi so Gavampati asito anejo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag37-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG37]]
+> ◄  [[thag36-pali-pts]] 📜  [[thag38-pali-pts]] ►

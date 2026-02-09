@@ -89,4 +89,5 @@ parallels_partilal: "[[SA985]], [[MN109]], [[MN44]], [[SN22.44]], [[SN41.3]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.200
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.200.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.199]]  🌐 [[AN4.201]] ►

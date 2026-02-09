@@ -95,4 +95,5 @@ cutting off the bonds of Māra
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp24
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp24.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP23]]  🌐 [[DHP25]] ►

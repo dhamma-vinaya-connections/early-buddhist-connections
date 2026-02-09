@@ -34,5 +34,6 @@ Tatiyaṁ.
 | [[SA670-672]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.153]]
 > ◄  [[an4.152-pali-sc]] 📜  [[an4.154-pali-sc]] ►

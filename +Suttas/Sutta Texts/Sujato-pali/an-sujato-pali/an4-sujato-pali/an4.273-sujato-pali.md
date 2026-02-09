@@ -31,3 +31,5 @@ They themselves have right view; they encourage others to have right view; they 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.273-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.273]]
+> ◄  [[an4.272-sujato-pali]] 📜  [[an4.274-sujato-pali]] ►

@@ -23,3 +23,5 @@ etam ādīnavaṃ ñatvā sakkāresu mahabbhayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag153-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG153]]
+> ◄  [[thag152-pali-pts]] 📜  [[thag154-pali-pts]] ►

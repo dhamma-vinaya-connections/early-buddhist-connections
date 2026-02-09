@@ -88,4 +88,5 @@ Of regular family tradition
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.9
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.8]]  🌐 [[SN3.10]] ►

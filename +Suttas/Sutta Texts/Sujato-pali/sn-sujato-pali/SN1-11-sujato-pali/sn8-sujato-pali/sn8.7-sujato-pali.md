@@ -116,5 +116,6 @@ vande ādiccabandhunan"ti.
 | [[EA32.5]], [[MA121]], [[SA-2.228]], [[SA1212]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.7]]
 > ◄  [[sn8.6-sujato-pali]] 📜  [[sn8.8-sujato-pali]] ►

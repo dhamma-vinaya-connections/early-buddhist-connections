@@ -50,5 +50,6 @@ they call the sage, accomplished in sagacity,
 | [[ITI67]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.122]]
 > ◄  [[an3.121-bodhi]] 📜  [[an3.123-bodhi]] ►

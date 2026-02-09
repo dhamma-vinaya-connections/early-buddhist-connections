@@ -68,7 +68,8 @@ The fifth training rule, concerning one under twenty years of age, is finished.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc65-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC65]] |
->|       |          | [[ñanatusita-analysis#^PC65]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC65]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC65]]

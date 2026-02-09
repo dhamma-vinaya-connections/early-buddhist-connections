@@ -46,5 +46,6 @@ saddhammo garukātabbo saraṃ buddhānasāsanan ti.]
 | [[MA138]], [[ITI22]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.62]]
 > ◄  [[an7.61-pali-pts]] 📜  [[an7.63-pali-pts]] ►

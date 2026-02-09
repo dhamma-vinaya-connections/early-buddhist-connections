@@ -57,11 +57,12 @@ Paṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.45]] |  | A ii 54 |
+> |  |  | A ii 54 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.45]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.51]]
 > ◄  [[an4.50-pali-sc]] 📜  [[an4.52-pali-sc]] ►

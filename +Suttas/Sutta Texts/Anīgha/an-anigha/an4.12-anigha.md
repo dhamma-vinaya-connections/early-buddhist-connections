@@ -35,11 +35,12 @@ If while standing … sitting … If while lying down, a bhikkhu is free from lo
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[ITI111]] |  | A ii 136 |
+> |  |  | A ii 136 |
 > > [!check]- Partial parallels 
 > > 
 | [[ITI111]], [[AN10.71]], [[AN10.17]], [[DN33]], [[DN34]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.12]]
 > ◄  [[an3.121-anigha]] 📜  [[an4.162-anigha]] ►

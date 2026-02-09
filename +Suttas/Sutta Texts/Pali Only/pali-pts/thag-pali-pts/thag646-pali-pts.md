@@ -23,3 +23,5 @@ mettañ ca abhijānāmi appamāṇaṃ subhāvitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag646-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG646]]
+> ◄  [[thag645-pali-pts]] 📜  [[thag647-pali-pts]] ►

@@ -88,4 +88,5 @@ parallels_partilal: "[[EA26.7]], [[SA-2.54]], [[SA1227]], [[PE1]], [[SN3.4]], [[
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.22
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.22.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.21]]  🌐 [[SN3.23]] ►

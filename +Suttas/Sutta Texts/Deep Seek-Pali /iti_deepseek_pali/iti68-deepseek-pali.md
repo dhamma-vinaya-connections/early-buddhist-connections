@@ -39,5 +39,10 @@ Merit, the eye, and then the faculties, the path and conduct, two on purity; the
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti68-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[ITI109]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI68]]
 > ◄  [[iti67-deepseek-pali]] 📜  [[iti69-deepseek-pali]] ►

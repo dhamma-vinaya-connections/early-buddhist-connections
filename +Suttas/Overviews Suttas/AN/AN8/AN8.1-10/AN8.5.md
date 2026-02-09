@@ -89,4 +89,5 @@ Nor are they repelled by the undesirable.
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.5
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.4]]  🌐 [[AN8.6]] ►

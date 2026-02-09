@@ -171,5 +171,6 @@ Ghaṭīkārasuttaṃ paṭhamaṃ.
 | [[MA63]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN81]]
 > ◄  [[mn80-pali-sri]] 📜  [[mn82-pali-sri]] ►

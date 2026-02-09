@@ -23,3 +23,5 @@ imañ ca passa āyantaṃ Sāriputtaṃ sudassanaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1175-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1175]]
+> ◄  [[thag1174-pali-pts]] 📜  [[thag1176-pali-pts]] ►

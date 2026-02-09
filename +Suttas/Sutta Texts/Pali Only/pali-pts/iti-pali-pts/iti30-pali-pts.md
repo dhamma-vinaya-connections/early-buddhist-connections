@@ -35,11 +35,12 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||3||
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP140]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]] |
+| [[DHP\|DHP140]], [[AN5.174]], [[ITI64]], [[AN6.45]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI30]]
 > ◄  [[iti29-pali-pts]] 📜  [[iti31-pali-pts]] ►

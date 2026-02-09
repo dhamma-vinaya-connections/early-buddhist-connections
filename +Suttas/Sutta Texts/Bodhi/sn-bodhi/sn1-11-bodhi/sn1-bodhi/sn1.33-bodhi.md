@@ -159,5 +159,6 @@ Then another devatā said to the Blessed One: \[22\] “Which one, Blessed One,
 | [[JA424]], [[JA450]], [[SN1.32]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.33]]
 > ◄  [[sn1.32-bodhi]] 📜  [[sn1.34-bodhi]] ►

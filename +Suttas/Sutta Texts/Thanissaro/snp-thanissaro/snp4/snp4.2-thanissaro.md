@@ -156,7 +156,8 @@ vv. 772–779
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN35.189]], [[THAG16.4]], [[SN4.15]]
+> - [[SN35.189]], [[THAG16]].4, [[SN4.15]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.2]]
 > ◄  [[snp4.1-thanissaro]] 📜  [[snp4.3-thanissaro]] ►

@@ -23,3 +23,5 @@ sabbe yogā samucchinnā ye dibbā ye ca mānusā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig75-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG75]]
+> ◄  [[thig74-pali-pts]] 📜  [[thig76-pali-pts]] ►

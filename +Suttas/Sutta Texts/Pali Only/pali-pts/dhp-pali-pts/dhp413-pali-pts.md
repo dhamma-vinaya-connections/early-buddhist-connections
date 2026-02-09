@@ -25,3 +25,5 @@ tiṇṇo pāragato jhāyī anejo akathaṃkathī /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp413-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP413]]
+> ◄  [[dhp412-pali-pts]] 📜  [[dhp414-pali-pts]] ►

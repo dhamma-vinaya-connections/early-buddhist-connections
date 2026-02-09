@@ -24,3 +24,5 @@ pāpañ ce puriso kayirā na taṃ kayirā punappunaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp116-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP116]]
+> ◄  [[dhp115-pali-pts]] 📜  [[dhp117-pali-pts]] ►

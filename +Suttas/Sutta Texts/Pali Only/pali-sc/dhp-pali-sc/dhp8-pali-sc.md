@@ -92,5 +92,6 @@ Yo ca vassasataṃ jīve, apassaṃ dhammamuttamaṃ; ekāhaṃ jīvitaṃ seyyo
 | [[PE3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP8]]
 > ◄  [[dhp7-pali-sc]] 📜  [[dhp9-pali-sc]] ►

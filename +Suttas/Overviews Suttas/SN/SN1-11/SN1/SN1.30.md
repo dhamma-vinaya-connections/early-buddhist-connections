@@ -88,4 +88,5 @@ You’re released from all suffering
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.30
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.30.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.29]]  🌐 [[SN1.31]] ►

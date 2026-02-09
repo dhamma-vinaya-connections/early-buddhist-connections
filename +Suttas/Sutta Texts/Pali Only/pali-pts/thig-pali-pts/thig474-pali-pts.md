@@ -23,3 +23,5 @@ devesu manussesu ca tiracchānayoniyā asurakāye |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig474-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG474]]
+> ◄  [[thig473-pali-pts]] 📜  [[thig475-pali-pts]] ►

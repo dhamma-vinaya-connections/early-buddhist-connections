@@ -23,3 +23,5 @@ sara rūpaṃ phenapiṇḍopamassa kāyakalino asārassa |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig500-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG500]]
+> ◄  [[thig499-pali-pts]] 📜  [[thig501-pali-pts]] ►

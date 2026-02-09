@@ -23,3 +23,5 @@ namo te purisājañña, namo te purisuttama,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag628-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG628]]
+> ◄  [[thag627-pali-pts]] 📜  [[thag629-pali-pts]] ►

@@ -247,3 +247,5 @@ sadā carati nibbuto"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag18-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG18]]
+> ◄  [[thag17-pali-sc]] 📜  [[thag19-pali-sc]] ►

@@ -41,11 +41,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN9.12]] | [[SA-2.355]], [[SA1335]] |  |
+> |  | [[SA-2.355]], [[SA1335]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.355]], [[SA1335]], [[SN9.12]], [[JA547]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.15]]
 > ◄  [[sn1.14-bodhi]] 📜  [[sn1.16-bodhi]] ►

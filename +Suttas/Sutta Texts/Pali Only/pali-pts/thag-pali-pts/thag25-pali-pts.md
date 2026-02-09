@@ -23,3 +23,5 @@ Sutvā subhāsitaṃ vācaṃ buddhassādiccabandhuno
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag25-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG25]]
+> ◄  [[thag24-pali-pts]] 📜  [[thag26-pali-pts]] ►

@@ -87,4 +87,5 @@ In making merit
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.43
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.43.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.42]]  🌐 [[AN5.44]] ►

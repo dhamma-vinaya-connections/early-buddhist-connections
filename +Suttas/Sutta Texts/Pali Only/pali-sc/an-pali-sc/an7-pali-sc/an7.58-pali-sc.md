@@ -60,5 +60,6 @@ Pañcamaṁ.
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.58]]
 > ◄  [[an7.57-pali-sc]] 📜  [[an7.59-pali-sc]] ►

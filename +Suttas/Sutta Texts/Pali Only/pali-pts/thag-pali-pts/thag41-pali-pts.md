@@ -24,3 +24,5 @@ Cāle Upacāle Sīsūpacāle patissatikā nu kho viharatha,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag41-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG41]]
+> ◄  [[thag40-pali-pts]] 📜  [[thag42-pali-pts]] ►

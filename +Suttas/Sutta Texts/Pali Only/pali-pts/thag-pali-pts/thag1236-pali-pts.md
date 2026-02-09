@@ -23,3 +23,5 @@ sabbe bhagavato puttā, palāpo ettha na vijjati;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1236-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1236]]
+> ◄  [[thag1235-pali-pts]] 📜  [[thag1237-pali-pts]] ►

@@ -58,5 +58,6 @@ Furthermore, a bhikkhu, having fully surmounted the extent of neither-perception
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN121]], [[AN9.34]], [[SN2.7]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.42]]
 > ◄  [[an9.41-anigha]] 📜  [[an10.2-anigha]] ►

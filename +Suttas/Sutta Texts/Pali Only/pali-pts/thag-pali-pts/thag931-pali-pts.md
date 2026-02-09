@@ -23,3 +23,5 @@ kileseh'; ābhibhūtā te tena tena vidhāvitā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag931-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG931]]
+> ◄  [[thag930-pali-pts]] 📜  [[thag932-pali-pts]] ►

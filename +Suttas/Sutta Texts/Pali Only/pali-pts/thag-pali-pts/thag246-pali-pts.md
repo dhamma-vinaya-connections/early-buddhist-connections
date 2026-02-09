@@ -23,3 +23,5 @@ aniccā hi calā saddhā evaṃ diṭṭhā hi sā mayā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag246-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG246]]
+> ◄  [[thag245-pali-pts]] 📜  [[thag247-pali-pts]] ►

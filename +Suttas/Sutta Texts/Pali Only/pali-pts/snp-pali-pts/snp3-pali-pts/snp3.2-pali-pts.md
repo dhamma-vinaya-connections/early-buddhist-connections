@@ -93,5 +93,6 @@ PADHĀNASUTTAṂ NIṬṬHITAṂ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN70]], [[SN4]], [[AN2.5]], [[AN5.53]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.2]]
 > ◄  [[snp3.1-pali-pts]] 📜  [[snp3.3-pali-pts]] ►

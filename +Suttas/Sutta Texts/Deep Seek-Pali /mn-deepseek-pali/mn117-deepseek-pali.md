@@ -159,12 +159,13 @@ The Discourse on Mindfulness of Breathing, the eighth, is concluded.
 > |  | [[MA189]]; [[SA784]]; [[SA785]] | M iii 71 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA189]]; [[SA785]]; [[SA784]]; [[AN4.30]]; [[SN22.62]] |
+| [[MA189]], [[SA785]], [[SA784]], [[AN4.30]], [[SN22.62]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN12.15]]; [[SN45.1]]; [[SN45.8]]; [[AN5.25]]; [[AN5.28]]
+> - [[SN12.15]], [[SN45.1]], [[SN45.8]], [[AN5.25]], [[AN5.28]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN117]]
 > ◄  [[mn116-deepseek-pali]] 📜  [[mn118-deepseek-pali]] ►

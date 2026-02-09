@@ -25,3 +25,5 @@ sumuttike sumuttikā sādhu muttika mhi musalassa |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig22-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG22]]
+> ◄  [[thig21-pali-pts]] 📜  [[thig23-pali-pts]] ►

@@ -24,3 +24,5 @@ sududdasaṃ sunipuṇaṃ yatthakāmanipātinaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp35-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP35]]
+> ◄  [[dhp34-pali-pts]] 📜  [[dhp36-pali-pts]] ►

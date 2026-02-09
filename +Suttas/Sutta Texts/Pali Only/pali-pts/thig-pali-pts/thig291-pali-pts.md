@@ -23,3 +23,5 @@ sumattaṃ maṃ maññamānā Cāpā puttam atosayi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig291-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG291]]
+> ◄  [[thig290-pali-pts]] 📜  [[thig292-pali-pts]] ►

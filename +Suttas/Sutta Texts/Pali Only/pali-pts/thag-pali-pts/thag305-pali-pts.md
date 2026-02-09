@@ -23,3 +23,5 @@ vipphoṭito gaṇḍamūlo, taṇhājālo samūhato;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag305-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG305]]
+> ◄  [[thag304-pali-pts]] 📜  [[thag306-pali-pts]] ►

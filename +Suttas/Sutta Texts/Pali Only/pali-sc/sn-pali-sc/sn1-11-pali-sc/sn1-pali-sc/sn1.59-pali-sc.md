@@ -54,5 +54,6 @@ Sabbadukkhā pamuccatī"ti.
 | [[SA-2.241]], [[SA1014]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.59]]
 > ◄  [[sn1.58-pali-sc]] 📜  [[sn1.60-pali-sc]] ►

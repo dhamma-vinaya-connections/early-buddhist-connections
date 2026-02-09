@@ -23,3 +23,5 @@ na h'; etad atthāya matassa hoti yaṃ jīvitatthaṃ paraporisānaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag553-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG553]]
+> ◄  [[thag552-pali-pts]] 📜  [[thag554-pali-pts]] ►

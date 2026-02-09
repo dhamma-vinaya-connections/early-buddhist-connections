@@ -88,4 +88,5 @@ parallels_partilal: "[[AN6.62]], [[PLI-TV-KD17]], [[PLI-TV-PVR7]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.7
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.6]]  🌐 [[AN8.8]] ►

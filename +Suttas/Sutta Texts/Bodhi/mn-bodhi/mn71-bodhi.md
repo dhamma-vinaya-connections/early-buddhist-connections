@@ -73,5 +73,6 @@ That is what the Blessed One said. The wanderer Vacchagotta was satisfied and de
 | [[MN14]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-bodhi]] 📜  [[mn72-bodhi]] ►

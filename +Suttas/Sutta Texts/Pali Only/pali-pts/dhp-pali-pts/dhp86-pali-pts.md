@@ -24,3 +24,5 @@ kaṇhaṃ dhammaṃ vippahāya sukkaṃ bhāvetha paṇḍito, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp86-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP86]]
+> ◄  [[dhp85-pali-pts]] 📜  [[dhp87-pali-pts]] ►

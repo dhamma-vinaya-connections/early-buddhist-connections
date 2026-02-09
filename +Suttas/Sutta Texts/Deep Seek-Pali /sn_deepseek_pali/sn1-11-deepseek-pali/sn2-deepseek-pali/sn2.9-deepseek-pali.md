@@ -58,5 +58,6 @@ My head would split into seven pieces, and I would not live in comfort, if I did
 | [[SA-2.167]], [[SA583]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.9]]
 > ◄  [[sn2.8-deepseek-pali]] 📜  [[sn2.10-deepseek-pali]] ►

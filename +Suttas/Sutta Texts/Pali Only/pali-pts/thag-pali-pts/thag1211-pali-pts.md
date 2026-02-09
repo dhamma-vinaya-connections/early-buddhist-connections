@@ -23,3 +23,5 @@ sakiṃ hi me sutaṃ etaṃ buddhassādiccabandhuno
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1211-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1211]]
+> ◄  [[thag1210-pali-pts]] 📜  [[thag1212-pali-pts]] ►

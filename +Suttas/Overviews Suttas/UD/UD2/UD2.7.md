@@ -98,4 +98,5 @@ Overcome the heedless one.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.7
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.7.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.6]]  🌐 [[UD2.8]] ►

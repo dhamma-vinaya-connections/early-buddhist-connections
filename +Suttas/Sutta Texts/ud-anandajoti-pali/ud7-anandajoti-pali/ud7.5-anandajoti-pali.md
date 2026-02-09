@@ -76,5 +76,6 @@ Pañcamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN21.5]], [[SN41:5]], [[AN]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.5]]
 > ◄  [[ud7.4-anandajoti-pali]] 📜  [[ud7.6-anandajoti-pali]] ►

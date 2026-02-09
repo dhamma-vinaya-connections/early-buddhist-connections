@@ -305,8 +305,9 @@ Araṇavibhaṅgasuttaṁ niṭṭhitaṁ navamaṁ.
 > |  | [[MA169]] | M iii 230 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA169]]; [[MN122]]; [[MN13]]; [[MN14]]; [[SN36.20]]; [[SN36.19]]; [[AN6.63]] |
+| [[MA169]], [[MN122]], [[MN13]], [[MN14]], [[SN36.20]], [[SN36.19]], [[AN6.63]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN139]]
 > ◄  [[mn138-sujato-pali]] 📜  [[mn140-sujato-pali]] ►

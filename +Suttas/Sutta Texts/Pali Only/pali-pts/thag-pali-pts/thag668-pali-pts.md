@@ -23,3 +23,5 @@ sukhañ ca kāmamayikaṃ dukkhañ ca pavivekiyaṃ:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag668-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG668]]
+> ◄  [[thag667-pali-pts]] 📜  [[thag669-pali-pts]] ►

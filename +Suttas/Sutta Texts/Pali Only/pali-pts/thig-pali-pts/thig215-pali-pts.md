@@ -24,3 +24,5 @@ dukkho itthibhāvo akkhāto purisadammasārathinā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig215-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG215]]
+> ◄  [[thig214-pali-pts]] 📜  [[thig216-pali-pts]] ►

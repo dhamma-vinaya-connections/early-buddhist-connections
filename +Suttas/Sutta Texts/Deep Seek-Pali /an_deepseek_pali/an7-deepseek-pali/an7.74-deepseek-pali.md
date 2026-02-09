@@ -94,5 +94,6 @@ Shame (is like) the sun, the wise (are like) the pāricchattaka tree; respectful
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN54]], [[AN6.19]], [[AN6.20]], [[SN4.6]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.74]]
 > ◄  [[an7.73-deepseek-pali]] 📜  [[an7.75-deepseek-pali]] ►

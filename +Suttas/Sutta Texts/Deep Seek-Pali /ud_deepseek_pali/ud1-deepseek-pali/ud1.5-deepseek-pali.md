@@ -37,3 +37,5 @@ Then, the Blessed One, having understood this matter, on that occasion, uttered 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud1.5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD1.5]]
+> ◄  [[ud1.4-deepseek-pali]] 📜  [[ud1.6-deepseek-pali]] ►

@@ -73,7 +73,7 @@ of the bamboo.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN9]], [[DHP164]]
+> - [[MN9]], [[DHP\|DHP164]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -91,5 +91,6 @@ of the bamboo.
 > - Sutta Central: https://suttacentral.net/iti50/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti50
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti50.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI49]]  🌐 [[ITI51]] ►

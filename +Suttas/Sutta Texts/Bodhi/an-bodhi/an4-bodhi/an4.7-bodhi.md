@@ -56,5 +56,6 @@ these are the Saṅgha’s adornments.
 | [[EA27.7]], [[SA873]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.7]]
 > ◄  [[an4.6-bodhi]] 📜  [[an4.8-bodhi]] ►

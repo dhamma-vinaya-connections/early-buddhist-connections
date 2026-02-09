@@ -25,3 +25,5 @@ _THERĪ-GĀTHĀ. 159_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig367-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG367]]
+> ◄  [[thig366-pali-pts]] 📜  [[thig368-pali-pts]] ►

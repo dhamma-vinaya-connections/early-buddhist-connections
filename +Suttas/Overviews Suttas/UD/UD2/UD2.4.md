@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[UD4.8]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[UD4.8]]"
 ---
@@ -71,7 +71,7 @@ He is a person who is in a state of bondage in regard to (other) people.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[UD4.8]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[UD4.8]] |
@@ -79,7 +79,7 @@ He is a person who is in a state of bondage in regard to (other) people.”
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN21]], [[MN28]], [[DHP200]], [[AN221]], [[AN396]], [[AN421]], [[AN]]
+> - [[DN21]], [[MN28]], [[DHP\|DHP200]], [[AN221]], [[AN396]], [[AN421]], [[AN]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -97,5 +97,6 @@ He is a person who is in a state of bondage in regard to (other) people.”
 > - Sutta Central: https://suttacentral.net/ud2.4/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.4
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.4.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.3]]  🌐 [[UD2.5]] ►

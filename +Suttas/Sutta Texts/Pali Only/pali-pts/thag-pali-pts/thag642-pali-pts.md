@@ -23,3 +23,5 @@ selo yathā ekaghano vātena na samīrati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag642-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG642]]
+> ◄  [[thag641-pali-pts]] 📜  [[thag643-pali-pts]] ►

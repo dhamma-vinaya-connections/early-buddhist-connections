@@ -88,4 +88,5 @@ parallels_partilal: "[[DN33]], [[MN140]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.1
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.1.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.307-1152]]  🌐 [[AN6.2]] ►

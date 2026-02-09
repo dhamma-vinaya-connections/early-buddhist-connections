@@ -23,3 +23,5 @@ appamattassa me sikkhā sussutā tava sāsane;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag332-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG332]]
+> ◄  [[thag331-pali-pts]] 📜  [[thag333-pali-pts]] ►

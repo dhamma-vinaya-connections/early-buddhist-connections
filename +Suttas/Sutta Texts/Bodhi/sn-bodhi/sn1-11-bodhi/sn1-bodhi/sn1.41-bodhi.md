@@ -75,5 +75,6 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī 
 | [[JA424]], [[AN3.52]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.41]]
 > ◄  [[sn1.40-bodhi]] 📜  [[sn1.42-bodhi]] ►

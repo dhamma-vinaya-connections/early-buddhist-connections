@@ -48,15 +48,16 @@ He lives for two thousand four hundred fortnights—eight hundred fort- nights o
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.54]], [[AN7.66]], [[AN7.73]], [[AN7.73-74]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[JA384]], [[DHP168]] |
+| [[JA384]], [[DHP\|DHP168]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.19]], [[AN6.20]], [[MN54]], [[SN4.6]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA160]]
 > ◄  [[ma159-bdk]] 📜  [[ma161-bdk]] ►

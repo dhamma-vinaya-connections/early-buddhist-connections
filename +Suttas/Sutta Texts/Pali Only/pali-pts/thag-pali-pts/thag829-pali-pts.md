@@ -23,3 +23,5 @@ yesaṃ ve dullabho loke pātubhāvo abhiṇhaso,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag829-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG829]]
+> ◄  [[thag828-pali-pts]] 📜  [[thag830-pali-pts]] ►

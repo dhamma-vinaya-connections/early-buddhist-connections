@@ -30,7 +30,7 @@ Then the brahmin Ujjaya approached the Blessed One and exchanged greetings with 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.54]] | [[SA-2.91]], [[SA91]] | A iv 285 |
+> |  | [[SA-2.91]], [[SA91]] | A iv 285 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.54]], [[SA-2.91]], [[SA91]] |
@@ -39,6 +39,7 @@ Then the brahmin Ujjaya approached the Blessed One and exchanged greetings with 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN3.19]], [[SN45.2]], [[AN4.62]], [[AN5.34]], [[AN5.38]], [[AN5.41]], [[AN5.175]], [[AN5.179]], [[AN6.45]], [[AN8.80.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.55]]
 > ◄  [[an8.54-bodhi]] 📜  [[an8.56-bodhi]] ►

@@ -88,4 +88,5 @@ parallels_partilal: "[[EA23.3]], [[MA123]], [[SA254]], [[PLI-TV-KD5]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.55
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.55.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.54]]  🌐 [[AN6.56]] ►

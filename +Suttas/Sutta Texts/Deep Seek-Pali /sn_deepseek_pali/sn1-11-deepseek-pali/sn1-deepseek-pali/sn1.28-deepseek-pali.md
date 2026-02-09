@@ -44,5 +44,6 @@ Among those who are filled with longing, following the stream of becoming, who h
 | [[SA-2.183]], [[SA589]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.28]]
 > ◄  [[sn1.27-deepseek-pali]] 📜  [[sn1.29-deepseek-pali]] ►

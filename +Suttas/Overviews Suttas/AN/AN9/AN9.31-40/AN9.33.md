@@ -90,4 +90,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an9.33
 > - The Buddhas Words: https://thebuddhaswords.net/an/an9.33.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN9.32]]  🌐 [[AN9.34]] ►

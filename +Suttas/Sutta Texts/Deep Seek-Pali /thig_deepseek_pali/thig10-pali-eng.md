@@ -77,3 +77,5 @@ The Eleventh Section is concluded.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG10]]
+> ◄  [[thig9-pali-eng]] 📜  [[thig11-pali-eng]] ►

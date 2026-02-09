@@ -56,7 +56,8 @@ The Tenth Training Rule on Going Without Giving Consent is finished.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc80-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC80]] |
->|       |          | [[ñanatusita-analysis#^PC80]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC80]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC80]]

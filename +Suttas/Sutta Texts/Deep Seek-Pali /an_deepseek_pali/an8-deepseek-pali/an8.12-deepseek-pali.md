@@ -162,5 +162,6 @@ Then General Sīha personally served and satisfied the community of monks, heade
 | [[MA18]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.12]]
 > ◄  [[an8.11-deepseek-pali]] 📜  [[an8.13-deepseek-pali]] ►

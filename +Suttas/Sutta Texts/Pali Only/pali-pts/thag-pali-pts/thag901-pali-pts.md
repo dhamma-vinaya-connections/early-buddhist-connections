@@ -23,3 +23,5 @@ yadā me ahu saṃkappo tato uttari desayi,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag901-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG901]]
+> ◄  [[thag900-pali-pts]] 📜  [[thag902-pali-pts]] ►

@@ -23,3 +23,5 @@ evam eva tuvaṃ Māra āsajja naṃ tathāgataṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1204-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1204]]
+> ◄  [[thag1203-pali-pts]] 📜  [[thag1205-pali-pts]] ►

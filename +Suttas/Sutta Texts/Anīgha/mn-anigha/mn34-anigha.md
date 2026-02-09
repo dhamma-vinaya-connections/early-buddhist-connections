@@ -59,8 +59,9 @@ That is what the Auspicious One said. Then the Excellent One, the Teacher, went 
 > |  | [[EA43.6]]; [[SA1248]] | M i 225 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA43.6]]; [[SA1248]] |
+| [[EA43.6]], [[SA1248]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN34]]
 > ◄  [[mn33-anigha]] 📜  [[mn35-anigha]] ►

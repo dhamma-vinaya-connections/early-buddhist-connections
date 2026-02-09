@@ -28,11 +28,12 @@ language: "English - Pali"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.79]] |  | A iv 408 |
+> |  |  | A iv 408 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.79]], [[AN10.80]], [[AN9.30]], [[DN33]], [[DN34]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.29]]
 > ◄  [[an9.28-deepseek-pali]] 📜  [[an9.30-deepseek-pali]] ►

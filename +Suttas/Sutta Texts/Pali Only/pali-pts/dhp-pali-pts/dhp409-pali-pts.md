@@ -26,3 +26,5 @@ _26. Brāhmaṇavagga 115_
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp409-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP409]]
+> ◄  [[dhp408-pali-pts]] 📜  [[dhp410-pali-pts]] ►

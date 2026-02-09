@@ -35,5 +35,6 @@ Imāni kho bhikkhave cattāri dhammapadāni aggaññāni rattaññāni vaṃsañ
 | [[MN117]], [[SN22.62]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
 > ◄  [[an4.29-pali-pts]] 📜  [[an4.31-pali-pts]] ►

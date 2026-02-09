@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: "[[SA-2.229]], [[SA1213]]"
-parallels_partilal: "[[SA-2.229]], [[SA1213]], [[THAG21.1]]"
+parallels_partilal: "[[SA-2.229]], [[SA1213]], [[THAG21]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.1]]  🌐 [[SN8.3]] ►
 
@@ -68,7 +68,7 @@ That’s attractive, provoking lust
 > |  | [[SA-2.229]], [[SA1213]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.229]], [[SA1213]], [[THAG21.1]] |
+| [[SA-2.229]], [[SA1213]], [[THAG21]].1 |
 | ------------------------ |
 
 
@@ -88,5 +88,6 @@ That’s attractive, provoking lust
 > - Sutta Central: https://suttacentral.net/sn8.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.2
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.2.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.1]]  🌐 [[SN8.3]] ►

@@ -38,15 +38,16 @@ cannot fall away, but is close to nibbāna.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.33]], [[DHP32]] |  | A iii 331 |
+> |  |  | A iii 331 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN7.33]], [[DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]] |
+| [[AN7.33]], [[DHP\|DHP32]], [[AN4.37]], [[AN6.32]], [[AN7.32]], [[AN7.34]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.31]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.33]]
 > ◄  [[an6.32-bodhi]] 📜  [[an6.34-bodhi]] ►

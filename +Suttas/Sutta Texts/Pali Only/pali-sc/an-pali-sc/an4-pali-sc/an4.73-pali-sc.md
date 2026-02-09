@@ -58,5 +58,6 @@ Tatiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN113]], [[AN2.31]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.73]]
 > ◄  [[an4.72-pali-sc]] 📜  [[an4.74-pali-sc]] ►

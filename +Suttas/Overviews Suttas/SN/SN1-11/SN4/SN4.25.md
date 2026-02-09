@@ -92,4 +92,5 @@ He does not erupt, or drift, or stiffen
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.25
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.25.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.24]]  🌐 [[SN5.1]] ►

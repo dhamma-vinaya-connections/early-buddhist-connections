@@ -34,5 +34,6 @@ Subha-nimittaṃ bhikkhave ayoniso manasikaroto anuppanno c'; eva kāmacchando u
 | [[EA9.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.11]]
 > ◄  [[an1.9-pali-pts]] 📜  [[an1.12-pali-pts]] ►

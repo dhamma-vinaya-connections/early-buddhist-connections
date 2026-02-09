@@ -87,8 +87,9 @@ The Great Discourse on Mālukyaputta, the fourth, is finished.
 > |  | [[MA205]] | M i 432 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA205]]; [[MN52]]; [[AN9.36]]; [[AN11.16]] |
+| [[MA205]], [[MN52]], [[AN9.36]], [[AN11.16]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN64]]
 > ◄  [[mn63-deepseek-pali]] 📜  [[mn65-deepseek-pali]] ►

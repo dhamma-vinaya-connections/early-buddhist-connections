@@ -26,7 +26,7 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN47.45]], [[SN47.5]] | [[EA32.2]], [[SA611]], [[SA725]], [[SA767]] | A iii 65 |
+> |  | [[EA32.2]], [[SA611]], [[SA725]], [[SA767]] | A iii 65 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN47.5]], [[EA32.2]], [[SA725]], [[SA767]], [[SA611]], [[SN47.45]] |
@@ -35,6 +35,7 @@ language: "English"
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN46.51.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.52]]
 > ◄  [[an5.51-bodhi]] 📜  [[an5.53-bodhi]] ►

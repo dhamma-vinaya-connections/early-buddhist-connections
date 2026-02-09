@@ -172,11 +172,12 @@ and attains final nibbāna.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[THAG15.2]] | [[MA118]] | A iii 344 |
+> |  | [[MA118]] | A iii 344 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA118]], [[THAG15.2]] |
+| [[MA118]], [[THAG15]].2 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.43]]
 > ◄  [[an6.42-bodhi]] 📜  [[an6.44-bodhi]] ►

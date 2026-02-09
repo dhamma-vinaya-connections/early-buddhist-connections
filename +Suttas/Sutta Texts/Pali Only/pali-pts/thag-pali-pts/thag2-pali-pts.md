@@ -25,3 +25,5 @@ Paññaṃ imaṃ passa tathāgatānaṃ: aggi yathā pajjalito nisīthe
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG2]]
+> ◄  [[thag1-pali-pts]] 📜  [[thag3-pali-pts]] ►

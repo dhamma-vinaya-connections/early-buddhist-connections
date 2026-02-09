@@ -24,3 +24,5 @@ cirappavāsiṃ purisaṃ dūrato sotthim āgataṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp218-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP218]]
+> ◄  [[dhp217-pali-pts]] 📜  [[dhp219-pali-pts]] ►

@@ -96,7 +96,8 @@ The eighth training rule, on embarking on a boat, is finished.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc28-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC28]] |
->|       |          | [[ñanatusita-analysis#^PC28]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC28]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC28]]

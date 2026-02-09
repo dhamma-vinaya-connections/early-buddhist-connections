@@ -91,4 +91,5 @@ One who practices to benefit both themselves and others.
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.99
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.99.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.98]]  🌐 [[AN4.100]] ►

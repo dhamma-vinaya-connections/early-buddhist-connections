@@ -89,4 +89,5 @@ Neither dark nor bright deeds with neither dark nor bright results, which lead t
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.232
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.232.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.231]]  🌐 [[AN4.233]] ►

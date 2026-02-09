@@ -23,3 +23,5 @@ sabbāsavaparikkhīṇā mahājhāyī mahāhitā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag927-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG927]]
+> ◄  [[thag926-pali-pts]] 📜  [[thag928-pali-pts]] ►

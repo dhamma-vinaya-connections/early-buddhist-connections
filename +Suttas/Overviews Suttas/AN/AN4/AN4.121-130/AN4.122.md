@@ -88,4 +88,5 @@ parallels_partilal: "[[MN67]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.122
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.122.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.121]]  🌐 [[AN4.123]] ►

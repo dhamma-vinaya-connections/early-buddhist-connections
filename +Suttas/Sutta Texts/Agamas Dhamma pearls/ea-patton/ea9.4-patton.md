@@ -41,3 +41,5 @@ Last Revised: 15 February 2023
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ea9.4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[EA]] / 📂 [[EA9]]  / 🌐 [[EA9.4]]
+> ◄  [[ea9.3-patton]] 📜  [[ea9.5-patton]] ►

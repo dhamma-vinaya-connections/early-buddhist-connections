@@ -68,7 +68,8 @@ The Training Rule on Eating at the Wrong Time, the seventh, is finished.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc37-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC37]] |
->|       |          | [[ñanatusita-analysis#^PC37]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC37]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC37]]

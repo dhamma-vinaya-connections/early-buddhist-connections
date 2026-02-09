@@ -31,13 +31,10 @@ Venerable friends, when contemplating [like this], if a monk finds that he lacks
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma89-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN15]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA93]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA89]]
 > ◄  [[ma88-bdk]] 📜  [[ma90-bdk]] ►

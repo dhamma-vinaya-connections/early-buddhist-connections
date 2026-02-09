@@ -23,3 +23,5 @@ yo ca papañcaṃ hitvāna nippapañcapathe rato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag989-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG989]]
+> ◄  [[thag988-pali-pts]] 📜  [[thag990-pali-pts]] ►

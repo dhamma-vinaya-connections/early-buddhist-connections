@@ -47,5 +47,6 @@ Moha (11) -kodhā (12) atha makkho (13) moha (14) -kāmā (15) sekkhā duve (16,
 | [[AN1.43]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI20]]
 > ◄  [[iti19-pali-pts]] 📜  [[iti21-pali-pts]] ►

@@ -33,5 +33,6 @@ Satt'; imāni bhikkhave niddasavatthūni. Katamāni satta?
 | [[AN7.42]], [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.20]]
 > ◄  [[an7.19-pali-pts]] 📜  [[an7.21-pali-pts]] ►

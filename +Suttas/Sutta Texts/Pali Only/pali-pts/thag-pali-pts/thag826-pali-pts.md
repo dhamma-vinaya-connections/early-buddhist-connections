@@ -23,3 +23,5 @@ mayā pavattitaṃ cakkaṃ Selā 'ti bhagavā dhammacakkam anuttaraṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag826-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG826]]
+> ◄  [[thag825-pali-pts]] 📜  [[thag827-pali-pts]] ►

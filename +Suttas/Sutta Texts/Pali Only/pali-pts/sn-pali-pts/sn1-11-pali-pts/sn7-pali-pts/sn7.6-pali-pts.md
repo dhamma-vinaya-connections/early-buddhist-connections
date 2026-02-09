@@ -38,7 +38,7 @@ Evaṃ vutte Paccanīkasāto brāhmaṇo Bhagavantam etad avoca || || Abhikkanta
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.23]] | [[SA-2.100]], [[SA-2.173]], [[SA1186-1187]], [[SA599]] |  |
+> |  | [[SA-2.100]], [[SA-2.173]], [[SA1186-1187]], [[SA599]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.100]], [[SA1186-1187]], [[SN1.23]], [[JA497]], [[SN11.19]], [[SA-2.173]], [[SA599]], [[PE2]] |
@@ -46,7 +46,8 @@ Evaṃ vutte Paccanīkasāto brāhmaṇo Bhagavantam etad avoca || || Abhikkanta
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG6.12]]
+> - [[THAG6]].12
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.6]]
 > ◄  [[sn7.5-pali-pts]] 📜  [[sn7.7-pali-pts]] ►

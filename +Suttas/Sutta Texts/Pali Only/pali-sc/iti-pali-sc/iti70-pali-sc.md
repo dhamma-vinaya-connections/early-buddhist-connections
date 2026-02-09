@@ -33,3 +33,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dutiyaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti70-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI70]]
+> ◄  [[iti69-pali-sc]] 📜  [[iti71-pali-sc]] ►

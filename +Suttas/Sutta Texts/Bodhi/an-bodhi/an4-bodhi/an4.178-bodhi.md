@@ -42,5 +42,6 @@ language: "English"
 | [[SA492]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.178]]
 > ◄  [[an4.177-bodhi]] 📜  [[an4.179-bodhi]] ►

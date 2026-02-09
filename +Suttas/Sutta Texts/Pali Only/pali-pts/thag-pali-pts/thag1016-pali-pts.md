@@ -23,3 +23,5 @@ sampādeth'; appamādena, esā me anusāsanī;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1016-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1016]]
+> ◄  [[thag1015-pali-pts]] 📜  [[thag1017-pali-pts]] ►

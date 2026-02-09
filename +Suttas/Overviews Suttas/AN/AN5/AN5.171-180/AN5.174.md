@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[DHP140]], [[DHP246]], [[DHP247]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP140]], [[DHP247]], [[ITI30]], [[ITI64]], [[DHP246]], [[PE2]], [[PE3]]"
+parallels_partilal: "[[DHP\|DHP140]], [[DHP\|DHP247]], [[ITI30]], [[ITI64]], [[DHP\|DHP246]], [[PE2]], [[PE3]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.173]]  🌐 [[AN5.175]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[DHP140]], [[DHP247]], [[ITI30]], [[ITI64]], [[DHP246]], [
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP140]], [[DHP246]], [[DHP247]] |  | A iii 204 |
+> |  |  | A iii 204 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP140]], [[DHP247]], [[ITI30]], [[ITI64]], [[DHP246]], [[PE2]], [[PE3]] |
+| [[DHP\|DHP140]], [[DHP\|DHP247]], [[ITI30]], [[ITI64]], [[DHP\|DHP246]], [[PE2]], [[PE3]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[DHP140]], [[DHP247]], [[ITI30]], [[ITI64]], [[DHP246]], [
 > - Sutta Central: https://suttacentral.net/an5.174/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.174
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.174.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.173]]  🌐 [[AN5.175]] ►

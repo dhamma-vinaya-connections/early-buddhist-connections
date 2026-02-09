@@ -25,3 +25,5 @@ karerimālāvitatā bhūmibhāgā manoramā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1061-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1061]]
+> ◄  [[thag1060-pali-pts]] 📜  [[thag1062-pali-pts]] ►

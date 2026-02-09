@@ -70,5 +70,6 @@ Its summary:
 | [[SA-2.218]], [[SA1202]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.10]]
 > ◄  [[sn5.9-deepseek-pali]] 📜  [[]] ►

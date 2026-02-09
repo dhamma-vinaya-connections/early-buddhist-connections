@@ -24,3 +24,5 @@ etha passath'; imaṃ lokaṃ cittaṃ rājarathūpamaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp170-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP170]]
+> ◄  [[dhp169-pali-pts]] 📜  [[dhp171-pali-pts]] ►

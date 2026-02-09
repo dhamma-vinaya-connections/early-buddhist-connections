@@ -23,3 +23,5 @@ Nadanti evaṃ sappaññā sīhā va girigabbhare
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag176-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG176]]
+> ◄  [[thag175-pali-pts]] 📜  [[thag177-pali-pts]] ►

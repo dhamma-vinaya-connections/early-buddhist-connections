@@ -70,5 +70,6 @@ Then, in the morning, the Venerable Brahmadeva dressed, took his bowl and robe, 
 | [[SA-2.265]], [[SA99]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.3]]
 > ◄  [[sn6.2-deepseek-pali]] 📜  [[sn6.4-deepseek-pali]] ►

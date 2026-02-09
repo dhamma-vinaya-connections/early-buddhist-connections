@@ -66,5 +66,6 @@ Then that bhikkhunī rose from her couch, arranged her upper robe over one shoul
 | [[SA564]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.159]]
 > ◄  [[an4.158-deepseek-pali]] 📜  [[an4.160-deepseek-pali]] ►

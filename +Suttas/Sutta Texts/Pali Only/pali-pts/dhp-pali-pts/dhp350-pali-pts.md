@@ -25,3 +25,5 @@ niṭṭhaṅgato asantāsī vītataṇho anaṅgaṇo /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp350-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP350]]
+> ◄  [[dhp349-pali-pts]] 📜  [[dhp351-pali-pts]] ►

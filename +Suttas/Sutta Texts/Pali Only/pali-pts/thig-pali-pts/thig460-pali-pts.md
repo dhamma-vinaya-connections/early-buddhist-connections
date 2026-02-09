@@ -23,3 +23,5 @@ mātā dukkhitā rodati pitā ca assā sabbaso samabhisāto |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig460-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG460]]
+> ◄  [[thig459-pali-pts]] 📜  [[thig461-pali-pts]] ►

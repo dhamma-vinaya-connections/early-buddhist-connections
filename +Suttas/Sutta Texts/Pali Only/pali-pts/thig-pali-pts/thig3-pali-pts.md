@@ -24,3 +24,5 @@ Tisse sikkhassu sikkhāya mā taṃ yogā upaccaguṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG3]]
+> ◄  [[thig2-pali-pts]] 📜  [[thig4-pali-pts]] ►

@@ -95,4 +95,5 @@ along with conceit and contempt
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp11
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp11.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP10]]  🌐 [[DHP12]] ►

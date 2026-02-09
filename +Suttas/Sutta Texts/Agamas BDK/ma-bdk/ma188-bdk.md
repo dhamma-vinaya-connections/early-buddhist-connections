@@ -50,11 +50,12 @@ you should know what is Dharma and what is non-Dharma, what is beneficial and wh
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.115-116]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA188]]
 > ◄  [[ma187-bdk]] 📜  [[ma189-bdk]] ►

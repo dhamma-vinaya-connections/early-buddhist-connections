@@ -29,3 +29,5 @@ He himself is without ill will, he encourages others to be without ill will, he 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.272-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.272]]
+> ◄  [[an4.271-deepseek-pali]] 📜  [[an4.273-deepseek-pali]] ►

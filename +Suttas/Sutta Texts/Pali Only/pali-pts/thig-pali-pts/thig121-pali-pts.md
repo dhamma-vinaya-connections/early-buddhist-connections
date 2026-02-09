@@ -24,3 +24,5 @@ duggatāhaṃ pure āsiṃ vidhavā ca aputtikā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig121-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG121]]
+> ◄  [[thig120-pali-pts]] 📜  [[thig122-pali-pts]] ►

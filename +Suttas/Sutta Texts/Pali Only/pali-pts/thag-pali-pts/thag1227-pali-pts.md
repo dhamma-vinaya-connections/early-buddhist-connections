@@ -23,3 +23,5 @@ piyavācam eva bhāseyya yā vācā paṭinanditā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1227-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1227]]
+> ◄  [[thag1226-pali-pts]] 📜  [[thag1228-pali-pts]] ►

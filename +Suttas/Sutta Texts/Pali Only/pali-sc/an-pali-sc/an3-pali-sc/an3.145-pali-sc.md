@@ -36,11 +36,12 @@ Yodhājīvavaggo cuddasamo.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN11.10]] |  | A i 292 |
+> |  |  | A i 292 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN11.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.145]]
 > ◄  [[an3.144-pali-sc]] 📜  [[an3.146-pali-sc]] ►

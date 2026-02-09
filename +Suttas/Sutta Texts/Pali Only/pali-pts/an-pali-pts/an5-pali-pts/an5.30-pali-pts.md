@@ -28,11 +28,12 @@ Ime kho bhikkhave pañca caṅkame ānisaṃsā ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.86]] | [[SA1250]] | A iii 30 |
+> |  | [[SA1250]] | A iii 30 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.86]], [[SA1250]], [[AN6.42]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.30]]
 > ◄  [[an5.29-pali-pts]] 📜  [[an5.31-pali-pts]] ►

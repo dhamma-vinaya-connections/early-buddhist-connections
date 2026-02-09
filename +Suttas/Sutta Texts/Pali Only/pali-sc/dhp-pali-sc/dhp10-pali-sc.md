@@ -93,8 +93,9 @@ Udakañhi nayanti nettikā, usukārā namayanti tejanaṃ; dāruṃ namayanti ta
 > |  |  | Dh 37 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA221]], [[JA514]], [[THAG17.1]] |
+| [[JA221]], [[JA514]], [[THAG17]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP10]]
 > ◄  [[dhp9-pali-sc]] 📜  [[dhp11-pali-sc]] ►

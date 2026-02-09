@@ -219,15 +219,16 @@ Kāyagatāsati suttaṃ navamaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN22]]; [[MN10]] | [[EA12.1]]; [[MA31]]; [[MA81]]; [[MA98]] | M iii 88 |
+> |  | [[EA12.1]]; [[MA31]]; [[MA81]]; [[MA98]] | M iii 88 |
 > > [!check]- Partial parallels 
 > > 
-| [[DN22]]; [[EA12.1]]; [[MA98]]; [[MN10]]; [[MA31]]; [[MA81]] |
+| [[DN22]], [[EA12.1]], [[MA98]], [[MN10]], [[MA31]], [[MA81]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN118]], [[MN10]], [[DN22]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN119]]
 > ◄  [[mn118-pali-sri]] 📜  [[mn120-pali-sri]] ►

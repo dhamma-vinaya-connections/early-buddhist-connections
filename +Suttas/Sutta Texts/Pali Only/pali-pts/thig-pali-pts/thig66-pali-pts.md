@@ -25,3 +25,5 @@ paṇṇavīsati vassāni yato pabbajitā ahaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig66-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG66]]
+> ◄  [[thig65-pali-pts]] 📜  [[thig67-pali-pts]] ►

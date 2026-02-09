@@ -411,5 +411,6 @@ Evañca khvāhaṁ, bhaggava, vadāmi: 'yasmiṁ samaye subhaṁ vimokkhaṁ upa
 | [[DA15]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-pali-sc]] 📜  [[dn25-pali-sc]] ►

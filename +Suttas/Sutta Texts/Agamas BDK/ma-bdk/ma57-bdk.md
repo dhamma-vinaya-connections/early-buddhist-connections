@@ -29,13 +29,10 @@ If a monk has attained awareness of no-self, he is bound to com- pletely abandon
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma57-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[AN9.1]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.69]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA57]]
 > ◄  [[ma56-bdk]] 📜  [[ma58-bdk]] ►

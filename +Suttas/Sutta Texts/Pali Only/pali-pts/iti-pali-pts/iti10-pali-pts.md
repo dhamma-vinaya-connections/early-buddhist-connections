@@ -33,3 +33,5 @@ Rāga (1) -dosā (2) atha moho (3) kodha (4) -makkha (5) -mānaṃ (6) sabbaṃ 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI10]]
+> ◄  [[iti9-pali-pts]] 📜  [[iti11-pali-pts]] ►

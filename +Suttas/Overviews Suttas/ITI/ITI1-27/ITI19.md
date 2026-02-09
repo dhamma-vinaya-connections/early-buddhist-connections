@@ -86,4 +86,5 @@ parallels_partilal: "[[AN10.40]], [[PLI-TV-KD17]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti19
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti19.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI18]]  🌐 [[ITI20]] ►

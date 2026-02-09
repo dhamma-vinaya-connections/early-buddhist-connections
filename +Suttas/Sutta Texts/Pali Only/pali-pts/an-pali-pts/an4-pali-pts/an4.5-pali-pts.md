@@ -31,5 +31,6 @@ PTS: A ii 5
 | [[PE8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.5]]
 > ◄  [[an4.4-pali-pts]] 📜  [[an4.6-pali-pts]] ►

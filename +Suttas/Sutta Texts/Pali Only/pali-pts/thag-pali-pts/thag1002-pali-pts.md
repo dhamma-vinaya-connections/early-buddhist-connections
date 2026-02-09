@@ -22,3 +22,5 @@ nikkhipissaṃ imaṃ kāyaṃ sampajāno patissato.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1002-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1002]]
+> ◄  [[thag1001-pali-pts]] 📜  [[thag1003-pali-pts]] ►

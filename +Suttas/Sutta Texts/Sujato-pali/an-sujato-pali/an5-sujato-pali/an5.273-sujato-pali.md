@@ -55,3 +55,5 @@ What five? They don’t make decisions prejudiced by favoritism, hostility, stup
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.273-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.273]]
+> ◄  [[an5.272-sujato-pali]] 📜  [[an5.286-sujato-pali]] ►

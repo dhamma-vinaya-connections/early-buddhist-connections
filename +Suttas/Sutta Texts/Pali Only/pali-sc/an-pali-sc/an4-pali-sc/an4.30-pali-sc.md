@@ -83,5 +83,6 @@ Dasamaṁ.
 | [[MN117]], [[SN22.62]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.30]]
 > ◄  [[an4.29-pali-sc]] 📜  [[an4.31-pali-sc]] ►

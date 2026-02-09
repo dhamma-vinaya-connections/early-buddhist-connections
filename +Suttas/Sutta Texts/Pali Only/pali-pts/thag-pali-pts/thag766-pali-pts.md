@@ -23,3 +23,5 @@ sallaṃ attasamuṭṭhānaṃ bhavanettipabhāvitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag766-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG766]]
+> ◄  [[thag765-pali-pts]] 📜  [[thag767-pali-pts]] ►

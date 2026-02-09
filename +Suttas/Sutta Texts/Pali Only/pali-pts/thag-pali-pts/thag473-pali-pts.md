@@ -23,3 +23,5 @@ te ca maṃ anukampāya atthakāmā hitesino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag473-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG473]]
+> ◄  [[thag472-pali-pts]] 📜  [[thag474-pali-pts]] ►

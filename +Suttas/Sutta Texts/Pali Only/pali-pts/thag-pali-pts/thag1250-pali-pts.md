@@ -23,3 +23,5 @@ evaṃ sabbaṅgasampannaṃ muniṃ dukkhassa pāraguṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1250-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1250]]
+> ◄  [[thag1249-pali-pts]] 📜  [[thag1251-pali-pts]] ►

@@ -51,5 +51,6 @@ At Sāvatthī. Standing to one side, the young deva Veṇhu recited this verse
 | [[SA-2.303]], [[SA1304]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.12]]
 > ◄  [[sn2.11-bodhi]] 📜  [[sn2.13-bodhi]] ►

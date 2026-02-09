@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[SN22.29]], [[SN22.24]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]]"
 parallels_partilal: "[[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]], [[SN22.29]], [[SN22.24]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]], [[SN22.29]], [
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.29]], [[SN22.24]] | [[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]] |  |
+> |  | [[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]], [[SN22.29]], [[SN22.24]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]], [[SN22.29]], [
 > - Sutta Central: https://suttacentral.net/sa3/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SA]] | ◄  [[SA2]]  🌐 [[SA4]] ►

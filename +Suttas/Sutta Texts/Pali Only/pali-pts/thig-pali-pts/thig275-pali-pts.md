@@ -23,3 +23,5 @@ tīṇi pāpassa mūlāni dhunanti sucikārino |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig275-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG275]]
+> ◄  [[thig274-pali-pts]] 📜  [[thig276-pali-pts]] ►

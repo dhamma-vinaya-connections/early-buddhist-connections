@@ -23,3 +23,5 @@ pubbenivāsaṃ jānāmi dibbacakkhuṃ visodhitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig226-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG226]]
+> ◄  [[thig225-pali-pts]] 📜  [[thig227-pali-pts]] ►

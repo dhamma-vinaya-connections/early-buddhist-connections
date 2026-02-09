@@ -261,7 +261,7 @@ Mahāvaggo sattamo.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.42]], [[AN8.43]] | [[EA24.6]], [[MA202]], [[SA861-863]] | A i 205 |
+> |  | [[EA24.6]], [[MA202]], [[SA861-863]] | A i 205 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA202]], [[SA861-863]], [[AN8.42]], [[AN8.43]], [[EA24.6]] |
@@ -270,6 +270,7 @@ Mahāvaggo sattamo.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.43]], [[AN10.46]], [[UD2.10]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.70]]
 > ◄  [[an3.69-sujato-pali]] 📜  [[an3.71-sujato-pali]] ►

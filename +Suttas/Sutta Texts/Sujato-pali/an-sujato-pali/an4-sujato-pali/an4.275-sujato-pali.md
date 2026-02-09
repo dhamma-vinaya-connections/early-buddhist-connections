@@ -36,11 +36,12 @@ Dutiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.13]], [[AN4.69]] | [[SA875]], [[SA876]] | A ii 256 |
+> |  | [[SA875]], [[SA876]] | A ii 256 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.13]], [[AN4.69]], [[SA875]], [[SA876]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.275]]
 > ◄  [[an4.274-sujato-pali]] 📜  [[an4.276-sujato-pali]] ►

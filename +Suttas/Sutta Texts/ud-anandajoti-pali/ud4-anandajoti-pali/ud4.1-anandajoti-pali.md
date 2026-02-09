@@ -198,7 +198,7 @@ Paṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.3]] | [[MA56]] |  |
+> |  | [[MA56]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN9.3]], [[MA56]] |
@@ -207,6 +207,7 @@ Paṭhamaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN45.2]], [[AN8.2]], [[AN9:1]], [[MN69]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.1]]
 > ◄  [[]] 📜  [[ud4.2-anandajoti-pali]] ►

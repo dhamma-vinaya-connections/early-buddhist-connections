@@ -23,3 +23,5 @@ jīvitañ ca adhammena dhammena maraṇañ ca yaṃ:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag669-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG669]]
+> ◄  [[thag668-pali-pts]] 📜  [[thag670-pali-pts]] ►

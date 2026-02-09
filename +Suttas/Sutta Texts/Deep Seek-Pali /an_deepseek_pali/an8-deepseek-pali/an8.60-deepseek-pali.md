@@ -58,5 +58,6 @@ Gotamī, the brief advice, / Dīghajāṇu, and Ujjaya; / Two on fear, two on th
 | [[EA43.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
 > ◄  [[an8.59-deepseek-pali]] 📜  [[an8.61-deepseek-pali]] ►

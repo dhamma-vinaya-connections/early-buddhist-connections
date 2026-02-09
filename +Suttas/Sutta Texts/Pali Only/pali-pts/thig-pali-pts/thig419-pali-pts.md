@@ -23,3 +23,5 @@ atha maṃ adāsi tāto aḍḍhassa gharamhi dutiyakulikassa |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig419-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG419]]
+> ◄  [[thig418-pali-pts]] 📜  [[thig420-pali-pts]] ►

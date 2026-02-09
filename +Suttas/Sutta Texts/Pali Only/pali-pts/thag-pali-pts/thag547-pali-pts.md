@@ -24,3 +24,5 @@ anupubbaṃ paricitā yathā buddhena desitā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag547-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG547]]
+> ◄  [[thag546-pali-pts]] 📜  [[thag548-pali-pts]] ►

@@ -24,3 +24,5 @@ nagā samuddā saritā vasundharā disā catasso vidisā adhodisā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1132-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1132]]
+> ◄  [[thag1131-pali-pts]] 📜  [[thag1133-pali-pts]] ►

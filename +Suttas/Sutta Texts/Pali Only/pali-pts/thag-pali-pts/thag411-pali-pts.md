@@ -23,3 +23,5 @@ sayathāpi mahāsamuddavego evaṃ jātijarātivattate taṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag411-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG411]]
+> ◄  [[thag408-pali-pts]] 📜  [[thag412-pali-pts]] ►

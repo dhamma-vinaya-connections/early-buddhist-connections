@@ -92,4 +92,5 @@ In the Buddha ’s teaching.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn8.9
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn8.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN8.8]]  🌐 [[SN8.10]] ►

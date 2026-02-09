@@ -26,3 +26,5 @@ dhammārāmo dhammarato dhammaṃ anuvicintayaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp363-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP363]]
+> ◄  [[dhp362-pali-pts]] 📜  [[dhp364-pali-pts]] ►

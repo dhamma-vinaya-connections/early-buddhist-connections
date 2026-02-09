@@ -133,7 +133,8 @@ duṭṭhullāpatti khaṇanāti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc106-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC106]] |
->|       |          | [[ñanatusita-analysis#^-PC106]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC106]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC106]]

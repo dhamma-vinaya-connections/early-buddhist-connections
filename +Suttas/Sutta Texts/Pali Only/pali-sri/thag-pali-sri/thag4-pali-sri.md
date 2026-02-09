@@ -470,3 +470,5 @@ Catukkanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG4]]
+> ◄  [[thag3-pali-sri]] 📜  [[thag5-pali-sri]] ►

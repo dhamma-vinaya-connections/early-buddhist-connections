@@ -36,7 +36,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN3.90]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA816]], [[SA817]], [[SA832]]"
 parallels_partilal: "[[SA817]], [[SA832]], [[AN3.90]], [[SA816]]"
 ---
@@ -65,7 +65,7 @@ They call a ‘Buddha ’ in the world.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.90]] | [[SA816]], [[SA817]], [[SA832]] | A i 235 |
+> |  | [[SA816]], [[SA817]], [[SA832]] | A i 235 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA817]], [[SA832]], [[AN3.90]], [[SA816]] |
@@ -88,5 +88,6 @@ They call a ‘Buddha ’ in the world.
 > - Sutta Central: https://suttacentral.net/an3.89/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.89
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.89.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.88]]  🌐 [[AN3.90]] ►

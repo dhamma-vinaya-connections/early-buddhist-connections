@@ -23,3 +23,5 @@ ye ca dukkhe sukhasmiñ ca majjhe sibbanim ajjhagū,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag662-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG662]]
+> ◄  [[thag661-pali-pts]] 📜  [[thag663-pali-pts]] ►

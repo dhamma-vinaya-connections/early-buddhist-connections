@@ -30,11 +30,12 @@ so tādiso sappuriso vicakkhaṇo ādīyati sāram idh'eva attano ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.74]], [[AN5.63]] |  | A iii 80 |
+> |  |  | A iii 80 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.74]], [[AN5.63]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.64]]
 > ◄  [[an5.63-pali-pts]] 📜  [[an5.65-pali-pts]] ►

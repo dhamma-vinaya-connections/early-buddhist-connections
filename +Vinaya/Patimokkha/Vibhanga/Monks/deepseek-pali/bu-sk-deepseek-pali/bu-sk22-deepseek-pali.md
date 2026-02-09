@@ -40,7 +40,8 @@ The first training rule is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk22-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK22]] |
->|       |          | [[ñanatusita-analysis#^SK22]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK22]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK22]]

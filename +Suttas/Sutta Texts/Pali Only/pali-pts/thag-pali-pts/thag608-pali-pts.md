@@ -23,3 +23,5 @@ sīlaṃ rakkheyya medhāvī patthayāno tayo sukhe:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag608-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG608]]
+> ◄  [[thag607-pali-pts]] 📜  [[thag609-pali-pts]] ►

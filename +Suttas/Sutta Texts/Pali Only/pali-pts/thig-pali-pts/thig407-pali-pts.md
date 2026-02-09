@@ -23,3 +23,5 @@ yā mayhaṃ sāmikassa bhaginiyo bhātuno parijano ||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig407-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG407]]
+> ◄  [[thig406-pali-pts]] 📜  [[thig408-pali-pts]] ►

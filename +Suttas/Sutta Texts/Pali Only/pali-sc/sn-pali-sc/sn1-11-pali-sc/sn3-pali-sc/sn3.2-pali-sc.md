@@ -38,11 +38,12 @@ tacasāraṁva samphalan"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN3.23]] | [[SA-2.4]], [[SA1065]] |  |
+> |  | [[SA-2.4]], [[SA1065]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.4]], [[SA1065]], [[SN3.23]], [[ITI50]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.2]]
 > ◄  [[sn3.1-pali-sc]] 📜  [[sn3.3-pali-sc]] ►

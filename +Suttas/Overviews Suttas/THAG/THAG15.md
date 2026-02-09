@@ -95,4 +95,5 @@ Would put an end to suffering
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag15
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag15.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG14]]  🌐 [[THAG16]] ►

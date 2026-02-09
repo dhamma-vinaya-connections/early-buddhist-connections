@@ -47,7 +47,8 @@ yo paraṁ na vihiṁsatī"ti.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG6.12]]
+> - [[THAG6]].12
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.5]]
 > ◄  [[sn7.4-pali-sc]] 📜  [[sn7.6-pali-sc]] ►

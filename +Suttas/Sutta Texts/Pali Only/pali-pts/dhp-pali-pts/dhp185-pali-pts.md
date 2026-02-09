@@ -26,3 +26,5 @@ na kahāpaṇavassena titti kāmesu vijjati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp185-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP185]]
+> ◄  [[dhp184-pali-pts]] 📜  [[dhp186-pali-pts]] ►

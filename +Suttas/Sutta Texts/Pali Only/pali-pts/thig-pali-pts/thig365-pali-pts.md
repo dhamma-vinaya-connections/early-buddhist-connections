@@ -25,3 +25,5 @@ Jīvakambavanaṃ rammaṃ gacchantiṃ bhikkhuniṃ Subhaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig365-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG365]]
+> ◄  [[thig364-pali-pts]] 📜  [[thig366-pali-pts]] ►

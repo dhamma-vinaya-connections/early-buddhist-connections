@@ -24,3 +24,5 @@ diso disaṃ yan taṃ kayirā verī vā pana verinaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp41-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP41]]
+> ◄  [[dhp40-pali-pts]] 📜  [[dhp42-pali-pts]] ►

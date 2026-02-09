@@ -80,7 +80,7 @@ The monks then accepted the teaching and listened.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN47]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.58]] |
@@ -89,6 +89,7 @@ The monks then accepted the teaching and listened.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47.12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA186]]
 > ◄  [[ma176-patton]] 📜  [[ma190-patton]] ►

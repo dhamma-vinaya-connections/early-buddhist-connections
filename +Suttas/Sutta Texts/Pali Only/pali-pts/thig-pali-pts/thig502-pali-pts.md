@@ -23,3 +23,5 @@ amatamhi vijjamāne kin tava pañcakaṭukena pītena |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig502-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG502]]
+> ◄  [[thig501-pali-pts]] 📜  [[thig503-pali-pts]] ►

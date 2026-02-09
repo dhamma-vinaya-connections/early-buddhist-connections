@@ -35,11 +35,12 @@ idh'eva naṃ pasaṃsanti pecca sagge ca modatī ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.38]], [[DHP230]] |  | A iii 46 |
+> |  |  | A iii 46 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN8.38]], [[DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]] |
+| [[AN8.38]], [[DHP\|DHP230]], [[AN4.28]], [[AN4.6]], [[UD7.6]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.42]]
 > ◄  [[an5.41-pali-pts]] 📜  [[an5.43-pali-pts]] ►

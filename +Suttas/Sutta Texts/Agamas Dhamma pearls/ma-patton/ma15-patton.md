@@ -96,7 +96,7 @@ The monks answered, “No, Bhagavān. Why is that? They wouldn’t commit bad de
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.217-219]] | [[EA48.1]] |  |
+> |  | [[EA48.1]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
@@ -105,6 +105,7 @@ The monks answered, “No, Bhagavān. Why is that? They wouldn’t commit bad de
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.100]], [[MA11]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA15]]
 > ◄  [[ma13-patton]] 📜  [[ma16-patton]] ►

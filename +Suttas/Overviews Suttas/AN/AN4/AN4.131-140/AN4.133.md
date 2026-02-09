@@ -89,4 +89,5 @@ One who speaks neither on topic nor fluently.
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.133
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.133.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.132]]  🌐 [[AN4.134]] ►

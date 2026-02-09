@@ -23,3 +23,5 @@ ko nu te idam akkhāsi ajānantassa ajānato |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig239-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG239]]
+> ◄  [[thig238-pali-pts]] 📜  [[thig240-pali-pts]] ►

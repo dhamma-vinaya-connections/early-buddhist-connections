@@ -40,11 +40,12 @@ from the taints, [how he has] explained going beyond and crossing over the taint
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN64]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN14]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA205]]
 > ◄  [[ma204-bdk]] 📜  [[ma206-bdk]] ►

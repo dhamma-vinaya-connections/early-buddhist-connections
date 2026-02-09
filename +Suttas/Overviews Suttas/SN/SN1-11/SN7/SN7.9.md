@@ -92,4 +92,5 @@ Is a thoroughbred checked by conscience.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.9
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.8]]  🌐 [[SN7.10]] ►

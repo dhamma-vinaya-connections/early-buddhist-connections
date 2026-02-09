@@ -51,11 +51,12 @@ Last Revised: 3 March 2023
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN1.11-15]] | [[EA9.9]] |  |
+> |  | [[EA9.9]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA9.9]], [[AN1.11-15]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[EA]] / 📂 [[EA9]]  / 🌐 [[EA9.9]]
 > ◄  [[ea9.8-patton]] 📜  [[ea9.10-patton]] ►

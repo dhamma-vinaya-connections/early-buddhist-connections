@@ -36,7 +36,7 @@ sutta_audience:
   - "Anuruddha"
 parallels_nikaya: ""
 parallels_agama: "[[EA42.6]], [[MA74]]"
-parallels_partilal: "[[EA42.6]], [[MA74]], [[DN34]], [[THAG16.9]]"
+parallels_partilal: "[[EA42.6]], [[MA74]], [[DN34]], [[THAG16]].9"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.29]]  🌐 [[AN8.31]] ►
 
@@ -65,7 +65,7 @@ parallels_partilal: "[[EA42.6]], [[MA74]], [[DN34]], [[THAG16.9]]"
 > |  | [[EA42.6]], [[MA74]] | A iv 228 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA42.6]], [[MA74]], [[DN34]], [[THAG16.9]] |
+| [[EA42.6]], [[MA74]], [[DN34]], [[THAG16]].9 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -88,5 +88,6 @@ parallels_partilal: "[[EA42.6]], [[MA74]], [[DN34]], [[THAG16.9]]"
 > - Sutta Central: https://suttacentral.net/an8.30/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.30
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.30.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.29]]  🌐 [[AN8.31]] ►

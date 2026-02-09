@@ -129,7 +129,8 @@ Kathañhi nāma, bhikkhave, bhikkhunī evaṁ vakkhati— ‘kiṁ te, ayye, eso
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-ss6-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SS6]] |
->|       |          | [[ñanatusita-analysis#^-SS6]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SS6]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS6]]

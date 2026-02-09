@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "King"
-parallels_nikaya: "[[DHP201]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.63]], [[SA1236]]"
-parallels_partilal: "[[SA-2.63]], [[SA1236]], [[DHP201]]"
+parallels_partilal: "[[SA-2.63]], [[SA1236]], [[DHP\|DHP201]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.13]]  🌐 [[SN3.15]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[SA-2.63]], [[SA1236]], [[DHP201]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP201]] | [[SA-2.63]], [[SA1236]] |  |
+> |  | [[SA-2.63]], [[SA1236]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.63]], [[SA1236]], [[DHP201]] |
+| [[SA-2.63]], [[SA1236]], [[DHP\|DHP201]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA-2.63]], [[SA1236]], [[DHP201]]"
 > - Sutta Central: https://suttacentral.net/sn3.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.14
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.14.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.13]]  🌐 [[SN3.15]] ►

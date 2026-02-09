@@ -34,9 +34,9 @@ sutta_teacher:
   - "Devas"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP376]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.354]], [[SA1334]]"
-parallels_partilal: "[[SA-2.354]], [[SA1334]], [[DHP376]]"
+parallels_partilal: "[[SA-2.354]], [[SA1334]], [[DHP\|DHP376]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.10]]  🌐 [[SN9.12]] ►
 
@@ -67,10 +67,10 @@ You’ll find gladness
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP376]] | [[SA-2.354]], [[SA1334]] |  |
+> |  | [[SA-2.354]], [[SA1334]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.354]], [[SA1334]], [[DHP376]] |
+| [[SA-2.354]], [[SA1334]], [[DHP\|DHP376]] |
 | ------------------------ |
 
 
@@ -90,5 +90,6 @@ You’ll find gladness
 > - Sutta Central: https://suttacentral.net/sn9.11/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn9.11
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn9.11.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN9.10]]  🌐 [[SN9.12]] ►

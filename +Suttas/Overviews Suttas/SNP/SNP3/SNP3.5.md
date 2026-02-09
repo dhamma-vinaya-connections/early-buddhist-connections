@@ -95,4 +95,5 @@ you should bestow an offering,
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.5
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.4]]  🌐 [[SNP3.6]] ►

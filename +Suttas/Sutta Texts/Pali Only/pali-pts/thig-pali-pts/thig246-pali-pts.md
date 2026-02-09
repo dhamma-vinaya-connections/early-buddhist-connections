@@ -25,3 +25,5 @@ mā kāsi pāpakaṃ kammaṃ āvi vā yadi vā raho. |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig246-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG246]]
+> ◄  [[thig245-pali-pts]] 📜  [[thig247-pali-pts]] ►

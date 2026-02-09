@@ -23,3 +23,5 @@ tan taṃ bhaṇati Sumedhā kāmehi anatthikā vigatamohā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig484-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG484]]
+> ◄  [[thig483-pali-pts]] 📜  [[thig485-pali-pts]] ►

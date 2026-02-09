@@ -46,5 +46,6 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Dasamaṃ.
 | [[AN3.48]], [[AN5.40]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI107]]
 > ◄  [[iti106-pali-sc]] 📜  [[iti108-pali-sc]] ►

@@ -23,3 +23,5 @@ vanditvā satthuno pāde ekamantaṃ ṭhito tadā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag623-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG623]]
+> ◄  [[thag622-pali-pts]] 📜  [[thag624-pali-pts]] ►

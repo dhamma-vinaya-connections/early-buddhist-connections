@@ -97,4 +97,5 @@ for becoming or non-.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.6
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.5]]  🌐 [[SNP5.7]] ►

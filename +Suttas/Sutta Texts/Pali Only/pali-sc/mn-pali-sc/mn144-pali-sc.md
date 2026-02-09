@@ -79,11 +79,12 @@ Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bha
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN35.87]] | [[SA1266]] | M iii 263 |
+> |  | [[SA1266]] | M iii 263 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA1266]]; [[SN35.87]] |
+| [[SA1266]], [[SN35.87]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN144]]
 > ◄  [[mn143-pali-sc]] 📜  [[mn145-pali-sc]] ►

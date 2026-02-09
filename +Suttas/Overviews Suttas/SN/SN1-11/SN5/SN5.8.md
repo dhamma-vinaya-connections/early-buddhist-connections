@@ -95,4 +95,5 @@ He has attained the end of all deeds
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.7]]  🌐 [[SN5.9]] ►

@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Mara"
-parallels_nikaya: "[[DHP186-187]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA1098]]"
-parallels_partilal: "[[SA1098]], [[DHP186-187]], [[JA258]], [[SN4.21]], [[PE1]]"
+parallels_partilal: "[[SA1098]], [[DHP\|DHP186-187]], [[JA258]], [[SN4.21]], [[PE1]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.19]]  🌐 [[SN4.21]] ►
 
@@ -65,10 +65,10 @@ A person should train for its removal
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP186-187]] | [[SA1098]] |  |
+> |  | [[SA1098]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA1098]], [[DHP186-187]], [[JA258]], [[SN4.21]], [[PE1]] |
+| [[SA1098]], [[DHP\|DHP186-187]], [[JA258]], [[SN4.21]], [[PE1]] |
 | ------------------------ |
 
 
@@ -88,5 +88,6 @@ A person should train for its removal
 > - Sutta Central: https://suttacentral.net/sn4.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.20
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.20.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.19]]  🌐 [[SN4.21]] ►

@@ -44,3 +44,5 @@ Jātarūparajatapaṭiggahaṇā veramaṇīsikkhāpadaṁ samādiyāmi
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP2]]
+> ◄  [[kp1-pali-sc]] 📜  [[kp3-pali-sc]] ►

@@ -86,5 +86,6 @@ Dutiyaṁ.
 | [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.2]]
 > ◄  [[ud2.1-anandajoti-pali]] 📜  [[ud2.3-anandajoti-pali]] ►

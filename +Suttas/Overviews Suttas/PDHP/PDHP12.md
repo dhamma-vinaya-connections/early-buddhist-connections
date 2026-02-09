@@ -95,4 +95,5 @@ and resort to right intention.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp12
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp12.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP11]]  🌐 [[PDHP13]] ►

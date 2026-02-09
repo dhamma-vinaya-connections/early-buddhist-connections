@@ -24,3 +24,5 @@ Anāgataṃ yo paṭigacca passati hitañ ca atthaṃ ahitañ ca taṃ dvayaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag546-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG546]]
+> ◄  [[thag545-pali-pts]] 📜  [[thag547-pali-pts]] ►

@@ -66,5 +66,6 @@ buddho pavadataṁ varo"ti.
 | [[SA-2.234]], [[SA1008]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.74]]
 > ◄  [[sn1.73-sujato-pali]] 📜  [[sn1.75-sujato-pali]] ►

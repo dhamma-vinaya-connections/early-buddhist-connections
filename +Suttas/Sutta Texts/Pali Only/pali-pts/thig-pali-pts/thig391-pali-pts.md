@@ -23,3 +23,5 @@ tathūpamaṃ dehakāni maṃ tehi dhammehi vinā na vattanti |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig391-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG391]]
+> ◄  [[thig390-pali-pts]] 📜  [[thig392-pali-pts]] ►

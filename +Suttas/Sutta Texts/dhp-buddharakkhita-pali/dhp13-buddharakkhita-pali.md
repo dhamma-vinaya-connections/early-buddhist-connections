@@ -110,3 +110,5 @@ Lokavaggo terasamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp13-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP13-BUDDHARAKKHITA]]
+> ◄  [[dhp12-buddharakkhita-pali]] 📜  [[dhp14-buddharakkhita-pali]] ►

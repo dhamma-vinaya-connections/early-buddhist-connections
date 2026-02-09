@@ -66,7 +66,7 @@ right view... (and so on up to) right concentration—these eight. This is anoth
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN101]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN2.27]], [[JA509]] |
@@ -75,6 +75,7 @@ right view... (and so on up to) right concentration—these eight. This is anoth
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.61]], [[AN3.99]], [[MA13]], [[SN35.145]], [[SN36.21]], [[SN42.11]], [[SN42.8]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA19]]
 > ◄  [[ma18-bdk]] 📜  [[ma20-bdk]] ►

@@ -25,3 +25,5 @@ attanā akataṃ pāpaṃ attanā va visujjhati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp164-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP164]]
+> ◄  [[dhp163-pali-pts]] 📜  [[dhp165-pali-pts]] ►

@@ -24,3 +24,5 @@ n'; atthi rāgasamo aggi, n'; atthi dosasamo kali, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp201-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP201]]
+> ◄  [[dhp200-pali-pts]] 📜  [[dhp202-pali-pts]] ►

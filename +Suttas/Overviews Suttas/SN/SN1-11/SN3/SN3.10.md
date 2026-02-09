@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP345]], [[DHP346]], [[THAG2.34]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.62]], [[SA1235]]"
-parallels_partilal: "[[SA-2.62]], [[SA1235]], [[DHP345]], [[JA201]], [[PE2]], [[DHP346]], [[THAG2.34]]"
+parallels_partilal: "[[SA-2.62]], [[SA1235]], [[DHP\|DHP345]], [[JA201]], [[PE2]], [[DHP\|DHP346]], [[THAG2]].34"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.9]]  🌐 [[SN3.11]] ►
 
@@ -64,10 +64,10 @@ Concern for your partners and children:
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP345]], [[DHP346]], [[THAG2.34]] | [[SA-2.62]], [[SA1235]] |  |
+> |  | [[SA-2.62]], [[SA1235]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.62]], [[SA1235]], [[DHP345]], [[JA201]], [[PE2]], [[DHP346]], [[THAG2.34]] |
+| [[SA-2.62]], [[SA1235]], [[DHP\|DHP345]], [[JA201]], [[PE2]], [[DHP\|DHP346]], [[THAG2]].34 |
 | ------------------------ |
 
 
@@ -87,5 +87,6 @@ Concern for your partners and children:
 > - Sutta Central: https://suttacentral.net/sn3.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn3.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn3.10.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN3.9]]  🌐 [[SN3.11]] ►

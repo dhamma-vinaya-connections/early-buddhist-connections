@@ -23,3 +23,5 @@ tassā me appamattāya vicinantiyā yoniso |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig84-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG84]]
+> ◄  [[thig83-pali-pts]] 📜  [[thig85-pali-pts]] ►

@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[DHP423]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[THIG4.1]], [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.9]]"
+parallels_partilal: "[[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[THIG4]].1, [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.9]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.7]]  🌐 [[SN7.9]] ►
 
@@ -68,10 +68,10 @@ Is a thoroughbred checked by conscience.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP423]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[THIG4.1]], [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.9]] |
+| [[DHP\|DHP423]], [[AN3.58]], [[AN3.59]], [[ITI99]], [[MN91]], [[MN98]], [[SNP3.9]], [[SN7.13]], [[THIG4]].1, [[SNP3.4]], [[SNP1.4]], [[SN7.11]], [[SN7.9]] |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ Is a thoroughbred checked by conscience.
 > - Sutta Central: https://suttacentral.net/sn7.8/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.8
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.8.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.7]]  🌐 [[SN7.9]] ►

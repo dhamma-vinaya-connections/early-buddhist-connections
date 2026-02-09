@@ -78,5 +78,6 @@ Mucalinda, the king with a staff; honor by the lay follower; the pregnant woman 
 | [[PLI-TV-KD17]], [[SNP1.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD2.10]]
 > ◄  [[ud2.9-deepseek-pali]] 📜  [[]] ►

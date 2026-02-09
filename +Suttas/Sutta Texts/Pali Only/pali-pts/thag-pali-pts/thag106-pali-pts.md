@@ -23,3 +23,5 @@ Pabbajiṃ tulayitvāna agārasmā anagāriyaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag106-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG106]]
+> ◄  [[thag105-pali-pts]] 📜  [[thag107-pali-pts]] ►

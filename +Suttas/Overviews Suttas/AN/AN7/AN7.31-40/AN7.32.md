@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN6.32]], [[DHP32]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[AN6.32]], [[DHP32]], [[AN4.37]], [[AN6.33]], [[AN7.33]], [[AN7.34]]"
+parallels_partilal: "[[AN6.32]], [[DHP\|DHP32]], [[AN4.37]], [[AN6.33]], [[AN7.33]], [[AN7.34]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.31]]  🌐 [[AN7.33]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[AN6.32]], [[DHP32]], [[AN4.37]], [[AN6.33]], [[AN7.33]], 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.32]], [[DHP32]] |  | A iv 27 |
+> |  |  | A iv 27 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN6.32]], [[DHP32]], [[AN4.37]], [[AN6.33]], [[AN7.33]], [[AN7.34]] |
+| [[AN6.32]], [[DHP\|DHP32]], [[AN4.37]], [[AN6.33]], [[AN7.33]], [[AN7.34]] |
 | ------------------------ |
 
 
@@ -85,5 +85,6 @@ parallels_partilal: "[[AN6.32]], [[DHP32]], [[AN4.37]], [[AN6.33]], [[AN7.33]], 
 > - Sutta Central: https://suttacentral.net/an7.32/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.32
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.32.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.31]]  🌐 [[AN7.33]] ►

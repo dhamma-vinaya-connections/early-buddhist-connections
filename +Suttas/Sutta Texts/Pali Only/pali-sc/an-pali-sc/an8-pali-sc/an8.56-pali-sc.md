@@ -47,11 +47,12 @@ Chaṭṭhaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.23]] |  | A iv 289 |
+> |  |  | A iv 289 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.23]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.56]]
 > ◄  [[an8.55-pali-sc]] 📜  [[an8.57-pali-sc]] ►

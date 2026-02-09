@@ -681,5 +681,6 @@ Paṭhamo paṇṇāsako.
 | [[SA681-683]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.5]]
 > ◄  [[an5.4-pali-sri]] 📜  [[an5.6-pali-sri]] ►

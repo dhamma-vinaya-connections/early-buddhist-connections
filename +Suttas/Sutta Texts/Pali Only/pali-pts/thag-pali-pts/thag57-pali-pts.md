@@ -24,3 +24,5 @@ Ramaṇīyā me kuṭikā saddhādeyyā manoramā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag57-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG57]]
+> ◄  [[thag56-pali-pts]] 📜  [[thag58-pali-pts]] ►

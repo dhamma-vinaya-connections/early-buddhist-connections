@@ -24,3 +24,5 @@ divāvihārā nikkhamma Gijjhakūṭamhi pabbate |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig47-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG47]]
+> ◄  [[thig46-pali-pts]] 📜  [[thig48-pali-pts]] ►

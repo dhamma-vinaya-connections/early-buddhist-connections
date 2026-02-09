@@ -32,5 +32,6 @@ language: "Pali"
 | [[EA19.4]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.59]]
 > ◄  [[an2.58-pali-sc]] 📜  [[an2.60-pali-sc]] ►

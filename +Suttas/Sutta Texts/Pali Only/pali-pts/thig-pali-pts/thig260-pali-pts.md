@@ -23,3 +23,5 @@ kānanasmiṃ vanasaṇḍacāriṇī kokilā va madhuraṃ nikūjitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig260-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG260]]
+> ◄  [[thig259-pali-pts]] 📜  [[thig261-pali-pts]] ►

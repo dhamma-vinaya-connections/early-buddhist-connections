@@ -75,5 +75,6 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Vesālī in
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN45.139]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.39]]
 > ◄  [[sn1.38-bodhi]] 📜  [[sn1.40-bodhi]] ►

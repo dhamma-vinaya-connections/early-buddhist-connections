@@ -114,5 +114,6 @@ Dhanañjānī and the abuse, the lord of demons Bilaṅgika, the non-violent one
 | [[SA-2.93]], [[SA1179]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.10]]
 > ◄  [[sn7.9-deepseek-pali]] 📜  [[sn7.11-deepseek-pali]] ►

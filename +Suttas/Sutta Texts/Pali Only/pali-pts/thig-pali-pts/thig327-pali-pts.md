@@ -24,3 +24,5 @@ pitā pabbajito mayhaṃ puttasokena addito |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig327-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG327]]
+> ◄  [[thig326-pali-pts]] 📜  [[thig328-pali-pts]] ►

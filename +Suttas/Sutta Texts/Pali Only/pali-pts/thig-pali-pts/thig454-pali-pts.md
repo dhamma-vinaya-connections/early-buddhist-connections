@@ -23,3 +23,5 @@ devedu pi upapatti asassatā bhavagate aniccamhi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig454-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG454]]
+> ◄  [[thig453-pali-pts]] 📜  [[thig455-pali-pts]] ►

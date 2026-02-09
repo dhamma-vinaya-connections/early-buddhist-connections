@@ -24,3 +24,5 @@ ramaṇīyāni araññāni, yattha na ramatī jano /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp98-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP98]]
+> ◄  [[dhp97-pali-pts]] 📜  [[dhp99-pali-pts]] ►

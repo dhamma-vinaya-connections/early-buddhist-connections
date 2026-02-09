@@ -102,5 +102,6 @@ The Discourse on the Great Forty, the seventh, is concluded.
 | [[EA38.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN116]]
 > ◄  [[mn115-deepseek-pali]] 📜  [[mn117-deepseek-pali]] ►

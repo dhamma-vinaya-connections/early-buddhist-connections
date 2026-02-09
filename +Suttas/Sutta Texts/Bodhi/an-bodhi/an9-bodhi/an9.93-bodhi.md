@@ -27,3 +27,5 @@ The Book of the Nines is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an9.93-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN9.93]]
+> ◄  [[an9.84-bodhi]] 📜  [[]] ►

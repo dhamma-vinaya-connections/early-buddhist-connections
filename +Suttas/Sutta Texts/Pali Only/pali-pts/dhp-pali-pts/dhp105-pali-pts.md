@@ -25,3 +25,5 @@ ekañ ca bhāvitattānaṃ muhuttam api pūjaye, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp105-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP105]]
+> ◄  [[dhp104-pali-pts]] 📜  [[dhp106-pali-pts]] ►

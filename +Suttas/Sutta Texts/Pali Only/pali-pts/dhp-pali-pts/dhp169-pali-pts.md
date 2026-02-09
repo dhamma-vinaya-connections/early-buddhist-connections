@@ -24,3 +24,5 @@ yathā bubbulakaṃ passe yathā passe marīcikaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp169-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP169]]
+> ◄  [[dhp168-pali-pts]] 📜  [[dhp170-pali-pts]] ►

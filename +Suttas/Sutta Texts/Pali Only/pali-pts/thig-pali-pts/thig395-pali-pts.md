@@ -23,3 +23,5 @@ uppāṭiya cārudassanā na ca pajjittha asaṅgamānasā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig395-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG395]]
+> ◄  [[thig394-pali-pts]] 📜  [[thig396-pali-pts]] ►

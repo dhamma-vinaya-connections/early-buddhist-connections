@@ -50,12 +50,13 @@ That is what the Blessed One said. The bhikkhus were satisfied and delighted in 
 > |  | [[MA174]] | M i 305 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA174]]; [[DN8]]; [[DN25]]; [[MN12]]; [[MN51]]; [[MN60]]; [[AN3.156-162]]; [[AN4.198]] |
+| [[MA174]], [[DN8]], [[DN25]], [[MN12]], [[MN51]], [[MN60]], [[AN3.156-162]], [[AN4.198]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN4.192]], [[MN25]], [[MN46]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN45]]
 > ◄  [[mn44-bodhi]] 📜  [[mn46-bodhi]] ►

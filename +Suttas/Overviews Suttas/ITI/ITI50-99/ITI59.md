@@ -89,4 +89,5 @@ one in whom these are well-developed,
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti59
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti59.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI58]]  🌐 [[ITI60]] ►

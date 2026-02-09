@@ -23,3 +23,5 @@ atthi Sakyakule jāto buddho appaṭipuggalo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig184-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG184]]
+> ◄  [[thig183-pali-pts]] 📜  [[thig185-pali-pts]] ►

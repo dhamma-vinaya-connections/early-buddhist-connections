@@ -23,3 +23,5 @@ dhammaṃ vo desayissāmi; dukkhā jāti punappunaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag255-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG255]]
+> ◄  [[thag254-pali-pts]] 📜  [[thag256-pali-pts]] ►

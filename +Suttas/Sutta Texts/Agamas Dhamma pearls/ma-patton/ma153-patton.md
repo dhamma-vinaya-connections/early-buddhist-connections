@@ -285,11 +285,12 @@ He answered, “No, Gautama.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN75]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN14.17]], [[SN14.18]], [[SN14.19]], [[SN14.20]], [[SN14.21]], [[SN14.22]], [[SN14.23]], [[SN14.24]], [[SN14.25]], [[SN14.27]], [[SN14.28]], [[SN14.29]], [[SN14.12]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA153]]
 > ◄  [[ma146-patton]] 📜  [[ma159-patton]] ►

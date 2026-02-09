@@ -23,3 +23,5 @@ dasakkhattuṃ satakkhattuṃ dasasatakkhattuṃ satāni ca satakkhattuṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig518-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG518]]
+> ◄  [[thig517-pali-pts]] 📜  [[thig519-pali-pts]] ►

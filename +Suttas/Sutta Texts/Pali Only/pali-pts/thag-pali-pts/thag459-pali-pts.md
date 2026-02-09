@@ -23,3 +23,5 @@ pādukā oruhitvāna purato pañjalīkatā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag459-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG459]]
+> ◄  [[thag458-pali-pts]] 📜  [[thag460-pali-pts]] ►

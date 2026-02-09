@@ -223,7 +223,8 @@ Evañca pana, bhikkhave, nissajjitabbaṁ … pe …
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np9-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP9]] |
->|       |          | [[ñanatusita-analysis#^NP9]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP9]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP9]]

@@ -42,5 +42,6 @@ Then the Venerable Vaṅgīsa rose from his seat, arranged his upper robe over o
 | [[SA-2.224]], [[SA1208]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.11]]
 > ◄  [[sn8.10-deepseek-pali]] 📜  [[sn8.12-deepseek-pali]] ►

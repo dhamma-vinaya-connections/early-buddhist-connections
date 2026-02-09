@@ -23,3 +23,5 @@ nānuyuttā tathā eke muṇḍā saṃghāṭipārutā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag943-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG943]]
+> ◄  [[thag942-pali-pts]] 📜  [[thag944-pali-pts]] ►

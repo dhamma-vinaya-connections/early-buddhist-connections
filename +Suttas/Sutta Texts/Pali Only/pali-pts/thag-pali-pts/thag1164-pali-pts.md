@@ -23,3 +23,5 @@ na yidaṃ sithilam ārabbha na yidaṃ appena thāmasā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1164-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1164]]
+> ◄  [[thag1161-pali-pts]] 📜  [[thag1165-pali-pts]] ►

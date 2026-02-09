@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[DHP266]], [[DHP267]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.263]], [[SA97]]"
-parallels_partilal: "[[SA-2.263]], [[SA97]], [[DHP266]], [[DHP267]]"
+parallels_partilal: "[[SA-2.263]], [[SA97]], [[DHP\|DHP266]], [[DHP\|DHP267]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.19]]  🌐 [[SN7.21]] ►
 
@@ -68,10 +68,10 @@ He is truly called a bhikkhu
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP266]], [[DHP267]] | [[SA-2.263]], [[SA97]] |  |
+> |  | [[SA-2.263]], [[SA97]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.263]], [[SA97]], [[DHP266]], [[DHP267]] |
+| [[SA-2.263]], [[SA97]], [[DHP\|DHP266]], [[DHP\|DHP267]] |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ He is truly called a bhikkhu
 > - Sutta Central: https://suttacentral.net/sn7.20/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.20
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.20.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.19]]  🌐 [[SN7.21]] ►

@@ -23,3 +23,5 @@ tassā me sikkhamānāya dibbacakkhuṃ visodhitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig103-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG103]]
+> ◄  [[thig102-pali-pts]] 📜  [[thig104-pali-pts]] ►

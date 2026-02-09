@@ -86,4 +86,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.148
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.148.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.147]]  🌐 [[AN3.149]] ►

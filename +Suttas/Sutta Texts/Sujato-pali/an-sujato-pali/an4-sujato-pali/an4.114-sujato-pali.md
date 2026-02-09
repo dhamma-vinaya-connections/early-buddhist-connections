@@ -80,11 +80,12 @@ Catutthaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.140]] |  | A ii 116 |
+> |  |  | A ii 116 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.140]], [[MN2]], [[MN125]], [[AN4.157]], [[AN4.165]], [[PLI-TV-KD1]], [[PLI-TV-BU-VB-PC65]], [[PLI-TV-BI-VB-PC71]], [[AN4.164]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.114]]
 > ◄  [[an4.113-sujato-pali]] 📜  [[an4.115-sujato-pali]] ►

@@ -37,10 +37,11 @@ World-honored One, I have understood. Well-gone One, I have comprehended. I now 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN7]] | [[EA13.5]], [[SA1185]], [[SA2.98]] |  |
+> |  | [[EA13.5]], [[SA1185]], [[SA2.98]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN15]], [[MN3]], [[MN8]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA93]]
 > ◄  [[ma92-bdk]] 📜  [[ma94-bdk]] ►

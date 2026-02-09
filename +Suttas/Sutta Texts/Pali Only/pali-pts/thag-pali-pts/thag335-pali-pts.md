@@ -23,3 +23,5 @@ arahā dakkhiṇeyyo 'mhi tevijjo amataddaso;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag335-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG335]]
+> ◄  [[thag334-pali-pts]] 📜  [[thag336-pali-pts]] ►

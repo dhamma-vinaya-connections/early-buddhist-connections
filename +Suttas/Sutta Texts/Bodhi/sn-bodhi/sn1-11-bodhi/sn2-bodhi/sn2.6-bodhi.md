@@ -80,5 +80,6 @@ At Sāvatthī. Standing to one side, the young deva Kāmada said to the Bless
 | [[SA-2.312]], [[SA1313]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.6]]
 > ◄  [[sn2.5-bodhi]] 📜  [[sn2.7-bodhi]] ►

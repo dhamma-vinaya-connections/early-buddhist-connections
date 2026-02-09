@@ -110,11 +110,12 @@ Free from passion, free from aversion, free from delusion, without taints; The N
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[THAG15.2]] | [[MA118]] | A iii 344 |
+> |  | [[MA118]] | A iii 344 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA118]], [[THAG15.2]] |
+| [[MA118]], [[THAG15]].2 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.43]]
 > ◄  [[an6.42-deepseek-pali]] 📜  [[an6.44-deepseek-pali]] ►

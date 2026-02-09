@@ -23,3 +23,5 @@ paññā sutavinicchinī, paññā kittisilokavaddhanī,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag550-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG550]]
+> ◄  [[thag549-pali-pts]] 📜  [[thag551-pali-pts]] ►

@@ -120,11 +120,12 @@ Catutthaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP140]], [[DHP246]], [[DHP247]] |  | A iii 204 |
+> |  |  | A iii 204 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP140]], [[DHP247]], [[ITI30]], [[ITI64]], [[DHP246]], [[PE2]], [[PE3]] |
+| [[DHP\|DHP140]], [[DHP\|DHP247]], [[ITI30]], [[ITI64]], [[DHP\|DHP246]], [[PE2]], [[PE3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.174]]
 > ◄  [[an5.173-sujato-pali]] 📜  [[an5.175-sujato-pali]] ►

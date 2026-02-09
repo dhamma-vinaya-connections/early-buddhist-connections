@@ -23,3 +23,5 @@ Assatthe haritobhāse saṃvirūḷhamhi pādape
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag216-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG216]]
+> ◄  [[thag215-pali-pts]] 📜  [[thag217-pali-pts]] ►

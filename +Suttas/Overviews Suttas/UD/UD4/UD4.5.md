@@ -92,4 +92,5 @@ since each finds joy in the woods alone
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.5
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.4]]  🌐 [[UD4.6]] ►

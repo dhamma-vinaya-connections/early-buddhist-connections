@@ -30,5 +30,6 @@ PTS: A i 134
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN42.8]], [[AN3.99]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.34]]
 > ◄  [[an3.33-pali-pts]] 📜  [[an3.35-pali-pts]] ►

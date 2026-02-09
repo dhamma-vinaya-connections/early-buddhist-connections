@@ -43,3 +43,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.230-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.230]]
+> ◄  [[an2.180-bodhi]] 📜  [[an2.280-bodhi]] ►

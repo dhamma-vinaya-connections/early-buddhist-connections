@@ -24,3 +24,5 @@ yato yato sammasati khandhānaṃ udayavyayaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp373-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP373]]
+> ◄  [[dhp372-pali-pts]] 📜  [[dhp374-pali-pts]] ►

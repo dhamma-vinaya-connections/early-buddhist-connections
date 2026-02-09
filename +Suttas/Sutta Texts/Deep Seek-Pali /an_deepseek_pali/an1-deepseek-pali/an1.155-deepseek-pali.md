@@ -31,3 +31,5 @@ The Fourth Chapter.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.155-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.155]]
+> ◄  [[an1.154-deepseek-pali]] 📜  [[an1.156-deepseek-pali]] ►

@@ -24,3 +24,5 @@ sukhakāmāni bhūtāni yo daṇḍena na hiṃsati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp131-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP131]]
+> ◄  [[dhp130-pali-pts]] 📜  [[dhp132-pali-pts]] ►

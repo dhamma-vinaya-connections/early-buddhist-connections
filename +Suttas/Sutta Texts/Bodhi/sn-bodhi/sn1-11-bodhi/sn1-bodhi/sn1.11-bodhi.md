@@ -50,11 +50,12 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Sāvatthī 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA95]] | [[EA31.9]], [[SA-2.161]], [[SA576]] |  |
+> |  | [[EA31.9]], [[SA-2.161]], [[SA576]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[DN16]], [[SN15.20]], [[SN6.15]], [[THAG20.1]] |
+| [[EA31.9]], [[SA-2.161]], [[SA576]], [[JA95]], [[DN17]], [[DN16]], [[SN15.20]], [[SN6.15]], [[THAG20]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.11]]
 > ◄  [[sn1.10-bodhi]] 📜  [[sn1.12-bodhi]] ►

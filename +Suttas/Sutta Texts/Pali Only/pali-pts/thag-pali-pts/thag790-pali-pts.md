@@ -23,3 +23,5 @@ etam ādīnavaṃ disvā saṃvegaṃ alabhiṃ tadā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag790-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG790]]
+> ◄  [[thag789-pali-pts]] 📜  [[thag791-pali-pts]] ►

@@ -44,8 +44,9 @@ udaggacittā muditā || sotam odhenti bhikkhavo ti || ||
 > |  | [[SA-2.226]], [[SA1210]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.226]], [[SA1210]], [[THAG21.1]] |
+| [[SA-2.226]], [[SA1210]], [[THAG21]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.6]]
 > ◄  [[sn8.5-pali-pts]] 📜  [[sn8.7-pali-pts]] ►

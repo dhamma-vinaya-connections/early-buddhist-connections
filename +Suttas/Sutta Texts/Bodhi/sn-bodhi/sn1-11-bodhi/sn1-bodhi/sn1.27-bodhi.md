@@ -51,5 +51,6 @@ language: "English"
 | [[SA-2.176]], [[SA601]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.27]]
 > ◄  [[sn1.26-bodhi]] 📜  [[sn1.28-bodhi]] ►

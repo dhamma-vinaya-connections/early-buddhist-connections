@@ -84,7 +84,7 @@ the requisites of the path, I came to know as it really is: “Birth has been en
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN128]], [[MN31]] | [[EA24.8]], [[MA185]] |  |
+> |  | [[EA24.8]], [[MA185]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DN22]], [[EA27.1]], [[MA31]], [[EA12.1]], [[MA98]], [[MN10]] |
@@ -93,6 +93,7 @@ the requisites of the path, I came to know as it really is: “Birth has been en
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA73]], [[MN127]], [[MN31]], [[MN48]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA72]]
 > ◄  [[ma71-bdk]] 📜  [[ma73-bdk]] ►

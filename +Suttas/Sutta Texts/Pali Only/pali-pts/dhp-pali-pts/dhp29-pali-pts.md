@@ -24,3 +24,5 @@ appamādena Maghavā devānaṃ seṭṭhataṃ gato, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp29-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP29]]
+> ◄  [[dhp28-pali-pts]] 📜  [[dhp30-pali-pts]] ►

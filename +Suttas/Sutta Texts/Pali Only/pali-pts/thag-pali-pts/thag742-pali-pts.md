@@ -23,3 +23,5 @@ uccāvaceh'; upāyehi paresam abhijigīsāti
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag742-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG742]]
+> ◄  [[thag741-pali-pts]] 📜  [[thag743-pali-pts]] ►

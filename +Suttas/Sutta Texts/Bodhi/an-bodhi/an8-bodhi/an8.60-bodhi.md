@@ -50,5 +50,6 @@ what is given here bears great fruit.
 | [[EA43.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
 > ◄  [[an8.59-bodhi]] 📜  [[an8.61-bodhi]] ►

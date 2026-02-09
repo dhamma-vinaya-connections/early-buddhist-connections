@@ -23,3 +23,5 @@ nibbānābhiratā ahaṃ asassataṃ bhavagataṃ yadi pi dibbaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig449-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG449]]
+> ◄  [[thig448-pali-pts]] 📜  [[thig450-pali-pts]] ►

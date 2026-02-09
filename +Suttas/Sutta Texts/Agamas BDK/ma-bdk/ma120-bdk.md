@@ -34,11 +34,12 @@ He understands and knows the five aggregates, His province is the seven wholesom
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.76]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.52]], [[EA32.2]], [[]], [[SN47.45]], [[SN47.5]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA120]]
 > ◄  [[ma119-bdk]] 📜  [[ma121-bdk]] ►

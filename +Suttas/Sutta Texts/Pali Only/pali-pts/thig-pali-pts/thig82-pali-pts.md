@@ -23,3 +23,5 @@ yathā idaṃ tathā etaṃ yathā etaṃ tathā idaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig82-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG82]]
+> ◄  [[thig81-pali-pts]] 📜  [[thig83-pali-pts]] ►

@@ -30,7 +30,7 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.63]] | [[EA20.11]], [[EA51.9]] | A i 61 |
+> |  | [[EA20.11]], [[EA51.9]] | A i 61 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA20.11]], [[AN7.63]], [[EA51.9]] |
@@ -39,6 +39,7 @@ language: "English"
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN110]], [[SN7.14]], [[AN4.73]], [[ITI106]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.33]]
 > ◄  [[an2.32-bodhi]] 📜  [[an2.34-bodhi]] ►

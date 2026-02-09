@@ -24,3 +24,5 @@ vassikā viya pupphāni maddavāni pamuñcati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp376-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP376]]
+> ◄  [[dhp375-pali-pts]] 📜  [[dhp377-pali-pts]] ►

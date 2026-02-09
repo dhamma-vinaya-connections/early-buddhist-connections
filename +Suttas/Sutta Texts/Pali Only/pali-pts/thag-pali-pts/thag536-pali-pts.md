@@ -24,3 +24,5 @@ Purato pacchato vāpi aparo ce na vijjati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag536-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG536]]
+> ◄  [[thag535-pali-pts]] 📜  [[thag537-pali-pts]] ►

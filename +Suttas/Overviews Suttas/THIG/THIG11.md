@@ -95,4 +95,5 @@ you’re beaten, terminator!
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig11
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig11.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG10]]  🌐 [[THIG12]] ►

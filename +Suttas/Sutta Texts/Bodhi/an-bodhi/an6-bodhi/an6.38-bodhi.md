@@ -100,5 +100,6 @@ Then a certain brahmin approached the Blessed One and exchanged greetings with h
 | [[SA459]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.38]]
 > ◄  [[an6.37-bodhi]] 📜  [[an6.39-bodhi]] ►

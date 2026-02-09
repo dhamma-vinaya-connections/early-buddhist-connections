@@ -23,3 +23,5 @@ tassā dhammaṃ suṇitvāna ekamante upāvisiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig69-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG69]]
+> ◄  [[thig68-pali-pts]] 📜  [[thig70-pali-pts]] ►

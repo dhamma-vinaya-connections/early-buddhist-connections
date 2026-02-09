@@ -23,3 +23,5 @@ vaṭṭani-r-iva koṭar'; ohitā majjhebubbuḷakā sāssukā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig394-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG394]]
+> ◄  [[thig393-pali-pts]] 📜  [[thig395-pali-pts]] ►

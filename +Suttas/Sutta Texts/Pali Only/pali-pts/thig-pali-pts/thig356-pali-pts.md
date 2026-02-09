@@ -23,3 +23,5 @@ ummādanā ullapanā kāmā cittapamāthino |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig356-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG356]]
+> ◄  [[thig355-pali-pts]] 📜  [[thig357-pali-pts]] ►

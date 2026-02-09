@@ -94,4 +94,5 @@ So too, when the aggregates are present
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn5.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn5.10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN5.9]]  🌐 [[SN6.1]] ►

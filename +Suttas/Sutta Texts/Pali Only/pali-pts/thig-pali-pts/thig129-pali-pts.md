@@ -24,3 +24,5 @@ peto manussarūpena saṃsaranto gamissati |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig129-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG129]]
+> ◄  [[thig128-pali-pts]] 📜  [[thig130-pali-pts]] ►

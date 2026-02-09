@@ -23,3 +23,5 @@ cutūpapātaṃ jānāmi sattānaṃ āgatiṃ gatiṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag916-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG916]]
+> ◄  [[thag915-pali-pts]] 📜  [[thag917-pali-pts]] ►

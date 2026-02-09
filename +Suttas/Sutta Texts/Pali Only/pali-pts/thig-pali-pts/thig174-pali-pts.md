@@ -25,3 +25,5 @@ musalāni gahetvāna dhaññaṃ koṭṭenti mānavā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig174-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG174]]
+> ◄  [[thig173-pali-pts]] 📜  [[thig175-pali-pts]] ►

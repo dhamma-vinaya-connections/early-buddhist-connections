@@ -24,3 +24,5 @@ paṇḍupalāso va dāni si Yamapurisā pi ca taṃ upaṭṭhitā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp234-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP234]]
+> ◄  [[dhp233-pali-pts]] 📜  [[dhp235-pali-pts]] ►

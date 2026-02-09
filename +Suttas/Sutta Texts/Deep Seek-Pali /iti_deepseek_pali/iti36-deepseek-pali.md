@@ -48,5 +48,6 @@ Two bhikkhus, the ardent ones; the ardent ones for the sake of others; the arden
 | [[AN4.25]], [[ITI35]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI36]]
 > ◄  [[iti35-deepseek-pali]] 📜  [[iti37-deepseek-pali]] ►

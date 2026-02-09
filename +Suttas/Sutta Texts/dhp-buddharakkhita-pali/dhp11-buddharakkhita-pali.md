@@ -105,3 +105,5 @@ Jarāvaggo ekādasamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp11-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP11-BUDDHARAKKHITA]]
+> ◄  [[dhp10-buddharakkhita-pali]] 📜  [[dhp12-buddharakkhita-pali]] ►

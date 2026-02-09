@@ -1239,3 +1239,5 @@ Suttanipāto samatto.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]]  / 🌐 [[SNP5]]
+> ◄  [[snp4-pali-sri]] 📜  [[]] ►

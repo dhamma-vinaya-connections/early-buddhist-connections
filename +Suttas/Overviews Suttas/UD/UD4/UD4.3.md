@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP42]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP42]]"
+parallels_partilal: "[[DHP\|DHP42]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.2]]  🌐 [[UD4.4]] ►
 
@@ -70,15 +70,15 @@ whose mind is developed like this?
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP42]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP42]] |
+| [[DHP\|DHP42]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP43]]
+> - [[MN136]], [[SN21.3]], [[THAG2:36]], [[DHP\|DHP43]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -96,5 +96,6 @@ whose mind is developed like this?
 > - Sutta Central: https://suttacentral.net/ud4.3/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud4.3
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud4.3.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD4.2]]  🌐 [[UD4.4]] ►

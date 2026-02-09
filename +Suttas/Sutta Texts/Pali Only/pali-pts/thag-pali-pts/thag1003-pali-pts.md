@@ -23,3 +23,5 @@ ubhayenam idaṃ maraṇam eva nāmaraṇaṃ pacchā vā pure vā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1003-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1003]]
+> ◄  [[thag1002-pali-pts]] 📜  [[thag1004-pali-pts]] ►

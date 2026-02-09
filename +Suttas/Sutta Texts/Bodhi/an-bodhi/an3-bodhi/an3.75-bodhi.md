@@ -46,5 +46,6 @@ Then the Venerable Ānanda approached the Blessed One, paid homage to him, and s
 | [[EA21.4]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.75]]
 > ◄  [[an3.74-bodhi]] 📜  [[an3.76-bodhi]] ►

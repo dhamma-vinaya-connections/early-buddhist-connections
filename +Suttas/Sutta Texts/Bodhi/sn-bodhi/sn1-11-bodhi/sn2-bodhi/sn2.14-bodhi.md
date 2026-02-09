@@ -66,5 +66,6 @@ Standing to one side, the young deva Nandana addressed the Blessed One in verse:
 | [[SA-2.182]], [[SA597]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.14]]
 > ◄  [[sn2.13-bodhi]] 📜  [[sn2.15-bodhi]] ►

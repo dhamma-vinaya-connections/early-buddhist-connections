@@ -65,3 +65,5 @@ language: "Pali"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG9]]
+> ◄  [[thig8-pali-eng]] 📜  [[thig10-pali-eng]] ►

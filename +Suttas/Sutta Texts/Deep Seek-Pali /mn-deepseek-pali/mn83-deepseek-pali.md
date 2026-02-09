@@ -78,15 +78,16 @@ The Maghadeva Discourse, the Third, is finished.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[JA541]]; [[JA9]] | [[EA1.1]]; [[EA50.4]]; [[MA67]] | M ii 74 |
+> |  | [[EA1.1]]; [[EA50.4]]; [[MA67]] | M ii 74 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA1.1]]; [[EA50.4]]; [[JA541]]; [[JA9]]; [[MA67]] |
+| [[EA1.1]], [[EA50.4]], [[JA541]], [[JA9]], [[MA67]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN30]], [[DN26]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN83]]
 > ◄  [[mn82-deepseek-pali]] 📜  [[mn84-deepseek-pali]] ►

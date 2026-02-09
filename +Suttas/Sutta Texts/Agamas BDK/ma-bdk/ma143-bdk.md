@@ -44,11 +44,12 @@ Young brahmin, I have myself walked a path, a track such that, having walked thi
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.60]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN10.75]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA143]]
 > ◄  [[ma142-bdk]] 📜  [[ma144-bdk]] ►

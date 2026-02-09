@@ -347,6 +347,6 @@ At that point, the Bhagavān gave his approval of what Śāriputra had taught. W
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN30]], [[DN33]], [[DN34]] | [[DA10]], [[DA11]], [[MA59]] |  |
+> |  | [[DA10]], [[DA11]], [[MA59]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA9]]
 > ◄  [[da8-patton]] 📜  [[da10-patton]] ►

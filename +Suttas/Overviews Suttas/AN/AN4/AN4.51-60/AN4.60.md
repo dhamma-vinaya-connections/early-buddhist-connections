@@ -89,4 +89,5 @@ Having done excellent deeds
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.60
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.60.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.59]]  🌐 [[AN4.61]] ►

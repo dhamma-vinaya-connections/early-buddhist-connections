@@ -23,3 +23,5 @@ anaṅgaṇassa posassa niccaṃ sucigavesino
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag651-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG651]]
+> ◄  [[thag650-pali-pts]] 📜  [[thag652-pali-pts]] ►

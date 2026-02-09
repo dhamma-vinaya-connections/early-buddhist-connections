@@ -51,5 +51,6 @@ tass-eva jantu vinayāya sikkhe ti || ||
 | [[SA1094]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
 > ◄  [[]] 📜  [[sn4.2-pali-pts]] ►

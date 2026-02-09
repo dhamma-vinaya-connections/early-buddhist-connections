@@ -23,3 +23,5 @@ aṭṭhisaṃghāṭaghaṭito nhārusuttanibandhano
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag569-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG569]]
+> ◄  [[thag568-pali-pts]] 📜  [[thag570-pali-pts]] ►

@@ -101,4 +101,5 @@ he can understand well-spoken words.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp21
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp21.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP20]]  🌐 [[PDHP22]] ►

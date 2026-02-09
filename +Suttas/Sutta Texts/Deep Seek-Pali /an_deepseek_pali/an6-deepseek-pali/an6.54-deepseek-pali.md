@@ -152,7 +152,7 @@ The First Fifty Discourses.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.73]], [[AN7.73-74]] | [[MA130]], [[MA160]] | A iii 366 |
+> |  | [[MA130]], [[MA160]] | A iii 366 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA130]], [[AN7.73-74]], [[MA160]], [[AN7.66]], [[AN7.73]], [[PE3]] |
@@ -161,6 +161,7 @@ The First Fifty Discourses.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN7.62]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.54]]
 > ◄  [[an6.53-deepseek-pali]] 📜  [[an6.55-deepseek-pali]] ►

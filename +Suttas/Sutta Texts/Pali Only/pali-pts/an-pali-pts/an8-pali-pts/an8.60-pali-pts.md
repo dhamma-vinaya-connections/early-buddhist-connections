@@ -38,5 +38,6 @@ karotaṃ opadhikaṃ puññaṃ saṅghe dinnaṃ mahapphalan ti.
 | [[EA43.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.60]]
 > ◄  [[an8.59-pali-pts]] 📜  [[an8.61-pali-pts]] ►

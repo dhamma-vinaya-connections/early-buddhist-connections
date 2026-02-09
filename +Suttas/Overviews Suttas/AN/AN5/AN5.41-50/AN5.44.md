@@ -91,4 +91,5 @@ The giver of the best gets the best
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.44
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.44.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.43]]  🌐 [[AN5.45]] ►

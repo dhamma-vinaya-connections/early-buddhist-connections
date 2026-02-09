@@ -54,5 +54,6 @@ Then the Blessed One, having understood this matter, on that occasion uttered th
 | [[SN3.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD5.1]]
 > ◄  [[]] 📜  [[ud5.2-deepseek-pali]] ►

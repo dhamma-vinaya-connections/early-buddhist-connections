@@ -23,3 +23,5 @@ uppalaṃ ca udakato ubbhataṃ yathā yaṃ amanussasevitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig378-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG378]]
+> ◄  [[thig377-pali-pts]] 📜  [[thig379-pali-pts]] ►

@@ -24,3 +24,5 @@ yo bālo maññatī balyaṃ paṇḍito vāpi tena so, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp62-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP62]]
+> ◄  [[dhp61-pali-pts]] 📜  [[dhp63-pali-pts]] ►

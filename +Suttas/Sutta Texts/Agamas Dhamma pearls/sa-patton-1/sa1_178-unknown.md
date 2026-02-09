@@ -119,3 +119,5 @@ Summary Verse
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa1_178-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA1_178]]
+> ◄  [[SA1_172]] 📜  [[SA2_1-4]] ►

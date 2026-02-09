@@ -24,3 +24,5 @@ Na ukkhipe no ca parikkhipe pare, na okkhipe pāragataṃ na eraye,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag208-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG208]]
+> ◄  [[thag207-pali-pts]] 📜  [[thag209-pali-pts]] ►

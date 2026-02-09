@@ -35,5 +35,6 @@ Imehi kho bhikkhave pañcahi dhammehi samannāgato upāsako upāsakaratanañ ca 
 | [[SA482]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.176]]
 > ◄  [[an5.175-pali-pts]] 📜  [[an5.177-pali-pts]] ►

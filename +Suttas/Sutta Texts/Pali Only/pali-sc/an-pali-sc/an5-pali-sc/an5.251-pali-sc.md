@@ -34,5 +34,6 @@ Paṭhamaṁ.
 | [[PLI-TV-KD1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.251]]
 > ◄  [[an5.250-pali-sc]] 📜  [[an5.252-pali-sc]] ►

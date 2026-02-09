@@ -33,5 +33,6 @@ Cattārīmāni bhikkhave Tathāgatassa arakkheyyāni, tīhi ca anupavajjo. Katam
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.58]]
 > ◄  [[an7.57-pali-pts]] 📜  [[an7.59-pali-pts]] ►

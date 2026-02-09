@@ -96,5 +96,6 @@ Vijjāyantakaro samitāvī"ti.
 | [[SA-2.251]], [[SA1216]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN8]]  / 🌐 [[SN8.3]]
 > ◄  [[sn8.2-sujato-pali]] 📜  [[sn8.4-sujato-pali]] ►

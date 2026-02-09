@@ -50,5 +50,6 @@ Then Venerable Nāgadatta, stirred by that deity, experienced spiritual urgency.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN9.9]], [[SN9.14.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.7]]
 > ◄  [[sn9.6-deepseek-pali]] 📜  [[sn9.8-deepseek-pali]] ►

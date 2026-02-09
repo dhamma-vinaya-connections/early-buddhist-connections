@@ -44,5 +44,6 @@ vuṭṭhi ve paramā sarā"ti.
 | [[SA-2.232]], [[SA1006]], [[PE2]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.13]]
 > ◄  [[sn1.12-pali-sc]] 📜  [[sn1.14-pali-sc]] ►

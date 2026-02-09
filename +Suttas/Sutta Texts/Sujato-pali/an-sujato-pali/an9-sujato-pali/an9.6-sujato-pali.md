@@ -82,7 +82,7 @@ Chaṭṭhaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN114]], [[MN17]] | [[EA45.3]], [[MA107]], [[MA107-108]] | A iv 365 |
+> |  | [[EA45.3]], [[MA107]], [[MA107-108]] | A iv 365 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA45.3]], [[MA107]], [[MN114]], [[MN17]], [[MA107-108]], [[MA109]] |
@@ -91,6 +91,7 @@ Chaṭṭhaṁ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN17]], [[MN3]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.6]]
 > ◄  [[an9.5-sujato-pali]] 📜  [[an9.7-sujato-pali]] ►

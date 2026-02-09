@@ -61,7 +61,7 @@ sutta_audience:
   - "Bhikkhus"
   - "Buddha"
   - "King"
-parallels_nikaya: "[[AN4.180]], [[AN8.68-70]], [[DN16]], [[DN17]], [[SN47.9]], [[SN51.10]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA28.5]], [[MA68]]"
 parallels_partilal: "[[PLI-TV-KD17]], [[PE5]]"
 ---
@@ -109,7 +109,7 @@ Some
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.180]], [[AN8.68-70]], [[DN16]], [[DN17]], [[SN47.9]], [[SN51.10]] | [[EA28.5]], [[MA68]] |  |
+> |  | [[EA28.5]], [[MA68]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-KD17]], [[PE5]] |
@@ -132,5 +132,6 @@ Some
 > - Sutta Central: https://suttacentral.net/da2/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA1]]  🌐 [[DA3]] ►

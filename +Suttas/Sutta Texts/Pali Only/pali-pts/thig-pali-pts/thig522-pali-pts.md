@@ -25,3 +25,5 @@ samattā theriyā gāthāyo. ||
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig522-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG522]]
+> ◄  [[thig521-pali-pts]] 📜  [[]] ►

@@ -25,3 +25,5 @@ sabbā ete phāsukā bhaggā gahakūṭaṃ visaṃkhitaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp153-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP153]]
+> ◄  [[dhp152-pali-pts]] 📜  [[dhp154-pali-pts]] ►

@@ -327,3 +327,5 @@ Dhammapadapāḷi samattā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp26-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP26-BUDDHARAKKHITA]]
+> ◄  [[dhp25-buddharakkhita-pali]] 📜  [[]] ►

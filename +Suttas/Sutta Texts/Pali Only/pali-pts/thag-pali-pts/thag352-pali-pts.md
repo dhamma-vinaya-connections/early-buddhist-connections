@@ -23,3 +23,5 @@ bojjhaṅgāni ca bhāvento viharissāmi kānane.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag352-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG352]]
+> ◄  [[thag351-pali-pts]] 📜  [[thag353-pali-pts]] ►

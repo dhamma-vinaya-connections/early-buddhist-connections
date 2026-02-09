@@ -48,3 +48,5 @@ That group of monks then went to Venerable Ānanda after having this discussion 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa2_129-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA2_129]]
+> ◄  [[SA2_128]] 📜  [[SA2_130]] ►

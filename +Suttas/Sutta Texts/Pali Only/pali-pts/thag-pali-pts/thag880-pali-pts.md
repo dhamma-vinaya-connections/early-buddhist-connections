@@ -23,3 +23,5 @@ lohitapāṇi pure āsiṃ Aṅgulimālo 'ti vissuto;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag880-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG880]]
+> ◄  [[thag879-pali-pts]] 📜  [[thag881-pali-pts]] ►

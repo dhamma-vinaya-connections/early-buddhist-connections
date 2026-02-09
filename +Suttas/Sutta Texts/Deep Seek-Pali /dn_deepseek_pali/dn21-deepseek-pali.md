@@ -522,5 +522,6 @@ And while this explanation was being spoken, the dust-free, stainless vision of 
 | [[DA14]], [[MA134]], [[SNP3.6]], [[SN22.4]], [[SA552]], [[SA505]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN21]]
 > ◄  [[dn20-deepseek-pali]] 📜  [[dn22-deepseek-pali]] ►

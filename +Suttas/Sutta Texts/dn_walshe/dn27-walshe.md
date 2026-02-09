@@ -129,5 +129,6 @@ Thus the Lord spoke, and Vasettha and Bharadvaja were derighted and rejoiced at 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN26]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN27]]
 > ◄  [[dn26-walshe]] 📜  [[dn28-walshe]] ►

@@ -24,3 +24,5 @@ apuññalābho ca gatī ca pāpikā bhītassa bhītāya ratī ca thokikā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp309-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP309]]
+> ◄  [[dhp308-pali-pts]] 📜  [[dhp310-pali-pts]] ►

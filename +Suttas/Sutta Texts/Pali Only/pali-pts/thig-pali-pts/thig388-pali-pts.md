@@ -23,3 +23,5 @@ sāhaṃ sugatassa sāvikā maggaṭṭhaṅgikayānayāyinī |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig388-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG388]]
+> ◄  [[thig387-pali-pts]] 📜  [[thig389-pali-pts]] ►

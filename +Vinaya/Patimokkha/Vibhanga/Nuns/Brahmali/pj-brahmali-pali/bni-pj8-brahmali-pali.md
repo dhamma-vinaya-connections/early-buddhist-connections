@@ -145,7 +145,8 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma, bhikkhave, chabbaggiyā bhi
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pj8-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PJ8]] |
->|       |          | [[ñanatusita-analysis#^-PJ8]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PJ8]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ8]]

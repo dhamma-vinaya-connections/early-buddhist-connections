@@ -31,5 +31,6 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.62]], [[AN9.63]], [[AN9.64]], [[AN9.65]], [[AN9.66]], [[AN9.67]], [[AN9.68]], [[AN9.69]], [[AN9.70]], [[AN9.71]], [[AN9.72]], [[AN9.73]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.73]]
 > ◄  [[an9.72-bodhi]] 📜  [[an9.74-bodhi]] ►

@@ -105,7 +105,8 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DHP28]]
+> - [[DHP\|DHP28]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI38]]
 > ◄  [[iti37-thanissaro]] 📜  [[iti39-thanissaro]] ►

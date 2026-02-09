@@ -23,3 +23,5 @@ kiṃchandā kimadhippāyā kimākappā bhavissare
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag949-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG949]]
+> ◄  [[thag948-pali-pts]] 📜  [[thag950-pali-pts]] ►

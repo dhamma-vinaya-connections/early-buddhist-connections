@@ -36,11 +36,12 @@ Doṇa, for what reason does a brahmin not approach [a woman] who is pregnant? S
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.192]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN1.314]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA158]]
 > ◄  [[ma157-bdk]] 📜  [[ma159-bdk]] ►

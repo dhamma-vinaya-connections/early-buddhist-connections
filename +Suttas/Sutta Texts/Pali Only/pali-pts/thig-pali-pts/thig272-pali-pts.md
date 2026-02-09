@@ -23,3 +23,5 @@ akammakāmā alasā paradattopajīvino |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig272-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG272]]
+> ◄  [[thig271-pali-pts]] 📜  [[thig273-pali-pts]] ►

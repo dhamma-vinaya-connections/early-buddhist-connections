@@ -79,12 +79,13 @@ The Shorter Discourse on the Destruction of Craving, the seventh, is concluded.
 > |  | [[EA19.3]]; [[SA505]] | M i 251 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA19.3]]; [[SA505]]; [[AN7.61]]; [[MA83]] |
+| [[EA19.3]], [[SA505]], [[AN7.61]], [[MA83]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN50]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN37]]
 > ◄  [[mn36-deepseek-pali]] 📜  [[mn38-deepseek-pali]] ►

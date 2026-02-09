@@ -103,4 +103,5 @@ the monastic is called one at peace.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp5
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP4]]  🌐 [[PDHP6]] ►

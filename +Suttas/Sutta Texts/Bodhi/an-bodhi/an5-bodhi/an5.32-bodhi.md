@@ -70,7 +70,7 @@ rejoices having attained the foremost.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.34]], [[ITI90]] | [[EA21.1]], [[SA902-904]] | A iii 35 |
+> |  | [[EA21.1]], [[SA902-904]] | A iii 35 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.34]], [[EA21.1]], [[ITI90]], [[SA902-904]], [[SN45.139]] |
@@ -79,6 +79,7 @@ rejoices having attained the foremost.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.31]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.32]]
 > ◄  [[an5.31-bodhi]] 📜  [[an5.33-bodhi]] ►

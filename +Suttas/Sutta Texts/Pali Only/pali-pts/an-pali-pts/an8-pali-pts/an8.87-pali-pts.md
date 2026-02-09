@@ -33,5 +33,6 @@ Idha panāhaṃ Nāgita bhikkhuṃ passāmi āraññakaṃ araññe pacalāyamā
 | [[PLI-TV-KD15]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.87]]
 > ◄  [[an8.86-pali-pts]] 📜  [[an8.88-pali-pts]] ►

@@ -208,11 +208,12 @@ Thus ends the Hemavata Sutta, the ninth.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN2.15]] | [[SA-2.178]], [[SA-2.315]], [[SA-2.328]], [[SA1269]], [[SA1316]], [[SA1329]] |  |
+> |  | [[SA-2.178]], [[SA-2.315]], [[SA-2.328]], [[SA1269]], [[SA1316]], [[SA1329]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.178]], [[SA1269]], [[SA-2.315]], [[SA1316]], [[SN2.15]], [[SN1.30]], [[SA1329]], [[SA-2.328]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.9]]
 > ◄  [[snp1.8-deepseek-pali]] 📜  [[snp1.10-deepseek-pali]] ►

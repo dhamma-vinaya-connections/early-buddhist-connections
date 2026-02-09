@@ -73,12 +73,13 @@ Then Māra the Evil One, realizing, “The bhikkhunī Cālā knows me,” sad an
 > |  | [[SA-2.221]], [[SA1205]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.221]], [[SA1205]], [[THIG7.3]], [[ITI73]], [[SNP3.12]] |
+| [[SA-2.221]], [[SA1205]], [[THIG7]].3, [[ITI73]], [[SNP3.12]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN6.15]], [[SN9.6.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN5]]  / 🌐 [[SN5.6]]
 > ◄  [[sn5.5-bodhi]] 📜  [[sn5.7-bodhi]] ►

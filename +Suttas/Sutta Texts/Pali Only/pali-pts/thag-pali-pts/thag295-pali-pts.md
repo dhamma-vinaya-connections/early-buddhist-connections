@@ -23,3 +23,5 @@ yañ ca me āsavā khīṇā, yañ ca n'; atthi punabbhavo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag295-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG295]]
+> ◄  [[thag294-pali-pts]] 📜  [[thag296-pali-pts]] ►

@@ -23,3 +23,5 @@ passāmi loke sadhane manusse, laddhāna vittaṃ na dadanti mohā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag775-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG775]]
+> ◄  [[thag774-pali-pts]] 📜  [[thag776-pali-pts]] ►

@@ -30,3 +30,5 @@ Yadā dukkhaṃ jarāmaraṇan ti paṇḍito aviddasū yattha sitā puthujjanā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag517-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG517]]
+> ◄  [[thag516-pali-pts]] 📜  [[thag518-pali-pts]] ►

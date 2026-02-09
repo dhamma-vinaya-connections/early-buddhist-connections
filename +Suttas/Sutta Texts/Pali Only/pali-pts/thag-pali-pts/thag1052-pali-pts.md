@@ -23,3 +23,5 @@ paṅko 'ti hi naṃ avedayuṃ yāyaṃ vandanapūjanā kulesu,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1052-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1052]]
+> ◄  [[thag1051-pali-pts]] 📜  [[thag1053-pali-pts]] ►

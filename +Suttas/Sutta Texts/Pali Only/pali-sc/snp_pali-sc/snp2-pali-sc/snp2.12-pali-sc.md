@@ -118,12 +118,13 @@ Nigrodhakappasuttaṁ dvādasamaṁ.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG21.1]] |
+| [[THAG21]].1 |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN8]], [[DN16]], [[AN6.43]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.12]]
 > ◄  [[snp2.11-pali-sc]] 📜  [[snp2.13-pali-sc]] ►

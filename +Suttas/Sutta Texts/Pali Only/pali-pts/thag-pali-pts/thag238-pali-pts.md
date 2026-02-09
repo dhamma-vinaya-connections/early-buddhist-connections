@@ -23,3 +23,5 @@ subhāsitassa sikkhetha samaṇupāsanassa ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag238-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG238]]
+> ◄  [[thag237-pali-pts]] 📜  [[thag239-pali-pts]] ►

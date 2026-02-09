@@ -61,3 +61,5 @@ The Thirty Two Fold Nature
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP3]]
+> ◄  [[kp2-sujato-pali]] 📜  [[kp4-sujato-pali]] ►

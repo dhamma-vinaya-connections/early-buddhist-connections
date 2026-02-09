@@ -26,3 +26,5 @@ Yañ ca gihīnaṃ agāraṃ ajjhāvasaraṃ cīvara-piṇḍapātasenāsana-gil
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.2-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.2]]
+> ◄  [[]] 📜  [[an2.3-pali-pts]] ►

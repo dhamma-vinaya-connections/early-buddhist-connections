@@ -24,3 +24,5 @@ etaṃ daḷhaṃ bandhanam āhu dhīrā ohārinaṃ sithilaṃ duppamuñcaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp345-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP345]]
+> ◄  [[dhp344-pali-pts]] 📜  [[dhp346-pali-pts]] ►

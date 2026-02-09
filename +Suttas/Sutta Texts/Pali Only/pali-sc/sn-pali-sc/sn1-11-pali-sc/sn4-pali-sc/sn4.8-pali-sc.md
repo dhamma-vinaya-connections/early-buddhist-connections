@@ -40,11 +40,12 @@ Na hi so socati yo nirūpadhī"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.12]] | [[SA-2.142]], [[SA1004]] |  |
+> |  | [[SA-2.142]], [[SA1004]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN1.12]], [[SA-2.142]], [[SA1004]], [[SNP1.2]], [[PE2]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.8]]
 > ◄  [[sn4.7-pali-sc]] 📜  [[sn4.9-pali-sc]] ►

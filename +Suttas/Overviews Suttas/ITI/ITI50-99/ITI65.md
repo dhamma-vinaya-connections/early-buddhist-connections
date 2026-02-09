@@ -96,4 +96,5 @@ is said to be bathe   of evil.
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti65
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti65.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI64]]  🌐 [[ITI66]] ►

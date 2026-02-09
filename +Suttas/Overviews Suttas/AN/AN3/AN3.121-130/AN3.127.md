@@ -90,4 +90,5 @@ Loving to hear the true teaching,
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.127
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.127.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.126]]  🌐 [[AN3.128]] ►

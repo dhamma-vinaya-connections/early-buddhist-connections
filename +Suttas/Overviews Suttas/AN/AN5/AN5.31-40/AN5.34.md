@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "People"
-parallels_nikaya: "[[AN7.57]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA32.10]], [[EA52.6]]"
 parallels_partilal: "[[EA52.6]], [[AN7.57]], [[EA32.10]], [[PE3]]"
 ---
@@ -63,7 +63,7 @@ Having driven out the stain of stinginess
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.57]] | [[EA32.10]], [[EA52.6]] | A iii 38 |
+> |  | [[EA32.10]], [[EA52.6]] | A iii 38 |
 > > [!check]- Partial parallels 
 > > 
 | [[EA52.6]], [[AN7.57]], [[EA32.10]], [[PE3]] |
@@ -89,5 +89,6 @@ Having driven out the stain of stinginess
 > - Sutta Central: https://suttacentral.net/an5.34/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.34
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.34.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.33]]  🌐 [[AN5.35]] ►

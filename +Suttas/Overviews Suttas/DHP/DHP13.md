@@ -36,7 +36,7 @@ sutta_audience:
   - "People"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG2.7]]"
+parallels_partilal: "[[THAG2]].7"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP12]]  🌐 [[DHP14]] ►
 
@@ -74,7 +74,7 @@ than lordship over all the world
 > |  |  | Dh 48 |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG2.7]] |
+| [[THAG2]].7 |
 | ------------------------ |
 
 
@@ -94,5 +94,6 @@ than lordship over all the world
 > - Sutta Central: https://suttacentral.net/dhp13/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp13
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp13.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP12]]  🌐 [[DHP14]] ►

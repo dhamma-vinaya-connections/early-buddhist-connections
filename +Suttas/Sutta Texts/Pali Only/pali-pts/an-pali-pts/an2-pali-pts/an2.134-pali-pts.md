@@ -40,5 +40,6 @@ Imehi kho bhikkhave dvīhi dhammehi samannāgato paṇḍito vyatto sappuriso ak
 | [[EA18.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.134]]
 > ◄  [[an2.133-pali-pts]] 📜  [[an2.135-pali-pts]] ►

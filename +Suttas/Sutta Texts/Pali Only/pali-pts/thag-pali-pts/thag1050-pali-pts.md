@@ -30,3 +30,5 @@ Na gaṇena purakkhato care, vimano hoti, samādhi dullabho;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1050-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1050]]
+> ◄  [[thag1049-pali-pts]] 📜  [[thag1051-pali-pts]] ►

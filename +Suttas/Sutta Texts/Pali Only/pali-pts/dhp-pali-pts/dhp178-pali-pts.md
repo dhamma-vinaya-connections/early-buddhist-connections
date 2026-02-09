@@ -25,3 +25,5 @@ yassa jitaṃ nāvajīyati jitaṃ assa no yāti koci loke, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp178-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP178]]
+> ◄  [[dhp177-pali-pts]] 📜  [[dhp179-pali-pts]] ►

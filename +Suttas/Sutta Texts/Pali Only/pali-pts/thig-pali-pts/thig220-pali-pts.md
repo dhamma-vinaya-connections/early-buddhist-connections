@@ -23,3 +23,5 @@ passiṃ taṃ susānamajjhe atho pi khāditāni puttamaṃsāni |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig220-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG220]]
+> ◄  [[thig219-pali-pts]] 📜  [[thig221-pali-pts]] ►

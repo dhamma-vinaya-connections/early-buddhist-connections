@@ -49,5 +49,6 @@ tiṇṇā loke visattikan"ti.
 | [[SA1101]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.12]]
 > ◄  [[sn4.11-pali-sc]] 📜  [[sn4.13-pali-sc]] ►

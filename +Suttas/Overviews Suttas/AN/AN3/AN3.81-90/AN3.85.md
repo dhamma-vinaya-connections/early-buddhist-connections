@@ -36,7 +36,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[SN48.23]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA642]], [[SA824]]"
 parallels_partilal: "[[AN6.45]], [[SA824]], [[SA642]], [[SN48.23]], [[ITI102]], [[ITI62]]"
 ---
@@ -66,7 +66,7 @@ Enlightenment follows in the same lifetime.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN48.23]] | [[SA642]], [[SA824]] | A i 231 |
+> |  | [[SA642]], [[SA824]] | A i 231 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.45]], [[SA824]], [[SA642]], [[SN48.23]], [[ITI102]], [[ITI62]] |
@@ -89,5 +89,6 @@ Enlightenment follows in the same lifetime.
 > - Sutta Central: https://suttacentral.net/an3.85/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.85
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.85.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.84]]  🌐 [[AN3.86]] ►

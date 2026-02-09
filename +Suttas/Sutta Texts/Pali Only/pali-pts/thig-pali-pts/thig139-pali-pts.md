@@ -23,3 +23,5 @@ iminā pūtikāyena āturena pabhaṅgunā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig139-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG139]]
+> ◄  [[thig138-pali-pts]] 📜  [[thig140-pali-pts]] ►

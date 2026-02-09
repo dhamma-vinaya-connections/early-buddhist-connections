@@ -23,3 +23,5 @@ so pi vasitvā pakkhaṃ atha tātaṃ bhaṇati dehi me |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig422-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG422]]
+> ◄  [[thig421-pali-pts]] 📜  [[thig423-pali-pts]] ►

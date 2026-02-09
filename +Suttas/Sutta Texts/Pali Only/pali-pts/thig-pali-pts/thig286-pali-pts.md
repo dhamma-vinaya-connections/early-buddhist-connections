@@ -24,3 +24,5 @@ amhaṃ pi ete samaṇā paṭigaṇhanti dakkhiṇaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig286-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG286]]
+> ◄  [[thig285-pali-pts]] 📜  [[thig287-pali-pts]] ►

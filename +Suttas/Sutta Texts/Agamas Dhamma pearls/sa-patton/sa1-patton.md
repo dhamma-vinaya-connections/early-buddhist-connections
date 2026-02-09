@@ -35,11 +35,12 @@ _(Like “observe … impermanent,” “pain,” “emptiness,” and “not se
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.51]], [[SN22.12-14]], [[SN35.156-157]] | [[SA1]] |  |
+> |  | [[SA1]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA1]], [[SN22.51]], [[SN22.12-14]], [[SN35.156-157]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA1]]
 > ◄  [[]] 📜  [[sa2-patton]] ►

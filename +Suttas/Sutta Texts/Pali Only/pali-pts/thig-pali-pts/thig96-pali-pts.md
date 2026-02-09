@@ -24,3 +24,5 @@ agārasmiṃ vasantī 'haṃ dhammaṃ sutvāna bhikkhuno |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig96-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG96]]
+> ◄  [[thig95-pali-pts]] 📜  [[thig97-pali-pts]] ►

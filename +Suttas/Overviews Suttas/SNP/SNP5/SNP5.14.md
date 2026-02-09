@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[DHP386]], [[DHP403]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP386]], [[MN98]], [[SNP3.9]], [[DHP403]], [[AN3.33]]"
+parallels_partilal: "[[DHP\|DHP386]], [[MN98]], [[SNP3.9]], [[DHP\|DHP403]], [[AN3.33]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.13]]  🌐 [[SNP5.15]] ►
 
@@ -62,10 +62,10 @@ parallels_partilal: "[[DHP386]], [[MN98]], [[SNP3.9]], [[DHP403]], [[AN3.33]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP386]], [[DHP403]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP386]], [[MN98]], [[SNP3.9]], [[DHP403]], [[AN3.33]] |
+| [[DHP\|DHP386]], [[MN98]], [[SNP3.9]], [[DHP\|DHP403]], [[AN3.33]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -88,5 +88,6 @@ parallels_partilal: "[[DHP386]], [[MN98]], [[SNP3.9]], [[DHP403]], [[AN3.33]]"
 > - Sutta Central: https://suttacentral.net/snp5.14/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp5.14
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp5.14.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP5.13]]  🌐 [[SNP5.15]] ►

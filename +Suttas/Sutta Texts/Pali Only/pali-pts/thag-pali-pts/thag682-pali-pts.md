@@ -24,3 +24,5 @@ nābhinandāmi . . . (= 606,607) **|| Th_685-686 ||**
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag682-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG682]]
+> ◄  [[thag681-pali-pts]] 📜  [[thag687-pali-pts]] ►

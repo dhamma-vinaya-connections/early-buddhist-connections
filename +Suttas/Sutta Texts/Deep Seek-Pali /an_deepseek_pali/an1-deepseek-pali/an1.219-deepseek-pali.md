@@ -35,3 +35,5 @@ The Third Chapter.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.219-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.219]]
+> ◄  [[an1.218-deepseek-pali]] 📜  [[an1.220-deepseek-pali]] ►

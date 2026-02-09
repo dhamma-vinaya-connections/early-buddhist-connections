@@ -23,3 +23,5 @@ pahīnajātimaraṇaṃ asesaṃ niggayha dhonaṃ vadessāmi dhammaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1270-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1270]]
+> ◄  [[thag1269-pali-pts]] 📜  [[thag1271-pali-pts]] ►

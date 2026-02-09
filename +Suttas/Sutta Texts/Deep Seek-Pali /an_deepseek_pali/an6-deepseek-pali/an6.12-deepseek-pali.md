@@ -44,11 +44,12 @@ Furthermore, mendicants, a mendicant abides possessed of that view which is nobl
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.11]] | [[EA37.1]] | A iii 289 |
+> |  | [[EA37.1]] | A iii 289 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN6.11]], [[DN33]], [[EA37.1]], [[PLI-TV-PVR4]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.12]]
 > ◄  [[an6.11-deepseek-pali]] 📜  [[an6.13-deepseek-pali]] ►

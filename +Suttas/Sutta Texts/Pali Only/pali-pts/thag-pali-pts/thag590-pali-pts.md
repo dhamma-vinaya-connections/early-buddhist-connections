@@ -23,3 +23,5 @@ cārittaṃ atha vārittaṃ iriyāpathiyaṃ pasādaniyaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag590-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG590]]
+> ◄  [[thag589-pali-pts]] 📜  [[thag591-pali-pts]] ►

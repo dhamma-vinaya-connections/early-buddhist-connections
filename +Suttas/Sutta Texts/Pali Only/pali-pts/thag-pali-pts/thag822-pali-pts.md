@@ -23,3 +23,5 @@ khattiyā bhojarājāno anuyantā bhavanti te;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag822-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG822]]
+> ◄  [[thag821-pali-pts]] 📜  [[thag823-pali-pts]] ►

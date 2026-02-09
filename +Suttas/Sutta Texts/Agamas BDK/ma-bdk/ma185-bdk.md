@@ -66,10 +66,11 @@ Celestial Dīgha, as for the three households which these three clansmen gave up
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN128]], [[MN31]] | [[EA24.8]], [[MA72]] |  |
+> |  | [[EA24.8]], [[MA72]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN128]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA185]]
 > ◄  [[ma184-bdk]] 📜  [[ma186-bdk]] ►

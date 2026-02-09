@@ -24,3 +24,5 @@ yassa muhutte sahassadā loko saṃvidito, sa Brahmakappo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag908-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG908]]
+> ◄  [[thag907-pali-pts]] 📜  [[thag909-pali-pts]] ►

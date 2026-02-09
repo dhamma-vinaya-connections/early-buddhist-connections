@@ -79,7 +79,7 @@ of a banyan tree, attached to sensuality,
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN21]], [[SNP4:11]], [[DHP1]], [[DHP2]], [[DHP347]], [[UD1.7]], [[UD4.4]]
+> - [[DN21]], [[SNP4:11]], [[DHP\|DHP1]], [[DHP\|DHP2]], [[DHP\|DHP347]], [[UD1.7]], [[UD4.4]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -97,5 +97,6 @@ of a banyan tree, attached to sensuality,
 > - Sutta Central: https://suttacentral.net/snp2.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.5
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.5.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.4]]  🌐 [[SNP2.6]] ►

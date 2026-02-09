@@ -157,7 +157,8 @@ The Chapter on Training Rules is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk75-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK75]] |
->|       |          | [[ñanatusita-analysis#^SK75]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK75]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK75]]

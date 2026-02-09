@@ -79,5 +79,6 @@ Tevijjavacchagotta suttaṃ paṭhamaṃ.3.
 | [[MN14]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-pali-sri]] 📜  [[mn72-pali-sri]] ►

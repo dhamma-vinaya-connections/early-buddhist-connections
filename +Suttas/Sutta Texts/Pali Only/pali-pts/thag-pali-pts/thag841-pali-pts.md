@@ -23,3 +23,5 @@ Yā taṃ me hatthigīvāya sukhumā vatthā padhāritā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag841-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG841]]
+> ◄  [[thag840-pali-pts]] 📜  [[thag842-pali-pts]] ►

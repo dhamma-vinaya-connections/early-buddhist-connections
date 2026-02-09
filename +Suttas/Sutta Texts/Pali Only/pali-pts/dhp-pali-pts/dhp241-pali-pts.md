@@ -24,3 +24,5 @@ mal'; itthiyā duccaritaṃ, maccheraṃ dadato malaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp241-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP241]]
+> ◄  [[dhp240-pali-pts]] 📜  [[dhp242-pali-pts]] ►

@@ -24,3 +24,5 @@ yo ca gāthāsataṃ bhāse anatthapadasaṃhitā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp101-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP101]]
+> ◄  [[dhp100-pali-pts]] 📜  [[dhp102-pali-pts]] ►

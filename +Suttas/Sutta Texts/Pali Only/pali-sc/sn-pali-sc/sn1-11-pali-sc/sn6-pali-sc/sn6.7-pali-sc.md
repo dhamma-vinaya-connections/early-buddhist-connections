@@ -39,5 +39,6 @@ Nivutaṁ taṁ maññe puthujjanan"ti.
 | [[SA-2.106]], [[SA-3.5]], [[SA1193]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.7]]
 > ◄  [[sn6.6-pali-sc]] 📜  [[sn6.8-pali-sc]] ►

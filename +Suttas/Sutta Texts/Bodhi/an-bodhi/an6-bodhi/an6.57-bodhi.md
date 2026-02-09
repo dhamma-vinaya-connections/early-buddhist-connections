@@ -72,5 +72,6 @@ On one occasion the Blessed One was dwelling at Rājagaha on Mount Vulture Peak.
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.57]]
 > ◄  [[an6.56-bodhi]] 📜  [[an6.58-bodhi]] ►

@@ -23,3 +23,5 @@ ediso ahu ayaṃ samussayo jajjaro bahudukkhānam ālayo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig269-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG269]]
+> ◄  [[thig268-pali-pts]] 📜  [[thig270-pali-pts]] ►

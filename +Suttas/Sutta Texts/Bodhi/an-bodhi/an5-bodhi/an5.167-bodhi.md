@@ -58,5 +58,6 @@ There the Venerable Sāriputta addressed the bhikkhus thus: …
 | [[SA497]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.167]]
 > ◄  [[an5.166-bodhi]] 📜  [[an5.168-bodhi]] ►

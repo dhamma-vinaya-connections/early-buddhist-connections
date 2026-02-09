@@ -48,10 +48,11 @@ It is well, it is well, Sāriputta, you have given the monks a discourse on the 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN3]] | [[EA18.3]] |  |
+> |  | [[EA18.3]] |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA88]]
 > ◄  [[ma87-bdk]] 📜  [[ma89-bdk]] ►

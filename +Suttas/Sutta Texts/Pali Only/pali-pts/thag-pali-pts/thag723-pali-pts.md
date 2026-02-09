@@ -23,3 +23,5 @@ sutvāna corā isino subhāsitaṃ nikkhippa satthāni ca āvudhāni ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag723-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG723]]
+> ◄  [[thag722-pali-pts]] 📜  [[thag724-pali-pts]] ►

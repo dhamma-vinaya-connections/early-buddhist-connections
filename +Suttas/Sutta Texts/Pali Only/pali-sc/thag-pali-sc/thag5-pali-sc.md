@@ -357,3 +357,5 @@ Atthantaro nāma sa hoti paṇḍito,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag5-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG5]]
+> ◄  [[thag4-pali-sc]] 📜  [[thag6-pali-sc]] ►

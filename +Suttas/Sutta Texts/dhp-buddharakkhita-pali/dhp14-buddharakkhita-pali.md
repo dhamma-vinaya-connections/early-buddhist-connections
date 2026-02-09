@@ -158,3 +158,5 @@ Paṭhamabhāṇavāraṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp14-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP14-BUDDHARAKKHITA]]
+> ◄  [[dhp13-buddharakkhita-pali]] 📜  [[dhp15-buddharakkhita-pali]] ►

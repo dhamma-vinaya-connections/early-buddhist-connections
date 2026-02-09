@@ -95,4 +95,5 @@ who have nothing here grasped as supreme?
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp4.8
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp4.8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP4.7]]  🌐 [[SNP4.9]] ►

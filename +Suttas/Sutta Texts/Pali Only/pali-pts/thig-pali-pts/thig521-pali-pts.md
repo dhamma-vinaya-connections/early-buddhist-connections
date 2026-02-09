@@ -23,3 +23,5 @@ evaṃ kathenti ye saddahanti vacanaṃ anomapaññassa |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig521-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG521]]
+> ◄  [[thig520-pali-pts]] 📜  [[thig522-pali-pts]] ►

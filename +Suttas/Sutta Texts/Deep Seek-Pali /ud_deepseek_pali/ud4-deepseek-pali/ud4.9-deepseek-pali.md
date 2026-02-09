@@ -50,5 +50,6 @@ Then, having known with his mind the mental thought-process of the Venerable Upa
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SNP3.12]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.9]]
 > ◄  [[ud4.8-deepseek-pali]] 📜  [[ud4.10-deepseek-pali]] ►

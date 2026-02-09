@@ -34,11 +34,12 @@ _Like this_ sūtra _on impermanence, pain, emptiness, and not self are taught in
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN35.1-12]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN35.1-12]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA2]]  / 🌐 [[SA195]]
 > ◄  [[sa194-patton]] 📜  [[sa196-patton]] ►

@@ -24,3 +24,5 @@ yo have daharo bhikkhu yuñjate Buddhasāsane /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp381-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP381]]
+> ◄  [[dhp380-pali-pts]] 📜  [[dhp382-pali-pts]] ►

@@ -24,3 +24,5 @@ sabbā te pāsukā bhaggā thūṇirā ca vidālitā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag183-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG183]]
+> ◄  [[thag182-pali-pts]] 📜  [[thag184-pali-pts]] ►

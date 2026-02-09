@@ -46,11 +46,12 @@ lead to one’s happiness. \[156\]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.52]] | [[SA-2.86]], [[SA-2.87]] | A i 155 |
+> |  | [[SA-2.86]], [[SA-2.87]] | A i 155 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.86]], [[AN3.52]], [[SA-2.87]], [[SN2.19]], [[SN1.3]], [[JA498]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.51]]
 > ◄  [[an3.50-bodhi]] 📜  [[an3.52-bodhi]] ►

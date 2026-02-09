@@ -23,3 +23,5 @@ bahussuto cittakathī buddhassa paricārako
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1020-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1020]]
+> ◄  [[thag1019-pali-pts]] 📜  [[thag1021-pali-pts]] ►

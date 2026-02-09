@@ -36,5 +36,6 @@ Ayam-pi attho vutto bhagavatā iti me sutan-ti ||7||
 | [[SN35.26]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI7]]
 > ◄  [[iti6-pali-pts]] 📜  [[iti8-pali-pts]] ►

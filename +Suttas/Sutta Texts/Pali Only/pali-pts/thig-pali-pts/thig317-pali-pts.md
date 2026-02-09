@@ -23,3 +23,5 @@ tassāhaṃ brāhmaṇa arahato dhammaṃ sutvā nirupadhiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig317-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG317]]
+> ◄  [[thig316-pali-pts]] 📜  [[thig318-pali-pts]] ►

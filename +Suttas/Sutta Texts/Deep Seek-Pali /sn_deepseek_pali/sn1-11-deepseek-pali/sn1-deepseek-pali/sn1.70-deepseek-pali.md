@@ -56,5 +56,6 @@ Name, mind, and craving; fetters and bonds; unimpeded, afflicted, concealed; des
 | [[SA-2.235]], [[SA1008]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.70]]
 > ◄  [[sn1.69-deepseek-pali]] 📜  [[sn1.71-deepseek-pali]] ►

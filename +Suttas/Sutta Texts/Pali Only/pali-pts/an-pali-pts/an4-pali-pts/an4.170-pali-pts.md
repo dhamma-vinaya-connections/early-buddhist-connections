@@ -37,5 +37,6 @@ Evaṃ kho bhikkhave puggalo kāyassa bhedā sasaṅkhāraparinibbāyī hoti.
 | [[SA560]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.170]]
 > ◄  [[an4.169-pali-pts]] 📜  [[an4.171-pali-pts]] ►

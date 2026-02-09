@@ -86,4 +86,5 @@ parallels_partilal: "[[MA12]], [[SN42.12]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.195
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.195.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.194]]  🌐 [[AN4.196]] ►

@@ -23,3 +23,5 @@ pañcaṅgike samādhimhi sante ekodibhāvite
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag915-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG915]]
+> ◄  [[thag914-pali-pts]] 📜  [[thag916-pali-pts]] ►

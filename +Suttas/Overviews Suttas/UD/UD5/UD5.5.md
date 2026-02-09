@@ -36,7 +36,7 @@ sutta_audience:
   - "Bhikkhus"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[THAG6.13]], [[PLI-TV-KD19]], [[AN8.19]], [[AN8.20]], [[PLI-TV-PVR10]], [[PE2]]"
+parallels_partilal: "[[THAG6]].13, [[PLI-TV-KD19]], [[AN8.19]], [[AN8.20]], [[PLI-TV-PVR10]], [[PE2]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.4]]  🌐 [[UD5.6]] ►
 
@@ -70,7 +70,7 @@ so the rain will not saturate it.
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG6.13]], [[PLI-TV-KD19]], [[AN8.19]], [[AN8.20]], [[PLI-TV-PVR10]], [[PE2]] |
+| [[THAG6]].13, [[PLI-TV-KD19]], [[AN8.19]], [[AN8.20]], [[PLI-TV-PVR10]], [[PE2]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -93,5 +93,6 @@ so the rain will not saturate it.
 > - Sutta Central: https://suttacentral.net/ud5.5/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud5.5
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud5.5.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD5.4]]  🌐 [[UD5.6]] ►

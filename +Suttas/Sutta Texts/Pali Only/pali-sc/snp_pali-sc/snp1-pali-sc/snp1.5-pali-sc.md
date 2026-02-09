@@ -81,5 +81,6 @@ Cundasuttaṁ pañcamaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN16]], [[AN10.176]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP1.5]]
 > ◄  [[snp1.4-pali-sc]] 📜  [[snp1.6-pali-sc]] ►

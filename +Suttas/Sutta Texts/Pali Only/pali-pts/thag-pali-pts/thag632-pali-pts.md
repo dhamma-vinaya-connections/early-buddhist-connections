@@ -23,3 +23,5 @@ pañca chinde pañca jahe pañca c'; uttari bhāvaye;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag632-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG632]]
+> ◄  [[thag631-pali-pts]] 📜  [[thag633-pali-pts]] ►

@@ -24,3 +24,5 @@ athav'; assa agārāni aggī ḍahati pāvako, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp139-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP139]]
+> ◄  [[dhp138-pali-pts]] 📜  [[dhp140-pali-pts]] ►

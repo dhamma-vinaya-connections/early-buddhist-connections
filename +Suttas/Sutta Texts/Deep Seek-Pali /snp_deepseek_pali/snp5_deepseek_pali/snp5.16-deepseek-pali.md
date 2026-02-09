@@ -58,11 +58,12 @@ The The Questions of the Young Man Mogharāja, the nth is finished.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP170]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP170]], [[PE2]] |
+| [[DHP\|DHP170]], [[PE2]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.16]]
 > ◄  [[snp5.15-deepseek-pali]] 📜  [[snp5.17-deepseek-pali]] ►

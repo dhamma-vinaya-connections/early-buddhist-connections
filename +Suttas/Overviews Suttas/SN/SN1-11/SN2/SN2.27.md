@@ -89,4 +89,5 @@ There is no release from suffering
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.27
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.27.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.26]]  🌐 [[SN2.28]] ►

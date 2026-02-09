@@ -23,3 +23,5 @@ asokaṃ virajaṃ khemaṃ ariyaṭṭhaṅgikaṃ ujuṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig360-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG360]]
+> ◄  [[thig359-pali-pts]] 📜  [[thig361-pali-pts]] ►

@@ -23,3 +23,5 @@ Pañca kkhandhā pariññātā tiṭṭhanti chinnamūlakā;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag119-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG119]]
+> ◄  [[thag118-pali-pts]] 📜  [[thag120-pali-pts]] ►

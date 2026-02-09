@@ -104,5 +104,6 @@ Dasamaṁ.
 | [[EA37.8]], [[MA149]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.52]]
 > ◄  [[an6.51-sujato-pali]] 📜  [[an6.53-sujato-pali]] ►

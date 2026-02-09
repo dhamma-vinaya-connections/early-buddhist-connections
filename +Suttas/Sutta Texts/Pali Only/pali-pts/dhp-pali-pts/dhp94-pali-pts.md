@@ -24,3 +24,5 @@ paṭhavīsamo no virujjhati indakhīlūpamo tādi subbato /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp94-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP94]]
+> ◄  [[dhp93-pali-pts]] 📜  [[dhp95-pali-pts]] ►

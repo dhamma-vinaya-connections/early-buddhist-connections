@@ -243,8 +243,9 @@ to death.
 > |  |  | Dh 33 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA221]], [[JA514]], [[THAG17.1]] |
+| [[JA221]], [[JA514]], [[THAG17]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP9]]
 > ◄  [[dhp8-thanissaro]] 📜  [[dhp10-thanissaro]] ►

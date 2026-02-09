@@ -22,3 +22,5 @@ upayāsi pītaruṇāvuto vāreyyaṃ upaṭṭhite kāle.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig479-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG479]]
+> ◄  [[thig478-pali-pts]] 📜  [[thig480-pali-pts]] ►

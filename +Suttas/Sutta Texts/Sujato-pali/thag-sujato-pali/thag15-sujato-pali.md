@@ -400,3 +400,5 @@ Parinibbissatyanāsavo”ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag15-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG15]]
+> ◄  [[thag14-sujato-pali]] 📜  [[thag16-sujato-pali]] ►

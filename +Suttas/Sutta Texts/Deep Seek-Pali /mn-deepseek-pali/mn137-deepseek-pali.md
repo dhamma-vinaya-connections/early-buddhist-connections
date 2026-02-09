@@ -156,15 +156,16 @@ The Discourse on the Exposition of Non-Conflict, the ninth, is finished.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN1.447-454]]; [[AN8.120]]; [[AN8.66]] | [[MA163]] | M iii 215 |
+> |  | [[MA163]] | M iii 215 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN8.120]]; [[AN1.447-454]]; [[AN8.66]]; [[DN16]]; [[DN15]]; [[MN77]]; [[DN34]]; [[DN33]]; [[MN148]]; [[MA163]] |
+| [[AN8.120]], [[AN1.447-454]], [[AN8.66]], [[DN16]], [[DN15]], [[MN77]], [[DN34]], [[DN33]], [[MN148]], [[MA163]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.61]], [[AN3.99]], [[AN3.99]], [[SN42.8]], [[MN140]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN137]]
 > ◄  [[mn136-deepseek-pali]] 📜  [[mn138-deepseek-pali]] ►

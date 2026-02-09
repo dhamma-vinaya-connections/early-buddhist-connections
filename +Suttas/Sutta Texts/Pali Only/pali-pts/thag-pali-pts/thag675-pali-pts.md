@@ -23,3 +23,5 @@ sabbe saṃkhārā aniccā 'ti yadā paññāya passati,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag675-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG675]]
+> ◄  [[thag674-pali-pts]] 📜  [[thag676-pali-pts]] ►

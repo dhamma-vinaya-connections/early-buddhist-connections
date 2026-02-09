@@ -24,3 +24,5 @@ seyyo ayoguḷo bhutto tatto aggisikhūpamo /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp307-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP307]]
+> ◄  [[dhp306-pali-pts]] 📜  [[dhp308-pali-pts]] ►

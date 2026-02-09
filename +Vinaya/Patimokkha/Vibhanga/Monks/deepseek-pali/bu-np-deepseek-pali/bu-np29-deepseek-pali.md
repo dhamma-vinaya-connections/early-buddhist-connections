@@ -104,7 +104,8 @@ The ninth training rule, on what is risky, is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np29-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP29]] |
->|       |          | [[ñanatusita-analysis#^NP29]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP29]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP29]]

@@ -80,5 +80,6 @@ Tasmā na hiṁse paramattakāmo"ti.
 | [[UD5.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.8]]
 > ◄  [[sn3.7-sujato-pali]] 📜  [[sn3.9-sujato-pali]] ►

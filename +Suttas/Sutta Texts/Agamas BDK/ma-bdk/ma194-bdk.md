@@ -64,15 +64,16 @@ Bhaddāli, it is just as a knowledgeable horse trainer gets a fine thoroughbred 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN65]], [[MN66]] | [[EA49.7]], [[MA192]] |  |
+> |  | [[EA49.7]], [[MA192]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[JA371]], [[MA72]], [[EA24.8]], [[JA428]], [[PLI-TV-KD10]], [[DHP3]], [[DHP328]], [[SNP1.3]], [[DHP329]], [[DHP330]], [[DHP4]], [[DHP5]], [[DHP6]], [[THAG4.3]], [[THAG8.1]], [[UD5.9]], [[MN31]], [[MA185]] |
+| [[JA371]], [[MA72]], [[EA24.8]], [[JA428]], [[PLI-TV-KD10]], [[DHP\|DHP3]], [[DHP\|DHP328]], [[SNP1.3]], [[DHP\|DHP329]], [[DHP\|DHP330]], [[DHP\|DHP4]], [[DHP\|DHP5]], [[DHP\|DHP6]], [[THAG4]].3, [[THAG8]].1, [[UD5.9]], [[MN31]], [[MA185]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN107]], [[SN16.13]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA194]]
 > ◄  [[ma193-bdk]] 📜  [[ma195-bdk]] ►

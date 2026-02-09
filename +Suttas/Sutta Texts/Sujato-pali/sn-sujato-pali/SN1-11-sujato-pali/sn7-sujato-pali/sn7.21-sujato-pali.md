@@ -83,3 +83,5 @@ Anallagattāva taranti pāran"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn7.21-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.21]]
+> ◄  [[sn7.20-sujato-pali]] 📜  [[sn7.22-sujato-pali]] ►

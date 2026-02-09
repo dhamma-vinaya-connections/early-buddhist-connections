@@ -23,3 +23,5 @@ tato kesāni chetvāna pabbajiṃ anagāriyaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig155-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG155]]
+> ◄  [[thig154-pali-pts]] 📜  [[thig156-pali-pts]] ►

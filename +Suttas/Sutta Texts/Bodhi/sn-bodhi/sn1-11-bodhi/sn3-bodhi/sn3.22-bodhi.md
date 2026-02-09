@@ -61,5 +61,6 @@ At Sāvatthī. Then, in the middle of the day, King Pasenadi of Kosala approac
 | [[EA26.7]], [[SA-2.54]], [[SA1227]], [[PE1]], [[SN3.4]], [[SN3.20]], [[SN1.32]], [[JA450]], [[SN1.43]], [[SN2.23]], [[AN5.36]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.22]]
 > ◄  [[sn3.21-bodhi]] 📜  [[sn3.23-bodhi]] ►

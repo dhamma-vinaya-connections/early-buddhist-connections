@@ -124,5 +124,6 @@ Dutiyaṁ.
 | [[MA6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.55]]
 > ◄  [[an7.54-sujato-pali]] 📜  [[an7.56-sujato-pali]] ►

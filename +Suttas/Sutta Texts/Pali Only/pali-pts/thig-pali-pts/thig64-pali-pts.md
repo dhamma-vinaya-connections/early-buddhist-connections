@@ -23,3 +23,5 @@ tatheva Bhaddā Kapilānī tevijjā maccuhāyinī |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig64-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG64]]
+> ◄  [[thig63-pali-pts]] 📜  [[thig65-pali-pts]] ►

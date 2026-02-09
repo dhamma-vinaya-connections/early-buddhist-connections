@@ -23,3 +23,5 @@ mayūrakoñcābhirudamhi kānane dīpīhi byagghehi purakkhato vasaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1112-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1112]]
+> ◄  [[thag1111-pali-pts]] 📜  [[thag1113-pali-pts]] ►

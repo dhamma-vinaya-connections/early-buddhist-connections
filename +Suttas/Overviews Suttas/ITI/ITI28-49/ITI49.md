@@ -89,4 +89,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti49
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti49.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI48]]  🌐 [[ITI50]] ►

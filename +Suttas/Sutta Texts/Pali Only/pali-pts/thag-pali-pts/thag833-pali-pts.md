@@ -23,3 +23,5 @@ yo maṃ icchati anvetu yo vā n'; icchati gacchatu:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag833-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG833]]
+> ◄  [[thag832-pali-pts]] 📜  [[thag834-pali-pts]] ►

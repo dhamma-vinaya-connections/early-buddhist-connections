@@ -118,15 +118,16 @@ Subhāsitasuttaṁ tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN8.5]] | [[SA-2.253]], [[SA1218]] |  |
+> |  | [[SA-2.253]], [[SA1218]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN8.5]], [[SA-2.253]], [[SA1218]], [[THAG21.1]], [[PE3]] |
+| [[SN8.5]], [[SA-2.253]], [[SA1218]], [[THAG21]].1, [[PE3]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN21]], [[MN58]], [[SN11.5]], [[AN4.183]], [[AN5.198]], [[AN8.8]], [[AN10.165]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.3]]
 > ◄  [[snp3.2-sujato-pali]] 📜  [[snp3.4-sujato-pali]] ►

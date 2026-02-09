@@ -41,13 +41,10 @@ abandoned accepting gold or silver. I purified my mind with regard to accepting 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma187-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN112]] |  |  |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.9]], [[MN105]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA187]]
 > ◄  [[ma186-bdk]] 📜  [[ma188-bdk]] ►

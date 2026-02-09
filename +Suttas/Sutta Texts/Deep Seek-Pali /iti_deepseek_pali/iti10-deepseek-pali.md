@@ -40,3 +40,5 @@ From conceit, greed and hatred, two again, were declared. They call this the fir
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[IT]]  / 🌐 [[ITI10]]
+> ◄  [[iti9-deepseek-pali]] 📜  [[iti11-deepseek-pali]] ►

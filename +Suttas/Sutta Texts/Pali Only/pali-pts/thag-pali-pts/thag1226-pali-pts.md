@@ -23,3 +23,5 @@ tam eva vācaṃ bhāseyya yāy'; attānaṃ na tāpaye
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1226-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1226]]
+> ◄  [[thag1225-pali-pts]] 📜  [[thag1227-pali-pts]] ►

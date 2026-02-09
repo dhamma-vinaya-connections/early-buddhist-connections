@@ -24,3 +24,5 @@ Asakkhiṃ vata attānaṃ uddhātuṃ udakā thalaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag87-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG87]]
+> ◄  [[thag86-pali-pts]] 📜  [[thag88-pali-pts]] ►

@@ -23,3 +23,5 @@ so atthavā so dhammaṭṭho katvā vākyānusāsaniṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag745-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG745]]
+> ◄  [[thag744-pali-pts]] 📜  [[thag746-pali-pts]] ►

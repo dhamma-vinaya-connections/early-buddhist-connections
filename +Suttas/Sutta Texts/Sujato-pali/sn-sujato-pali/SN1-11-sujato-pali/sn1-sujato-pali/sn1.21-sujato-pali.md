@@ -60,11 +60,12 @@ sato bhikkhu paribbaje"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN2.16]] | [[SA-2.170]], [[SA586]] |  |
+> |  | [[SA-2.170]], [[SA586]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.170]], [[SA586]], [[SN2.16]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]] |
+| [[SA-2.170]], [[SA586]], [[SN2.16]], [[THAG1]].39, [[THAG1]].40, [[THAG20]].1, [[PE2]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.21]]
 > ◄  [[sn1.20-sujato-pali]] 📜  [[sn1.22-sujato-pali]] ►

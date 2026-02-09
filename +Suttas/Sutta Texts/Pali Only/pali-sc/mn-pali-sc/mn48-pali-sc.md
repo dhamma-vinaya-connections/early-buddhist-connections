@@ -119,5 +119,6 @@ So evaṁ pajānāti: ‘yathārūpāya balatāya diṭṭhisampanno puggalo sam
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN128]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN48]]
 > ◄  [[mn47-pali-sc]] 📜  [[mn49-pali-sc]] ►

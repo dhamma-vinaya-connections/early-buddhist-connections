@@ -111,11 +111,12 @@ Thus the Lord spoke, and the Venerable Upavāna rejoiced and was delighted with
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN9.7]], [[AN9.8]] | [[DA17]] | D iii 117 |
+> |  | [[DA17]] | D iii 117 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN9.7]], [[DA17]], [[AN9.8]], [[MN76]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN29]]
 > ◄  [[dn28-walshe]] 📜  [[dn30-walshe]] ►

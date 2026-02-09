@@ -97,4 +97,5 @@ The truth without acquisitions.
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.24
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.24.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.23]]  🌐 [[SN4.25]] ►

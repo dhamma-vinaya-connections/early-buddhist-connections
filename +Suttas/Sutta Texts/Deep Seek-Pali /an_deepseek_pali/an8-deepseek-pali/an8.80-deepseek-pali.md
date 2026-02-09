@@ -110,5 +110,6 @@ Two on faith, two on mindfulness of death, two on accomplishments, and then othe
 | [[DN33]], [[DN34]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.80]]
 > ◄  [[an8.79-deepseek-pali]] 📜  [[an8.81-deepseek-pali]] ►

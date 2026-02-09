@@ -218,3 +218,5 @@ That Great Sage has the foundations of mindfulness for a neck, faith for hands, 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag18-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG18]]
+> ◄  [[thag17-pali-eng]] 📜  [[thag19-pali-eng]] ►

@@ -50,11 +50,12 @@ Ekādasamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN11.10]] |  | A i 291 |
+> |  |  | A i 291 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN11.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.143]]
 > ◄  [[an3.142-sujato-pali]] 📜  [[an3.144-sujato-pali]] ►

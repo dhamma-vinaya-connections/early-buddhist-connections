@@ -23,3 +23,5 @@ vāḷamigasaṅghasevitaṃ kuñjaramattakareṇuloḷitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig372-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG372]]
+> ◄  [[thig371-pali-pts]] 📜  [[thig373-pali-pts]] ►

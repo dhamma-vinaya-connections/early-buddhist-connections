@@ -156,15 +156,16 @@ Aṭṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP306]], [[UD2.4]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP306]], [[ITI48]], [[SNP3.10]], [[UD2.4]] |
+| [[DHP\|DHP306]], [[ITI48]], [[SNP3.10]], [[UD2.4]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DHP306]]
+> - [[DHP\|DHP306]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.8]]
 > ◄  [[ud4.7-anandajoti-pali]] 📜  [[ud4.9-anandajoti-pali]] ►

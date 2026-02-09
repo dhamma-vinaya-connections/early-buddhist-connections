@@ -110,5 +110,6 @@ Aṭṭhamaṁ.
 | [[SA459]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.38]]
 > ◄  [[an6.37-sujato-pali]] 📜  [[an6.39-sujato-pali]] ►

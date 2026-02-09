@@ -151,7 +151,8 @@ Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko,
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-np26-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-NP26]] |
->|       |          | [[ñanatusita-analysis#^-NP26]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-NP26]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP26]]

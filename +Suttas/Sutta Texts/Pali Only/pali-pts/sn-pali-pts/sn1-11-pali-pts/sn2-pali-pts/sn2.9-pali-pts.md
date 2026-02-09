@@ -105,5 +105,6 @@ Devaputta-saṃyuttaṃ niṭṭhitaṃ || ||
 | [[SA-2.167]], [[SA583]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.9]]
 > ◄  [[sn2.8-pali-pts]] 📜  [[]] ►

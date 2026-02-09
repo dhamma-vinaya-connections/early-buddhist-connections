@@ -23,3 +23,5 @@ Yato ahaṃ pabbajito agārasmā anagāriyaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag47-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG47]]
+> ◄  [[thag46-pali-pts]] 📜  [[thag48-pali-pts]] ►

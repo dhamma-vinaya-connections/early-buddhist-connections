@@ -55,5 +55,6 @@ Evamevaṁ kho, bhikkhave, yasmiṁ samaye pesalā bhikkhū balavanto honti, pā
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.94]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.39]]
 > ◄  [[an2.38-sujato-pali]] 📜  [[an2.40-sujato-pali]] ►

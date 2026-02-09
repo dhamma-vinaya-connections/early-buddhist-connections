@@ -23,3 +23,5 @@ ajjhositā asāre kaḷevare aṭṭhinhārusaṃghāte |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig469-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG469]]
+> ◄  [[thig468-pali-pts]] 📜  [[thig470-pali-pts]] ►

@@ -29,3 +29,5 @@ na so rajjati rūpesu; rūpaṃ disvā patissato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag795-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG795]]
+> ◄  [[thag794-pali-pts]] 📜  [[thag806-pali-pts]] ►

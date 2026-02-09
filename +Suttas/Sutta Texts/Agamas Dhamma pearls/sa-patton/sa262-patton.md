@@ -56,11 +56,12 @@ Summary Verse
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.90]], [[SN12.15]] | [[SA262]] |  |
+> |  | [[SA262]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA262]], [[SN22.90]], [[SN12.15]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA262]]
 > ◄  [[sa261-patton]] 📜  [[sa263-patton]] ►

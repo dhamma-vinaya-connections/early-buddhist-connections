@@ -23,3 +23,5 @@ saṃyojanāni etāni pajahitvāna bhikkhuni |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig165-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG165]]
+> ◄  [[thig164-pali-pts]] 📜  [[thig166-pali-pts]] ►

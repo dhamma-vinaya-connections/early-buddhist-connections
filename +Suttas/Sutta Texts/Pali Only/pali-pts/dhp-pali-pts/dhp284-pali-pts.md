@@ -24,3 +24,5 @@ ucchinda sineham attano kumudaṃ sāradikaṃ va pāṇinā, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp284-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP284]]
+> ◄  [[dhp283-pali-pts]] 📜  [[dhp285-pali-pts]] ►

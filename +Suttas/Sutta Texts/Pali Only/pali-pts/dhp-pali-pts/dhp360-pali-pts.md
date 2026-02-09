@@ -25,3 +25,5 @@ manasā saṃvaro sādhu sādhu sabbattha saṃvaro /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp360-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP360]]
+> ◄  [[dhp359-pali-pts]] 📜  [[dhp361-pali-pts]] ►

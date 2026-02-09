@@ -94,5 +94,6 @@ Pañcamaṁ.
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.58]]
 > ◄  [[an7.57-sujato-pali]] 📜  [[an7.59-sujato-pali]] ►

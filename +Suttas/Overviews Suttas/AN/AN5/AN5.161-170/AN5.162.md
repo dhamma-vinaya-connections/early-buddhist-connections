@@ -88,4 +88,5 @@ parallels_partilal: "[[MA25]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.162
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.162.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.161]]  🌐 [[AN5.163]] ►

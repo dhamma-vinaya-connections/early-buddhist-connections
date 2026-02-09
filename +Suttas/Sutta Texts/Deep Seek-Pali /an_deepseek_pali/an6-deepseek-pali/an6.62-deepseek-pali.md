@@ -86,5 +86,6 @@ When this was said, Venerable Ānanda said to the Blessed One: “Is it possible
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.53]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.62]]
 > ◄  [[an6.61-deepseek-pali]] 📜  [[an6.63-deepseek-pali]] ►

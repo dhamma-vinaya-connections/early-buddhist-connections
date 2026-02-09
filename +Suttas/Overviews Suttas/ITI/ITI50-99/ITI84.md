@@ -93,4 +93,5 @@ throw open the door to the Deathless,
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti84
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti84.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI83]]  🌐 [[ITI85]] ►

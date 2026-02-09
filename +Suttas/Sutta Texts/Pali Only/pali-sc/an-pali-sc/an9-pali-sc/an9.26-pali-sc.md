@@ -58,5 +58,6 @@ Chaṭṭhaṁ.
 | [[SA499]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.26]]
 > ◄  [[an9.25-pali-sc]] 📜  [[an9.27-pali-sc]] ►

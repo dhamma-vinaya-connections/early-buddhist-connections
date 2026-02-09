@@ -35,3 +35,5 @@ The Chapter on Non-Offenses: The Twelfth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.109-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.109]]
+> ◄  [[an1.108-deepseek-pali]] 📜  [[an1.110-deepseek-pali]] ►

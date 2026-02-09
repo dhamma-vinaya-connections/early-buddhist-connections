@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[SN6.9]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA21.5]], [[SA-2.276]], [[SA1278]]"
 parallels_partilal: "[[SN6.9]], [[AN10.89]], [[SNP3.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]]"
 ---
@@ -68,7 +68,7 @@ You’ll never find happiness that way
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN6.9]] | [[EA21.5]], [[SA-2.276]], [[SA1278]] |  |
+> |  | [[EA21.5]], [[SA-2.276]], [[SA1278]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN6.9]], [[AN10.89]], [[SNP3.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]] |
@@ -91,5 +91,6 @@ You’ll never find happiness that way
 > - Sutta Central: https://suttacentral.net/sn6.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.10
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.10.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.9]]  🌐 [[SN6.11]] ►

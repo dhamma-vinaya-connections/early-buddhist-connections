@@ -92,4 +92,5 @@ To where, having gone, one does not sorrow
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn7.17
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn7.17.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN7.16]]  🌐 [[SN7.18]] ►

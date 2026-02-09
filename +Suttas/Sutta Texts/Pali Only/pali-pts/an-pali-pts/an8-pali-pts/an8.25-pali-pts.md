@@ -33,5 +33,6 @@ Aṭṭhahi bhikkhave acchariyehi abbhutehi dhammehi samannāgataṃ Hatthakaṃ
 | [[SA-2.154]], [[SA929]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.25]]
 > ◄  [[an8.24-pali-pts]] 📜  [[an8.26-pali-pts]] ►

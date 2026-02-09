@@ -23,3 +23,5 @@ te kilesā pavaḍḍhantā āvisanti bahuṃ janaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag930-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG930]]
+> ◄  [[thag929-pali-pts]] 📜  [[thag931-pali-pts]] ►

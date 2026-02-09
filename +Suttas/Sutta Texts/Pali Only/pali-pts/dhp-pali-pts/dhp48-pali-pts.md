@@ -24,3 +24,5 @@ yathāpi bhamaro pupphaṃ vaṇṇagandhaṃ aheṭhayaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp48-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP48]]
+> ◄  [[dhp47-pali-pts]] 📜  [[dhp49-pali-pts]] ►

@@ -24,3 +24,5 @@ yo ca vassasataṃ jīve apassaṃ amataṃ padaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp113-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP113]]
+> ◄  [[dhp112-pali-pts]] 📜  [[dhp114-pali-pts]] ►

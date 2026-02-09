@@ -46,5 +46,6 @@ When this was said, the brahmin Paccanīkasāta said to the Blessed One: “Exce
 | [[SA-2.78]], [[SA-3.7]], [[SA1155]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.16]]
 > ◄  [[sn7.15-deepseek-pali]] 📜  [[sn7.17-deepseek-pali]] ►

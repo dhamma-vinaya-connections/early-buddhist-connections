@@ -24,3 +24,5 @@ saddho sīlena sampanno yasobhogasamappito /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp302-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP302]]
+> ◄  [[dhp301-pali-pts]] 📜  [[dhp303-pali-pts]] ►

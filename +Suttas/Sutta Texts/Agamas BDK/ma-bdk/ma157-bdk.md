@@ -36,11 +36,12 @@ delighted in being established in seclusion, and having energetically cul tivate
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.11]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MA121]], [[]], [[SN8.7]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA157]]
 > ◄  [[ma156-bdk]] 📜  [[ma158-bdk]] ►

@@ -89,4 +89,5 @@ Remembering the instructions of the Buddha s
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn6.2
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn6.2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN6.1]]  🌐 [[SN6.3]] ►

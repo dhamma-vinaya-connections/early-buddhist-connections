@@ -56,11 +56,12 @@ language: "English - Pali"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.62]] | [[MA172]], [[SA-2.236]], [[SA1009]] | A ii 177 |
+> |  | [[MA172]], [[SA-2.236]], [[SA1009]] | A ii 177 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA172]], [[SN1.62]], [[SA-2.236]], [[SA1009]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.186]]
 > ◄  [[an4.185-deepseek-pali]] 📜  [[an4.187-deepseek-pali]] ►

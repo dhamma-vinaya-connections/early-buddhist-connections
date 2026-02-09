@@ -23,3 +23,5 @@ unnatā sukhadhammena dukkhadhammena vonatā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag661-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG661]]
+> ◄  [[thag660-pali-pts]] 📜  [[thag662-pali-pts]] ►

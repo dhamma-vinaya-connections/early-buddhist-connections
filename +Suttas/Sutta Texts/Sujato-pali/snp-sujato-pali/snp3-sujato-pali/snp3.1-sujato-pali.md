@@ -253,5 +253,10 @@ Pabbajjāsuttaṁ paṭhamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp3.1-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN26]], [[MN36]], [[AN3.39]], [[AN5.57]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP3.1]]
 > ◄  [[]] 📜  [[snp3.2-sujato-pali]] ►

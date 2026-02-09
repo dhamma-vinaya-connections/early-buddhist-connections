@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP364]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP364]], [[THAG17.3]]"
+parallels_partilal: "[[DHP\|DHP364]], [[THAG17]].3"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI85]]  🌐 [[ITI87]] ►
 
@@ -67,10 +67,10 @@ from true Dhamma.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP364]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP364]], [[THAG17.3]] |
+| [[DHP\|DHP364]], [[THAG17]].3 |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -93,5 +93,6 @@ from true Dhamma.
 > - Sutta Central: https://suttacentral.net/iti86/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti86
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti86.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI85]]  🌐 [[ITI87]] ►

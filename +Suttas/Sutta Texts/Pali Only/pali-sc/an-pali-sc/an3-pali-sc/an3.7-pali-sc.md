@@ -34,5 +34,6 @@ Sattamaṁ.
 | [[EA22.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.7]]
 > ◄  [[an3.6-pali-sc]] 📜  [[an3.8-pali-sc]] ►

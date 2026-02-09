@@ -24,3 +24,5 @@ aviruddhaṃ viruddhesu attadaṇḍesu nibbutaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp405-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP405]]
+> ◄  [[dhp404-pali-pts]] 📜  [[dhp406-pali-pts]] ►

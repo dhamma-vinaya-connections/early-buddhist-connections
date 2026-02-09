@@ -23,3 +23,5 @@ visajjito gato so ahaṃ pi ekākinī vicintemi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig425-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG425]]
+> ◄  [[thig424-pali-pts]] 📜  [[thig426-pali-pts]] ►

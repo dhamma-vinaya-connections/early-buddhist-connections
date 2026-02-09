@@ -64,5 +64,6 @@ When this was said, the Venerable Mahāmoggallāna said to the Blessed One:  “
 | [[MA83]], [[MN37]], [[EA19.3]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.61]]
 > ◄  [[an7.60-bodhi]] 📜  [[an7.62-bodhi]] ►

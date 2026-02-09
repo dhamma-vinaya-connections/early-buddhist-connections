@@ -33,5 +33,6 @@ Aṭṭhahi bhikkhave dhammehi samannāgato bhikkhu dūteyyaṃ gantum arahati. 
 | [[PLI-TV-KD17]], [[PE5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.16]]
 > ◄  [[an8.15-pali-pts]] 📜  [[an8.17-pali-pts]] ►

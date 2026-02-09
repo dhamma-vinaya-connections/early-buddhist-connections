@@ -33,3 +33,5 @@ Thus have I heard. On one occasion the Blessed One was dwelling at Rājagaha in
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn2.13-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.13]]
+> ◄  [[sn2.12-bodhi]] 📜  [[sn2.14-bodhi]] ►

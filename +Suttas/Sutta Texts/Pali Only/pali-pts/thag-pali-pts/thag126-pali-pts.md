@@ -23,3 +23,5 @@ Tiṇṇaṃ me tālapattānaṃ Gaṅgātīre kuṭī katā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag126-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG126]]
+> ◄  [[thag125-pali-pts]] 📜  [[thag127-pali-pts]] ►

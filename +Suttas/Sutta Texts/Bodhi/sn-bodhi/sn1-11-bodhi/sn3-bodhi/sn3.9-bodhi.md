@@ -83,5 +83,6 @@ Then the Blessed One, having understood the meaning of this, on that occasion re
 | [[SA-2.61]], [[SA1234]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.9]]
 > ◄  [[sn3.8-bodhi]] 📜  [[sn3.10-bodhi]] ►

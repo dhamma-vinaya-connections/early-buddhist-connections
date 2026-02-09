@@ -55,5 +55,6 @@ This is what the Blessed One said…. He \[the young deva\] disappeared right th
 | [[SA-2.181]], [[SA596]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.17]]
 > ◄  [[sn2.16-bodhi]] 📜  [[sn2.18-bodhi]] ►

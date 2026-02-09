@@ -24,3 +24,5 @@ kuso yathā duggahīto hatthaṃ evānukantati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp310-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP310]]
+> ◄  [[dhp309-pali-pts]] 📜  [[dhp311-pali-pts]] ►

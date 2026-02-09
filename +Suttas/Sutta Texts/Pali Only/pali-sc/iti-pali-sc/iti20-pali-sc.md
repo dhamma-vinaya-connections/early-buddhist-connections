@@ -40,5 +40,6 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Paṭhamaṃ.
 | [[AN1.43]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI20]]
 > ◄  [[iti19-pali-sc]] 📜  [[iti21-pali-sc]] ►

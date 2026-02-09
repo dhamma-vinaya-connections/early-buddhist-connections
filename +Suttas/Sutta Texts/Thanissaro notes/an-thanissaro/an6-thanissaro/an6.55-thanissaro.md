@@ -122,5 +122,6 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 | [[EA23.3]], [[MA123]], [[SA254]], [[PLI-TV-KD5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.55]]
 > ◄  [[an6.51-thanissaro]] 📜  [[an6.60-thanissaro]] ►

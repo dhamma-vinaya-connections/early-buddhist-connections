@@ -113,7 +113,8 @@ Kathañhi nāma, bhikkhave, bhikkhuniyo aññadatthikena parikkhārena aññuddi
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-np6-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-NP6]] |
->|       |          | [[ñanatusita-analysis#^-NP6]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-NP6]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP6]]

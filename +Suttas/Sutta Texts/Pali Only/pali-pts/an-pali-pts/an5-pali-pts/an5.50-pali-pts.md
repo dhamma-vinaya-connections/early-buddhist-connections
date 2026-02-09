@@ -34,5 +34,6 @@ Jarādhammaṃ mā jirī ti alabbhanīyaṃ ṭhānam, . . . pe . . . Na socanā
 | [[EA32.7]], [[AN5.48]], [[JA368]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.50]]
 > ◄  [[an5.49-pali-pts]] 📜  [[an5.51-pali-pts]] ►

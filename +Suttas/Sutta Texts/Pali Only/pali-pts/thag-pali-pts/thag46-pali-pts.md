@@ -24,3 +24,5 @@ Namo te buddhavīr'; atthu, vippamutto 'si sabbadhi.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag46-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG46]]
+> ◄  [[thag45-pali-pts]] 📜  [[thag47-pali-pts]] ►

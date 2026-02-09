@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Ascetics"
-parallels_nikaya: "[[DN25]]"
+parallels_nikaya: ""
 parallels_agama: "[[MA104]]"
 parallels_partilal: "[[DA19]], [[]], [[SN1.37]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[DA19]], [[]], [[SN1.37]]"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN25]] | [[MA104]] |  |
+> |  | [[MA104]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA19]], [[]], [[SN1.37]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[DA19]], [[]], [[SN1.37]]"
 > - Sutta Central: https://suttacentral.net/da8/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA7]]  🌐 [[DA9]] ►

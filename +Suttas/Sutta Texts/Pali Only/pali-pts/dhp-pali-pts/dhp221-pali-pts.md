@@ -24,3 +24,5 @@ yo ve uppatitaṃ kodhaṃ rathaṃ bhantaṃ va dhāraye /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp221-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP221]]
+> ◄  [[dhp220-pali-pts]] 📜  [[dhp222-pali-pts]] ►

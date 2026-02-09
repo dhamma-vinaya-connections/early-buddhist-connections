@@ -55,9 +55,5 @@ Venerable sir, now, when you should be acting as a teacher, are you wanting to b
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma208-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN79]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA208]]
 > ◄  [[ma207-bdk]] 📜  [[ma209-bdk]] ►

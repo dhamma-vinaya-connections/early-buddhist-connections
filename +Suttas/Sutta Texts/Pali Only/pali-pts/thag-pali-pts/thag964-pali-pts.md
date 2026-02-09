@@ -23,3 +23,5 @@ milakkhurajanaṃ rattaṃ garahantā sakaṃ dhajaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag964-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG964]]
+> ◄  [[thag963-pali-pts]] 📜  [[thag965-pali-pts]] ►

@@ -55,3 +55,5 @@ Last Revised: 11 March 2023
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ea3.10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[EA]] / 📂 [[EA3]]  / 🌐 [[EA3.10]]
+> ◄  [[ea3.9-patton]] 📜  [[ea8.1-patton]] ►

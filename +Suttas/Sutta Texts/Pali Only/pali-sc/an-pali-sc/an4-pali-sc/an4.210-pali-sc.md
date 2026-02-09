@@ -38,3 +38,5 @@ Dasamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an4.210-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN4.210]]
+> ◄  [[an4.209-pali-sc]] 📜  [[an4.211-pali-sc]] ►

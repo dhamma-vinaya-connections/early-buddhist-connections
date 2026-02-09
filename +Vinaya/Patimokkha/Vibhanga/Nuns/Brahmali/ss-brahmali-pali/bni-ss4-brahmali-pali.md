@@ -175,7 +175,8 @@ Kathañhi nāma, bhikkhave, thullanandā bhikkhunī samaggena saṁghena ukkhitt
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-ss4-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-SS4]] |
->|       |          | [[ñanatusita-analysis#^-SS4]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-SS4]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-SS]] I 🌐 [[BNI-SS4]]

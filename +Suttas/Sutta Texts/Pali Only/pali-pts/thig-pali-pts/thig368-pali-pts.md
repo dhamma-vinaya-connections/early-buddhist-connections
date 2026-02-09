@@ -23,3 +23,5 @@ parisuddhapadaṃ anaṅgaṇaṃ kiṃ maṃ ovariyāna tiṭṭhasi.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig368-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG368]]
+> ◄  [[thig367-pali-pts]] 📜  [[thig369-pali-pts]] ►

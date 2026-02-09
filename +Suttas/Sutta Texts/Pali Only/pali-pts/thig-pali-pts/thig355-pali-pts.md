@@ -23,3 +23,5 @@ evaṃ amittajananā tāpanā saṃkilesikā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig355-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG355]]
+> ◄  [[thig354-pali-pts]] 📜  [[thig356-pali-pts]] ►

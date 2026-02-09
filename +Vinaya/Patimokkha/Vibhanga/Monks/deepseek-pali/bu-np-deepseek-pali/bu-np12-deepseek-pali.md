@@ -64,7 +64,8 @@ The second training rule on pure black wool is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np12-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP12]] |
->|       |          | [[ñanatusita-analysis#^NP12]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP12]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP12]]

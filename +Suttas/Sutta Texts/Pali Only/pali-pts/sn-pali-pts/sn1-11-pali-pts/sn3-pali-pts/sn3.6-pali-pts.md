@@ -56,5 +56,6 @@ atthābhisamayā dhīro || paṇḍito ti pavuccatīti || ||
 | [[SA-2.58]], [[SA1230]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.6]]
 > ◄  [[sn3.5-pali-pts]] 📜  [[sn3.8-pali-pts]] ►

@@ -36,5 +36,6 @@ Sattamaṁ.
 | [[SA692]], [[SA693]], [[EA38.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.27]]
 > ◄  [[an8.26-pali-sc]] 📜  [[an8.28-pali-sc]] ►

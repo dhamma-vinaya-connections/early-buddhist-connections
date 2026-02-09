@@ -121,3 +121,5 @@ Pāpavaggo navamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp9-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP9-BUDDHARAKKHITA]]
+> ◄  [[dhp8-buddharakkhita-pali]] 📜  [[dhp10-buddharakkhita-pali]] ►

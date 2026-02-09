@@ -75,3 +75,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa19_15-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA19_15]]
+> ◄  [[SA14_17]] 📜  [[SA25_57]] ►

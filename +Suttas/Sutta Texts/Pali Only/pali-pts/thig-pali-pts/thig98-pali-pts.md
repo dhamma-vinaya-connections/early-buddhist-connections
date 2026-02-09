@@ -23,3 +23,5 @@ sikkhamānā ahaṃ santiṃ bhāventī maggam añjasaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig98-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG98]]
+> ◄  [[thig97-pali-pts]] 📜  [[thig99-pali-pts]] ►

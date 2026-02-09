@@ -23,3 +23,5 @@ Kāḷī itthi brahatī dhaṅkarūpā satthiñ ca bhetvā aparañ ca satthiñ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag150-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG150]]
+> ◄  [[thag149-pali-pts]] 📜  [[thag151-pali-pts]] ►

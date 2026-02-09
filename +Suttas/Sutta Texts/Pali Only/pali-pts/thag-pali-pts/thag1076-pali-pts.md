@@ -24,3 +24,5 @@ paññavantaṃ tathāvādiṃ sīlesu susamāhitaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1076-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1076]]
+> ◄  [[thag1075-pali-pts]] 📜  [[thag1077-pali-pts]] ►

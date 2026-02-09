@@ -24,3 +24,5 @@ yo ca vassasataṃ jīve kusīto hīnavīriyo /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp111-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP111]]
+> ◄  [[dhp110-pali-pts]] 📜  [[dhp112-pali-pts]] ►

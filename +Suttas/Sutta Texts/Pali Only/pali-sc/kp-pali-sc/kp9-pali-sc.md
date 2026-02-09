@@ -78,3 +78,5 @@ Khuddakapāṭhapāli Niṭṭhitaṁ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP9]]
+> ◄  [[kp8-pali-sc]] 📜  [[]] ►

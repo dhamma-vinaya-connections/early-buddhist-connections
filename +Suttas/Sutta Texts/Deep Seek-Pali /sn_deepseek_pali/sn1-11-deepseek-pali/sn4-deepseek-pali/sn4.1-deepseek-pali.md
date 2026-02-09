@@ -58,5 +58,6 @@ Then Māra the Evil One, realizing, "The Blessed One knows me; the Fortunate One
 | [[SA1094]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.1]]
 > ◄  [[]] 📜  [[sn4.2-deepseek-pali]] ►

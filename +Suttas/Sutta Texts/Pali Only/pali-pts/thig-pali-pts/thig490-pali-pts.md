@@ -23,3 +23,5 @@ sattisūlūpamā kāmā rogo gaṇḍo aghaṃ nighaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig490-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG490]]
+> ◄  [[thig489-pali-pts]] 📜  [[thig491-pali-pts]] ►

@@ -90,5 +90,6 @@ mārasenāpi nājjhagā"ti.
 | [[SA1102]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN4]]  / 🌐 [[SN4.16]]
 > ◄  [[sn4.15-sujato-pali]] 📜  [[sn4.17-sujato-pali]] ►

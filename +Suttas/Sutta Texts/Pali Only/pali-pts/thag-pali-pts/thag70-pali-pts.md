@@ -28,3 +28,5 @@ Susukhumanipuṇatthadassinā matikusalena nivātavuttinā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag70-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG70]]
+> ◄  [[thag69-pali-pts]] 📜  [[thag71-pali-pts]] ►

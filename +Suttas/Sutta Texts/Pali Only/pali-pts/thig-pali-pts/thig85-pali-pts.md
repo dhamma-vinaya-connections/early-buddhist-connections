@@ -23,3 +23,5 @@ atha nibbind'; ahaṃ kāye ajjhattañ ca virajj'; ahaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig85-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG85]]
+> ◄  [[thig84-pali-pts]] 📜  [[thig86-pali-pts]] ►

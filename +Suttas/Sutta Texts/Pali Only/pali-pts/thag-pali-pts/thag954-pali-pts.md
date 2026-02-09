@@ -23,3 +23,5 @@ guṇahīnāpi saṃghamhi voharanti visāradā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag954-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG954]]
+> ◄  [[thag953-pali-pts]] 📜  [[thag955-pali-pts]] ►

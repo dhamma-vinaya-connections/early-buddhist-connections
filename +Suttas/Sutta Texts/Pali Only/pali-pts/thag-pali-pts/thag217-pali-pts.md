@@ -23,3 +23,5 @@ ekatiṃse ito kappe yaṃ saññaṃ alabhin tadā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag217-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG217]]
+> ◄  [[thag216-pali-pts]] 📜  [[thag218-pali-pts]] ►

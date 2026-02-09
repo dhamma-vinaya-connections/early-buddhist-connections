@@ -231,5 +231,10 @@ The Shorter Discourse on the Array, the twelfth, is concluded.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.11-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN21]], [[UD2.4]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.11]]
 > ◄  [[snp4.10-deepseek-pali]] 📜  [[snp4.12-deepseek-pali]] ►

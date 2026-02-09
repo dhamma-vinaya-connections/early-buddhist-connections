@@ -44,5 +44,6 @@ This is what Brahmā Sanaṅkumāra said. The Teacher approved. Then Brahmā San
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN17.35]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.11]]
 > ◄  [[sn6.10-bodhi]] 📜  [[sn6.12-bodhi]] ►

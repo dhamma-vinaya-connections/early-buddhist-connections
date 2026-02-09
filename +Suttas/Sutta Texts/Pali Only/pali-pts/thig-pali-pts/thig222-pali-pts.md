@@ -23,3 +23,5 @@ ahaṃ amhi kantasallā ohitabhārā kataṃ me karaṇīyaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig222-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG222]]
+> ◄  [[thig221-pali-pts]] 📜  [[thig223-pali-pts]] ►

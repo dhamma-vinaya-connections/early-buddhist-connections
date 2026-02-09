@@ -23,3 +23,5 @@ kāmacchando ca byāpādo thīnamiddhañ ca bhikkhuno
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1009-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1009]]
+> ◄  [[thag1008-pali-pts]] 📜  [[thag1010-pali-pts]] ►

@@ -139,7 +139,8 @@ Puggalike saṇghikasaññī, āpatti dukkaṭassa. Puggalike vematiko, āpatti 
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc110-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC110]] |
->|       |          | [[ñanatusita-analysis#^-PC110]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC110]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC110]]

@@ -31,5 +31,6 @@ PTS: A i 234
 | [[SA819]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.88]]
 > ◄  [[an3.87-pali-pts]] 📜  [[an3.89-pali-pts]] ►

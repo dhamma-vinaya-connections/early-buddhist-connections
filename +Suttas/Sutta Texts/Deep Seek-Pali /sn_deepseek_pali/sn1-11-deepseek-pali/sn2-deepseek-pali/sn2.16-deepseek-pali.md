@@ -38,11 +38,12 @@ A mindful bhikkhu should wander, for the abandoning of self-identification."
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN1.21]] | [[SA-2.170]], [[SA586]] |  |
+> |  | [[SA-2.170]], [[SA586]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SN1.21]], [[SA-2.170]], [[SA586]], [[THAG1.39]], [[THAG1.40]], [[THAG20.1]], [[PE2]] |
+| [[SN1.21]], [[SA-2.170]], [[SA586]], [[THAG1]].39, [[THAG1]].40, [[THAG20]].1, [[PE2]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.16]]
 > ◄  [[sn2.15-deepseek-pali]] 📜  [[sn2.17-deepseek-pali]] ►

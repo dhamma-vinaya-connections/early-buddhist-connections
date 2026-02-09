@@ -349,3 +349,5 @@ The Book of the Sixties is finished. Tatruddānaṃ – The summary: Saṭṭhik
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag20-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG20]]
+> ◄  [[thag19-pali-eng]] 📜  [[thag21-pali-eng]] ►

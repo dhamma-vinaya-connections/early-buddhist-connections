@@ -31,3 +31,5 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Catutthaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti40-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI40]]
+> ◄  [[iti39-pali-sc]] 📜  [[iti41-pali-sc]] ►

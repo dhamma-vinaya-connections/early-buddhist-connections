@@ -87,5 +87,6 @@ Ahañhi, vaccha, āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimutti�
 | [[MN14]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN71]]
 > ◄  [[mn70-pali-sc]] 📜  [[mn72-pali-sc]] ►

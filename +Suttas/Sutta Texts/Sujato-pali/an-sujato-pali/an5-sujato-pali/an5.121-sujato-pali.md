@@ -52,5 +52,6 @@ Paṭhamaṁ.
 | [[AN9.16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.121]]
 > ◄  [[an5.120-sujato-pali]] 📜  [[an5.122-sujato-pali]] ►

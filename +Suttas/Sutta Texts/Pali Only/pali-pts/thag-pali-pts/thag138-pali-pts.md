@@ -23,3 +23,5 @@ Pubbe hanati attānaṃ pacchā hanati so pare;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag138-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG138]]
+> ◄  [[thag137-pali-pts]] 📜  [[thag139-pali-pts]] ►

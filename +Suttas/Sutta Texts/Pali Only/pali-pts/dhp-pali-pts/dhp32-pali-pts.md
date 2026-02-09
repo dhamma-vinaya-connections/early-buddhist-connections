@@ -26,3 +26,5 @@ phandanaṃ capalaṃ cittaṃ dūrakkhaṃ dunnivārayaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp32-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP32]]
+> ◄  [[dhp31-pali-pts]] 📜  [[dhp33-pali-pts]] ►

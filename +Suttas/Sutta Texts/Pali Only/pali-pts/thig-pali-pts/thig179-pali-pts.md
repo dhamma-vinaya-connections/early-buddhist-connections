@@ -23,3 +23,5 @@ rattiyā pacchime yāme tamokkhandhaṃ padālayiṃ. |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig179-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG179]]
+> ◄  [[thig178-pali-pts]] 📜  [[thig180-pali-pts]] ►

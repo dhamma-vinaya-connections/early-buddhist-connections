@@ -23,3 +23,5 @@ vaṇṇaṃ kittiṃ pasaṃsañ ca sadā labhati sīlavā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag611-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG611]]
+> ◄  [[thag610-pali-pts]] 📜  [[thag612-pali-pts]] ►

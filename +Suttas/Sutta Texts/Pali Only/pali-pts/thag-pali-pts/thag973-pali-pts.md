@@ -23,3 +23,5 @@ bhikkhū ca bhikkhuniyo ca duṭṭhacittā anādarā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag973-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG973]]
+> ◄  [[thag972-pali-pts]] 📜  [[thag974-pali-pts]] ►

@@ -25,3 +25,5 @@ nindanti tuṇhiṃ āsīnaṃ nindanti bahubhāṇinaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp226-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP226]]
+> ◄  [[dhp225-pali-pts]] 📜  [[dhp227-pali-pts]] ►

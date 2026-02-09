@@ -23,3 +23,5 @@ so 'haṃ tato cavitvā vīthiyā dāsiyā ghare jāto |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig441-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG441]]
+> ◄  [[thig440-pali-pts]] 📜  [[thig442-pali-pts]] ►

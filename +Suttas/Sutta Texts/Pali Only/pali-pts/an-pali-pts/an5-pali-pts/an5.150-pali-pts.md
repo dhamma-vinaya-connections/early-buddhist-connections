@@ -28,11 +28,12 @@ Ime kho bhikkhave pañca dhammā samayavimuttassa bhikkhuno parihānāya saṃva
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN5.149]] |  | A iii 173 |
+> |  |  | A iii 173 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN5.149]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.150]]
 > ◄  [[an5.149-pali-pts]] 📜  [[an5.151-pali-pts]] ►

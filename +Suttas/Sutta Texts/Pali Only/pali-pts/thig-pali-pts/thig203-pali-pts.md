@@ -25,3 +25,5 @@ mā su te Vaḍḍha lokamhi vanatho ahu kudācanaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig203-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG203]]
+> ◄  [[thig202-pali-pts]] 📜  [[thig204-pali-pts]] ►

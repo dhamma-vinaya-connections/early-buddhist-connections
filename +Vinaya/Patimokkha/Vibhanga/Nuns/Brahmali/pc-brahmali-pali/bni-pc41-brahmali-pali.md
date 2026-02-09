@@ -112,7 +112,8 @@ p_2V_3001Paṭhamasikkhāpadaṁ niṭṭhitaṁ.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc41-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC41]] |
->|       |          | [[ñanatusita-analysis#^-PC41]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC41]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC41]]

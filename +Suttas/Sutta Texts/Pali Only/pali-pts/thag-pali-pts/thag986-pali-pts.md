@@ -23,3 +23,5 @@ mā me kadāci pāpiccho kusīto hīnavīriyo
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag986-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG986]]
+> ◄  [[thag985-pali-pts]] 📜  [[thag987-pali-pts]] ►

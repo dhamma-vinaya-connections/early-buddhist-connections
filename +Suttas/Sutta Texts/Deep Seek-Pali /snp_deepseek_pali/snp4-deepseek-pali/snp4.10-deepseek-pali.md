@@ -109,3 +109,5 @@ The Discourse Before the Breakup, the tenth, is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp4.10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP4.10]]
+> ◄  [[snp4.9-deepseek-pali]] 📜  [[snp4.11-deepseek-pali]] ►

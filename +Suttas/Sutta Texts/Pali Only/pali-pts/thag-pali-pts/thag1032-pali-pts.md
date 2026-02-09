@@ -23,3 +23,5 @@ kāyamaccheragaruno hiyyamāne anuṭṭhahe
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1032-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1032]]
+> ◄  [[thag1031-pali-pts]] 📜  [[thag1033-pali-pts]] ►

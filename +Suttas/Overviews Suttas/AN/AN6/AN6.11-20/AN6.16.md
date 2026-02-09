@@ -87,4 +87,5 @@ A mendicant who enjoys identity, who hasn’t given up identity to rightly make 
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.16
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.16.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.15]]  🌐 [[AN6.17]] ►

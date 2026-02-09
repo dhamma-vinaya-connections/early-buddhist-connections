@@ -23,3 +23,5 @@ bhikkhuniṃ upasaṅkamma sakkaccaṃ paripucch'; ahaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig169-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG169]]
+> ◄  [[thig168-pali-pts]] 📜  [[thig170-pali-pts]] ►

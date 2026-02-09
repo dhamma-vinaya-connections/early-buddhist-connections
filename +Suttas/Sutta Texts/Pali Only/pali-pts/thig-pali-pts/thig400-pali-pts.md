@@ -25,3 +25,5 @@ Isidāsī tattha ekā dutiyā Bodhī ti sīlasampannā ca |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig400-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG400]]
+> ◄  [[thig399-pali-pts]] 📜  [[thig401-pali-pts]] ►

@@ -23,3 +23,5 @@ iṭṭhā dhammā aniṭṭhā ca na ppavedhenti tādino;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag643-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG643]]
+> ◄  [[thag642-pali-pts]] 📜  [[thag644-pali-pts]] ►

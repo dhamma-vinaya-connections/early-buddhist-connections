@@ -86,4 +86,5 @@ parallels_partilal: "[[AN7.42]], [[DN33]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an7.20
 > - The Buddhas Words: https://thebuddhaswords.net/an/an7.20.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN7.19]]  🌐 [[AN7.21]] ►

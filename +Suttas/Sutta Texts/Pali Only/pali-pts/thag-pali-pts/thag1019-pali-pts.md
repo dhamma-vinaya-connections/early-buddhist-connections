@@ -22,3 +22,5 @@ sakhitaṃ hi kareyya paṇḍito; bhaddo sappurisena saṃgamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1019-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1019]]
+> ◄  [[thag1018-pali-pts]] 📜  [[thag1020-pali-pts]] ►

@@ -33,5 +33,6 @@ Pañc'ime bhikkhave ādīnavā dīghacārikaṃ anavatthacārikaṃ anuyuttassa 
 | [[EA33.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.221]]
 > ◄  [[an5.220-pali-pts]] 📜  [[an5.222-pali-pts]] ►

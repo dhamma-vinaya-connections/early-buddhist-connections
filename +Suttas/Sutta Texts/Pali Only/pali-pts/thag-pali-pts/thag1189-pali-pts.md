@@ -26,3 +26,5 @@ veḷuriyavaṇṇā rucirā accimanto pabhassarā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1189-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1189]]
+> ◄  [[thag1188-pali-pts]] 📜  [[thag1190-pali-pts]] ►

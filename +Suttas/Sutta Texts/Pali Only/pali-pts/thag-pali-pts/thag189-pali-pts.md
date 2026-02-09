@@ -22,3 +22,5 @@ tassa mayhaṃ ekakassa bherave bile viharato n'; atthi bhayaṃ vā chambhitatt
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag189-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG189]]
+> ◄  [[thag188-pali-pts]] 📜  [[thag190-pali-pts]] ►

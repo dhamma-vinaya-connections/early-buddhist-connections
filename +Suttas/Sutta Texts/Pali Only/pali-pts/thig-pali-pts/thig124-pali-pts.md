@@ -24,3 +24,5 @@ sā ca maṃ anukampāya pabbājesi Paṭācārā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig124-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG124]]
+> ◄  [[thig123-pali-pts]] 📜  [[thig125-pali-pts]] ►

@@ -113,3 +113,5 @@ nihato tvamasi antaka".
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig8-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG8]]
+> ◄  [[thig7-sujato-pali]] 📜  [[thig9-sujato-pali]] ►

@@ -34,5 +34,6 @@ Evaṃ kho Visākhe mātugāmo sīlasampanno hoti. Kathañ ca Visākhe mātugām
 | [[AN8.49]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.50]]
 > ◄  [[an8.49-pali-pts]] 📜  [[an8.51-pali-pts]] ►

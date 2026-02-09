@@ -23,3 +23,5 @@ Aniccāni gahakāni tattha tattha punappunaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag182-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG182]]
+> ◄  [[thag181-pali-pts]] 📜  [[thag183-pali-pts]] ►

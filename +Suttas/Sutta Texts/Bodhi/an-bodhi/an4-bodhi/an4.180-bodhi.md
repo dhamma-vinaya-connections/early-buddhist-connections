@@ -60,5 +60,6 @@ On one occasion the Blessed One was dwelling at Bhoganagara near the Ānanda Shr
 | [[EA28.5]], [[DA2]], [[DN16]], [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.180]]
 > ◄  [[an4.179-bodhi]] 📜  [[an4.181-bodhi]] ►

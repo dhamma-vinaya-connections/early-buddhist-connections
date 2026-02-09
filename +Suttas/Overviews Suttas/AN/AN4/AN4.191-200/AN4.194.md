@@ -88,4 +88,5 @@ parallels_partilal: "[[SA565]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.194
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.194.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.193]]  🌐 [[AN4.195]] ►

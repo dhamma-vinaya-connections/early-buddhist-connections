@@ -44,5 +44,6 @@ Virtue is good when ageless; faith is good when firmly established; wisdom is a 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN7:21ANDMNI39]], [[AN1]], [[AN2]], [[AN280]], [[AN18]], [[AN19]], [[AN20]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.52]]
 > ◄  [[sn1.51-deepseek-pali]] 📜  [[sn1.53-deepseek-pali]] ►

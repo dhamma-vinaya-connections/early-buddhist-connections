@@ -34,5 +34,6 @@ Yo hi koci bhikkhave bhikkhu vā bhikkhunī vā ime pañca dhamme bhāveti, ime 
 | [[EA32.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.123]]
 > ◄  [[an5.122-pali-pts]] 📜  [[an5.124-pali-pts]] ►

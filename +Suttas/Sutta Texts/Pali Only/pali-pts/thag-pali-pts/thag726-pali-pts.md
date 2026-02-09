@@ -23,3 +23,5 @@ kim ānupubbaṃ puriso kiṃ vataṃ kiṃ samācāraṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag726-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG726]]
+> ◄  [[thag725-pali-pts]] 📜  [[thag727-pali-pts]] ►

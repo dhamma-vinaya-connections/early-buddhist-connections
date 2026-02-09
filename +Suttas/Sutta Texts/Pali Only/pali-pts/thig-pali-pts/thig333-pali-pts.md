@@ -23,3 +23,5 @@ passa Sundariṃ āyantiṃ vippamuttaṃ nirupadhiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig333-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG333]]
+> ◄  [[thig332-pali-pts]] 📜  [[thig334-pali-pts]] ►

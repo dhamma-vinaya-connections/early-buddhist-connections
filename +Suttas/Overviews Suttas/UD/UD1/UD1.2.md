@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[UD1.1]], [[UD1.3]]"
+parallels_nikaya: ""
 parallels_agama: ""
 parallels_partilal: "[[PLI-TV-KD1]], [[UD1.1]], [[UD1.3]]"
 ---
@@ -66,7 +66,7 @@ As the sun (dwells) lighting up the firmament.”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[UD1.1]], [[UD1.3]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[PLI-TV-KD1]], [[UD1.1]], [[UD1.3]] |
@@ -89,5 +89,6 @@ As the sun (dwells) lighting up the firmament.”
 > - Sutta Central: https://suttacentral.net/ud1.2/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud1.2
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud1.2.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD1.1]]  🌐 [[UD1.3]] ►

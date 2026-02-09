@@ -48,11 +48,12 @@ language: "English - Pali"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.141]], [[AN3.142]], [[AN9.22]] | [[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]] | A i 287 |
+> |  | [[SA-2.143]], [[SA-2.144]], [[SA-2.145]], [[SA917]], [[SA918]], [[SA919]] | A i 287 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.143]], [[SA917]], [[AN3.141]], [[AN9.22]], [[SA-2.144]], [[SA918]], [[AN3.142]], [[SA919]], [[SA-2.145]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.140]]
 > ◄  [[an3.139-deepseek-pali]] 📜  [[an3.141-deepseek-pali]] ►

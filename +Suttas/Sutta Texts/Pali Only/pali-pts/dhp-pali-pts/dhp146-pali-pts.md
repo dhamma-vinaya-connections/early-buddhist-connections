@@ -24,3 +24,5 @@ passa cittakataṃ bimbaṃ arukāyaṃ samussitaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp146-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP146]]
+> ◄  [[dhp145-pali-pts]] 📜  [[dhp147-pali-pts]] ►

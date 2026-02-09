@@ -99,4 +99,5 @@ Gradual training abbreviated
 > - Dhamma Gift: https://dhamma.gift/read/?q=dn8
 > - The Buddhas Words: https://thebuddhaswords.net/dn/dn8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DN]] | ◄  [[DN7]]  🌐 [[DN9]] ►

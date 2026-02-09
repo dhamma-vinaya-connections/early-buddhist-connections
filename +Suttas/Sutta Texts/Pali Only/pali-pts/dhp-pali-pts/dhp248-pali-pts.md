@@ -25,3 +25,5 @@ tattha yo maṅku bhavati paresaṃ pānabhojane /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp248-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP248]]
+> ◄  [[dhp247-pali-pts]] 📜  [[dhp249-pali-pts]] ►

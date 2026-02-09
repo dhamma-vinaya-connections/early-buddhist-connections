@@ -23,3 +23,5 @@ upasaggo bhīmarūpo cakāmā sappasirūpamā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig352-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG352]]
+> ◄  [[thig351-pali-pts]] 📜  [[thig353-pali-pts]] ►

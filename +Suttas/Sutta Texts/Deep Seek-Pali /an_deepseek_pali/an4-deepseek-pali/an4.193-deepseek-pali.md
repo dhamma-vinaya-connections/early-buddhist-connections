@@ -94,5 +94,6 @@ When this was said, Bhaddiya the Licchavi said to the Blessed One: “Excellent,
 | [[AN3.65]], [[AN8.44]], [[MN56]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.193]]
 > ◄  [[an4.192-deepseek-pali]] 📜  [[an4.194-deepseek-pali]] ►

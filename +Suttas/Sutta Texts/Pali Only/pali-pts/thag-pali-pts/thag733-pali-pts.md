@@ -23,3 +23,5 @@ subhāny appaṭikūlāni phoṭṭhabbāni anussaraṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag733-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG733]]
+> ◄  [[thag732-pali-pts]] 📜  [[thag734-pali-pts]] ►

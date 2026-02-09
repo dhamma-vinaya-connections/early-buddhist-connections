@@ -86,4 +86,5 @@ parallels_partilal: "[[AN1.44]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti21
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti21.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI20]]  🌐 [[ITI22]] ►

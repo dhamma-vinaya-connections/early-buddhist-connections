@@ -46,5 +46,6 @@ Moho kodho atha makkho, vijjā taṇhā sekhaduve ca;Bhedo sāmaggipuggalo [moha
 | [[AN10.40]], [[PLI-TV-KD17]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI19]]
 > ◄  [[iti18-pali-sc]] 📜  [[iti20-pali-sc]] ►

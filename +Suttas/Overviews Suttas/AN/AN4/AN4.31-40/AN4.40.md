@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[AN8.54]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.90]], [[SA90]]"
 parallels_partilal: "[[SA-2.90]], [[SA90]], [[AN8.54]], [[AN6.37]], [[AN8.37]]"
 ---
@@ -65,7 +65,7 @@ In the fertile field of spiritual practitioners
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.54]] | [[SA-2.90]], [[SA90]] | A ii 43 |
+> |  | [[SA-2.90]], [[SA90]] | A ii 43 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.90]], [[SA90]], [[AN8.54]], [[AN6.37]], [[AN8.37]] |
@@ -88,5 +88,6 @@ In the fertile field of spiritual practitioners
 > - Sutta Central: https://suttacentral.net/an4.40/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.40
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.40.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.39]]  🌐 [[AN4.41]] ►

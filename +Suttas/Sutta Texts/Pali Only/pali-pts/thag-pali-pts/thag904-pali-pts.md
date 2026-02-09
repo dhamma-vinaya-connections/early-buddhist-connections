@@ -23,3 +23,5 @@ nāhu assāsapassāso ṭhitacittassa tādino;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag904-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG904]]
+> ◄  [[thag903-pali-pts]] 📜  [[thag905-pali-pts]] ►

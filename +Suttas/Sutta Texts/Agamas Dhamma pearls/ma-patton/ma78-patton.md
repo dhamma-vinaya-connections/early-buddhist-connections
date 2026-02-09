@@ -173,7 +173,7 @@ Brahmā said to the Bhagavān, “Great sage, if you want to conceal your form, 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN49]] |  | M i 225 |
+> |  |  | M i 225 |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.55-56]] |
@@ -182,6 +182,7 @@ Brahmā said to the Bhagavān, “Great sage, if you want to conceal your form, 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN11]], [[MN1]], [[MN72]], [[MN86]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA78]]
 > ◄  [[ma77-patton]] 📜  [[ma79-patton]] ►

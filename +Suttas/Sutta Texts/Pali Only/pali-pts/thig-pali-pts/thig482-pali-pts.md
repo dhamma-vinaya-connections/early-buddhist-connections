@@ -23,3 +23,5 @@ rajje āṇā dhanam issariyaṃ bhogā sukhā daharikā pi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig482-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG482]]
+> ◄  [[thig481-pali-pts]] 📜  [[thig483-pali-pts]] ►

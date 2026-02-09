@@ -24,3 +24,5 @@ tassa me appamattassa saṃsārā vinalīkatā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag215-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG215]]
+> ◄  [[thag214-pali-pts]] 📜  [[thag216-pali-pts]] ►

@@ -166,8 +166,9 @@ When this was said, the brahman student Assalāyana said to the Blessed One: “
 > |  | [[EA40.9]]; [[MA151]] | M ii 147 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA40.9]]; [[MA151]] |
+| [[EA40.9]], [[MA151]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN93]]
 > ◄  [[mn91-thanissaro]] 📜  [[mn95-thanissaro]] ►

@@ -95,4 +95,5 @@ so should one avoid wicked deeds.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp9
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP8]]  🌐 [[PDHP10]] ►

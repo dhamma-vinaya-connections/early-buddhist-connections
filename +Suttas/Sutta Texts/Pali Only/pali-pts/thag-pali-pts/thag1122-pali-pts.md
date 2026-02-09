@@ -23,3 +23,5 @@ nāhaṃ alakkhyā ahirīkatāya vā na cittahetū na ca dūrakantanā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1122-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1122]]
+> ◄  [[thag1121-pali-pts]] 📜  [[thag1123-pali-pts]] ►

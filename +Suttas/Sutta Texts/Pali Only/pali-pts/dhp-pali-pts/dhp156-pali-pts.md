@@ -26,3 +26,5 @@ attānañ ce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp156-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP156]]
+> ◄  [[dhp155-pali-pts]] 📜  [[dhp157-pali-pts]] ►

@@ -23,3 +23,5 @@ upadhīsu janā gandhitāse diṭṭhasute paṭighe ca mute ca;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1215-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1215]]
+> ◄  [[thag1214-pali-pts]] 📜  [[thag1216-pali-pts]] ►

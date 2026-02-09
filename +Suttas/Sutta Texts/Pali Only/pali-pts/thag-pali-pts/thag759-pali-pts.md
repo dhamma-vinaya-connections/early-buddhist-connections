@@ -23,3 +23,5 @@ uddhaccameghathanitaṃ saṃyojanavalāhakaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag759-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG759]]
+> ◄  [[thag758-pali-pts]] 📜  [[thag760-pali-pts]] ►

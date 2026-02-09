@@ -42,5 +42,6 @@ language: "English"
 | [[EA28.7]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.88]]
 > ◄  [[an4.87-bodhi]] 📜  [[an4.89-bodhi]] ►

@@ -23,3 +23,5 @@ tato satthā niraṃkatvā paṭisallānavuṭṭhito
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag477-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG477]]
+> ◄  [[thag476-pali-pts]] 📜  [[thag478-pali-pts]] ►

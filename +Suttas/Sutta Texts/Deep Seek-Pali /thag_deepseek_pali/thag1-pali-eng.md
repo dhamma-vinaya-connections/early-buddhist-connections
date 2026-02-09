@@ -627,3 +627,5 @@ The five aggregates have been fully understood; their root cut off, they stand. 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG1]]
+> ◄  [[]] 📜  [[thag2-pali-eng]] ►

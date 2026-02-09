@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP315]], [[THIG1.5]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA42.1]], [[MA124]]"
-parallels_partilal: "[[EA42.1]], [[MA124]], [[DHP315]], [[THAG17.2]], [[SNP2.10]], [[THAG14.1]], [[THIG1.5]], [[DN34]]"
+parallels_partilal: "[[EA42.1]], [[MA124]], [[DHP\|DHP315]], [[THAG17]].2, [[SNP2.10]], [[THAG14]].1, [[THIG1]].5, [[DN34]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.28]]  🌐 [[AN8.30]] ►
 
@@ -69,10 +69,10 @@ For a person who loves themselves
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP315]], [[THIG1.5]] | [[EA42.1]], [[MA124]] | A iv 225 |
+> |  | [[EA42.1]], [[MA124]] | A iv 225 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA42.1]], [[MA124]], [[DHP315]], [[THAG17.2]], [[SNP2.10]], [[THAG14.1]], [[THIG1.5]], [[DN34]] |
+| [[EA42.1]], [[MA124]], [[DHP\|DHP315]], [[THAG17]].2, [[SNP2.10]], [[THAG14]].1, [[THIG1]].5, [[DN34]] |
 | ------------------------ |
 
 
@@ -92,5 +92,6 @@ For a person who loves themselves
 > - Sutta Central: https://suttacentral.net/an8.29/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an8.29
 > - The Buddhas Words: https://thebuddhaswords.net/an/an8.29.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN8.28]]  🌐 [[AN8.30]] ►

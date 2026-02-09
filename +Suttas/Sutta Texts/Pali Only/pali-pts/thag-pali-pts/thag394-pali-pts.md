@@ -23,3 +23,5 @@ dhammādāsaṃ gahetvāna ñāṇadassanapattiyā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag394-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG394]]
+> ◄  [[thag393-pali-pts]] 📜  [[thag395-pali-pts]] ►

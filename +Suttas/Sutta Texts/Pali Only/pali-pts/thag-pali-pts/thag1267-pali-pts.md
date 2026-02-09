@@ -23,3 +23,5 @@ no ce hi jātu puriso kilese vāto yathā abbhaghanaṃ vihāne,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1267-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1267]]
+> ◄  [[thag1266-pali-pts]] 📜  [[thag1268-pali-pts]] ►

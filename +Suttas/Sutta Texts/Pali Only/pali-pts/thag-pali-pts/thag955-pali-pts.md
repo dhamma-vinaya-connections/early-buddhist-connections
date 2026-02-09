@@ -23,3 +23,5 @@ guṇavanto pi saṃghamhi voharantā yathatthato
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag955-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG955]]
+> ◄  [[thag954-pali-pts]] 📜  [[thag956-pali-pts]] ►

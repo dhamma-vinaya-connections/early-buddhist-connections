@@ -88,4 +88,5 @@ One person has neither and tne person has both
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.92
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.92.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.91]]  🌐 [[AN4.93]] ►

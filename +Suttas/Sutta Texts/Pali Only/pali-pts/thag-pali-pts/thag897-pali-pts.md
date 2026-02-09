@@ -23,3 +23,5 @@ mahiccho ca asantuṭṭho saṃsaṭṭho yo ca uddhato,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag897-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG897]]
+> ◄  [[thag896-pali-pts]] 📜  [[thag898-pali-pts]] ►

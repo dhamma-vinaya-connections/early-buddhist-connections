@@ -38,7 +38,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Brahmins"
-parallels_nikaya: "[[DN27]]"
+parallels_nikaya: ""
 parallels_agama: "[[MA154]]"
 parallels_partilal: "[[DA18]], [[SN47.12]], [[AN1.277]], [[MN115]], [[DN1]]"
 ---
@@ -68,7 +68,7 @@ Because of enjoying taste, craving was born in beings, then vanity arouse, then 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN27]] | [[MA154]] |  |
+> |  | [[MA154]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[DA18]], [[SN47.12]], [[AN1.277]], [[MN115]], [[DN1]] |
@@ -91,5 +91,6 @@ Because of enjoying taste, craving was born in beings, then vanity arouse, then 
 > - Sutta Central: https://suttacentral.net/da5/en/patton?lang=en&layout=plain&script=latin
 > - Dhamma Gift: 
 > - The Buddhas Words: 
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DA]] | ◄  [[DA4]]  🌐 [[DA6]] ►

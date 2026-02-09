@@ -23,3 +23,5 @@ diṭṭhā hi mayā sucittitā sombhā dārukacillakā navā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig389-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG389]]
+> ◄  [[thig388-pali-pts]] 📜  [[thig390-pali-pts]] ►

@@ -628,7 +628,7 @@ Abandoning unchastity, he lives a chaste life, keeping aloof, abstaining from se
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN2.36]] | [[DA27]], [[EA43.7]], [[SA154-163]] | D i 47 |
+> |  | [[DA27]], [[EA43.7]], [[SA154-163]] | D i 47 |
 > > [!check]- Partial parallels 
 > > 
 | [[DA27]], [[EA43.7]], [[SA154-163]], [[AN10.69]], [[DN1]], [[MN76]], [[PLI-TV-BU-VB-PC85]], [[SN56.10]], [[PLI-TV-KD5]], [[MN38]], [[MN27]], [[MN94]], [[MN101]], [[AN10.99]], [[AN2.36:2.1]], [[MN6]], [[SN47.46]], [[SN35.120]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN51]], [[MN53]], [[MN60]], [[MN79]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN11.17]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]], [[MN33]], [[SNP3.6]], [[SN24.8]], [[PE6]] |
@@ -637,6 +637,7 @@ Abandoning unchastity, he lives a chaste life, keeping aloof, abstaining from se
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN39]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN2]]
 > ◄  [[dn1-deepseek-pali]] 📜  [[dn3-deepseek-pali]] ►

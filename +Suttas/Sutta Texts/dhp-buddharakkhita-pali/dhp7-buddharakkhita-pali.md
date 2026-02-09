@@ -100,3 +100,5 @@ Arahantavaggo sattamo.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp7-buddharakkhita-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP7-BUDDHARAKKHITA]]
+> ◄  [[dhp6-buddharakkhita-pali]] 📜  [[dhp8-buddharakkhita-pali]] ►

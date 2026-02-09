@@ -36,7 +36,7 @@ sutta_audience:
   - "People"
 parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[JA428]], [[MN128]], [[PLI-TV-KD10]], [[THAG4.3]], [[THAG8.1]]"
+parallels_partilal: "[[JA428]], [[MN128]], [[PLI-TV-KD10]], [[THAG4]].3, [[THAG8]].1"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP5]]  🌐 [[DHP7]] ►
 
@@ -80,7 +80,7 @@ Good people give up everything
 > |  |  | Dh 22 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[THAG4.3]], [[THAG8.1]] |
+| [[JA428]], [[MN128]], [[PLI-TV-KD10]], [[THAG4]].3, [[THAG8]].1 |
 | ------------------------ |
 
 
@@ -100,5 +100,6 @@ Good people give up everything
 > - Sutta Central: https://suttacentral.net/dhp6/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=dhp6
 > - The Buddhas Words: https://thebuddhaswords.net/dhp/dhp6.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[DHP]] | ◄  [[DHP5]]  🌐 [[DHP7]] ►

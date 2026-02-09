@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Devas"
-parallels_nikaya: "[[SN9.13]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA-2.363]], [[SA1343]]"
 parallels_partilal: "[[SA-2.363]], [[SA1343]], [[SN9.13]]"
 ---
@@ -69,7 +69,7 @@ Infatuated in others’ homes
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN9.13]] | [[SA-2.363]], [[SA1343]] |  |
+> |  | [[SA-2.363]], [[SA1343]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.363]], [[SA1343]], [[SN9.13]] |
@@ -92,5 +92,6 @@ Infatuated in others’ homes
 > - Sutta Central: https://suttacentral.net/sn2.25/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn2.25
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn2.25.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN2.24]]  🌐 [[SN2.26]] ►

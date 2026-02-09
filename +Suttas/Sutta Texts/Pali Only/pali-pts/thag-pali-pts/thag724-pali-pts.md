@@ -23,3 +23,5 @@ te pabbajitvā sugatassa sāsane bhāvetvā bojjhaṅgabalāni paṇḍitā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag724-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG724]]
+> ◄  [[thag723-pali-pts]] 📜  [[thag725-pali-pts]] ►

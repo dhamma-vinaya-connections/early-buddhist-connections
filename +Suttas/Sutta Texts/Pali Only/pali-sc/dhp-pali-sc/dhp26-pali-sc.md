@@ -189,8 +189,9 @@ Pubbenivāsaṃ yo vedi, saggāpāyañca passati, atho jātikkhayaṃ patto, abh
 > |  |  | Dh 108 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN86]], [[SN1.36]], [[THAG16.8]] |
+| [[MN86]], [[SN1.36]], [[THAG16]].8 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP26]]
 > ◄  [[dhp25-pali-sc]] 📜  [[]] ►

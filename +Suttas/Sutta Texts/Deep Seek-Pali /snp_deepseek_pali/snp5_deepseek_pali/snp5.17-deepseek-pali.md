@@ -52,3 +52,5 @@ The Questions of the Youth Piṅgiya, the sixteenth, are finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp5.17-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP5.17]]
+> ◄  [[snp5.16-deepseek-pali]] 📜  [[snp5.18-deepseek-pali]] ►

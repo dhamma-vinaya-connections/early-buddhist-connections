@@ -569,5 +569,6 @@ Dūteyyaṃ dve ca bandhanā pahārādo uposathoti,
 | [[AN5.14]], [[EA32.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.2]]
 > ◄  [[an5.1-pali-sri]] 📜  [[an5.3-pali-sri]] ►

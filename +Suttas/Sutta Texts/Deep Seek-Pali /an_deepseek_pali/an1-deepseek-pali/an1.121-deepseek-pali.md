@@ -35,3 +35,5 @@ The First Chapter.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.121-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN1.121]]
+> ◄  [[an1.120-deepseek-pali]] 📜  [[an1.122-deepseek-pali]] ►

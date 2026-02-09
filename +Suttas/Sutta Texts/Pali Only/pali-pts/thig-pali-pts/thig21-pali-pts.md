@@ -23,3 +23,5 @@ diṭṭho hi me so bhagavā antimo 'yaṃ samussayo |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig21-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG21]]
+> ◄  [[thig20-pali-pts]] 📜  [[thig22-pali-pts]] ►

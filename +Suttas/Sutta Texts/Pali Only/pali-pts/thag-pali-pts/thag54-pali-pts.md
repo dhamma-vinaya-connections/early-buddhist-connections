@@ -23,3 +23,5 @@ tassaṃ viharāmi adutiyo, atha ce patthayasi pavassa devā 'ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag54-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG54]]
+> ◄  [[thag53-pali-pts]] 📜  [[thag55-pali-pts]] ►

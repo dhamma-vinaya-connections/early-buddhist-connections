@@ -92,5 +92,6 @@ When this was said, the brahmin of Verañjā said to the Blessed One: “Master 
 | [[MA157]], [[PLI-TV-BU-VB-PJ1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.11]]
 > ◄  [[an8.10-bodhi]] 📜  [[an8.12-bodhi]] ►

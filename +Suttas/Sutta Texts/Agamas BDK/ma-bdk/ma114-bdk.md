@@ -26,7 +26,7 @@ it does not arise again. For a monk, this is called not knowing the root of the 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN35.103]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.36]], [[EA32.4]], [[MN130]] |
@@ -35,6 +35,7 @@ it does not arise again. For a monk, this is called not knowing the root of the 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35:245AND41:5]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA114]]
 > ◄  [[ma113-bdk]] 📜  [[ma115-bdk]] ►

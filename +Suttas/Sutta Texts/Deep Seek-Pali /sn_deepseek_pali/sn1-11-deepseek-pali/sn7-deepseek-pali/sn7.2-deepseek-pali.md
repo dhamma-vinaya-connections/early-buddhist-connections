@@ -60,11 +60,12 @@ And the brahmin Akkosaka Bhāradvāja obtained the going forth in the presence o
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP96]] | [[SA-2.75]], [[SA1152-1153]] |  |
+> |  | [[SA-2.75]], [[SA1152-1153]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.75]], [[SA1152-1153]], [[DHP96]], [[THAG6.12]], [[SN7.3]], [[SN11.4]], [[SN11.5]] |
+| [[SA-2.75]], [[SA1152-1153]], [[DHP\|DHP96]], [[THAG6]].12, [[SN7.3]], [[SN11.4]], [[SN11.5]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.2]]
 > ◄  [[sn7.1-deepseek-pali]] 📜  [[sn7.3-deepseek-pali]] ►

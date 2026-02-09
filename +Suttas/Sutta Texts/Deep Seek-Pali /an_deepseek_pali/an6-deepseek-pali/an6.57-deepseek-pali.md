@@ -90,5 +90,6 @@ And how, Ānanda, does one born of a bright birth realize the neither-dark-nor-b
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.57]]
 > ◄  [[an6.56-deepseek-pali]] 📜  [[an6.58-deepseek-pali]] ►

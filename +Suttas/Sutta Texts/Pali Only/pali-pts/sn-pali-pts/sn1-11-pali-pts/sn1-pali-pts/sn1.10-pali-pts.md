@@ -40,5 +40,6 @@ vuṭṭhibhūtā upajīvanti || ye pāṇā pathaviṃ sitā ti || ||
 | [[SA-2.132]], [[SA995]], [[JA538]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.10]]
 > ◄  [[sn1.9-pali-pts]] 📜  [[sn1.11-pali-pts]] ►

@@ -37,3 +37,5 @@ Dutiyo paṇṇāsako samatto.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an8.91-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN8.91]]
+> ◄  [[an8.90-sujato-pali]] 📜  [[an8.118-sujato-pali]] ►

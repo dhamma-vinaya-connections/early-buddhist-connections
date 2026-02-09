@@ -41,9 +41,5 @@ World-honored One, I wish to obtain the going forth from the Buddha to train in 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma209-) 
 
-> [!check] Parallels 
-> | In Nikayas  | In Āgamas  | PTS     |
-> | ----------- | ---------- | ------- |
-> | [[MN80]] |  |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA209]]
 > ◄  [[ma208-bdk]] 📜  [[ma210-bdk]] ►

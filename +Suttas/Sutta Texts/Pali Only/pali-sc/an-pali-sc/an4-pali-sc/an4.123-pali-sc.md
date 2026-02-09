@@ -39,11 +39,12 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN120]] | [[MA168]] | A ii 126 |
+> |  | [[MA168]] | A ii 126 |
 > > [!check]- Partial parallels 
 > > 
 | [[MA168]], [[MN120]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.123]]
 > ◄  [[an4.122-pali-sc]] 📜  [[an4.124-pali-sc]] ►

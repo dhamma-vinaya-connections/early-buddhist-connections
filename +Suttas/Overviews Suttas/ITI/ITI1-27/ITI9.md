@@ -86,4 +86,5 @@ parallels_partilal: ""
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti9
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI8]]  🌐 [[ITI10-13]] ►

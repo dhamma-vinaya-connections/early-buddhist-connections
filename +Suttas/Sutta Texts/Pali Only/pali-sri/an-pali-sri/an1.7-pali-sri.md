@@ -697,5 +697,6 @@ Mahāvaggo dutiyo
 | [[EA9.8]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.7]]
 > ◄  [[an1.6-pali-sri]] 📜  [[an1.8-pali-sri]] ►

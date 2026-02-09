@@ -50,5 +50,6 @@ Dutiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.38]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.12]]
 > ◄  [[an7.11-sujato-pali]] 📜  [[an7.13-sujato-pali]] ►

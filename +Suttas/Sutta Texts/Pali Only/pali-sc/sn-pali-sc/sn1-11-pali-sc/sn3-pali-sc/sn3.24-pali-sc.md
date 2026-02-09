@@ -110,5 +110,6 @@ dātāraṁ abhivassatī"ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.57]], [[ITI76.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN3]]  / 🌐 [[SN3.24]]
 > ◄  [[sn3.23-pali-sc]] 📜  [[sn3.25-pali-sc]] ►

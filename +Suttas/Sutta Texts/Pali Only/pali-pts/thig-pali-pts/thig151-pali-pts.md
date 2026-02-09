@@ -23,3 +23,5 @@ patthitā rājaputtehi seṭṭhiputtehi gijjhitā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig151-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG151]]
+> ◄  [[thig150-pali-pts]] 📜  [[thig152-pali-pts]] ►

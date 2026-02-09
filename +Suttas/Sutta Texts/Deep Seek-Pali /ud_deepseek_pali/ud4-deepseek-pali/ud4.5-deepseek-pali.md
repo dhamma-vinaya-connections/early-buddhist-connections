@@ -66,5 +66,6 @@ Then the Blessed One, knowing his own solitude and understanding with his mind t
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN9.40]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.5]]
 > ◄  [[ud4.4-deepseek-pali]] 📜  [[ud4.6-deepseek-pali]] ►

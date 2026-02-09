@@ -207,7 +207,8 @@ buddhaseṭṭhena tādināti.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-an2-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#AN2]] |
->|       |          | [[ñanatusita-analysis#^AN2]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^AN2]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-AN]] I 🌐 [[BU-AN2]]

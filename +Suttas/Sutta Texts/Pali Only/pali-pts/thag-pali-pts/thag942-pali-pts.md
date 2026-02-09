@@ -23,3 +23,5 @@ saṃghalābhassa bhaṇḍanti saṃghato paribāhirā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag942-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG942]]
+> ◄  [[thag941-pali-pts]] 📜  [[thag943-pali-pts]] ►

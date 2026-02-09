@@ -95,11 +95,12 @@ Atha kho so brāhmaṇamahāsālo bhagavantaṁ etadavoca: "Abhikkantaṁ, bho g
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN7.15]] | [[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]] |  |
+> |  | [[SA-2.258]], [[SA-2.262]], [[SA92]], [[SA96]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA-2.262]], [[SA96]], [[SN7.15]], [[SA-2.258]], [[SA92]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN7]]  / 🌐 [[SN7.14]]
 > ◄  [[sn7.13-pali-sc]] 📜  [[sn7.15-pali-sc]] ►

@@ -40,5 +40,6 @@ Then a certain brahmin approached the Blessed One and exchanged greetings with h
 | [[AN10.220]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.16]]
 > ◄  [[an2.15-bodhi]] 📜  [[an2.17-bodhi]] ►

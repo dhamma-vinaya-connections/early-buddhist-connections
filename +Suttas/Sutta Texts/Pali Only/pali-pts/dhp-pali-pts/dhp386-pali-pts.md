@@ -27,3 +27,5 @@ sannaddho khattiyo tapati, jhāyī tapati brāhmaṇo, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp386-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP386]]
+> ◄  [[dhp385-pali-pts]] 📜  [[dhp387-pali-pts]] ►

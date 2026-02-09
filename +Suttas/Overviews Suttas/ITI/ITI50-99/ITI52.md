@@ -74,7 +74,7 @@ he is a monk who’s seen rightly.
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN3.12]], [[DHP92]], [[DHP93]], [[MN44]], [[SN36.4]], [[SN36.6]]
+> - [[SN3.12]], [[DHP\|DHP92]], [[DHP\|DHP93]], [[MN44]], [[SN36.4]], [[SN36.6]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -92,5 +92,6 @@ he is a monk who’s seen rightly.
 > - Sutta Central: https://suttacentral.net/iti52/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti52
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti52.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI51]]  🌐 [[ITI53]] ►

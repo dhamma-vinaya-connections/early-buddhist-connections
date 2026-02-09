@@ -54,5 +54,6 @@ When this was said, the brahmin Jānussoṇi said to the Blessed One: "Excellent
 | [[EA37.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
 > ◄  [[an7.49-deepseek-pali]] 📜  [[an7.51-deepseek-pali]] ►

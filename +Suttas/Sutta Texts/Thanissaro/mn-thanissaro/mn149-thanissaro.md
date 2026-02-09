@@ -91,5 +91,6 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 | [[SA305]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-thanissaro]] 📜  [[mn151-thanissaro]] ►

@@ -65,12 +65,13 @@ To Dīghanakha
 > |  | [[SA-2.203]]; [[SA969]] | M i 497 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.203]]; [[SA969]] |
+| [[SA-2.203]], [[SA969]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN111]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN74]]
 > ◄  [[mn73-bodhi]] 📜  [[mn75-bodhi]] ►

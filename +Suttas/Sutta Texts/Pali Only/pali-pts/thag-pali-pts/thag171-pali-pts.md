@@ -23,3 +23,5 @@ paccavekkhiṃ imaṃ kāyaṃ sabbaṃ santarabāhiraṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag171-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG171]]
+> ◄  [[thag170-pali-pts]] 📜  [[thag172-pali-pts]] ►

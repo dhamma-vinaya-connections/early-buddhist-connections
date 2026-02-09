@@ -23,3 +23,5 @@ bhagavati Koṇāgamane saṃghārāmamhi navanivesamhi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig517-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG517]]
+> ◄  [[thig516-pali-pts]] 📜  [[thig518-pali-pts]] ►

@@ -50,3 +50,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sa11_58-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]]  / 🌐 [[SA11_58]]
+> ◄  [[SA11_41]] 📜  [[SA12_20]] ►

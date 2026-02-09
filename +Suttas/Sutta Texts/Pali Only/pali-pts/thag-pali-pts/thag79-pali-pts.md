@@ -23,3 +23,5 @@ Yaṃ mayā pakataṃ kammaṃ appaṃ vā yadi vā bahu
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag79-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG79]]
+> ◄  [[thag78-pali-pts]] 📜  [[thag80-pali-pts]] ►

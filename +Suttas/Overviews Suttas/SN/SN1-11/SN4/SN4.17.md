@@ -95,4 +95,5 @@ Thus one is detached from it
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.17
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.17.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.16]]  🌐 [[SN4.18]] ►

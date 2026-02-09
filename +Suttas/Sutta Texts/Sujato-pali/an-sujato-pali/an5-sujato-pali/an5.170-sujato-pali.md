@@ -83,5 +83,6 @@ sīlaṁ nisanti bhaddajīti.
 | [[SA484]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.170]]
 > ◄  [[an5.169-sujato-pali]] 📜  [[an5.171-sujato-pali]] ►

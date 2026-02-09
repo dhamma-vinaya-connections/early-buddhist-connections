@@ -23,3 +23,5 @@ kadā nu maṃ pāvusakālamegho navena toyena sacīvaraṃ vane
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1101-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1101]]
+> ◄  [[thag1100-pali-pts]] 📜  [[thag1102-pali-pts]] ►

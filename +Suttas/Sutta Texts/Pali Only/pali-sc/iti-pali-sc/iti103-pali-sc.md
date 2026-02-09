@@ -31,5 +31,10 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Chaṭṭhaṃ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti103-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[AN3.86]], [[ITI62]], [[AN56:22]], [[SN3.12]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI103]]
 > ◄  [[iti102-pali-sc]] 📜  [[iti104-pali-sc]] ►

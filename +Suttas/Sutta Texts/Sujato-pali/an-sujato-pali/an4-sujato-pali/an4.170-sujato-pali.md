@@ -89,5 +89,6 @@ Sasaṅkhāraṁ yuganaddhena cāti.
 | [[SA560]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.170]]
 > ◄  [[an4.169-sujato-pali]] 📜  [[an4.171-sujato-pali]] ►

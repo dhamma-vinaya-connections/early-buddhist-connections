@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP140]]"
+parallels_nikaya: ""
 parallels_agama: ""
-parallels_partilal: "[[DHP140]], [[AN5.174]], [[ITI30]], [[AN6.45]]"
+parallels_partilal: "[[DHP\|DHP140]], [[AN5.174]], [[ITI30]], [[AN6.45]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI63]]  🌐 [[ITI65]] ►
 
@@ -69,10 +69,10 @@ is said to be bathe   of evil.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP140]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP140]], [[AN5.174]], [[ITI30]], [[AN6.45]] |
+| [[DHP\|DHP140]], [[AN5.174]], [[ITI30]], [[AN6.45]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
@@ -95,5 +95,6 @@ is said to be bathe   of evil.
 > - Sutta Central: https://suttacentral.net/iti64/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti64
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti64.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI63]]  🌐 [[ITI65]] ►

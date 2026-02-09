@@ -40,11 +40,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN6.12]] | [[EA37.1]] | A iii 288 |
+> |  | [[EA37.1]] | A iii 288 |
 > > [!check]- Partial parallels 
 > > 
 | [[DN33]], [[AN6.12]], [[EA37.1]], [[PLI-TV-PVR4]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.11]]
 > ◄  [[an6.10-bodhi]] 📜  [[an6.12-bodhi]] ►

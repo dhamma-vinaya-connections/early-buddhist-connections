@@ -94,4 +94,5 @@ These brighten up the heavens
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.49
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.49.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.48]]  🌐 [[SN1.50]] ►

@@ -36,5 +36,6 @@ language: "English"
 | [[SA827]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.83]]
 > ◄  [[an3.82-bodhi]] 📜  [[an3.84-bodhi]] ►

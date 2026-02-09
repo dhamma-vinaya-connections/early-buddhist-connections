@@ -24,3 +24,5 @@ papañcābhiratā pajā nippapañcā tathāgatā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp254-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP254]]
+> ◄  [[dhp253-pali-pts]] 📜  [[dhp255-pali-pts]] ►

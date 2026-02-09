@@ -72,7 +72,7 @@ language: "English - Pali"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.70]], [[AN8.42]] | [[EA24.6]], [[MA202]], [[SA861-863]] | A iv 255 |
+> |  | [[EA24.6]], [[MA202]], [[SA861-863]] | A iv 255 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.70]], [[MA202]], [[SA861-863]], [[AN8.42]], [[EA24.6]] |
@@ -81,6 +81,7 @@ language: "English - Pali"
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN3.70]], [[AN10.46]], [[UD2.10]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.43]]
 > ◄  [[an8.42-deepseek-pali]] 📜  [[an8.44-deepseek-pali]] ►

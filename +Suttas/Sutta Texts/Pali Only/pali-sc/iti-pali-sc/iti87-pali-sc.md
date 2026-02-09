@@ -46,7 +46,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN46.40]] | [[SA706]] |  |
+> |  | [[SA706]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN46.40]], [[SA706]] |
@@ -55,6 +55,7 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN19]], [[MN20]], [[ITI110]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI87]]
 > ◄  [[iti86-pali-sc]] 📜  [[iti88-pali-sc]] ►

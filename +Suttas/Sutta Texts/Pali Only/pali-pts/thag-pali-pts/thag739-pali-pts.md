@@ -23,3 +23,5 @@ so atthavā, so dhammaṭṭho, so dakkho, so vicakkhaṇo,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag739-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG739]]
+> ◄  [[thag738-pali-pts]] 📜  [[thag740-pali-pts]] ►

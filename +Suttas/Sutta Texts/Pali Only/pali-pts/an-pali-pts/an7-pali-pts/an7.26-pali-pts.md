@@ -37,5 +37,6 @@ Yāvakīvañ ca bhikkhave ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti
 | [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.26]]
 > ◄  [[an7.25-pali-pts]] 📜  [[an7.27-pali-pts]] ►

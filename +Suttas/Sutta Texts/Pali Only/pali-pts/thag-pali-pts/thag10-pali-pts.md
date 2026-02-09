@@ -28,3 +28,5 @@ Pāmujjabahulo bhikkhu dhamme buddhappavedite
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag10-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG10]]
+> ◄  [[thag9-pali-pts]] 📜  [[thag11-pali-pts]] ►

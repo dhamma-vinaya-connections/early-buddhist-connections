@@ -78,5 +78,6 @@ Pañcamaṁ.
 | [[SA-2.154]], [[SA929]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.25]]
 > ◄  [[an8.24-sujato-pali]] 📜  [[an8.26-sujato-pali]] ►

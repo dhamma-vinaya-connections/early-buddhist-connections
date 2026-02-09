@@ -50,5 +50,6 @@ Then Venerable Ānanda, taking Mahānāma the Sakyan by the arm and leading him 
 | [[SA-2.158]], [[SA934]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.73]]
 > ◄  [[an3.72-deepseek-pali]] 📜  [[an3.74-deepseek-pali]] ►

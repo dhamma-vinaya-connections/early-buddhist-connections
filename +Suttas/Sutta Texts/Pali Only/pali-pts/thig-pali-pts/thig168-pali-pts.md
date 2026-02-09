@@ -24,3 +24,5 @@ catukkhatuṃ pañcakkhattuṃ vihārā upanikkhamiṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig168-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG168]]
+> ◄  [[thig167-pali-pts]] 📜  [[thig169-pali-pts]] ►

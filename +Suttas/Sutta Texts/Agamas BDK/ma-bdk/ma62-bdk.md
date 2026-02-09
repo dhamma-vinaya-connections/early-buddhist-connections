@@ -44,5 +44,10 @@ World-honored One, I now take refuge in the Buddha, the Dharma, and the communit
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ma62-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MAHAVASTU]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA62]]
 > ◄  [[ma61-bdk]] 📜  [[ma63-bdk]] ►

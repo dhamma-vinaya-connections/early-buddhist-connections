@@ -104,5 +104,6 @@ Aṭṭhamaṁ.
 | [[EA34.6]], [[JA368]], [[AN5.50]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.48]]
 > ◄  [[an5.47-sujato-pali]] 📜  [[an5.49-sujato-pali]] ►

@@ -22,3 +22,5 @@ yo Vejayantapāsādaṃ pādaṅguṭṭhena kampayi
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1193-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1193]]
+> ◄  [[thag1192-pali-pts]] 📜  [[thag1194-pali-pts]] ►

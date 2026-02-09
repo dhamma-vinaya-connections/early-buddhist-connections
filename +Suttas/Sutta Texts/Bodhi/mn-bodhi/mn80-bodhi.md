@@ -60,5 +60,6 @@ language: "English"
 | [[MA209]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
 > ◄  [[mn79-bodhi]] 📜  [[mn81-bodhi]] ►

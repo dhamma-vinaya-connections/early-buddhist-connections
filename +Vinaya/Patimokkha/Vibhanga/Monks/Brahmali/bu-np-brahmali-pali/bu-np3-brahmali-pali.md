@@ -203,7 +203,8 @@ Anadhiṭṭhite adhiṭṭhitasaññī … pe … avikappite vikappitasaññī 
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np3-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP3]] |
->|       |          | [[ñanatusita-analysis#^NP3]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP3]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP3]]

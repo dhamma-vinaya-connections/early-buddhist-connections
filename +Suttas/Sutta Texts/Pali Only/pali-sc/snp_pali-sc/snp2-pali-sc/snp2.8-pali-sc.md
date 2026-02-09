@@ -63,5 +63,10 @@ Nāvāsuttaṁ aṭṭhamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.8-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN22]], [[SN35.197]], [[SN4.1]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.8]]
 > ◄  [[snp2.7-pali-sc]] 📜  [[snp2.9-pali-sc]] ►

@@ -24,3 +24,5 @@ ukkaṇṭhāmi sarīrena, bhaven'; amhi anatthiko,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag717-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG717]]
+> ◄  [[thag716-pali-pts]] 📜  [[thag718-pali-pts]] ►

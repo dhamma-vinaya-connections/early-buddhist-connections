@@ -25,3 +25,5 @@ Asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhir
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.617-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.617]]
+> ◄  [[an7.616-pali-sc]] 📜  [[an7.618-pali-sc]] ►

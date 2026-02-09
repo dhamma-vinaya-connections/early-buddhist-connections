@@ -50,5 +50,6 @@ This matter, too, was spoken by the Blessed One: so I have heard. Fifth.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5:200.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI73]]
 > ◄  [[iti72-deepseek-pali]] 📜  [[iti74-deepseek-pali]] ►

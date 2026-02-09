@@ -92,4 +92,5 @@ The most excellent of speakers is the Buddha .
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn1.78
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn1.78.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN1.77]]  🌐 [[SN1.79]] ►

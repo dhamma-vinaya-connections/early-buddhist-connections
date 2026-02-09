@@ -24,3 +24,5 @@ Pañca kāmaguṇe hitvā piyarūpe manorame
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag194-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG194]]
+> ◄  [[thag193-pali-pts]] 📜  [[thag195-pali-pts]] ►

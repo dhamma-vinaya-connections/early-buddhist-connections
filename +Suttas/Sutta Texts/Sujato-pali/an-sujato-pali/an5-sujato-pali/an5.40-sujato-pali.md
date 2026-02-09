@@ -93,7 +93,7 @@ puttasālehi te dasāti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.48]] | [[EA50.7]] | A iii 44 |
+> |  | [[EA50.7]] | A iii 44 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.48]], [[EA50.7]], [[ITI107]] |
@@ -102,6 +102,7 @@ puttasālehi te dasāti.
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN5.38]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.40]]
 > ◄  [[an5.39-sujato-pali]] 📜  [[an5.41-sujato-pali]] ►

@@ -36,11 +36,12 @@ The monks said to the Buddha, “The Bhagavān is the Dharma root, Dharma eye, a
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN12.19]], [[SN22.51]] | [[SA1]] |  |
+> |  | [[SA1]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.19]], [[SA1]], [[SN22.51]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA294]]
 > ◄  [[sa293-patton]] 📜  [[sa295-patton]] ►

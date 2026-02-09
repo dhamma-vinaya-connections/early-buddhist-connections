@@ -23,3 +23,5 @@ samādhivijjāvasi pāramīgato Moggallānagotto asitassa sāsane
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1183-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1183]]
+> ◄  [[thag1182-pali-pts]] 📜  [[thag1184-pali-pts]] ►

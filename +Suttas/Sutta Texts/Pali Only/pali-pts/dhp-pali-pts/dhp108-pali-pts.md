@@ -24,3 +24,5 @@ abhivādanasīlissa niccaṃ vaddhāpacāyino /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp108-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP108]]
+> ◄  [[dhp107-pali-pts]] 📜  [[dhp109-pali-pts]] ►

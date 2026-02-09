@@ -24,3 +24,5 @@ sukhaṃ yāvajarā sīlaṃ sukhā saddhā patiṭṭhitā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp332-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP332]]
+> ◄  [[dhp331-pali-pts]] 📜  [[dhp333-pali-pts]] ►

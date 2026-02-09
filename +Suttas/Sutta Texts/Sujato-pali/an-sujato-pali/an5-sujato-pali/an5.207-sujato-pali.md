@@ -42,5 +42,6 @@ Sattamaṁ.
 | [[PLI-TV-KD6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.207]]
 > ◄  [[an5.206-sujato-pali]] 📜  [[an5.208-sujato-pali]] ►

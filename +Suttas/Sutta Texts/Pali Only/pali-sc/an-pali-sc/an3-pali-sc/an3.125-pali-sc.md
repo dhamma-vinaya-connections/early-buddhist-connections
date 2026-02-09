@@ -40,5 +40,6 @@ Tatiyaṁ.
 | [[PLI-TV-KD21]], [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.125]]
 > ◄  [[an3.124-pali-sc]] 📜  [[an3.126-pali-sc]] ►

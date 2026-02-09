@@ -158,5 +158,10 @@ cuddas'; etāni suttāni Cūḷavaggo ti vuccati.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:snp2.14-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN66]], [[MN70]], [[AN3.71]], [[AN10.46]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SNP]]  / 🌐 [[SNP2.14]]
 > ◄  [[snp2.13-pali-pts]] 📜  [[]] ►

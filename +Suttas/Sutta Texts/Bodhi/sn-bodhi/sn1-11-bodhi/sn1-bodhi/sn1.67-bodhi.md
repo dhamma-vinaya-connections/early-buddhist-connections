@@ -38,3 +38,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.67-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.67]]
+> ◄  [[sn1.66-bodhi]] 📜  [[sn1.68-bodhi]] ►

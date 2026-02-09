@@ -80,15 +80,16 @@ That is what the Blessed One said. The venerable Ānanda was satisfied and deli
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN148]]; [[SN35.60]] | [[EA40.10]]; [[MA115]]; [[SA304]]; [[SA323-327]]; [[SA330]] | M i 108 |
+> |  | [[EA40.10]]; [[MA115]]; [[SA304]]; [[SA323-327]]; [[SA330]] | M i 108 |
 > > [!check]- Partial parallels 
 > > 
-| [[MN148]]; [[SA304]]; [[SN35.60]]; [[SA323-327]]; [[SA330]]; [[MN38]]; [[EA40.10]]; [[MA115]] |
+| [[MN148]], [[SA304]], [[SN35.60]], [[SA323-327]], [[SA330]], [[MN38]], [[EA40.10]], [[MA115]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DN21]]; [[AN3.72]]; [[SN4.8]], [[SA273]]
+> - [[DN21]], [[AN3.72]], [[SN4.8]], [[SA273]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN18]]
 > ◄  [[mn17-bodhi]] 📜  [[mn19-bodhi]] ►

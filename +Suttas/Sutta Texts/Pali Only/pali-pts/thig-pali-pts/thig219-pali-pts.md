@@ -23,3 +23,5 @@ khīṇakulīne kapaṇe anubhūtaṃ te dukkhaṃ aparimāṇaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig219-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG219]]
+> ◄  [[thig218-pali-pts]] 📜  [[thig220-pali-pts]] ►

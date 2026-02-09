@@ -24,3 +24,5 @@ Saṃsaraṃ dīgham addhānaṃ gatīsu parivattisaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag214-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG214]]
+> ◄  [[thag213-pali-pts]] 📜  [[thag215-pali-pts]] ►

@@ -33,3 +33,5 @@ The Third Fifty is finished.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.180-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.180]]
+> ◄  [[an2.179-deepseek-pali]] 📜  [[an2.181-deepseek-pali]] ►

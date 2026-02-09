@@ -52,11 +52,12 @@ namo tesaṁ karomahan"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN2.25]] | [[SA-2.363]], [[SA1343]] |  |
+> |  | [[SA-2.363]], [[SA1343]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN2.25]], [[SA-2.363]], [[SA1343]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN9]]  / 🌐 [[SN9.13]]
 > ◄  [[sn9.12-pali-sc]] 📜  [[sn9.14-pali-sc]] ►

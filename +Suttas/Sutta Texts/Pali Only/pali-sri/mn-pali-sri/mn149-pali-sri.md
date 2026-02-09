@@ -131,5 +131,6 @@ Mahāsaḷāyatanika suttaṃ sattamaṃ.
 | [[SA305]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN149]]
 > ◄  [[mn148-pali-sri]] 📜  [[mn150-pali-sri]] ►

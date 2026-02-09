@@ -34,7 +34,7 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[AN10.83]], [[AN3.84]], [[SN54.10]]"
+parallels_nikaya: ""
 parallels_agama: "[[SA813]], [[SA829]], [[SA830-831]], [[SA966]]"
 parallels_partilal: "[[SA830-831]], [[AN3.84]], [[SA829]], [[SN54.10]], [[SA813]], [[AN10.83]], [[SA966]]"
 ---
@@ -62,7 +62,7 @@ parallels_partilal: "[[SA830-831]], [[AN3.84]], [[SA829]], [[SN54.10]], [[SA813]
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.83]], [[AN3.84]], [[SN54.10]] | [[SA813]], [[SA829]], [[SA830-831]], [[SA966]] | A i 236 |
+> |  | [[SA813]], [[SA829]], [[SA830-831]], [[SA966]] | A i 236 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA830-831]], [[AN3.84]], [[SA829]], [[SN54.10]], [[SA813]], [[AN10.83]], [[SA966]] |
@@ -85,5 +85,6 @@ parallels_partilal: "[[SA830-831]], [[AN3.84]], [[SA829]], [[SN54.10]], [[SA813]
 > - Sutta Central: https://suttacentral.net/an3.91/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an3.91
 > - The Buddhas Words: https://thebuddhaswords.net/an/an3.91.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN3.90]]  🌐 [[AN3.92]] ►

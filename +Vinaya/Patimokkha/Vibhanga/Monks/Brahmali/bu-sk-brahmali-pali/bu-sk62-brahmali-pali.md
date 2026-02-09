@@ -57,7 +57,8 @@ language: "Pali - English"
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk62-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK62]] |
->|       |          | [[ñanatusita-analysis#^SK62]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK62]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK62]]

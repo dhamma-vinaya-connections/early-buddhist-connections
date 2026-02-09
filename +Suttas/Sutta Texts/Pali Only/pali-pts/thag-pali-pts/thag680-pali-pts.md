@@ -23,3 +23,5 @@ uddhato capalo bhikkhu mitte āgamma pāpake
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag680-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG680]]
+> ◄  [[thag679-pali-pts]] 📜  [[thag681-pali-pts]] ►

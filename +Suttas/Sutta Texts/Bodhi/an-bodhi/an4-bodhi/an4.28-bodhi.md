@@ -58,15 +58,16 @@ by Brahmā too he is praised.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP230]] |  | A ii 27 |
+> |  |  | A ii 27 |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP230]], [[AN4.6]], [[AN5.42]], [[UD7.6]], [[DN33]] |
+| [[DHP\|DHP230]], [[AN4.6]], [[AN5.42]], [[UD7.6]], [[DN33]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN8.30]], [[AN10.71]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.28]]
 > ◄  [[an4.27-bodhi]] 📜  [[an4.29-bodhi]] ►

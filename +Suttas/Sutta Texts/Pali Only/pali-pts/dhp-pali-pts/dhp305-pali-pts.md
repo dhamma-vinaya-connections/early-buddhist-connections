@@ -26,3 +26,5 @@ abhūtavādī nirayaṃ upeti yo vāpi katvā na karomi c'; āha /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp305-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP305]]
+> ◄  [[dhp304-pali-pts]] 📜  [[dhp306-pali-pts]] ►

@@ -85,5 +85,6 @@ Paṭhamo paṇṇāsako samatto.
 | [[EA28.2]], [[PLI-TV-KD22]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.50]]
 > ◄  [[an4.49-pali-sc]] 📜  [[an4.51-pali-sc]] ►

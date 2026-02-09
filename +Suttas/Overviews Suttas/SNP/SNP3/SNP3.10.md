@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[DHP125]], [[DHP306]], [[SN6.10]], [[SN6.9]]"
+parallels_nikaya: ""
 parallels_agama: "[[EA21.5]], [[SA-2.276]], [[SA1278]]"
-parallels_partilal: "[[DHP125]], [[JA367]], [[SN1.22]], [[SN7.4]], [[DHP306]], [[ITI48]], [[UD4.8]], [[SN6.9]], [[AN10.89]], [[SN6.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]]"
+parallels_partilal: "[[DHP\|DHP125]], [[JA367]], [[SN1.22]], [[SN7.4]], [[DHP\|DHP306]], [[ITI48]], [[UD4.8]], [[SN6.9]], [[AN10.89]], [[SN6.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]]"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.9]]  🌐 [[SNP3.11]] ►
 
@@ -69,15 +69,15 @@ finds no ease.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP125]], [[DHP306]], [[SN6.10]], [[SN6.9]] | [[EA21.5]], [[SA-2.276]], [[SA1278]] |  |
+> |  | [[EA21.5]], [[SA-2.276]], [[SA1278]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP125]], [[JA367]], [[SN1.22]], [[SN7.4]], [[DHP306]], [[ITI48]], [[UD4.8]], [[SN6.9]], [[AN10.89]], [[SN6.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]] |
+| [[DHP\|DHP125]], [[JA367]], [[SN1.22]], [[SN7.4]], [[DHP\|DHP306]], [[ITI48]], [[UD4.8]], [[SN6.9]], [[AN10.89]], [[SN6.10]], [[SA1278]], [[SA-2.276]], [[EA21.5]], [[AN4.3]] |
 | ------------------------ |
 
 >[!example]- Suggestions by Ven. Thanissaro
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[MN45]], [[MN97]], [[MN130]], [[MN135]], [[MN136]], [[SN35.135]], [[SN42.8]], [[AN3.101]], [[AN4.111]], [[AN5.129]], [[AN8:7-8]], [[AN8.40]], [[DHP306]], [[DHP307]], [[DHP308]], [[DHP309]], [[DHP310]], [[DHP311]], [[DHP312]], [[DHP313]], [[DHP314]], [[DHP315]], [[DHP316]], [[DHP317]], [[DHP318]], [[DHP319]], [[ITI18]], [[ITI20]], [[ITI30]], [[ITI32]], [[ITI64]], [[ITI70]], [[ITI81]]
+> - [[MN45]], [[MN97]], [[MN130]], [[MN135]], [[MN136]], [[SN35.135]], [[SN42.8]], [[AN3.101]], [[AN4.111]], [[AN5.129]], [[AN8:7-8]], [[AN8.40]], [[DHP\|DHP306]], [[DHP\|DHP307]], [[DHP\|DHP308]], [[DHP\|DHP309]], [[DHP\|DHP310]], [[DHP\|DHP311]], [[DHP\|DHP312]], [[DHP\|DHP313]], [[DHP\|DHP314]], [[DHP\|DHP315]], [[DHP\|DHP316]], [[DHP\|DHP317]], [[DHP\|DHP318]], [[DHP\|DHP319]], [[ITI18]], [[ITI20]], [[ITI30]], [[ITI32]], [[ITI64]], [[ITI70]], [[ITI81]]
 
 > [!example]- [[Suttas.base#suttas-themes| Suttas Catalogue]] to find related suttas by theme
 
@@ -95,5 +95,6 @@ finds no ease.
 > - Sutta Central: https://suttacentral.net/snp3.10/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp3.10
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp3.10.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP3.9]]  🌐 [[SNP3.11]] ►

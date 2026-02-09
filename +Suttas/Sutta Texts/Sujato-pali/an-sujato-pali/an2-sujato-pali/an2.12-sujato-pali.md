@@ -43,3 +43,5 @@ Imāni kho, bhikkhave, dve balānī"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.12-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.12]]
+> ◄  [[an2.11-sujato-pali]] 📜  [[an2.13-sujato-pali]] ►

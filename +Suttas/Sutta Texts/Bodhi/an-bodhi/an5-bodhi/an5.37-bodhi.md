@@ -48,5 +48,6 @@ wherever one is reborn.
 | [[EA32.11]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.37]]
 > ◄  [[an5.36-bodhi]] 📜  [[an5.38-bodhi]] ►

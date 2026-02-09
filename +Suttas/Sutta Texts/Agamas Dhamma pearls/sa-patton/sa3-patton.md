@@ -33,11 +33,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.29]], [[SN22.24]] | [[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]] |  |
+> |  | [[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA3]], [[SA4]], [[SA5]], [[SA6]], [[SA7]], [[SN22.29]], [[SN22.24]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA3]]
 > ◄  [[sa2.180-patton]] 📜  [[sa4-patton]] ►

@@ -46,5 +46,6 @@ A third time the Venerable Sāriputta said to the Venerable Candikāputta: “Fr
 | [[SA499]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.26]]
 > ◄  [[an9.25-bodhi]] 📜  [[an9.27-bodhi]] ►

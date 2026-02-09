@@ -23,3 +23,5 @@ vāsito va surabhikaraṇḍako pupphapūraṃ mama uttamaṅgabhu |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig252-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG252]]
+> ◄  [[thig251-pali-pts]] 📜  [[thig253-pali-pts]] ►

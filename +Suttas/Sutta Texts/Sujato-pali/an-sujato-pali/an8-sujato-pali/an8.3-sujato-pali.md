@@ -40,11 +40,12 @@ Tatiyaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.1]] |  | A iv 155 |
+> |  |  | A iv 155 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN7.1]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.3]]
 > ◄  [[an8.2-sujato-pali]] 📜  [[an8.4-sujato-pali]] ►

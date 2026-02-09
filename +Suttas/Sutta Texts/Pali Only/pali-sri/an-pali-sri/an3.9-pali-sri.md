@@ -245,5 +245,6 @@ Paṭisamhidā ca sīlena thero sekhā pare duveti.
 | [[EA22.6]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.9]]
 > ◄  [[an3.8-pali-sri]] 📜  [[an3.10-pali-sri]] ►

@@ -244,11 +244,12 @@ Translated by Charles Patton
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DN20]], [[SN1.37]] | [[SA1192]], [[SA2.105]] |  |
+> |  | [[SA1192]], [[SA2.105]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[MN98]], [[SNP3.9]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA19]]
 > ◄  [[da18-patton]] 📜  [[da20-patton]] ►

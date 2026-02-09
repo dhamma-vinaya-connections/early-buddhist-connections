@@ -40,5 +40,6 @@ Craving generates a person, their mind courses about; an attached being enters s
 | [[SA-2.243]], [[SA1016]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.56]]
 > ◄  [[sn1.55-deepseek-pali]] 📜  [[sn1.57-deepseek-pali]] ►

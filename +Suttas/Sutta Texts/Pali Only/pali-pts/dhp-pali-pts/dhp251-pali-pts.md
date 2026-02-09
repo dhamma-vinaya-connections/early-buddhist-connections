@@ -25,3 +25,5 @@ paresaṃ hi so vajjāni opunāti yathā bhusaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp251-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP251]]
+> ◄  [[dhp250-pali-pts]] 📜  [[dhp252-pali-pts]] ►

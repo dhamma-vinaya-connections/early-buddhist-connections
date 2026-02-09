@@ -23,3 +23,5 @@ tāhaṃ citta kaliṃ brūmi taṃ brūmi cittadubbhakaṃ;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag213-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG213]]
+> ◄  [[thag212-pali-pts]] 📜  [[thag214-pali-pts]] ►

@@ -95,4 +95,5 @@ having realized the relinquishing of acquisitions, effluent-free,
 > - Dhamma Gift: https://dhamma.gift/read/?q=iti51
 > - The Buddhas Words: https://thebuddhaswords.net/iti/iti51.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[ITI]] | ◄  [[ITI50]]  🌐 [[ITI52]] ►

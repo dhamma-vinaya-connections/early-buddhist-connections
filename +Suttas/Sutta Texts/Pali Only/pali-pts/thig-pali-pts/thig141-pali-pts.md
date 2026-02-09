@@ -23,3 +23,5 @@ sabbattha vihatā nandi tamokkhandho padālito |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig141-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG141]]
+> ◄  [[thig140-pali-pts]] 📜  [[thig142-pali-pts]] ►

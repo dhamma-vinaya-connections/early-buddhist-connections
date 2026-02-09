@@ -34,5 +34,6 @@ Dutiyaṁ.
 | [[EA36.1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.202]]
 > ◄  [[an5.201-pali-sc]] 📜  [[an5.203-pali-sc]] ►

@@ -64,5 +64,6 @@ language: "English"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN90]], [[SN3.5]], [[SN3.7]], [[SN3.14]], [[SN3.15]], [[SN3.25]], [[AN3.34]], [[UD2.10]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.69]]
 > ◄  [[an3.68-bodhi]] 📜  [[an3.70-bodhi]] ►

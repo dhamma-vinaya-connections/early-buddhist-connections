@@ -23,3 +23,5 @@ evāyaṃ vattatī kāyo kammayantena yantito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag573-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG573]]
+> ◄  [[thag571-pali-pts]] 📜  [[thag574-pali-pts]] ►

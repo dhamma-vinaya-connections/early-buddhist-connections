@@ -33,11 +33,12 @@ Paṭhamaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.3]] |  | A iv 1 |
+> |  |  | A iv 1 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.1]]
 > ◄  [[]] 📜  [[an7.2-pali-sc]] ►

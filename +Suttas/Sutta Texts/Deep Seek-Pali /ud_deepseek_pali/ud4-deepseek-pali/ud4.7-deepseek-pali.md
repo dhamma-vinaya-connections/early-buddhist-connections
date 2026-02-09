@@ -43,12 +43,13 @@ Then, the Blessed One, having understood this, on that occasion uttered this ins
 > |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG1.68]], [[PLI-TV-BU-VB-PC22]] |
+| [[THAG1]].68, [[PLI-TV-BU-VB-PC22]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG1:685]], [[THAG1:68.]]
+> - [[THAG1:685]], THAG1:68.
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD4.7]]
 > ◄  [[ud4.6-deepseek-pali]] 📜  [[ud4.8-deepseek-pali]] ►

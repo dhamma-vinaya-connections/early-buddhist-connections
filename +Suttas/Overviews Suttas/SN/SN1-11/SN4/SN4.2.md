@@ -90,4 +90,5 @@ Don’t fall under Māra’s sway
 > - Dhamma Gift: https://dhamma.gift/read/?q=sn4.2
 > - The Buddhas Words: https://thebuddhaswords.net/sn/sn4.2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SN]] | ◄  [[SN4.1]]  🌐 [[SN4.3]] ►

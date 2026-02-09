@@ -86,7 +86,7 @@ sake of the Dharma. Monks, through having eradicated the five lower fetters the 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN91]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA9.1]], [[SN17.24]], [[EA9.2]], [[SN17.6]] |
@@ -95,6 +95,7 @@ sake of the Dharma. Monks, through having eradicated the five lower fetters the 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[DN30]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA161]]
 > ◄  [[ma160-bdk]] 📜  [[ma162-bdk]] ►

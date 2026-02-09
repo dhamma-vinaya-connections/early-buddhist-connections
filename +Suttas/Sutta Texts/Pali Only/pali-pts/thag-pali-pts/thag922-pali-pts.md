@@ -23,3 +23,5 @@ paṇītaṃ yadi vā lūkhaṃ appaṃ vā yadi vā bahuṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag922-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG922]]
+> ◄  [[thag921-pali-pts]] 📜  [[thag923-pali-pts]] ►

@@ -419,3 +419,5 @@ tatthevantaradhāyathā"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag20-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG20]]
+> ◄  [[thag19-pali-sc]] 📜  [[thag21-pali-sc]] ►

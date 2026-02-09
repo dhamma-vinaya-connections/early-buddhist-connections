@@ -65,7 +65,8 @@ Surusuruvaggo chaṭṭho.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk60-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK60]] |
->|       |          | [[ñanatusita-analysis#^SK60]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK60]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK60]]

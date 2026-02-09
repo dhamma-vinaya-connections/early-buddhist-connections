@@ -23,3 +23,5 @@ Nigrodhakappo iti tassa nāmaṃ tayā kataṃ bhagavā brāhmaṇassa,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1263-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1263]]
+> ◄  [[thag1262-pali-pts]] 📜  [[thag1264-pali-pts]] ►

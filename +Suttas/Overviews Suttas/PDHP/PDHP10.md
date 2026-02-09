@@ -94,4 +94,5 @@ though he is unfulfilled with sense pleasures.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp10
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp10.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP9]]  🌐 [[PDHP11]] ►

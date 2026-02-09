@@ -163,5 +163,6 @@ Thus the Lord spoke, and Bhaggava the wanderer was delighted and rejoiced at the
 | [[DA15]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DN]]  / 🌐 [[DN24]]
 > ◄  [[dn23-walshe]] 📜  [[dn25-walshe]] ►

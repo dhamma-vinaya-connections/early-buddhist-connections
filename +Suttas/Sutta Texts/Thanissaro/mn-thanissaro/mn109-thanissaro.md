@@ -125,11 +125,12 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.82]] | [[SA58]] | M iii 15 |
+> |  | [[SA58]] | M iii 15 |
 > > [!check]- Partial parallels 
 > > 
-| [[SA58]]; [[SN22.82]]; [[AN4.200]]; [[MN44]]; [[SN22.44]]; [[SN41.3]] |
+| [[SA58]], [[SN22.82]], [[AN4.200]], [[MN44]], [[SN22.44]], [[SN41.3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN109]]
 > ◄  [[mn108-thanissaro]] 📜  [[mn110-thanissaro]] ►

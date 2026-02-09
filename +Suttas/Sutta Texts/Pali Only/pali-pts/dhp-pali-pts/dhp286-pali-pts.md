@@ -24,3 +24,5 @@ taṃ puttapasusammattaṃ byāsattamanasaṃ naraṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp286-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP286]]
+> ◄  [[dhp285-pali-pts]] 📜  [[dhp287-pali-pts]] ►

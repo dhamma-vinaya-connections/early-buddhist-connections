@@ -24,11 +24,12 @@ Thus have I heard: At one time the Buddha was staying at Sāvatthī, in Jeta’s
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN10.3]], [[AN10.4]], [[AN11.3]], [[AN11.4]], [[AN5.168]], [[AN5.21]], [[AN5.22]], [[AN5.24]], [[AN6.50]], [[AN7.65]], [[AN8.81]] | [[MA44]], [[MA45]], [[MA46]], [[MA48]], [[MA49]], [[MA50]], [[SA495]] |  |
+> |  | [[MA44]], [[MA45]], [[MA46]], [[MA48]], [[MA49]], [[MA50]], [[SA495]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA24.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA47]]
 > ◄  [[ma46-bdk]] 📜  [[ma48-bdk]] ►

@@ -365,7 +365,8 @@ Monks’ rules and their analysis
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-ss5-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SS5]] |
->|       |          | [[ñanatusita-analysis#^SS5]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SS5]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SS]] I 🌐 [[BU-SS5]]

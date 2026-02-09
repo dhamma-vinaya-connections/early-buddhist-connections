@@ -102,5 +102,6 @@ Just as, Pahārāda, the great ocean is rich in many treasures, a multitude of t
 | [[EA42.4]], [[MA35]], [[PLI-TV-KD19]], [[UD5.5]], [[AN8.20]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.19]]
 > ◄  [[an8.18-deepseek-pali]] 📜  [[an8.20-deepseek-pali]] ►

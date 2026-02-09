@@ -41,11 +41,12 @@ language: "English"
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP125]] | [[SA-2.273]], [[SA1275]] |  |
+> |  | [[SA-2.273]], [[SA1275]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.273]], [[SA1275]], [[DHP125]], [[JA367]], [[SN7.4]], [[SNP3.10]] |
+| [[SA-2.273]], [[SA1275]], [[DHP\|DHP125]], [[JA367]], [[SN7.4]], [[SNP3.10]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.22]]
 > ◄  [[sn1.21-bodhi]] 📜  [[sn1.23-bodhi]] ►

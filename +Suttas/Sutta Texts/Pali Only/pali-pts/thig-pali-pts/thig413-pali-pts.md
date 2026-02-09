@@ -23,3 +23,5 @@ so mātarañ ca pitarañ ca bhaṇati āpucch'; āhaṃ gamissāmi |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig413-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG413]]
+> ◄  [[thig412-pali-pts]] 📜  [[thig414-pali-pts]] ►

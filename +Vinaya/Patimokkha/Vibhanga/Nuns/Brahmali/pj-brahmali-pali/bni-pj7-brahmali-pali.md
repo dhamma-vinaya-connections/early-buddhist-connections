@@ -189,7 +189,8 @@ Sā bhikkhunī samanubhāsitabbā. Evañca pana, bhikkhave, samanubhāsitabbā. 
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pj7-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PJ7]] |
->|       |          | [[ñanatusita-analysis#^-PJ7]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PJ7]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PJ]] I 🌐 [[BNI-PJ7]]

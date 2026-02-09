@@ -121,3 +121,5 @@ aphusiṁ santimuttamaṁ".
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig9-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THIG]]  / 🌐 [[THIG9]]
+> ◄  [[thig8-sujato-pali]] 📜  [[thig10-sujato-pali]] ►

@@ -23,3 +23,5 @@ so me dhammam adesesi muni dukkhassa pāragū;
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1253-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1253]]
+> ◄  [[thag1252-pali-pts]] 📜  [[thag1254-pali-pts]] ►

@@ -87,5 +87,6 @@ Then Ven. Sāriputta—having instructed, urged, roused, & encouraged the female
 | [[EA37.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.50]]
 > ◄  [[an7.49-thanissaro]] 📜  [[an7.51-thanissaro]] ►

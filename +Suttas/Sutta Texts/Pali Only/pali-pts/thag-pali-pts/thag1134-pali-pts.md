@@ -23,3 +23,5 @@ varāhaeṇeyyavigāḷhasevite pabbhārakūṭe pakaṭe 'va sundare
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1134-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1134]]
+> ◄  [[thag1133-pali-pts]] 📜  [[thag1135-pali-pts]] ►

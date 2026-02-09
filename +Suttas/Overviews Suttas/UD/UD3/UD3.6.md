@@ -100,4 +100,5 @@ they are a brahmin, an ascetic, a mendicant
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud3.6
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud3.6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD3.5]]  🌐 [[UD3.7]] ►

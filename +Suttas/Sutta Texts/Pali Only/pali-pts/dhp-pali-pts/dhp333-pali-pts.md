@@ -27,3 +27,5 @@ manujassa pamattacārino taṇhā vaḍḍhati māluvā viya, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp333-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP333]]
+> ◄  [[dhp332-pali-pts]] 📜  [[dhp334-pali-pts]] ►

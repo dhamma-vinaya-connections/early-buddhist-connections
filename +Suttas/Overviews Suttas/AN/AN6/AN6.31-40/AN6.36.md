@@ -89,4 +89,5 @@ parallels_partilal: "[[DN33]], [[MN104]], [[PLI-TV-KD14]], [[PLI-TV-PVR4]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.36
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.36.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.35]]  🌐 [[AN6.37]] ►

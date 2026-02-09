@@ -35,5 +35,6 @@ Evaṃ me sutaṃ. Ekaṃ samayaṃ Bhagavā Rājagahe viharati Gijjhakūṭe pa
 | [[EA40.2]], [[MA142]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.22]]
 > ◄  [[an7.21-pali-pts]] 📜  [[an7.23-pali-pts]] ►

@@ -23,3 +23,5 @@ tūlapuṇṇasadisopamā ubho sobhate su pādā pure mama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig268-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG268]]
+> ◄  [[thig267-pali-pts]] 📜  [[thig269-pali-pts]] ►

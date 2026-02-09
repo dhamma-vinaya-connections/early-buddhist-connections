@@ -28,3 +28,5 @@ Passati passo passantaṃ apassantañ ca passati:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag60-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG60]]
+> ◄  [[thag59-pali-pts]] 📜  [[thag61-pali-pts]] ►

@@ -36,15 +36,16 @@ Ayampi attho vutto bhagavatā, iti me sutanti. Tatiyaṃ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP307]], [[DHP308]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[DHP307]], [[ITI48]], [[PLI-TV-BU-VB-PJ4]], [[DHP308]] |
+| [[DHP\|DHP307]], [[ITI48]], [[PLI-TV-BU-VB-PJ4]], [[DHP\|DHP308]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[DHP308.]]
+> - [[DHP\|DHP308.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI91]]
 > ◄  [[iti90-pali-sc]] 📜  [[iti92-pali-sc]] ►

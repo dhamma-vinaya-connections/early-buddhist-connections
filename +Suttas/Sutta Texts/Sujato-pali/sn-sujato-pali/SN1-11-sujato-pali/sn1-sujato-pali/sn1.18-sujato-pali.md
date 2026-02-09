@@ -50,15 +50,16 @@ caranti visame saman"ti.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP143]] | [[SA-2.163]], [[SA578]] |  |
+> |  | [[SA-2.163]], [[SA578]] |  |
 > > [!check]- Partial parallels 
 > > 
-| [[SA-2.163]], [[SA578]], [[DHP143]] |
+| [[SA-2.163]], [[SA578]], [[DHP\|DHP143]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN35.199]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.18]]
 > ◄  [[sn1.17-sujato-pali]] 📜  [[sn1.19-sujato-pali]] ►

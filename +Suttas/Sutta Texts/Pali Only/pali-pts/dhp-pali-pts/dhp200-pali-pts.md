@@ -24,3 +24,5 @@ jayaṃ veraṃ pasavati dukkhaṃ seti parājito, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp200-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP200]]
+> ◄  [[dhp199-pali-pts]] 📜  [[dhp201-pali-pts]] ►

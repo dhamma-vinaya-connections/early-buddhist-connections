@@ -23,3 +23,5 @@ yass'; atthāya pabbajito agārasmā anagāriyaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag135-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG135]]
+> ◄  [[thag134-pali-pts]] 📜  [[thag136-pali-pts]] ►

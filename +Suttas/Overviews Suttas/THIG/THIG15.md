@@ -95,4 +95,5 @@ because of adultery with another’s wife
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig15
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig15.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG14]]  🌐 [[THIG16]] ►

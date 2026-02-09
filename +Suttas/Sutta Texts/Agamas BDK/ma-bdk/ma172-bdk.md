@@ -34,11 +34,12 @@ one speaks of ‘an intelligent monk, clever, and with vast wisdom.’] World- h
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.186]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.61]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA172]]
 > ◄  [[ma171-bdk]] 📜  [[ma173-bdk]] ►

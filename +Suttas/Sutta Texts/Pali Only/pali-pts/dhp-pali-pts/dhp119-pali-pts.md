@@ -24,3 +24,5 @@ bhadro pi passatī pāpaṃ yāva bhadraṃ na paccati, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp119-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP119]]
+> ◄  [[dhp118-pali-pts]] 📜  [[dhp120-pali-pts]] ►

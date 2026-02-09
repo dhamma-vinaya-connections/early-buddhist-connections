@@ -252,3 +252,5 @@ For me, abiding thus—behold my energy and striving! The three true knowledges 
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag4-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG4]]
+> ◄  [[thag3-pali-eng]] 📜  [[thag5-pali-eng]] ►

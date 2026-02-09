@@ -82,5 +82,6 @@ When this was said, Vappa the Sakyan, a disciple of the Nigaṇṭhas, said to t
 | [[MA12]], [[SN42.12]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.195]]
 > ◄  [[an4.194-deepseek-pali]] 📜  [[an4.196-deepseek-pali]] ►

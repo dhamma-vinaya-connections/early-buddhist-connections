@@ -31,5 +31,6 @@ PTS: A i 272
 | [[ITI66]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.121]]
 > ◄  [[an3.120-pali-pts]] 📜  [[an3.122-pali-pts]] ►

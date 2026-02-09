@@ -99,7 +99,8 @@ p_2V_2634Sattamasikkhāpadaṁ niṭṭhitaṁ.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc7-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC7]] |
->|       |          | [[ñanatusita-analysis#^-PC7]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC7]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC7]]

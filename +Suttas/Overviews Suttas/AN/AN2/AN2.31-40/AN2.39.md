@@ -90,4 +90,5 @@ They are reckoned as a child, not a senior
 > - Dhamma Gift: https://dhamma.gift/read/?q=an2.39
 > - The Buddhas Words: https://thebuddhaswords.net/an/an2.39.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN2.38]]  🌐 [[AN2.40]] ►

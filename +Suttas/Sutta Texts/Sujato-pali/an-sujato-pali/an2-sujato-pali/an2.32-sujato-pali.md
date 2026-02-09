@@ -56,5 +56,6 @@ Sappuriso ca kho, bhikkhave, kataññū hoti katavedī. Sabbhi hetaṁ, bhikkhav
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MN110]], [[SN7.14]], [[AN4.73]], [[ITI106]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.32]]
 > ◄  [[an2.31-sujato-pali]] 📜  [[an2.33-sujato-pali]] ►

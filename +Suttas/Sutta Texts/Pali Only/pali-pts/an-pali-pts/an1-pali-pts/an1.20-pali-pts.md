@@ -36,5 +36,6 @@ Nīvaraṇa-pahāna-vaggo dutiyo.1
 | [[EA9.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.20]]
 > ◄  [[an1.19-pali-pts]] 📜  [[an1.21-pali-pts]] ►

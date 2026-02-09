@@ -199,7 +199,8 @@ Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṁ pācittiyaṁ. Avikappite
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-np21-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#NP21]] |
->|       |          | [[ñanatusita-analysis#^NP21]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^NP21]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-NP]] I 🌐 [[BU-NP21]]

@@ -25,3 +25,5 @@ viriyasātaccasampanno yuttayogo sadā siyā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag584-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG584]]
+> ◄  [[thag583-pali-pts]] 📜  [[thag585-pali-pts]] ►

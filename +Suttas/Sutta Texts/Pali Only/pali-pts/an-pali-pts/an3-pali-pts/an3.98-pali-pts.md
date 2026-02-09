@@ -34,5 +34,6 @@ Idha bhikkhave rañño bhaddo assājānīyo vaṇṇasampanno ca hoti balasampan
 | [[SA-2.146]], [[SA920]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.98]]
 > ◄  [[an3.97-pali-pts]] 📜  [[an3.99-pali-pts]] ►

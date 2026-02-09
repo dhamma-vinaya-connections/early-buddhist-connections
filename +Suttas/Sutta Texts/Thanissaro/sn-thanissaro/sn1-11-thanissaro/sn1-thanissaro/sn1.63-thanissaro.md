@@ -33,3 +33,5 @@ Craving 		is the one thing
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.63-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.63]]
+> ◄  [[sn1.62-thanissaro]] 📜  [[sn1.64-thanissaro]] ►

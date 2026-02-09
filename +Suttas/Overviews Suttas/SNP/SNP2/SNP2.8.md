@@ -100,4 +100,5 @@ with your doubts unresolved.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.8
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.8.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.7]]  🌐 [[SNP2.9]] ►

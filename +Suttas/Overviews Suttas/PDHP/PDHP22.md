@@ -93,4 +93,5 @@ so passion, hatred and delusion cannot penetrate a mind that is well-developed.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp22
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp22.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP21]]  🌐 [[PDHP23]] ►

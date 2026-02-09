@@ -29,11 +29,12 @@ Idha bhikkhave bhikkhu duddadaṃ dadāti dukkaraṃ karoti dukkhamaṃ khamati.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN7.36]] |  | A i 286 |
+> |  |  | A i 286 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN7.36]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.135]]
 > ◄  [[an3.134-pali-pts]] 📜  [[an3.136-pali-pts]] ►

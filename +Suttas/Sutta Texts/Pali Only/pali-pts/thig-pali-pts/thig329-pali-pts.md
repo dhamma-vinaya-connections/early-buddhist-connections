@@ -23,3 +23,5 @@ sikkhamānāya me ayye dibbacakkhuṃ visodhitaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig329-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG329]]
+> ◄  [[thig328-pali-pts]] 📜  [[thig330-pali-pts]] ►

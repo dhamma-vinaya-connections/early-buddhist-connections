@@ -41,11 +41,12 @@ Summary Verse
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN22.26-27]] | [[SA14]] |  |
+> |  | [[SA14]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SA14]], [[SN22.26-27]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA1]]  / 🌐 [[SA14]]
 > ◄  [[sa13-patton]] 📜  [[sa15-patton]] ►

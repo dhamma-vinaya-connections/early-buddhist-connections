@@ -98,4 +98,5 @@ with stream cut, unbound.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud7.5
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud7.5.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD7.4]]  🌐 [[UD7.6]] ►

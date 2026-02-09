@@ -58,15 +58,16 @@ Catutthaṁ.
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP334]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG4.8]], [[DHP334]], [[PE2]] |
+| [[THAG4]].8, [[DHP\|DHP334]], [[PE2]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THAG4.8]]
+> - [[THAG4]].8
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD7.4]]
 > ◄  [[ud7.3-anandajoti-pali]] 📜  [[ud7.5-anandajoti-pali]] ►

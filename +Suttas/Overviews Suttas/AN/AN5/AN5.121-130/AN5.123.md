@@ -86,4 +86,5 @@ parallels_partilal: "[[EA32.8]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an5.123
 > - The Buddhas Words: https://thebuddhaswords.net/an/an5.123.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN5.122]]  🌐 [[AN5.124]] ►

@@ -35,5 +35,6 @@ Tasmāt iha bhikkhave evaṃ sikkhitabbaṃ -- tibbo no chando bhavissati adhis�
 | [[SA827]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.83]]
 > ◄  [[an3.82-pali-pts]] 📜  [[an3.84-pali-pts]] ►

@@ -53,5 +53,10 @@ Navamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:ud6.9-) 
 
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[DN1]]
+
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD6.9]]
 > ◄  [[ud6.8-anandajoti-pali]] 📜  [[ud6.10-anandajoti-pali]] ►

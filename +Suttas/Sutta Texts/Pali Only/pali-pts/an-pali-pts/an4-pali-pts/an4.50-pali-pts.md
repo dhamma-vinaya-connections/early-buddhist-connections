@@ -31,5 +31,6 @@ PTS: A ii 53
 | [[EA28.2]], [[PLI-TV-KD22]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.50]]
 > ◄  [[an4.49-pali-pts]] 📜  [[an4.51-pali-pts]] ►

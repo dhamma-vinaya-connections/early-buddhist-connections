@@ -138,6 +138,6 @@ Then the many Kosalan brahmins, before they had gone far, rebuked Assalāyana wi
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN93]] | [[EA40.9]] |  |
+> |  | [[EA40.9]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA151]]
 > ◄  [[ma150-bdk]] 📜  [[ma152-bdk]] ►

@@ -99,4 +99,5 @@ and the end of grasping;
 > - Dhamma Gift: https://dhamma.gift/read/?q=thag13
 > - The Buddhas Words: https://thebuddhaswords.net/thag/thag13.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THAG]] | ◄  [[THAG12]]  🌐 [[THAG14]] ►

@@ -56,7 +56,7 @@ Thus, to the person who gives food, drink, and clothing, Who provides beds, seat
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.51]] |  | A iii 51 |
+> |  |  | A iii 51 |
 > > [!check]- Partial parallels 
 > > 
 | [[AN4.51]] |
@@ -65,6 +65,7 @@ Thus, to the person who gives food, drink, and clothing, Who provides beds, seat
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN6.37]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.45]]
 > ◄  [[an5.44-deepseek-pali]] 📜  [[an5.46-deepseek-pali]] ►

@@ -50,5 +50,6 @@ language: "English - Pali"
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN46.51.]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.51]]
 > ◄  [[an5.50-deepseek-pali]] 📜  [[an5.52-deepseek-pali]] ►

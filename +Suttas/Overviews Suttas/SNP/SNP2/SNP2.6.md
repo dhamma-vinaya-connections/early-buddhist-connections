@@ -99,4 +99,5 @@ all of you, united, shun him.
 > - Dhamma Gift: https://dhamma.gift/read/?q=snp2.6
 > - The Buddhas Words: https://thebuddhaswords.net/snp/snp2.6.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[SNP]] | ◄  [[SNP2.5]]  🌐 [[SNP2.7]] ►

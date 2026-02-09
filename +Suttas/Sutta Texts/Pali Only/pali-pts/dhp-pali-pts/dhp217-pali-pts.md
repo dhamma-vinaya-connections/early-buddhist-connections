@@ -24,3 +24,5 @@ chandajāto anakkhāte manasā ca phuṭo siyā /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp217-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP217]]
+> ◄  [[dhp216-pali-pts]] 📜  [[dhp218-pali-pts]] ►

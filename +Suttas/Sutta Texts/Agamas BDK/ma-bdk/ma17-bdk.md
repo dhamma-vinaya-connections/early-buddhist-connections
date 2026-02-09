@@ -48,7 +48,7 @@ progress, the path to a good realm of existence? It is the eightfold noble path:
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[SN42.6]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN8.63]], [[SN47.3]] |
@@ -57,6 +57,7 @@ progress, the path to a good realm of existence? It is the eightfold noble path:
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN10.176.]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA17]]
 > ◄  [[ma16-bdk]] 📜  [[ma18-bdk]] ►

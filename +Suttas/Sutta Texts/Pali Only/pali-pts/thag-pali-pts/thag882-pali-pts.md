@@ -23,3 +23,5 @@ pamādam anuyuñjanti bālā dummedhino janā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag882-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG882]]
+> ◄  [[thag881-pali-pts]] 📜  [[thag883-pali-pts]] ►

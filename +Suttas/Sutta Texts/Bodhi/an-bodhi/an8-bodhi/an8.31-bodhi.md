@@ -32,5 +32,6 @@ language: "English"
 | [[DN33]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.31]]
 > ◄  [[an8.30-bodhi]] 📜  [[an8.32-bodhi]] ►

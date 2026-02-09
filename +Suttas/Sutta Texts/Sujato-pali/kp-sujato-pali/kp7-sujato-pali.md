@@ -158,3 +158,5 @@ The Hungry Shades Beyond the Walls
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:kp7-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[KP]]  / 🌐 [[KP7]]
+> ◄  [[kp6-sujato-pali]] 📜  [[kp8-sujato-pali]] ►

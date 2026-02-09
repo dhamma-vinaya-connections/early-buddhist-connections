@@ -28,11 +28,12 @@ Imāni kho bhante aṭṭha khīṇāsavassa bhikkhuno balāni, yehi balehi sama
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[DHP315]], [[THIG1.5]] | [[EA42.1]], [[MA124]] | A iv 225 |
+> |  | [[EA42.1]], [[MA124]] | A iv 225 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA42.1]], [[MA124]], [[DHP315]], [[THAG17.2]], [[SNP2.10]], [[THAG14.1]], [[THIG1.5]], [[DN34]] |
+| [[EA42.1]], [[MA124]], [[DHP\|DHP315]], [[THAG17]].2, [[SNP2.10]], [[THAG14]].1, [[THIG1]].5, [[DN34]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.29]]
 > ◄  [[an8.28-pali-pts]] 📜  [[an8.30-pali-pts]] ►

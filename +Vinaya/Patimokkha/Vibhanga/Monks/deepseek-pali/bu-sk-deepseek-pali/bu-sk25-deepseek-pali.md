@@ -40,7 +40,8 @@ The fourth training rule is concluded.
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-sk25-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#SK25]] |
->|       |          | [[ñanatusita-analysis#^SK25]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^SK25]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-SK]] I 🌐 [[BU-SK25]]

@@ -34,5 +34,6 @@ Imehi kho bhikkhave pañcahi dhammehi samannāgatena bhikkhunā upasampādetabba
 | [[PLI-TV-KD1]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.252]]
 > ◄  [[an5.251-pali-pts]] 📜  [[an5.253-pali-pts]] ►

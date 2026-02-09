@@ -23,3 +23,5 @@ evaṃ sudesite dhamme ko pamādo vijānataṃ dhammaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1244-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1244]]
+> ◄  [[thag1243-pali-pts]] 📜  [[thag1245-pali-pts]] ►

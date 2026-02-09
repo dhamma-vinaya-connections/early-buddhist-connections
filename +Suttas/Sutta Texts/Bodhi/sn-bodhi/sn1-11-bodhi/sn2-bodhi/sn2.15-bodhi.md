@@ -60,5 +60,6 @@ Standing to one side, the young deva Candana addressed the Blessed One in verse:
 | [[SA-2.178]], [[SA1269]], [[SA-2.315]], [[SA1316]], [[SNP1.9]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN2]]  / 🌐 [[SN2.15]]
 > ◄  [[sn2.14-bodhi]] 📜  [[sn2.16-bodhi]] ►

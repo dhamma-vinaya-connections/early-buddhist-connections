@@ -33,3 +33,5 @@ Ime kho, bhikkhave, satta puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjali
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an7.95-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN7.95]]
+> ◄  [[an7.94-pali-sc]] 📜  [[an7.96-pali-sc]] ►

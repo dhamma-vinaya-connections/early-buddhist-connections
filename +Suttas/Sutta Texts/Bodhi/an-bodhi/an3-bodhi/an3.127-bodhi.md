@@ -58,5 +58,6 @@ not having gotten enough of these three things.”
 | [[SA-2.188]], [[SA594]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.127]]
 > ◄  [[an3.126-bodhi]] 📜  [[an3.128-bodhi]] ►

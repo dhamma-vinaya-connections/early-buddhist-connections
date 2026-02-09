@@ -261,7 +261,8 @@ Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-pc138-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-PC138]] |
->|       |          | [[ñanatusita-analysis#^-PC138]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-PC138]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-PC]] I 🌐 [[BNI-PC138]]

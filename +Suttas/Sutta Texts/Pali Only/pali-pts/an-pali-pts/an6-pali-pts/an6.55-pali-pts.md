@@ -36,5 +36,6 @@ Nisīdi Bhagavā paññatte āsane, āyasmā pi kho Soṇo Bhagavantaṃ abhivā
 | [[EA23.3]], [[MA123]], [[SA254]], [[PLI-TV-KD5]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN6]]  / 🌐 [[AN6.55]]
 > ◄  [[an6.54-pali-pts]] 📜  [[an6.56-pali-pts]] ►

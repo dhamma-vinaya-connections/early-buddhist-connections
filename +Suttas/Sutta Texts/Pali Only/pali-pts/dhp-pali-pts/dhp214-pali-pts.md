@@ -24,3 +24,5 @@ kāmato jāyatī soko kāmato jāyatī bhayaṃ, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp214-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP214]]
+> ◄  [[dhp213-pali-pts]] 📜  [[dhp215-pali-pts]] ►

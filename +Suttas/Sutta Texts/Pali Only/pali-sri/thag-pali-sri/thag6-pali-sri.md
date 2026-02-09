@@ -724,3 +724,5 @@ Chakkanipāto niṭṭhito.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag6-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG6]]
+> ◄  [[thag5-pali-sri]] 📜  [[thag7-pali-sri]] ►

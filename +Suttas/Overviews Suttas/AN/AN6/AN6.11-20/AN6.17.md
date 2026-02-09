@@ -91,4 +91,5 @@ parallels_partilal: "[[AN5.56]]"
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.17
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.17.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.16]]  🌐 [[AN6.18]] ►

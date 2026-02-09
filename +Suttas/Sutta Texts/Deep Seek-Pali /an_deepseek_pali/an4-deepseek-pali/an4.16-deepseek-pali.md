@@ -42,5 +42,6 @@ That monk is truly seeing, tranquil, delighting in peace; he bears this final bo
 | [[ITI62]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.16]]
 > ◄  [[an4.15-deepseek-pali]] 📜  [[an4.17-deepseek-pali]] ►

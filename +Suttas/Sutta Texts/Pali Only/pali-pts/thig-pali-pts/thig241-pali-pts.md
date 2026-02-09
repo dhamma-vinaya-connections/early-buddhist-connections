@@ -24,3 +24,5 @@ corā ca vajjhaghātā ca ye c'; aññe pāpakammino |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig241-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG241]]
+> ◄  [[thig240-pali-pts]] 📜  [[thig242-pali-pts]] ►

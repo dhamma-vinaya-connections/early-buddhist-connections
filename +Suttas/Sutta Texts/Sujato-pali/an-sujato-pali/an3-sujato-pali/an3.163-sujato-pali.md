@@ -130,3 +130,5 @@ tikakena niyojayeti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an3.163-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN3.163]]
+> ◄  [[an3.156-sujato-pali]] 📜  [[an3.183-sujato-pali]] ►

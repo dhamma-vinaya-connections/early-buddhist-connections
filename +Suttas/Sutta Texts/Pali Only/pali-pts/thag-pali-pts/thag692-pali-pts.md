@@ -23,3 +23,5 @@ nāgaṃ vo kittayissāmi, na hi āguṃ karoti so.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag692-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG692]]
+> ◄  [[thag691-pali-pts]] 📜  [[thag693-pali-pts]] ►

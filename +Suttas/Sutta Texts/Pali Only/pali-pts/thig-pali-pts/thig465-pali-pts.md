@@ -25,3 +25,5 @@ kim iva pūtikāyam asuciṃ savanagandhaṃ bhayānakaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig465-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG465]]
+> ◄  [[thig464-pali-pts]] 📜  [[thig466-pali-pts]] ►

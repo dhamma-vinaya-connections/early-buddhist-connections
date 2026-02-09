@@ -36,10 +36,11 @@ One given to conceit can extinguish it through being without conceit. One given 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN8]] | [[EA47.9]] | M i 320 |
+> |  | [[EA47.9]] | M i 320 |
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[MA87]], [[MA93]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA91]]
 > ◄  [[ma90-bdk]] 📜  [[ma92-bdk]] ►

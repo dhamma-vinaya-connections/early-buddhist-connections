@@ -24,3 +24,5 @@ Khandhā diṭṭhā yathābhūtaṃ, bhavā sabbe padālitā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag86-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG86]]
+> ◄  [[thag85-pali-pts]] 📜  [[thag87-pali-pts]] ►

@@ -92,5 +92,6 @@ Evaṃ saṅkārabhūtesu andhabhūte puthujjane atirocati paññāya sammāsamb
 | [[JA371]], [[JA428]], [[MN128]], [[PLI-TV-KD10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP4]]
 > ◄  [[dhp3-pali-sc]] 📜  [[dhp5-pali-sc]] ►

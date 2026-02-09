@@ -23,3 +23,5 @@ tesaṃ kho vata atthāya bodhiṃ ajjhagamā muni
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1256-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1256]]
+> ◄  [[thag1255-pali-pts]] 📜  [[thag1257-pali-pts]] ►

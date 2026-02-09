@@ -93,8 +93,9 @@ The Ninth Chapter on Evil is finished.
 > |  |  | Dh 33 |
 > > [!check]- Partial parallels 
 > > 
-| [[JA221]], [[JA514]], [[THAG17.1]] |
+| [[JA221]], [[JA514]], [[THAG17]].1 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP9]]
 > ◄  [[dhp8-deepseek-pali]] 📜  [[dhp10-deepseek-pali]] ►

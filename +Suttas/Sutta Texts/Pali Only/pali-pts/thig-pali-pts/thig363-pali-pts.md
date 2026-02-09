@@ -23,3 +23,5 @@ sāyaṃ bhujissā anaṇā bhikkhunī bhāvitindriyā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig363-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG363]]
+> ◄  [[thig362-pali-pts]] 📜  [[thig364-pali-pts]] ►

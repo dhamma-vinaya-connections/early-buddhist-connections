@@ -23,3 +23,5 @@ saṇhanūpurasuvaṇṇamaṇḍitā sobhate su jaṅghā pure mama |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig267-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG267]]
+> ◄  [[thig266-pali-pts]] 📜  [[thig268-pali-pts]] ►

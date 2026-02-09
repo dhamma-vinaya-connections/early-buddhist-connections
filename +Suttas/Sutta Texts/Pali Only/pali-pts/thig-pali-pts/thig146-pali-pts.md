@@ -24,3 +24,5 @@ tattha ramitvā kīḷitvā āgacchantī sakaṃ gharaṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig146-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG146]]
+> ◄  [[thig145-pali-pts]] 📜  [[thig147-pali-pts]] ►

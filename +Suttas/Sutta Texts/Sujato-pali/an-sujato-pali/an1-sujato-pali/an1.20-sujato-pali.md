@@ -44,5 +44,6 @@ Nīvaraṇappahānavaggo dutiyo.
 | [[EA9.10]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.20]]
 > ◄  [[an1.19-sujato-pali]] 📜  [[an1.21-sujato-pali]] ►

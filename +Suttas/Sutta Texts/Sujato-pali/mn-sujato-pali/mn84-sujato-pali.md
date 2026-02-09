@@ -238,5 +238,6 @@ Madhurasuttaṁ niṭṭhitaṁ catutthaṁ.
 | [[SA548]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
 > ◄  [[mn83-sujato-pali]] 📜  [[mn85-sujato-pali]] ►

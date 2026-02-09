@@ -35,5 +35,6 @@ Imesaṃ kho bhikkhave dvinnaṃ āsavā na vaḍḍhantī ti.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[AN2.21]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN2]]  / 🌐 [[AN2.118]]
 > ◄  [[an2.99-pali-pts]] 📜  [[an2.119-pali-pts]] ►

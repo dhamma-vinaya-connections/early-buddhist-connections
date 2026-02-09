@@ -41,3 +41,5 @@ This meaning too was spoken by the Blessed One, so I have heard. The fourth.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:iti92-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI92]]
+> ◄  [[iti91-deepseek-pali]] 📜  [[iti93-deepseek-pali]] ►

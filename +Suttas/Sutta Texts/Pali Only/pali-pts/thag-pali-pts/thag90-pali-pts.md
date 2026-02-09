@@ -28,3 +28,5 @@ Na tathāmataṃ satarasaṃ sudhannaṃ yaṃ may'; ajja paribhuttaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag90-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG90]]
+> ◄  [[thag89-pali-pts]] 📜  [[thag91-pali-pts]] ►

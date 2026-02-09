@@ -23,3 +23,5 @@ saddhāyāhaṃ pabbajito upeto jinasāsane,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag788-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG788]]
+> ◄  [[thag787-pali-pts]] 📜  [[thag789-pali-pts]] ►

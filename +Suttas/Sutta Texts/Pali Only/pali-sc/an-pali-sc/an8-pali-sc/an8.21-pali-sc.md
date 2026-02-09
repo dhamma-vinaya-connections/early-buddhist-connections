@@ -69,5 +69,6 @@ Paṭhamaṁ.
 | [[MA38]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN8]]  / 🌐 [[AN8.21]]
 > ◄  [[an8.20-pali-sc]] 📜  [[an8.22-pali-sc]] ►

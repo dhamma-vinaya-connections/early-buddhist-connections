@@ -24,3 +24,5 @@ evaṃ gopetha attānaṃ, khaṇo ve mā upaccagā,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1004-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1004]]
+> ◄  [[thag1003-pali-pts]] 📜  [[thag1005-pali-pts]] ►

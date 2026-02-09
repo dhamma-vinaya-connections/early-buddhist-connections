@@ -110,5 +110,6 @@ Pundarika, the fire-worshipper, was known as Kathina; Dighanakha, again, was of 
 | [[MA209]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN80]]
 > ◄  [[mn79-deepseek-pali]] 📜  [[mn81-deepseek-pali]] ►

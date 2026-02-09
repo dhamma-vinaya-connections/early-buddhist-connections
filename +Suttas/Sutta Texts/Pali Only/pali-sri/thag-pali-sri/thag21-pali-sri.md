@@ -541,3 +541,5 @@ Theragāthāpāḷi niṭṭhitā.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag21-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG21]]
+> ◄  [[thag20-pali-sri]] 📜  [[]] ►

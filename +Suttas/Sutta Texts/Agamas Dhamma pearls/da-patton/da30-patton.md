@@ -353,11 +353,12 @@ Translated by Charles Patton
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.36]], [[MN130]] | [[EA32.4]], [[MA64]] |  |
+> |  | [[EA32.4]], [[MA64]] |  |
 > > [!check]- Partial parallels 
 > > 
 | [[EA52.6]], [[AN7.57]], [[EA32.10]], [[PE3]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DA]]  / 🌐 [[DA30]]
 > ◄  [[da29-patton]] 📜  [[]] ►

@@ -195,5 +195,6 @@ Madhurasuttaṃ catutthaṃ.
 | [[SA548]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN84]]
 > ◄  [[mn83-pali-sri]] 📜  [[mn85-pali-sri]] ►

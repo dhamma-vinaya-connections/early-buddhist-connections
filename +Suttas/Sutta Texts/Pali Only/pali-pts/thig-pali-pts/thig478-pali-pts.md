@@ -23,3 +23,5 @@ sā c'; evaṃ bhaṇati pitaraṃ Anikaratto ca yassa dinnā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig478-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG478]]
+> ◄  [[thig477-pali-pts]] 📜  [[thig479-pali-pts]] ►

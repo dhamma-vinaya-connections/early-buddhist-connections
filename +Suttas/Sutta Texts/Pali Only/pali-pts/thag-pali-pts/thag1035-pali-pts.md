@@ -23,3 +23,5 @@ ye purāṇā atītā te, navehi na sameti me,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1035-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1035]]
+> ◄  [[thag1034-pali-pts]] 📜  [[thag1036-pali-pts]] ►

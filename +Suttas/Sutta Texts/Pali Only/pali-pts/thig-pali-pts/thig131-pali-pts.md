@@ -23,3 +23,5 @@ sājja abbūḷhasallāhaṃ nicchātā parinibbutā |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig131-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG131]]
+> ◄  [[thig130-pali-pts]] 📜  [[thig132-pali-pts]] ►

@@ -24,3 +24,5 @@ vitakkūpasame ca yo rato asubhaṃ bhāvayatī sadā sato /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp349-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP349]]
+> ◄  [[dhp348-pali-pts]] 📜  [[dhp350-pali-pts]] ►

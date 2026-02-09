@@ -23,3 +23,5 @@ Susārado thero.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag75-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG75]]
+> ◄  [[thag74-pali-pts]] 📜  [[thag76-pali-pts]] ►

@@ -39,11 +39,12 @@ They answered, “Yes, Bhagavān!”
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN3.57]], [[SN12.55-56]], [[SN12.58]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[AN3.57]], [[SN12.55-56]], [[SN12.58]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SA]] / 📂 [[SA3]]  / 🌐 [[SA284]]
 > ◄  [[sa283-patton]] 📜  [[sa285-patton]] ►

@@ -24,3 +24,5 @@ Diṭṭhā mayā dhammadharā upāsakā kāmā aniccā iti bhāsamānā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag186-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG186]]
+> ◄  [[thag185-pali-pts]] 📜  [[thag187-pali-pts]] ►

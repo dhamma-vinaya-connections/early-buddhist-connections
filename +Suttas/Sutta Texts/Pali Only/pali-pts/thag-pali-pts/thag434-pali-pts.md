@@ -23,3 +23,5 @@ Vātarogābhinīto tvaṃ viharaṃ kānane vane
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag434-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG434]]
+> ◄  [[thag433-pali-pts]] 📜  [[thag435-pali-pts]] ►

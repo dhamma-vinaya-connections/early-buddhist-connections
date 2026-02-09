@@ -82,5 +82,6 @@ Dasamaṁ.
 | [[SA423-425]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.80]]
 > ◄  [[an3.79-pali-sc]] 📜  [[an3.81-pali-sc]] ►

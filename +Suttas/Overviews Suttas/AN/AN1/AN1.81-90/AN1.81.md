@@ -87,4 +87,5 @@ So you should train like this: ‘we will grow in wisdom
 > - Dhamma Gift: https://dhamma.gift/read/?q=an1.81
 > - The Buddhas Words: https://thebuddhaswords.net/an/an1.81.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN1.80]]  🌐 [[AN1.82]] ►

@@ -23,3 +23,5 @@ itthirūpe itthirase phoṭṭhabbe pi ca itthiyā
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag737-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG737]]
+> ◄  [[thag736-pali-pts]] 📜  [[thag738-pali-pts]] ►

@@ -80,7 +80,8 @@ Cakes, the story of Upananda, three, the one who sets forth, Mahānāma, Pasenad
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bu-pc50-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#PC50]] |
->|       |          | [[ñanatusita-analysis#^PC50]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^PC50]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BU]] / 📂 [[BU-PC]] I 🌐 [[BU-PC50]]

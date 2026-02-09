@@ -45,3 +45,5 @@ pāpikañca na mocaye"ti.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:sn1.78-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.78]]
+> ◄  [[sn1.77-pali-sc]] 📜  [[sn1.79-pali-sc]] ►

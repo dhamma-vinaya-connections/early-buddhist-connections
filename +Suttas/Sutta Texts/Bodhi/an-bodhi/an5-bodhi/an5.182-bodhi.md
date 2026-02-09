@@ -27,3 +27,5 @@ language: "English"
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an5.182-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN5.182]]
+> ◄  [[an5.181-bodhi]] 📜  [[an5.191-bodhi]] ►

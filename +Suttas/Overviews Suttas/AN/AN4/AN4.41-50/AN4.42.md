@@ -92,4 +92,5 @@ In the four types of questions
 > - Dhamma Gift: https://dhamma.gift/read/?q=an4.42
 > - The Buddhas Words: https://thebuddhaswords.net/an/an4.42.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN4.41]]  🌐 [[AN4.43]] ►

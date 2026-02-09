@@ -23,3 +23,5 @@ tato me paṇidhī āsi cetaso abhipatthito:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag513-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG513]]
+> ◄  [[thag512-pali-pts]] 📜  [[thag514-pali-pts]] ►

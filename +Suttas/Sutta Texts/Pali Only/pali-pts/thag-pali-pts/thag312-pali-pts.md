@@ -23,3 +23,5 @@ nāsissaṃ na pivissāmi vihārā ca na nikkhame
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag312-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG312]]
+> ◄  [[thag311-pali-pts]] 📜  [[thag313-pali-pts]] ►

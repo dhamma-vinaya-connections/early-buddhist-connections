@@ -24,3 +24,5 @@ yo 'dha kāme pahatvāna anāgāro paribbaje /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp414-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP414]]
+> ◄  [[dhp413-pali-pts]] 📜  [[dhp415-pali-pts]] ►

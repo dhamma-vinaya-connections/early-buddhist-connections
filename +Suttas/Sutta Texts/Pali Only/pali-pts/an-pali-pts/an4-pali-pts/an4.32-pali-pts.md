@@ -29,11 +29,12 @@ Imāni kho bhikkhave cattāri cakkāni yehi samannāgatānaṃ devamanassānaṃ
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN4.256]] | [[SA669]] | A ii 32 |
+> |  | [[SA669]] | A ii 32 |
 > > [!check]- Partial parallels 
 > > 
 | [[SA669]], [[AN4.256]], [[AN8.24]], [[DN33]], [[DN31]], [[JA532]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.32]]
 > ◄  [[an4.31-pali-pts]] 📜  [[an4.33-pali-pts]] ►

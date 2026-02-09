@@ -28,3 +28,5 @@ susukhaṃ vata jīvāma verinesu averino, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp196-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP196]]
+> ◄  [[dhp195-pali-pts]] 📜  [[dhp197-pali-pts]] ►

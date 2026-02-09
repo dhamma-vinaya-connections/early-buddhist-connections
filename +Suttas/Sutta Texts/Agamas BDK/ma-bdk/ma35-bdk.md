@@ -42,6 +42,6 @@ forsake their original names and are all called renunciants—this is said to be
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN8.19]] | [[EA42.4]] |  |
+> |  | [[EA42.4]] |  |
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA35]]
 > ◄  [[ma34-bdk]] 📜  [[ma36-bdk]] ►

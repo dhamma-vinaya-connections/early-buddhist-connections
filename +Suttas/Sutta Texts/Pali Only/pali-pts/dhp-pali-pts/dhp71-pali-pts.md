@@ -24,3 +24,5 @@ yāvad eva anatthāya ñattaṃ bālassa jāyati /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp71-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP71]]
+> ◄  [[dhp70-pali-pts]] 📜  [[dhp72-pali-pts]] ►

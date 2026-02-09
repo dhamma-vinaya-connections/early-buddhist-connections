@@ -25,3 +25,5 @@ Saṃsaraṃ hi nirayaṃ agacchisaṃ, petalokam agamaṃ punappunaṃ,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag257-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG257]]
+> ◄  [[thag256-pali-pts]] 📜  [[thag258-pali-pts]] ►

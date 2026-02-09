@@ -95,4 +95,5 @@ and fulfilled the Buddha’s instructions.
 > - Dhamma Gift: https://dhamma.gift/read/?q=thig2
 > - The Buddhas Words: https://thebuddhaswords.net/thig/thig2.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[THIG]] | ◄  [[THIG1]]  🌐 [[THIG3]] ►

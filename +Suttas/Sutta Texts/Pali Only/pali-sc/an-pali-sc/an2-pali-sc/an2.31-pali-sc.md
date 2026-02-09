@@ -32,3 +32,5 @@ Rāgupakkiliṭṭhaṁ vā, bhikkhave, cittaṁ na vimuccati, avijjupakkiliṭ�
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an2.31-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]]  / 🌐 [[AN2.31]]
+> ◄  [[an2.30-pali-sc]] 📜  [[an2.32-pali-sc]] ►

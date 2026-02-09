@@ -34,9 +34,9 @@ sutta_teacher:
   - "Buddha"
 sutta_audience:
   - "Bhikkhus"
-parallels_nikaya: "[[THAG15.2]]"
+parallels_nikaya: ""
 parallels_agama: "[[MA118]]"
-parallels_partilal: "[[MA118]], [[THAG15.2]]"
+parallels_partilal: "[[MA118]], [[THAG15]].2"
 ---
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.42]]  🌐 [[AN6.44]] ►
 
@@ -68,10 +68,10 @@ He’s freed like gold from stone
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[THAG15.2]] | [[MA118]] | A iii 344 |
+> |  | [[MA118]] | A iii 344 |
 > > [!check]- Partial parallels 
 > > 
-| [[MA118]], [[THAG15.2]] |
+| [[MA118]], [[THAG15]].2 |
 | ------------------------ |
 
 
@@ -91,5 +91,6 @@ He’s freed like gold from stone
 > - Sutta Central: https://suttacentral.net/an6.43/en/sujato
 > - Dhamma Gift: https://dhamma.gift/read/?q=an6.43
 > - The Buddhas Words: https://thebuddhaswords.net/an/an6.43.html
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[AN]] | ◄  [[AN6.42]]  🌐 [[AN6.44]] ►

@@ -38,5 +38,6 @@ language: "English - Pali"
 | [[AN4.68]], [[PLI-TV-KD17]], [[SN17.35]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN6]]  / 🌐 [[SN6.12]]
 > ◄  [[sn6.11-deepseek-pali]] 📜  [[sn6.13-deepseek-pali]] ►

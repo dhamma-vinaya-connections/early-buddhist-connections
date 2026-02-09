@@ -171,11 +171,12 @@ Bhaddāli suttaṃ pañcamaṃ
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN66]] | [[EA49.7]]; [[MA192]]; [[MA194]] | M i 437 |
+> |  | [[EA49.7]]; [[MA192]]; [[MA194]] | M i 437 |
 > > [!check]- Partial parallels 
 > > 
-| [[EA49.7]]; [[MA194]]; [[MN66]]; [[MA192]] |
+| [[EA49.7]], [[MA194]], [[MN66]], [[MA192]] |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN65]]
 > ◄  [[mn64-pali-sri]] 📜  [[mn66-pali-sri]] ►

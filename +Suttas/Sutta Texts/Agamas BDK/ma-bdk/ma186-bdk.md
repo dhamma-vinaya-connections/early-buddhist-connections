@@ -32,7 +32,7 @@ Thus spoke the Buddha. Having heard what the Buddha said, the monks delighted in
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[MN47]] |  |  |
+> |  |  |  |
 > > [!check]- Partial parallels 
 > > 
 | [[SN12.58]] |
@@ -41,6 +41,7 @@ Thus spoke the Buddha. Having heard what the Buddha said, the monks delighted in
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN47.12]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MA]]  / 🌐 [[MA186]]
 > ◄  [[ma185-bdk]] 📜  [[ma187-bdk]] ►

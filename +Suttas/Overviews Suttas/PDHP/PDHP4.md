@@ -96,4 +96,5 @@ that one I say is a brahmin.
 > - Dhamma Gift: https://dhamma.gift/read/?q=pdhp4
 > - The Buddhas Words: https://thebuddhaswords.net/pdhp/pdhp4.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[PDHP]] | ◄  [[PDHP3]]  🌐 [[PDHP5]] ►

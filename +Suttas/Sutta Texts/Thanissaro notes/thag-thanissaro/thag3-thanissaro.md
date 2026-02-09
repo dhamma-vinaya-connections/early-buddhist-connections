@@ -255,3 +255,5 @@ I have the strength of my legs.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag3-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[THAG]]  / 🌐 [[THAG3]]
+> ◄  [[thag2-thanissaro]] 📜  [[thag4-thanissaro]] ►

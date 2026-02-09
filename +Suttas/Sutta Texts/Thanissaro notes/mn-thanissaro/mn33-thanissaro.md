@@ -98,15 +98,16 @@ Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka 
 > [!check] Parallels 
 > | In Nikayas  | In Āgamas  | PTS     |
 > | ----------- | ---------- | ------- |
-> | [[AN11.17]] | [[EA49.1]]; [[SA1249]] | M i 220 |
+> |  | [[EA49.1]]; [[SA1249]] | M i 220 |
 > > [!check]- Partial parallels 
 > > 
-| [[AN11.17]]; [[EA49.1]]; [[SA1249]]; [[SN35.120]]; [[DN2]]; [[DN3]]; [[DN4]]; [[DN5]]; [[DN6]]; [[DN7]]; [[DN8]]; [[DN9]]; [[DN10]]; [[DN11]]; [[DN12]]; [[DN13]]; [[MN27]]; [[MN38]]; [[MN51]]; [[MN53]]; [[MN60]]; [[MN76]]; [[MN79]]; [[MN94]]; [[MN101]]; [[MN107]]; [[MN112]]; [[AN4.14]]; [[AN4.165]]; [[AN4.198]]; [[AN5.76]]; [[AN5.140]]; [[AN10.99]]; [[MN39]]; [[SN35.127]]; [[SN35.240]]; [[AN3.16]]; [[AN4.37]] |
+| [[AN11.17]], [[EA49.1]], [[SA1249]], [[SN35.120]], [[DN2]], [[DN3]], [[DN4]], [[DN5]], [[DN6]], [[DN7]], [[DN8]], [[DN9]], [[DN10]], [[DN11]], [[DN12]], [[DN13]], [[MN27]], [[MN38]], [[MN51]], [[MN53]], [[MN60]], [[MN76]], [[MN79]], [[MN94]], [[MN101]], [[MN107]], [[MN112]], [[AN4.14]], [[AN4.165]], [[AN4.198]], [[AN5.76]], [[AN5.140]], [[AN10.99]], [[MN39]], [[SN35.127]], [[SN35.240]], [[AN3.16]], [[AN4.37]] |
 | ------------------------ |
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[THIS SUTTA ALSO APPEARS AT AN11.18]]
+> - [[THISSUTTAALSOAPPEARSATAN11.18]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN33]]
 > ◄  [[mn31-thanissaro]] 📜  [[mn35-thanissaro]] ►

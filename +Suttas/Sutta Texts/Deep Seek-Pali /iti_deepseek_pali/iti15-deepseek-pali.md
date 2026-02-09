@@ -38,5 +38,6 @@ This too was said by the Blessed One, so I heard. Sixth.
 | [[AN4.9]], [[ITI105]], [[SNP3.12]], [[JA493]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[ITI]]  / 🌐 [[ITI15]]
 > ◄  [[iti14-deepseek-pali]] 📜  [[iti16-deepseek-pali]] ►

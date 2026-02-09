@@ -23,3 +23,5 @@ tamh'; uddhaṭe tantikhīlake visaṭṭhe vikale paripakkate |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig390-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG390]]
+> ◄  [[thig389-pali-pts]] 📜  [[thig391-pali-pts]] ►

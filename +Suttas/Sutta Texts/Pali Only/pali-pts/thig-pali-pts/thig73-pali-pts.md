@@ -23,3 +23,5 @@ pilandhanaṃ vidaṃsentī guyhaṃ pakāsikaṃ bahuṃ |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig73-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG73]]
+> ◄  [[thig72-pali-pts]] 📜  [[thig74-pali-pts]] ►

@@ -41,5 +41,6 @@ rājā raṭṭhassa paññāṇam || bhattā paññāṇam itthiyāti || ||
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN12.38 AND SN12.64]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[SN]] / 📂 [[SN1]]  / 🌐 [[SN1.2]]
 > ◄  [[sn1.1-pali-pts]] 📜  [[sn1.3-pali-pts]] ►

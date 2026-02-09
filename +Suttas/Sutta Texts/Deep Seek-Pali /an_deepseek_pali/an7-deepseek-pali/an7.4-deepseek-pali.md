@@ -72,5 +72,6 @@ Wisely examining the Dhamma, one sees the meaning with wisdom; Like the extingui
 | [[SA691]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN7]]  / 🌐 [[AN7.4]]
 > ◄  [[an7.3-deepseek-pali]] 📜  [[an7.5-deepseek-pali]] ►

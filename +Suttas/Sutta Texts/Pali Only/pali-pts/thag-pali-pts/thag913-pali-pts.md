@@ -24,3 +24,5 @@ cāturanto vijitāvī Jambusaṇḍassa issaro,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag913-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG913]]
+> ◄  [[thag912-pali-pts]] 📜  [[thag914-pali-pts]] ►

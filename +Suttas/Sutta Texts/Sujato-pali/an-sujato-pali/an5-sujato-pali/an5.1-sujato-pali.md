@@ -62,5 +62,6 @@ Paṭhamaṁ.
 | [[SA677-678]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.1]]
 > ◄  [[]] 📜  [[an5.2-sujato-pali]] ►

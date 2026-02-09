@@ -23,3 +23,5 @@ tassāhaṃ vacanaṃ sutvā khandhe āyatanāni ca
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag1254-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG1254]]
+> ◄  [[thag1253-pali-pts]] 📜  [[thag1255-pali-pts]] ►

@@ -38,5 +38,6 @@ Sevanā Sutavā Sajjho puggalo āhuneyyo cā ti.
 | [[EA37.6]], [[MA24]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.11]]
 > ◄  [[an9.10-pali-pts]] 📜  [[an9.12-pali-pts]] ►

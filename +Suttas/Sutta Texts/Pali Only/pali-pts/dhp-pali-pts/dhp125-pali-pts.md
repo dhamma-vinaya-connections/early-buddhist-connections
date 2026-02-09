@@ -24,3 +24,5 @@ gabbham eke upapajjanti nirayaṃ pāpakammino, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp125-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP125]]
+> ◄  [[dhp124-pali-pts]] 📜  [[dhp126-pali-pts]] ►

@@ -25,3 +25,5 @@ kāmesv ādīnavaṃ disvā nekkhammaṃ daḷhakhemato |
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thig225-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THIG225]]
+> ◄  [[thig224-pali-pts]] 📜  [[thig226-pali-pts]] ►

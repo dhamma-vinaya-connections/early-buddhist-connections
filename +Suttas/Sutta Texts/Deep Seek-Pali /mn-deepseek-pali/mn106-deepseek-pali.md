@@ -108,7 +108,8 @@ The Gaṇakamoggallāna Sutta, the seventh, is concluded.
 
 >[!summary]- Suggestions by Ven. Thanissaro 
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
-> - [[SN22.55]]]]; [[[[MN140]]
+> - [[SN22.55]], [[MN140]]
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN106]]
 > ◄  [[mn105-deepseek-pali]] 📜  [[mn107-deepseek-pali]] ►

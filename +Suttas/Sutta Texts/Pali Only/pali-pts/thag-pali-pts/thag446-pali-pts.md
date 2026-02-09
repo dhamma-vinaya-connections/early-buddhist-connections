@@ -23,3 +23,5 @@ Channam ativassati, vivaṭaṃ nātivassati:
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag446-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG446]]
+> ◄  [[thag445-pali-pts]] 📜  [[thag447-pali-pts]] ►

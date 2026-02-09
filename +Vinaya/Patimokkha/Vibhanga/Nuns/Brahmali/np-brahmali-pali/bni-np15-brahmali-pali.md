@@ -203,7 +203,8 @@ Anadhiṭṭhite adhiṭṭhitasaññī … pe … avikappite vikappitasaññī 
 >| Vibhanga | BMC1     | Ven Ñanatusita                 |
 >| --------------------- | -------- | -------------------------- |
 >| [[bni-np15-brahmali-pali]]          | [[bmc1#PJ1]] | [[ñanatusita-translation#-NP15]] |
->|       |          | [[ñanatusita-analysis#^-NP15]]    |
+>|       |  [[bmc1-concise]]        | [[ñanatusita-analysis#^-NP15]]    |
+
 
 
 > [!important] ☸️ [[Patimokkha.base#patimokkha-catalogue|Vin Catalogue]] I 📒 [[BNI]] / 📂 [[BNI-NP]] I 🌐 [[BNI-NP15]]

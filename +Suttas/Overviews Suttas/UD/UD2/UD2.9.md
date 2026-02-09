@@ -92,4 +92,5 @@ He who is without fear, happy, and griefless.”
 > - Dhamma Gift: https://dhamma.gift/read/?q=ud2.9
 > - The Buddhas Words: https://thebuddhaswords.net/ud/ud2.9.html
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] |📔 [[UD]] | ◄  [[UD2.8]]  🌐 [[UD2.10]] ►

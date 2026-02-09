@@ -24,3 +24,5 @@ yassa kāyena vācāya manasā n'; atthi dukkataṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp390-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP390]]
+> ◄  [[dhp389-pali-pts]] 📜  [[dhp391-pali-pts]] ►

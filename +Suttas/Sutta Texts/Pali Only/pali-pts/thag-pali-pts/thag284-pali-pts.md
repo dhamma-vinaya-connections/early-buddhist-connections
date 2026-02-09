@@ -23,3 +23,5 @@ etādisaṃ karitvāna bahuṃ duggatigāminaṃ
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag284-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG284]]
+> ◄  [[thag283-pali-pts]] 📜  [[thag285-pali-pts]] ►

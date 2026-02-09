@@ -23,3 +23,5 @@ bhagavā tattha āgacchi, sīsaṃ mayhaṃ parāmasi,
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:thag558-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[TH]]  / 🌐 [[THAG558]]
+> ◄  [[thag557-pali-pts]] 📜  [[thag559-pali-pts]] ►

@@ -42,5 +42,6 @@ This the Blessed One said. Those monks were gratified and delighted in the Bless
 | [[PLI-TV-KD21]], [[DN16]] |
 | ------------------------ |
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN3]]  / 🌐 [[AN3.125]]
 > ◄  [[an3.124-deepseek-pali]] 📜  [[an3.126-deepseek-pali]] ►

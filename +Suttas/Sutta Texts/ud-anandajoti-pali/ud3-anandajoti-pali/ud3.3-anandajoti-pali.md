@@ -182,5 +182,6 @@ Tatiyaṁ.
 > >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
 > - [[SN41.3]], [[AN8.30]], [[THAG6:10]], [[AN]]
 
+
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[UD]]  / 🌐 [[UD3.3]]
 > ◄  [[ud3.2-anandajoti-pali]] 📜  [[ud3.4-anandajoti-pali]] ►

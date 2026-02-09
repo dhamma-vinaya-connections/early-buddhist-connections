@@ -24,3 +24,5 @@ na jaṭāhi na gottena na jaccā hoti brāhmaṇo, /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp392-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP392]]
+> ◄  [[dhp391-pali-pts]] 📜  [[dhp393-pali-pts]] ►

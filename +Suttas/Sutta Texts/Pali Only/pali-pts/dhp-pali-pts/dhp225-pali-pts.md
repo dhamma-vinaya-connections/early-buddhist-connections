@@ -24,3 +24,5 @@ sadā jāgaramānānaṃ ahorattānusikkhinaṃ /
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:dhp225-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DH]]  / 🌐 [[DHP225]]
+> ◄  [[dhp224-pali-pts]] 📜  [[dhp226-pali-pts]] ►

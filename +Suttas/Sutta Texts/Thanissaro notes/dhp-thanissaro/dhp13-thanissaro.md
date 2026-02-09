@@ -135,8 +135,9 @@ Sole dominion over the earth,
 > |  |  | Dh 48 |
 > > [!check]- Partial parallels 
 > > 
-| [[THAG2.7]] |
+| [[THAG2]].7 |
 | ------------------------ |
+
 
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[DHP]]  / 🌐 [[DHP13]]
 > ◄  [[dhp12-thanissaro]] 📜  [[dhp14-thanissaro]] ►

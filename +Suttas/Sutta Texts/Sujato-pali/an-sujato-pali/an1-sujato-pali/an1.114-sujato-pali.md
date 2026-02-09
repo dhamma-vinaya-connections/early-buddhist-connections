@@ -33,3 +33,5 @@ Sattarasamaṁ.
 
 > [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.114-) 
 
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.114]]
+> ◄  [[an1.100-sujato-pali]] 📜  [[an1.115-sujato-pali]] ►
