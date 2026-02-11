@@ -8,9 +8,7 @@ vin_gender: "Monks"
 
 # BU-PC - Pacittiya - Confession
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BU-PC1]] - 📜[Available texts](obsidian://search?query=file:bu-pc1-) - Musāvāda - Lying
 >  

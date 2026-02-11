@@ -7,10 +7,6 @@ contribution:
 ---
 #  SA - Saṃyukta Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### SA5 - 5 - T99
 > [!example]- 🌐[[SA444]] - 📜[Available texts](obsidian://search?query=file:sa444-) - SA 5.1 – ? 
 >  

@@ -8,9 +8,7 @@ vin_gender: "Monks"
 
 # BU-SK - Sekhiya - Training
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BU-SK1]] - 📜[Available texts](obsidian://search?query=file:bu-sk1-) - Parimaṇḍala - Being even all around
 >  

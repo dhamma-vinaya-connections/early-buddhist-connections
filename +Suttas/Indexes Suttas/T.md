@@ -7,10 +7,6 @@ contribution:
 ---
 #  T - Taishō
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### T - T757 - The Ones / 9. The Only Son
 > [!example]- 🌐[[T757]] - 📜[Available texts](obsidian://search?query=file:t757-) - T757 – Hair-Raising Joy 
 >  Angered by the devotion of a brahmin lady, a brahmin visits the Buddha . He positions himself against traditionalists and rationalists, as someone whose teaching is based on direct experience

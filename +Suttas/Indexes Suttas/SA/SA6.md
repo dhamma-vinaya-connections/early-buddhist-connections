@@ -7,10 +7,6 @@ contribution:
 ---
 #  SA - Saṃyukta Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### SA6 - 6 - T99
 > [!example]- 🌐[[SA466]] - 📜[Available texts](obsidian://search?query=file:sa466-) - SA 6.1 – ? 
 >  The three feelings are each produced by the appropriate contact

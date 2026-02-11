@@ -7,10 +7,6 @@ contribution:
 ---
 #  SA - Saṃyukta Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### SA3 - 3 - T99
 > [!example]- 🌐[[SA283]] - 📜[Available texts](obsidian://search?query=file:sa283-) - SA 3.1 – Planting a Tree 
 >  The Buddha  gives definitions for each of the twelve links. These are general definitions that apply wherever the twelve links are mentioned. showing the origin and cessation of suffering dependent on ignorance.

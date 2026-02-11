@@ -7,10 +7,6 @@ contribution:
 ---
 #  UD - Udāna
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### UD1 - Bodhivaggovagga - Awakening 
 > [!example]- 🌐[[UD1.1]] - 📜[Available texts](obsidian://search?query=file:ud1.1-) - Dutiyabodhi Sutta – The Bodhi Tree (1) 
 >  The Buddha, soon after awakening, contemplates specific conditionality and dependent co-arising

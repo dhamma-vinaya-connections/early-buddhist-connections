@@ -7,10 +7,6 @@ contribution:
 ---
 #  EA - Ekottara Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### EA3 - T125 - EA3
 > [!example]- 🌐[[EA3.1]] - 📜[Available texts](obsidian://search?query=file:ea3.1-) - EA 3.1 – The Buddha 
 >  

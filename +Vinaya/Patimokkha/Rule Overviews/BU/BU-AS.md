@@ -8,9 +8,7 @@ vin_gender: "Monks"
 
 # BU-AS - Adhikarana samatha - Settling issues
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BU-AS1-7]] - 📜[Available texts](obsidian://search?query=file:bu-as1-7-) - Adhikarana samatha - Settling issues
 >  

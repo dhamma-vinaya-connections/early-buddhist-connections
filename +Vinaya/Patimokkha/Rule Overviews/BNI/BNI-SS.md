@@ -8,9 +8,7 @@ vin_gender: "Nuns"
 
 # BNI-SS - Sanghadisesa - Suspension
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BNI-SS1]] - 📜[Available texts](obsidian://search?query=file:bni-ss1-) - Ussayavādikā - Litigious
 >  

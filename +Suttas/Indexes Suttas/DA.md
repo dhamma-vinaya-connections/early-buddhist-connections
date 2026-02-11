@@ -7,10 +7,6 @@ contribution:
 ---
 #  DA - Dīrgha Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### DA1-10 -  - Śakyamuni Buddha
 > [!example]- 🌐[[DA1]] - 📜[Available texts](obsidian://search?query=file:da1-) - 大本 – Great Origin 
 >  The Buddha  teaches about the six Buddha s of the past, and tells a lengthy account of one of those, vipassī

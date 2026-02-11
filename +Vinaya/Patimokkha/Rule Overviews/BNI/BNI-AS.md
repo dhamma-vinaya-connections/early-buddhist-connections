@@ -8,9 +8,7 @@ vin_gender: "Nuns"
 
 # BNI-AS - Adhikarana samatha - Settling issues
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BNI-AS1-7]] - 📜[Available texts](obsidian://search?query=file:bni-as1-7-) - Adhikarana samatha - Settling issues
 >  

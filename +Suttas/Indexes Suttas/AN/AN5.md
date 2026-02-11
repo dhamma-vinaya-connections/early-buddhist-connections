@@ -7,10 +7,6 @@ contribution:
 ---
 #  AN - Aṅguttara Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### AN5 - Sekhabalvagga - Powers of a Trainee
 > [!example]- 🌐[[AN5.1]] - 📜[Available texts](obsidian://search?query=file:an5.1-) - Vitthata – In Detail 
 >  Five powers of a trainee

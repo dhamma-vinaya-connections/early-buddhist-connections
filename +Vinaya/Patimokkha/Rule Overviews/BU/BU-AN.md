@@ -8,9 +8,7 @@ vin_gender: "Monks"
 
 # BU-AN - Aniyata - Undetermined
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BU-AN1]] - 📜[Available texts](obsidian://search?query=file:bu-an1-) - Paṭhamaaniyata - Undetermined Offense 1st
 >  

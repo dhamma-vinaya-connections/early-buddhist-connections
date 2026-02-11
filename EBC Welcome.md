@@ -42,15 +42,15 @@ Click in any box to expand it.
 > 8. This creates a duplicate window. Click a link in the new window to change the text while keeping the original open.
 
 ---
-
 ## 2. Navigation
 ### Ways to Find a Text
-> There are 4 main ways to locate a specific Sutta or Vinaya rule in this library. 
+> There are 6 main ways to locate a specific Sutta or Vinaya rule in this library. 
 > Choose the one that fits your style.
 
-> [!tip] 1. The Master Indexes (Nikayas & Topics)
-> Best for: Browsing a specific collection or subject, like a Table of Contents.
-> #### Nikaya Indexes:
+> [!tip]+ 1. The Master Indexes (Nikayas & Topics)
+> > Best for: Browsing a specific collection or subject, like a Table of Contents.
+> 
+>  **Nikaya Indexes:**
 > 
 > | Nikaya | KN       | Āgama    |
 > | ------ | -------- | -------- |
@@ -60,15 +60,20 @@ Click in any box to expand it.
 > | [[SN]] | [[SNP]]  | [[SA]]   |
 > |        | [[THAG]] | [[T]]    |
 > |        | [[THIG]] | [[PDHP]] |
-> #### Topic Indexes: 
+> 
+> **Topic Indexes:** 
 >  Navigate to the Subjects folder to browse by Dhamma topic.
-> - [[ebt-source/Static just copy/Thematic indexes/Suttafriends Topics Index]]
-> - [[ebt-source/Static just copy/Thematic indexes/ATI INDEX/ATI Similes Index]]
-> - [[ebt-source/Static just copy/Thematic indexes/ATI INDEX/ATI General Index]]
-> - [[ebt-source/Static just copy/Thematic indexes/ATI INDEX/ATI Index by Number]]
-> - [[ebt-source/Static just copy/Thematic indexes/Readingfaithfully.org Sutta Index]]
-> - [[ebt-source/Static just copy/Thematic indexes/Suttafriends Simile Index]]
-> - [[ebt-source/Static just copy/Thematic indexes/Gradual Training Outline]]
+> - Sutta Friends
+> 	- [[Suttafriends Topics Index]]
+> 	- [[Suttafriends Simile Index]]
+> - Access to Insight
+> 	- [[ATI Similes Index]]
+> 	- [[ATI General Index]]
+> 	- [[ATI Index by Number]]
+> - Reading Faithfully
+> 	- [[Readingfaithfully.org Sutta Index]]
+>- Dhamma Vinaya Tools
+> 	- [[Gradual Training Outline]]
 
 > [!summary]- 2. The File Explorer
 > Think of it as the "Bookshelf"
@@ -87,17 +92,41 @@ Click in any box to expand it.
 > * How: Click the Graph Icon (molecule symbol) in the left ribbon menu.
 > * Explore: Every dot is a note; every line is a link. Hover over a dot to see its name. The bigger the dot, the more connections it has!
 
-> [!WARNING] Important
-> **Do not move the +Suttas nor +Vinaya  folders.**
-> This library relies on the files staying in their correct folders. If you move them, the links might break.
+> [!tip]- 5. Search
+> Use the search botton on upper left to search by
+> - Sutta code
+> - Vinaya code 
+> - File name 
+> - Words of phrases 
+> 	- Pali
+> 	- English
+> - Tags
+> - Properties
+> - and more
+
+> [!tip]- 6. Contributions from Dhamma Vinaya Connections community 
+> You can download the latest contributions like
+> - books
+> - study guides
+> - thematic indexes
+> - canvas
+> - mind maps 
+> - and more 
+> 
+> Get a particular file you want from: 
+> https://github.com/dhamma-vinaya-connections/buddhist-contributions-hub/tree/main/Contributions
+> Or  get the latest release from
+> https://github.com/dhamma-vinaya-connections/buddhist-contributions-hub/releases
+> It updates every 1st of the month
 
 ---
 
 ## 3. Contents
 *Every note has a navigation panel with the links to
-- Previous/next sutta,  
-- The catalogue
-- Nikaya index
+
+ ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 Nikaya Index / 🌐 Sutta Overview
+> ◄  previous sutta 📜  next sutta ►
+
 
 ### Suttas
 
@@ -122,17 +151,39 @@ Click in any box to expand it.
 >     * English (Charles Patton)
 
 ### Vinaya
-**Quick Links:** [[BU]] Bhikkhu Pātimokkha | [[BNI]] Bhikkhunī Pātimokkha
 
-> [!summary]- Patimokkha
-> **Overviews include:**
-> * *Info:* Rule in Pali and English, non-offense clauses, offense factors.
+> [!summary]+ Patimokkha
 > * *Links:*
->     * Canonical Vibhanga.
->     * [[bmc1]] – *Buddhist Monastic Code I* (Ven. Thanissaro).
->     * [[Analysis of the Pātimokkha]] (Ven. Ñāṇatusita).
->     * [[Translation of the Pātimokkha]] (Ven. Ñāṇatusita).
+>     * Canonical Vibhanga.
+> 	* [[BU]] Bhikkhu Pātimokkha
+> 	* [[BNI]] Bhikkhunī Pātimokkha
+> * *Info:* Rule in Pali and English, non-offense clauses, offense factors.
+> * Explanations
+>     * [[bmc1]] – *Buddhist Monastic Code I* (Ven. Thanissaro).
+>     * [[bmc1-concise]] Concise *Buddhist Monastic Code I* Ven. Anon
+>     * [[ñanatusita-analysis|Patimokkha Analisys]] (Ven. Ñāṇatusita).
+>     * [[ñanatusita-translation|Translation of the Pātimokkha]] (Ven. Ñāṇatusita).
 
-> [!summary]- Khandhakas
-> Includes mutual links between each chapter in the **Mahavagga** & **Cullavagga** and:
+> [!summary]+ Khandhakas
+> Includes mutual links between each chapter in the **Mahavagga** & **Cullavagga** 
+> 
+| Maha Vagga                                                                                                                                                                                                                                              | Cula Vagga                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[mv1-brahmali-pali]]<br>[[mv2-brahmali-pali]]<br>[[mv3-brahmali-pali]]<br>[[mv4-brahmali-pali]]<br>[[mv5-brahmali-pali]]<br>[[mv6-brahmali-pali]]<br>[[mv7-brahmali-pali]]<br>[[mv8-brahmali-pali]]<br>[[mv9-brahmali-pali]]<br>[[mv10-brahmali-pali]] | [[cv11-brahmali-pali]]<br>[[cv12-brahmali-pali]]<br>[[cv13-brahmali-pali]]<br>[[cv14-brahmali-pali]]<br>[[cv15-brahmali-pali]]<br>[[cv16-brahmali-pali]]<br>[[cv17-brahmali-pali]]<br>[[cv18-brahmali-pali]]<br>[[cv20-brahmali-pali]]<br>[[cv21-brahmali-pali]]<br>[[cv22-brahmali-pali]] |
+>
 > * [[bmc2]] – *Buddhist Monastic Code II* (Ven. Thanissaro).. Thanissaro).
+
+---
+## 4. Main Resources
+- Project Github
+	- https://github.com/dhamma-vinaya-connections
+- Updates https://github.com/dhamma-vinaya-connections/early-buddhist-connections/releases
+- Contributions 
+	- To download 1 file at a time https://github.com/dhamma-vinaya-connections/buddhist-contributions-hub/tree/main/Contributions
+	- Full Releases https://github.com/dhamma-vinaya-connections/buddhist-contributions-hub/releases
+
+  
+> [!WARNING] Important
+> **Do not rename anyfile in +Suttas nor +Vinaya  folders.**
+> This library relies on the correct filenames to interconnect . 
+> If you rename them, the links might break.

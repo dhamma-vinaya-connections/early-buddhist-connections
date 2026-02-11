@@ -35,8 +35,6 @@ views:
       - sutta_teacher
       - sutta_aspect
     sort:
-      - property: sutta_theme
-        direction: DESC
       - property: file.name
         direction: DESC
       - property: sutta_title

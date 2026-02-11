@@ -7,10 +7,6 @@ contribution:
 ---
 #  SA - Saṃyukta Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### SA4 - 4 - T99
 > [!example]- 🌐[[SA379]] - 📜[Available texts](obsidian://search?query=file:sa379-) - SA 4.1 – Turning the Dharma Wheel 
 >  The famous first discourse, taught at varanasi to the group of five ascetics. It begins by rejecting the extremes of asceticism and indulgence and recommends the middle way of the eightfold path. Then it defines the four noble truths and analyzes them in twelve aspects.

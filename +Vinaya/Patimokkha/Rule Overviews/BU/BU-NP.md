@@ -8,9 +8,7 @@ vin_gender: "Monks"
 
 # BU-NP - Nissaggiya Pacittiya - Relinquish with confession
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BU-NP1]] - 📜[Available texts](obsidian://search?query=file:bu-np1-) - Kathina - Robe Making Season
 >  

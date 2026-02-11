@@ -7,10 +7,6 @@ contribution:
 ---
 #  ITI - Itivuttaka
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### ITI1-27 - 1 Ekakanipatavagga - Ones 
 > [!example]- 🌐[[ITI1]] - 📜[Available texts](obsidian://search?query=file:iti1-) - Lobha – Greed  
 >  Abandon these qualities, and you’re guaranteed non-return.

@@ -7,10 +7,6 @@ contribution:
 ---
 #  EA - Ekottara Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### EA2 - T125 - EA2
 > [!example]- 🌐[[EA2.1]] - 📜[Available texts](obsidian://search?query=file:ea2.1-) - EA 2.1 – The Buddha 
 >  Yes, it really is possible to abandon unskillful habits and to develop skillful ones

@@ -8,9 +8,7 @@ vin_gender: "Nuns"
 
 # BNI-PC - Pacittiya - Confession
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BNI-PC1]] - 📜[Available texts](obsidian://search?query=file:bni-pc1-) - Lasuṇa - Garlic
 >  

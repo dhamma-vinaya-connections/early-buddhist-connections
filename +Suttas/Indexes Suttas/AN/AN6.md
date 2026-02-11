@@ -7,10 +7,6 @@ contribution:
 ---
 #  AN - Aṅguttara Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### AN6 - Āhuneyyvagga - Worthy of Offerings
 > [!example]- 🌐[[AN6.1]] - 📜[Available texts](obsidian://search?query=file:an6.1-) - Paṭhamaāhuneyya – Worthy Of Offerings 
 >  A mendicant is worthy of gifts because of equanimity for the six senses

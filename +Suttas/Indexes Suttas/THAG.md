@@ -7,10 +7,6 @@ contribution:
 ---
 #  THAG - Theragāthā
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### THAG1 - Ekakanipātavagga - Ones Book
 > [!example]- 🌐[[THAG1]] - 📜[Available texts](obsidian://search?query=file:thag1-) - Ekakanipātavagga – Ones Book 
 >  Deceived by conceit,

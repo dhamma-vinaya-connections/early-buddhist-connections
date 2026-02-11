@@ -7,10 +7,6 @@ contribution:
 ---
 #  AN - Aṅguttara Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### AN3 - Balvagga - Fools
 > [!example]- 🌐[[AN3.1]] - 📜[Available texts](obsidian://search?query=file:an3.1-) - Bhaya – Perils 
 >  Fools are dangerous, but the wise are safe

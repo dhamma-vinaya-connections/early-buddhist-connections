@@ -7,10 +7,6 @@ contribution:
 ---
 #  SNP - Sutta Nipata
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### SNP1 - Uragavagga - Snake 
 > [!example]- 🌐[[SNP1.1]] - 📜[Available texts](obsidian://search?query=file:snp1.1-) - Uraga – Snake  
 >  One who advances far along the path sloughs off the near shore and far, like a snake who sloughs off its skin.

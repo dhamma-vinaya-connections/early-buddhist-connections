@@ -7,10 +7,6 @@ contribution:
 ---
 #  THIG - Therīgāthā
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### THIG1 - Ekakanipātavagga - Ones Book
 > [!example]- 🌐[[THIG1]] - 📜[Available texts](obsidian://search?query=file:thig1-) - Ekakanipātavagga – Ones Book 
 >   Puṇṇā, be filled with good qualities,

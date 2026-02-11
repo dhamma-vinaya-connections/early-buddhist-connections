@@ -7,10 +7,6 @@ contribution:
 ---
 #  AN - Aṅguttara Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### AN1 - Cittapariyādānvagga - Sights, Etc.
 > [!example]- 🌐[[AN1.1]] - 📜[Available texts](obsidian://search?query=file:an1.1-) - Rupa – Sights 
 >  Most attractive things

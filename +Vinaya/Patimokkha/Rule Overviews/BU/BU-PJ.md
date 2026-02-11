@@ -8,9 +8,7 @@ vin_gender: "Monks"
 
 # BU-PJ - Parajika - Expulsion
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BU-PJ1]] - 📜[Available texts](obsidian://search?query=file:bu-pj1-) - Methunadhamma - Sexual Intercourse
 >  

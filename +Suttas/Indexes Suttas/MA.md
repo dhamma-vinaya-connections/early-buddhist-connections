@@ -7,10 +7,6 @@ contribution:
 ---
 #  MA - Madhyama Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### MA1-10 -  - MA 1 Sets of Seven
 > [!example]- 🌐[[MA1]] - 📜[Available texts](obsidian://search?query=file:ma1-) - 牛犁破群那 – Moliya Phagguṇa 
 >  A mendicant who has seven qualities is worthy, with a special emphasis on listening to and learning the teaching

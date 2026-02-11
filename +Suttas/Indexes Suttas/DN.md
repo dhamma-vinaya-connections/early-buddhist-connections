@@ -7,10 +7,6 @@ contribution:
 ---
 #  DN - Dīgha Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### DN1-10 - Silakkhandhavagga - Ethics Spectrum
 > [!example]- 🌐[[DN1]] - 📜[Available texts](obsidian://search?query=file:dn1-) - Brahmajāla Sutta – Prime Net 
 >  In this important sutta, the first in the tipitaka, the Buddha  describes sixty-two philosophical and speculative views concerning the self and the world that were prevalent among spiritual seekers of his day. In rejecting these teachings — many of which thrive to this day — he decisively establishes the parameters of his own.

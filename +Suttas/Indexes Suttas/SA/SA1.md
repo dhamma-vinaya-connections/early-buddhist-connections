@@ -7,10 +7,6 @@ contribution:
 ---
 #  SA - Saṃyukta Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### SA1 - 1 - T99
 > [!example]- 🌐[[SA1]] - 📜[Available texts](obsidian://search?query=file:sa1-) - SA 1.1-4 – Impermanent, Painful, Empty, and Not Self 
 >  Right view is seeing the aggregates as they are, impermanent, and this leads to freedom

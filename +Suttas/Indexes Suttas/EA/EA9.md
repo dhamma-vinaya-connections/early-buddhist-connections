@@ -7,10 +7,6 @@ contribution:
 ---
 #  EA - Ekottara Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### EA9 - T125 - EA9
 > [!example]- 🌐[[EA9.1]] - 📜[Available texts](obsidian://search?query=file:ea9.1-) - EA 9.1 – The Laywoman 
 >  Material possessions, honor, and praise are terrible things, obstructing spiritual progress

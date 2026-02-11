@@ -8,9 +8,7 @@ vin_gender: "Nuns"
 
 # BNI-PJ - Parajika - Expulsion
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BNI-PJ1]] - 📜[Available texts](obsidian://search?query=file:bni-pj1-) - Methunadhamma - Sexual Intercourse
 >  

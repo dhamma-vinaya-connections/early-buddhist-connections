@@ -7,10 +7,6 @@ contribution:
 ---
 #  DHP - Dhammapada
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### DHP1-20 - Yamakvagga - Pairs
 > [!example]- 🌐[[DHP1]] - 📜[Available texts](obsidian://search?query=file:dhp1-) - Yamakavagga – Pairs 
 >  Intention shapes experiences;1 

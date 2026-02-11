@@ -7,10 +7,6 @@ contribution:
 ---
 #  AN - Aṅguttara Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### AN7 - Dhanvagga - Wealth
 > [!example]- 🌐[[AN7.1]] - 📜[Available texts](obsidian://search?query=file:an7.1-) - Paṭhamapiya – Pleasing 
 >  Seven qualities that make a mendicant either agreeable or disagreeable to their fellow monastics

@@ -7,10 +7,6 @@ contribution:
 ---
 #  AN - Aṅguttara Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### AN8 - Mettvagga - Love
 > [!example]- 🌐[[AN8.1]] - 📜[Available texts](obsidian://search?query=file:an8.1-) - Mettā – Benefits Of Love 
 >  The benefits of practicing the meditation on love

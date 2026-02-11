@@ -7,10 +7,6 @@ contribution:
 ---
 #  SA - Saṃyukta Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### SA2 - 2 - T99
 > [!example]- 🌐[[SA188]] - 📜[Available texts](obsidian://search?query=file:sa188-) - SA 2.1-4 – Impermanent, Painful, Empty, and Not Self 
 >  Because the aggregates are impermanent, suffering, and not self a noble disciple becomes disillusioned with them.

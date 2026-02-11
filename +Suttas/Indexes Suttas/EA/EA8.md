@@ -7,10 +7,6 @@ contribution:
 ---
 #  EA - Ekottara Āgama
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### EA8 - T125 - EA8
 > [!example]- 🌐[[EA8.1]] - 📜[Available texts](obsidian://search?query=file:ea8.1-) - EA 8.1 – Asura 
 >  

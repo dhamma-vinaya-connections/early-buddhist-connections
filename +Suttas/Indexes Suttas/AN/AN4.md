@@ -7,10 +7,6 @@ contribution:
 ---
 #  AN - Aṅguttara Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### AN4 - Bhaṇḍagāmvagga - Bhaṇḍa Village
 > [!example]- 🌐[[AN4.1]] - 📜[Available texts](obsidian://search?query=file:an4.1-) - AnuBuddha  – Understood 
 >  Both the Buddha  and his disciples have been reborn for a long time due to ignorance

@@ -7,10 +7,6 @@ contribution:
 ---
 #  AN - Aṅguttara Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### AN2 - Kammakaraṇa - punishments
 > [!example]- 🌐[[AN2.1]] - 📜[Available texts](obsidian://search?query=file:an2.1-) - Vajja – Faults 
 >  Present & future life results  of conduct

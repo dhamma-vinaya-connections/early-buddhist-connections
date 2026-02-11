@@ -7,10 +7,6 @@ contribution:
 ---
 #  PDHP - Patna Dharmapada
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### PDHP1-6 - Jamvagga - Pairs
 > [!example]- 🌐[[PDHP1]] - 📜[Available texts](obsidian://search?query=file:pdhp1-) - Jamavarggaḥ – Pairs 
 >  Mind precedes thoughts, 

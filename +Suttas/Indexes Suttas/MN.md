@@ -7,10 +7,6 @@ contribution:
 ---
 #  MN - Majjhima Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### MN1-10 - Mūlapariyāyavagga - Root of All Things
 > [!example]- 🌐[[MN1]] - 📜[Available texts](obsidian://search?query=file:mn1-) - Mūlapariyāya Sutta – Root of All Things 
 >  The Buddha examines how the notion of a permanent self emerges from the process of perception. A wide range of phenomena are considered, embracing both naturalistic and cosmological dimensions. An unawakened person interprets experience in terms of a self, while those more advanced have the same experiences without attachment In this difficult but important sutta the Buddha reviews in depth one of the most fundamental principles of buddhist thought and practice: namely, that there is no thing — not even nibbana itself — that can rightly be regarded as the source from which all phenomena and experience emerge

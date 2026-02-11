@@ -7,10 +7,6 @@ contribution:
 ---
 #  AN - Aṅguttara Nikāya
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#sutta-index]]
-
 ### AN9 - Sambodhivagga - Awakening
 > [!example]- 🌐[[AN9.1]] - 📜[Available texts](obsidian://search?query=file:an9.1-) - Sambodhi – Awakening 
 >  Beginning with good friendship, the Buddha  teaches nine things that give rise to the qualities that lead to awakening.

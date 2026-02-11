@@ -8,9 +8,7 @@ vin_gender: "Monks"
 
 # BU-SS - Sanghadisesa - Suspension
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BU-SS1]] - 📜[Available texts](obsidian://search?query=file:bu-ss1-) - Sukkavisaṭṭhi - Masturbation
 >  

@@ -8,9 +8,7 @@ vin_gender: "Nuns"
 
 # BNI-PD - Patidesaniya - Acknowledgement
 
-> [!tip]- Catalogue index
-> 
-> ![[Suttas.base#vin-index]]
+See also [[bmc1]] and  [[bmc1-concise]]
 
 > [!example]- 🌐[[BNI-PD1-8]] - 📜[Available texts](obsidian://search?query=file:bni-pd1-8-) - Asking for Ghee, Oil, Honey, Molases, Fish, Meat, Milk, Curd - Viññāpana
 >  
