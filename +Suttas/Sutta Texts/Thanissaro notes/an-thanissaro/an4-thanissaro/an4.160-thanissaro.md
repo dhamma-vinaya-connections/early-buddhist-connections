@@ -51,7 +51,7 @@ Note
 
 1. Lists of dhamma topics, such as the 37 Wings to Awakening, that later formed the outline for several Abhidhamma treatises.
 
-See also: [[mn109-thanissaro]]; [[sn12-21-thanissaro/sn16-thanissaro/sn16.13-thanissaro]]; [[sn12-21-thanissaro/sn20-thanissaro/sn20.7-thanissaro]]; [[sn47.25-thanissaro]]; [[an1.140-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.79-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.21-thanissaro]]; [[an7.56-thanissaro]]
+See also: [[mn109-thanissaro]]; [[sn12-21-thanissaro/sn16-thanissaro/sn16.13-thanissaro]]; [[sn12-21-thanissaro/sn20-thanissaro/sn20.7-thanissaro]]; [[sn47.25-thanissaro]]; [[an1.140-thanissaro]]; [[an5.79-thanissaro]]; [[an7.21-thanissaro]]; [[an7.56-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

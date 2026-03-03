@@ -568,11 +568,11 @@ always unbound.
 
 6. This appears to be one of the earliest references to “buddha-field,” a concept that was to play a large role in the Apadāna literature and, through that, in the Mahāyāna concept of the Pure Land. Here it appears to mean the sphere of the current Buddha’s influence. In the Apadānas it takes on two other meanings: as (1) a field for producing merit, on the lines of the traditional image of the Saṅgha as the unexcelled field of merit; and (2) a heavenly realm where a particular Buddha dwells. These two meanings were influential in the early Mahāyāna sūtras that formed the basis for Pure Land practice. [↩︎](#^thag18note06-ref) ^thag18note06
 
-7. The three planes of becoming are the sensual, form, and formlessness. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.77-thanissaro]]. [↩︎](#^thag18note07-ref) ^thag18note07
+7. The three planes of becoming are the sensual, form, and formlessness. See [[an3.77-thanissaro]]. [↩︎](#^thag18note07-ref) ^thag18note07
 
 8. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag15-thanissaro]]. [↩︎](#^thag18note08-ref) ^thag18note08
 
-See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.98-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.114-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.42-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an11/an11.10-thanissaro]]; [[ud2.10-thanissaro]]; [[ud4.4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.14-thanissaro]]
+See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.10-thanissaro]]; [[an3.35-thanissaro]]; [[an4.28-thanissaro]]; [[an5.77-thanissaro]]; [[an5.98-thanissaro]]; [[an5.114-thanissaro]]; [[an6.42-thanissaro]]; [[an11.10-thanissaro]]; [[ud2.10-thanissaro]]; [[ud4.4-thanissaro]]; [[/snp4.14-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

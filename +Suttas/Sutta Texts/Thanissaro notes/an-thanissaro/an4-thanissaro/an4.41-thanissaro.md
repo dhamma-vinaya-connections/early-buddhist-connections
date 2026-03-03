@@ -49,17 +49,17 @@ he, I tell you, has crossed over birth
 
 ### Notes
 
-1. For more on the first development of concentration, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]. [↩︎](#^[[an4-thanissaro]].41note01-ref) ^[[an4-thanissaro]].41note01
+1. For more on the first development of concentration, see [[an5.28-thanissaro]]. [↩︎](#^[[an4-thanissaro]].41note01-ref) ^[[an4-thanissaro]].41note01
 
-2. For more on the second development of concentration, see [[sn51.20-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]. [↩︎](#^[[an4-thanissaro]].41note02-ref) ^[[an4-thanissaro]].41note02
+2. For more on the second development of concentration, see [[sn51.20-thanissaro]] and [[an5.28-thanissaro]]. [↩︎](#^[[an4-thanissaro]].41note02-ref) ^[[an4-thanissaro]].41note02
 
-3. For more on the third development of concentration, see [[mn118-thanissaro]], [[mn149-thanissaro]], [[sn54.8-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.70-thanissaro]]. [[mn111-thanissaro]] and [[mn121-thanissaro]], which discuss the perceptions and feelings that arise and disappear on shifting from one level of concentration to another would also seem to be relevant here. [↩︎](#^[[an4-thanissaro]].41note03-ref) ^[[an4-thanissaro]].41note03
+3. For more on the third development of concentration, see [[mn118-thanissaro]], [[mn149-thanissaro]], [[sn54.8-thanissaro]], and [[an8.70-thanissaro]]. [[mn111-thanissaro]] and [[mn121-thanissaro]], which discuss the perceptions and feelings that arise and disappear on shifting from one level of concentration to another would also seem to be relevant here. [↩︎](#^[[an4-thanissaro]].41note03-ref) ^[[an4-thanissaro]].41note03
 
-4. The difference between the third and fourth developments of concentration is apparently that in the fourth, the aggregates are viewed not only in terms of their arising but also their origination: what _causes_ them to arise. For more on the fourth development of concentration, see [[mn52-thanissaro]], [[sn22-34-thanissaro/sn22-thanissaro/sn22.5-thanissaro]], [[an4.124-thanissaro]], [[an4.126-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]. [↩︎](#^[[an4-thanissaro]].41note04-ref) ^[[an4-thanissaro]].41note04
+4. The difference between the third and fourth developments of concentration is apparently that in the fourth, the aggregates are viewed not only in terms of their arising but also their origination: what _causes_ them to arise. For more on the fourth development of concentration, see [[mn52-thanissaro]], [[sn22-34-thanissaro/sn22-thanissaro/sn22.5-thanissaro]], [[an4.124-thanissaro]], [[an4.126-thanissaro]], [[an5.28-thanissaro]], and [[an9.36-thanissaro]]. [↩︎](#^[[an4-thanissaro]].41note04-ref) ^[[an4-thanissaro]].41note04
 
 It is sometimes argued that the first development of concentration is the only one that falls under the four jhānas, but the passages cited in these notes all show that jhāna is involved in all four developments. The difference lies in how the practice of jhāna is used.
 
-5. Imperturbability is a quality of concentration that allows it to be used for the second and fourth developments of concentration (see [[mn4-thanissaro]]). For more on imperturbable concentration, see [[mn66-thanissaro]] and [[mn106-thanissaro]]. On an even higher level, the arahant’s mind is said to be imperturbable in the face of all sensory input. On this point, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.55-thanissaro]]. [↩︎](#^[[an4-thanissaro]].41note05-ref) ^[[an4-thanissaro]].41note05
+5. Imperturbability is a quality of concentration that allows it to be used for the second and fourth developments of concentration (see [[mn4-thanissaro]]). For more on imperturbable concentration, see [[mn66-thanissaro]] and [[mn106-thanissaro]]. On an even higher level, the arahant’s mind is said to be imperturbable in the face of all sensory input. On this point, see [[an6.55-thanissaro]]. [↩︎](#^[[an4-thanissaro]].41note05-ref) ^[[an4-thanissaro]].41note05
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

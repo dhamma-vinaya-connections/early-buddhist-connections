@@ -117,7 +117,7 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 
 ### Notes
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.103-thanissaro]]. [↩︎](#^mn122note01-ref) ^mn122note01
+1. See [[an8.103-thanissaro]]. [↩︎](#^mn122note01-ref) ^mn122note01
 
 2. Because all three types of emptiness apply both internally and externally, it would seem that when the Buddha mentions external emptiness here, he could be referring to the way any of the three types of emptiness applies to external phenomena. Similarly, when he mentions internal emptiness, he could be referring to the way any of them applies within. [↩︎](#^mn122note02-ref) ^mn122note02
 
@@ -127,7 +127,7 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 
 5. See [[mn137-thanissaro]] [↩︎](#^mn122note05-ref) ^mn122note05
 
-See also: [[dn12-thanissaro]]; [[mn121-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.25-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.85-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.30-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.42-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.30-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.103-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.72-thanissaro]]; [[ud3.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.15-thanissaro]]
+See also: [[dn12-thanissaro]]; [[mn121-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.25-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.85-thanissaro]]; [[an5.30-thanissaro]]; [[an6.42-thanissaro]]; [[an8.30-thanissaro]]; [[an8.103-thanissaro]]; [[an10.72-thanissaro]]; [[ud3.3-thanissaro]]; [[/snp1.3-thanissaro]]; [[/snp5.15-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

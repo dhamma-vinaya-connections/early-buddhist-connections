@@ -85,7 +85,7 @@ Then the monks, delighting in & approving of Ven. Mahā Kaccāna’s words, rose
 
 That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
 
-See also: [[mn18-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.178-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.192-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.64-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.54-thanissaro]]; [[ud6.2-thanissaro]]
+See also: [[mn18-thanissaro]]; [[an4.178-thanissaro]]; [[an4.192-thanissaro]]; [[an6.13-thanissaro]]; [[an7.64-thanissaro]]; [[an8.54-thanissaro]]; [[ud6.2-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

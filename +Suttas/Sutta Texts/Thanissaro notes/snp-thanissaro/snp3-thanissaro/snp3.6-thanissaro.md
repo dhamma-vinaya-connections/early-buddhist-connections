@@ -522,7 +522,7 @@ vv. 510–547
 
 2. Many of the Buddha’s answers to Sabhiya’s questions involve verbal effects such as alliteration and rhyme. This verse contains a play on words, relating _bhikkhu_ (monk) to _bhavaṁ_ (becoming) and _khīṇa-_ (ended). [↩︎](#^snp3-6-02-ref) ^snp3-6-02
 
-3. _Ussada:_ According to SnA, this means such forms of defilement as passion, aversion, delusion, pride, and conceit. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.14-thanissaro]]. [↩︎](#^snp3-6-03-ref) ^snp3-6-03
+3. _Ussada:_ According to SnA, this means such forms of defilement as passion, aversion, delusion, pride, and conceit. See [[/snp4.14-thanissaro]]. [↩︎](#^snp3-6-03-ref) ^snp3-6-03
 
 4. In other words, one who is dispassionate to the sense faculties and their objects. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.153-thanissaro]]. [↩︎](#^snp3-6-04-ref) ^snp3-6-04
 
@@ -552,17 +552,17 @@ mindful, alert.
 
 9. Here there is alliteration between _n’eti,_ “doesn’t come/go” and _nhātako,_ “washed.” This verse also contains a play on words. Normally, one would say that a person is washed of dirt _(uklāpa);_ here the arahant is said to be washed of theory _(kappa)._ [↩︎](#^snp3-6-09-ref) ^snp3-6-09
 
-10. The Pali phrase here is _āguṁ na karoti,_ which could be rephrased as _na āguṁ karoti,_ yielding a play on the word _nāga._ The same play on words is found in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]]. Given that one of the meanings of nāga is “large elephant,” the verse here further elaborates on the image evoked by the word by depicting the nāga as freed from all fetters and bonds. [↩︎](#^snp3-6-10-ref) ^snp3-6-10
+10. The Pali phrase here is _āguṁ na karoti,_ which could be rephrased as _na āguṁ karoti,_ yielding a play on the word _nāga._ The same play on words is found in [[an6.43-thanissaro]]. Given that one of the meanings of nāga is “large elephant,” the verse here further elaborates on the image evoked by the word by depicting the nāga as freed from all fetters and bonds. [↩︎](#^snp3-6-10-ref) ^snp3-6-10
 
-11. SnA cites this passage from [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.77-thanissaro]] to identify “field,” here, with kamma: “Kamma is the field, consciousness the seed, and craving the moisture.” In the context of that sutta, this analogy is used to explain the way different levels of becoming are produced. [↩︎](#^snp3-6-11-ref) ^snp3-6-11
+11. SnA cites this passage from [[an3.77-thanissaro]] to identify “field,” here, with kamma: “Kamma is the field, consciousness the seed, and craving the moisture.” In the context of that sutta, this analogy is used to explain the way different levels of becoming are produced. [↩︎](#^snp3-6-11-ref) ^snp3-6-11
 
 12. As with “field,” SnA identifies “storehouses” as storehouses of kamma. Here there is alliteration between _kosāni_ (storehouses) and _kusalo_ (skillful). [↩︎](#^snp3-6-12-ref) ^snp3-6-12
 
-13. _Paṇḍara = Pāṇdura_ (Skt.): _Anogeissus Latifolia._ According to SnA, “white flowers” stands for the six sense media, in that they are normally pure and yet can grow (see [[sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]). An alternative possibility is that “white flowers” stands for states of mind marked by a perception of whiteness—such as the white-totality, and the mastery described in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.29-thanissaro]] as follows: [↩︎](#^snp3-6-13-ref) ^snp3-6-13
+13. _Paṇḍara = Pāṇdura_ (Skt.): _Anogeissus Latifolia._ According to SnA, “white flowers” stands for the six sense media, in that they are normally pure and yet can grow (see [[sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]). An alternative possibility is that “white flowers” stands for states of mind marked by a perception of whiteness—such as the white-totality, and the mastery described in [[an10.29-thanissaro]] as follows: [↩︎](#^snp3-6-13-ref) ^snp3-6-13
 
 “One percipient of the formless internally sees forms externally as white, white in their color, white in their features, white in their glow. Just as the morning star is white, white in its color, white in its features, white in its glow, or just as Vārāṇasī muslin, smooth on both sides, is white, white in its color, white in its features, white in its glow, in the same way one percipient of the formless internally sees forms externally as white, white in their color, white in their features, white in their glow. Mastering them, he is percipient of ‘I know; I see.’”
 
-As [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.29-thanissaro]] further notes, this is the highest state of mastery, “yet even in the beings who are percipient in this way there is still aberration, there is change. Seeing this, the instructed disciple of the noble ones grows disenchanted with that. Being disenchanted with that, he becomes dispassionate toward what is supreme, and even more so toward what is inferior.” As the verse here notes, a person going beyond this state would have to go beyond all states of darkness and brightness to attain release.
+As [[an10.29-thanissaro]] further notes, this is the highest state of mastery, “yet even in the beings who are percipient in this way there is still aberration, there is change. Seeing this, the instructed disciple of the noble ones grows disenchanted with that. Being disenchanted with that, he becomes dispassionate toward what is supreme, and even more so toward what is inferior.” As the verse here notes, a person going beyond this state would have to go beyond all states of darkness and brightness to attain release.
 
 This verse contains an alliteration that can, without force, be replicated in English: white flowers _(paṇdarāni)_ and wise _(paṇdito)._
 
@@ -570,7 +570,7 @@ This verse contains an alliteration that can, without force, be replicated in En
 
 15. See [[mn18-thanissaro]], introduction. [↩︎](#^snp3-6-15-ref) ^snp3-6-15
 
-16. Reading _vīro_ with GD, rather than _dhīro,_ which is found in the printed editions but doesn’t seem to fit the context. (See the note in GD to verse 44 in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.3-thanissaro]], which comments on the tendency of the textual tradition to confuse these two words.) This reading would give the verse three alliterated words: _virato_ (abstaining), _viriyavā_ (one with persistence), and _vīro_ (hero). [↩︎](#^snp3-6-16-ref) ^snp3-6-16
+16. Reading _vīro_ with GD, rather than _dhīro,_ which is found in the printed editions but doesn’t seem to fit the context. (See the note in GD to verse 44 in [[/snp1.3-thanissaro]], which comments on the tendency of the textual tradition to confuse these two words.) This reading would give the verse three alliterated words: _virato_ (abstaining), _viriyavā_ (one with persistence), and _vīro_ (hero). [↩︎](#^snp3-6-16-ref) ^snp3-6-16
 
 17. “Having directly known, for the sake of direct knowing”: Two meanings of the word _abhiññāya._ [↩︎](#^snp3-6-17-ref) ^snp3-6-17
 
@@ -586,7 +586,7 @@ The alliteration in this verse is between _ālayāni_ (attachments) and _ariyo_ 
 
 22. According to SnA, these are classes of devas noted for their discernment. [↩︎](#^snp3-6-22-ref) ^snp3-6-22
 
-23. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an11/an11.10-thanissaro]]. [↩︎](#^snp3-6-23-ref) ^snp3-6-23
+23. See [[an11.10-thanissaro]]. [↩︎](#^snp3-6-23-ref) ^snp3-6-23
 
 24. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti112-thanissaro]]. [↩︎](#^snp3-6-24-ref) ^snp3-6-24
 

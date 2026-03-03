@@ -102,7 +102,7 @@ struck down.
 
 ### Notes
 
-1. This can mean that she has achieved restraint over her sense faculties, or that she has fully developed the faculties of conviction, persistence, mindfulness, concentration, and discernment. See. [[sn48.10-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]. [↩︎](#^thig7-3note01-ref) ^thig7-3note01
+1. This can mean that she has achieved restraint over her sense faculties, or that she has fully developed the faculties of conviction, persistence, mindfulness, concentration, and discernment. See. [[sn48.10-thanissaro]] and [[an4.37-thanissaro]]. [↩︎](#^thig7-3note01-ref) ^thig7-3note01
 
 2. This stanza does not occur in [[sn5.8-thanissaro]]. [↩︎](#^thig7-3note02-ref) ^thig7-3note02
 
@@ -136,7 +136,7 @@ It’s in his Dhamma
 
 that I delight.
 
-5. For an example of how the four noble truths—right view—lead to the transcending of views, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.95-thanissaro]]. [↩︎](#^thig7-2note05-ref) ^thig7-2note05
+5. For an example of how the four noble truths—right view—lead to the transcending of views, see [[an10.95-thanissaro]]. [↩︎](#^thig7-2note05-ref) ^thig7-2note05
 
 ## Thig7.3  Upacālā
 

@@ -51,7 +51,7 @@ _The second pattern in the first part covers two controversies: whether or not a
 
 _The second part of the sutta divides people into four sorts: (1) those who torment themselves, (2) those who torment others, (3) those who torment themselves and others, and (4) those who torment neither themselves nor others. The first and third alternatives describe styles of religious practice that were common in the Buddha’s time: practices of self-torture and self-affliction, and the offering of sacrifices. The second alternative covers any and all bloody occupations. In opposition to these alternatives, the Buddha presents the fourth alternative as ideal: the practice of his teachings all the way to full liberation._
 
-_For other pragmatic arguments for accepting and practicing the Dhamma, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.61-thanissaro]], [[an3.65-thanissaro]], and [[sn42.8-thanissaro]]. [[an3.65-thanissaro]] also contains a variant on the wager argument given in this sutta._
+_For other pragmatic arguments for accepting and practicing the Dhamma, see [[an3.61-thanissaro]], [[an3.65-thanissaro]], and [[sn42.8-thanissaro]]. [[an3.65-thanissaro]] also contains a variant on the wager argument given in this sutta._
 
 * * *
 
@@ -261,7 +261,7 @@ When this was said, the brahman householders of Sāla said, “Magnificent, mast
 
 7. The PTS and Sinhalese editions omit the sentence, “Let so many horses be slaughtered for the sacrifice.” [↩︎](#^mn60note07-ref) ^mn60note07
 
-See also: [[mn41-thanissaro]]; [[mn95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]
+See also: [[mn41-thanissaro]]; [[mn95-thanissaro]]; [[an3.62-thanissaro]]; [[an3.66-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

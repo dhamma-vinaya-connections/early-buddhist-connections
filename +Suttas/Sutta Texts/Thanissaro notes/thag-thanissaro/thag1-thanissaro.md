@@ -26,7 +26,7 @@ So, rain-deva.
 
 Go ahead & rain.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.110-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.1-thanissaro]]
+See also: [[an3.110-thanissaro]]; [[/snp1.1-thanissaro]]
 
 ## Thag1.10  Puṇṇamāsa
 
@@ -415,7 +415,7 @@ and you’ll fall
 
 into pain.
 
-See also: SN 5; [[ud4.4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.2-thanissaro]]
+See also: SN 5; [[ud4.4-thanissaro]]; [[/snp3.2-thanissaro]]
 
 ## Thag1.26  Abhaya
 
@@ -505,7 +505,7 @@ everywhere.[1](#^thag1-33note01) ^thag1-33note01-ref
 
 Note
 
-1. Notice how this image differs from a similar image in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.8-thanissaro]]: [↩︎](#^thag1-88note01-ref) ^thag1-88note01
+1. Notice how this image differs from a similar image in [[/snp1.8-thanissaro]]: [↩︎](#^thag1-88note01-ref) ^thag1-88note01
 
 As a mother would risk her life
 
@@ -515,7 +515,7 @@ even so should one cultivate the heart limitlessly
 
 with regard to all beings.
 
-Whereas the image here draws a parallel between being good to one’s child and being good to others, the image in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.8-thanissaro]] draws a parallel between protecting one’s child and protecting one’s limitless attitude of goodwill to all beings.
+Whereas the image here draws a parallel between being good to one’s child and being good to others, the image in [[/snp1.8-thanissaro]] draws a parallel between protecting one’s child and protecting one’s limitless attitude of goodwill to all beings.
 
 
 ## Thag1.41  Sirivaḍḍha
@@ -771,7 +771,7 @@ truly showing the palms of his hands.[1](#^thag1-86note01) ^thag1-86note01-ref
 
 Note
 
-1. This is a reference to the fact that the Buddha was an “open-handed” teacher who did not wait to the end of his life to give his most crucial teachings. See [[dn16-thanissaro]]. The message of this verse may be related to the fact that the Buddha addressed three of his most plain-speaking suttas to Nāgita: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.30-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.42-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.103-thanissaro]]. [↩︎](#^thag1-88note01-ref) ^thag1-88note01
+1. This is a reference to the fact that the Buddha was an “open-handed” teacher who did not wait to the end of his life to give his most crucial teachings. See [[dn16-thanissaro]]. The message of this verse may be related to the fact that the Buddha addressed three of his most plain-speaking suttas to Nāgita: [[an5.30-thanissaro]], [[an6.42-thanissaro]], and [[an8.103-thanissaro]]. [↩︎](#^thag1-88note01-ref) ^thag1-88note01
 
 ## Thag1.88  Ajjuna
 
@@ -789,7 +789,7 @@ the truths.[2](#^thag1-88note02) ^thag1-88note02-ref
 
 ### Notes
 
-1. A standard image for the practice is that of making one’s way across a river from its dangerous near shore to the safety of the further shore. For other uses of this image, see [[sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.5-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.15-thanissaro]], and [[sn5-thanissaro]]. [↩︎](#^thag1-88note01-ref) ^thag1-88note01
+1. A standard image for the practice is that of making one’s way across a river from its dangerous near shore to the safety of the further shore. For other uses of this image, see [[sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]], [[an4.5-thanissaro]], [[an7.15-thanissaro]], and [[sn5-thanissaro]]. [↩︎](#^thag1-88note01-ref) ^thag1-88note01
 
 2. The four noble truths. [↩︎](#^thag1-88note02-ref) ^thag1-88note02
 

@@ -211,7 +211,7 @@ Note
 
 1. _Pubbāpayamāno._ In the parallel passage in [[sn1-11-thanissaro/sn1-thanissaro/sn1.20-thanissaro]], the verb is _sukkhāpayamāno,_ “letting his limbs dry out.” The commentary here states that _pubbāpayamāno_ also means “letting _x_ dry,” but given that Ven. Samiddhi has just stepped out of the hot spring, he may also be allowing his limbs to cool down.
 
-See also: [[mn18-thanissaro]]; [[mn138-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.3-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.191-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.61-thanissaro]]
+See also: [[mn18-thanissaro]]; [[mn138-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.3-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.191-thanissaro]]; [[an6.61-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

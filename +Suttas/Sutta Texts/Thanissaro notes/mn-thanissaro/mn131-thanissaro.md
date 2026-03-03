@@ -153,7 +153,7 @@ Note
 
 1. The Pali literally says, “an auspicious night,” but this should be interpreted in light of the custom—common in cultures that follow the lunar calendar—of calling a 24-hour period of day-and-night a “night.”
 
-See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.19-thanissaro]]; [[ud1.10-thanissaro]]
+See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]; [[an6.19-thanissaro]]; [[ud1.10-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -45,7 +45,7 @@ Ven. Ānanda said, “However one has seen immediately prior to the ending of ef
 
 “However one has become immediately prior to the ending of effluents: That is supreme among states of becoming.”
 
-See also: [[dn11-thanissaro]]; [[mn49-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti90-thanissaro]]
+See also: [[dn11-thanissaro]]; [[mn49-thanissaro]]; [[an6.51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti90-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

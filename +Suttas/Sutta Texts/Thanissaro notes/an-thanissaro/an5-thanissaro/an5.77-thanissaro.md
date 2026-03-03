@@ -43,7 +43,7 @@ _This sutta and the three following it are apparently the “future danger” su
 
 “These are the five future dangers that are just enough, when considered, for a monk living in the wilderness—heedful, ardent, & resolute—to live for the attaining of the as-yet-unattained, the reaching of the as-yet-unreached, the realization of the as-yet-unrealized.”
 
-See also: [[sn3.17-thanissaro]]; [[sn35.97-thanissaro]]; [[sn55.40-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.15-thanissaro]]
+See also: [[sn3.17-thanissaro]]; [[sn35.97-thanissaro]]; [[sn55.40-thanissaro]]; [[an6.19-thanissaro]]; [[an10.15-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

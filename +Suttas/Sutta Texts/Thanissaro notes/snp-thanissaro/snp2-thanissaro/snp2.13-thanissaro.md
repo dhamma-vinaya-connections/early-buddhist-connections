@@ -198,7 +198,7 @@ So open up what’s covered up,
 
 so that it won’t get soddened by the rain.
 
-4. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.173-thanissaro]]. [↩︎](#^snp2-13-04-ref) ^snp2-13-04
+4. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]] and [[an4.173-thanissaro]]. [↩︎](#^snp2-13-04-ref) ^snp2-13-04
 
 5. Reading _sabba-saṁyojaniye vītivatto_ with the Thai edition. The Burmese edition reads _sabba-saṁyojanayoga vīticatto,_ “totally released from all yoking to fetters.” [↩︎](#^snp2-13-05-ref) ^snp2-13-05
 

@@ -93,7 +93,7 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 
 ### Notes
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.34-thanissaro]]. The Buddha, when later criticizing Ven. Samiddhi’s answer, does not criticize this part of it. [↩︎](#^mn136note01-ref) ^mn136note01
+1. See [[an9.34-thanissaro]]. The Buddha, when later criticizing Ven. Samiddhi’s answer, does not criticize this part of it. [↩︎](#^mn136note01-ref) ^mn136note01
 
 2. This is the one place in this discourse where Ven. Ānanda is called Ānanda the Elder. [↩︎](#^mn136note02-ref) ^mn136note02
 
@@ -101,7 +101,7 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 
 For a discussion of this discourse as an example of an analytical answer to a question, see _Skill in Questions,_ chapter four.
 
-See also: [[mn41-thanissaro]]; [[mn135-thanissaro]]; [[sn42.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.61-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.40-thanissaro]]
+See also: [[mn41-thanissaro]]; [[mn135-thanissaro]]; [[sn42.13-thanissaro]]; [[an3.61-thanissaro]]; [[an4.77-thanissaro]]; [[an6.63-thanissaro]]; [[an8.40-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

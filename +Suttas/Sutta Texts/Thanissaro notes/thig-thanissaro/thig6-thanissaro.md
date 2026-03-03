@@ -94,7 +94,7 @@ for refuge to
 
 the Sage.
 
-See also: [[sn47.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.49-thanissaro]]; [[ud5.1-thanissaro]]; [[ud8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]]
+See also: [[sn47.13-thanissaro]]; [[an5.49-thanissaro]]; [[ud5.1-thanissaro]]; [[ud8.8-thanissaro]]; [[/snp3.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]]
 
 ## Thig6.2  Vāsiṭṭhī the Madwoman
 
@@ -308,7 +308,7 @@ is not in vain.
 
 Note
 
-1. Since Vedic times, there has been a belief in India that the eyes of holy individuals where particularly powerful because they could see so deeply into reality. From this belief grew a further belief: that the eyes of such individuals were so powerful that their eyes could transmit some of that power to others. Thus, to be gazed on by such an individual, or to gaze into that individual’s eyes, was considered to be very auspicious. Sujātā’s reference to the Buddha as “the One with Eyes” carries all of these connotations. For more on this topic, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.5-thanissaro]] and [DN 16, note 44](../../DN/DN16.html#dn16note44).
+1. Since Vedic times, there has been a belief in India that the eyes of holy individuals where particularly powerful because they could see so deeply into reality. From this belief grew a further belief: that the eyes of such individuals were so powerful that their eyes could transmit some of that power to others. Thus, to be gazed on by such an individual, or to gaze into that individual’s eyes, was considered to be very auspicious. Sujātā’s reference to the Buddha as “the One with Eyes” carries all of these connotations. For more on this topic, see [[/snp5.5-thanissaro]] and [DN 16, note 44](../../DN/DN16.html#dn16note44).
 
 ## Thig6.5  Anopamā, the Millionaire’s Daughter
 
@@ -436,7 +436,7 @@ of those mired in illness & death.
 
 3. Mahāpajāpatī’s sister, the Buddha’s mother. [↩︎](#^thig6-6note03-ref) ^thig6-6note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.53-thanissaro]]
+See also: [[an8.51-thanissaro]]; [[an8.53-thanissaro]]
 
 ## Thig6.7  Guttā
 

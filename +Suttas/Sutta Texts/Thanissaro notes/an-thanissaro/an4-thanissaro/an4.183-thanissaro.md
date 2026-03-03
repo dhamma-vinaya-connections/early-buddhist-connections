@@ -25,7 +25,7 @@ I have heard that on one occasion the Blessed One was staying near Rājagaha in 
 
 Then Vassakāra the brahman, delighting & rejoicing in the Blessed One’s words, got up from his seat and left.
 
-See also: [[mn58-thanissaro]]; [[mn61-thanissaro]]; [[an5.198-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti25-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.3-thanissaro]]
+See also: [[mn58-thanissaro]]; [[mn61-thanissaro]]; [[an5.198-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti25-thanissaro]]; [[/snp3.3-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

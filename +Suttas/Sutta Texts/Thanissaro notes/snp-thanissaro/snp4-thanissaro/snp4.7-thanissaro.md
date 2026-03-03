@@ -136,7 +136,7 @@ unconcerned for sensual pleasures
 
 vv. 814–823
 
-See also: [[mn22-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.159-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.75-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.48-thanissaro]]; [[ud3.2-thanissaro]]
+See also: [[mn22-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.20-thanissaro]]; [[an4.159-thanissaro]]; [[an5.75-thanissaro]]; [[an7.48-thanissaro]]; [[ud3.2-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

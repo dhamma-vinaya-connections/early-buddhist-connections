@@ -55,7 +55,7 @@ Note
 
 1. According to [[sn12-21-thanissaro/sn21-thanissaro/sn21.1-thanissaro]], “noble silence” means the second jhāna.
 
-See also: [[sn6.2-thanissaro]]; [[sn45.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.114-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.1-thanissaro]]; [[dhp372-thanissaro]]; [[ud4.1-thanissaro]]
+See also: [[sn6.2-thanissaro]]; [[sn45.2-thanissaro]]; [[an5.114-thanissaro]]; [[an9.1-thanissaro]]; [[dhp372-thanissaro]]; [[ud4.1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

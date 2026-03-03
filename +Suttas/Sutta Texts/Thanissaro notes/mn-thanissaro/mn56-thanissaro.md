@@ -363,7 +363,7 @@ Then, because the Nigaṇṭha Nāṭaputta could not bear the homage paid to th
 
 3. The Thai edition here has Upāli using the insulting expression _“Bhante gahapati,”_—“Venerable householder.” [↩︎](#^mn56note03-ref) ^mn56note03
 
-4. The following verses are among the few in the Canon composed in the musical _gaṇacchanda_ meter called _gīti._ Other examples of _gaṇacchanda_ poems in the Canon include [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.8-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.14-thanissaro]]. On this meter, see A. K. Warder, _Pali Metre,_ and also the Introduction to _Sutta Nipāta: The Discourse Group._ Upāli’s poem here is also unusual in that, for the most part, it consists of strings of epithets in the genitive case. Much of its music, which cannot be reproduced in English, consists of the rhythmic, almost obsessive, repetition of the genitive ending: _-assa._ [↩︎](#^mn56note04-ref) ^mn56note04
+4. The following verses are among the few in the Canon composed in the musical _gaṇacchanda_ meter called _gīti._ Other examples of _gaṇacchanda_ poems in the Canon include [[/snp1.8-thanissaro]] and [[/snp4.14-thanissaro]]. On this meter, see A. K. Warder, _Pali Metre,_ and also the Introduction to _Sutta Nipāta: The Discourse Group._ Upāli’s poem here is also unusual in that, for the most part, it consists of strings of epithets in the genitive case. Much of its music, which cannot be reproduced in English, consists of the rhythmic, almost obsessive, repetition of the genitive ending: _-assa._ [↩︎](#^mn56note04-ref) ^mn56note04
 
 5. Reading _vuḍḍha-sīlassa_ with the Sinhalese edition. The Thai edition has _buddha-sīlassa,_ awakened-virtue. [↩︎](#^mn56note05-ref) ^mn56note05
 
@@ -373,17 +373,17 @@ Then, because the Nigaṇṭha Nāṭaputta could not bear the homage paid to th
 
 8. _Isisattamassa:_ In Vedic culture, this term would mean “seventh seer,” referring to the seventh of the seven great Vedic seers. Here it is adopted into the Buddhist tradition and turned into a piece of wordplay that could either mean “seventh seer,” referring to the tradition that the Buddha is the seventh Buddha, counting from the Buddha Vipassin, or “truest seer,” as above. [↩︎](#^mn56note08-ref) ^mn56note08
 
-9. Here again, a Vedic term is borrowed and given a Buddhist meaning: attained to nibbāna. For another example of the use of this epithet with this meaning, see [[sn7.9-thanissaro]] (cited in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.4-thanissaro]]). [↩︎](#^mn56note09-ref) ^mn56note09
+9. Here again, a Vedic term is borrowed and given a Buddhist meaning: attained to nibbāna. For another example of the use of this epithet with this meaning, see [[sn7.9-thanissaro]] (cited in [[/snp3.4-thanissaro]]). [↩︎](#^mn56note09-ref) ^mn56note09
 
 10. Reading _padakassa_ with the Thai edition. This term has been borrowed from the Vedic tradition, where it means well versed in the Vedas. Here it means that the Buddha knows many instructive verses. [↩︎](#^mn56note10-ref) ^mn56note10
 
 11. Sakka is the king of the devas of the Thirty-three, a level of heaven that contains many of the old Vedic devas. “Ancient giver” _(purindada)_ is the Pali transformation of the Vedic epithet for Sakka, _puraṁdara,_ “fort-shatterer.” This transformation reflects the more peaceful role that Sakka assumes as a disciple of the Buddha in the Pali Canon (see [[dn21-thanissaro]]). For another instance of this new epithet, see [[dn20-thanissaro]]. [↩︎](#^mn56note11-ref) ^mn56note11
 
-12. _Yakkha._ See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.4-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.11-thanissaro]]. [↩︎](#^mn56note12-ref) ^mn56note12
+12. _Yakkha._ See [[/snp3.4-thanissaro]], and [[/snp4.11-thanissaro]]. [↩︎](#^mn56note12-ref) ^mn56note12
 
 13. This is a pun on the word _vaṇṇa,_ which means both “praise” and “beauty/splendor.” [↩︎](#^mn56note13-ref) ^mn56note13
 
-See also: [[dn29-thanissaro]]; [[mn14-thanissaro]]; [[mn35-thanissaro]]; [[mn36-thanissaro]]; [[mn58-thanissaro]]; [[mn101-thanissaro]]; [[sn42.8-thanissaro]]; [[sn42.9-thanissaro]]; [[sn55.23-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.71-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.195-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.38-thanissaro]]
+See also: [[dn29-thanissaro]]; [[mn14-thanissaro]]; [[mn35-thanissaro]]; [[mn36-thanissaro]]; [[mn58-thanissaro]]; [[mn101-thanissaro]]; [[sn42.8-thanissaro]]; [[sn42.9-thanissaro]]; [[sn55.23-thanissaro]], [[an3.62-thanissaro]]; [[an3.71-thanissaro]]; [[an4.195-thanissaro]]; [[an9.38-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

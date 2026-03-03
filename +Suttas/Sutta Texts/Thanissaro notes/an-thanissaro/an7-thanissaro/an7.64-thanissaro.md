@@ -49,7 +49,7 @@ language: "English"
 
 “A monk endowed with these seven qualities is deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, an unexcelled field of merit for the world.”
 
-See also: [[an4.95-thanissaro]]; [[an5.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.54-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an11/an11.12-thanissaro]]
+See also: [[an4.95-thanissaro]]; [[an5.20-thanissaro]]; [[an10.54-thanissaro]]; [[an11.12-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

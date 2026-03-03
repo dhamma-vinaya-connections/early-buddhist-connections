@@ -144,7 +144,7 @@ vv. 804–813
 
 2. Nd I: An arahant has put passion totally away once and for all, and so has no need to do it ever again. [↩︎](#^snp4-6-02-ref) ^snp4-6-02
 
-See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.184-thanissaro]]; [Dhp 21](../Dhp/Ch02.html#dhp021); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.16-thanissaro]]
+See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.2-thanissaro]]; [[an4.184-thanissaro]]; [Dhp 21](../Dhp/Ch02.html#dhp021); [[/snp5.16-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

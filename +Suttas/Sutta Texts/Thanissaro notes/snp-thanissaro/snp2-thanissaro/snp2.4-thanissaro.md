@@ -118,13 +118,13 @@ vv. 258–269
 
 ### Notes
 
-1. These are three of the four “wheels” leading to wealth and prosperity. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.31-thanissaro]]. [↩︎](#^snp2-4-01-ref) ^snp2-4-01
+1. These are three of the four “wheels” leading to wealth and prosperity. See [[an4.31-thanissaro]]. [↩︎](#^snp2-4-01-ref) ^snp2-4-01
 
 2. See [[an2.31-thanissaro]]. [↩︎](#^snp2-4-02-ref) ^snp2-4-02
 
-3. Ways of the world _(lokadhamma):_ gain, loss, status, loss of status, praise, criticism, pleasure, pain. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.6-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.192-thanissaro]]. [↩︎](#^snp2-4-03-ref) ^snp2-4-03
+3. Ways of the world _(lokadhamma):_ gain, loss, status, loss of status, praise, criticism, pleasure, pain. See [[an8.6-thanissaro]] and [[an4.192-thanissaro]]. [↩︎](#^snp2-4-03-ref) ^snp2-4-03
 
-See also: [[sn3.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.110-thanissaro]]; AN 4:128; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.17-thanissaro]]
+See also: [[sn3.5-thanissaro]]; [[an3.110-thanissaro]]; AN 4:128; [[an10.17-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

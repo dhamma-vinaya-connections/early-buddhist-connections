@@ -83,7 +83,7 @@ That is what the Blessed One said. Gratified, Ven. Bhūmija delighted in the Ble
 
 3. To this day, this is the way butter is obtained in rural north India. The churn-stick is a small stick that has attached to its end blocks of wood resembling an orange with alternate sections removed. This is twirled in the curds. The water sprinkled on the curds dilutes the buttermilk, which helps separate it from the milk fat left on the blocks of the churn-stick. [↩︎](#^mn126note03-ref) ^mn126note03
 
-See also: [[mn117-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]; [[sn42.6-thanissaro]]; [[sn45.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.43-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig12-thanissaro]]
+See also: [[mn117-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]; [[sn42.6-thanissaro]]; [[sn45.8-thanissaro]]; [[an5.43-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig12-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

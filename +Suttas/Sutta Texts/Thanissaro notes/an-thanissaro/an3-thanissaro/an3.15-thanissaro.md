@@ -47,7 +47,7 @@ Then, after finishing the second wheel in six days, the chariot maker took the p
 
 “Thus you should train yourselves: ‘We will abandon crookedness, faults, & flaws in bodily action. We will abandon crookedness, faults, & flaws in verbal action. We will abandon crookedness, faults, & flaws in mental action.’ That’s how you should train yourselves.”
 
-See also: [[sn56.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.110-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.129-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.20-thanissaro]]; [[ud5.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.7-thanissaro]]
+See also: [[sn56.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.110-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.129-thanissaro]]; [[an9.20-thanissaro]]; [[ud5.5-thanissaro]]; [[/snp4.4-thanissaro]]; [[/snp4.7-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

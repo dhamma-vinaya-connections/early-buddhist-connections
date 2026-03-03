@@ -51,7 +51,7 @@ Note
 
 1. These four terms rhyme in the Pali: _akkhama, khama, dama,_ and _sama._
 
-See also: [[mn2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.75-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.139-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.14-thanissaro]]
+See also: [[mn2-thanissaro]]; [[an5.75-thanissaro]]; [[an5.139-thanissaro]]; [[an8.14-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

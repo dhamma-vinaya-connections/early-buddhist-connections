@@ -93,7 +93,7 @@ has gone, beyond becoming,
 
 to the Further Shore.
 
-See also: [[sn3.23-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.192-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.7-thanissaro]]
+See also: [[sn3.23-thanissaro]]; [[an4.192-thanissaro]]; [[an9.7-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -37,7 +37,7 @@ The Blessed One said: “And which seven are the conditions that lead to no decl
 
 “As long as the monks remain steadfast in these seven conditions, and as long as these seven conditions endure among the monks, the monks’ growth can be expected, not their decline.”
 
-See also: [[dn16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.12-thanissaro]]; [[an7.56-thanissaro]]
+See also: [[dn16-thanissaro]]; [[an5.77-thanissaro]]; [[an6.12-thanissaro]]; [[an7.56-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

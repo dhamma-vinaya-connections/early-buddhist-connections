@@ -51,7 +51,7 @@ Note
 
 1. The term _aṭṭhakanāgara_—with the fourth “a” marked with a macron—means, “a person from Aṭṭhakanagara.”
 
-See also: [[mn140-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]
+See also: [[mn140-thanissaro]]; [[an9.36-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

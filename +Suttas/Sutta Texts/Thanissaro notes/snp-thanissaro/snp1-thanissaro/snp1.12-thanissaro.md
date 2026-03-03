@@ -238,21 +238,21 @@ vv. 207–221
 
 4. SnA: Ground, seed, and sap = The aggregates, sense media, and properties form the ground in which grows the seed of constructive consciousness—the consciousness that develops into states of being and birth. (For other instances of this image, see [[sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]]­–55.) The sap of this seed is craving and views. [↩︎](#^snp1-12-04-ref) ^snp1-12-04
 
-5. SnA: Dwellings _(nivesanāni)_ = States of becoming and birth. This term can also be translated as “entrenchments.” See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.3-thanissaro]]. [↩︎](#^snp1-12-05-ref) ^snp1-12-05
+5. SnA: Dwellings _(nivesanāni)_ = States of becoming and birth. This term can also be translated as “entrenchments.” See [[/snp4.3-thanissaro]]. [↩︎](#^snp1-12-05-ref) ^snp1-12-05
 
 6. SnA: He does not build = He performs none of the good or bad deeds that give rise to further states of becoming and birth. See [Dhp 39](../Dhp/Ch03.html#dhp039), 267, and 412. [↩︎](#^snp1-12-06-ref) ^snp1-12-06
 
-7. Effluent _(āsava):_ Three qualities—sensual desire, states of becoming, or ignorance—that “flow out” of the mind and defile it. Sometimes a fourth quality—views—is added to the list, to connect these qualities with the four floods _(ogha),_ which are identical to the four yokes. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.10-thanissaro]]. [↩︎](#^snp1-12-07-ref) ^snp1-12-07
+7. Effluent _(āsava):_ Three qualities—sensual desire, states of becoming, or ignorance—that “flow out” of the mind and defile it. Sometimes a fourth quality—views—is added to the list, to connect these qualities with the four floods _(ogha),_ which are identical to the four yokes. See [[an4.10-thanissaro]]. [↩︎](#^snp1-12-07-ref) ^snp1-12-07
 
 8. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp1-thanissaro/snp1.3-thanissaro]]. [↩︎](#^snp1-12-08-ref) ^snp1-12-08
 
 9. The pillar at a bathing ford: Cv V.l describes this as an immovable pillar, standing quite tall and buried deep in the ground near a bathing place, against which young villagers and boxers would rub their bodies while bathing so as to toughen them. The “extremes” in which others speak, according to SnA, are extremes of praise and criticism: These leave the sage, like the pillar, unmoved. [↩︎](#^snp1-12-09-ref) ^snp1-12-09
 
-10. SnA: Straight as a shuttle = Having a mind unprejudiced by desire, aversion, delusion, or fear. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.19-thanissaro]]. [↩︎](#^snp1-12-10-ref) ^snp1-12-10
+10. SnA: Straight as a shuttle = Having a mind unprejudiced by desire, aversion, delusion, or fear. See [[an4.19-thanissaro]]. [↩︎](#^snp1-12-10-ref) ^snp1-12-10
 
-11. Consonant and discordant _(sama_ and _visama):_ Throughout ancient cultures, the terminology of music was used to describe the moral quality of people and acts. Discordant intervals or poorly-tuned musical instruments were metaphors for evil; harmonious intervals and well-tuned instruments were metaphors for good. In Pali, the term _sama_—”even”—described an instrument tuned on-pitch. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.55-thanissaro]] contains a famous passage in which the Buddha reminds Ven. Soṇa Kolivisa—who had been over-exerting himself in the practice—that a lute sounds appealing only if the strings are neither too taut nor too lax, but “evenly” tuned. This image would have special resonances with the Buddha’s teaching on the middle way. It also adds meaning to the term _samaṇa_—monk or contemplative—which the texts frequently mention as being derived from _sama._ The word _sāmañña_—”evenness,” the quality of being concordant and in tune—also means the quality of being a contemplative. The true contemplative is always in tune with what is proper and good. See also [[dn2-thanissaro]], [[mn61-thanissaro]], [[mn97-thanissaro]]. Nd II, in commenting on [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.2-thanissaro]], equates discordant conduct with the ten types of misconduct described in [[mn41-thanissaro]]. [↩︎](#^snp1-12-11-ref) ^snp1-12-11
+11. Consonant and discordant _(sama_ and _visama):_ Throughout ancient cultures, the terminology of music was used to describe the moral quality of people and acts. Discordant intervals or poorly-tuned musical instruments were metaphors for evil; harmonious intervals and well-tuned instruments were metaphors for good. In Pali, the term _sama_—”even”—described an instrument tuned on-pitch. [[an6.55-thanissaro]] contains a famous passage in which the Buddha reminds Ven. Soṇa Kolivisa—who had been over-exerting himself in the practice—that a lute sounds appealing only if the strings are neither too taut nor too lax, but “evenly” tuned. This image would have special resonances with the Buddha’s teaching on the middle way. It also adds meaning to the term _samaṇa_—monk or contemplative—which the texts frequently mention as being derived from _sama._ The word _sāmañña_—”evenness,” the quality of being concordant and in tune—also means the quality of being a contemplative. The true contemplative is always in tune with what is proper and good. See also [[dn2-thanissaro]], [[mn61-thanissaro]], [[mn97-thanissaro]]. Nd II, in commenting on [[/snp4.2-thanissaro]], equates discordant conduct with the ten types of misconduct described in [[mn41-thanissaro]]. [↩︎](#^snp1-12-11-ref) ^snp1-12-11
 
-12. Intoxication: The three intoxications are intoxication with youth, with good health, and with life. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]. [↩︎](#^snp1-12-12-ref) ^snp1-12-12
+12. Intoxication: The three intoxications are intoxication with youth, with good health, and with life. See [[an3.39-thanissaro]]. [↩︎](#^snp1-12-12-ref) ^snp1-12-12
 
 13. SnA: Ocean = The way defilement splashes into undesirable destinations. [↩︎](#^snp1-12-13-ref) ^snp1-12-13
 
@@ -260,7 +260,7 @@ vv. 207–221
 
 15. Such _(tādiṁ):_ Unchanging; unaffected by anything, while at the same time undefined. [↩︎](#^snp1-12-15-ref) ^snp1-12-15
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.123-thanissaro]]; [Dhp 268–269](../Dhp/Ch19.html#dhp268); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.11-thanissaro]]
+See also: [[an3.123-thanissaro]]; [Dhp 268–269](../Dhp/Ch19.html#dhp268); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti66-thanissaro]]; [[/snp3.11-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

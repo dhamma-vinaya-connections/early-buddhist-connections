@@ -35,7 +35,7 @@ On one occasion the Blessed One was staying near Kosambī in Ghosita’s monaste
 
 “There would, Ānanda,” the Blessed One said. “When a monk is himself consummate in virtue, but is not one who confronts another with regard to heightened virtue; when he keeps watch over himself but does not keep watch over others; when he is little-known but is not agitated over his lack of renown; when he can attain as he likes, without difficulty, without trouble, the four jhānas that are heightened mind-states and pleasant abidings in the here-&-now; and when—with the ending of effluents—he enters & remains in the effluent-free awareness-release & discernment-release, having directly known & realized it for himself right in the here & now, it’s to this extent that, when living with the Saṅgha of monks, he might live comfortably. And I tell you, Ānanda, as for any other comfortable abiding higher or more sublime than this, there is none.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.17-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.99-thanissaro]]
+See also: [[an10.17-thanissaro]]; [[an10.99-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

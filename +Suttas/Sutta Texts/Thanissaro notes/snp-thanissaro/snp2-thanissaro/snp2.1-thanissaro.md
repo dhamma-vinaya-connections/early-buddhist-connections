@@ -236,11 +236,11 @@ vv. 222–238
 
 ### Notes
 
-1. This is apparently equivalent to the liberation of immediacy, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]], and the concentration that is the fruit of gnosis, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.37-thanissaro]]. [↩︎](#^snp2-1-01-ref) ^snp2-1-01
+1. This is apparently equivalent to the liberation of immediacy, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]], and the concentration that is the fruit of gnosis, mentioned in [[an9.37-thanissaro]]. [↩︎](#^snp2-1-01-ref) ^snp2-1-01
 
-2. Indra-pillar: A tall hardwood pillar, planted at the entrance to a village. Similar analogies for the awakened mind are found at [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.55-thanissaro]] and AN 9:26. [↩︎](#^snp2-1-02-ref) ^snp2-1-02
+2. Indra-pillar: A tall hardwood pillar, planted at the entrance to a village. Similar analogies for the awakened mind are found at [[an6.55-thanissaro]] and AN 9:26. [↩︎](#^snp2-1-02-ref) ^snp2-1-02
 
-3. The person who has reached this stage in the practice will be reborn at most seven more times. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.88-thanissaro]]. On the danger of heedlessness for one who has reached this level of awakening, see [[sn55.40-thanissaro]]. [↩︎](#^snp2-1-03-ref) ^snp2-1-03
+3. The person who has reached this stage in the practice will be reborn at most seven more times. See [[an3.88-thanissaro]]. On the danger of heedlessness for one who has reached this level of awakening, see [[sn55.40-thanissaro]]. [↩︎](#^snp2-1-03-ref) ^snp2-1-03
 
 4. These three qualities are the fetters abandoned when one gains one’s first glimpse of unbinding at stream-entry (the moment when one enters the stream to full awakening). [↩︎](#^snp2-1-04-ref) ^snp2-1-04
 
@@ -250,7 +250,7 @@ vv. 222–238
 
 7. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]. [↩︎](#^snp2-1-07-ref) ^snp2-1-07
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.67-thanissaro]]
+See also: [[an4.67-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

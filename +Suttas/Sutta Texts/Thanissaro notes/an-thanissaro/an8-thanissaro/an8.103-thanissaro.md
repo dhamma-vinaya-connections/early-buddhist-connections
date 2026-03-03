@@ -15,7 +15,7 @@ language: "English"
 ## ## Yasa Sutta
 
 
-_This is a longer version of the conversation reported in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.30-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.42-thanissaro]]._
+_This is a longer version of the conversation reported in [[an5.30-thanissaro]] and [[an6.42-thanissaro]]._
 
 * * *
 
@@ -63,7 +63,7 @@ Now at that time Ven. Nāgita was the Blessed One’s attendant. So the Blessed 
 
 3. This paragraph is also not in GS. [↩︎](#^[[an8-thanissaro]].103note03-ref) ^[[an8-thanissaro]].103note03
 
-See also: [[mn122-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.80-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.40-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.70-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.72-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]
+See also: [[mn122-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[an5.77-thanissaro]]; [[an5.80-thanissaro]]; [[an9.40-thanissaro]]; [[an10.70-thanissaro]]; [[an10.72-thanissaro]]; [[/snp1.3-thanissaro]]; [[/snp1.12-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

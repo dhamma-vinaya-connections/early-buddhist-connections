@@ -161,7 +161,7 @@ Then King Pasenadi Kosala, delighting in and approving of the Blessed One’s wo
 
 2. According to the Commentary, “afflicted” here means still subject to suffering; “unafflicted” means free from the roots of suffering. [↩︎](#^mn90note02-ref) ^mn90note02
 
-See also: [[sn3.7-thanissaro]]; [[sn3.14-thanissaro]]; [[sn3.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.58-thanissaro]]
+See also: [[sn3.7-thanissaro]]; [[sn3.14-thanissaro]]; [[sn3.24-thanissaro]]; [[an3.58-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

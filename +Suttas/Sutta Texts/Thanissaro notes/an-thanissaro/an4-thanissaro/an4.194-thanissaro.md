@@ -29,7 +29,7 @@ On one occasion Ven. Ānanda was staying among the Koliyans, near the Koliyan to
 
 ### Notes
 
-1. Young Koliyans apparently went by this name. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.54-thanissaro]]. [↩︎](#^[[an4-thanissaro]].194note01-ref) ^[[an4-thanissaro]].194note01
+1. Young Koliyans apparently went by this name. See [[an8.54-thanissaro]]. [↩︎](#^[[an4-thanissaro]].194note01-ref) ^[[an4-thanissaro]].194note01
 
 2. See the opening passage in [[dn22-thanissaro]]. [↩︎](#^[[an4-thanissaro]].194note02-ref) ^[[an4-thanissaro]].194note02
 
@@ -37,7 +37,7 @@ On one occasion Ven. Ānanda was staying among the Koliyans, near the Koliyan to
 
 4. In NDB, this last phrase is translated as, “he… emancipates his mind through the things that bring emancipation.” However, the terms, “things that bring emancipation/phenomena that are conducive to liberation”—_vimocanīyesu dhammesu_—are in the locative case, which means “with regard to” rather than “through.” Thus the phrase is saying, not that the monk liberates the mind _by means of_ those phenomena, but that he liberates the mind _from_ those phenomena. In other words, he frees himself not only from attachment to phenomena that lead to passion, but also from attachment to phenomena—such as virtue, concentration, and discernment—that lead to release. This underlines the point that purity of virtue, mind, and view—as factors of the path—are one thing, whereas release is something else. See the simile of the raft in [[mn22-thanissaro]] and of the relay chariots in [[mn24-thanissaro]]. [↩︎](#^[[an4-thanissaro]].194note04-ref) ^[[an4-thanissaro]].194note04
 
-See also: [[dn16-thanissaro]]; [[mn24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.93-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.9-thanissaro]]
+See also: [[dn16-thanissaro]]; [[mn24-thanissaro]]; [[an10.51-thanissaro]]; [[an10.93-thanissaro]]; [[/snp4.9-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

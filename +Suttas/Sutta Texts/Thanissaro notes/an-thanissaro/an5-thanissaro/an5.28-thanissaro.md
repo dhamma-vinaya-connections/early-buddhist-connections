@@ -73,13 +73,13 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 1. Reading, _Devo ca kālena kālaṁ sammādhāraṁ anuppaveccheyya,_ with the Thai edition. [↩︎](#^[[an5-thanissaro]].28note01-ref) ^[[an5-thanissaro]].28note01
 
-2. For descriptions of how this reflection is done, see [[mn52-thanissaro]], [[mn111-thanissaro]], [[mn140-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]. [↩︎](#^[[an5-thanissaro]].28note02-ref) ^[[an5-thanissaro]].28note02
+2. For descriptions of how this reflection is done, see [[mn52-thanissaro]], [[mn111-thanissaro]], [[mn140-thanissaro]], and [[an9.36-thanissaro]]. [↩︎](#^[[an5-thanissaro]].28note02-ref) ^[[an5-thanissaro]].28note02
 
 3. _Mahaggataṁ._ This term is used, together with “immeasurable / unlimited,” in the standard description of the awareness generated in the practice of the _brahmavihāras_ ([[sn42.8-thanissaro]]). According to Ven. Anuruddha in [[mn127-thanissaro]], however, an enlarged mind is not immeasurable. Its range of awareness is larger than the body but still measurable, ranging in distance from the shade of a tree to the earth bounded by the ocean. [↩︎](#^[[an5-thanissaro]].28note03-ref) ^[[an5-thanissaro]].28note03
 
-4. On the various levels of release, see [[dn15-thanissaro]], [[mn43-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]]. [↩︎](#^[[an5-thanissaro]].28note04-ref) ^[[an5-thanissaro]].28note04
+4. On the various levels of release, see [[dn15-thanissaro]], [[mn43-thanissaro]], and [[an9.43-thanissaro]]. [↩︎](#^[[an5-thanissaro]].28note04-ref) ^[[an5-thanissaro]].28note04
 
-See also: [[dn2-thanissaro]]; [[mn119-thanissaro]]; [[sn35.99-thanissaro]]; [[sn51.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.74-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.41-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.70-thanissaro]] [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]
+See also: [[dn2-thanissaro]]; [[mn119-thanissaro]]; [[sn35.99-thanissaro]]; [[sn51.20-thanissaro]]; [[an3.74-thanissaro]]; [[an4.41-thanissaro]]; [[an8.70-thanissaro]] [[an9.35-thanissaro]]; [[an9.36-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

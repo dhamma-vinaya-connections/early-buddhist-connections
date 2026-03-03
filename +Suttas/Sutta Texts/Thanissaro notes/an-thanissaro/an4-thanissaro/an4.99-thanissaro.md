@@ -31,7 +31,7 @@ _This sutta is one of a series explaining [[an4.95-thanissaro]], which rates ind
 
 “These are the four types of individuals to be found existing in the world.”
 
-See also: [[sn47.19-thanissaro]]; [[an4.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.26-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.39-thanissaro]]
+See also: [[sn47.19-thanissaro]]; [[an4.95-thanissaro]]; [[an8.26-thanissaro]]; [[an8.39-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

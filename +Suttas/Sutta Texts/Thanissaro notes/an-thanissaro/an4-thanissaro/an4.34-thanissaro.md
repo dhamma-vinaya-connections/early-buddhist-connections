@@ -60,7 +60,7 @@ Note
 
 This sutta is almost identical with [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti90-thanissaro]].
 
-See also: [[sn6.2-thanissaro]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.52-thanissaro]]; [[an7.56-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.92-thanissaro]]; ; [[dhp188-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti112-thanissaro]]
+See also: [[sn6.2-thanissaro]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.52-thanissaro]]; [[an7.56-thanissaro]]; [[an10.92-thanissaro]]; ; [[dhp188-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti112-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

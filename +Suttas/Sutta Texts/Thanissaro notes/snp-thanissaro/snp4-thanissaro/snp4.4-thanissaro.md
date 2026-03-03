@@ -178,17 +178,17 @@ vv. 788–795
 
 8. “Vedas”—Just as the word “brahman” is used in a Buddhist sense above, here the word _veda_ is given a Buddhist sense. According to SnA, in this context it means the knowledge accompanying four transcendent paths: the paths to stream-entry, once-returning, non-returning, and arahantship. [↩︎](#^snp4-4-08-ref) ^snp4-4-08
 
-9. Nd I: The enemies here are the armies of Māra—all unskillful mental qualities. For a detailed inventory of Māra’s armies, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.2-thanissaro]]. [↩︎](#^snp4-4-09-ref) ^snp4-4-09
+9. Nd I: The enemies here are the armies of Māra—all unskillful mental qualities. For a detailed inventory of Māra’s armies, see [[/snp3.2-thanissaro]]. [↩︎](#^snp4-4-09-ref) ^snp4-4-09
 
 10. “By whom, with what”—two meanings of the one Pali word, _kena._ [↩︎](#^snp4-4-10-ref) ^snp4-4-10
 
-11. Nd I: “Open” means having a mind not covered or concealed by craving, defilement, or ignorance. This relates to the many references in Sn to the idea of having one’s roof opened up (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.13-thanissaro]]). This is in contrast to the image discussed [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.2-thanissaro]]. [↩︎](#^snp4-4-11-ref) ^snp4-4-11
+11. Nd I: “Open” means having a mind not covered or concealed by craving, defilement, or ignorance. This relates to the many references in Sn to the idea of having one’s roof opened up (see [[/snp2.13-thanissaro]]). This is in contrast to the image discussed [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.2-thanissaro]]. [↩︎](#^snp4-4-11-ref) ^snp4-4-11
 
 12. Nd I: “Territories” = the ten fetters _(saṁyojana)_ and seven obsessions _(anusaya)._ [↩︎](#^snp4-4-12-ref) ^snp4-4-12
 
-13. Nd I: “Passion” = sensuality; “dispassion” = the jhāna states that bring about dispassion for sensuality. However, this may also be a reference to the fact that dispassion is the highest dhamma, whether fabricated or unfabricated ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti90-thanissaro]]), and yet the arahant is described in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.6-thanissaro]] as having transcended all phenomena. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.137-thanissaro]], note 1 and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.6-thanissaro]]. [↩︎](#^snp4-4-13-ref) ^snp4-4-13
+13. Nd I: “Passion” = sensuality; “dispassion” = the jhāna states that bring about dispassion for sensuality. However, this may also be a reference to the fact that dispassion is the highest dhamma, whether fabricated or unfabricated ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti90-thanissaro]]), and yet the arahant is described in [[/snp5.6-thanissaro]] as having transcended all phenomena. See [[an3.137-thanissaro]], note 1 and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.6-thanissaro]]. [↩︎](#^snp4-4-13-ref) ^snp4-4-13
 
-See also: [[mn61-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.170-thanissaro]]
+See also: [[mn61-thanissaro]]; [[an5.170-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

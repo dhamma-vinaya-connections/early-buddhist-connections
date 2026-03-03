@@ -105,7 +105,7 @@ The Pali phrase for “monks led by Assaji and Punabbasu” is _assaji-punabbasu
 
 5. See [[an9.44-thanissaro]]. [↩︎](#^mn70note05-ref) ^mn70note05
 
-6. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]]. According to the Commentary, this category includes all noble ones (except for those who have reached the fruit of arahantship) who have also attained any of the formless dimensions. [↩︎](#^mn70note06-ref) ^mn70note06
+6. See [[an9.43-thanissaro]]. According to the Commentary, this category includes all noble ones (except for those who have reached the fruit of arahantship) who have also attained any of the formless dimensions. [↩︎](#^mn70note06-ref) ^mn70note06
 
 7. According to the Commentary, this category and the following one include all noble ones (except for those who have reached the fruit of arahantship) who have not attained any of the formless dimensions. [↩︎](#^mn70note07-ref) ^mn70note07
 
@@ -113,7 +113,7 @@ The Pali phrase for “monks led by Assaji and Punabbasu” is _assaji-punabbasu
 
 9. The steps of the practice, as presented here, follow the same sequence as that discussed in [[mn95-thanissaro]]. However, in that sutta, the sequence is prefaced by instructions on how to determine whether a teacher is worthy of conviction. [↩︎](#^mn70note09-ref) ^mn70note09
 
-See also: [[mn22-thanissaro]]; [[mn27-thanissaro]]; [[mn95-thanissaro]]; [[sn22-34-thanissaro/sn25-thanissaro/sn25.1-thanissaro]]; [[sn48.44-thanissaro]]; [[sn55.25-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.87-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.131-thanissaro]]
+See also: [[mn22-thanissaro]]; [[mn27-thanissaro]]; [[mn95-thanissaro]]; [[sn22-34-thanissaro/sn25-thanissaro/sn25.1-thanissaro]]; [[sn48.44-thanissaro]]; [[sn55.25-thanissaro]], [[an3.66-thanissaro]]; [[an3.87-thanissaro]]; [[an4.131-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

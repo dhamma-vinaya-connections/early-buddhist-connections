@@ -97,7 +97,7 @@ should give counsel without arrogance.
 
 2. According to the Commentary, these qualities are, respectively, the noble truth of the path, the noble truth of stress, the noble truth of the origination of stress, and the noble truth of the cessation of stress. [↩︎](#^[[an3-thanissaro]].68note02-ref) ^[[an3-thanissaro]].68note02
 
-See also: [[mn58-thanissaro]]; [[mn110-thanissaro]]; [[mn113-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.42-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.192-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.165-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.8-thanissaro]]
+See also: [[mn58-thanissaro]]; [[mn110-thanissaro]]; [[mn113-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.3-thanissaro]]; [[an4.42-thanissaro]]; [[an4.192-thanissaro]]; [[an5.165-thanissaro]]; [[/snp4.8-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

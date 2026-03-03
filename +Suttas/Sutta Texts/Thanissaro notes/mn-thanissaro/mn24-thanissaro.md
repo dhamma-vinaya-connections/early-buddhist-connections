@@ -101,13 +101,13 @@ In this way did both great beings rejoice in each other’s good words.
 
 ### Notes
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.69-thanissaro]] [↩︎](#^mn24note01-ref) ^mn24note01
+1. See [[an10.69-thanissaro]] [↩︎](#^mn24note01-ref) ^mn24note01
 
 2. Ven. Sāriputta and Ven. Puṇṇa speak of this list of seven purities—purity in terms of virtue, mind, view, the overcoming of perplexity, knowledge & vision of what is & is not the path, knowledge & vision of the way, and knowledge & vision—as if it were a teaching familiar to both of them, and yet nowhere else is it mentioned as a Buddhist teaching in the discourses. The Aṭṭhaka Vagga ([[sn4-thanissaro]]), however, mentions various non-Buddhist sectarians who spoke of purity as the goal of their teaching and who variously defined that purity in terms of virtue, view, knowledge, & practice. Perhaps the seven types of purity listed in this discourse were originally non-Buddhist teachings that were adopted by the early Buddhist community and adapted to their own purpose for showing that these seven forms of purity functioned not as a goal of practice but as stages along the path to that goal. At any rate, this list of the seven purities formed the framework for Buddhaghosa’s _Visuddhimagga (The Path of Purity),_ the cornerstone of his Pali commentaries, in which the seven purities cover all three parts of the threefold training in virtue, concentration, & discernment. [↩︎](#^mn24note02-ref) ^mn24note02
 
 3. _Anupādā-parinibbāna._ The Commentary gives two interpretations of this term, both of them equating _anupādā_ with _anupādāna_ (without _upādāna)._ The first, taking _upādāna_ as _clinging,_ is total unbinding through lack of clinging. This, it says, refers to the fact that total unbinding follows on the fruit of arahantship, which is devoid of clinging. The other meaning, taking _upādāna_ as _sustenance,_ is total unbinding with no sustenance. This, it says, refers to the fact that total unbinding is independent of any condition. For an explanation of these meanings of the word _upādāna_, see _The Mind Like Fire Unbound,_ chapter 3. [↩︎](#^mn24note03-ref) ^mn24note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.9-thanissaro]]
+See also: [[an9.13-thanissaro]]; [[/snp4.4-thanissaro]]; [[/snp4.9-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

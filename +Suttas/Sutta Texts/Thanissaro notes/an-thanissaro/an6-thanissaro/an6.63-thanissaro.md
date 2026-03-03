@@ -147,7 +147,7 @@ subdue their desire.
 
 “And this is the penetrative explanation that is a Dhamma explanation.”
 
-See also: [[dn22-thanissaro]]; [[mn18-thanissaro]]; [[mn135-thanissaro]]; [[sn36.22-thanissaro]]; [[sn36.31-thanissaro]]; [[sn46.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.237-thanissaro]]
+See also: [[dn22-thanissaro]]; [[mn18-thanissaro]]; [[mn135-thanissaro]]; [[sn36.22-thanissaro]]; [[sn36.31-thanissaro]]; [[sn46.11-thanissaro]]; [[an4.237-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

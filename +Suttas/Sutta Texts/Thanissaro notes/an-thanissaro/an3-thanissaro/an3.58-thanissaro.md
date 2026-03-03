@@ -121,7 +121,7 @@ unbinding
 
 who are wise.”
 
-See also: [[sn3.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.34-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.179-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.49-thanissaro]]; [[ud3.7-thanissaro]]
+See also: [[sn3.24-thanissaro]]; [[an5.34-thanissaro]]; [[an5.179-thanissaro]]; [[an7.49-thanissaro]]; [[ud3.7-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

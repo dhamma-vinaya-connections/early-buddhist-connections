@@ -33,9 +33,9 @@ Ven. Mahā Cunda said, “Friends, there is the case where Dhamma-devotee monks 
 
 Note
 
-1. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]] and 44 make a distinction between touching a meditative dimension with the body and knowing it with discernment. In both cases, the experience is direct and personal, and in both it leads to the ending of the mental effluents. Thus, “touching with the body” seems to have a more precise meaning than simple personal experience. It could mean that there is a somatic aspect to the experience or that the awareness of the deathless occupies the same fullness of awareness that had been occupied by the body.
+1. [[an9.43-thanissaro]] and 44 make a distinction between touching a meditative dimension with the body and knowing it with discernment. In both cases, the experience is direct and personal, and in both it leads to the ending of the mental effluents. Thus, “touching with the body” seems to have a more precise meaning than simple personal experience. It could mean that there is a somatic aspect to the experience or that the awareness of the deathless occupies the same fullness of awareness that had been occupied by the body.
 
-See also: [[dn15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.73-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.24-thanissaro]]; [[dhp259-thanissaro]]
+See also: [[dn15-thanissaro]]; [[an5.73-thanissaro]]; [[an9.43-thanissaro]]; [[an10.24-thanissaro]]; [[dhp259-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

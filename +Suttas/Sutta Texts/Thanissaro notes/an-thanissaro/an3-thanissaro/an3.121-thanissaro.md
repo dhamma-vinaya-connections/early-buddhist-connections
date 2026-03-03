@@ -25,7 +25,7 @@ Monks, there are these three purities. Which three? Bodily purity, verbal purity
 
 “These, monks, are the three purities.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.165-thanissaro]]
+See also: [[an10.165-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

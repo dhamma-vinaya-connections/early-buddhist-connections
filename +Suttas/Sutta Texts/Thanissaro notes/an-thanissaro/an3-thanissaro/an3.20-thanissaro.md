@@ -35,7 +35,7 @@ language: "English"
 
 “Monks, a monk endowed with these three factors will, in no long time, achieve greatness & abundance in terms of skillful qualities.”
 
-See also: [[dn26-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an2/an2.46-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.6-thanissaro]]
+See also: [[dn26-thanissaro]]; [[an2.46-thanissaro]]; [[an7.6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

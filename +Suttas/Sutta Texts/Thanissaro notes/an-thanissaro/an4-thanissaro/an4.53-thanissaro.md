@@ -85,7 +85,7 @@ Note
 
 1. _Sama,_ which means, “even,” “equal,” “on pitch,” or “in tune.” Throughout ancient cultures, the terminology of music was used to describe the moral quality of people and acts. Discordant intervals or poorly-tuned musical instruments were metaphors for evil; harmonious intervals and well-tuned instruments, for good.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.55-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.16-thanissaro]]; [[dhp246-thanissaro]]; [[dhp309-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.14-thanissaro]]
+See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.55-thanissaro]]; [[an6.16-thanissaro]]; [[dhp246-thanissaro]]; [[dhp309-thanissaro]]; [[/snp2.14-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -61,7 +61,7 @@ Note
 
 1. _Acelaka:_ “One without cloth.” Often translated as “naked,” but as the description shows, such a person might wear garments made of something other than cloth.
 
-See also: [[mn13-thanissaro]]; [[mn14-thanissaro]]; [[sn36.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.115-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.192-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.20-thanissaro]]
+See also: [[mn13-thanissaro]]; [[mn14-thanissaro]]; [[sn36.11-thanissaro]]; [[an4.115-thanissaro]]; [[an4.192-thanissaro]]; [[an6.63-thanissaro]]; [[an10.20-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

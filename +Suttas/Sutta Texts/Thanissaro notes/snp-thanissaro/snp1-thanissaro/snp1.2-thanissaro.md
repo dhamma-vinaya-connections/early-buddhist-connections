@@ -278,7 +278,7 @@ vv.18–34
 
 2. The first line in the Buddha’s verse plays on words in the first line of Dhaniya’s. “Free from anger” _(akkodhano)_ plays on “rice is cooked” _(pakkodano);_ and “rigidity” _(khilo)_ plays on “milk” _(khīro)._ [↩︎](#^snp1-2-02-ref) ^snp1-2-02
 
-3. “Open” means having a mind not covered or concealed by craving, defilement, or ignorance. This image is also used at [[ud5.5-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.4-thanissaro]]. “My fire out” refers to the fires of passion, aversion, & delusion; birth, aging, & death; sorrow, lamentation, pain, distress, & despair. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti93-thanissaro]]; and _The Mind Like Fire Unbound._ [↩︎](#^snp1-2-03-ref) ^snp1-2-03
+3. “Open” means having a mind not covered or concealed by craving, defilement, or ignorance. This image is also used at [[ud5.5-thanissaro]] and [[/snp4.4-thanissaro]]. “My fire out” refers to the fires of passion, aversion, & delusion; birth, aging, & death; sorrow, lamentation, pain, distress, & despair. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti93-thanissaro]]; and _The Mind Like Fire Unbound._ [↩︎](#^snp1-2-03-ref) ^snp1-2-03
 
 4. The raft stands for the noble eightfold path. See [[mn22-thanissaro]] and [[sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]_._ [↩︎](#^snp1-2-04-ref) ^snp1-2-04
 
@@ -292,13 +292,13 @@ vv.18–34
 
 9. This verse is quoted in the Milinda Pañhā. [↩︎](#^snp1-2-09-ref) ^snp1-2-09
 
-10. On the theme of the Buddha as “One with Eyes,” see [[dn16-thanissaro]], note 44. See also, [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.12-thanissaro]]. [↩︎](#^snp1-2-10-ref) ^snp1-2-10
+10. On the theme of the Buddha as “One with Eyes,” see [[dn16-thanissaro]], note 44. See also, [[/snp2.12-thanissaro]]. [↩︎](#^snp1-2-10-ref) ^snp1-2-10
 
 11. According to SnA, Māra suddenly comes on the scene to try—unsuccessfully—to prevent Dhaniya and his wife from going forth. His verses here, together with the Buddha’s response, are also found at [[sn4.8-thanissaro]]. [↩︎](#^snp1-2-11-ref) ^snp1-2-11
 
-12. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.12-thanissaro]]. [↩︎](#^snp1-2-12-ref) ^snp1-2-12
+12. See [[/snp3.12-thanissaro]]. [↩︎](#^snp1-2-12-ref) ^snp1-2-12
 
-See also: [[sn4.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.110-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.6-thanissaro]]-7; [[ud2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig1-thanissaro]]
+See also: [[sn4.8-thanissaro]]; [[an3.35-thanissaro]]; [[an3.110-thanissaro]]; [[an7.6-thanissaro]]-7; [[ud2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

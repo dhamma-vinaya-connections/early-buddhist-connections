@@ -35,7 +35,7 @@ The Blessed One said: “When a monk is intent on the heightened mind, there are
 
 That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
 
-See also: [[mn54-thanissaro]]; [[mn75-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.103-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.58-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.80-thanissaro]]; [[ud4.1-thanissaro]]
+See also: [[mn54-thanissaro]]; [[mn75-thanissaro]]; [[an3.103-thanissaro]]; [[an7.58-thanissaro]]; [[an10.80-thanissaro]]; [[ud4.1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

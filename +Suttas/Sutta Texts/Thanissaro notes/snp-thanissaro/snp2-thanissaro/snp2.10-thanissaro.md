@@ -70,7 +70,7 @@ your own arrow.
 
 vv. 331–334
 
-See also: [Dhp 21–32](../Dhp/Ch02.html#dhp021); [Dhp 315](../Dhp/Ch22.html#dhp315); [[sn3.17-thanissaro]]; [[sn36.6-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag2-thanissaro]]
+See also: [Dhp 21–32](../Dhp/Ch02.html#dhp021); [Dhp 315](../Dhp/Ch22.html#dhp315); [[sn3.17-thanissaro]]; [[sn36.6-thanissaro]]; [[an4.37-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag2-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

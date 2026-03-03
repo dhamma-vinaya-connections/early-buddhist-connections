@@ -31,13 +31,13 @@ Then the thought occurred to Ven. Ānanda, “Here the Blessed One has just reco
 
 ### Notes
 
-1. For the meaning of sensuality here, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]. [↩︎](#^[[an3-thanissaro]].74note01-ref) ^[[an3-thanissaro]].74note01
+1. For the meaning of sensuality here, see [[an6.63-thanissaro]]. [↩︎](#^[[an3-thanissaro]].74note01-ref) ^[[an3-thanissaro]].74note01
 
 2. “And what, monks, are unskillful qualities? Wrong view, wrong resolve, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong concentration.” _—[[sn45-thanissaro]]:22_ [↩︎](#^[[an3-thanissaro]].74note02-ref) ^[[an3-thanissaro]].74note02
 
 3. Ven. Ānanda has answered Mahānāma’s question by noting that the concentration of one in training precedes both the discernment of one in training and the discernment of one whose training is complete, whereas the discernment of one in training has preceded the concentration of one whose training is complete. [↩︎](#^[[an3-thanissaro]].74note03-ref) ^[[an3-thanissaro]].74note03
 
-See also: [[mn48-thanissaro]]; [[mn117-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.5-thanissaro]]; [[sn35.99-thanissaro]]; [[sn55.33-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]
+See also: [[mn48-thanissaro]]; [[mn117-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.5-thanissaro]]; [[sn35.99-thanissaro]]; [[sn55.33-thanissaro]]; [[an5.28-thanissaro]]; [[an9.36-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

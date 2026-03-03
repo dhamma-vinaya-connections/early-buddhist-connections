@@ -93,7 +93,7 @@ That is what Ven. Sāriputta said. Gratified, the monks delighted in Ven. Sārip
 
 2. In passages where the Buddha defines stress, (e.g., [[sn56.11-thanissaro]], [[dn22-thanissaro]]), he includes the statements, “association with the unbeloved is stressful; separation from the loved is stressful,” prior to “not getting what one wants is stressful.” For some reason, in passages where Ven. Sāriputta defines stress (here and at [[mn9-thanissaro]] and [[mn28-thanissaro]]), he drops these statements from the definition. [↩︎](#^mn141note02-ref) ^mn141note02
 
-See also: [[dn22-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.20-thanissaro]]; [[sn56.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.137-thanissaro]]
+See also: [[dn22-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.20-thanissaro]]; [[sn56.11-thanissaro]]; [[an3.137-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

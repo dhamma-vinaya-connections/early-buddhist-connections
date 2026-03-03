@@ -199,7 +199,7 @@ all suffering & stress.
 
 6. The Commentary notes that not everyone who falls into hell is tortured with all of these punishments: Some of the tortures are skipped; in some cases the hell-being’s kamma is exhausted before the full round of tortures is completed, so that he dies and is reborn elsewhere; and not everyone undergoes repeated rounds. Also, we should note that punishment in hell is not for an eternity. As the discourse implies, when the hell-being’s bad kamma is exhausted, he dies and is reborn elsewhere, in accordance with his remaining kamma. [↩︎](#^mn130note06-ref) ^mn130note06
 
-See also: [[mn45-thanissaro]]; [[mn97-thanissaro]]; [[mn135-thanissaro]]; [[mn136-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.135-thanissaro]]; [[sn42.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.101-thanissaro]]
+See also: [[mn45-thanissaro]]; [[mn97-thanissaro]]; [[mn135-thanissaro]]; [[mn136-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.135-thanissaro]]; [[sn42.8-thanissaro]]; [[an3.101-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

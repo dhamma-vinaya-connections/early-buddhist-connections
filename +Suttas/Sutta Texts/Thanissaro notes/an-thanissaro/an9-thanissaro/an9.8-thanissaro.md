@@ -29,7 +29,7 @@ Note
 
 1. This translation and that of the preceding sutta follow the Thai edition of the Canon. In other editions, the last four principles are reversed between the two suttas. In other words, the last four principles listed here in 9:8 are given in 9:7 in those editions, and the last four listed in 9:7 are given here.
 
-See also: [[dn29-thanissaro]]; [[mn1-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]]; [[an9.62-thanissaro]]; [[an10.13-thanissaro]]; [[an10.81-thanissaro]]
+See also: [[dn29-thanissaro]]; [[mn1-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[an6.13-thanissaro]]; [[an6.43-thanissaro]]; [[an9.62-thanissaro]]; [[an10.13-thanissaro]]; [[an10.81-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

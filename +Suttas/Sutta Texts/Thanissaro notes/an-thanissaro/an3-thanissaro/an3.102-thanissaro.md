@@ -45,9 +45,9 @@ language: "English"
 
 1. _Mahaggataṁ._ This term is used, together with “immeasurable / unlimited,” in the standard description of the awareness generated in the practice of the _brahmavihāras_ ([[sn42.8-thanissaro]]). According to Ven. Anuruddha in [[mn127-thanissaro]], however, an enlarged mind is not immeasurable. Its range of awareness is larger than the body but still measurable, ranging in distance from the shade of a tree to the earth bounded by the ocean. [↩︎](#^[[an3-thanissaro]].102note01-ref) ^[[an3-thanissaro]].102note01
 
-2. On the various levels of release, see [[dn15-thanissaro]], [[mn43-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]]. [↩︎](#^[[an3-thanissaro]].102note02-ref) ^[[an3-thanissaro]].102note02
+2. On the various levels of release, see [[dn15-thanissaro]], [[mn43-thanissaro]], and [[an9.43-thanissaro]]. [↩︎](#^[[an3-thanissaro]].102note02-ref) ^[[an3-thanissaro]].102note02
 
-See also: [[mn19-thanissaro]]; [[sn51.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.71-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]
+See also: [[mn19-thanissaro]]; [[sn51.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.71-thanissaro]]; [[an5.28-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

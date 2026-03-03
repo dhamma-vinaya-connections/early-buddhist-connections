@@ -27,7 +27,7 @@ language: "English"
 
 “For these four things, monks, there is no guarantor—neither a contemplative, nor a brahman, nor a deva, nor a Māra, nor a Brahmā, nor anyone at all in the world.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.49-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.57-thanissaro]]
+See also: [[an5.49-thanissaro]]; [[an5.57-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

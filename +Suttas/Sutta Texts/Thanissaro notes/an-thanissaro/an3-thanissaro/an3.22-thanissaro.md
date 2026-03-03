@@ -31,7 +31,7 @@ language: "English"
 
 “These are the three types of people, like the three types of sick people, to be found existing in the world.”
 
-See also: [[dn12-thanissaro]]; [[mn63-thanissaro]]; [[mn75-thanissaro]]; [[mn105-thanissaro]]; [[sn6.1-thanissaro]]; [[sn42.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.108-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti100-thanissaro]]
+See also: [[dn12-thanissaro]]; [[mn63-thanissaro]]; [[mn75-thanissaro]]; [[mn105-thanissaro]]; [[sn6.1-thanissaro]]; [[sn42.7-thanissaro]]; [[an10.108-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti100-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

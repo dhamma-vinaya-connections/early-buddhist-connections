@@ -71,7 +71,7 @@ Then, on the following uposatha day, the lay followers from Campā went to Ven. 
 
 “This, Sāriputta, is the cause, this is the reason, why a person gives a gift of a certain sort and it does not bear great fruit or great benefit, whereas another person gives a gift of the same sort and it bears great fruit and great benefit.”
 
-See also: [[mn113-thanissaro]]; [[sn3.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.58-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.148-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.37-thanissaro]]
+See also: [[mn113-thanissaro]]; [[sn3.24-thanissaro]]; [[an3.58-thanissaro]]; [[an5.148-thanissaro]]; [[an6.37-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

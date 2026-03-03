@@ -59,7 +59,7 @@ language: "English"
 
 “And how does a monk not burn? There is the case where a monk’s conceit, ‘I am,’ _is_ abandoned, its root destroyed, made like a palmyra stump, deprived of the conditions of development, not destined for future arising. This is how a monk doesn’t burn.”
 
-See also: [[mn2-thanissaro]]; [[mn87-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.25-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.60-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.80-thanissaro]]
+See also: [[mn2-thanissaro]]; [[mn87-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.25-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.19-thanissaro]]; [[an7.60-thanissaro]]; [[an10.80-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

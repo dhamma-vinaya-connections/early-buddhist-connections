@@ -29,7 +29,7 @@ language: "English"
 
 “These, monks, are the five strengths of one in training. Thus you should train yourselves, ‘We will be endowed with the strength of conviction that is the strength of one in training; with the strength of a sense of shame… the strength of a sense of compunction… the strength of persistence… the strength of discernment that is the strength of one in training.’ That’s how you should train yourselves.”
 
-See also: [[sn48.10-thanissaro]]; [[sn48.44-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.6-thanissaro]]
+See also: [[sn48.10-thanissaro]]; [[sn48.44-thanissaro]]; [[an7.6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

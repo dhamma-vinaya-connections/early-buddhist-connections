@@ -324,7 +324,7 @@ vv. 895–914
 
 7. The word _bhavabhavesu_—”through/for becoming & not-becoming”—functions here as a lamp. [↩︎](#^snp4-13-07-ref) ^snp4-13-07
 
-8. “The knowledge of a doctrine, any other doctrine”—a pun on the word, _dhammamaññam._ Nd I favors the second interpretation, saying that the brahman does not see as best any doctrine aside from the Wings to Awakening: the establishings of mindfulness, the exertions, the bases of power, the faculties, the strengths, the factors for awakening, and the noble eightfold path. This reading seems unlikely, though, as these doctrines are not mentioned anywhere in this poem. The first reading is more in line with the Buddha’s statement in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.9-thanissaro]] that the highest state is not defined in terms of knowledge, and is well-illustrated in action in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.93-thanissaro]]. [↩︎](#^snp4-13-08-ref) ^snp4-13-08
+8. “The knowledge of a doctrine, any other doctrine”—a pun on the word, _dhammamaññam._ Nd I favors the second interpretation, saying that the brahman does not see as best any doctrine aside from the Wings to Awakening: the establishings of mindfulness, the exertions, the bases of power, the faculties, the strengths, the factors for awakening, and the noble eightfold path. This reading seems unlikely, though, as these doctrines are not mentioned anywhere in this poem. The first reading is more in line with the Buddha’s statement in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.9-thanissaro]] that the highest state is not defined in terms of knowledge, and is well-illustrated in action in [[an10.93-thanissaro]]. [↩︎](#^snp4-13-08-ref) ^snp4-13-08
 
 9. According to Nd I, this compound—_ñāṇa-bandhu_—should be translated as “tied by means of knowledge,” in that the arahant doesn’t use the knowledge that comes with the mastery of concentration, the five mundane forms of psychic power _(abhiñña),_ or any wrong knowledge to create the bonds of craving or views. However, the compound may also refer to the fact that the arahant isn’t tied even to the knowledge that forms part of the path to arahantship (see [[mn117-thanissaro]]). [↩︎](#^snp4-13-09-ref) ^snp4-13-09
 
@@ -334,7 +334,7 @@ vv. 895–914
 
 12. “Is improper :: is free from theories, hasn’t stopped :: isn’t impassioned, isn’t worth wanting :: doesn’t desire”—a series of puns—_na kappiyo, nuparato, na patthiyo_—each with a strongly positive and a strongly negative meaning, probably meant for their shock value. For a similar set of puns, see [Dhp 97](../Dhp/Ch07.html#dhp097). [↩︎](#^snp4-13-12-ref) ^snp4-13-12
 
-See also: [[mn24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]
+See also: [[mn24-thanissaro]]; [[an4.24-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

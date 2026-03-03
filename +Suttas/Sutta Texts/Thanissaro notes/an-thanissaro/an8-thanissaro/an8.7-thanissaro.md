@@ -45,7 +45,7 @@ On one occasion the Blessed One was staying near Rājagaha on Vulture Peak Mount
 
 “Therefore, monks, you should train yourselves: ‘We will keep conquering again & again any arisen material gain… any arisen lack of material gain… any arisen status… any arisen lack of status… any arisen offerings… any arisen lack of offerings… any arisen evil ambition… any arisen evil friendship.’ That’s how you should train yourselves.”
 
-See also: [[sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.178-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.60-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti81-thanissaro]]
+See also: [[sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[an4.178-thanissaro]]; [[an6.60-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti81-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

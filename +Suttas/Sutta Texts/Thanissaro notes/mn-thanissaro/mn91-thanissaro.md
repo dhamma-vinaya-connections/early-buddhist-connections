@@ -39,7 +39,7 @@ language: "English"
 
 “We have seen Master Gotama walking, sir, we have seen him standing, we have seen him entering indoors, we have seen him sitting in silence indoors, we have seen him eating indoors, we have seen him sitting in silence after eating, we have seen him giving the anumodanā after eating, we having seen him returning to the monastery, we have seen him sitting in silence after going to the monastery, we have seen him teaching the Dhamma to a gathering in the monastery. He is like that, like that—and more than that.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.7-thanissaro]]; [[sn5-thanissaro]]
+See also: [[/snp3.7-thanissaro]]; [[sn5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

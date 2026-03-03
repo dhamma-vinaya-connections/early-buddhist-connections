@@ -338,17 +338,17 @@ vv. 284–315
 
 ### Notes
 
-1. According to SnA, “Brahmā treasure” refers to such mind states as the development of goodwill. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.8-thanissaro]]. [↩︎](#^snp2-7-01-ref) ^snp2-7-01
+1. According to SnA, “Brahmā treasure” refers to such mind states as the development of goodwill. See [[/snp1.8-thanissaro]]. [↩︎](#^snp2-7-01-ref) ^snp2-7-01
 
 2. “Protecting their principles, protected by law”: two possible meanings of _dhamma-rakkhitā._ SnA explains this term with reference to the Dhamma passage, “The Dhamma protects those who live by the Dhamma.” ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag4-thanissaro]]) [↩︎](#^snp2-7-02-ref) ^snp2-7-02
 
-3. I.e., in choosing their wives. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.191-thanissaro]]. [↩︎](#^snp2-7-03-ref) ^snp2-7-03
+3. I.e., in choosing their wives. See [[an5.191-thanissaro]]. [↩︎](#^snp2-7-03-ref) ^snp2-7-03
 
 4. Three types of sacrifice defined by details in the equipment used. [↩︎](#^snp2-7-04-ref) ^snp2-7-04
 
 5. Reading _sabbaso_ with the Thai edition. The other editions read _bhāgaso,_ “laid out.” [↩︎](#^snp2-7-05-ref) ^snp2-7-05
 
-See also: [[mn60-thanissaro]]; [[mn93-thanissaro]]; [[sn3.9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.191-thanissaro]]
+See also: [[mn60-thanissaro]]; [[mn93-thanissaro]]; [[sn3.9-thanissaro]]; [[an5.191-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

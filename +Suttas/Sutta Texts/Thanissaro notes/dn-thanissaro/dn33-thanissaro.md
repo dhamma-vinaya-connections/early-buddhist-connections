@@ -878,7 +878,7 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 2. Reading _maddava_ with the Thai. The other editions have _lajjava,_ “a sense of conscientiousness.” [↩︎](#^dn33note02-ref) ^dn33note02
 
-3. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an2/an2.5-thanissaro]]. [↩︎](#^dn33note03-ref) ^dn33note03
+3. See [[an2.5-thanissaro]]. [↩︎](#^dn33note03-ref) ^dn33note03
 
 4. See [[mn41-thanissaro]]. [↩︎](#^dn33note04-ref) ^dn33note04
 
@@ -886,7 +886,7 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 6. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti78-thanissaro]]. [↩︎](#^dn33note06-ref) ^dn33note06
 
-7. This passage shows that the Pali word for craving, _taṇhā,_ does not apply exclusively to unskillful desires. See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.159-thanissaro]]. [↩︎](#^dn33note07-ref) ^dn33note07
+7. This passage shows that the Pali word for craving, _taṇhā,_ does not apply exclusively to unskillful desires. See also [[an4.159-thanissaro]]. [↩︎](#^dn33note07-ref) ^dn33note07
 
 8. See [[mn9-thanissaro]]. [↩︎](#^dn33note08-ref) ^dn33note08
 
@@ -900,7 +900,7 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 13. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti22-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti27-thanissaro]]. [↩︎](#^dn33note13-ref) ^dn33note13
 
-14. According to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.123-thanissaro]], these three types of devas have mastered, respectively, the first, second, and third jhānas. [↩︎](#^dn33note14-ref) ^dn33note14
+14. According to [[an4.123-thanissaro]], these three types of devas have mastered, respectively, the first, second, and third jhānas. [↩︎](#^dn33note14-ref) ^dn33note14
 
 15. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti61-thanissaro]]. [↩︎](#^dn33note15-ref) ^dn33note15
 
@@ -910,13 +910,13 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 18. See [[mn121-thanissaro]]. [↩︎](#^dn33note18-ref) ^dn33note18
 
-19. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.121-thanissaro]]. [↩︎](#^dn33note19-ref) ^dn33note19
+19. See [[an3.121-thanissaro]]. [↩︎](#^dn33note19-ref) ^dn33note19
 
-20. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.123-thanissaro]]. [↩︎](#^dn33note20-ref) ^dn33note20
+20. See [[an3.123-thanissaro]]. [↩︎](#^dn33note20-ref) ^dn33note20
 
-21. For the last form of intoxication here, the Thai edition reads _jātimado,_ intoxication with birth, but this doesn’t follow the text at [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]. [↩︎](#^dn33note21-ref) ^dn33note21
+21. For the last form of intoxication here, the Thai edition reads _jātimado,_ intoxication with birth, but this doesn’t follow the text at [[an3.39-thanissaro]]. [↩︎](#^dn33note21-ref) ^dn33note21
 
-22. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.40-thanissaro]]. [↩︎](#^dn33note22-ref) ^dn33note22
+22. See [[an3.40-thanissaro]]. [↩︎](#^dn33note22-ref) ^dn33note22
 
 23. See [[sn42.11-thanissaro]]. [↩︎](#^dn33note23-ref) ^dn33note23
 
@@ -928,7 +928,7 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 27. See [[sn51.13-thanissaro]] and [[sn51.20-thanissaro]]. [↩︎](#^dn33note27-ref) ^dn33note27
 
-28. For notes on this section, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.41-thanissaro]]. [↩︎](#^dn33note28-ref) ^dn33note28
+28. For notes on this section, see [[an4.41-thanissaro]]. [↩︎](#^dn33note28-ref) ^dn33note28
 
 29. See [[mn2-thanissaro]]. [↩︎](#^dn33note29-ref) ^dn33note29
 
@@ -942,9 +942,9 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 34. See [[sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]]. [↩︎](#^dn33note34-ref) ^dn33note34
 
-35. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.162-thanissaro]]. [↩︎](#^dn33note35-ref) ^dn33note35
+35. See [[an4.162-thanissaro]]. [↩︎](#^dn33note35-ref) ^dn33note35
 
-36. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.164-thanissaro]]. [↩︎](#^dn33note36-ref) ^dn33note36
+36. See [[an4.164-thanissaro]]. [↩︎](#^dn33note36-ref) ^dn33note36
 
 37. See [[mn45-thanissaro]]. [↩︎](#^dn33note37-ref) ^dn33note37
 
@@ -952,7 +952,7 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 39. See _._ [↩︎](#^dn33note39-ref) ^dn33note39
 
-40. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.237-thanissaro]]. [↩︎](#^dn33note40-ref) ^dn33note40
+40. See [[an4.237-thanissaro]]. [↩︎](#^dn33note40-ref) ^dn33note40
 
 41. For the eight emancipations, see the section on Eights, below. [↩︎](#^dn33note41-ref) ^dn33note41
 
@@ -964,15 +964,15 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 45. See [[mn51-thanissaro]]. [↩︎](#^dn33note45-ref) ^dn33note45
 
-46. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.96-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.99-thanissaro]]. [↩︎](#^dn33note46-ref) ^dn33note46
+46. See [[an4.96-thanissaro]] and [[an4.99-thanissaro]]. [↩︎](#^dn33note46-ref) ^dn33note46
 
 47. See [[sn3.21-thanissaro]]. [↩︎](#^dn33note47-ref) ^dn33note47
 
-48. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.87-thanissaro]]. [↩︎](#^dn33note48-ref) ^dn33note48
+48. See [[an4.87-thanissaro]]. [↩︎](#^dn33note48-ref) ^dn33note48
 
 49. On the distinction between aggregates and clinging-aggregates, see [[sn22-34-thanissaro/sn22-thanissaro/sn22.48-thanissaro]] and [[sn22-34-thanissaro/sn22-thanissaro/sn22.121-thanissaro]]. [↩︎](#^dn33note49-ref) ^dn33note49
 
-50. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.254-thanissaro]]. [↩︎](#^dn33note50-ref) ^dn33note50
+50. See [[an5.254-thanissaro]]. [↩︎](#^dn33note50-ref) ^dn33note50
 
 51. See AN 3:88, [note 3](../AN/AN3_88.html#an3.88note03) and [note 4](../AN/AN3_88.html#an3.88note04). [↩︎](#^dn33note51-ref) ^dn33note51
 
@@ -980,41 +980,41 @@ That is what Ven. Sāriputta said, the Teacher approved, and gratified, the monk
 
 53. See [[sn48.10-thanissaro]]. [↩︎](#^dn33note53-ref) ^dn33note53
 
-54. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]. [↩︎](#^dn33note54-ref) ^dn33note54
+54. See [[an10.60-thanissaro]]. [↩︎](#^dn33note54-ref) ^dn33note54
 
 55. See [[mn140-thanissaro]]. [↩︎](#^dn33note55-ref) ^dn33note55
 
-56. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.71-thanissaro]]. [↩︎](#^dn33note56-ref) ^dn33note56
+56. See [[an3.71-thanissaro]]. [↩︎](#^dn33note56-ref) ^dn33note56
 
-57. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]. [↩︎](#^dn33note57-ref) ^dn33note57
+57. See [[an10.60-thanissaro]]. [↩︎](#^dn33note57-ref) ^dn33note57
 
-58. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.6-thanissaro]]. [↩︎](#^dn33note58-ref) ^dn33note58
+58. See [[an7.6-thanissaro]]. [↩︎](#^dn33note58-ref) ^dn33note58
 
 59. See [[sn46.52-thanissaro]]. [↩︎](#^dn33note59-ref) ^dn33note59
 
 60. See [[mn117-thanissaro]]. [↩︎](#^dn33note60-ref) ^dn33note60
 
-61. See [[mn53-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]. [↩︎](#^dn33note61-ref) ^dn33note61
+61. See [[mn53-thanissaro]] and [[an7.63-thanissaro]]. [↩︎](#^dn33note61-ref) ^dn33note61
 
-62. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.64-thanissaro]]. [↩︎](#^dn33note62-ref) ^dn33note62
+62. See [[an7.64-thanissaro]]. [↩︎](#^dn33note62-ref) ^dn33note62
 
-63. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]. [↩︎](#^dn33note63-ref) ^dn33note63
+63. See [[an10.60-thanissaro]]. [↩︎](#^dn33note63-ref) ^dn33note63
 
-64. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]. [↩︎](#^dn33note64-ref) ^dn33note64
+64. See [[an7.63-thanissaro]]. [↩︎](#^dn33note64-ref) ^dn33note64
 
 65. See [[mn70-thanissaro]]. [↩︎](#^dn33note65-ref) ^dn33note65
 
 66. See . [↩︎](#^dn33note66-ref) ^dn33note66
 
-67. See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.34-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.49-thanissaro]]. [↩︎](#^dn33note67-ref) ^dn33note67
+67. See also [[an5.34-thanissaro]] and [[an7.49-thanissaro]]. [↩︎](#^dn33note67-ref) ^dn33note67
 
-68. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.6-thanissaro]]. [↩︎](#^dn33note68-ref) ^dn33note68
+68. See [[an8.6-thanissaro]]. [↩︎](#^dn33note68-ref) ^dn33note68
 
 69. Following the Burmese and Sri Lankan editions. The Thai edition reads, _nimmānarati-parisā,_ “a Devas Delighting in Creation assembly,” a reading that does not fit with the more authoritative reading given in all editions of [[dn16-thanissaro]]. [↩︎](#^dn33note69-ref) ^dn33note69
 
 70. See [[mn44-thanissaro]]. [↩︎](#^dn33note70-ref) ^dn33note70
 
-71. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.165-thanissaro]]. [↩︎](#^dn33note71-ref) ^dn33note71
+71. See [[an10.165-thanissaro]]. [↩︎](#^dn33note71-ref) ^dn33note71
 
 72. See [[mn2-thanissaro]]. [↩︎](#^dn33note72-ref) ^dn33note72
 

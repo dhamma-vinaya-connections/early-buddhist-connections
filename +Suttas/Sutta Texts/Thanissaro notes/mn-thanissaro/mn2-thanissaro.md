@@ -79,7 +79,7 @@ The Blessed One said, “Monks, the ending of the effluents is for one who knows
 
 That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
 
-See also: [[mn63-thanissaro]]; [[mn72-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.20-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[sn44.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.42-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.93-thanissaro]]
+See also: [[mn63-thanissaro]]; [[mn72-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.20-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[sn44.10-thanissaro]]; [[an4.42-thanissaro]]; [[an4.200-thanissaro]]; [[an10.93-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

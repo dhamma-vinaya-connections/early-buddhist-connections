@@ -51,7 +51,7 @@ Now at that time Ven. Nāgita was the Blessed One’s attendant. So the Blessed 
 
 2. GS omits this paragraph. [↩︎](#^[[an6-thanissaro]].42note02-ref) ^[[an6-thanissaro]].42note02
 
-See also: [[mn122-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[sn47.5-thanissaro]]; [[sn55.23-thanissaro]], [[an4.263-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.30-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.80-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.103-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.70-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.72-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.99-thanissaro]]
+See also: [[mn122-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[sn47.5-thanissaro]]; [[sn55.23-thanissaro]], [[an4.263-thanissaro]]; [[an5.30-thanissaro]]; [[an5.80-thanissaro]]; [[an8.103-thanissaro]]; [[an10.70-thanissaro]]; [[an10.72-thanissaro]]; [[an10.99-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

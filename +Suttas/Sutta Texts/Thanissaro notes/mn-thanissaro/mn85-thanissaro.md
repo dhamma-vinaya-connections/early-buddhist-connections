@@ -320,7 +320,7 @@ So the Buddha’s reasoning with regard to Prince Bodhi must have been different
 
 3. Following the Thai and Sri Lankan versions of the Canon. The PTS version has, “But he doesn’t say, ‘I go to Master Gotama, the Dhamma, & the Saṅgha of monks for refuge.’” The Thai and Sri Lankan versions seem preferable, as Prince Bodhi would not refer to the Buddha as “Master Gotama.” [↩︎](#^mn85note03-ref) ^mn85note03
 
-See also: [[mn4-thanissaro]]; [[mn14-thanissaro]]; [[mn26-thanissaro]]; [[mn36-thanissaro]]; [[mn101-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.53-thanissaro]]
+See also: [[mn4-thanissaro]]; [[mn14-thanissaro]]; [[mn26-thanissaro]]; [[mn36-thanissaro]]; [[mn101-thanissaro]]; [[an5.53-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

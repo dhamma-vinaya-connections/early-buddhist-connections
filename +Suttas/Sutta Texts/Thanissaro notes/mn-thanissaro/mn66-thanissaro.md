@@ -103,7 +103,7 @@ Note
 
 1. According to the commentaries, “imperturbable” denotes not only the fourth jhāna but also the four formless attainments. [[mn106-thanissaro]], however, explicitly does _not_ include the dimension of nothingness under the term—and the same, apparently, holds for any of the formless attainments higher than that.
 
-See also: [[mn106-thanissaro]]; [[mn137-thanissaro]]; [[mn152-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.30-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.34-thanissaro]]; [[ud3.3-thanissaro]]
+See also: [[mn106-thanissaro]]; [[mn137-thanissaro]]; [[mn152-thanissaro]]; [[an5.30-thanissaro]]; [[an9.34-thanissaro]]; [[ud3.3-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -35,7 +35,7 @@ Note
 
 1. _Animitta:_ The signless or themeless concentration. See [[mn121-thanissaro]] and [[dn16-thanissaro]].
 
-See also: [[mn138-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.25-thanissaro]]; [[sn42.8-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.70-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.7-thanissaro]]; [[an11.16-thanissaro]]; ; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti72-thanissaro]]
+See also: [[mn138-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.25-thanissaro]]; [[sn42.8-thanissaro]], [[an3.66-thanissaro]]; [[an4.200-thanissaro]]; [[an5.27-thanissaro]]; [[an5.200-thanissaro]]; [[an8.70-thanissaro]]; [[an9.7-thanissaro]]; [[an11.16-thanissaro]]; ; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti72-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

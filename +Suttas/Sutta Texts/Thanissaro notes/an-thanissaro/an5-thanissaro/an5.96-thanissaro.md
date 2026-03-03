@@ -49,7 +49,7 @@ Even unbinding is described as a property ([[+Suttas/Sutta Texts/Thanissaro/Than
 
 2. When the mind is released from hindrances as it enters concentration, when it is released from the factors of lower levels of concentration as it enters higher levels of concentration, and when it is released from the fetters on reaching awakening.
 
-See also: [[mn29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.245-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.34-thanissaro]]; 
+See also: [[mn29-thanissaro]]; [[an4.245-thanissaro]]; [[an9.34-thanissaro]]; 
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

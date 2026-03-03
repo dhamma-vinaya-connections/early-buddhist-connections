@@ -29,7 +29,7 @@ Note
 
 1. Reading _panevaṁ-citto_ with the Thai edition. The PTS reading—_pakuppanto citto,_ “with a provoked heart”—does not fit the context at all.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.68-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.42-thanissaro]]
+See also: [[an3.68-thanissaro]]; [[an4.42-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

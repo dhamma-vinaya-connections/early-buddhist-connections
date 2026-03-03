@@ -606,7 +606,7 @@ the flood.
 
 4. These verses = [Dhp 328–329](../Dhp/Ch23.html#dhp328). [↩︎](#^snp1-3-04-ref) ^snp1-3-04
 
-5. “There are these five strings of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire; sounds cognizable via the ear… aromas cognizable via the nose… flavors cognizable via the tongue… tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire. But these are not sensuality. They are called strings of sensuality in the discipline of the noble ones.” — _[[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]_ [↩︎](#^snp1-3-05-ref) ^snp1-3-05
+5. “There are these five strings of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire; sounds cognizable via the ear… aromas cognizable via the nose… flavors cognizable via the tongue… tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire. But these are not sensuality. They are called strings of sensuality in the discipline of the noble ones.” — _[[an6.63-thanissaro]]_ [↩︎](#^snp1-3-05-ref) ^snp1-3-05
 
 6. The temporary release from such things as the hindrances, attained when entering right concentration, or the temporary release from some of the factors of lower states of jhāna, attained when entering higher states of jhāna. This release lasts only as long as the necessary causal factors are still in place. This is apparently the same thing as the occasional release/liberation mentioned in [[mn29-thanissaro]]. See note 2 to that sutta. [↩︎](#^snp1-3-06-ref) ^snp1-3-06
 
@@ -624,7 +624,7 @@ the flood.
 
 “And how is one not soggy? There is the case where a monk, when seeing a form via the eye, is not, in the case of pleasing forms, committed to forms nor, in the case of displeasing forms, afflicted by forms. He remains with body-mindfulness present, and with immeasurable awareness. And he discerns, as it has come to be, the awareness-release & discernment-release where those evil, unskillful qualities that have arisen cease without trace. [Similarly with the remaining sense media.]”
 
-See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.110-thanissaro]].
+See also [[an3.110-thanissaro]].
 
 According to Nd II, “not burning” means not burning with the fires of passion, aversion, and delusion. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.28-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti93-thanissaro]].
 
@@ -634,7 +634,7 @@ According to Nd II, “not burning” means not burning with the fires of passio
 
 15. These lines are repeated at [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp1-thanissaro/snp1.12-thanissaro]]. [↩︎](#^snp1-3-15-ref) ^snp1-3-15
 
-See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.40-thanissaro]]; [[ud4.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti38-thanissaro]]
+See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [[an9.40-thanissaro]]; [[ud4.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti38-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

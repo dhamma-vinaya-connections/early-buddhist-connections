@@ -29,7 +29,7 @@ language: "English"
 
 3. In other words, the stream-enterer has, at most, no more than seven future births before gaining full awakening. [↩︎](#^[[an6-thanissaro]].92note03-ref) ^[[an6-thanissaro]].92note03
 
-See also: [[sn12-21-thanissaro/sn16-thanissaro/sn16.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.87-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.31-thanissaro]]; [[an7.56-thanissaro]]
+See also: [[sn12-21-thanissaro/sn16-thanissaro/sn16.13-thanissaro]]; [[an3.87-thanissaro]]; [[an7.31-thanissaro]]; [[an7.56-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

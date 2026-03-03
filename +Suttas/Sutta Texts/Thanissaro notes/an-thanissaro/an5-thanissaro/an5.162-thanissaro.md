@@ -43,7 +43,7 @@ Ven. Sāriputta said: “There are these five ways of subduing hatred by which, 
 
 “These are five ways of subduing hatred by which, when hatred arises in a monk, he should wipe it out completely.”
 
-See also: [[mn21-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.60-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.80-thanissaro]]
+See also: [[mn21-thanissaro]]; [[an4.200-thanissaro]]; [[an7.60-thanissaro]]; [[an10.80-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

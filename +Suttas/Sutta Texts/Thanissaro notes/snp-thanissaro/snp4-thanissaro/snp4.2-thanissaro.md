@@ -146,7 +146,7 @@ vv. 772–779
 
 3. Nd I: “In front” means experienced in the past (as does “before” two lines down); “behind” means to-be-experienced in the future. [↩︎](#^snp4-2-03-ref) ^snp4-2-03
 
-4. Nd I: “The discordant _(visama)_ way” means the ten types of unskillful action (see [[mn41-thanissaro]], [[mn97-thanissaro]], and AN 10:176). See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]. [↩︎](#^snp4-2-04-ref) ^snp4-2-04
+4. Nd I: “The discordant _(visama)_ way” means the ten types of unskillful action (see [[mn41-thanissaro]], [[mn97-thanissaro]], and AN 10:176). See also [[/snp1.12-thanissaro]]. [↩︎](#^snp4-2-04-ref) ^snp4-2-04
 
 5. States of not-becoming are oblivious states of becoming that people can get themselves into through a desire for annihilation, either after death or as a goal of their religious striving (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti49-thanissaro]] and [[mn49-thanissaro]]). As with all states of becoming, these states are impermanent and stressful. [↩︎](#^snp4-2-05-ref) ^snp4-2-05
 

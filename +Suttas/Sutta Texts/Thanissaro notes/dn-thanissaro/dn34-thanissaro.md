@@ -44,7 +44,7 @@ _Of the remaining categories, five are clearly related to these four: Dhammas th
 
 _This leaves one category that is somewhat anomalous: dhammas that are hard to penetrate. Unlike the other categories, the dhammas in this category do not all perform similar functions. What they have in common is that they present difficulties: either in being hard to develop, hard to abandon, or hard to realize, or in presenting obstacles to the practice as a whole._
 
-_Another anomaly is the final category of lists: dhammas that should be realized. Under the four noble truths, the duty of realization falls solely to the cessation of stress and its synonyms, such as release and dispassion. Here, however, many of the lists included in this category do not restrict themselves to release or cessation, but also include step-by-step practices leading to those attainments. In other words, they include practices that, strictly speaking, belong under the category of dhammas to be developed. Also, two of these lists—the eight emancipations and the nine step-by-step cessations—conclude with the cessation of perception and feeling. Some suttas treat this attainment as a step leading inevitably to the ending of the effluents ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.34-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.38-thanissaro]]); others, such as [[an9.31-thanissaro]], treat it simply as a concentration attainment. In either case, though, it is an attainment that belongs to the path, and so should be developed rather than realized._
+_Another anomaly is the final category of lists: dhammas that should be realized. Under the four noble truths, the duty of realization falls solely to the cessation of stress and its synonyms, such as release and dispassion. Here, however, many of the lists included in this category do not restrict themselves to release or cessation, but also include step-by-step practices leading to those attainments. In other words, they include practices that, strictly speaking, belong under the category of dhammas to be developed. Also, two of these lists—the eight emancipations and the nine step-by-step cessations—conclude with the cessation of perception and feeling. Some suttas treat this attainment as a step leading inevitably to the ending of the effluents ([[an9.34-thanissaro]]; [[an9.38-thanissaro]]); others, such as [[an9.31-thanissaro]], treat it simply as a concentration attainment. In either case, though, it is an attainment that belongs to the path, and so should be developed rather than realized._
 
 _This sutta also differs from the preceding one in that it contains no material from the Vinaya, and there are proportionally fewer lists that do not appear in other suttas._
 
@@ -634,7 +634,7 @@ That is what Ven. Sāriputta said. Gratified, the monks delighted in Ven. Sārip
 
 1. See [[snp16.11-thanissaro]], note 6](../SN/SN16_11.html#sn16.11note06). [↩︎](#^dn34note01-ref) ^dn34note01
 
-2. This concentration, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.1-thanissaro]], is apparently equivalent to the concentration that is the fruit of gnosis, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.37-thanissaro]]. [↩︎](#^dn34note02-ref) ^dn34note02
+2. This concentration, mentioned in [[/snp2.1-thanissaro]], is apparently equivalent to the concentration that is the fruit of gnosis, mentioned in [[an9.37-thanissaro]]. [↩︎](#^dn34note02-ref) ^dn34note02
 
 3. _Akuppa._ This term is sometimes translated as “unshakable,” but it literally means, “unprovoked.” The reference is apparently to the theory of _dhātu,_ or properties underlying physical or psychological events in nature. The physical properties according to this theory are four: earth (solidity), liquid, heat, and wind (motion). Three of them—liquid, heat, & wind—are potentially active. When they are aggravated, agitated, or provoked—the Pali term here, _pakuppati,_ is used also on the psychological level, where it means angered or upset—they act as the underlying cause for natural activity. When the provocation ends, the corresponding activity subsides. (See the description of the physical properties in [[mn28-thanissaro]].) [↩︎](#^dn34note03-ref) ^dn34note03
 
@@ -646,53 +646,53 @@ Even unbinding is described as a property ([[+Suttas/Sutta Texts/Thanissaro/Than
 
 Thus, knowledge of the unprovoked or unprovoked knowledge would be knowledge of unbinding.
 
-4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.47-thanissaro]]. [↩︎](#^dn34note04-ref) ^dn34note04
+4. See [[an3.47-thanissaro]]. [↩︎](#^dn34note04-ref) ^dn34note04
 
 5. See [[mn4-thanissaro]]. [↩︎](#^dn34note05-ref) ^dn34note05
 
 6. See [[sn12-21-thanissaro/sn12-thanissaro/sn12.63-thanissaro]]. [↩︎](#^dn34note06-ref) ^dn34note06
 
-7. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.179-thanissaro]]. [↩︎](#^dn34note07-ref) ^dn34note07
+7. See [[an4.179-thanissaro]]. [↩︎](#^dn34note07-ref) ^dn34note07
 
-8. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]. [↩︎](#^dn34note08-ref) ^dn34note08
+8. See [[an5.28-thanissaro]]. [↩︎](#^dn34note08-ref) ^dn34note08
 
-9. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.71-thanissaro]]. [↩︎](#^dn34note09-ref) ^dn34note09
+9. See [[an3.71-thanissaro]]. [↩︎](#^dn34note09-ref) ^dn34note09
 
-10. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.6-thanissaro]]. [↩︎](#^dn34note10-ref) ^dn34note10
+10. See [[an7.6-thanissaro]]. [↩︎](#^dn34note10-ref) ^dn34note10
 
 11. See [[sn46.52-thanissaro]]. [↩︎](#^dn34note11-ref) ^dn34note11
 
-12. See [[mn53-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]. [↩︎](#^dn34note12-ref) ^dn34note12
+12. See [[mn53-thanissaro]] and [[an7.63-thanissaro]]. [↩︎](#^dn34note12-ref) ^dn34note12
 
-13. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.64-thanissaro]]. [↩︎](#^dn34note13-ref) ^dn34note13
+13. See [[an7.64-thanissaro]]. [↩︎](#^dn34note13-ref) ^dn34note13
 
-14. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]. [↩︎](#^dn34note14-ref) ^dn34note14
+14. See [[an10.60-thanissaro]]. [↩︎](#^dn34note14-ref) ^dn34note14
 
 15. The second jhāna. [↩︎](#^dn34note15-ref) ^dn34note15
 
-16. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.2-thanissaro]]. [↩︎](#^dn34note16-ref) ^dn34note16
+16. See [[an8.2-thanissaro]]. [↩︎](#^dn34note16-ref) ^dn34note16
 
 17. See [[sn45.8-thanissaro]]. [↩︎](#^dn34note17-ref) ^dn34note17
 
-18. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.6-thanissaro]]. [↩︎](#^dn34note18-ref) ^dn34note18
+18. See [[an8.6-thanissaro]]. [↩︎](#^dn34note18-ref) ^dn34note18
 
 19. These are identical with the nine inopportune, untimely situations for leading the holy life listed in [[dn33-thanissaro]], omitting one situation: The Tathāgata appears in the world, but one is reborn at that time as an asura. [↩︎](#^dn34note19-ref) ^dn34note19
 
-20. For more detail on the thoughts of a great person, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.30-thanissaro]]. For more information on objectification, see the Introduction to [[mn18-thanissaro]]. [↩︎](#^dn34note20-ref) ^dn34note20
+20. For more detail on the thoughts of a great person, see [[an8.30-thanissaro]]. For more information on objectification, see the Introduction to [[mn18-thanissaro]]. [↩︎](#^dn34note20-ref) ^dn34note20
 
 21. See [[mn24-thanissaro]] for a discussion of the first seven of these purities. [↩︎](#^dn34note21-ref) ^dn34note21
 
 22. See [[dn15-thanissaro]]. [↩︎](#^dn34note22-ref) ^dn34note22
 
-23. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]. [↩︎](#^dn34note23-ref) ^dn34note23
+23. See [[an10.60-thanissaro]]. [↩︎](#^dn34note23-ref) ^dn34note23
 
 24. See [[mn44-thanissaro]]. [↩︎](#^dn34note24-ref) ^dn34note24
 
-25. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.165-thanissaro]]. [↩︎](#^dn34note25-ref) ^dn34note25
+25. See [[an10.165-thanissaro]]. [↩︎](#^dn34note25-ref) ^dn34note25
 
 26. For a discussion of the things to be acquiesced to, avoided, and destroyed, see [[mn2-thanissaro]]. [↩︎](#^dn34note26-ref) ^dn34note26
 
-27. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]. [↩︎](#^dn34note27-ref) ^dn34note27
+27. See [[an10.60-thanissaro]]. [↩︎](#^dn34note27-ref) ^dn34note27
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -109,7 +109,7 @@ Note
 
 1. On the meaning of “world” here, see [[sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]].
 
-See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.93-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.45-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti109-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.12-thanissaro]]; [[sn5-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.93-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.45-thanissaro]]; [[an7.15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti109-thanissaro]]; [[/snp3.12-thanissaro]]; [[sn5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -120,7 +120,7 @@ vv. 1105–1111
 
 ### Notes
 
-1. The state of mind described here corresponds to the five-factored noble right concentration described in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]], and analyzed more fully in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]. For further discussion, see section III/F in _The Wings to Awakening_ and the essays, “Jhāna Not by the Numbers” and “Silence Isn’t Mandatory.” [↩︎](#^snp5-13-01-ref) ^snp5-13-01
+1. The state of mind described here corresponds to the five-factored noble right concentration described in [[an5.28-thanissaro]], and analyzed more fully in [[an9.36-thanissaro]]. For further discussion, see section III/F in _The Wings to Awakening_ and the essays, “Jhāna Not by the Numbers” and “Silence Isn’t Mandatory.” [↩︎](#^snp5-13-01-ref) ^snp5-13-01
 
 2. AN 3:33 contains a discussion of this verse. The Buddha tells Ven. Sāriputta that one should train oneself such that “with regard to this conscious body, there will be no ‘I’-making or ‘mine’-making or obsession with conceit, such that with regard to all external themes [topics of concentration] there will be no ‘I’-making or ‘mine’-making or obsession with conceit, and that we will enter & remain in the awareness-release & discernment-release in which there is no ‘I’-making or ‘mine’-making or obsession with conceit.” When one has trained in this way, he says, one is called a person who has cut through craving, unraveled the fetter, who has, through the right penetration of conceit, put an end to suffering and stress. He then states that it was in connection to this state that he uttered this verse. [↩︎](#^snp5-13-02-ref) ^snp5-13-02
 

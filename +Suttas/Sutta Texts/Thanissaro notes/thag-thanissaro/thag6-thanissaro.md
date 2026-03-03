@@ -66,7 +66,7 @@ Note
 
 1. Anotatta: A fabulous lake located in the Himalayas, famed for the purity of its cool waters. Sumana would have had to use his psychic powers to fetch water from there.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.30-thanissaro]]; [[ud3.1-thanissaro]]
+See also: [[an8.30-thanissaro]]; [[ud3.1-thanissaro]]
 
 ## Thag6.12  Brahmadatta
 
@@ -272,9 +272,9 @@ unperturbed.
 
 Note
 
-1. Concentration based on immeasurable goodwill, compassion, empathetic joy, and equanimity. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]] and [[sn42.8-thanissaro]]. [↩︎](#^thag6-5note01-ref) ^thag6-5note01
+1. Concentration based on immeasurable goodwill, compassion, empathetic joy, and equanimity. See [[an3.66-thanissaro]] and [[sn42.8-thanissaro]]. [↩︎](#^thag6-5note01-ref) ^thag6-5note01
 
-See also: [[dn26-thanissaro]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.16-thanissaro]]
+See also: [[dn26-thanissaro]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[an3.35-thanissaro]]; [[an5.27-thanissaro]]; [[/snp4.16-thanissaro]]
 
 ## Thag6.3  Mahānāga
 
@@ -528,7 +528,7 @@ the conceit “I am” is extracted,
 
 all forms of pride, destroyed.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.48-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]
+See also: [[an3.39-thanissaro]]; [[an7.48-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

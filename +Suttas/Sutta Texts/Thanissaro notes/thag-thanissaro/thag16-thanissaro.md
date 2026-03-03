@@ -224,9 +224,9 @@ they touched uncompounded unbinding.
 
 Note
 
-1. On the five strengths, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.2-thanissaro]]; on the seven factors for awakening, [[sn46.51-thanissaro]].
+1. On the five strengths, see [[an5.2-thanissaro]]; on the seven factors for awakening, [[sn46.51-thanissaro]].
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.184-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig14-thanissaro]]
+See also: [[an4.184-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig14-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).
@@ -985,7 +985,7 @@ the heavy load,       laid down.
 
 3. This verse = [[dhp80-thanissaro]]. [↩︎](#^thag16-8note03-ref) ^thag16-8note03
 
-4. This verse illustrates the kammic principle stated in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.101-thanissaro]]. This is one of the ways in which the Buddhist doctrine of kamma differed from that of the Jains. For them, a person could not reach arahantship without having suffered retribution for every kammic misdeed, a process that could take many lifetimes—in the course of which, one might create more bad kamma, delaying arahantship still further. But for the Buddhists, training in virtue, discernment, and the ability not to be overcome by pleasure or pain could take the mind to a state where the results of past bad kamma would “be experienced in the here-and-now, and for the most part would appear only for a moment.” In other words, in the Buddhist teaching, but not in the Jain, the state of the mind in the present plays a major role in how the effects of past kamma will be experienced. [↩︎](#^thag16-8note04-ref) ^thag16-8note04
+4. This verse illustrates the kammic principle stated in [[an3.101-thanissaro]]. This is one of the ways in which the Buddhist doctrine of kamma differed from that of the Jains. For them, a person could not reach arahantship without having suffered retribution for every kammic misdeed, a process that could take many lifetimes—in the course of which, one might create more bad kamma, delaying arahantship still further. But for the Buddhists, training in virtue, discernment, and the ability not to be overcome by pleasure or pain could take the mind to a state where the results of past bad kamma would “be experienced in the here-and-now, and for the most part would appear only for a moment.” In other words, in the Buddhist teaching, but not in the Jain, the state of the mind in the present plays a major role in how the effects of past kamma will be experienced. [↩︎](#^thag16-8note04-ref) ^thag16-8note04
 
 5. This verse = [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dhp-thanissaro/dhp26-thanissaro]]. [↩︎](#^thag16-8note05-ref) ^thag16-8note05
 

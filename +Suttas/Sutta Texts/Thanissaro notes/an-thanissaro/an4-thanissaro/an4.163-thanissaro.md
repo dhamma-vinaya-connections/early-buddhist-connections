@@ -35,7 +35,7 @@ language: "English"
 
 However, this reading ignores the description of how painful practice and pleasant practice can yield either slow or quick intuition. Intuition comes slowly when the five faculties are present in a weak form, and quickly when they are present in an intense form. Now, in both cases, the faculty of concentration—which is defined with the standard formula for the jhānas ([[sn48.10-thanissaro]])—has to be present for the ending of the effluents. Because this is true both for painful practice and for pleasant practice, both sorts of practice need jhāna in order to succeed.
 
-See also: ; [[sn54.9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.29-thanissaro]]
+See also: ; [[sn54.9-thanissaro]]; [[an10.29-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

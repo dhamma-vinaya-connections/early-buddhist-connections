@@ -25,7 +25,7 @@ Note
 
 1. Reading _asammuṭṭhā_ with the Burmese and PTS editions. The Thai edition has _appamuṭṭhā,_ “unforgotten.”
 
-See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.89-thanissaro]]; [[sn51.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]; [[an10.13-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.89-thanissaro]]; [[sn51.20-thanissaro]]; [[an5.28-thanissaro]]; [[an10.13-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

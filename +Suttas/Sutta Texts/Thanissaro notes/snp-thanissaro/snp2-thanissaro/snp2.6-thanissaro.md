@@ -110,7 +110,7 @@ vv. 274–283
 
 2. These last two verses are quoted in the Milinda Pañhā. [↩︎](#^snp2-6-02-ref) ^snp2-6-02
 
-See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.200-thanissaro]]; [[an3.83-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.129-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.13-thanissaro]]; [[ud5.5-thanissaro]]
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.200-thanissaro]]; [[an3.83-thanissaro]]; [[an3.129-thanissaro]]; [[an8.13-thanissaro]]; [[ud5.5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

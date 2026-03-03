@@ -530,15 +530,15 @@ vv. 679–723
 
 2. For an instance of a woman who tried to seduce a monk, see the origin story to Pācittiya 5 in _The Buddhist Monastic Code,_ volume 1. For an instance of a man who tried to seduce a nun, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig14-thanissaro]]. [↩︎](#^snp3-11-02-ref) ^snp3-11-02
 
-3. According to SnA, the high and low practices taught by the Buddha are, respectively, the practice-mode of pleasant practice and quick intuition, and the practice-mode of painful practice and slow intuition (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.162-thanissaro]]). These modes of practice don’t go twice to the further shore in the sense that each of the four paths—to stream-entry, once-returning, non-returning, and arahantship—abandons whatever defilements it is capable of abandoning once and for all. There is no need to repeat that particular path. Unbinding is not attained only once in the sense that it is touched as the result of each of the four paths. [↩︎](#^snp3-11-03-ref) ^snp3-11-03
+3. According to SnA, the high and low practices taught by the Buddha are, respectively, the practice-mode of pleasant practice and quick intuition, and the practice-mode of painful practice and slow intuition (see [[an4.162-thanissaro]]). These modes of practice don’t go twice to the further shore in the sense that each of the four paths—to stream-entry, once-returning, non-returning, and arahantship—abandons whatever defilements it is capable of abandoning once and for all. There is no need to repeat that particular path. Unbinding is not attained only once in the sense that it is touched as the result of each of the four paths. [↩︎](#^snp3-11-03-ref) ^snp3-11-03
 
 4. SnA: the stream of defilements. However, the stream here could also be the stream of becoming mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp3-thanissaro/snp3.12-thanissaro]]. [↩︎](#^snp3-11-04-ref) ^snp3-11-04
 
-5. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.2-thanissaro]]. [↩︎](#^snp3-11-05-ref) ^snp3-11-05
+5. See [[/snp2.2-thanissaro]]. [↩︎](#^snp3-11-05-ref) ^snp3-11-05
 
 6. This verse is quoted in the Milinda Pañhā. [↩︎](#^snp3-11-06-ref) ^snp3-11-06
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.123-thanissaro]]; [Dhp 268–269](../Dhp/Ch19.html#dhp268); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]
+See also: [[an3.123-thanissaro]]; [Dhp 268–269](../Dhp/Ch19.html#dhp268); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti66-thanissaro]]; [[/snp1.12-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

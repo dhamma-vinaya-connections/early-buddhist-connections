@@ -77,11 +77,11 @@ _See the introduction to the preceding discourse._
 
 ### Notes
 
-1. The first seven of these comparisons are treated in detail in [[mn54-thanissaro]]. The simile of the butcher’s ax and chopping block is mentioned in [[mn23-thanissaro]], the simile of swords and spears in , and the simile of the snake’s head in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.1-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]. [↩︎](#^[[an5-thanissaro]].76note01-ref) ^[[an5-thanissaro]].76note01
+1. The first seven of these comparisons are treated in detail in [[mn54-thanissaro]]. The simile of the butcher’s ax and chopping block is mentioned in [[mn23-thanissaro]], the simile of swords and spears in , and the simile of the snake’s head in [[/snp4.1-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]. [↩︎](#^[[an5-thanissaro]].76note01-ref) ^[[an5-thanissaro]].76note01
 
 2. Following the Thai edition. The Burmese and PTS editions here read, “I will make an effort.” [↩︎](#^[[an5-thanissaro]].76note02-ref) ^[[an5-thanissaro]].76note02
 
-See also: [[mn22-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.20-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.127-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.181-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.139-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag7-thanissaro]]
+See also: [[mn22-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.20-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.127-thanissaro]]; [[an4.181-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.139-thanissaro]]; [[an8.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag7-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

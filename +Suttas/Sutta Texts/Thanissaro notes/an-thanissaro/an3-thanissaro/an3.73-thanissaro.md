@@ -37,7 +37,7 @@ I have heard that on one occasion Ven. Ānanda was staying near Kosambī in Ghos
 
 “Magnificent, Master Ānanda! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Ānanda—through many lines of reasoning—made the Dhamma clear. I go to the Buddha for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Ānanda remember me as a lay follower who has gone for refuge from this day forward, for life.”
 
-See also: [[dn16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.94-thanissaro]]
+See also: [[dn16-thanissaro]]; [[an10.94-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

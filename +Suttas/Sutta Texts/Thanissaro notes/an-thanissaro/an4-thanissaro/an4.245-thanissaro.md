@@ -37,7 +37,7 @@ language: "English"
 
 “‘Monks, this holy life is lived with training as a reward, with discernment as its surpassing state, with release as its heartwood, and with mindfulness as its governing principle’: Thus it was said. And in reference to this was it said.”
 
-See also: [[mn29-thanissaro]]; [[mn117-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.58-thanissaro]]
+See also: [[mn29-thanissaro]]; [[mn117-thanissaro]]; [[an7.63-thanissaro]]; [[an10.58-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

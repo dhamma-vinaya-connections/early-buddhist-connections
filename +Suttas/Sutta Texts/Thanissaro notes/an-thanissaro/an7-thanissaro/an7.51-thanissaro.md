@@ -33,7 +33,7 @@ The uninstructed run-of-the-mill person doesn’t discern anguish, doesn’t dis
 
 2. In some manuscripts, this paragraph runs as follows: “‘The Tathāgata exists after death’—this craving-standpoint, this perception-standpoint, this product of conceiving, this product of elaboration, this clinging-standpoint: That’s anguish. ‘The Tathāgata doesn’t exist after death’ … ‘The Tathāgata both does and doesn’t exist after death’ … ‘The Tathāgata neither does nor doesn’t exist after death’—this craving-standpoint, this perception-standpoint, this product of conceiving, this product of elaboration, this clinging-standpoint: That’s anguish.” [↩︎](#^[[an7-thanissaro]].51note02-ref) ^[[an7-thanissaro]].51note02
 
-See also: [[dn9-thanissaro]]; [[mn63-thanissaro]], [[mn72-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.20-thanissaro]]; [[sn44-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.93-thanissaro]]
+See also: [[dn9-thanissaro]]; [[mn63-thanissaro]], [[mn72-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.20-thanissaro]]; [[sn44-thanissaro]]; [[an10.93-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

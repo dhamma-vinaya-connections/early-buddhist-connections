@@ -55,7 +55,7 @@ doesn’t long for this cosmos
 
 or any other.
 
-See also: [[dn11-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.44-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.116-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.38-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.95-thanissaro]]
+See also: [[dn11-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.44-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.82-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.116-thanissaro]]; [[an9.38-thanissaro]]; [[an10.95-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

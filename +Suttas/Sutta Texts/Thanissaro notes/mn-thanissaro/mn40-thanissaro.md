@@ -81,7 +81,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 3. Reading _samaṇa-kasāvānaṁ_ with the Thai edition. Other editions read _samaṇa-kasaṭānaṁ:_ dregs of a contemplative. [↩︎](#^mn40note03-ref) ^mn40note03
 
-See also: [[dn2-thanissaro]]; [[mn29-thanissaro]]–30]([[mn29-thanissaro]].html); [[mn39-thanissaro]]; [[mn61-thanissaro]]; [[an3.83-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.123-thanissaro]]; [[dhp258-thanissaro]]; [[dhp264-thanissaro]]
+See also: [[dn2-thanissaro]]; [[mn29-thanissaro]]–30]([[mn29-thanissaro]].html); [[mn39-thanissaro]]; [[mn61-thanissaro]]; [[an3.83-thanissaro]]; [[an3.123-thanissaro]]; [[dhp258-thanissaro]]; [[dhp264-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -41,7 +41,7 @@ Note
 
 1. See [[sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]].
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti67-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.9-thanissaro]]
+See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti67-thanissaro]]; [[/snp1.1-thanissaro]]; [[/snp1.3-thanissaro]]; [[/snp1.12-thanissaro]]; [[/snp3.11-thanissaro]]; [[/snp4.16-thanissaro]]; [[/snp5.7-thanissaro]]; [[/snp5.9-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

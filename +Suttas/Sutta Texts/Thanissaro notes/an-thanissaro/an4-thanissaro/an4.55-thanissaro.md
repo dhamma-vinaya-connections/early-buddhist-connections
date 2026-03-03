@@ -55,7 +55,7 @@ they delight in the world of the devas,
 
 enjoying the pleasures they desire.
 
-See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.16-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]; [[an6.16-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

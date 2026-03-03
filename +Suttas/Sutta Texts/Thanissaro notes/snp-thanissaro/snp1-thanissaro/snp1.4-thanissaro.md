@@ -124,7 +124,7 @@ Then the brahman Kasi Bhāradvāja obtained the Going-forth in the Blessed One�
 
 vv. 76–82
 
-See also: [[dn16-thanissaro]]; [[sn7.14-thanissaro]]; [[sn7.17-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.113-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
+See also: [[dn16-thanissaro]]; [[sn7.14-thanissaro]]; [[sn7.17-thanissaro]]; [[an4.113-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

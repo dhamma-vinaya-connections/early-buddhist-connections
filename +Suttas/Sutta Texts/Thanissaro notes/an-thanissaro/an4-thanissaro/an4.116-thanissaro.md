@@ -25,7 +25,7 @@ language: "English"
 
 2. This seems to mean that, although one may fear the pain of death, one has no fear of where one will be reborn after death. [↩︎](#^[[an4-thanissaro]].116note02-ref) ^[[an4-thanissaro]].116note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.184-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.179-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.92-thanissaro]]
+See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.184-thanissaro]], [[an5.179-thanissaro]], [[an10.92-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

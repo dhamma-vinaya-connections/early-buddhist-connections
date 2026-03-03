@@ -63,9 +63,9 @@ When this was said, Vappa the Sakyan, the disciple of the Nigaṇṭhas, said to
 
 Note
 
-1. The Nigaṇṭhas taught that one could not be freed from the round of rebirth until having experienced all the pain resulting from one’s past actions. For the Buddha’s response to this point, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.101-thanissaro]].
+1. The Nigaṇṭhas taught that one could not be freed from the round of rebirth until having experienced all the pain resulting from one’s past actions. For the Buddha’s response to this point, see [[an3.101-thanissaro]].
 
-See also: [[dn29-thanissaro]]; [[mn14-thanissaro]]; [[mn35-thanissaro]]; [[mn36-thanissaro]]; [[mn56-thanissaro]]; [[mn58-thanissaro]]; [[mn101-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]; [[sn42.8-thanissaro]]; [[sn42.9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.34-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.71-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.38-thanissaro]]; [[ud3.1-thanissaro]]
+See also: [[dn29-thanissaro]]; [[mn14-thanissaro]]; [[mn35-thanissaro]]; [[mn36-thanissaro]]; [[mn56-thanissaro]]; [[mn58-thanissaro]]; [[mn101-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]; [[sn42.8-thanissaro]]; [[sn42.9-thanissaro]]; [[an3.34-thanissaro]]; [[an3.62-thanissaro]]; [[an3.71-thanissaro]]; [[an9.38-thanissaro]]; [[ud3.1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

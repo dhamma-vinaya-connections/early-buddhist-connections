@@ -43,7 +43,7 @@ is a friend to be cultivated
 
 by anyone wanting a friend.”
 
-See also: [[an2.31-thanissaro]]; [[an2.118-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.32-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.12-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.54-thanissaro]]
+See also: [[an2.31-thanissaro]]; [[an2.118-thanissaro]]; [[an4.32-thanissaro]]; [[an6.12-thanissaro]]; [[an8.54-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

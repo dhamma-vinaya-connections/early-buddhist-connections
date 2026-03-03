@@ -45,7 +45,7 @@ language: "English"
 
 2. Again according to [[mn36-thanissaro]], this means that pain can invade their minds and remain there. [↩︎](#^[[an5-thanissaro]].79note02-ref) ^[[an5-thanissaro]].79note02
 
-See also: [[sn12-21-thanissaro/sn16-thanissaro/sn16.13-thanissaro]]; [[sn12-21-thanissaro/sn20-thanissaro/sn20.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.101-thanissaro]]; [[an7.56-thanissaro]]
+See also: [[sn12-21-thanissaro/sn16-thanissaro/sn16.13-thanissaro]]; [[sn12-21-thanissaro/sn20-thanissaro/sn20.7-thanissaro]]; [[an3.101-thanissaro]]; [[an7.56-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

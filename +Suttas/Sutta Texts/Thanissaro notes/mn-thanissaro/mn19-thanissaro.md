@@ -69,7 +69,7 @@ The Blessed One said, “Monks, before my self-awakening, when I was still just 
 
 That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
 
-See also: [[mn61-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.102-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.41-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.94-thanissaro]]; [[ud4.1-thanissaro]]
+See also: [[mn61-thanissaro]]; [[an3.102-thanissaro]]; [[an9.41-thanissaro]]; [[an10.94-thanissaro]]; [[ud4.1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

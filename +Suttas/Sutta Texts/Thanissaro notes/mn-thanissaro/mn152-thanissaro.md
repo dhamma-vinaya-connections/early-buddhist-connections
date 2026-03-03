@@ -63,7 +63,7 @@ The Blessed One said: “Now how, Ānanda, in the discipline of a noble one is t
 
 That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Blessed One’s words.
 
-See also: [[mn78-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.153-thanissaro]]; [[sn46.54-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.55-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.37-thanissaro]]; [[ud3.4-thanissaro]]; [[ud4.4-thanissaro]]
+See also: [[mn78-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.153-thanissaro]]; [[sn46.54-thanissaro]]; [[an6.55-thanissaro]]; [[an9.37-thanissaro]]; [[ud3.4-thanissaro]]; [[ud4.4-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -305,7 +305,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ### Notes
 
-1. See [[ud2.2-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.69-thanissaro]]. Noble silence = the levels of jhāna beginning with the second. [↩︎](#^mn26note01-ref) ^mn26note01
+1. See [[ud2.2-thanissaro]] and [[an10.69-thanissaro]]. Noble silence = the levels of jhāna beginning with the second. [↩︎](#^mn26note01-ref) ^mn26note01
 
 2. The Burmese, Sri Lankan, and PTS editions of the Canon exclude gold and silver from the list of objects subject to illness, death, and sorrow, apparently on the grounds that they themselves do not grow ill, die, or feel sorrow. The Thai edition of the Canon includes gold and silver in the list of objects subject to illness, death, and sorrow in the sense that any happiness based on them is subject to change because of one’s own illness, death, and sorrow. [↩︎](#^mn26note02-ref) ^mn26note02
 
@@ -317,9 +317,9 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 6. For another use of the wild deer as a symbol for a free mind, see [[ud2.10-thanissaro]]. [↩︎](#^mn26note06-ref) ^mn26note06
 
-7. As the Commentary points out, simply attaining the states of concentration from the first jhāna through the dimension of neither perception nor non-perception blinds Māra only temporarily. Only with the arising of discernment is Māra blinded for good. On Māra’s blindness, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.15-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.39-thanissaro]], and [[sn22.87-thanissaro]] (the last chapter in _The Mind Like Fire Unbound)._ For the meaning of “leaving no trace,” see [[dhp92-thanissaro]], 179–180. [↩︎](#^mn26note07-ref) ^mn26note07
+7. As the Commentary points out, simply attaining the states of concentration from the first jhāna through the dimension of neither perception nor non-perception blinds Māra only temporarily. Only with the arising of discernment is Māra blinded for good. On Māra’s blindness, see [[/snp5.15-thanissaro]], [[an9.39-thanissaro]], and [[sn22.87-thanissaro]] (the last chapter in _The Mind Like Fire Unbound)._ For the meaning of “leaving no trace,” see [[dhp92-thanissaro]], 179–180. [↩︎](#^mn26note07-ref) ^mn26note07
 
-See also: [[mn4-thanissaro]]; [[mn19-thanissaro]]; [[mn36-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti54-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.2-thanissaro]]
+See also: [[mn4-thanissaro]]; [[mn19-thanissaro]]; [[mn36-thanissaro]]; [[an3.39-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti54-thanissaro]]; [[/snp3.1-thanissaro]]; [[/snp3.2-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

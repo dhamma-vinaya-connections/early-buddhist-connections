@@ -39,7 +39,7 @@ Note
 
 1. According to the Commentary, this category of non-returner first appears spontaneously in any of the first four levels of the five Pure Abodes—among the Aviha (Not Falling Away) devas, the Atappa (Untroubled) devas, the Sudassa (Good-looking) devas, or the Sudassī (Clear-seeing) devas—and then appears spontaneously in progressively higher levels until reaching the highest, the Akaniṭṭha (Peerless) Pure Abode, there to be unbound.
 
-See also: [[mn70-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.88-thanissaro]]; [[an10.13-thanissaro]]
+See also: [[mn70-thanissaro]]; [[an3.88-thanissaro]]; [[an10.13-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

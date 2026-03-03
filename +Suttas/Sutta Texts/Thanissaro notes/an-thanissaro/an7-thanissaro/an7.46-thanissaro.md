@@ -61,7 +61,7 @@ language: "English"
 
 “Monks, these seven perceptions, when developed & pursued, are of great fruit, of great benefit. They gain a footing in the deathless, have the deathless as their final end.”
 
-See also: [[mn36-thanissaro]]; [[mn152-thanissaro]]; [[sn48.44-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.19-thanissaro]]; [[an6.102-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an7-thanissaro/an7.70-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.103-thanissaro]]; [[an9.16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]
+See also: [[mn36-thanissaro]]; [[mn152-thanissaro]]; [[sn48.44-thanissaro]]; [[an6.19-thanissaro]]; [[an6.102-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an7-thanissaro/an7.70-thanissaro]]; [[an8.103-thanissaro]]; [[an9.16-thanissaro]]; [[an10.60-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

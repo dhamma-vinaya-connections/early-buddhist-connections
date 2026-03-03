@@ -199,7 +199,7 @@ That is what Ven. Sāriputta said. Gratified, Ven. Mahā Koṭṭhita delighted 
 
 1. Discernment is to be developed because it is part of the fourth noble truth, the path of practice leading to the end of suffering. Consciousness is to be fully comprehended because, as an object of clinging, it is part of the first noble truth, the truth of suffering & stress. See [[sn56.11-thanissaro]]. [↩︎](#^mn43note01-ref) ^mn43note01
 
-2. The import of this passage is that while one is in any of these three formless states, one can analyze them with discernment in a way that can lead to release. On the fact that this cannot be done with regard to the fourth formless state, see [[mn111-thanissaro]]. On the fact that the external senses can fall silent while one is in these states, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.37-thanissaro]]. [↩︎](#^mn43note02-ref) ^mn43note02
+2. The import of this passage is that while one is in any of these three formless states, one can analyze them with discernment in a way that can lead to release. On the fact that this cannot be done with regard to the fourth formless state, see [[mn111-thanissaro]]. On the fact that the external senses can fall silent while one is in these states, see [[an9.37-thanissaro]]. [↩︎](#^mn43note02-ref) ^mn43note02
 
 3. Vitality _(āyu)_ is the force that determines the length of one’s life. [↩︎](#^mn43note03-ref) ^mn43note03
 
@@ -209,7 +209,7 @@ That is what Ven. Sāriputta said. Gratified, Ven. Mahā Koṭṭhita delighted 
 
 6. See [[mn106-thanissaro]]. [↩︎](#^mn43note06-ref) ^mn43note06
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.37-thanissaro]]; [[mn44-thanissaro]]; [[mn122-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.23-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.79-thanissaro]]
+See also: [[an9.37-thanissaro]]; [[mn44-thanissaro]]; [[mn122-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.23-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.79-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

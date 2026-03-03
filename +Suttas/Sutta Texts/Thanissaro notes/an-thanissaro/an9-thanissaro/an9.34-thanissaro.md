@@ -41,7 +41,7 @@ When this was said, Ven. Udāyin said to Ven. Sāriputta, “But what is the ple
 
 ### Notes
 
-1. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]] defines sensuality as follows: “There are these five strands of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked to sensual desire; sounds cognizable via the ear… aromas cognizable via the nose… flavors cognizable via the tongue… tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked to sensual desire. But these are not sensuality. They are called strands of sensuality in the discipline of the noble ones. [↩︎](#^[[an9-thanissaro]].34note01-ref) ^[[an9-thanissaro]].34note01
+1. [[an6.63-thanissaro]] defines sensuality as follows: “There are these five strands of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked to sensual desire; sounds cognizable via the ear… aromas cognizable via the nose… flavors cognizable via the tongue… tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked to sensual desire. But these are not sensuality. They are called strands of sensuality in the discipline of the noble ones. [↩︎](#^[[an9-thanissaro]].34note01-ref) ^[[an9-thanissaro]].34note01
 
 “The passion for his resolves is a man’s sensuality,
 

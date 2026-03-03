@@ -27,7 +27,7 @@ language: "English"
 
 “Endowed with these two qualities, the wise person—competent, a person of integrity—keeps himself uninjured & unimpaired. He’s blameless, not open to being blamed by the observant, & generates much merit.”
 
-See also: [[mn56-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]
+See also: [[mn56-thanissaro]]; [[an3.66-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

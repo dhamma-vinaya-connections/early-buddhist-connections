@@ -270,15 +270,15 @@ vv. 116–142
 
 3. This, of course, is a comment on what Aggika Bhāradvāja has just done. [↩︎](#^snp1-7-03-ref) ^snp1-7-03
 
-4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.159-thanissaro]]. [↩︎](#^snp1-7-04-ref) ^snp1-7-04
+4. See [[an4.28-thanissaro]] and [[an5.159-thanissaro]]. [↩︎](#^snp1-7-04-ref) ^snp1-7-04
 
 5. The Vibhaṅga to Pārājika 4 states that those who make false claims to superior human attainments—meaning the four jhānas and the noble attainments—are the greatest thieves in the world in that they consume the almsfood of the countryside by theft. [↩︎](#^snp1-7-05-ref) ^snp1-7-05
 
-6. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.9-thanissaro]]. [↩︎](#^snp1-7-06-ref) ^snp1-7-06
+6. See [[/snp3.9-thanissaro]]. [↩︎](#^snp1-7-06-ref) ^snp1-7-06
 
 7. SnA: The divine chariot stands for the eight concentration attainments: the four jhānas and the four formless states. [↩︎](#^snp1-7-07-ref) ^snp1-7-07
 
-See also: [[an5.175-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.165-thanissaro]]; [Dhp 129–140](../Dhp/Ch10.html#dhp129); [Dhp 306–319](../Dhp/Ch22.html#dhp306);
+See also: [[an5.175-thanissaro]]; [[an10.165-thanissaro]]; [Dhp 129–140](../Dhp/Ch10.html#dhp129); [Dhp 306–319](../Dhp/Ch22.html#dhp306);
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

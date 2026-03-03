@@ -38,7 +38,7 @@ mindful,               the monk
 
 lives the mendicant life.
 
-See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [§105](iti105.html); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.12-thanissaro]]
+See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.10-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [§105](iti105.html); [[/snp3.12-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

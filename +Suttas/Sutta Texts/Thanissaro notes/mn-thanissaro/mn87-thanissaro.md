@@ -103,7 +103,7 @@ Homage to the Blessed One, worthy & rightly self-awakened!
 
 Homage to the Blessed One, worthy & rightly self-awakened!”
 
-See also: [[dn21-thanissaro]]; [[sn3-thanissaro]]; [[sn4.8-thanissaro]]; [[sn42.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.49-thanissaro]]; [[ud2.7-thanissaro]]; [[ud5.1-thanissaro]]; [[ud8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]
+See also: [[dn21-thanissaro]]; [[sn3-thanissaro]]; [[sn4.8-thanissaro]]; [[sn42.11-thanissaro]]; [[an3.63-thanissaro]]; [[an4.200-thanissaro]]; [[an5.49-thanissaro]]; [[ud2.7-thanissaro]]; [[ud5.1-thanissaro]]; [[ud8.8-thanissaro]]; [[/snp1.3-thanissaro]]; [[/snp4.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

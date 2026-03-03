@@ -25,7 +25,7 @@ There is the case where in any assembly when the discourses of the Tathāgata—
 
 “There is the case where in any assembly when discourses that are literary works—the works of poets, artful in sound, artful in rhetoric, the work of outsiders, words of disciples—are recited, the monks don’t listen, don’t lend ear, don’t set their hearts on knowing them; don’t regard them as worth grasping or mastering. But when the discourses of the Tathāgata—deep, deep in their meaning, transcendent, connected with emptiness—are recited, they listen, they lend ear, they set their hearts on knowing them, they regard them as worth grasping & mastering. And when they have mastered that Dhamma, they cross-question one another about it and dissect it: ‘How is this? What is the meaning of this?’ They make open what isn’t open, make plain what isn’t plain, dispel doubt on its various doubtful points. This is called an assembly trained in cross-questioning and not in bombast.”
 
-See also: [[mn146-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.79-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.51-thanissaro]]
+See also: [[mn146-thanissaro]]; [[an5.79-thanissaro]]; [[an6.51-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

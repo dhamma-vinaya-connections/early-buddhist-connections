@@ -105,7 +105,7 @@ That is what the Blessed One said. Gratified, Mahānāma the Sakyan delighted in
 
 This is one of several passages in the Canon indicating that not all experience is limited to the aggregates. Others include [[dn15-thanissaro]], [[mn49-thanissaro]], and [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]].
 
-See also: [[mn36-thanissaro]]; [[mn54-thanissaro]]; [[mn59-thanissaro]]; [[mn101-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]]; [[sn36.6-thanissaro]]; [[an2.30-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.34-thanissaro]]
+See also: [[mn36-thanissaro]]; [[mn54-thanissaro]]; [[mn59-thanissaro]]; [[mn101-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]]; [[sn36.6-thanissaro]]; [[an2.30-thanissaro]]; [[an3.35-thanissaro]]; [[an6.63-thanissaro]]; [[an9.13-thanissaro]]; [[an9.34-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

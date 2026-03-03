@@ -496,9 +496,9 @@ washed clean.
 
 Note
 
-1. The three unskillful roots are greed, aversion, and delusion. See [[dn2-thanissaro]], [[mn9-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]. [↩︎](#^thig13-5note01-ref) ^thig13-5note01
+1. The three unskillful roots are greed, aversion, and delusion. See [[dn2-thanissaro]], [[mn9-thanissaro]], and [[an3.66-thanissaro]]. [↩︎](#^thig13-5note01-ref) ^thig13-5note01
 
-See also: [[sn7.17-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.4-thanissaro]]
+See also: [[sn7.17-thanissaro]]; [[/snp1.4-thanissaro]]
 
 ## Thig13.5  Subhā the Goldsmith’s Daughter
 
@@ -778,7 +778,7 @@ Subhā the goldsmith’s daughter.
 
 6. See Thag4.8. [↩︎](#^thig13-5note06-ref) ^thig13-5note06
 
-7. This can mean that she has achieved restraint over her sense faculties, or that she has fully developed the faculties of conviction, persistence, mindfulness, concentration, and discernment. See. [[sn48.10-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]. [↩︎](#^thig13-5note07-ref) ^thig13-5note07
+7. This can mean that she has achieved restraint over her sense faculties, or that she has fully developed the faculties of conviction, persistence, mindfulness, concentration, and discernment. See. [[sn48.10-thanissaro]] and [[an4.37-thanissaro]]. [↩︎](#^thig13-5note07-ref) ^thig13-5note07
 
 See also: [[mn13-thanissaro]]; [[mn54-thanissaro]]
 

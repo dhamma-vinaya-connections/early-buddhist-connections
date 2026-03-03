@@ -101,7 +101,7 @@ Then, having gone for alms in Sāvatthī, after their meal, returning from their
 
 That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
 
-See also: [[mn54-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.34-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
+See also: [[mn54-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.63-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]]; [[an6.63-thanissaro]]; [[an9.34-thanissaro]]; [[an9.36-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

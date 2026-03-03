@@ -337,7 +337,7 @@ done.
 
 2. This blessing is often chanted at house blessings in Theravāda countries. [↩︎](#^mn86note02-ref) ^mn86note02
 
-3. This incident illustrates the kammic principle stated in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.101-thanissaro]]. [↩︎](#^mn86note03-ref) ^mn86note03
+3. This incident illustrates the kammic principle stated in [[an3.101-thanissaro]]. [↩︎](#^mn86note03-ref) ^mn86note03
 
 4. This verse = [[dhp172-thanissaro]]. [↩︎](#^mn86note04-ref) ^mn86note04
 
@@ -345,7 +345,7 @@ done.
 
 6. This verse = [[dhp80-thanissaro]]. [↩︎](#^mn86note06-ref) ^mn86note06
 
-7. This verse is another illustration of the principle stated in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.101-thanissaro]]. [↩︎](#^mn86note07-ref) ^mn86note07
+7. This verse is another illustration of the principle stated in [[an3.101-thanissaro]]. [↩︎](#^mn86note07-ref) ^mn86note07
 
 8. This verse = [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/dhp-thanissaro/dhp26-thanissaro]]. [↩︎](#^mn86note08-ref) ^mn86note08
 

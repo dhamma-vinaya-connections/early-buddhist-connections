@@ -74,9 +74,9 @@ Note
 
 1. The four groups of noble disciples when taken as pairs are those who have attained (1) the path to stream-entry and the fruition of stream-entry; (2) the path to once-returning and the fruition of once-returning; (3) the path to non-returning and the fruition of non-returning; and (4) the path to Arahantship and the fruition of Arahantship. Taking each attainment singly gives eight “individuals.”
 
-This itivuttaka is almost identical with [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.34-thanissaro]].
+This itivuttaka is almost identical with [[an4.34-thanissaro]].
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.52-thanissaro]]; [[an7.56-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.92-thanissaro]]; [Dhp 188](../Dhp/Ch14.html#dhp188)—192
+See also: [[an4.52-thanissaro]]; [[an7.56-thanissaro]]; [[an10.92-thanissaro]]; [Dhp 188](../Dhp/Ch14.html#dhp188)—192
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

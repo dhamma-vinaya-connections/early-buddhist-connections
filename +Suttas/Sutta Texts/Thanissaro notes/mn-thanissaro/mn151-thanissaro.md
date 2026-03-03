@@ -65,7 +65,7 @@ That is what the Blessed One said. Gratified, Ven. Sāriputta delighted in the B
 
 2. See [[mn121-thanissaro]].]([[mn121-thanissaro]].html) [↩︎](#^mn151note02-ref) ^mn151note02
 
-3. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]] defines the five strings of sensuality in this way: “There are these five strings of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire; sounds cognizable via the ear... aromas cognizable via the nose... flavors cognizable via the tongue... tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire.” It goes on to say, however, that these five strings of sensuality are not the same as sensuality itself, which it defines in these terms: [↩︎](#^mn151note03-ref) ^mn151note03
+3. [[an6.63-thanissaro]] defines the five strings of sensuality in this way: “There are these five strings of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire; sounds cognizable via the ear... aromas cognizable via the nose... flavors cognizable via the tongue... tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire.” It goes on to say, however, that these five strings of sensuality are not the same as sensuality itself, which it defines in these terms: [↩︎](#^mn151note03-ref) ^mn151note03
 
 The passion for his resolves is a man’s sensuality,
 
@@ -83,7 +83,7 @@ the enlightened
 
 subdue their desire.
 
-So, strictly speaking, one doesn’t abandon the five strings of sensuality. Instead, one should abandon one’s desire for them. [[sn47.6-thanissaro]] makes the point that when one is developing the four establishings of mindfulness, one should not wander among the five strings of sensuality. This is in preparation for getting the mind into right concentration, as the standard definition of right concentration (see [[sn45.8-thanissaro]]) states that it begins when one is secluded from sensuality and unskillful qualities. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.38-thanissaro]] states that one reaches the end of the cosmos—defined as the five strings of sensuality—when one has entered right concentration, starting with the first jhāna and going up through the three higher jhānas and the four formless attainments. One has crossed over attachment in cosmos when one’s effluents are ended.
+So, strictly speaking, one doesn’t abandon the five strings of sensuality. Instead, one should abandon one’s desire for them. [[sn47.6-thanissaro]] makes the point that when one is developing the four establishings of mindfulness, one should not wander among the five strings of sensuality. This is in preparation for getting the mind into right concentration, as the standard definition of right concentration (see [[sn45.8-thanissaro]]) states that it begins when one is secluded from sensuality and unskillful qualities. [[an9.38-thanissaro]] states that one reaches the end of the cosmos—defined as the five strings of sensuality—when one has entered right concentration, starting with the first jhāna and going up through the three higher jhānas and the four formless attainments. One has crossed over attachment in cosmos when one’s effluents are ended.
 
 4. “Monks, there are these five hindrances. Which five? Sensual desire as a hindrance, ill will as a hindrance, sloth & drowsiness as a hindrance, restlessness & anxiety as a hindrance, and uncertainty as a hindrance. These are the five hindrances.” — _[[an9.64-thanissaro]]_ [↩︎](#^mn151note04-ref) ^mn151note04
 
@@ -93,7 +93,7 @@ So, strictly speaking, one doesn’t abandon the five strings of sensuality. Ins
 
 For more detail on the establishings of mindfulness, see ._ For more detail on the bases of power, see ._ For more detail on the five faculties, see ._ For more detail on the factors for awakening, see ._ For more detail on the noble eightfold path, see ._
 
-See also: [[mn48-thanissaro]]; [[mn149-thanissaro]]; [[sn48.53-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an2/an2.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.51-thanissaro]]
+See also: [[mn48-thanissaro]]; [[mn149-thanissaro]]; [[sn48.53-thanissaro]]; [[an2.5-thanissaro]]; [[an6.19-thanissaro]]; [[an10.51-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

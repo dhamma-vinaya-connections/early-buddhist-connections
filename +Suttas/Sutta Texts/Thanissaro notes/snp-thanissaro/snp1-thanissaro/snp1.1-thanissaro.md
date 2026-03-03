@@ -190,7 +190,7 @@ vv. 1–17
 
 6. Underbrush stands for desire. See [Dhp 344](../Dhp/Ch24.html#dhp344). [↩︎](#^snp1-1-06-ref) ^snp1-1-06
 
-7. The arrow can stand for becoming, craving, or grief. See [[sn36.6-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.8-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.15-thanissaro]], [Dhp 351](../Dhp/Ch24.html#dhp351), [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]. [↩︎](#^snp1-1-07-ref) ^snp1-1-07
+7. The arrow can stand for becoming, craving, or grief. See [[sn36.6-thanissaro]], [[/snp3.8-thanissaro]], [[/snp4.15-thanissaro]], [Dhp 351](../Dhp/Ch24.html#dhp351), [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]. [↩︎](#^snp1-1-07-ref) ^snp1-1-07
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -159,7 +159,7 @@ When this was said, the brahman student Assalāyana said to the Blessed One: “
 
 2. This description of the conditions for birth is identical with one the Buddha himself gives in [[mn38-thanissaro]]. Apparently in the Buddha’s time it was a common feature among those who taught rebirth. [↩︎](#^mn93note02-ref) ^mn93note02
 
-See also: [[sn3.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.191-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.11-thanissaro]]
+See also: [[sn3.24-thanissaro]]; [[an5.191-thanissaro]]; [[/snp1.11-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

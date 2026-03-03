@@ -75,7 +75,7 @@ language: "English"
 
 “When a disciple of the noble ones is endowed with these seven true qualities and can obtain at will—without difficulty, without trouble—these four jhānas, heightened mental states that provide a pleasant abiding in the here & now, he is said to be a disciple of the noble ones who can’t be undone by Māra, can’t be undone by the Evil One.”
 
-See also: [[mn117-thanissaro]]; [[sn3.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.128-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.245-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.75-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.20-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.17-thanissaro]]
+See also: [[mn117-thanissaro]]; [[sn3.5-thanissaro]]; [[an4.28-thanissaro]]; [[an4.128-thanissaro]]; [[an4.245-thanissaro]]; [[an5.75-thanissaro]]; [[an6.20-thanissaro]]; [[an10.17-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

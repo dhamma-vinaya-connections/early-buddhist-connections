@@ -39,7 +39,7 @@ language: "English"
 
 “Monks, a person endowed with these four qualities can be known as ‘a person of integrity.’”
 
-See also: [[mn110-thanissaro]]; [[mn113-thanissaro]]; [[an2.31-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.148-thanissaro]]
+See also: [[mn110-thanissaro]]; [[mn113-thanissaro]]; [[an2.31-thanissaro]]; [[an5.148-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

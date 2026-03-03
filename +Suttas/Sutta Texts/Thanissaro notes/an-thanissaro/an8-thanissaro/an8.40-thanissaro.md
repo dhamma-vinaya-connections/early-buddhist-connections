@@ -31,7 +31,7 @@ language: "English"
 
 “The drinking of fermented & distilled liquors—when indulged in, developed, & pursued—is something that leads to hell, leads to rebirth as a common animal, leads to the realm of the hungry ghosts. The slightest of all the results coming from drinking fermented & distilled liquors is that, when one becomes a human being, it leads to mental derangement.”
 
-See also: [[mn135-thanissaro]]; [[sn42.6-thanissaro]]; [[sn42.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.101-thanissaro]]
+See also: [[mn135-thanissaro]]; [[sn42.6-thanissaro]]; [[sn42.8-thanissaro]]; [[an3.101-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

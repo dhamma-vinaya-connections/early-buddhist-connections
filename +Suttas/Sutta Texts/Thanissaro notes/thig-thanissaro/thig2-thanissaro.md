@@ -68,7 +68,7 @@ Note
 
 1. Reading _nigamo_ with the Thai edition. The Burmese and Sinhalese editions read _negamo,_ “the townspeople.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.48-thanissaro]]
+See also: [[an7.48-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

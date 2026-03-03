@@ -37,7 +37,7 @@ _The second point explains why the Buddha himself no longer adheres to an asceti
 
 _Rather than taking a categorical position that all asceticism is bad or all asceticism is good, the Buddha took an analytical approach to the issue:_
 
-_“If, when an asceticism is pursued, unskillful qualities increase and skillful qualities decline, then I tell you that that sort of asceticism is not to be pursued. But if, when an asceticism is pursued, unskillful qualities decline and skillful qualities increase, then I tell you that that sort of asceticism is to be pursued.” — [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.94-thanissaro]]_
+_“If, when an asceticism is pursued, unskillful qualities increase and skillful qualities decline, then I tell you that that sort of asceticism is not to be pursued. But if, when an asceticism is pursued, unskillful qualities decline and skillful qualities increase, then I tell you that that sort of asceticism is to be pursued.” — [[an10.94-thanissaro]]_
 
 _“Headman, those who say, ‘Gotama the contemplative criticizes all asceticism, that he categorically denounces & disparages all ascetics who live the rough life,’ are not saying what I have said, and they slander me with what is unfactual & untrue...._
 
@@ -253,7 +253,7 @@ That is what the Blessed One said. Gratified, Sakuludāyin the wanderer delighte
 
 2. The doctrines of these teachers can be found in [[dn2-thanissaro]] [↩︎](#^mn77note02-ref) ^mn77note02
 
-3. These three areas of contentment are three of the traditions of the noble ones, explained in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]]. [↩︎](#^mn77note03-ref) ^mn77note03
+3. These three areas of contentment are three of the traditions of the noble ones, explained in [[an4.28-thanissaro]]. [↩︎](#^mn77note03-ref) ^mn77note03
 
 4. [[dn11-thanissaro]] explains instruction using the “marvel of pointing out” in these terms: “There is the case where a monk gives instruction in this way: ‘Direct your thought in this way; don’t direct it in that. Attend to things in this way; don’t attend to them in that. Let go of this, enter and remain in that.” This apparently means that the Buddha was able to see what was happening in his listeners’ minds, and to tell them directly what to do with skillful and unskillful mental qualities as they arose. [↩︎](#^mn77note04-ref) ^mn77note04
 
@@ -269,9 +269,9 @@ That is what the Blessed One said. Gratified, Sakuludāyin the wanderer delighte
 
 10. For more detail on the noble eightfold path, see [↩︎](#^mn77note10-ref) ^mn77note10
 
-11. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.29-thanissaro]] adds that the last of these forms of mastery is the most sublime among them, but that even in beings percipient in this way, there is still aberration and change. [↩︎](#^mn77note11-ref) ^mn77note11
+11. [[an10.29-thanissaro]] adds that the last of these forms of mastery is the most sublime among them, but that even in beings percipient in this way, there is still aberration and change. [↩︎](#^mn77note11-ref) ^mn77note11
 
-12. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.29-thanissaro]] adds that the consciousness-totality is the most sublime among these forms of non-dual perception, but that even in beings percipient in this way, there is still aberration and change. For an example of how the earth-totality might be used as a concentration exercise, see [[mn121-thanissaro]].]([[mn121-thanissaro]].html) [↩︎](#^mn77note12-ref) ^mn77note12
+12. [[an10.29-thanissaro]] adds that the consciousness-totality is the most sublime among these forms of non-dual perception, but that even in beings percipient in this way, there is still aberration and change. For an example of how the earth-totality might be used as a concentration exercise, see [[mn121-thanissaro]].]([[mn121-thanissaro]].html) [↩︎](#^mn77note12-ref) ^mn77note12
 
 13. The list of topics from here to the end of the sutta follows the discussion in [[dn2-thanissaro]], with three exceptions: (a) The simile for clairaudience is different. (b) The simile for the ability to see beings passing away and being reborn is also different. (c) The discussion for the ending of the effluents here, unlike the discussion in [[dn2-thanissaro]], makes no mention of the four noble truths, even though the simile used for this knowledge is the same as in [[dn2-thanissaro]] [↩︎](#^mn77note13-ref) ^mn77note13
 
@@ -279,11 +279,11 @@ That is what the Blessed One said. Gratified, Sakuludāyin the wanderer delighte
 
 15. _Mahaggataṁ._ This term is used, together with “immeasurable / unlimited,” in the standard description of the awareness generated in the practice of the brahmavihāras ([[sn42.8-thanissaro]]). According to Ven. Anuruddha in [[mn127-thanissaro]], however, an enlarged mind is not immeasurable. Its range of awareness is larger than the body but still measurable, ranging in distance from the shade of a tree to the earth bounded by the ocean. [↩︎](#^mn77note15-ref) ^mn77note15
 
-16. On the various levels of release, see [[dn15-thanissaro]], [[mn43-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]]. [↩︎](#^mn77note16-ref) ^mn77note16
+16. On the various levels of release, see [[dn15-thanissaro]], [[mn43-thanissaro]], and [[an9.43-thanissaro]]. [↩︎](#^mn77note16-ref) ^mn77note16
 
 17. The effluents (_āsava)_ are three: the effluent of sensuality, the effluent of becoming, and effluent of ignorance. They are so called because they “flow out” of the mind and defile it. [↩︎](#^mn77note17-ref) ^mn77note17
 
-See also: [[dn1-thanissaro]]; [[mn12-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.126-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.69-thanissaro]]
+See also: [[dn1-thanissaro]]; [[mn12-thanissaro]]; [[an3.126-thanissaro]]; [[an10.69-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

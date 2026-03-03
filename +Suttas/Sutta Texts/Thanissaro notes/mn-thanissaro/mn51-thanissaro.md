@@ -143,7 +143,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ### Notes
 
-1. _Sekha,_ in training, means that the monks have at least gained the Dhamma eye, the first experience of the deathless, but are not yet fully awakened. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.74-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.87-thanissaro]]. [↩︎](#^mn51note01-ref) ^mn51note01
+1. _Sekha,_ in training, means that the monks have at least gained the Dhamma eye, the first experience of the deathless, but are not yet fully awakened. See [[an3.74-thanissaro]] and [[an3.87-thanissaro]]. [↩︎](#^mn51note01-ref) ^mn51note01
 
 2. Following the Thai edition of the Canon. Other editions add an extra sentence here: “He neither torments nor tortures his self nor another, both of whom love pleasure & abhor pain.” [↩︎](#^mn51note02-ref) ^mn51note02
 
@@ -155,7 +155,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 6. The PTS and Sinhalese editions omit the sentence, “Let so many horses be slaughtered for the sacrifice.” [↩︎](#^mn51note06-ref) ^mn51note06
 
-See also: [[an4.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.96-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.99-thanissaro]]
+See also: [[an4.95-thanissaro]]; [[an4.96-thanissaro]]; [[an4.99-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

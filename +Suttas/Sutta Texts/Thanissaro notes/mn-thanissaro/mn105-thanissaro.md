@@ -95,7 +95,7 @@ The Blessed One said: “Sunakkhatta, there are these five strands of sensuality
 
 That is what the Blessed One said. Gratified, Sunakkhatta the Licchavi delighted in the Blessed One’s words.
 
-See also: [[mn75-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.49-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.55-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.24-thanissaro]]
+See also: [[mn75-thanissaro]]; [[an6.49-thanissaro]]; [[an6.55-thanissaro]]; [[an9.7-thanissaro]]; [[an10.24-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

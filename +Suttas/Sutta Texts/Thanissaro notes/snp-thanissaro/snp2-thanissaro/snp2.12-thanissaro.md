@@ -180,7 +180,7 @@ vv. 343–358
 
 ### Notes
 
-1. Cited in AN 1:148 (1:212) as foremost among the monks in having extemporaneous inspiration. His verses are collected in SN 8 and in Thag 21. He appears in Sn both here and at [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.3-thanissaro]]. [↩︎](#^snp2-12-01-ref) ^snp2-12-01
+1. Cited in AN 1:148 (1:212) as foremost among the monks in having extemporaneous inspiration. His verses are collected in SN 8 and in Thag 21. He appears in Sn both here and at [[/snp3.3-thanissaro]]. [↩︎](#^snp2-12-01-ref) ^snp2-12-01
 
 2. From Vedic times it was customary to believe that divine beings had total vision of reality because they could see with all parts of their bodies—thus they were “all-around eyes.” At the same time, there was a belief that it was auspicious to gaze into a divine being’s eye, which meant that worshippers were content to see any part of the divine being’s body. Both of these beliefs carried over into Buddhist devotional practice. For more on this point, see [[dn16-thanissaro]], note 44. See also, Jan Gonda, _Eye and Gaze in the Veda._ [↩︎](#^snp2-12-02-ref) ^snp2-12-02
 
@@ -196,7 +196,7 @@ vv. 343–358
 
 8. _Kappiya, Kappayāna:_ Honorific forms of _Kappa._ [↩︎](#^snp2-12-08-ref) ^snp2-12-08
 
-See also: [[dn16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]]
+See also: [[dn16-thanissaro]]; [[an6.43-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

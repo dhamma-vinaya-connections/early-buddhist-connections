@@ -346,7 +346,7 @@ totally unbind.
 
 1. The four-fold tie: greed, ill will, attachment to habits & practice, and dogmatic obsession with views. [↩︎](#^thag10-5note01-ref) ^thag10-5note01
 
-2. Floods: sensuality, becoming, views, and ignorance. See [[sn45.171-thanissaro]]. These are identical with the four yokes. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.10-thanissaro]]. [↩︎](#^thag10-5note02-ref) ^thag10-5note02
+2. Floods: sensuality, becoming, views, and ignorance. See [[sn45.171-thanissaro]]. These are identical with the four yokes. See [[an4.10-thanissaro]]. [↩︎](#^thag10-5note02-ref) ^thag10-5note02
 
 3. Obsessions: sensual passion, resistance, views, uncertainty, conceit, passion for becoming, and ignorance. See [[an7.11-thanissaro]]. [↩︎](#^thag10-5note03-ref) ^thag10-5note03
 
@@ -354,7 +354,7 @@ totally unbind.
 
 5. The root of becoming: craving. [↩︎](#^thag10-5note05-ref) ^thag10-5note05
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.48-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.11-thanissaro]]
+See also: [[an7.48-thanissaro]]; [[/snp1.11-thanissaro]]
 
 ## Thag10.7  Gotama
 
@@ -476,7 +476,7 @@ This is fitting
 
 for a contemplative.
 
-See also: [[dhp183.185-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.6-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.9-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.14-thanissaro]]
+See also: [[dhp183.185-thanissaro]]; [[/snp1.3-thanissaro]]; [[/snp1.12-thanissaro]]; [[/snp2.6-thanissaro]]; [[/snp2.9-thanissaro]]; [[/snp2.13-thanissaro]]; [[/snp3.11-thanissaro]]; [[/snp4.14-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

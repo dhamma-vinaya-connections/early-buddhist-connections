@@ -37,7 +37,7 @@ Which three? Non-greed is a cause for the origination of action. Non-aversion is
 
 “These, monks, are three causes for the origination of action.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.237-thanissaro]]
+See also: [[an4.237-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

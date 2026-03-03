@@ -123,7 +123,7 @@ don’t delight there,
 have cut the cord,
 			unsnared.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.48-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag10-thanissaro]]
+See also: [[an7.48-thanissaro]]; [[/snp1.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag10-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).
@@ -180,7 +180,7 @@ Unbound.
 
 ### Notes
 
-1. This phrase can be taken in two ways: (a) consummate in that he has a pure lineage on both his mother’s and his father’s side; and (b) consummate in that he belongs both to a well-born lineage in the worldly sense and, by means of his meditative attainments, to the lineage of the noble ones. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]]. [↩︎](#^thag4-8note01-ref) ^thag4-8note01
+1. This phrase can be taken in two ways: (a) consummate in that he has a pure lineage on both his mother’s and his father’s side; and (b) consummate in that he belongs both to a well-born lineage in the worldly sense and, by means of his meditative attainments, to the lineage of the noble ones. See [[an4.28-thanissaro]]. [↩︎](#^thag4-8note01-ref) ^thag4-8note01
 
 2. One with knowledge of past lives, knowledge of the passing away and rearising of living beings, and knowledge of the ending of mental effluents. See [[mn4-thanissaro]]. This list is the Buddhist response to the brahmanical claim that a person should be a master of three knowledges. In the brahmanical case, a three-knowledge man knew the three Vedas. The Buddhists claimed that their three knowledges were superior in that they were not mere hearsay, they could be known by men and women of all castes (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]), and they could put an end to suffering. [↩︎](#^thag4-8note02-ref) ^thag4-8note02
 

@@ -59,7 +59,7 @@ enlightened,
 
 wise.
 
-See also: [[dn9-thanissaro]]; [[mn2-thanissaro]]; [[mn58-thanissaro]]; [[mn72-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.35-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.46-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.82-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.85-thanissaro]]; [[sn44.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.74-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.165-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.93-thanissaro]]
+See also: [[dn9-thanissaro]]; [[mn2-thanissaro]]; [[mn58-thanissaro]]; [[mn72-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.35-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.46-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.82-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.85-thanissaro]]; [[sn44.10-thanissaro]]; [[an3.74-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.77-thanissaro]]; [[an5.165-thanissaro]]; [[an7.51-thanissaro]]; [[an10.93-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

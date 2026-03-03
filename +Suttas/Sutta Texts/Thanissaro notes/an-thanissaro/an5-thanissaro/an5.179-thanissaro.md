@@ -191,7 +191,7 @@ Note
 
 1. The four pairs are (1) the person on the path to stream-entry, the person experiencing the fruit of stream-entry; (2) the person on the path to once-returning, the person experiencing the fruit of once-returning; (3) the person on the path to non-returning, the person experiencing the fruit of non-returning; (4) the person on the path to arahantship, the person experiencing the fruit of arahantship. The eight individuals are the eight types forming these four pairs.
 
-See also: [[mn130-thanissaro]]; [[sn3.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.58-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.92-thanissaro]]
+See also: [[mn130-thanissaro]]; [[sn3.24-thanissaro]]; [[an3.58-thanissaro]]; [[an10.92-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

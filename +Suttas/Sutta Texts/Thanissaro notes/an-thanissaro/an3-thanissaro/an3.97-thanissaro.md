@@ -27,7 +27,7 @@ language: "English"
 
 “Endowed with these three qualities is a monk deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, an unexcelled field of merit for the world.”
 
-See also: [[dn26-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.153-thanissaro]]; [[sn47.6-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.111-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.113-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.139-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an11/an11.10-thanissaro]]
+See also: [[dn26-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.153-thanissaro]]; [[sn47.6-thanissaro]]; [[an4.111-thanissaro]]; [[an4.113-thanissaro]]; [[an5.139-thanissaro]]; [[an8.13-thanissaro]]; [[an11.10-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

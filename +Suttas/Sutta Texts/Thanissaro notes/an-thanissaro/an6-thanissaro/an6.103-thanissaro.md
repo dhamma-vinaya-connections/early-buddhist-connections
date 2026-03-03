@@ -25,7 +25,7 @@ language: "English"
 
 2. See [[an7.11-thanissaro]]. [↩︎](#^[[an6-thanissaro]].103note02-ref) ^[[an6-thanissaro]].103note02
 
-See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.85-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.179-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.46-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.85-thanissaro]]; [[an4.179-thanissaro]]; [[an7.46-thanissaro]]; [[an10.60-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

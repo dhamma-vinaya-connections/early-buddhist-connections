@@ -53,7 +53,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ### Notes
 
-1. “Knowledge & vision” here apparently has the same meaning it does in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.41-thanissaro]]—i.e., the various mundane psychic powers that can come from the development of concentration. [↩︎](#^mn29note01-ref) ^mn29note01
+1. “Knowledge & vision” here apparently has the same meaning it does in [[an4.41-thanissaro]]—i.e., the various mundane psychic powers that can come from the development of concentration. [↩︎](#^mn29note01-ref) ^mn29note01
 
 2. This translation follows the Sri Lankan and Burmese editions of the Canon. The Thai and PTS editions at this point say, “Being heedful, he achieves an occasional liberation. And it is possible, monks, there is the opportunity, for that monk to fall from that occasional release.” However, when the passage is repeated after the simile, these editions read, “Being heedful, he achieves a non-occasional liberation. And it is impossible, monks, there is no opportunity, for that monk to fall from that non-occasional release.” Because this inconsistency is anomalous, the Sri Lankan/Burmese reading seems preferable. [↩︎](#^mn29note02-ref) ^mn29note02
 
@@ -67,7 +67,7 @@ A similar theory attributes the irruption of mental states to the provocation of
 
 Even unbinding is described as a property ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti44-thanissaro]]). However, there is a crucial difference in how unbinding is attained, in that the unbinding property is not provoked. Any events that depend on the provocation of a property are inherently unstable and inconstant, subject to change when the provocation ends. But because true release is not caused by the provocation of anything, it is not subject to change.
 
-See also: [[mn43-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.88-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.58-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti35-thanissaro]]
+See also: [[mn43-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.88-thanissaro]]; [[an8.7-thanissaro]]; [[an8.8-thanissaro]]; [[an10.58-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti35-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

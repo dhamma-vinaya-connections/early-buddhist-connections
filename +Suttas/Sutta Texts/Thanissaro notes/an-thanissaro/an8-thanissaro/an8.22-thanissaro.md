@@ -49,9 +49,9 @@ Then the monk, having received almsfood at the home of Ugga the householder of H
 
 1. In other words, the five precepts but with the precept for celibacy replacing the precept against sexual misconduct. [↩︎](#^[[an8-thanissaro]].22note01-ref) ^[[an8-thanissaro]].22note01
 
-2. See [[mn70-thanissaro]] for definitions of these types of monks. See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]]. [↩︎](#^[[an8-thanissaro]].22note02-ref) ^[[an8-thanissaro]].22note02
+2. See [[mn70-thanissaro]] for definitions of these types of monks. See also [[an9.43-thanissaro]]. [↩︎](#^[[an8-thanissaro]].22note02-ref) ^[[an8-thanissaro]].22note02
 
-See also: [[sn41.7-thanissaro]]; [[sn41.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.50-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.23-thanissaro]]
+See also: [[sn41.7-thanissaro]]; [[sn41.10-thanissaro]]; [[an7.50-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.23-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

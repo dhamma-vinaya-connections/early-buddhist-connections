@@ -322,15 +322,15 @@ vv. 955–975
 
 2.The fact that the Buddha answers this question in a straightforward manner illustrates the point that abandoning habits and practices does not mean having undefined precepts or practices—or no precepts or practices at all. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp4-thanissaro/snp4.13-thanissaro]].
 
-3. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.64-thanissaro]]. [↩︎](#^snp4-16-03-ref) ^snp4-16-03
+3. See [[an4.28-thanissaro]], [[an4.37-thanissaro]], and [[an7.64-thanissaro]]. [↩︎](#^snp4-16-03-ref) ^snp4-16-03
 
-4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]. [↩︎](#^snp4-16-04-ref) ^snp4-16-04
+4. See [[an4.37-thanissaro]]. [↩︎](#^snp4-16-04-ref) ^snp4-16-04
 
 5. See [Dhp 76–77](../Dhp/Ch06.html#dhp076). [↩︎](#^snp4-16-05-ref) ^snp4-16-05
 
 6. _Ekodi-bhūto._ A quality of concentration attained in the second jhāna. [↩︎](#^snp4-16-06-ref) ^snp4-16-06
 
-See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]; Thag 18
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.200-thanissaro]]; [[an4.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]; Thag 18
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

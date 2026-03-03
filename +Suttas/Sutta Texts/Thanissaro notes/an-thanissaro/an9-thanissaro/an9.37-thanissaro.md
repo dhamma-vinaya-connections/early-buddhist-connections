@@ -45,11 +45,11 @@ When this was said, Ven. Udāyin said to Ven. Ānanda, “Is one percipient when
 
 [[mn43-thanissaro]] notes that the first three formless states listed here are those that can be known through the eye of discernment when one’s intellect-consciousness is purified and divorced from the five external sense faculties. Because the fourth jhāna can also be known through the eye of discernment, and because it is described as purified in many contexts, the fact that it is not listed in [[mn43-thanissaro]] indicates that consciousness is not divorced from the external sense faculties in that jhāna—or any of the lower ones.
 
-Thus it is more likely that Ven. Ānanda excluded the four jhānas from his list here because the meditator can still be sensitive to the five external senses when in those jhānas. For more on this point, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.38-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.72-thanissaro]].
+Thus it is more likely that Ven. Ānanda excluded the four jhānas from his list here because the meditator can still be sensitive to the five external senses when in those jhānas. For more on this point, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.38-thanissaro]], and [[an10.72-thanissaro]].
 
-3. The concentration that is the fruit of gnosis is apparently equivalent to the concentration of unmediated knowing, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.1-thanissaro]], and the liberation of immediacy, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]. [↩︎](#^[[an9-thanissaro]].37note03-ref) ^[[an9-thanissaro]].37note03
+3. The concentration that is the fruit of gnosis is apparently equivalent to the concentration of unmediated knowing, mentioned in [[/snp2.1-thanissaro]], and the liberation of immediacy, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]]. [↩︎](#^[[an9-thanissaro]].37note03-ref) ^[[an9-thanissaro]].37note03
 
-See also: [[dn11-thanissaro]]; [[mn1-thanissaro]]; [[mn138-thanissaro]]; [[mn152-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[an10.6-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an11/an11.10-thanissaro]]
+See also: [[dn11-thanissaro]]; [[mn1-thanissaro]]; [[mn138-thanissaro]]; [[mn152-thanissaro]]; [[an4.24-thanissaro]]; [[an10.6-thanissaro]]; [[an11.10-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

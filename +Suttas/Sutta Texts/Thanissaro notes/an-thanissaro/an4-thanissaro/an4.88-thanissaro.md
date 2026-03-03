@@ -27,7 +27,7 @@ language: "English"
 
 “These, monks, are four persons to be found existing in the world.”
 
-See also: [[mn70-thanissaro]]; [[mn118-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.76-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.87-thanissaro]]
+See also: [[mn70-thanissaro]]; [[mn118-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.76-thanissaro]]; [[an3.87-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

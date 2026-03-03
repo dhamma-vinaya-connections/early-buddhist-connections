@@ -81,9 +81,9 @@ generosity & merit increase.”
 
 Note
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]].
+1. See [[an6.43-thanissaro]].
 
-See also: [[sn3.19-thanissaro]]; [[sn1-11-thanissaro/sn10-thanissaro/sn10.12-thanissaro]]; [[sn45.2-thanissaro]]; [[an3.48-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.34-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.38-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.41-thanissaro]]; [[an5.175-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.179-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.45-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti17-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti76-thanissaro]]
+See also: [[sn3.19-thanissaro]]; [[sn1-11-thanissaro/sn10-thanissaro/sn10.12-thanissaro]]; [[sn45.2-thanissaro]]; [[an3.48-thanissaro]]; [[an4.62-thanissaro]]; [[an5.34-thanissaro]]; [[an5.38-thanissaro]]; [[an5.41-thanissaro]]; [[an5.175-thanissaro]]; [[an5.179-thanissaro]]; [[an6.45-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti17-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti76-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

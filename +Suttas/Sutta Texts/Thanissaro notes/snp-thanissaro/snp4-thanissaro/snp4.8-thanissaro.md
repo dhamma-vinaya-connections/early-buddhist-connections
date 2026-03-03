@@ -132,13 +132,13 @@ vv. 824–834
 
 ### Notes
 
-1. _Pacceka-sacca._ The word _pacceka_ can also mean singular, personal, or individual. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.20-thanissaro]] lists the following views as idiosyncratic truths. “The cosmos is eternal,” “The cosmos is not eternal,” “The cosmos is finite,” “The cosmos is infinite,” “The soul & the body are the same,” “The soul is one thing & the body another,” “After death a Tathāgata exists,” “After death a Tathāgata does not exist,” “After death a Tathāgata both does & does not exist,” “After death a Tathāgata neither does nor does not exist.” These truths are distinct from noble truths, in that the word for “noble”—_ariya_—can also mean “universal.” [↩︎](#^snp4-8-01-ref) ^snp4-8-01
+1. _Pacceka-sacca._ The word _pacceka_ can also mean singular, personal, or individual. [[an10.20-thanissaro]] lists the following views as idiosyncratic truths. “The cosmos is eternal,” “The cosmos is not eternal,” “The cosmos is finite,” “The cosmos is infinite,” “The soul & the body are the same,” “The soul is one thing & the body another,” “After death a Tathāgata exists,” “After death a Tathāgata does not exist,” “After death a Tathāgata both does & does not exist,” “After death a Tathāgata neither does nor does not exist.” These truths are distinct from noble truths, in that the word for “noble”—_ariya_—can also mean “universal.” [↩︎](#^snp4-8-01-ref) ^snp4-8-01
 
-2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.93-thanissaro]]. [↩︎](#^snp4-8-02-ref) ^snp4-8-02
+2. See [[an10.93-thanissaro]]. [↩︎](#^snp4-8-02-ref) ^snp4-8-02
 
 On the Buddha as a debater, see _Skill in Questions,_ chapter 5.
 
-See also: [[mn18-thanissaro]]; [[mn36-thanissaro]]; [[mn58-thanissaro]]; [[mn101-thanissaro]]; [[sn42.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an2/an2.36-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.68-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.73-thanissaro]]
+See also: [[mn18-thanissaro]]; [[mn36-thanissaro]]; [[mn58-thanissaro]]; [[mn101-thanissaro]]; [[sn42.8-thanissaro]]; [[an2.36-thanissaro]]; [[an3.62-thanissaro]]; [[an3.68-thanissaro]]; [[an3.73-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

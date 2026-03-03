@@ -35,7 +35,7 @@ Then the monk, having received alms at Hatthaka of Āḷavī’s home, departed.
 
 [The Blessed One replied:] “It’s good, monk, it’s very good that the clansman is modest and does not want others to know of the skillful qualities present in him. In that case, monk, remember Hatthaka of Āḷavī as being endowed with this eighth amazing, astounding quality: modesty.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.30-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.53-thanissaro]]
+See also: [[an3.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.30-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.53-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

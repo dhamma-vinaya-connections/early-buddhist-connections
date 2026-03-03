@@ -46,7 +46,7 @@ beyond.
 
 Note
 
-1. The five lower fetters are self-identity view, uncertainty, attachment to habits & practices, sensual passion, and resistance. See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.48-thanissaro]] and [[an10.13-thanissaro]].
+1. The five lower fetters are self-identity view, uncertainty, attachment to habits & practices, sensual passion, and resistance. See also [[an7.48-thanissaro]] and [[an10.13-thanissaro]].
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

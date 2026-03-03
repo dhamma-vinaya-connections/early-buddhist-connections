@@ -133,7 +133,7 @@ Note
 
 Ven. Ānanda proceeds to define the monk whom the other monks respect, and he does so using a figure of speech: The “one monk” is actually one ideal monk whose profile may fit any number of monks. The editors of the Sri Lankan and Burmese edition may have chosen to read _n’atthi_ to convey the idea that there was more than one monk whom the other monks respected. But, as noted above, this reading does not explain why Vassakāra was perplexed by Ven. Ānanda’s answer.
 
-See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.90-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.12-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.21-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an11/an11.10-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.90-thanissaro]]; [[an6.12-thanissaro]]; [[an7.21-thanissaro]]; [[an11.10-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

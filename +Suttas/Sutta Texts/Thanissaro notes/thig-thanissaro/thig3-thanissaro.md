@@ -122,7 +122,7 @@ for refuge to
 
 the Sage.
 
-See also: [[sn47.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.49-thanissaro]]; [[ud5.1-thanissaro]]; [[ud8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]
+See also: [[sn47.13-thanissaro]]; [[an5.49-thanissaro]]; [[ud5.1-thanissaro]]; [[ud8.8-thanissaro]]; [[/snp3.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

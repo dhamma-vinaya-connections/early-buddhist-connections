@@ -39,7 +39,7 @@ language: "English"
 
 “Thus, as far as the perception-attainments go, that is as far as gnosis-penetration goes. As for these two dimensions—the attainment of the dimension of neither perception nor non-perception & the attainment of the cessation of perception & feeling—I tell you that they are to be rightly explained by those monks who are meditators, skilled at attainment, skilled at attainment-emergence, who have attained & emerged in dependence on them.”
 
-See also: [[mn52-thanissaro]]; [[mn111-thanissaro]]; [[mn140-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.94-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.170-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.179-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.43-thanissaro]]; [[an10.13-thanissaro]]; [[dhp372-thanissaro]]
+See also: [[mn52-thanissaro]]; [[mn111-thanissaro]]; [[mn140-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[an4.94-thanissaro]]; [[an4.170-thanissaro]]; [[an4.179-thanissaro]]; [[an5.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.43-thanissaro]]; [[an10.13-thanissaro]]; [[dhp372-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

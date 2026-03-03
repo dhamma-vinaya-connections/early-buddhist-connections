@@ -95,7 +95,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 3. In this and the remaining three considerations, the words of the consideration follow the syntax of a declarative sentence, but the context seems to require a question. There are other instances in the Canon where this happens, suggesting that—as in, say, English or French—a native speaker of Pali could phrase a question in the declarative, indicating the question by the tone of voice. [↩︎](#^mn48note03-ref) ^mn48note03
 
-See also: [[dn16-thanissaro]]; [[sn48.53-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.74-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.179-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.12-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.92-thanissaro]]
+See also: [[dn16-thanissaro]]; [[sn48.53-thanissaro]]; [[an3.74-thanissaro]]; [[an5.179-thanissaro]]; [[an6.12-thanissaro]]; [[an10.92-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

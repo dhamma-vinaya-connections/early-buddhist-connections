@@ -221,7 +221,7 @@ The Sri Lankan edition is quite different from the others. Beginning with the br
 
 9. Here Kāpadika switches from the pompous “we” to the more respectful “me.” [↩︎](#^mn95note09-ref) ^mn95note09
 
-See also: [[an2.31-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.73-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.192-thanissaro]]; [[an7.80-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.53-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.1-thanissaro]]
+See also: [[an2.31-thanissaro]]; [[an3.66-thanissaro]]; [[an4.73-thanissaro]]; [[an4.192-thanissaro]]; [[an7.80-thanissaro]]; [[an8.53-thanissaro]]; [[an9.1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

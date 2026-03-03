@@ -31,7 +31,7 @@ language: "English"
 
 “These are the six conditions that are conducive to amiability, that engender feelings of endearment, engender feelings of respect, leading to a sense of fellowship, a lack of disputes, harmony, & a state of unity.”
 
-See also: [[dn16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.32-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.21-thanissaro]]
+See also: [[dn16-thanissaro]]; [[an4.32-thanissaro]]; [[an7.21-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

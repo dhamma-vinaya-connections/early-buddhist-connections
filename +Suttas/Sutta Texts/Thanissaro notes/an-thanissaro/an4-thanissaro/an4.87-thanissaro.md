@@ -35,7 +35,7 @@ Note
 
 1. See [[dn15-thanissaro]]. The Commentary states that this passage refers to a dry-insight arahant, one who hasn’t attained any of the jhānas. However, the “stream” that a stream-enterer has entered contains all eight factors of the noble eightfold path. One of these factors is right concentration, which consists of the four jhānas. So if every stream-enterer has experienced at least the first jhāna, and stream-entry is a lower attainment than arahantship, every arahant must have experienced at least the first jhāna as well.
 
-See also: [[mn70-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.70-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]]
+See also: [[mn70-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.70-thanissaro]]; [[an6.43-thanissaro]]; [[an9.43-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -1458,27 +1458,27 @@ in the course of one hundred eons.[58](#^dn16note58) ^dn16note58-ref
 
 1. There is a play on words in this sentence, between _Tathāgata_ (“one truly gone,” or “one who has become true”) and _vi-tathaṁ,_ “untruthfully.” [↩︎](#^dn16note01-ref) ^dn16note01
 
-2. Notice that Vassakāra, by addressing the Buddha as “Master Gotama,” shows a lesser degree of respect to the Buddha than King Ajātasattu had told him to. Vassakāra also appears in [[mn108-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.35-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.183-thanissaro]], and in each instance displays a limited understanding of the Dhamma. [↩︎](#^dn16note02-ref) ^dn16note02
+2. Notice that Vassakāra, by addressing the Buddha as “Master Gotama,” shows a lesser degree of respect to the Buddha than King Ajātasattu had told him to. Vassakāra also appears in [[mn108-thanissaro]], [[an4.35-thanissaro]], and [[an4.183-thanissaro]], and in each instance displays a limited understanding of the Dhamma. [↩︎](#^dn16note02-ref) ^dn16note02
 
-3. According to the Commentary, that is precisely what Vassakāra did, thus enabling King Ajātasattu to defeat the Vajjians without bloodshed. In addition to being ironic—showing how benighted Ajātasattu was, trying to get military advice from the Buddha—this passage has a poignant meaning for the Saṅgha. As the following passage shows, the conditions of no decline in the Saṅgha are not that different from those for no decline in the Vajjians. And although those conditions may prevail in the Saṅgha, the example of the Vajjians shows that they can easily be abandoned. This passage thus serves as a warning not to be heedless. See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.77-thanissaro]]. [↩︎](#^dn16note03-ref) ^dn16note03
+3. According to the Commentary, that is precisely what Vassakāra did, thus enabling King Ajātasattu to defeat the Vajjians without bloodshed. In addition to being ironic—showing how benighted Ajātasattu was, trying to get military advice from the Buddha—this passage has a poignant meaning for the Saṅgha. As the following passage shows, the conditions of no decline in the Saṅgha are not that different from those for no decline in the Vajjians. And although those conditions may prevail in the Saṅgha, the example of the Vajjians shows that they can easily be abandoned. This passage thus serves as a warning not to be heedless. See also [[an5.77-thanissaro]]. [↩︎](#^dn16note03-ref) ^dn16note03
 
-4. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.21-thanissaro]]. [↩︎](#^dn16note04-ref) ^dn16note04
+4. See [[an7.21-thanissaro]]. [↩︎](#^dn16note04-ref) ^dn16note04
 
 5. See [[mn29-thanissaro]]. [↩︎](#^dn16note05-ref) ^dn16note05
 
-6. See [[mn53-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]. [↩︎](#^dn16note06-ref) ^dn16note06
+6. See [[mn53-thanissaro]] and [[an7.63-thanissaro]]. [↩︎](#^dn16note06-ref) ^dn16note06
 
 7. See [[sn46.51-thanissaro]] and [[sn46.53-thanissaro]]. [↩︎](#^dn16note07-ref) ^dn16note07
 
-8. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]. [↩︎](#^dn16note08-ref) ^dn16note08
+8. See [[an10.60-thanissaro]]. [↩︎](#^dn16note08-ref) ^dn16note08
 
 9. The Burmese edition does not contain the word, “further,” here. [↩︎](#^dn16note09-ref) ^dn16note09
 
-10. See [[mn48-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.12-thanissaro]]. [↩︎](#^dn16note10-ref) ^dn16note10
+10. See [[mn48-thanissaro]] and [[an6.12-thanissaro]]. [↩︎](#^dn16note10-ref) ^dn16note10
 
 11. See [[mn61-thanissaro]]. [↩︎](#^dn16note11-ref) ^dn16note11
 
-12. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.95-thanissaro]]. [↩︎](#^dn16note12-ref) ^dn16note12
+12. See [[an10.95-thanissaro]]. [↩︎](#^dn16note12-ref) ^dn16note12
 
 13. See [[ud8.6-thanissaro]]. [↩︎](#^dn16note13-ref) ^dn16note13
 
@@ -1492,7 +1492,7 @@ Archaeological evidence from what may have been part of Asoka’s palace in Pā�
 
 17. The four pairs are (1) the person on the path to stream entry, the person experiencing the fruit of stream entry; (2) the person on the path to once-returning, the person experiencing the fruit of once-returning; (3) the person on the path to non-returning, the person experiencing the fruit of non-returning; (4) the person on the path to arahantship, the person experiencing the fruit of arahantship. The eight individuals are the eight types forming these four pairs. [↩︎](#^dn16note17-ref) ^dn16note17
 
-18. For another way to gauge whether one has attained stream-entry, see [[mn48-thanissaro]]. Notice that in this Dhamma-mirror, the Buddha gives criteria only for gauging one’s own level of attainment, and not that of others. On this point, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.75-thanissaro]]. [↩︎](#^dn16note18-ref) ^dn16note18
+18. For another way to gauge whether one has attained stream-entry, see [[mn48-thanissaro]]. Notice that in this Dhamma-mirror, the Buddha gives criteria only for gauging one’s own level of attainment, and not that of others. On this point, see [[an10.75-thanissaro]]. [↩︎](#^dn16note18-ref) ^dn16note18
 
 19. Ambapālī apparently ordained as a nun later in life. Her verses are recorded in Thig13.1. [↩︎](#^dn16note19-ref) ^dn16note19
 
@@ -1520,7 +1520,7 @@ Archaeological evidence from what may have been part of Asoka’s palace in Pā�
 
 30. _Anupādisesa-nibbāna-dhātu._ Unbinding as experienced by an arahant at death. According to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti44-thanissaro]], there are two unbinding properties: that with fuel remaining, and that with no fuel remaining. The first refers to unbinding as experienced before death. The second, to unbinding as experienced after death. Thag15.2 hints at the image behind these terms. The first unbinding property corresponds to a fire that has gone out but whose embers are still glowing. The second, to a fire so totally out that no glowing embers remain. See the discussion in The Mind Like Fire Unbound, chapter 1. [↩︎](#^dn16note30-ref) ^dn16note30
 
-31. This list is apparently a description both of the ways in which beings on different levels of the cosmos are percipient, and of experiences that a meditator—particularly one who is inclined to visions—might have. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.29-thanissaro]] adds this comment to the list: [↩︎](#^dn16note31-ref) ^dn16note31
+31. This list is apparently a description both of the ways in which beings on different levels of the cosmos are percipient, and of experiences that a meditator—particularly one who is inclined to visions—might have. [[an10.29-thanissaro]] adds this comment to the list: [↩︎](#^dn16note31-ref) ^dn16note31
 
 “Now, of these eight dimensions of mastery, this is supreme: when one percipient of the formless internally sees forms externally as white, white in their color, white in their features, white in their glow. And there are beings who are percipient in this way. Yet even in the beings who are percipient in this way there is still aberration, there is change. Seeing this, the instructed disciple of the noble ones grows disenchanted with that. Being disenchanted with that, he becomes dispassionate toward what is supreme, and even more so toward what is inferior.”
 
@@ -1568,7 +1568,7 @@ It is sometimes assumed, based on a passage in [[snp22.87-thanissaro]], that the
 
 51. This is one of the earthquakes forecast in Part III. [↩︎](#^dn16note51-ref) ^dn16note51
 
-52. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.49-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.57-thanissaro]]. [↩︎](#^dn16note52-ref) ^dn16note52
+52. See [[an5.49-thanissaro]] and [[an5.57-thanissaro]]. [↩︎](#^dn16note52-ref) ^dn16note52
 
 53. This apparently refers to the devas who are non-returners, living in the Pure Abodes. [↩︎](#^dn16note53-ref) ^dn16note53
 

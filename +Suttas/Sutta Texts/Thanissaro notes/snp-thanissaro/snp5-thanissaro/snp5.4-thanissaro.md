@@ -210,9 +210,9 @@ vv. 1049–1060
 
 ### Notes
 
-1. On the meaning of “acquisition,” see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.12-thanissaro]]. [↩︎](#^snp5-4-01-ref) ^snp5-4-01
+1. On the meaning of “acquisition,” see [[/snp3.12-thanissaro]]. [↩︎](#^snp5-4-01-ref) ^snp5-4-01
 
-2. This verse is identical with the second set of verses in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.12-thanissaro]]. [↩︎](#^snp5-4-02-ref) ^snp5-4-02
+2. This verse is identical with the second set of verses in [[/snp3.12-thanissaro]]. [↩︎](#^snp5-4-02-ref) ^snp5-4-02
 
 3. Nd II gives six different valid interpretations for ‘above, below, across, in between’: [↩︎](#^snp5-4-03-ref) ^snp5-4-03
 
@@ -232,7 +232,7 @@ f) above = the body from the feet on up; below = the body from the crown of the 
 
 5. Becoming and non-becoming (or dis-becoming) are the two most subtle objects of craving that lead on to continued existence—and suffering—in the round of birth and death. See [[ud3.10-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti49-thanissaro]], and [[mn49-thanissaro]], note 10. See also, _The Paradox of Becoming._ [↩︎](#^snp5-4-05-ref) ^snp5-4-05
 
-See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.77-thanissaro]]
+See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.197-thanissaro]]; [[an3.77-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -42,7 +42,7 @@ gone beyond bonds.
 
 Note
 
-1. Renunciation here means the first level of jhāna, which is attained when one is secluded from sensual passion and unskillful mental qualities. On formlessness and cessation, see the note to [§51](iti51.html). See also [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.200-thanissaro]].
+1. Renunciation here means the first level of jhāna, which is attained when one is secluded from sensual passion and unskillful mental qualities. On formlessness and cessation, see the note to [§51](iti51.html). See also [[an5.200-thanissaro]].
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

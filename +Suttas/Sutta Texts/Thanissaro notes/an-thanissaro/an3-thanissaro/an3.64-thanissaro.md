@@ -65,7 +65,7 @@ As they were sitting there, the brahman Vaccagotta of Venāgapura said to the Bl
 
 “Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. We go to Master Gotama for refuge, to the Dhamma, and to the Saṅgha of monks. May Master Gotama remember us as lay followers who have gone to him for refuge, from this day forward, for life.”
 
-See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.10-thanissaro]]; [[sn1-11-thanissaro/sn10-thanissaro/sn10.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.60-thanissaro]]; [[ud2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
+See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.10-thanissaro]]; [[sn1-11-thanissaro/sn10-thanissaro/sn10.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.35-thanissaro]]; [[an7.60-thanissaro]]; [[ud2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

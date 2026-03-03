@@ -198,7 +198,7 @@ Note
 
 1. This is apparently a reference to the concept of “savor” _(rasa)_ in Indian aesthetic theory. For more on this topic, see the Introduction to this translation.
 
-See also: [[mn35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.5-thanissaro]]
+See also: [[mn35-thanissaro]]; [[/snp2.5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

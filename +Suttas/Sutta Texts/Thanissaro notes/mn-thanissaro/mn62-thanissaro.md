@@ -91,7 +91,7 @@ That is what the Blessed One said. Gratified, Ven. Rāhula delighted in the Bles
 
 4. In other words, one dies fully alert. [↩︎](#^mn62note04-ref) ^mn62note04
 
-See also: [[mn28-thanissaro]]; [[mn61-thanissaro]]; [[mn118-thanissaro]]; [[mn140-thanissaro]]; [[mn147-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.1-thanissaro]]
+See also: [[mn28-thanissaro]]; [[mn61-thanissaro]]; [[mn118-thanissaro]]; [[mn140-thanissaro]]; [[mn147-thanissaro]]; [[an9.1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

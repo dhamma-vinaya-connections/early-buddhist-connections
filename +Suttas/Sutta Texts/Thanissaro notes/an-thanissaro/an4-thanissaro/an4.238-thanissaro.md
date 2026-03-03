@@ -27,7 +27,7 @@ language: "English"
 
 “These, monks, are the four types of kamma directly known, verified, & made known by me.”
 
-See also: [[mn135-thanissaro]]; [[mn136-thanissaro]]; [[sn42.8-thanissaro]]; [[sn46.51-thanissaro]]; [[sn46.52-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an2/an2.18-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]
+See also: [[mn135-thanissaro]]; [[mn136-thanissaro]]; [[sn42.8-thanissaro]]; [[sn46.51-thanissaro]]; [[sn46.52-thanissaro]]; [[an2.18-thanissaro]]; [[an6.63-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

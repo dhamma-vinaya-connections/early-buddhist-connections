@@ -140,7 +140,7 @@ have said this.
 
 2. Reading _passiṁ taṁ susāna-majjhe_ with the Thai edition. [↩︎](#^thig10note02-ref) ^thig10note02
 
-3. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.15-thanissaro]]. [↩︎](#^thig10note03-ref) ^thig10note03
+3. See [[/snp4.15-thanissaro]]. [↩︎](#^thig10note03-ref) ^thig10note03
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

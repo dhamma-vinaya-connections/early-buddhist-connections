@@ -117,7 +117,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ### Notes
 
-1. As [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.58-thanissaro]] notes, all phenomena _(dhamma)_ are rooted in desire. [↩︎](#^mn109note01-ref) ^mn109note01
+1. As [[an10.58-thanissaro]] notes, all phenomena _(dhamma)_ are rooted in desire. [↩︎](#^mn109note01-ref) ^mn109note01
 
 2. One form of consciousness apparently does not come under the aggregate of consciousness. This is termed _viññāṇaṁ anidassanaṁ_—consciousness without surface, or consciousness without feature. [[mn49-thanissaro]] says specifically that this consciousness is not experienced through the “allness of the all,” the “all” being conterminous with the six sense media and the five aggregates ([[sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]]). [[dn11-thanissaro]] states that in this consciousness name and form—which are also conterminous with the five aggregates—are not found. Because the aggregate of consciousness cannot arise apart from the other aggregates ([[sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]]), _viññāṇaṁ anidassanaṁ_ would not fit under the aggregate of consciousness. [↩︎](#^mn109note02-ref) ^mn109note02
 

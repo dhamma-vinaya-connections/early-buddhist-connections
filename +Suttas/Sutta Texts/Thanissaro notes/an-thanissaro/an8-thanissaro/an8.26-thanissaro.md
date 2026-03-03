@@ -31,7 +31,7 @@ I have heard that on one occasion the Blessed One was staying near Rājagaha in 
 
 “Jīvaka, when a lay follower himself is consummate in conviction and encourages others in the consummation of conviction; when he himself is consummate in virtue and encourages others in the consummation of virtue; when he himself is consummate in generosity and encourages others in the consummation of generosity; when he himself desires to see the monks and encourages others to see the monks; when he himself wants to hear the true Dhamma and encourages others to hear the true Dhamma; when he himself habitually remembers the Dhamma he has heard and encourages others to remember the Dhamma; when he himself explores the meaning of the Dhamma he has heard and encourages others to explore the meaning; when he himself, knowing both the Dhamma & its meaning, practices the Dhamma in line with the Dhamma and encourages others to practice the Dhamma in line with the Dhamma—then to that extent he is a lay follower who practices both for his own benefit and for the benefit of others.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.99-thanissaro]]; [[an5.175-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.54-thanissaro]]
+See also: [[an4.99-thanissaro]]; [[an5.175-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an8-thanissaro/an8.54-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

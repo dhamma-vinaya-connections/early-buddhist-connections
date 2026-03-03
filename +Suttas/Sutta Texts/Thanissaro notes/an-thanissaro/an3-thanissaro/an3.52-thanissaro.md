@@ -41,7 +41,7 @@ when you make merit while still alive:
 
 That will be for your bliss after death.
 
-See also: [[mn82-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.41-thanissaro]]; [[sn3.19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.6-thanissaro]]; ; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti22-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti60-thanissaro]]
+See also: [[mn82-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.41-thanissaro]]; [[sn3.19-thanissaro]]; [[an7.6-thanissaro]]; ; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti22-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti60-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

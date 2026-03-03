@@ -49,7 +49,7 @@ should be cultivated by the intelligent,
 
 remembering the Buddhas’ instruction.
 
-See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.51-thanissaro]]; [[sn3.19-thanissaro]]; [[sn3.25-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.52-thanissaro]]-53; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.62-thanissaro]]; [Khp 6–7](../KN/Khp/khp6.html); [[dhp151-thanissaro]]; [[dhp333-thanissaro]]
+See also: [[sn1-11-thanissaro/sn1-thanissaro/sn1.51-thanissaro]]; [[sn3.19-thanissaro]]; [[sn3.25-thanissaro]]; [[an3.52-thanissaro]]-53; [[an4.62-thanissaro]]; [Khp 6–7](../KN/Khp/khp6.html); [[dhp151-thanissaro]]; [[dhp333-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -41,7 +41,7 @@ Note
 
 1. Reading _kāmarāgāyāti_ with the Thai edition. The other editions read _kāmabhavāyāti,_ “for the sake of sensuality-becoming.” There are similar differences below, with the Thai reading _rūparāgāyāti_ and _arūparāgāyāti_ where the other editions read _rūpabhavāyāti_ and _arūpabhavāyāti._
 
-See also: [[mn48-thanissaro]]; [[mn60-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.7-thanissaro]]; [[an10.13-thanissaro]]
+See also: [[mn48-thanissaro]]; [[mn60-thanissaro]]; [[an4.10-thanissaro]]; [[an6.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an9-thanissaro/an9.7-thanissaro]]; [[an10.13-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -38,7 +38,7 @@ free from hunger
 
 is totally unbound.
 
-See also: [[mn26-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]; [[an4.252-thanissaro]]
+See also: [[mn26-thanissaro]]; [[an3.39-thanissaro]]; [[an4.252-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -132,7 +132,7 @@ I, practicing appropriately,
 	plucked my mind
 out of becoming.
 
-See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.9-thanissaro]]; [[ud3.2-thanissaro]]
+See also: [[sn12-21-thanissaro/sn21-thanissaro/sn21.8-thanissaro]]; [[an8.9-thanissaro]]; [[ud3.2-thanissaro]]
 
 ## Thag2.24  Valliya
 
@@ -372,7 +372,7 @@ from where can there come to me
 
 suffering & stress?
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.55-thanissaro]]; [[ud3.2-thanissaro]]–4](../Ud/ud3_2.html); [[ud4.4-thanissaro]]
+See also: [[an6.55-thanissaro]]; [[ud3.2-thanissaro]]–4](../Ud/ud3_2.html); [[ud4.4-thanissaro]]
 
 ## Thag2.37  Soṇa Poṭiriyaputta
 
@@ -396,7 +396,7 @@ than that I, defeated,
 
 survive.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.2-thanissaro]]
+See also: [[/snp3.2-thanissaro]]
 
 ## Thag2.42  Dhammapāla
 

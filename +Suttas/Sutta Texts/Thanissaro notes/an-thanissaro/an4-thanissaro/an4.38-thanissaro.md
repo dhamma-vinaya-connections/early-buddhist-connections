@@ -63,13 +63,13 @@ detached.
 
 ### Notes
 
-1. _Pacceka_ can also mean “singular” or “personal.” Idiosyncratic truths are the opposite of noble truths, which are universal. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.8-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.12-thanissaro]]. [↩︎](#^[[an4-thanissaro]].38note01-ref) ^[[an4-thanissaro]].38note01
+1. _Pacceka_ can also mean “singular” or “personal.” Idiosyncratic truths are the opposite of noble truths, which are universal. See [[/snp4.8-thanissaro]] and [[/snp4.12-thanissaro]]. [↩︎](#^[[an4-thanissaro]].38note01-ref) ^[[an4-thanissaro]].38note01
 
-2. “Bodily fabrication” _(kāya-saṅkhāra)_ is a technical term for the in-and-out breath. See [[mn44-thanissaro]]. On the stilling of the in-and-out breath as a defining feature of the fourth jhāna, see [[sn36.11-thanissaro]], [[an9.31-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.72-thanissaro]]. The definition of the calming of bodily fabrication given in this sutta helps to explain what is meant by the fourth step in mindfulness of breathing: “He trains himself, ‘I will breathe in calming bodily fabrication.’ He trains himself, ‘I will breathe out calming bodily fabrication.’” See [[mn118-thanissaro]]. [↩︎](#^[[an4-thanissaro]].38note02-ref) ^[[an4-thanissaro]].38note02
+2. “Bodily fabrication” _(kāya-saṅkhāra)_ is a technical term for the in-and-out breath. See [[mn44-thanissaro]]. On the stilling of the in-and-out breath as a defining feature of the fourth jhāna, see [[sn36.11-thanissaro]], [[an9.31-thanissaro]], and [[an10.72-thanissaro]]. The definition of the calming of bodily fabrication given in this sutta helps to explain what is meant by the fourth step in mindfulness of breathing: “He trains himself, ‘I will breathe in calming bodily fabrication.’ He trains himself, ‘I will breathe out calming bodily fabrication.’” See [[mn118-thanissaro]]. [↩︎](#^[[an4-thanissaro]].38note02-ref) ^[[an4-thanissaro]].38note02
 
 3. On these three searches, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti54-thanissaro]]. The Commentary to this sutta says that the search for a holy life is allayed with the path of arahantship, although the search for a holy life in the form of views subsides earlier with the path of stream-entry. [↩︎](#^[[an4-thanissaro]].38note03-ref) ^[[an4-thanissaro]].38note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.20-thanissaro]]
+See also: [[an10.20-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

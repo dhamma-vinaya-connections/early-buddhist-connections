@@ -35,7 +35,7 @@ Note
 
 1. According to the Commentary, hurting oneself and others means exalting oneself and disparaging others.
 
-See also: [[an2.92-thanissaro]]; [[an5.202-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.86-thanissaro]]
+See also: [[an2.92-thanissaro]]; [[an5.202-thanissaro]]; [[an6.86-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

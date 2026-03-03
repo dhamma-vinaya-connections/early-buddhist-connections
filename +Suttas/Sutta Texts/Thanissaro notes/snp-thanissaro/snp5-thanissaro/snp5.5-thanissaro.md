@@ -124,7 +124,7 @@ vv. 1061–1068
 
 ### Notes
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.12-thanissaro]]. [↩︎](#^snp5-5-01-ref) ^snp5-5-01
+1. See [[/snp2.12-thanissaro]]. [↩︎](#^snp5-5-01-ref) ^snp5-5-01
 
 2. Craving for becoming and non-becoming are the two most subtle forms of craving that lead to continued existence—and suffering—in the round of birth and death. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp5-thanissaro/snp5.4-thanissaro]]. [↩︎](#^snp5-5-02-ref) ^snp5-5-02
 

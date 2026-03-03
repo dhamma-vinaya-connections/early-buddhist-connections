@@ -77,7 +77,7 @@ _Yo ubh’ante viditvāna         majjhe mantā na limpati_
 
 _Taṁ brūmi mahāpuriso      so’dha sibbanim-accagāti._
 
-In the Thai edition of [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.2-thanissaro]], however, the verse is slightly different:
+In the Thai edition of [[/snp5.2-thanissaro]], however, the verse is slightly different:
 
 _So ubh’antam-abhiññāya      majjhe mantā na limpati_
 

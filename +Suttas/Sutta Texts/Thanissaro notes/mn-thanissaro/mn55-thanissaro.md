@@ -81,7 +81,7 @@ When this was said, Jīvaka Komārabhacca said to the Blessed One, “It’s ama
 
 Other rules on the consumption of meat can be found at . See also the discussion of staple foods in .
 
-See also: [[dn2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]
+See also: [[dn2-thanissaro]]; [[an4.28-thanissaro]]; [[an4.37-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

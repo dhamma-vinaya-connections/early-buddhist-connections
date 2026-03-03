@@ -73,7 +73,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 3. In other words, whatever the condition of the ground on which one might base a state of becoming—a sense of one’s self or the world one inhabits—by the time that state of becoming has taken shape, the ground has already changed. In this case, if one tries to shape a sense of self around one’s attainment of jhāna, the attainment itself has already changed. [↩︎](#^mn113note03-ref) ^mn113note03
 
-See also: [[mn110-thanissaro]]; [[sn55.5-thanissaro]]; [[an2.31-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.73-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.192-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.148-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.54-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti17-thanissaro]]
+See also: [[mn110-thanissaro]]; [[sn55.5-thanissaro]]; [[an2.31-thanissaro]]; [[an4.73-thanissaro]]; [[an4.192-thanissaro]]; [[an5.148-thanissaro]]; [[an8.54-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti17-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

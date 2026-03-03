@@ -61,7 +61,7 @@ Then LongNails the wanderer—having seen the Dhamma, having attained the Dhamma
 
 5. The Commentary states that after delivering this discourse the Buddha returned to the Bamboo Forest outside of Rājagaha and met with 1,250 arahant disciples to deliver the Ovāda Pāṭimokkha—the event commemorated every year on Māgha Pūjā. [↩︎](#^mn74note05-ref) ^mn74note05
 
-See also: [[mn18-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.68-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.12-thanissaro]]
+See also: [[mn18-thanissaro]]; [[an3.68-thanissaro]]; [[/snp4.3-thanissaro]]; [[/snp4.8-thanissaro]]; [[/snp4.12-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

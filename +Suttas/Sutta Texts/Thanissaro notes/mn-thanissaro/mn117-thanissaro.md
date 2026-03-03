@@ -101,7 +101,7 @@ So there is nothing to indicate that this definition of right concentration refe
 
 3. These various factors are all equivalent to knowledge in terms of the four noble truths. The relationship between these four truths and the issue of skillful and unskillful action is shown in [[sn46.51-thanissaro]], which notes that analysis of qualities as a factor for awakening is fed by paying appropriate attention to qualities as to whether they are skillful or unskillful. See also [[mn9-thanissaro]]. [↩︎](#^mn117note03-ref) ^mn117note03
 
-4. Notice that mindfulness plays an active role here and with all the path factors. It is not simply a receptive acceptance of wrong and right views. Instead—in its canonical sense of keeping something in mind—it keeps remembering to abandon the factors of the wrong path, and to enter and remain in the factors of the right path. For more on the active role of mindfulness in the practice of abandoning unskillful qualities and developing skillful ones, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.245-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.63-thanissaro]]. [↩︎](#^mn117note04-ref) ^mn117note04
+4. Notice that mindfulness plays an active role here and with all the path factors. It is not simply a receptive acceptance of wrong and right views. Instead—in its canonical sense of keeping something in mind—it keeps remembering to abandon the factors of the wrong path, and to enter and remain in the factors of the right path. For more on the active role of mindfulness in the practice of abandoning unskillful qualities and developing skillful ones, see [[an4.245-thanissaro]] and [[an7.63-thanissaro]]. [↩︎](#^mn117note04-ref) ^mn117note04
 
 5. According to [[mn44-thanissaro]], verbal fabrications are directed thought and evaluation. The definition of noble right resolve here appears to refer to the resolves present in the first jhāna (see [[mn78-thanissaro]]), thus connecting noble right resolve with right concentration. [↩︎](#^mn117note05-ref) ^mn117note05
 
@@ -111,7 +111,7 @@ So there is nothing to indicate that this definition of right concentration refe
 
 8. [[sn48.46-thanissaro]] equates noble release with the faculty of concentration (see also [[sn48.10-thanissaro]]). [↩︎](#^mn117note08-ref) ^mn117note08
 
-See also: [[sn12-21-thanissaro/sn12-thanissaro/sn12.15-thanissaro]]; [[sn45.1-thanissaro]]; [[sn45.8-thanissaro]]; [[sn48.46-thanissaro]]; [[an5.25-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]
+See also: [[sn12-21-thanissaro/sn12-thanissaro/sn12.15-thanissaro]]; [[sn45.1-thanissaro]]; [[sn45.8-thanissaro]]; [[sn48.46-thanissaro]]; [[an5.25-thanissaro]]; [[an5.28-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

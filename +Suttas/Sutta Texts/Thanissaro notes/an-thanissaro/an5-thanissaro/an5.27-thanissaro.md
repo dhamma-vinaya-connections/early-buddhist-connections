@@ -29,7 +29,7 @@ language: "English"
 
 “Mindful & astute, you should develop immeasurable concentration. When, mindful & astute, one has developed immeasurable concentration, these five realizations arise right within oneself.”
 
-See also: [[sn41.7-thanissaro]]; [[sn42.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.66-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.70-thanissaro]]; [[an11.16-thanissaro]]; ; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti22-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
+See also: [[sn41.7-thanissaro]]; [[sn42.8-thanissaro]]; [[an3.66-thanissaro]]; [[an6.13-thanissaro]]; [[an8.70-thanissaro]]; [[an11.16-thanissaro]]; ; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti22-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

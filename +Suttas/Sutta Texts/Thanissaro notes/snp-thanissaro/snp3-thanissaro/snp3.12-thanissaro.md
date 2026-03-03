@@ -656,7 +656,7 @@ vv. 724–765
 
 1. See [[snp56.22-thanissaro]]. [↩︎](#^snp3-12-01-ref) ^snp3-12-01
 
-2. The term ‘acquisition’ _(upadhi),_ in its everyday sense, denotes the possessions, baggage, and other paraphernalia that a nomadic family might carry around with it in its wanderings. On the psychological level, it denotes anything for which one might have a sense of ‘I’ or ‘mine’ and which, consequently, one would carry around as a kind of mental baggage. The verse following this prose passage is identical with the Buddha’s first answer to Mettagū in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.4-thanissaro]]. [↩︎](#^snp3-12-02-ref) ^snp3-12-02
+2. The term ‘acquisition’ _(upadhi),_ in its everyday sense, denotes the possessions, baggage, and other paraphernalia that a nomadic family might carry around with it in its wanderings. On the psychological level, it denotes anything for which one might have a sense of ‘I’ or ‘mine’ and which, consequently, one would carry around as a kind of mental baggage. The verse following this prose passage is identical with the Buddha’s first answer to Mettagū in [[/snp5.4-thanissaro]]. [↩︎](#^snp3-12-02-ref) ^snp3-12-02
 
 3. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti15-thanissaro]]. [↩︎](#^snp3-12-03-ref) ^snp3-12-03
 
@@ -678,7 +678,7 @@ vv. 724–765
 
 12. On Māra’s sway, see [[sn4.19-thanissaro]], [[sn35-44-thanissaro/sn35-thanissaro/sn35.115-thanissaro]], [[sn35-44-thanissaro/sn35-thanissaro/sn35.189-thanissaro]], and [[sn35-44-thanissaro/sn35-thanissaro/sn35.199-thanissaro]]. [↩︎](#^snp3-12-12-ref) ^snp3-12-12
 
-See also: [[dn15-thanissaro]]; [[mn9-thanissaro]]; [[mn140-thanissaro]]; [[snp12.1-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.15-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.94-thanissaro]]; [[sn35.93-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti103-thanissaro]]
+See also: [[dn15-thanissaro]]; [[mn9-thanissaro]]; [[mn140-thanissaro]]; [[snp12.1-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.15-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.94-thanissaro]]; [[sn35.93-thanissaro]]; [[an4.5-thanissaro]]; [[an4.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti103-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

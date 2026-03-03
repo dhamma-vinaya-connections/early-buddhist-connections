@@ -39,7 +39,7 @@ Then a certain monk went to the Blessed One and, on arrival, having bowed down t
 
 Then that monk, having been admonished by the admonishment from the Blessed One, got up from his seat and bowed down to the Blessed One, circled around him, keeping the Blessed One to his right side, and left. Then, dwelling alone, secluded, heedful, ardent, & resolute, he in no long time entered & remained in the supreme goal of the holy life for which clansmen rightly go forth from home into homelessness, directly knowing & realizing it for himself in the here & now. He knew: “Birth is ended, the holy life fulfilled, the task done. There is nothing further for the sake of this world.” And thus he became another one of the arahants.
 
-See also: [[mn44-thanissaro]]; [[mn119-thanissaro]]; [[sn47.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.41-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.35-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.71-thanissaro]]
+See also: [[mn44-thanissaro]]; [[mn119-thanissaro]]; [[sn47.8-thanissaro]]; [[an4.41-thanissaro]]; [[an5.27-thanissaro]]; [[an9.35-thanissaro]]; [[an10.71-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

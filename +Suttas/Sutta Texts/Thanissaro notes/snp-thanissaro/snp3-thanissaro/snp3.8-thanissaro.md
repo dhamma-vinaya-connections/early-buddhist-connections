@@ -282,7 +282,7 @@ Seeking your own happiness,
 
 you should pull out your own arrow.
 
-See also: [[mn82-thanissaro]]; [[mn87-thanissaro]]; [[sn12-21-thanissaro/sn21-thanissaro/sn21.2-thanissaro]]; [[sn36.6-thanissaro]]; [[sn47.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.49-thanissaro]]; [[ud8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]
+See also: [[mn82-thanissaro]]; [[mn87-thanissaro]]; [[sn12-21-thanissaro/sn21-thanissaro/sn21.2-thanissaro]]; [[sn36.6-thanissaro]]; [[sn47.13-thanissaro]]; [[an5.49-thanissaro]]; [[ud8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

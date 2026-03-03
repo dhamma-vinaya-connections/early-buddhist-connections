@@ -51,7 +51,7 @@ I have heard that on one occasion the Blessed One was staying near Vesālī in t
 
 “So it is, Sīha. So it is. With the breakup of the body, after death, one who gives, a master of giving, reappears in a good destination, a heavenly world.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.34-thanissaro]]
+See also: [[an5.34-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

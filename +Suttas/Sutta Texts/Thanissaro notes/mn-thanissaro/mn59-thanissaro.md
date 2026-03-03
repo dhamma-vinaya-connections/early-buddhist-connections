@@ -97,9 +97,9 @@ The two types of feelings described in [[sn36.22-thanissaro]] do not correspond 
 
 6. “Multiplicity” is a translation of the Pali term, _nānattā._ [[mn137-thanissaro]] identifies multiplicity as the input of the five physical senses. See the essay, “Silence Isn’t Mandatory.” [↩︎](#^mn59note06-ref) ^mn59note06
 
-7. Notice that this description of the cessation of perception & feeling lacks the statement often added in some passages where this attainment is described (as in [[mn26-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.38-thanissaro]]): “and, as he sees (that) with discernment, his effluents are completely ended.” This suggests that the arising of discernment may not be an automatic feature of this attainment. [↩︎](#^mn59note07-ref) ^mn59note07
+7. Notice that this description of the cessation of perception & feeling lacks the statement often added in some passages where this attainment is described (as in [[mn26-thanissaro]] and [[an9.38-thanissaro]]): “and, as he sees (that) with discernment, his effluents are completely ended.” This suggests that the arising of discernment may not be an automatic feature of this attainment. [↩︎](#^mn59note07-ref) ^mn59note07
 
-See also: [[dn2-thanissaro]]; [[dn9-thanissaro]]; [[mn14-thanissaro]]; [[mn140-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.33-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.34-thanissaro]]; [[dhp202-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag9-thanissaro]]
+See also: [[dn2-thanissaro]]; [[dn9-thanissaro]]; [[mn14-thanissaro]]; [[mn140-thanissaro]]; [[an9.33-thanissaro]]; [[an9.34-thanissaro]]; [[dhp202-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag9-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

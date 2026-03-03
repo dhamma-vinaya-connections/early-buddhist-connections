@@ -67,7 +67,7 @@ Undertaking right view,
 
 they transcend all stress & suffering.
 
-See also: [[sn4.19-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.59-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.101-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.179-thanissaro]]; [[ud3.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.11-thanissaro]]
+See also: [[sn4.19-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.59-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.101-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.179-thanissaro]]; [[ud3.10-thanissaro]]; [[/snp1.11-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

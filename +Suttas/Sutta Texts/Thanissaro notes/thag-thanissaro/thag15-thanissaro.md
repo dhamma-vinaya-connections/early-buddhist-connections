@@ -12,7 +12,7 @@ language: "English"
 
 ## Thag15.2  Udāyin
 
-_In [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]], Ven. Udāyin recites these verses spontaneously in the Buddha’s presence after the king’s elephant (nāga) has passed by, and the Buddha defines the foremost nāga in these terms: “But, Udāyin, whoever in this world—with its devas, Māras, & Brahmās, its people with their contemplatives & brahmans, their royalty & commonfolk—does no misdeed in body, speech, or mind: That’s whom I call a nāga.” The Buddha’s definition hints at a play on words: “Does no misdeed,” in Pali, is_ āguṁ na karoti, _which could be rephrased as_ na āguṁ karoti, _yielding a play on the word_ nāga. _In these verses, Ven. Udāyin shows that he has picked up on the hint by rephrasing it in precisely that way._
+_In [[an6.43-thanissaro]], Ven. Udāyin recites these verses spontaneously in the Buddha’s presence after the king’s elephant (nāga) has passed by, and the Buddha defines the foremost nāga in these terms: “But, Udāyin, whoever in this world—with its devas, Māras, & Brahmās, its people with their contemplatives & brahmans, their royalty & commonfolk—does no misdeed in body, speech, or mind: That’s whom I call a nāga.” The Buddha’s definition hints at a play on words: “Does no misdeed,” in Pali, is_ āguṁ na karoti, _which could be rephrased as_ na āguṁ karoti, _yielding a play on the word_ nāga. _In these verses, Ven. Udāyin shows that he has picked up on the hint by rephrasing it in precisely that way._
 
 A human being, self-awakened,
 
@@ -164,7 +164,7 @@ totally unbind.
 
 [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti44-thanissaro]] describes the property of sa-upādisesa-nibbāna as follows: “His [the arahant’s] five sense faculties still remain and, owing to their being intact, he experiences the pleasing & the displeasing, and is sensitive to pleasure & pain. His ending of passion, aversion, & delusion is termed the unbinding property with fuel remaining.” Its description of the property of anupādisesa-nibbāna is: “For him, all that is sensed, being unrelished, will grow cold right here. This is termed the unbinding property with no fuel remaining.” For further discussion of this distinction, see The Mind Like Fire Unbound, chapter 1.
 
-See also: [[mn1-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.7-thanissaro]]; [[an9.62-thanissaro]]; [[an10.81-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti44-thanissaro]]
+See also: [[mn1-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.51-thanissaro]]; [[an6.43-thanissaro]]; [[an9.7-thanissaro]]; [[an9.62-thanissaro]]; [[an10.81-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti44-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

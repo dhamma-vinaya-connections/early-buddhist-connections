@@ -75,7 +75,7 @@ Then the Blessed One addressed Ven. Ānanda, “I knew, Ānanda, that this worth
 
 3. The fourth jhāna is mentioned separately from the first three jhānas here for at least two reasons. One is that it is an equanimous state, rather than a pleasant abiding, inasmuch both pleasure and pain are abandoned on entering it. Two, it is frequently mentioned as the basis for developing all of the direct knowledges—this is apparently what is meant by “the penetration of many properties” _(aneka-dhātu-paṭivedha)_—whereas the first three jhānas are not. See [[dn2-thanissaro]]. [↩︎](#^[[an6-thanissaro]].29note03-ref) ^[[an6-thanissaro]].29note03
 
-See also: [[dn22-thanissaro]]; [[mn125-thanissaro]]; [[mn136-thanissaro]]; [[sn51.20-thanissaro]]; [[sn54.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.70-thanissaro]]
+See also: [[dn22-thanissaro]]; [[mn125-thanissaro]]; [[mn136-thanissaro]]; [[sn51.20-thanissaro]]; [[sn54.13-thanissaro]]; [[an8.70-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

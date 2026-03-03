@@ -32,7 +32,7 @@ you’re called enlightened,
 
 wise.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.113-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.19-thanissaro]][[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.15-thanissaro]]; [Dhp 21–32](../Dhp/Ch02.html#dhp021)
+See also: [[an4.113-thanissaro]]; [[an6.19-thanissaro]][[an10.15-thanissaro]]; [Dhp 21–32](../Dhp/Ch02.html#dhp021)
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

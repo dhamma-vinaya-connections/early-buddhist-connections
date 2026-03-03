@@ -105,13 +105,13 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 ### Notes
 
-1. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.2-thanissaro]] lists Māra’s followers as sensual passions, discontent, hunger & thirst, craving, sloth & torpor, cowardice, uncertainty, dismissiveness & stubbornness; gains, offering, fame, and status wrong gained; and self-praise coupled with disparagement of others. [↩︎](#^mn25note01-ref) ^mn25note01
+1. [[/snp3.2-thanissaro]] lists Māra’s followers as sensual passions, discontent, hunger & thirst, craving, sloth & torpor, cowardice, uncertainty, dismissiveness & stubbornness; gains, offering, fame, and status wrong gained; and self-praise coupled with disparagement of others. [↩︎](#^mn25note01-ref) ^mn25note01
 
-2. According to the Commentary, “awareness-release” _(ceto-vimutti)_ here means their intention to stay in the wilderness, but it could also mean any concentration attainment based on the four sublime abidings _(brahmavihāra)._ See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.13-thanissaro]]. [↩︎](#^mn25note02-ref) ^mn25note02
+2. According to the Commentary, “awareness-release” _(ceto-vimutti)_ here means their intention to stay in the wilderness, but it could also mean any concentration attainment based on the four sublime abidings _(brahmavihāra)._ See [[an6.13-thanissaro]]. [↩︎](#^mn25note02-ref) ^mn25note02
 
 3. This passage means that the monk has temporarily escaped from Māra through the power of his concentration by going beyond the five strings of sensuality. See .” [↩︎](#^mn25note03-ref) ^mn25note03
 
-4. The fact that this last monk’s effluents are ended through an act of discernment is what has put him totally beyond Māra’s reach. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]], however, shows that this act of discernment can occur based on any of the nine concentration attainments, and not just the last one. [↩︎](#^mn25note04-ref) ^mn25note04
+4. The fact that this last monk’s effluents are ended through an act of discernment is what has put him totally beyond Māra’s reach. [[an9.36-thanissaro]], however, shows that this act of discernment can occur based on any of the nine concentration attainments, and not just the last one. [↩︎](#^mn25note04-ref) ^mn25note04
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -75,7 +75,7 @@ are sages
 
 indeed.”
 
-See also: [[mn13-thanissaro]]; [[mn54-thanissaro]]; [[mn60-thanissaro]]; [[mn72-thanissaro]]; [[mn75-thanissaro]]; [[sn45.171-thanissaro]]; [[an1.329-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.93-thanissaro]]
+See also: [[mn13-thanissaro]]; [[mn54-thanissaro]]; [[mn60-thanissaro]]; [[mn72-thanissaro]]; [[mn75-thanissaro]]; [[sn45.171-thanissaro]]; [[an1.329-thanissaro]]; [[an3.77-thanissaro]]; [[an6.63-thanissaro]]; [[an10.93-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

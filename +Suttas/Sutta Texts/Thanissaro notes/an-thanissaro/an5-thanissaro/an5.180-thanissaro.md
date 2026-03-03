@@ -45,7 +45,7 @@ Then the thought occurred to Ven. Ānanda, “What is the cause, what is the rea
 
 “So, Ānanda, you should train yourselves: ‘Striving at what is more & more excellent, more & more refined, we will realize unexcelled release.’ That’s how you should train yourselves.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an2/an2.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.178-thanissaro]]
+See also: [[an2.5-thanissaro]]; [[an4.178-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

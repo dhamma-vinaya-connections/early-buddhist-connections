@@ -27,7 +27,7 @@ The Blessed One said, “And which, monks, is the person of no integrity? There 
 
 “And which is the person of more integrity than the person of integrity? There is the case where a certain individual himself abstains from taking life and he encourages another in undertaking abstinence from taking life. He himself abstains from taking what is not given and he encourages another in undertaking abstinence from taking what is not given. He himself abstains from sexual misconduct and he encourages another in undertaking abstinence from sexual misconduct. He himself abstains from telling lies and he encourages another in undertaking abstinence from telling lies. He himself abstains from taking distilled & fermented drinks that cause heedlessness and he encourages another in undertaking abstinence from taking distilled & fermented drinks that cause heedlessness. This is called a person of more integrity than the person of integrity.”
 
-See also: [[mn110-thanissaro]]; [[an4.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.99-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.26-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.14-thanissaro]]
+See also: [[mn110-thanissaro]]; [[an4.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.99-thanissaro]]; [[an8.26-thanissaro]]; [[/snp2.14-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

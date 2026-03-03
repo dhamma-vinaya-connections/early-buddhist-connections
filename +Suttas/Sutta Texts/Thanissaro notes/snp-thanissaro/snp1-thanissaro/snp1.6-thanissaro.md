@@ -286,7 +286,7 @@ vv. 91–115
 
 2. Reading _padussati_ and _dussati_ with the Thai edition. The PTS and Sri Lankan editions read _padissati/dissati,_ “he is seen.” [↩︎](#^snp1-6-02-ref) ^snp1-6-02
 
-See also: [[an5.129-thanissaro]]; [[an5.175-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.54-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.165-thanissaro]]
+See also: [[an5.129-thanissaro]]; [[an5.175-thanissaro]]; [[an8.54-thanissaro]]; [[an10.165-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

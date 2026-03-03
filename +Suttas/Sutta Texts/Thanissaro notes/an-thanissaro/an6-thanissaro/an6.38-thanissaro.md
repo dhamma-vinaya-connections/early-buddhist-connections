@@ -83,7 +83,7 @@ Then a certain brahman went to the Blessed One and, on arrival, exchanged courte
 
 “Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has gone for refuge from this day forward, for life.”
 
-See also: [[dn2-thanissaro]]; [[mn135-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.17-thanissaro]]; [[sn42.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.62-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.101-thanissaro]]; [[ud6.5-thanissaro]]
+See also: [[dn2-thanissaro]]; [[mn135-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.17-thanissaro]]; [[sn42.8-thanissaro]]; [[an3.62-thanissaro]]; [[an3.101-thanissaro]]; [[ud6.5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

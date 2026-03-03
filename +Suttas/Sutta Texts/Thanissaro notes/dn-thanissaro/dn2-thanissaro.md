@@ -466,11 +466,11 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 2. _Mahaggataṁ._ This term is used, together with “immeasurable / unlimited,” in the standard description of the awareness generated in the practice of the _brahmavihāras_ ([[sn42.8-thanissaro]]). According to Ven. Anuruddha in MN 127, however, an enlarged mind is not immeasurable. Its range of awareness is larger than the body but still measurable, ranging in distance from the shade of a tree to the earth bounded by the ocean. [↩︎](#^dn2note02-ref) ^dn2note02
 
-3. On the various levels of release, see [[dn15-thanissaro]], [[mn43-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.43-thanissaro]]. [↩︎](#^dn2note03-ref) ^dn2note03
+3. On the various levels of release, see [[dn15-thanissaro]], [[mn43-thanissaro]], and [[an9.43-thanissaro]]. [↩︎](#^dn2note03-ref) ^dn2note03
 
-4. _Āsavas:_ three qualities—sensuality, becoming, and ignorance—that “flow out” of the mind and defile it. Sometimes a fourth quality—views—is added to the list, to connect these qualities with the four floods _(ogha),_ which are identical to the four yokes. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.10-thanissaro]]. [↩︎](#^dn2note04-ref) ^dn2note04
+4. _Āsavas:_ three qualities—sensuality, becoming, and ignorance—that “flow out” of the mind and defile it. Sometimes a fourth quality—views—is added to the list, to connect these qualities with the four floods _(ogha),_ which are identical to the four yokes. See [[an4.10-thanissaro]]. [↩︎](#^dn2note04-ref) ^dn2note04
 
-See also: [[dn16-thanissaro]]; [[sn46.51-thanissaro]]; [[sn56.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.86-thanissaro]]
+See also: [[dn16-thanissaro]]; [[sn46.51-thanissaro]]; [[sn56.11-thanissaro]]; [[an6.86-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

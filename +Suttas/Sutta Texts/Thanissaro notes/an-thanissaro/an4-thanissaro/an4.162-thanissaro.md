@@ -29,7 +29,7 @@ language: "English"
 
 Note
 
-1. According to the Commentary, this means the concentration forming the path. This is apparently a reference to this passage in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.1-thanissaro]]:
+1. According to the Commentary, this means the concentration forming the path. This is apparently a reference to this passage in [[/snp2.1-thanissaro]]:
 
 What the excellent Awakened One extolled as pure
 

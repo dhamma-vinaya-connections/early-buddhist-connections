@@ -119,7 +119,7 @@ with regard to all things.
 
 2. Such _(tādin):_ An adjective applied to the mind of one who has attained the goal. It indicates that the mind “is what it is”—indescribable but not subject to change or alteration. [↩︎](#^[[an3-thanissaro]].40note02-ref) ^[[an3-thanissaro]].40note02
 
-See also: [[mn24-thanissaro]]; [[sn51.15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.159-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.245-thanissaro]]
+See also: [[mn24-thanissaro]]; [[sn51.15-thanissaro]]; [[an4.159-thanissaro]]; [[an4.245-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

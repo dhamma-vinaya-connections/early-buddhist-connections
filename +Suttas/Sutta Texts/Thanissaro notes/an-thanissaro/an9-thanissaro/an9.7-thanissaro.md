@@ -25,7 +25,7 @@ I have heard that on one occasion the Blessed One was staying near Rājagaha on 
 
 “Both before and now I say to you that an arahant monk whose effluents are ended, who has reached fulfillment, done the task, laid down the burden, attained the true goal, totally destroyed the fetter of becoming, and who is released through right gnosis, cannot possibly transgress these nine principles.”
 
-See also: [[mn1-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.6-thanissaro]]; [[an9.62-thanissaro]]; [[an10.13-thanissaro]]; [[an10.81-thanissaro]]
+See also: [[mn1-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.122-thanissaro]]; [[an4.19-thanissaro]]; [[an6.13-thanissaro]]; [[an6.43-thanissaro]]; [[an8.6-thanissaro]]; [[an9.62-thanissaro]]; [[an10.13-thanissaro]]; [[an10.81-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

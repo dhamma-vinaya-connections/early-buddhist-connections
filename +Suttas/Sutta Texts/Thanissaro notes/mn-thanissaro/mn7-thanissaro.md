@@ -131,13 +131,13 @@ Then Sundarika Bhāradvāja the brahman received the Going-forth in the Blessed 
 
 ### Notes
 
-1. The Commentary notes that competitiveness can be skillful if one is trying to excel in developing skillful qualities. See also the discussion of conceit at [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.159-thanissaro]]. [↩︎](#^mn7note01-ref) ^mn7note01
+1. The Commentary notes that competitiveness can be skillful if one is trying to excel in developing skillful qualities. See also the discussion of conceit at [[an4.159-thanissaro]]. [↩︎](#^mn7note01-ref) ^mn7note01
 
 2. _Odhi_, “within a limit.” According to the Commentary, this describes the attainment of one of any of the three lower levels of awakening. These defilements are abandoned totally only at arahantship. [↩︎](#^mn7note02-ref) ^mn7note02
 
 3. _Saññāgata._ See [[mn121-thanissaro]]. [↩︎](#^mn7note03-ref) ^mn7note03
 
-See also: [[sn55.40-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.26-thanissaro]]; [[dhp85-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig12-thanissaro]]
+See also: [[sn55.40-thanissaro]]; [[an5.26-thanissaro]]; [[dhp85-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig12-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

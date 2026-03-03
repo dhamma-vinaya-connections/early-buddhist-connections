@@ -67,7 +67,7 @@ When this was said, Ven. Mahā Moggallāna said to Ven. Sāriputta, “Sāriputt
 
 5. This covers all of the transcendent attainments. [↩︎](#^mn69note05-ref) ^mn69note05
 
-See also: [[mn4-thanissaro]]; [[mn5-thanissaro]]; [[mn113-thanissaro]]; [[mn121-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.48-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.99-thanissaro]]; [[ud4.2-thanissaro]]
+See also: [[mn4-thanissaro]]; [[mn5-thanissaro]]; [[mn113-thanissaro]]; [[mn121-thanissaro]]; [[an4.37-thanissaro]]; [[an10.48-thanissaro]]; [[an10.99-thanissaro]]; [[ud4.2-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

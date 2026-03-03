@@ -85,7 +85,7 @@ Then Ven. Sāriputta—having instructed, urged, roused, & encouraged the female
 
 The fact that Nandamātār has abandoned these five fetters means that she is a non-returner.
 
-See also: [[sn41.7-thanissaro]]; [[sn41.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.37-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.23-thanissaro]]
+See also: [[sn41.7-thanissaro]]; [[sn41.10-thanissaro]]; [[an6.37-thanissaro]]; [[an8.23-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

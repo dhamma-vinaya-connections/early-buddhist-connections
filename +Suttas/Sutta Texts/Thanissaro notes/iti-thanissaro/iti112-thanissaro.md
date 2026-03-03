@@ -120,7 +120,7 @@ _This, too, was the meaning of what was said by the Blessed One, so I have heard
 
 This itivuttaka is identical with [[an4.23-thanissaro]].
 
-See also: [[mn72-thanissaro]]; [[mn140-thanissaro]]; [[mn146-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.24-thanissaro]]; [[an10.81-thanissaro]]; [§63](iti63.html); [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.6-thanissaro]]
+See also: [[mn72-thanissaro]]; [[mn140-thanissaro]]; [[mn146-thanissaro]]; [[an4.24-thanissaro]]; [[an10.81-thanissaro]]; [§63](iti63.html); [[/snp5.6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

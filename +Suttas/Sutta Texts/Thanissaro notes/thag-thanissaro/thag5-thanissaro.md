@@ -118,7 +118,7 @@ Note
 
 1. Reading _guttena_ with the Thai edition. Other editions have _tuṭṭhena,_ “contented.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.86-thanissaro]]
+See also: [[an6.86-thanissaro]]
 
 ## Thag5.8  Vakkali
 
@@ -168,9 +168,9 @@ in the grove.
 
 Note
 
-1. On the four establishings of mindfulness, see [[dn22-thanissaro]] and [[sn47.40-thanissaro]]; on the five strengths, [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.2-thanissaro]]; on the five faculties, [[sn48.10-thanissaro]]; and on the seven factors for awakening, [[sn46.51-thanissaro]].
+1. On the four establishings of mindfulness, see [[dn22-thanissaro]] and [[sn47.40-thanissaro]]; on the five strengths, [[an5.2-thanissaro]]; on the five faculties, [[sn48.10-thanissaro]]; and on the seven factors for awakening, [[sn46.51-thanissaro]].
 
-See also: [[dn26-thanissaro]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[sn46.14-thanissaro]]; [[sn52.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.16-thanissaro]]
+See also: [[dn26-thanissaro]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[sn46.14-thanissaro]]; [[sn52.10-thanissaro]]; [[/snp4.16-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

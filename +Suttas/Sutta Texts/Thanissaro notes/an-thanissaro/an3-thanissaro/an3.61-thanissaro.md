@@ -81,11 +81,11 @@ So the Blessed One said to the brahman Saṅgārava, “Brahman, what was the to
 
 ### Notes
 
-1. The Commentary divides this phrase into two: the “unexcelled” refers to nibbāna; the footing _(ogādha)_ in the holy life refers to the path of arahantship. The analogy here is that of crossing a stream: as one approaches the far shore, one reaches a point where one can touch bottom and gain a footing; even though one is not yet on the shore, one is safe from being swept away. Throughout the Canon, however, the word _ogādha_—“gaining a footing,” “coming ashore”—is frequently used in connection with unbinding and the deathless. See in particular [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.15-thanissaro]]. [↩︎](#^[[an3-thanissaro]].61note01-ref) ^[[an3-thanissaro]].61note01
+1. The Commentary divides this phrase into two: the “unexcelled” refers to nibbāna; the footing _(ogādha)_ in the holy life refers to the path of arahantship. The analogy here is that of crossing a stream: as one approaches the far shore, one reaches a point where one can touch bottom and gain a footing; even though one is not yet on the shore, one is safe from being swept away. Throughout the Canon, however, the word _ogādha_—“gaining a footing,” “coming ashore”—is frequently used in connection with unbinding and the deathless. See in particular [[an7.15-thanissaro]]. [↩︎](#^[[an3-thanissaro]].61note01-ref) ^[[an3-thanissaro]].61note01
 
 2. _Tathattā_ literally means “thus-ness.” On the thus-ness of the Tathāgata, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti112-thanissaro]]. [↩︎](#^[[an3-thanissaro]].61note02-ref) ^[[an3-thanissaro]].61note02
 
-See also: [[dn2-thanissaro]]; [[dn11-thanissaro]]; [[sn41.4-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.35-thanissaro]]; [[an4.95-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.99-thanissaro]]
+See also: [[dn2-thanissaro]]; [[dn11-thanissaro]]; [[sn41.4-thanissaro]]; [[an4.35-thanissaro]]; [[an4.95-thanissaro]]; [[an4.99-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

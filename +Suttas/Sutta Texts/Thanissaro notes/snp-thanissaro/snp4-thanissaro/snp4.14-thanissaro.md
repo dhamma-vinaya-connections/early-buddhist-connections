@@ -238,7 +238,7 @@ vv. 915–934
 
 3. _Āthabbaṇa._ Some scholars have identified this term with the Atharvaveda, but the identification is uncertain. It could also be a generic term for casting spells and curses of any sort. Nd I interprets this term simply as referring to spells for bringing about calamities and diseases for one’s enemies. [↩︎](#^snp4-14-03-ref) ^snp4-14-03
 
-4. The Chinese version of the Aṭṭhaka Vagga adds, at the end of this sutta, the verses in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.9-thanissaro]]. [↩︎](#^snp4-14-04-ref) ^snp4-14-04
+4. The Chinese version of the Aṭṭhaka Vagga adds, at the end of this sutta, the verses in [[/snp1.9-thanissaro]]. [↩︎](#^snp4-14-04-ref) ^snp4-14-04
 
 See also: [[dn2-thanissaro]]
 

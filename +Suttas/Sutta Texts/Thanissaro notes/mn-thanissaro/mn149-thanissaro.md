@@ -81,7 +81,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 2. The duties outlined in this section parallel the duties appropriate to the four noble truths, as outlined in the “wheel” of the Buddha’s first sermon. See [[sn56.11-thanissaro]]. [↩︎](#^mn149note02-ref) ^mn149note02
 
-See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.23-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.204-thanissaro]]; [[sn38.14-thanissaro]]; [[an2.29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.41-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.94-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.170-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.23-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.204-thanissaro]]; [[sn38.14-thanissaro]]; [[an2.29-thanissaro]]; [[an4.41-thanissaro]]; [[an4.94-thanissaro]]; [[an4.170-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

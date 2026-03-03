@@ -67,7 +67,7 @@ pacified, they sleep in ease.
 
 No flies settle on them.”
 
-See also: [[sn9.1-thanissaro]]; [[sn9.11-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.15-thanissaro]]; [[ud5.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.7-thanissaro]]
+See also: [[sn9.1-thanissaro]]; [[sn9.11-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.202-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.15-thanissaro]]; [[ud5.5-thanissaro]]; [[/snp4.7-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -69,7 +69,7 @@ The Blessed One said, “And what, monks, are the nine step-by-step dwelling-att
 
 4. Notice that this description of the cessation of perception & feeling lacks the statement often added in passages where this attainment is described: “and, as he sees (that) with discernment, his effluents are completely ended.” [↩︎](#^[[an9-thanissaro]].33note04-ref) ^[[an9-thanissaro]].33note04
 
-See also: [[mn79-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.166-thanissaro]]
+See also: [[mn79-thanissaro]]; [[an5.166-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

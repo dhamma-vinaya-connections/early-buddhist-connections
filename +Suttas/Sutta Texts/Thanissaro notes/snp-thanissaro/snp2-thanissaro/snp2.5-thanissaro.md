@@ -94,7 +94,7 @@ vv. 270–273
 
 ### Notes
 
-1. According to SnA, “this” is one’s own self-state _(attabhāva),_ left unidentified in the verse. However, it seems more likely that “this” refers to the affection born, in turn, from one’s own mind/self (see note 2) as mentioned after the simile of the boys with the captive crow. See [[dn21-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.11-thanissaro]], and the introduction to [[mn18-thanissaro]]. [↩︎](#^snp2-5-01-ref) ^snp2-5-01
+1. According to SnA, “this” is one’s own self-state _(attabhāva),_ left unidentified in the verse. However, it seems more likely that “this” refers to the affection born, in turn, from one’s own mind/self (see note 2) as mentioned after the simile of the boys with the captive crow. See [[dn21-thanissaro]], [[/snp4.11-thanissaro]], and the introduction to [[mn18-thanissaro]]. [↩︎](#^snp2-5-01-ref) ^snp2-5-01
 
 2. “The mind, oneself”: Two meanings of the word, _attan._ [↩︎](#^snp2-5-02-ref) ^snp2-5-02
 

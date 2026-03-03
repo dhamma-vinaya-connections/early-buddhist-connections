@@ -75,7 +75,7 @@ I have heard that on one occasion the Blessed One was staying near Sāvatthī in
 
 “How truly future generations have been shown sympathy by Master Gotama, as by one who is worthy & rightly self-awakened! Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, and to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has gone to him for refuge, from this day forward, for life.”
 
-See also: [[mn36-thanissaro]]; [[sn5-thanissaro]] done/[[sn5-thanissaro]].1]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.184-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig14-thanissaro]]
+See also: [[mn36-thanissaro]]; [[sn5-thanissaro]] done/[[sn5-thanissaro]].1]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[an4.184-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag16-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig14-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

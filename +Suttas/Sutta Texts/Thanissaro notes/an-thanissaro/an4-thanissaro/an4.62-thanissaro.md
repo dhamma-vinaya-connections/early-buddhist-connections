@@ -41,7 +41,7 @@ That side isn’t worth one sixteenth
 
 of the bliss of blamelessness.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.41-thanissaro]]; [[an5.130-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.45-thanissaro]]
+See also: [[an5.41-thanissaro]]; [[an5.130-thanissaro]]; [[an6.45-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

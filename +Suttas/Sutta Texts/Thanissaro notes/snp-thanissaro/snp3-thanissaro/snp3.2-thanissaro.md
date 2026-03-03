@@ -296,7 +296,7 @@ vv. 425–449
 
 4. This line is repeated in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag2-thanissaro]]. [↩︎](#^snp3-2-04-ref) ^snp3-2-04
 
-See also: [[mn70-thanissaro]]; SN 4; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an2/an2.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.53-thanissaro]]
+See also: [[mn70-thanissaro]]; SN 4; [[an2.5-thanissaro]]; [[an5.53-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

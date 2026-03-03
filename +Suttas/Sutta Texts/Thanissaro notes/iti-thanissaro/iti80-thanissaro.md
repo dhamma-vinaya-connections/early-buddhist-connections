@@ -46,7 +46,7 @@ self-awakening.
 
 ### Notes
 
-1. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.102-thanissaro]]. [↩︎](#^iti80note01-ref) ^iti80note01
+1. See [[an3.102-thanissaro]]. [↩︎](#^iti80note01-ref) ^iti80note01
 
 2. According to the Commentary, this refers to a monk’s tendency to be overly intimate with lay people, overly susceptible to the rises and falls in their fortunes, “happy when they are happy, sad when they are sad, busying himself with their affairs.” [↩︎](#^iti80note02-ref) ^iti80note02
 

@@ -159,7 +159,7 @@ effluent-free, you will be
 
 unbound.
 
-See also: [[mn21-thanissaro]]; [[sn1.72-thanissaro]]; [[sn3.23-thanissaro]]; [[sn7.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.133-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.200-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.161-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.80-thanissaro]]; [[dhp37-thanissaro]]
+See also: [[mn21-thanissaro]]; [[sn1.72-thanissaro]]; [[sn3.23-thanissaro]]; [[sn7.2-thanissaro]]; [[an3.133-thanissaro]]; [[an4.200-thanissaro]]; [[an5.161-thanissaro]]; [[an10.80-thanissaro]]; [[dhp37-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -27,7 +27,7 @@ language: "English"
 
 “It’s impossible that he would, through the ending of effluents, enter & remain in the effluent-free awareness-release & discernment-release, having directly known & realized them for himself right in the here & now.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]
+See also: [[an5.28-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

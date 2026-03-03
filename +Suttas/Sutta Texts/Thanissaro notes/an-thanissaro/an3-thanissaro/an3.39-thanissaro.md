@@ -83,7 +83,7 @@ Note
 
 1. The PTS edition treats this sutta as two suttas, divided at this point. Asian traditions, however, treat it as one. The autobiographical verse at the conclusion of the second half fits neatly with the autobiographical first half, which suggests that the two halves were originally meant to go together.
 
-See also: [[mn26-thanissaro]]; [[mn36-thanissaro]]; [[mn82-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.57-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.15-thanissaro]]
+See also: [[mn26-thanissaro]]; [[mn36-thanissaro]]; [[mn82-thanissaro]]; [[an5.57-thanissaro]]; [[/snp3.1-thanissaro]]; [[/snp3.2-thanissaro]]; [[/snp4.15-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

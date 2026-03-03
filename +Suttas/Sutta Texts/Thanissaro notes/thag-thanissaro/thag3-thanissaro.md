@@ -178,7 +178,7 @@ cultivating a heart
 
 bent on seclusion.
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.95-thanissaro]]
+See also: [[an8.95-thanissaro]]
 
 ## Thag3.8  Yasoja
 
@@ -224,7 +224,7 @@ more than that:
 
 a hullabaloo.
 
-See also: [[ud3.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.16-thanissaro]]
+See also: [[ud3.3-thanissaro]]; [[/snp4.16-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

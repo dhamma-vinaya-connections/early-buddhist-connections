@@ -53,7 +53,7 @@ language: "English"
 
 “If he wants, then through the ending of effluents, he enters & remains in the effluent-free awareness-release & discernment-release, having directly known and realized them for himself right in the here & now. He can witness this for himself whenever there is an opening.”
 
-See also: [[sn47.8-thanissaro]]; [[sn47.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.41-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.70-thanissaro]]
+See also: [[sn47.8-thanissaro]]; [[sn47.10-thanissaro]]; [[an4.41-thanissaro]]; [[an5.28-thanissaro]]; [[an8.70-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

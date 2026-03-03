@@ -65,7 +65,7 @@ language: "English"
 
 4. For a discussion of this discourse in the general context of the Buddha’s teaching on kamma (karma), see _The Wings to Awakening,_ Section I/B. [↩︎](#^[[an3-thanissaro]].101note04-ref) ^[[an3-thanissaro]].101note04
 
-See also: [[mn86-thanissaro]]; [[mn136-thanissaro]]; [[sn12-21-thanissaro/sn20-thanissaro/sn20.4-thanissaro]]; [[sn42.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.79-thanissaro]]; [[an11.16-thanissaro]]
+See also: [[mn86-thanissaro]]; [[mn136-thanissaro]]; [[sn12-21-thanissaro/sn20-thanissaro/sn20.4-thanissaro]]; [[sn42.8-thanissaro]]; [[an5.79-thanissaro]]; [[an11.16-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

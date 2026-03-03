@@ -177,7 +177,7 @@ effluent-free.
 
 1. Here the Buddha is hinting at a play on words. The Pali phrase here is _āguṁ na karoti,_ which could be rephrased as _na āguṁ karoti,_ yielding a play on the word nāga. In his verse below, Ven. Udāyin shows that he has picked up on the hint by rephrasing it in precisely that way. [↩︎](#^[[an6-thanissaro]].43note01-ref) ^[[an6-thanissaro]].43note01
 
-2. On the point that arahants have gone beyond all dhammas, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.137-thanissaro]]. [↩︎](#^[[an6-thanissaro]].43note02-ref) ^[[an6-thanissaro]].43note02
+2. On the point that arahants have gone beyond all dhammas, see [[an3.137-thanissaro]]. [↩︎](#^[[an6-thanissaro]].43note02-ref) ^[[an6-thanissaro]].43note02
 
 3. Clearing = _nibbāna,_ which is here presented as a play on the word, vana, or forest. [↩︎](#^[[an6-thanissaro]].43note03-ref) ^[[an6-thanissaro]].43note03
 
@@ -189,7 +189,7 @@ effluent-free.
 
 [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti44-thanissaro]] describes the property of _sa-upādisesa-nibbāna_ as follows: “His [the arahant’s] five sense faculties still remain and, owing to their being intact, he experiences the pleasing & the displeasing, and is sensitive to pleasure & pain. His ending of passion, aversion, & delusion is termed the unbinding property with fuel remaining.” Its description of the property of _anupādisesa-nibbāna_ is: “For him, all that is sensed, being unrelished, will grow cold right here. This is termed the unbinding property with no fuel remaining.” For further discussion of this distinction, see _The Mind Like Fire Unbound,_ chapter 1.
 
-See also: [[mn1-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.7-thanissaro]]; [[an9.62-thanissaro]]; [[an10.81-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti44-thanissaro]]
+See also: [[mn1-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.51-thanissaro]]; [[an9.7-thanissaro]]; [[an9.62-thanissaro]]; [[an10.81-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti44-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

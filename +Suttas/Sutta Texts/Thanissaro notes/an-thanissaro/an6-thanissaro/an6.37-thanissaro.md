@@ -79,7 +79,7 @@ unalloyed.
 
 3. In other words, because one is possessed of the three factors of the donor, and the other—the recipient—is possessed of the three factors of the recipient. [↩︎](#^[[an6-thanissaro]].37note03-ref) ^[[an6-thanissaro]].37note03
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.34-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.148-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.20-thanissaro]]
+See also: [[an5.34-thanissaro]]; [[an5.148-thanissaro]]; [[an9.20-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

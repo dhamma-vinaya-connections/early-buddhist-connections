@@ -240,11 +240,11 @@ vv. 239–252
 
 ### Notes
 
-1. _Visama:_ See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]. [↩︎](#^snp2-2-01-ref) ^snp2-2-01
+1. _Visama:_ See [[/snp1.12-thanissaro]]. [↩︎](#^snp2-2-01-ref) ^snp2-2-01
 
 2. According to SnA, this means “abstaining from fish & meat.” [↩︎](#^snp2-2-02-ref) ^snp2-2-02
 
-3. _Durannaya._ Notice that being indomitable, a “raw stench” in a discordant person, becomes a positive trait in the awakened. This sort of contrast provides the basis for the wordplay that the Sutta Nipāta occasionally uses to describe the awakened in a paradoxical way. See, for instance, the conclusion to [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.13-thanissaro]]. [↩︎](#^snp2-2-03-ref) ^snp2-2-03
+3. _Durannaya._ Notice that being indomitable, a “raw stench” in a discordant person, becomes a positive trait in the awakened. This sort of contrast provides the basis for the wordplay that the Sutta Nipāta occasionally uses to describe the awakened in a paradoxical way. See, for instance, the conclusion to [[/snp4.13-thanissaro]]. [↩︎](#^snp2-2-03-ref) ^snp2-2-03
 
 See also: MN 55
 

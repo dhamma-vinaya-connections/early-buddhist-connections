@@ -33,7 +33,7 @@ they go about
 
 totally freed from fetters.”
 
-See also: [[mn102-thanissaro]]; [[mn105-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.199-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an6-thanissaro/an6.55-thanissaro]]; [[an10.13-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.9-thanissaro]]
+See also: [[mn102-thanissaro]]; [[mn105-thanissaro]]; [[an4.199-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an6-thanissaro/an6.55-thanissaro]]; [[an10.13-thanissaro]]; [[/snp4.5-thanissaro]]; [[/snp4.9-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

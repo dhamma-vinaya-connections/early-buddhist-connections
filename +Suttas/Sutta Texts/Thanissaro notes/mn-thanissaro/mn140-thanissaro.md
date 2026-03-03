@@ -107,7 +107,7 @@ Then a large number of monks approached the Blessed One and, on arrival, having 
 
 That is what the Blessed One said. Gratified, the monks delighted in the Blessed One’s words.
 
-See also: [[mn28-thanissaro]]; [[mn106-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.207-thanissaro]]; [[sn36.7-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]]; [[ud1.10-thanissaro]]
+See also: [[mn28-thanissaro]]; [[mn106-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.207-thanissaro]]; [[sn36.7-thanissaro]]; [[an9.36-thanissaro]]; [[ud1.10-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

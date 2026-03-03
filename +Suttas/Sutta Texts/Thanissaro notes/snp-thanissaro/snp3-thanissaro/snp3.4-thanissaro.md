@@ -500,9 +500,9 @@ vv. 456–486
 
 1. The account in [[snp7.9-thanissaro]] goes immediately from this question to the Buddha’s response marked by footnote 6. [↩︎](#^snp3-4-01-ref) ^snp3-4-01
 
-2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.36-thanissaro]]. [↩︎](#^snp3-4-02-ref) ^snp3-4-02
+2. See [[an4.36-thanissaro]]. [↩︎](#^snp3-4-02-ref) ^snp3-4-02
 
-3. According to SnA, the “clan” of the run-of-the-mill is the five aggregates. However, the clan of run-of-the-mill people might also refer to the customs of all lineages that don’t follow the customs of the noble lineage set out in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.28-thanissaro]]. [↩︎](#^snp3-4-03-ref) ^snp3-4-03
+3. According to SnA, the “clan” of the run-of-the-mill is the five aggregates. However, the clan of run-of-the-mill people might also refer to the customs of all lineages that don’t follow the customs of the noble lineage set out in [[an4.28-thanissaro]]. [↩︎](#^snp3-4-03-ref) ^snp3-4-03
 
 4. This is apparently a reference to Ṛgveda iii, 62, 10, an invocation addressed to Sāvitrī, or the Sun: [↩︎](#^snp3-4-04-ref) ^snp3-4-04
 
@@ -522,13 +522,13 @@ This verse, in the Gāvitrī meter, is recited during the _upanayana_ ceremony, 
 
 SnA suggests that the Buddha’s question about this verse surprises Sundarika, making him suspect that the Buddha knows more about brahmanical lore than he does, which is why he changes his tone with the following question. SnA also asserts that the Buddhist equivalent to the Sāvitti—three lines, 24 syllables—is the expression of homage to the Triple Gem: _Buddhaṁ saraṇaṁ gacchāmi, Dhammaṁ saraṇaṁ gacchāmi, Saṅghaṁ saraṇaṁ gacchāmi._
 
-5. In other words, the original motivation for performing sacrifices was that the recipient of the oblation would be a pure person. The Buddha gives another answer to a very similar question in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.3-thanissaro]]. [↩︎](#^snp3-4-05-ref) ^snp3-4-05
+5. In other words, the original motivation for performing sacrifices was that the recipient of the oblation would be a pure person. The Buddha gives another answer to a very similar question in [[/snp5.3-thanissaro]]. [↩︎](#^snp3-4-05-ref) ^snp3-4-05
 
 6. In [[snp7.9-thanissaro]], the Buddha’s initial response to Sundarika begins here. [↩︎](#^snp3-4-06-ref) ^snp3-4-06
 
 7. SnA explains this analogy by saying that it doesn’t matter what kind of wood is used to make a fire, for in each case the fire is equally hot and bright. See [[mn93-thanissaro]]. [↩︎](#^snp3-4-07-ref) ^snp3-4-07
 
-8. In [[snp7.9-thanissaro]], the initial exchange between the Buddha and Sundarika ends here. Sundarika then offers the sacrificial cake to the Buddha, who refuses it with the passage beginning with the line marked by footnote 18. Then, as in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.4-thanissaro]], he tells Sundarika to throw away the offering, which sizzles in the water into which it is thrown. Shocked, Sundarika returns to the Buddha, who teaches him five more verses of Dhamma. [↩︎](#^snp3-4-08-ref) ^snp3-4-08
+8. In [[snp7.9-thanissaro]], the initial exchange between the Buddha and Sundarika ends here. Sundarika then offers the sacrificial cake to the Buddha, who refuses it with the passage beginning with the line marked by footnote 18. Then, as in [[/snp1.4-thanissaro]], he tells Sundarika to throw away the offering, which sizzles in the water into which it is thrown. Shocked, Sundarika returns to the Buddha, who teaches him five more verses of Dhamma. [↩︎](#^snp3-4-08-ref) ^snp3-4-08
 
 Don’t, brahman, when lighting kindling,
 
@@ -598,23 +598,23 @@ After hearing these verses, Sundarika asks for Acceptance into the Saṅgha, and
 
 13. Supports/mental objects = _ārammaṇā._ See [[ud8.1-thanissaro]], [[sn12-21-thanissaro/sn12-thanissaro/sn12.64-thanissaro]], and [[sn22-34-thanissaro/sn22-thanissaro/sn22.53-thanissaro]]. [↩︎](#^snp3-4-13-ref) ^snp3-4-13
 
-14. On unbinding as the end of phenomena, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.58-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.6-thanissaro]]. [↩︎](#^snp3-4-14-ref) ^snp3-4-14
+14. On unbinding as the end of phenomena, see [[an10.58-thanissaro]] and [[/snp5.6-thanissaro]]. [↩︎](#^snp3-4-14-ref) ^snp3-4-14
 
 15. For examples of seeing self by means of self (or self by means of not-self, or not-self by means of self), see [[mn2-thanissaro]]. [↩︎](#^snp3-4-15-ref) ^snp3-4-15
 
 16. This verse contains a play on words, in that _attā_ can mean both “self” and “mind,” and it is used in both senses here. [↩︎](#^snp3-4-16-ref) ^snp3-4-16
 
-17. Spirit = _yakkha._ According to SnA, the word _yakkha_ in this context means “person.” See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.11-thanissaro]]. [↩︎](#^snp3-4-17-ref) ^snp3-4-17
+17. Spirit = _yakkha._ According to SnA, the word _yakkha_ in this context means “person.” See [[/snp4.11-thanissaro]]. [↩︎](#^snp3-4-17-ref) ^snp3-4-17
 
-18. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.4-thanissaro]]. [↩︎](#^snp3-4-18-ref) ^snp3-4-18
+18. See [[/snp1.4-thanissaro]]. [↩︎](#^snp3-4-18-ref) ^snp3-4-18
 
-19. Boundaries = _sīmantā._ According to SnA, this is an epithet for defilement, in that the territory _(sīmā)_ stands for good manners, and the end of the territory, or boundary, _(sīmanta)_ stands for the defilements that lie outside of the realm of good manners. For a very different meaning for “territory,” see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.4-thanissaro]]. [↩︎](#^snp3-4-19-ref) ^snp3-4-19
+19. Boundaries = _sīmantā._ According to SnA, this is an epithet for defilement, in that the territory _(sīmā)_ stands for good manners, and the end of the territory, or boundary, _(sīmanta)_ stands for the defilements that lie outside of the realm of good manners. For a very different meaning for “territory,” see [[/snp4.4-thanissaro]]. [↩︎](#^snp3-4-19-ref) ^snp3-4-19
 
-20. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.123-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]. [↩︎](#^snp3-4-20-ref) ^snp3-4-20
+20. See [[an3.123-thanissaro]] and [[/snp1.12-thanissaro]]. [↩︎](#^snp3-4-20-ref) ^snp3-4-20
 
 21. The word, _sabba-lokasmiṁ_—”in all the world,” “with regard to all the world”—apparently functions as a lamp in this verse. [↩︎](#^snp3-4-21-ref) ^snp3-4-21
 
-See also: [[sn3.24-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.37-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.20-thanissaro]]
+See also: [[sn3.24-thanissaro]]; [[an6.37-thanissaro]]; [[an9.20-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

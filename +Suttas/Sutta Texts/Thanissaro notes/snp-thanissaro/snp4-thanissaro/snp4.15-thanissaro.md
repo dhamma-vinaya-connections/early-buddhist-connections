@@ -280,7 +280,7 @@ vv. 935–954
 
 1. Nd I: The rod of violence takes three forms: physical violence (the three forms of bodily misconduct), verbal violence (the four forms of verbal misconduct), and mental violence (the three forms of mental misconduct). See AN 10:176 and [Dhp 129–142](../Dhp/Ch10.html#dhp129). [↩︎](#^snp4-15-01-ref) ^snp4-15-01
 
-2. Nd I: “One doesn’t run” to any of the destinations of rebirth; “one doesn’t sink” into any of the four floods of sensuality, views, becoming, and ignorance. See [[sn1-11-thanissaro/sn1-thanissaro/sn1.1-thanissaro]], [[sn45.171-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.10-thanissaro]]. [↩︎](#^snp4-15-02-ref) ^snp4-15-02
+2. Nd I: “One doesn’t run” to any of the destinations of rebirth; “one doesn’t sink” into any of the four floods of sensuality, views, becoming, and ignorance. See [[sn1-11-thanissaro/sn1-thanissaro/sn1.1-thanissaro]], [[sn45.171-thanissaro]], and [[an4.10-thanissaro]]. [↩︎](#^snp4-15-02-ref) ^snp4-15-02
 
 3. This phrase, a kind of stage direction, seems to indicate that this poem had a ritual use, as part of a ceremony for giving the precepts. [↩︎](#^snp4-15-03-ref) ^snp4-15-03
 
@@ -290,17 +290,17 @@ vv. 935–954
 
 6. Nd I: “what’s dazzling & bright” = craving and other defilements. [↩︎](#^snp4-15-06-ref) ^snp4-15-06
 
-7. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.15-thanissaro]]. [↩︎](#^snp4-15-07-ref) ^snp4-15-07
+7. See [[an7.15-thanissaro]]. [↩︎](#^snp4-15-07-ref) ^snp4-15-07
 
-8. Nd I: The stream here stands for craving and the various defilements that arise in its wake. See [Dhp 251](../Dhp/Ch18.html#dhp251), 337, 339­–340, and 347. It could also stand for the stream of becoming, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.12-thanissaro]]. [↩︎](#^snp4-15-08-ref) ^snp4-15-08
+8. Nd I: The stream here stands for craving and the various defilements that arise in its wake. See [Dhp 251](../Dhp/Ch18.html#dhp251), 337, 339­–340, and 347. It could also stand for the stream of becoming, mentioned in [[/snp3.12-thanissaro]]. [↩︎](#^snp4-15-08-ref) ^snp4-15-08
 
 9. Nd I: “Before,” “after,” and “in between” = past, future, and present. [↩︎](#^snp4-15-09-ref) ^snp4-15-09
 
 10. “Isn’t defeated, suffers no loss”—two meanings of the Pali phrase, _na jiyyati._ [↩︎](#^snp4-15-10-ref) ^snp4-15-10
 
-11. Nd I defines “perturbation” as meaning “craving,” and “unperturbed” as meaning unmoved by gain, loss, status, loss of status, praise, criticism, pleasure, or pain (see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.6-thanissaro]]). However, when the Buddha discusses the meaning of “unperturbed” in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.3-thanissaro]], he relates it to the practice of concentration. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.3-thanissaro]]. [↩︎](#^snp4-15-11-ref) ^snp4-15-11
+11. Nd I defines “perturbation” as meaning “craving,” and “unperturbed” as meaning unmoved by gain, loss, status, loss of status, praise, criticism, pleasure, or pain (see [[an8.6-thanissaro]]). However, when the Buddha discusses the meaning of “unperturbed” in [[/snp5.3-thanissaro]], he relates it to the practice of concentration. See [[/snp5.3-thanissaro]]. [↩︎](#^snp4-15-11-ref) ^snp4-15-11
 
-12. _Sama._ See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]. [↩︎](#^snp4-15-12-ref) ^snp4-15-12
+12. _Sama._ See [[/snp1.12-thanissaro]]. [↩︎](#^snp4-15-12-ref) ^snp4-15-12
 
 13. See [[ud2.10-thanissaro]]. [↩︎](#^snp4-15-13-ref) ^snp4-15-13
 

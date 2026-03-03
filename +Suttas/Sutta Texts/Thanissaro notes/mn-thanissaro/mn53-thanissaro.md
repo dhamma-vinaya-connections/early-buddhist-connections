@@ -107,13 +107,13 @@ That is what Ven. Ānanda said, and the Teacher approved. Gratified, the Kapilav
 
 “One in training” is a person who has attained at least stream entry, but not yet arahantship.
 
-3. The chief of the Kapilavatthu Sakyans. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.73-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an11/an11.12-thanissaro]]; and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an11/an11.13-thanissaro]]. [↩︎](#^mn53note03-ref) ^mn53note03
+3. The chief of the Kapilavatthu Sakyans. See [[an3.73-thanissaro]]; [[an11.12-thanissaro]]; and [[an11.13-thanissaro]]. [↩︎](#^mn53note03-ref) ^mn53note03
 
-4. The yoke is fourfold: the yoke of sensuality, the yoke of becoming, the yoke of views, & the yoke of ignorance. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.10-thanissaro]]. [↩︎](#^mn53note04-ref) ^mn53note04
+4. The yoke is fourfold: the yoke of sensuality, the yoke of becoming, the yoke of views, & the yoke of ignorance. See [[an4.10-thanissaro]]. [↩︎](#^mn53note04-ref) ^mn53note04
 
 5. At this point, one becomes an _asekha,_ one no longer in training because one’s training is complete. In other words, one is an arahant. [↩︎](#^mn53note05-ref) ^mn53note05
 
-See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]; [[sn48.53-thanissaro]]; [[sn55.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.6-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.101-thanissaro]]; [[sn48.53-thanissaro]]; [[sn55.1-thanissaro]]; [[an4.37-thanissaro]]; [[an7.6-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

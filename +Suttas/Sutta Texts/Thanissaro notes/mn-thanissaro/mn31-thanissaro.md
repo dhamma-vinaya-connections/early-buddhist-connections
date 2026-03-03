@@ -123,7 +123,7 @@ Note
 
 1. It’s common in Pali, when speaking to a small group of individuals, to address them in the plural form of the name of the senior member of the group.
 
-See also: [[mn39-thanissaro]]–40]([[mn39-thanissaro]].html); [[sn52.9-thanissaro]]; [[sn52.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.96-thanissaro]]; [[an9.31-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti82-thanissaro]]
+See also: [[mn39-thanissaro]]–40]([[mn39-thanissaro]].html); [[sn52.9-thanissaro]]; [[sn52.10-thanissaro]]; [[an3.96-thanissaro]]; [[an9.31-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti82-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

@@ -63,7 +63,7 @@ I’m awake.”
 
 ### Notes
 
-1. “Nāga” is a term used to describe a great being, such as an elephant or a great, magical serpent. Buddhists adopted the term as an epithet for the Buddha and his arahant disciples. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]]. [↩︎](#^[[an4-thanissaro]].36note01-ref) ^[[an4-thanissaro]].36note01
+1. “Nāga” is a term used to describe a great being, such as an elephant or a great, magical serpent. Buddhists adopted the term as an epithet for the Buddha and his arahant disciples. See [[an6.43-thanissaro]]. [↩︎](#^[[an4-thanissaro]].36note01-ref) ^[[an4-thanissaro]].36note01
 
 2. Doṇa phrases his question in the future tense, which has led to a great deal of discussion as to what this entire dialogue means: Is he asking what the Buddha will be in a future life, or is he asking what he is right now? The context of the discussion seems to demand the second alternative—Doṇa wants to know what kind of being would have such amazing footprints, and the Buddha’s image of the lotus describes his present state—but the grammar of Doṇa’s questions would seem to demand the first. However, A. K. Warder, in his _Introduction to Pali_ (p. 55), notes that the future tense is often used to express perplexity, surprise, or wonder about something in the present: “What might this be?” “What on earth is this?” This seems to be the sense of Doṇa’s questions here. His earlier statement—“These are not the footprints of a human being”—is also phrased in the future tense, and the mood of wonder extends throughout his conversation with the Buddha. [↩︎](#^[[an4-thanissaro]].36note02-ref) ^[[an4-thanissaro]].36note02
 

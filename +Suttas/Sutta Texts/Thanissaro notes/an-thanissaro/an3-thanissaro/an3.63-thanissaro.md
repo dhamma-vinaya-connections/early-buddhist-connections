@@ -51,7 +51,7 @@ language: "English"
 
 “This is the path, this the practice, that leads to the abandoning and overcoming of these three mother-&-child-uniting dangers and these three mother-&-child-separating dangers.”
 
-See also: [[mn87-thanissaro]]; [[sn12-21-thanissaro/sn15-thanissaro/sn15.3-thanissaro]]; [[sn42.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.49-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.57-thanissaro]]; [[ud8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig10-thanissaro]]
+See also: [[mn87-thanissaro]]; [[sn12-21-thanissaro/sn15-thanissaro/sn15.3-thanissaro]]; [[sn42.11-thanissaro]]; [[an5.49-thanissaro]]; [[an5.57-thanissaro]]; [[ud8.8-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig10-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

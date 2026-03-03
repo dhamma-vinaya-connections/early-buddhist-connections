@@ -27,7 +27,7 @@ Note
 
 1. A perception with a share in decline is one that causes the mind to fall from concentration. A perception with a share in stability is one that helps to maintain concentration. A perception with a share in distinction is one that leads to higher stages of concentration. A perception with a share in penetration is one leading to liberating insight.
 
-See also: [[mn118-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.49-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.46-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.60-thanissaro]]
+See also: [[mn118-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.49-thanissaro]]; [[an7.46-thanissaro]]; [[an10.60-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

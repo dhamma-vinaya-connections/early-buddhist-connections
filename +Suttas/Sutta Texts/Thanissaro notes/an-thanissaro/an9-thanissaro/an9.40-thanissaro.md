@@ -45,7 +45,7 @@ In the same way, when a monk lives hemmed in with monks, nuns, male & female lay
 
 “With the complete transcending of the dimension of neither perception nor non-perception, he enters & remains in the cessation of perception & feeling. And as he sees (that) with discernment, effluents are completely ended. Gratified, he allays his itch.”
 
-See also: [[mn14-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.30-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.43-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.103-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.99-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.12-thanissaro]]
+See also: [[mn14-thanissaro]]; [[an5.30-thanissaro]]; [[an6.43-thanissaro]]; [[an8.103-thanissaro]]; [[an10.99-thanissaro]]; [[/snp1.3-thanissaro]]; [[/snp1.12-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

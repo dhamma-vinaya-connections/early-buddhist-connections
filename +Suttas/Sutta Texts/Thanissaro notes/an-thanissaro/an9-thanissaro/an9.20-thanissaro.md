@@ -57,7 +57,7 @@ On one occasion the Blessed One was staying near Sāvatthī in Jeta’s Grove, A
 
 2. This translation follows the Thai edition of the Pali Canon. The Burmese and Sri Lankan editions list four kinds of cloth—rather than just the three listed here—adding wool as the third of the four. [↩︎](#^[[an9-thanissaro]].20note02-ref) ^[[an9-thanissaro]].20note02
 
-See also: [[sn3.19-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.148-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.37-thanissaro]]
+See also: [[sn3.19-thanissaro]]; [[an3.15-thanissaro]]; [[an5.148-thanissaro]]; [[an6.37-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

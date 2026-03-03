@@ -43,7 +43,7 @@ Then the nun—getting up from her bed, arranging her upper robe over one should
 
 “Yes, sister, a transgression overcame you in that you were so foolish, so muddle-headed, and so unskilled as to act in this way. But because you see your transgression as such and make amends in accordance with the Dhamma, we accept your confession. For it is a cause of growth in the discipline of the noble ones when, seeing a transgression as such, one makes amends in accordance with the Dhamma and exercises restraint in the future.”
 
-See also: [[sn51.15-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.40-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.75-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an7/an7.48-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.7-thanissaro]]
+See also: [[sn51.15-thanissaro]]; [[an3.40-thanissaro]]; [[an5.75-thanissaro]]; [[an7.48-thanissaro]]; [[/snp4.7-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

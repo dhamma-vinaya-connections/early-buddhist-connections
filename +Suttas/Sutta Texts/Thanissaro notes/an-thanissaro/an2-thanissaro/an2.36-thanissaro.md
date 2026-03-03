@@ -35,7 +35,7 @@ When this was said, Ārāmadaṇḍa the brahman—getting up from his seat, arr
 
 “Magnificent, Master Kaccāna! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Kaccāna—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Kaccāna remember me as a lay follower who has gone for refuge from this day forward, for life.”
 
-See also: [[mn13-thanissaro]]; [[mn72-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.93-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.8-thanissaro]]
+See also: [[mn13-thanissaro]]; [[mn72-thanissaro]]; [[an10.93-thanissaro]]; [[/snp4.3-thanissaro]]; [[/snp4.8-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

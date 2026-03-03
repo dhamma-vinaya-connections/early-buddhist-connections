@@ -47,7 +47,7 @@ When this was said, Ven. Moggallāna said to the Blessed One: “Briefly, lord, 
 
 “It’s in this respect, Moggallāna, that a monk, in brief, is released through the ending of craving, utterly complete, utterly free from bonds, a follower of the utterly holy life, utterly consummate: foremost among devas & human beings.”
 
-See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.23-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.80-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.137-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.37-thanissaro]]; [[dhp277-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp2/snp2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag2-thanissaro]]
+See also: [[sn22-34-thanissaro/sn22-thanissaro/sn22.23-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.80-thanissaro]]; [[an3.137-thanissaro]]; [[an4.37-thanissaro]]; [[dhp277-thanissaro]]; [[/snp2.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag2-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

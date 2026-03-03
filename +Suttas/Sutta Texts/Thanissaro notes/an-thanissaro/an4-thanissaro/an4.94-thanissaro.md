@@ -29,7 +29,7 @@ language: "English"
 
 “These are four types of individuals to be found existing in world.”
 
-See also: [[mn149-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.57-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.204-thanissaro]]; [[an2.29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.170-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.54-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.71-thanissaro]]
+See also: [[mn149-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.57-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.204-thanissaro]]; [[an2.29-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.170-thanissaro]]; [[an10.54-thanissaro]]; [[an10.71-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

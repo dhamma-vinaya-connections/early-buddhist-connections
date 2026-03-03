@@ -330,7 +330,7 @@ vv. 548–573
 
 1. According to Mv VI.35.3, at this point in the narrative Keṇiya offered a juice drink to the Buddha, who told him also to offer the drink to the Saṅgha. This became the occasion for the allowance for monks to consume juice drinks after noon. [↩︎](#^snp3-7-01-ref) ^snp3-7-01
 
-2. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp1/snp1.2-thanissaro]]. [↩︎](#^snp3-7-02-ref) ^snp3-7-02
+2. See [[/snp1.2-thanissaro]]. [↩︎](#^snp3-7-02-ref) ^snp3-7-02
 
 3. To be a wheel-turner meant, in ancient Indian parlance, to establish rule over the entire “wheel” of the eight directions. The sutta containing the Buddha’s first sermon ([[sn56.11-thanissaro]]), in stating that the sermon set the Dhamma-wheel rolling, thus borrowed this image to make the point that the Buddha’s Dhamma ruled in all directions. [↩︎](#^snp3-7-03-ref) ^snp3-7-03
 
@@ -342,7 +342,7 @@ The Dhamma-wheel is also a wheel in another sense. In ancient Indian texts, a �
 
 6. Three of the four duties with regard to the four noble truths. See [[sn56.11-thanissaro]] and [[mn149-thanissaro]]. [↩︎](#^snp3-7-06-ref) ^snp3-7-06
 
-7. Sela, despite his newfound confidence in the Buddha, has not yet abandoned his racism. In [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.85-thanissaro]], however, the Buddha redefines the brahmanical concept of dark birth in such a way that is based on kamma rather than race. [↩︎](#^snp3-7-07-ref) ^snp3-7-07
+7. Sela, despite his newfound confidence in the Buddha, has not yet abandoned his racism. In [[an4.85-thanissaro]], however, the Buddha redefines the brahmanical concept of dark birth in such a way that is based on kamma rather than race. [↩︎](#^snp3-7-07-ref) ^snp3-7-07
 
 8. _Chandas._ This term normally means “meter,” but it also means Vedic hymn. See the discussion in _The Buddhist Monastic Code,_ volume II, chapter 8. On the Sāvitti as the chief Vedic hymn, see [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/snp-thanissaro/snp3-thanissaro/snp3.4-thanissaro]]. [↩︎](#^snp3-7-08-ref) ^snp3-7-08
 

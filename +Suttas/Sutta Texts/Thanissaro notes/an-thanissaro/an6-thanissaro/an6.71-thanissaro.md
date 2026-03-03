@@ -29,9 +29,9 @@ language: "English"
 
 ### Notes
 
-1. This is a reference to the six cognitive skills. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.28-thanissaro]]. [↩︎](#^[[an6-thanissaro]].71note01-ref) ^[[an6-thanissaro]].71note01
+1. This is a reference to the six cognitive skills. See [[an5.28-thanissaro]]. [↩︎](#^[[an6-thanissaro]].71note01-ref) ^[[an6-thanissaro]].71note01
 
-2. A quality with a share in decline is one that causes the mind to fall from concentration. A quality with a share in stability is one that helps to maintain concentration. A quality with a share in distinction is one that leads to higher stages of concentration. A quality with a share in penetration is one leading to liberating insight. See [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.179-thanissaro]]. [↩︎](#^[[an6-thanissaro]].71note02-ref) ^[[an6-thanissaro]].71note02
+2. A quality with a share in decline is one that causes the mind to fall from concentration. A quality with a share in stability is one that helps to maintain concentration. A quality with a share in distinction is one that leads to higher stages of concentration. A quality with a share in penetration is one leading to liberating insight. See [[an4.179-thanissaro]]. [↩︎](#^[[an6-thanissaro]].71note02-ref) ^[[an6-thanissaro]].71note02
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

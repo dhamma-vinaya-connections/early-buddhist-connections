@@ -60,7 +60,7 @@ Note
 
 For a more complete discussion of this topic, see _The Paradox of Becoming._
 
-See also: [[mn106-thanissaro]]; [[an3.76-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.2-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.5-thanissaro]]
+See also: [[mn106-thanissaro]]; [[an3.76-thanissaro]]; [[/snp4.2-thanissaro]]; [[/snp5.5-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

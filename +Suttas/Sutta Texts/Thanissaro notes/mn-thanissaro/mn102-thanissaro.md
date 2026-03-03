@@ -83,7 +83,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 1. [[mn137-thanissaro]] indicates that perceptions of multiplicity deal with the six senses, whereas perceptions of singleness form the basis of the four formless attainments. [↩︎](#^mn102note01-ref) ^mn102note01
 
-2. This is apparently equivalent to the formless attainment of the dimension of the infinitude of consciousness, which [[mn106-thanissaro]] classes as imperturbable. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.29-thanissaro]] has this to say about the consciousness-totality: [↩︎](#^mn102note02-ref) ^mn102note02
+2. This is apparently equivalent to the formless attainment of the dimension of the infinitude of consciousness, which [[mn106-thanissaro]] classes as imperturbable. [[an10.29-thanissaro]] has this to say about the consciousness-totality: [↩︎](#^mn102note02-ref) ^mn102note02
 
 “There are these ten totality-dimensions. Which ten? One perceives the earth-totality above, below, all-around: non-dual _[advayaṁ],_ immeasurable. One perceives the water-totality... the fire-totality... the wind-totality... the blue-totality... the yellow-totality... the red-totality... the white-totality... the space-totality... the consciousness-totality above, below, all-around: non-dual, immeasurable. These are the ten totality-dimensions. Now, of these ten totality-dimensions, this is supreme: when one perceives the consciousness-totality above, below, all-around: non-dual, immeasurable. And there are beings who are percipient in this way. Yet even in the beings who are percipient in this way there is still aberration, there is change. Seeing this, the instructed disciple of the noble ones grows disenchanted with that. Being disenchanted with that, he becomes dispassionate toward what is supreme, and even more so toward what is inferior.”
 
@@ -97,9 +97,9 @@ Unlike the contemplatives and brahmans quoted in this passage, the Buddha—in [
 
 6. Craving for non-becoming _(vibhava-taṇhā)_ is one of the three types of craving that lead to becoming. On this point, see, _The Paradox of Becoming._ [↩︎](#^mn102note06-ref) ^mn102note06
 
-7. The “I am,” here, is what points to the clinging. It shows that conceit, one of the ten fetters, has not been cut—“conceit,” here, not meaning pride, but simply a sense of what one’s identity consists of. As [[mn52-thanissaro]] and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.36-thanissaro]] point out, it is possible, even when experiencing the deathless, to develop a sense of passion and delight for it, thus giving rise to a subtle sense of “I am” that prevents full awakening. The passage here gives useful directions as to where to look for the lurking clinging that may contribute to that sense of “I am.” [↩︎](#^mn102note07-ref) ^mn102note07
+7. The “I am,” here, is what points to the clinging. It shows that conceit, one of the ten fetters, has not been cut—“conceit,” here, not meaning pride, but simply a sense of what one’s identity consists of. As [[mn52-thanissaro]] and [[an9.36-thanissaro]] point out, it is possible, even when experiencing the deathless, to develop a sense of passion and delight for it, thus giving rise to a subtle sense of “I am” that prevents full awakening. The passage here gives useful directions as to where to look for the lurking clinging that may contribute to that sense of “I am.” [↩︎](#^mn102note07-ref) ^mn102note07
 
-Actual, spontaneous expressions of full awakening are phrased in impersonal terms. See, for instance, [[mn4-thanissaro]], [[sn56.11-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.49-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.55-thanissaro]].
+Actual, spontaneous expressions of full awakening are phrased in impersonal terms. See, for instance, [[mn4-thanissaro]], [[sn56.11-thanissaro]], [[an6.49-thanissaro]], and [[an6.55-thanissaro]].
 
 8. Compare this passage with the refrain in [[dn1-thanissaro]]: [↩︎](#^mn102note08-ref) ^mn102note08
 

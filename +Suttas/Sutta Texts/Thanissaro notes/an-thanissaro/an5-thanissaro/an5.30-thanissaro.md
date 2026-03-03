@@ -15,7 +15,7 @@ language: "English"
 ## ## Nāgita Sutta
 
 
-_The frame story here is common to three suttas: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.30-thanissaro]], [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.42-thanissaro]], and [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.103-thanissaro]]. Although the conversation takes a different turn in each case, in all three cases the Buddha takes the opportunity to teach some unusually plain-spoken truths._
+_The frame story here is common to three suttas: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.30-thanissaro]], [[an6.42-thanissaro]], and [[an8.103-thanissaro]]. Although the conversation takes a different turn in each case, in all three cases the Buddha takes the opportunity to teach some unusually plain-spoken truths._
 
 * * *
 
@@ -45,7 +45,7 @@ Now at that time Ven. Nāgita was the Blessed One’s attendant. So the Blessed 
 
 “When one remains focused on the arising & passing away of the five clinging-aggregates, one takes a stance in the loathsomeness of clinging: That is one’s reward.”
 
-See also: [[mn66-thanissaro]]; [[mn122-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[an4.263-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.77-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.30-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.40-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.72-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]
+See also: [[mn66-thanissaro]]; [[mn122-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.3-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.5-thanissaro]]; [[sn12-21-thanissaro/sn17-thanissaro/sn17.8-thanissaro]]; [[an4.263-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an5-thanissaro/an5.77-thanissaro]]; [[an8.30-thanissaro]]; [[an9.40-thanissaro]]; [[an10.72-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

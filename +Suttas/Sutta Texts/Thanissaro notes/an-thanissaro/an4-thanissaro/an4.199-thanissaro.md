@@ -33,7 +33,7 @@ Note
 
 1. _Taṇhā-vicaritāni,_ literally, things evaluated by craving. The past participle here, _vicaritāni,_ is related to the noun, _vicāra,_ which is classed as a verbal fabrication, i.e., a necessary precondition for speech (see [[mn44-thanissaro]]). A person devoid of craving would still be able to verbalize, but would not contemplate in the above terms, which are so basic to ordinary thought patterns.
 
-See also: [[dn15-thanissaro]]; [[mn2-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.20-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.47-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.49-thanissaro]]; [[dhp339-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.9-thanissaro]]
+See also: [[dn15-thanissaro]]; [[mn2-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.20-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.47-thanissaro]]; [[an6.49-thanissaro]]; [[dhp339-thanissaro]]; [[/snp4.5-thanissaro]]; [[/snp4.9-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

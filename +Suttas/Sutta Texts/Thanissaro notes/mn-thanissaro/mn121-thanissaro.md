@@ -71,7 +71,7 @@ I have heard that on one occasion the Blessed One was staying near Sāvatthī in
 
 That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Blessed One’s words.
 
-See also: [[dn22-thanissaro]]; [[mn43-thanissaro]]; [[mn61-thanissaro]]; [[mn106-thanissaro]]; [[mn122-thanissaro]]; [[mn140-thanissaro]]; [[sn5-thanissaro]] done/[[sn5-thanissaro]].10]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.15-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.85-thanissaro]]; [[ud1.10-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp5/snp5.15-thanissaro]]
+See also: [[dn22-thanissaro]]; [[mn43-thanissaro]]; [[mn61-thanissaro]]; [[mn106-thanissaro]]; [[mn122-thanissaro]]; [[mn140-thanissaro]]; [[sn5-thanissaro]] done/[[sn5-thanissaro]].10]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.15-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.85-thanissaro]]; [[ud1.10-thanissaro]]; [[/snp5.15-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

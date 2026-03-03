@@ -52,9 +52,9 @@ be gone-beyond aging & death.
 
 1. Following the reading found in one of the Sri Lankan editions: _aparihāna-dhammaṁ._ The Thai, Burmese, and another Sri Lankan edition read: _apahāna-dhammaṁ,_ “not subject to abandoning,” which fits the meter better, but not the sense of the verse. The Commentary interprets the more common reading as meaning “not subject to falling away,” but it doesn’t explain how this can be so. [↩︎](#^iti46note01-ref) ^iti46note01
 
-2. [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp3/snp3.2-thanissaro]] identifies Māra’s armies as: sensual passions; discontent; hunger & thirst; craving; sloth & torpor; terror; uncertainty; hypocrisy & stubbornness; gains, offerings, fame, & status; and the attitude that praises self while disparaging others. [↩︎](#^iti46note02-ref) ^iti46note02
+2. [[/snp3.2-thanissaro]] identifies Māra’s armies as: sensual passions; discontent; hunger & thirst; craving; sloth & torpor; terror; uncertainty; hypocrisy & stubbornness; gains, offerings, fame, & status; and the attitude that praises self while disparaging others. [↩︎](#^iti46note02-ref) ^iti46note02
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.245-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an10/an10.58-thanissaro]]
+See also: [[an4.245-thanissaro]]; [[an10.58-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

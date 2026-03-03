@@ -32,7 +32,7 @@ Note
 
 1. In [[sn45.2-thanissaro]] the Buddha says, “Having admirable people _(kalyāṇa-mitta)_ as friends, companions, and colleagues is actually the whole of the holy life. When a monk has admirable people as friends, companions, and colleagues, he may be expected to develop and pursue the noble eightfold path.… It’s in dependence on me as an admirable friend that beings subject to birth have gained release from birth… aging… death… sorrow, lamentation, pain, distress, and despair.”
 
-See also: [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.180-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an9/an9.1-thanissaro]]; [§76](iti76.html); [[ud4.1-thanissaro]]
+See also: [[an5.180-thanissaro]]; [[an9.1-thanissaro]]; [§76](iti76.html); [[ud4.1-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

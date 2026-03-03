@@ -29,7 +29,7 @@ The Blessed One said: “These five are obstacles, hindrances that overwhelm awa
 
 “Suppose there were a river, flowing down from the mountains—going far, its current swift, carrying everything with it—and a man would close the channels leading away from it on both sides, so that the current in the middle of the river would be undispersed, undiffused, & undissipated; it would go far, its current swift, carrying everything with it. In the same way, when a monk has abandoned these five obstacles, hindrances that overwhelm awareness and weaken discernment, when he is strong in discernment: For him to understand what is for his own benefit, to understand what is for the benefit of others, to understand what is for the benefit of both, to realize a superior human state, a truly noble distinction in knowledge & vision—that is possible.”
 
-See also: [[dn2-thanissaro]]; [[sn46.51-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.96-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an4/an4.99-thanissaro]]; [[an9.64-thanissaro]]
+See also: [[dn2-thanissaro]]; [[sn46.51-thanissaro]]; [[an4.96-thanissaro]]; [[an4.99-thanissaro]]; [[an9.64-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

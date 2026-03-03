@@ -207,9 +207,9 @@ while, in this regard,
 
 the enlightened
 
-subdue their desire. _— [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]_
+subdue their desire. _— [[an6.63-thanissaro]]_
 
-See also: [[mn13-thanissaro]]; [[mn14-thanissaro]]; [[mn105-thanissaro]]; [[mn125-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an3/an3.39-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an6/an6.63-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/snp-thanissaro/snp4/snp4.1-thanissaro]]; [[dhp203-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
+See also: [[mn13-thanissaro]]; [[mn14-thanissaro]]; [[mn105-thanissaro]]; [[mn125-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.1-thanissaro]]; [[an3.39-thanissaro]]; [[an6.63-thanissaro]]; [[/snp4.1-thanissaro]]; [[dhp203-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig13-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

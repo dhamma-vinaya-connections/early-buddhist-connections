@@ -211,7 +211,7 @@ That is what the Blessed One said. Gratified, Visākha the lay follower delighte
 
 For some reason, the editors of neither edition seem to have been aware of the reading in the other edition.
 
-See also: [[mn109-thanissaro]]; [[mn111-thanissaro]]; [[mn148-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.121-thanissaro]]; [[sn36.6-thanissaro]]; [[sn36.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an5/an5.200-thanissaro]]; [[an7.11-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro no notes/an-thanissaro/an8/an8.70-thanissaro]]
+See also: [[mn109-thanissaro]]; [[mn111-thanissaro]]; [[mn148-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.121-thanissaro]]; [[sn36.6-thanissaro]]; [[sn36.11-thanissaro]]; [[an5.200-thanissaro]]; [[an7.11-thanissaro]]; [[an8.70-thanissaro]]
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).
