@@ -24,7 +24,7 @@ language: "English - Pali"
 
 ‘‘Āraññiko cepi, gahapati, bhikkhu hoti uddhato unnaḷo capalo mukharo vikiṇṇavāco muṭṭhassati asampajāno asamāhito vibbhantacitto pākatindriyo. Evaṃ so tenaṅgena gārayho. Āraññiko cepi, gahapati, bhikkhu hoti anuddhato anunnaḷo acapalo amukharo avikiṇṇavāco upaṭṭhitassati sampajāno samāhito ekaggacitto saṃvutindriyo. Evaṃ so tenaṅgena pāsaṃso.
 
-"If a monk who lives in the forest, householder, is arrogant, conceited, fickle, talkative, scattering his words, forgetful, uncomprehending, unconcentrated, with a confused mind, and undisciplined in his senses, then he is blameworthy for that reason. If a monk who lives in the forest, householder, is not arrogant, not conceited, not fickle, not talkative, not scattering his words, with mindfulness established, comprehending, concentrated, with unified mind, and disciplined in his senses, then he is praiseworthy for that reason."
+"If a monk who lives in the forest, householder, is arrogant, conceited, fickle, talkative, scattering his words, forgetful, uncomprehending, uncollected, with a confused mind, and undisciplined in his senses, then he is blameworthy for that reason. If a monk who lives in the forest, householder, is not arrogant, not conceited, not fickle, not talkative, not scattering his words, with mindfulness established, comprehending, collected, with unified mind, and disciplined in his senses, then he is praiseworthy for that reason."
 
 ‘‘Gāmantavihārī cepi, gahapati, bhikkhu hoti uddhato…pe… evaṃ so tenaṅgena gārayho. Gāmantavihārī cepi, gahapati, bhikkhu hoti anuddhato…pe… evaṃ so tenaṅgena pāsaṃso.
 
@@ -44,7 +44,7 @@ language: "English - Pali"
 
 ‘‘Gahapaticīvaradharo cepi, gahapati, bhikkhu hoti uddhato unnaḷo capalo mukharo vikiṇṇavāco muṭṭhassati asampajāno asamāhito vibbhantacitto pākatindriyo. Evaṃ so tenaṅgena gārayho. Gahapaticīvaradharo cepi, gahapati, bhikkhu hoti anuddhato anunnaḷo acapalo amukharo avikiṇṇavāco upaṭṭhitassati sampajāno samāhito ekaggacitto saṃvutindriyo. Evaṃ so tenaṅgena pāsaṃso.
 
-"Even if a monk, householder, wears the robes of a householder, if he is arrogant, haughty, unsteady, garrulous, scattering his words, forgetful, lacking clear comprehension, unconcentrated, with a bewildered mind, and undisciplined senses—then he is to be criticized for that quality. Even if a monk, householder, wears the robes of a householder, if he is not arrogant, not haughty, not unsteady, not garrulous, not scattering his words, with mindfulness established, possessing clear comprehension, concentrated, with a unified mind, and with controlled senses—then he is to be praised for that quality."
+"Even if a monk, householder, wears the robes of a householder, if he is arrogant, haughty, unsteady, garrulous, scattering his words, forgetful, lacking clear comprehension, uncollected, with a bewildered mind, and undisciplined senses—then he is to be criticized for that quality. Even if a monk, householder, wears the robes of a householder, if he is not arrogant, not haughty, not unsteady, not garrulous, not scattering his words, with mindfulness established, possessing clear comprehension, collected, with a unified mind, and with controlled senses—then he is to be praised for that quality."
 
 ‘‘Iṅgha tvaṃ, gahapati, saṅghe dānaṃ [dānāni (ka.)] dehi. Saṅghe te dānaṃ dadato cittaṃ pasīdissati. So tvaṃ pasannacitto kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissasī’’ti. ‘‘Esāhaṃ, bhante, ajjatagge saṅghe dānaṃ dassāmī’’ti. Pañcamaṃ.
 

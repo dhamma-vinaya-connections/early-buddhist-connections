@@ -32,7 +32,7 @@ language: "English - Pali"
 ‘‘Yassa sakkariyamānassa, asakkārena cūbhayaṃ;Samādhi na vikampati, appamādavihārino [appamāṇavihārino (sī. aṭṭha.)].
 “For one who dwells heedfully,
 When honored or dishonored,
-His concentration is not shaken by both.
+His samādhi is not shaken by both.
 ‘‘Taṃ jhāyinaṃ sātatikaṃ, sukhumaṃ diṭṭhivipassakaṃ;Upādānakkhayārāmaṃ, āhu sappuriso itī’’ti.
 “That meditative and persistent one,
 Subtle, a seer of the view,

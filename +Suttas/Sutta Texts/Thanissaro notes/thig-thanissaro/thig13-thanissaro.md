@@ -778,7 +778,7 @@ Subhā the goldsmith’s daughter.
 
 6. See Thag4.8. [↩︎](#^thig13-5note06-ref) ^thig13-5note06
 
-7. This can mean that she has achieved restraint over her sense faculties, or that she has fully developed the faculties of conviction, persistence, mindfulness, concentration, and discernment. See. [[sn48.10-thanissaro]] and [[an4.37-thanissaro]]. [↩︎](#^thig13-5note07-ref) ^thig13-5note07
+7. This can mean that she has achieved restraint over her sense faculties, or that she has fully developed the faculties of conviction, persistence, mindfulness, samādhi, and discernment. See. [[sn48.10-thanissaro]] and [[an4.37-thanissaro]]. [↩︎](#^thig13-5note07-ref) ^thig13-5note07
 
 See also: [[mn13-thanissaro]]; [[mn54-thanissaro]]
 

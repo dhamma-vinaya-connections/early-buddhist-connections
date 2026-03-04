@@ -35,14 +35,14 @@ this excellent treasure is in the Buddha:
 by virtue of this truth may there be safety!
 
 4Craving's end, dispassion, deathlessness, excellence—  
-that which the concentrated Sakyan sage attained—  
+that which the collected Sakyan sage attained—  
 there is nothing that is equal to the Dhamma—  
 this excellent treasure is in the Dhamma:  
 by virtue of this truth may there be safety!
 
 5That which the great Buddha praised as being pure—  
-the concentration said to have immediate result—  
-no equal to that concentration is found—  
+the samādhi said to have immediate result—  
+no equal to that samādhi is found—  
 this excellent treasure is in the Dhamma:  
 by virtue of this truth may there be safety!
 

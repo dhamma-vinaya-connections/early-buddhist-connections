@@ -16,7 +16,7 @@ language: "English - Pali"
 
 209. [cūḷava. 249] ‘‘Pañcime, bhikkhave, ādīnavā āyatakena gītassarena dhammaṃ bhaṇantassa. Katame pañca? Attanāpi tasmiṃ sare sārajjati, parepi tasmiṃ sare sārajjanti, gahapatikāpi ujjhāyanti – ‘yatheva mayaṃ gāyāma, evamevaṃ kho samaṇā sakyaputtiyā gāyantī’ti, sarakuttimpi nikāmayamānassa samādhissa bhaṅgo hoti, pacchimā janatā diṭṭhānugatiṃ āpajjati. Ime kho, bhikkhave, pañca ādīnavā āyatakena gītassarena dhammaṃ bhaṇantassā’’ti. Navamaṃ.
 
-209.“Bhikkhus, there are these five dangers for one who recites the Dhamma with a drawn-out, musical tone. What five? He himself becomes infatuated with that tone; others become infatuated with that tone; householders complain: ‘Just as we sing, so too these Sakyan ascetics sing!’; for one desiring euphony, his concentration is broken; and later generations follow that example. These, bhikkhus, are the five dangers for one who recites the Dhamma with a drawn-out, musical tone.” This is the ninth.
+209.“Bhikkhus, there are these five dangers for one who recites the Dhamma with a drawn-out, musical tone. What five? He himself becomes infatuated with that tone; others become infatuated with that tone; householders complain: ‘Just as we sing, so too these Sakyan ascetics sing!’; for one desiring euphony, his samādhi is broken; and later generations follow that example. These, bhikkhus, are the five dangers for one who recites the Dhamma with a drawn-out, musical tone.” This is the ninth.
 
 
 ---

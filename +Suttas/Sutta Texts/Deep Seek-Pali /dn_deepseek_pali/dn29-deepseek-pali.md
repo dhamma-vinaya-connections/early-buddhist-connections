@@ -204,7 +204,7 @@ Again, Cunda, someone here takes what is not given and thereby makes himself hap
 
 ‘‘Puna caparaṃ, cunda, bhikkhu vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ upasampajja viharati. Ayaṃ dutiyo sukhallikānuyogo.
 
-"Furthermore, Cunda, with the stilling of thought and examination, a monk enters and dwells in the second jhāna, which has inner tranquility and unification of mind, is born of concentration, and is without thought and examination. This is the second devotion to happiness."
+"Furthermore, Cunda, with the stilling of thought and examination, a monk enters and dwells in the second jhāna, which has inner tranquility and unification of mind, is born of samādhi, and is without thought and examination. This is the second devotion to happiness."
 
 ‘‘Puna caparaṃ, cunda, bhikkhu pītiyā ca virāgā…pe… tatiyaṃ jhānaṃ upasampajja viharati. Ayaṃ tatiyo sukhallikānuyogo.
 

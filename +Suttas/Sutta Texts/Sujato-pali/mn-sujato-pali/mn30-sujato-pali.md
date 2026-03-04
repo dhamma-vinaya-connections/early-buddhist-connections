@@ -61,9 +61,9 @@ Then the brahmin Piṅgalakoccha went up to the Buddha, and exchanged greetings 
 
 12And what are those things that are better and finer than knowledge and vision?
 
-Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. This is something better and finer than knowledge and vision.
+Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. This is something better and finer than knowledge and vision.
 
-13Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected. This too is something better and finer than knowledge and vision.
+13Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This too is something better and finer than knowledge and vision.
 
 14Furthermore, with the fading away of rapture, a mendicant enters and remains in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This too is something better and finer than knowledge and vision.
 

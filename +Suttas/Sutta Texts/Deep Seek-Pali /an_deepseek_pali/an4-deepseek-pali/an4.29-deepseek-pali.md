@@ -28,7 +28,7 @@ language: "English - Pali"
 
 ‘‘Sammāsamādhi, bhikkhave, dhammapadaṃ aggaññaṃ rattaññaṃ vaṃsaññaṃ porāṇaṃ asaṃkiṇṇaṃ asaṃkiṇṇapubbaṃ, na saṃkīyati na saṃkīyissati, appaṭikuṭṭhaṃ samaṇehi brāhmaṇehi viññūhi. Imāni kho, bhikkhave, cattāri dhammapadāni aggaññāni rattaññāni vaṃsaññāni porāṇāni asaṃkiṇṇāni asaṃkiṇṇapubbāni, na saṃkīyanti na saṃkīyissanti, appaṭikuṭṭhāni samaṇehi brāhmaṇehi viññūhī’’ti.
 
-“Right concentration, monks, is a principle of Dhamma that is supreme, age-old, traditional, ancient, uncorrupted, never before corrupted, not being corrupted now, nor will it be corrupted in the future; it is not rejected by ascetics, brahmins, and the wise. These, monks, are the four principles of Dhamma that are supreme, age-old, traditional, ancient, uncorrupted, never before corrupted, not being corrupted now, nor will they be corrupted in the future; they are not rejected by ascetics, brahmins, and the wise.”
+“Right samādhi, monks, is a principle of Dhamma that is supreme, age-old, traditional, ancient, uncorrupted, never before corrupted, not being corrupted now, nor will it be corrupted in the future; it is not rejected by ascetics, brahmins, and the wise. These, monks, are the four principles of Dhamma that are supreme, age-old, traditional, ancient, uncorrupted, never before corrupted, not being corrupted now, nor will they be corrupted in the future; they are not rejected by ascetics, brahmins, and the wise.”
 
 ‘‘Anabhijjhālu vihareyya, abyāpannena cetasā;Sato ekaggacittassa [ekaggacittāyaṃ (ka.)], ajjhattaṃ susamāhito’’ti. navamaṃ;
 

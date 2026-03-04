@@ -16,7 +16,7 @@ language: "English - Pali"
 
 261. ‘‘Cattārimāni, bhikkhave, balāni. Katamāni cattāri? Vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ – imāni kho, bhikkhave, cattāri balānī’’ti. Aṭṭhamaṃ.
 
-261."Monks, there are these four strengths. What four? The strength of energy, the strength of mindfulness, the strength of concentration, and the strength of wisdom. These, monks, are the four strengths." The eighth.
+261."Monks, there are these four strengths. What four? The strength of energy, the strength of mindfulness, the strength of samādhi, and the strength of wisdom. These, monks, are the four strengths." The eighth.
 
 
 ---

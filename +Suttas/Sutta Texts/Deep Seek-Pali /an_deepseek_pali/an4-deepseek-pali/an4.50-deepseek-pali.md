@@ -72,7 +72,7 @@ The Summary:
 
 Samādhipañhā dve kodhā, rohitassāpare duve;Suvidūravisākhavipallāsā, upakkilesena te dasāti.
 
-Two on questions about concentration, two on anger; the other two on Rohitassa; Suvidūra, Visākha, and Vipallāsa; with the corruptions, these are ten.
+Two on questions about samādhi, two on anger; the other two on Rohitassa; Suvidūra, Visākha, and Vipallāsa; with the corruptions, these are ten.
 
 Paṭhamapaṇṇāsakaṃ samattaṃ.
 

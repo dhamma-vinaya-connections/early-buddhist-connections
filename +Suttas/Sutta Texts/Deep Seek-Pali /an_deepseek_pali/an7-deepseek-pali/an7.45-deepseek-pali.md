@@ -12,11 +12,11 @@ language: "English - Pali"
 
 # AN 7.45 Samādhiparikkhārasuttaṃ
 
-## AN 7.45 The Discourse on the Requisites of Concentration
+## AN 7.45 The Discourse on the Requisites of samādhi
 
 45. ‘‘Sattime, bhikkhave, samādhiparikkhārā. Katame satta? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati. Yā kho, bhikkhave, imehi sattahaṅgehi cittassekaggatā parikkhatā [‘saparikkhāratā’tipi, ‘saparikkhatā’tipi (saṃ. ni. 5.28)], ayaṃ vuccati, bhikkhave, ariyo sammāsamādhi [samādhi (syā.)] saupaniso itipi saparikkhāro itipī’’ti. Dutiyaṃ.
 
-45.Monks, there are these seven requisites of concentration. Which seven? Right view, right intention, right speech, right action, right livelihood, right effort, and right mindfulness. Monks, that one-pointedness of mind, equipped with these seven factors, is called noble right concentration, together with its basis and its requisites.” This is the second discourse.
+45.Monks, there are these seven requisites of samādhi. Which seven? Right view, right intention, right speech, right action, right livelihood, right effort, and right mindfulness. Monks, that one-pointedness of mind, equipped with these seven factors, is called noble right samādhi, together with its basis and its requisites.” This is the second discourse.
 
 
 ---

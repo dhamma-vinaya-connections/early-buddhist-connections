@@ -200,7 +200,7 @@ Whoever gets flustered
 
 at food & drink given to others,
 
-attains no concentration
+attains no samādhi
 
 by day or by night.
 
@@ -212,7 +212,7 @@ up-rooted
 
 wiped out–
 
-attains concentration
+attains samādhi
 
 by day or by night.
 

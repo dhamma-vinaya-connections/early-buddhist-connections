@@ -35,7 +35,7 @@ Then another devatā exclaimed in the Blessed One’s presence: “What a strong
 
 Then another devatā exclaimed in the Blessed One’s presence: “What a tamed one is Gotama the contemplative! And like a tamed one, when bodily feelings have arisen—painful, fierce, sharp, wracking, repellent, disagreeable—he endures them mindful, alert, & unperturbed!”
 
-Then another devatā exclaimed in the Blessed One’s presence: “See a concentration well-developed, a mind well released—neither pressed down nor forced back, nor with mental fabrication kept blocked or suppressed. Whoever would think that such a nāga of a man, lion of a man, thoroughbred of a man, peerless bull of a man, strong burden-carrier of a man, such a tamed man should be violated: What else is that if not blindness?”
+Then another devatā exclaimed in the Blessed One’s presence: “See a samādhi well-developed, a mind well released—neither pressed down nor forced back, nor with mental fabrication kept blocked or suppressed. Whoever would think that such a nāga of a man, lion of a man, thoroughbred of a man, peerless bull of a man, strong burden-carrier of a man, such a tamed man should be violated: What else is that if not blindness?”
 
 “Five-Veda Brahmans,
 

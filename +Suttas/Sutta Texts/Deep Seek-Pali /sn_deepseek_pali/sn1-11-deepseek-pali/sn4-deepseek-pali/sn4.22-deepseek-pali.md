@@ -28,7 +28,7 @@ Then Venerable Samiddhi approached the Blessed One, paid homage to him, and sat 
 
 ‘‘Saddhāyāhaṃ pabbajito, agārasmā anagāriyaṃ;Sati paññā ca me buddhā, cittañca susamāhitaṃ;Kāmaṃ karassu rūpāni, neva maṃ byādhayissasī’’ti.
 
-"Out of faith I went forth, from the household to homelessness; My mindfulness and wisdom are awakened, and my mind is well concentrated; Do what you will with forms, you will not afflict me."
+"Out of faith I went forth, from the household to homelessness; My mindfulness and wisdom are awakened, and my mind is well collected; Do what you will with forms, you will not afflict me."
 
 Atha kho māro pāpimā ‘‘jānāti maṃ samiddhi bhikkhū’’ti dukkhī dummano tatthevantaradhāyīti.
 

@@ -120,7 +120,7 @@ Having obtained food and robes at the proper time, he should know the measure he
 
 ‘‘Okkhittacakkhu na ca pādalolo, jhānānuyutto bahujāgarassa;Upekkhamārabbha samāhitatto, takkāsayaṃ kukkucciyūpachinde.
 
-With eyes downcast, not restless with his feet, he should be devoted to the jhānas and very wakeful. Having aroused equanimity, with concentrated mind, he should cut off the tendency to sensual thoughts and remorse.
+With eyes downcast, not restless with his feet, he should be devoted to the jhānas and very wakeful. Having aroused equanimity, with collected mind, he should cut off the tendency to sensual thoughts and remorse.
 
 979.
 

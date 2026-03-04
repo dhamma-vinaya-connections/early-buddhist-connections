@@ -102,7 +102,7 @@ struck down.
 
 ### Notes
 
-1. This can mean that she has achieved restraint over her sense faculties, or that she has fully developed the faculties of conviction, persistence, mindfulness, concentration, and discernment. See. [[sn48.10-thanissaro]] and [[an4.37-thanissaro]]. [↩︎](#^thig7-3note01-ref) ^thig7-3note01
+1. This can mean that she has achieved restraint over her sense faculties, or that she has fully developed the faculties of conviction, persistence, mindfulness, samādhi, and discernment. See. [[sn48.10-thanissaro]] and [[an4.37-thanissaro]]. [↩︎](#^thig7-3note01-ref) ^thig7-3note01
 
 2. This stanza does not occur in [[sn5.8-thanissaro]]. [↩︎](#^thig7-3note02-ref) ^thig7-3note02
 

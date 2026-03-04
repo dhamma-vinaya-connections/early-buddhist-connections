@@ -382,7 +382,7 @@ There is now no further becoming.
 
 1. Sikkhamānā: A candidate for full ordination as a nun first had to undergo a two-year period as a trainee, in which she undertook the ten precepts of a novice and had to observe the first six without break. If she broke any of those six, she had to go back and start the two-year period again. [↩︎](#^thig5-8note01-ref) ^thig5-8note01
 
-2. This is apparently equivalent to the concentration of unmediated knowing, mentioned in [[/snp2.1-thanissaro]], and the concentration that is the fruit of gnosis, mentioned in [[an9.37-thanissaro]]. [↩︎](#^thig5-8note02-ref) ^thig5-8note02
+2. This is apparently equivalent to the samādhi of unmediated knowing, mentioned in [[/snp2.1-thanissaro]], and the samādhi that is the fruit of gnosis, mentioned in [[an9.37-thanissaro]]. [↩︎](#^thig5-8note02-ref) ^thig5-8note02
 
 3. This line plays with the word jamme, which can mean either “wretched” or “birth.” [↩︎](#^thig5-8note03-ref) ^thig5-8note03
 

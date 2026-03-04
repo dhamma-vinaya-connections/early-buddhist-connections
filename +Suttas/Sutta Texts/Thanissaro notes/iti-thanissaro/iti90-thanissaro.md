@@ -18,7 +18,7 @@ _This was said by the Blessed One, said by the Arahant, so I have heard:_ “Mon
 
 “Among whatever dhammas there may be, fabricated or unfabricated, dispassion–the subduing of intoxication, the elimination of thirst, the uprooting of attachment, the breaking of the round, the destruction of craving, dispassion, cessation, the realization of Unbinding–is considered supreme. Those who have confidence in the dhamma of dispassion have confidence in what is supreme; and for those with confidence in the supreme, supreme is the result.
 
-“Among whatever fabricated qualities there may be, the noble eightfold path–right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration–is considered supreme. Those who have confidence in the dhamma of the noble path have confidence in what is supreme; and for those with confidence in the supreme, supreme is the result.
+“Among whatever fabricated qualities there may be, the noble eightfold path–right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi–is considered supreme. Those who have confidence in the dhamma of the noble path have confidence in what is supreme; and for those with confidence in the supreme, supreme is the result.
 
 “Among whatever communities or groups there may be, the Saṅgha of the Tathāgata’s disciples is considered supreme–i.e., the four [groups of noble disciples] when taken as pairs, the eight when taken as persons.[1](#^iti90note01) Those who have confidence in the Saṅgha have confidence in what is supreme; and for those with confidence in the supreme, supreme will be the result. ^iti90note01-ref
 

@@ -24,7 +24,7 @@ language: "English - Pali"
 
 "May the Gracious One not be cold, may the Gracious One not be hot, may the Gracious One not be affected by gadflies, mosquitoes, wind, the heat of the sun, and serpents."
 
-3Then with the passing of those seven days, the Gracious One arose from that concentration. Then the Nāga King Mucalinda, having understood that the sky was now clear without a cloud, having unravelled his coils from the Gracious One's body, and after withdrawing his own form, and creating the appearance of a young brāhmaṇa, stood in front of the Gracious One, revering the Gracious One with raised hands.
+3Then with the passing of those seven days, the Gracious One arose from that samādhi. Then the Nāga King Mucalinda, having understood that the sky was now clear without a cloud, having unravelled his coils from the Gracious One's body, and after withdrawing his own form, and creating the appearance of a young brāhmaṇa, stood in front of the Gracious One, revering the Gracious One with raised hands.
 
 4Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

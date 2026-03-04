@@ -54,7 +54,7 @@ language: "English - Pali"
 
 ‘‘Nimittaṃ parivajjehi, subhaṃ rāgūpasañhitaṃ;Asubhāya cittaṃ bhāvehi, ekaggaṃ susamāhitaṃ.
 
-“Avoid the beautiful sign associated with lust. Develop the mind on the unattractive, single-pointed and well-concentrated.”
+“Avoid the beautiful sign associated with lust. Develop the mind on the unattractive, single-pointed and well-collected.”
 
 344.
 

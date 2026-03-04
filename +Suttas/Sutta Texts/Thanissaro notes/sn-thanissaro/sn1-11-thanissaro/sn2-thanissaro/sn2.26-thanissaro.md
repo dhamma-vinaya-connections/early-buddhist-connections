@@ -37,7 +37,7 @@ with regard to the cosmos,
 		a knower of the end of the cosmos,
 		having fulfilled the holy life,
 		knowing the cosmos’ end,
-				concentrated,
+				collected,
 			doesn’t long for this cosmos
 						or any other.
 

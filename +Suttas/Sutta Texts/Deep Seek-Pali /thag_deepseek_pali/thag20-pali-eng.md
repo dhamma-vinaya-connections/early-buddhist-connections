@@ -16,7 +16,7 @@ language: "Pali"
 1149.
 ‘‘Āraññikā piṇḍapātikā, uñchāpattāgate ratā;Dālemu maccuno senaṃ, ajjhattaṃ susamāhitā.
 
-As forest-dwellers and alms-food-eaters, delighting in what is obtained by gleaning, let us, inwardly well-concentrated, shatter the army of Death.
+As forest-dwellers and alms-food-eaters, delighting in what is obtained by gleaning, let us, inwardly well-collected, shatter the army of Death.
 
 1150.
 ‘‘Āraññikā piṇḍapātikā, uñchāpattāgate ratā;Dhunāma maccuno senaṃ, naḷāgāraṃva kuñjaro.
@@ -26,7 +26,7 @@ As forest-dwellers and alms-food-eaters, delighting in what is obtained by glean
 1151.
 ‘‘Rukkhamūlikā sātatikā, uñchāpattāgate ratā;Dālemu maccuno senaṃ, ajjhattaṃ susamāhitā.
 
-As persevering tree-root-dwellers, delighting in what is obtained by gleaning, let us, inwardly well-concentrated, shatter the army of Death.
+As persevering tree-root-dwellers, delighting in what is obtained by gleaning, let us, inwardly well-collected, shatter the army of Death.
 
 1152.
 ‘‘Rukkhamūlikā sātatikā, uñchāpattāgate ratā;Dhunāma maccuno senaṃ, naḷāgāraṃva kuñjaro.
@@ -66,7 +66,7 @@ One who would think to dye the sky with turmeric, or with any other color, would
 1159.
 ‘‘Tadākāsasamaṃ cittaṃ, ajjhattaṃ susamāhitaṃ;Mā pāpacitte āsādi, aggikhandhaṃva pakkhimā.
 
-My mind is like the sky, inwardly well-concentrated. Do not assail it, O evil-minded one, as a moth assails a mass of fire.
+My mind is like the sky, inwardly well-collected. Do not assail it, O evil-minded one, as a moth assails a mass of fire.
 
 1160.
 ‘‘Passa cittakataṃ bimbaṃ, arukāyaṃ samussitaṃ;Āturaṃ bahusaṅkappaṃ, yassa natthi dhuvaṃ ṭhiti.
@@ -187,7 +187,7 @@ do not assail such a bhikkhu! O brahmin, do not harm yourself. Inspire your mind
 Like a worm smeared with filth, infatuated with formations, sunk in gain and honor, the hollow man goes on, empty.
 
 1185.
-‘‘Imañca passa āyantaṃ, sāriputtaṃ sudassanaṃ;Vimuttaṃ ubhatobhāge, ajjhattaṃ susamāhitaṃ. And see this Sāriputta coming, so fair to behold, liberated in both ways, inwardly well-concentrated.
+‘‘Imañca passa āyantaṃ, sāriputtaṃ sudassanaṃ;Vimuttaṃ ubhatobhāge, ajjhattaṃ susamāhitaṃ. And see this Sāriputta coming, so fair to behold, liberated in both ways, inwardly well-collected.
 
 
 1186.
@@ -223,7 +223,7 @@ That bhikkhu, by the quality of his psychic power, sees those devas who are mast
 
 
 1193.
-‘‘Samādhivijjāvasipāramīgato, moggallānagotto asitassa sāsane;Dhīro samucchindi samāhitindriyo, nāgo yathā pūtilataṃva bandhanaṃ. Having reached the peak of mastery in concentration and knowledge, he of the Moggallāna clan, in the teaching of the Seer, the steadfast one with faculties composed, has cut through his bonds like an elephant tearing a rotten creeper.
+‘‘Samādhivijjāvasipāramīgato, moggallānagotto asitassa sāsane;Dhīro samucchindi samāhitindriyo, nāgo yathā pūtilataṃva bandhanaṃ. Having reached the peak of mastery in samādhi and knowledge, he of the Moggallāna clan, in the teaching of the Seer, the steadfast one with faculties composed, has cut through his bonds like an elephant tearing a rotten creeper.
 
 
 1194.

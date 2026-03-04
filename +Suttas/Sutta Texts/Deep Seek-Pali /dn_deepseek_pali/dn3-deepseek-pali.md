@@ -221,7 +221,7 @@ Is supreme among gods and humans.
 
 ‘‘Puna caparaṃ, ambaṭṭha, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati…pe… idampissa hoti caraṇasmiṃ.
 
-"Furthermore, Ambaṭṭha, with the stilling of applied thought and sustained thought, a bhikkhu enters and dwells in the second jhāna, which has internal assurance and unification of mind, is without applied thought and sustained thought, and has rapture and happiness born of concentration… This, too, is part of his conduct."
+"Furthermore, Ambaṭṭha, with the stilling of applied thought and sustained thought, a bhikkhu enters and dwells in the second jhāna, which has internal assurance and unification of mind, is without applied thought and sustained thought, and has rapture and happiness born of samādhi… This, too, is part of his conduct."
 
 ‘‘Puna caparaṃ, ambaṭṭha, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti – ‘‘upekkhako satimā sukhavihārī’ti, tatiyaṃ jhānaṃ upasampajja viharati…pe… idampissa hoti caraṇasmiṃ.
 
@@ -233,7 +233,7 @@ Is supreme among gods and humans.
 
 ‘‘So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte ñāṇadassanāya cittaṃ abhinīharati abhininnāmeti…pe… idampissa hoti vijjāya…pe… nāparaṃ itthattāyāti pajānāti, idampissa hoti vijjāya. Ayaṃ kho sā, ambaṭṭha, vijjā.
 
-"When his mind is thus concentrated, purified, bright, unblemished, rid of defilements, pliable, workable, steady, and has attained imperturbability, he directs and inclines it to knowledge and vision… This, too, is his knowledge… He understands: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more beyond this.' This, too, is his knowledge. This, Ambaṭṭha, is that knowledge."
+"When his mind is thus collected, purified, bright, unblemished, rid of defilements, pliable, workable, steady, and has attained imperturbability, he directs and inclines it to knowledge and vision… This, too, is his knowledge… He understands: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more beyond this.' This, too, is his knowledge. This, Ambaṭṭha, is that knowledge."
 
 ‘‘Ayaṃ vuccati, ambaṭṭha, bhikkhu ‘vijjāsampanno’ itipi, ‘caraṇasampanno’ itipi, ‘vijjācaraṇasampanno’ itipi. Imāya ca ambaṭṭha vijjāsampadāya caraṇasampadāya ca aññā vijjāsampadā ca caraṇasampadā ca uttaritarā vā paṇītatarā vā natthi.
 

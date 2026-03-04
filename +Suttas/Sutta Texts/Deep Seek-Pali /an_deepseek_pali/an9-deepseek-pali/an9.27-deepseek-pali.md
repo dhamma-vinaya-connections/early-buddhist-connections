@@ -44,7 +44,7 @@ Saṅghe aveccappasādena samannāgato hoti – ‘suppaṭipanno bhagavato sāv
 
 Ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi akammāsehi bhujissehi viññuppasatthehi aparāmaṭṭhehi samādhisaṃvattanikehi. Imehi catūhi sotāpattiyaṅgehi samannāgato hoti.
 
-"He is endowed with the virtues dear to the noble ones, which are unbroken, untorn, unspotted, unmottled, liberating, praised by the wise, ungrasped, and conducive to concentration. He is endowed with these four factors of stream-entry.
+"He is endowed with the virtues dear to the noble ones, which are unbroken, untorn, unspotted, unmottled, liberating, praised by the wise, ungrasped, and conducive to samādhi. He is endowed with these four factors of stream-entry.
 
 ‘‘Yato kho, gahapati, ariyasāvakassa imāni pañca bhayāni verāni vūpasantāni honti, imehi ca catūhi sotāpattiyaṅgehi samannāgato hoti, so ākaṅkhamāno attanāva attānaṃ byākareyya – ‘khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto; sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo’’’ti. Sattamaṃ.
 

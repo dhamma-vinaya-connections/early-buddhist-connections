@@ -70,9 +70,9 @@ language: "English - Pali"
 And that’s just what they did. And that’s how the fourth group of ascetics and brahmins got free from Māra’s power. This fourth group of ascetics and brahmins is just like the fourth herd of deer, I say.
 
 
-18And where is it that Māra and his assembly can’t go? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. This is called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see.
+18And where is it that Māra and his assembly can’t go? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. This is called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see.
 
-19Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected. This is called a mendicant who has blinded Māra …
+19Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is called a mendicant who has blinded Māra …
 
 20Furthermore, with the fading away of rapture, a mendicant enters and remains in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is called a mendicant who has blinded Māra …
 

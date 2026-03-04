@@ -15,7 +15,7 @@ language: "English"
 ## ## Kaṭuviya Sutta
 
 
-I have heard that on one occasion the Blessed One was staying near Vārāṇasī in the Deer Park at Isipatana. Then early in the morning the Blessed One, having adjusted his lower robe and carrying his bowl & outer robe, went into Vārāṇasī for alms. As he was walking for alms near the fig-tree at the cattle yoke, he saw a certain monk whose delight was in what is empty, whose delight was in exterior things—his mindfulness muddled, his alertness lacking, his concentration lacking, his mind gone astray, his faculties uncontrolled. On seeing him, the Blessed One said to him: “Monk, monk, don’t let yourself putrefy! On one who lets himself putrefy & stink with the stench of carrion, there’s no way that flies won’t swarm & attack!”
+I have heard that on one occasion the Blessed One was staying near Vārāṇasī in the Deer Park at Isipatana. Then early in the morning the Blessed One, having adjusted his lower robe and carrying his bowl & outer robe, went into Vārāṇasī for alms. As he was walking for alms near the fig-tree at the cattle yoke, he saw a certain monk whose delight was in what is empty, whose delight was in exterior things—his mindfulness muddled, his alertness lacking, his samādhi lacking, his mind gone astray, his faculties uncontrolled. On seeing him, the Blessed One said to him: “Monk, monk, don’t let yourself putrefy! On one who lets himself putrefy & stink with the stench of carrion, there’s no way that flies won’t swarm & attack!”
 
 Then the monk—admonished with this, the Blessed One’s admonishment—came to his senses.
 

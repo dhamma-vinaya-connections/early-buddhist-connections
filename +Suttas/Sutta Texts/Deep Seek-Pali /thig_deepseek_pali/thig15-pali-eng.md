@@ -177,7 +177,7 @@ Evamanuyuñjiyamānā sā, rahite dhammadesanākusalā;Isidāsī vacanamabravi, 
 436.
 ‘‘Jānāmi attano satta, jātiyo yassayaṃ phalavipāko;Taṃ tava ācikkhissaṃ, taṃ ekamanā nisāmehi.
 
-“I know my own seven past lives, of which this is the fruit and result. I shall declare that to you; listen with a concentrated mind.
+“I know my own seven past lives, of which this is the fruit and result. I shall declare that to you; listen with a collected mind.
 
 437.
 ‘‘Nagaramhi erakacche [erakakacche (syā. ka.)], suvaṇṇakāro ahaṃ pahūtadhano;Yobbanamadena matto so, paradāraṃ asevihaṃ.

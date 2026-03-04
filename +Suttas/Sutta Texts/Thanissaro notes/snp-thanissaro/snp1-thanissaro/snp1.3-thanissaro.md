@@ -608,7 +608,7 @@ the flood.
 
 5. “There are these five strings of sensuality. Which five? Forms cognizable via the eye—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire; sounds cognizable via the ear… aromas cognizable via the nose… flavors cognizable via the tongue… tactile sensations cognizable via the body—agreeable, pleasing, charming, endearing, enticing, linked with sensual desire. But these are not sensuality. They are called strings of sensuality in the discipline of the noble ones.” — _[[an6.63-thanissaro]]_ [↩︎](#^snp1-3-05-ref) ^snp1-3-05
 
-6. The temporary release from such things as the hindrances, attained when entering right concentration, or the temporary release from some of the factors of lower states of jhāna, attained when entering higher states of jhāna. This release lasts only as long as the necessary causal factors are still in place. This is apparently the same thing as the occasional release/liberation mentioned in [[mn29-thanissaro]]. See note 2 to that sutta. [↩︎](#^snp1-3-06-ref) ^snp1-3-06
+6. The temporary release from such things as the hindrances, attained when entering right samādhi, or the temporary release from some of the factors of lower states of jhāna, attained when entering higher states of jhāna. This release lasts only as long as the necessary causal factors are still in place. This is apparently the same thing as the occasional release/liberation mentioned in [[mn29-thanissaro]]. See note 2 to that sutta. [↩︎](#^snp1-3-06-ref) ^snp1-3-06
 
 7. An epithet for the Buddha. [↩︎](#^snp1-3-07-ref) ^snp1-3-07
 

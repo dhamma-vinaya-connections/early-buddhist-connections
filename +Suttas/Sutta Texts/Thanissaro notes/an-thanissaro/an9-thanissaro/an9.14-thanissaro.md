@@ -33,7 +33,7 @@ Then Ven. Samiddhi went to Ven. Sāriputta and, on arrival, having bowed down to
 
 “And what do they have as their presiding state?”
 
-“They have concentration as their presiding state, sir.”
+“They have samādhi as their presiding state, sir.”
 
 “And what do they have as their governing principle?”
 
@@ -59,7 +59,7 @@ Then Ven. Samiddhi went to Ven. Sāriputta and, on arrival, having bowed down to
 
 “When asked, ‘And what do they have as their meeting place?’ you have answered, ‘They have feeling as their meeting place.’
 
-“When asked, ‘And what do they have as their presiding state?’ you have answered, ‘They have concentration as their presiding state.’
+“When asked, ‘And what do they have as their presiding state?’ you have answered, ‘They have samādhi as their presiding state.’
 
 “When asked, ‘And what do they have as their governing principle?’ you have answered, ‘They have mindfulness as their governing principle.’
 

@@ -16,7 +16,7 @@ language: "English - Pali"
 
 92. ‘‘Pañcimā, bhikkhave, sampadā. Katamā pañca? Sīlasampadā, samādhisampadā, paññāsampadā, vimuttisampadā, vimuttiñāṇadassanasampadā – imā kho, bhikkhave, pañca sampadā’’ti. Dutiyaṃ.
 
-92."Monks, there are these five accomplishments. What five? Accomplishment in virtue, accomplishment in concentration, accomplishment in wisdom, accomplishment in liberation, and accomplishment in the knowledge and vision of liberation. These, monks, are the five accomplishments." Second.
+92."Monks, there are these five accomplishments. What five? Accomplishment in virtue, accomplishment in samādhi, accomplishment in wisdom, accomplishment in liberation, and accomplishment in the knowledge and vision of liberation. These, monks, are the five accomplishments." Second.
 
 
 ---

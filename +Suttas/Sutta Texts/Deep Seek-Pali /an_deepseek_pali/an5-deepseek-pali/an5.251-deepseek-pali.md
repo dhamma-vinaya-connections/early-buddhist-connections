@@ -16,7 +16,7 @@ language: "English - Pali"
 
 251. [mahāva. 84] ‘‘Pañcahi, bhikkhave, dhammehi samannāgatena bhikkhunā upasampādetabbaṃ. Katamehi pañcahi? Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti; asekhena samādhikkhandhena samannāgato hoti; asekhena paññākkhandhena samannāgato hoti; asekhena vimuttikkhandhena samannāgato hoti; asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatena bhikkhunā upasampādetabba’’nti. Paṭhamaṃ.
 
-251.“Bhikkhus, a bhikkhu endowed with five qualities should give higher ordination. Which five? Here, bhikkhus, a bhikkhu is endowed with the aggregate of morality of one beyond training; he is endowed with the aggregate of concentration of one beyond training; he is endowed with the aggregate of wisdom of one beyond training; he is endowed with the aggregate of liberation of one beyond training; he is endowed with the aggregate of knowledge and vision of liberation of one beyond training. Bhikkhus, a bhikkhu endowed with these five qualities should give higher ordination.” The first.
+251.“Bhikkhus, a bhikkhu endowed with five qualities should give higher ordination. Which five? Here, bhikkhus, a bhikkhu is endowed with the aggregate of morality of one beyond training; he is endowed with the aggregate of samādhi of one beyond training; he is endowed with the aggregate of wisdom of one beyond training; he is endowed with the aggregate of liberation of one beyond training; he is endowed with the aggregate of knowledge and vision of liberation of one beyond training. Bhikkhus, a bhikkhu endowed with these five qualities should give higher ordination.” The first.
 
 
 ---

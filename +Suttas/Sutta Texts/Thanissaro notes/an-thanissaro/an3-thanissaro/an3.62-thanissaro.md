@@ -91,7 +91,7 @@ From the cessation of becoming comes the cessation of birth. From the cessation 
 
 “This is called the noble truth of the cessation of stress.
 
-“And what is the noble truth of the path of practice leading to the cessation of stress? Just this noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. This is called the noble truth of the path of practice leading to the cessation of stress.
+“And what is the noble truth of the path of practice leading to the cessation of stress? Just this noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi. This is called the noble truth of the path of practice leading to the cessation of stress.
 
 “‘“There are these four noble truths” is a Dhamma taught by me that is unrefuted, undefiled, blameless, not faulted by knowledgeable contemplatives & brahmans’: Thus was it said. And in reference to this was it said.”
 

@@ -22,7 +22,7 @@ Both when receiving offerings
 
 & not,
 
-his concentration
+his samādhi
 
 doesn’t waver;
 

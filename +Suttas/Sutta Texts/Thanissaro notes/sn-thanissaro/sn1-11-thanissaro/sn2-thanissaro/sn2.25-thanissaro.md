@@ -15,7 +15,7 @@ language: "English"
 ## ## Jantu Sutta
 
 
-I have heard that on one occasion many monks were staying among the Kosalans in wilderness huts: high-strung, rowdy, unruly, talkative, of loose words & muddled mindfulness, unalert, unconcentrated, their minds scattered, their faculties left wide open.
+I have heard that on one occasion many monks were staying among the Kosalans in wilderness huts: high-strung, rowdy, unruly, talkative, of loose words & muddled mindfulness, unalert, uncollected, their minds scattered, their faculties left wide open.
 
 Then Jantu the deva’s son, on the uposatha of the fifteenth, went to those monks and, on arrival, addressed them in verses.
 

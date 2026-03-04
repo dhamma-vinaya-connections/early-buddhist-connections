@@ -96,7 +96,7 @@ vv. 335–342
 
 1. _Ek’agga,_ reading _agga_ in the sense of “gathering place.” [↩︎](#^snp2-11-01-ref) ^snp2-11-01
 
-2. On the themeless concentration, see [[mn121-thanissaro]] and [[sn41.7-thanissaro]]. [↩︎](#^snp2-11-02-ref) ^snp2-11-02
+2. On the themeless samādhi, see [[mn121-thanissaro]] and [[sn41.7-thanissaro]]. [↩︎](#^snp2-11-02-ref) ^snp2-11-02
 
 3. At AN 1:148 (1:209) the Buddha cites Ven. Rāhula, his son, as being foremost among the monks in his desire for training. [↩︎](#^snp2-11-03-ref) ^snp2-11-03
 

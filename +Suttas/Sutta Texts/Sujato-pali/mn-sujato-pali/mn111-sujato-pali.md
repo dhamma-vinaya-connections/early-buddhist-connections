@@ -25,11 +25,11 @@ language: "English - Pali"
 2“Sāriputta is astute, mendicants. He has great wisdom, widespread wisdom, laughing wisdom, swift wisdom, sharp wisdom, and penetrating wisdom. For a fortnight he practiced discernment of phenomena one by one. And this is how he did it.
 
 
-3Quite secluded from sensual pleasures, secluded from unskillful qualities, he entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected.
+3Quite secluded from sensual pleasures, secluded from unskillful qualities, he entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering.
 
 And he distinguished the phenomena in the first absorption one by one: placing and keeping and rapture and bliss and unification of mind; contact, feeling, perception, intention, mind, enthusiasm, decision, energy, mindfulness, equanimity, and attention. He knew those phenomena as they arose, as they remained, and as they went away. He understood: ‘So it seems that these phenomena, not having been, come to be; and having come to be, they flit away.’ And he meditated without attraction or repulsion for those phenomena; independent, untied, liberated, detached, his mind free of limits. He understood: ‘There is an escape beyond.’ And by repeated practice he knew for sure that there is.
 
-4Furthermore, as the placing of the mind and keeping it connected were stilled, he entered and remained in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected.
+4Furthermore, as the placing of the mind and keeping it connected were stilled, he entered and remained in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering.
 
 And he distinguished the phenomena in the second absorption one by one: internal confidence and rapture and bliss and unification of mind; contact, feeling, perception, intention, mind, enthusiasm, decision, energy, mindfulness, equanimity, and attention. He knew those phenomena as they arose, as they remained, and as they went away. He understood: ‘So it seems that these phenomena, not having been, come to be; and having come to be, they flit away.’ And he meditated without attraction or repulsion for those phenomena; independent, untied, liberated, detached, his mind free of limits. He understood: ‘There is an escape beyond.’ And by repeated practice he knew for sure that there is.
 

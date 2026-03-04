@@ -24,7 +24,7 @@ Then at that time a great untimely cloud arose, with seven days of continuous ra
 
 Atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhāsi. Atha kho mucalindo nāgarājā viddhaṃ vigatavalāhakaṃ devaṃ viditvā bhagavato kāyā bhoge viniveṭhetvā sakavaṇṇaṃ paṭisaṃharitvā māṇavakavaṇṇaṃ abhinimminitvā bhagavato purato aṭṭhāsi pañjaliko bhagavantaṃ namassamāno.
 
-When the seven days had passed, the Blessed One arose from that concentration. Then Mucalinda, the nāga king, knowing that the sky was clear and free of clouds, unwound his coils from the Blessed One’s body. Withdrawing his own form, he manifested the form of a young man and stood before the Blessed One with hands joined in reverence, paying homage to the Blessed One.
+When the seven days had passed, the Blessed One arose from that samādhi. Then Mucalinda, the nāga king, knowing that the sky was clear and free of clouds, unwound his coils from the Blessed One’s body. Withdrawing his own form, he manifested the form of a young man and stood before the Blessed One with hands joined in reverence, paying homage to the Blessed One.
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

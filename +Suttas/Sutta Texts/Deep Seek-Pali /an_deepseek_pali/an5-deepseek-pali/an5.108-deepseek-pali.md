@@ -20,7 +20,7 @@ language: "English - Pali"
 
 ‘‘Katamehi, pañcahi? Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti, asekhena samādhikkhandhena samannāgato hoti, asekhena paññākkhandhena samannāgato hoti, asekhena vimuttikkhandhena samannāgato hoti, asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti…pe… anuttaraṃ puññakkhettaṃ lokassā’’ti. Aṭṭhamaṃ.
 
-“Endowed with which five? Here, monks, a monk is endowed with the aggregate of an adept’s morality, endowed with the aggregate of an adept’s concentration, endowed with the aggregate of an adept’s wisdom, endowed with the aggregate of an adept’s liberation, and endowed with the aggregate of an adept’s knowledge and vision of liberation. Monks, a monk endowed with these five qualities is worthy of offerings, worthy of hospitality, worthy of gifts, worthy of veneration, an unsurpassed field of merit for the world.” This is the eighth.
+“Endowed with which five? Here, monks, a monk is endowed with the aggregate of an adept’s morality, endowed with the aggregate of an adept’s samādhi, endowed with the aggregate of an adept’s wisdom, endowed with the aggregate of an adept’s liberation, and endowed with the aggregate of an adept’s knowledge and vision of liberation. Monks, a monk endowed with these five qualities is worthy of offerings, worthy of hospitality, worthy of gifts, worthy of veneration, an unsurpassed field of merit for the world.” This is the eighth.
 
 
 ---

@@ -16,7 +16,7 @@ language: "English - Pali"
 
 150. ‘‘Cattārome, bhikkhave, sārā. Katame cattāro? Sīlasāro, samādhisāro, paññāsāro, vimuttisāro – ime kho, bhikkhave, cattāro sārā’’ti. Dasamaṃ.
 
-150."Monks, there are these four essences. What four? The essence of morality, the essence of concentration, the essence of wisdom, the essence of liberation. These, monks, are the four essences." (Tenth)
+150."Monks, there are these four essences. What four? The essence of morality, the essence of samādhi, the essence of wisdom, the essence of liberation. These, monks, are the four essences." (Tenth)
 
 Ābhāvaggo pañcamo.
 

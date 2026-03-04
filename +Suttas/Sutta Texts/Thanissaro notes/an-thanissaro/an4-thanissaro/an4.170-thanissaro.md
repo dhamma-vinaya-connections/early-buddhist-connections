@@ -27,7 +27,7 @@ Ven. Ānanda said: “Friends, whoever—monk or nun—declares the attainment o
 
 “Then there is the case where a monk has developed tranquility in tandem with insight. As he develops tranquility in tandem with insight, the path is born. He follows that path, develops it, pursues it. As he follows the path, developing it & pursuing it—his fetters are abandoned, his obsessions destroyed.
 
-“Then there is the case where a monk’s mind has its restlessness concerning the Dhamma [Comm: the corruptions of insight] well under control. There comes a time when his mind grows steady inwardly, settles down, and becomes unified & concentrated. In him the path is born. He follows that path, develops it, pursues it. As he follows the path, developing it & pursuing it—his fetters are abandoned, his obsessions destroyed.
+“Then there is the case where a monk’s mind has its restlessness concerning the Dhamma [Comm: the corruptions of insight] well under control. There comes a time when his mind grows steady inwardly, settles down, and becomes unified & collected. In him the path is born. He follows that path, develops it, pursues it. As he follows the path, developing it & pursuing it—his fetters are abandoned, his obsessions destroyed.
 
 “Whoever—monk or nun—declares the attainment of arahantship in my presence, they all do it by means of one or another of these four paths.”
 

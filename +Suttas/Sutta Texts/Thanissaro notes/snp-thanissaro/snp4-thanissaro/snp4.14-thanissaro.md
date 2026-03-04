@@ -86,7 +86,7 @@ subduing danger.
 
 Now tell us, sir, the practice:
 
-the Pāṭimokkha & concentration.”
+the Pāṭimokkha & samādhi.”
 
 “One shouldn’t be careless with his eyes,
 

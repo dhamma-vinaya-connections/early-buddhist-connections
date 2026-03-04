@@ -16,7 +16,7 @@ language: "English - Pali"
 
 154. ‘‘Cattārimāni, bhikkhave, balāni. Katamāni cattāri? Satibalaṃ, samādhibalaṃ, anavajjabalaṃ, saṅgahabalaṃ – imāni kho, bhikkhave, cattāri balānī’’ti. Catutthaṃ.
 
-154."Monks, there are these four powers. Which four? The power of mindfulness, the power of concentration, the power of blamelessness, and the power of solidarity. These, monks, are the four powers." (Fourth)
+154."Monks, there are these four powers. Which four? The power of mindfulness, the power of samādhi, the power of blamelessness, and the power of solidarity. These, monks, are the four powers." (Fourth)
 
 
 ---

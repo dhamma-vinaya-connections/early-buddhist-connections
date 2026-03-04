@@ -32,7 +32,7 @@ language: "English - Pali"
 
 ‘‘Katamañca, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati? Sammādiṭṭhi…pe… sammāsamādhi. Idaṃ vuccati, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati. Imāni kho, bhikkhave, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī’’ti. Chaṭṭhaṃ.
 
-“And what, monks, is kamma that is neither dark nor bright with neither-dark-nor-bright result, leading to the destruction of kamma? Right view ... Right concentration. This is called, monks, kamma that is neither dark nor bright with neither-dark-nor-bright result, leading to the destruction of kamma. These, monks, are the four kinds of kamma declared by me after realizing them for myself with direct knowledge.” The sixth.
+“And what, monks, is kamma that is neither dark nor bright with neither-dark-nor-bright result, leading to the destruction of kamma? Right view ... Right samādhi. This is called, monks, kamma that is neither dark nor bright with neither-dark-nor-bright result, leading to the destruction of kamma. These, monks, are the four kinds of kamma declared by me after realizing them for myself with direct knowledge.” The sixth.
 
 
 ---

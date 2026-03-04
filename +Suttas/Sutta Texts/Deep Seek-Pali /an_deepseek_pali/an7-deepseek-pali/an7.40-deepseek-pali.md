@@ -16,7 +16,7 @@ language: "English - Pali"
 
 40. ‘‘Sattahi, bhikkhave, dhammehi samannāgato bhikkhu cittaṃ vase [vasaṃ (ka.)] vatteti, no ca bhikkhu cittassa vasena vattati. Katamehi sattahi? Idha, bhikkhave, bhikkhu samādhikusalo hoti, samādhissa samāpattikusalo hoti, samādhissa ṭhitikusalo hoti, samādhissa vuṭṭhānakusalo hoti, samādhissa kalyāṇakusalo hoti, samādhissa gocarakusalo hoti, samādhissa abhinīhārakusalo hoti. Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu cittaṃ vase vatteti, no ca bhikkhu cittassa vasena vattatī’’ti. Navamaṃ.
 
-40."Monks, a bhikkhu endowed with seven qualities controls his mind, and is not controlled by his mind. What seven? Here, monks, a bhikkhu is skilled in concentration, skilled in entering concentration, skilled in abiding in concentration, skilled in emerging from concentration, skilled in the welfare of concentration, skilled in the range of concentration, and skilled in directing concentration. A bhikkhu endowed with these seven qualities controls his mind, and is not controlled by his mind." The ninth.
+40."Monks, a bhikkhu endowed with seven qualities controls his mind, and is not controlled by his mind. What seven? Here, monks, a bhikkhu is skilled in samādhi, skilled in entering samādhi, skilled in abiding in samādhi, skilled in emerging from samādhi, skilled in the welfare of samādhi, skilled in the range of samādhi, and skilled in directing samādhi. A bhikkhu endowed with these seven qualities controls his mind, and is not controlled by his mind." The ninth.
 
 
 ---

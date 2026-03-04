@@ -16,7 +16,7 @@ language: "English - Pali"
 
 4. ‘‘Sattimāni, bhikkhave, balāni. Katamāni satta? Saddhābala, vīriyabalaṃ, hirībalaṃ, ottappabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ.
 
-4. "Monks, there are these seven powers. Which are the seven? The power of faith, the power of energy, the power of moral shame, the power of moral dread, the power of mindfulness, the power of concentration, and the power of wisdom."
+4. "Monks, there are these seven powers. Which are the seven? The power of faith, the power of energy, the power of moral shame, the power of moral dread, the power of mindfulness, the power of samādhi, and the power of wisdom."
 
 ‘‘Katamañca, bhikkhave, saddhābalaṃ? Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ – ‘itipi so bhagavā arahaṃ sammāsambuddho…pe… satthā devamanussānaṃ buddho bhagavā’ti. Idaṃ vuccati, bhikkhave, saddhābalaṃ.
 
@@ -40,7 +40,7 @@ language: "English - Pali"
 
 ‘‘Katamañca, bhikkhave, samādhibalaṃ? Idha, bhikkhave, ariyasāvako vivicceva kāmehi…pe… catutthaṃ jhānaṃ upasampajja viharati. Idaṃ vuccati, bhikkhave, samādhibalaṃ.
 
-"And what, monks, is the power of concentration? Here, monks, a noble disciple, quite secluded from sensual pleasures… enters and dwells in the fourth jhāna. This is called, monks, the power of concentration."
+"And what, monks, is the power of samādhi? Here, monks, a noble disciple, quite secluded from sensual pleasures… enters and dwells in the fourth jhāna. This is called, monks, the power of samādhi."
 
 ‘‘Katamañca, bhikkhave, paññābalaṃ? Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. Idaṃ vuccati, bhikkhave, paññābalaṃ. Imāni kho, bhikkhave, satta balānīti.
 
@@ -49,7 +49,7 @@ language: "English - Pali"
 ‘‘Saddhābalaṃ vīriyañca, hirī ottappiyaṃ balaṃ;Satibalaṃ samādhi ca, paññā ve sattamaṃ balaṃ;Etehi balavā bhikkhu, sukhaṃ jīvati paṇḍito.
 
 The power of faith and energy, moral shame and moral dread are powers;
-The power of mindfulness and concentration, and wisdom as the seventh power;
+The power of mindfulness and samādhi, and wisdom as the seventh power;
 A monk endowed with these powers, a wise one, lives happily.
 
 ‘‘Yoniso vicine dhammaṃ, paññāyatthaṃ vipassati;Pajjotasseva nibbānaṃ, vimokkho hoti cetaso’’ti. catutthaṃ;

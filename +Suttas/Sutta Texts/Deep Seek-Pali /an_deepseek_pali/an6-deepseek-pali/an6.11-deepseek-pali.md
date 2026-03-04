@@ -32,7 +32,7 @@ Furthermore, monks, a monk maintains mental acts of loving-kindness towards his 
 
 ‘‘Puna caparaṃ, bhikkhave, bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni tathārūpehi sīlehi sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca, ayampi dhammo sāraṇīyo.
 
-"Furthermore, monks, a monk dwells maintaining such virtues as are unbroken, untorn, unblemished, unmottled, liberating, praised by the wise, untainted, conducive to concentration; and he dwells sharing those virtues in common with his fellow celibates, both in public and in private. This too is a quality that is conducive to amiability, to mutual esteem, to non-dispute, to concord, to unity."
+"Furthermore, monks, a monk dwells maintaining such virtues as are unbroken, untorn, unblemished, unmottled, liberating, praised by the wise, untainted, conducive to samādhi; and he dwells sharing those virtues in common with his fellow celibates, both in public and in private. This too is a quality that is conducive to amiability, to mutual esteem, to non-dispute, to concord, to unity."
 
 ‘‘Puna caparaṃ, bhikkhave, bhikkhu yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca, ayampi dhammo sāraṇīyo. Ime kho, bhikkhave, cha dhammā sāraṇīyā’’ti. Paṭhamaṃ.
 

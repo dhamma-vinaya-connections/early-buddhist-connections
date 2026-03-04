@@ -41,7 +41,7 @@ The Bhagavān replied, “Ānanda, calm has the purpose of causing happiness. Ā
 
 7. Again, he asked, “Bhagavān, what is the purpose of happiness?”
 
-The Bhagavān replied, “Ānanda, happiness has the purpose of causing samādhi. Ānanda, if someone were happy, they would readily reach a concentrated state of mind.”
+The Bhagavān replied, “Ānanda, happiness has the purpose of causing samādhi. Ānanda, if someone were happy, they would readily reach a collected state of mind.”
 
 8. Again, he asked, “Bhagavān, what is the purpose of samādhi?”
 

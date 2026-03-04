@@ -272,7 +272,7 @@ unperturbed.
 
 Note
 
-1. Concentration based on immeasurable goodwill, compassion, empathetic joy, and equanimity. See [[an3.66-thanissaro]] and [[sn42.8-thanissaro]]. [↩︎](#^thag6-5note01-ref) ^thag6-5note01
+1. samādhi based on immeasurable goodwill, compassion, empathetic joy, and equanimity. See [[an3.66-thanissaro]] and [[sn42.8-thanissaro]]. [↩︎](#^thag6-5note01-ref) ^thag6-5note01
 
 See also: [[dn26-thanissaro]]; [[sn1-11-thanissaro/sn11-thanissaro/sn11.3-thanissaro]]; [[an3.35-thanissaro]]; [[an5.27-thanissaro]]; [[/snp4.16-thanissaro]]
 

@@ -48,13 +48,13 @@ Abandoning laughter, idle talk, lamentation, anger, deceit, trickery, greed, pri
 
 ‘‘Viññātasārāni subhāsitāni, sutañca viññātasamādhisāraṃ;Na tassa paññā ca sutañca vaḍḍhati, yo sāhaso hoti naro pamatto.
 
-"Understanding the essence of well-spoken words, and the essence of concentration through learning—wisdom and learning do not grow in one who is reckless and heedless."
+"Understanding the essence of well-spoken words, and the essence of samādhi through learning—wisdom and learning do not grow in one who is reckless and heedless."
 
 332.
 
 ‘‘Dhamme ca ye ariyapavedite ratā,Anuttarā te vacasā manasā kammunā ca;Te santisoraccasamādhisaṇṭhitā,Sutassa paññāya ca sāramajjhagū’’ti.
 
-"And those who delight in the Dhamma well-proclaimed by the Noble Ones, unsurpassed are they in word, thought, and deed; they are calm, gentle, firmly established in concentration, they have reached the essence of learning and wisdom."
+"And those who delight in the Dhamma well-proclaimed by the Noble Ones, unsurpassed are they in word, thought, and deed; they are calm, gentle, firmly established in samādhi, they have reached the essence of learning and wisdom."
 
 Kiṃsīlasuttaṃ navamaṃ niṭṭhitaṃ.
 

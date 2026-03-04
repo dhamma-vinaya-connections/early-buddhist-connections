@@ -72,7 +72,7 @@ To Māra who had spoken thus, the Blessed One replied: “O Evil One, kinsman of
 
 ‘‘Lohite sussamānamhi, pittaṃ semhañca sussati;Maṃsesu khīyamānesu, bhiyyo cittaṃ pasīdati;Bhiyyo sati ca paññā ca, samādhi mama tiṭṭhati.
 
-“As my blood dries up, bile and phlegm dry up; as my flesh wastes away, my mind becomes all the more serene, and my mindfulness, wisdom, and concentration stand more firmly.
+“As my blood dries up, bile and phlegm dry up; as my flesh wastes away, my mind becomes all the more serene, and my mindfulness, wisdom, and samādhi stand more firmly.
 
 437.
 

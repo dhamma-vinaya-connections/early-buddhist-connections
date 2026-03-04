@@ -36,7 +36,7 @@ language: "English - Pali"
 
 ‘‘Ayameva kho, āvuso visākha, ariyo aṭṭhaṅgiko maggo sakkāyanirodhagāminī paṭipadā vuttā bhagavatā, seyyathidaṃ – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhī’’ti.
 
-“It is just this Noble Eightfold Path, friend Visākha, that has been declared by the Blessed One as the path leading to the cessation of identity. That is: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.”
+“It is just this Noble Eightfold Path, friend Visākha, that has been declared by the Blessed One as the path leading to the cessation of identity. That is: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi.”
 
 ‘‘Taññeva nu kho, ayye, upādānaṃ te [teva (sī.)] pañcupādānakkhandhā udāhu aññatra pañcahupādānakkhandhehi upādāna’’nti? ‘‘Na kho, āvuso visākha, taññeva upādānaṃ te pañcupādānakkhandhā, nāpi aññatra pañcahupādānakkhandhehi upādānaṃ. Yo kho, āvuso visākha, pañcasu upādānakkhandhesu chandarāgo taṃ tattha upādāna’’nti.
 
@@ -60,7 +60,7 @@ language: "English - Pali"
 
 ‘‘Ayameva kho, āvuso visākha, ariyo aṭṭhaṅgiko maggo, seyyathidaṃ – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhī’’ti. ‘‘Ariyo panāyye, aṭṭhaṅgiko maggo saṅkhato udāhu asaṅkhato’’ti?
 
-“It is just this Noble Eightfold Path, friend Visākha, that is: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.” “But, venerable lady, is the Noble Eightfold Path conditioned or unconditioned?”
+“It is just this Noble Eightfold Path, friend Visākha, that is: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi.” “But, venerable lady, is the Noble Eightfold Path conditioned or unconditioned?”
 
 ‘‘Ariyo kho, āvuso visākha, aṭṭhaṅgiko maggo saṅkhato’’ti.
 
@@ -72,15 +72,15 @@ language: "English - Pali"
 
 ‘‘Na kho, āvuso visākha, ariyena aṭṭhaṅgikena maggena tayo khandhā saṅgahitā; tīhi ca kho, āvuso visākha, khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito. Yā cāvuso visākha, sammāvācā yo ca sammākammanto yo ca sammāājīvo ime dhammā sīlakkhandhe saṅgahitā. Yo ca sammāvāyāmo yā ca sammāsati yo ca sammāsamādhi ime dhammā samādhikkhandhe saṅgahitā. Yā ca sammādiṭṭhi yo ca sammāsaṅkappo, ime dhammā paññākkhandhe saṅgahitā’’ti.
 
-“Friend Visākha, the three aggregates are not encompassed by the Noble Eightfold Path; rather, friend Visākha, the Noble Eightfold Path is encompassed by the three aggregates. Whatever is right speech, right action, and right livelihood—these qualities are included in the aggregate of virtue. Whatever is right effort, right mindfulness, and right concentration—these qualities are included in the aggregate of concentration. Whatever is right view and right intention—these qualities are included in the aggregate of wisdom.”
+“Friend Visākha, the three aggregates are not encompassed by the Noble Eightfold Path; rather, friend Visākha, the Noble Eightfold Path is encompassed by the three aggregates. Whatever is right speech, right action, and right livelihood—these qualities are included in the aggregate of virtue. Whatever is right effort, right mindfulness, and right samādhi—these qualities are included in the aggregate of samādhi. Whatever is right view and right intention—these qualities are included in the aggregate of wisdom.”
 
 ‘‘Katamo panāyye, samādhi, katame dhammā samādhinimittā, katame dhammā samādhiparikkhārā, katamā samādhibhāvanā’’ti?
 
-“But venerable lady, what is concentration? What qualities are the signs of concentration? What qualities are the requisites for concentration? What is the development of concentration?”
+“But venerable lady, what is samādhi? What qualities are the signs of samādhi? What qualities are the requisites for samādhi? What is the development of samādhi?”
 
 ‘‘Yā kho, āvuso visākha, cittassa ekaggatā ayaṃ samādhi; cattāro satipaṭṭhānā samādhinimittā; cattāro sammappadhānā samādhiparikkhārā. Yā tesaṃyeva dhammānaṃ āsevanā bhāvanā bahulīkammaṃ, ayaṃ ettha samādhibhāvanā’’ti.
 
-“Friend Visākha, the singleness of mind is concentration; the four foundations of mindfulness are the signs of concentration; the four right exertions are the requisites for concentration. The pursuit, development, and frequent practice of these very qualities is the development of concentration in this case.”
+“Friend Visākha, the singleness of mind is samādhi; the four foundations of mindfulness are the signs of samādhi; the four right exertions are the requisites for samādhi. The pursuit, development, and frequent practice of these very qualities is the development of samādhi in this case.”
 
 463. ‘‘Kati panāyye, saṅkhārā’’ti?
 

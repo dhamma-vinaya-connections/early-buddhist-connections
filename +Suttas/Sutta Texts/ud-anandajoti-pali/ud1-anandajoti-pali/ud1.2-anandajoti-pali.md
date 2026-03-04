@@ -20,7 +20,7 @@ language: "English - Pali"
 
 1Thus I heard: At one time the Gracious One was dwelling near Uruvelā, on the bank of the river Nerañjarā, at the root of the Awakening tree, in the first period after attaining Awakening. Then at that time the Gracious One was sitting in one cross-legged posture for seven days experiencing the happiness of freedom.
 
-Then with the passing of those seven days, the Gracious One, after arising from that concentration, for the middle watch of the night, applied his mind thoroughly to conditional origination in reverse order:
+Then with the passing of those seven days, the Gracious One, after arising from that samādhi, for the middle watch of the night, applied his mind thoroughly to conditional origination in reverse order:
 
 2"This not being so, that is not; from the ceasing of this, that ceases, that is to say: from the cessation of ignorance, there is the cessation of volitional processes, from the cessation of volitional processes, the cessation of consciousness, from the cessation of consciousness, the cessation of mind and body, from the cessation of mind and body, the cessation of the six sense spheres, from the cessation of the six sense spheres, the cessation of contact, from the cessation of contact, the cessation of feeling, from the cessation of feeling, the cessation of craving, from the cessation of craving, the cessation of attachment, from the cessation of attachment, the cessation of continuation, from the cessation of continuation, the cessation of birth, from the cessation of birth, old age, death, grief, lamentation, pain, sorrow, and despair all cease, and so there is a cessation of this whole mass of suffering."
 

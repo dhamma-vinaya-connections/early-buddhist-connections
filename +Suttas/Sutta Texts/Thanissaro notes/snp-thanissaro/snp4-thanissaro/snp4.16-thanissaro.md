@@ -328,7 +328,7 @@ vv. 955–975
 
 5. See [Dhp 76–77](../Dhp/Ch06.html#dhp076). [↩︎](#^snp4-16-05-ref) ^snp4-16-05
 
-6. _Ekodi-bhūto._ A quality of concentration attained in the second jhāna. [↩︎](#^snp4-16-06-ref) ^snp4-16-06
+6. _Ekodi-bhūto._ A quality of samādhi attained in the second jhāna. [↩︎](#^snp4-16-06-ref) ^snp4-16-06
 
 See also: [[sn35-44-thanissaro/sn35-thanissaro/sn35.117-thanissaro]]; [[sn35-44-thanissaro/sn35-thanissaro/sn35.200-thanissaro]]; [[an4.28-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag3-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag5-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]; Thag 18
 

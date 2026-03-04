@@ -28,7 +28,7 @@ Furthermore, mendicants, a mendicant shares without reservation any righteous an
 
 ‘‘Puna caparaṃ, bhikkhave, bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni tathārūpehi sīlehi sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca, ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati.
 
-Furthermore, mendicants, a mendicant abides possessed of those virtues that are unbroken, without gaps, unspotted, without patchwork, freeing, praised by the wise, unassailed, and conducive to concentration. He abides in common virtue with his spiritual companions, both in public and in private. This too is a principle conducive to amiability, generating affection and respect, and leading to cohesion, non-dispute, concord, and oneness.
+Furthermore, mendicants, a mendicant abides possessed of those virtues that are unbroken, without gaps, unspotted, without patchwork, freeing, praised by the wise, unassailed, and conducive to samādhi. He abides in common virtue with his spiritual companions, both in public and in private. This too is a principle conducive to amiability, generating affection and respect, and leading to cohesion, non-dispute, concord, and oneness.
 
 ‘‘Puna caparaṃ, bhikkhave, bhikkhu yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca, ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. Ime kho, bhikkhave, cha dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattantī’’ti. Dutiyaṃ.
 

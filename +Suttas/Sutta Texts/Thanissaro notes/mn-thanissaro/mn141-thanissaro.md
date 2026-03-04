@@ -63,7 +63,7 @@ Ven. Sāriputta said, “Friends, near Bārāṇasī, in the Deer Park at Isipat
 
 “This is called the noble truth of the cessation of stress.
 
-“And what, friends, is the noble truth of the path of practice leading to the cessation of stress? Just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+“And what, friends, is the noble truth of the path of practice leading to the cessation of stress? Just this very noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
 
 “And what is right view? Knowledge in terms of stress, knowledge in terms of the origination of stress, knowledge in terms of the cessation of stress, knowledge in terms of the way of practice leading to the cessation of stress: This is called right view.
 
@@ -79,7 +79,7 @@ Ven. Sāriputta said, “Friends, near Bārāṇasī, in the Deer Park at Isipat
 
 “And what is right mindfulness? There is the case where a monk remains focused on the body in & of itself—ardent, alert, & mindful—putting aside greed & distress with reference to the world. He remains focused on feelings in & of themselves... the mind in & of itself... mental qualities in & of themselves—ardent, alert, & mindful—putting aside greed & distress with reference to the world. This is called right mindfulness.
 
-“And what is right concentration? There is the case where a monk—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of concentration, unification of awareness free from directed thought & evaluation—internal assurance. With the fading of rapture he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ With the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—he enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. This is called right concentration.
+“And what is right samādhi? There is the case where a monk—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. With the fading of rapture he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ With the abandoning of pleasure & pain—as with the earlier disappearance of elation & distress—he enters & remains in the fourth jhāna: purity of equanimity & mindfulness, neither pleasure nor pain. This is called right samādhi.
 
 “This is called the noble truth of the path of practice leading to the cessation of stress.
 

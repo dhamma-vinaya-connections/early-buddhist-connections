@@ -104,7 +104,7 @@ Furthermore, Ānanda, a bhikkhu—whatever legitimate acquisitions he obtains, g
 
 ‘‘Puna caparaṃ, ānanda, bhikkhu – yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni tathārūpesu sīlesu – sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati.
 
-Furthermore, Ānanda, a monk, possessing virtue, dwells in the company of his fellow practitioners of the holy life, both openly and privately, with regard to those virtues that are unbroken, without gaps, unspotted, unblemished, freeing, praised by the wise, ungrasped, and conducive to concentration. This principle, too, leads to cordiality, engenders affection, promotes respect, leads to cohesion, to non-dispute, to concord, and to unity.
+Furthermore, Ānanda, a monk, possessing virtue, dwells in the company of his fellow practitioners of the holy life, both openly and privately, with regard to those virtues that are unbroken, without gaps, unspotted, unblemished, freeing, praised by the wise, ungrasped, and conducive to samādhi. This principle, too, leads to cordiality, engenders affection, promotes respect, leads to cohesion, to non-dispute, to concord, and to unity.
 
 ‘‘Puna caparaṃ, ānanda, bhikkhu – yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayā tathārūpāya diṭṭhiyā – diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati. Ime kho, ānanda, cha sāraṇīyā dhammā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattanti.
 

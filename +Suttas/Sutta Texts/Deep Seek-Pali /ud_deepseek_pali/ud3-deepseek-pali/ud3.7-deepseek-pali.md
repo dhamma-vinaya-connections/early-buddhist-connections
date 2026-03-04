@@ -16,7 +16,7 @@ language: "English - Pali"
 
 27. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena āyasmā mahākassapo pippaliguhāyaṃ viharati, sattāhaṃ ekapallaṅkena nisinno hoti aññataraṃ [nisinno aññataraṃ (syā. ka.)] samādhiṃ samāpajjitvā. Atha kho āyasmā mahākassapo tassa sattāhassa accayena tamhā samādhimhā vuṭṭhāsi. Atha kho āyasmato mahākassapassa tamhā samādhimhā vuṭṭhitassa etadahosi – ‘‘yaṃnūnāhaṃ rājagahaṃ piṇḍāya paviseyya’’nti.
 
-27.Thus have I heard—at one time the Blessed One was dwelling at Rājagaha, in the Bamboo Grove, the Squirrels’ Feeding Place. Now at that time, the Venerable Mahākassapa was dwelling in the Pipphali Cave, seated in a single posture for seven days, having attained a certain concentration. Then, after seven days had passed, the Venerable Mahākassapa arose from that concentration. Upon arising from that concentration, the Venerable Mahākassapa thought: “What if I were to enter Rājagaha for alms-gathering?”
+27.Thus have I heard—at one time the Blessed One was dwelling at Rājagaha, in the Bamboo Grove, the Squirrels’ Feeding Place. Now at that time, the Venerable Mahākassapa was dwelling in the Pipphali Cave, seated in a single posture for seven days, having attained a certain samādhi. Then, after seven days had passed, the Venerable Mahākassapa arose from that samādhi. Upon arising from that samādhi, the Venerable Mahākassapa thought: “What if I were to enter Rājagaha for alms-gathering?”
 
 Tena kho pana samayena pañcamattāni devatāsatāni ussukkaṃ āpannāni honti āyasmato mahākassapassa piṇḍapātapaṭilābhāya. Atha kho āyasmā mahākassapo tāni pañcamattāni devatāsatāni paṭikkhipitvā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ piṇḍāya pāvisi.
 

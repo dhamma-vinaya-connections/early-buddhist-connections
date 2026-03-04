@@ -23,7 +23,7 @@ for one fond of conceit,
 
 no sagacity
 
-for one unconcentrated.
+for one uncollected.
 
 One dwelling alone in the wilderness
 
@@ -37,7 +37,7 @@ The Buddha:
 
 “Abandoning conceit,
 
-his mind well-concentrated,
+his mind well-collected,
 
 well-aware, everywhere
 

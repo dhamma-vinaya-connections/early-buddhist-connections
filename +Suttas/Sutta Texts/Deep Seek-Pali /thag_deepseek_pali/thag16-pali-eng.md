@@ -215,7 +215,7 @@ Te pabbajitvā sugatassa sāsane, bhāvetva bojjhaṅgabalāni paṇḍitā;Udag
 745.
 ‘‘Saddhaṃ vīriyaṃ samādhiñca, satipaññañca bhāvayaṃ;Pañca pañcahi hantvāna, anīgho yāti brāhmaṇo.
 
-“By developing faith, energy, concentration, mindfulness, and wisdom, and having slain the five with the five, the brahmin proceeds free from trouble.
+“By developing faith, energy, samādhi, mindfulness, and wisdom, and having slain the five with the five, the brahmin proceeds free from trouble.
 
 746.
 ‘‘So atthavā so dhammaṭṭho, katvā vākyānusāsaniṃ;Sabbena sabbaṃ buddhassa, so naro sukhamedhatī’’ti.
@@ -1038,7 +1038,7 @@ Seven lives here and seven there—fourteen transmigrations in all; I came to kn
 916.
 ‘‘Pañcaṅgike samādhimhi, sante ekodibhāvite;Paṭippassaddhiladdhamhi, dibbacakkhu visujjhi me.
 
-In the five-factored concentration—peaceful, unified, and developed, where tranquility had been gained—my divine eye was purified.
+In the five-factored samādhi—peaceful, unified, and developed, where tranquility had been gained—my divine eye was purified.
 
 917.
 ‘‘Cutūpapātaṃ jānāmi, sattānaṃ āgatiṃ gatiṃ;Itthabhāvaññathābhāvaṃ, jhāne pañcaṅgike ṭhito. Established in the five-factored jhāna, I know the passing away and rebirth of beings, their coming and going, and their state of being thus or otherwise.

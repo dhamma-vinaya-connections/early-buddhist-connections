@@ -40,7 +40,7 @@ Then the Blessed One addressed a certain monk: “Come, monk, in my name call th
 
 ‘‘Puna caparaṃ, bhikkhave, bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni tathārūpesu sīlesu sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati.
 
-“Furthermore, monks, a monk dwells practicing in common with his fellow monastics, both in public and in private, with regard to those virtues that are unbroken, flawless, unspotted, untainted, liberating, praised by the wise, ungrasped at, and conducive to concentration. This principle of cordiality leads to affection, esteem, respect, cohesion, non-dispute, concord, and unity.”
+“Furthermore, monks, a monk dwells practicing in common with his fellow monastics, both in public and in private, with regard to those virtues that are unbroken, flawless, unspotted, untainted, liberating, praised by the wise, ungrasped at, and conducive to samādhi. This principle of cordiality leads to affection, esteem, respect, cohesion, non-dispute, concord, and unity.”
 
 ‘‘Puna caparaṃ, bhikkhave, bhikkhu yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati.
 

@@ -64,11 +64,11 @@ Then Anuruddha, Nandiya, and Kimbila came out to greet the Buddha. One received 
 
 7“Good, good, Anuruddha and friends! But as you live diligently like this, have you achieved any superhuman distinction in knowledge and vision worthy of the noble ones, a meditation at ease?”
 
-“How could we not, sir? Whenever we want, quite secluded from sensual pleasures, secluded from unskillful qualities, we enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. This is a superhuman distinction in knowledge and vision worthy of the noble ones, a meditation at ease, that we have achieved while living diligent, keen, and resolute.”
+“How could we not, sir? Whenever we want, quite secluded from sensual pleasures, secluded from unskillful qualities, we enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. This is a superhuman distinction in knowledge and vision worthy of the noble ones, a meditation at ease, that we have achieved while living diligent, keen, and resolute.”
 
 8“Good, good! But have you achieved any other superhuman distinction for going beyond and stilling that meditation?”
 
-“How could we not, sir? Whenever we want, as the placing of the mind and keeping it connected are stilled, we enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected. This is another superhuman distinction that we have achieved for going beyond and stilling that meditation.”
+“How could we not, sir? Whenever we want, as the placing of the mind and keeping it connected are stilled, we enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is another superhuman distinction that we have achieved for going beyond and stilling that meditation.”
 
 9“Good, good! But have you achieved any other superhuman distinction for going beyond and stilling that meditation?”
 

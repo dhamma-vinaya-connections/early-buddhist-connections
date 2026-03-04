@@ -18,7 +18,7 @@ language: "English - Pali"
 
 333. … Evamevaṃ kho, bhikkhave, appakā te sattā ye vavassaggārammaṇaṃ karitvā labhanti samādhiṃ [cittassa samādhiṃ (sī.)] labhanti cittassekaggataṃ [cittassekaggaṃ (sī.)]; atha kho eteva sattā bahutarā ye vavassaggārammaṇaṃ karitvā na labhanti samādhiṃ na labhanti cittassekaggataṃ.
 
-333.… Just so, monks, few are those beings who, focusing on relinquishment, attain concentration, attain singleness of mind; but far more numerous are those beings who, focusing on relinquishment, do not attain concentration, do not attain singleness of mind.
+333.… Just so, monks, few are those beings who, focusing on relinquishment, attain samādhi, attain singleness of mind; but far more numerous are those beings who, focusing on relinquishment, do not attain samādhi, do not attain singleness of mind.
 
 
 ---

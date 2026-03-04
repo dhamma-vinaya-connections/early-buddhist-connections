@@ -25,9 +25,9 @@ At one time the Buddha was staying in the land of the Bhaggas on Crocodile Hill,
 3“Good, good, Anuruddha! It’s good that you reflect on these thoughts of a great man: ‘This teaching is for those of few wishes, not those of many wishes. It’s for the contented, not those who lack contentment. It’s for the secluded, not those who enjoy company. It’s for the energetic, not the lazy. It’s for the mindful, not the unmindful. It’s for those with immersion, not those without immersion. It’s for the wise, not the witless.’ Well then, Anuruddha, you should also reflect on the following eighth thought of a great man: ‘This teaching is for those who don’t enjoy proliferating and don’t like to proliferate, not for those who enjoy proliferating and like to proliferate.’
 
 
-4First you’ll reflect on these eight thoughts of a great man. Then whenever you want, quite secluded from sensual pleasures, secluded from unskillful qualities, you’ll enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected.
+4First you’ll reflect on these eight thoughts of a great man. Then whenever you want, quite secluded from sensual pleasures, secluded from unskillful qualities, you’ll enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering.
 
-5You’ll enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected.
+5You’ll enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering.
 
 6You’ll enter and remain in the third absorption, where you’ll meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’
 

@@ -182,7 +182,7 @@ Therefore, one should wish for wise and learned members in one's family. For by 
 561.
 ‘‘Tassāhaṃ vacanaṃ sutvā, vihāsiṃ sāsane rato;Samādhiṃ paṭipādesiṃ, uttamatthassa pattiyā.
 
-“Having heard his word, I dwelled delighting in the Dispensation; I developed concentration for the attainment of the ultimate goal.
+“Having heard his word, I dwelled delighting in the Dispensation; I developed samādhi for the attainment of the ultimate goal.
 
 562.
 ‘‘Pubbenivāsaṃ jānāmi, dibbacakkhu visodhitaṃ;Tisso vijjā anuppattā, kataṃ buddhassa sāsanaṃ.

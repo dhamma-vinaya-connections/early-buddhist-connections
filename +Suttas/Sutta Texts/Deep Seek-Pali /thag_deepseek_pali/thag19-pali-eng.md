@@ -50,7 +50,7 @@ When will lethargy, hunger, and thirst, wind and sun, insects and reptiles no lo
 1101.
 ‘‘Kadā nu kho yaṃ viditaṃ mahesinā, cattāri saccāni sududdasāni;Samāhitatto satimā agacchaṃ, paññāya taṃ taṃ nu kadā bhavissati.
 
-When shall I, with concentrated mind and mindfulness, attain with wisdom those Four Noble Truths, so very hard to see, which were understood by the Great Seer? Oh, when will that be?
+When shall I, with collected mind and mindfulness, attain with wisdom those Four Noble Truths, so very hard to see, which were understood by the Great Seer? Oh, when will that be?
 
 1102.
 ‘‘Kadā nu rūpe amite ca sadde, gandhe rase phusitabbe ca dhamme;Ādittatohaṃ samathehi yutto, paññāya dacchaṃ tadidaṃ kadā me.
@@ -126,7 +126,7 @@ Sensual pleasures are indeed varied, sweet, and delightful, wherein the unwise, 
 ‘Dwell in the forest resounding with the calls of peacocks and herons, attended by leopards and tigers. Abandon concern for the body; do not fail!’—thus, O mind, you formerly urged me.
 
 1117.
-‘‘‘Bhāvehi jhānāni ca indriyāni ca, balāni bojjhaṅgasamādhibhāvanā;Tisso ca vijjā phusa buddhasāsane’, itissu maṃ citta pure niyuñjasi. ‘Develop the jhānas and the faculties, the powers, the factors of enlightenment, and the development of concentration. Realize the three true knowledges in the Buddha’s Dispensation!’—thus, O mind, you formerly urged me.
+‘‘‘Bhāvehi jhānāni ca indriyāni ca, balāni bojjhaṅgasamādhibhāvanā;Tisso ca vijjā phusa buddhasāsane’, itissu maṃ citta pure niyuñjasi. ‘Develop the jhānas and the faculties, the powers, the factors of enlightenment, and the development of samādhi. Realize the three true knowledges in the Buddha’s Dispensation!’—thus, O mind, you formerly urged me.
 
 
 1118.

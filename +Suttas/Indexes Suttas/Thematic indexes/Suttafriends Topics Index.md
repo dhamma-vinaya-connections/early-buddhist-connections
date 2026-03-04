@@ -119,7 +119,7 @@ From [https://suttafriends.org/simile-index/](https://suttafriends.org/sutta-top
     - [[ITI8]]
     - [[ITI96]]
     - [[THAG17]].1
-- concentration
+- samādhi
     - [[ITI46]]
     - [[SN46.14]]
     - [[SN56.1]]
@@ -891,7 +891,7 @@ From [https://suttafriends.org/simile-index/](https://suttafriends.org/sutta-top
     - [[SN6.4]]
 - right-action
     - [[SN45.8]]
-- right-concentration
+- right-samādhi
     - [[SN45.8]]
 - right-effort
     - [[SN45.8]]

@@ -28,7 +28,7 @@ language: "English - Pali"
 
 ‘‘Aparipūrassa kho ahaṃ samādhikkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. Na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya aññaṃ samaṇaṃ vā brāhmaṇaṃ vā attanā samādhisampannataraṃ, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.
 
-‘If I were to revere, honor, and rely upon some other ascetic or brahmin for the sake of completing the aggregate of concentration that was not yet complete, I do not see in this world with its gods, Māra, and Brahmā, in this generation with its ascetics and brahmins, its gods and men, any other ascetic or brahmin who is more accomplished in concentration than myself, whom I could revere, honor, and rely upon.’
+‘If I were to revere, honor, and rely upon some other ascetic or brahmin for the sake of completing the aggregate of samādhi that was not yet complete, I do not see in this world with its gods, Māra, and Brahmā, in this generation with its ascetics and brahmins, its gods and men, any other ascetic or brahmin who is more accomplished in samādhi than myself, whom I could revere, honor, and rely upon.’
 
 ‘‘Aparipūrassa kho ahaṃ paññākkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. Na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya aññaṃ samaṇaṃ vā brāhmaṇaṃ vā attanā paññāsampannataraṃ, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.
 

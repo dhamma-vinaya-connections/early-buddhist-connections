@@ -15,7 +15,7 @@ language: "English"
 ## ## Hirimā Sutta
 
 
-“Last night, monks, a certain devatā in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta’s Grove, came to me and, on arrival, bowed down to me and stood to one side. As she was standing there, she said to me, ‘These seven qualities, lord, lead to a monk’s non-decline. Which seven? Respect for the teacher, respect for the Dhamma, respect for the Saṅgha, respect for training, respect for concentration, respect for shame, respect for compunction. These seven qualities, lord, lead to a monk’s non-decline.’
+“Last night, monks, a certain devatā in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta’s Grove, came to me and, on arrival, bowed down to me and stood to one side. As she was standing there, she said to me, ‘These seven qualities, lord, lead to a monk’s non-decline. Which seven? Respect for the teacher, respect for the Dhamma, respect for the Saṅgha, respect for training, respect for samādhi, respect for shame, respect for compunction. These seven qualities, lord, lead to a monk’s non-decline.’
 
 “That is what that devatā said. Having said it, she bowed down to me, circled me three times, and then disappeared right there.”
 
@@ -25,7 +25,7 @@ respecting the Dhamma,
 
 and with fierce respect for the Saṅgha,
 
-respecting concentration, ardent,
+respecting samādhi, ardent,
 
 and with fierce respect for training,
 

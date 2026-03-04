@@ -12,11 +12,11 @@ language: "English - Pali"
 
 # AN 2.43
 
-43.“Monks, there are these two assemblies. Which two? A shallow assembly and a profound assembly. And what, monks, is a shallow assembly? Here, monks, in whatever assembly the monks are restless, vainly conceited, fickle, harsh-tongued, unrestrained in speech, unmindful, without clear comprehension, unconcentrated, with wandering minds, and with senses unrestrained—this is called, monks, a shallow assembly.
+43.“Monks, there are these two assemblies. Which two? A shallow assembly and a profound assembly. And what, monks, is a shallow assembly? Here, monks, in whatever assembly the monks are restless, vainly conceited, fickle, harsh-tongued, unrestrained in speech, unmindful, without clear comprehension, uncollected, with wandering minds, and with senses unrestrained—this is called, monks, a shallow assembly.
 
 ‘‘Katamā ca, bhikkhave, gambhīrā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū anuddhatā honti anunnaḷā acapalā amukharā avikiṇṇavācā upaṭṭhitassatī sampajānā samāhitā ekaggacittā saṃvutindriyā. Ayaṃ vuccati, bhikkhave, gambhīrā parisā. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ gambhīrā parisā’’ti.
 
-“And what, monks, is a profound assembly? Here, monks, in whatever assembly the monks are not restless, not vainly conceited, not fickle, not harsh-tongued, with restrained speech, with mindfulness established, fully aware, concentrated, with unified mind, and with senses restrained—this is called, monks, a profound assembly. These, monks, are the two assemblies. Of these two assemblies, monks, a profound assembly is the foremost.”
+“And what, monks, is a profound assembly? Here, monks, in whatever assembly the monks are not restless, not vainly conceited, not fickle, not harsh-tongued, with restrained speech, with mindfulness established, fully aware, collected, with unified mind, and with senses restrained—this is called, monks, a profound assembly. These, monks, are the two assemblies. Of these two assemblies, monks, a profound assembly is the foremost.”
 
 
 ---

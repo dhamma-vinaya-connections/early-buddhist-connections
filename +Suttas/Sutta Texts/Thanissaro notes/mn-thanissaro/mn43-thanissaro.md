@@ -179,7 +179,7 @@ Saying, “Very good, friend,” Ven. Mahā Koṭṭhita—delighting in & appro
 
 “And what is the emptiness awareness-release? There is the case where a monk, having gone into the wilderness, to the root of a tree, or into an empty dwelling, considers this: ‘This is empty of self or of anything pertaining to self.’[6](#^mn43note06) This is called the emptiness awareness-release. ^mn43note06-ref
 
-“And what is the theme-less awareness-release? There is the case where a monk, through not attending to all themes, enters & remains in the theme-less concentration of awareness. This is called the theme-less awareness-release.
+“And what is the theme-less awareness-release? There is the case where a monk, through not attending to all themes, enters & remains in the theme-less samādhi of awareness. This is called the theme-less awareness-release.
 
 “This is the way of explaining by which these qualities are different in meaning & different in name.
 

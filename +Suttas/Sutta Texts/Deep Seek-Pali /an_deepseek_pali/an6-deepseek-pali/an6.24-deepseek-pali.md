@@ -16,7 +16,7 @@ language: "English - Pali"
 
 24. ‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu himavantaṃ pabbatarājaṃ padāleyya, ko pana vādo chavāya avijjāya! Katamehi chahi? Idha, bhikkhave, bhikkhu samādhissa samāpattikusalo hoti, samādhissa ṭhitikusalo hoti, samādhissa vuṭṭhānakusalo hoti, samādhissa kallitakusalo [kallatākusalo (syā. kaṃ. ka.) saṃ. ni. 3.665 passitabbaṃ] hoti, samādhissa gocarakusalo hoti, samādhissa abhinīhārakusalo hoti. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu himavantaṃ pabbatarājaṃ padāleyya, ko pana vādo chavāya avijjāyā’’ti! Catutthaṃ.
 
-24.“Bhikkhus, a bhikkhu endowed with six qualities could split the Himalayan mountain king—what then of the mere shell of ignorance! What six? Here, bhikkhus, a bhikkhu is skilled in attaining concentration, skilled in maintaining concentration, skilled in emerging from concentration, skilled in making concentration pliant, skilled in the domain of concentration, skilled in directing concentration. Bhikkhus, a bhikkhu endowed with these six qualities could split the Himalayan mountain king—what then of the mere shell of ignorance!” The fourth.
+24.“Bhikkhus, a bhikkhu endowed with six qualities could split the Himalayan mountain king—what then of the mere shell of ignorance! What six? Here, bhikkhus, a bhikkhu is skilled in attaining samādhi, skilled in maintaining samādhi, skilled in emerging from samādhi, skilled in making samādhi pliant, skilled in the domain of samādhi, skilled in directing samādhi. Bhikkhus, a bhikkhu endowed with these six qualities could split the Himalayan mountain king—what then of the mere shell of ignorance!” The fourth.
 
 
 ---

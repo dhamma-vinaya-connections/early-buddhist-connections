@@ -34,7 +34,7 @@ For a monk who is insolent, heedless,
 
 wishing for what’s outside,
 
-virtue, concentration, & discernment
+virtue, samādhi, & discernment
 
 don’t go to completion,
 
@@ -134,7 +134,7 @@ their passing away.
 
 1. Ven. Soṇa’s story is told in . The Mahāvagga version states that he was a native of Aṅga, but says nothing about his having been in the service of the king. [↩︎](#^thag13note01-ref) ^thag13note01
 
-2. According to the Commentary, the five that should be cut are the five lower fetters; the five that should be abandoned are the five higher fetters (see [[an10.13-thanissaro]]); the five that should be developed are the five faculties: conviction, persistence, mindfulness, concentration, and discernment (see [[sn48.10-thanissaro]]). The five bonds are passion, aversion, delusion, conceit, and views. [↩︎](#^thag13note02-ref) ^thag13note02
+2. According to the Commentary, the five that should be cut are the five lower fetters; the five that should be abandoned are the five higher fetters (see [[an10.13-thanissaro]]); the five that should be developed are the five faculties: conviction, persistence, mindfulness, samādhi, and discernment (see [[sn48.10-thanissaro]]). The five bonds are passion, aversion, delusion, conceit, and views. [↩︎](#^thag13note02-ref) ^thag13note02
 
 3. This line also appears in [[dhp379-thanissaro]]. [↩︎](#^thag13note03-ref) ^thag13note03
 

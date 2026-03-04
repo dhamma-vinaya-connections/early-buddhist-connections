@@ -56,7 +56,7 @@ Then the Blessed One, having encompassed with his own mind the minds of the monk
 
 ‘‘Evamāvuso’’ti kho te bhikkhū tassa bhikkhuno paṭissutvā senāsanaṃ saṃsāmetvā pattacīvaramādāya – seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya, evameva – vaggumudāya nadiyā tīre antarahitā mahāvane kūṭāgārasālāyaṃ bhagavato sammukhe pāturahesuṃ. Tena kho pana samayena bhagavā āneñjena samādhinā nisinno hoti. Atha kho tesaṃ bhikkhūnaṃ etadahosi – ‘‘katamena nu kho bhagavā vihārena etarahi viharatī’’ti? Atha kho tesaṃ bhikkhūnaṃ etadahosi – ‘‘āneñjena kho bhagavā vihārena etarahi viharatī’’ti. Sabbeva āneñjasamādhinā nisīdiṃsu.
 
-“Yes, friend,” those bhikkhus replied to that bhikkhu. Having set their lodgings in order and taken their bowls and robes, just as a strong man might stretch out his bent arm or bend his outstretched arm, so they vanished from the bank of the Vaggumudā River and reappeared in the Great Wood, in the Gabled Hall, in the presence of the Blessed One. Now on that occasion the Blessed One was sitting in imperturbable concentration. Then the thought occurred to those bhikkhus: “In which abiding is the Blessed One now dwelling?” Then the thought occurred to those bhikkhus: “The Blessed One is now dwelling in the imperturbable abiding.” And they all sat down in imperturbable concentration.
+“Yes, friend,” those bhikkhus replied to that bhikkhu. Having set their lodgings in order and taken their bowls and robes, just as a strong man might stretch out his bent arm or bend his outstretched arm, so they vanished from the bank of the Vaggumudā River and reappeared in the Great Wood, in the Gabled Hall, in the presence of the Blessed One. Now on that occasion the Blessed One was sitting in imperturbable samādhi. Then the thought occurred to those bhikkhus: “In which abiding is the Blessed One now dwelling?” Then the thought occurred to those bhikkhus: “The Blessed One is now dwelling in the imperturbable abiding.” And they all sat down in imperturbable samādhi.
 
 Atha kho āyasmā ānando abhikkantāya rattiyā, nikkhante paṭhame yāme, uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ [cīvaraṃ (sabbattha)] karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca – ‘‘abhikkantā, bhante, ratti; nikkhanto paṭhamo yāmo; ciranisinnā āgantukā bhikkhū; paṭisammodatu, bhante, bhagavā āgantukehi bhikkhūhī’’ti. Evaṃ vutte, bhagavā tuṇhī ahosi.
 
@@ -72,7 +72,7 @@ For a third time, when the night was far advanced, after the last watch had pass
 
 Atha kho bhagavā tamhā samādhimhā vuṭṭhahitvā āyasmantaṃ ānandaṃ āmantesi – ‘‘sace kho tvaṃ, ānanda, jāneyyāsi ettakampi te nappaṭibhāseyya [nappaṭibheyya (?)]. Ahañca, ānanda, imāni ca pañca bhikkhusatāni sabbeva āneñjasamādhinā nisīdimhā’’ti.
 
-Then the Blessed One, having emerged from that concentration, addressed the Venerable Ānanda: “Ānanda, if you knew, it would not even occur to you to say so much. For I, Ānanda, and these five hundred bhikkhus have all been sitting in imperturbable concentration.”
+Then the Blessed One, having emerged from that samādhi, addressed the Venerable Ānanda: “Ānanda, if you knew, it would not even occur to you to say so much. For I, Ānanda, and these five hundred bhikkhus have all been sitting in imperturbable samādhi.”
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

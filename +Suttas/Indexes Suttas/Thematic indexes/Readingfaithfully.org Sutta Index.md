@@ -58,7 +58,7 @@ From https://index.readingfaithfully.org
 - acceptance of Dhamma after consideration (dhammanijjhānakhanti)
     - leads to zeal: [[MN70]], [[MN95]]
 
-- accomplishment in concentration (samādhisampannā)
+- accomplishment in samādhi (samādhisampannā)
     - being satisfied with limited attainments: [[MN29]], [[MN30]]
     - criticizing others for lack of: [[MN29]], [[MN30]]
     - person who has is very helpful to associate with: [[SN46.3]]
@@ -295,7 +295,7 @@ From https://index.readingfaithfully.org
 - aggravated misconduct (tassapāpiyasikā)
     - rules for monk convicted of: [[AN8.90]]
 
-- aggregate of concentration (samādhikkhandha)
+- aggregate of samādhi (samādhikkhandha)
     - in recipient of gift: [[SN3.24]]
     - not taken away by someone else’s death: [[SN47.13]]
     - parts of eightfold path: [[MN44]]
@@ -1209,7 +1209,7 @@ From https://index.readingfaithfully.org
 - attention (manasikāra)
     - during meditation: [[AN11.8]]
     - jhānas and: [[MN111]]
-    - loss of ending concentration: [[MN128]]
+    - loss of ending samādhi: [[MN128]]
     - origin of phenomenon: [[SN47.42]]
     - part of name (nāma): [[MN9]]
     - produces desire: [[AN8.83]], [[AN10.58]]
@@ -2247,7 +2247,7 @@ From https://index.readingfaithfully.org
     - as “luxurious bed” of brahmās: [[AN3.63]]
     - “attained to brahmā”: [[AN4.190]]
     - brahmins’ practice of: [[AN5.192]]
-    - concentration and: [[AN8.63]]
+    - samādhi and: [[AN8.63]]
     - dwelling of brahmās: [[MN55]]
     - dwelling of the buddha: [[MN55]]
     - eating almsfood: [[MN55]]
@@ -2749,7 +2749,7 @@ From https://index.readingfaithfully.org
     - eaten by mouse, simile for sense pleasures: [[SN20.10]]
     - simile for all who have attained enlightenment do so in certain way: [[AN10.95]]
     - simile for inferring buddha’s knowledge: [[DN16]].1.16.0, [[DN28]].1.0, [[SN47.12]]
-    - simile for monk without concentration living in wilderness: [[AN10.99]]
+    - simile for monk without samādhi living in wilderness: [[AN10.99]]
 
 - cattle
     - see: cows
@@ -3228,16 +3228,16 @@ From https://index.readingfaithfully.org
     - streams of do not flow: [[MN140]]
     - uprooting all: [[SN35.30]], [[SN35.31]]
 
-- concentration (samādhi)
-    - see also: virtue, concentration, wisdom (sīla, samādhi, paññā)
+- samādhi (samādhi)
+    - see also: virtue, samādhi, wisdom (sīla, samādhi, paññā)
     - and serenity and insight: [[AN4.170]]
     - as chief: [[AN8.83]], [[AN9.14]], [[AN10.58]]
     - as the essence (samādhisāraka): [[SN22.88]]
     - as the path: [[AN6.64]]
     - bases of psychic power: [[SN51.13]]
     - buddha knows: [[MN12]]
-    - come together with concentrated: [[SN14.23]]
-    - concentrated succeed: [[AN11.11]], [[AN11.13]]
+    - come together with collected: [[SN14.23]]
+    - collected succeed: [[AN11.11]], [[AN11.13]]
     - conditions for: [[MN17]]
     - definition, foundation, prerequisites, etc: [[MN44]]
     - developed for different purposes: [[DN6]].3.0
@@ -3289,10 +3289,10 @@ From https://index.readingfaithfully.org
     - without it, enlightenment not possible: [[AN6.70]]
     - without it, psychic powers are impossible: [[AN6.70]]
 
-- concentration enlightenment factor
+- samādhi enlightenment factor
     - see: awakening factor of immersion (samādhisambojjhaṅga)
 
-- concentration of Dhamma (dhammasamādhi)
+- samādhi of Dhamma (dhammasamādhi)
     - giving up uncertainty: [[SN42.13]]
 
 - conception (gabbhāvakkanti)
@@ -3558,7 +3558,7 @@ From https://index.readingfaithfully.org
     - leads to wholesome: [[AN1.65]]
     - mahā kassapa, ven.: [[SN16.1]]
     - mindfulness of breathing and: [[AN5.97]]
-    - noble concentration: [[DN10]].2.1.0
+    - noble samādhi: [[DN10]].2.1.0
     - praise for person with who talks about: [[AN10.70]]
     - prevents disputes: [[AN10.50]]
     - principle of cordiality: [[AN10.50]]
@@ -5008,7 +5008,7 @@ From https://index.readingfaithfully.org
     - spiritual faculties appear: [[SN48.60]]
 
 - discomfort (duṭṭhulla)
-    - ending concentration: [[MN128]]
+    - ending samādhi: [[MN128]]
 
 - discontent 1 (arati)
     - cause for dullness and drowsiness: [[SN46.2]], [[SN46.51]]
@@ -5113,7 +5113,7 @@ From https://index.readingfaithfully.org
     - do not associate with monk who makes: [[AN5.146]]
     - in the saṅgha: [[AN2.63]], [[AN3.95]], [[AN3.124]], [[AN5.212]]
     - indicator of having given up right intention: [[AN3.124]]
-    - leads to restlessness and lack of concentration: [[AN7.61]]
+    - leads to restlessness and lack of samādhi: [[AN7.61]]
     - like blind arguing over elephant: [[UD6.4]]
     - one who does not cause is worthy of going on a mission: [[AN8.16]]
     - over a woman: [[UD6.8]]
@@ -5192,7 +5192,7 @@ From https://index.readingfaithfully.org
     - noble truth: [[DN22]].13.0.1, [[MN141]]
 
 - diversified perception (nānattasaññī)
-    - ending concentration: [[MN128]]
+    - ending samādhi: [[MN128]]
     - the self and: [[MN102]]
 
 - diversity (nānatta)
@@ -5351,7 +5351,7 @@ From https://index.readingfaithfully.org
     - cause of forgetting: [[SN46.55]]
     - caused by improper attention: [[AN1.15]]
     - causing fear of death: [[AN4.184]]
-    - ending concentration: [[MN128]]
+    - ending samādhi: [[MN128]]
     - fetter: [[MN64]]
     - for internal and external: [[SN46.52]]
     - free from (nikkaṅkha): [[MN142]]
@@ -5427,7 +5427,7 @@ From https://index.readingfaithfully.org
     - cause: [[SN46.2]], [[SN46.51]], [[AN1.13]]
     - cause for removing: [[AN1.18]]
     - cause of forgetting: [[SN46.55]]
-    - ending concentration: [[MN128]]
+    - ending samādhi: [[MN128]]
     - leads to fear: [[MN4]]
     - like bowl of water covered with plants: [[SN46.55]]
     - like prisoner: [[DN2]].34.0.1, [[DN10]].2.1.0, [[MN39]]
@@ -5751,7 +5751,7 @@ From https://index.readingfaithfully.org
     - simile for enduring abuse: [[DHP|DHP320]]
     - simile for gradual training: [[MN125]]
     - simile for juniors acting like elders: [[SN20.9]]
-    - simile for monk with concentration living in wilderness: [[AN10.99]]
+    - simile for monk with samādhi living in wilderness: [[AN10.99]]
     - simile for person not bound by their weak ties: [[MN66]]
     - simile for person who is willing to lie: [[MN61]]
     - simile for self-reliance: [[DHP|DHP327]]
@@ -5795,7 +5795,7 @@ From https://index.readingfaithfully.org
     - interest in: [[AN2.47]]
     - monastics will not have interest in future: [[SN20.7]], [[AN5.79]]
 
-- emptiness concentration (suññato samādhi)
+- emptiness samādhi (suññato samādhi)
     - insight into greed: [[AN3.183]]
     - leads to unconditioned: [[SN43.4]]
 
@@ -5845,7 +5845,7 @@ From https://index.readingfaithfully.org
     - painful feelings: [[UD3.1]]
 
 - enduring 3 (khama)
-    - concentration and: [[AN5.113]]
+    - samādhi and: [[AN5.113]]
     - criticism: [[MN125]]
     - how to: [[AN10.71]]
     - mindfulness of the body helps one to achieve: [[MN119]]
@@ -5922,7 +5922,7 @@ From https://index.readingfaithfully.org
     - māra cannot strike down: [[DHP|DHP8]]
     - never stop trying: [[AN2.5]]
     - noble disciple with gives up unwholesome: [[AN7.67]]
-    - overly lax energy and ending concentration: [[MN128]]
+    - overly lax energy and ending samādhi: [[MN128]]
     - power: [[AN7.4]]
     - power of: [[AN9.5]]
     - power: seen in four right efforts: [[AN5.15]]
@@ -5958,7 +5958,7 @@ From https://index.readingfaithfully.org
     - four paths: [[AN4.170]]
     - less than a day: [[MN85]]
     - like baby released from swaddling: [[MN80]]
-    - not possible without concentration: [[AN6.70]]
+    - not possible without samādhi: [[AN6.70]]
     - power for a mendicant: [[DN26]].28.0
     - result of faith: [[AN11.14]]
     - through disillusionment for feelings: [[MN74]]
@@ -5979,7 +5979,7 @@ From https://index.readingfaithfully.org
 
 - envy (issā)
     - see also: jealousy (issā)
-    - block to concentration: [[DHP|DHP365]]
+    - block to samādhi: [[DHP|DHP365]]
     - cause of being uninfluential, insignificant: [[MN135]]
     - definition: [[MN135]]
     - leads to hell: [[MN135]]
@@ -6011,7 +6011,7 @@ From https://index.readingfaithfully.org
     - based on unity: [[MN54]], [[MN137]]
     - basis for: [[SN35.130]]
     - caused by contact: [[SN48.39]]
-    - exclusively focused on may not lead to concentration: [[AN3.102]]
+    - exclusively focused on may not lead to samādhi: [[AN3.102]]
     - grasping at: [[MN106]]
     - happiness of: [[AN2.72]]
     - laypeople’s and monastics’: [[MN137]], [[SN36.22]]
@@ -6054,7 +6054,7 @@ From https://index.readingfaithfully.org
     - like fig tree has no flower: [[SNP1.1]]
 
 - essential/inessential (sāra/asāra)
-    - ethics, concentration, wisdom, freedom: [[AN4.150]]
+    - ethics, samādhi, wisdom, freedom: [[AN4.150]]
     - knowing: [[DHP|DHP11]], [[DHP|DHP12]]
 
 - esteem (sambhāveti)
@@ -6106,11 +6106,11 @@ From https://index.readingfaithfully.org
 
 - excess energy (accāraddhavīriya)
     - see also: energy (vīriya)
-    - ending concentration: [[MN128]]
+    - ending samādhi: [[MN128]]
     - too much leads to restlessness: [[AN6.55]]
 
 - excitement (uppila)
-    - ending concentration: [[MN128]]
+    - ending samādhi: [[MN128]]
 
 - exclamations
     - “hommage to the great steward!”: [[DN19]].30.0
@@ -6891,7 +6891,7 @@ From https://index.readingfaithfully.org
     - giving up: [[MN54]]
     - giving up is purpose of spiritual life: [[SN45.42]]
     - giving up large and small: [[MN66]]
-    - giving up through concentration due to mindfulness of breathing: [[SN54.17]]
+    - giving up through samādhi due to mindfulness of breathing: [[SN54.17]]
     - giving up through knowing and seeing sense bases: [[SN35.54]]
     - internal and external: [[AN2.36]]
     - like fish in net: [[SNP1.3]]
@@ -7248,7 +7248,7 @@ From https://index.readingfaithfully.org
     - simile for wisdom: [[SN48.54]]
 
 - footprints of the Dhamma (dhammapada)
-    - contentment, good will, right mindfulness, right concentration: [[AN4.29]]
+    - contentment, good will, right mindfulness, right samādhi: [[AN4.29]]
 
 - footprints of the gods (devapada)
     - factors of stream-entry: [[SN55.34]], [[SN55.35]]
@@ -7398,7 +7398,7 @@ From https://index.readingfaithfully.org
     - cause seven awakening factors: [[SN54.13]], [[AN10.61]], [[AN10.62]]
     - caused by the three kinds of good conduct: [[AN10.61]], [[AN10.62]]
     - completely developed: [[SN47.27]]
-    - concentration: [[MN44]]
+    - samādhi: [[MN44]]
     - definition in brief: [[SN47.1]], [[SN47.24]]
     - definition in detail: DN22, [[MN10]]
     - encouraging those for whom you have sympathy: [[SN47.48]]
@@ -8819,7 +8819,7 @@ From https://index.readingfaithfully.org
     - attachment/acquisitions (upadhi) and: [[AN2.66]]
     - beings want happiness: [[MN51]], [[MN94]]
     - by giving vehicles: [[SN1.42]]
-    - concentration and: [[AN2.73]]
+    - samādhi and: [[AN2.73]]
     - contentment is: [[DHP|DHP331]]
     - definition: [[AN10.65]], [[AN10.66]]
     - dependent on contact: [[SN12.25]]
@@ -8830,7 +8830,7 @@ From https://index.readingfaithfully.org
     - gained through pain: [[MN14]], [[MN85]]
     - gained through pain/suffering: [[MN101]]
     - jhānas and formless attainments: [[MN59]], [[SN36.19]]
-    - leads to concentration: [[MN7]], [[MN40]]
+    - leads to samādhi: [[MN7]], [[MN40]]
     - like shadow never leaving: [[DHP|DHP2]]
     - made by oneself or another: [[SN12.25]]
     - many kinds of: [[MN59]], [[SN36.19]]
@@ -8855,7 +8855,7 @@ From https://index.readingfaithfully.org
     - those who desire: [[SN3.4]], [[SN3.8]], [[UD2.3]], [[UD5.1]]
     - through happiness: [[THAG1]].63
     - through harming others: [[DHP|DHP291]]
-    - vital condition for concentration: [[SN12.23]]
+    - vital condition for samādhi: [[SN12.23]]
     - vital condition is tranquility: [[SN12.23]]
     - waking happily, benefit of loving-kindness: [[AN11.15]]
     - with material things: [[DHP|DHP290]]
@@ -9140,7 +9140,7 @@ From https://index.readingfaithfully.org
 - heart’s release by compassion (karuṇā cetovimutti)
     - awakening factors: [[SN46.54]]
     - cause for giving up harming: [[AN6.13]]
-    - concentration and: [[AN8.63]]
+    - samādhi and: [[AN8.63]]
     - conditioned: [[MN52]], [[AN11.16]]
     - culmination is dimension of infinite space: [[SN46.54]]
     - leads to enlightenment: [[MN52]], [[AN11.16]]
@@ -9152,7 +9152,7 @@ From https://index.readingfaithfully.org
 - heart’s release by equanimity (upekkhā cetovimutti)
     - awakening factors: [[SN46.54]]
     - cause for giving up desire: [[AN6.13]]
-    - concentration and: [[AN8.63]]
+    - samādhi and: [[AN8.63]]
     - conditioned: [[MN52]], [[AN11.16]]
     - culmination is dimension of nothingness: [[SN46.54]]
     - leads to enlightenment: [[MN52]], [[AN11.16]]
@@ -9167,7 +9167,7 @@ From https://index.readingfaithfully.org
     - benefits of: [[AN11.15]]
     - cause for giving up hatred: [[AN3.68]]
     - cause for giving up ill will: [[AN1.17]], [[AN6.13]]
-    - concentration and: [[AN8.63]]
+    - samādhi and: [[AN8.63]]
     - conditioned: [[MN52]], [[AN11.16]]
     - culmination is the beautiful: [[SN46.54]]
     - leads to enlightenment: [[MN52]], [[AN11.16]]
@@ -9181,7 +9181,7 @@ From https://index.readingfaithfully.org
 - heart’s release by rejoicing (muditā cetovimutti)
     - awakening factors: [[SN46.54]]
     - cause for giving up: [[AN6.13]]
-    - concentration and: [[AN8.63]]
+    - samādhi and: [[AN8.63]]
     - conditioned: [[MN52]], [[AN11.16]]
     - culmination is dimension of infinite consciousness: [[SN46.54]]
     - leads to enlightenment: [[MN52]], [[AN11.16]]
@@ -10215,7 +10215,7 @@ From https://index.readingfaithfully.org
     - arise because of name and form: [[AN9.14]]
     - cause of wholesome and unwholesome: [[MN78]]
     - cessation of: [[MN78]]
-    - concentration is its chief: [[AN9.14]]
+    - samādhi is its chief: [[AN9.14]]
     - contact is origin: [[AN9.14]]
     - deathless is its culmination: [[AN9.14]]
     - feeling is meeting place: [[AN9.14]]
@@ -10409,7 +10409,7 @@ From https://index.readingfaithfully.org
     - spies for king pasenadi: [[SN3.11]], [[UD6.2]]
 
 - Jaṭilagāhikā, Ven.
-    - asking ven. ānanda about concentration: [[AN9.37]]
+    - asking ven. ānanda about samādhi: [[AN9.37]]
 
 - Jayasena, Prince
     - asking about training: [[MN125]]
@@ -10444,7 +10444,7 @@ From https://index.readingfaithfully.org
     - praised by god anāthapiṇḍika: [[MN143]], [[SN1.48]]
 
 - jhānas
-    - see also: first jhāna, fourth jhāna, meditation (jhāyati), right concentration (sammā samādhi), second jhāna, third jhāna
+    - see also: first jhāna, fourth jhāna, meditation (jhāyati), right samādhi (sammā samādhi), second jhāna, third jhāna
     - —: SN, SN
     - as a basis for insight: [[MN111]]
     - as a result of proper striving: [[MN65]], [[MN101]]
@@ -10486,7 +10486,7 @@ From https://index.readingfaithfully.org
     - gratification of feeling: [[MN13]]
     - happiness for a mendicant: [[DN26]].28.0
     - how to obtain: [[MN6]], [[AN10.71]]
-    - in definition of right concentration (sammā samādhi): [[DN22]].13.0.1, [[MN141]]
+    - in definition of right samādhi (sammā samādhi): [[DN22]].13.0.1, [[MN141]]
     - insufficient: [[AN8.71]], [[AN10.8]]
     - knowledge and vision: [[MN128]]
     - laypeople attaining: [[DN17]].2.1.0, [[SN41.8]], [[SN41.9]], [[AN7.53]]
@@ -10503,7 +10503,7 @@ From https://index.readingfaithfully.org
     - nibbāna and: [[AN9.35]]
     - nibbāna visible here and now: [[AN9.47]]
     - nine progressive dwellings (anupubbavihārā): [[AN9.32]]
-    - noble concentration: [[DN10]].2.1.0
+    - noble samādhi: [[DN10]].2.1.0
     - noble disciple: [[MN53]]
     - not a reason to become arrogant: [[MN113]]
     - one freed both ways and: [[AN9.45]]
@@ -11242,7 +11242,7 @@ From https://index.readingfaithfully.org
     - as very harmful: [[AN1.84]], [[AN1.100]]
     - cannot see path: [[DHP|DHP280]]
     - cause of and giving up: [[AN10.76]]
-    - from sign of concentration: [[AN3.102]]
+    - from sign of samādhi: [[AN3.102]]
     - leads to unwholesome: [[AN1.60]]
     - māra strikes one down: [[DHP|DHP7]]
 
@@ -11626,7 +11626,7 @@ From https://index.readingfaithfully.org
     - result of heedfulness: [[SN3.17]]
 
 - longing (abhijappā)
-    - ending concentration: [[MN128]]
+    - ending samādhi: [[MN128]]
 
 - loss 1
     - of loved ones: [[UD2.7]]
@@ -11938,7 +11938,7 @@ From https://index.readingfaithfully.org
     - asking about person who drank alcohol: [[SN55.24]]
     - asking about understanding greed, etc., vs. being free of: [[MN14]]
     - asking about what to practice: [[AN11.11]]
-    - concentration and wisdom: [[AN3.73]]
+    - samādhi and wisdom: [[AN3.73]]
     - discussing factors of stream-entry: [[SN55.23]]
     - foremost who donate fine things: [[AN1.252]]
     - meditation of trainee and buddha: [[SN54.12]]
@@ -12652,7 +12652,7 @@ From https://index.readingfaithfully.org
 
 - mindfulness of body 1 (kāyagatāsati)
     - see also: body (kāya)
-    - concentration and: [[MN119]]
+    - samādhi and: [[MN119]]
     - elements: [[MN119]]
     - for sense restraint: [[SN35.247]]
     - full of pleasure: [[SN16.11]]
@@ -12672,7 +12672,7 @@ From https://index.readingfaithfully.org
     - wishing for the world: [[THAG7]].2
 
 - mindfulness of body 2 (kāyānupassanā)
-    - concentration and: [[AN8.63]]
+    - samādhi and: [[AN8.63]]
     - definition: [[DN22]].2.0.1, [[MN10]]
     - elements: [[DN22]].2.0.1, [[MN10]]
     - factors that block: [[AN6.117]], [[AN6.118]]
@@ -12722,19 +12722,19 @@ From https://index.readingfaithfully.org
     - using future perils: [[AN5.77]], [[AN5.78]]
 
 - mindfulness of feeling (vedanānupassanā)
-    - concentration and: [[AN8.63]]
+    - samādhi and: [[AN8.63]]
     - definition: [[DN22]].11.0, [[MN10]]
     - in definition of right mindfulness (sammā sati): [[DN22]].13.0.1, [[MN141]]
     - mindfulness of breathing: [[MN118]]
 
 - mindfulness of mind (cittānupassanā)
-    - concentration and: [[AN8.63]]
+    - samādhi and: [[AN8.63]]
     - definition: [[DN22]].12.0, [[MN10]]
     - in definition of right mindfulness (sammā sati): [[DN22]].13.0.1, [[MN141]]
     - mindfulness of breathing: [[MN118]]
 
 - mindfulness of mind objects (dhammānupassanā)
-    - concentration and: [[AN8.63]]
+    - samādhi and: [[AN8.63]]
     - definition: [[DN22]].13.0.1, [[MN10]]
     - in definition of right mindfulness (sammā sati): [[DN22]].13.0.1, [[MN141]]
     - mindfulness of breathing: [[MN118]]
@@ -13283,7 +13283,7 @@ From https://index.readingfaithfully.org
 
 - Nandā, Ven.
     - buddha declares attainment: [[DN16]].2.5.0, [[SN55.8]]
-    - foremost in concentration: [[AN1.240]]
+    - foremost in samādhi: [[AN1.240]]
 
 - Nanda, Ven.
     - clear comprehension: [[AN8.9]]
@@ -13378,7 +13378,7 @@ From https://index.readingfaithfully.org
     - blocked by disputes: [[MN103]]
     - cessation of conditioned existence is: [[AN10.7]]
     - close to when mindful: [[SN35.95]]
-    - concentration in: [[AN10.6]], [[AN11.7]]
+    - samādhi in: [[AN10.6]], [[AN11.7]]
     - counterpart: [[MN44]]
     - culmination, destination, end of the spiritual life: [[SN23.1]], [[SN48.42]]
     - definition: [[SN38.1]], [[AN9.48]]
@@ -13491,7 +13491,7 @@ From https://index.readingfaithfully.org
 - nīvaraṇa
     - see: hindrances (nīvaraṇa)
 
-- noble concentration (ariya samādhi)
+- noble samādhi (ariya samādhi)
     - in detail: [[DN10]].2.1.0
 
 - noble cycle (ariya ñāya)
@@ -13523,7 +13523,7 @@ From https://index.readingfaithfully.org
     - seeing passing away and rebirth of beings: [[MN53]]
     - seeing with wisdom: [[MN146]]
     - understands conditions: [[SN12.27]]
-    - virtue, concentration and wisdom of: [[AN3.73]]
+    - virtue, samādhi and wisdom of: [[AN3.73]]
     - who cannot be overrun by māra: [[AN7.67]]
     - will not be reborn in lower realms: [[AN3.75]]
     - wise: [[MN53]]
@@ -13540,7 +13540,7 @@ From https://index.readingfaithfully.org
     - ten: [[DN33]].3.3.0
 
 - noble eightfold path (ariya aṭṭhangika magga)
-    - see also: bodhipakkhiyā dhammā, right action (sammā kammanta), right concentration (sammā samādhi), right effort (sammā vāyāma), right intention (sammā saṅkappa), right livelihood (sammā ājīva), right mindfulness (sammā sati), right speech (sammā vācā), right view (sammā diṭṭhi)
+    - see also: bodhipakkhiyā dhammā, right action (sammā kammanta), right samādhi (sammā samādhi), right effort (sammā vāyāma), right intention (sammā saṅkappa), right livelihood (sammā ājīva), right mindfulness (sammā sati), right speech (sammā vācā), right view (sammā diṭṭhi)
     - —: SN
     - analysis of: [[SN45.8]]
     - arahant has well developed: [[AN8.28]], [[AN10.90]]
@@ -13650,7 +13650,7 @@ From https://index.readingfaithfully.org
     - virtues loved by noble ones: [[SN12.41]]
     - with developed faculties: [[MN152]]
 
-- noble right concentration (ariyo sammāsamādhi)
+- noble right samādhi (ariyo sammāsamādhi)
     - conditions of: [[DN18]].27.3.0, [[MN117]], [[SN45.28]], [[AN7.45]]
 
 - noble silence (ariya tuṇhībhāva)
@@ -14054,7 +14054,7 @@ From https://index.readingfaithfully.org
 
 - one beyond training (asekha)
     - definition: [[SN47.27]], [[AN10.111]]
-    - entire spectrum of virtue, concentration, wisdom: [[AN3.143]], [[AN11.10]]
+    - entire spectrum of virtue, samādhi, wisdom: [[AN3.143]], [[AN11.10]]
     - possessing ethics, immersion, wisdom, freedom, knowledge and vision of freedom: [[AN10.12]]
     - qualities of: [[SN48.53]], [[AN10.112]]
     - understanding five and six qualities: [[SN48.53]]
@@ -14812,7 +14812,7 @@ From https://index.readingfaithfully.org
     - the self and: [[MN102]]
     - theories of: [[DN9]].1.0
     - thorn for cessation of perception and feeling: [[AN10.72]]
-    - while in concentration: [[AN10.6]], [[AN11.7]]
+    - while in samādhi: [[AN10.6]], [[AN11.7]]
     - workings of: [[DN9]].1.0
 
 - perceptions for ascetics (samaṇasaññā)
@@ -14997,9 +14997,9 @@ From https://index.readingfaithfully.org
     - leading to enlightenment: [[DN29]].23.0
     - nature of undeclared: [[DN29]].34.0
     - not connected with sense pleasure: [[MN36]]
-    - purpose of is concentration: [[AN10.1]], [[AN11.1]]
+    - purpose of is samādhi: [[AN10.1]], [[AN11.1]]
     - result of tranquility: [[AN10.1]], [[AN11.1]]
-    - vital condition for concentration: [[AN10.3]]
+    - vital condition for samādhi: [[AN10.3]]
     - when sense bases exist: [[SN35.133]]
     - worldly, spiritual: [[SN36.31]]
 
@@ -15525,7 +15525,7 @@ From https://index.readingfaithfully.org
     - not required for arahant: [[THAG17]].2
     - reducing nālanda to ruins: [[MN56]]
     - respecting a monk who has: [[MN108]]
-    - right concentration: [[AN5.28]]
+    - right samādhi: [[AN5.28]]
     - river standing still: [[THAG1]].38
     - showing off: [[SN41.4]]
     - similes of: [[DN2]].34.0.1, [[DN10]].2.1.0, [[MN77]]
@@ -15730,7 +15730,7 @@ From https://index.readingfaithfully.org
 [**Index**](#index)
 
 - rabbits
-    - simile for monk without concentration living in wilderness: [[AN10.99]]
+    - simile for monk without samādhi living in wilderness: [[AN10.99]]
 
 - Rādha, Ven.
     - —: SN
@@ -16378,7 +16378,7 @@ From https://index.readingfaithfully.org
     - body, speech, mind: [[DHP|DHP361]]
     - cause for rebirth: [[ITI22]]
     - lack of leaks wealth: [[SN1.76]]
-    - lack of prevents concentration: [[AN7.61]]
+    - lack of prevents samādhi: [[AN7.61]]
     - like thoroughbred: [[DHP|DHP380]]
     - mendicant: [[DHP|DHP362]]
     - start of path: [[DHP|DHP375]]
@@ -16492,9 +16492,9 @@ From https://index.readingfaithfully.org
     - reflecting on how we like to be treated: [[SN55.7]]
     - two kinds: [[MN117]]
 
-- right concentration (sammā samādhi)
+- right samādhi (sammā samādhi)
     - see also: jhānas
-    - aggregate of concentration (samādhikkhandha): [[MN44]]
+    - aggregate of samādhi (samādhikkhandha): [[MN44]]
     - as footprint of the dhamma: [[AN4.29]]
     - condition for true knowledge and vision: [[AN6.50]], [[AN7.65]], [[AN8.81]]
     - conditioned by virtue: [[AN8.81]]
@@ -16512,7 +16512,7 @@ From https://index.readingfaithfully.org
 
 - right effort 2 (sammā vāyāma)
     - see also: bodhipakkhiyā dhammā, right effort, four (sammappadhāna)
-    - aggregate of concentration (samādhikkhandha): [[MN44]]
+    - aggregate of samādhi (samādhikkhandha): [[MN44]]
     - and contemplation of corpse: [[AN4.14]]
     - and factors of enlightenment: [[AN4.14]]
     - and thoughts: [[AN4.14]]
@@ -16560,7 +16560,7 @@ From https://index.readingfaithfully.org
     - removes wrong freedom: [[AN10.106]], [[AN10.107]], [[AN10.108]]
 
 - right immersion (sammā samādhi)
-    - see: right concentration (sammā samādhi)
+    - see: right samādhi (sammā samādhi)
 
 - right intention (sammā saṅkappa)
     - aggregate of wisdom (paññākkhandha): [[MN44]]
@@ -16576,7 +16576,7 @@ From https://index.readingfaithfully.org
 
 - right knowledge (sammā ñāṇa)
     - better person: [[SN45.26]]
-    - from right concentration: [[MN117]]
+    - from right samādhi: [[MN117]]
     - leads to end of defilements: [[AN10.122]]
     - overcoming illness: [[SN55.26]]
     - people who have come together: [[SN14.29]]
@@ -16598,7 +16598,7 @@ From https://index.readingfaithfully.org
     - two kinds: [[MN117]]
 
 - right mindfulness (sammā sati)
-    - aggregate of concentration (samādhikkhandha): [[MN44]]
+    - aggregate of samādhi (samādhikkhandha): [[MN44]]
     - as footprint of the dhamma: [[AN4.29]]
     - definition: [[DN22]].13.0.1, [[MN141]], [[SN45.8]]
     - to give up wrong view, etc.: [[MN117]]
@@ -16931,7 +16931,7 @@ From https://index.readingfaithfully.org
     - taste of, simile for liberation: [[AN8.19]], [[AN8.20]]
 
 - samādhi
-    - see: concentration (samādhi)
+    - see: samādhi (samādhi)
 
 - samaṇasaññā
     - see: perceptions for ascetics (samaṇasaññā)
@@ -17093,7 +17093,7 @@ From https://index.readingfaithfully.org
     - buddha telling monks to take leave of: [[SN22.2]]
     - buddha tells to give a talk: [[AN10.67]]
     - buddha’s direct knowledge is unsurpassed: [[DN16]].1.16.0, [[SN47.12]]
-    - concentration: [[AN7.41]], [[AN11.20]]
+    - samādhi: [[AN7.41]], [[AN11.20]]
     - death of: [[SN47.13]], [[SN47.14]], [[THAG20]].1
     - declaring enlightenment: [[SN12.32]]
     - detailed listing of terms: DN33
@@ -17533,7 +17533,7 @@ From https://index.readingfaithfully.org
     - tamed, guarded, etc.: [[SN35.94]]
     - the all: [[SN35.23]]
     - understanding and stream-entry, etc.: [[SN25.1]]
-    - understanding leads to concentration: [[SN35.99]]
+    - understanding leads to samādhi: [[SN35.99]]
     - unrestrained towards: [[SN35.244]]
     - views about the self, etc.: [[SN44.7]]
     - wearing away/out: [[SN35.84]]
@@ -17609,7 +17609,7 @@ From https://index.readingfaithfully.org
     - mendicant with cannot decline: [[AN4.37]]
     - needed for mindfulness of body: [[AN6.117]], [[AN6.118]]
     - needed to reach superhuman states: [[AN6.77]]
-    - noble concentration: [[DN10]].2.1.0
+    - noble samādhi: [[DN10]].2.1.0
     - not guarding leading to mendicant’s decline: [[AN8.79]]
     - not guarding leads to dissatisfaction: [[AN5.56]]
     - wilderness monks should: [[MN69]]
@@ -18049,7 +18049,7 @@ From https://index.readingfaithfully.org
     - of mind while practicing foundations of mindfulness: [[SN47.8]]
     - of sense object: [[MN27]], [[MN51]], [[MN138]]
 
-- sign of concentration (samādhinimitta)
+- sign of samādhi (samādhinimitta)
     - leading to laziness: [[AN3.102]]
     - to settle mind: [[MN122]]
 
@@ -18072,11 +18072,11 @@ From https://index.readingfaithfully.org
     - meditation on: [[THIG2]].1, [[THIG5]].8
     - meditation to abandon lust: [[SN8.4]]
 
-- signless concentration (animitto samādhi)
+- signless samādhi (animitto samādhi)
     - insight into greed: [[AN3.183]]
     - leads to unconditioned: [[SN43.4]]
 
-- signless concentration of mind
+- signless samādhi of mind
     - see: signless immersion of the heart (animittaṁ cetosamādhi)
 
 - signless immersion of the heart (animittaṁ cetosamādhi)
@@ -18694,7 +18694,7 @@ From https://index.readingfaithfully.org
     - peril of: [[SN16.8]]
     - purpose of: [[MN24]], [[MN29]], [[MN30]], [[MN44]], [[SN45.5]], [[SN45.41]], [[SN45.42]], [[SN45.43]], [[SN45.44]], [[SN45.45]], [[SN45.46]], [[SN45.47]], [[SN45.48]], [[AN9.13]]
     - purpose of is noble fruits: [[DN6]].3.0
-    - purpose of not concentration: [[DN6]].3.0
+    - purpose of not samādhi: [[DN6]].3.0
     - purpose of, direct knowledge and complete understanding: [[ITI36]]
     - purpose of, giving up desire (chanda): [[SN51.15]]
     - purpose of, restraint and giving up: [[ITI35]]
@@ -19331,7 +19331,7 @@ From https://index.readingfaithfully.org
     - ending of makes one an ascetic: [[MN40]]
     - ending of, fruit of ascetic life: [[DN2]].34.0.1
     - giving up is ending of delusion: [[MN36]]
-    - giving up through concentration due to mindfulness of breathing: [[SN54.20]]
+    - giving up through samādhi due to mindfulness of breathing: [[SN54.20]]
     - giving up through knowing and seeing sense bases: [[SN35.56]]
     - groundwork for ending: [[AN3.16]]
     - knowing what is and is not dhamma: [[AN2.114]], [[AN2.115]]
@@ -19509,7 +19509,7 @@ From https://index.readingfaithfully.org
 
 - terror (chambhitatta)
     - see also: fear (bhaya)
-    - ending concentration: [[MN128]]
+    - ending samādhi: [[MN128]]
     - leads to fear: [[MN4]]
 
 - testicles
@@ -19601,7 +19601,7 @@ From https://index.readingfaithfully.org
     - cause of desire: [[DN21]].1.8.0
     - caused by perceptions: [[DN21]].1.8.0, [[MN18]]
     - causing proliferation: [[MN18]]
-    - concentration is its chief: [[AN9.14]]
+    - samādhi is its chief: [[AN9.14]]
     - contact is origin: [[AN9.14]]
     - deathless is its culmination: [[AN9.14]]
     - drawing in like tortoise: [[SN1.17]]
@@ -19782,7 +19782,7 @@ From https://index.readingfaithfully.org
 
 - tradition (vaṁsa)
     - contentment with requisites and meditation: [[AN4.28]]
-    - contentment, good will, right mindfulness, right concentration: [[AN4.29]]
+    - contentment, good will, right mindfulness, right samādhi: [[AN4.29]]
     - leads to growth: [[DN16]].1.4.0, [[AN7.21]], [[AN7.22]]
     - of giving: [[AN7.52]]
 
@@ -19795,7 +19795,7 @@ From https://index.readingfaithfully.org
     - practice of: [[AN6.67]]
     - qualities of: [[SN48.53]]
     - should train in four foundations of mindfulness: [[SN47.4]], [[SN52.4]]
-    - virtue, concentration and wisdom of: [[AN3.73]]
+    - virtue, samādhi and wisdom of: [[AN3.73]]
     - work left to do: [[MN70]]
     - work left to do, sense bases: [[SN35.134]]
     - worthy of gifts: [[AN2.35]]
@@ -19948,14 +19948,14 @@ From https://index.readingfaithfully.org
 
 - true knowledge and vision (yathābhūtañāṇadassana)
     - condition for disillusionment and dispassion: [[AN6.50]], [[AN7.65]], [[AN8.81]]
-    - conditioned by right concentration: [[AN8.81]]
+    - conditioned by right samādhi: [[AN8.81]]
     - lack of prevents disillusionment and dispassion: [[AN7.65]]
     - purpose of is disillusionment: [[AN11.1]]
     - purpose of is disillusionment and dispassion: [[AN10.1]]
-    - result of concentration: [[AN10.1]], [[AN11.1]]
+    - result of samādhi: [[AN10.1]], [[AN11.1]]
     - vital condition for disillusionment: [[SN12.23]]
     - vital condition for disillusionment and dispassion: [[AN10.3]]
-    - vital condition is concentration: [[SN12.23]]
+    - vital condition is samādhi: [[SN12.23]]
 
 - true or false (bhūtena vā abhūtena)
     - dealing with speech that may be: [[MN21]]
@@ -20093,13 +20093,13 @@ From https://index.readingfaithfully.org
 - uncharitableness (avadaññū)
     - cause of and giving up: [[AN10.76]]
 
-- unconcentrated (asamāhita)
-    - come together with unconcentrated: [[SN14.23]]
+- uncollected (asamāhita)
+    - come together with uncollected: [[SN14.23]]
 
 - unconditioned (asaṅkhata)
     - —: SN
     - characteristics: [[AN3.47]]
-    - concentration with applied and sustained thought: [[SN43.3]]
+    - samādhi with applied and sustained thought: [[SN43.3]]
     - mindfulness of body as path to: [[SN43.1]]
     - path that leads to: [[SN43.12]]
     - serenity and insight as path to: [[SN43.2]]
@@ -20120,7 +20120,7 @@ From https://index.readingfaithfully.org
     - fetters: [[MN64]]
     - given up by eightfold path: [[SN45.175]]
     - giving up: [[MN9]], [[SN36.3]]
-    - giving up through concentration due to mindfulness of breathing: [[SN54.18]]
+    - giving up through samādhi due to mindfulness of breathing: [[SN54.18]]
     - giving up through knowing and seeing sense bases: [[SN35.58]]
     - perception of dissatisfaction with the whole world: [[AN10.60]]
     - removed by reviewing five subjects: [[AN5.57]]
@@ -20163,7 +20163,7 @@ From https://index.readingfaithfully.org
 - undirected (appaṇidhāya)
     - meditation: [[SN47.10]]
 
-- undirected concentration (appaṇihito samādhi)
+- undirected samādhi (appaṇihito samādhi)
     - insight into greed: [[AN3.183]]
     - leads to unconditioned: [[SN43.4]]
 
@@ -20171,9 +20171,9 @@ From https://index.readingfaithfully.org
     - on buddha: [[DN30]].2.13.0
 
 - unification of mind (cittassa ekaggatā)
-    - condition for noble right concentration: [[MN117]], [[SN45.28]]
+    - condition for noble right samādhi: [[MN117]], [[SN45.28]]
     - faculty of immersion (samādhindriya): [[SN48.9]]
-    - meaning of concentration: [[MN44]]
+    - meaning of samādhi: [[MN44]]
     - possibility of: [[MN125]]
 
 - unified (ekodibhūta)
@@ -20491,7 +20491,7 @@ From https://index.readingfaithfully.org
     - surpassing gods: [[AN9.21]]
 
 - Uttarānanda Mātā, householder
-    - foremost who practice concentration: [[AN1.262]]
+    - foremost who practice samādhi: [[AN1.262]]
 
 - Uttiya, Ven.
     - asking about five sense pleasures: [[SN45.30]]
@@ -20825,9 +20825,9 @@ From https://index.readingfaithfully.org
     - venomous, avoiding, like restraint towards sense fields, like restraint towards sense fields: [[MN105]]
 
 - virtue (sīla)
-    - see also: accomplishment in virtue (sīlasampadā), factors of stream-entry, precepts, virtue, concentration, wisdom (sīla, samādhi, paññā), virtue, higher (adhisīla)
+    - see also: accomplishment in virtue (sīlasampadā), factors of stream-entry, precepts, virtue, samādhi, wisdom (sīla, samādhi, paññā), virtue, higher (adhisīla)
     - accomplishment in: [[AN8.75]]
-    - as condition for concentration: [[AN5.168]]
+    - as condition for samādhi: [[AN5.168]]
     - as criterion for loving-kindness: [[KP9]], [[SNP1.8]]
     - as merit: [[KP8]]
     - as one, but not only, factor of monastic life: [[AN4.196]]
@@ -20839,7 +20839,7 @@ From https://index.readingfaithfully.org
     - cause for rebirth: [[AN8.36]]
     - cause of wisdom: [[AN8.2]]
     - come together with virtuous: [[SN14.24]]
-    - concentration, imbuing: [[DN16]].1.6.0
+    - samādhi, imbuing: [[DN16]].1.6.0
     - conditioned by sense restraint: [[AN8.81]]
     - contentment with as partial attainment: [[SN55.40]]
     - definition: [[AN7.6]], [[ITI97]]
@@ -20857,12 +20857,12 @@ From https://index.readingfaithfully.org
     - hindered by bad friendship: [[AN10.73]]
     - insufficient: [[AN8.71]], [[AN8.72]], [[AN9.4]], [[AN10.8]]
     - known through association: [[SN3.11]], [[UD6.2]]
-    - lack of prevents right concentration: [[AN7.65]]
+    - lack of prevents right samādhi: [[AN7.65]]
     - leading to happiness: [[THAG12]].1
     - leads to bodhipakkhiyā dhammā: [[AN9.1]]
     - leads to enlightenment soon: [[AN7.60]]
     - leads to heaven: [[VV11]], [[THAG12]].1
-    - leads to right concentration: [[AN6.50]], [[AN7.65]], [[AN8.81]]
+    - leads to right samādhi: [[AN6.50]], [[AN7.65]], [[AN8.81]]
     - levels of: [[AN8.36]]
     - like foliage is condition for tree: [[AN5.168]]
     - loved by noble ones: [[AN4.52]]
@@ -20898,8 +20898,8 @@ From https://index.readingfaithfully.org
     - wisdom: [[DN4]].21.0
     - worthy of gifts: [[AN10.97]]
 
-- virtue, concentration, wisdom (sīla, samādhi, paññā)
-    - see also: concentration (samādhi), virtue (sīla), wisdom (paññā)
+- virtue, samādhi, wisdom (sīla, samādhi, paññā)
+    - see also: samādhi (samādhi), virtue (sīla), wisdom (paññā)
     - people with levels of: [[AN4.136]], [[AN4.137]]
 
 - virtue, higher (adhisīla)
@@ -21317,12 +21317,12 @@ From https://index.readingfaithfully.org
     - from recollections to samādhi: [[AN11.11]]
     - happens without a wish: [[AN11.2]]
     - independence to no passing away: [[UD8.4]]
-    - inspiration to concentration: [[AN5.26]], [[AN6.10]]
+    - inspiration to samādhi: [[AN5.26]], [[AN6.10]]
     - lack of conscience and prudence to ending birth, old age and death: [[AN10.76]]
     - no seeking to no birth: [[DN15]].1.0
     - noble eightfold path: [[AN10.121]]
     - starting with respect: [[AN5.21]]
-    - virtue to concentration: [[SN42.13]]
+    - virtue to samādhi: [[SN42.13]]
     - virtue to knowledge and vision of freedom: [[AN5.24]], [[AN10.1]], [[AN10.2]], [[AN10.3]], [[AN11.1]]
 
 - wholesome roots 1 (alobha, adosa, amoha)
@@ -21407,8 +21407,8 @@ From https://index.readingfaithfully.org
     - cause: [[DN30]].1.25.0, [[MN135]]
     - causes growth of skillful qualities: [[AN10.67]]
     - chief of powers of a trainee: [[AN5.12]]
-    - concentration and: [[DHP|DHP372]]
-    - concentration, imbued with: [[DN16]].1.6.0
+    - samādhi and: [[DHP|DHP372]]
+    - samādhi, imbued with: [[DN16]].1.6.0
     - consciousness and: [[MN43]]
     - decline and non-decline: [[SN16.7]]
     - definition: [[SN48.9]], [[AN7.4]]
@@ -21760,8 +21760,8 @@ From https://index.readingfaithfully.org
     - far shore: [[AN10.169]]
     - overcome by right action: [[MN8]]
 
-- wrong concentration (micchāsamādhi)
-    - overcome by right concentration: [[MN8]]
+- wrong samādhi (micchāsamādhi)
+    - overcome by right samādhi: [[MN8]]
 
 - wrong custom (micchādhamma)
     - period of decline: [[DN26]].10.0

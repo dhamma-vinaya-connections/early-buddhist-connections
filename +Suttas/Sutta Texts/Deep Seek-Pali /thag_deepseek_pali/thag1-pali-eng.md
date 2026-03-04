@@ -206,7 +206,7 @@ And the son of Jambugāmika, Hārita, and Uttiya the seer. 4. Catutthavaggo 4. T
 37.
 ‘‘Nānājanapadaṃ yanti, vicarantā asaññatā;Samādhiñca virādhenti, kiṃsu raṭṭhacariyā karissati;Tasmā vineyya sārambhaṃ, jhāyeyya apurakkhato’’ti.
 
-“They go to various countries, wandering unrestrained; they fail in concentration. What will wandering in the country accomplish? Therefore, having abandoned agitation, one should meditate unhindered.” … Kumāputtattherassa sahāyako thero…. The Elder, a companion of the Elder Kumāputta... 8. Gavampatittheragāthā 8.The Verses of the Elder Gavampati
+“They go to various countries, wandering unrestrained; they fail in samādhi. What will wandering in the country accomplish? Therefore, having abandoned agitation, one should meditate unhindered.” … Kumāputtattherassa sahāyako thero…. The Elder, a companion of the Elder Kumāputta... 8. Gavampatittheragāthā 8.The Verses of the Elder Gavampati
 
 38.
 ‘‘Yo iddhiyā sarabhuṃ aṭṭhapesi, so gavampati asito anejo;Taṃ sabbasaṅgātigataṃ mahāmuniṃ, devā namassanti bhavassa pāragu’’nti.
@@ -251,7 +251,7 @@ And the son of Jambugāmika, Hārita, and Uttiya the seer. 4. Catutthavaggo 4. T
 46.
 ‘‘Saddhāyāhaṃ pabbajito, agārasmānagāriyaṃ;Sati paññā ca me vuḍḍhā, cittañca susamāhitaṃ;Kāmaṃ karassu rūpāni, neva maṃ byādhayissasī’’ti [bādhayissasīti (sī.), byāthayissasīti (?)].
 
-“Out of faith I went forth, from the household life to homelessness; My mindfulness and wisdom have increased, and my mind is well concentrated; Do what you will with forms, you will not trouble me.” … Samiddhitthero…. … The Elder Samiddhi… 7. Ujjayattheragāthā 7.The Verses of the Elder Ujjaya
+“Out of faith I went forth, from the household life to homelessness; My mindfulness and wisdom have increased, and my mind is well collected; Do what you will with forms, you will not trouble me.” … Samiddhitthero…. … The Elder Samiddhi… 7. Ujjayattheragāthā 7.The Verses of the Elder Ujjaya
 
 47.
 ‘‘Namo te buddha vīratthu, vippamuttosi sabbadhi;Tuyhāpadāne viharaṃ, viharāmi anāsavo’’ti.
@@ -529,7 +529,7 @@ Indeed, I was able to lift myself, to draw myself up from the water to dry land.
 102.
 ‘‘Mānena vañcitāse, saṅkhāresu saṃkilissamānāse;Lābhālābhena mathitā, samādhiṃ nādhigacchantī’’ti.
 
-“Deceived by conceit, defiled in the formations, tossed about by gain and loss, they do not attain concentration.” … Setuccho thero…. … Elder Setuccha. 3. Bandhurattheragāthā 3.The Verses of Elder Bandhura
+“Deceived by conceit, defiled in the formations, tossed about by gain and loss, they do not attain samādhi.” … Setuccho thero…. … Elder Setuccha. 3. Bandhurattheragāthā 3.The Verses of Elder Bandhura
 
 103.
 ‘‘Nāhaṃ etena atthiko, sukhito dhammarasena tappito;Pitvā [pītvāna (sī. syā.)] rasaggamuttamaṃ, na ca kāhāmi visena santhava’’nti.

@@ -27,7 +27,7 @@ The Blessed One said, “If wanderers who are members of other sects should ask 
 
 “‘And further, the monk is virtuous. He dwells restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity. He trains himself, having undertaken the training rules, seeing danger in the slightest faults. This is the second prerequisite for the development of the wings to self-awakening.
 
-“‘And further, he gets to hear at will, easily & without difficulty, talk that is truly sobering & conducive to the opening of awareness, i.e., talk on modesty, contentment, seclusion, non-entanglement, arousing persistence, virtue, concentration, discernment, release, and the knowledge & vision of release. This is the third prerequisite for the development of the wings to self-awakening.
+“‘And further, he gets to hear at will, easily & without difficulty, talk that is truly sobering & conducive to the opening of awareness, i.e., talk on modesty, contentment, seclusion, non-entanglement, arousing persistence, virtue, samādhi, discernment, release, and the knowledge & vision of release. This is the third prerequisite for the development of the wings to self-awakening.
 
 “‘And further, he keeps his persistence aroused for abandoning unskillful qualities and for taking on skillful qualities. He is steadfast, solid in his effort, not shirking his duties with regard to skillful qualities. This is the fourth prerequisite for the development of the wings to self-awakening.
 
@@ -35,7 +35,7 @@ The Blessed One said, “If wanderers who are members of other sects should ask 
 
 “Monks, when a monk has admirable people as friends, companions, & colleagues, it is to be expected that he will be virtuous, will dwell restrained in accordance with the Pāṭimokkha, consummate in his behavior & sphere of activity, and will train himself, having undertaken the training rules, seeing danger in the slightest faults.
 
-“When a monk has admirable people as friends, companions, & colleagues, it is to be expected that he will get to hear at will, easily & without difficulty, talk that is truly sobering and conducive to the opening of awareness, i.e., talk on modesty, contentment, seclusion, non-entanglement, arousing persistence, virtue, concentration, discernment, release, and the knowledge & vision of release.
+“When a monk has admirable people as friends, companions, & colleagues, it is to be expected that he will get to hear at will, easily & without difficulty, talk that is truly sobering and conducive to the opening of awareness, i.e., talk on modesty, contentment, seclusion, non-entanglement, arousing persistence, virtue, samādhi, discernment, release, and the knowledge & vision of release.
 
 “When a monk has admirable people as friends, companions, & colleagues, it is to be expected that he will keep his persistence aroused for abandoning unskillful qualities and for taking on skillful qualities—steadfast, solid in his effort, not shirking his duties with regard to skillful qualities.
 

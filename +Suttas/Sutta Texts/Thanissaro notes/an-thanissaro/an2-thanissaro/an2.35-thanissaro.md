@@ -45,7 +45,7 @@ Then—just as a strong man might extend his flexed arm or flex his extended arm
 
 1. This state = the human realm. According to the Commentary, “inside” here means sensual levels of becoming; “outside” means form and formless levels of becoming. Alternatively, it says that “inside” denotes the five lower fetters, whereas “outside” denotes the five higher fetters. It illustrates the idea that a person fettered inside can sojourn in the higher levels of becoming before returning to this state with an analogy: a calf fettered by a tether to a post inside a corral but whose tether is long enough for it to lie down for a while outside of the corral. Similarly, a person fettered outside who is currently alive in this state is like a calf tethered to a post outside of a corral but who is currently lying down in the corral. [↩︎](#^[[an2-thanissaro]].35note01-ref) ^[[an2-thanissaro]].35note01
 
-2. A concentration attainment. See [[an2.30-thanissaro]], [[an6.13-thanissaro]]; [[sn42.8-thanissaro]], [[an8.63-thanissaro]], and [[sn46.54-thanissaro]]. [↩︎](#^[[an2-thanissaro]].35note02-ref) ^[[an2-thanissaro]].35note02
+2. A samādhi attainment. See [[an2.30-thanissaro]], [[an6.13-thanissaro]]; [[sn42.8-thanissaro]], [[an8.63-thanissaro]], and [[sn46.54-thanissaro]]. [↩︎](#^[[an2-thanissaro]].35note02-ref) ^[[an2-thanissaro]].35note02
 
 3. This individual, after leaving that deva realm, will either be reborn in one of the Pure Abodes or will gain unbinding. See [[an3.88-thanissaro]]. [↩︎](#^[[an2-thanissaro]].35note03-ref) ^[[an2-thanissaro]].35note03
 

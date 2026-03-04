@@ -17,11 +17,11 @@ language: "English"
 
 “Monks, these four persons are to be found existing in the world. Which four? The unshakeable contemplative, the white-lotus contemplative, the red-lotus contemplative, the most refined contemplative among contemplatives.
 
-“And how is a person an unshakeable contemplative? There is the case where a monk is a person of right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.[1](#^[[an4-thanissaro]].89note01) This is how a person is an unshakeable contemplative. ^[[an4-thanissaro]].89note01-ref
+“And how is a person an unshakeable contemplative? There is the case where a monk is a person of right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.[1](#^[[an4-thanissaro]].89note01) This is how a person is an unshakeable contemplative. ^[[an4-thanissaro]].89note01-ref
 
-“And how is a person a white-lotus contemplative? There is the case where a monk is a person of right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration, right knowledge, right release.[2](#^[[an4-thanissaro]].89note02) But he doesn’t remain touching the eight emancipations with his body.[3](#^[[an4-thanissaro]].89note03) This is how a person is a white-lotus contemplative. ^[[an4-thanissaro]].89note02-ref ^[[an4-thanissaro]].89note03-ref
+“And how is a person a white-lotus contemplative? There is the case where a monk is a person of right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi, right knowledge, right release.[2](#^[[an4-thanissaro]].89note02) But he doesn’t remain touching the eight emancipations with his body.[3](#^[[an4-thanissaro]].89note03) This is how a person is a white-lotus contemplative. ^[[an4-thanissaro]].89note02-ref ^[[an4-thanissaro]].89note03-ref
 
-“And how is a person a red-lotus contemplative? There is the case where a monk is a person of right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration, right knowledge, right release. And he remains touching the eight emancipations with his body. This is how a person is a red-lotus contemplative.
+“And how is a person a red-lotus contemplative? There is the case where a monk is a person of right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi, right knowledge, right release. And he remains touching the eight emancipations with his body. This is how a person is a red-lotus contemplative.
 
 “And how is a person the most refined contemplative among contemplatives?
 
@@ -37,7 +37,7 @@ There is the case where a monk often uses a robe when asked to, and rarely when 
 
 2. These ten factors are the path of the arahant. See [[mn117-thanissaro]]. [↩︎](#^[[an4-thanissaro]].89note02-ref) ^[[an4-thanissaro]].89note02
 
-3. See [[dn15-thanissaro]]. The Commentary states that this passage refers to a dry-insight arahant, one who hasn’t attained any of the jhānas. However, the “stream” that a stream-enterer has entered contains all eight factors of the noble eightfold path. One of these factors is right concentration, which consists of the four jhānas. So if every stream-enterer has experienced at least the first jhāna, and stream-entry is a lower attainment than arahantship, every arahant must have experienced at least the first jhāna as well. [↩︎](#^[[an4-thanissaro]].89note03-ref) ^[[an4-thanissaro]].89note03
+3. See [[dn15-thanissaro]]. The Commentary states that this passage refers to a dry-insight arahant, one who hasn’t attained any of the jhānas. However, the “stream” that a stream-enterer has entered contains all eight factors of the noble eightfold path. One of these factors is right samādhi, which consists of the four jhānas. So if every stream-enterer has experienced at least the first jhāna, and stream-entry is a lower attainment than arahantship, every arahant must have experienced at least the first jhāna as well. [↩︎](#^[[an4-thanissaro]].89note03-ref) ^[[an4-thanissaro]].89note03
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

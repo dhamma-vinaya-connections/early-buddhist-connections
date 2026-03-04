@@ -40,7 +40,7 @@ to see the unvanquished Saṅgha.”
 
 Then another devatā recited this verse in the Blessed One’s presence:
 
-“There the monks are concentrated,
+“There the monks are collected,
 
 have straightened their own minds.
 
@@ -86,7 +86,7 @@ I will recite a verse of tribute.
 
 Those who live where spirits dwell,
 
-who live in mountain caves, resolute, concentrated,
+who live in mountain caves, resolute, collected,
 
 many, like hidden lions, who have overcome horripilation,
 

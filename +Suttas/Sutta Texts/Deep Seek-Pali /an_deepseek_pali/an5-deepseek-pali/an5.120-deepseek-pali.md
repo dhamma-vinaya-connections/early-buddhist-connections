@@ -32,7 +32,7 @@ The Summary:
 
 Kulūpako pacchāsamaṇo, samādhiandhakavindaṃ;Maccharī vaṇṇanā issā, diṭṭhivācāya vāyamāti.
 
-One who frequents families, the attendant, concentration, Andhakavinda; Stinginess, praise, envy, wrong view, speech, effort.
+One who frequents families, the attendant, samādhi, Andhakavinda; Stinginess, praise, envy, wrong view, speech, effort.
 
 (13) 3. Gilānavaggo
 

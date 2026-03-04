@@ -143,7 +143,7 @@ Then Ven. Sāriputta went to the Blessed One and, on arrival, having bowed down 
 
 2. This sentence appears in the Thai and Sri Lankan editions of the canon, and in MLS, but not in MLDB. [↩︎](#^mn97note02-ref) ^mn97note02
 
-3. I.e., inferior to any of the noble attainments. The Brahmā world can be attained simply through the power of concentration applied to unlimited good will, etc., or to any of the jhānas. Only if discernment is developed to overcome passion and delight for these mundane attainments can the noble attainments be realized. For discussions of this issue see [[mn106-thanissaro]], [[an4.123-thanissaro]], and [[an4.178-thanissaro]]. [↩︎](#^mn97note03-ref) ^mn97note03
+3. I.e., inferior to any of the noble attainments. The Brahmā world can be attained simply through the power of samādhi applied to unlimited good will, etc., or to any of the jhānas. Only if discernment is developed to overcome passion and delight for these mundane attainments can the noble attainments be realized. For discussions of this issue see [[mn106-thanissaro]], [[an4.123-thanissaro]], and [[an4.178-thanissaro]]. [↩︎](#^mn97note03-ref) ^mn97note03
 
 See also: [[mn130-thanissaro]]; [[mn143-thanissaro]]; [[sn3.17-thanissaro]]; [[sn41.7-thanissaro]]; [[sn41.10-thanissaro]]; [[sn55.54-thanissaro]]; [[an4.178-thanissaro]]; [[an5.130-thanissaro]]; [[an10.15-thanissaro]]
 

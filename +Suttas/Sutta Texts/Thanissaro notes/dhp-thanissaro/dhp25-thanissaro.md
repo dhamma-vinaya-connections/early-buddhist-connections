@@ -59,7 +59,7 @@ A monk who covets those of others
 
 attains
 
-no concentration.
+no samādhi.
 
 Even if he gets next to nothing,
 

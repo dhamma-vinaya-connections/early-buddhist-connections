@@ -308,7 +308,7 @@ restlessness & uncertainty:
 
 These, for a monk, are the five defilements.
 
-The concentration of one
+The samādhi of one
 
 dwelling in heedfulness
 

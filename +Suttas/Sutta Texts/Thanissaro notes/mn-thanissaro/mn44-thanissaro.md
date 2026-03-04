@@ -37,7 +37,7 @@ Saying, “Yes, lady,” Visākha the lay follower delighted & rejoiced in what 
 
 “‘The way of practice leading to the cessation of self-identification, the way of practice leading to the cessation of self-identification,’ it is said, lady. Which way of practice leading to the cessation of self-identification is described by the Blessed One?”
 
-“Precisely this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration: This, friend Visākha, is the way of practice leading to the cessation of self-identification described by the Blessed One.”
+“Precisely this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi: This, friend Visākha, is the way of practice leading to the cessation of self-identification described by the Blessed One.”
 
 “Is it the case, lady, that clinging is the same thing as the five clinging-aggregates or is it something separate?”
 
@@ -71,19 +71,19 @@ Saying, “Yes, lady,” Visākha the lay follower delighted & rejoiced in what 
 
 “Now, again, lady, what is the noble eightfold path?”
 
-“This is the noble eightfold path, friend Visākha: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.”
+“This is the noble eightfold path, friend Visākha: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.”
 
 “Is the noble eightfold path fabricated or unfabricated?”
 
 “The noble eightfold path is fabricated.”
 
-“And are the three aggregates [of virtue, concentration, & discernment] included under the noble eightfold path, lady, or is the noble eightfold path included under the three aggregates?”
+“And are the three aggregates [of virtue, samādhi, & discernment] included under the noble eightfold path, lady, or is the noble eightfold path included under the three aggregates?”
 
-“The three aggregates are not included under the noble eightfold path, friend Visākha, but the noble eightfold path is included under the three aggregates. Right speech, right action, & right livelihood come under the aggregate of virtue. Right effort, right mindfulness, & right concentration come under the aggregate of concentration. Right view & right resolve come under the aggregate of discernment.”
+“The three aggregates are not included under the noble eightfold path, friend Visākha, but the noble eightfold path is included under the three aggregates. Right speech, right action, & right livelihood come under the aggregate of virtue. Right effort, right mindfulness, & right samādhi come under the aggregate of samādhi. Right view & right resolve come under the aggregate of discernment.”
 
-“Now what is concentration, lady, what qualities are its themes, what qualities are its requisites, and what is its development?”
+“Now what is samādhi, lady, what qualities are its themes, what qualities are its requisites, and what is its development?”
 
-“Singleness of mind is concentration, friend Visākha; the four establishings of mindfulness are its themes; the four right exertions are its requisites; and any cultivation, development, & pursuit of these qualities is its development.”
+“Singleness of mind is samādhi, friend Visākha; the four establishings of mindfulness are its themes; the four right exertions are its requisites; and any cultivation, development, & pursuit of these qualities is its development.”
 
 ## Fabrications
 
@@ -189,7 +189,7 @@ That is what the Blessed One said. Gratified, Visākha the lay follower delighte
 
 1. Verbal fabrication grows still on attaining the second jhāna; bodily fabrication grows still on attaining the fourth jhāna; mental fabrication grows still on attaining the cessation of perception & feeling. [↩︎](#^mn44note01-ref) ^mn44note01
 
-2. Emptiness, the theme-less, & the undirected are names for a state of concentration that lies on the threshold of unbinding. They differ only in how they are approached. According to the commentary, they color one’s first apprehension of unbinding: a meditator who has been focusing on the theme of inconstancy will first apprehend unbinding as theme-less; one who has been focusing on the theme of stress will first apprehend it as undirected; one who has been focusing on the theme of not-self will first apprehend it as emptiness. [↩︎](#^mn44note02-ref) ^mn44note02
+2. Emptiness, the theme-less, & the undirected are names for a state of samādhi that lies on the threshold of unbinding. They differ only in how they are approached. According to the commentary, they color one’s first apprehension of unbinding: a meditator who has been focusing on the theme of inconstancy will first apprehend unbinding as theme-less; one who has been focusing on the theme of stress will first apprehend it as undirected; one who has been focusing on the theme of not-self will first apprehend it as emptiness. [↩︎](#^mn44note02-ref) ^mn44note02
 
 3. According to the commentary, “seclusion” here stands for unbinding. On emerging from the cessation of perception & feeling, and having had contact with emptiness/the theme-less/the undirected, the mind inclines naturally to a direct experience of unbinding. [↩︎](#^mn44note03-ref) ^mn44note03
 

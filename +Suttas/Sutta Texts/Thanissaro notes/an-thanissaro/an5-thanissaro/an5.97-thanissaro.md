@@ -23,7 +23,7 @@ language: "English"
 
 “He is a person of only a little sloth, committed to wakefulness.
 
-“He gets to hear at will, easily & without difficulty, talk that is truly sobering & conducive to the opening of awareness: talk on modesty, contentment, seclusion, non-entanglement, arousing persistence, virtue, concentration, discernment, release, and the knowledge & vision of release.
+“He gets to hear at will, easily & without difficulty, talk that is truly sobering & conducive to the opening of awareness: talk on modesty, contentment, seclusion, non-entanglement, arousing persistence, virtue, samādhi, discernment, release, and the knowledge & vision of release.
 
 “He reflects on the mind as it is released.
 

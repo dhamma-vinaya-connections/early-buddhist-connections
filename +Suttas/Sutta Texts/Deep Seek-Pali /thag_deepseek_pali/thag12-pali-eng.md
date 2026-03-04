@@ -61,7 +61,7 @@ language: "Pali"
 617.
 ‘‘Idheva nindaṃ labhati, peccāpāye ca dummano;Sabbattha dummano bālo, sīlesu asamāhito.
 
-“Right here one meets with blame, and is miserable after death in a woeful state; everywhere the fool, unconcentrated in virtue, is miserable.”
+“Right here one meets with blame, and is miserable after death in a woeful state; everywhere the fool, uncollected in virtue, is miserable.”
 
 618.
 ‘‘Idheva kittiṃ labhati, pecca sagge ca summano;Sabbattha sumano dhīro, sīlesu susamāhito.

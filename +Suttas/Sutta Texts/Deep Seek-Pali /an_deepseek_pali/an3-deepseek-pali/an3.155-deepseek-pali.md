@@ -92,23 +92,23 @@ He wears hemp robes, coarse hemp robes, shrouds, cast-off rags, bark robes, ante
 
 ‘‘Chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti vīriyasamādhi…pe… cittasamādhi…pe… vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti…pe….
 
-"He develops the basis for spiritual power endowed with concentration due to desire and volitional formations of striving. He develops the basis for spiritual power endowed with concentration due to energy and volitional formations of striving. He develops the basis for spiritual power endowed with concentration due to mind and volitional formations of striving. He develops the basis for spiritual power endowed with concentration due to investigation and volitional formations of striving."
+"He develops the basis for spiritual power endowed with samādhi due to desire and volitional formations of striving. He develops the basis for spiritual power endowed with samādhi due to energy and volitional formations of striving. He develops the basis for spiritual power endowed with samādhi due to mind and volitional formations of striving. He develops the basis for spiritual power endowed with samādhi due to investigation and volitional formations of striving."
 
 ‘‘Saddhindriyaṃ bhāveti… vīriyindriyaṃ bhāveti… satindriyaṃ bhāveti… samādhindriyaṃ bhāveti… paññindriyaṃ bhāveti….
 
-"He cultivates the faculty of faith... he cultivates the faculty of energy... he cultivates the faculty of mindfulness... he cultivates the faculty of concentration... he cultivates the faculty of wisdom..."
+"He cultivates the faculty of faith... he cultivates the faculty of energy... he cultivates the faculty of mindfulness... he cultivates the faculty of samādhi... he cultivates the faculty of wisdom..."
 
 ‘‘Saddhābalaṃ bhāveti… vīriyabalaṃ bhāveti… satibalaṃ bhāveti… samādhibalaṃ bhāveti… paññābalaṃ bhāveti….
 
-"He cultivates the power of faith... he cultivates the power of energy... he cultivates the power of mindfulness... he cultivates the power of concentration... he cultivates the power of wisdom..."
+"He cultivates the power of faith... he cultivates the power of energy... he cultivates the power of mindfulness... he cultivates the power of samādhi... he cultivates the power of wisdom..."
 
 ‘‘Satisambojjhaṅgaṃ bhāveti… dhammavicayasambojjhaṅgaṃ bhāveti… vīriyasambojjhaṅgaṃ bhāveti… pītisambojjhaṅgaṃ bhāveti… passaddhisambojjhaṅgaṃ bhāveti… samādhisambojjhaṅgaṃ bhāveti… upekkhāsambojjhaṅgaṃ bhāveti….
 
-"He cultivates the enlightenment factor of mindfulness… He cultivates the enlightenment factor of investigation of phenomena… He cultivates the enlightenment factor of energy… He cultivates the enlightenment factor of rapture… He cultivates the enlightenment factor of tranquility… He cultivates the enlightenment factor of concentration… He cultivates the enlightenment factor of equanimity…"
+"He cultivates the enlightenment factor of mindfulness… He cultivates the enlightenment factor of investigation of phenomena… He cultivates the enlightenment factor of energy… He cultivates the enlightenment factor of rapture… He cultivates the enlightenment factor of tranquility… He cultivates the enlightenment factor of samādhi… He cultivates the enlightenment factor of equanimity…"
 
 ‘‘Sammādiṭṭhiṃ bhāveti… sammāsaṅkappaṃ bhāveti… sammāvācaṃ bhāveti… sammākammantaṃ bhāveti … sammāājīvaṃ bhāveti… sammāvāyāmaṃ bhāveti… sammāsatiṃ bhāveti… sammāsamādhiṃ bhāveti…. Ayaṃ vuccati, bhikkhave, majjhimā paṭipadā. Imā kho, bhikkhave, tisso paṭipadā’’ti.
 
-"He develops right view… he develops right thought… he develops right speech… he develops right action… he develops right livelihood… he develops right effort… he develops right mindfulness… he develops right concentration. This, monks, is called the middle course of conduct. These, monks, are the three courses of conduct."
+"He develops right view… he develops right thought… he develops right speech… he develops right action… he develops right livelihood… he develops right effort… he develops right mindfulness… he develops right samādhi. This, monks, is called the middle course of conduct. These, monks, are the three courses of conduct."
 
 Acelakavaggo chaṭṭho.
 
@@ -224,7 +224,7 @@ Killing of living beings, taking what is not given, sexual misconduct; false spe
 
 184. ‘‘Rāgassa, bhikkhave, abhiññāya tayo dhammā bhāvetabbā. Katame tayo? Suññato samādhi, animitto samādhi, appaṇihito samādhi – rāgassa, bhikkhave, abhiññāya ime tayo dhammā bhāvetabbā. ( ) [(rāgassa bhikkhave abhiññāya tayo dhammā bhāvetabbā. katame tayo? savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi. rāgassa bhikkhave abhiññāya ime tayo dhammā bhāvetabbā.) etthantare pāṭho katthaci dissati, aṭṭhakathāyaṃ passitabbo]
 
-184.“Monks, for the full comprehension of lust, three qualities are to be developed. What three? The concentration on emptiness, the signless concentration, and the undirected concentration. Monks, for the full comprehension of lust, these three qualities are to be developed.”
+184.“Monks, for the full comprehension of lust, three qualities are to be developed. What three? The samādhi on emptiness, the signless samādhi, and the undirected samādhi. Monks, for the full comprehension of lust, these three qualities are to be developed.”
 
 ‘‘Rāgassa, bhikkhave, pariññāya…pe… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya ime tayo dhammā bhāvetabbā.
 
@@ -260,7 +260,7 @@ These ten (methods)—direct knowledge, complete understanding, utter destructio
 
 Suññato animitto ca, appaṇihito ca tayo;Samādhimūlakā peyyālesupi vavatthitā cāti.
 
-The concentration on emptiness, the signless concentration, and the undirected concentration—these three; established in the serial discourses, having concentration as their root.
+The samādhi on emptiness, the signless samādhi, and the undirected samādhi—these three; established in the serial discourses, having samādhi as their root.
 
 Tikanipātapāḷi niṭṭhitā.
 

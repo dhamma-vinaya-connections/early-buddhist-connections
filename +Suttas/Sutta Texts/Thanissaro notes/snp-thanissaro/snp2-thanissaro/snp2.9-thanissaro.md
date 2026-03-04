@@ -96,7 +96,7 @@ Understanding’s the heartwood
 
 of well-spoken words;
 
-concentration, the heartwood
+samādhi, the heartwood
 
 of learning & understanding.
 
@@ -120,7 +120,7 @@ calm,
 
 composure, &
 
-concentration,
+samādhi,
 
 have reached
 
@@ -132,7 +132,7 @@ vv. 324–330
 
 ### Notes
 
-1. According to SnA, one’s superiors include those who have more wisdom than oneself, more skill in concentration and other aspects of the path than oneself, and those senior to oneself. [↩︎](#^snp2-9-01-ref) ^snp2-9-01
+1. According to SnA, one’s superiors include those who have more wisdom than oneself, more skill in samādhi and other aspects of the path than oneself, and those senior to oneself. [↩︎](#^snp2-9-01-ref) ^snp2-9-01
 
 2. SnA says that the right time to see a teacher is when one is overcome with passion, aversion, and delusion, and cannot find a way out on one’s own. This echoes a passage in AN 6:26, in which Ven. Mahā Kaccāna says that the right time to visit a “monk worthy of esteem” is when one needs help in overcoming any of the five hindrances or when one doesn’t yet have an appropriate theme to focus on to put an end to the mind’s effluents. [↩︎](#^snp2-9-02-ref) ^snp2-9-02
 

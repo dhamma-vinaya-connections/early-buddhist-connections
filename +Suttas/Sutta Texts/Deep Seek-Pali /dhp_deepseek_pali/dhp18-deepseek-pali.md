@@ -86,12 +86,12 @@ Know this, O man: evil qualities are unrestrained. Do not let greed and unrighte
 249.
 Dadāti ve yathāsaddhaṃ, yathāpasādanaṃ [yattha pasādanaṃ (katthaci)] jano;Tattha yo maṅku bhavati [tattha ce maṃku yo hoti (sī.), tattha yo maṅkuto hoti (syā.)], paresaṃ pānabhojane;Na so divā vā rattiṃ vā, samādhimadhigacchati.
 
-People give according to faith, according to their inspiration. Whoever is grudging concerning the drink and food of others does not attain concentration by day or night.
+People give according to faith, according to their inspiration. Whoever is grudging concerning the drink and food of others does not attain samādhi by day or night.
 
 250.
 Yassa cetaṃ samucchinnaṃ, mūlaghaccaṃ [mūlaghacchaṃ (ka.)] samūhataṃ;Sa ve divā vā rattiṃ vā, samādhimadhigacchati.
 
-But one who has cut off this, uprooted and destroyed its root, attains concentration by day or night.
+But one who has cut off this, uprooted and destroyed its root, attains samādhi by day or night.
 
 251.
 Natthi rāgasamo aggi, natthi dosasamo gaho;Natthi mohasamaṃ jālaṃ, natthi taṇhāsamā nadī.

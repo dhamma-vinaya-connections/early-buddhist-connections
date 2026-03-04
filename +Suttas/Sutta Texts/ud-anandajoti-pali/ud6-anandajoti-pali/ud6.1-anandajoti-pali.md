@@ -94,7 +94,7 @@ But at present, reverend Sir, the Gracious One's spiritual life is successful an
 
 17"Measurable and immeasurable continuity,  
 And the continuation-process the Sage relinquished.  
-Content in himself, and concentrated,  
+Content in himself, and collected,  
 He broke continuity of self like a coat of mail."
 
 1Evaṁ me sutaṁ — ​   ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya vesāliṁ piṇḍāya pāvisi.

@@ -36,7 +36,7 @@ Why don’t I live alone, withdrawn from the group?’ They frequent a secluded 
 
 5Giving up desire for the world, they meditate with a heart rid of desire, cleansing the mind of desire. Giving up ill will and malevolence, they meditate with a mind rid of ill will, full of compassion for all living beings, cleansing the mind of ill will. Giving up dullness and drowsiness, they meditate with a mind free of dullness and drowsiness, perceiving light, mindful and aware, cleansing the mind of dullness and drowsiness. Giving up restlessness and remorse, they meditate without restlessness, their mind peaceful inside, cleansing the mind of restlessness and remorse. Giving up doubt, they meditate having gone beyond doubt, not undecided about skillful qualities, cleansing the mind of doubt.
 
-They give up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. They happily relieve their itches.
+They give up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. They happily relieve their itches.
 
 As the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption … third absorption … fourth absorption. They happily relieve their itches.
 

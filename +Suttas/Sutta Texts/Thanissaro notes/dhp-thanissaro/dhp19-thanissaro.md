@@ -195,7 +195,7 @@ your habits & practices,
 
 great erudition,
 
-concentration attainments,
+samādhi attainments,
 
 secluded dwelling,
 

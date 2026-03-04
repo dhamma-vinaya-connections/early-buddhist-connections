@@ -61,7 +61,7 @@ language: "English"
 
 2. Again according to [[mn36-thanissaro]], this means that pain can invade this individual’s mind and remain there. [↩︎](#^[[an3-thanissaro]].101note02-ref) ^[[an3-thanissaro]].101note02
 
-3. Immeasurable concentration. See [[an3.65-thanissaro]] _(PTS—[[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.66-thanissaro]])._ [↩︎](#^[[an3-thanissaro]].101note03-ref) ^[[an3-thanissaro]].101note03
+3. Immeasurable samādhi. See [[an3.65-thanissaro]] _(PTS—[[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an3-thanissaro/an3.66-thanissaro]])._ [↩︎](#^[[an3-thanissaro]].101note03-ref) ^[[an3-thanissaro]].101note03
 
 4. For a discussion of this discourse in the general context of the Buddha’s teaching on kamma (karma), see _The Wings to Awakening,_ Section I/B. [↩︎](#^[[an3-thanissaro]].101note04-ref) ^[[an3-thanissaro]].101note04
 

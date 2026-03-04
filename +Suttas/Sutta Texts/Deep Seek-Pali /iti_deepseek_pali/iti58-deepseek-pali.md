@@ -16,9 +16,9 @@ language: "English - Pali"
 59. Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –
 59.This was said by the Blessed One, said by the Arahant—so I have heard:
 ‘‘Tīhi, bhikkhave, dhammehi samannāgato bhikkhu atikkamma māradheyyaṃ ādiccova virocati. Katamehi tīhi? Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti, asekhena samādhikkhandhena samannāgato hoti, asekhena paññākkhandhena samannāgato hoti – imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu atikkamma māradheyyaṃ ādiccova virocatī’’ti. Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati –
-"Bhikkhus, a bhikkhu endowed with three qualities, having transcended Māra's domain, shines like the sun. What three? Here, bhikkhus, a bhikkhu is endowed with the adept's aggregate of virtue, the adept's aggregate of concentration, and the adept's aggregate of wisdom. A bhikkhu endowed with these three qualities, having transcended Māra's domain, shines like the sun." The Blessed One spoke this meaning. In connection with this, it is said:
+"Bhikkhus, a bhikkhu endowed with three qualities, having transcended Māra's domain, shines like the sun. What three? Here, bhikkhus, a bhikkhu is endowed with the adept's aggregate of virtue, the adept's aggregate of samādhi, and the adept's aggregate of wisdom. A bhikkhu endowed with these three qualities, having transcended Māra's domain, shines like the sun." The Blessed One spoke this meaning. In connection with this, it is said:
 ‘‘Sīlaṃ samādhi paññā ca, yassa ete subhāvitā;Atikkamma māradheyyaṃ, ādiccova virocatī’’ti.
-"For whom virtue, concentration, and wisdom are well developed—having transcended Māra's domain, he shines like the sun."
+"For whom virtue, samādhi, and wisdom are well developed—having transcended Māra's domain, he shines like the sun."
 Ayampi attho vutto bhagavatā, iti me sutanti. Dasamaṃ.
 This meaning, too, was spoken by the Blessed One, so I have heard. Tenth.
 Paṭhamo vaggo niṭṭhito.

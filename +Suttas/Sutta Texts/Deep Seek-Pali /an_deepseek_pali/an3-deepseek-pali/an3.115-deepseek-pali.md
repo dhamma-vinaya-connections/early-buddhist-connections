@@ -16,11 +16,11 @@ language: "English - Pali"
 
 116. ‘‘Tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Suppameyyo, duppameyyo, appameyyo. Katamo ca, bhikkhave, puggalo suppameyyo? Idha, bhikkhave, ekacco puggalo uddhato hoti unnaḷo capalo mukharo vikiṇṇavāco muṭṭhassati asampajāno asamāhito vibbhantacitto pākatindriyo. Ayaṃ vuccati, bhikkhave, puggalo suppameyyo.
 
-116.“Monks, there are these three individuals found existing in the world. Which three? The easily estimated, the hard to estimate, and the immeasurable. And what, monks, is the individual who is easily estimated? Here, monks, a certain individual is haughty, arrogant, fickle, talkative, scattering words, forgetful, lacking clear comprehension, unconcentrated, with wandering mind, with uncontrolled faculties. This, monks, is called the individual who is easily estimated.”
+116.“Monks, there are these three individuals found existing in the world. Which three? The easily estimated, the hard to estimate, and the immeasurable. And what, monks, is the individual who is easily estimated? Here, monks, a certain individual is haughty, arrogant, fickle, talkative, scattering words, forgetful, lacking clear comprehension, uncollected, with wandering mind, with uncontrolled faculties. This, monks, is called the individual who is easily estimated.”
 
 ‘‘Katamo ca, bhikkhave, puggalo duppameyyo? Idha, bhikkhave, ekacco puggalo anuddhato hoti anunnaḷo acapalo amukharo avikiṇṇavāco upaṭṭhitassati sampajāno samāhito ekaggacitto saṃvutindriyo. Ayaṃ vuccati, bhikkhave, puggalo duppameyyo.
 
-“And what, monks, is the individual who is difficult to measure? Here, monks, a certain individual is not haughty, not arrogant, not fickle, not garrulous, not scattering words, with mindfulness established, clearly comprehending, concentrated, one-pointed in mind, with faculties restrained. This, monks, is called the individual who is difficult to measure.”
+“And what, monks, is the individual who is difficult to measure? Here, monks, a certain individual is not haughty, not arrogant, not fickle, not garrulous, not scattering words, with mindfulness established, clearly comprehending, collected, one-pointed in mind, with faculties restrained. This, monks, is called the individual who is difficult to measure.”
 
 ‘‘Katamo ca, bhikkhave, puggalo appameyyo? Idha, bhikkhave, bhikkhu arahaṃ hoti khīṇāsavo. Ayaṃ vuccati, bhikkhave, puggalo appameyyo. Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmi’’nti. Tatiyaṃ.
 

@@ -37,7 +37,7 @@ When this was said, Ven. Udāyin said to the Blessed One, “Lord, is it only on
 
 A human being, self-awakened,
 
-his mind tamed, concentrated,
+his mind tamed, collected,
 
 traveling along the Brahmā road,
 
@@ -99,15 +99,15 @@ seclusion his tail.
 
 He, in jhāna, delighting in assurance,
 
-inwardly well-concentrated,[5](#^[[an6-thanissaro]].43note05) ^[[an6-thanissaro]].43note05-ref
+inwardly well-collected,[5](#^[[an6-thanissaro]].43note05) ^[[an6-thanissaro]].43note05-ref
 
-the nāga, when going,         is concentrated,
+the nāga, when going,         is collected,
 
-when standing, the nāga is concentrated,
+when standing, the nāga is collected,
 
-when reclining, the nāga is concentrated,
+when reclining, the nāga is collected,
 
-when sitting, the nāga         is concentrated.
+when sitting, the nāga         is collected.
 
 Everywhere he’s restrained, the nāga:
 

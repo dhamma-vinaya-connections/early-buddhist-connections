@@ -106,7 +106,7 @@ Then the Blessed One addressed the brahmin Sundarikabhāradvāja in verses:
 
 ‘‘Ye vītarāgā susamāhitindriyā, candova rāhuggahaṇā pamuttā;Kālena tesu habyaṃ pavecche, yo brāhmaṇo puññapekkho yajetha.
 
-“Those who are free from lust, with well-concentrated faculties, like the moon released from Rāhu’s eclipse—to them a brahmin seeking merit should give an oblation at the proper time.
+“Those who are free from lust, with well-collected faculties, like the moon released from Rāhu’s eclipse—to them a brahmin seeking merit should give an oblation at the proper time.
 
 470.
 
@@ -144,7 +144,7 @@ Then the Blessed One addressed the brahmin Sundarikabhāradvāja in verses:
 
 ‘‘Samāhito yo udatāri oghaṃ, dhammaṃ caññāsi paramāya diṭṭhiyā;Khīṇāsavo antimadehadhārī, tathāgato arahati pūraḷāsaṃ.
 
-“Concentrated, one who has crossed the flood, who has known the Dhamma with supreme vision; with taints destroyed, bearing his final body—such a Tathāgata is worthy of the sacrificial cake.
+“collected, one who has crossed the flood, who has known the Dhamma with supreme vision; with taints destroyed, bearing his final body—such a Tathāgata is worthy of the sacrificial cake.
 
 476.
 
@@ -180,7 +180,7 @@ Then the Blessed One addressed the brahmin Sundarikabhāradvāja in verses:
 
 ‘‘Yo attano attānaṃ [attanāttānaṃ (sī. syā.)] nānupassati, samāhito ujjugato ṭhitatto;Sa ve anejo akhilo akaṅkho, tathāgato arahati pūraḷāsaṃ.
 
-“One who does not behold a self by means of self, concentrated, gone straight, of steadfast nature; he is indeed free from craving, without defect, free from doubt—such a Tathāgata is worthy of the sacrificial cake.
+“One who does not behold a self by means of self, collected, gone straight, of steadfast nature; he is indeed free from craving, without defect, free from doubt—such a Tathāgata is worthy of the sacrificial cake.
 
 482.
 

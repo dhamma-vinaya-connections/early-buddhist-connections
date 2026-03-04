@@ -384,7 +384,7 @@ This is a partial index of numerically arranged topics that appear in the suttas
 - **Clinging, kinds of:**
   - [[SN12.2]]
 
-- **Concentration, developments of:**
+- **samādhi, developments of:**
   - [[AN4.41]]
 
 - **Courses of action:**
@@ -569,10 +569,10 @@ This is a partial index of numerically arranged topics that appear in the suttas
 - **Attachments:**
   - [[DHP|DHP370]]
 
-- **Concentration, factors of Noble Right:**
+- **samādhi, factors of Noble Right:**
   - [[AN5.28]]
 
-- **Concentration, realizations arising from immeasurable:**
+- **samādhi, realizations arising from immeasurable:**
   - [[AN5.27]]
 
 - **Consummate, ways of being:**
@@ -940,7 +940,7 @@ This is a partial index of numerically arranged topics that appear in the suttas
 - **Arahantship, obstructions to:**
   - [[AN9.62]]
 
-- **Concentration, attainments of:**
+- **samādhi, attainments of:**
   - [[AN9.36]] , [[AN9.41]] , [[AN9.43]] , [[AN9.44]] , [[AN9.45]]
 
 - **Impossible actions of an arahant:**

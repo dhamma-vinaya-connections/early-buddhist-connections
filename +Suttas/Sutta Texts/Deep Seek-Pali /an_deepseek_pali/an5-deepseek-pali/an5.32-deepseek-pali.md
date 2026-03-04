@@ -40,7 +40,7 @@ language: "English - Pali"
 
 ‘‘Yāvatā, cundi, sīlāni, ariyakantāni sīlāni tesaṃ [ariyakantānitesaṃ (sī. syā. kaṃ.)] aggamakkhāyati, yadidaṃ – akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni. Ye kho, cundi, ariyakantesu sīlesu paripūrakārino, agge te paripūrakārino. Agge kho pana paripūrakārīnaṃ aggo vipāko hotī’’ti.
 
-“Whatever virtues there are, Cundī, the virtues dear to the noble ones are declared the foremost among them, namely, those that are unbroken, untorn, unblemished, unmottled, liberating, praised by the wise, ungrasped, and conducive to concentration. Those, Cundī, who perfectly fulfill the virtues dear to the noble ones perfectly fulfill the foremost. And for those who perfectly fulfill the foremost, the result is foremost.”
+“Whatever virtues there are, Cundī, the virtues dear to the noble ones are declared the foremost among them, namely, those that are unbroken, untorn, unblemished, unmottled, liberating, praised by the wise, ungrasped, and conducive to samādhi. Those, Cundī, who perfectly fulfill the virtues dear to the noble ones perfectly fulfill the foremost. And for those who perfectly fulfill the foremost, the result is foremost.”
 
 ‘‘Aggato ve pasannānaṃ, aggaṃ dhammaṃ vijānataṃ;Agge buddhe pasannānaṃ, dakkhiṇeyye anuttare.
 

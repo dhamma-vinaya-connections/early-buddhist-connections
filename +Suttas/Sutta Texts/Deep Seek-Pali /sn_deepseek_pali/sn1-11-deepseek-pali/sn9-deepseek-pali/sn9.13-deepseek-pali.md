@@ -16,7 +16,7 @@ language: "English - Pali"
 
 233. Ekaṃ samayaṃ sambahulā bhikkhū kosalesu viharanti aññatarasmiṃ vanasaṇḍe uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tesaṃ bhikkhūnaṃ anukampikā atthakāmā te bhikkhū saṃvejetukāmā yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū gāthāhi ajjhabhāsi –
 
-233.At one time a number of bhikkhus were dwelling in the Kosala country in a certain woodland grove—restless, arrogant, fickle, talkative, indulging in scattered talk, unmindful, lacking clear comprehension, unconcentrated, with wandering minds, with uncontrolled faculties. Then the deity who dwelt in that woodland grove, out of compassion and wishing for their welfare, desiring to stir them to urgency, approached those bhikkhus and addressed them with these verses:
+233.At one time a number of bhikkhus were dwelling in the Kosala country in a certain woodland grove—restless, arrogant, fickle, talkative, indulging in scattered talk, unmindful, lacking clear comprehension, uncollected, with wandering minds, with uncontrolled faculties. Then the deity who dwelt in that woodland grove, out of compassion and wishing for their welfare, desiring to stir them to urgency, approached those bhikkhus and addressed them with these verses:
 
 ‘‘Sukhajīvino pure āsuṃ, bhikkhū gotamasāvakā;Anicchā piṇḍamesanā, anicchā sayanāsanaṃ;Loke aniccataṃ ñatvā, dukkhassantaṃ akaṃsu te.
 

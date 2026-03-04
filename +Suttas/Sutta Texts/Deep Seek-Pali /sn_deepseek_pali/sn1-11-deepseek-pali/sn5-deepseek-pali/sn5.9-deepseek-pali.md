@@ -24,7 +24,7 @@ language: "English - Pali"
 
 Atha kho selāya bhikkhuniyā etadahosi – ‘‘ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī’’ti? Atha kho selāya bhikkhuniyā etadahosi – ‘‘māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo gāthaṃ bhāsatī’’ti. Atha kho selā bhikkhunī ‘‘māro ayaṃ pāpimā’’ iti viditvā māraṃ pāpimantaṃ gāthāhi paccabhāsi –
 
-Then the bhikkhunī Selā thought: “Who now is this, a human or a non-human, who speaks this verse?” Then the bhikkhunī Selā thought: “This is Māra the Evil One, wishing to arouse fear, trepidation, and horripilation in me, wishing to make me fall away from concentration, that speaks this verse.” Then the bhikkhunī Selā, knowing, “This is Māra the Evil One,” replied to Māra the Evil One with verses:
+Then the bhikkhunī Selā thought: “Who now is this, a human or a non-human, who speaks this verse?” Then the bhikkhunī Selā thought: “This is Māra the Evil One, wishing to arouse fear, trepidation, and horripilation in me, wishing to make me fall away from samādhi, that speaks this verse.” Then the bhikkhunī Selā, knowing, “This is Māra the Evil One,” replied to Māra the Evil One with verses:
 
 ‘‘Nayidaṃ attakataṃ [nayidaṃ pakataṃ (syā. kaṃ.)] bimbaṃ, nayidaṃ parakataṃ [nayidaṃ pakataṃ (syā. kaṃ.)] aghaṃ;Hetuṃ paṭicca sambhūtaṃ, hetubhaṅgā nirujjhati.
 

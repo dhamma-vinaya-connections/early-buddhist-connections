@@ -16,11 +16,11 @@ language: "English - Pali"
 
 34. ‘‘Imaṃ, bhikkhave, rattiṃ aññatarā devatā…pe… maṃ etadavoca – ‘sattime, bhante, dhammā bhikkhuno aparihānāya saṃvattanti. Katame satta? Satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, samādhigāravatā, sovacassatā, kalyāṇamittatā. Ime kho, bhante, satta dhammā bhikkhuno aparihānāya saṃvattantī’ti. Idamavoca, bhikkhave, sā devatā. Idaṃ vatvā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyī’’ti.
 
-34."Monks, this night a certain deity... approached me and said: 'Venerable sir, these seven qualities lead to the non-decline of a bhikkhu. What seven? Respect for the Teacher, respect for the Dhamma, respect for the Sangha, respect for the training, respect for concentration, amenability to counsel, and good friendship. These seven qualities, venerable sir, lead to the non-decline of a bhikkhu.' That is what the deity said. Having said this, she paid homage to me, circumambulated me, and vanished right there."
+34."Monks, this night a certain deity... approached me and said: 'Venerable sir, these seven qualities lead to the non-decline of a bhikkhu. What seven? Respect for the Teacher, respect for the Dhamma, respect for the Sangha, respect for the training, respect for samādhi, amenability to counsel, and good friendship. These seven qualities, venerable sir, lead to the non-decline of a bhikkhu.' That is what the deity said. Having said this, she paid homage to me, circumambulated me, and vanished right there."
 
 ‘‘Satthugaru dhammagaru, saṅghe ca tibbagāravo;Samādhigaru ātāpī, sikkhāya tibbagāravo.
 
-"Reverent to the Teacher, reverent to the Dhamma, and deeply reverent to the Sangha; reverent to concentration, ardent, and deeply reverent to the training."
+"Reverent to the Teacher, reverent to the Dhamma, and deeply reverent to the Sangha; reverent to samādhi, ardent, and deeply reverent to the training."
 
 ‘‘Kalyāṇamitto suvaco, sappatisso sagāravo;Abhabbo parihānāya, nibbānasseva santike’’ti. tatiyaṃ;
 

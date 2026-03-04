@@ -66,12 +66,12 @@ For one of respectful nature, who constantly reveres the elders, four qualities 
 110.
 Yo ca vassasataṃ jīve, dussīlo asamāhito;Ekāhaṃ jīvitaṃ seyyo, sīlavantassa jhāyino.
 
-Though one should live a hundred years, immoral and unconcentrated, better is life for a single day for one who is virtuous and meditative.
+Though one should live a hundred years, immoral and uncollected, better is life for a single day for one who is virtuous and meditative.
 
 111.
 Yo ca vassasataṃ jīve, duppañño asamāhito;Ekāhaṃ jīvitaṃ seyyo, paññavantassa jhāyino.
 
-Though one should live a hundred years, foolish and unconcentrated, better is life for a single day for one who is wise and meditative.
+Though one should live a hundred years, foolish and uncollected, better is life for a single day for one who is wise and meditative.
 
 112.
 Yo ca vassasataṃ jīve, kusīto hīnavīriyo;Ekāhaṃ jīvitaṃ seyyo, vīriyamārabhato daḷhaṃ.

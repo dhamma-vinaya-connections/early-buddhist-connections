@@ -29,7 +29,7 @@ language: "English"
 
 6. “Ānanda, you shouldn’t think this about calmness, ‘It will cause me to be happy.’ Ānanda, it’s simply natural that someone who is calm will readily have a feeling of happiness.
 
-7. “Ānanda, you shouldn’t think this about happiness, ‘It will cause me to attain samādhi.’ Ānanda, it’s simply natural that someone who is happy will readily attain a concentrated state of mind.
+7. “Ānanda, you shouldn’t think this about happiness, ‘It will cause me to attain samādhi.’ Ānanda, it’s simply natural that someone who is happy will readily attain a collected state of mind.
 
 8. “Ānanda, you shouldn’t think this about samādhi, ‘It will cause me to truly see and truly know.’ Ānanda, it’s simply natural that someone who has samādhi will truly see and truly know.
 
@@ -39,9 +39,9 @@ language: "English"
 
 11. “Ānanda, you shouldn’t think this about the lack of desire, ‘It will cause me to be liberated.’ Ānanda, it’s simply natural that someone who lacks desire will readily become liberated from all desire, hatred, and delusion.
 
-12. “Ānanda, one readily has no regrets because of observing precepts. One readily becomes glad because of having no regrets. One readily becomes joyous because of gladness. One readily becomes calm because of joy. One readily becomes happy because of calmness. One readily attains a concentrated state of mind because of happiness.
+12. “Ānanda, one readily has no regrets because of observing precepts. One readily becomes glad because of having no regrets. One readily becomes joyous because of gladness. One readily becomes calm because of joy. One readily becomes happy because of calmness. One readily attains a collected state of mind because of happiness.
 
-13. “Ānanda, the well-versed noble disciple who has a concentrated state of mind readily sees truly and knows truly. They readily become disenchanted because of true seeing and true knowing. They readily lack desire because of disenchantment. They readily become liberated because of the lack of desire. Because they are liberated, they then know that they are liberated. They truly know: ‘Birth has been ended, the religious practice has been established, the task has been accomplished, and I will not again be subject to existence.’
+13. “Ānanda, the well-versed noble disciple who has a collected state of mind readily sees truly and knows truly. They readily become disenchanted because of true seeing and true knowing. They readily lack desire because of disenchantment. They readily become liberated because of the lack of desire. Because they are liberated, they then know that they are liberated. They truly know: ‘Birth has been ended, the religious practice has been established, the task has been accomplished, and I will not again be subject to existence.’
 
 14. “Ānanda, these are the mutual advantages going from one thing to another and the mutual causes going from one thing to another. In this way, the precepts lead to what’s supreme, which is to cross over from this shore to the other shore.”
 

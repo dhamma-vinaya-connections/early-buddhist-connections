@@ -16,7 +16,7 @@ language: "English - Pali"
 
 29. ‘‘Pañcime, bhikkhave, caṅkame ānisaṃsā. Katame pañca? Addhānakkhamo hoti, padhānakkhamo hoti, appābādho hoti, asitaṃ pītaṃ khāyitaṃ sāyitaṃ sammā pariṇāmaṃ gacchati, caṅkamādhigato samādhi ciraṭṭhitiko hoti. Ime kho, bhikkhave, pañca caṅkame ānisaṃsā’’ti. Navamaṃ.
 
-29.Monks, there are these five benefits of walking. What five? One is fit for long journeys; one is fit for striving; one is healthy; what has been eaten, drunk, chewed, and tasted digests properly; and the concentration gained while walking lasts long. These, monks, are the five benefits of walking.” The ninth.
+29.Monks, there are these five benefits of walking. What five? One is fit for long journeys; one is fit for striving; one is healthy; what has been eaten, drunk, chewed, and tasted digests properly; and the samādhi gained while walking lasts long. These, monks, are the five benefits of walking.” The ninth.
 
 
 ---

@@ -16,7 +16,7 @@ language: "English - Pali"
 
 152. ‘‘Cattārimāni, bhikkhave, balāni. Katamāni cattāri? Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ – imāni kho, bhikkhave, cattāri balānī’’ti. Dutiyaṃ.
 
-152."Monks, these are the four powers. What four? The power of faith, the power of energy, the power of mindfulness, and the power of concentration. These, monks, are the four powers." (The second).
+152."Monks, these are the four powers. What four? The power of faith, the power of energy, the power of mindfulness, and the power of samādhi. These, monks, are the four powers." (The second).
 
 
 ---

@@ -16,7 +16,7 @@ language: "English - Pali"
 
 163. Sāvatthinidānaṃ. Atha kho somā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami divāvihārāya. Andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. Atha kho māro pāpimā somāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo yena somā bhikkhunī tenupasaṅkami; upasaṅkamitvā somaṃ bhikkhuniṃ gāthāya ajjhabhāsi –
 
-163.At Sāvatthī. Then, in the morning, the bhikkhunī Somā, having dressed and taken her bowl and robe, entered Sāvatthī for alms. After wandering for alms in Sāvatthī and returning from her alms-round, she approached the Andhavana for her day-dwelling. Having entered the Andhavana, she sat down at the foot of a certain tree for her day-dwelling. Then Māra the Evil One, desiring to arouse fear, terror, and horripilation in the bhikkhunī Somā, and to make her fall from concentration, approached the bhikkhunī Somā and addressed her with a verse:
+163.At Sāvatthī. Then, in the morning, the bhikkhunī Somā, having dressed and taken her bowl and robe, entered Sāvatthī for alms. After wandering for alms in Sāvatthī and returning from her alms-round, she approached the Andhavana for her day-dwelling. Having entered the Andhavana, she sat down at the foot of a certain tree for her day-dwelling. Then Māra the Evil One, desiring to arouse fear, terror, and horripilation in the bhikkhunī Somā, and to make her fall from samādhi, approached the bhikkhunī Somā and addressed her with a verse:
 
 ‘‘Yaṃ taṃ isīhi pattabbaṃ, ṭhānaṃ durabhisambhavaṃ;Na taṃ dvaṅgulapaññāya, sakkā pappotumitthiyā’’ti.
 
@@ -24,7 +24,7 @@ language: "English - Pali"
 
 Atha kho somāya bhikkhuniyā etadahosi – ‘‘ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī’’ti? Atha kho somāya bhikkhuniyā etadahosi – ‘‘māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo gāthaṃ bhāsatī’’ti. Atha kho somā bhikkhunī ‘‘māro ayaṃ pāpimā’’ iti viditvā māraṃ pāpimantaṃ gāthāhi paccabhāsi –
 
-Then the bhikkhunī Somā thought: "Who is this speaking the verse, a human or a non-human being?" Then the bhikkhunī Somā thought: "This is Māra the Evil One, desiring to arouse fear, terror, and horripilation in me, and to make me fall from concentration, who speaks the verse." Then, knowing, "This is Māra the Evil One," the bhikkhunī Somā replied to Māra the Evil One with verses:
+Then the bhikkhunī Somā thought: "Who is this speaking the verse, a human or a non-human being?" Then the bhikkhunī Somā thought: "This is Māra the Evil One, desiring to arouse fear, terror, and horripilation in me, and to make me fall from samādhi, who speaks the verse." Then, knowing, "This is Māra the Evil One," the bhikkhunī Somā replied to Māra the Evil One with verses:
 
 ‘‘Itthibhāvo kiṃ kayirā, cittamhi susamāhite;Ñāṇamhi vattamānamhi, sammā dhammaṃ vipassato.
 

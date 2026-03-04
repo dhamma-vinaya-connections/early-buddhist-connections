@@ -44,7 +44,7 @@ _Of the remaining categories, five are clearly related to these four: Dhammas th
 
 _This leaves one category that is somewhat anomalous: dhammas that are hard to penetrate. Unlike the other categories, the dhammas in this category do not all perform similar functions. What they have in common is that they present difficulties: either in being hard to develop, hard to abandon, or hard to realize, or in presenting obstacles to the practice as a whole._
 
-_Another anomaly is the final category of lists: dhammas that should be realized. Under the four noble truths, the duty of realization falls solely to the cessation of stress and its synonyms, such as release and dispassion. Here, however, many of the lists included in this category do not restrict themselves to release or cessation, but also include step-by-step practices leading to those attainments. In other words, they include practices that, strictly speaking, belong under the category of dhammas to be developed. Also, two of these lists—the eight emancipations and the nine step-by-step cessations—conclude with the cessation of perception and feeling. Some suttas treat this attainment as a step leading inevitably to the ending of the effluents ([[an9.34-thanissaro]]; [[an9.38-thanissaro]]); others, such as [[an9.31-thanissaro]], treat it simply as a concentration attainment. In either case, though, it is an attainment that belongs to the path, and so should be developed rather than realized._
+_Another anomaly is the final category of lists: dhammas that should be realized. Under the four noble truths, the duty of realization falls solely to the cessation of stress and its synonyms, such as release and dispassion. Here, however, many of the lists included in this category do not restrict themselves to release or cessation, but also include step-by-step practices leading to those attainments. In other words, they include practices that, strictly speaking, belong under the category of dhammas to be developed. Also, two of these lists—the eight emancipations and the nine step-by-step cessations—conclude with the cessation of perception and feeling. Some suttas treat this attainment as a step leading inevitably to the ending of the effluents ([[an9.34-thanissaro]]; [[an9.38-thanissaro]]); others, such as [[an9.31-thanissaro]], treat it simply as a samādhi attainment. In either case, though, it is an attainment that belongs to the path, and so should be developed rather than realized._
 
 _This sutta also differs from the preceding one in that it contains no material from the Vinaya, and there are proportionally fewer lists that do not appear in other suttas._
 
@@ -84,7 +84,7 @@ for releasing from all ties.
 
 • “Which one dhamma is on the side of distinction? Appropriate attention: This one dhamma is on the side of distinction.
 
-• “Which one dhamma is hard to penetrate? Unmediated concentration of awareness[2](#^dn34note02): This one dhamma is hard to penetrate. ^dn34note02-ref
+• “Which one dhamma is hard to penetrate? Unmediated samādhi of awareness[2](#^dn34note02): This one dhamma is hard to penetrate. ^dn34note02-ref
 
 • “Which one dhamma should be made to arise? Knowledge of the unprovoked [or: unprovoked knowledge][3](#^dn34note03): This one dhamma should be made to arise. ^dn34note03-ref
 
@@ -126,7 +126,7 @@ for releasing from all ties.
 
 • “Which three dhammas are very helpful? Associating with people of integrity, listening to the True Dhamma, practicing the Dhamma in accordance with the Dhamma: These three dhammas are very helpful.
 
-• “Which three dhammas should be developed? Three concentrations: concentration with directed thought & evaluation, concentration without directed thought & with a modicum of evaluation, concentration without directed thought & evaluation. These three dhammas should be developed.
+• “Which three dhammas should be developed? Three samādhis: samādhi with directed thought & evaluation, samādhi without directed thought & with a modicum of evaluation, samādhi without directed thought & evaluation. These three dhammas should be developed.
 
 • “Which three dhammas should be comprehended? Three feelings: a feeling of pleasure, a feeling of pain, a feeling of neither pleasure nor pain. These three dhammas should be comprehended.
 
@@ -162,7 +162,7 @@ for releasing from all ties.
 
 • “Which four dhammas are on the side of distinction? Four unyokings: the unyoking of the yoke of sensuality, the unyoking of the yoke of becoming, the unyoking of the yoke of views, the unyoking of the yoke of ignorance. These four dhammas are on the side of distinction.
 
-• “Which four dhammas are hard to penetrate? Four concentrations: concentration that has a share in decline, concentration that has a share in stability, concentration that has a share in distinction, concentration that has a share in penetration.[7](#^dn34note07) These four dhammas are hard to penetrate. ^dn34note07-ref
+• “Which four dhammas are hard to penetrate? Four samādhis: samādhi that has a share in decline, samādhi that has a share in stability, samādhi that has a share in distinction, samādhi that has a share in penetration.[7](#^dn34note07) These four dhammas are hard to penetrate. ^dn34note07-ref
 
 • “Which four dhammas should be made to arise? Four knowledges: knowledge with regard to the Dhamma, knowledge with regard to inference, knowledge with regard to encompassing (the minds of others), knowledge of conventions. These four dhammas should be made to arise.
 
@@ -188,7 +188,7 @@ for releasing from all ties.
 
 “These five dhammas are very helpful.
 
-• “Which five dhammas should be developed? Five-factored right concentration: suffusion with rapture, suffusion with pleasure, suffusion with awareness, suffusion with light, the theme of reflection.[8](#^dn34note08) These five dhammas should be developed. ^dn34note08-ref
+• “Which five dhammas should be developed? Five-factored right samādhi: suffusion with rapture, suffusion with pleasure, suffusion with awareness, suffusion with light, the theme of reflection.[8](#^dn34note08) These five dhammas should be developed. ^dn34note08-ref
 
 • “Which five dhammas should be comprehended? Five clinging-aggregates: the form clinging-aggregate, the feeling clinging-aggregate, the perception clinging-aggregate, the fabrication clinging-aggregate, the consciousness clinging-aggregate. These five dhammas should be comprehended.
 
@@ -202,7 +202,7 @@ for releasing from all ties.
 
 “These five dhammas are on the side of decline.
 
-• “Which five dhammas are on the side of distinction? Five faculties: the faculty of conviction, the faculty of persistence, the faculty of mindfulness, the faculty of concentration, the faculty of discernment. These five dhammas are on the side of distinction.
+• “Which five dhammas are on the side of distinction? Five faculties: the faculty of conviction, the faculty of persistence, the faculty of mindfulness, the faculty of samādhi, the faculty of discernment. These five dhammas are on the side of distinction.
 
 • “Which five dhammas are hard to penetrate? Five properties leading to escape: There is the case, friends, where the mind of a monk, when attending to sensuality, doesn’t leap up at sensuality, doesn’t grow confident, steadfast, or released in sensuality. But when attending to renunciation, his mind leaps up at renunciation, grows confident, steadfast, & released in renunciation. When his mind is rightly-gone, rightly developed, has rightly risen above, gained release, & become disjoined from sensuality, then whatever effluents, torments, & fevers there are that arise in dependence on sensuality, he is released from them. He doesn’t experience that feeling. This is expounded as the escape from sensuality.
 
@@ -216,31 +216,31 @@ for releasing from all ties.
 
 “These five dhammas are hard to penetrate.
 
-• “Which five dhammas should be made to arise? Right concentration with knowledges: The knowledge arises right within oneself that ‘This concentration is blissful in the present & will result in bliss in the future.’
+• “Which five dhammas should be made to arise? Right samādhi with knowledges: The knowledge arises right within oneself that ‘This samādhi is blissful in the present & will result in bliss in the future.’
 
-“The knowledge arises right within oneself that ‘This concentration is noble & not connected with the baits of the flesh.’
+“The knowledge arises right within oneself that ‘This samādhi is noble & not connected with the baits of the flesh.’
 
-“The knowledge arises right within oneself that ‘This concentration is not obtained by base people.’
+“The knowledge arises right within oneself that ‘This samādhi is not obtained by base people.’
 
-“The knowledge arises right within oneself that ‘This concentration is peaceful, exquisite, the acquiring of calm, the attainment of unification, not kept in place by the fabrications of forceful restraint.’
+“The knowledge arises right within oneself that ‘This samādhi is peaceful, exquisite, the acquiring of calm, the attainment of unification, not kept in place by the fabrications of forceful restraint.’
 
-“The knowledge arises right within oneself that ‘I enter into this concentration mindfully, & mindfully I emerge from it.’
+“The knowledge arises right within oneself that ‘I enter into this samādhi mindfully, & mindfully I emerge from it.’
 
 “These five dhammas should be made to arise.
 
-• “Which five dhammas should be directly known? Five openings to release: “There is the case, friends, where the Teacher or a fellow person leading the holy life teaches the Dhamma to a monk. And in whatever way the Teacher or a fellow person leading the holy life teaches the Dhamma to the monk, in just that way the monk, with regard to that Dhamma, is sensitive to the meaning, is sensitive to the Dhamma. In him—sensitive to the meaning, sensitive to the Dhamma—joy is born. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes concentrated. This is the first opening to release.
+• “Which five dhammas should be directly known? Five openings to release: “There is the case, friends, where the Teacher or a fellow person leading the holy life teaches the Dhamma to a monk. And in whatever way the Teacher or a fellow person leading the holy life teaches the Dhamma to the monk, in just that way the monk, with regard to that Dhamma, is sensitive to the meaning, is sensitive to the Dhamma. In him—sensitive to the meaning, sensitive to the Dhamma—joy is born. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes collected. This is the first opening to release.
 
-“And further, it’s not that the Teacher or a fellow person leading the holy life teaches the Dhamma to the monk. But the monk teaches the Dhamma to others in detail, as he has heard it, as he has learned it. And in whatever way he teaches the Dhamma to others in detail, as he has heard it, as he has learned it, in just that way the monk, with regard to that Dhamma, is sensitive to the meaning, is sensitive to the Dhamma. In him—sensitive to the meaning, sensitive to the Dhamma—joy is born. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes concentrated. This is the second opening to release.
+“And further, it’s not that the Teacher or a fellow person leading the holy life teaches the Dhamma to the monk. But the monk teaches the Dhamma to others in detail, as he has heard it, as he has learned it. And in whatever way he teaches the Dhamma to others in detail, as he has heard it, as he has learned it, in just that way the monk, with regard to that Dhamma, is sensitive to the meaning, is sensitive to the Dhamma. In him—sensitive to the meaning, sensitive to the Dhamma—joy is born. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes collected. This is the second opening to release.
 
-“And further, it’s not that the Teacher or a fellow person leading the holy life teaches the Dhamma to the monk, nor does the monk teach the Dhamma to others in detail, as he has heard it, as he has learned it. But he recites the Dhamma in detail, as he has heard it, as he has learned it. In whatever way he recites the Dhamma in detail, as he has heard it, as he has learned it, in just that way the monk, with regard to that Dhamma, is sensitive to the meaning, is sensitive to the Dhamma. In him—sensitive to the meaning, sensitive to the Dhamma—joy is born. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes concentrated. This is the third opening to release.
+“And further, it’s not that the Teacher or a fellow person leading the holy life teaches the Dhamma to the monk, nor does the monk teach the Dhamma to others in detail, as he has heard it, as he has learned it. But he recites the Dhamma in detail, as he has heard it, as he has learned it. In whatever way he recites the Dhamma in detail, as he has heard it, as he has learned it, in just that way the monk, with regard to that Dhamma, is sensitive to the meaning, is sensitive to the Dhamma. In him—sensitive to the meaning, sensitive to the Dhamma—joy is born. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes collected. This is the third opening to release.
 
-“And further, it’s not that the Teacher or a fellow person leading the holy life teaches the Dhamma to the monk; nor does the monk teach the Dhamma to others in detail, as he has heard it, as he has learned it; nor does he recite the Dhamma in detail, as he has heard it, as he has learned it. But in his awareness he directs his thoughts to the Dhamma in detail, as he has heard it, as he has learned it; he evaluates it, & mentally examines it. In whatever way he, in his awareness, directs his thoughts to the Dhamma in detail, as he has heard it, as he has learned it, evaluates it, & mentally examines it, in just that way the monk, with regard to that Dhamma, is sensitive to the meaning, is sensitive to the Dhamma. In him—sensitive to the meaning, sensitive to the Dhamma—joy is born. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes concentrated. This is the fourth opening to release.
+“And further, it’s not that the Teacher or a fellow person leading the holy life teaches the Dhamma to the monk; nor does the monk teach the Dhamma to others in detail, as he has heard it, as he has learned it; nor does he recite the Dhamma in detail, as he has heard it, as he has learned it. But in his awareness he directs his thoughts to the Dhamma in detail, as he has heard it, as he has learned it; he evaluates it, & mentally examines it. In whatever way he, in his awareness, directs his thoughts to the Dhamma in detail, as he has heard it, as he has learned it, evaluates it, & mentally examines it, in just that way the monk, with regard to that Dhamma, is sensitive to the meaning, is sensitive to the Dhamma. In him—sensitive to the meaning, sensitive to the Dhamma—joy is born. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes collected. This is the fourth opening to release.
 
-“And further, it’s not that the Teacher or a fellow person leading the holy life teaches the Dhamma to the monk; nor does the monk teach the Dhamma to others in detail, as he has heard it, as he has learned it; nor does he recite the Dhamma in detail, as he has heard it, as he has learned it; nor does he, in his awareness, direct his thoughts to the Dhamma in detail, as he has heard it, as he has learned it, evaluate it, or mentally examine it. But he has well grasped a certain theme of concentration, has attended to it well, sustained it well, has penetrated it well with discernment. In whatever way he has well grasped a certain theme of concentration, has attended to it well, sustained it well, has penetrated it well with discernment, in just that way the monk, with regard to that Dhamma, is sensitive to the meaning, is sensitive to the Dhamma. In him—sensitive to the meaning, sensitive to the Dhamma—joy is born. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes concentrated. This is the fifth opening to release.
+“And further, it’s not that the Teacher or a fellow person leading the holy life teaches the Dhamma to the monk; nor does the monk teach the Dhamma to others in detail, as he has heard it, as he has learned it; nor does he recite the Dhamma in detail, as he has heard it, as he has learned it; nor does he, in his awareness, direct his thoughts to the Dhamma in detail, as he has heard it, as he has learned it, evaluate it, or mentally examine it. But he has well grasped a certain theme of samādhi, has attended to it well, sustained it well, has penetrated it well with discernment. In whatever way he has well grasped a certain theme of samādhi, has attended to it well, sustained it well, has penetrated it well with discernment, in just that way the monk, with regard to that Dhamma, is sensitive to the meaning, is sensitive to the Dhamma. In him—sensitive to the meaning, sensitive to the Dhamma—joy is born. When he is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes collected. This is the fifth opening to release.
 
 “These five dhammas should be directly known.
 
-• “Which five dhammas should be realized? Five dhamma aggregates: the aggregate of virtue, the aggregate of concentration, the aggregate of discernment, the aggregate of release, the aggregate of knowledge & vision of release. These five dhammas should be realized.
+• “Which five dhammas should be realized? Five dhamma aggregates: the aggregate of virtue, the aggregate of samādhi, the aggregate of discernment, the aggregate of release, the aggregate of knowledge & vision of release. These five dhammas should be realized.
 
 “These fifty dhammas—true, genuine, real, not unreal, not otherwise—have been rightly awakened to by the Tathāgata.
 
@@ -256,7 +256,7 @@ for releasing from all ties.
 
 “And further, whatever righteous gains the monk may obtain in a righteous way—even if only the alms in his bowl—he does not consume them alone. He consumes them after sharing them in common with his virtuous companions in the holy life. This, too, is a condition that is conducive to amiability, that engenders feelings of endearment, engenders feelings of respect, leading to a sense of fellowship, a lack of disputes, harmony, & a state of unity.
 
-“And further—with reference to the virtues that are untorn, unbroken, unspotted, unsplattered, liberating, praised by the observant, ungrasped at, leading to concentration—the monk dwells with his virtue in tune with that of his companions in the holy life, to their faces & behind their backs. This, too, is a condition that is conducive to amiability, that engenders feelings of endearment, engenders feelings of respect, leading to a sense of fellowship, a lack of disputes, harmony, & a state of unity.
+“And further—with reference to the virtues that are untorn, unbroken, unspotted, unsplattered, liberating, praised by the observant, ungrasped at, leading to samādhi—the monk dwells with his virtue in tune with that of his companions in the holy life, to their faces & behind their backs. This, too, is a condition that is conducive to amiability, that engenders feelings of endearment, engenders feelings of respect, leading to a sense of fellowship, a lack of disputes, harmony, & a state of unity.
 
 “And further—with reference to the view that is noble, leading outward, that leads those who act in accordance with it to the right ending of suffering & stress—the monk dwells with his view in tune with that of his companions in the holy life, to their faces & behind their backs. This, too, is a condition that is conducive to amiability, that engenders feelings of endearment, engenders feelings of respect, leading to a sense of fellowship, a lack of disputes, harmony, & a state of unity.
 
@@ -294,7 +294,7 @@ for releasing from all ties.
 
 “He hears—by means of the divine ear-element, purified & surpassing the human—both kinds of sounds: divine & human, whether near or far.
 
-“He discerns the awareness of other beings, other individuals, having encompassed it with his own awareness. He discerns a mind with passion as ‘a mind with passion,’ and a mind without passion as ‘a mind without passion.’ He discerns a mind with aversion as ‘a mind with aversion,’ and a mind without aversion as ‘a mind without aversion.’ He discerns a mind with delusion as ‘a mind with delusion,’ and a mind without delusion as ‘a mind without delusion.’ He discerns a restricted mind as ‘a restricted mind,’ and a scattered mind as ‘a scattered mind.’ He discerns an enlarged mind as ‘an enlarged mind,’ and an unenlarged mind as ‘an unenlarged mind.’ He discerns a surpassed mind [one that is not at the most excellent level] as ‘a surpassed mind,’ and an unsurpassed mind as ‘an unsurpassed mind.’ He discerns a concentrated mind as ‘a concentrated mind,’ and an unconcentrated mind as ‘an unconcentrated mind.’ He discerns a released mind as ‘a released mind,’ and an unreleased mind as ‘an unreleased mind.’
+“He discerns the awareness of other beings, other individuals, having encompassed it with his own awareness. He discerns a mind with passion as ‘a mind with passion,’ and a mind without passion as ‘a mind without passion.’ He discerns a mind with aversion as ‘a mind with aversion,’ and a mind without aversion as ‘a mind without aversion.’ He discerns a mind with delusion as ‘a mind with delusion,’ and a mind without delusion as ‘a mind without delusion.’ He discerns a restricted mind as ‘a restricted mind,’ and a scattered mind as ‘a scattered mind.’ He discerns an enlarged mind as ‘an enlarged mind,’ and an unenlarged mind as ‘an unenlarged mind.’ He discerns a surpassed mind [one that is not at the most excellent level] as ‘a surpassed mind,’ and an unsurpassed mind as ‘an unsurpassed mind.’ He discerns a collected mind as ‘a collected mind,’ and an uncollected mind as ‘an uncollected mind.’ He discerns a released mind as ‘a released mind,’ and an unreleased mind as ‘an unreleased mind.’
 
 “He recollects his manifold past lives, i.e., one birth, two births, three births, four, five, ten, twenty, thirty, forty, fifty, one hundred, one thousand, one hundred thousand, many eons of cosmic contraction, many eons of cosmic expansion, many eons of cosmic contraction & expansion, (recollecting,) ‘There I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure & pain, such the end of my life. Passing away from that state, I re-arose there. There too I had such a name, belonged to such a clan, had such an appearance. Such was my food, such my experience of pleasure & pain, such the end of my life. Passing away from that state, I re-arose here.’ Thus he recollects his manifold past lives in their modes & details.
 
@@ -312,7 +312,7 @@ for releasing from all ties.
 
 • “Which seven dhammas are very helpful? Seven noble treasures: the treasure of conviction, the treasure of virtue, the treasure of a sense of shame, the treasure of a sense of compunction, the treasure of listening, the treasure of generosity, the treasure of discernment.[10](#^dn34note10) These seven dhammas are very helpful. ^dn34note10-ref
 
-• “Which seven dhammas should be developed? Seven factors for awakening: mindfulness as a factor for awakening, analysis of qualities as a factor for awakening, persistence as a factor for awakening, rapture as a factor for awakening, calm as a factor for awakening, concentration as a factor for awakening, equanimity as a factor for awakening.[11](#^dn34note11) These seven dhammas should be developed. ^dn34note11-ref
+• “Which seven dhammas should be developed? Seven factors for awakening: mindfulness as a factor for awakening, analysis of qualities as a factor for awakening, persistence as a factor for awakening, rapture as a factor for awakening, calm as a factor for awakening, samādhi as a factor for awakening, equanimity as a factor for awakening.[11](#^dn34note11) These seven dhammas should be developed. ^dn34note11-ref
 
 • “Which seven dhammas should be comprehended? Seven stations of consciousness: Friends, there are beings with multiplicity of body & multiplicity of perception, such as human beings, some devas, & some beings in the lower realms. This is the first station of consciousness.
 
@@ -384,11 +384,11 @@ for releasing from all ties.
 
 “These eight dhammas are very helpful.
 
-• “Which eight dhammas should be developed? The noble eightfold path, i.e., right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.[17](#^dn34note17) These eight dhammas should be developed. ^dn34note17-ref
+• “Which eight dhammas should be developed? The noble eightfold path, i.e., right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.[17](#^dn34note17) These eight dhammas should be developed. ^dn34note17-ref
 
 • “Which eight dhammas should be comprehended? Eight worldly conditions: gain, loss, status, disgrace, censure, praise, pleasure, pain. These eight dhammas should be comprehended.[18](#^dn34note18) ^dn34note18-ref
 
-• “Which eight dhammas should be abandoned? Eight forms of wrongness: wrong view, wrong resolve, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong concentration. These eight dhammas should be abandoned.
+• “Which eight dhammas should be abandoned? Eight forms of wrongness: wrong view, wrong resolve, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong samādhi. These eight dhammas should be abandoned.
 
 • “Which eight dhammas are on the side of decline? Eight grounds for laziness: There is the case, friends, where a monk has some work to do. The thought occurs to him: ‘I will have to do this work. But when I have done this work, my body will be tired. Why don’t I lie down?’ So he lies down. He doesn’t make an effort for the attaining of the as-yet-unattained, the reaching of the as-yet-unreached, the realization of the as-yet-unrealized. This is the first ground for laziness.
 
@@ -438,7 +438,7 @@ for releasing from all ties.
 
 “These eight dhammas are hard to penetrate.
 
-• “Which eight dhammas should be made to arise? Eight thoughts of a great person: ‘This Dhamma is for one who is modest, not for one who is self-aggrandizing. This Dhamma is for one who is content, not for one who is discontent. This Dhamma is for one who is reclusive, not for one who is entangled. This Dhamma is for one whose persistence is aroused, not for one who is lazy. This Dhamma is for one whose mindfulness is established, not for one whose mindfulness is confused. This Dhamma is for one whose mind is concentrated, not for one whose mind is unconcentrated. This Dhamma is for one endowed with discernment, not for one whose discernment is weak. This Dhamma is for one who enjoys non-objectification, who delights in non-objectification, not for one who enjoys & delights in objectification.’[20](#^dn34note20) ^dn34note20-ref
+• “Which eight dhammas should be made to arise? Eight thoughts of a great person: ‘This Dhamma is for one who is modest, not for one who is self-aggrandizing. This Dhamma is for one who is content, not for one who is discontent. This Dhamma is for one who is reclusive, not for one who is entangled. This Dhamma is for one whose persistence is aroused, not for one who is lazy. This Dhamma is for one whose mindfulness is established, not for one whose mindfulness is confused. This Dhamma is for one whose mind is collected, not for one whose mind is uncollected. This Dhamma is for one endowed with discernment, not for one whose discernment is weak. This Dhamma is for one who enjoys non-objectification, who delights in non-objectification, not for one who enjoys & delights in objectification.’[20](#^dn34note20) ^dn34note20-ref
 
 “These eight dhammas should be made to arise.
 
@@ -484,11 +484,11 @@ for releasing from all ties.
 
 “Nine dhammas, friends, are very helpful. Nine dhammas should be developed. Nine dhammas should be comprehended. Nine dhammas should be abandoned. Nine dhammas are on the side of decline. Nine dhammas are on the side of distinction. Nine dhammas are hard to penetrate. Nine dhammas should be made to arise. Nine dhammas should be directly known. Nine dhammas should be realized.
 
-• “Which nine dhammas are very helpful? Nine dhammas rooted in appropriate attention: In one who is appropriately attentive, joy is born. When one is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes concentrated. When the mind is concentrated, one knows & sees what has come to be. Knowing & seeing what has come to be, one is disenchanted. Disenchanted, one becomes dispassionate. From dispassion, one is released.
+• “Which nine dhammas are very helpful? Nine dhammas rooted in appropriate attention: In one who is appropriately attentive, joy is born. When one is joyful, rapture is born. In one who is enraptured at heart, the body grows calm. When the body is calm, one feels pleasure. Feeling pleasure, the mind becomes collected. When the mind is collected, one knows & sees what has come to be. Knowing & seeing what has come to be, one is disenchanted. Disenchanted, one becomes dispassionate. From dispassion, one is released.
 
 “These nine dhammas are very helpful.
 
-• “Which nine dhammas should be developed? Nine factors of exertion for full purity: the purity-of-virtue factor of exertion for full purity, the purity-of-mind [concentration] factor of exertion for full purity, the purity-of-view factor of exertion for full purity, the purity-of-overcoming-doubt factor of exertion for full purity, the purity-of-knowledge-&-vision-of-what-is-&-is-not the-path factor of exertion for full purity, the purity-of-knowledge-&-vision-of-the-way factor of exertion for full purity, the purity-of-knowledge-&-vision factor of exertion for full purity, the purity-of-discernment factor of exertion for full purity, the purity-of-release factor of exertion for full purity.[21](#^dn34note21) ^dn34note21-ref
+• “Which nine dhammas should be developed? Nine factors of exertion for full purity: the purity-of-virtue factor of exertion for full purity, the purity-of-mind [samādhi] factor of exertion for full purity, the purity-of-view factor of exertion for full purity, the purity-of-overcoming-doubt factor of exertion for full purity, the purity-of-knowledge-&-vision-of-what-is-&-is-not the-path factor of exertion for full purity, the purity-of-knowledge-&-vision-of-the-way factor of exertion for full purity, the purity-of-knowledge-&-vision factor of exertion for full purity, the purity-of-discernment factor of exertion for full purity, the purity-of-release factor of exertion for full purity.[21](#^dn34note21) ^dn34note21-ref
 
 “These nine dhammas should be developed.
 
@@ -534,7 +534,7 @@ ascertainment is dependent on acquisition; desire & passion is dependent on asce
 
 • “Which nine dhammas should be directly known? Nine step-by-step dwellings: There is the case, friends, where a monk, quite secluded from sensuality, secluded from unskillful qualities, enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation.
 
-“With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of concentration, unification of awareness free from directed thought & evaluation—internal assurance.
+“With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance.
 
 “With the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’
 
@@ -588,7 +588,7 @@ ascertainment is dependent on acquisition; desire & passion is dependent on asce
 
 • “Which ten dhammas should be comprehended? Ten sense media: the sense medium of the eye, the sense medium of forms; the sense medium of the ear, the sense medium of sounds; the sense medium of the nose, the sense medium of aromas; the sense medium of the tongue, the sense medium of flavors; the sense medium of the body, the sense medium of tactile sensations. These ten dhammas should be comprehended.
 
-• “Which ten dhammas should be abandoned? Ten forms of wrongness: wrong view, wrong resolve, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong concentration, wrong knowledge, wrong release. These ten dhammas should be abandoned.
+• “Which ten dhammas should be abandoned? Ten forms of wrongness: wrong view, wrong resolve, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong samādhi, wrong knowledge, wrong release. These ten dhammas should be abandoned.
 
 • “Which ten dhammas are on the side of decline? Ten unskillful courses of action: taking life, taking what is not given, sexual misconduct, telling lies, divisive speech, harsh speech, idle chatter, greed, ill will, wrong view. These ten dhammas are on the side of decline.
 
@@ -620,11 +620,11 @@ ascertainment is dependent on acquisition; desire & passion is dependent on asce
 
 • “Which ten dhammas should be made to arise? Ten perceptions: the perception of unattractiveness, the perception of death, the perception of loathsomeness in food, the perception of distaste for every world, the perception of inconstancy, the perception of stress in what is inconstant, the perception of not-self in what is stressful, the perception of abandoning, the perception of dispassion, the perception of cessation.[27](#^dn34note27) These ten dhammas should be made to arise. ^dn34note27-ref
 
-• “Which ten dhammas should be directly known? Ten grounds for abolishing: In one of right view, wrong view is abolished. The many evil, unskillful qualities that come into play with wrong view as their condition are also abolished, while the many skillful qualities that have right view as their condition go to the culmination of their development. In one of right resolve, wrong resolve is abolished.... In one of right speech, wrong speech is abolished.... In one of right action, wrong action is abolished.... In one of right livelihood, wrong livelihood is abolished.... In one of right effort, wrong effort is abolished.... In one of right mindfulness, wrong mindfulness is abolished.... In one of right concentration, wrong concentration is abolished.... In one of right knowledge, wrong knowledge is abolished.... In one of right release, wrong release is abolished. The many evil, unskillful qualities that come into play with wrong release as their condition are also abolished, while the many skillful qualities that have right release as their condition go to the culmination of their development.
+• “Which ten dhammas should be directly known? Ten grounds for abolishing: In one of right view, wrong view is abolished. The many evil, unskillful qualities that come into play with wrong view as their condition are also abolished, while the many skillful qualities that have right view as their condition go to the culmination of their development. In one of right resolve, wrong resolve is abolished.... In one of right speech, wrong speech is abolished.... In one of right action, wrong action is abolished.... In one of right livelihood, wrong livelihood is abolished.... In one of right effort, wrong effort is abolished.... In one of right mindfulness, wrong mindfulness is abolished.... In one of right samādhi, wrong samādhi is abolished.... In one of right knowledge, wrong knowledge is abolished.... In one of right release, wrong release is abolished. The many evil, unskillful qualities that come into play with wrong release as their condition are also abolished, while the many skillful qualities that have right release as their condition go to the culmination of their development.
 
 “These ten dhammas should be directly known.
 
-• “Which ten dhammas should be realized? Ten qualities of one beyond training: the right view of one beyond training, the right resolve of one beyond training, the right speech of one beyond training, the right action of one beyond training, the right livelihood of one beyond training, the right effort of one beyond training, the right mindfulness of one beyond training, the right concentration of one beyond training, the right knowledge of one beyond training, the right release of one beyond training. These ten dhammas should be realized.
+• “Which ten dhammas should be realized? Ten qualities of one beyond training: the right view of one beyond training, the right resolve of one beyond training, the right speech of one beyond training, the right action of one beyond training, the right livelihood of one beyond training, the right effort of one beyond training, the right mindfulness of one beyond training, the right samādhi of one beyond training, the right knowledge of one beyond training, the right release of one beyond training. These ten dhammas should be realized.
 
 “These one hundred dhammas—true, genuine, real, not unreal, not otherwise—have been rightly awakened to by the Tathāgata.”
 
@@ -634,7 +634,7 @@ That is what Ven. Sāriputta said. Gratified, the monks delighted in Ven. Sārip
 
 1. See [[snp16.11-thanissaro]], note 6](../SN/SN16_11.html#sn16.11note06). [↩︎](#^dn34note01-ref) ^dn34note01
 
-2. This concentration, mentioned in [[/snp2.1-thanissaro]], is apparently equivalent to the concentration that is the fruit of gnosis, mentioned in [[an9.37-thanissaro]]. [↩︎](#^dn34note02-ref) ^dn34note02
+2. This samādhi, mentioned in [[/snp2.1-thanissaro]], is apparently equivalent to the samādhi that is the fruit of gnosis, mentioned in [[an9.37-thanissaro]]. [↩︎](#^dn34note02-ref) ^dn34note02
 
 3. _Akuppa._ This term is sometimes translated as “unshakable,” but it literally means, “unprovoked.” The reference is apparently to the theory of _dhātu,_ or properties underlying physical or psychological events in nature. The physical properties according to this theory are four: earth (solidity), liquid, heat, and wind (motion). Three of them—liquid, heat, & wind—are potentially active. When they are aggravated, agitated, or provoked—the Pali term here, _pakuppati,_ is used also on the psychological level, where it means angered or upset—they act as the underlying cause for natural activity. When the provocation ends, the corresponding activity subsides. (See the description of the physical properties in [[mn28-thanissaro]].) [↩︎](#^dn34note03-ref) ^dn34note03
 

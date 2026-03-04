@@ -16,7 +16,7 @@ language: "English - Pali"
 
 34. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena āyasmā ca sāriputto āyasmā ca mahāmoggallāno kapotakandarāyaṃ viharanti. Tena kho pana samayena āyasmā sāriputto juṇhāya rattiyā navoropitehi kesehi abbhokāse nisinno hoti aññataraṃ samādhiṃ samāpajjitvā.
 
-34.Thus have I heard – At one time the Blessed One was dwelling at Rājagaha, in the Bamboo Grove, the Squirrels’ Feeding Place. Now at that time, Venerable Sāriputta and Venerable Mahāmoggallāna were dwelling at Kapotakandara. And at that time, Venerable Sāriputta, with freshly shaven head, was seated in the open during a moonlit night, having entered upon a certain concentration.
+34.Thus have I heard – At one time the Blessed One was dwelling at Rājagaha, in the Bamboo Grove, the Squirrels’ Feeding Place. Now at that time, Venerable Sāriputta and Venerable Mahāmoggallāna were dwelling at Kapotakandara. And at that time, Venerable Sāriputta, with freshly shaven head, was seated in the open during a moonlit night, having entered upon a certain samādhi.
 
 Tena kho pana samayena dve yakkhā sahāyakā uttarāya disāya dakkhiṇaṃ disaṃ gacchanti kenacideva karaṇīyena. Addasaṃsu kho te yakkhā āyasmantaṃ sāriputtaṃ juṇhāya rattiyā navoropitehi kesehi abbhokāse nisinnaṃ. Disvāna eko yakkho dutiyaṃ yakkhaṃ etadavoca – ‘‘paṭibhāti maṃ, samma, imassa samaṇassa sīse pahāraṃ dātu’’nti. Evaṃ vutte, so yakkho taṃ yakkhaṃ etadavoca – ‘‘alaṃ, samma, mā samaṇaṃ āsādesi. Uḷāro so, samma, samaṇo mahiddhiko mahānubhāvo’’ti.
 

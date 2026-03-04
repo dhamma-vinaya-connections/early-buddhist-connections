@@ -12,7 +12,7 @@ language: "English - Pali"
 
 # AN 2.172
 
-172."Monks, there are these two qualities. Which two? The power of mindfulness and the power of concentration. These, monks, are the two qualities."
+172."Monks, there are these two qualities. Which two? The power of mindfulness and the power of samādhi. These, monks, are the two qualities."
 
 
 ---

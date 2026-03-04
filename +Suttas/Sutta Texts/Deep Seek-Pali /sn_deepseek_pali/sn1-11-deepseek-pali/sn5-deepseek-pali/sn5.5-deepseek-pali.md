@@ -16,7 +16,7 @@ language: "English - Pali"
 
 166. Sāvatthinidānaṃ. Atha kho uppalavaṇṇā bhikkhunī pubbaṇhasamayaṃ nivāsetvā…pe… aññatarasmiṃ supupphitasālarukkhamūle aṭṭhāsi. Atha kho māro pāpimā uppalavaṇṇāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo yena uppalavaṇṇā bhikkhunī tenupasaṅkami; upasaṅkamitvā uppalavaṇṇaṃ bhikkhuniṃ gāthāya ajjhabhāsi –
 
-166.At Savatthi. Then, in the morning, the bhikkhunī Uppalavaṇṇā having dressed, ... and stood at the foot of a flowering sāla tree. Then Māra the Evil One, desiring to arouse fear, trepidation, and horror in the bhikkhunī Uppalavaṇṇā, desiring to make her fall away from concentration, approached bhikkhunī Uppalavaṇṇā and addressed her in verse:
+166.At Savatthi. Then, in the morning, the bhikkhunī Uppalavaṇṇā having dressed, ... and stood at the foot of a flowering sāla tree. Then Māra the Evil One, desiring to arouse fear, trepidation, and horror in the bhikkhunī Uppalavaṇṇā, desiring to make her fall away from samādhi, approached bhikkhunī Uppalavaṇṇā and addressed her in verse:
 
 ‘‘Supupphitaggaṃ upagamma bhikkhuni,Ekā tuvaṃ tiṭṭhasi sālamūle;Na catthi te dutiyā vaṇṇadhātu,Bāle na tvaṃ bhāyasi dhuttakāna’’nti.
 
@@ -24,7 +24,7 @@ language: "English - Pali"
 
 Atha kho uppalavaṇṇāya bhikkhuniyā etadahosi – ‘‘ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī’’ti? Atha kho uppalavaṇṇāya bhikkhuniyā etadahosi – ‘‘māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo gāthaṃ bhāsatī’’ti. Atha kho uppalavaṇṇā bhikkhunī ‘‘māro ayaṃ pāpimā’’ iti viditvā māraṃ pāpimantaṃ gāthāhi paccabhāsi –
 
-Then the bhikkhunī Uppalavaṇṇā thought: "Who now is this, human or non-human, uttering this verse?" Then the bhikkhunī Uppalavaṇṇā thought: "This is Māra the Evil One, desiring to arouse fear, trepidation, and horror in me, desiring to make me fall away from concentration, that he is speaking this verse." Then the bhikkhunī Uppalavaṇṇā, knowing, "This is Māra the Evil One," replied to Māra the Evil One with verses:
+Then the bhikkhunī Uppalavaṇṇā thought: "Who now is this, human or non-human, uttering this verse?" Then the bhikkhunī Uppalavaṇṇā thought: "This is Māra the Evil One, desiring to arouse fear, trepidation, and horror in me, desiring to make me fall away from samādhi, that he is speaking this verse." Then the bhikkhunī Uppalavaṇṇā, knowing, "This is Māra the Evil One," replied to Māra the Evil One with verses:
 
 ‘‘Sataṃ sahassānipi dhuttakānaṃ,Idhāgatā tādisakā bhaveyyuṃ;Lomaṃ na iñjāmi na santasāmi,Na māra bhāyāmi tamekikāpi.
 

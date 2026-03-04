@@ -12,7 +12,7 @@ language: "English - Pali"
 
 # AN 4.93 Dutiyasamādhisuttaṃ
 
-## AN 4.93 The Second Discourse on Concentration
+## AN 4.93 The Second Discourse on samādhi
 
 93. ‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, bhikkhave, ekacco puggalo lābhī hoti ajjhattaṃ cetosamathassa, na lābhī adhipaññādhammavipassanāya. Idha pana, bhikkhave, ekacco puggalo lābhī hoti adhipaññādhammavipassanāya, na lābhī ajjhattaṃ cetosamathassa. Idha pana, bhikkhave, ekacco puggalo na ceva lābhī hoti ajjhattaṃ cetosamathassa na ca lābhī adhipaññādhammavipassanāya. Idha pana, bhikkhave, ekacco puggalo lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya.
 

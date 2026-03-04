@@ -23,17 +23,17 @@ The Blessed One said: “It’s because of not understanding and not penetrating
 
 “It’s because of not understanding and not penetrating noble virtue that we have transmigrated & wandered on for such a long, long time, you & I.
 
-“It’s because of not understanding and not penetrating noble concentration that we have transmigrated & wandered on for such a long, long time, you & I.
+“It’s because of not understanding and not penetrating noble samādhi that we have transmigrated & wandered on for such a long, long time, you & I.
 
 “It’s because of not understanding and not penetrating noble discernment that we have transmigrated & wandered on for such a long, long time, you & I.
 
 “It’s because of not understanding and not penetrating noble release that we have transmigrated & wandered on for such a long, long time, you & I.
 
-“But now that noble virtue is understood & penetrated, noble concentration… noble discernment… noble release is understood & penetrated, craving for becoming is destroyed, the guide to becoming [craving] is ended, there is now no further becoming.”
+“But now that noble virtue is understood & penetrated, noble samādhi… noble discernment… noble release is understood & penetrated, craving for becoming is destroyed, the guide to becoming [craving] is ended, there is now no further becoming.”
 
 That is what the Blessed One said. When the One Well-Gone had said that, he—the Teacher—said further:
 
-Unexcelled virtue, concentration,
+Unexcelled virtue, samādhi,
 
 discernment, & release
 

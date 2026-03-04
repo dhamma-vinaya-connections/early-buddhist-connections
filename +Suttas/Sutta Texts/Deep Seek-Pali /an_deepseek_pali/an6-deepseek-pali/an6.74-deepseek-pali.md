@@ -32,7 +32,7 @@ Its summary:
 
 Anāgāmi arahaṃ mittā, saṅgaṇikārāmadevatā;Samādhi sakkhibhabbaṃ balaṃ, tajjhānā apare duveti.
 
-Non-returner, Arahant, friends, deities delighting in company; concentration, direct realization, strength, those two absorptions, and others.
+Non-returner, Arahant, friends, deities delighting in company; samādhi, direct realization, strength, those two absorptions, and others.
 
 8. Arahattavaggo
 

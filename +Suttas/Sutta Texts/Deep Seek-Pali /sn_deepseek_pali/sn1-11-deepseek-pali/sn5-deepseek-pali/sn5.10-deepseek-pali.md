@@ -16,7 +16,7 @@ language: "English - Pali"
 
 171. Sāvatthinidānaṃ. Atha kho vajirā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami divāvihārāya. Andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. Atha kho māro pāpimā vajirāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo yena vajirā bhikkhunī tenupasaṅkami; upasaṅkamitvā vajiraṃ bhikkhuniṃ gāthāya ajjhabhāsi –
 
-171.At Sāvatthī. Then, in the morning, the bhikkhunī Vajirā dressed, took her bowl and robe, and entered Sāvatthī for alms. After wandering for alms in Sāvatthī and returning from her almsround, she approached the Andhavana for her day-dwelling. Having entered the Andhavana, she sat down at the foot of a certain tree for her day-dwelling. Then Māra the Evil One, desiring to arouse fear, terror, and horripilation in the bhikkhunī Vajirā, and wishing to dislodge her from concentration, approached her. Having approached, he addressed the bhikkhunī Vajirā with a verse:
+171.At Sāvatthī. Then, in the morning, the bhikkhunī Vajirā dressed, took her bowl and robe, and entered Sāvatthī for alms. After wandering for alms in Sāvatthī and returning from her almsround, she approached the Andhavana for her day-dwelling. Having entered the Andhavana, she sat down at the foot of a certain tree for her day-dwelling. Then Māra the Evil One, desiring to arouse fear, terror, and horripilation in the bhikkhunī Vajirā, and wishing to dislodge her from samādhi, approached her. Having approached, he addressed the bhikkhunī Vajirā with a verse:
 
 ‘‘Kenāyaṃ pakato satto, kuvaṃ sattassa kārako;Kuvaṃ satto samuppanno, kuvaṃ satto nirujjhatī’’ti.
 
@@ -24,7 +24,7 @@ language: "English - Pali"
 
 Atha kho vajirāya bhikkhuniyā etadahosi – ‘‘ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī’’ti? Atha kho vajirāya bhikkhuniyā etadahosi – ‘‘māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo gāthaṃ bhāsatī’’ti. Atha kho vajirā bhikkhunī ‘‘māro ayaṃ pāpimā’’ iti viditvā, māraṃ pāpimantaṃ gāthāhi paccabhāsi –
 
-Then the bhikkhunī Vajirā had this thought: "Who now is this, a human or a non-human, uttering this verse?" Then the bhikkhunī Vajirā had this thought: "This is Māra the Evil One, wanting to create fear, trembling, and horripilation in me, wanting to dislodge me from concentration, uttering this verse." Then the bhikkhunī Vajirā, knowing "This is Māra the Evil One," replied to Māra the Evil One with verses:
+Then the bhikkhunī Vajirā had this thought: "Who now is this, a human or a non-human, uttering this verse?" Then the bhikkhunī Vajirā had this thought: "This is Māra the Evil One, wanting to create fear, trembling, and horripilation in me, wanting to dislodge me from samādhi, uttering this verse." Then the bhikkhunī Vajirā, knowing "This is Māra the Evil One," replied to Māra the Evil One with verses:
 
 ‘‘Kiṃ nu sattoti paccesi, māra diṭṭhigataṃ nu te;Suddhasaṅkhārapuñjoyaṃ, nayidha sattupalabbhati.
 

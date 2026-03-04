@@ -18,7 +18,7 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Uruvelā, on the bank of the river Nerañjarā, at the root of the Awakening tree, in the first period after attaining Awakening. Then at that time the Gracious One was sitting in one cross-legged posture for seven days experiencing the happiness of freedom. Then with the passing of those seven days, the Gracious One, after arising from that concentration, for the first watch of the night, applied his mind thoroughly to conditional origination in forward order:
+1Thus I heard: At one time the Gracious One was dwelling near Uruvelā, on the bank of the river Nerañjarā, at the root of the Awakening tree, in the first period after attaining Awakening. Then at that time the Gracious One was sitting in one cross-legged posture for seven days experiencing the happiness of freedom. Then with the passing of those seven days, the Gracious One, after arising from that samādhi, for the first watch of the night, applied his mind thoroughly to conditional origination in forward order:
 
 2"This being so, that is; from the arising of this, that arises, that is to say: because of ignorance there are volitional processes, because of volitional processes: consciousness, because of consciousness: mind and body, because of mind and body: the six sense spheres, because of the six sense spheres: contact, because of contact: feeling, because of feeling: craving, because of craving: attachment, because of attachment: continuation, because of continuation: birth, because of birth: old age, death, grief, lamentation, pain, sorrow, and despair all arise, and so there is an origination of this whole mass of suffering."
 

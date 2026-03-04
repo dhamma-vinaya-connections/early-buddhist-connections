@@ -12,7 +12,7 @@ language: "English - Pali"
 
 # AN 2.74
 
-74."Monks, there are these two kinds of happiness. What are the two? Happiness of concentration and happiness without concentration. These, monks, are the two kinds of happiness. The foremost of these two kinds of happiness, monks, is happiness of concentration."
+74."Monks, there are these two kinds of happiness. What are the two? Happiness of samādhi and happiness without samādhi. These, monks, are the two kinds of happiness. The foremost of these two kinds of happiness, monks, is happiness of samādhi."
 
 
 ---

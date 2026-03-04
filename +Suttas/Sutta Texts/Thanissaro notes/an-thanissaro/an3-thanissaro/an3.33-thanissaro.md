@@ -19,7 +19,7 @@ Then Ven. Sāriputta went to the Blessed One and, on arrival, bowed down to him 
 
 “This is the time, Blessed One, this is the time, One Well Gone, that the Blessed One should teach the Dhamma in brief, should teach the Dhamma in detail, should teach the Dhamma in brief & in detail. There will be those who would understand.”
 
-“Then, Sāriputta, you should train yourselves: ‘There will be no I-making or mine-making conceit-obsession with regard to this conscious body. There will be no I-making or mine-making conceit-obsession with regard to all external themes [topics of concentration]. We will enter & remain in the awareness-release & discernment-release where there is no I-making or my-making conceit-obsession for one entering & remaining in it.’ That’s how you should train yourselves. When there is in a monk no I-making or my-making conceit-obsession with regard to this conscious body, no I-making or my-making conceit-obsession with regard to all external themes, and when he enters & remains in the awareness-release & discernment-release where there is no I-making or my-making conceit-obsession for one entering & remaining in it, he is called a monk who has cut through craving, has ripped off the fetter, and—from rightly breaking through conceit—has put an end to suffering & stress.
+“Then, Sāriputta, you should train yourselves: ‘There will be no I-making or mine-making conceit-obsession with regard to this conscious body. There will be no I-making or mine-making conceit-obsession with regard to all external themes [topics of samādhi]. We will enter & remain in the awareness-release & discernment-release where there is no I-making or my-making conceit-obsession for one entering & remaining in it.’ That’s how you should train yourselves. When there is in a monk no I-making or my-making conceit-obsession with regard to this conscious body, no I-making or my-making conceit-obsession with regard to all external themes, and when he enters & remains in the awareness-release & discernment-release where there is no I-making or my-making conceit-obsession for one entering & remaining in it, he is called a monk who has cut through craving, has ripped off the fetter, and—from rightly breaking through conceit—has put an end to suffering & stress.
 
 “And it was in reference to this that I said, in Udaka’s Questions in the Pārāyana [[sn5.13-thanissaro]]]:
 
@@ -47,7 +47,7 @@ of ignorance.”
 
 Note
 
-1. The state of mind described here corresponds to the five-factored noble right concentration described in  and the essays,  and
+1. The state of mind described here corresponds to the five-factored noble right samādhi described in  and the essays,  and
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

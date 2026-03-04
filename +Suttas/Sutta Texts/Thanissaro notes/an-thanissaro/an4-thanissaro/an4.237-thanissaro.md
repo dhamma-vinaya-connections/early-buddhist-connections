@@ -23,7 +23,7 @@ language: "English"
 
 “And what is kamma that is dark & bright with dark & bright result? There is the case where a certain person fabricates a bodily fabrication that is injurious & non-injurious… a verbal fabrication that is injurious & non-injurious… a mental fabrication that is injurious & non-injurious.… He rearises in an injurious & non-injurious world.… There he is touched by injurious & non-injurious contacts.… He experiences injurious & non-injurious feelings, pleasure mingled with pain, like those of human beings, some devas, and some beings in the lower realms. This is called kamma that is dark & bright with dark & bright result.
 
-“And what is kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma? Right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. This is called kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma.
+“And what is kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma? Right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi. This is called kamma that is neither dark nor bright with neither dark nor bright result, leading to the ending of kamma.
 
 “These, monks, are the four types of kamma directly known, verified, & made known by me.”
 

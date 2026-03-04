@@ -42,7 +42,7 @@ By this truth may there be well-being.
 
 The exquisite deathless—ending, dispassion—
 
-discovered by the Sakyan Sage in concentration:
+discovered by the Sakyan Sage in samādhi:
 
 There is nothing to equal that Dhamma.
 
@@ -52,11 +52,11 @@ By this truth may there be well-being.
 
 What the excellent Awakened One extolled as pure
 
-and called the concentration
+and called the samādhi
 
 of unmediated knowing[1](#^snp2-1-01): ^snp2-1-01-ref
 
-No equal to that concentration can be found.
+No equal to that samādhi can be found.
 
 This, too, is an exquisite treasure in the Dhamma.
 
@@ -236,7 +236,7 @@ vv. 222–238
 
 ### Notes
 
-1. This is apparently equivalent to the liberation of immediacy, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]], and the concentration that is the fruit of gnosis, mentioned in [[an9.37-thanissaro]]. [↩︎](#^snp2-1-01-ref) ^snp2-1-01
+1. This is apparently equivalent to the liberation of immediacy, mentioned in [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thig-thanissaro/thig5-thanissaro]], and the samādhi that is the fruit of gnosis, mentioned in [[an9.37-thanissaro]]. [↩︎](#^snp2-1-01-ref) ^snp2-1-01
 
 2. Indra-pillar: A tall hardwood pillar, planted at the entrance to a village. Similar analogies for the awakened mind are found at [[an6.55-thanissaro]] and AN 9:26. [↩︎](#^snp2-1-02-ref) ^snp2-1-02
 

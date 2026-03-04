@@ -20,7 +20,7 @@ language: "English - Pali"
 
 ‘‘Imesaṃ kho, bhikkhave, pañcannaṃ sikkhādubbalyānaṃ pahānāya cattāro iddhipādā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhi… cittasamādhi… vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Imesaṃ kho, bhikkhave, pañcannaṃ sikkhādubbalyānaṃ pahānāya ime cattāro iddhipādā bhāvetabbā’’ti. Paṭhamaṃ.
 
-“Bhikkhus, for the abandoning of these five weaknesses in the training, the four bases of spiritual power are to be developed. What four? Here, bhikkhus, a bhikkhu develops the basis for spiritual power that possesses concentration due to desire and volitional formations of striving; he develops the basis for spiritual power that possesses concentration due to energy … concentration due to mind … concentration due to investigation and volitional formations of striving. Bhikkhus, for the abandoning of these five weaknesses in the training, these four bases of spiritual power are to be developed.” First.
+“Bhikkhus, for the abandoning of these five weaknesses in the training, the four bases of spiritual power are to be developed. What four? Here, bhikkhus, a bhikkhu develops the basis for spiritual power that possesses samādhi due to desire and volitional formations of striving; he develops the basis for spiritual power that possesses samādhi due to energy … samādhi due to mind … samādhi due to investigation and volitional formations of striving. Bhikkhus, for the abandoning of these five weaknesses in the training, these four bases of spiritual power are to be developed.” First.
 
 84-91. (Yathā satipaṭṭhānavagge tathā iddhipādavasena vitthāretabbā.)
 

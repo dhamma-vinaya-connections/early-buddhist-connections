@@ -67,7 +67,7 @@ From https://www.accesstoinsight.org/index-similes.html
 - **Cesspool difficult to clean** – {impurities} → [[SN2.6]]
 - **Chaff** – {corrupt person} , ; {dead body} ; {others' faults} → [[SN1.5]], [[SN2.6]], [[SN35.69]], [[DHP|DHP252]]
 - **Charcoals** – {passions} → [[AN8.28]]
-- **Chariot** – {anger} ; {the body} ; {concentration} ; {mindfulness} ; {world} → [[DHP|DHP222]], [[DHP|DHP151]], [[AN5.28]], [[MN119]], [[DHP|DHP171]]
+- **Chariot** – {anger} ; {the body} ; {samādhi} ; {mindfulness} ; {world} → [[DHP|DHP222]], [[DHP|DHP151]], [[AN5.28]], [[MN119]], [[DHP|DHP171]]
 - **Chariots, relay** – {stages of insight} → [[MN24]]
 - **Charioteer** – {sense-restraint} → [[DHP|DHP94]]
 - **Cheater** – {others' errors} → [[DHP|DHP252]]
@@ -214,7 +214,7 @@ From https://www.accesstoinsight.org/index-similes.html
 
 - **Jackal** – {the perils of fame} → [[SN17.8]]
 - **Jail, person thrown in** – {kamma} → [[AN3.99]]
-- **Jar** – filled with water {right concentration} ; filled with ghee or oil {virtue} , ; made of clay {the body} → [[AN5.28]], [[SN42.6]], [[SN55.21]], [[DHP|DHP40]]
+- **Jar** – filled with water {right samādhi} ; filled with ghee or oil {virtue} , ; made of clay {the body} → [[AN5.28]], [[SN42.6]], [[SN55.21]], [[DHP|DHP40]]
 
 ## K
 
@@ -331,7 +331,7 @@ From https://www.accesstoinsight.org/index-similes.html
 - **Raft** – {eightfold path} , , → [[MN22]], [[SN35.197]], [[SN1.2]]
 - **Rafters of house** – {defilements} ; {heedfulness} → [[DHP|DHP153]], [[AN10.15]]
 - **Rag, saving the good part of a** – {subduing hatred} → [[AN5.162]]
-- **Rain** – {austerity} ; entering hut {passion} ; from a cloud {generosity} ; from a cloud {concentration} ; from a thunderhead {discernment} ; sent by devas {brevity of life} ; stilling a cloud of dust {silencing one's thoughts} , → [[SN1.4]], [[DHP|DHP13]], [[ITI75]], [[SN54.9]], [[AN4.102]], [[AN7.70]], [[ITI87]], [[THAG15]].1
+- **Rain** – {austerity} ; entering hut {passion} ; from a cloud {generosity} ; from a cloud {samādhi} ; from a thunderhead {discernment} ; sent by devas {brevity of life} ; stilling a cloud of dust {silencing one's thoughts} , → [[SN1.4]], [[DHP|DHP13]], [[ITI75]], [[SN54.9]], [[AN4.102]], [[AN7.70]], [[ITI87]], [[THAG15]].1
 - **Rams butting heads** – {contact} Miln II.3.8 → [[Miln II.3.8]]
 - **Reeds or rushes** – destroyed by their own fruit {defilements} ; drawn from their sheaths{supranormal powers} , , ; matted {craving} . → [[SN3.23]], [[DN2]], [[DN11]], [[DN12]], [[AN4.199]]
 - **Reflection of one's face in mirror** – {mind-reading} , , , ; {"I am" with possessiveness} → [[DN2]], [[DN11]], [[DN12]], [[AN10.54]], [[SN22.83]]
@@ -391,7 +391,7 @@ From https://www.accesstoinsight.org/index-similes.html
 - **Strong man** – nourished on royal food {foolish person} ; extending his arm {appearance/disappearance of devas} , , ; extending his arm {equanimity} ; → [[SN4.8]], [[DN20]], [[SN6.1]], [[SN6.2]], [[MN152]]
 - **Suckling calf going to its mother** – {desire} , . See also Cow . → [[DHP|DHP284]], [[UD7.4]], [[Cow]]
 - **Sun** – dispelling the dark {absence of delusion} ; filling the sky {heedfulness} ; filling the sky {awakening} ; speed of {death} → [[ITI88]], [[AN10.15]], [[UD1.3]], [[SN20.6]]
-- **Sunlight** – {merit} ; {virtue/concentration/discernment} ; not landing on ground {consciousness} → [[ITI27]], [[ITI59]], [[SN12.64]]
+- **Sunlight** – {merit} ; {virtue/samādhi/discernment} ; not landing on ground {consciousness} → [[ITI27]], [[ITI59]], [[SN12.64]]
 - **Surgeon** – see Doctor → [[Doctor]]
 - **Swans** – flying {enlightened ones} ; taking off from a lake {mindful ones} . → [[DHP|DHP175]], [[DHP|DHP91]]
 - **Swift pair of messengers** – {samatha-vipassana} → [[SN35.204]]

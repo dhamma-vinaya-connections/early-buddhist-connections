@@ -25,7 +25,7 @@ Then Ven. Ānanda went to Ven. Sāriputta and, on arrival, exchanged courteous g
 
 Note
 
-1. A perception with a share in decline is one that causes the mind to fall from concentration. A perception with a share in stability is one that helps to maintain concentration. A perception with a share in distinction is one that leads to higher stages of concentration. A perception with a share in penetration is one leading to liberating insight.
+1. A perception with a share in decline is one that causes the mind to fall from samādhi. A perception with a share in stability is one that helps to maintain samādhi. A perception with a share in distinction is one that leads to higher stages of samādhi. A perception with a share in penetration is one leading to liberating insight.
 
 See also: [[mn118-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/an-thanissaro/an4-thanissaro/an4.49-thanissaro]]; [[an7.46-thanissaro]]; [[an10.60-thanissaro]]
 

@@ -20,7 +20,7 @@ by a company:
 
 One gets distracted;
 
-concentration
+samādhi
 
 is hard to gain.
 
@@ -38,7 +38,7 @@ A sage shouldn’t visit families:
 
 one gets distracted;
 
-concentration
+samādhi
 
 is hard to gain.
 
@@ -564,7 +564,7 @@ always unbound.
 
 4. Reading _dhīraṁ_ with the Thai and PTS editions. The Burmese and Sinhalese editions read _vīraṁ,_ “hero.” [↩︎](#^thag18note04-ref) ^thag18note04
 
-5. Ven. Sāriputta was foremost among the monks in terms of discernment (AN 1:183); Ven. Kappina, foremost among the monks in exhorting other monks (AN 1:231). The Buddha praises him at [[snp21.11-thanissaro]] for his attainment of psychic powers, and at [[snp54.7-thanissaro]] for the solidity of his concentration based on mindfulness of breathing. [↩︎](#^thag18note05-ref) ^thag18note05
+5. Ven. Sāriputta was foremost among the monks in terms of discernment (AN 1:183); Ven. Kappina, foremost among the monks in exhorting other monks (AN 1:231). The Buddha praises him at [[snp21.11-thanissaro]] for his attainment of psychic powers, and at [[snp54.7-thanissaro]] for the solidity of his samādhi based on mindfulness of breathing. [↩︎](#^thag18note05-ref) ^thag18note05
 
 6. This appears to be one of the earliest references to “buddha-field,” a concept that was to play a large role in the Apadāna literature and, through that, in the Mahāyāna concept of the Pure Land. Here it appears to mean the sphere of the current Buddha’s influence. In the Apadānas it takes on two other meanings: as (1) a field for producing merit, on the lines of the traditional image of the Saṅgha as the unexcelled field of merit; and (2) a heavenly realm where a particular Buddha dwells. These two meanings were influential in the early Mahāyāna sūtras that formed the basis for Pure Land practice. [↩︎](#^thag18note06-ref) ^thag18note06
 

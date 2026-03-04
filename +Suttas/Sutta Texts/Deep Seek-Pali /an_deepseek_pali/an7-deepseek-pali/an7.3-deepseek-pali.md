@@ -16,12 +16,12 @@ language: "English - Pali"
 
 3. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme…pe… sattimāni, bhikkhave, balāni. Katamāni satta? Saddhābalaṃ, vīriyabalaṃ, hirībalaṃ, ottappabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ. Imāni kho, bhikkhave, satta balānīti.
 
-3. Thus have I heard. At one time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park… “Bhikkhus, there are these seven powers. What seven? The power of faith, the power of energy, the power of moral shame, the power of moral dread, the power of mindfulness, the power of concentration, and the power of wisdom. These, bhikkhus, are the seven powers.”
+3. Thus have I heard. At one time the Blessed One was dwelling at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park… “Bhikkhus, there are these seven powers. What seven? The power of faith, the power of energy, the power of moral shame, the power of moral dread, the power of mindfulness, the power of samādhi, and the power of wisdom. These, bhikkhus, are the seven powers.”
 
 ‘‘Saddhābalaṃ vīriyañca, hirī [hiri (sī. pī. ka.)] ottappiyaṃ balaṃ;Satibalaṃ samādhi ca, paññā ve sattamaṃ balaṃ;Etehi balavā bhikkhu, sukhaṃ jīvati paṇḍito;
 
 “The power of faith and energy, the power of moral shame and moral dread;
-The power of mindfulness and concentration, and wisdom as the seventh power.
+The power of mindfulness and samādhi, and wisdom as the seventh power.
 A bhikkhu strong with these powers lives happily, a wise one.”
 
 ‘‘Yoniso vicine dhammaṃ, paññāyatthaṃ vipassati;Pajjotasseva nibbānaṃ, vimokkho hoti cetaso’’ti. tatiyaṃ;

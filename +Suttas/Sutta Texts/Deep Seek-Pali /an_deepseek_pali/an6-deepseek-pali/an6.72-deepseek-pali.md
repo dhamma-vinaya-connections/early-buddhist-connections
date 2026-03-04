@@ -16,11 +16,11 @@ language: "English - Pali"
 
 72. ‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo samādhismiṃ [samādhimhi (ka.)] balataṃ pāpuṇituṃ. Katamehi chahi? Idha, bhikkhave, bhikkhu na samādhissa samāpattikusalo hoti, na samādhissa ṭhitikusalo hoti, na samādhissa [na samādhimhā (ka.) uparisattakanipāte devatāvagge pana sabbatthapi ‘‘samādhissa’’itveva dissati] vuṭṭhānakusalo hoti, asakkaccakārī ca hoti, asātaccakārī ca, asappāyakārī ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo samādhismiṃ balataṃ pāpuṇituṃ.
 
-72.“Monks, a monk endowed with six qualities is incapable of attaining strength in concentration. What six? Here, monks, a monk is not skilled in entering concentration, not skilled in abiding in concentration, not skilled in emerging from concentration, is one who acts without due care, is one who acts without continuity, and is one who acts without suitability. Monks, a monk endowed with these six qualities is incapable of attaining strength in concentration.”
+72.“Monks, a monk endowed with six qualities is incapable of attaining strength in samādhi. What six? Here, monks, a monk is not skilled in entering samādhi, not skilled in abiding in samādhi, not skilled in emerging from samādhi, is one who acts without due care, is one who acts without continuity, and is one who acts without suitability. Monks, a monk endowed with these six qualities is incapable of attaining strength in samādhi.”
 
 ‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo samādhismiṃ balataṃ pāpuṇituṃ. Katamehi chahi? Idha, bhikkhave, bhikkhu samādhissa samāpattikusalo hoti, samādhissa ṭhitikusalo hoti, samādhissa vuṭṭhānakusalo hoti, sakkaccakārī ca hoti, sātaccakārī ca, sappāyakārī ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu bhabbo samādhismiṃ balataṃ pāpuṇitu’’nti. Aṭṭhamaṃ.
 
-“Monks, a monk endowed with six qualities is capable of attaining strength in concentration. What six? Here, monks, a monk is skilled in entering concentration, skilled in abiding in concentration, skilled in emerging from concentration, is one who acts respectfully, is one who acts continuously, and is one who acts appropriately. Monks, a monk endowed with these six qualities is capable of attaining strength in concentration.” The eighth.
+“Monks, a monk endowed with six qualities is capable of attaining strength in samādhi. What six? Here, monks, a monk is skilled in entering samādhi, skilled in abiding in samādhi, skilled in emerging from samādhi, is one who acts respectfully, is one who acts continuously, and is one who acts appropriately. Monks, a monk endowed with these six qualities is capable of attaining strength in samādhi.” The eighth.
 
 
 ---

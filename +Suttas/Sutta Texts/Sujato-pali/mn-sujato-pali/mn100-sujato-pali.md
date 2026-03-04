@@ -168,7 +168,7 @@ Then some people saw me and said: ‘The ascetic Gotama is black.’ Some said: 
 
 26Then it occurred to me, ‘Whatever ascetics and brahmins have experienced painful, sharp, severe, acute feelings due to overexertion — whether in the past, future, or present — this is as far as it goes, no-one has done more than this. But I have not achieved any superhuman distinction in knowledge and vision worthy of the noble ones by this severe, grueling work. Could there be another path to awakening?’
 
-Then it occurred to me, ‘I recall sitting in the cool shade of the rose-apple tree while my father the Sakyan was off working. Quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. Could that be the path to awakening?’ Stemming from that memory came the realization: ‘*That* is the path to awakening!’
+Then it occurred to me, ‘I recall sitting in the cool shade of the rose-apple tree while my father the Sakyan was off working. Quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. Could that be the path to awakening?’ Stemming from that memory came the realization: ‘*That* is the path to awakening!’
 
 Then it occurred to me, ‘Why am I afraid of that pleasure, for it has nothing to do with sensual pleasures or unskillful qualities?’ I thought, ‘I’m not afraid of that pleasure, for it has nothing to do with sensual pleasures or unskillful qualities.’
 

@@ -58,7 +58,7 @@ People are greedy for the substrates of existence, for what is seen and heard, s
 Those attached to the sixty speculative views, full of thoughts, are settled in the ways of worldlings, in what is not the Dhamma. But that bhikkhu does not belong to any faction, nor does he grasp at anything gross.
 
 1227.
-‘‘Dabbo cirarattasamāhito, akuhako nipako apihālu;Santaṃ padaṃ ajjhagamā muni, paṭicca parinibbuto kaṅkhati kālaṃ. Dabba, long concentrated, is not a fraud; he is prudent and unenvious. The sage has attained the peaceful state; having attained final Nibbāna, he awaits his time.
+‘‘Dabbo cirarattasamāhito, akuhako nipako apihālu;Santaṃ padaṃ ajjhagamā muni, paṭicca parinibbuto kaṅkhati kālaṃ. Dabba, long collected, is not a fraud; he is prudent and unenvious. The sage has attained the peaceful state; having attained final Nibbāna, he awaits his time.
 
 
 1228.
@@ -94,7 +94,7 @@ Your mind is ablaze because of a perversion of perception. You should avoid the 
 1234.
 ‘‘Asubhāya cittaṃ bhāvehi, ekaggaṃ susamāhitaṃ;Sati kāyagatā tyatthu, nibbidābahulo bhava.
 
-Develop your mind on the foul, one-pointed and well concentrated. Let your mindfulness be directed to the body; be full of disenchantment.
+Develop your mind on the foul, one-pointed and well collected. Let your mindfulness be directed to the body; be full of disenchantment.
 
 1235.
 ‘‘Animittañca bhāvehi, mānānusayamujjaha;Tato mānābhisamayā, upasanto carissasi.

@@ -63,7 +63,7 @@ Ven. Nandiya & Ven. Kimbila said to the Blessed One, “Here, lord, the thought 
 
 “Excellent, Anuruddhas. Excellent. But having transcended & calmed that abiding, do you have another comfortable abiding where a superior human attainment, a truly noble distinction of knowledge & vision, has been attained?”
 
-“Why wouldn’t we, lord? There is the case where, whenever we want, with the stilling of directed thoughts & evaluations, we enter & remain in the second jhāna: rapture & pleasure born of concentration, unification of awareness free from directed thought & evaluation—internal assurance. Having transcended & calmed that abiding, lord, this is another comfortable abiding where a superior human attainment, a truly noble distinction of knowledge & vision, has been attained.”
+“Why wouldn’t we, lord? There is the case where, whenever we want, with the stilling of directed thoughts & evaluations, we enter & remain in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. Having transcended & calmed that abiding, lord, this is another comfortable abiding where a superior human attainment, a truly noble distinction of knowledge & vision, has been attained.”
 
 “Excellent, Anuruddhas. Excellent. But having transcended & calmed that abiding, do you have another comfortable abiding where a superior human attainment, a truly noble distinction of knowledge & vision, has been attained?”
 

@@ -36,7 +36,7 @@ Knowing that whatever ascetic practice is not connected with the goal, all of it
 
 ‘‘Sīlaṃ samādhi paññañca, maggaṃ bodhāya bhāvayaṃ;Pattosmi paramaṃ suddhiṃ, nihato tvamasi antakā’’ti.
 
-Developing virtue, concentration, and wisdom—the path to awakening—I have attained the ultimate purity; you are defeated, O End-maker.
+Developing virtue, samādhi, and wisdom—the path to awakening—I have attained the ultimate purity; you are defeated, O End-maker.
 
 Atha kho māro pāpimā ‘‘jānāti maṃ bhagavā, jānāti maṃ sugato’’ti, dukkhī dummano tatthevantaradhāyīti.
 

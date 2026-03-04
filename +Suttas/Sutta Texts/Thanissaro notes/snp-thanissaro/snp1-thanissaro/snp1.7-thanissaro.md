@@ -276,7 +276,7 @@ vv. 116–142
 
 6. See [[/snp3.9-thanissaro]]. [↩︎](#^snp1-7-06-ref) ^snp1-7-06
 
-7. SnA: The divine chariot stands for the eight concentration attainments: the four jhānas and the four formless states. [↩︎](#^snp1-7-07-ref) ^snp1-7-07
+7. SnA: The divine chariot stands for the eight samādhi attainments: the four jhānas and the four formless states. [↩︎](#^snp1-7-07-ref) ^snp1-7-07
 
 See also: [[an5.175-thanissaro]]; [[an10.165-thanissaro]]; [Dhp 129–140](../Dhp/Ch10.html#dhp129); [Dhp 306–319](../Dhp/Ch22.html#dhp306);
 

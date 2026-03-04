@@ -49,7 +49,7 @@ having fulfilled the holy life,
 
 knowing the cosmos’ end,
 
-concentrated,
+collected,
 
 doesn’t long for this cosmos
 

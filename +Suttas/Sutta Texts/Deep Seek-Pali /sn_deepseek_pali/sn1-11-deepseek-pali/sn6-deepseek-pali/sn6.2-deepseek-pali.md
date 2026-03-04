@@ -24,7 +24,7 @@ Then it occurred to the Blessed One: "For the fulfillment of the unfulfilled agg
 
 ‘‘Aparipuṇṇassa kho samādhikkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. Na kho panāhaṃ passāmi sadevake loke…pe… attanā samādhisampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.
 
-For the fulfillment of the unfulfilled aggregate of concentration, I might live in dependence on another ascetic or brahmin, honoring and respecting him. But I do not see in the world with its devas, Māras, and Brahmās, in this generation with its ascetics and brahmins, its devas and humans, any other ascetic or brahmin more accomplished than myself in concentration, whom I could honor, respect, and dwell in dependence on.
+For the fulfillment of the unfulfilled aggregate of samādhi, I might live in dependence on another ascetic or brahmin, honoring and respecting him. But I do not see in the world with its devas, Māras, and Brahmās, in this generation with its ascetics and brahmins, its devas and humans, any other ascetic or brahmin more accomplished than myself in samādhi, whom I could honor, respect, and dwell in dependence on.
 
 ‘‘Aparipuṇṇassa paññākkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. Na kho panāhaṃ passāmi sadevake…pe… attanā paññāsampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.
 

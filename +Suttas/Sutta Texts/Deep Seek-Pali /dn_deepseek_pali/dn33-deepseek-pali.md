@@ -156,7 +156,7 @@ The power of discernment and the power of development.
 
 ‘‘Satibalañca samādhibalañca.
 
-The power of mindfulness and the power of concentration.
+The power of mindfulness and the power of samādhi.
 
 ‘‘Samatho ca vipassanā ca.
 
@@ -412,11 +412,11 @@ Three grounds for admonition: by what has been seen, by what has been heard, and
 
 ‘‘Tayo samādhī – savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi.
 
-“Three concentrations: concentration with applied and sustained thought, concentration without applied thought but with sustained thought, concentration without applied and sustained thought.”
+“Three samādhis: samādhi with applied and sustained thought, samādhi without applied thought but with sustained thought, samādhi without applied and sustained thought.”
 
 ‘‘Aparepi tayo samādhī – suññato samādhi, animitto samādhi, appaṇihito samādhi.
 
-“And furthermore, there are these three concentrations: concentration on emptiness, concentration on the signless, and concentration on the desireless.”
+“And furthermore, there are these three samādhis: samādhi on emptiness, samādhi on the signless, and samādhi on the desireless.”
 
 ‘‘Tīṇi soceyyāni – kāyasoceyyaṃ, vacīsoceyyaṃ, manosoceyyaṃ.
 
@@ -476,31 +476,31 @@ Three grounds for admonition: by what has been seen, by what has been heard, and
 
 ‘‘Cattāro iddhipādā. Idhāvuso, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti.
 
-“The four bases of spiritual power. Here, friends, a monk develops the basis of spiritual power accompanied by concentration due to desire and volitional formations of striving. He develops the basis of spiritual power accompanied by concentration due to energy and volitional formations of striving. He develops the basis of spiritual power accompanied by concentration due to mind and volitional formations of striving. He develops the basis of spiritual power accompanied by concentration due to investigation and volitional formations of striving.”
+“The four bases of spiritual power. Here, friends, a monk develops the basis of spiritual power accompanied by samādhi due to desire and volitional formations of striving. He develops the basis of spiritual power accompanied by samādhi due to energy and volitional formations of striving. He develops the basis of spiritual power accompanied by samādhi due to mind and volitional formations of striving. He develops the basis of spiritual power accompanied by samādhi due to investigation and volitional formations of striving.”
 
 ‘‘Cattāri jhānāni. Idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ [paṭhamajjhānaṃ (syā. kaṃ.)] upasampajja viharati. Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ [dutiyajjhānaṃ (syā. kaṃ.)] upasampajja viharati. Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti – ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ [tatiyajjhānaṃ (syā. kaṃ.)] upasampajja viharati. Sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā, adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ [catutthajjhānaṃ (syā. kaṃ.)] upasampajja viharati.
 
-“The four jhānas. Here, friends, a monk, quite secluded from sensual pleasures, secluded from unwholesome states, enters and dwells in the first jhāna, which is accompanied by thought and examination, with rapture and pleasure born of seclusion. With the subsiding of thought and examination, he enters and dwells in the second jhāna, which has internal placidity and unification of mind, is without thought and examination, and has rapture and pleasure born of concentration. With the fading away of rapture, he dwells equanimous, mindful, and clearly comprehending, and experiences in his body the pleasure of which the noble ones declare: ‘Equanimous and mindful, he dwells in pleasure.’ He enters and dwells in the third jhāna. With the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, he enters and dwells in the fourth jhāna, which is neither painful nor pleasant and features the purity of mindfulness due to equanimity.
+“The four jhānas. Here, friends, a monk, quite secluded from sensual pleasures, secluded from unwholesome states, enters and dwells in the first jhāna, which is accompanied by thought and examination, with rapture and pleasure born of seclusion. With the subsiding of thought and examination, he enters and dwells in the second jhāna, which has internal placidity and unification of mind, is without thought and examination, and has rapture and pleasure born of samādhi. With the fading away of rapture, he dwells equanimous, mindful, and clearly comprehending, and experiences in his body the pleasure of which the noble ones declare: ‘Equanimous and mindful, he dwells in pleasure.’ He enters and dwells in the third jhāna. With the abandoning of pleasure and pain, and with the previous disappearance of joy and grief, he enters and dwells in the fourth jhāna, which is neither painful nor pleasant and features the purity of mindfulness due to equanimity.
 
 307. ‘‘Catasso samādhibhāvanā. Atthāvuso, samādhibhāvanā bhāvitā bahulīkatā diṭṭhadhammasukhavihārāya saṃvattati. Atthāvuso, samādhibhāvanā bhāvitā bahulīkatā ñāṇadassanapaṭilābhāya saṃvattati. Atthāvuso samādhibhāvanā bhāvitā bahulīkatā satisampajaññāya saṃvattati. Atthāvuso samādhibhāvanā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattati.
 
-307.“There are, friends, four developments of concentration. Which four? A development of concentration, when developed and cultivated, conduces to a pleasant abiding in this very life. A development of concentration, when developed and cultivated, conduces to the acquisition of knowledge and vision. A development of concentration, when developed and cultivated, conduces to mindfulness and clear comprehension. A development of concentration, when developed and cultivated, conduces to the destruction of the taints.
+307.“There are, friends, four developments of samādhi. Which four? A development of samādhi, when developed and cultivated, conduces to a pleasant abiding in this very life. A development of samādhi, when developed and cultivated, conduces to the acquisition of knowledge and vision. A development of samādhi, when developed and cultivated, conduces to mindfulness and clear comprehension. A development of samādhi, when developed and cultivated, conduces to the destruction of the taints.
 
 ‘‘Katamā cāvuso, samādhibhāvanā bhāvitā bahulīkatā diṭṭhadhammasukhavihārāya saṃvattati? Idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ…pe… catutthaṃ jhānaṃ upasampajja viharati. Ayaṃ, āvuso, samādhibhāvanā bhāvitā bahulīkatā diṭṭhadhammasukhavihārāya saṃvattati.
 
-“And what, friends, is the development of concentration that, when developed and cultivated, conduces to a pleasant abiding in this very life? Here, friends, a monk, quite secluded from sensual pleasures, secluded from unwholesome states, enters and dwells in the first jhāna…the fourth jhāna. This, friends, is the development of concentration that, when developed and cultivated, conduces to a pleasant abiding in this very life.
+“And what, friends, is the development of samādhi that, when developed and cultivated, conduces to a pleasant abiding in this very life? Here, friends, a monk, quite secluded from sensual pleasures, secluded from unwholesome states, enters and dwells in the first jhāna…the fourth jhāna. This, friends, is the development of samādhi that, when developed and cultivated, conduces to a pleasant abiding in this very life.
 
 ‘‘Katamā cāvuso, samādhibhāvanā bhāvitā bahulīkatā ñāṇadassanapaṭilābhāya saṃvattati? Idhāvuso, bhikkhu ālokasaññaṃ manasi karoti, divāsaññaṃ adhiṭṭhāti yathā divā tathā rattiṃ, yathā rattiṃ tathā divā. Iti vivaṭena cetasā apariyonaddhena sappabhāsaṃ cittaṃ bhāveti. Ayaṃ, āvuso samādhibhāvanā bhāvitā bahulīkatā ñāṇadassanapaṭilābhāya saṃvattati.
 
-“And what, friends, is the development of concentration that, when developed and cultivated, conduces to the acquisition of knowledge and vision? Here, friends, a monk attends to the perception of light; he establishes the perception of daytime, thinking: ‘As by day, so by night; as by night, so by day.’ Thus, with a mind that is open and unconfined, he develops a luminous mind. This, friends, is the development of concentration that, when developed and cultivated, conduces to the acquisition of knowledge and vision.”
+“And what, friends, is the development of samādhi that, when developed and cultivated, conduces to the acquisition of knowledge and vision? Here, friends, a monk attends to the perception of light; he establishes the perception of daytime, thinking: ‘As by day, so by night; as by night, so by day.’ Thus, with a mind that is open and unconfined, he develops a luminous mind. This, friends, is the development of samādhi that, when developed and cultivated, conduces to the acquisition of knowledge and vision.”
 
 ‘‘Katamā cāvuso, samādhibhāvanā bhāvitā bahulīkatā satisampajaññāya saṃvattati? Idhāvuso, bhikkhuno viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti. Viditā saññā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti. Viditā vitakkā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti. Ayaṃ, āvuso, samādhibhāvanā bhāvitā bahulīkatā satisampajaññāya saṃvattati.
 
-“And what, friends, is the development of concentration that, when developed and cultivated, conduces to mindfulness and clear comprehension? Here, friends, feelings arise to a monk known to him, they are present known to him, and they cease known to him. Perceptions arise to him known to him, they are present known to him, and they cease known to him. Thoughts arise to him known to him, they are present known to him, and they cease known to him. This, friends, is the development of concentration that, when developed and cultivated, conduces to mindfulness and clear comprehension.”
+“And what, friends, is the development of samādhi that, when developed and cultivated, conduces to mindfulness and clear comprehension? Here, friends, feelings arise to a monk known to him, they are present known to him, and they cease known to him. Perceptions arise to him known to him, they are present known to him, and they cease known to him. Thoughts arise to him known to him, they are present known to him, and they cease known to him. This, friends, is the development of samādhi that, when developed and cultivated, conduces to mindfulness and clear comprehension.”
 
 ‘‘Katamā cāvuso, samādhibhāvanā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattati? Idhāvuso, bhikkhu pañcasu upādānakkhandhesu udayabbayānupassī viharati. Iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo. Iti vedanā…pe… iti saññā… iti saṅkhārā… iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo. Ayaṃ, āvuso, samādhibhāvanā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattati.
 
-“And what, friends, is the development of concentration that, when developed and cultivated, conduces to the destruction of the taints? Here, friends, a monk dwells contemplating rise and fall in the five aggregates of clinging: ‘Such is form, such its arising, such its passing away. Such is feeling… such is perception… such are formations… such is consciousness, such its arising, such its passing away.’ This, friends, is the development of concentration that, when developed and cultivated, conduces to the destruction of the taints.”
+“And what, friends, is the development of samādhi that, when developed and cultivated, conduces to the destruction of the taints? Here, friends, a monk dwells contemplating rise and fall in the five aggregates of clinging: ‘Such is form, such its arising, such its passing away. Such is feeling… such is perception… such are formations… such is consciousness, such its arising, such its passing away.’ This, friends, is the development of samādhi that, when developed and cultivated, conduces to the destruction of the taints.”
 
 308. ‘‘Catasso appamaññā. Idhāvuso, bhikkhu mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati. Tathā dutiyaṃ. Tathā tatiyaṃ. Tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena [abyāpajjhena (sī. syā. kaṃ. pī.)] pharitvā viharati. Karuṇāsahagatena cetasā…pe… muditāsahagatena cetasā…pe… upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati. Tathā dutiyaṃ. Tathā tatiyaṃ. Tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.
 
@@ -540,7 +540,7 @@ And what, friends, is the effort of abandoning? Here, friends, a bhikkhu does no
 
 ‘‘Katamañcāvuso, bhāvanāpadhānaṃ? Idhāvuso, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Dhammavicayasambojjhaṅgaṃ bhāveti… vīriyasambojjhaṅgaṃ bhāveti… pītisambojjhaṅgaṃ bhāveti… passaddhisambojjhaṅgaṃ bhāveti… samādhisambojjhaṅgaṃ bhāveti… upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Idaṃ vuccatāvuso, bhāvanāpadhānaṃ.
 
-And what, friends, is the effort of development? Here, friends, a bhikkhu cultivates the enlightenment factor of mindfulness, which is based on seclusion, dispassion, and cessation, culminating in relinquishment. He cultivates the enlightenment factor of investigation of phenomena… the enlightenment factor of energy… the enlightenment factor of rapture… the enlightenment factor of tranquility… the enlightenment factor of concentration… the enlightenment factor of equanimity, which is based on seclusion, dispassion, and cessation, culminating in relinquishment. This, friends, is called the effort of development.
+And what, friends, is the effort of development? Here, friends, a bhikkhu cultivates the enlightenment factor of mindfulness, which is based on seclusion, dispassion, and cessation, culminating in relinquishment. He cultivates the enlightenment factor of investigation of phenomena… the enlightenment factor of energy… the enlightenment factor of rapture… the enlightenment factor of tranquility… the enlightenment factor of samādhi… the enlightenment factor of equanimity, which is based on seclusion, dispassion, and cessation, culminating in relinquishment. This, friends, is called the effort of development.
 
 ‘‘Katamañcāvuso, anurakkhaṇāpadhānaṃ? Idhāvuso, bhikkhu uppannaṃ bhadrakaṃ [bhaddakaṃ (syā. kaṃ. pī.)] samādhinimittaṃ anurakkhati – aṭṭhikasaññaṃ, puḷuvakasaññaṃ [puḷavakasaññaṃ (sī. pī.)], vinīlakasaññaṃ, vicchiddakasaññaṃ, uddhumātakasaññaṃ. Idaṃ vuccatāvuso, anurakkhaṇāpadhānaṃ.
 
@@ -560,7 +560,7 @@ Another four knowledges: knowledge of suffering, knowledge of the origin of suff
 
 ‘‘Cattāri sotāpannassa aṅgāni. Idhāvuso, ariyasāvako buddhe aveccappasādena samannāgato hoti – ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho, bhagavā’ti. Dhamme aveccappasādena samannāgato hoti – ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko [opanayiko (syā. kaṃ.)] paccattaṃ veditabbo viññūhī’ti. Saṅghe aveccappasādena samannāgato hoti – ‘suppaṭipanno bhagavato sāvakasaṅgho ujuppaṭipanno bhagavato sāvakasaṅgho ñāyappaṭipanno bhagavato sāvakasaṅgho sāmīcippaṭipanno bhagavato sāvakasaṅgho yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti. Ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi akammāsehi bhujissehi viññuppasatthehi aparāmaṭṭhehi samādhisaṃvattanikehi.
 
-Four qualities of a stream-enterer. Here, friends, a noble disciple possesses unwavering confidence in the Buddha thus: ‘Indeed, the Blessed One is an Arahant, perfectly self-enlightened, accomplished in true knowledge and conduct, sublime, knower of the world, unsurpassed trainer of persons to be tamed, teacher of gods and humans, the Enlightened One, the Blessed One.’ He possesses unwavering confidence in the Dhamma thus: ‘The Dhamma is well-expounded by the Blessed One, directly visible, immediate, inviting one to come and see, applicable, to be personally experienced by the wise.’ He possesses unwavering confidence in the Saṅgha thus: ‘The Saṅgha of the Blessed One's disciples is practicing the good way, practicing the straight way, practicing the true way, practicing the proper way; that is, the four pairs of persons, the eight types of individuals—this Saṅgha of the Blessed One's disciples is worthy of gifts, worthy of hospitality, worthy of offerings, worthy of reverential salutation, the unsurpassed field of merit for the world.’ He possesses virtues dear to the noble ones—unbroken, untorn, unblemished, unspotted, freeing, praised by the wise, ungrasped, conducive to concentration.
+Four qualities of a stream-enterer. Here, friends, a noble disciple possesses unwavering confidence in the Buddha thus: ‘Indeed, the Blessed One is an Arahant, perfectly self-enlightened, accomplished in true knowledge and conduct, sublime, knower of the world, unsurpassed trainer of persons to be tamed, teacher of gods and humans, the Enlightened One, the Blessed One.’ He possesses unwavering confidence in the Dhamma thus: ‘The Dhamma is well-expounded by the Blessed One, directly visible, immediate, inviting one to come and see, applicable, to be personally experienced by the wise.’ He possesses unwavering confidence in the Saṅgha thus: ‘The Saṅgha of the Blessed One's disciples is practicing the good way, practicing the straight way, practicing the true way, practicing the proper way; that is, the four pairs of persons, the eight types of individuals—this Saṅgha of the Blessed One's disciples is worthy of gifts, worthy of hospitality, worthy of offerings, worthy of reverential salutation, the unsurpassed field of merit for the world.’ He possesses virtues dear to the noble ones—unbroken, untorn, unblemished, unspotted, freeing, praised by the wise, ungrasped, conducive to samādhi.
 
 ‘‘Cattāri sāmaññaphalāni – sotāpattiphalaṃ, sakadāgāmiphalaṃ, anāgāmiphalaṃ, arahattaphalaṃ.
 
@@ -596,7 +596,7 @@ Furthermore, there are these four ways of practice: practice that is unenduring,
 
 ‘‘Cattāri dhammapadāni – anabhijjhā dhammapadaṃ, abyāpādo dhammapadaṃ, sammāsati dhammapadaṃ, sammāsamādhi dhammapadaṃ.
 
-There are these four Dhamma-principles: non-covetousness is a Dhamma-principle, non-ill will is a Dhamma-principle, right mindfulness is a Dhamma-principle, and right concentration is a Dhamma-principle.
+There are these four Dhamma-principles: non-covetousness is a Dhamma-principle, non-ill will is a Dhamma-principle, right mindfulness is a Dhamma-principle, and right samādhi is a Dhamma-principle.
 
 ‘‘Cattāri dhammasamādānāni – atthāvuso, dhammasamādānaṃ paccuppannadukkhañceva āyatiñca dukkhavipākaṃ. Atthāvuso, dhammasamādānaṃ paccuppannadukkhaṃ āyatiṃ sukhavipākaṃ. Atthāvuso, dhammasamādānaṃ paccuppannasukhaṃ āyatiṃ dukkhavipākaṃ. Atthāvuso, dhammasamādānaṃ paccuppannasukhañceva āyatiñca sukhavipākaṃ.
 
@@ -604,11 +604,11 @@ There are these four ways of undertaking Dhamma. Friend, there is a way of under
 
 ‘‘Cattāro dhammakkhandhā – sīlakkhandho, samādhikkhandho, paññākkhandho, vimuttikkhandho.
 
-There are these four aggregates of qualities: the aggregate of virtue, the aggregate of concentration, the aggregate of wisdom, and the aggregate of liberation.
+There are these four aggregates of qualities: the aggregate of virtue, the aggregate of samādhi, the aggregate of wisdom, and the aggregate of liberation.
 
 ‘‘Cattāri balāni – vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ.
 
-There are these four powers: the power of energy, the power of mindfulness, the power of concentration, and the power of wisdom.
+There are these four powers: the power of energy, the power of mindfulness, the power of samādhi, and the power of wisdom.
 
 ‘‘Cattāri adhiṭṭhānāni – paññādhiṭṭhānaṃ, saccādhiṭṭhānaṃ, cāgādhiṭṭhānaṃ, upasamādhiṭṭhānaṃ.
 
@@ -812,7 +812,7 @@ Furthermore, there are these other five faculties: the faculty of pleasure, the 
 
 ‘‘Aparānipi pañcindriyāni – saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ.
 
-Furthermore, there are also these five faculties: the faculty of faith, the faculty of energy, the faculty of mindfulness, the faculty of concentration, and the faculty of wisdom.
+Furthermore, there are also these five faculties: the faculty of faith, the faculty of energy, the faculty of mindfulness, the faculty of samādhi, and the faculty of wisdom.
 
 321. ‘‘Pañca nissaraṇiyā [nissāraṇīyā (sī. syā. kaṃ. pī.) ṭīkā oloketabbā] dhātuyo. Idhāvuso, bhikkhuno kāme manasikaroto kāmesu cittaṃ na pakkhandati na pasīdati na santiṭṭhati na vimuccati. Nekkhammaṃ kho panassa manasikaroto nekkhamme cittaṃ pakkhandati pasīdati santiṭṭhati vimuccati. Tassa taṃ cittaṃ sugataṃ subhāvitaṃ suvuṭṭhitaṃ suvimuttaṃ visaṃyuttaṃ kāmehi. Ye ca kāmapaccayā uppajjanti āsavā vighātā pariḷāhā [vighātapariḷāhā (syā. kaṃ.)], mutto so tehi, na so taṃ vedanaṃ vedeti. Idamakkhātaṃ kāmānaṃ nissaraṇaṃ.
 
@@ -836,11 +836,11 @@ Furthermore, friends, when a bhikkhu attends to self-identity, his mind does not
 
 322. ‘‘Pañca vimuttāyatanāni. Idhāvuso, bhikkhuno satthā dhammaṃ deseti aññataro vā garuṭṭhāniyo sabrahmacārī. Yathā yathā, āvuso, bhikkhuno satthā dhammaṃ deseti aññataro vā garuṭṭhāniyo sabrahmacārī. Tathā tathā so tasmiṃ dhamme atthapaṭisaṃvedī ca hoti dhammapaṭisaṃvedī ca. Tassa atthapaṭisaṃvedino dhammapaṭisaṃvedino pāmojjaṃ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati. Idaṃ paṭhamaṃ vimuttāyatanaṃ.
 
-322.“There are five foundations for liberation. Here, friends, the Teacher teaches a bhikkhu the Dhamma, or else a respected fellow monastic. To the extent that the Teacher teaches a bhikkhu the Dhamma, or else a respected fellow monastic, to that extent he experiences the meaning and the Dhamma in that Dhamma. As he experiences the meaning and the Dhamma, joy springs up in him. Being joyful, rapture springs up in him. When his mind is filled with rapture, his body becomes tranquil. With his body tranquil, he feels happiness. Being happy, his mind becomes concentrated. This is the first foundation for liberation.
+322.“There are five foundations for liberation. Here, friends, the Teacher teaches a bhikkhu the Dhamma, or else a respected fellow monastic. To the extent that the Teacher teaches a bhikkhu the Dhamma, or else a respected fellow monastic, to that extent he experiences the meaning and the Dhamma in that Dhamma. As he experiences the meaning and the Dhamma, joy springs up in him. Being joyful, rapture springs up in him. When his mind is filled with rapture, his body becomes tranquil. With his body tranquil, he feels happiness. Being happy, his mind becomes collected. This is the first foundation for liberation.
 
 ‘‘Puna caparaṃ, āvuso, bhikkhuno na heva kho satthā dhammaṃ deseti aññataro vā garuṭṭhāniyo sabrahmacārī, api ca kho yathāsutaṃ yathāpariyattaṃ dhammaṃ vitthārena paresaṃ deseti…pe… api ca kho yathāsutaṃ yathāpariyattaṃ dhammaṃ vitthārena sajjhāyaṃ karoti…pe… api ca kho yathāsutaṃ yathāpariyattaṃ dhammaṃ cetasā anuvitakketi anuvicāreti manasānupekkhati…pe… api ca khvassa aññataraṃ samādhinimittaṃ suggahitaṃ hoti sumanasikataṃ sūpadhāritaṃ suppaṭividdhaṃ paññāya. Yathā yathā, āvuso, bhikkhuno aññataraṃ samādhinimittaṃ suggahitaṃ hoti sumanasikataṃ sūpadhāritaṃ suppaṭividdhaṃ paññāya tathā tathā so tasmiṃ dhamme atthapaṭisaṃvedī ca hoti dhammapaṭisaṃvedī ca. Tassa atthapaṭisaṃvedino dhammapaṭisaṃvedino pāmojjaṃ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati. Idaṃ pañcamaṃ vimuttāyatanaṃ.
 
-“Furthermore, friends, a bhikkhu’s Teacher or a respected fellow monastic does not teach him the Dhamma. But he teaches the Dhamma in detail to others as he has heard and memorized it. Or he recites the Dhamma in detail as he has heard and memorized it. Or he applies his mind to and examines and explores the Dhamma with his mind as he has heard and memorized it. Or he has a meditation subject that is well grasped, well attended to, well retained, and well penetrated by wisdom. To the extent that a bhikkhu has a meditation subject that is well grasped, well attended to, well retained, and well penetrated by wisdom, to that extent he experiences the meaning and the Dhamma in that Dhamma. As he experiences the meaning and the Dhamma, joy springs up in him. Being joyful, rapture springs up in him. When his mind is filled with rapture, his body becomes tranquil. With his body tranquil, he feels happiness. Being happy, his mind becomes concentrated. This is the fifth foundation for liberation.”
+“Furthermore, friends, a bhikkhu’s Teacher or a respected fellow monastic does not teach him the Dhamma. But he teaches the Dhamma in detail to others as he has heard and memorized it. Or he recites the Dhamma in detail as he has heard and memorized it. Or he applies his mind to and examines and explores the Dhamma with his mind as he has heard and memorized it. Or he has a meditation subject that is well grasped, well attended to, well retained, and well penetrated by wisdom. To the extent that a bhikkhu has a meditation subject that is well grasped, well attended to, well retained, and well penetrated by wisdom, to that extent he experiences the meaning and the Dhamma in that Dhamma. As he experiences the meaning and the Dhamma, joy springs up in him. Being joyful, rapture springs up in him. When his mind is filled with rapture, his body becomes tranquil. With his body tranquil, he feels happiness. Being happy, his mind becomes collected. This is the fifth foundation for liberation.”
 
 ‘‘Pañca vimuttiparipācanīyā saññā – aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā.
 
@@ -928,7 +928,7 @@ Furthermore, friends, when a bhikkhu attends to self-identity, his mind does not
 
 ‘‘Puna caparaṃ, āvuso, bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni, tathārūpesu sīlesu sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca. Ayampi dhammo sāraṇīyo…pe… ekībhāvāya saṃvattati.
 
-“Furthermore, friends, a bhikkhu dwells openly and in private sharing with his fellow monastics those virtues that are unbroken, flawless, unspotted, untarnished, liberating, commended by the wise, ungrasped at, and conducive to concentration. This quality creates affection and respect, conduces to cohesion, non-dispute, concord, and unity.
+“Furthermore, friends, a bhikkhu dwells openly and in private sharing with his fellow monastics those virtues that are unbroken, flawless, unspotted, untarnished, liberating, commended by the wise, ungrasped at, and conducive to samādhi. This quality creates affection and respect, conduces to cohesion, non-dispute, concord, and unity.
 
 ‘‘Puna caparaṃ, āvuso, bhikkhu yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya, tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṃvattati.
 
@@ -1008,11 +1008,11 @@ The seven noble treasures: the treasure of faith, the treasure of virtue, the tr
 
 ‘‘Satta bojjhaṅgā – satisambojjhaṅgo, dhammavicayasambojjhaṅgo, vīriyasambojjhaṅgo, pītisambojjhaṅgo, passaddhisambojjhaṅgo, samādhisambojjhaṅgo, upekkhāsambojjhaṅgo.
 
-The seven factors of enlightenment: the enlightenment factor of mindfulness, the enlightenment factor of investigation of the Dhamma, the enlightenment factor of energy, the enlightenment factor of rapture, the enlightenment factor of tranquility, the enlightenment factor of concentration, the enlightenment factor of equanimity.
+The seven factors of enlightenment: the enlightenment factor of mindfulness, the enlightenment factor of investigation of the Dhamma, the enlightenment factor of energy, the enlightenment factor of rapture, the enlightenment factor of tranquility, the enlightenment factor of samādhi, the enlightenment factor of equanimity.
 
 ‘‘Satta samādhiparikkhārā – sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati.
 
-The seven requisites for concentration: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness.
+The seven requisites for samādhi: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness.
 
 ‘‘Satta asaddhammā – idhāvuso, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti.
 
@@ -1036,7 +1036,7 @@ Seven perceptions: the perception of impermanence, the perception of not-self, t
 
 ‘‘Satta balāni – saddhābalaṃ, vīriyabalaṃ, hiribalaṃ, ottappabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ.
 
-Seven powers: the power of faith, the power of energy, the power of moral shame, the power of moral dread, the power of mindfulness, the power of concentration, the power of wisdom.
+Seven powers: the power of faith, the power of energy, the power of moral shame, the power of moral dread, the power of mindfulness, the power of samādhi, the power of wisdom.
 
 332. ‘‘Satta viññāṇaṭṭhitiyo. Santāvuso, sattā nānattakāyā nānattasaññino, seyyathāpi manussā ekacce ca devā ekacce ca vinipātikā. Ayaṃ paṭhamā viññāṇaṭṭhiti.
 
@@ -1100,11 +1100,11 @@ The second recitation portion is concluded.
 
 ‘‘Aṭṭha micchattā – micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo micchāsati, micchāsamādhi.
 
-“Eight wrongnesses: wrong view, wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong concentration.
+“Eight wrongnesses: wrong view, wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, wrong samādhi.
 
 ‘‘Aṭṭha sammattā – sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi.
 
-“Eight right things: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+“Eight right things: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
 
 ‘‘Aṭṭha puggalā dakkhiṇeyyā – sotāpanno, sotāpattiphalasacchikiriyāya paṭipanno; sakadāgāmī, sakadāgāmiphalasacchikiriyāya paṭipanno; anāgāmī, anāgāmiphalasacchikiriyāya paṭipanno; arahā, arahattaphalasacchikiriyāya paṭipanno.
 
@@ -1360,7 +1360,7 @@ The second recitation portion is concluded.
 
 343. ‘‘Nava anupubbavihārā. Idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. Vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ upasampajja viharati. Pītiyā ca virāgā…pe… tatiyaṃ jhānaṃ upasampajja viharati. Sukhassa ca pahānā …pe… catutthaṃ jhānaṃ upasampajja viharati. Sabbaso rūpasaññānaṃ samatikkamā…pe… ākāsānañcāyatanaṃ upasampajja viharati. Sabbaso ākāsānañcāyatanaṃ samatikkamma ‘anantaṃ viññāṇa’nti viññāṇañcāyatanaṃ upasampajja viharati. Sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati. Sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanaṃ upasampajja viharati. Sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati.
 
-343."There are these nine successive abodes. Here, friends, a bhikkhu, quite secluded from sensual pleasures, secluded from unwholesome states, enters and dwells in the first jhāna, which is accompanied by applied thought and sustained thought, with rapture and pleasure born of seclusion. With the subsiding of applied thought and sustained thought, he enters and dwells in the second jhāna, which has internal confidence and unification of mind, is without applied thought and sustained thought, and is filled with rapture and pleasure born of concentration. With the fading of rapture, he dwells in equanimity, mindful and clearly comprehending, and experiences pleasure with the body; he enters and dwells in the third jhāna, of which the Noble Ones declare: ‘He dwells in equanimity, mindful, and blissful.’ With the abandoning of pleasure and pain, and with the prior disappearance of joy and grief, he enters and dwells in the fourth jhāna, which is neither painful nor pleasant and is purified by equanimity and mindfulness. With the complete transcending of perceptions of form, with the disappearance of perceptions of sensory impact, and with non-attention to perceptions of diversity, aware that ‘space is infinite,’ he enters and dwells in the base of the infinity of space. With the complete transcending of the base of the infinity of space, aware that ‘consciousness is infinite,’ he enters and dwells in the base of the infinity of consciousness. With the complete transcending of the base of the infinity of consciousness, aware that ‘there is nothing,’ he enters and dwells in the base of nothingness. With the complete transcending of the base of nothingness, he enters and dwells in the base of neither perception nor non-perception. With the complete transcending of the base of neither perception nor non-perception, he enters and dwells in the cessation of perception and feeling."
+343."There are these nine successive abodes. Here, friends, a bhikkhu, quite secluded from sensual pleasures, secluded from unwholesome states, enters and dwells in the first jhāna, which is accompanied by applied thought and sustained thought, with rapture and pleasure born of seclusion. With the subsiding of applied thought and sustained thought, he enters and dwells in the second jhāna, which has internal confidence and unification of mind, is without applied thought and sustained thought, and is filled with rapture and pleasure born of samādhi. With the fading of rapture, he dwells in equanimity, mindful and clearly comprehending, and experiences pleasure with the body; he enters and dwells in the third jhāna, of which the Noble Ones declare: ‘He dwells in equanimity, mindful, and blissful.’ With the abandoning of pleasure and pain, and with the prior disappearance of joy and grief, he enters and dwells in the fourth jhāna, which is neither painful nor pleasant and is purified by equanimity and mindfulness. With the complete transcending of perceptions of form, with the disappearance of perceptions of sensory impact, and with non-attention to perceptions of diversity, aware that ‘space is infinite,’ he enters and dwells in the base of the infinity of space. With the complete transcending of the base of the infinity of space, aware that ‘consciousness is infinite,’ he enters and dwells in the base of the infinity of consciousness. With the complete transcending of the base of the infinity of consciousness, aware that ‘there is nothing,’ he enters and dwells in the base of nothingness. With the complete transcending of the base of nothingness, he enters and dwells in the base of neither perception nor non-perception. With the complete transcending of the base of neither perception nor non-perception, he enters and dwells in the cessation of perception and feeling."
 
 344. ‘‘Nava anupubbanirodhā. Paṭhamaṃ jhānaṃ samāpannassa kāmasaññā niruddhā hoti. Dutiyaṃ jhānaṃ samāpannassa vitakkavicārā niruddhā honti. Tatiyaṃ jhānaṃ samāpannassa pīti niruddhā hoti. Catutthaṃ jhānaṃ samāpannassa assāsapassāssā niruddhā honti. Ākāsānañcāyatanaṃ samāpannassa rūpasaññā niruddhā hoti. Viññāṇañcāyatanaṃ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti. Ākiñcaññāyatanaṃ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti. Nevasaññānāsaññāyatanaṃ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti. Saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca niruddhā honti.
 
@@ -1476,7 +1476,7 @@ The second recitation portion is concluded.
 
 ‘‘Dasa asekkhā dhammā – asekkhā sammādiṭṭhi, asekkho sammāsaṅkappo, asekkhā sammāvācā, asekkho sammākammanto, asekkho sammāājīvo, asekkho sammāvāyāmo, asekkhā sammāsati, asekkho sammāsamādhi, asekkhaṃ sammāñāṇaṃ, asekkhā sammāvimutti.
 
-“These are the ten qualities of one beyond training: right view of one beyond training, right thought of one beyond training, right speech of one beyond training, right action of one beyond training, right livelihood of one beyond training, right effort of one beyond training, right mindfulness of one beyond training, right concentration of one beyond training, right knowledge of one beyond training, and right liberation of one beyond training.”
+“These are the ten qualities of one beyond training: right view of one beyond training, right thought of one beyond training, right speech of one beyond training, right action of one beyond training, right livelihood of one beyond training, right effort of one beyond training, right mindfulness of one beyond training, right samādhi of one beyond training, right knowledge of one beyond training, and right liberation of one beyond training.”
 
 ‘‘Ime kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena dasa dhammā sammadakkhātā. Tattha sabbeheva saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussāna’’nti.
 

@@ -18,7 +18,7 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Uruvelā, on the bank of the river Nerañjarā, at the root of the Goatherds’ Banyan tree, in the first period after attaining Awakening. Then at that time the Gracious One was sitting in one cross-legged posture for seven days experiencing the happiness of freedom. Then with the passing of those seven days, the Gracious One arose from that concentration.
+1Thus I heard: At one time the Gracious One was dwelling near Uruvelā, on the bank of the river Nerañjarā, at the root of the Goatherds’ Banyan tree, in the first period after attaining Awakening. Then at that time the Gracious One was sitting in one cross-legged posture for seven days experiencing the happiness of freedom. Then with the passing of those seven days, the Gracious One arose from that samādhi.
 
 2Then a certain brāhmaṇa who was by nature a grumbler went to the Gracious One, and after going, he exchanged greetings with the Gracious One. After exchanging courteous talk and greetings, he stood on one side. While stood on one side that brāhmaṇa said this to the Gracious One:
 

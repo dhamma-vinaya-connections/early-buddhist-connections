@@ -89,9 +89,9 @@ Now on that occasion—the uposatha day of the fifteenth, the full-moon night of
 
 “[5] For one enraptured at heart, the body grows calm and the mind grows calm. When the body & mind of a monk enraptured at heart grow calm, then _calm_ as a factor for awakening is aroused in him. He develops it, and for him it goes to the culmination of its development.
 
-“[6] For one who is at ease—his body calmed—the mind becomes concentrated. When the mind of one who is at ease—his body calmed—becomes concentrated, then _concentration_ as a factor for awakening is aroused in him. He develops it, and for him it goes to the culmination of its development.
+“[6] For one who is at ease—his body calmed—the mind becomes collected. When the mind of one who is at ease—his body calmed—becomes collected, then _samādhi_ as a factor for awakening is aroused in him. He develops it, and for him it goes to the culmination of its development.
 
-“[7] He carefully watches the mind thus concentrated with equanimity. When he carefully watches the mind thus concentrated with equanimity, _equanimity_ as a factor for awakening is aroused in him. He develops it, and for him it goes to the culmination of its development.
+“[7] He carefully watches the mind thus collected with equanimity. When he carefully watches the mind thus collected with equanimity, _equanimity_ as a factor for awakening is aroused in him. He develops it, and for him it goes to the culmination of its development.
 
 [Similarly with the other three establishings of mindfulness: feelings, mind, & mental qualities.]
 
@@ -99,7 +99,7 @@ Now on that occasion—the uposatha day of the fifteenth, the full-moon night of
 
 ## Clear Knowing _&_ Release
 
-“And how are the seven factors for awakening developed & pursued so as to bring clear knowing & release to their culmination? There is the case where a monk develops _mindfulness_ as a factor for awakening dependent on seclusion, dependent on dispassion, dependent on cessation, resulting in relinquishment. He develops _analysis of qualities_ as a factor for awakening... _persistence_ as a factor for awakening... _rapture_ as a factor for awakening... _calm_ as a factor for awakening... _concentration_ as a factor for awakening... _equanimity_ as a factor for awakening dependent on seclusion, dependent on dispassion, dependent on cessation, resulting in relinquishment.
+“And how are the seven factors for awakening developed & pursued so as to bring clear knowing & release to their culmination? There is the case where a monk develops _mindfulness_ as a factor for awakening dependent on seclusion, dependent on dispassion, dependent on cessation, resulting in relinquishment. He develops _analysis of qualities_ as a factor for awakening... _persistence_ as a factor for awakening... _rapture_ as a factor for awakening... _calm_ as a factor for awakening... _samādhi_ as a factor for awakening... _equanimity_ as a factor for awakening dependent on seclusion, dependent on dispassion, dependent on cessation, resulting in relinquishment.
 
 “This is how the seven factors for awakening are developed & pursued so as to bring clear knowing & release to their culmination.”
 
@@ -121,7 +121,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 5. [[an9.34-thanissaro]] shows how the mind, step by step, is temporarily released from burdensome mental states of greater and greater refinement as it advances through the stages of jhāna. [[mn111-thanissaro]] shows how a meditator, using discernment, can be released from the factors of a jhāna attainment while still in that attainment. [↩︎](#^mn118note05-ref) ^mn118note05
 
-6. As this shows, a meditator focusing on feelings in themselves as a frame of reference should not abandon the breath as the basis for his/her concentration. [↩︎](#^mn118note06-ref) ^mn118note06
+6. As this shows, a meditator focusing on feelings in themselves as a frame of reference should not abandon the breath as the basis for his/her samādhi. [↩︎](#^mn118note06-ref) ^mn118note06
 
 See also: [[mn62-thanissaro]]; [[sn54.6-thanissaro]]; [[sn54.8-thanissaro]]; [[an3.103-thanissaro]]; [[an5.96-thanissaro]]
 

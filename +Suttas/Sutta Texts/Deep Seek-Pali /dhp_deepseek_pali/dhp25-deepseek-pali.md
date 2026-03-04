@@ -41,7 +41,7 @@ Delighting in the Dhamma, devoted to the Dhamma, contemplating the Dhamma, a bhi
 365.
 Salābhaṃ nātimaññeyya, nāññesaṃ pihayaṃ care;Aññesaṃ pihayaṃ bhikkhu, samādhiṃ nādhigacchati.
 
-Let one not despise one's own gains, nor envy others. A bhikkhu who envies others does not attain concentration.
+Let one not despise one's own gains, nor envy others. A bhikkhu who envies others does not attain samādhi.
 
 366.
 Appalābhopi ce bhikkhu, salābhaṃ nātimaññati;Taṃ ve devā pasaṃsanti, suddhājīviṃ atanditaṃ.
@@ -76,7 +76,7 @@ Meditate, O bhikkhu, do not be heedless; let not your mind delight in sensual qu
 372.
 Natthi jhānaṃ apaññassa, paññā natthi ajhāyato [ajjhāyino (ka.)];Yamhi jhānañca paññā ca, sa ve nibbānasantike.
 
-There is no concentration for one without wisdom, nor is there wisdom for one without concentration; in whom are found both concentration and wisdom, he, indeed, is close to Nibbana.
+There is no samādhi for one without wisdom, nor is there wisdom for one without samādhi; in whom are found both samādhi and wisdom, he, indeed, is close to Nibbana.
 
 373.
 Suññāgāraṃ paviṭṭhassa, santacittassa bhikkhuno;Amānusī rati hoti, sammā dhammaṃ vipassato.

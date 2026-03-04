@@ -300,9 +300,9 @@ In the same way, there are ascetics and brahmins who enjoy these five kinds of s
 
 65Suppose there was a wild deer wandering in the forest that walked, stood, sat, and laid down in confidence. Why is that? Because it’s out of the hunter’s raṅge.
 
-In the same way, a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. This is called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see.
+In the same way, a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. This is called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see.
 
-66Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected. This is called a mendicant who has blinded Māra …
+66Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is called a mendicant who has blinded Māra …
 
 67Furthermore, with the fading away of rapture, a mendicant enters and remains in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is called a mendicant who has blinded Māra …
 

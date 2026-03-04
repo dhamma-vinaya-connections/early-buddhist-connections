@@ -131,7 +131,7 @@ That is what the Blessed One said. Gratified, Ven. Ānanda delighted in the Bles
 
 Note
 
-1. The Thai edition, which I have followed here, reads _dhammā:_ mental qualities. Other editions read _dhammo:_ the Dhamma. The Commentary maintains that this refers to the mental qualities conducive to concentration.
+1. The Thai edition, which I have followed here, reads _dhammā:_ mental qualities. Other editions read _dhammo:_ the Dhamma. The Commentary maintains that this refers to the mental qualities conducive to samādhi.
 
 See also: [[mn97-thanissaro]]; [[mn138-thanissaro]]; [[sn1-11-thanissaro/sn2-thanissaro/sn2.19-thanissaro]]; [[sn1-11-thanissaro/sn10-thanissaro/sn10.8-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.38-thanissaro]]; [[sn12-21-thanissaro/sn12-thanissaro/sn12.64-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.54-thanissaro]]; [[sn22-34-thanissaro/sn22-thanissaro/sn22.88-thanissaro]]; [[sn41.10-thanissaro]]; [[sn55.54-thanissaro]]; [[an4.184-thanissaro]]; [[an6.16-thanissaro]]; [[an7.58-thanissaro]]; [[an11.10-thanissaro]]; [[ud8.1-thanissaro]]; [[/snp5.4-thanissaro]]
 

@@ -16,11 +16,11 @@ language: "English - Pali"
 
 57. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā subhūti bhagavato avidūre nisinno hoti pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya avitakkaṃ samādhiṃ samāpajjitvā.
 
-57.Thus have I heard. At one time the Blessed One was dwelling at Savatthi in Jeta's Grove, Anathapindika's Park. At that time, the Venerable Subhuti was seated not far from the Blessed One, having folded his legs crosswise, set his body erect, and entered upon the concentration without applied thought.
+57.Thus have I heard. At one time the Blessed One was dwelling at Savatthi in Jeta's Grove, Anathapindika's Park. At that time, the Venerable Subhuti was seated not far from the Blessed One, having folded his legs crosswise, set his body erect, and entered upon the samādhi without applied thought.
 
 Addasā kho bhagavā āyasmantaṃ subhūtiṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya avitakkaṃ samādhiṃ samāpannaṃ.
 
-The Blessed One saw Venerable Subhūti sitting not far away, having folded his legs crosswise, set his body erect, and entered upon the concentration without applied thought.
+The Blessed One saw Venerable Subhūti sitting not far away, having folded his legs crosswise, set his body erect, and entered upon the samādhi without applied thought.
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

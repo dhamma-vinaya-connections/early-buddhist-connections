@@ -15,7 +15,7 @@ language: "English"
 ## ## Dāna Sutta
 
 
-_This discourse discusses the possible motivations for generosity, and rates in ascending order the results they can lead to. The Commentary notes that the highest motivation, untainted by lower motivations and leading to non-returning, requires a certain level of mastery in concentration and insight to be one’s genuine motivation for giving._
+_This discourse discusses the possible motivations for generosity, and rates in ascending order the results they can lead to. The Commentary notes that the highest motivation, untainted by lower motivations and leading to non-returning, requires a certain level of mastery in samādhi and insight to be one’s genuine motivation for giving._
 
 * * *
 

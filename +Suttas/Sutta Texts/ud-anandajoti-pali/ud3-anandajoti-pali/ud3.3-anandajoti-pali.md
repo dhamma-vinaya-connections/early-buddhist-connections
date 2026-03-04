@@ -56,9 +56,9 @@ After that was said, venerable Yasoja said this to the Gracious One: "These, rev
 
 11"Yes, friend," said those monks, and after replying to that monk, setting their dwelling places in order, and picking up their bowls and robes, just as a strong man might stretch out a bent arm, or bend in an outstretched arm, in the same way did they disappear from the bank of the river Vaggumudā, and reappear in front of the Gracious One in the Gabled Hall in Great Wood.
 
-Then at that time the Gracious One was sitting in imperturbable concentration. Then it occured to those monks: "Now in what state is the Gracious One dwelling at the present time?"
+Then at that time the Gracious One was sitting in imperturbable samādhi. Then it occured to those monks: "Now in what state is the Gracious One dwelling at the present time?"
 
-Then it occured to those monks: "The Gracious One is dwelling in a state of imperturbability at the present time," and they all sat in imperturbable concentration.
+Then it occured to those monks: "The Gracious One is dwelling in a state of imperturbability at the present time," and they all sat in imperturbable samādhi.
 
 12Then venerable Ānanda, when the night had passed, when the first watch of the night had gone, after rising from his seat, arranging his robe on one shoulder, and raising his hands in respectful salutation, said this to the Gracious One:
 
@@ -76,9 +76,9 @@ For a second time the Gracious One was silent.
 
 "The night has passed, reverend Sir, the last watch of the night has gone, dawn has risen, the night has a joyful appearance, for a long time these visiting monks have been sitting, let the Gracious One exchange greetings, reverend Sir, with the visiting monks."
 
-15Then the Gracious One, after rising from that concentration, addressed venerable Ānanda, saying:
+15Then the Gracious One, after rising from that samādhi, addressed venerable Ānanda, saying:
 
-"If you knew, Ānanda, you would not say even this much about them. I and these five hundred monks, Ānanda, have all been sat in imperturbable concentration."
+"If you knew, Ānanda, you would not say even this much about them. I and these five hundred monks, Ānanda, have all been sat in imperturbable samādhi."
 
 16Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

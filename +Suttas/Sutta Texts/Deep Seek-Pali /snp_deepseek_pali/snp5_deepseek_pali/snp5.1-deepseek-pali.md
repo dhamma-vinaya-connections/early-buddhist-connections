@@ -321,7 +321,7 @@ Hearing no question whatsoever being asked, but hearing the questions answered, 
 
 ‘‘Avijjā muddhāti jānāhi, vijjā muddhādhipātinī;Saddhāsatisamādhīhi, chandavīriyena saṃyutā’’.
 
-“Know that ignorance is the ‘head,’ and true knowledge is the ‘splitting of the head,’ conjoined with faith, mindfulness, concentration, desire, and energy.”
+“Know that ignorance is the ‘head,’ and true knowledge is the ‘splitting of the head,’ conjoined with faith, mindfulness, samādhi, desire, and energy.”
 
 1033.
 

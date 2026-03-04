@@ -221,7 +221,7 @@ While I was training, the divine eye was purified; I knew my past abodes, where 
 105.
 ‘‘Animittañca bhāvemi, ekaggā susamāhitā;Anantarāvimokkhāsiṃ, anupādāya nibbutā.
 
-I developed the signless, single-pointed and well-concentrated; I attained immediate liberation, unattached and extinguished.
+I developed the signless, single-pointed and well-collected; I attained immediate liberation, unattached and extinguished.
 
 106.
 ‘‘Pañcakkhandhā pariññātā, tiṭṭhanti chinnamūlakā;Dhi tavatthu jare jamme, natthi dāni punabbhavo’’ti.

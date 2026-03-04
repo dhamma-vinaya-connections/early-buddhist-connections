@@ -80,7 +80,7 @@ language: "English - Pali"
 
 393. ‘‘Atthi, kassapa, maggo atthi paṭipadā, yathāpaṭipanno sāmaṃyeva ñassati sāmaṃ dakkhati [dakkhiti (sī.)] – ‘samaṇova gotamo kālavādī bhūtavādī atthavādī dhammavādī vinayavādī’ti. Katamo ca, kassapa, maggo, katamā ca paṭipadā, yathāpaṭipanno sāmaṃyeva ñassati sāmaṃ dakkhati – ‘samaṇova gotamo kālavādī bhūtavādī atthavādī dhammavādī vinayavādī’ti? Ayameva ariyo aṭṭhaṅgiko maggo. Seyyathidaṃ – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. Ayaṃ kho, kassapa, maggo, ayaṃ paṭipadā, yathāpaṭipanno sāmaṃyeva ñassati sāmaṃ dakkhati ‘samaṇova gotamo kālavādī bhūtavādī atthavādī dhammavādī vinayavādī’’’ti.
 
-393."There is, Kassapa, a path, there is a practice, by following which one will know for oneself and see for oneself: ‘The ascetic Gotama speaks at the right time, speaks what is factual, speaks what is meaningful, speaks on the Dhamma, speaks on the discipline.’ And what, Kassapa, is that path, what is that practice, by following which one will know for oneself and see for oneself: ‘The ascetic Gotama speaks at the right time, speaks what is factual, speaks what is meaningful, speaks on the Dhamma, speaks on the discipline’? It is this Noble Eightfold Path. Namely: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. This, Kassapa, is the path, this is the practice, by following which one will know for oneself and see for oneself: ‘The ascetic Gotama speaks at the right time, speaks what is factual, speaks what is meaningful, speaks on the Dhamma, speaks on the discipline.’"
+393."There is, Kassapa, a path, there is a practice, by following which one will know for oneself and see for oneself: ‘The ascetic Gotama speaks at the right time, speaks what is factual, speaks what is meaningful, speaks on the Dhamma, speaks on the discipline.’ And what, Kassapa, is that path, what is that practice, by following which one will know for oneself and see for oneself: ‘The ascetic Gotama speaks at the right time, speaks what is factual, speaks what is meaningful, speaks on the Dhamma, speaks on the discipline’? It is this Noble Eightfold Path. Namely: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi. This, Kassapa, is the path, this is the practice, by following which one will know for oneself and see for oneself: ‘The ascetic Gotama speaks at the right time, speaks what is factual, speaks what is meaningful, speaks on the Dhamma, speaks on the discipline.’"
 
 ## Tapopakkamakathā
 
@@ -188,7 +188,7 @@ And because, Kassapa, apart from this measure and apart from this ascetic practi
 
 ## Sīlasamādhipaññāsampadā
 
-### The Perfection of Virtue, Concentration, and Wisdom
+### The Perfection of Virtue, samādhi, and Wisdom
 
 400. Evaṃ vutte, acelo kassapo bhagavantaṃ etadavoca – ‘‘katamā pana sā, bho gotama, sīlasampadā, katamā cittasampadā, katamā paññāsampadā’’ti? ‘‘Idha, kassapa, tathāgato loke uppajjati arahaṃ, sammāsambuddho…pe… (yathā 190-193 anucchedesu, evaṃ vitthāretabbaṃ) bhayadassāvī samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena parisuddhājīvo sīlasampanno indriyesu guttadvāro satisampajaññena samannāgato santuṭṭho.
 
@@ -208,7 +208,7 @@ And because, Kassapa, apart from this measure and apart from this ascetic practi
 
 ‘‘So evaṃ samāhite citte…pe… ñāṇadassanāya cittaṃ abhinīharati abhininnāmeti…pe… idampissa hoti paññāsampadāya…pe… nāparaṃ itthattāyāti pajānāti…pe… idampissa hoti paññāsampadāya. Ayaṃ kho, kassapa, paññāsampadā.
 
-"When his mind is thus concentrated ... he directs and focuses his mind on knowledge and vision ... This too is an accomplishment in wisdom for him ... He understands: ‘There is nothing further for this state of being.’ ... This too is an accomplishment in wisdom for him. This, Kassapa, is accomplishment in wisdom."
+"When his mind is thus collected ... he directs and focuses his mind on knowledge and vision ... This too is an accomplishment in wisdom for him ... He understands: ‘There is nothing further for this state of being.’ ... This too is an accomplishment in wisdom for him. This, Kassapa, is accomplishment in wisdom."
 
 ‘‘Imāya ca, kassapa, sīlasampadāya cittasampadāya paññāsampadāya aññā sīlasampadā cittasampadā paññāsampadā uttaritarā vā paṇītatarā vā natthi.
 

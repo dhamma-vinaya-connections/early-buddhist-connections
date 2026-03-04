@@ -40,7 +40,7 @@ language: "English - Pali"
 
 ‘‘Yathā divā tathā rattiṃ, yathā rattiṃ tathā divā;Abhibhuyya disā sabbā, appamāṇasamādhinā.
 
-"As by day, so by night; as by night, so by day, having mastered all quarters, with boundless concentration."
+"As by day, so by night; as by night, so by day, having mastered all quarters, with boundless samādhi."
 
 ‘‘Tamāhu sekhaṃ paṭipadaṃ [pāṭipadaṃ (?) ma. ni. 2.27 passitabbaṃ], atho saṃsuddhacāriyaṃ [saṃsuddhacāraṇaṃ (sī. pī.), saṃsuddhacārinaṃ (syā. kaṃ.)];Tamāhu loke sambuddhaṃ, dhīraṃ paṭipadantaguṃ.
 

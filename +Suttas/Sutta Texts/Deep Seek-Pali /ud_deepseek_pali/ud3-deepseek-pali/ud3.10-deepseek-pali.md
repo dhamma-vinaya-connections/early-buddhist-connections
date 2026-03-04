@@ -20,7 +20,7 @@ language: "English - Pali"
 
 Atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhahitvā buddhacakkhunā lokaṃ volokesi. Addasā kho bhagavā buddhacakkhunā volokento satte anekehi santāpehi santappamāne, anekehi ca pariḷāhehi pariḍayhamāne – rāgajehipi, dosajehipi, mohajehipi [mohajehipīti (sabbattha)].
 
-Then, at the end of those seven days, the Blessed One arose from that concentration and surveyed the world with his Buddha-eye. As he surveyed the world with his Buddha-eye, the Blessed One saw beings tormented by many afflictions, burning with many distresses—those born of lust, those born of hatred, those born of delusion.
+Then, at the end of those seven days, the Blessed One arose from that samādhi and surveyed the world with his Buddha-eye. As he surveyed the world with his Buddha-eye, the Blessed One saw beings tormented by many afflictions, burning with many distresses—those born of lust, those born of hatred, those born of delusion.
 
 Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –
 

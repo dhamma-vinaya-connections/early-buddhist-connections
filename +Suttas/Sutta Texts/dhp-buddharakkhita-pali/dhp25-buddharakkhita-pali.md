@@ -41,7 +41,7 @@ language: "Pali"
 
 371Meditate, O monk! Do not be heedless. Let not your mind whirl on sensual pleasures. Heedless, do not swallow a red-hot iron ball, lest you cry when burning, "O this is painful!"
 
-372There is no meditative concentration for him who lacks insight, and no insight for him who lacks meditative concentration. He in whom are found both meditative concentration and insight, indeed, is close to Nibbāna.
+372There is no meditative samādhi for him who lacks insight, and no insight for him who lacks meditative samādhi. He in whom are found both meditative samādhi and insight, indeed, is close to Nibbāna.
 
 373The monk who has retired to a solitary abode and calmed his mind, who comprehends the Dhamma with insight, in him there arises a delight that transcends all human delights.
 

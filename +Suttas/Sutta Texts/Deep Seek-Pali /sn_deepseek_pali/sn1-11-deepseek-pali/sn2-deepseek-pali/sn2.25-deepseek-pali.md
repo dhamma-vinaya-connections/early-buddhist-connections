@@ -16,7 +16,7 @@ language: "English - Pali"
 
 106. Evaṃ me sutaṃ – ekaṃ samayaṃ sambahulā bhikkhū, kosalesu viharanti himavantapasse araññakuṭikāya uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā.
 
-106.Thus have I heard. On one occasion a number of bhikkhus were dwelling in the Kosala country, in a forest hut on the slopes of the Himalayas. They were restless, haughty, fickle, harsh-spoken, prone to scattered talk, unmindful, uncomprehending, unconcentrated, with straying minds, and with uncontrolled senses.
+106.Thus have I heard. On one occasion a number of bhikkhus were dwelling in the Kosala country, in a forest hut on the slopes of the Himalayas. They were restless, haughty, fickle, harsh-spoken, prone to scattered talk, unmindful, uncomprehending, uncollected, with straying minds, and with uncontrolled senses.
 
 Atha kho jantu devaputto tadahuposathe pannarase yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū gāthāhi ajjhabhāsi –
 

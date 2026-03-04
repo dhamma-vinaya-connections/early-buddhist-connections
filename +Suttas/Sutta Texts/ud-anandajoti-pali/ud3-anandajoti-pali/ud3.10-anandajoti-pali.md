@@ -22,7 +22,7 @@ language: "English - Pali"
 
 Then at that time the Gracious One was sitting in one cross-legged posture for seven days experiencing the happiness of freedom.
 
-2Then with the passing of those seven days the Gracious One, after rising from that concentration, looked around the world with his Buddha-eye. The Gracious One looking around the world with his Buddha-eye saw beings being tormented with many torments, and being burned with many fevers, born from passion, and born from hatred, and born from delusion.
+2Then with the passing of those seven days the Gracious One, after rising from that samādhi, looked around the world with his Buddha-eye. The Gracious One looking around the world with his Buddha-eye saw beings being tormented with many torments, and being burned with many fevers, born from passion, and born from hatred, and born from delusion.
 
 3Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

@@ -10,24 +10,24 @@ language: "English"
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN5]]  / 🌐 [[AN5.27]]
 > ◄  [[an5.26-thanissaro]] 📜  [[an5.28-thanissaro]] ►
 
-## AN5.27 (Immeasurable) Concentration
+## AN5.27 (Immeasurable) samādhi
 
 ## ## Samādhi Sutta
 
 
-“Mindful & astute, you should develop immeasurable concentration [i.e., concentration based on immeasurable goodwill, compassion, empathetic joy, or equanimity]. When, mindful & astute, one has developed immeasurable concentration, five realizations arise right within oneself. Which five?
+“Mindful & astute, you should develop immeasurable samādhi [i.e., samādhi based on immeasurable goodwill, compassion, empathetic joy, or equanimity]. When, mindful & astute, one has developed immeasurable samādhi, five realizations arise right within oneself. Which five?
 
-“The realization arises right within oneself that ‘This concentration is blissful in the present and will result in bliss in the future.’
+“The realization arises right within oneself that ‘This samādhi is blissful in the present and will result in bliss in the future.’
 
-“The realization arises right within oneself that ‘This concentration is noble & not connected with the baits of the flesh.’
+“The realization arises right within oneself that ‘This samādhi is noble & not connected with the baits of the flesh.’
 
-“The realization arises right within oneself that ‘This concentration is not obtained by base people.’
+“The realization arises right within oneself that ‘This samādhi is not obtained by base people.’
 
-“The realization arises right within oneself that ‘This concentration is peaceful, exquisite, the acquiring of calm, the attainment of unification, not kept in place by the fabrications of forceful restraint.’
+“The realization arises right within oneself that ‘This samādhi is peaceful, exquisite, the acquiring of calm, the attainment of unification, not kept in place by the fabrications of forceful restraint.’
 
-“The realization arises right within oneself that ‘I enter into this concentration mindfully, and mindfully I emerge from it.’
+“The realization arises right within oneself that ‘I enter into this samādhi mindfully, and mindfully I emerge from it.’
 
-“Mindful & astute, you should develop immeasurable concentration. When, mindful & astute, one has developed immeasurable concentration, these five realizations arise right within oneself.”
+“Mindful & astute, you should develop immeasurable samādhi. When, mindful & astute, one has developed immeasurable samādhi, these five realizations arise right within oneself.”
 
 See also: [[sn41.7-thanissaro]]; [[sn42.8-thanissaro]]; [[an3.66-thanissaro]]; [[an6.13-thanissaro]]; [[an8.70-thanissaro]]; [[an11.16-thanissaro]]; ; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti22-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/thag-thanissaro/thag6-thanissaro]]
 

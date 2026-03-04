@@ -20,11 +20,11 @@ language: "English - Pali"
 
 ‘‘Kathañca, bhikkhave, puggalo samaṇamacalo hoti? Idha, bhikkhave, bhikkhu sammādiṭṭhiko hoti, sammāsaṅkappo hoti, sammāvāco hoti, sammākammanto hoti, sammāājīvo hoti, sammāvāyāmo hoti, sammāsati [sammāsatī (sī. ka.)] hoti, sammāsamādhi [sammāsamādhī (sī. ka.)] hoti. Evaṃ kho, bhikkhave, puggalo samaṇamacalo hoti.
 
-And how, bhikkhus, is a person an unshakeable ascetic? Here, bhikkhus, a bhikkhu possesses right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration. Thus, bhikkhus, a person is an unshakeable ascetic.
+And how, bhikkhus, is a person an unshakeable ascetic? Here, bhikkhus, a bhikkhu possesses right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right samādhi. Thus, bhikkhus, a person is an unshakeable ascetic.
 
 ‘‘Kathañca, bhikkhave, puggalo samaṇapuṇḍarīko hoti? Idha, bhikkhave, bhikkhu sammādiṭṭhiko hoti, sammāsaṅkappo hoti, sammāvāco hoti, sammākammanto hoti, sammāājīvo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, sammāñāṇī hoti, sammāvimutti [sammāvimuttī (sī. ka.)] hoti, no ca kho aṭṭha vimokkhe kāyena phusitvā viharati. Evaṃ kho, bhikkhave, puggalo samaṇapuṇḍarīko hoti.
 
-And how, bhikkhus, is a person a white lotus ascetic? Here, bhikkhus, a bhikkhu possesses right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration, right knowledge, and right liberation, but does not dwell having contacted the eight deliverances with the body. Thus, bhikkhus, a person is a white lotus ascetic.
+And how, bhikkhus, is a person a white lotus ascetic? Here, bhikkhus, a bhikkhu possesses right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi, right knowledge, and right liberation, but does not dwell having contacted the eight deliverances with the body. Thus, bhikkhus, a person is a white lotus ascetic.
 
 ‘‘Kathañca, bhikkhave, puggalo samaṇapadumo hoti? Idha, bhikkhave, bhikkhu sammādiṭṭhiko hoti…pe… sammāvimutti hoti, aṭṭha ca vimokkhe kāyena phusitvā viharati. Evaṃ kho, bhikkhave, puggalo samaṇapadumo hoti.
 

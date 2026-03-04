@@ -276,7 +276,7 @@ Then they would say to him: ‘Good sir, this country’s most beautiful woman y
 
 556. Bhagavā etadavoca – ‘‘idha, vāseṭṭha, tathāgato loke uppajjati arahaṃ, sammāsambuddho…pe… (yathā 190-212 anucchedesu evaṃ vitthāretabbaṃ). Evaṃ kho, vāseṭṭha, bhikkhu sīlasampanno hoti…pe… tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṃ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.
 
-556.The Blessed One said: "Here, Vāseṭṭha, a Tathāgata arises in the world, an Arahant, a Perfectly Self-Enlightened One… (as in sections 190–212, this should be elaborated). Thus, Vāseṭṭha, a bhikkhu is accomplished in virtue… With these five hindrances abandoned in himself, joy arises; from joy comes delight; with a delighted mind his body becomes tranquil; with a tranquil body he feels happiness; and with happiness his mind becomes concentrated.
+556.The Blessed One said: "Here, Vāseṭṭha, a Tathāgata arises in the world, an Arahant, a Perfectly Self-Enlightened One… (as in sections 190–212, this should be elaborated). Thus, Vāseṭṭha, a bhikkhu is accomplished in virtue… With these five hindrances abandoned in himself, joy arises; from joy comes delight; with a delighted mind his body becomes tranquil; with a tranquil body he feels happiness; and with happiness his mind becomes collected.
 
 ‘‘So mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati. Tathā dutiyaṃ. Tathā tatiyaṃ. Tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.
 

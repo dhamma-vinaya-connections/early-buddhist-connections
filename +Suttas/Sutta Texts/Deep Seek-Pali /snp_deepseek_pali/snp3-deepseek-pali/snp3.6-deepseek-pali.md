@@ -135,7 +135,7 @@ Having been asked, O Blessed One, please explain this to me."
 ‘‘Bāhitvā sabbapāpakāni, (sabhiyāti bhagavā)Vimalo sādhusamāhito ṭhitatto;Saṃsāramaticca kevalī so,Asito tādi pavuccate sa brahmā.
 
 "Having banished all evil deeds," (the Blessed One said to Sabhiya)
-"stainless, well-concentrated, of steadfast nature;
+"stainless, well-collected, of steadfast nature;
 having crossed beyond saṃsāra, accomplished, unattached—
 such a one is rightly called a brahmin.
 

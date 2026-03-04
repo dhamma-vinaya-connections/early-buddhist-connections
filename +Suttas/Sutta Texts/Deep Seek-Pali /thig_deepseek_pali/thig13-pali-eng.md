@@ -160,7 +160,7 @@ Learned, upholders of the Dhamma, noble ones living the Dhamma; they teach the m
 280.
 ‘‘Bahussutā dhammadharā, ariyā dhammajīvino;Ekaggacittā satimanto, tena me samaṇā piyā.
 
-Learned, upholders of the Dhamma, noble ones living the Dhamma; with concentrated minds and mindful; therefore ascetics are dear to me.
+Learned, upholders of the Dhamma, noble ones living the Dhamma; with collected minds and mindful; therefore ascetics are dear to me.
 
 281.
 ‘‘Dūraṅgamā satimanto, mantabhāṇī anuddhatā;Dukkhassantaṃ pajānanti, tena me samaṇā piyā.

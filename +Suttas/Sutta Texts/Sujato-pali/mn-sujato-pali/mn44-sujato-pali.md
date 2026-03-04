@@ -81,11 +81,11 @@ Then the layman Visākha went to see the nun Dhammadinnā, bowed, sat down to on
 
 21“But ma’am, what is the physical process? What’s the verbal process? What’s the mental process?”
 
-22“Breathing is a physical process. Placing the mind and keeping it connected are verbal processes. Perception and feeling are mental processes.”
+22“Breathing is a physical process. thinking and considering are verbal processes. Perception and feeling are mental processes.”
 
-23“But ma’am, why is breathing a physical process? Why are placing the mind and keeping it connected verbal processes? Why are perception and feeling mental processes?”
+23“But ma’am, why is breathing a physical process? Why are thinking and considering verbal processes? Why are perception and feeling mental processes?”
 
-24“Breathing is physical. It’s tied up with the body, that’s why breathing is a physical process. First you place the mind and keep it connected, then you break into speech. That’s why placing the mind and keeping it connected are verbal processes. Perception and feeling are mental. They’re tied up with the mind, that’s why perception and feeling are mental processes.”
+24“Breathing is physical. It’s tied up with the body, that’s why breathing is a physical process. First you place the mind and keep it connected, then you break into speech. That’s why thinking and considering are verbal processes. Perception and feeling are mental. They’re tied up with the mind, that’s why perception and feeling are mental processes.”
 
 
 25“But ma’am, how does someone attain the cessation of perception and feeling?”
@@ -150,7 +150,7 @@ Then the layman Visākha went to see the nun Dhammadinnā, bowed, sat down to on
 50“No, not in all instances.
 
 
-Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. With this they give up greed, and the underlying tendency to greed does not lie within that.
+Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. With this they give up greed, and the underlying tendency to greed does not lie within that.
 
 And take a mendicant who reflects: ‘Oh, when will I enter and remain in the same dimension that the noble ones enter and remain in today?’ Nursing such a longing for the supreme liberations gives rise to sadness due to longing.
 

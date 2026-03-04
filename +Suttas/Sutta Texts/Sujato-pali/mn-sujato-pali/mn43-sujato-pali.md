@@ -98,7 +98,7 @@ Then in the late afternoon, Venerable Mahākoṭṭhita came out of retreat, wen
 
 32“But what, reverend, is the first absorption?”
 
-33“Reverend, it’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. This is called the first absorption.”
+33“Reverend, it’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. This is called the first absorption.”
 
 34“But how many factors does the first absorption have?”
 

@@ -68,11 +68,11 @@ language: "English - Pali"
 
 ‘‘Taṃ kissa hetu? Catunnaṃ dhammānaṃ ananubodhā appaṭivedhā. Katamesaṃ catunnaṃ? Ariyassa, bhikkhave, sīlassa ananubodhā appaṭivedhā, ariyassa samādhissa ananubodhā appaṭivedhā, ariyāya paññāya ananubodhā appaṭivedhā, ariyāya vimuttiyā ananubodhā appaṭivedhā. Tayidaṃ, bhikkhave, ariyaṃ sīlaṃ anubuddhaṃ paṭividdhaṃ, ariyo samādhi anubodho paṭividdho, ariyā paññā anubodhā paṭividdhā, ariyā vimutti anubodhā paṭividdhā, ucchinnā bhavataṇhā, khīṇā bhavanetti, natthi dāni punabbhavo’’ti. Idamavoca bhagavā. Idaṃ vatvāna sugato athāparaṃ etadavoca satthā –
 
-“For what reason? Because of not comprehending and not penetrating four things. Which four? Because of not comprehending and not penetrating noble virtue, bhikkhus; because of not comprehending and not penetrating noble concentration; because of not comprehending and not penetrating noble wisdom; because of not comprehending and not penetrating noble liberation. But when, bhikkhus, this noble virtue is comprehended and penetrated, this noble concentration is comprehended and penetrated, this noble wisdom is comprehended and penetrated, this noble liberation is comprehended and penetrated, the craving for existence is cut off, the conduit to existence is destroyed, and there is no more renewed existence.” This is what the Blessed One said. Having said this, the Sugata, the Teacher, further said this:
+“For what reason? Because of not comprehending and not penetrating four things. Which four? Because of not comprehending and not penetrating noble virtue, bhikkhus; because of not comprehending and not penetrating noble samādhi; because of not comprehending and not penetrating noble wisdom; because of not comprehending and not penetrating noble liberation. But when, bhikkhus, this noble virtue is comprehended and penetrated, this noble samādhi is comprehended and penetrated, this noble wisdom is comprehended and penetrated, this noble liberation is comprehended and penetrated, the craving for existence is cut off, the conduit to existence is destroyed, and there is no more renewed existence.” This is what the Blessed One said. Having said this, the Sugata, the Teacher, further said this:
 
 ‘‘Sīlaṃ samādhi paññā ca, vimutti ca anuttarā;Anubuddhā ime dhammā, gotamena yasassinā.
 
-“Virtue, concentration, wisdom, and unsurpassed liberation: These qualities were comprehended by Gotama, the glorious one.
+“Virtue, samādhi, wisdom, and unsurpassed liberation: These qualities were comprehended by Gotama, the glorious one.
 
 ‘‘Iti buddho abhiññāya, dhammamakkhāsi bhikkhunaṃ;Dukkhassantakaro satthā, cakkhumā parinibbuto’’ti. dutiyaṃ;
 

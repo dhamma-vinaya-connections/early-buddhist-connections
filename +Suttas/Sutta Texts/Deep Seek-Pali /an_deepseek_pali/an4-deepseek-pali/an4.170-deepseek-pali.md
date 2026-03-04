@@ -36,7 +36,7 @@ language: "English - Pali"
 
 ‘‘Puna caparaṃ, āvuso, bhikkhuno dhammuddhaccaviggahitaṃ mānasaṃ hoti. Hoti so, āvuso, samayo yaṃ taṃ cittaṃ ajjhattameva santiṭṭhati sannisīdati ekodi hoti samādhiyati. Tassa maggo sañjāyati. So taṃ maggaṃ āsevati bhāveti bahulīkaroti. Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantīhonti.
 
-Again, friends, a monk’s mind is beset by agitation concerning the Dhamma. There comes a time, friends, when that mind internally settles down, becomes still, unified, and concentrated. For him, the path springs up. He cultivates, develops, and pursues that path. As he cultivates, develops, and pursues that path, the fetters are abandoned, and the underlying tendencies are eliminated.
+Again, friends, a monk’s mind is beset by agitation concerning the Dhamma. There comes a time, friends, when that mind internally settles down, becomes still, unified, and collected. For him, the path springs up. He cultivates, develops, and pursues that path. As he cultivates, develops, and pursues that path, the fetters are abandoned, and the underlying tendencies are eliminated.
 
 ‘‘Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā mama santike arahattappattiṃ byākaroti, sabbo so imehi catūhi maggehi, etesaṃ vā aññatarenā’’ti. Dasamaṃ.
 

@@ -47,7 +47,7 @@ Thus I have taught the Dhamma by means of exposition. When I have taught the Dha
 
 “Though there are those who say, ‘They experience this as the highest existing pleasure & joy,’ I do not grant them that. Why is that? Because there is another pleasure more excellent than that pleasure and more sublime.
 
-“And which, Ānanda, is the other pleasure more excellent than that pleasure and more sublime? There is the case where, with the stilling of directed thoughts & evaluations, a monk enters & remains in the second jhāna: rapture & pleasure born of concentration, unification of awareness free from directed thought & evaluation—internal assurance. This is the other pleasure more excellent than that pleasure and more sublime.
+“And which, Ānanda, is the other pleasure more excellent than that pleasure and more sublime? There is the case where, with the stilling of directed thoughts & evaluations, a monk enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. This is the other pleasure more excellent than that pleasure and more sublime.
 
 “Though there are those who say, ‘They experience this as the highest existing pleasure & joy,’ I do not grant them that. Why is that? Because there is another pleasure more excellent than that pleasure and more sublime.
 

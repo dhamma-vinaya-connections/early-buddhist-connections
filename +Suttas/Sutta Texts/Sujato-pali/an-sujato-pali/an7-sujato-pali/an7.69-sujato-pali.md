@@ -41,10 +41,10 @@ language: "English - Pali"
 
 10When a noble disciple shaves off their hair and beard, dresses in ocher robes, and goes forth from the lay life to homelessness, they’re like the Shady Orchid Tree when its leaves fall.
 
-11When a noble disciple, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected, they’re like the Shady Orchid Tree when its foliage starts to regrow.
+11When a noble disciple, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering, they’re like the Shady Orchid Tree when its foliage starts to regrow.
 
 
-12When, as the placing of the mind and keeping it connected are stilled, a noble disciple enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected, they’re like the Shady Orchid Tree when it’s ready to grow flowers and leaves separately.
+12When, as the placing of the mind and keeping it connected are stilled, a noble disciple enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering, they’re like the Shady Orchid Tree when it’s ready to grow flowers and leaves separately.
 
 13When, with the fading away of rapture, a noble disciple enters and remains in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss’, they’re like the Shady Orchid Tree when its buds start to form.
 

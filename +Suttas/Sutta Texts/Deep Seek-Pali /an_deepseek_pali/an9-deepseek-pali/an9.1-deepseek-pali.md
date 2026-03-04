@@ -40,7 +40,7 @@ language: "English - Pali"
 
 ‘‘Puna caparaṃ, āvuso, bhikkhu yāyaṃ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṃ – appicchakathā santuṭṭhikathā pavivekakathā asaṃsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī. Sambodhipakkhikānaṃ, āvuso, dhammānaṃ ayaṃ tatiyā upanisā bhāvanāya.
 
-"Furthermore, friends, a bhikkhu obtains at will, without difficulty or trouble, talk that is conducive to effacing defilements and to the mind's liberation, namely talk on fewness of wishes, talk on contentment, talk on seclusion, talk on non-association, talk on energetic exertion, talk on virtue, talk on concentration, talk on wisdom, talk on liberation, talk on the knowledge and vision of liberation. This, friends, is the third supporting condition for the development of the qualities that partake of enlightenment."
+"Furthermore, friends, a bhikkhu obtains at will, without difficulty or trouble, talk that is conducive to effacing defilements and to the mind's liberation, namely talk on fewness of wishes, talk on contentment, talk on seclusion, talk on non-association, talk on energetic exertion, talk on virtue, talk on samādhi, talk on wisdom, talk on liberation, talk on the knowledge and vision of liberation. This, friends, is the third supporting condition for the development of the qualities that partake of enlightenment."
 
 ‘‘Puna caparaṃ, āvuso, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Sambodhipakkhikānaṃ, āvuso, dhammānaṃ ayaṃ catutthī upanisā bhāvanāya.
 
@@ -56,7 +56,7 @@ language: "English - Pali"
 
 ‘‘Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa – yāyaṃ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṃ – appicchakathā santuṭṭhikathā pavivekakathā asaṃsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī bhavissati akicchalābhī akasiralābhī.
 
-"Monks, this is to be expected of a monk who has good friends, good companions, good comrades: that he will obtain at will, without difficulty or trouble, such talk as is for spiritual refinement and for opening the heart—that is, talk about wanting little, talk about contentment, talk about seclusion, talk about non-entanglement, talk about arousing energy, talk about virtue, talk about concentration, talk about wisdom, talk about liberation, talk about the knowledge and vision of liberation."
+"Monks, this is to be expected of a monk who has good friends, good companions, good comrades: that he will obtain at will, without difficulty or trouble, such talk as is for spiritual refinement and for opening the heart—that is, talk about wanting little, talk about contentment, talk about seclusion, talk about non-entanglement, talk about arousing energy, talk about virtue, talk about samādhi, talk about wisdom, talk about liberation, talk about the knowledge and vision of liberation."
 
 ‘‘Kalyāṇamittassetaṃ, bhikkhave, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa – āraddhavīriyo viharissati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu.
 

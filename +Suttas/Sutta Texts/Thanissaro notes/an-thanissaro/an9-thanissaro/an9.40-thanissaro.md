@@ -29,7 +29,7 @@ In the same way, when a monk lives hemmed in with monks, nuns, male & female lay
 
 “Having abandoned these five hindrances—corruptions of awareness that weaken discernment—then quite secluded from sensuality, secluded from unskillful qualities, he enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. Gratified, he allays his itch.
 
-“With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of concentration, unification of awareness free from directed thought & evaluation—internal assurance. Gratified, he allays his itch.
+“With the stilling of directed thoughts & evaluations, he enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. Gratified, he allays his itch.
 
 “With the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ Gratified, he allays his itch.
 

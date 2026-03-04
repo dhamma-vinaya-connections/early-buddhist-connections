@@ -16,7 +16,7 @@ language: "English - Pali"
 
 242. ‘‘Sappurisaṃ, bhikkhave, nissāya cattāro ānisaṃsā pāṭikaṅkhā. Katame cattāro? Ariyena sīlena vaḍḍhati, ariyena samādhinā vaḍḍhati, ariyāya paññāya vaḍḍhati, ariyāya vimuttiyā vaḍḍhati – sappurisaṃ, bhikkhave, nissāya ime cattāro ānisaṃsā pāṭikaṅkhā’’ti. Ekādasamaṃ.
 
-242.“Monks, by relying on a good person, four benefits are to be expected. What four? He grows in noble virtue, he grows in noble concentration, he grows in noble wisdom, and he grows in noble liberation. Monks, by relying on a good person, these four benefits are to be expected.” The Eleventh.
+242.“Monks, by relying on a good person, four benefits are to be expected. What four? He grows in noble virtue, he grows in noble samādhi, he grows in noble wisdom, and he grows in noble liberation. Monks, by relying on a good person, these four benefits are to be expected.” The Eleventh.
 
 Kammavaggo catuttho.
 

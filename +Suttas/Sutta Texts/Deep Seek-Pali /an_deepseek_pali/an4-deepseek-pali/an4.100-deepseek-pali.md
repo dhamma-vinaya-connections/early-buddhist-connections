@@ -48,7 +48,7 @@ The Summary:
 
 Asuro tayo samādhī, chavālātena pañcamaṃ;Rāgo nisanti attahitaṃ, sikkhā potaliyena cāti.
 
-Three Asuras, three concentrations, Chavālāta with the fifth; lust, Nisanti, self-welfare, and training with Potaliya.
+Three Asuras, three samādhis, Chavālāta with the fifth; lust, Nisanti, self-welfare, and training with Potaliya.
 
 Dutiyapaṇṇāsakaṃ samattaṃ.
 

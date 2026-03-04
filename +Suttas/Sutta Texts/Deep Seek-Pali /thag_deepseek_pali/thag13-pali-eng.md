@@ -25,7 +25,7 @@ One should cut off five, abandon five, and cultivate five further. A bhikkhu who
 634.
 ‘‘Unnaḷassa pamattassa, bāhirāsassa [bāhirāsayassa (ka.)] bhikkhuno;Sīlaṃ samādhi paññā ca, pāripūriṃ na gacchati.
 
-For an arrogant and heedless bhikkhu, one whose aspirations are directed externally, virtue, concentration, and wisdom do not come to fulfillment.
+For an arrogant and heedless bhikkhu, one whose aspirations are directed externally, virtue, samādhi, and wisdom do not come to fulfillment.
 
 635.
 ‘‘Yañhi kiccaṃ apaviddhaṃ [tadapaviddhaṃ (sī. syā.)], akiccaṃ pana karīyati;Unnaḷānaṃ pamattānaṃ, tesaṃ vaḍḍhanti āsavā.

@@ -184,7 +184,7 @@ Through conviction
 
 virtue, persistence,
 
-concentration, judgment,
+samādhi, judgment,
 
 consummate in knowledge & conduct,
 

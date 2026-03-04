@@ -18,9 +18,9 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time venerable Subhūti was sitting not far away from the Gracious One, after folding his legs crosswise, and setting his body straight, having attained a concentration free from thought.
+1Thus I heard: At one time the Gracious One was dwelling near Sāvatthī, in Jeta's Wood, at Anāthapiṇḍika's monastery. Then at that time venerable Subhūti was sitting not far away from the Gracious One, after folding his legs crosswise, and setting his body straight, having attained a samādhi free from thought.
 
-2The Gracious One saw venerable Subhūti sat not far away, after folding his legs crosswise, and setting his body straight, who had attained a concentration free from thought.
+2The Gracious One saw venerable Subhūti sat not far away, after folding his legs crosswise, and setting his body straight, who had attained a samādhi free from thought.
 
 3Then the Gracious One, having understood the significance of it, on that occasion uttered this exalted utterance:
 

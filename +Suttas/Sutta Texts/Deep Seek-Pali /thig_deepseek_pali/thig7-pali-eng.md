@@ -29,7 +29,7 @@ language: "Pali"
 177.
 ‘‘‘Cittaṃ upaṭṭhapetvāna, ekaggaṃ susamāhitaṃ;Paccavekkhatha saṅkhāre, parato no ca attato’.
 
-‘Having established the mind, one-pointed and well-concentrated, contemplate conditioned phenomena as other, not as self.’
+‘Having established the mind, one-pointed and well-collected, contemplate conditioned phenomena as other, not as self.’
 
 178.
 ‘‘Tassāhaṃ vacanaṃ sutvā, paṭācārānusāsaniṃ;Pāde pakkhālayitvāna, ekamante upāvisiṃ. Hearing her words, Paṭācārā’s instruction, I washed my feet and sat down to one side.

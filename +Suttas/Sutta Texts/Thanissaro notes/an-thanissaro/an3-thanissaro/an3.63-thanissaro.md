@@ -47,7 +47,7 @@ language: "English"
 
 “There is a path, there is a practice, that leads to the abandoning and overcoming of these three mother-&-child-uniting dangers and these three mother-&-child-separating dangers.
 
-“And which is that path, which is that practice…? Just this very noble eightfold path, i.e., right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+“And which is that path, which is that practice…? Just this very noble eightfold path, i.e., right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
 
 “This is the path, this the practice, that leads to the abandoning and overcoming of these three mother-&-child-uniting dangers and these three mother-&-child-separating dangers.”
 

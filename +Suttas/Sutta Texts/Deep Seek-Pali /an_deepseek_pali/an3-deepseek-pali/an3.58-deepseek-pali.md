@@ -32,7 +32,7 @@ language: "English - Pali"
 
 ‘‘Katamehi pañcahi aṅgehi samannāgato hoti? Asekkhena sīlakkhandhena samannāgato hoti, asekkhena samādhikkhandhena samannāgato hoti, asekkhena paññākkhandhena samannāgato hoti, asekkhena vimuttikkhandhena samannāgato hoti, asekkhena vimuttiñāṇadassanakkhandhena samannāgato hoti; imehi pañcahi aṅgehi samannāgato hoti. Iti pañcaṅgavippahīne pañcaṅgasamannāgate dinnaṃ mahapphalanti vadāmī’’ti.
 
-“Endowed with which five factors? He is endowed with the virtue of one beyond training, the concentration of one beyond training, the wisdom of one beyond training, the liberation of one beyond training, and the knowledge and vision of liberation of one beyond training. He is endowed with these five factors. Thus, I declare that a gift given to one who has abandoned the five factors and possesses the five factors is of great fruit.”
+“Endowed with which five factors? He is endowed with the virtue of one beyond training, the samādhi of one beyond training, the wisdom of one beyond training, the liberation of one beyond training, and the knowledge and vision of liberation of one beyond training. He is endowed with these five factors. Thus, I declare that a gift given to one who has abandoned the five factors and possesses the five factors is of great fruit.”
 
 ‘‘Iti kaṇhāsu setāsu, rohiṇīsu harīsu vā;Kammāsāsu sarūpāsu, gosu pārevatāsu vā.
 

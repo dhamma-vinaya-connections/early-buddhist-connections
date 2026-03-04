@@ -20,7 +20,7 @@ language: "English - Pali"
 
 ‘‘Yāvakīvañca, bhikkhave, bhikkhū dhammavicayasambojjhaṅgaṃ bhāvessanti…pe… vīriyasambojjhaṅgaṃ bhāvessanti… pītisambojjhaṅgaṃ bhāvessanti… passaddhisambojjhaṅgaṃ bhāvessanti… samādhisambojjhaṅgaṃ bhāvessanti… upekkhāsambojjhaṅgaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni. ‘‘Yāvakīvañca, bhikkhave, ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihānī’’ti. Chaṭṭhaṃ.
 
-"As long, monks, as the monks cultivate the enlightenment factor of investigation of states... the enlightenment factor of energy... the enlightenment factor of rapture... the enlightenment factor of tranquility... the enlightenment factor of concentration... the enlightenment factor of equanimity, only growth is to be expected for the monks, not decline." "Monks, as long as these seven conditions of non-decline remain among the monks, and as long as the monks are seen to adhere to these seven conditions of non-decline, only growth, monks, is to be expected for the monks, not decline." The sixth.
+"As long, monks, as the monks cultivate the enlightenment factor of investigation of states... the enlightenment factor of energy... the enlightenment factor of rapture... the enlightenment factor of tranquility... the enlightenment factor of samādhi... the enlightenment factor of equanimity, only growth is to be expected for the monks, not decline." "Monks, as long as these seven conditions of non-decline remain among the monks, and as long as the monks are seen to adhere to these seven conditions of non-decline, only growth, monks, is to be expected for the monks, not decline." The sixth.
 
 
 ---

@@ -16,12 +16,12 @@ language: "Pali"
 1054.
 ‘‘Na gaṇena purakkhato care, vimano hoti samādhi dullabho;Nānājanasaṅgaho dukho, iti disvāna gaṇaṃ na rocaye.
 
-One should not walk about honored by a group, for the mind becomes dejected and concentration is hard to gain. Association with various people is painful—seeing this, one should not delight in a group.
+One should not walk about honored by a group, for the mind becomes dejected and samādhi is hard to gain. Association with various people is painful—seeing this, one should not delight in a group.
 
 1055.
 ‘‘Na kulāni upabbaje muni, vimano hoti samādhi dullabho;So ussukko rasānugiddho, atthaṃ riñcati yo sukhāvaho.
 
-A sage should not frequent families, for the mind becomes dejected and concentration is hard to gain. One who is zealous and greedy for flavors relinquishes the goal that brings happiness.
+A sage should not frequent families, for the mind becomes dejected and samādhi is hard to gain. One who is zealous and greedy for flavors relinquishes the goal that brings happiness.
 
 1056.
 ‘‘Paṅkoti hi naṃ avedayuṃ, yāyaṃ vandanapūjanā kulesu;Sukhumaṃ salla durubbahaṃ, sakkāro kāpurisena dujjaho.
@@ -174,7 +174,7 @@ Not arrogant and not fickle, prudent, with restrained senses, he shines in his d
 These are many devas, powerful and glorious, ten thousand devas, all of them of the Brahma group.
 
 1086.
-‘‘Dhammasenāpatiṃ vīraṃ, mahājhāyiṃ samāhitaṃ;Sāriputtaṃ namassantā, tiṭṭhanti pañjalīkatā. They stand with hands raised in salutation, paying homage to Sāriputta, the heroic General of the Dhamma, the great meditator, the concentrated one.
+‘‘Dhammasenāpatiṃ vīraṃ, mahājhāyiṃ samāhitaṃ;Sāriputtaṃ namassantā, tiṭṭhanti pañjalīkatā. They stand with hands raised in salutation, paying homage to Sāriputta, the heroic General of the Dhamma, the great meditator, the collected one.
 
 
 1087.

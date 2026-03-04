@@ -47,7 +47,7 @@ A similar theory attributes the irruption of mental states to the provocation of
 
 Even unbinding is described as a property ([[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti44-thanissaro]]). However, there is a crucial difference in how unbinding is attained, in that the unbinding property is not provoked. Any events that depend on the provocation of a property are inherently unstable and inconstant, subject to change when the provocation ends. But because true release is not caused by the provocation of anything, it is not subject to change.
 
-2. When the mind is released from hindrances as it enters concentration, when it is released from the factors of lower levels of concentration as it enters higher levels of concentration, and when it is released from the fetters on reaching awakening.
+2. When the mind is released from hindrances as it enters samādhi, when it is released from the factors of lower levels of samādhi as it enters higher levels of samādhi, and when it is released from the fetters on reaching awakening.
 
 See also: [[mn29-thanissaro]]; [[an4.245-thanissaro]]; [[an9.34-thanissaro]]; 
 

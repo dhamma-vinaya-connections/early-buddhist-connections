@@ -16,7 +16,7 @@ language: "English - Pali"
 
 276. ‘‘Rāgassa, bhikkhave, abhiññāya cattāro dhammā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti; vīriyasamādhi…pe… cittasamādhi…pe… vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Rāgassa, bhikkhave, abhiññāya ime cattāro dhammā bhāvetabbā’’ti. Tatiyaṃ.
 
-276.“For the direct knowledge of lust, bhikkhus, four qualities are to be developed. What four are they? Here, bhikkhus, a bhikkhu develops the basis of spiritual power endowed with concentration due to desire and the volitional formations of striving. He develops the basis of spiritual power endowed with concentration due to energy and the volitional formations of striving… concentration due to mind and the volitional formations of striving… concentration due to investigation and the volitional formations of striving. For the direct knowledge of lust, bhikkhus, these four qualities are to be developed.” This is the third.
+276.“For the direct knowledge of lust, bhikkhus, four qualities are to be developed. What four are they? Here, bhikkhus, a bhikkhu develops the basis of spiritual power endowed with samādhi due to desire and the volitional formations of striving. He develops the basis of spiritual power endowed with samādhi due to energy and the volitional formations of striving… samādhi due to mind and the volitional formations of striving… samādhi due to investigation and the volitional formations of striving. For the direct knowledge of lust, bhikkhus, these four qualities are to be developed.” This is the third.
 
 ## 4-30. Pariññādisuttāni
 

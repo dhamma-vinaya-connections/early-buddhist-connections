@@ -88,7 +88,7 @@ the release from all ties.
 
 28What three things are helpful? Associating with good people, listening to the true teaching, and practicing in line with the teaching.
 
-29What three things should be developed? Three kinds of immersion. Immersion with placing the mind and keeping it connected. Immersion without placing the mind, but just keeping it connected. Immersion without placing the mind or keeping it connected.
+29What three things should be developed? Three kinds of immersion. Immersion with thinking and considering. Immersion without placing the mind, but just keeping it connected. Immersion without placing the mind or keeping it connected.
 
 30What three things should be completely understood? Three feelings: pleasant, painful, and neutral.
 

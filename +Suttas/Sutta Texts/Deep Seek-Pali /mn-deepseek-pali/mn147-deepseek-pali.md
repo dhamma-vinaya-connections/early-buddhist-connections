@@ -44,7 +44,7 @@ For one who is unimpassioned, unfettered, and undeluded, dwelling contemplating 
 
 431. ‘‘Yā tathābhūtassa [yathābhūtassa (sī. pī.)] diṭṭhi sāssa hoti sammādiṭṭhi; yo tathābhūtassa [yathābhūtassa (sī. pī.)] saṅkappo svāssa hoti sammāsaṅkappo; yo tathābhūtassa [yathābhūtassa (sī. pī.)] vāyāmo svāssa hoti sammāvāyāmo; yā tathābhūtassa [yathābhūtassa (sī. pī.)] sati sāssa hoti sammāsati; yo tathābhūtassa [yathābhūtassa (sī. pī.)] samādhi svāssa hoti sammāsamādhi. Pubbeva kho panassa kāyakammaṃ vacīkammaṃ ājīvo suparisuddho hoti. Evamassāyaṃ ariyo aṭṭhaṅgiko maggo bhāvanāpāripūriṃ gacchati.
 
-431.For such a one, his view is right view; his thought is right thought; his effort is right effort; his mindfulness is right mindfulness; his concentration is right concentration. But earlier, his bodily action, verbal action, and livelihood were already perfectly purified. In this way, his Noble Eightfold Path goes to the fulfillment of development.”
+431.For such a one, his view is right view; his thought is right thought; his effort is right effort; his mindfulness is right mindfulness; his samādhi is right samādhi. But earlier, his bodily action, verbal action, and livelihood were already perfectly purified. In this way, his Noble Eightfold Path goes to the fulfillment of development.”
 
 ‘‘Tassa evaṃ imaṃ ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvayato cattāropi satipaṭṭhānā bhāvanāpāripūriṃ gacchanti, cattāropi sammappadhānā bhāvanāpāripūriṃ gacchanti, cattāropi iddhipādā bhāvanāpāripūriṃ gacchanti, pañcapi indriyāni bhāvanāpāripūriṃ gacchanti, pañcapi balāni bhāvanāpāripūriṃ gacchanti, sattapi bojjhaṅgā bhāvanāpāripūriṃ gacchanti.
 
@@ -80,7 +80,7 @@ For one who is unattached, unentangled, unconfused, dwelling contemplating the d
 
 433. ‘‘Yā tathābhūtassa diṭṭhi sāssa hoti sammādiṭṭhi; yo tathābhūtassa saṅkappo svāssa hoti sammāsaṅkappo; yo tathābhūtassa vāyāmo svāssa hoti sammāvāyāmo; yā tathābhūtassa sati sāssa hoti sammāsati; yo tathābhūtassa samādhi svāssa hoti sammāsamādhi. Pubbeva kho panassa kāyakammaṃ vacīkammaṃ ājīvo suparisuddho hoti. Evamassāyaṃ ariyo aṭṭhaṅgiko maggo bhāvanāpāripūriṃ gacchati.
 
-433.The view of one who is such becomes his right view; the intention of one who is such becomes his right intention; the effort of one who is such becomes his right effort; the mindfulness of one who is such becomes his right mindfulness; the concentration of one who is such becomes his right concentration. Prior to that, his bodily action, verbal action, and livelihood are thoroughly purified. Thus, this Noble Eightfold Path of his attains full development through cultivation.
+433.The view of one who is such becomes his right view; the intention of one who is such becomes his right intention; the effort of one who is such becomes his right effort; the mindfulness of one who is such becomes his right mindfulness; the samādhi of one who is such becomes his right samādhi. Prior to that, his bodily action, verbal action, and livelihood are thoroughly purified. Thus, this Noble Eightfold Path of his attains full development through cultivation.
 
 ‘‘Tassa evaṃ imaṃ ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvayato cattāropi satipaṭṭhānā bhāvanāpāripūriṃ gacchanti, cattāropi sammappadhānā bhāvanāpāripūriṃ gacchanti, cattāropi iddhipādā bhāvanāpāripūriṃ gacchanti, pañcapi indriyāni bhāvanāpāripūriṃ gacchanti, pañcapi balāni bhāvanāpāripūriṃ gacchanti, sattapi bojjhaṅgā bhāvanāpāripūriṃ gacchanti.
 

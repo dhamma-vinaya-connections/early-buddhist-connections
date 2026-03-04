@@ -298,7 +298,7 @@ vv. 935–954
 
 10. “Isn’t defeated, suffers no loss”—two meanings of the Pali phrase, _na jiyyati._ [↩︎](#^snp4-15-10-ref) ^snp4-15-10
 
-11. Nd I defines “perturbation” as meaning “craving,” and “unperturbed” as meaning unmoved by gain, loss, status, loss of status, praise, criticism, pleasure, or pain (see [[an8.6-thanissaro]]). However, when the Buddha discusses the meaning of “unperturbed” in [[/snp5.3-thanissaro]], he relates it to the practice of concentration. See [[/snp5.3-thanissaro]]. [↩︎](#^snp4-15-11-ref) ^snp4-15-11
+11. Nd I defines “perturbation” as meaning “craving,” and “unperturbed” as meaning unmoved by gain, loss, status, loss of status, praise, criticism, pleasure, or pain (see [[an8.6-thanissaro]]). However, when the Buddha discusses the meaning of “unperturbed” in [[/snp5.3-thanissaro]], he relates it to the practice of samādhi. See [[/snp5.3-thanissaro]]. [↩︎](#^snp4-15-11-ref) ^snp4-15-11
 
 12. _Sama._ See [[/snp1.12-thanissaro]]. [↩︎](#^snp4-15-12-ref) ^snp4-15-12
 

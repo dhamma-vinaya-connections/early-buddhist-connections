@@ -309,7 +309,7 @@ Venerable Kimbila said, “Bhagavān, I am doing well. There isn’t anything th
 
 99. “Aniruddha, I had the thought, ‘What disturbance in my mind causes me to lose samādhi and dispels my vision? After my vision is dispelled, so is my original apprehension of light and vision of forms, and that vision of forms and light soon disappears.’
 
-100. “Aniruddha, I practiced diligently and without indolence. Personally dwelling with right mindfulness and right knowledge and without any delusions, I attained a concentrated and unified mind. Aniruddha, I then thought, ‘I’ve practiced diligently and without indolence. Personally dwelling with right mindfulness and right knowledge and without any delusions, I’ve attained a concentrated and unified mind. If there were no awakening in the world, would that be something I could know and see?’
+100. “Aniruddha, I practiced diligently and without indolence. Personally dwelling with right mindfulness and right knowledge and without any delusions, I attained a collected and unified mind. Aniruddha, I then thought, ‘I’ve practiced diligently and without indolence. Personally dwelling with right mindfulness and right knowledge and without any delusions, I’ve attained a collected and unified mind. If there were no awakening in the world, would that be something I could know and see?’
 
 101. “This disturbance of doubt arose in my mind. As a result of this disturbance of doubt, I immediately lost samādhi, and my vision was dispelled. After my vision was dispelled, so was my original apprehension of light and vision of forms, and that vision of forms and light soon disappeared.
 

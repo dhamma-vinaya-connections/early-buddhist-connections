@@ -56,7 +56,7 @@ Meghiya, for the liberation of mind that is still unripe, five qualities conduce
 
 ‘‘Puna caparaṃ, meghiya, yāyaṃ kathā abhisallekhikā cetovivaraṇasappāyā, seyyathidaṃ – appicchakathā santuṭṭhikathā pavivekakathā asaṃsaggakathā vīriyārambhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī. Aparipakkāya, meghiya, cetovimuttiyā ayaṃ tatiyo dhammo paripakkāya saṃvattati.
 
-"Furthermore, Meghiya, one easily obtains, without trouble or difficulty, talk that is conducive to self-effacement and to the opening of the heart, namely, talk on having few desires, on contentment, on seclusion, on non-association, on arousing energy, on virtue, on concentration, on wisdom, on liberation, and on the knowledge and vision of liberation. For the liberation of mind that is still unripe, Meghiya, this is the third quality that conduces to its ripening."
+"Furthermore, Meghiya, one easily obtains, without trouble or difficulty, talk that is conducive to self-effacement and to the opening of the heart, namely, talk on having few desires, on contentment, on seclusion, on non-association, on arousing energy, on virtue, on samādhi, on wisdom, on liberation, and on the knowledge and vision of liberation. For the liberation of mind that is still unripe, Meghiya, this is the third quality that conduces to its ripening."
 
 ‘‘Puna caparaṃ, meghiya, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Aparipakkāya, meghiya, cetovimuttiyā ayaṃ catuttho dhammo paripakkāya saṃvattati.
 

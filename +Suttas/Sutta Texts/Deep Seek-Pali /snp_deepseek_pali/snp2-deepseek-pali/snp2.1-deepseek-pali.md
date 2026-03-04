@@ -36,13 +36,13 @@ Whatever wealth there is, here or hereafter, or whatever sublime jewel there is 
 
 Khayaṃ virāgaṃ amataṃ paṇītaṃ, yadajjhagā sakyamunī samāhito;Na tena dhammena samatthi kiñci, idampi dhamme ratanaṃ paṇītaṃ;Etena saccena suvatthi hotu.
 
-The cessation, dispassion, the deathless, the sublime, which the Sakyan sage attained while concentrated; there is nothing equal to that Dhamma. This, too, is a sublime jewel in the Dhamma; by this truth may there be well-being.
+The cessation, dispassion, the deathless, the sublime, which the Sakyan sage attained while collected; there is nothing equal to that Dhamma. This, too, is a sublime jewel in the Dhamma; by this truth may there be well-being.
 
 228.
 
 Yaṃ buddhaseṭṭho parivaṇṇayī suciṃ, samādhimānantarikaññamāhu;Samādhinā tena samo na vijjati, idampi dhamme ratanaṃ paṇītaṃ;Etena saccena suvatthi hotu.
 
-What the best of Buddhas praised as pure, which they called concentration with immediate result; no concentration equals that concentration. This, too, is a sublime jewel in the Dhamma; by this truth may there be well-being.
+What the best of Buddhas praised as pure, which they called samādhi with immediate result; no samādhi equals that samādhi. This, too, is a sublime jewel in the Dhamma; by this truth may there be well-being.
 
 229.
 

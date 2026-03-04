@@ -103,11 +103,11 @@ That is what the Blessed One said. Displeased, the monks did not delight in the 
 
 2. In this section of the list, “beings” denotes all living beings below the level of the gods. “Devas” denotes the beings in the sensual heavens. The remaining terms— Pajāpati, Brahmā, the Radiant devas, the Beautiful Black devas, the Sky-fruit devas, & the Conqueror—denote devas in the heavens of form & formlessness. [↩︎](#^mn1note02-ref) ^mn1note02
 
-3. The dimension of the infinitude of space, the dimension of the infinitude of consciousness, the dimension of nothingness, & the dimension of neither perception nor non-perception are four formless states that can be attained in concentration. [↩︎](#^mn1note03-ref) ^mn1note03
+3. The dimension of the infinitude of space, the dimension of the infinitude of consciousness, the dimension of nothingness, & the dimension of neither perception nor non-perception are four formless states that can be attained in samādhi. [↩︎](#^mn1note03-ref) ^mn1note03
 
 4. “The seen, the heard, the sensed, & the cognized” is a set of terms to cover all things experienced through the six senses. [↩︎](#^mn1note04-ref) ^mn1note04
 
-5. Singleness = experience in states of intense concentration (jhāna). Multiplicity = experience via the six senses. See [[mn137-thanissaro]]. [↩︎](#^mn1note05-ref) ^mn1note05
+5. Singleness = experience in states of intense samādhi (jhāna). Multiplicity = experience via the six senses. See [[mn137-thanissaro]]. [↩︎](#^mn1note05-ref) ^mn1note05
 
 6. “What is the All? Simply the eye & forms, ear & sounds, nose & aromas, tongue & flavors, body & tactile sensations, intellect & ideas. This is termed the All. Anyone who would say, ‘Repudiating this All, I will describe another,’ if questioned on what exactly might be the grounds for his assertion, would be unable to explain and, furthermore, would be put to grief. Why is that? Because it lies beyond range.” _—[[sn35-44-thanissaro/sn35-thanissaro/sn35.23-thanissaro]]_ [↩︎](#^mn1note06-ref) ^mn1note06
 

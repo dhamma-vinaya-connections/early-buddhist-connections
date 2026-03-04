@@ -18,7 +18,7 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Rājagaha, in Bamboo Wood, at the Squirrels’ Feeding Place. Then at that time venerable Sāriputta and venerable Mahāmoggallāna were living at the Pigeon Vale. Then at that time venerable Sāriputta, on a moonlight night, with his hair freshly shaved off, was sitting in the open air, having attained a certain concentration.
+1Thus I heard: At one time the Gracious One was dwelling near Rājagaha, in Bamboo Wood, at the Squirrels’ Feeding Place. Then at that time venerable Sāriputta and venerable Mahāmoggallāna were living at the Pigeon Vale. Then at that time venerable Sāriputta, on a moonlight night, with his hair freshly shaved off, was sitting in the open air, having attained a certain samādhi.
 
 2Then at that time two yakkha friends were going from the Northern region to the Southern region, with some business or other. Those yakkhas saw venerable Sāriputta, on that moonlight night, with his hair freshly shaved off, sat in the open air.
 

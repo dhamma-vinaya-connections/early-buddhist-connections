@@ -309,7 +309,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - Systematic cultivation of ~: [[SN42.8]] , [[SN46.54]] , [[AN10.208]]
   - Practice of ~ as a door to the Deathless: [[MN52]] , [[AN11.17]]
   - Offering comfort and protection from the cold: [[THAG6]].2
-  - Five realizations that arise from concentration based on the ~: [[AN5.27]]
+  - Five realizations that arise from samādhi based on the ~: [[AN5.27]]
   - Practicing any one of the ~ can take one all the way to fourth jhana: [[AN8.63]]
   - " Head & Heart Together: Bringing Wisdom to the Brahma-viharas " (Thanissaro)
   - The Four Sublime States (Nyanaponika)
@@ -384,7 +384,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
 
 - **Conceit — see Mana .**
 
-- **Concentration — see Samadhi .**
+- **samādhi — see Samadhi .**
 
 - **Conflict . See also Anger ; Ill-will (vyapada ) ; Papañca ; War .**
   - Causes of: [[Sn4.8]] , [[Sn4.11]] , [[Sn4.15]]
@@ -853,7 +853,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - Saddha (conviction, faith )
   - Viriya (persistence, effort )
   - Sati (mindfulness )
-  - Samadhi (concentration )
+  - Samadhi (samādhi )
   - Pañña (discernment, wisdom )
   - A summary of the five faculties: [[SN48.10]]
   - See the suttas in the Indriya-samyutta of the Samyutta Nikaya
@@ -884,7 +884,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - " Right Attitude " (Suwat)
   - Breath Meditation Condensed (Kee)
   - Buddho (Thate)
-  - " The Path of Concentration and Mindfulness " (Thanissaro)
+  - " The Path of samādhi and Mindfulness " (Thanissaro)
   - " Quiet Breathing " in Food for Thought (Lee)
   - Starting Out Small: A Collection of Talks for Beginning Meditators (Lee)
   - Starting Out Small: A Collection of Talks for Beginning Meditators (Portfolio 2) (Lee)
@@ -913,7 +913,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - Fear of ~ should be even greater than fear of a dangerous cliff: [[SN56.42]]
   - The darkness of ~ is even greater than that of intergalactic space: [[SN56.46]]
 
-- **Jhana (meditative absorption) . See also Concentration ; Nivarana (Hindrances ) ; Noble silence ; Samatha (tranquillity, calm ) .**
+- **Jhana (meditative absorption) . See also samādhi ; Nivarana (Hindrances ) ; Noble silence ; Samatha (tranquillity, calm ) .**
   - And mindfulness: [[SN2.7]]
   - How ~ leads the meditator out from the confines of the mind: [[AN9.42]]
   - Role of ~ in the development of discernment: AN IX-44
@@ -931,13 +931,13 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - Formless attainments leading to Nibbana: [[MN52]] , [[MN106]] , [[AN11.17]]
   - Possible courses of rebirth from practicing ~: [[AN4.123]] , [[AN4.124]]
   - " Jhana " in the Path to Freedom pages
-  - " Right Concentration " in the Path to Freedom pages
+  - " Right samādhi " in the Path to Freedom pages
   - Dhamma talks by Thanissaro Bhikkhu: Meditations: Forty Dhamma Talks ; Meditations 2 ; Meditations 3 ; Meditations 4 ; Meditations 5
-  - " Right Concentration " (Suwat)
+  - " Right samādhi " (Suwat)
   - The Craft of the Heart (Lee)
   - The Jhanas in Theravada Buddhist Meditation (Gunaratana)
   - Keeping the Breath in Mind (Lee)
-  - " The Path of Concentration and Mindfulness " (Thanissaro)
+  - " The Path of samādhi and Mindfulness " (Thanissaro)
   - " Jhana Not by the Numbers " (Thanissaro)
 
 - **Joy . See also Piti (rapture;bliss) .**
@@ -1334,16 +1334,16 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - Giving to one who has abandoned the ~ brings good results: [[SN3.24]]
   - ~ are to be conquered in all postures: [[Iti111]]
   - Like canals dissipating the force of a river current: [[AN5.51]]
-  - " Concentration: Abandoning the Hindrances " in The Wings to Awakening (Thanissaro)
+  - " samādhi: Abandoning the Hindrances " in The Wings to Awakening (Thanissaro)
   - The Elimination of Anger (Piyatissa)
   - The Five Mental Hindrances and Their Conquest (Nyanaponika)
   - " The Mind Aflame " in Food for Thought (Lee)
   - The Removal of Distracting Thoughts (Soma)
-  - " Right Concentration " (Suwat)
+  - " Right samādhi " (Suwat)
 
 - **Noble Eightfold Path (ariya-atthangika magga). See also Bodhipakkhiya-dhamma .**
   - " [[The4t]]h Noble Truth " in the Path to Freedom pages
-  - The individual factors of the Path: Right View (Samma-ditthi). Conditions for the arising of ~: [[MN43]] " Right View " in the Path to Freedom pages What is Right View?: [[MN9]] ~ is to be used to the point of overcoming attachment to all views: [[Sn4.3]] As a tool: " Beyond Right and Wrong " in Inner Strength (Lee) " From Views to Vision " (Bodhi) Right Resolve/Intention (Samma-sankappo). See also Non-harming . " Right Resolve " in the Path to Freedom pages ~ is to be maintained in all postures: [[Iti110]] " The Road to Nirvana is Paved with Skillful Intentions " (Thanissaro) Right Speech (Samma-vaca). See also Speech . Speak only words that do no harm: [[Thag21]] " Right Speech " in the Path to Freedom pages " Right Speech " (Thanissaro) "Noble Conversation" (Study Guide) Right Action (Samma-kammanto). " Right Action " in the Path to Freedom pages Right Livelihood (Samma-ajivo). " Right Livelihood " in the Path to Freedom pages " Right Livelihood: The Noble Eightfold Path in the Working Life " (Jootla) Right Effort (Samma-vayamo). " Right Effort " in the Path to Freedom pages Right Mindfulness (Samma-sati). " Right Mindfulness " in the Path to Freedom pages Right Concentration (Samma-samadhi). " Right Concentration " in the Path to Freedom pages The central role of ~ in the Eightfold Path: [[MN117]]
+  - The individual factors of the Path: Right View (Samma-ditthi). Conditions for the arising of ~: [[MN43]] " Right View " in the Path to Freedom pages What is Right View?: [[MN9]] ~ is to be used to the point of overcoming attachment to all views: [[Sn4.3]] As a tool: " Beyond Right and Wrong " in Inner Strength (Lee) " From Views to Vision " (Bodhi) Right Resolve/Intention (Samma-sankappo). See also Non-harming . " Right Resolve " in the Path to Freedom pages ~ is to be maintained in all postures: [[Iti110]] " The Road to Nirvana is Paved with Skillful Intentions " (Thanissaro) Right Speech (Samma-vaca). See also Speech . Speak only words that do no harm: [[Thag21]] " Right Speech " in the Path to Freedom pages " Right Speech " (Thanissaro) "Noble Conversation" (Study Guide) Right Action (Samma-kammanto). " Right Action " in the Path to Freedom pages Right Livelihood (Samma-ajivo). " Right Livelihood " in the Path to Freedom pages " Right Livelihood: The Noble Eightfold Path in the Working Life " (Jootla) Right Effort (Samma-vayamo). " Right Effort " in the Path to Freedom pages Right Mindfulness (Samma-sati). " Right Mindfulness " in the Path to Freedom pages Right samādhi (Samma-samadhi). " Right samādhi " in the Path to Freedom pages The central role of ~ in the Eightfold Path: [[MN117]]
   - The Craft of the Heart (part II) (Lee)
   - " The Noble Eightfold Path " in The Wings to Awakening (Thanissaro)
   - The Noble Eightfold Path: The Way to the End of Suffering (Bodhi)
@@ -1425,7 +1425,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
 - **Pañña (discernment, wisdom). See also Paramis ; Wise person .**
   - Eye of ~: [[MN43]]
   - Eight requisite conditions for ~: [[AN8.2]]
-  - Which comes first: concentration or ~?: [[AN3.73]]
+  - Which comes first: samādhi or ~?: [[AN3.73]]
   - Goes hand-in-hand with jhana: [[DHP|DHP372]]
   - As a treasure: [[AN7.6]]
   - " Discernment " in The Wings to Awakening (Thanissaro)
@@ -1716,7 +1716,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
 
 - **Right Action — see Noble Eightfold Path .**
 
-- **Right Concentration — see Noble Eightfold Path .**
+- **Right samādhi — see Noble Eightfold Path .**
 
 - **Right Effort — see Noble Eightfold Path .**
 
@@ -1786,8 +1786,8 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - How becoming consummate in the ~ leads to Awakening: [[SN35.153]]
   - See the suttas in the Salayatana-samyutta of the Samyutta Nikaya.
 
-- **Samadhi (concentration). See also Jhana ; Samatha (tranquillity, calm ) .**
-  - " Right Concentration " in the Path to Freedom pages
+- **Samadhi (samādhi). See also Jhana ; Samatha (tranquillity, calm ) .**
+  - " Right samādhi " in the Path to Freedom pages
   - " Jhana " in the Path to Freedom pages
   - ~ is to be developed in all postures: [[Iti111]]
   - ~ is a progressive practice: [[MN66]]
@@ -1797,13 +1797,13 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - How ~ leads to discernment: [[SN22.5]]
   - Which comes first: ~ or wisdom?: [[AN3.73]]
   - Four developments of ~: [[AN4.41]]
-  - Wrong concentration (miccha-samadhi): " Loyalty to Your Meditation " (Lee)
+  - Wrong samādhi (miccha-samadhi): " Loyalty to Your Meditation " (Lee)
   - Basic Themes (Lee)
   - " Lessons in Samadhi " in Keeping the Breath in Mind (Lee)
   - Dhamma talks by Thanissaro Bhikkhu: Meditations: Forty Dhamma Talks ; Meditations 2 ; Meditations 3 ; Meditations 4 ; Meditations 5
-  - " The Path of Concentration and Mindfulness " (Thanissaro)
+  - " The Path of samādhi and Mindfulness " (Thanissaro)
 
-- **Samatha (tranquillity, calm). See also Samadhi (concentration ) ; Vipassana (insight ) .**
+- **Samatha (tranquillity, calm). See also Samadhi (samādhi ) ; Vipassana (insight ) .**
   - ~ is developed in tandem with vipassana (insight): [[SN35.205]] , [[AN2.30]] , [[AN4.170]] , [[AN10.71]]
   - Relation to vipassana (insight): " One Tool Among Many: The Place of Vipassana in Buddhist Practice " (Thanissaro)
 
@@ -1813,7 +1813,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
 - **Sampajañña (alertness).**
   - As a component of mindfulness: [[SN48.10]]
   - Frames of Reference (Lee)
-  - " The Path of Concentration and Mindfulness " (Thanissaro)
+  - " The Path of samādhi and Mindfulness " (Thanissaro)
 
 - **Samsara (the round of rebirth). See also Kamma (intentional action ) ; Paticca-samuppada (dependent co-arising ) ; Planes of Existence, Thirty-one .**
   - " The Round of Rebirth " in the Path to Freedom pages
@@ -1872,7 +1872,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - Definition of ~: [[SN48.10]]
   - As a quality of a great person: [[AN8.30]]
   - " Mindfulness Defined " (Thanissaro)
-  - " The Path of Concentration and Mindfulness " (Thanissaro)
+  - " The Path of samādhi and Mindfulness " (Thanissaro)
   - " The Agendas of Mindfulness " (Thanissaro)
   - The Power of Mindfulness (Nyanaponika)
 
@@ -2037,7 +2037,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - Passing away and reappearance of beings: [[DN2]] , [[DN11]]
   - Recollection of past lives: [[DN2]] , [[DN11]]
   - As a miracle: [[AN3.60]]
-  - As the fruit of five-factored noble concentration: [[AN5.28]]
+  - As the fruit of five-factored noble samādhi: [[AN5.28]]
   - How to reduce a pile of wood to its constituent elements: [[AN6.41]]
   - Drawbacks of ~: [[DN11]]
   - A monk displays his ~: [[SN41.4]]
@@ -2175,7 +2175,7 @@ The tilde (~) stands for the head-word in a given entry. Short essays and indivi
   - ~ with respect to the sense faculties: [[MN152]]
   - Three kinds of ~: [[SN36.31]]
   - Practicing ~ as a way to deal with annoying people: [[AN5.161]]
-  - " Equanimity in Concentration and Discernment " in The Wings to Awakening (Thanissaro)
+  - " Equanimity in samādhi and Discernment " in The Wings to Awakening (Thanissaro)
 
 - **Uposatha (observance day). See also Sila .**
   - " The Eight Precepts " in the Path to Freedom pages

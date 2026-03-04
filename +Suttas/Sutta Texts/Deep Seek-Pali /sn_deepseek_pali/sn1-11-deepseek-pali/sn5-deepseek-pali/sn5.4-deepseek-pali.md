@@ -16,7 +16,7 @@ language: "English - Pali"
 
 165. Sāvatthinidānaṃ. Atha kho vijayā bhikkhunī pubbaṇhasamayaṃ nivāsetvā…pe… aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. Atha kho māro pāpimā vijayāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo yena vijayā bhikkhunī tenupasaṅkami; upasaṅkamitvā vijayaṃ bhikkhuniṃ gāthāya ajjhabhāsi –
 
-165.At Savatthi. Then the bhikkhunī Vijayā, in the morning, having dressed… and sat down at the foot of a certain tree for the day’s abiding. Then Māra the Evil One, desiring to arouse fear, trepidation, and horror in the bhikkhunī Vijayā, desiring to make her fall away from concentration, approached her and addressed her in verse:
+165.At Savatthi. Then the bhikkhunī Vijayā, in the morning, having dressed… and sat down at the foot of a certain tree for the day’s abiding. Then Māra the Evil One, desiring to arouse fear, trepidation, and horror in the bhikkhunī Vijayā, desiring to make her fall away from samādhi, approached her and addressed her in verse:
 
 ‘‘Daharā tvaṃ rūpavatī, ahañca daharo susu;Pañcaṅgikena turiyena, ehayyebhiramāmase’’ti [ehi ayye ramāmaseti (sī.)].
 
@@ -24,7 +24,7 @@ language: "English - Pali"
 
 Atha kho vijayāya bhikkhuniyā etadahosi – ‘‘ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī’’ti? Atha kho vijayāya bhikkhuniyā etadahosi – ‘‘māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo gāthaṃ bhāsatī’’ti. Atha kho vijayā bhikkhunī ‘‘māro ayaṃ pāpimā’’ iti viditvā māraṃ pāpimantaṃ gāthāhi paccabhāsi –
 
-Then the bhikkhunī Vijayā thought: "Who is this, a human or a non-human, who speaks this verse?" Then the bhikkhunī Vijayā thought: "This is Māra the Evil One, desiring to arouse fear, trepidation, and horror in me, desiring to make me fall away from concentration, that he is speaking this verse." Then the bhikkhunī Vijayā, knowing, "This is Māra the Evil One," replied to Māra the Evil One with verses:
+Then the bhikkhunī Vijayā thought: "Who is this, a human or a non-human, who speaks this verse?" Then the bhikkhunī Vijayā thought: "This is Māra the Evil One, desiring to arouse fear, trepidation, and horror in me, desiring to make me fall away from samādhi, that he is speaking this verse." Then the bhikkhunī Vijayā, knowing, "This is Māra the Evil One," replied to Māra the Evil One with verses:
 
 ‘‘Rūpā saddā rasā gandhā, phoṭṭhabbā ca manoramā;Niyyātayāmi tuyheva, māra nāhaṃ tenatthikā.
 

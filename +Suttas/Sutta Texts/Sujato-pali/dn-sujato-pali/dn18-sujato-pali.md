@@ -48,7 +48,7 @@ Besides, the Buddha was awakened in Magadha; so why hasn’t he declared the reb
 5After pondering the fate of the Magadhan devotees alone in private, Ānanda rose at the crack of dawn and went to see the Buddha. He bowed, sat down to one side, and told the Buddha of his concerns, finishing by saying, “Why hasn’t the Buddha declared the rebirth of the Magadhan devotees? If he fails to do so, they will be dejected.” Then Ānanda, after making this suggestion regarding the Magadhan devotees, got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
 
 
-6Soon after Ānanda had left, the Buddha put on his outer robe in the morning and, taking his bowl and robe, entered Nādika for alms. He wandered for alms in Nādika. After the meal, on his return from alms-round, he washed his feet and entered the brick house. He paid heed, paid attention, and concentrated wholeheartedly on the fate of Magadhan devotees, and sat on the seat spread out, thinking: “I shall know their destiny, where they are reborn in the next life.” And he saw where they had been reborn.
+6Soon after Ānanda had left, the Buddha put on his outer robe in the morning and, taking his bowl and robe, entered Nādika for alms. He wandered for alms in Nādika. After the meal, on his return from alms-round, he washed his feet and entered the brick house. He paid heed, paid attention, and collected wholeheartedly on the fate of Magadhan devotees, and sat on the seat spread out, thinking: “I shall know their destiny, where they are reborn in the next life.” And he saw where they had been reborn.
 
 Then in the late afternoon, the Buddha came out of retreat. Emerging from the brick house, he sat on the seat spread out in the shade of the porch.
 

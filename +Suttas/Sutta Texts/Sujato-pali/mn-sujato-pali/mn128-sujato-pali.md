@@ -165,10 +165,10 @@ The Buddha said to Anuruddha: “I hope you’re keeping well, Anuruddha and fri
 
 29While meditating … ‘Perceptions of diversity arose in me … I’ll make sure that neither doubt nor loss of focus nor dullness and drowsiness nor terror nor excitement nor discomfort nor excessive energy nor overly lax energy nor longing nor perception of diversity will arise in me again.’
 
-30While meditating diligent, keen, and resolute, I perceived both light and vision of forms. But before long my light and vision of forms vanished. It occurred to me: ‘What’s the cause, what’s the reason why my light and vision of forms vanish?’ It occurred to me: ‘Excessive concentration on forms arose in me, and because of that my immersion fell away. When immersion falls away, the light and vision of forms vanish. I’ll make sure that neither doubt nor loss of focus nor dullness and drowsiness nor terror nor excitement nor discomfort nor excessive energy nor overly lax energy nor longing nor perception of diversity nor excessive concentration on forms will arise in me again.’
+30While meditating diligent, keen, and resolute, I perceived both light and vision of forms. But before long my light and vision of forms vanished. It occurred to me: ‘What’s the cause, what’s the reason why my light and vision of forms vanish?’ It occurred to me: ‘Excessive samādhi on forms arose in me, and because of that my immersion fell away. When immersion falls away, the light and vision of forms vanish. I’ll make sure that neither doubt nor loss of focus nor dullness and drowsiness nor terror nor excitement nor discomfort nor excessive energy nor overly lax energy nor longing nor perception of diversity nor excessive samādhi on forms will arise in me again.’
 
 
-31When I understood that doubt is a corruption of the mind, I gave it up. When I understood that loss of focus, dullness and drowsiness, terror, excitement, discomfort, excessive energy, overly lax energy, longing, perception of diversity, and excessive concentration on forms are corruptions of the mind, I gave them up.
+31When I understood that doubt is a corruption of the mind, I gave it up. When I understood that loss of focus, dullness and drowsiness, terror, excitement, discomfort, excessive energy, overly lax energy, longing, perception of diversity, and excessive samādhi on forms are corruptions of the mind, I gave them up.
 
 
 32While meditating diligent, keen, and resolute, I perceived light but did not see forms, or I saw forms, but did not see light. And this went on for a whole night, a whole day, even a whole night and day. I thought: ‘What is the cause, what is the reason for this?’ It occurred to me: ‘When I don’t focus on the foundation of the forms, but focus on the foundation of the light, then I perceive light and do not see forms. But when I don’t focus on the foundation of the light, but focus on the foundation of the forms, then I see forms and do not perceive light. And this goes on for a whole night, a whole day, even a whole night and day.’
@@ -176,10 +176,10 @@ The Buddha said to Anuruddha: “I hope you’re keeping well, Anuruddha and fri
 33While meditating diligent, keen, and resolute, I perceived limited light and saw limited forms, or I perceived limitless light and saw limitless forms. And this went on for a whole night, a whole day, even a whole night and day. I thought: ‘What is the cause, what is the reason for this?’ It occurred to me: ‘When my immersion is limited, then my vision is limited, and with limited vision I perceive limited light and see limited forms. But when my immersion is limitless, then my vision is limitless, and with limitless vision I perceive limitless light and see limitless forms. And this goes on for a whole night, a whole day, even a whole night and day.’
 
 
-34When I understood that doubt, loss of focus, dullness and drowsiness, terror, excitement, discomfort, excessive energy, overly lax energy, longing, perception of diversity, and excessive concentration on forms are corruptions of the mind, I gave them up.
+34When I understood that doubt, loss of focus, dullness and drowsiness, terror, excitement, discomfort, excessive energy, overly lax energy, longing, perception of diversity, and excessive samādhi on forms are corruptions of the mind, I gave them up.
 
 
-35I thought: ‘I’ve given up my mental corruptions. Now let me develop immersion in three ways.’ I developed immersion while placing the mind and keeping it connected; without placing the mind, but just keeping it connected; without placing the mind or keeping it connected; with rapture; without rapture; with pleasure; with equanimity.
+35I thought: ‘I’ve given up my mental corruptions. Now let me develop immersion in three ways.’ I developed immersion while thinking and considering; without placing the mind, but just keeping it connected; without placing the mind or keeping it connected; with rapture; without rapture; with pleasure; with equanimity.
 
 When I had developed immersion in these ways, the knowledge and vision arose in me: ‘My freedom is unshakable; this is my last rebirth; now there are no more future lives.’”
 

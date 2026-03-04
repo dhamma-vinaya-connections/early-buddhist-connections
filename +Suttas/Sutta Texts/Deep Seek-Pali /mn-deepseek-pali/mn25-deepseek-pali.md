@@ -92,7 +92,7 @@ The first group of deer, approaching and becoming infatuated with that bait laid
 
 ‘‘Puna caparaṃ, bhikkhave, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. Ayaṃ vuccati, bhikkhave…pe… pāpimato.
 
-“Furthermore, bhikkhus, with the stilling of directed thought and evaluation, a bhikkhu enters and dwells in the second jhāna, which has internal confidence, unification of mind, is without directed thought and evaluation, and is filled with rapture and bliss born of concentration. This, bhikkhus, is called a bhikkhu who has blinded Māra, destroyed Māra’s eye, leaving it without a trace, and gone out of sight of the Evil One.
+“Furthermore, bhikkhus, with the stilling of directed thought and evaluation, a bhikkhu enters and dwells in the second jhāna, which has internal confidence, unification of mind, is without directed thought and evaluation, and is filled with rapture and bliss born of samādhi. This, bhikkhus, is called a bhikkhu who has blinded Māra, destroyed Māra’s eye, leaving it without a trace, and gone out of sight of the Evil One.
 
 ‘‘Puna caparaṃ, bhikkhave, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati. Ayaṃ vuccati, bhikkhave…pe… pāpimato.
 

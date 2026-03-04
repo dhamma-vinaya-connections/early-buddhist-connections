@@ -32,7 +32,7 @@ _These two concerns shape all the remaining sections of the narrative._
 
 _To indicate the fact that the Buddha was worthy of respect, the compilers continue the twofold tactic set out in the opening incident: directly, by showing the Buddha’s admirable character through his words and actions; and indirectly, by showing how people worthy of respect paid him homage._
 
-_In depicting the Buddha directly, the narrative gives primary emphasis to his ability as a teacher—one with a comprehensive command of the Dhamma, a prodigious memory, and an untiring willingness to teach what he knows. It also highlights the Buddha’s prowess as a meditator, both in his command of concentration (as reported in his discussion with Pukkusa Mallaputta and his final display of concentration attainments before his passing away) and in his command of the psychic powers based on concentration: He sees devas, visits their heavens without their knowing who he is, teleports over a river, forecasts future events, recalls past lifetimes, reads minds. He also shows a total command over his own death: overcoming his next-to-last illness, voluntarily deciding when and where to die, and, of course, dying in such a way as to never again be reborn._
+_In depicting the Buddha directly, the narrative gives primary emphasis to his ability as a teacher—one with a comprehensive command of the Dhamma, a prodigious memory, and an untiring willingness to teach what he knows. It also highlights the Buddha’s prowess as a meditator, both in his command of samādhi (as reported in his discussion with Pukkusa Mallaputta and his final display of samādhi attainments before his passing away) and in his command of the psychic powers based on samādhi: He sees devas, visits their heavens without their knowing who he is, teleports over a river, forecasts future events, recalls past lifetimes, reads minds. He also shows a total command over his own death: overcoming his next-to-last illness, voluntarily deciding when and where to die, and, of course, dying in such a way as to never again be reborn._
 
 _In terms of more personal qualities, the narrative depicts the Buddha’s great fortitude in the face of his last two illnesses—in particular, walking all day to his final resting place after a severe attack of dysentery. At the same time, on the day of his death he shows great kindness and gratitude in taking time to comfort both Ven. Ānanda, his attendant, and Cunda, the layperson who provided his last meal; in having the Mallans notified so that they can pay homage to him; in teaching one last student, Subhadda; and in offering to answer any remaining questions right before passing away._
 
@@ -190,7 +190,7 @@ The Blessed One said: “Monks, as long as the monks have conviction... shame...
 
 The Blessed One said:
 
-“Monks, as long as the monks develop mindfulness as a factor for awakening... analysis of qualities as a factor for awakening... persistence as a factor for awakening... rapture as a factor for awakening... calm as a factor for awakening... concentration as a factor for awakening... equanimity as a factor for awakening, the monks’ growth can be expected, not their decline.[7](#^dn16note07) ^dn16note07-ref
+“Monks, as long as the monks develop mindfulness as a factor for awakening... analysis of qualities as a factor for awakening... persistence as a factor for awakening... rapture as a factor for awakening... calm as a factor for awakening... samādhi as a factor for awakening... equanimity as a factor for awakening, the monks’ growth can be expected, not their decline.[7](#^dn16note07) ^dn16note07-ref
 
 “As long as these seven conditions endure among the monks, and as long as the monks remain steadfast in these seven conditions, the monks’ growth can be expected, not their decline.”
 
@@ -216,19 +216,19 @@ The Blessed One said:
 
 “As long as the monks, whatever righteous gains they may obtain in a righteous way—even if only the alms in their bowls—do not consume them alone, but consume them after sharing them in common with their virtuous companions in the holy life...
 
-“As long as the monks—with reference to the virtues that are untorn, unbroken, unspotted, unsplattered, liberating, praised by the observant, ungrasped at, leading to concentration—dwell with their virtue in tune with that of their companions in the holy life, to their faces & behind their backs...
+“As long as the monks—with reference to the virtues that are untorn, unbroken, unspotted, unsplattered, liberating, praised by the observant, ungrasped at, leading to samādhi—dwell with their virtue in tune with that of their companions in the holy life, to their faces & behind their backs...
 
 “And as long as the monks—with reference to the view that is noble, leading outward, that leads those who act in accordance with it to the right ending of suffering & stress—dwell with their view in tune with those of their companions in the holy life, to their faces & behind their backs, the monks’ growth can be expected, not their decline.
 
 “As long as these six conditions endure among the monks, and as long as the monks remain steadfast in these six conditions, the monks’ growth can be expected, not their decline.”[10](#^dn16note10) ^dn16note10-ref
 
-While staying there near Rājagaha on Vulture Peak Mountain, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is concentration, such is discernment. Concentration nurtured with virtue is of great fruit, great reward. Discernment nurtured with concentration is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Rājagaha on Vulture Peak Mountain, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Rājagaha as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Ambalaṭṭhikā.”[11](#^dn16note11) ^dn16note11-ref
 
 “As you say, lord,” Ven. Ānanda responded to the Blessed One.
 
-Then the Blessed One, together with a large Saṅgha of monks, went to Ambalaṭṭhikā. There he stayed near Ambalaṭṭhikā at the Royal Cottage. While staying there near Ambalaṭṭhikā at the Royal Cottage, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is concentration, such is discernment. Concentration nurtured with virtue is of great fruit, great reward. Discernment nurtured with concentration is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+Then the Blessed One, together with a large Saṅgha of monks, went to Ambalaṭṭhikā. There he stayed near Ambalaṭṭhikā at the Royal Cottage. While staying there near Ambalaṭṭhikā at the Royal Cottage, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Ambalaṭṭhikā as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Nāḷandā.”
 
@@ -256,7 +256,7 @@ Then Ven. Sāriputta went to the Blessed One and, on arrival, having bowed down 
 
 “In the same way, I have known the consistency of the Dhamma: ‘All those who were worthy ones, the rightly self-awakened ones in the past awoke to the unexcelled right self-awakening after having abandoned the five hindrances—those defilements of awareness that weaken discernment—having well-established their minds in the four establishings of mindfulness and having developed, as they have come to be, the seven factors for awakening. All those who will be worthy ones, the rightly self-awakened ones in the future will awaken to the unexcelled right self-awakening after having abandoned the five hindrances—those defilements of awareness that weaken discernment—having well-established their minds in the four establishings of mindfulness and having developed, as they have come to be, the seven factors for awakening. The Blessed One who is now the worthy one, the rightly self-awakened one has awakened to the unexcelled right self-awakening after having abandoned the five hindrances—those defilements of awareness that weaken discernment—having well-established his mind in the four establishings of mindfulness and having developed, as they have come to be, the seven factors for awakening.”
 
-While staying there near Nāḷandā at the Pāvādika mango grove, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is concentration, such is discernment. Concentration nurtured with virtue is of great fruit, great reward. Discernment nurtured with concentration is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Nāḷandā at the Pāvādika mango grove, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Nāḷandā as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Pāṭali Village.”
 
@@ -400,7 +400,7 @@ crushed is the root of suffering & stress.
 
 There is now no further-becoming.
 
-While staying there near Koṭi Village, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is concentration, such is discernment. Concentration nurtured with virtue is of great fruit, great reward. Discernment nurtured with concentration is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Koṭi Village, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Koṭi Village as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Nādikā.”
 
@@ -426,11 +426,11 @@ Then Ven. Ānanda went to the Blessed One and, on arrival, having bowed down to 
 
 “He/she is endowed with verified confidence in the Saṅgha: ‘The Saṅgha of the Blessed One’s disciples who have practiced well... who have practiced straight-forwardly... who have practiced methodically... who have practiced masterfully—in other words, the four types of noble disciples when taken as pairs, the eight when taken as individual types[17](#^dn16note17)—they are the Saṅgha of the Blessed One’s disciples: deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, the incomparable field of merit for the world.’” ^dn16note17-ref
 
-“He/she is endowed with virtues that are appealing to the noble ones: untorn, unbroken, unspotted, unsplattered, liberating, praised by the observant, ungrasped at, leading to concentration.
+“He/she is endowed with virtues that are appealing to the noble ones: untorn, unbroken, unspotted, unsplattered, liberating, praised by the observant, ungrasped at, leading to samādhi.
 
 “This, Ānanda, is the Dhamma-mirror Dhamma-discourse, endowed with which a disciple of the noble ones, if he/she so desires, may predict for him or herself: ‘Hell is ended for me; animal wombs are ended; the state of the hungry ghosts is ended; planes of deprivation, the bad destinations, the lower realms are ended! I am a stream-winner, never again destined for the lower realms, certain, headed for self-awakening!’”[18](#^dn16note18) ^dn16note18-ref
 
-While staying there near Nādikā in the Brick House, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is concentration, such is discernment. Concentration nurtured with virtue is of great fruit, great reward. Discernment nurtured with concentration is of great fruit, great reward. The mind nurtured with discernment is rightly released from effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Nādikā in the Brick House, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Nādikā as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Vesālī.”
 
@@ -476,7 +476,7 @@ Then the Blessed One, early in the morning, adjusted his lower robe and—taking
 
 The the Blessed One accepted the garden. Then—having instructed, urged, roused, & encouraged Ambapālī the courtesan with a talk on Dhamma—got up from his seat and left.
 
-While staying there near Vesālī in Ambapālī’s grove, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is concentration, such is discernment. Concentration nurtured with virtue is of great fruit, great reward. Discernment nurtured with concentration is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Vesālī in Ambapālī’s grove, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed in Ambapālī’s grove as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Veḷuva Village.”
 
@@ -494,7 +494,7 @@ Then the Blessed One—having recovered from being ill, not long recovered from 
 
 “What more does the Saṅgha of monks want from me, Ānanda? I have taught the Dhamma without making an inside or outside (version).[21](#^dn16note21) The Tathāgata has no closed fist with regard to teachings.[22](#^dn16note22) To whomever the thought occurs, ‘I will govern the Saṅgha of monks,’ or ‘The Saṅgha of monks looks to me,’ he should give some pronouncement concerning the Saṅgha of monks. But the thought doesn’t occur to the Tathāgata that ‘I will govern the Saṅgha of monks,’ or ‘The Saṅgha of monks looks to me.’ So why should he give some pronouncement concerning the Saṅgha of monks? ^dn16note21-ref ^dn16note22-ref
 
-“I am now aged, Ānanda: old, elderly, advanced in years, having come to the last stage of life, 80 years old. Just as an old cart is kept going with the help of bamboo strips, the Tathāgata’s body is kept going with the help of bamboo strips, as it were. When the Tathāgata—not attending to any theme at all, and with the cessation of certain feelings—enters & remains in the theme-less concentration of awareness, that is when his body is more at ease.
+“I am now aged, Ānanda: old, elderly, advanced in years, having come to the last stage of life, 80 years old. Just as an old cart is kept going with the help of bamboo strips, the Tathāgata’s body is kept going with the help of bamboo strips, as it were. When the Tathāgata—not attending to any theme at all, and with the cessation of certain feelings—enters & remains in the theme-less samādhi of awareness, that is when his body is more at ease.
 
 “So, Ānanda, you should all live with yourselves as your island, yourselves as your refuge, with no other as your refuge; with the Dhamma as your island, the Dhamma as your refuge, with no other as your refuge. And how does a monk live with himself as his island, himself as his refuge, with no other as his refuge; with the Dhamma as his island, the Dhamma as his refuge, with no other as his refuge? There is the case where a monk remains focused on the body in & of itself—ardent, alert, & mindful—subduing greed & distress with reference to the world. He remains focused on feelings in & of themselves... mind in & of itself... mental qualities in & of themselves—ardent, alert, & mindful—subduing greed & distress with reference to the world. This is how a monk lives with himself as his island, himself as his refuge, with no other as his refuge; with the Dhamma as his island, the Dhamma as his refuge, with no other as his refuge. For those who, now or when I am gone, live with themselves as their island, themselves as their refuge, with no other as their refuge; with the Dhamma as their island, the Dhamma as their refuge, not with another as their refuge, will be my foremost monks: those who are desirous of training.”
 
@@ -724,7 +724,7 @@ Be heedful, monks,
 
 mindful, virtuous.
 
-With your resolves well-concentrated,
+With your resolves well-collected,
 
 look after your minds.
 
@@ -752,13 +752,13 @@ Then the Blessed One, together with a large Saṅgha of monks, went to Bhaṇḍ
 
 And there he addressed the monks, “It’s through not awakening to or penetrating four qualities, monks, that we have transmigrated and wandered on for such a long time, you & I. Which four?
 
-“It’s through not awakening to or penetrating noble virtue that we have transmigrated and wandered on for such a long time, you & I. It’s through not awakening to or penetrating noble concentration... It’s through not awakening to or penetrating noble discernment... It’s through not awakening to or penetrating noble release that we have transmigrated and wandered on for such a long time, you & I.
+“It’s through not awakening to or penetrating noble virtue that we have transmigrated and wandered on for such a long time, you & I. It’s through not awakening to or penetrating noble samādhi... It’s through not awakening to or penetrating noble discernment... It’s through not awakening to or penetrating noble release that we have transmigrated and wandered on for such a long time, you & I.
 
-“(But now,) this noble virtue has been awakened to & penetrated, noble concentration has been awakened to & penetrated, noble discernment has been awakened to & penetrated, noble release has been awakened to & penetrated. Craving for becoming has been crushed, the guide to becoming [i.e., craving] is ended. There now is no further-becoming.”
+“(But now,) this noble virtue has been awakened to & penetrated, noble samādhi has been awakened to & penetrated, noble discernment has been awakened to & penetrated, noble release has been awakened to & penetrated. Craving for becoming has been crushed, the guide to becoming [i.e., craving] is ended. There now is no further-becoming.”
 
 That is what the Blessed One said. Having said it, the Teacher, the One Well-Gone, said further:
 
-Virtue, concentration, discernment,
+Virtue, samādhi, discernment,
 
 and unexcelled release:
 
@@ -776,7 +776,7 @@ the one with eyes,
 
 totally unbound.
 
-While staying there at Bhaṇḍa Village, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is concentration, such is discernment. Concentration nurtured with virtue is of great fruit, great reward. Discernment nurtured with concentration is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there at Bhaṇḍa Village, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Bhaṇḍa Village as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Hatthi Village, Amba Village, Jambu Village, to Bhoganagara.”
 
@@ -798,7 +798,7 @@ The Blessed One said, “There is the case where a monk says this: ‘Face-to-fa
 
 “Monks, remember these four great standards.”
 
-While staying there near Bhoganagara at the Ānanda shrine, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is concentration, such is discernment. Concentration nurtured with virtue is of great fruit, great reward. Discernment nurtured with concentration is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
+While staying there near Bhoganagara at the Ānanda shrine, the Blessed One often gave this Dhamma talk to the monks: “Such is virtue, such is samādhi, such is discernment. samādhi nurtured with virtue is of great fruit, great reward. Discernment nurtured with samādhi is of great fruit, great reward. The mind nurtured with discernment is rightly released from the effluents, i.e., the effluent of sensuality, the effluent of becoming, the effluent of ignorance.”
 
 Then the Blessed One, having stayed near Bhoganagara at the Ānanda shrine as long as he pleased, said to Ven. Ānanda, “Come, Ānanda, we will head for Pāvā.”
 
@@ -1506,7 +1506,7 @@ Archaeological evidence from what may have been part of Asoka’s palace in Pā�
 
 24. “And what is the base of power? Whatever path, whatever practice, leads to the attainment of power, the winning of power: That is called the base of power. [↩︎](#^dn16note24-ref) ^dn16note24
 
-“And what is the development of the base of power? There is the case where a monk develops the base of power endowed with concentration founded on _desire_ & the fabrications of exertion. He develops the base of power endowed with concentration founded on _persistence_... concentration founded on _intent_... concentration founded on _discrimination_ & the fabrications of exertion. This is called the development of the base of power.” — _[[snp51.26-thanissaro]]_
+“And what is the development of the base of power? There is the case where a monk develops the base of power endowed with samādhi founded on _desire_ & the fabrications of exertion. He develops the base of power endowed with samādhi founded on _persistence_... samādhi founded on _intent_... samādhi founded on _discrimination_ & the fabrications of exertion. This is called the development of the base of power.” — _[[snp51.26-thanissaro]]_
 
 25. An eon, in the Buddhist cosmology, is an immensely long stretch of time. According to the Commentary here, it can also mean the full lifespan of a human being in that particular period of the eon (Buddhist cosmology allows for a huge fluctuation in human lifespans over the course of an eon). The Commentary adopts this second meaning in this passage, and so takes the Buddha’s statement here as meaning that a person who has developed the bases of power could live for a full lifespan or for a little bit more. In this case, the Pali for the last part of this compound, _kappāvasesaṁ,_ would mean, “an eon plus a remainder.” [↩︎](#^dn16note25-ref) ^dn16note25
 
@@ -1542,7 +1542,7 @@ These lists of eight factors are not randomly chosen. They all highlight the gra
 
 39. The narrative in [[ud8.5-thanissaro]] skips from this poem to the place in the narrative where the Buddha goes to the Kakudha River, skipping over the story of Pukkusa Mallaputta. [↩︎](#^dn16note39-ref) ^dn16note39
 
-40. Āḷāra Kālāma was the teacher from whom the Buddha, before his awakening, learned how to attain the dimension of nothingness, one of the formless attainments. See [[mn26-thanissaro]]. The Vibhaṅga to Pārājika 4 indicates that the purity of one’s mastery of any of these formless attainments can be measured by the extent to which one does not hear sounds while in that attainment. The same passage also indicates that if one _does_ hear sounds, that does not mean that one has not achieved that attainment, simply that one’s mastery of the attainment is not entirely pure. It further indicates that “purity” here does not mean purity from defilements. After all, in the Vibhaṅga to Pārājika 4, Ven. Mahā Moggallāna’s attainment of the formless states is said to be impure, and yet he is an arahant. “Purity” refers instead to the strength of one’s concentration. [↩︎](#^dn16note40-ref) ^dn16note40
+40. Āḷāra Kālāma was the teacher from whom the Buddha, before his awakening, learned how to attain the dimension of nothingness, one of the formless attainments. See [[mn26-thanissaro]]. The Vibhaṅga to Pārājika 4 indicates that the purity of one’s mastery of any of these formless attainments can be measured by the extent to which one does not hear sounds while in that attainment. The same passage also indicates that if one _does_ hear sounds, that does not mean that one has not achieved that attainment, simply that one’s mastery of the attainment is not entirely pure. It further indicates that “purity” here does not mean purity from defilements. After all, in the Vibhaṅga to Pārājika 4, Ven. Mahā Moggallāna’s attainment of the formless states is said to be impure, and yet he is an arahant. “Purity” refers instead to the strength of one’s samādhi. [↩︎](#^dn16note40-ref) ^dn16note40
 
 41. _Āyasmant:_ This is a term of respect usually reserved for senior monks. The Buddha’s using it here was probably meant to emphasize the point that Cunda’s gift of the Buddha’s last meal should be treated as a very honorable thing. [↩︎](#^dn16note41-ref) ^dn16note41
 

@@ -316,7 +316,7 @@ And what, friend, is the signless liberation of mind?
 
 ‘‘Idhāvuso, bhikkhu sabbanimittānaṃ amanasikārā animittaṃ cetosamādhiṃ upasampajja viharati. Ayaṃ vuccatāvuso, animittā cetovimutti. Ayaṃ kho, āvuso, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā nānātthā ceva nānābyañjanā ca’’.
 
-Here, friend, a bhikkhu, not attending to any signs, enters and dwells in the signless concentration of mind. This, friend, is called the signless liberation of mind. This, friend, is the way by resorting to which these phenomena are different in meaning and different in expression.
+Here, friend, a bhikkhu, not attending to any signs, enters and dwells in the signless samādhi of mind. This, friend, is called the signless liberation of mind. This, friend, is the way by resorting to which these phenomena are different in meaning and different in expression.
 
 ‘‘Katamo cāvuso, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā ekatthā byañjanameva nānaṃ’’?
 

@@ -85,7 +85,7 @@ The Blessed One said, “The poison-grass sower doesn’t sow poison-grass for a
 
 “There is the case where a monk, quite secluded from sensuality, secluded from unskillful qualities, enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. This is said to be a monk who has blinded Māra, who has destroyed the path of Māra’s eye and has gone where Māra the Evil One can’t see him.[3](#^mn25note03) ^mn25note03-ref
 
-“With the stilling of directed thoughts & evaluations, the monk enters & remains in the second jhāna: rapture & pleasure born of concentration, unification of awareness free from directed thought & evaluation—internal assurance. This is said to be a monk who has blinded Māra...
+“With the stilling of directed thoughts & evaluations, the monk enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. This is said to be a monk who has blinded Māra...
 
 “With the fading of rapture, the monk remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ This is said to be a monk who has blinded Māra...
 
@@ -107,11 +107,11 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 1. [[/snp3.2-thanissaro]] lists Māra’s followers as sensual passions, discontent, hunger & thirst, craving, sloth & torpor, cowardice, uncertainty, dismissiveness & stubbornness; gains, offering, fame, and status wrong gained; and self-praise coupled with disparagement of others. [↩︎](#^mn25note01-ref) ^mn25note01
 
-2. According to the Commentary, “awareness-release” _(ceto-vimutti)_ here means their intention to stay in the wilderness, but it could also mean any concentration attainment based on the four sublime abidings _(brahmavihāra)._ See [[an6.13-thanissaro]]. [↩︎](#^mn25note02-ref) ^mn25note02
+2. According to the Commentary, “awareness-release” _(ceto-vimutti)_ here means their intention to stay in the wilderness, but it could also mean any samādhi attainment based on the four sublime abidings _(brahmavihāra)._ See [[an6.13-thanissaro]]. [↩︎](#^mn25note02-ref) ^mn25note02
 
-3. This passage means that the monk has temporarily escaped from Māra through the power of his concentration by going beyond the five strings of sensuality. See .” [↩︎](#^mn25note03-ref) ^mn25note03
+3. This passage means that the monk has temporarily escaped from Māra through the power of his samādhi by going beyond the five strings of sensuality. See .” [↩︎](#^mn25note03-ref) ^mn25note03
 
-4. The fact that this last monk’s effluents are ended through an act of discernment is what has put him totally beyond Māra’s reach. [[an9.36-thanissaro]], however, shows that this act of discernment can occur based on any of the nine concentration attainments, and not just the last one. [↩︎](#^mn25note04-ref) ^mn25note04
+4. The fact that this last monk’s effluents are ended through an act of discernment is what has put him totally beyond Māra’s reach. [[an9.36-thanissaro]], however, shows that this act of discernment can occur based on any of the nine samādhi attainments, and not just the last one. [↩︎](#^mn25note04-ref) ^mn25note04
 
 > **Edition Notice**  
 Bhikkhu Thanissaro’s translations are arranged according to the Thai Tipitaka edition. Therefore, some sutta references may not align with the 6th Council or Suttacentral.net numbering schemes, especially in the Saṁyutta Nikāya (SN) and Aṅguttara Nikāya (AN).

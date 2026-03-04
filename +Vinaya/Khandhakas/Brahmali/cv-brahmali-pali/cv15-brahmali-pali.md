@@ -140,7 +140,7 @@ The Buddha rebuked them: “It’s not suitable for those foolish men, it’s no
 
 “Is it true, monks, that the monks from the group of six are singing like this?” “It’s true, Sir.” … the Buddha gave a teaching and addressed the monks:
 
-“There are these five dangers in singing the Teaching with a drawn-out voice: one delights in the sound; others delight in the sound; householders criticize it; for one who takes pleasure in performing with the voice, the concentration is disrupted; later generations follow one’s example.
+“There are these five dangers in singing the Teaching with a drawn-out voice: one delights in the sound; others delight in the sound; householders criticize it; for one who takes pleasure in performing with the voice, the samādhi is disrupted; later generations follow one’s example.
 
 You shouldn’t sing the Teaching with a drawn-out voice. If you do, you commit an offense of wrong conduct.”
 

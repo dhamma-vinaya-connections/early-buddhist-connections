@@ -19,7 +19,7 @@ language: "Pali"
 
 383Exert yourself, O holy man! Cut off the stream (of craving), and discard sense desires. Knowing the destruction of all the conditioned things, become, O holy man, the knower of the Uncreated (Nibbāna)!
 
-384When a holy man has reached the summit of two paths (meditative concentration and insight), he knows the truth and all his fetters fall away.
+384When a holy man has reached the summit of two paths (meditative samādhi and insight), he knows the truth and all his fetters fall away.
 
 385He for whom there is neither this shore nor the other shore, nor yet both, he who is free of cares and is unfettered — him do I call a holy man.
 

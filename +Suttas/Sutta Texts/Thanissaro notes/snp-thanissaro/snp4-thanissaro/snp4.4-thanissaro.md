@@ -172,7 +172,7 @@ vv. 788–795
 
 5. Nd I: Leaving one teacher and going to another; leaving one teaching and going to another. This phrase may also refer to the mind’s tendency to leave one craving to go to another. [↩︎](#^snp4-4-05-ref) ^snp4-4-05
 
-6. For a discussion of unperturbed states of concentration, see [[mn106-thanissaro]]. [↩︎](#^snp4-4-06-ref) ^snp4-4-06
+6. For a discussion of unperturbed states of samādhi, see [[mn106-thanissaro]]. [↩︎](#^snp4-4-06-ref) ^snp4-4-06
 
 7. “Like a monkey releasing a branch to seize at another”—an interesting example of a whole phrase that functions as a lamp, i.e., modifying both the phrase before it and the phrase after it. [↩︎](#^snp4-4-07-ref) ^snp4-4-07
 

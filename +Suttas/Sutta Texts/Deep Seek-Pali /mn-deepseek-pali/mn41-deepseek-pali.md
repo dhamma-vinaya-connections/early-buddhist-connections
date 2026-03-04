@@ -56,7 +56,7 @@ He is one who speaks divisively. Having heard something here, he reports it ther
 
 ‘‘Pharusavāco kho pana hoti. Yā sā vācā aṇḍakā [kaṇḍakā (ka.)] kakkasā parakaṭukā parābhisajjanī kodhasāmantā asamādhisaṃvattanikā, tathārūpiṃ vācaṃ bhāsitā hoti.
 
-“Furthermore, he is one of harsh speech. That speech of his is abusive, rough, biting, provoking enmity, connected with anger, and not conducive to concentration. Such speech does he utter.”
+“Furthermore, he is one of harsh speech. That speech of his is abusive, rough, biting, provoking enmity, connected with anger, and not conducive to samādhi. Such speech does he utter.”
 
 ‘‘Samphappalāpī kho pana hoti. Akālavādī abhūtavādī anatthavādī adhammavādī avinayavādī. Anidhānavatiṃ vācaṃ bhāsitā hoti akālena anapadesaṃ apariyantavatiṃ anatthasaṃhitaṃ. Evaṃ kho, gahapatayo, catubbidhaṃ vācāya adhammacariyāvisamacariyā hoti.
 

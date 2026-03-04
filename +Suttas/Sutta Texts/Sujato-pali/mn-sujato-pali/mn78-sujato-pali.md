@@ -73,7 +73,7 @@ But certain things must first be understood, I say. ‘These are unskillful beha
 
 21And where do these unskillful thoughts stem from? Where they stem from has been stated. You should say that they stem from perception. What perception? Perception takes many and diverse forms. Perceptions of sensuality, malice, and cruelty — unskillful thoughts stem from this.
 
-22And where do these unskillful thoughts cease without anything left over? Their cessation has also been stated. It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. This is where these unskillful thoughts cease without anything left over.
+22And where do these unskillful thoughts cease without anything left over? Their cessation has also been stated. It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. This is where these unskillful thoughts cease without anything left over.
 
 23And how is someone practicing for the cessation of unskillful thoughts? It’s when a mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise … so that unskillful qualities are given up … so that skillful qualities arise … so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development. Someone practicing like this is practicing for the cessation of unskillful thoughts.
 
@@ -82,7 +82,7 @@ But certain things must first be understood, I say. ‘These are unskillful beha
 
 25And where do these skillful thoughts stem from? Where they stem from has been stated. You should say that they stem from perception. What perception? Perception takes many and diverse forms. Perceptions of renunciation, good will, and harmlessness — skillful thoughts stem from this.
 
-26And where do these skillful thoughts cease without anything left over? Their cessation has also been stated. It’s when, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected. This is where these skillful thoughts cease without anything left over.
+26And where do these skillful thoughts cease without anything left over? Their cessation has also been stated. It’s when, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is where these skillful thoughts cease without anything left over.
 
 
 27And how is someone practicing for the cessation of skillful thoughts? It’s when a mendicant generates enthusiasm, tries, makes an effort, exerts the mind, and strives so that bad, unskillful qualities don’t arise … so that unskillful qualities are given up … so that skillful qualities arise … so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fulfilled by development. Someone practicing like this is practicing for the cessation of skillful thoughts.

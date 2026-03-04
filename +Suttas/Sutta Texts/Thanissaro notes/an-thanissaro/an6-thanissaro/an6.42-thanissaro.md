@@ -31,13 +31,13 @@ Now at that time Ven. Nāgita was the Blessed One’s attendant. So the Blessed 
 
 “May I have nothing to do with honor, Nāgita, and honor nothing to do with me. Whoever cannot obtain at will—without difficulty, without trouble—as I do, the pleasure of renunciation, the pleasure of seclusion, the pleasure of peace, the pleasure of self-awakening, let him consent to this slimy-excrement-pleasure, this torpor-pleasure, this pleasure of gains, offerings, & fame.
 
-“Nāgita, there is the case where I see a monk sitting in concentration in a village dwelling. The thought occurs to me, ‘Soon a monastery attendant will disturb this venerable one in some way, or a novice will, and rouse him from his concentration.’ And so I am not pleased with that monk’s village-dwelling.
+“Nāgita, there is the case where I see a monk sitting in samādhi in a village dwelling. The thought occurs to me, ‘Soon a monastery attendant will disturb this venerable one in some way, or a novice will, and rouse him from his samādhi.’ And so I am not pleased with that monk’s village-dwelling.
 
 “But then there is the case where I see a monk sitting, nodding, in the wilderness. The thought occurs to me, ‘Soon this venerable one will dispel his drowsiness & fatigue and attend to the wilderness-perception,[1](#^[[an6-thanissaro]].42note01) (his mind) unified.’ And so I am pleased with that monk’s wilderness-dwelling. ^[[an6-thanissaro]].42note01-ref
 
-“Then there is the case where I see a wilderness monk sitting unconcentrated in the wilderness. The thought occurs to me, ‘Soon this venerable one will center his unconcentrated mind, or protect his concentrated mind.’ And so I am pleased with that monk’s wilderness-dwelling.
+“Then there is the case where I see a wilderness monk sitting uncollected in the wilderness. The thought occurs to me, ‘Soon this venerable one will center his uncollected mind, or protect his collected mind.’ And so I am pleased with that monk’s wilderness-dwelling.
 
-“Then there is the case where I see a wilderness monk sitting in concentration in the wilderness. The thought occurs to me, ‘Soon this venerable one will release his unreleased mind, or protect his released mind.’ And so I am pleased with that monk’s wilderness-dwelling.[2](#^[[an6-thanissaro]].42note02) ^[[an6-thanissaro]].42note02-ref
+“Then there is the case where I see a wilderness monk sitting in samādhi in the wilderness. The thought occurs to me, ‘Soon this venerable one will release his unreleased mind, or protect his released mind.’ And so I am pleased with that monk’s wilderness-dwelling.[2](#^[[an6-thanissaro]].42note02) ^[[an6-thanissaro]].42note02-ref
 
 “Then there is the case where I see a village-dwelling monk who receives robes, alms food, shelter, & medicinal requisites for curing the sick. Receiving, as he likes, those gains, offerings, & fame, he neglects seclusion, he neglects isolated forest & wilderness dwellings. He makes his living by visiting villages, towns, & cities. And so I am not pleased with that monk’s village-dwelling.
 

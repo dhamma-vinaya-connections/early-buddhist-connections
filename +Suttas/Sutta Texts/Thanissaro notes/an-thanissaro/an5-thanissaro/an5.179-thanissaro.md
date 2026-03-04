@@ -31,7 +31,7 @@ Then Anāthapiṇḍika the householder, surrounded by about 500 lay followers, 
 
 “And further, he is endowed with verified confidence in the Saṅgha: ‘The Saṅgha of the Blessed One’s disciples who have practiced well…who have practiced straight-forwardly…who have practiced methodically…who have practiced masterfully—in other words, the four pairs, the eight individuals[1](#^[[an5-thanissaro]].179note01)—they are the Saṅgha of the Blessed One’s disciples: deserving of gifts, deserving of hospitality, deserving of offerings, deserving of respect, the incomparable field of merit for the world.’ This is the third pleasant mental abiding in the here & now that he has attained, for the purification of the mind that is impure, for the cleansing of the mind that is unclean. ^[[an5-thanissaro]].179note01-ref
 
-“And further, he is endowed with virtues that are appealing to the noble ones: untorn, unbroken, unspotted, unsplattered, liberating, praised by the observant, ungrasped at, leading to concentration. This is the fourth pleasant mental abiding in the here & now that he has attained, for the purification of the mind that is impure, for the cleansing of the mind that is unclean.
+“And further, he is endowed with virtues that are appealing to the noble ones: untorn, unbroken, unspotted, unsplattered, liberating, praised by the observant, ungrasped at, leading to samādhi. This is the fourth pleasant mental abiding in the here & now that he has attained, for the purification of the mind that is impure, for the cleansing of the mind that is unclean.
 
 “These are the four pleasant mental abidings in the here & now that he obtains at will, without difficulty, without hardship.
 

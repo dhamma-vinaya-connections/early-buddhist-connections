@@ -128,7 +128,7 @@ the mind grows clearer;
 
 mindfulness, discernment,
 
-concentration stand
+samādhi stand
 
 more firm.
 

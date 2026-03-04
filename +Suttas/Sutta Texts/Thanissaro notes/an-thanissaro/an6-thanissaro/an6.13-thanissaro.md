@@ -33,7 +33,7 @@ language: "English"
 
 Note
 
-1. _Animitta:_ The signless or themeless concentration. See [[mn121-thanissaro]] and [[dn16-thanissaro]].
+1. _Animitta:_ The signless or themeless samādhi. See [[mn121-thanissaro]] and [[dn16-thanissaro]].
 
 See also: [[mn138-thanissaro]]; [[sn1-11-thanissaro/sn1-thanissaro/sn1.25-thanissaro]]; [[sn42.8-thanissaro]], [[an3.66-thanissaro]]; [[an4.200-thanissaro]]; [[an5.27-thanissaro]]; [[an5.200-thanissaro]]; [[an8.70-thanissaro]]; [[an9.7-thanissaro]]; [[an11.16-thanissaro]]; ; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti27-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti72-thanissaro]]
 

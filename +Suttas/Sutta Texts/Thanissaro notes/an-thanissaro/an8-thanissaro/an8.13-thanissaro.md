@@ -49,7 +49,7 @@ language: "English"
 
 [6] “When in training he gives rise to the thought, ‘Whether the other monks want to train or not, _I’ll_ train here.’
 
-[7] “When going, he goes the straight path; here the straight path is this: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+[7] “When going, he goes the straight path; here the straight path is this: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi.
 
 [8] “He dwells with his persistence aroused, (thinking,) ‘Gladly would I let the flesh & blood in my body dry up, leaving just the skin, tendons, & bones, but if I have not attained what can be reached through human steadfastness, human persistence, human striving, there will be no relaxing my persistence.’”
 

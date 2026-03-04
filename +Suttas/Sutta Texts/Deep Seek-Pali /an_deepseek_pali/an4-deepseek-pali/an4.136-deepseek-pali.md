@@ -16,19 +16,19 @@ language: "English - Pali"
 
 136. ‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, bhikkhave, ekacco puggalo sīlesu na paripūrakārī hoti, samādhismiṃ na paripūrakārī, paññāya na paripūrakārī.
 
-136.“Bhikkhus, these four individuals are found existing in the world. Which four? Here, bhikkhus, a certain individual is not fully accomplished in virtue, not fully accomplished in concentration, and not fully accomplished in wisdom.
+136.“Bhikkhus, these four individuals are found existing in the world. Which four? Here, bhikkhus, a certain individual is not fully accomplished in virtue, not fully accomplished in samādhi, and not fully accomplished in wisdom.
 
 ‘‘Idha pana, bhikkhave, ekacco puggalo sīlesu paripūrakārī hoti, samādhismiṃ na paripūrakārī, paññāya na paripūrakārī.
 
-“Here, bhikkhus, a certain individual is fully accomplished in virtue, but not fully accomplished in concentration, not fully accomplished in wisdom.”
+“Here, bhikkhus, a certain individual is fully accomplished in virtue, but not fully accomplished in samādhi, not fully accomplished in wisdom.”
 
 ‘‘Idha pana, bhikkhave, ekacco puggalo sīlesu paripūrakārī hoti, samādhismiṃ paripūrakārī, paññāya na paripūrakārī.
 
-“Here, bhikkhus, a certain individual is fully accomplished in virtue, fully accomplished in concentration, but not fully accomplished in wisdom.”
+“Here, bhikkhus, a certain individual is fully accomplished in virtue, fully accomplished in samādhi, but not fully accomplished in wisdom.”
 
 ‘‘Idha pana, bhikkhave, ekacco puggalo sīlesu paripūrakārī hoti, samādhismiṃ paripūrakārī, paññāya paripūrakārī. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Chaṭṭhaṃ.
 
-“Here, bhikkhus, a certain individual is fully accomplished in virtue, fully accomplished in concentration, and fully accomplished in wisdom. These, bhikkhus, are the four individuals found existing in the world.” The Sixth.
+“Here, bhikkhus, a certain individual is fully accomplished in virtue, fully accomplished in samādhi, and fully accomplished in wisdom. These, bhikkhus, are the four individuals found existing in the world.” The Sixth.
 
 
 ---

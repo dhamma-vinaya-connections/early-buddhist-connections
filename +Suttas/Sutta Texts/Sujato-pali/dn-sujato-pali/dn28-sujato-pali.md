@@ -83,7 +83,7 @@ Firstly, someone reveals by means of a sign, ‘This is what you’re thinking, 
 
 16Furthermore, someone reveals by hearing the sound of thought spreading as someone thinks and considers, ‘This is what you’re thinking, such is your thought, and thus is your state of mind.’ And even if they reveal this many times, it turns out exactly so, not otherwise. This is the third way of revealing.
 
-17Furthermore, someone comprehends the mind of a person who has attained the immersion that’s free of placing the mind and keeping it connected. They understand, ‘Judging by the way this person’s intentions are directed, immediately after this mind state, they’ll think this thought.’ And even if they reveal this many times, it turns out exactly so, not otherwise. This is the fourth way of revealing.
+17Furthermore, someone comprehends the mind of a person who has attained the immersion that’s free of thinking and considering. They understand, ‘Judging by the way this person’s intentions are directed, immediately after this mind state, they’ll think this thought.’ And even if they reveal this many times, it turns out exactly so, not otherwise. This is the fourth way of revealing.
 
 This is unsurpassable when it comes to the ways of revealing.
 

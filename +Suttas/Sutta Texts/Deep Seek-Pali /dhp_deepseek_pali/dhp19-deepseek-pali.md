@@ -91,7 +91,7 @@ One is not noble because one harms living beings. Through non-harming toward all
 271.
 Na sīlabbatamattena, bāhusaccena vā pana;Atha vā samādhilābhena, vivittasayanena vā.
 
-Not merely by virtue and observances, nor by much learning, nor by the attainment of concentration, nor by dwelling in seclusion,
+Not merely by virtue and observances, nor by much learning, nor by the attainment of samādhi, nor by dwelling in seclusion,
 
 272.
 Phusāmi nekkhammasukhaṃ, aputhujjanasevitaṃ;Bhikkhu vissāsamāpādi, appatto āsavakkhayaṃ.

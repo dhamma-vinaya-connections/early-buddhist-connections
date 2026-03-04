@@ -441,7 +441,7 @@ Whose faculties have gone to calm, like horses well-tamed by a charioteer; who h
 My faculties have gone to calm, like horses well-tamed by a charioteer; having abandoned conceit and being free from taints, even the gods envy me, such a one. … Brahmāli thero…. … The Elder Brahmāli … 4. Mogharājattheragāthā 4.The Verses of the Elder Mogharāja
 
 207.
-‘‘Chavipāpaka cittabhaddaka, mogharāja satataṃ samāhito;Hemantikasītakālarattiyo [hemantikakālarattiyo (ka.)], bhikkhu tvaṃsi kathaṃ karissasi’’. “O Mogharāja, of poor complexion but good mind, ever concentrated, how will you, a bhikkhu, manage during the cold winter nights?”
+‘‘Chavipāpaka cittabhaddaka, mogharāja satataṃ samāhito;Hemantikasītakālarattiyo [hemantikakālarattiyo (ka.)], bhikkhu tvaṃsi kathaṃ karissasi’’. “O Mogharāja, of poor complexion but good mind, ever collected, how will you, a bhikkhu, manage during the cold winter nights?”
 
 
 208.

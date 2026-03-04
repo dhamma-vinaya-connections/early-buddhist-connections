@@ -16,7 +16,7 @@ language: "English - Pali"
 
 164. Sāvatthinidānaṃ. Atha kho kisāgotamī bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami, divāvihārāya. Andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. Atha kho māro pāpimā kisāgotamiyā bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo yena kisāgotamī bhikkhunī tenupasaṅkami; upasaṅkamitvā kisāgotamiṃ bhikkhuniṃ gāthāya ajjhabhāsi –
 
-164.At Sāvatthī. Then, in the morning, the bhikkhunī Kisāgotamī, having dressed and taken her bowl and robe, entered Sāvatthī for alms. After wandering for alms in Sāvatthī and returning from her alms-round, she approached the Andhavana for her day-dwelling. Having entered the Andhavana, she sat down at the foot of a certain tree for her day-dwelling. Then Māra the Evil One, desiring to arouse fear, terror, and horripilation in the bhikkhunī Kisāgotamī, and to make her fall from concentration, approached the bhikkhunī Kisāgotamī and addressed her with a verse:
+164.At Sāvatthī. Then, in the morning, the bhikkhunī Kisāgotamī, having dressed and taken her bowl and robe, entered Sāvatthī for alms. After wandering for alms in Sāvatthī and returning from her alms-round, she approached the Andhavana for her day-dwelling. Having entered the Andhavana, she sat down at the foot of a certain tree for her day-dwelling. Then Māra the Evil One, desiring to arouse fear, terror, and horripilation in the bhikkhunī Kisāgotamī, and to make her fall from samādhi, approached the bhikkhunī Kisāgotamī and addressed her with a verse:
 
 ‘‘Kiṃ nu tvaṃ mataputtāva, ekamāsi rudammukhī;Vanamajjhagatā ekā, purisaṃ nu gavesasī’’ti.
 
@@ -24,7 +24,7 @@ language: "English - Pali"
 
 Atha kho kisāgotamiyā bhikkhuniyā etadahosi – ‘‘ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī’’ti? Atha kho kisāgotamiyā bhikkhuniyā etadahosi – ‘‘māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo gāthaṃ bhāsatī’’ti.
 
-Then the bhikkhunī Kisāgotamī thought: "Who is this speaking the verse, a human or a non-human being?" Then the bhikkhunī Kisāgotamī thought: "This is Māra the Evil One, desiring to arouse fear, terror, and horripilation in me, and to make me fall from concentration, who speaks the verse."
+Then the bhikkhunī Kisāgotamī thought: "Who is this speaking the verse, a human or a non-human being?" Then the bhikkhunī Kisāgotamī thought: "This is Māra the Evil One, desiring to arouse fear, terror, and horripilation in me, and to make me fall from samādhi, who speaks the verse."
 
 Atha kho kisāgotamī bhikkhunī ‘‘māro ayaṃ pāpimā’’ iti viditvā māraṃ pāpimantaṃ gāthāhi paccabhāsi –
 

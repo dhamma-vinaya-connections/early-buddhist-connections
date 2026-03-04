@@ -138,9 +138,9 @@ Pokkharasāti enjoys himself with these five kinds of sensual stimulation, tied,
 “But it isn’t possible, except by psychic power. Rapture that depends on the five kinds of sensual stimulation is like a fire that depends on grass and logs as fuel. Rapture that’s apart from sensual pleasures and unskillful qualities is like a fire that doesn’t depend on grass and logs as fuel.
 
 
-26And what is rapture that’s apart from sensual pleasures and unskillful qualities? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. This is rapture that’s apart from sensual pleasures and unskillful qualities.
+26And what is rapture that’s apart from sensual pleasures and unskillful qualities? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. This is rapture that’s apart from sensual pleasures and unskillful qualities.
 
-Furthermore, as the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected. This too is rapture that’s apart from sensual pleasures and unskillful qualities.
+Furthermore, as the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This too is rapture that’s apart from sensual pleasures and unskillful qualities.
 
 
 Of the five things that the brahmins prescribe for making merit and succeeding in the skillful, which do they say is the most fruitful?”

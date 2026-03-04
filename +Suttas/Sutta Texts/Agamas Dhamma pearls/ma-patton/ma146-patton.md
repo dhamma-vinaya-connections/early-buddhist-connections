@@ -137,7 +137,7 @@ Pilotika replied, “So it is, priest! So it is! I support the Bhagavān a great
 
 53. “Priest, this is what’s exhausted by the Tathāgata, what’s practiced by the Tathāgata, and what’s worn by the Tathāgata. Still, this isn’t entirely what makes the Bhagavān a Tathāgata, Arhat, and Completely Awakened One, nor why the Bhagavān’s teaching is good and the Tathāgata’s disciples are a noble assembly that’s well destined.
 
-54. “After he attains a concentrated mind in this way, he is pure, undefiled, untroubled, flexible, and abides well. He attains an imperturbable mind that’s headed for the end of contaminants and realization of the penetrating knowledges.
+54. “After he attains a collected mind in this way, he is pure, undefiled, untroubled, flexible, and abides well. He attains an imperturbable mind that’s headed for the end of contaminants and realization of the penetrating knowledges.
 
 55. “He truly knows, ‘This is suffering.’ He truly knows, ‘This is the formation of suffering’ … ‘This is the cessation of suffering’ … ‘This is the path to the cessation of suffering.’ He truly knows, ‘These are contaminants’ … ‘This is the formation of contaminants’ … ‘This is the cessation of contaminants’ … ‘This is the path to the cessation of contaminants.’
 

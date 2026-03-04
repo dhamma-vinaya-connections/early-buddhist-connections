@@ -23,7 +23,7 @@ Then Vacchagotta the wanderer went to the Blessed One and, on arrival, exchanged
 
 “I tell you, Vaccha, even if a person throws the rinsings of a bowl or a cup into a village pool or pond, thinking, ‘May whatever animals live here feed on this,’ that would be a source of merit, to say nothing of what is given to human beings. But I do say that what is given to a virtuous person is of great fruit, and not so much what is given to an unvirtuous person. And the virtuous person has abandoned five factors and is endowed with five.
 
-“Which five has he abandoned? He has abandoned sensual desire… ill will… sloth & drowsiness… restlessness & anxiety… uncertainty. These are the five factors he has abandoned. And with which five is he endowed? He is endowed with the aggregate of virtue of one beyond training… the aggregate of concentration of one beyond training… the aggregate of discernment of one beyond training… the aggregate of release of one beyond training… the aggregate of knowledge & vision of release of one beyond training. These are the five factors with which he is endowed.
+“Which five has he abandoned? He has abandoned sensual desire… ill will… sloth & drowsiness… restlessness & anxiety… uncertainty. These are the five factors he has abandoned. And with which five is he endowed? He is endowed with the aggregate of virtue of one beyond training… the aggregate of samādhi of one beyond training… the aggregate of discernment of one beyond training… the aggregate of release of one beyond training… the aggregate of knowledge & vision of release of one beyond training. These are the five factors with which he is endowed.
 
 “I tell you: What is given to one who has abandoned these five factors and is endowed with these five, bears great fruit.
 

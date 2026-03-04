@@ -91,7 +91,7 @@ Rare in the world is the person restrained by shame, who awakens from sleep, lik
 144.
 Asso yathā bhadro kasāniviṭṭho, ātāpino saṃvegino bhavātha;Saddhāya sīlena ca vīriyena ca, samādhinā dhammavinicchayena ca;Sampannavijjācaraṇā patissatā, jahissatha [pahassatha (sī. syā. pī.)] dukkhamidaṃ anappakaṃ.
 
-Like a fine horse roused by the whip, be ardent and full of spiritual urgency; with faith, virtue, energy, and concentration, with discernment of the Dhamma and mindfulness; endowed with knowledge and conduct, being mindful, you will abandon this suffering, which is not small.
+Like a fine horse roused by the whip, be ardent and full of spiritual urgency; with faith, virtue, energy, and samādhi, with discernment of the Dhamma and mindfulness; endowed with knowledge and conduct, being mindful, you will abandon this suffering, which is not small.
 
 145.
 Udakañhi nayanti nettikā, usukārā namayanti tejanaṃ;Dāruṃ namayanti tacchakā, attānaṃ damayanti subbatā.

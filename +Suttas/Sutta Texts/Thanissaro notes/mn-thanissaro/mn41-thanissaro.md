@@ -53,7 +53,7 @@ The Blessed One said: “Householders, there are three sorts of un-Dhamma conduc
 
 “He engages in divisive speech.[2](#^mn41note02) What he has heard here he tells there to break those people apart from these people here. What he has heard there he tells here to break these people apart from those people there. Thus breaking apart those who are united and stirring up strife between those who have broken apart, he loves factionalism, delights in factionalism, enjoys factionalism, speaks things that create factionalism. ^mn41note02-ref
 
-“He engages in abusive speech. He speaks words that are harsh, cutting, bitter to others, abusive of others, provoking anger and destroying concentration.
+“He engages in abusive speech. He speaks words that are harsh, cutting, bitter to others, abusive of others, provoking anger and destroying samādhi.
 
 “He engages in idle chatter. He speaks out of season, speaks what isn’t factual, what isn’t in accordance with the goal, the Dhamma, & the Vinaya, words that are not worth treasuring.
 
@@ -167,7 +167,7 @@ An Abhidhamma text, the Vibhaṅga—drawing on a passage in [[dn1-thanissaro]]�
 
 10. These are the devas (also called Brahmās) of the formless levels, corresponding to the four formless attainments. [↩︎](#^mn41note10-ref) ^mn41note10
 
-11. This is the standard description of arahantship, which requires not only heightened virtue, but also heightened mastery of concentration and heightened discernment (see [[an3.90-thanissaro]]). [↩︎](#^mn41note11-ref) ^mn41note11
+11. This is the standard description of arahantship, which requires not only heightened virtue, but also heightened mastery of samādhi and heightened discernment (see [[an3.90-thanissaro]]). [↩︎](#^mn41note11-ref) ^mn41note11
 
 See also: [[mn9-thanissaro]]; [[mn60-thanissaro]]; [[mn135-thanissaro]]; [[an3.71-thanissaro]]; [[an4.123-thanissaro]]-126; [[an7.49-thanissaro]]; [[an8.54-thanissaro]]; [[an10.165-thanissaro]]
 

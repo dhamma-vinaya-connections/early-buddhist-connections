@@ -16,7 +16,7 @@ language: "English - Pali"
 
 129. Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya bārāṇasiṃ piṇḍāya pāvisi. Addasā kho bhagavā goyogapilakkhasmiṃ [goyogamilakkhasmiṃ (syā. kaṃ. ka.)] piṇḍāya caramāno [caramānaṃ (ka.)] aññataraṃ bhikkhuṃ rittassādaṃ bāhirassādaṃ muṭṭhassatiṃ asampajānaṃ asamāhitaṃ vibbhantacittaṃ pākatindriyaṃ. Disvā taṃ bhikkhuṃ etadavoca –
 
-129.At one time the Blessed One was dwelling at Bārāṇasī, in the Deer Park at Isipatana. Then, in the morning, having dressed and taken my bowl and robe, I entered Bārāṇasī for alms. While wandering for alms near the Goyogapilakkha tree, I saw a certain monk devoid of zest, delighting in external tastes, with confused mindfulness, without clear comprehension, unconcentrated, with a bewildered mind, and with unrestrained senses. Seeing that monk, I said to him:
+129.At one time the Blessed One was dwelling at Bārāṇasī, in the Deer Park at Isipatana. Then, in the morning, having dressed and taken my bowl and robe, I entered Bārāṇasī for alms. While wandering for alms near the Goyogapilakkha tree, I saw a certain monk devoid of zest, delighting in external tastes, with confused mindfulness, without clear comprehension, uncollected, with a bewildered mind, and with unrestrained senses. Seeing that monk, I said to him:
 
 ‘‘Mā kho tvaṃ, bhikkhu, attānaṃ kaṭuviyamakāsi. Taṃ vata bhikkhu kaṭuviyakataṃ attānaṃ āmagandhena [āmagandhe (sī. syā. kaṃ. pī.)] avassutaṃ makkhikā nānupatissanti nānvāssavissantīti [nānubandhissanti (ka.)], netaṃ ṭhānaṃ vijjatī’’ti. Atha kho so bhikkhu bhagavatā iminā ovādena ovadito saṃvegamāpādi. Atha kho bhagavā bārāṇasiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto bhikkhū āmantesi –
 
@@ -24,7 +24,7 @@ language: "English - Pali"
 
 ‘‘Idhāhaṃ, bhikkhave, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya bārāṇasiṃ piṇḍāya pāvisiṃ. Addasaṃ kho ahaṃ, bhikkhave, goyogapilakkhasmiṃ piṇḍāya caramāno aññataraṃ bhikkhuṃ rittassādaṃ bāhirassādaṃ muṭṭhassatiṃ asampajānaṃ asamāhitaṃ vibbhantacittaṃ pākatindriyaṃ. Disvā taṃ bhikkhuṃ etadavocaṃ –
 
-"Here, monks, in the morning, having dressed and taken my bowl and robe, I entered Bārāṇasī for alms. While wandering for alms near the Goyogapilakkha tree, I saw a certain monk devoid of zest, delighting in external tastes, with confused mindfulness, without clear comprehension, unconcentrated, with a bewildered mind, and with unrestrained senses. Seeing that monk, I said to him:
+"Here, monks, in the morning, having dressed and taken my bowl and robe, I entered Bārāṇasī for alms. While wandering for alms near the Goyogapilakkha tree, I saw a certain monk devoid of zest, delighting in external tastes, with confused mindfulness, without clear comprehension, uncollected, with a bewildered mind, and with unrestrained senses. Seeing that monk, I said to him:
 
 ‘‘‘Mā kho tvaṃ, bhikkhu, attānaṃ kaṭuviyamakāsi. Taṃ vata bhikkhu kaṭuviyakataṃ attānaṃ āmagandhena avassutaṃ makkhikā nānupatissanti nānvāssavissantīti, netaṃ ṭhānaṃ vijjatī’ti. Atha kho, bhikkhave, so bhikkhu mayā iminā ovādena ovadito saṃvegamāpādī’’ti. Evaṃ vutte aññataro bhikkhu bhagavantaṃ etadavoca – ‘‘kiṃ nu kho, bhante, kaṭuviyaṃ? Ko āmagandho? Kā makkhikā’’ti?
 

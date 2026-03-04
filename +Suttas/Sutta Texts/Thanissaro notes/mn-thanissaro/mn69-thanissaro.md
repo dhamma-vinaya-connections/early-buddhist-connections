@@ -41,7 +41,7 @@ Then Ven. Sāriputta, with reference to the monk named Golissāni, addressed the
 
 “A wilderness-dwelling monk should be one with established mindfulness. If a wilderness-dwelling monk is confused in his mindfulness, there are those who would say of him, ‘What good has it done for this venerable wilderness-dweller to be alone in the wilderness, living independently, when he is confused in his mindfulness?’ Because there are those who would say that of him, a wilderness-dwelling monk should be one with established mindfulness.
 
-“A wilderness-dwelling monk should be one with concentration. If a wilderness-dwelling monk is without concentration, there are those who would say of him, ‘What good has it done for this venerable wilderness-dweller to be alone in the wilderness, living independently, when he is without concentration?’ Because there are those who would say that of him, a wilderness-dwelling monk should be one with concentration.
+“A wilderness-dwelling monk should be one with samādhi. If a wilderness-dwelling monk is without samādhi, there are those who would say of him, ‘What good has it done for this venerable wilderness-dweller to be alone in the wilderness, living independently, when he is without samādhi?’ Because there are those who would say that of him, a wilderness-dwelling monk should be one with samādhi.
 
 “A wilderness-dwelling monk should be one with discernment. If a wilderness-dwelling monk is of dull discernment, there are those who would say of him, ‘What good has it done for this venerable wilderness-dweller to be alone in the wilderness, living independently, when he is of dull discernment?’ Because there are those who would say that of him, a wilderness-dwelling monk should be one with discernment.
 
@@ -63,7 +63,7 @@ When this was said, Ven. Mahā Moggallāna said to Ven. Sāriputta, “Sāriputt
 
 3. says: “Should any bhikkhu, being invited for a meal and without taking leave of an available bhikkhu, go calling on families before or after the meal, except at the proper occasions, it is to be confessed. Here the proper occasions are these: a time of giving cloth, a time of making robes. These are the proper occasions here.” [↩︎](#^mn69note03-ref) ^mn69note03
 
-4. These are the formless levels of concentration, beginning with the dimension of the infinitude of space. The Commentary says that all eight levels of concentration attainment are included here, including the four jhānas, but the injunction for the monk to have concentration, mentioned above, would already appear to cover the four jhānas. [↩︎](#^mn69note04-ref) ^mn69note04
+4. These are the formless levels of samādhi, beginning with the dimension of the infinitude of space. The Commentary says that all eight levels of samādhi attainment are included here, including the four jhānas, but the injunction for the monk to have samādhi, mentioned above, would already appear to cover the four jhānas. [↩︎](#^mn69note04-ref) ^mn69note04
 
 5. This covers all of the transcendent attainments. [↩︎](#^mn69note05-ref) ^mn69note05
 

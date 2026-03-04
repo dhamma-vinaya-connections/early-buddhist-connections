@@ -48,11 +48,11 @@ The Chapter on Training Rules is finished.
 
 306. ‘‘Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. Katame pañca? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ – rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā’’ti.
 
-306.“Monks, for the direct knowledge of lust, five things should be developed. What five? The faculty of faith, the faculty of energy, the faculty of mindfulness, the faculty of concentration, the faculty of wisdom—for the direct knowledge of lust, these five things should be developed.”
+306.“Monks, for the direct knowledge of lust, five things should be developed. What five? The faculty of faith, the faculty of energy, the faculty of mindfulness, the faculty of samādhi, the faculty of wisdom—for the direct knowledge of lust, these five things should be developed.”
 
 307. ‘‘Rāgassa, bhikkhave, abhiññāya pañca dhammā bhāvetabbā. Katame pañca? Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ – rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā’’ti.
 
-307.“Monks, for the direct knowledge of lust, five things should be developed. What five? The power of faith, the power of energy, the power of mindfulness, the power of concentration, the power of wisdom—for the direct knowledge of lust, these five things should be developed.”
+307.“Monks, for the direct knowledge of lust, five things should be developed. What five? The power of faith, the power of energy, the power of mindfulness, the power of samādhi, the power of wisdom—for the direct knowledge of lust, these five things should be developed.”
 
 308-1151. ‘‘Rāgassa, bhikkhave, pariññāya… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya pañca dhammā bhāvetabbā. Dosassa… mohassa… kodhassa… upanāhassa… makkhassa… paḷāsassa… issāya… macchariyassa… māyāya… sāṭheyyassa… thambhassa… sārambhassa… mānassa… atimānassa … madassa… pamādassa abhiññāya… pariññāya… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya pañca dhammā bhāvetabbā.
 
@@ -60,7 +60,7 @@ The Chapter on Training Rules is finished.
 
 ‘‘Katame pañca? Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ – pamādassa, bhikkhave, paṭinissaggāya ime pañca dhammā bhāvetabbā’’ti.
 
-“What are the five? The power of faith, the power of energy, the power of mindfulness, the power of concentration, the power of wisdom. These five qualities, monks, should be developed for relinquishing heedlessness.”
+“What are the five? The power of faith, the power of energy, the power of mindfulness, the power of samādhi, the power of wisdom. These five qualities, monks, should be developed for relinquishing heedlessness.”
 
 Rāgapeyyālaṃ niṭṭhitaṃ.
 

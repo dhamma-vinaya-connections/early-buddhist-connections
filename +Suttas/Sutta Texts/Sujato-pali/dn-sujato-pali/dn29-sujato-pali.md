@@ -126,10 +126,10 @@ And that’s why I have allowed robes for you that suffice only for the sake of 
 
 36These four kinds of indulgence in pleasure, when developed and cultivated, lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. What four?
 
-37It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. This is the first kind of indulgence in pleasure.
+37It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. This is the first kind of indulgence in pleasure.
 
 
-38Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption. It has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected. This is the second kind of indulgence in pleasure.
+38Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption. It has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is the second kind of indulgence in pleasure.
 
 
 39Furthermore, with the fading away of rapture, a mendicant enters and remains in the third absorption. They meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is the third kind of indulgence in pleasure.

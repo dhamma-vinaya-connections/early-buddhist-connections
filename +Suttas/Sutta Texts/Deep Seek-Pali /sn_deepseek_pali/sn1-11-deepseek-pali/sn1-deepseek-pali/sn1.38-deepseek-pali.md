@@ -44,7 +44,7 @@ Then another deity uttered this inspired utterance in the presence of the Blesse
 
 Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi – ‘‘passa samādhiṃ subhāvitaṃ cittañca suvimuttaṃ, na cābhinataṃ na cāpanataṃ na ca sasaṅkhāraniggayhavāritagataṃ [sasaṅkhāraniggayhavāritavataṃ (sī. syā. kaṃ. pī.), sasaṅkhāraniggayhavārivāvataṃ (ka.)]. Yo evarūpaṃ purisanāgaṃ purisasīhaṃ purisaājānīyaṃ purisanisabhaṃ purisadhorayhaṃ purisadantaṃ atikkamitabbaṃ maññeyya kimaññatra adassanā’’ti.
 
-Then another deity uttered this inspired utterance in the presence of the Blessed One: “Behold his well-developed concentration and his mind so perfectly freed—not inclined forward, not inclined backward, and not restrained by forceful suppression. Whoever would think to surpass such a man—a nāga among men, a lion among men, a thoroughbred among men, a bull among men, a burden-bearer among men, a tamed one among men—what else could it be but lack of vision?”
+Then another deity uttered this inspired utterance in the presence of the Blessed One: “Behold his well-developed samādhi and his mind so perfectly freed—not inclined forward, not inclined backward, and not restrained by forceful suppression. Whoever would think to surpass such a man—a nāga among men, a lion among men, a thoroughbred among men, a bull among men, a burden-bearer among men, a tamed one among men—what else could it be but lack of vision?”
 
 ‘‘Pañcavedā sataṃ samaṃ, tapassī brāhmaṇā caraṃ;Cittañca nesaṃ na sammā vimuttaṃ, hīnattharūpā na pāraṅgamā te.
 

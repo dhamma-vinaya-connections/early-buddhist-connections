@@ -44,7 +44,7 @@ Then, when the night had passed, the brahmin householders of Icchānaṅgala too
 
 ‘‘Idhāhaṃ [idha panāhaṃ (?)], nāgita, bhikkhuṃ passāmi gāmantavihāriṃ samāhitaṃ nisinnaṃ. Tassa mayhaṃ, nāgita, evaṃ hoti – ‘idāni imaṃ [idānimaṃ (katthaci) a. ni. 6.42] āyasmantaṃ ārāmiko vā upaṭṭhahissati [paccessati (sī. pī.), upaṭṭhahati (ka.)] samaṇuddeso vā. Taṃ tamhā [so tamhā (ka. sī.), so taṃ tamhā (?)] samādhimhā cāvessatī’ti. Tenāhaṃ, nāgita, tassa bhikkhuno na attamano homi gāmantavihārena.
 
-"Here, Nāgita, I see a monk dwelling near a village, sitting composed. It occurs to me, Nāgita: 'Now a monastery attendant or a novice will attend to this venerable one and dislodge him from that concentration.' Therefore, Nāgita, I am not pleased with that monk's dwelling near a village."
+"Here, Nāgita, I see a monk dwelling near a village, sitting composed. It occurs to me, Nāgita: 'Now a monastery attendant or a novice will attend to this venerable one and dislodge him from that samādhi.' Therefore, Nāgita, I am not pleased with that monk's dwelling near a village."
 
 ‘‘Idha panāhaṃ, nāgita, bhikkhuṃ passāmi āraññikaṃ araññe pacalāyamānaṃ nisinnaṃ. Tassa mayhaṃ, nāgita, evaṃ hoti – ‘idāni ayamāyasmā imaṃ niddākilamathaṃ paṭivinodetvā araññasaññaṃyeva manasi karissati ekatta’nti. Tenāhaṃ, nāgita, tassa bhikkhuno attamano homi araññavihārena.
 

@@ -54,7 +54,7 @@ Just as in the middle of the ocean a wave is not born but it remains still, so a
 
 ‘‘Akittayī vivaṭacakkhu, sakkhidhammaṃ parissayavinayaṃ;Paṭipadaṃ vadehi bhaddante, pātimokkhaṃ athavāpi samādhiṃ’’.
 
-The one with uncovered vision has proclaimed the directly-witnessed Dhamma, the removal of dangers. Speak, venerable sir, of the path of practice, the Pātimokkha, or else concentration.
+The one with uncovered vision has proclaimed the directly-witnessed Dhamma, the removal of dangers. Speak, venerable sir, of the path of practice, the Pātimokkha, or else samādhi.
 
 928.
 

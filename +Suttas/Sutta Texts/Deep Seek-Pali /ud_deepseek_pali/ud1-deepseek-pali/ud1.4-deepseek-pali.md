@@ -16,7 +16,7 @@ language: "English - Pali"
 
 4. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhe paṭhamābhisambuddho. Tena kho pana samayena bhagavā sattāhaṃ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṃvedī. Atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhāsi.
 
-4. Thus have I heard: At one time the Blessed One was dwelling at Uruvelā on the bank of the Nerañjarā River at the foot of the Goatherd's Banyan tree, having just attained full enlightenment. At that time the Blessed One sat for seven days in one sitting, experiencing the bliss of liberation. Then, at the end of those seven days, the Blessed One arose from that concentration.
+4. Thus have I heard: At one time the Blessed One was dwelling at Uruvelā on the bank of the Nerañjarā River at the foot of the Goatherd's Banyan tree, having just attained full enlightenment. At that time the Blessed One sat for seven days in one sitting, experiencing the bliss of liberation. Then, at the end of those seven days, the Blessed One arose from that samādhi.
 
 Atha kho aññataro huṃhuṅkajātiko [huhuṅkajātiko (sī. syā. kaṃ. pī.)] brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho so brāhmaṇo bhagavantaṃ etadavoca – ‘‘kittāvatā nu kho, bho gotama, brāhmaṇo hoti, katame ca pana brāhmaṇakaraṇā [brāhmaṇakārakā (ka.)] dhammā’’ti?
 

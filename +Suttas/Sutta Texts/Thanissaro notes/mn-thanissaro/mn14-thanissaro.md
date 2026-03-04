@@ -99,7 +99,7 @@ That is what the Blessed One said. Gratified, Mahānāma the Sakyan delighted in
 
 5. One of the great ironies in the history of Buddhism is the extent to which teachings that the Buddha clearly disapproved of, such as this one, have later been taught as quintessentially Buddhist. In some circles, a teaching similar to this one—that non-reactivity to pain burns away the impurity of past kamma and creates no new kamma for the future—is still taught as Buddhist to this day. [↩︎](#^mn14note05-ref) ^mn14note05
 
-6. The Buddha here is apparently referring to the concentration attainment called the cessation of perception and feeling. As to how the cessation of feeling could be called unalloyed pleasure, [[mn59-thanissaro]] says this: [↩︎](#^mn14note06-ref) ^mn14note06
+6. The Buddha here is apparently referring to the samādhi attainment called the cessation of perception and feeling. As to how the cessation of feeling could be called unalloyed pleasure, [[mn59-thanissaro]] says this: [↩︎](#^mn14note06-ref) ^mn14note06
 
 “Now it’s possible, Ānanda, that some wanderers of other sects might say, ‘Gotama the contemplative speaks of the cessation of perception & feeling, and yet describes it as pleasure. What is this? How is this?’ When they say that, they are to be told, ‘It’s not the case, friends, that the Blessed One describes only pleasant feeling as included under pleasure. Wherever pleasure is found, in whatever terms, the Blessed One describes it as pleasure.’”
 

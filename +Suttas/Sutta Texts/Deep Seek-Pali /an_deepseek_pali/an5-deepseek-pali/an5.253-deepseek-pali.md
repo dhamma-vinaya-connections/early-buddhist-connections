@@ -16,7 +16,7 @@ language: "English - Pali"
 
 253. [mahāva. 84] ‘‘Pañcahi, bhikkhave, dhammehi samannāgatena bhikkhunā sāmaṇero upaṭṭhāpetabbo. Katamehi pañcahi? Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti; asekhena samādhikkhandhena… asekhena paññākkhandhena… asekhena vimuttikkhandhena… asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatena bhikkhunā sāmaṇero upaṭṭhāpetabbo’’ti. Tatiyaṃ.
 
-253."Monks, a bhikkhu endowed with five qualities should attend to a novice. What five? Here, monks, a bhikkhu is endowed with the aggregate of virtue of one beyond training; with the aggregate of concentration of one beyond training; with the aggregate of wisdom of one beyond training; with the aggregate of liberation of one beyond training; and with the aggregate of the knowledge and vision of liberation of one beyond training. Monks, a bhikkhu endowed with these five qualities should attend to a novice." The Third.
+253."Monks, a bhikkhu endowed with five qualities should attend to a novice. What five? Here, monks, a bhikkhu is endowed with the aggregate of virtue of one beyond training; with the aggregate of samādhi of one beyond training; with the aggregate of wisdom of one beyond training; with the aggregate of liberation of one beyond training; and with the aggregate of the knowledge and vision of liberation of one beyond training. Monks, a bhikkhu endowed with these five qualities should attend to a novice." The Third.
 
 
 ---

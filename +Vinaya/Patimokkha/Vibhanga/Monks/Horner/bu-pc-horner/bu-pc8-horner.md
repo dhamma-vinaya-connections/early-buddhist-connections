@@ -51,13 +51,13 @@ The enlightened one, the lord, rebuked them, saying:
 
 Not ordained means: setting aside monk and nun, the rest are called not ordained.
 
-Condition of further-men[^4] means: musing, freedom, concentration, attainment, knowledge and insight, making the Way to become, realisation of the fruits, destruction of the corruptions, delight in solitude for the mind devoid of the hindrances.
+Condition of further-men[^4] means: musing, freedom, samādhi, attainment, knowledge and insight, making the Way to become, realisation of the fruits, destruction of the corruptions, delight in solitude for the mind devoid of the hindrances.
 
 Musing means: the first musing, the second musing, the third musing, the fourth musing.
 
 Freedom means: void freedom, signless freedom, freedom in which there is no hankering.
 
-Concentration means: void concentration, signless concentration, concentration in which there is no hankering.
+samādhi means: void samādhi, signless samādhi, samādhi in which there is no hankering.
 
 Attainment means: void attainment, signless attainment, attainment in which there is no hankering. *Vin.4.26*
 
@@ -83,7 +83,7 @@ Should speak of means: there is an offence of expiation for saying to one who is
 
 Should speak of means: there is an offence of expiation for saying to one who is not ordained: “I will attain the second … third … fourth musing. I am attaining the second … third … fourth musing. I attained the second … third … fourth musing. I am possessed of the … fourth musing. I am master of the … fourth musing. The … fourth musing is realised by me.”
 
-Should speak of means: there is an offence of expiation for saying to one who is not ordained: “I will attain … I am attaining … I attained the void freedom, *BD.2.213* the signless freedom, the freedom in which there is no hankering, the void concentration, the signless concentration, the concentration in which there is no hankering, I am possessed of … I am master of the concentration in which there is no hankering, the concentration in which there is no hankering is realised by me.”
+Should speak of means: there is an offence of expiation for saying to one who is not ordained: “I will attain … I am attaining … I attained the void freedom, *BD.2.213* the signless freedom, the freedom in which there is no hankering, the void samādhi, the signless samādhi, the samādhi in which there is no hankering, I am possessed of … I am master of the samādhi in which there is no hankering, the samādhi in which there is no hankering is realised by me.”
 
 Should speak of means: there is an offence of expiation for saying to one who is not ordained: “I will attain … I am attaining … I attained the void attainment, the signless attainment, the attainment in which there is no hankering, I am possessed of … I am master of the attainment in which there is no hankering, the attainment in which there is no hankering is realised by me.”
 
@@ -111,7 +111,7 @@ Should speak of means: there is an offence of expiation for saying to one who is
 
 Should speak of means: there is an offence of expiation for saying to one who is not ordained, “I will attain the first musing and the third musing … the first musing and the fourth musing are attained by me.”
 
-Should speak of means: there is an offence of expiation for saying to one who is not ordained, “I will attain the first musing and the void freedom and the signless freedom and the freedom in which there is no hankering and the void concentration and the signless concentration and the concentration in which there is no hankering … is realised by me.”
+Should speak of means: there is an offence of expiation for saying to one who is not ordained, “I will attain the first musing and the void freedom and the signless freedom and the freedom in which there is no hankering and the void samādhi and the signless samādhi and the samādhi in which there is no hankering … is realised by me.”
 
 Should speak of means: there is an offence of expiation for saying to one who is not ordained, “I will attain the first musing and the void attainment and the signless attainment and the attainment in which there is no hankering … is realised by me.”
 
@@ -135,7 +135,7 @@ Should speak of means: there is an offence of expiation for saying to one who is
 
 Should speak of means: there is an offence of expiation for saying to one who is not ordained, “My mind is devoid of the hindrance of confusion and my mind is devoid of the hindrance of hatred …”
 
-Should speak of means: there is an offence of expiation for saying to one who is not ordained, “I will attain … I am attaining … I attained the first musing and the second musing and the third musing and the fourth musing and the void freedom and the signless freedom and the freedom in which there is no hankering and the void concentration and the signless concentration and the concentration in which there is no hankering and the void attainment and the signless attainment and the attainment in which there is no hankering and the three knowledges and the four presences of mindfulness and the four right efforts and the four bases of psychic potencies and the five faculties and the five powers and the seven parts of enlightenment and the noble eightfold Way *Vin.4.29* and the fruit of stream-attainment and the fruit of once-returning and the fruit of no-return and perfection and passion is given up by me … and hatred is given up by me … and confusion is given up by me, renounced, sacrificed, destroyed, forsaken, thrown aside, rejected, and my mind is devoid of the hindrance of passion and my mind is devoid of the hindrance of hatred and my mind is devoid of the hindrance of confusion.”
+Should speak of means: there is an offence of expiation for saying to one who is not ordained, “I will attain … I am attaining … I attained the first musing and the second musing and the third musing and the fourth musing and the void freedom and the signless freedom and the freedom in which there is no hankering and the void samādhi and the signless samādhi and the samādhi in which there is no hankering and the void attainment and the signless attainment and the attainment in which there is no hankering and the three knowledges and the four presences of mindfulness and the four right efforts and the four bases of psychic potencies and the five faculties and the five powers and the seven parts of enlightenment and the noble eightfold Way *Vin.4.29* and the fruit of stream-attainment and the fruit of once-returning and the fruit of no-return and perfection and passion is given up by me … and hatred is given up by me … and confusion is given up by me, renounced, sacrificed, destroyed, forsaken, thrown aside, rejected, and my mind is devoid of the hindrance of passion and my mind is devoid of the hindrance of hatred and my mind is devoid of the hindrance of confusion.”
 
 * * *
 

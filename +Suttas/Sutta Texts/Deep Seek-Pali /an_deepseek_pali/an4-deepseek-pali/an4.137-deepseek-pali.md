@@ -16,19 +16,19 @@ language: "English - Pali"
 
 137. ‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, bhikkhave, ekacco puggalo na sīlagaru hoti na sīlādhipateyyo, na samādhigaru hoti na samādhādhipateyyo, na paññāgaru hoti na paññādhipateyyo.
 
-137.Monks, these four individuals are found existing in the world. Which four? Here, monks, a certain individual neither reveres virtue nor regards it as supreme; neither reveres concentration nor regards it as supreme; neither reveres wisdom nor regards it as supreme.
+137.Monks, these four individuals are found existing in the world. Which four? Here, monks, a certain individual neither reveres virtue nor regards it as supreme; neither reveres samādhi nor regards it as supreme; neither reveres wisdom nor regards it as supreme.
 
 ‘‘Idha pana, bhikkhave, ekacco puggalo sīlagaru hoti sīlādhipateyyo, na samādhigaru hoti na samādhādhipateyyo, na paññāgaru hoti na paññādhipateyyo.
 
-Here, monks, a certain individual reveres virtue and regards it as supreme, but neither reveres concentration nor regards it as supreme, nor reveres wisdom nor regards it as supreme.
+Here, monks, a certain individual reveres virtue and regards it as supreme, but neither reveres samādhi nor regards it as supreme, nor reveres wisdom nor regards it as supreme.
 
 ‘‘Idha pana, bhikkhave, ekacco puggalo sīlagaru hoti sīlādhipateyyo, samādhigaru hoti samādhādhipateyyo, na paññāgaru hoti na paññādhipateyyo.
 
-Here, monks, a certain individual reveres virtue and regards it as supreme, reveres concentration and regards it as supreme, but neither reveres wisdom nor regards it as supreme.
+Here, monks, a certain individual reveres virtue and regards it as supreme, reveres samādhi and regards it as supreme, but neither reveres wisdom nor regards it as supreme.
 
 ‘‘Idha pana, bhikkhave, ekacco puggalo sīlagaru hoti sīlādhipateyyo, samādhigaru hoti samādhādhipateyyo, paññāgaru hoti paññādhipateyyo. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Sattamaṃ.
 
-Here, monks, a certain individual reveres virtue and regards it as supreme, reveres concentration and regards it as supreme, and reveres wisdom and regards it as supreme. These, monks, are the four individuals found existing in the world.
+Here, monks, a certain individual reveres virtue and regards it as supreme, reveres samādhi and regards it as supreme, and reveres wisdom and regards it as supreme. These, monks, are the four individuals found existing in the world.
 
 
 ---

@@ -16,7 +16,7 @@ language: "English - Pali"
 
 216. …Pe… micchāājīvo hoti, micchāvāyāmo hoti, micchāsati hoti, micchāsamādhi hoti…pe… sammāājīvo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti. Chaṭṭhaṃ.
 
-216....has wrong livelihood, wrong effort, wrong mindfulness, and wrong concentration... has right livelihood, right effort, right mindfulness, and right concentration. Sixth.
+216....has wrong livelihood, wrong effort, wrong mindfulness, and wrong samādhi... has right livelihood, right effort, right mindfulness, and right samādhi. Sixth.
 
 
 ---

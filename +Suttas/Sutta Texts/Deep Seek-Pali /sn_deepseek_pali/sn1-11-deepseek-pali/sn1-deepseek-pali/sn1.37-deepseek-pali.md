@@ -32,7 +32,7 @@ Then another deity recited this verse in the Blessed One's presence:
 
 ‘‘Tatra bhikkhavo samādahaṃsu, cittamattano ujukaṃ akaṃsu [ujukamakaṃsu (sī. syā. kaṃ. pī.)];Sārathīva nettāni gahetvā, indriyāni rakkhanti paṇḍitā’’ti.
 
-"There, the bhikkhus concentrated, made their minds upright; Like charioteers holding the reins, the wise protect their faculties."
+"There, the bhikkhus collected, made their minds upright; Like charioteers holding the reins, the wise protect their faculties."
 
 Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –
 

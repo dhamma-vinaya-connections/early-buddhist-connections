@@ -46,9 +46,9 @@ Suppose it’s the last month of summer, when all the crops have been gathered i
 
 9My energy was roused up and unflagging, my mindfulness was established and lucid, my body was tranquil and undisturbed, and my mind was immersed in samādhi.
 
-Quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected.
+Quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering.
 
-As the placing of the mind and keeping it connected were stilled, I entered and remained in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without placing the mind and keeping it connected.
+As the placing of the mind and keeping it connected were stilled, I entered and remained in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering.
 
 And with the fading away of rapture, I entered and remained in the third absorption, where I meditated with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’
 

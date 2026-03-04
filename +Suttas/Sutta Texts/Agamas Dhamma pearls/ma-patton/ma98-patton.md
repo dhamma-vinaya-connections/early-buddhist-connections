@@ -107,7 +107,7 @@ language: "English"
 
 #### Mindfulness of Mind
 
-43. “What is the mindful abode of observing mind as mind? A monk who has a mind with desire truly knows, ‘I have a mind with desire’ … a mind lacking desire truly knows, ‘I have a mind lacking desire’ … with anger … lacking anger … with delusion … lacking delusion … with defilement … lacking defilement … with unity … with distraction … with lower … with higher … with little … with greatness … that’s cultivated … that’s not cultivated … that’s concentrated … that’s not concentrated … has a mind that’s not liberated truly knows, ‘I have a mind that’s not liberated’ … has a mind that’s liberated truly knows, ‘I have a mind that’s liberated.’
+43. “What is the mindful abode of observing mind as mind? A monk who has a mind with desire truly knows, ‘I have a mind with desire’ … a mind lacking desire truly knows, ‘I have a mind lacking desire’ … with anger … lacking anger … with delusion … lacking delusion … with defilement … lacking defilement … with unity … with distraction … with lower … with higher … with little … with greatness … that’s cultivated … that’s not cultivated … that’s collected … that’s not collected … has a mind that’s not liberated truly knows, ‘I have a mind that’s not liberated’ … has a mind that’s liberated truly knows, ‘I have a mind that’s liberated.’
 
 44. “A monk observes internal mind as mind and observes external mind as mind in this way. He establishes mindfulness of mind with knowing, seeing, insight, and comprehension. This is called a monk observing mind as mind. If monks and nuns thus observe the mind as mind little by little, this is called the mindful abode of observing the mind as mind.
 

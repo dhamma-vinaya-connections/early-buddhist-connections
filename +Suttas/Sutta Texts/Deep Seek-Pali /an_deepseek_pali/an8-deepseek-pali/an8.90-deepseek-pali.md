@@ -52,7 +52,7 @@ The Second Fifty is finished.
 
 117. ‘‘Rāgassa, bhikkhave, abhiññāya aṭṭha dhammā bhāvetabbā. Katame aṭṭha? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi – rāgassa, bhikkhave, abhiññāya ime aṭṭha dhammā bhāvetabbā’’ti.
 
-117."Monks, for the direct knowledge of lust, eight things are to be developed. What eight? Right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration—monks, for the direct knowledge of lust, these eight things are to be developed."
+117."Monks, for the direct knowledge of lust, eight things are to be developed. What eight? Right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right samādhi—monks, for the direct knowledge of lust, these eight things are to be developed."
 
 118. ‘‘Rāgassa, bhikkhave, abhiññāya aṭṭha dhammā bhāvetabbā. Katame aṭṭha? Ajjhattaṃ rūpasaññī bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya ‘jānāmi passāmī’ti evaṃsaññī hoti. Ajjhattaṃ rūpasaññī bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya ‘jānāmi passāmī’ti evaṃsaññī hoti. Ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya ‘jānāmi passāmī’ti evaṃsaññī hoti. Ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya ‘jānāmi passāmī’ti evaṃsaññī hoti. Ajjhattaṃ arūpasaññī bahiddhā rūpāni passati nīlāni nīlavaṇṇāni nīlanidassanāni nīlanibhāsāni pītāni pītavaṇṇāni…pe… lohitakāni lohitakavaṇṇāni…pe… odātāni odātavaṇṇāni…pe… odātanibhāsāni, tāni abhibhuyya ‘jānāmi passāmī’ti evaṃsaññī hoti – rāgassa, bhikkhave, abhiññāya ime aṭṭha dhammā bhāvetabbā’’.
 

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 ‘‘Katamehi pañcahi? Idha, bhikkhave, bhikkhu sīlasampanno hoti, samādhisampanno hoti, paññāsampanno hoti, vimuttisampanno hoti, vimuttiñāṇadassanasampanno hoti.
 
-"By which five? Here, monks, a bhikkhu is accomplished in virtue, accomplished in concentration, accomplished in wisdom, accomplished in liberation, and accomplished in the knowledge and vision of liberation."
+"By which five? Here, monks, a bhikkhu is accomplished in virtue, accomplished in samādhi, accomplished in wisdom, accomplished in liberation, and accomplished in the knowledge and vision of liberation."
 
 ‘‘Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’’ti. Sattamaṃ.
 

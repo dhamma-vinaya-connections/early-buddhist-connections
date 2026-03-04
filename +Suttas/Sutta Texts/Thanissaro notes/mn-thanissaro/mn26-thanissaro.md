@@ -69,7 +69,7 @@ So the Blessed One went to the hermitage of Rammaka the brahman. Now at that tim
 
 “I thought: ‘It isn’t through mere conviction alone that Āḷāra Kālāma declares, “I have entered & dwell in this Dhamma, having realized it for myself through direct knowledge.” Certainly he dwells knowing & seeing this Dhamma.’ So I went to him and said, ‘To what extent do you declare that you have entered & dwell in this Dhamma?’ When this was said, he declared the dimension of nothingness.
 
-“I thought: ‘Not only does Āḷāra Kālāma have conviction, persistence, mindfulness, concentration, & discernment. I, too, have conviction, persistence, mindfulness, concentration, & discernment. What if I were to endeavor to realize for myself the Dhamma that Āḷāra Kālāma declares he has entered & dwells in, having realized it for himself through direct knowledge.’ So it was not long before I quickly entered & dwelled in that Dhamma, having realized it for myself through direct knowledge. I went to him and said, ‘Friend Kālāma, is this the extent to which you have entered & dwell in this Dhamma, having realized it for yourself through direct knowledge?’
+“I thought: ‘Not only does Āḷāra Kālāma have conviction, persistence, mindfulness, samādhi, & discernment. I, too, have conviction, persistence, mindfulness, samādhi, & discernment. What if I were to endeavor to realize for myself the Dhamma that Āḷāra Kālāma declares he has entered & dwells in, having realized it for himself through direct knowledge.’ So it was not long before I quickly entered & dwelled in that Dhamma, having realized it for myself through direct knowledge. I went to him and said, ‘Friend Kālāma, is this the extent to which you have entered & dwell in this Dhamma, having realized it for yourself through direct knowledge?’
 
 “‘Yes, my friend....’
 
@@ -87,7 +87,7 @@ So the Blessed One went to the hermitage of Rammaka the brahman. Now at that tim
 
 “I thought: ‘It wasn’t through mere conviction alone that Rāma declared, “I have entered & dwell in this Dhamma, having realized it for myself through direct knowledge.” Certainly he dwelled knowing & seeing this Dhamma.’ So I went to Uddaka and said, ‘To what extent did Rāma declare that he had entered & dwelled in this Dhamma?’ When this was said, Uddaka declared the dimension of neither perception nor non-perception.
 
-“I thought: ‘Not only did Rāma have conviction, persistence, mindfulness, concentration, & discernment. I, too, have conviction, persistence, mindfulness, concentration, & discernment. What if I were to endeavor to realize for myself the Dhamma that Rāma declared he entered & dwelled in, having realized it for himself through direct knowledge.’ So it was not long before I quickly entered & dwelled in that Dhamma, having realized it for myself through direct knowledge. I went to Uddaka and said, ‘Friend Uddaka, is this the extent to which Rāma entered & dwelled in this Dhamma, having realized it for himself through direct knowledge?’
+“I thought: ‘Not only did Rāma have conviction, persistence, mindfulness, samādhi, & discernment. I, too, have conviction, persistence, mindfulness, samādhi, & discernment. What if I were to endeavor to realize for myself the Dhamma that Rāma declared he entered & dwelled in, having realized it for himself through direct knowledge.’ So it was not long before I quickly entered & dwelled in that Dhamma, having realized it for myself through direct knowledge. I went to Uddaka and said, ‘Friend Uddaka, is this the extent to which Rāma entered & dwelled in this Dhamma, having realized it for himself through direct knowledge?’
 
 “‘Yes, my friend....’
 
@@ -285,7 +285,7 @@ A second time.... A third time, the group of five monks said to me, ‘By that p
 
 “Suppose that a wild deer is living in a wilderness glen. Carefree it walks, carefree it stands, carefree it sits, carefree it lies down. Why is that? Because it has gone beyond the hunter’s range.[6](#^mn26note06) In the same way, a monk—quite secluded from sensuality, secluded from unskillful qualities—enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. This monk is said to have blinded Māra. Trackless, he has destroyed Māra’s vision and has become invisible to the Evil One.[7](#^mn26note07) ^mn26note06-ref ^mn26note07-ref
 
-“And further, the monk, with the stilling of directed thoughts & evaluations, enters & remains in the second jhāna: rapture & pleasure born of concentration, unification of awareness free from directed thought & evaluation—internal assurance. This monk is said to have blinded Māra. Trackless, he has destroyed Māra’s vision and has become invisible to the Evil One.
+“And further, the monk, with the stilling of directed thoughts & evaluations, enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. This monk is said to have blinded Māra. Trackless, he has destroyed Māra’s vision and has become invisible to the Evil One.
 
 “And further, the monk, with the fading of rapture, remains equanimous, mindful, & alert, senses pleasure with the body, and enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ This monk is said to have blinded Māra. Trackless, he has destroyed Māra’s vision and has become invisible to the Evil One.
 
@@ -317,7 +317,7 @@ That is what the Blessed One said. Gratified, the monks delighted in the Blessed
 
 6. For another use of the wild deer as a symbol for a free mind, see [[ud2.10-thanissaro]]. [↩︎](#^mn26note06-ref) ^mn26note06
 
-7. As the Commentary points out, simply attaining the states of concentration from the first jhāna through the dimension of neither perception nor non-perception blinds Māra only temporarily. Only with the arising of discernment is Māra blinded for good. On Māra’s blindness, see [[/snp5.15-thanissaro]], [[an9.39-thanissaro]], and [[sn22.87-thanissaro]] (the last chapter in _The Mind Like Fire Unbound)._ For the meaning of “leaving no trace,” see [[dhp92-thanissaro]], 179–180. [↩︎](#^mn26note07-ref) ^mn26note07
+7. As the Commentary points out, simply attaining the states of samādhi from the first jhāna through the dimension of neither perception nor non-perception blinds Māra only temporarily. Only with the arising of discernment is Māra blinded for good. On Māra’s blindness, see [[/snp5.15-thanissaro]], [[an9.39-thanissaro]], and [[sn22.87-thanissaro]] (the last chapter in _The Mind Like Fire Unbound)._ For the meaning of “leaving no trace,” see [[dhp92-thanissaro]], 179–180. [↩︎](#^mn26note07-ref) ^mn26note07
 
 See also: [[mn4-thanissaro]]; [[mn19-thanissaro]]; [[mn36-thanissaro]]; [[an3.39-thanissaro]]; [[+Suttas/Sutta Texts/Thanissaro/Thanissaro notes/iti-thanissaro/iti54-thanissaro]]; [[/snp3.1-thanissaro]]; [[/snp3.2-thanissaro]]
 

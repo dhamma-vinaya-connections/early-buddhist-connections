@@ -72,7 +72,7 @@ Bhikkhus, a forest-dwelling bhikkhu should be one who guards the doors of the se
 
 ‘‘Āraññikenāvuso, bhikkhunā samāhitena bhavitabbaṃ. Sace, āvuso, āraññiko bhikkhu asamāhito hoti, tassa bhavanti vattāro. ‘Kiṃ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā asamāhito’ti – tassa bhavanti vattāro. Tasmā āraññikena bhikkhunā samāhitena bhavitabbaṃ.
 
-“Friend, a forest-dwelling bhikkhu should be concentrated. If, friend, a forest-dwelling bhikkhu is not concentrated, there will be those who criticize him. ‘What is the use of this venerable forest-dweller living alone in the wilderness as he pleases, since this venerable one is not concentrated?’—there will be those who criticize him. Therefore, a forest-dwelling bhikkhu should be concentrated.”
+“Friend, a forest-dwelling bhikkhu should be collected. If, friend, a forest-dwelling bhikkhu is not collected, there will be those who criticize him. ‘What is the use of this venerable forest-dweller living alone in the wilderness as he pleases, since this venerable one is not collected?’—there will be those who criticize him. Therefore, a forest-dwelling bhikkhu should be collected.”
 
 ‘‘Āraññikenāvuso, bhikkhunā paññavatā bhavitabbaṃ. Sace, āvuso, āraññiko bhikkhu duppañño hoti, tassa bhavanti vattāro. ‘Kiṃ panimassāyasmato āraññikassa ekassāraññe serivihārena yo ayamāyasmā duppañño’ti – tassa bhavanti vattāro. Tasmā āraññikena bhikkhunā paññavatā bhavitabbaṃ.
 

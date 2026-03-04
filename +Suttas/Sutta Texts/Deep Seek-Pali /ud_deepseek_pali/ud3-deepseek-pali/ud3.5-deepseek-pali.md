@@ -24,7 +24,7 @@ Then the Blessed One, understanding the meaning of this, on that occasion uttere
 
 ‘‘Sati kāyagatā upaṭṭhitā,Chasu phassāyatanesu saṃvuto;Satataṃ bhikkhu samāhito,Jaññā nibbānamattano’’ti. pañcamaṃ;
 
-“With mindfulness directed to the body established, restrained in regard to the six bases for contact, a bhikkhu who is ever concentrated would know Nibbāna for himself.” Fifth.
+“With mindfulness directed to the body established, restrained in regard to the six bases for contact, a bhikkhu who is ever collected would know Nibbāna for himself.” Fifth.
 
 
 ---

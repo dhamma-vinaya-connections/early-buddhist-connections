@@ -16,7 +16,7 @@ language: "English - Pali"
 
 74. ‘‘Cattārimāni, bhikkhave, aggāni. Katamāni cattāri? Sīlaggaṃ, samādhiggaṃ [samādhaggaṃ (sī. syā. kaṃ)], paññāggaṃ, vimuttaggaṃ – imāni kho, bhikkhave, cattāri aggānī’’ti. Catutthaṃ.
 
-74."Monks, there are these four foremost things. Which four? The foremost of virtue, the foremost of concentration, the foremost of wisdom, the foremost of liberation. These, monks, are the four foremost things." The fourth.
+74."Monks, there are these four foremost things. Which four? The foremost of virtue, the foremost of samādhi, the foremost of wisdom, the foremost of liberation. These, monks, are the four foremost things." The fourth.
 
 
 ---

@@ -20,7 +20,7 @@ language: "English - Pali"
 
 ‘‘Katame pañca? Yassa, bhikkhave, bhikkhu cīvaraṃ paribhuñjamāno appamāṇaṃ cetosamādhiṃ upasampajja viharati, appamāṇo tassa puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṃvattaniko iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattati.
 
-What are the five? When, monks, a bhikkhu, enjoying robes, dwells having attained immeasurable mind-concentration, for him there is an immeasurable stream of merit, stream of the wholesome, nourishment of happiness—conducive to a happy state, ripening in happiness, leading to heaven—that conduces to what is wished for, desired, agreeable, beneficial, and pleasant.
+What are the five? When, monks, a bhikkhu, enjoying robes, dwells having attained immeasurable mind-samādhi, for him there is an immeasurable stream of merit, stream of the wholesome, nourishment of happiness—conducive to a happy state, ripening in happiness, leading to heaven—that conduces to what is wished for, desired, agreeable, beneficial, and pleasant.
 
 ‘‘Yassa, bhikkhave, bhikkhu piṇḍapātaṃ paribhuñjamāno…pe… yassa, bhikkhave, bhikkhu vihāraṃ paribhuñjamāno…pe… yassa, bhikkhave, bhikkhu mañcapīṭhaṃ paribhuñjamāno…pe….
 
@@ -28,7 +28,7 @@ When, monks, a bhikkhu, partaking of almsfood... When a bhikkhu, using a dwellin
 
 ‘‘Yassa, bhikkhave, bhikkhu gilānapaccayabhesajjaparikkhāraṃ paribhuñjamāno appamāṇaṃ cetosamādhiṃ upasampajja viharati, appamāṇo tassa puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṃvattaniko iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattati. Ime kho, bhikkhave, pañca puññābhisandā kusalābhisandā sukhassāhārā sovaggikā sukhavipākā saggasaṃvattanikā iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattanti.
 
-When, monks, a bhikkhu, while using requisites—medicine for the sick—dwells having attained immeasurable mind-concentration, for him there is an immeasurable stream of merit, stream of the wholesome, nourishment of happiness—conducive to a happy state, ripening in happiness, leading to heaven—that conduces to what is wished for, desired, agreeable, beneficial, and pleasant. These, monks, are the five streams of merit, streams of the wholesome, nourishments of happiness—conducive to a happy state, ripening in happiness, leading to heaven—that conduce to what is wished for, desired, agreeable, beneficial, and pleasant.
+When, monks, a bhikkhu, while using requisites—medicine for the sick—dwells having attained immeasurable mind-samādhi, for him there is an immeasurable stream of merit, stream of the wholesome, nourishment of happiness—conducive to a happy state, ripening in happiness, leading to heaven—that conduces to what is wished for, desired, agreeable, beneficial, and pleasant. These, monks, are the five streams of merit, streams of the wholesome, nourishments of happiness—conducive to a happy state, ripening in happiness, leading to heaven—that conduce to what is wished for, desired, agreeable, beneficial, and pleasant.
 
 ‘‘Imehi ca pana, bhikkhave, pañcahi puññābhisandehi kusalābhisandehi samannāgatassa ariyasāvakassa na sukaraṃ puññassa pamāṇaṃ gahetuṃ – ‘ettako puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṃvattaniko iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattatī’ti. Atha kho asaṅkheyyo appameyyo mahāpuññakkhandhotveva saṅkhaṃ gacchati.
 

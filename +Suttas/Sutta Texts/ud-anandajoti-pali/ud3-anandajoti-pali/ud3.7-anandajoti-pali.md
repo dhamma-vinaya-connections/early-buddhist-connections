@@ -18,9 +18,9 @@ language: "English - Pali"
 
 - Translated from the Pali by Ānandajoti Bhikkhu  
 
-1Thus I heard: At one time the Gracious One was dwelling near Rājagaha, in Bamboo Wood, at the Squirrels’ Feeding Place. Then at that time venerable Mahākassapa was dwelling in the Pepper Cave, and was sitting in one cross-legged posture for seven days, having attained a certain concentration.
+1Thus I heard: At one time the Gracious One was dwelling near Rājagaha, in Bamboo Wood, at the Squirrels’ Feeding Place. Then at that time venerable Mahākassapa was dwelling in the Pepper Cave, and was sitting in one cross-legged posture for seven days, having attained a certain samādhi.
 
-Then venerable Mahākassapa, with the passing of those seven days arose from that concentration. Then it occured to venerable Mahākassapa after arising from that concentration: "Well now, I should enter Rājagaha for alms."
+Then venerable Mahākassapa, with the passing of those seven days arose from that samādhi. Then it occured to venerable Mahākassapa after arising from that samādhi: "Well now, I should enter Rājagaha for alms."
 
 2Then at that time five hundred devatās were ready and eager to offer almsfood to venerable Mahākassapa. But venerable Mahākassapa, after refusing those five hundred devatās, having dressed in the morning time, after picking up his bowl and robe, entered Rājagaha for alms.
 

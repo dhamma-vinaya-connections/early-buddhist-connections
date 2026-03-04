@@ -98,7 +98,7 @@ Everywhere the fool
 
 is unhappy at heart,
 
-not concentrated on virtues.
+not collected on virtues.
 
 Right here he gains honor
 
@@ -110,7 +110,7 @@ Everywhere the enlightened one
 
 is happy at heart,
 
-well-concentrated on virtues.
+well-collected on virtues.
 
 Here virtue is supreme,
 

@@ -16,7 +16,7 @@ language: "English - Pali"
 
 151. ‘‘Cattārimāni, bhikkhave, indriyāni. Katamāni cattāri? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ – imāni kho, bhikkhave, cattāri indriyānī’’ti. Paṭhamaṃ.
 
-151."Monks, there are these four faculties. What four? The faculty of conviction, the faculty of energy, the faculty of mindfulness, and the faculty of concentration. These, monks, are the four faculties." (First)
+151."Monks, there are these four faculties. What four? The faculty of conviction, the faculty of energy, the faculty of mindfulness, and the faculty of samādhi. These, monks, are the four faculties." (First)
 
 
 ---

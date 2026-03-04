@@ -19,7 +19,7 @@ language: "English"
 
 1. Thus I have heard:<a id="fnref1"></a>[^1] One time, the Buddha was sitting under a tree in the Deer Preserve at Bārāṇasī. A thousand monks and many heavenly spirits were present at the time. A large congregation of them encircled him in the sky.
 
-2. It was then that a spontaneous Dharma wheel flew up to the Buddha and turned in front of him. The Buddha touched the wheel with his hand and said, “Stop! Departed am I from the countless eons of turning name-and-forms and suffering that’s measureless. Today, the mind of delusion and craving has stopped. I’ve been freed from contaminated and binding dispositions. I’ve concentrated my faculties and ended birth and death. I will cycle among the five destinies no more.” The wheel then stopped.
+2. It was then that a spontaneous Dharma wheel flew up to the Buddha and turned in front of him. The Buddha touched the wheel with his hand and said, “Stop! Departed am I from the countless eons of turning name-and-forms and suffering that’s measureless. Today, the mind of delusion and craving has stopped. I’ve been freed from contaminated and binding dispositions. I’ve collected my faculties and ended birth and death. I will cycle among the five destinies no more.” The wheel then stopped.
 
 3. The Buddha then addressed the monks, “The world has two things that fall into extreme practices when done by religious disciples who renounce the home life, and such people should never accompany those who follow those [two] things.
 

@@ -122,7 +122,7 @@ When this was said, Ven. Ānanda said to Cunda the novice, “Friend Cunda, ther
 
 “There is the case where a monk, quite secluded from sensuality, secluded from unskillful qualities, enters & remains in the first jhāna: rapture & pleasure born of seclusion, accompanied by directed thought & evaluation. This is the first devotion to pleasure.
 
-“Further, Cunda, with the stilling of directed thoughts & evaluations, the monk enters & remains in the second jhāna: rapture & pleasure born of concentration, unification of awareness free from directed thought & evaluation—internal assurance. This is the second devotion to pleasure.
+“Further, Cunda, with the stilling of directed thoughts & evaluations, the monk enters & remains in the second jhāna: rapture & pleasure born of samādhi, unification of awareness free from directed thought & evaluation—internal assurance. This is the second devotion to pleasure.
 
 “Further, Cunda, with the fading of rapture, the monk remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhāna, of which the noble ones declare, ‘Equanimous & mindful, he has a pleasant abiding.’ This is the third devotion to pleasure.
 
