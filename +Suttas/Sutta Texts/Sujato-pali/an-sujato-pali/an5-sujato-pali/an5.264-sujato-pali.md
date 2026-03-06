@@ -16,9 +16,9 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-“Mendicants, without giving up these five qualities you can’t enter and remain in the first absorption. What five? Stinginess with dwellings, families, material possessions, praise, and lack of gratitude and thankfulness. Without giving up these five qualities you can’t enter and remain in the first absorption.
+“Mendicants, without giving up these five qualities you can’t enter and remain in the first jhāna. What five? Stinginess with dwellings, families, material possessions, praise, and lack of gratitude and thankfulness. Without giving up these five qualities you can’t enter and remain in the first jhāna.
 
-2But after giving up these five qualities you can enter and remain in the first absorption. What five? Stinginess with dwellings, families, material possessions, praise, and lack of gratitude and thankfulness. After giving up these five qualities you can enter and remain in the first absorption.”
+2But after giving up these five qualities you can enter and remain in the first jhāna. What five? Stinginess with dwellings, families, material possessions, praise, and lack of gratitude and thankfulness. After giving up these five qualities you can enter and remain in the first jhāna.”
 
 1"Pañcime, bhikkhave, dhamme appahāya abhabbo paṭhamaṁ jhānaṁ upasampajja viharituṁ. Katame pañca? Āvāsamacchariyaṁ, kulamacchariyaṁ, lābhamacchariyaṁ, vaṇṇamacchariyaṁ, akataññutaṁ akataveditaṁ. Ime kho, bhikkhave, pañca dhamme appahāya abhabbo paṭhamaṁ jhānaṁ upasampajja viharituṁ.
 

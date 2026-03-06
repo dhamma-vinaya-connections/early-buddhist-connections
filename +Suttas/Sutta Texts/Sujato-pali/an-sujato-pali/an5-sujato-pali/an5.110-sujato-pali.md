@@ -30,7 +30,7 @@ They’re very learned, remembering and keeping what they’ve learned. These te
 They live with energy roused up for giving up unskillful qualities and gaining skillful qualities. They’re strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities.
 
 
-They get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
+They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
 They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 

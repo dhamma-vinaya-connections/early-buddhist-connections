@@ -150,13 +150,13 @@ Then the layman Visākha went to see the nun Dhammadinnā, bowed, sat down to on
 50“No, not in all instances.
 
 
-Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. With this they give up greed, and the underlying tendency to greed does not lie within that.
+Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. With this they give up greed, and the underlying tendency to greed does not lie within that.
 
 And take a mendicant who reflects: ‘Oh, when will I enter and remain in the same dimension that the noble ones enter and remain in today?’ Nursing such a longing for the supreme liberations gives rise to sadness due to longing.
 
 With this they give up repulsion, and the underlying tendency to repulsion does not lie within that.
 
-Take a mendicant who, giving up pleasure and pain, and ending former happiness and sadness, enters and remains in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. With this they give up ignorance, and the underlying tendency to ignorance does not lie within that.”
+Take a mendicant who, giving up pleasure and pain, and ending former happiness and sadness, enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. With this they give up ignorance, and the underlying tendency to ignorance does not lie within that.”
 
 
 51“But ma’am, what is the counterpart of pleasant feeling?”

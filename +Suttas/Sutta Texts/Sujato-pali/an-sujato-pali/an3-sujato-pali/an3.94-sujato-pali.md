@@ -25,7 +25,7 @@ language: "English - Pali"
 2In the same way, when the stainless, immaculate vision of the teaching arises in a noble disciple, three fetters are given up: identity view, doubt, and misapprehension of precepts and observances.
 
 
-3Afterwards they get rid of two things: desire and aversion. Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. If that noble disciple passed away at that time, they’re bound by no fetter that might return them to this world.”
+3Afterwards they get rid of two things: desire and aversion. Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. If that noble disciple passed away at that time, they’re bound by no fetter that might return them to this world.”
 
 1"Seyyathāpi, bhikkhave, saradasamaye viddhe vigatavalāhake deve ādicco nabhaṁ abbhussakkamāno sabbaṁ ākāsagataṁ tamagataṁ abhivihacca bhāsate ca tapate ca virocati ca.
 

@@ -40,7 +40,7 @@ language: "English - Pali"
 
 4Then several other deities came to me and said: ‘Sir, formerly when we were human beings, renunciates came to our homes. We politely rose, bowed, and offered them a seat. We shared as best we could. We sat nearby to listen to the teachings, lent an ear, memorized them, and examined their meaning. Understanding the teaching and the meaning we practiced accordingly. And so, having fulfilled our duty, free of remorse and regret, we were reborn in a superior realm.’
 
-Here, mendicants, are these roots of trees, and here are these empty huts. Practice absorption, mendicants! Don’t be negligent! Don’t regret it later, like those former deities.”
+Here, mendicants, are these roots of trees, and here are these empty huts. Practice jhāna, mendicants! Don’t be negligent! Don’t regret it later, like those former deities.”
 
 1"Imañca, bhikkhave, rattiṁ sambahulā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yenāhaṁ tenupasaṅkamiṁsu; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhaṁsu.
 

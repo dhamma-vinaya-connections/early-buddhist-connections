@@ -365,7 +365,7 @@ They replied, “Sir, it is an opportune time.”
 The Buddha continued:  
 When the Tathāgata, who is totally free from defilement and perfectly  
 enlightened, appears in this world he directly experiences subtle bliss that  
-is present throughout the four meditative states of absorption. Why? Through  
+is present throughout the four meditative states of jhāna. Why? Through  
 his own effort he maintains collected mindfulness, enjoying the tran-  
 scendence within his mind without any slackening of discipline. Through  
 contemplation, he practices the four kinds of immeasurable mind ( _brah-  

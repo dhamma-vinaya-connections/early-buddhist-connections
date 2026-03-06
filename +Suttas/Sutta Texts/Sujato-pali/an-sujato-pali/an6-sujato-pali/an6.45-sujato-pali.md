@@ -130,7 +130,7 @@ they concentrate on equanimity.
 
 25They give up the five hindrances,  
 constantly energetic,  
-and enter the absorptions,  
+and enter the jhānas,  
 unified, alert, and mindful.
 
 26Truly knowing in this way  

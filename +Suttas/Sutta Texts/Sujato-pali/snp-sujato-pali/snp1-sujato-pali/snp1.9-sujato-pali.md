@@ -56,7 +56,7 @@ Hemavata
 said Hemavata,  
 “And doesn’t he harm not a creature?  
 Isn’t he far from negligence?  
-And doesn’t he not neglect absorption?”
+And doesn’t he not neglect jhāna?”
 
 Sātāgira
 
@@ -64,7 +64,7 @@ Sātāgira
 said Sātāgira,  
 “and he harms not a creature.  
 He is far from negligence—  
-the Buddha does not neglect absorption.”
+the Buddha does not neglect jhāna.”
 
 ---
 

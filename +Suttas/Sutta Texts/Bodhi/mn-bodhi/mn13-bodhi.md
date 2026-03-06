@@ -1,0 +1,108 @@
+---
+sutta_code: "MN13"
+sutta_title:
+  - "Mahādukkhakkhandha Sutta "
+  - "Mass of Suffering, Longer Discourse"
+sutta-version: "Ven. Bodhi"
+language: "English"
+---
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
+> ◄  [[mn12-bodhi]] 📜  [[mn14-bodhi]] ►
+
+# MN13 Mahādukkhakkhandha Sutta - The Greater Discourse
+
+## The Greater Discourse
+on the Mass of Suffering
+
+1\. THUS HAVE I HEARD. On one occasion the Blessed One was living at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.
+
+2\. Then, when it was morning, a number of bhikkhus dressed, and taking their bowls and outer robes, \[84\] went into Sāvatthī for alms. Then they thought: “It is still too early to wander for alms in Sāvatthī. Suppose we went to the park of the wanderers of other sects.” So they went to the park of the wanderers of other sects and exchanged greetings with the wanderers. When this courteous and amiable talk was finished, they sat down at one side. The wanderers said to them:
+
+3\. “Friends, the recluse Gotama describes the full understanding of sensual pleasures, and we do so too; the recluse Gotama describes the full understanding of material form, and we do so too; the recluse Gotama describes the full understanding of feelings, and we do so too. What then is the distinction here, friends, what is the variance, what is the difference between the recluse Gotama’s teaching of the Dhamma and ours, between his instructions and ours?”
+
+4\. Then those bhikkhus neither approved nor disapproved of the wanderers’ words. Without doing either they rose from their seats and went away, thinking: “We shall come to understand the meaning of these words in the Blessed One’s presence.”
+
+5\. When they had wandered for alms in Sāvatthī and had returned from their almsround, after the meal they went to the Blessed One, and after paying homage to him, they sat down at one side and told him what had taken place. \[The Blessed One said:\] \[85\]
+
+6\. “Bhikkhus, wanderers of other sects who speak thus should be questioned thus: ‘But, friends, what is the gratification, what is the danger, and what is the escape in the case of sensual pleasures? What is the gratification, what is the danger, and what is the escape in the case of material form? What is the gratification, what is the danger, and what is the escape in the case of feelings?’ Being questioned thus, wanderers of other sects will fail to account for the matter, and what is more, they will get into difficulties. Why is that? Because it is not their province. Bhikkhus, I see no one in the world with its gods, its Māras, and its Brahmās, in this generation with its recluses and brahmins, with its princes and its people, who could satisfy the mind with a reply to these questions, except for the Tathāgata or his disciple or one who has learned it from them.
+
+## (SENSUAL PLEASURES)
+
+7\. (i) “And what, bhikkhus, is the gratification in the case of sensual pleasures? Bhikkhus, there are these five cords of sensual pleasure. What are the five? Forms cognizable by the eye that are wished for, desired, agreeable and likeable, connected with sensual desire, and provocative of lust. Sounds cognizable by the ear…Odours cognizable by the nose…Flavours cognizable by the tongue…Tangibles cognizable by the body that are wished for, desired, agreeable and likeable, connected with sensual desire, and provocative of lust. These are the five cords of sensual pleasure. Now the pleasure and joy that arise dependent on these five cords of sensual pleasure are the gratification in the case of sensual pleasures.
+
+8\. (ii) “And what, bhikkhus, is the danger in the case of sensual pleasures? Here, bhikkhus, on account of the craft by which a clansman makes a living—whether checking or accounting or calculating or farming or trading or husbandry or archery or the royal service, or whatever craft it may be—he has to face cold, he has to face heat, he is injured by contact with gadflies, mosquitoes, wind, sun, and creeping things; he risks death by hunger and thirst. Now this is a danger in the case of sensual pleasures, a mass of suffering visible here and now, having sensual pleasures as its cause, sensual pleasures as its source, sensual pleasures as its basis, \[86\] the cause being simply sensual pleasures.
+
+9\. “If no property comes to the clansman while he works and strives and makes an effort thus, he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘My work is in vain, my effort is fruitless!’ Now this too is a danger in the case of sensual pleasures, a mass of suffering visible here and now…the cause being simply sensual pleasures.
+
+10\. “If property comes to the clansman while he works and strives and makes an effort thus, he experiences pain and grief in protecting it: ‘How shall neither kings nor thieves make off with my property, nor fire burn it, nor water sweep it away, nor hateful heirs make off with it?’ And as he guards and protects his property, kings or thieves make off with it, or fire burns it, or water sweeps it away, or hateful heirs make off with it. And he sorrows, grieves, and laments, he weeps beating his breast and becomes distraught, crying: ‘What I had I have no longer!’ Now this too is a danger in the case of sensual pleasures, a mass of suffering visible here and now…the cause being simply sensual pleasures.
+
+11\. “Again, with sensual pleasures as the cause, sensual pleasures as the source, sensual pleasures as the basis, the cause being simply sensual pleasures, kings quarrel with kings, nobles with nobles, brahmins with brahmins, householders with householders; mother quarrels with son, son with mother, father with son, son with father; brother quarrels with brother, brother with sister, sister with brother, friend with friend. And here in their quarrels, brawls, and disputes they attack each other with fists, clods, sticks, or knives, whereby they incur death or deadly suffering. Now this too is a danger in the case of sensual pleasures, a mass of suffering here and now…the cause being simply sensual pleasures.
+
+12\. “Again, with sensual pleasures as the cause…men take swords and shields and buckle on bows and quivers, and they charge into battle massed in double array with arrows and spears flying and swords flashing; and there they are wounded by arrows and spears, and their heads are cut off by swords, whereby they incur death or deadly suffering. Now this too is a danger in the case of sensual pleasures, a mass of suffering here and now…the cause being simply sensual pleasures.
+
+13\. “Again, with sensual pleasures as the cause…men take swords and shields and buckle on bows and quivers, and they charge slippery bastions, with arrows and spears flying \[87\] and swords flashing; and there they are wounded by arrows and spears and splashed with boiling liquids and crushed under heavy weights, and their heads are cut off by swords, whereby they incur death or deadly suffering. Now this too is a danger in the case of sensual pleasures, a mass of suffering here and now…the cause being simply sensual pleasures.
+
+14\. “Again, with sensual pleasures as the cause…men break into houses, plunder wealth, commit burglary, ambush highways, seduce others’ wives, and when they are caught, kings have many kinds of torture inflicted on them. The kings have them flogged with whips, beaten with canes, beaten with clubs; they have their hands cut off, their feet cut off, their hands and feet cut off; their ears cut off, their noses cut off, their ears and noses cut off; they have them subjected to the ‘porridge pot,’ to the ‘polished-shell shave,’ to the ‘Rāhu’s mouth,’ to the ‘fiery wreath,’ to the ‘flaming hand,’ to the ‘blades of grass,’ to the ‘bark dress,’ to the ‘antelope,’ to the ‘meat hooks,’ to the ‘coins,’ to the ‘lye pickling,’ to the ‘pivoting pin,’ to the ‘rolled-up palliasse’;  and they have them splashed with boiling oil, and they have them thrown to be devoured by dogs, and they have them impaled alive on stakes, and they have their heads cut off with swords—whereby they incur death or deadly suffering. Now this too is a danger in the case of sensual pleasures, a mass of suffering here and now…the cause being simply sensual pleasures.
+
+15\. “Again, with sensual pleasures as the cause, sensual pleasures as the source, sensual pleasures as the basis, the cause being simply sensual pleasures, people indulge in misconduct of body, speech, and mind. Having done so, on the dissolution of the body, after death, they reappear in states of deprivation, in an unhappy destination, in perdition, even in hell. Now this is a danger in the case of sensual pleasures, a mass of suffering in the life to come, having sensual pleasures as its cause, sensual pleasures as its source, sensual pleasures as its basis, the cause being simply sensual pleasures.
+
+16\. (iii) “And what, bhikkhus, is the escape in the case of sensual pleasures? It is the removal of desire and lust, the abandonment of desire and lust for sensual pleasures. This is the escape in the case of sensual pleasures.
+
+17\. “That those recluses and brahmins who do not understand as it actually is the gratification as gratification, the danger as danger, and the escape as escape in the case of sensual pleasures, can either themselves fully understand sensual pleasures or instruct another so that he can fully understand sensual pleasures—that is impossible. That those recluses and brahmins who understand as it actually is \[88\] the gratification as gratification, the danger as danger, and the escape as escape in the case of sensual pleasures, can either themselves fully understand sensual pleasures or instruct another so that he can fully understand sensual pleasures—that is possible.
+
+## (MATERIAL FORM)
+
+18\. (i) “And what, bhikkhus, is the gratification in the case of material form? Suppose there were a girl of the noble class or the brahmin class or of householder stock, in her fifteenth or sixteenth year, neither too tall nor too short, neither too thin nor too fat, neither too dark nor too fair. Is her beauty and loveliness then at its height?”—“Yes, venerable sir.”—“Now the pleasure and joy that arise in dependence on that beauty and loveliness are the gratification in the case of material form.
+
+19\. (ii) “And what, bhikkhus, is the danger in the case of material form? Later on one might see that same woman here at eighty, ninety, or a hundred years, aged, as crooked as a roof bracket, doubled up, supported by a walking stick, tottering, frail, her youth gone, her teeth broken, grey-haired, scanty-haired, bald, wrinkled, with limbs all blotchy. What do you think, bhikkhus? Has her former beauty and loveliness vanished and the danger become evident?”—“Yes, venerable sir.”—“Bhikkhus, this is a danger in the case of material form.
+
+20\. “Again, one might see that same woman afflicted, suffering, and gravely ill, lying fouled in her own urine and excrement, lifted up by some and set down by others. What do you think, bhikkhus? Has her former beauty and loveliness vanished and the danger become evident?”—“Yes, venerable sir.”—“Bhikkhus, this too is a danger in the case of material form.
+
+21\. “Again, one might see that same woman as a corpse thrown aside in a charnel ground, one, two, or three days dead, bloated, livid, and oozing matter. What do you think, bhikkhus? Has her former beauty and loveliness vanished and the danger become evident?”—“Yes, venerable sir.”—“Bhikkhus, this too is a danger in the case of material form.
+
+22–29. “Again, one might see that same woman as a corpse thrown aside in a charnel ground, being devoured by crows, hawks, vultures, dogs, jackals, or various kinds of worms… \[89\]...a skeleton with flesh and blood, held together with sinews...a fleshless skeleton smeared with blood, held together with sinews…a skeleton without flesh and blood, held together with sinews…disconnected bones scattered in all directions—here a hand-bone, there a foot-bone, here a thigh-bone, there a rib-bone, here a hip-bone, there a back-bone, here the skull…bones bleached white, the colour of shells…bones heaped up…bones more than a year old, rotted and crumbled to dust. What do you think, bhikkhus? Has her former beauty and loveliness vanished and the danger become evident?”—“Yes, venerable sir.”—“Bhikkhus, this too is a danger in the case of material form.
+
+30\. (iii) “And what, bhikkhus, is the escape in the case of material form? It is the removal of desire and lust, the abandonment of desire and lust for material form. This is the escape in the case of material form.
+
+31\. “That those recluses and brahmins who do not understand as it actually is the gratification as gratification, the danger as danger, and the escape as escape in the case of material form, can either themselves fully understand material form or instruct another so that he can fully understand material form—that is impossible. That those recluses and brahmins who understand as it actually is the gratification as gratification, the danger as danger, and the escape as escape in the case of material form, can either themselves fully understand material form or instruct another so that he can fully understand material form—that is possible.
+
+## (FEELINGS)
+
+32\. (i) “And what, bhikkhus, is the gratification in the case of feelings? Here, bhikkhus, quite secluded from sensual pleasures, secluded from unwholesome states, a bhikkhu enters upon and abides in the first jhāna, which is accompanied by applied and sustained thought, with rapture and pleasure born of seclusion.  On such an occasion he does not choose for his own affliction, or for another’s affliction, or for the affliction of both. \[90\] On that occasion he feels only feeling that is free from affliction. The highest gratification in the case of feelings is freedom from affliction, I say.
+
+33–35. “Again, with the stilling of applied and sustained thought, a bhikkhu enters upon and abides in the second jhāna…With the fading away as well of rapture…he enters upon and abides in the third jhāna…With the abandoning of pleasure and pain he enters upon and abides in the fourth jhāna…On such an occasion he does not choose for his own affliction, or for another’s affliction, or for the affliction of both. On that occasion he feels only feeling that is free from affliction. The highest gratification in the case of feelings is freedom from affliction, I say.
+
+36\. (ii) “And what, bhikkhus, is the danger in the case of feelings? Feelings are impermanent, suffering, and subject to change. This is the danger in the case of feelings.
+
+37\. (iii) “And what, bhikkhus, is the escape in the case of feelings? It is the removal of desire and lust, the abandonment of desire and lust for feelings. This is the escape in the case of feelings.
+
+38\. “That those recluses and brahmins who do not understand as it actually is the gratification as gratification, the danger as danger, and the escape as escape in the case of feelings, can either themselves fully understand feelings or instruct another so that he can fully understand feelings—that is impossible. That those recluses and brahmins who understand as it actually is the gratification as gratification, the danger as danger, and the escape as escape in the case of feelings, can either themselves fully understand feelings or instruct another so that he can fully understand feelings—that is possible.”
+
+
+
+That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One’s words.
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:mn13-) 
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  | [[EA21.9]]; [[MA99]] | M i 83 |
+> > [!check]- Partial parallels 
+> > 
+| [[EA21.9]], [[MA99]], [[AN2.1]], [[MN129]], [[AN6.63]], [[MN14]], [[MN139]], [[SN36.20]], [[SN36.19]] |
+| ------------------------ |
+
+>[!summary]- Suggestions by Ven. Thanissaro 
+> >In the SN and AN, some sutta references may not align with the numbering used in other editions or translations.
+> - [[MN14]], [[MN54]], [[SN35.63]], [[SN35.115]], [[SN35.189]], [[AN6.63]], [[AN9.34]], [[AN9.36]], [[THIG13]].1.
+
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[MN]]  / 🌐 [[MN13]]
+> ◄  [[mn12-bodhi]] 📜  [[mn14-bodhi]] ►

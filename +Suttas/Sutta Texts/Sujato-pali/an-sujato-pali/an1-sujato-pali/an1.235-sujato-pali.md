@@ -30,7 +30,7 @@ language: "English - Pali"
 
 5 … who speak on the teaching is Dhammadinnā.
 
-6 … who practice absorption is Nandā.
+6 … who practice jhāna is Nandā.
 
 7 … who are energetic is Soṇā.
 

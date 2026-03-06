@@ -177,9 +177,9 @@ This is unsurpassable when it comes to eternalist doctrines.
 
 35But what are the psychic powers that are free of defilements and attachments, and are said to be noble? It’s when, if a mendicant wishes: ‘May I meditate perceiving the unrepulsive in the repulsive,’ that’s what they do. If they wish: ‘May I meditate perceiving the repulsive in the unrepulsive,’ that’s what they do. If they wish: ‘May I meditate perceiving the unrepulsive in the repulsive and the unrepulsive,’ that’s what they do. If they wish: ‘May I meditate perceiving the repulsive in the unrepulsive and the repulsive,’ that’s what they do. If they wish: ‘May I meditate staying equanimous, mindful and aware, rejecting both the repulsive and the unrepulsive,’ that’s what they do. These are the psychic powers that are free of defilements and attachments, and are said to be noble. This is unsurpassable when it comes to psychic powers. The Buddha understands this without exception. There is nothing to be understood beyond this whereby another ascetic or brahmin might be superior in direct knowledge to the Buddha when it comes to psychic powers.
 
-#### 1.16. The Four Absorptions
+#### 1.16. The Four jhānas
 
-36The Buddha has achieved what should be achieved by a faithful gentleman by being energetic and strong, by manly strength, energy, vigor, and exertion. The Buddha doesn’t indulge in sensual pleasures, which are low, crude, ordinary, ignoble, and pointless. And he doesn’t indulge in self-mortification, which is painful, ignoble, and pointless. He gets the four absorptions — blissful meditations in the present life that belong to the higher mind — when he wants, without trouble or difficulty.
+36The Buddha has achieved what should be achieved by a faithful gentleman by being energetic and strong, by manly strength, energy, vigor, and exertion. The Buddha doesn’t indulge in sensual pleasures, which are low, crude, ordinary, ignoble, and pointless. And he doesn’t indulge in self-mortification, which is painful, ignoble, and pointless. He gets the four jhānas — blissful meditations in the present life that belong to the higher mind — when he wants, without trouble or difficulty.
 
 #### 1.17. On Being Questioned
 

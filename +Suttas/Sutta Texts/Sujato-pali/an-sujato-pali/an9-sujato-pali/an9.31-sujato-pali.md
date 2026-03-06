@@ -22,13 +22,13 @@ language: "English - Pali"
 
 1“Mendicants, there are these nine progressive cessations. What nine?
 
-For someone who has attained the first absorption, sensual perceptions have ceased.
+For someone who has attained the first jhāna, sensual perceptions have ceased.
 
-For someone who has attained the second absorption, the placing of the mind and keeping it connected have ceased.
+For someone who has attained the second jhāna, the placing of the mind and keeping it connected have ceased.
 
-For someone who has attained the third absorption, rapture has ceased.
+For someone who has attained the third jhāna, rapture has ceased.
 
-For someone who has attained the fourth absorption, breathing has ceased.
+For someone who has attained the fourth jhāna, breathing has ceased.
 
 For someone who has attained the dimension of infinite space, the perception of form has ceased.
 

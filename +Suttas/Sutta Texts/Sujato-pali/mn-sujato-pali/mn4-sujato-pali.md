@@ -85,14 +85,14 @@ Then that fear and dread came upon me as I was walking. I didn’t stand still o
 
 18My energy was roused up and unflagging, my mindfulness was established and lucid, my body was tranquil and undisturbed, and my mind was immersed in samādhi.
 
-Quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering.
+Quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering.
 
-As the placing of the mind and keeping it connected were stilled, I entered and remained in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering.
+As the placing of the mind and keeping it connected were stilled, I entered and remained in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering.
 
 
-And with the fading away of rapture, I entered and remained in the third absorption, where I meditated with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’
+And with the fading away of rapture, I entered and remained in the third jhāna, where I meditated with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’
 
-With the giving up of pleasure and pain, and the ending of former happiness and sadness, I entered and remained in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness.
+With the giving up of pleasure and pain, and the ending of former happiness and sadness, I entered and remained in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness.
 
 19When my mind had become immersed in samādhi like this — purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable — I extended it toward recollection of past lives. I recollected many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. I remembered: ‘There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here.’ And so I recollected my many kinds of past lives, with features and details.
 

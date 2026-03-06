@@ -38,10 +38,10 @@ language: "English - Pali"
 These are the four things that are born of love and hate.
 
 
-6A time comes when a mendicant … enters and remains in the first absorption. At that time they have no love born of love, hate born of love, love born of hate, or hate born of hate.
+6A time comes when a mendicant … enters and remains in the first jhāna. At that time they have no love born of love, hate born of love, love born of hate, or hate born of hate.
 
 
-7A time comes when a mendicant … enters and remains in the second absorption … third absorption … fourth absorption. At that time they have no love born of love, hate born of love, love born of hate, or hate born of hate.
+7A time comes when a mendicant … enters and remains in the second jhāna … third jhāna … fourth jhāna. At that time they have no love born of love, hate born of love, love born of hate, or hate born of hate.
 
 8A time comes when a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. At that time any love born of love, hate born of love, love born of hate, or hate born of hate is given up, cut off at the root, made like a palm stump, obliterated, and unable to arise in the future.
 

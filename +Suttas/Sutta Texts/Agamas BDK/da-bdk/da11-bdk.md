@@ -391,12 +391,12 @@ there arises an act of grasping; eighth, because of grasping there arises
 an act of parsimony; and ninth, because of parsimony there arises an act  
 of guarding. (5) What is the ninefold item to be directly experienced by  
 oneself? It means the nine successive stages of the process of cessation:  
-first, when a _bhikṣu_ enters the first meditative absorption there ceases to  
+first, when a _bhikṣu_ enters the first meditative jhāna there ceases to  
 be the sound of auditory faculty; second, when he enters the second med-  
-itative absorption there ceases to be mental activity of thinking and delib-  
-eration; third, when he enters the third meditative absorption there ceases  
+itative jhāna there ceases to be mental activity of thinking and delib-  
+eration; third, when he enters the third meditative jhāna there ceases  
 to be the awareness of delight; fourth, when he enters the fourth meditative  
-absorption there cease to be the signs of inhalation or exhalation; fifth,  
+jhāna there cease to be the signs of inhalation or exhalation; fifth,  
 when he enters the sphere of infinite space, the initial formless state of  
 samādhi, there ceases to be the ideation of external form; sixth,  
 when he enters the sphere of infinite consciousness there ceases to be the  

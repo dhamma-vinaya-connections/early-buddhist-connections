@@ -226,7 +226,7 @@ and dedicate yourself to practice.
 414Free yourself from your former bonds!  
 Wearing your outer robe, with shaven head, eating almsfood,  
 don’t delight in play or sleep,  
-dedicate yourself to absorption, Kātiyāna.
+dedicate yourself to jhāna, Kātiyāna.
 
 ---
 
@@ -354,7 +354,7 @@ I’ll dwell in the forest.
 
 437Developing the seven awakening factors,  
 the faculties and the powers,  
-endowed with subtle absorptions,  
+endowed with subtle jhānas,  
 I’ll dwell without defilements.
 
 438Freed from corruptions,  

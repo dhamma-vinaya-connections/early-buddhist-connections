@@ -22,7 +22,7 @@ language: "English - Pali"
 
 1“Mendicants, there are these four ways of developing immersion further. What four? There is a way of developing immersion further that leads to blissful meditation in the present life. There is a way of developing immersion further that leads to gaining knowledge and vision. There is a way of developing immersion further that leads to mindfulness and awareness. There is a way of developing immersion further that leads to the ending of defilements.
 
-2And what is the way of developing immersion further that leads to blissful meditation in the present life? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption … second absorption … third absorption … fourth absorption. This is the way of developing immersion further that leads to blissful meditation in the present life.
+2And what is the way of developing immersion further that leads to blissful meditation in the present life? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. This is the way of developing immersion further that leads to blissful meditation in the present life.
 
 
 3And what is the way of developing immersion further that leads to gaining knowledge and vision? It’s when a mendicant focuses on the perception of light, concentrating on the perception of day, regardless of whether it’s night or day. And so, with an open and unenveloped heart, they develop a mind that’s full of radiance. This is the way of developing immersion further that leads to gaining knowledge and vision.

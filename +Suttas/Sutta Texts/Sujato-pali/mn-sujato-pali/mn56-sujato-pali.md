@@ -376,7 +376,7 @@ neither leaning forward nor pulling back,
 he’s unstirred, attained to mastery:  
 he is the Buddha, and I am his disciple.
 
-87He has risen up, he practices absorption,  
+87He has risen up, he practices jhāna,  
 not following inner thoughts, he is pure,  
 independent, and fearless;  
 secluded, he has reached the peak,  

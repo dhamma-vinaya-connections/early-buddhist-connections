@@ -22,9 +22,9 @@ language: "English - Pali"
 
 “Mendicants, live by the ethical precepts and the monastic code. Live restrained in the monastic code, conducting yourselves well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken.
 
-A mendicant might wish: ‘May I be liked and approved by my spiritual companions, respected and admired.’ So let them fulfill their precepts, be committed to inner serenity of the heart, not neglect absorption, be endowed with discernment, and frequent empty huts.
+A mendicant might wish: ‘May I be liked and approved by my spiritual companions, respected and admired.’ So let them fulfill their precepts, be committed to inner serenity of the heart, not neglect jhāna, be endowed with discernment, and frequent empty huts.
 
-A mendicant might wish: ‘May I receive robes, alms-food, lodgings, and medicines and supplies for the sick.’ So let them fulfill their precepts, be committed to inner serenity of the heart, not neglect absorption, be endowed with discernment, and frequent empty huts.
+A mendicant might wish: ‘May I receive robes, alms-food, lodgings, and medicines and supplies for the sick.’ So let them fulfill their precepts, be committed to inner serenity of the heart, not neglect jhāna, be endowed with discernment, and frequent empty huts.
 
 A mendicant might wish: ‘May the services of those whose robes, alms-food, lodgings, and medicines and supplies for the sick I enjoy be very fruitful and beneficial for them.’ So let them fulfill their precepts …
 
@@ -34,7 +34,7 @@ A mendicant might wish: ‘May I prevail over desire and discontent, and may des
 
 A mendicant might wish: ‘May I prevail over fear and terror, and may fear and dread not prevail over me. May I live having mastered fear and dread whenever they arose.’ So let them fulfill their precepts …
 
-A mendicant might wish: ‘May I get the four absorptions — blissful meditations in the present life that belong to the higher mind — when I want, without trouble or difficulty.’ So let them fulfill their precepts …
+A mendicant might wish: ‘May I get the four jhānas — blissful meditations in the present life that belong to the higher mind — when I want, without trouble or difficulty.’ So let them fulfill their precepts …
 
 A mendicant might wish: ‘May I have direct meditative experience of the peaceful liberations that are formless, transcending form.’ So let them fulfill their precepts …
 
@@ -54,7 +54,7 @@ A mendicant might wish: ‘May I recollect many kinds of past lives. That is: on
 
 A mendicant might wish: ‘With clairvoyance that is purified and superhuman, may I see sentient beings passing away and being reborn — inferior and superior, beautiful and ugly, in a good place or a bad place — and understand how sentient beings are reborn according to their deeds: “These dear beings did bad things by way of body, speech, and mind. They spoke ill of the noble ones; they had wrong view; and they chose to act out of that wrong view. When their body breaks up, after death, they’re reborn in a place of loss, a bad place, the underworld, hell. These dear beings, however, did good things by way of body, speech, and mind. They never spoke ill of the noble ones; they had right view; and they chose to act out of that right view. When their body breaks up, after death, they’re reborn in a good place, a heavenly realm.” And so, with clairvoyance that is purified and superhuman, may I see sentient beings passing away and being reborn — inferior and superior, beautiful and ugly, in a good place or a bad place. And may I understand how sentient beings are reborn according to their deeds.’ So let them fulfill their precepts …
 
-A mendicant might wish: ‘May I realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with my own insight due to the ending of defilements.’ So let them fulfill their precepts, be committed to inner serenity of the heart, not neglect absorption, be endowed with discernment, and frequent empty huts.
+A mendicant might wish: ‘May I realize the undefiled freedom of heart and freedom by wisdom in this very life, and live having realized it with my own insight due to the ending of defilements.’ So let them fulfill their precepts, be committed to inner serenity of the heart, not neglect jhāna, be endowed with discernment, and frequent empty huts.
 
 ‘Mendicants, live by the ethical precepts and the monastic code. Live restrained in the monastic code, conducting yourselves well and seeking alms in suitable places. Seeing danger in the slightest fault, keep the rules you’ve undertaken.’ That’s what I said, and this is why I said it.”
 

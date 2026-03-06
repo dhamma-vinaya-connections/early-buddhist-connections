@@ -44,7 +44,7 @@ Therefore, if a mendicant might wish: ‘May I enter and remain in emptiness int
 
 7And how does a mendicant still, settle, unify, and immerse their mind in samādhi internally?
 
-It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption … second absorption … third absorption … fourth absorption. That’s how a mendicant stills, settles, unifies, and immerses their mind in samādhi internally.
+It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. That’s how a mendicant stills, settles, unifies, and immerses their mind in samādhi internally.
 
 They focus on emptiness internally, but their mind isn’t eager, confident, settled, and decided. In that case, they understand: ‘I am focusing on emptiness internally, but my mind isn’t eager, confident, settled, and decided.’ In this way they are aware of the situation.
 

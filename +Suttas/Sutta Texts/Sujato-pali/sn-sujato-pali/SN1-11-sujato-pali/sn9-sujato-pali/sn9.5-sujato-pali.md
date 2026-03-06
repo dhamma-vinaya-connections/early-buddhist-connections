@@ -26,7 +26,7 @@ Now at that time Ānanda was spending too much time informing the lay people. Th
 
 2“You’ve left for the jungle, the root of a tree,  
 with quenching in your heart.  
-Practice absorption, Gotama, don’t be negligent!  
+Practice jhāna, Gotama, don’t be negligent!  
 What is this hullabaloo to you?”
 
 3Impelled by that deity, Venerable Ānanda was struck with a sense of urgency.

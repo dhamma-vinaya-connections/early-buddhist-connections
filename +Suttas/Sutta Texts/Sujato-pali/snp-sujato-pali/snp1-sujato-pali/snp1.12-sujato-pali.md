@@ -52,7 +52,7 @@ has given up all, freed in the ending of craving:
 that’s who the wise know as a sage.
 
 212 Strong in wisdom, with precepts and observances intact,  
-serene, loving absorption, mindful,  
+serene, loving jhāna, mindful,  
 released from chains, kind, undefiled:  
 that’s who the wise know as a sage.
 

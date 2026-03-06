@@ -288,14 +288,14 @@ is best of gods and humans.”
 “Ambaṭṭha, it’s when a Realized One arises in the world, perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed. He has realized with his own insight this world — with its gods, Māras and Brahmās, this population with its ascetics and brahmins, gods and humans — and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. A householder hears that teaching, or a householder’s child, or someone reborn in some clan. They gain faith in the Realized One, and reflect …
 
 
-40Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption … This pertains to their conduct.
+40Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna … This pertains to their conduct.
 
-41Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption … This pertains to their conduct.
+41Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna … This pertains to their conduct.
 
-42Furthermore, with the fading away of rapture, they enter and remain in the third absorption … This pertains to their conduct.
+42Furthermore, with the fading away of rapture, they enter and remain in the third jhāna … This pertains to their conduct.
 
 
-43Furthermore, giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth absorption … This pertains to their conduct. This is that conduct.
+43Furthermore, giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna … This pertains to their conduct. This is that conduct.
 
 44When their mind has become immersed in samādhi like this — purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable — they extend it and project it toward knowledge and vision. This pertains to their knowledge. … They understand: ‘There is no return to any state of existence.’ This pertains to their knowledge. This is that knowledge.
 

@@ -22,7 +22,7 @@ language: "English - Pali"
 ‘‘Yo jāgaro ca satimā sampajāno, samāhito mudito vippasanno ca;Kālena so sammā dhammaṃ parivīmaṃsamāno, ekodibhūto vihane tamaṃ so.
 "One who is awake and mindful, with clear comprehension, collected, delighted, and serene; rightly examining the Dhamma in due season, becoming unified, dispels darkness."
 ‘‘Tasmā have jāgariyaṃ bhajetha, ātāpī bhikkhu nipako jhānalābhī;Saṃyojanaṃ jātijarāya chetvā, idheva sambodhimanuttaraṃ phuse’’ti.
-"Therefore, one should cultivate wakefulness, an ardent, wise bhikkhu, one who gains absorption; having cut the fetters of birth and aging, right here one attains the unsurpassed enlightenment."
+"Therefore, one should cultivate wakefulness, an ardent, wise bhikkhu, one who gains jhāna; having cut the fetters of birth and aging, right here one attains the unsurpassed enlightenment."
 Ayampi attho vutto bhagavatā, iti me sutanti. Dasamaṃ.
 This meaning, too, was spoken by the Blessed One, thus I heard. Tenth.
 

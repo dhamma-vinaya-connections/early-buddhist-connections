@@ -24,7 +24,7 @@ language: "English - Pali"
 
 2And what is the training in the higher ethics? It’s when a mendicant is ethical, restrained in the code of conduct, with good behavior and supporters. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. This is called the training in the higher ethics.
 
-3And what is the training in the higher mind? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption … second absorption … third absorption … fourth absorption. This is called the training in the higher mind.
+3And what is the training in the higher mind? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. This is called the training in the higher mind.
 
 4And what is the training in the higher wisdom? It’s when a mendicant realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. This is called the training in the higher wisdom. These are the three trainings.
 
@@ -32,7 +32,7 @@ language: "English - Pali"
 5The higher ethics, the higher mind,  
 and the higher wisdom should be practiced  
 by those energetic, strong, and resolute,  
-practicing absorption, mindful, with guarded senses.
+practicing jhāna, mindful, with guarded senses.
 
 6As before, so after;  
 as after, so before.  

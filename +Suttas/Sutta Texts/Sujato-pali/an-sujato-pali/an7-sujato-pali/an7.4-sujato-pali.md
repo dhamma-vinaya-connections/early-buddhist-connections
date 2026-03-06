@@ -34,7 +34,7 @@ language: "English - Pali"
 6And what is the power of mindfulness? It’s when a noble disciple is mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago. This is called the power of mindfulness.
 
 
-7And what is the power of immersion? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. … Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. This is called the power of immersion.
+7And what is the power of immersion? It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. … Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. This is called the power of immersion.
 
 
 8And what is the power of wisdom? It’s when a noble disciple is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. This is called the power of wisdom.

@@ -265,7 +265,7 @@ multiplying themselves and becoming one again; appearing and disappearing; going
 
 101What seven things should be completely understood? Seven planes of consciousness. There are sentient beings that are diverse in body and diverse in perception, such as human beings, some gods, and some beings in the underworld. This is the first plane of consciousness.
 
-102There are sentient beings that are diverse in body and unified in perception, such as the gods reborn in Brahmā’s Host through the first absorption. This is the second plane of consciousness.
+102There are sentient beings that are diverse in body and unified in perception, such as the gods reborn in Brahmā’s Host through the first jhāna. This is the second plane of consciousness.
 
 103There are sentient beings that are unified in body and diverse in perception, such as the gods of streaming radiance. This is the third plane of consciousness.
 
@@ -440,7 +440,7 @@ The first recitation section is finished.
 
 179What nine things should be completely understood? Nine abodes of sentient beings. There are sentient beings that are diverse in body and diverse in perception, such as human beings, some gods, and some beings in the underworld. This is the first abode of sentient beings.
 
-180There are sentient beings that are diverse in body and unified in perception, such as the gods reborn in Brahmā’s Host through the first absorption. This is the second abode of sentient beings.
+180There are sentient beings that are diverse in body and unified in perception, such as the gods reborn in Brahmā’s Host through the first jhāna. This is the second abode of sentient beings.
 
 181There are sentient beings that are unified in body and diverse in perception, such as the gods of streaming radiance. This is the third abode of sentient beings.
 
@@ -468,9 +468,9 @@ The first recitation section is finished.
 
 192What nine things should be produced? Nine perceptions: the perceptions of ugliness, death, repulsiveness in food, dissatisfaction with the whole world, impermanence, suffering in impermanence, not-self in suffering, giving up, and fading away.
 
-193What nine things should be directly known? Nine progressive meditations. A mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption … second absorption … third absorption … fourth absorption. Going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, they enter and remain in the dimension of infinite space. Going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, they enter and remain in the dimension of infinite consciousness. Going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, they enter and remain in the dimension of nothingness. Going totally beyond the dimension of nothingness, they enter and remain in the dimension of neither perception nor non-perception. Going totally beyond the dimension of neither perception nor non-perception, they enter and remain in the cessation of perception and feeling.
+193What nine things should be directly known? Nine progressive meditations. A mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. Going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, they enter and remain in the dimension of infinite space. Going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, they enter and remain in the dimension of infinite consciousness. Going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, they enter and remain in the dimension of nothingness. Going totally beyond the dimension of nothingness, they enter and remain in the dimension of neither perception nor non-perception. Going totally beyond the dimension of neither perception nor non-perception, they enter and remain in the cessation of perception and feeling.
 
-194What nine things should be realized? Nine progressive cessations. For someone who has attained the first absorption, sensual perceptions have ceased. For someone who has attained the second absorption, the placing of the mind and keeping it connected have ceased. For someone who has attained the third absorption, rapture has ceased. For someone who has attained the fourth absorption, breathing has ceased. For someone who has attained the dimension of infinite space, the perception of form has ceased. For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space has ceased. For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness has ceased. For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness has ceased. For someone who has attained the cessation of perception and feeling, perception and feeling have ceased.
+194What nine things should be realized? Nine progressive cessations. For someone who has attained the first jhāna, sensual perceptions have ceased. For someone who has attained the second jhāna, the placing of the mind and keeping it connected have ceased. For someone who has attained the third jhāna, rapture has ceased. For someone who has attained the fourth jhāna, breathing has ceased. For someone who has attained the dimension of infinite space, the perception of form has ceased. For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space has ceased. For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness has ceased. For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness has ceased. For someone who has attained the cessation of perception and feeling, perception and feeling have ceased.
 
 195So these ninety things that are true, real, and accurate, not unreal, not otherwise were rightly awakened to by the Realized One.
 
@@ -527,7 +527,7 @@ The first recitation section is finished.
 
 219And how does a mendicant have unsullied intentions? It’s when they’ve given up sensual, malicious, and cruel intentions. That’s how a mendicant has unsullied intentions.
 
-220And how has a mendicant stilled the physical process? Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. That’s how a mendicant has stilled the physical process.
+220And how has a mendicant stilled the physical process? Giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. That’s how a mendicant has stilled the physical process.
 
 221And how is a mendicant well freed in mind? It’s when a mendicant’s mind is freed from greed, hate, and delusion. That’s how a mendicant is well freed in mind.
 

@@ -311,7 +311,7 @@ The World-honored One then said to the _bhikṣu_ s:
 I have realized the ultimate experience in the following sets of disciplines,
 namely, the four kinds of application of mental awareness, the four kinds
 of supernormal powers, the four kinds of strenuous effort, the four kinds
-of meditative absorption, the five kinds of spiritual faculties, the five
+of meditative jhāna, the five kinds of spiritual faculties, the five
 kinds of spiritual power, the seven auxiliary disciplines of enlightenment,
 and the eightfold noble path. All of you should be in harmonious unity
 and not allow disputes to arise, because you have been taught by the
@@ -521,24 +521,24 @@ heretical practices of self-mortification in order to obtain happiness. If
 there is this kind of happiness, one should eradicate it immediately.  
 Furthermore, it is just like someone who, distancing himself from  
 avarice and from other evil defilements, realizes the first meditative state  
-of absorption in which there is an awareness of an object and an act of  
+of jhāna in which there is an awareness of an object and an act of  
 examining, while the sense of joy and bliss increase through removal  
 of the cause of birth (i.e., reaching the supramundane realm). This kind  
 of happiness is what the Buddha praises. Again, it is just like someone  
 who, eliminating the awareness of an object and the subjective act of  
 examination, with increasing tranquility or self-confidence, continually  
 applying mental samādhi, enters the second meditative state of  
-absorption in which there is neither the awareness of an object nor a  
+jhāna in which there is neither the awareness of an object nor a  
 subjective act, but the sense of joy and bliss predominate in the arising  
 state of samādhi. This kind of happiness is what the Buddha praises.  
 Again it is just like someone who, with the fading away of the sense of  
 joy but dwelling in the sense of equanimity, fully aware of subtler bliss,  
-reaches the third meditative state of absorption in which he experiences  
+reaches the third meditative state of jhāna in which he experiences  
 the mindfulness, equanimity, and bliss that are sought by the wise and  
 holy practitioner. This kind of happiness is what the Buddha praises.  
 Again, it is just like someone who, having transcended both pain and  
 pleasure and removed sorrow and joy, realizes the fourth meditative  
-state of absorption in which there is neither pain nor pleasure but an  
+state of jhāna in which there is neither pain nor pleasure but an  
 increase of the state of equanimity that consolidates pure and genuine  
 mindfulness. This kind of happiness is what the Buddha praises.  
 If any heretic _brāhmaṇa_ practitioners should ask, “How many mer-  

@@ -516,7 +516,7 @@ himself from his family and relations, shave his hair and beard, and don
 the three robes. Casting aside all finery, chanting the precepts and disci-  
 plines in the Vinaya texts, adhering to the rule of abstaining from taking  
 life, and so on, even up to the realization of the fourth meditative state  
-of absorption, he may thereby acquire supreme bliss. How is this so?  
+of jhāna, he may thereby acquire supreme bliss. How is this so?  
 This realization is only possible through a sustained effort of samādhi,  
 comprising constant mindfulness of enjoying practice as a recluse. O  
 _brāhmaṇa,_ this is regarded as the endowment of the higher ordination  

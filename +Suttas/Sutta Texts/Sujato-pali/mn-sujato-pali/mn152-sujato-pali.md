@@ -67,7 +67,7 @@ That’s how there is the supreme development of the faculties in the training o
 
 12So, Ānanda, I have taught the supreme development of the faculties in the training of the noble one, I have taught the practicing trainee, and I have taught the noble one with developed faculties.
 
-Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice absorption, Ānanda! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
+Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice jhāna, Ānanda! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
 
 
 13That is what the Buddha said. Satisfied, Venerable Ānanda was happy with what the Buddha said.

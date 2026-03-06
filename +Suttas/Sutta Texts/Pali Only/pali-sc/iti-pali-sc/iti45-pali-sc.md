@@ -22,7 +22,7 @@ Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ –
 
 ‘‘Tasmā sadā jhānaratā samāhitā, ātāpino jātikhayantadassino;Māraṃ sasenaṃ abhibhuyya bhikkhavo, bhavatha jātimaraṇassa pāragā’’ti.
 
-"Therefore, always delighting in absorption, composed, ardent, seeing the end of birth, O monks, having overcome Māra together with his army, may you be those who have gone beyond birth and death."
+"Therefore, always delighting in jhāna, composed, ardent, seeing the end of birth, O monks, having overcome Māra together with his army, may you be those who have gone beyond birth and death."
 
 Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 

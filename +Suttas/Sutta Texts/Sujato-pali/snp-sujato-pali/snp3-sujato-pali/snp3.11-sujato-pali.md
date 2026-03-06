@@ -220,9 +220,9 @@ they’d take themselves into the forest;
 and nearing the foot of a tree,  
 the sage would take their seat.
 
-709 That wise one intent on absorption,  
+709 That wise one intent on jhāna,  
 would delight within the forest.  
-They’d practice absorption at the foot of a tree,  
+They’d practice jhāna at the foot of a tree,  
 filling themselves with bliss.
 
 710 Then, at the end of the night,  

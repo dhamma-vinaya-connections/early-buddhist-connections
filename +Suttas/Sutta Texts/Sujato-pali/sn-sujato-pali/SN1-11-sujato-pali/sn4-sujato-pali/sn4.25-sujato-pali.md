@@ -70,7 +70,7 @@ And why does no-one get close to you?”
 
 14“I’ve reached the goal, peace of heart.  
 Having conquered the army of the likable and pleasant,  
-alone, practicing absorption, I awakened to bliss.  
+alone, practicing jhāna, I awakened to bliss.  
 That’s why I don’t get too close to people,  
 and no-one gets too close to me.”
 
@@ -79,17 +79,17 @@ and no-one gets too close to me.”
 
 16“How does a mendicant who has crossed five floods  
 usually meditate here while crossing the sixth?  
-How do they usually practice absorption so that sensual perceptions  
+How do they usually practice jhāna so that sensual perceptions  
 are kept out and don’t get hold of them?”
 
 17“With tranquil body and mind well freed,  
 without making plans, mindful, homeless;  
-understanding the teaching, they practice absorption without placing the mind;  
+understanding the teaching, they practice jhāna without placing the mind;  
 they’re not shaking or drifting or rigid.
 
 18That’s how a mendicant who has crossed five floods  
 usually meditates here while crossing the sixth.  
-That’s how they usually practice absorption so that sensual perceptions  
+That’s how they usually practice jhāna so that sensual perceptions  
 are kept out and don’t get hold of them.”
 
 

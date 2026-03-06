@@ -24,7 +24,7 @@ language: "English - Pali"
 
 There are sentient beings that are diverse in body and diverse in perception, such as human beings, some gods, and some beings in the underworld. This is the first abode of sentient beings.
 
-2There are sentient beings that are diverse in body and unified in perception, such as the gods reborn in Brahmā’s Host through the first absorption. This is the second abode of sentient beings.
+2There are sentient beings that are diverse in body and unified in perception, such as the gods reborn in Brahmā’s Host through the first jhāna. This is the second abode of sentient beings.
 
 3There are sentient beings that are unified in body and diverse in perception, such as the gods of streaming radiance. This is the third abode of sentient beings.
 

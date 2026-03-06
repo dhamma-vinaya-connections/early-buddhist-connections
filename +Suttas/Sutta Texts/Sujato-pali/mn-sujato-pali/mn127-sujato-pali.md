@@ -80,11 +80,11 @@ And then the master builder Pañcakaṅga addressed a man: “Please, mister, go
 
 18“Well then, Reverend Kaccāna, I shall give you a simile. For by means of a simile some sensible people understand the meaning of what is said. Suppose an oil lamp was burning with impure oil and impure wick. Because of the impurity of the oil and the wick it burns dimly, as it were.
 
-In the same way, take some mendicant who meditates determined on pervading ‘corrupted radiance’. Their physical discomfort is not completely settled, their dullness and drowsiness is not completely eradicated, and their restlessness and remorse is not completely eliminated. Because of this they practice absorption dimly, as it were. When their body breaks up, after death, they’re reborn in the company of the gods of corrupted radiance.
+In the same way, take some mendicant who meditates determined on pervading ‘corrupted radiance’. Their physical discomfort is not completely settled, their dullness and drowsiness is not completely eradicated, and their restlessness and remorse is not completely eliminated. Because of this they practice jhāna dimly, as it were. When their body breaks up, after death, they’re reborn in the company of the gods of corrupted radiance.
 
 Suppose an oil lamp was burning with pure oil and pure wick. Because of the purity of the oil and the wick it doesn’t burn dimly, as it were.
 
-In the same way, take some mendicant who meditates determined on pervading ‘pure radiance’. Their physical discomfort is completely settled, their dullness and drowsiness is completely eradicated, and their restlessness and remorse is completely eliminated. Because of this they don’t practice absorption dimly, as it were. When their body breaks up, after death, they’re reborn in the company of the gods of pure radiance.
+In the same way, take some mendicant who meditates determined on pervading ‘pure radiance’. Their physical discomfort is completely settled, their dullness and drowsiness is completely eradicated, and their restlessness and remorse is completely eliminated. Because of this they don’t practice jhāna dimly, as it were. When their body breaks up, after death, they’re reborn in the company of the gods of pure radiance.
 
 “This is the cause, Reverend Kaccāna, this is the reason why, when those deities have been reborn in a single order of gods, some deities there have corrupted radiance, while some have pure radiance.”
 

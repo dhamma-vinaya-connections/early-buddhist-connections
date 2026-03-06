@@ -291,7 +291,7 @@ a lazy person who lacks energy.
 266Dwell with the noble ones  
 who are secluded and determined  
 and always energetic;  
-the astute who practice absorption.
+the astute who practice jhāna.
 
 ##### Angaṇikabhāradvājatheragāthā
 

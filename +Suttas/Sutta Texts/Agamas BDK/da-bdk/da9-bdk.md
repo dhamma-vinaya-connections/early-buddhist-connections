@@ -177,14 +177,14 @@ motivated by desire. It is the same with the other three cases: through
 samādhi motivated by mind, motivated by endeavor, and motivated  
 by investigation.  
 (14) Again there is another fourfold doctrine that explains four  
-kinds of meditative absorption ( _dhyāna-samādhi_ ): first, a _bhikṣu_ con-  
+kinds of meditative jhāna ( _dhyāna-samādhi_ ): first, a _bhikṣu_ con-  
 templates the eradication of defilements, such as desire, evil, and unfa-  
-vorable things, and realizes the first meditative state of absorption, in  
+vorable things, and realizes the first meditative state of jhāna, in  
 which there is awareness of objects and the act of examining while  
 the sense of joy and bliss increases. Second, he eliminates awareness  
 of objects and the subjective act of examination, with increasing tran-  
 quility or self-confidence, continually applying samādhi of the  
-mind, and proceeds to the second meditative state of absorption in  
+mind, and proceeds to the second meditative state of jhāna in  
 which there is neither the awareness of an object nor subjective acts  
 but a sense of joy and bliss predominate in the arising state of con-  
 centration. Third, he distances himself from a sense of joy but dwells

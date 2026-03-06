@@ -153,7 +153,7 @@ and his tail is seclusion.
 
 ---
 
-696Practicing absorption, enjoying the breath,  
+696Practicing jhāna, enjoying the breath,  
 he is serene within.  
 The giant is serene when walking,  
 the giant is serene when standing,

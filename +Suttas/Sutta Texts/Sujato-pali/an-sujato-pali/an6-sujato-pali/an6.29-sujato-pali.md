@@ -41,7 +41,7 @@ It’s when a mendicant recollects many kinds of past lives. That is: one, two, 
 
 4“Sir, there are five topics for recollection. What five?
 
-Firstly, a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption … second absorption … third absorption. When this topic of recollection is developed and cultivated in this way it leads to blissful meditation in this very life.
+Firstly, a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna. When this topic of recollection is developed and cultivated in this way it leads to blissful meditation in this very life.
 
 5Furthermore, a mendicant focuses on the perception of light, concentrating on the perception of day regardless of whether it is night or day. And so, with an open and unenveloped heart, they develop a mind that’s full of radiance. When this topic of recollection is developed and cultivated in this way it leads to knowledge and vision.
 
@@ -53,7 +53,7 @@ Firstly, a mendicant, quite secluded from sensual pleasures, secluded from unski
 
 9Furthermore, suppose they were to see a corpse thrown in a charnel ground, a skeleton with flesh and blood, held together by sinews … A skeleton without flesh but smeared with blood, and held together by sinews … A skeleton rid of flesh and blood, held together by sinews … Bones rid of sinews scattered in every direction. Here a hand-bone, there a foot-bone, here a shin-bone, there a thigh-bone, here a hip-bone, there a rib-bone, here a back-bone, there an arm-bone, here a neck-bone, there a jaw-bone, here a tooth, there the skull … White bones, the color of shells … Decrepit bones, heaped in a pile … Bones rotted and crumbled to powder. They’d compare it with their own body: ‘This body is also of that same nature, that same kind, and cannot go beyond that.’ When this topic of recollection is developed and cultivated in this way it leads to uprooting the conceit ‘I am’.
 
-10Furthermore, a mendicant, giving up pleasure and pain, and ending former happiness and sadness, enters and remains in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. When this topic of recollection is developed and cultivated in this way it leads to the penetration of many elements.
+10Furthermore, a mendicant, giving up pleasure and pain, and ending former happiness and sadness, enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. When this topic of recollection is developed and cultivated in this way it leads to the penetration of many elements.
 
 These are the five topics for recollection.”
 

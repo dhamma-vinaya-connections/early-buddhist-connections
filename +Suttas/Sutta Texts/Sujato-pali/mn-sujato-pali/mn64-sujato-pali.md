@@ -84,12 +84,12 @@ Suppose the river Ganges was full to the brim so a crow could drink from it. The
 In the same way, when the Dhamma is being taught for the cessation of identity view, someone whose mind is eager, confident, settled, and decided should be regarded as being like that strong person.
 
 
-17And what, Ānanda, is the path and the practice for giving up the five lower fetters? It’s when a mendicant — due to the seclusion from attachments, the giving up of unskillful qualities, and the complete settling of physical discomfort — quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering.
+17And what, Ānanda, is the path and the practice for giving up the five lower fetters? It’s when a mendicant — due to the seclusion from attachments, the giving up of unskillful qualities, and the complete settling of physical discomfort — quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering.
 
 They contemplate the phenomena there — included in form, feeling, perception, choices, and consciousness — as impermanent, as suffering, as diseased, as an abscess, as a dart, as misery, as an affliction, as alien, as falling apart, as empty, as not-self. They turn their mind away from those things, and apply it to the deathless element: ‘This is peaceful; this is sublime — that is, the stilling of all activities, the letting go of all attachments, the ending of craving, cessation, extinguishment.’ Abiding in that they attain the ending of defilements. If they don’t attain the ending of defilements, with the ending of the five lower fetters they’re reborn spontaneously, because of their passion and love for that meditation. They are extinguished there, and are not liable to return from that world. This is the path and the practice for giving up the five lower fetters.
 
 
-18Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption … third absorption … fourth absorption.
+18Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna … third jhāna … fourth jhāna.
 
 They contemplate the phenomena there as impermanent … They turn their mind away from those things … If they don’t attain the ending of defilements, they’re reborn spontaneously … and are not liable to return from that world. This too is the path and the practice for giving up the five lower fetters.
 

@@ -115,7 +115,7 @@ It’s like when the elephant trainer dug a large post into the earth and tether
 
 18Then the Realized One guides them further: ‘Come, mendicant, meditate observing an aspect of the body, but don’t think thoughts connected with sensual pleasures. Meditate observing an aspect of feelings … mind … principles, but don’t think thoughts connected with sensual pleasures.’
 
-19As the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption … third absorption … fourth absorption.
+19As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna … third jhāna … fourth jhāna.
 
 When their mind has become immersed in samādhi like this — purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable — they extend it toward recollection of past lives. They recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. And so they recollect their many kinds of past lives, with features and details.
 

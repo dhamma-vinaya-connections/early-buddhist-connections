@@ -47,7 +47,7 @@ your bad self inside yourself.
 6The gods and the Realized One see  
 the fool who lives unjustly in the world.  
 So with yourself in charge, live mindfully;  
-with the world in charge, be alert and practice absorption;  
+with the world in charge, be alert and practice jhāna;  
 with the teaching in charge, live in line with that teaching:  
 a sage who tries for the truth doesn’t deteriorate.
 

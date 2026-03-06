@@ -14,15 +14,15 @@ language: "English - Pali"
 
 ## 6: The Book of the Sixes
 
-### VII. A God — AN 6.73: First Absorption (1st)
+### VII. A God — AN 6.73: First jhāna (1st)
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, without giving up these six qualities you can’t enter and remain in the first absorption. What six? Desire for sensual pleasures, ill will, dullness and drowsiness, restlessness and remorse, and doubt. And the drawbacks of sensual pleasures haven’t been truly seen clearly with right wisdom. Without giving up these six qualities you can’t enter and remain in the first absorption.
+1“Mendicants, without giving up these six qualities you can’t enter and remain in the first jhāna. What six? Desire for sensual pleasures, ill will, dullness and drowsiness, restlessness and remorse, and doubt. And the drawbacks of sensual pleasures haven’t been truly seen clearly with right wisdom. Without giving up these six qualities you can’t enter and remain in the first jhāna.
 
-2But after giving up these six qualities you can enter and remain in the first absorption. What six? Desire for sensual pleasures, ill will, dullness and drowsiness, restlessness and remorse, and doubt. And the drawbacks of sensual pleasures have been truly seen clearly with right wisdom. After giving up these six qualities you can enter and remain in the first absorption.”
+2But after giving up these six qualities you can enter and remain in the first jhāna. What six? Desire for sensual pleasures, ill will, dullness and drowsiness, restlessness and remorse, and doubt. And the drawbacks of sensual pleasures have been truly seen clearly with right wisdom. After giving up these six qualities you can enter and remain in the first jhāna.”
 
 1"Cha, bhikkhave, dhamme appahāya abhabbo paṭhamaṁ jhānaṁ upasampajja viharituṁ. Katame cha? Kāmacchandaṁ, byāpādaṁ, thinamiddhaṁ, uddhaccakukkuccaṁ, vicikicchaṁ. Kāmesu kho panassa ādīnavo na yathābhūtaṁ sammappaññāya sudiṭṭho hoti. Ime kho, bhikkhave, cha dhamme appahāya abhabbo paṭhamaṁ jhānaṁ upasampajja viharituṁ.
 

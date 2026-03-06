@@ -35,7 +35,7 @@ language: "English - Pali"
 
 6Take a mendicant who memorizes the teaching — statements, songs, discussions, verses, inspired exclamations, legends, stories of past lives, amazing stories, and classifications. And they do understand the higher meaning. That’s how a mendicant is one who lives by the teaching.
 
-7So, mendicant, I’ve taught you the one who studies a lot, the one who advocates a lot, the one who recites a lot, the one who thinks a lot, and the one who lives by the teaching. Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice absorption, mendicant! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
+7So, mendicant, I’ve taught you the one who studies a lot, the one who advocates a lot, the one who recites a lot, the one who thinks a lot, and the one who lives by the teaching. Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice jhāna, mendicant! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
 
 #### Pali
 

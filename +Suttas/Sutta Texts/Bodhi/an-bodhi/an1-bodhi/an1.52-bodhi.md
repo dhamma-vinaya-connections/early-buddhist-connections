@@ -1,0 +1,31 @@
+---
+sutta_code: "AN1.52"
+sutta_title:
+  - "Paṇihitaaccha "
+  - "Spike"
+sutta-version: "Ven. Bodhi"
+language: "English"
+---
+
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.52]]
+> ◄  [[an1.51-bodhi]] 📜  [[an1.53-bodhi]] ►
+
+# AN1.52
+
+> **Division:** VI. LUMINOUS
+
+“Luminous, bhikkhus, is this mind, and it is freed from adventitious defilements. The instructed noble disciple understands this as it really is; therefore I say that for the instructed noble disciple there is development of the mind.”
+
+
+---
+
+## 🌿 Sutta Connections
+
+> [!check]  Click for [available texts and translations ](obsidian://search?query=file:an1.52-) 
+
+> [!check] Parallels 
+> | In Nikayas  | In Āgamas  | PTS     |
+> | ----------- | ---------- | ------- |
+> |  |  | A i 10 |
+> [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN1]]  / 🌐 [[AN1.52]]
+> ◄  [[an1.51-bodhi]] 📜  [[an1.53-bodhi]] ►

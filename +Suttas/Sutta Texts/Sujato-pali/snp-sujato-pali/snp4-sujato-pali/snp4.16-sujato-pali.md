@@ -118,7 +118,7 @@ Guarded in these things, walking restrained in the village,
 they wouldn’t speak harshly even when provoked.
 
 972 Eyes downcast, not footloose,  
-devoted to absorption, they’d be very wakeful.  
+devoted to jhāna, they’d be very wakeful.  
 Grounded in equanimity, serene,  
 they should cut off worrisome habits of thought.
 

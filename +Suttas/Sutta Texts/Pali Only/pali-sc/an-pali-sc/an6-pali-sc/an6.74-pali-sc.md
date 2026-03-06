@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 6: The Book of the Sixes
-### AN 6.74: Dutiyatajjhānasutta — First Absorption (2nd)
+### AN 6.74: Dutiyatajjhānasutta — First jhāna (2nd)
 
 1"Cha, bhikkhave, dhamme appahāya abhabbo paṭhamaṁ jhānaṁ upasampajja viharituṁ. Katame cha? Kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ, kāmasaññaṁ, byāpādasaññaṁ, vihiṁsāsaññaṁ – ime kho, bhikkhave, cha dhamme appahāya abhabbo paṭhamaṁ jhānaṁ upasampajja viharituṁ.
 

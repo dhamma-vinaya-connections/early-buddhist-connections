@@ -247,10 +247,10 @@ The first recitation section is finished.
 
 52After some time he got this good reputation: “The Great Steward sees Brahmā in person! The Great Steward discusses, converses, and consults with Brahmā in person!”
 
-The Great Steward thought: “I have the reputation of seeing Brahmā in person, and discussing with him in person. But I don’t. I have heard that brahmins of the past who were elderly and senior, the teachers of teachers, said: ‘Whoever goes on retreat for the four months of the rainy season and practices the absorption on compassion sees Brahmā and discusses with him.’ Why don’t I do that?”
+The Great Steward thought: “I have the reputation of seeing Brahmā in person, and discussing with him in person. But I don’t. I have heard that brahmins of the past who were elderly and senior, the teachers of teachers, said: ‘Whoever goes on retreat for the four months of the rainy season and practices the jhāna on compassion sees Brahmā and discusses with him.’ Why don’t I do that?”
 
 
-53So the Great Steward went to King Reṇu and told him of the situation, saying: “Sir, I wish to go on retreat for the four months of the rainy season and practice the absorption on compassion. No one should approach me, except for the one who brings my meal.”  
+53So the Great Steward went to King Reṇu and told him of the situation, saying: “Sir, I wish to go on retreat for the four months of the rainy season and practice the jhāna on compassion. No one should approach me, except for the one who brings my meal.”  
   
 “Please do so, Steward, at your convenience.”
 
@@ -266,9 +266,9 @@ And they too said: “Please do so, Steward, at your convenience.”
 56Then the Great Steward went to his forty equal wives to put the same proposal to them, and received the same reply.
 
 
-57Then the Great Steward had a new meeting hall built to the east of his citadel, where he went on retreat for the four months of the rainy season and practiced the absorption on compassion. And no one approached him except the one who brought him meals.
+57Then the Great Steward had a new meeting hall built to the east of his citadel, where he went on retreat for the four months of the rainy season and practiced the jhāna on compassion. And no one approached him except the one who brought him meals.
 
-But then, when the four months had passed, the Great Steward became dissatisfied and anxious: “I have heard that brahmins of the past said that whoever goes on retreat for the four months of the rainy season and practices the absorption on compassion sees Brahmā and discusses with him. But I neither see Brahmā nor discuss with him.”
+But then, when the four months had passed, the Great Steward became dissatisfied and anxious: “I have heard that brahmins of the past said that whoever goes on retreat for the four months of the rainy season and practices the jhāna on compassion sees Brahmā and discusses with him. But I neither see Brahmā nor discuss with him.”
 
 #### 6.3. A Discussion With Brahmā
 

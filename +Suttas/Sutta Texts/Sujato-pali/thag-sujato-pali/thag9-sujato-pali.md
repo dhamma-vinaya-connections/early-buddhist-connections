@@ -22,17 +22,17 @@ language: "English - Pali"
 
 518When an astute person knows, “Old age and death are suffering;  
 yet an ignorant ordinary person is bound to them”,  
-completely understanding suffering, being mindful, practicing absorption:  
+completely understanding suffering, being mindful, practicing jhāna:  
 there is no greater pleasure than this.
 
 519When clinging, the carrier of suffering,  
 and craving, the carrier of this painful mass of proliferation,  
-are destroyed, and one is mindful, practicing absorption:  
+are destroyed, and one is mindful, practicing jhāna:  
 there is no greater pleasure than this.
 
 520When the eightfold way, so full of grace,  
 the supreme path, cleanser of all corruptions,  
-is seen with wisdom; and one is mindful, practicing absorption:  
+is seen with wisdom; and one is mindful, practicing jhāna:  
 there is no greater pleasure than this.
 
 521When one develops that peaceful state,  
@@ -42,27 +42,27 @@ there is no greater pleasure than this.
 
 522When the thunder-cloud rumbles in the sky,  
 while the rain pours on the path of birds all around,  
-and a monk has gone to a mountain cave, practicing absorption:  
+and a monk has gone to a mountain cave, practicing jhāna:  
 there is no greater pleasure than this.
 
 523When sitting on a riverbank covered in flowers,  
 garlanded with brightly colored forest plants,  
-one is truly happy, practicing absorption:  
+one is truly happy, practicing jhāna:  
 there is no greater pleasure than this.
 
 524When it is midnight in a lonely forest,  
 and the lions roar as the heavens pour,  
-and a monk has gone to a mountain cave, practicing absorption:  
+and a monk has gone to a mountain cave, practicing jhāna:  
 there is no greater pleasure than this.
 
 525When one’s own thoughts have been cut off,  
 between the mountains, sheltered inside a cleft,  
-without stress or heartlessness, practicing absorption:  
+without stress or heartlessness, practicing jhāna:  
 there is no greater pleasure than this.
 
 526When one is happy, destroyer of stains, heartlessness, and sorrow,  
 free of obstructions, entanglements, and thorns,  
-and with all defilements annihilated, practicing absorption:  
+and with all defilements annihilated, practicing jhāna:  
 there is no greater pleasure than this.
 
 ##### Bhūtattheragāthā

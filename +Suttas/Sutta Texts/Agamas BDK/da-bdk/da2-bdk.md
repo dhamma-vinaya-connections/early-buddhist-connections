@@ -1233,7 +1233,7 @@ At that time, the Buddha said to Ānanda:
 
 and holy practitioner. Next, transcending both pain and pleasure,  
 removing sorrow and joy, he realized the fourth meditative state of  
-absorption in which there is neither pain nor pleasure, but an increase  
+jhāna in which there is neither pain nor pleasure, but an increase  
 of the state of equanimity ( _upekṣā_ ) that consolidates pure and genuine  
 mindfulness.  
 Thereupon, King Sudarśana arose from the silver chair, came out  
@@ -1486,10 +1486,10 @@ indolence. Of all things in this world, there is nothing whatsoever that
 exists forever. This is the teaching exhorted by the Tathāgata in his last  
 moment of life.  
 Thereupon, the World-honored One entered the initial state of meditative  
-absorption; coming out of this state he then entered the second state of med-  
-itative absorption; coming out of this state he then entered the third state of  
-meditative absorption; coming out of this state he then entered the fourth  
-state of meditative absorption; coming out of this state he then entered the  
+jhāna; coming out of this state he then entered the second state of med-  
+itative jhāna; coming out of this state he then entered the third state of  
+meditative jhāna; coming out of this state he then entered the fourth  
+state of meditative jhāna; coming out of this state he then entered the  
 first formless state of samādhi on the sphere of infinite space; coming  
 out of this state he then entered the second formless state of samādhi  
 on the sphere of infinite consciousness; coming out of this state he then  
@@ -1504,21 +1504,21 @@ entered final nirvana?” Anuruddha replied:
 
 Not yet. O Ānanda, the World-honored One is now in the state of ces-  
 sation. In olden days I directly heard from the Buddha that the final  
-nirvana is entered from the fourth meditative state of absorption.  
+nirvana is entered from the fourth meditative state of jhāna.  
 Then at that time, the World-honored One, coming out of the state of ces-  
 sation of ideation, entered into samādhi on the sphere of “neither ideation  
 nor nonideation”; coming out of this state he then entered into samādhi  
 on the sphere of nothing or nonutility; coming out of this state he then entered  
 into samādhi on the sphere of consciousness; coming out of this state  
 he then entered into samādhi on the sphere of space; coming out of this  
-state he then entered into the fourth meditative absorption ( _rūpa-dhyāna-  
+state he then entered into the fourth meditative jhāna ( _rūpa-dhyāna-  
 samādhi_ ); coming out of this state he then entered into the third meditative  
-absorption; coming out of this state he then entered into the second med-  
-itative absorption; coming out of this state he then entered into the first  
-meditative absorption; coming out of this state he then entered into the sec-  
-ond meditative absorption; coming out of this state he then entered into  
-the third meditative absorption; coming out of this state he then entered  
-into the fourth meditative absorption; coming out of this state he then  
+jhāna; coming out of this state he then entered into the second med-  
+itative jhāna; coming out of this state he then entered into the first  
+meditative jhāna; coming out of this state he then entered into the sec-  
+ond meditative jhāna; coming out of this state he then entered into  
+the third meditative jhāna; coming out of this state he then entered  
+into the fourth meditative jhāna; coming out of this state he then  
 entered final nirvana.  
 Just at that moment the earth trembled greatly and heavenly gods and  
 humans were greatly terrified. Various underworlds, dark and gloomy, in  

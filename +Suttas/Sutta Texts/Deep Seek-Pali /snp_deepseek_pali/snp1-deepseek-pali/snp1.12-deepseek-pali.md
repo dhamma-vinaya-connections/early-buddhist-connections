@@ -48,7 +48,7 @@ The all-conquering, all-knowing, wise, untainted by all things, the all-renounci
 
 Paññābalaṃ sīlavatūpapannaṃ, samāhitaṃ jhānarataṃ satīmaṃ;Saṅgā pamuttaṃ akhilaṃ anāsavaṃ, taṃ vāpi dhīrā muni vedayanti.
 
-Him who is endowed with the strength of wisdom, virtuous, composed, delighting in absorption, mindful; freed from attachment, free from defect, without influxes—him, too, the wise declare a sage.
+Him who is endowed with the strength of wisdom, virtuous, composed, delighting in jhāna, mindful; freed from attachment, free from defect, without influxes—him, too, the wise declare a sage.
 
 215.
 

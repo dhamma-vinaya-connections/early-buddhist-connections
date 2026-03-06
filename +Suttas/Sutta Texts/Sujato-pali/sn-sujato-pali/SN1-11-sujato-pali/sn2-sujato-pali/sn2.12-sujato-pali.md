@@ -27,7 +27,7 @@ who pay homage to the Holy One!
 They apply themselves to Gotama’s instructions,  
 diligently training.”
 
-2“Those who practice absorption in accord with the training”, said the Buddha to Vishnu,  
+2“Those who practice jhāna in accord with the training”, said the Buddha to Vishnu,  
 “in the way of teaching I’ve proclaimed,  
 they’re in time to be diligent;  
 they won’t fall under the sway of Death.”

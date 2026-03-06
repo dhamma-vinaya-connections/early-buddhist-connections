@@ -1411,14 +1411,14 @@ These were the Realized One’s last words.
 
 #### 36. The Full Extinguishment
 
-89Then the Buddha entered the first absorption. Emerging from that, he entered the second absorption. Emerging from that, he successively entered into and emerged from the third absorption, the fourth absorption, the dimension of infinite space, the dimension of infinite consciousness, the dimension of nothingness, and the dimension of neither perception nor non-perception. Then he entered the cessation of perception and feeling.
+89Then the Buddha entered the first jhāna. Emerging from that, he entered the second jhāna. Emerging from that, he successively entered into and emerged from the third jhāna, the fourth jhāna, the dimension of infinite space, the dimension of infinite consciousness, the dimension of nothingness, and the dimension of neither perception nor non-perception. Then he entered the cessation of perception and feeling.
 
 
 Then Venerable Ānanda said to Venerable Anuruddha: “Venerable Anuruddha, has the Buddha become fully extinguished?”
 
 “No, Reverend Ānanda. He has entered the cessation of perception and feeling.”
 
-Then the Buddha emerged from the cessation of perception and feeling and entered the dimension of neither perception nor non-perception. Emerging from that, he successively entered into and emerged from the dimension of nothingness, the dimension of infinite consciousness, the dimension of infinite space, the fourth absorption, the third absorption, the second absorption, and the first absorption. Emerging from that, he successively entered into and emerged from the second absorption and the third absorption. Then he entered the fourth absorption. Emerging from that the Buddha immediately became fully extinguished.
+Then the Buddha emerged from the cessation of perception and feeling and entered the dimension of neither perception nor non-perception. Emerging from that, he successively entered into and emerged from the dimension of nothingness, the dimension of infinite consciousness, the dimension of infinite space, the fourth jhāna, the third jhāna, the second jhāna, and the first jhāna. Emerging from that, he successively entered into and emerged from the second jhāna and the third jhāna. Then he entered the fourth jhāna. Emerging from that the Buddha immediately became fully extinguished.
 
 90When the Buddha became fully extinguished, along with the full extinguishment there was a great earthquake, awe-inspiring and hair-raising, and thunder cracked the sky. When the Buddha became fully extinguished, Brahmā Sahampati recited this verse:
 

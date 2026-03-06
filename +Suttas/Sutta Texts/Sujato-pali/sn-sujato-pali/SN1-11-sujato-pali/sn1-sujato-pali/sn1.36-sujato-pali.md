@@ -47,7 +47,7 @@ as their best treasure.
 
 6Don’t devote yourself to negligence,  
 or delight in sexual intimacy.  
-For if you’re diligent and practice absorption,  
+For if you’re diligent and practice jhāna,  
 you’ll attain the highest happiness.”
 
 #### Pali

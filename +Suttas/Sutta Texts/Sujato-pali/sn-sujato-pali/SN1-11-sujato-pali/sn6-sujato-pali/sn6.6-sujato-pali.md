@@ -51,7 +51,7 @@ That Brahmā saw those Brahmās coming off in the distance and said to them: “
 Then that Brahmā addressed Subrahmā in verse:
 
 6“There are three hundreds of phoenixes, four of swans, and five of eagles.  
-This palace belongs to him who practiced absorption.  
+This palace belongs to him who practiced jhāna.  
 It shines, Brahmā,  
 lighting up the northern quarter!”
 

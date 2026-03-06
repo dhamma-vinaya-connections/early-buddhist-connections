@@ -31,7 +31,7 @@ Now at that time two renunciates— the wanderer Muṇḍiya and Jāliya the pup
 “Take the case when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. …
 
 
-3They enter and remain in the first absorption …
+3They enter and remain in the first jhāna …
 
 When a mendicant knows and sees like this, would it be appropriate to say of them: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’?”
 
@@ -39,7 +39,7 @@ When a mendicant knows and sees like this, would it be appropriate to say of the
 “It would, reverend.”
 
 
-“But reverends, I know and see like this. Nevertheless, I do not say: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’. … They enter and remain in the second absorption … third absorption … fourth absorption.
+“But reverends, I know and see like this. Nevertheless, I do not say: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’. … They enter and remain in the second jhāna … third jhāna … fourth jhāna.
 
 
 When a mendicant knows and sees like this, would it be appropriate to say of them: ‘The soul and the body are the same thing’ or ‘The soul and the body are different things’?”

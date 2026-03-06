@@ -42,7 +42,7 @@ A mendicant is ethical, restrained in the monastic code, conducting themselves w
 They’re very learned, remembering and keeping what they’ve learned. These teachings are good in the beginning, good in the middle, and good in the end, meaningful and well-phrased, describing a spiritual practice that’s entirely full and pure. They are very learned in such teachings, remembering them, reinforcing them by recitation, mentally scrutinizing them, and comprehending them theoretically.
 
 
-They get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
+They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
 They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 

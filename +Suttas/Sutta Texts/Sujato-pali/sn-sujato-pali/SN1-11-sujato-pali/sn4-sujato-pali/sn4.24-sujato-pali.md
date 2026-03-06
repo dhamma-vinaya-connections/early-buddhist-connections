@@ -33,9 +33,9 @@ Why don’t you get too close to people?
 And why does no-one get close to you?”
 
 3“I’ve dug out the root of sorrow completely.  
-I practice absorption free of guilt or sorrow.  
+I practice jhāna free of guilt or sorrow.  
 I’ve cut off all greed and hunger for future lives.  
-Undefiled, I practice absorption, O kinsman of the negligent!”
+Undefiled, I practice jhāna, O kinsman of the negligent!”
 
 4“The things they call ‘mine’,  
 and those who say ‘it’s mine’:  

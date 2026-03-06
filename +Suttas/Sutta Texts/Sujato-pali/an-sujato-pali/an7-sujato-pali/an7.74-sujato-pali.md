@@ -55,7 +55,7 @@ Living for 2, 400 fortnights, there are just 36, 000 days, 12, 000 in each of th
 
 So mendicants, for a human being with a hundred years life span I have counted the life span, the limit of the life span, the seasons, the years, the months, the fortnights, the nights, the days, the meals, and the things that prevent them from eating.
 
-Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice absorption, mendicants! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
+Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice jhāna, mendicants! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
 
 
 1"Bhūtapubbaṁ, bhikkhave, arako nāma satthā ahosi titthakaro kāmesu vītarāgo. Arakassa kho pana, bhikkhave, satthuno anekāni sāvakasatāni ahesuṁ. Arako satthā sāvakānaṁ evaṁ dhammaṁ deseti:  ‘appakaṁ, brāhmaṇa, jīvitaṁ manussānaṁ parittaṁ lahukaṁ bahudukkhaṁ bahupāyāsaṁ mantāyaṁ boddhabbaṁ, kattabbaṁ kusalaṁ, caritabbaṁ brahmacariyaṁ, natthi jātassa amaraṇaṁ.

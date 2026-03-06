@@ -185,7 +185,7 @@ at the time appointed for the marriage.
 482 Then Sumedhā took up a knife,  
 and cut off her hair, so black, thick, and soft.  
 Shutting herself in the longhouse,  
-she entered the first absorption.
+she entered the first jhāna.
 
 483 And as she entered it there,  
 Anīkaratta arrived at the city.  

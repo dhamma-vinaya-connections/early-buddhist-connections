@@ -26,7 +26,7 @@ Firstly, the Realized One truly understands the possible as possible and the imp
 
 2Furthermore, the Realized One truly understands the result of deeds undertaken in the past, future, and present in terms of causes and reasons. Since he truly understands this, this is a power of the Realized One. …
 
-3Furthermore, the Realized One truly understands corruption, cleansing, and emergence regarding the absorptions, liberations, immersions, and attainments. Since he truly understands this, this is a power of the Realized One. …
+3Furthermore, the Realized One truly understands corruption, cleansing, and emergence regarding the jhānas, liberations, immersions, and attainments. Since he truly understands this, this is a power of the Realized One. …
 
 
 4Furthermore, the Realized One recollects many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. He remembers: ‘There, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn somewhere else. There, too, I was named this, my clan was that, I looked like this, and that was my food. This was how I felt pleasure and pain, and that was how my life ended. When I passed away from that place I was reborn here.’ And so he recollects his many kinds of past lives, with features and details. Since he truly understands this, this is a power of the Realized One. …
@@ -43,7 +43,7 @@ These are the six powers of a Realized One that the Realized One possesses. With
 
 8If others come to the Realized One and ask questions about his true knowledge of the result of deeds undertaken in the past, future, and present in terms of causes and reasons, the Realized One answers them in whatever manner he has truly known it.
 
-9If others come to the Realized One and ask questions about his true knowledge of corruption, cleansing, and emergence regarding the absorptions, liberations, immersions, and attainments, the Realized One answers them in whatever manner he has truly known it.
+9If others come to the Realized One and ask questions about his true knowledge of corruption, cleansing, and emergence regarding the jhānas, liberations, immersions, and attainments, the Realized One answers them in whatever manner he has truly known it.
 
 10If others come to the Realized One and ask questions about his true knowledge of recollection of past lives, the Realized One answers them in whatever manner he has truly known it.
 
@@ -56,7 +56,7 @@ These are the six powers of a Realized One that the Realized One possesses. With
 
 And true knowledge of the result of deeds undertaken in the past, future, and present in terms of causes and reasons is for those with immersion, not for those without immersion.
 
-And true knowledge of corruption, cleansing, and emergence regarding the absorptions, liberations, immersions, and attainments is for those with immersion, not for those without immersion.
+And true knowledge of corruption, cleansing, and emergence regarding the jhānas, liberations, immersions, and attainments is for those with immersion, not for those without immersion.
 
 And true knowledge of the recollection of past lives is for those with immersion, not for those without immersion.
 

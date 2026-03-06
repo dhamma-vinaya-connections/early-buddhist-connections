@@ -30,7 +30,7 @@ What kind of person lives on after transcending suffering?
 What kind of person is worshipped by the deities?”
 
 3“A person who is ethical, wise, self-developed,  
-becomes immersed in samādhi, loving absorption, mindful,  
+becomes immersed in samādhi, loving jhāna, mindful,  
 who’s gotten rid of and given up all sorrows,  
 with defilements ended, they bear their final body.
 

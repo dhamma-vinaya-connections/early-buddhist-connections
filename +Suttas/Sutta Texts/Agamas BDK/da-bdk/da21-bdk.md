@@ -953,14 +953,14 @@ forsake all evil desires and all that is not good, even though there may be
 awareness of an object ( _you jia; vitarka_ ) and the act of examining ( _you  
 guan; vicāra_ ), you will acquire the sense of joy ( _prīti_ ) and bliss ( _sukha_ )  
 that removes the cause of birth. You will enter the first meditative state  
-of absorption ( _dhyāna_ ). This may be regarded as nirvana acquired in the  
+of jhāna ( _dhyāna_ ). This may be regarded as nirvana acquired in the  
 present life.” This is the second variation.  
 A third group asserts, “I think that this is the nirvana acquired in the  
 present life and I cannot deny this subtle state. You may not understand  
 it as I alone have experienced it. If you eliminate awareness of an object  
 and the subjective act of examination, with increasing tranquility or self-  
 confidence (Pāli _saṃpasādana_ ) and continual application of mental con-  
-centration, you will proceed to the second meditative state of absorption.  
+centration, you will proceed to the second meditative state of jhāna.  
 According to my experience, this may be regarded as nirvana acquired  
 in the present life.” This is the third variation.  
 A fourth group asserts, “I think that this is the nirvana acquired in the  
@@ -968,7 +968,7 @@ present life and I cannot deny this state of subtlety. You may not understand
 it as I alone have experienced it. If you eliminate defiled affectations and  
 forsake the feeling of delight while remaining mindful of the blissful state  
 and experience it in the body, which the wise and saintly disciples commend,  
-you will then enter the third meditative state of absorption. According to
+you will then enter the third meditative state of jhāna. According to
 
 my experience, this may be regarded as nirvana acquired in the present
 life.” This is the fourth variation.
@@ -977,7 +977,7 @@ present life and I cannot deny this subtle state. You may not understand
 it as I alone have experienced it. If you eradicate feelings of happiness
 and suffering and remove sorrow and joy, as I have done, you will realize
 the state of equanimity in which neither suffering nor pleasure is experi-
-enced, and thus enter the fourth meditative state of absorption, which is
+enced, and thus enter the fourth meditative state of jhāna, which is
 primary nirvana.” This is the fifth variation.
 When śramaṇa s and brāhmaṇa s speculate in regard to the final eon
 of the future and assert these views of nirvana that may be acquired in

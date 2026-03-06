@@ -70,9 +70,9 @@ When he said this, The Buddha said: “Kevaddha, I do not teach the mendicants l
 
 14And what is the demonstration of instruction? It’s when a mendicant instructs others like this: ‘Think like this, not like that. Focus your mind like this, not like that. Give up this, and live having achieved that.’ This is called the demonstration of instruction.
 
-15Furthermore, a Realized One arises in the world … That’s how a mendicant is accomplished in ethics. … They enter and remain in the first absorption … This is called the demonstration of instruction.
+15Furthermore, a Realized One arises in the world … That’s how a mendicant is accomplished in ethics. … They enter and remain in the first jhāna … This is called the demonstration of instruction.
 
-They enter and remain in the second absorption … third absorption … fourth absorption. This too is called the demonstration of instruction.
+They enter and remain in the second jhāna … third jhāna … fourth jhāna. This too is called the demonstration of instruction.
 
 They extend and project the mind toward knowledge and vision … This too is called the demonstration of instruction.
 

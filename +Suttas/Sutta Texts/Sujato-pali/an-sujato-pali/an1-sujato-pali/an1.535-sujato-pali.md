@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1Together with the second absorption … the third absorption … the fourth absorption … love … compassion … rejoicing … They develop the faculty of faith together with equanimity … They develop the faculty of energy … the faculty of mindfulness … the faculty of immersion … the faculty of wisdom … the power of faith … the power of energy … the power of mindfulness … the power of immersion … the power of wisdom. That mendicant is called a mendicant who does not lack absorption, who follows the Teacher’s instructions, who responds to advice, and who does not eat the country’s alms in vain. How much more so those who make much of it!”
+1Together with the second jhāna … the third jhāna … the fourth jhāna … love … compassion … rejoicing … They develop the faculty of faith together with equanimity … They develop the faculty of energy … the faculty of mindfulness … the faculty of immersion … the faculty of wisdom … the power of faith … the power of energy … the power of mindfulness … the power of immersion … the power of wisdom. That mendicant is called a mendicant who does not lack jhāna, who follows the Teacher’s instructions, who responds to advice, and who does not eat the country’s alms in vain. How much more so those who make much of it!”
 
 #### Pali
 

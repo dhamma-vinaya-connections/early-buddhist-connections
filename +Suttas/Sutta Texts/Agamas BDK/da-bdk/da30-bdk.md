@@ -3593,23 +3593,23 @@ fully engaged in practicing the right Dharma, abiding therein without
 deviation, and they naturally adhered to the ten norms of conduct. One
 
 person, while adhering to these norms, attained the second meditative  
-state of absorption and [suddenly] ascended in midair to continue on the  
+state of jhāna and [suddenly] ascended in midair to continue on the  
 path of disciples ( _śrāvakayāna_ ), the path of heaven, and the path of Brahmā.  
 In a distinct voice, he said, “O Venerables, you must know that there is  
 no awareness of an object or of any subjective action, only [overwhelming]  
-joy and bliss as the second state of absorption emerges—joy and bliss are  
+joy and bliss as the second state of jhāna emerges—joy and bliss are  
 the second state of samādhi!” When the others heard him, they looked  
 up and said, “Very well. Very well, sir. Will you expound for our sake the  
-path that leads to this second state of absorption in which no awareness  
+path that leads to this second state of jhāna in which no awareness  
 of an object or any subjective action remains?” The practitioner responded  
-to their request, expounding the path that leads to the state of absorption  
+to their request, expounding the path that leads to the state of jhāna  
 without awareness of either object or subject.  
 Hearing this exhortation, the people of this world decided to attain the  
-second meditative state of absorption, and when their bodies dissolved  
+second meditative state of jhāna, and when their bodies dissolved  
 and their lives came to an end they were born in Ābhāsvara Heaven. Then  
 all the sentient beings whose transgressions had been fully expiated in  
 the hell realms were reborn in the human world, and they too took up the  
-practice leading to the second meditative state of absorption; when their  
+practice leading to the second meditative state of jhāna; when their  
 bodies dissolved and their lives came to an end they were born in Ābhā -  
 svara Heaven. In a similar manner, sentient beings who had been in the  
 animal realm or in the realms of the hungry ghosts, the _asura_ s, the four  
@@ -3617,7 +3617,7 @@ guardian gods, the Trāyastriṃśa gods, the Yama gods, the Nirmāṇarati
 gods, the Paranirmitavaśavartin gods, and [the gods of] Brahmā Heaven  
 all came to be reborn in the human world after their lives ended in their  
 respective realms. They too took up the practice leading to the second  
-meditative state of absorption, and upon the dissolution of their bodies  
+meditative state of jhāna, and upon the dissolution of their bodies  
 and the end of life they were born in Ābhāsvara Heaven.  
 Because of this causal nexus, when the hell realms ended so did the  
 realms of the [hungry] ghosts, the _asura_ s, and so on, up to Brahmā Heaven.  
@@ -4003,23 +4003,23 @@ What is the disaster caused by water? Once every person in the world was
 fully engaged in practicing the right Dharma, abiding therein without
 deviation, and they naturally adhered to the ten norms of conduct. One
 person, while adhering to these norms, attained the third meditative state
-of absorption and [suddenly] ascended in midair to continue on the path
+of jhāna and [suddenly] ascended in midair to continue on the path
 of disciples, the path of heaven, and the path of Brahmā. In a distinct
 voice, he said, “O venerables, you must know that joy disappears in the
 third state of samādhi, leaving only overwhelming bliss—bliss alone
 is the third state of samādhi!” When the others heard him, they looked
 up and said, “Very well. Very well, sir. Will you expound for our sake the
-path that leads to the state of absorption where there is no joy but bliss
+path that leads to the state of jhāna where there is no joy but bliss
 alone?” The practitioner responded to their request, expounding the path
-that leads to the third meditative state of absorption that transcends the
+that leads to the third meditative state of jhāna that transcends the
 feeling of joy.
 
 Hearing this exhortation, all the people of the world decided to attain  
-the third meditative state of absorption, and when their bodies dissolved  
+the third meditative state of jhāna, and when their bodies dissolved  
 and their lives came to an end they were born in Śubhakṛtsna Heaven.  
 Then all the sentient beings whose transgressions had been fully expiated  
 in the hell realms were reborn in the human world, and they too took up  
-the practice leading to the third meditative state of absorption, and when  
+the practice leading to the third meditative state of jhāna, and when  
 their bodies dissolved and their lives came to an end, they were born in  
 Śubha kṛtsna Heaven. In like manner, sentient beings who had been in the  
 animal realm or the realms of the hungry ghosts, the _asura_ s, the four  
@@ -4027,7 +4027,7 @@ guardian gods, the Trāyastriṃśa gods, the Yama gods, the Nirmāṇarati
 gods, the Para nir mita vaśavartin gods, and the [gods of the] Brahmā and  
 Ābhāsvara Heavens all came to be born in the human world after their  
 lives came to an end in their respective realms. They too took up the prac-  
-tice leading to the third meditative state of absorption, and upon the dis-  
+tice leading to the third meditative state of jhāna, and upon the dis-  
 solution of their bodies at the end of their lives, they were born in Śubha -  
 kṛtsna Heaven. In this manner, no one remained in the hell realms, or in  
 the animal realm, or in the realms of the hungry ghosts, the _asura_ s, the  
@@ -4122,22 +4122,22 @@ fully engaged in practicing the right Dharma, abiding therein without
 deviation, and they naturally adhered to the ten norms of conduct. One
 
 person, adhering to these norms, attained the fourth meditative state of
-absorption, a pure and genuine consolidation of mindfulness, and [sud-
+jhāna, a pure and genuine consolidation of mindfulness, and [sud-
 denly] ascended in midair to continue on the path of disciples, the path
 of heaven, and the path of Brahmā. In a distinct voice, he said, “O ven-
-erables, you must know that the fourth state of absorption is a pure and
+erables, you must know that the fourth state of jhāna is a pure and
 genuine consolidation of mindfulness.” When the others heard him, they
 looked up and said, “Very well. Very well, sir. Will you expound for our
-sake the path that leads to the state of absorption where a pure and genuine
+sake the path that leads to the state of jhāna where a pure and genuine
 mindfulness is consolidated?” The practitioner responded to their request,
-expounding the path that leads to the fourth meditative state of absorption
+expounding the path that leads to the fourth meditative state of jhāna
 where a pure and genuine mindfulness is consolidated.
 Hearing this exhortation, the people of this world decided to attain the
-fourth meditative state of absorption, and when their bodies dissolved
+fourth meditative state of jhāna, and when their bodies dissolved
 and their lives came to an end they were born in Bṛhatphala Heaven. Then
 all the sentient beings whose transgressions had been fully expiated in
 the hell realms were born again in the human world, and they too took
-up the practice leading to the fourth meditative state of absorption, and
+up the practice leading to the fourth meditative state of jhāna, and
 when their bodies dissolved and their lives came to an end they were born
 in Bṛhatphala Heaven. In a similar manner, sentient beings who had been
 in the animal realm or in the realms of the hungry ghosts, the asura s, the
@@ -4773,7 +4773,7 @@ At the beginning, when this eon began to evolve after the destruction of
 the previous eon by fire, the remaining sentient beings, having exhausted
 their predispositional forces, merits, and life spans, died in Ābhāsvara
 Heaven (i.e., the highest attainable heaven in the second meditative state
-of absorption) and were reborn in the vast empty space of Brahmā Heaven.
+of jhāna) and were reborn in the vast empty space of Brahmā Heaven.
 They became fond of that abode and wished to be born there again together
 with other sentient beings. In this way, the [first generation] of sentient
 beings there had already become attached to that abode. As other sentient
@@ -6145,7 +6145,7 @@ See also Buddha, Dharma, and Sangha
 Dharmaguptaka school, xiii, xiv, xv, xix
 See also Vinaya, texts, Dharmagupta ka-
 vinaya
-dhyāna. See meditative absorption, four
+dhyāna. See meditative jhāna, four
 states of
 Dīgha Nikāya ( Lengthy Discourses ), xix,
 xxv, 305n8
@@ -6681,7 +6681,7 @@ See also evil ones; Pāpīyas
 Maskarin Gośālīputra, 108, 115, 306n18
 Maudgalyāyana, 202
 meditation, 15, 112, 133, 152, 302
-meditative absorption, four states of, 29–
+meditative jhāna, four states of, 29–
 30, 87, 103
 first, 29, 125
 fourth, 30, 47, 125, 266

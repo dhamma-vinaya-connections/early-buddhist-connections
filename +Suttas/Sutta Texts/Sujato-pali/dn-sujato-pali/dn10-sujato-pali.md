@@ -98,7 +98,7 @@ That’s how a mendicant is accomplished in ethics.
 
 29Seeing that the hindrances have been given up in them, joy springs up. Being joyful, rapture springs up. When the mind is full of rapture, the body becomes tranquil. When the body is tranquil, they feel bliss. And when blissful, the mind becomes immersed.
 
-30Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion.
+30Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion.
 
 
 31It’s like when a deft bathroom attendant or their apprentice pours bath powder into a bronze dish, sprinkling it little by little with water. They knead it until the ball of bath powder is soaked and saturated with moisture, spread through inside and out; yet no moisture oozes out.
@@ -106,20 +106,20 @@ That’s how a mendicant is accomplished in ethics.
 In the same way, a mendicant drenches, steeps, fills, and spreads their body with rapture and bliss born of seclusion. There’s no part of the body that’s not spread with rapture and bliss born of seclusion. This pertains to their immersion.
 
 
-32Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion.
+32Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. They drench, steep, fill, and spread their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion.
 
 
 33It’s like a deep lake fed by spring water. There’s no inlet to the east, west, north, or south, and no rainfall to replenish it from time to time. But the stream of cool water welling up in the lake drenches, steeps, fills, and spreads throughout the lake. There’s no part of the lake that’s not spread through with cool water.
 
 In the same way, a mendicant drenches, steeps, fills, and spreads their body with rapture and bliss born of immersion. There’s no part of the body that’s not spread with rapture and bliss born of immersion. This pertains to their immersion.
 
-34Furthermore, with the fading away of rapture, a mendicant enters and remains in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ They drench, steep, fill, and spread their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture.
+34Furthermore, with the fading away of rapture, a mendicant enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ They drench, steep, fill, and spread their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture.
 
 35It’s like a pool with blue water lilies, or pink or white lotuses. Some of them sprout and grow in the water without rising above it, thriving underwater. From the tip to the root they’re drenched, steeped, filled, and soaked with cool water. There’s no part of them that’s not soaked with cool water.
 
 In the same way, a mendicant drenches, steeps, fills, and spreads their body with bliss free of rapture. There’s no part of the body that’s not spread with bliss free of rapture. This pertains to their immersion.
 
-36Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. They sit spreading their body through with pure bright mind. There’s no part of the body that’s not spread with pure bright mind.
+36Furthermore, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. They sit spreading their body through with pure bright mind. There’s no part of the body that’s not spread with pure bright mind.
 
 
 37It’s like someone sitting wrapped from head to foot with white cloth. There’s no part of the body that’s not spread over with white cloth.

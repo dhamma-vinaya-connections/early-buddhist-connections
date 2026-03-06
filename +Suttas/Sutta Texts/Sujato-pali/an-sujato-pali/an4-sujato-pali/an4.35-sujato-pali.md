@@ -38,16 +38,16 @@ It’s when someone practices for the welfare and happiness of the people. They�
 They think what they want to think, and don’t think what they don’t want to think. They consider what they want to consider, and don’t consider what they don’t want to consider. Thus they have achieved mental mastery of the paths of thought.
 
 
-They get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
+They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
 They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 
 
 Brahmin, I neither agree nor disagree with you, but when someone has these four qualities I describe him as a great man with great wisdom.”
 
-4“It’s incredible, Master Gotama, it’s amazing! How well said this was by Master Gotama! And we will remember Master Gotama as someone who has these four qualities. For Master Gotama practices for the welfare and happiness of the people … Master Gotama has achieved mental mastery of the paths of thought. Master Gotama gets the four absorptions … when he wants, without trouble or difficulty. Master Gotama has realized the undefiled freedom of heart and freedom by wisdom in this very life. He lives having realized it with his own insight due to the ending of defilements.”
+4“It’s incredible, Master Gotama, it’s amazing! How well said this was by Master Gotama! And we will remember Master Gotama as someone who has these four qualities. For Master Gotama practices for the welfare and happiness of the people … Master Gotama has achieved mental mastery of the paths of thought. Master Gotama gets the four jhānas … when he wants, without trouble or difficulty. Master Gotama has realized the undefiled freedom of heart and freedom by wisdom in this very life. He lives having realized it with his own insight due to the ending of defilements.”
 
-5“Your words are clearly invasive and intrusive, brahmin. Nevertheless, I will answer you. For I do practice for the welfare and happiness of the people … I have achieved mental mastery of the paths of thought. I do get the four absorptions … when I want, without trouble or difficulty. I have realized the undefiled freedom of heart and freedom by wisdom in this very life. I live having realized it with my own insight due to the ending of defilements.
+5“Your words are clearly invasive and intrusive, brahmin. Nevertheless, I will answer you. For I do practice for the welfare and happiness of the people … I have achieved mental mastery of the paths of thought. I do get the four jhānas … when I want, without trouble or difficulty. I have realized the undefiled freedom of heart and freedom by wisdom in this very life. I live having realized it with my own insight due to the ending of defilements.
 
 
 6He discovered release from the snare of death  

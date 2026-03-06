@@ -285,7 +285,7 @@ did I have any wish.”
 997“His only shelter is the foot of a tree;  
 shaven, wrapped in his outer robe,  
 the senior monk foremost in wisdom,  
-Upatissa himself practices absorption.
+Upatissa himself practices jhāna.
 
 998When in a meditation free of placing the mind,  
 a disciple of the Buddha  
@@ -362,7 +362,7 @@ or not honored, or both,
 their immersion doesn’t waver  
 as they live diligently.
 
-1011They persistently practice absorption  
+1011They persistently practice jhāna  
 with subtle view and discernment.  
 Rejoicing in the ending of grasping,  
 they’re said to be a true person.”

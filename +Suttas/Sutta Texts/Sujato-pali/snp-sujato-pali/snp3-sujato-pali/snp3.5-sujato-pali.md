@@ -146,7 +146,7 @@ should bestow a timely offering as sacrifice.
 that is where a brahmin seeking merit  
 should bestow a timely offering as sacrifice.
 
-503 A knowledge master, loving absorption, mindful,  
+503 A knowledge master, loving jhāna, mindful,  
 who has reached awakening and is a refuge for many:  
 that is where a brahmin seeking merit  
 should bestow a timely offering as sacrifice.”

@@ -29,7 +29,7 @@ language: "English - Pali"
 
 4 … who dwell in love is Sāmāvatī.
 
-5 … who practice absorption is Uttarānandamātā.
+5 … who practice jhāna is Uttarānandamātā.
 
 6 … who give fine things is Suppavāsā Koliyadhītā.
 

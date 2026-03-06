@@ -20,7 +20,7 @@ language: "English - Pali"
 ‘‘Paripuṇṇasikkhaṃ [paripuṇṇasekhaṃ (sī.), paripuṇṇasekkhaṃ (syā.)] apahānadhammaṃ, paññuttaraṃ jātikhayantadassiṃ;Taṃ ve muniṃ antimadehadhāriṃ, mārañjahaṃ brūmi jarāya pāraguṃ.
 "One who has completed the training, who is incapable of falling away, who is foremost in wisdom, seeing the end of birth; that sage, bearing his final body, I call one who has abandoned Māra, gone beyond aging."
 ‘‘Tasmā sadā jhānaratā samāhitā, ātāpino jātikhayantadassino;Māraṃ sasenaṃ abhibhuyya bhikkhavo, bhavatha jātimaraṇassa pāragā’’ti.
-"Therefore, always delighting in absorption, composed, ardent, seeing the end of birth, O monks, having overcome Māra together with his army, may you be those who have gone beyond birth and death."
+"Therefore, always delighting in jhāna, composed, ardent, seeing the end of birth, O monks, having overcome Māra together with his army, may you be those who have gone beyond birth and death."
 Ayampi attho vutto bhagavatā, iti me sutanti. Navamaṃ.
 This meaning, too, was spoken by the Blessed One, thus I heard. Ninth.
 

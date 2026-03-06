@@ -161,7 +161,7 @@ This is the grounded path for realizing a world of perfect happiness.”
 
 35“Well sir, what is that grounded path for realizing a world of perfect happiness?”
 
-“It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption. With the fading away of rapture, they enter and remain in the third absorption. This is the grounded path for realizing a world of perfect happiness.”
+“It’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna. With the fading away of rapture, they enter and remain in the third jhāna. This is the grounded path for realizing a world of perfect happiness.”
 
 36“Sir, that’s not the grounded path for realizing a world of perfect happiness. At that point a perfectly happy world has already been realized.”
 
@@ -175,7 +175,7 @@ This is the grounded path for realizing a world of perfect happiness.”
 “Well sir, at what point is a perfectly happy world realized?”
 
 
-“It’s when, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth absorption. There are deities who have been reborn in a perfectly happy world. That mendicant associates with them, converses, and engages in discussion. It’s at this point that a perfectly happy world has been realized.”
+“It’s when, giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna. There are deities who have been reborn in a perfectly happy world. That mendicant associates with them, converses, and engages in discussion. It’s at this point that a perfectly happy world has been realized.”
 
 
 39“Surely the mendicants must live the spiritual life under the Buddha for the sake of realizing this perfectly happy world?”
@@ -189,9 +189,9 @@ There are other things that are finer, for the sake of which the mendicants live
 
 “It’s when a Realized One arises in the world, perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed. …
 
-They give up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption. This is one of the finer things for the sake of which the mendicants live the spiritual life under me.
+They give up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna. This is one of the finer things for the sake of which the mendicants live the spiritual life under me.
 
-41Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption … third absorption … fourth absorption. This too is one of the finer things.
+41Furthermore, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna … third jhāna … fourth jhāna. This too is one of the finer things.
 
 42When their mind has become immersed in samādhi like this — purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable — they extend it toward recollection of past lives. They recollect many kinds of past lives. That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred thousand rebirths; many eons of the world contracting, many eons of the world expanding, many eons of the world contracting and expanding. They recollect their many kinds of past lives, with features and details. This too is one of the finer things.
 

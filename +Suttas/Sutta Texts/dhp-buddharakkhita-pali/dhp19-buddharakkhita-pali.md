@@ -47,7 +47,7 @@ language: "Pali"
 
 270He is not noble who injures living beings. He is called noble because he is harmless towards all living beings.
 
-271–272Not by rules and observances, not even by much learning, nor by gain of absorption, nor by a life of seclusion, nor by thinking, "I enjoy the bliss of renunciation, which is not experienced by the worldling" should you, O monks, rest content, until the utter destruction of cankers (Arahantship) is reached.
+271–272Not by rules and observances, not even by much learning, nor by gain of jhāna, nor by a life of seclusion, nor by thinking, "I enjoy the bliss of renunciation, which is not experienced by the worldling" should you, O monks, rest content, until the utter destruction of cankers (Arahantship) is reached.
 
 256Na tena hoti dhammaṭṭho,  
 yenatthaṁ sāhasā naye;  

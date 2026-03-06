@@ -35,7 +35,7 @@ He saw that the Buddha was at the Indasāla cave, and addressed the gods of the 
 
 Now at that time a dazzling light appeared over Mount Vediyaka and Ambasaṇḍā, as happens through the glory of the gods. People in the villages round about, terrified, shocked, and awestruck, said: “Mount Vediyaka must be on fire today, blazing and burning! Oh why has such a dazzling light appeared over Mount Vediyaka and Ambasaṇḍā?”
 
-4Then Sakka addressed the fairy Pañcasikha: “My dear Pañcasikha, it’s hard for one like me to get near the Realized Ones while they are on retreat practicing absorption, enjoying absorption. But if you were to charm the Buddha first, then I could go to see him.”
+4Then Sakka addressed the fairy Pañcasikha: “My dear Pañcasikha, it’s hard for one like me to get near the Realized Ones while they are on retreat practicing jhāna, enjoying jhāna. But if you were to charm the Buddha first, then I could go to see him.”
 
 “Yes, lord,” replied the fairy Pañcasikha. Taking his arched harp made from the pale timber of wood-apple, he went to the Indasāla cave. When he had drawn near, he stood to one side, thinking: “This is neither too far nor too near; and he’ll hear my voice.”
 

@@ -39,12 +39,12 @@ language: "English - Pali"
 6“And what is that one thing?”
 
 
-7“Householder, it’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. Then they reflect: ‘Even this first absorption is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ Abiding in that they attain the ending of defilements. If they don’t attain the ending of defilements, with the ending of the five lower fetters they’re reborn spontaneously, because of their passion and love for that meditation. They are extinguished there, and are not liable to return from that world.
+7“Householder, it’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. Then they reflect: ‘Even this first jhāna is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ Abiding in that they attain the ending of defilements. If they don’t attain the ending of defilements, with the ending of the five lower fetters they’re reborn spontaneously, because of their passion and love for that meditation. They are extinguished there, and are not liable to return from that world.
 
 This is one thing that has been rightly explained by the Blessed One — who knows and sees, the perfected one, the fully awakened Buddha — practicing which a diligent, keen, and resolute mendicant’s mind is freed, their defilements are ended, and they arrive at the supreme sanctuary.
 
 
-8-10Furthermore, as the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption … third absorption … fourth absorption …
+8-10Furthermore, as the placing of the mind and keeping it connected are stilled, they enter and remain in the second jhāna … third jhāna … fourth jhāna …
 
 
 11Furthermore, a mendicant meditates spreading a heart full of love to one direction, and to the second, and to the third, and to the fourth. In the same way above, below, across, everywhere, all around, they spread a heart full of love to the whole world — abundant, expansive, limitless, free of enmity and ill will. Then they reflect: ‘Even this heart’s release by love is produced by choices and intentions.’ They understand: ‘But whatever is produced by choices and intentions is impermanent and liable to cessation.’ …

@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 5: The Book of the Fives
-### AN 5.256: Paṭhamajhānasutta — The First Absorption
+### AN 5.256: Paṭhamajhānasutta — The First jhāna
 
 1"Pañcime, bhikkhave, dhamme appahāya abhabbo paṭhamaṁ jhānaṁ upasampajja viharituṁ. Katame pañca? Āvāsamacchariyaṁ, kulamacchariyaṁ, lābhamacchariyaṁ, vaṇṇamacchariyaṁ, dhammamacchariyaṁ. Ime kho, bhikkhave, pañca dhamme appahāya abhabbo paṭhamaṁ jhānaṁ upasampajja viharituṁ.
 

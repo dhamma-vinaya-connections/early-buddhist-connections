@@ -337,9 +337,9 @@ This is the cause, brahmin, this is the reason why those regular gifts as ongoin
 “But is there any other sacrifice that has fewer requirements and undertakings, yet is more fruitful and beneficial?”
 
 
-96“There is, brahmin. It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. … They enter and remain in the first absorption … This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. …
+96“There is, brahmin. It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. … They enter and remain in the first jhāna … This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. …
 
-97They enter and remain in the second absorption … third absorption … fourth absorption. This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. … They extend and project the mind toward knowledge and vision … This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. They understand: ‘… there is no return to any state of existence.’ This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. And, brahmin, there is no other accomplishment of sacrifice which is better and finer than this.”
+97They enter and remain in the second jhāna … third jhāna … fourth jhāna. This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. … They extend and project the mind toward knowledge and vision … This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. They understand: ‘… there is no return to any state of existence.’ This sacrifice has fewer requirements and undertakings than the former, yet is more fruitful and beneficial. And, brahmin, there is no other accomplishment of sacrifice which is better and finer than this.”
 
 #### 6. Kūṭadanta Declares Himself a Lay Follower
 

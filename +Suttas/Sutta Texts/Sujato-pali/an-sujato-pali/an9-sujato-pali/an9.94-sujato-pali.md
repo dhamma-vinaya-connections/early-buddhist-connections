@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“For insight into greed, nine things should be developed. What nine? The first absorption, the second absorption, the third absorption, the fourth absorption, the dimension of infinite space, the dimension of infinite consciousness, the dimension of nothingness, the dimension of neither perception nor non-perception, and the cessation of perception and feeling. For insight into greed, these nine things should be developed.”
+1“For insight into greed, nine things should be developed. What nine? The first jhāna, the second jhāna, the third jhāna, the fourth jhāna, the dimension of infinite space, the dimension of infinite consciousness, the dimension of nothingness, the dimension of neither perception nor non-perception, and the cessation of perception and feeling. For insight into greed, these nine things should be developed.”
 
 1"Rāgassa, bhikkhave, abhiññāya nava dhammā bhāvetabbā. Katame nava? Paṭhamaṁ jhānaṁ, dutiyaṁ jhānaṁ, tatiyaṁ jhānaṁ, catutthaṁ jhānaṁ, ākāsānañcāyatanaṁ, viññāṇañcāyatanaṁ, ākiñcaññāyatanaṁ, nevasaññānāsaññāyatanaṁ, saññāvedayitanirodho – rāgassa, bhikkhave, abhiññāya ime nava dhammā bhāvetabbā"ti.
 

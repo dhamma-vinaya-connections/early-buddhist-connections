@@ -90,7 +90,7 @@ Again, there is another superior quality of the exhortation of the
 World-honored One, namely, revealing the disciplines. These disciplines  
 constitute (1) the four kinds of application of mental awareness, (2) the  
 four kinds of strenuous effort, (3) the four kinds of supernormal powers,  
-(4) the four kinds of meditative absorption, (5) the five kinds of spiritual  
+(4) the four kinds of meditative jhāna, (5) the five kinds of spiritual  
 faculties, (6) the five kinds of spiritual power, (7) the seven auxiliary  
 disciplines of enlightenment, and (8) the eightfold noble path. These are  
 called the highest methods of practice. The World-honored One’s knowl-  
@@ -471,12 +471,12 @@ One, if one wishes to eradicate the evil influences of defilements, he
 should engage in contemplation of an object and of an act of examining,
 
 increasing the sense of joy and bliss, and thus abide in the first meditative
-state of absorption. This method removes evil forces [such as avarice,
+state of jhāna. This method removes evil forces [such as avarice,
 carnal desire, desire, evil, and wrong deeds]. Your Holiness [taught in
 the discourses] the practice of contemplation of an object and of an act
 of examining, the increase of the sense of joy and bliss while abiding
-in the first meditative state of absorption, and in similar manner [taught]
-the second, third, and fourth meditative states of absorption, respectively.
+in the first meditative state of jhāna, and in similar manner [taught]
+the second, third, and fourth meditative states of jhāna, respectively.
 Your Holiness is endowed with the power of exertion and valor and with
 great insight, and despite [empirical] cognition and awareness, Your
 Holiness sees all with the insight of universal oneness, and therefore is

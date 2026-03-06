@@ -32,7 +32,7 @@ language: "English - Pali"
 
 6 … who stay in the wilderness is Revata of the Acacia Wood.
 
-7 … who practice absorption is Kaṅkhārevata.
+7 … who practice jhāna is Kaṅkhārevata.
 
 8 … who are energetic is Soṇa Koḷivisa.
 

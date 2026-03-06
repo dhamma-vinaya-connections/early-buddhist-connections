@@ -303,7 +303,7 @@ with sense doors guarded, well-restrained.
 580They should be content even with coarse food,  
 not hoping for lots of flavors.  
 The mind that’s greedy for flavors  
-doesn’t enjoy absorption.
+doesn’t enjoy jhāna.
 
 581With few wishes, content,  
 a sage should live secluded,  

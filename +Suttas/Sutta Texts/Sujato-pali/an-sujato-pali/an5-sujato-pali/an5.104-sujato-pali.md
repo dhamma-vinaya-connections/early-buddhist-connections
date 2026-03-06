@@ -26,12 +26,12 @@ When living with other spiritual practitioners, they usually treat them agreeabl
 
 They’re healthy, so the various unpleasant feelings — stemming from disorders of bile, phlegm, wind, or their conjunction; or caused by change in weather, by not taking care of themselves, by overexertion, or as the result of past deeds — usually don’t come up.
 
-They get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty. And they realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
+They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty. And they realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 
 A mendicant with these five qualities is an exquisite ascetic of ascetics.
 
 
-3And if anyone should be rightly called an exquisite ascetic of ascetics, it’s me. For I usually use only what I’ve been invited to accept. When living with other spiritual practitioners, I usually treat them agreeably. And I usually present them with agreeable things. I’m healthy. I get the four absorptions when I want, without trouble or difficulty. And I’ve realized the undefiled freedom of heart and freedom by wisdom in this very life.
+3And if anyone should be rightly called an exquisite ascetic of ascetics, it’s me. For I usually use only what I’ve been invited to accept. When living with other spiritual practitioners, I usually treat them agreeably. And I usually present them with agreeable things. I’m healthy. I get the four jhānas when I want, without trouble or difficulty. And I’ve realized the undefiled freedom of heart and freedom by wisdom in this very life.
 
 
 4So if anyone should be rightly called an exquisite ascetic of ascetics, it’s me.”

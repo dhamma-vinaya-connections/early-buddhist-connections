@@ -14,15 +14,15 @@ language: "English - Pali"
 
 ## 6: The Book of the Sixes
 
-### VII. A God — AN 6.74: First Absorption (2nd)
+### VII. A God — AN 6.74: First jhāna (2nd)
 #### B. Sujato
 
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1“Mendicants, without giving up these six qualities you can’t enter and remain in the first absorption. What six? Sensual, malicious, and cruel thoughts and perceptions. Without giving up these six qualities you can’t enter and remain in the first absorption.
+1“Mendicants, without giving up these six qualities you can’t enter and remain in the first jhāna. What six? Sensual, malicious, and cruel thoughts and perceptions. Without giving up these six qualities you can’t enter and remain in the first jhāna.
 
-2But after giving up these six qualities you can enter and remain in the first absorption. What six? Sensual, malicious, and cruel thoughts and perceptions. After giving up these six qualities you can enter and remain in the first absorption.”
+2But after giving up these six qualities you can enter and remain in the first jhāna. What six? Sensual, malicious, and cruel thoughts and perceptions. After giving up these six qualities you can enter and remain in the first jhāna.”
 
 1"Cha, bhikkhave, dhamme appahāya abhabbo paṭhamaṁ jhānaṁ upasampajja viharituṁ. Katame cha? Kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ, kāmasaññaṁ, byāpādasaññaṁ, vihiṁsāsaññaṁ – ime kho, bhikkhave, cha dhamme appahāya abhabbo paṭhamaṁ jhānaṁ upasampajja viharituṁ.
 

@@ -188,7 +188,7 @@ a lazy person who lacks energy.
 148Dwell with the noble ones  
 who are secluded and determined  
 And always energetic;  
-the astute who practice absorption.
+the astute who practice jhāna.
 
 ##### Sabbamitta
 
@@ -502,7 +502,7 @@ and attained the ending of defilements.
 199This fellow, "Rag-rice", he sure is a rag!  
 Into the vase of freedom from death, polished and overflowing,  
 sufficient teaching has been poured;  
-the path to build up absorptions has been laid out.
+the path to build up jhānas has been laid out.
 
 200Don’t nod off, Rag —  
 I’ll smack your ear!  
@@ -578,7 +578,7 @@ their lovely blue necks and fair faces, their beautiful song and their call.
 This broad earth is lush with grass and dew,  
 and the firmament is full of beautiful clouds.
 
-212One practicing absorption is happy in mind, and their appearance is uplifting;  
+212One practicing jhāna is happy in mind, and their appearance is uplifting;  
 going forth in the teaching of the Buddha is easy for a good person.  
 You should realize that supreme state that does not pass,  
 so very pure, subtle, and hard to see.

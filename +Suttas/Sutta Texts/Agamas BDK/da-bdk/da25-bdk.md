@@ -147,7 +147,7 @@ The Buddha said:
 
 When the Tathāgata, One Who is Free From Defilement (Arhat), appears  
 in this world, he directly experiences the subtle bliss that is present through-  
-out the four meditative states of absorption. Why? Through his own efort  
+out the four meditative states of jhāna. Why? Through his own efort  
 he maintains collected mindfulness, enjoying the transcendence within  
 his mind without slackening in his discipline. O Kāśyapa, this is the state  
 of being endowed with moral virtue and doctrinal insight, and it is of the  

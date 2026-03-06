@@ -45,9 +45,9 @@ language: "Pali"
 
 248Know this, O good man: evil things are difficult to control. Let not greed and wickedness drag you to protracted misery.
 
-249People give according to their faith or regard. If one becomes discontented with the food and drink given by others, one does not attain meditative absorption, either by day or by night.
+249People give according to their faith or regard. If one becomes discontented with the food and drink given by others, one does not attain meditative jhāna, either by day or by night.
 
-250But he in who this (discontent) is fully destroyed, uprooted and extinct, he attains absorption, both by day and by night.
+250But he in who this (discontent) is fully destroyed, uprooted and extinct, he attains jhāna, both by day and by night.
 
 251There is no fire like lust; there is no grip like hatred; there is no net like delusion; there is no river like craving.
 

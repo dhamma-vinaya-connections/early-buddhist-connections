@@ -27,7 +27,7 @@ And how has a mendicant eliminated idiosyncratic interpretations of the truth? D
 
 2And how has a mendicant totally given up searching? It’s when they’ve given up searching for sensual pleasures, for continued existence, and for a spiritual path. That’s how a mendicant has totally given up searching.
 
-3And how has a mendicant stilled the physical process? It’s when, giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. That’s how a mendicant has stilled the physical process.
+3And how has a mendicant stilled the physical process? It’s when, giving up pleasure and pain, and ending former happiness and sadness, they enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. That’s how a mendicant has stilled the physical process.
 
 4And how is a mendicant withdrawn? It’s when they’ve given up the conceit ‘I am’, cut it off at the root, made it like a palm stump, obliterated it, so it’s unable to arise in the future. That’s how a mendicant is withdrawn.
 

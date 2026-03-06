@@ -41,7 +41,7 @@ one who talks without doing.”
 nor solely by listening,  
 are you able to progress  
 on this hard path,  
-by which wise ones practicing absorption  
+by which wise ones practicing jhāna  
 are released from Māra’s bonds.
 
 5The wise certainly don’t act like that,  

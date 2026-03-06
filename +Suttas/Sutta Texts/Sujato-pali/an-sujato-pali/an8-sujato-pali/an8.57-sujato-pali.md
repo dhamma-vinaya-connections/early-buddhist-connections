@@ -30,7 +30,7 @@ They have good friends, companions, and associates.
 
 They have right view, possessing right perspective.
 
-They get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
+They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
 They recollect many kinds of past lives, with features and details.
 

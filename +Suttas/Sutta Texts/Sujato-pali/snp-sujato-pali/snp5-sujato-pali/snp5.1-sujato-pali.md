@@ -74,7 +74,7 @@ Bāvari became distressed.
 10 Not eating, he grew emaciated,  
 stricken by the dart of sorrow.  
 And in such a state of mind,  
-he could not enjoy absorption.
+he could not enjoy jhāna.
 
 11 Seeing him anxious and distraught,  
 a goddess wishing to help,  
@@ -208,7 +208,7 @@ and Piṅgiya the great hermit.
 
 33 Each of them had their own following,  
 they were renowned the whole world over.  
-Those wise ones, meditators who love absorption,  
+Those wise ones, meditators who love jhāna,  
 were redolent with the potential of their past deeds.
 
 34 Having bowed to Bāvari,  

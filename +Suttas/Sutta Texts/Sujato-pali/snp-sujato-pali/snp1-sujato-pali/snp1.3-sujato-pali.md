@@ -198,7 +198,7 @@ live alone like a horned rhino.
 
 ---
 
-69 Seclusion, _jhāna_Not neglecting retreat and absorption,  
+69 Seclusion, _jhāna_Not neglecting retreat and jhāna,  
 always living in line with the teachings,  
 comprehending the danger in rebirths,  
 live alone like a horned rhino.

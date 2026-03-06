@@ -65,7 +65,7 @@ And why does the brahmin not have sex with a breastfeeding woman? If a brahmin h
 And why does the brahmin not have sex outside the fertile half of the month that starts with menstruation? Because his brahmin wife is not there for sensual pleasure, fun, and enjoyment, but only for procreation. Having ensured his progeny through sex, he shaves off his hair and beard, dresses in ocher robes, and goes forth from the lay life to homelessness.
 
 
-When he has gone forth, quite secluded from sensual pleasures, secluded from unskillful qualities, he enters and remains in the first absorption … second absorption … third absorption … fourth absorption. Having developed these four absorptions, when the body breaks up, after death, they’re reborn in a good place, a heavenly realm.
+When he has gone forth, quite secluded from sensual pleasures, secluded from unskillful qualities, he enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. Having developed these four jhānas, when the body breaks up, after death, they’re reborn in a good place, a heavenly realm.
 
 That’s how a brahmin is equal to god.
 

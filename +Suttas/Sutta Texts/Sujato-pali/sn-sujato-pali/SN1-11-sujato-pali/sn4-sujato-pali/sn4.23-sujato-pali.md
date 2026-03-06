@@ -82,7 +82,7 @@ I’ve been searching without success:
 where has that Godhika got to?”
 
 12“He was a wise and steadfast sage,  
-a meditator who loved to practice absorption.  
+a meditator who loved to practice jhāna.  
 By day and by night he applied himself,  
 without concern for his life.
 

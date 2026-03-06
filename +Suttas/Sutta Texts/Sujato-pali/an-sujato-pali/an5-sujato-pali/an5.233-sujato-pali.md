@@ -32,7 +32,7 @@ They’re a good speaker, with a polished, clear, and articulate voice that expr
 
 They’re able to educate, encourage, fire up, and inspire those who approach them with a Dhamma talk.
 
-They get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
+They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
 A resident mendicant with these five qualities beautifies the monastery.”
 

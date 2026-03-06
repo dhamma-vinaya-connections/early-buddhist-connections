@@ -68,7 +68,7 @@ Practicing in this way and meditating on it often their mind becomes confident i
 
 So, Ānanda, I have taught the ways of practice suitable for attaining the imperturbable, the dimension of nothingness, and the dimension of neither perception nor non-perception. I have taught how to cross the flood by relying on one support or the other, and I have taught noble liberation.
 
-Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice absorption, Ānanda! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
+Out of compassion, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice jhāna, Ānanda! Don’t be negligent! Don’t regret it later! This is my instruction to you.”
 
 12That is what the Buddha said. Satisfied, Venerable Ānanda was happy with what the Buddha said.
 

@@ -27,7 +27,7 @@ language: "Pali"
 
 364The monk who abides in the Dhamma, delights in the Dhamma, meditates on the Dhamma, and bears the Dhamma well in mind—he does not fall away from the sublime Dhamma.
 
-365One should not despise what one has received, nor envy the gains of others. The monk who envies the gains of others does not attain to meditative absorption.
+365One should not despise what one has received, nor envy the gains of others. The monk who envies the gains of others does not attain to meditative jhāna.
 
 366A monk who does not despise what he has received, even though it be little, who is pure in livelihood and unremitting in effort—him even the gods praise.
 

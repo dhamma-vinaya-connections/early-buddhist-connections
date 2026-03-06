@@ -26,7 +26,7 @@ Standing to one side, the god Pañcālacaṇḍa recited this verse in the Buddh
 
 2“The opening amid confinement  
 was discovered by the Buddha of vast intelligence,  
-who woke up to absorption,  
+who woke up to jhāna,  
 the sage, the solitary bull.”
 
 3“Even amid confinement they discover,” said the Buddha to Pañcālacaṇḍa,  

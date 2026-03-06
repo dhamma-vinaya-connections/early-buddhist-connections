@@ -36,9 +36,9 @@ Then the demons thought, ‘The gods are still in pursuit. Why don’t we engage
 
 When they had entered their citadel, they thought, ‘Now we’re in a secure location and the gods can’t do anything to us.’ And the gods also thought, ‘Now the demons are in a secure location and we can’t do anything to them.’
 
-5In the same way, a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. At such a time the mendicant thinks, ‘Now I’m in a secure location and Māra can’t do anything to me.’ And Māra the Wicked also thinks, ‘Now the mendicant is in a secure location and we can’t do anything to them.’
+5In the same way, a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. At such a time the mendicant thinks, ‘Now I’m in a secure location and Māra can’t do anything to me.’ And Māra the Wicked also thinks, ‘Now the mendicant is in a secure location and we can’t do anything to them.’
 
-6When, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second absorption … third absorption … fourth absorption. At such a time the mendicant thinks, ‘Now I’m in a secure location and Māra can’t do anything to me.’ And Māra the Wicked also thinks, ‘Now the mendicant is in a secure location and we can’t do anything to them.’
+6When, as the placing of the mind and keeping it connected are stilled, a mendicant enters and remains in the second jhāna … third jhāna … fourth jhāna. At such a time the mendicant thinks, ‘Now I’m in a secure location and Māra can’t do anything to me.’ And Māra the Wicked also thinks, ‘Now the mendicant is in a secure location and we can’t do anything to them.’
 
 
 7A mendicant, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. At such a time they are called a mendicant who has blinded Māra, put out his eyes without a trace, and gone where the Wicked One cannot see.

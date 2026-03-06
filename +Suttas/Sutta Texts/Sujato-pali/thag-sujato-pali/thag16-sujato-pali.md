@@ -781,113 +781,113 @@ with pure meat sauce.
 843Today I am fortunate, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 844Wearing rags, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 845Living on almsfood, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 ---
 
 846Possessing only three robes, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 847Wandering for alms indiscriminately, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 ---
 
 848Sitting alone, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 849Eating only what’s put in the alms-bowl, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 ---
 
 850Never eating too late, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 851Living in the wilderness, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 ---
 
 852Living at the foot of a tree, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 853Living in the open, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 ---
 
 854Living in a charnel ground, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 855Accepting whatever seat is offered, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 ---
 
 856Not lying down to sleep, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 857Few in wishes, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 ---
 
 858Content, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 859Secluded, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 ---
 
 860Aloof, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 861Energetic, persistent,  
 happy with the scraps in my bowl:  
 Bhaddiya son of Godhā  
-practices absorption without grasping.
+practices jhāna without grasping.
 
 ---
 
@@ -906,7 +906,7 @@ and yet I trembled with fear.
 864Today I am fortunate, free of cowardice,  
 with fear and dread given up.  
 Bhaddiya son of Godhā  
-has plunged into the forest and practices absorption.
+has plunged into the forest and practices jhāna.
 
 865Established in the entire spectrum of ethics,  
 developing mindfulness and wisdom,  
@@ -1009,7 +1009,7 @@ as their best treasure.
 
 884Don’t devote yourself to negligence,  
 or delight in sexual intimacy.  
-For if you’re diligent and practice absorption,  
+For if you’re diligent and practice jhāna,  
 you’ll attain ultimate happiness.
 
 885It was welcome, not unwelcome,  
@@ -1052,7 +1052,7 @@ the conduit to rebirth is eradicated.”
 892Leaving my mother and father behind,  
 as well as sisters, kinsmen, and brothers;  
 having given up the five sensual titillations,  
-Anuruddha practices absorption.
+Anuruddha practices jhāna.
 
 893Surrounded by song and dance,  
 awakened by cymbals and gongs,  
@@ -1062,12 +1062,12 @@ while delighting in Māra’s domain.
 894But he has gone beyond all that,  
 and delights in the Buddha’s teaching.  
 Having crossed over the entire flood,  
-Anuruddha practices absorption.
+Anuruddha practices jhāna.
 
 895Sights, sounds, tastes, smells,  
 and touches so delightful:  
 having crossed over these as well,  
-Anuruddha practices absorption.
+Anuruddha practices jhāna.
 
 896Returning from almsround,  
 alone, without companion,  
@@ -1176,7 +1176,7 @@ in immersion with five factors.
 Peaceful, serene,  
 my clairvoyance is purified.
 
-917Steady in five-factored absorption, I know the passing away and rebirth of beings,  
+917Steady in five-factored jhāna, I know the passing away and rebirth of beings,  
 their coming and going,  
 their lives in this state and that.
 

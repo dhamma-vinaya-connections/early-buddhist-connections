@@ -32,7 +32,7 @@ They repair what is decayed and damaged.
 
 When a large mendicant Saṅgha is arriving with mendicants from abroad, they go to the lay people and announce: ‘A large mendicant Saṅgha is arriving with mendicants from abroad. Make merit! Now is the time to make merit!’
 
-They get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
+They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
 A resident mendicant with these five qualities is very helpful to the monastery.”
 

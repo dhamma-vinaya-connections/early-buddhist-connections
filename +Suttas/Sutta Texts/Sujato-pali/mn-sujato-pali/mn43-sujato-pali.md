@@ -96,19 +96,19 @@ Then in the late afternoon, Venerable Mahākoṭṭhita came out of retreat, wen
 
 31“It’s when ignorance fades away, knowledge arises, and craving ceases. That’s how there is no rebirth into a new state of existence in the future.”
 
-32“But what, reverend, is the first absorption?”
+32“But what, reverend, is the first jhāna?”
 
-33“Reverend, it’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. This is called the first absorption.”
+33“Reverend, it’s when a mendicant, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is called the first jhāna.”
 
-34“But how many factors does the first absorption have?”
-
-
-35“The first absorption has five factors. When a mendicant has entered the first absorption, placing the mind, keeping it connected, rapture, bliss, and unification of mind are present. That’s how the first absorption has five factors.”
+34“But how many factors does the first jhāna have?”
 
 
-36“But how many factors has the first absorption given up and how many does it possess?”
+35“The first jhāna has five factors. When a mendicant has entered the first jhāna, placing the mind, keeping it connected, rapture, bliss, and unification of mind are present. That’s how the first jhāna has five factors.”
 
-37“The first absorption has given up five factors and possesses five factors. When a mendicant has entered the first absorption, sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt are given up. Placing the mind, keeping it connected, rapture, bliss, and unification of mind are present. That’s how the first absorption has given up five factors and possesses five factors.”
+
+36“But how many factors has the first jhāna given up and how many does it possess?”
+
+37“The first jhāna has given up five factors and possesses five factors. When a mendicant has entered the first jhāna, sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt are given up. Placing the mind, keeping it connected, rapture, bliss, and unification of mind are present. That’s how the first jhāna has given up five factors and possesses five factors.”
 
 
 38“Reverend, these five faculties have different scopes and different ranges, and don’t experience each others’ scope and raṅge. That is, the faculties of the eye, ear, nose, tongue, and body. What do these five faculties, with their different scopes and ranges, have recourse to? What experiences their scopes and ranges?”
@@ -151,7 +151,7 @@ Then in the late afternoon, Venerable Mahākoṭṭhita came out of retreat, wen
 54“How many conditions are necessary to attain the neutral release of the heart?”
 
 
-55“Four conditions are necessary to attain the neutral release of the heart. Giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. These four conditions are necessary to attain the neutral release of the heart.”
+55“Four conditions are necessary to attain the neutral release of the heart. Giving up pleasure and pain, and ending former happiness and sadness, a mendicant enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. These four conditions are necessary to attain the neutral release of the heart.”
 
 56“How many conditions are necessary to attain the signless release of the heart?”
 

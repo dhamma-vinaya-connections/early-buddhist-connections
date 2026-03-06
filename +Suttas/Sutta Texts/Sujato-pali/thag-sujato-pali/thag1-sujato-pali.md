@@ -119,7 +119,7 @@ the blissful stilling of conditions.
 ##### Mahāvaccha
 
 12Empowered by wisdom, with precepts and observances intact,  
-serene, loving absorption, mindful,  
+serene, loving jhāna, mindful,  
 eating just the needed food,  
 one should await one’s time here, free of desire.
 
@@ -196,7 +196,7 @@ where no fear remains.
 22Crested peacocks with beautiful blue necks  
 cry out in Karaṁvī.  
 Stirred by a cool breeze,  
-they wake the sleeper to practice absorption.
+they wake the sleeper to practice jhāna.
 
 ##### Gosāla
 
@@ -522,7 +522,7 @@ and fulfilled the Buddha’s instructions.
 
 ##### Ekadhammasavanīya
 
-67My defilements have been burnt away by practising absorption—  
+67My defilements have been burnt away by practising jhāna—  
 rebirth into all states of existence is eradicated,  
 transmigraton through births is finished,  
 now there'll be no more future lives.
@@ -896,7 +896,7 @@ but I’m still the same, I haven’t been away.
 
 119You’ve left for the jungle, the root of a tree,  
 with extinguishment in your heart.  
-Practice absorption, Gotama, don’t be negligent.  
+Practice jhāna, Gotama, don’t be negligent.  
 What is this hullabaloo to you?
 
 ##### Isidatta

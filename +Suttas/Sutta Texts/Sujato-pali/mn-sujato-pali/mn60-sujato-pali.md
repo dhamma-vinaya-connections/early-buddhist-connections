@@ -143,7 +143,7 @@ One person doesn’t mortify either themselves or others, committed to the pract
 
 27And what person doesn’t mortify either themselves or others, committed to the practice of not mortifying themselves or others, living without wishes in the present life, extinguished, cooled, experiencing bliss, having become holy in themselves?
 
-It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … A householder hears that teaching, or a householder’s child, or someone reborn in some good family. … They give up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption … second absorption … third absorption … fourth absorption.
+It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … A householder hears that teaching, or a householder’s child, or someone reborn in some good family. … They give up these five hindrances, corruptions of the heart that weaken wisdom. Then, quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first jhāna … second jhāna … third jhāna … fourth jhāna.
 
 
 28When their mind has become immersed in samādhi like this — purified, bright, flawless, rid of corruptions, pliable, workable, steady, and imperturbable — they extend it toward recollection of past lives. … They recollect their many kinds of past lives, with features and details.

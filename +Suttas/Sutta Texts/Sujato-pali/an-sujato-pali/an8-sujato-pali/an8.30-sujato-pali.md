@@ -25,15 +25,15 @@ At one time the Buddha was staying in the land of the Bhaggas on Crocodile Hill,
 3“Good, good, Anuruddha! It’s good that you reflect on these thoughts of a great man: ‘This teaching is for those of few wishes, not those of many wishes. It’s for the contented, not those who lack contentment. It’s for the secluded, not those who enjoy company. It’s for the energetic, not the lazy. It’s for the mindful, not the unmindful. It’s for those with immersion, not those without immersion. It’s for the wise, not the witless.’ Well then, Anuruddha, you should also reflect on the following eighth thought of a great man: ‘This teaching is for those who don’t enjoy proliferating and don’t like to proliferate, not for those who enjoy proliferating and like to proliferate.’
 
 
-4First you’ll reflect on these eight thoughts of a great man. Then whenever you want, quite secluded from sensual pleasures, secluded from unskillful qualities, you’ll enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering.
+4First you’ll reflect on these eight thoughts of a great man. Then whenever you want, quite secluded from sensual pleasures, secluded from unskillful qualities, you’ll enter and remain in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering.
 
-5You’ll enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering.
+5You’ll enter and remain in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering.
 
-6You’ll enter and remain in the third absorption, where you’ll meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’
+6You’ll enter and remain in the third jhāna, where you’ll meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’
 
-7Giving up pleasure and pain, and ending former happiness and sadness, you’ll enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness.
+7Giving up pleasure and pain, and ending former happiness and sadness, you’ll enter and remain in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness.
 
-8First you’ll reflect on these eight thoughts of a great man, and you’ll get the four absorptions — blissful meditations in the present life that belong to the higher mind — when you want, without trouble or difficulty. Then as you live contented your rag robe will seem to you like a chest full of garments of different colors seems to a householder or householder’s child. It will be for your enjoyment, relief, and comfort, and for alighting upon extinguishment.
+8First you’ll reflect on these eight thoughts of a great man, and you’ll get the four jhānas — blissful meditations in the present life that belong to the higher mind — when you want, without trouble or difficulty. Then as you live contented your rag robe will seem to you like a chest full of garments of different colors seems to a householder or householder’s child. It will be for your enjoyment, relief, and comfort, and for alighting upon extinguishment.
 
 9As you live contented your scraps of alms-food will seem to you like boiled fine rice with the dark grains picked out, served with many soups and sauces seems to a householder or householder’s child. It will be for your enjoyment, relief, and comfort, and for alighting upon extinguishment.
 
@@ -63,7 +63,7 @@ And what are the eight thoughts of a great man? This teaching is for those of fe
 
 18‘This teaching is for the mindful, not the unmindful.’ That’s what I said, but why did I say it? It’s for a mendicant who’s mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago. ‘This teaching is for the mindful, not the unmindful.’ That’s what I said, and this is why I said it.
 
-19‘This teaching is for those with immersion, not those without immersion.’ That’s what I said, but why did I say it? It’s for a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption … second absorption … third absorption … fourth absorption. ‘This teaching is for those with immersion, not those without immersion.’ That’s what I said, and this is why I said it.
+19‘This teaching is for those with immersion, not those without immersion.’ That’s what I said, but why did I say it? It’s for a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. ‘This teaching is for those with immersion, not those without immersion.’ That’s what I said, and this is why I said it.
 
 20‘This teaching is for the wise, not the witless.’ That’s what I said, but why did I say it? It’s for a mendicant who’s wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. ‘This teaching is for the wise, not the witless.’ That’s what I said, and this is why I said it.
 

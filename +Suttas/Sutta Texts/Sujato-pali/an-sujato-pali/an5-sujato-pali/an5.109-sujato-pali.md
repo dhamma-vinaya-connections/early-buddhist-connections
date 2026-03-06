@@ -28,7 +28,7 @@ They’re very learned, remembering and keeping what they’ve learned. These te
 
 They’re content with any kind of robes, alms-food, lodgings, and medicines and supplies for the sick.
 
-They get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
+They get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
 They realize the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.
 

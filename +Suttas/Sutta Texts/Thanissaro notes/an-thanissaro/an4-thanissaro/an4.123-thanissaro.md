@@ -10,7 +10,7 @@ language: "English"
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN4]]  / 🌐 [[AN4.123]]
 > ◄  [[an4.116-thanissaro]] 📜  [[an4.125-thanissaro]] ►
 
-## AN4.123 Mental Absorption (1)
+## AN4.123 Mental jhāna (1)
 
 ## ## Jhāna Sutta
 

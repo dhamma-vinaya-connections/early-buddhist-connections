@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 9: The Book of the Nines
-### AN 9.36: Jhānasutta — Depending on Absorption
+### AN 9.36: Jhānasutta — Depending on jhāna
 
 1"Paṭhamampāhaṁ, bhikkhave, jhānaṁ nissāya āsavānaṁ khayaṁ vadāmi; dutiyampāhaṁ, bhikkhave, jhānaṁ nissāya āsavānaṁ khayaṁ vadāmi; tatiyampāhaṁ, bhikkhave, jhānaṁ nissāya āsavānaṁ khayaṁ vadāmi; catutthampāhaṁ, bhikkhave, jhānaṁ nissāya āsavānaṁ khayaṁ vadāmi; ākāsānañcāyatanampāhaṁ, bhikkhave, nissāya āsavānaṁ khayaṁ vadāmi; viññāṇañcāyatanampāhaṁ, bhikkhave, nissāya āsavānaṁ khayaṁ vadāmi; ākiñcaññāyatanampāhaṁ, bhikkhave, nissāya āsavānaṁ khayaṁ vadāmi; nevasaññānāsaññāyatanampāhaṁ, bhikkhave, nissāya āsavānaṁ khayaṁ vadāmi; saññāvedayitanirodhampāhaṁ, bhikkhave, nissāya āsavānaṁ khayaṁ vadāmi.
 

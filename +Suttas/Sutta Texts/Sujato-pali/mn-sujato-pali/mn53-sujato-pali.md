@@ -43,7 +43,7 @@ And then the Buddha spread out his outer robe folded in four and laid down in th
 
 2Then Ānanda addressed Mahānāma the Sakyan:
 
-“Mahānāma, a noble disciple is accomplished in ethics, guards the sense doors, eats in moderation, and is dedicated to wakefulness. They have seven good qualities, and they get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
+“Mahānāma, a noble disciple is accomplished in ethics, guards the sense doors, eats in moderation, and is dedicated to wakefulness. They have seven good qualities, and they get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
 3And how is a noble disciple accomplished in ethics? It’s when a noble disciple is ethical, restrained in the monastic code, conducting themselves well and seeking alms in suitable places. Seeing danger in the slightest fault, they keep the rules they’ve undertaken. That’s how a noble disciple is ethical.
 
@@ -70,10 +70,10 @@ They’re mindful. They have utmost mindfulness and alertness, and can remember 
 They’re wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. That’s how a noble disciple has seven good qualities.
 
 
-8And how does a noble disciple get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty? It’s when a noble disciple, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption … second absorption … third absorption … fourth absorption. That’s how a noble disciple gets the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
+8And how does a noble disciple get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty? It’s when a noble disciple, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna. That’s how a noble disciple gets the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty.
 
 
-9When a noble disciple is accomplished in ethics, guards the sense doors, eats in moderation, and is dedicated to wakefulness; and they have seven good qualities, and they get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty, they are called a noble disciple who is a practicing trainee. Their eggs are unspoiled, and they are capable of breaking out of their shell, becoming awakened, and achieving the supreme sanctuary.
+9When a noble disciple is accomplished in ethics, guards the sense doors, eats in moderation, and is dedicated to wakefulness; and they have seven good qualities, and they get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty, they are called a noble disciple who is a practicing trainee. Their eggs are unspoiled, and they are capable of breaking out of their shell, becoming awakened, and achieving the supreme sanctuary.
 
 
 Suppose there was a chicken with eight or ten or twelve eggs. And she properly sat on them to keep them warm and incubated. Even if that chicken doesn’t wish, ‘If only my chicks could break out of the eggshell with their claws and beak and hatch safely!’ Still they can break out and hatch safely.
@@ -89,7 +89,7 @@ Relying on this supreme purity of mindfulness and equanimity, that noble discipl
 
 12Relying on this supreme purity of mindfulness and equanimity, that noble disciple realizes the undefiled freedom of heart and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements. This is their third breaking out, like a chick from an eggshell.
 
-13A noble disciple’s conduct includes the following: being accomplished in ethics, guarding the sense doors, moderation in eating, being dedicated to wakefulness, having seven good qualities, and getting the four absorptions when they want, without trouble or difficulty.
+13A noble disciple’s conduct includes the following: being accomplished in ethics, guarding the sense doors, moderation in eating, being dedicated to wakefulness, having seven good qualities, and getting the four jhānas when they want, without trouble or difficulty.
 
 
 14A noble disciple’s knowledge includes the following: recollecting their past lives, clairvoyance that is purified and superhuman, and realizing the undefiled freedom of heart and freedom by wisdom in this very life due to the ending of defilements.

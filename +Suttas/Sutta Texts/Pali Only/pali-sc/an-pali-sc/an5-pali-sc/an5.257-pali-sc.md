@@ -12,7 +12,7 @@ language: "Pali"
 
 ## Aṅguttara Nikāya - The Numerical Discourses
 ## 5: The Book of the Fives
-### XXVI. Ordination — AN 5.257-263: The Second Absorption, Etc
+### XXVI. Ordination — AN 5.257-263: The Second jhāna, Etc
 
 1"Pañcime, bhikkhave, dhamme appahāya abhabbo dutiyaṁ jhānaṁ … pe … abhabbo tatiyaṁ jhānaṁ … abhabbo catutthaṁ jhānaṁ … abhabbo sotāpattiphalaṁ … abhabbo sakadāgāmiphalaṁ … abhabbo anāgāmiphalaṁ … abhabbo arahattaṁ sacchikātuṁ. Katame pañca? Āvāsamacchariyaṁ, kulamacchariyaṁ, lābhamacchariyaṁ, vaṇṇamacchariyaṁ, dhammamacchariyaṁ. Ime kho, bhikkhave, pañca dhamme appahāya abhabbo arahattaṁ sacchikātuṁ.
 

@@ -79,33 +79,33 @@ tation, and (5) doubt. Having removed desires and unfavorable elements,
 
 he or she is still aware of an object and of the act of examining but the  
 cause of birth has been removed (i.e., reaching the supramundane realm)  
-and he enters the first meditative state of absorption, giving rise to a sense  
+and he enters the first meditative state of jhāna, giving rise to a sense  
 of joy and bliss. Here he eradicates all thought of desire, increasing the  
 sense of joy and bliss. O _brāhmaṇa_ ascetic, because of this, he knows that  
 thoughts arise due to causal dependence and also cease due to causal  
 dependence.  
 [Now,] eliminating awareness of an object as well as awareness of the  
 subjective act of examining, he enters the second meditative state of  
-absorption with increasing tranquility and self-confidence, and experiences  
+jhāna with increasing tranquility and self-confidence, and experiences  
 a predominant sense of joy and bliss in the emergent state of samādhi.  
 O _brāhmaṇa_ ascetic, he observed that thoughts ceased in the first meditative  
-state of absorption and [now] a thought arises in the second meditative  
-state of absorption. Because of this, he knows that thoughts arise due to  
+state of jhāna and [now] a thought arises in the second meditative  
+state of jhāna. Because of this, he knows that thoughts arise due to  
 causal dependence and also cease due to causal dependence.  
 [Next,] as the sense of joy fades, he enters the third meditative state  
-of absorption, mindful of the sense of equanimity, and is fully aware of  
+of jhāna, mindful of the sense of equanimity, and is fully aware of  
 the subtler bliss in pure and genuine mindfulness and equanimity that the  
 wise and holy speak of as indispensable. O _brāhmaṇa_ ascetic, he observed  
-that thoughts ceased in the second meditative state of absorption and [now]  
-a thought arises in the third meditative state of absorption. Because of  
+that thoughts ceased in the second meditative state of jhāna and [now]  
+a thought arises in the third meditative state of jhāna. Because of  
 this, he knows that thoughts arise due to causal dependence and also cease  
 due to causal dependence.  
 [Next,] transcending both pleasure and pain and removing joy and sor-  
-row, he enters the fourth meditative state of absorption, which is the equa-  
+row, he enters the fourth meditative state of jhāna, which is the equa-  
 nimity that consolidates pure and genuine mindfulness. O _brāhmaṇa_ asce-  
 tic, he observed that thoughts ceased in the third meditative state of  
-absorption and [now] a thought arises in the fourth meditative state of  
-absorption. Because of this, he knows that thoughts arise due to causal  
+jhāna and [now] a thought arises in the fourth meditative state of  
+jhāna. Because of this, he knows that thoughts arise due to causal  
 dependence and also cease due to causal dependence.  
 [Next,] removing all thought of external forms, he terminates anger  
 without conjuring further thought and enters the [formless] realm of infinite  

@@ -538,7 +538,7 @@ the one who is Such.[3](#^thag1-41note03) ^thag1-41note03-ref
 
 1. Mountains near Rājagaha. [↩︎](#^thag1-88note01-ref) ^thag1-88note01
 
-2. Meditative absorption, one of the four levels of intense samādhi that constitute right samādhi in the noble eightfold path. [↩︎](#^thag1-88note02-ref) ^thag1-88note02
+2. Meditative jhāna, one of the four levels of intense samādhi that constitute right samādhi in the noble eightfold path. [↩︎](#^thag1-88note02-ref) ^thag1-88note02
 
 3. Such (tādin): an epithet for an arahant, indicating that his/her attainment is indefinable and not subject to change. [↩︎](#^thag1-41note03-ref) ^thag1-41note03
 

@@ -23,7 +23,7 @@ language: "English"
 
 Note
 
-1. In other words, not allowing oneself to rest content merely with the skillful qualities developed on the path. In the Buddha’s biography, this point is illustrated by his refusal to rest content with the formless absorptions he mastered under his first two teachers. See [[mn36-thanissaro]]. Contentment, of course, is a virtue on the path, but as [[an4.28-thanissaro]] shows, it is a quality to be developed around the material requisites of life. As this discourse shows, it is not to be applied to mental qualities. [[mn2-thanissaro]] makes a similar point: One should endure pains and harsh words, but should not endure the presence of unskillful states in the mind.
+1. In other words, not allowing oneself to rest content merely with the skillful qualities developed on the path. In the Buddha’s biography, this point is illustrated by his refusal to rest content with the formless jhānas he mastered under his first two teachers. See [[mn36-thanissaro]]. Contentment, of course, is a virtue on the path, but as [[an4.28-thanissaro]] shows, it is a quality to be developed around the material requisites of life. As this discourse shows, it is not to be applied to mental qualities. [[mn2-thanissaro]] makes a similar point: One should endure pains and harsh words, but should not endure the presence of unskillful states in the mind.
 
 See also: [[mn29-thanissaro]]; [[mn70-thanissaro]]; [[sn35.97-thanissaro]]; [[sn55.40-thanissaro]]; [[an4.178-thanissaro]]; [[an5.77-thanissaro]]; [[an5.180-thanissaro]]; [[an6.20-thanissaro]]; [[an6.60-thanissaro]]; [[an10.51-thanissaro]]
 

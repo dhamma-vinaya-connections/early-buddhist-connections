@@ -43,40 +43,40 @@ Take a person who is the sweetest of the sweet, the most unruffled of the unruff
 “In the same way, take a person who is the sweetest of the sweet … As they mix closely, they become intimate and loose, spending time chatting, and so lust infects their mind. They reject the training and return to a lesser life.
 
 
-4Take the case of a person who, quite secluded from sensual pleasures … enters and remains in the first absorption. Thinking, ‘I get the first absorption!’ they mix closely with monks … They reject the training and return to a lesser life.
+4Take the case of a person who, quite secluded from sensual pleasures … enters and remains in the first jhāna. Thinking, ‘I get the first jhāna!’ they mix closely with monks … They reject the training and return to a lesser life.
 
 Suppose it was raining heavily at the crossroads so that the dust vanished and mud appeared. Would it be right to say that now dust will never appear at this crossroad again?”
 
 “No it would not, reverend. For it is quite possible that people or cattle and so on will cross over the crossroad, or that the wind and sun will evaporate the moisture so that the dust appears again.”
 
 
-“In the same way, take the case of a person who, quite secluded from sensual pleasures … enters and remains in the first absorption. Thinking, ‘I get the first absorption!’ they mix closely with monks … They reject the training and return to a lesser life.
+“In the same way, take the case of a person who, quite secluded from sensual pleasures … enters and remains in the first jhāna. Thinking, ‘I get the first jhāna!’ they mix closely with monks … They reject the training and return to a lesser life.
 
-5Take another case of a mendicant who, as the placing of the mind and keeping it connected are stilled … enters and remains in the second absorption. Thinking, ‘I get the second absorption!’ they mix closely with monks … They reject the training and return to a lesser life.
+5Take another case of a mendicant who, as the placing of the mind and keeping it connected are stilled … enters and remains in the second jhāna. Thinking, ‘I get the second jhāna!’ they mix closely with monks … They reject the training and return to a lesser life.
 
 Suppose there was a large pond not far from a town or village. After it rained heavily there the clams and mussels, and pebbles and gravel would vanish. Would it be right to say that now the clams and mussels, and pebbles and gravel will never appear here again?”
 
 “No it would not, reverend. For it’s quite possible that people or cattle and so on will drink from the pond, or that the wind and sun will evaporate it so that the clams and mussels, and pebbles and gravel appear again.”
 
-“In the same way, take another case of a mendicant who, as the placing of the mind and keeping it connected are stilled … enters and remains in the second absorption. Thinking, ‘I get the second absorption!’ they mix closely with monks … They reject the training and return to a lesser life.
+“In the same way, take another case of a mendicant who, as the placing of the mind and keeping it connected are stilled … enters and remains in the second jhāna. Thinking, ‘I get the second jhāna!’ they mix closely with monks … They reject the training and return to a lesser life.
 
 
-6Take the case of another person who, with the fading away of rapture … enters and remains in the third absorption. Thinking, ‘I get the third absorption!’ they mix closely with monks … They reject the training and return to a lesser life.
+6Take the case of another person who, with the fading away of rapture … enters and remains in the third jhāna. Thinking, ‘I get the third jhāna!’ they mix closely with monks … They reject the training and return to a lesser life.
 
 Suppose a person had finished a delicious meal. They’d have no appetite for leftovers. Would it be right to say that now food will never appeal to this person again?”
 
 “No it would not, reverend. For it’s quite possible that other food won’t appeal to that person as long as the nourishment is still present. But when the nourishment vanishes food will appeal again.”
 
-“In the same way, take the case of a person who, with the fading away of rapture … enters and remains in the third absorption. Thinking, ‘I get the third absorption!’ they mix closely with monks … They reject the training and return to a lesser life.
+“In the same way, take the case of a person who, with the fading away of rapture … enters and remains in the third jhāna. Thinking, ‘I get the third jhāna!’ they mix closely with monks … They reject the training and return to a lesser life.
 
 
-7Take the case of another person who, giving up pleasure and pain … enters and remains in the fourth absorption. Thinking, ‘I get the fourth absorption!’ they mix closely with monks … They reject the training and return to a lesser life.
+7Take the case of another person who, giving up pleasure and pain … enters and remains in the fourth jhāna. Thinking, ‘I get the fourth jhāna!’ they mix closely with monks … They reject the training and return to a lesser life.
 
 Suppose that in a mountain glen there was a lake, unruffled and free of waves. Would it be right to say that now waves will never appear in this lake again?”
 
 “No it would not, reverend. For it is quite possible that a violent storm could blow up out of the east, west, north, or south, and stir up waves in that lake.”
 
-“In the same way, take the case of a person who, giving up pleasure and pain … enters and remains in the fourth absorption. Thinking, ‘I get the fourth absorption!’ they mix closely with monks … They reject the training and return to a lesser life.
+“In the same way, take the case of a person who, giving up pleasure and pain … enters and remains in the fourth jhāna. Thinking, ‘I get the fourth jhāna!’ they mix closely with monks … They reject the training and return to a lesser life.
 
 
 8Take the case of another person who, not focusing on any signs, enters and remains in the signless immersion of the heart. Thinking, ‘I get the signless immersion of the heart!’ they mix closely with monks, nuns, laymen, and laywomen; with rulers and their ministers, and with teachers of other paths and their followers. As they mix closely, they become intimate and loose, spending time chatting, and so lust infects their mind. They reject the training and return to a lesser life.

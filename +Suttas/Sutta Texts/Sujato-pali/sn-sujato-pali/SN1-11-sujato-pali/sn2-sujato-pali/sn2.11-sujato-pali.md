@@ -27,12 +27,12 @@ Then, late at night, the glorious god Candimasa, lighting up the entire Jeta’s
 
 2“Like deer in a mosquito-free marsh,  
 they will reach a safe place  
-having entered the absorptions,  
+having entered the jhānas,  
 unified, alert, and mindful.”
 
 3“Like fish when the net is cut,  
 they will reach the far shore  
-having entered the absorptions,  
+having entered the jhānas,  
 diligent, with vices discarded.”
 
 #### Pali

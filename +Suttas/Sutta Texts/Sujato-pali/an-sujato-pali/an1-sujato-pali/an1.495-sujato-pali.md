@@ -20,7 +20,7 @@ language: "English - Pali"
 
 - © Translated from the Pali by Bhante Sujato. 
 
-1They develop the faculty of faith together with the first absorption … the faculty of energy … the faculty of mindfulness … the faculty of immersion … the faculty of wisdom … the power of faith … the power of energy … the power of mindfulness … the power of immersion … the power of wisdom together with the first absorption …
+1They develop the faculty of faith together with the first jhāna … the faculty of energy … the faculty of mindfulness … the faculty of immersion … the faculty of wisdom … the power of faith … the power of energy … the power of mindfulness … the power of immersion … the power of wisdom together with the first jhāna …
 
 #### Pali
 

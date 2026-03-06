@@ -214,7 +214,7 @@ So he said to Soṇadaṇḍa: “Brahmin, how many factors must a brahmin posse
 
 “Yes sir,” Soṇadaṇḍa replied. The Buddha said this:
 
-“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. This, brahmin, is that ethical conduct. … They enter and remain in the first absorption … second absorption … third absorption … fourth absorption … They extend and project the mind toward knowledge and vision … This pertains to their wisdom. … They understand: ‘… there is no return to any state of existence.’ This pertains to their wisdom. This, brahmin, is that wisdom.”
+“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. This, brahmin, is that ethical conduct. … They enter and remain in the first jhāna … second jhāna … third jhāna … fourth jhāna … They extend and project the mind toward knowledge and vision … This pertains to their wisdom. … They understand: ‘… there is no return to any state of existence.’ This pertains to their wisdom. This, brahmin, is that wisdom.”
 
 #### 7. Soṇadaṇḍa Declares Himself a Lay Follower
 

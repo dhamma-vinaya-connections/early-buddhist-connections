@@ -27,7 +27,7 @@ language: "English - Pali"
 
 2‘The opening amid confinement  
 was discovered by the Buddha of vast intelligence,  
-who woke up to absorption,  
+who woke up to jhāna,  
 the sage, the solitary bull.’
 
 
@@ -35,13 +35,13 @@ the sage, the solitary bull.’
 
 “Reverend, these five kinds of sensual stimulation are called ‘confinement’ by the Buddha. What five? Sights known by the eye that are likable, desirable, agreeable, pleasant, sensual, and arousing. Sounds known by the ear … Smells known by the nose … Tastes known by the tongue … Touches known by the body that are likable, desirable, agreeable, pleasant, sensual, and arousing. These are the five kinds of sensual stimulation that are called ‘confinement’ by the Buddha.
 
-4Now, take a mendicant who, quite secluded from sensual pleasures … enters and remains in the first absorption. To this extent the Buddha spoke of creating an opening amid confinement in a qualified sense. But it is still confined. Confined by what? Whatever placing of the mind and keeping it connected has not ceased is the confinement there.
+4Now, take a mendicant who, quite secluded from sensual pleasures … enters and remains in the first jhāna. To this extent the Buddha spoke of creating an opening amid confinement in a qualified sense. But it is still confined. Confined by what? Whatever placing of the mind and keeping it connected has not ceased is the confinement there.
 
-5Furthermore, take a mendicant who, as the placing of the mind and keeping it connected are stilled … enters and remains in the second absorption. To this extent the Buddha spoke of creating an opening amid confinement in a qualified sense. But it is still confined. Confined by what? Whatever rapture has not ceased is the confinement there.
+5Furthermore, take a mendicant who, as the placing of the mind and keeping it connected are stilled … enters and remains in the second jhāna. To this extent the Buddha spoke of creating an opening amid confinement in a qualified sense. But it is still confined. Confined by what? Whatever rapture has not ceased is the confinement there.
 
-6Furthermore, take a mendicant who, with the fading away of rapture … enters and remains in the third absorption. To this extent the Buddha spoke of creating an opening amid confinement in a qualified sense. But it is still confined. Confined by what? Whatever equanimous bliss has not ceased is the confinement there.
+6Furthermore, take a mendicant who, with the fading away of rapture … enters and remains in the third jhāna. To this extent the Buddha spoke of creating an opening amid confinement in a qualified sense. But it is still confined. Confined by what? Whatever equanimous bliss has not ceased is the confinement there.
 
-7Furthermore, take a mendicant who, giving up pleasure and pain … enters and remains in the fourth absorption. To this extent the Buddha spoke of creating an opening amid confinement in a qualified sense. But it is still confined. Confined by what? Whatever perception of form has not ceased is the confinement there.
+7Furthermore, take a mendicant who, giving up pleasure and pain … enters and remains in the fourth jhāna. To this extent the Buddha spoke of creating an opening amid confinement in a qualified sense. But it is still confined. Confined by what? Whatever perception of form has not ceased is the confinement there.
 
 8Furthermore, take a mendicant who, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. To this extent the Buddha spoke of creating an opening amid confinement in a qualified sense. But it is still confined. Confined by what? Whatever perception of the dimension of infinite space has not ceased is the confinement there.
 

@@ -214,7 +214,7 @@ as their best treasure.
 
 38 Don’t devote yourself to negligence,  
 or delight in sexual intimacy.  
-For if you’re diligent and practice absorption,  
+For if you’re diligent and practice jhāna,  
 you’ll attain abundant happiness.
 
 39 It was welcome, not unwelcome,  

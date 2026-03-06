@@ -700,13 +700,13 @@ contrary to good) from his mind. This eradication of desires concurs
 
 with the mental function of seeking an object and that of examining it  
 in meditation. Thus he is able to enter the initial state of meditative  
-absorption accompanied by the sense of delight and bliss, [while the  
+jhāna accompanied by the sense of delight and bliss, [while the  
 twofold mental function continues]. Permeated with delight and bliss,  
 he is totally immersed in a state of trance, just as someone who applies  
 various medicinal substances skillfully in their bathwater and thus sat-  
 urates it thoroughly in the middle as well as in the outer edges. It is the  
 same with the _bhikṣu_ who has entered the initial state of meditatiove  
-absorption and is entirely permeated by the sense of delight and bliss.  
+jhāna and is entirely permeated by the sense of delight and bliss.  
 It is like this, O Mānava. This is called the initial realization of bliss in  
 one’s present body. Why? Because he has acquired the state of bliss,  
 quiescence, and seclusion where confusion is eliminated due to his efforts  
@@ -715,21 +715,21 @@ He [now] forsakes the [mental] function of seeking and examining
 and gives rise to tranquil faith or self-confidence. With one-pointed con-  
 centration he experiences neither awareness of an object nor the subjective  
 act of examining, but abides in the constant presence of delight and bliss,  
-and thus enters the second state of meditative absorption. He is already  
+and thus enters the second state of meditative jhāna. He is already  
 saturated with delight and bliss in his entire being and is totally immersed  
 in the state of delight and trance. It is like the water of a deep spring  
 located on the summit of a mountain. The water springs up from within,  
 it does not flow into [the spring] from outside. The [mental] state in  
 question is like being immersed in a pond of pure springwater. O Mānava,  
 the experience of the _bhikṣu_ is like this. He enters the second state of  
-meditative absorption and never fails to experience the permeation of a  
+meditative jhāna and never fails to experience the permeation of a  
 perpetually arising sense of delight and bliss in himself. This is called  
 the second realization of bliss in one’s present body.  
 The _bhikṣu_ [now] has already forsaken the sense of delight and abides  
 [solely in bliss], his mind protected from falling into confusion. He expe-  
 riences a blissful state just as described by the [ancient] sages. Abiding  
 in this state of bliss that protects one’s mind from confusion, the _bhikṣu_  
-enters the third state of meditative absorption, in which even though the  
+enters the third state of meditative jhāna, in which even though the  
 sense of delight is absent he is immersed in a state of bliss that permeates  
 the entirety of his being. For instance, it is like the case of the varieties  
 of lotuses, such as _utpala_ (blue), _padma_ (pink), _kumuda_ (red), and
@@ -737,20 +737,20 @@ of lotuses, such as _utpala_ (blue), _padma_ (pink), _kumuda_ (red), and
 puṇḍarīka (white), grow up from the mud below the surface of the water,
 and yet their roots, stalks, branches, and leaves are all immersed totally
 in the water. The experience of the bhikṣu is like this. Entering the third
-state of meditative absorption, the bhikṣu discards delight but abides in
+state of meditative jhāna, the bhikṣu discards delight but abides in
 bliss and is totally immersed in that state. This is called the third real-
 ization of bliss in one’s present body.
 The bhikṣu has now abandoned not only the sense of delight but also
 that of bliss. With the sense of affliction and delight already equally
 abandoned, the sense of neither suffering nor happiness should be upheld
 as purely and genuinely as possible. Through this practice he enters the
-fourth state of meditative absorption. His body and mind are equally
+fourth state of meditative jhāna. His body and mind are equally
 pure and genuine throughout his entire being, just as the entire body is
 totally pure and clean after someone has bathed and cleansed it and put
 on a clean, white garment. O Mānava, the experience of the bhikṣu is
-like this when he enters the fourth state of meditative absorption. While
+like this when he enters the fourth state of meditative jhāna. While
 his mind is purified and totally permeating his body, every part of it
-without fail, he enters the fourth state of meditative absorption; the mind
+without fail, he enters the fourth state of meditative jhāna; the mind
 neither increases nor decreases, nor does it incline or move. His mind
 abides on the ground of neither love or hatred, nor motion. For instance,
 when a well-insulated room is tightly sealed with additional plaster on
@@ -758,7 +758,7 @@ the inside [walls] as well as the outside [walls], and the window is closed,
 neither wind nor flying dirt [can enter] and nothing can disturb the can-
 dlelight. The flame of the candle constantly burns upward but does not
 appear to move or flicker at all. O Mānava, the experience of the bhikṣu
-is like this when he enters the fourth state of meditative absorption. His
+is like this when he enters the fourth state of meditative jhāna. His
 mind neither increases nor decreases, nor does it incline or move. His
 mind abides on the ground of neither love or hatred, nor motion. This
 is called the fourth realization of bliss in one’s present body. Why?
@@ -2123,7 +2123,7 @@ Māra, 139, 142
 See also evil ones ( deva-māra s)
 meditation, 14, 15, 23, 117, 127, 161
 four kinds of, 40
-meditative absorption, four kinds/states,
+meditative jhāna, four kinds/states,
 13, 101, 107, 119, 130, 161–162
 mendicant, 6, 83, 150
 See also ascetic(s); śramaṇa (s)

@@ -10,7 +10,7 @@ language: "English"
 > [!important] ☸️ [[Suttas.base#catalogue|Catalogue]] | 📔 [[AN]] / 📂 [[AN9]]  / 🌐 [[AN9.36]]
 > ◄  [[an9.35-thanissaro]] 📜  [[an9.37-thanissaro]] ►
 
-## AN9.36 Mental Absorption
+## AN9.36 Mental jhāna
 
 ## ## Jhāna Sutta
 

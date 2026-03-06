@@ -37,7 +37,7 @@ Seeing them, Venerable Ānanda went to Venerable Revata, told him what was happe
 
 3When he had spoken, Sāriputta said to Revata: “Reverend Revata, Ānanda has answered by speaking from his heart. And now we ask you the same question.”
 
-“Reverend Sāriputta, it’s a mendicant who enjoys retreat and loves retreat. They’re committed to inner serenity of the heart, they don’t neglect absorption, they’re endowed with discernment, and they frequent empty huts. That’s the kind of mendicant who would beautify this park.”
+“Reverend Sāriputta, it’s a mendicant who enjoys retreat and loves retreat. They’re committed to inner serenity of the heart, they don’t neglect jhāna, they’re endowed with discernment, and they frequent empty huts. That’s the kind of mendicant who would beautify this park.”
 
 When he had spoken, Sāriputta said to Anuruddha: “Reverend Anuruddha, Revata has answered by speaking from his heart. And now we ask you the same question.”
 

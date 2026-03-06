@@ -134,9 +134,9 @@ These are the three kinds of teachers in the world who deserve to be reprimanded
 
 “But who is that teacher?”
 
-20“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. … They enter and remain in the first absorption … A teacher under whom a disciple achieves such a high distinction is one who does not deserve to be reprimanded. When someone reprimands such a teacher, the reprimand is false, baseless, illegitimate, and blameworthy.
+20“It’s when a Realized One arises in the world, perfected, a fully awakened Buddha … That’s how a mendicant is accomplished in ethics. … They enter and remain in the first jhāna … A teacher under whom a disciple achieves such a high distinction is one who does not deserve to be reprimanded. When someone reprimands such a teacher, the reprimand is false, baseless, illegitimate, and blameworthy.
 
-21They enter and remain in the second absorption … third absorption … fourth absorption. A teacher under whom a disciple achieves such a high distinction is one who does not deserve to be reprimanded. …
+21They enter and remain in the second jhāna … third jhāna … fourth jhāna. A teacher under whom a disciple achieves such a high distinction is one who does not deserve to be reprimanded. …
 
 22They extend and project the mind toward knowledge and vision … A teacher under whom a disciple achieves such a high distinction is one who does not deserve to be reprimanded. …
 

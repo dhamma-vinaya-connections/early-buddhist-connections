@@ -57,7 +57,7 @@ These are the four kinds of sustenance it gets when needed, without trouble or d
 
 13When a king’s frontier citadel is well provided with seven essentials and gets four kinds of sustenance when needed, without trouble or difficulty, it is then called a king’s frontier citadel that cannot be overrun by external foes and enemies.
 
-In the same way, when a noble disciple has seven good qualities, and they get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty, they are then called a noble disciple who cannot be overrun by Māra, who cannot be overrun by the Wicked One. What are the seven good qualities that they have?
+In the same way, when a noble disciple has seven good qualities, and they get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty, they are then called a noble disciple who cannot be overrun by Māra, who cannot be overrun by the Wicked One. What are the seven good qualities that they have?
 
 
 14Just as a king’s frontier citadel has a pillar with deep foundations, firmly embedded, imperturbable and unshakable, to defend those within and repel those outside, in the same way a noble disciple has faith in the Realized One’s awakening: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those who wish to train, teacher of gods and humans, awakened, blessed.’ A noble disciple with faith as their pillar gives up the unskillful and develops the skillful, they give up the blameworthy and develop the blameless, and they keep themselves pure. This is the first good quality they have.
@@ -78,20 +78,20 @@ In the same way, when a noble disciple has seven good qualities, and they get th
 These are the seven good qualities that they have.
 
 
-21And what are the four absorptions — blissful meditations in the present life that belong to the higher mind — that they get when they want, without trouble or difficulty?
+21And what are the four jhānas — blissful meditations in the present life that belong to the higher mind — that they get when they want, without trouble or difficulty?
 
-Just as a king’s frontier citadel has much hay, wood, and water stored up for the enjoyment, relief, and comfort of those within and to repel those outside, in the same way a noble disciple, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption, which has the rapture and bliss born of seclusion, while thinking and considering. This is for their own enjoyment, relief, and comfort, and for alighting upon extinguishment.
+Just as a king’s frontier citadel has much hay, wood, and water stored up for the enjoyment, relief, and comfort of those within and to repel those outside, in the same way a noble disciple, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna, which has the rapture and bliss born of seclusion, while thinking and considering. This is for their own enjoyment, relief, and comfort, and for alighting upon extinguishment.
 
-22Just as a king’s frontier citadel has much rice and barley stored up, in the same way, as the placing of the mind and keeping it connected are stilled, a noble disciple enters and remains in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is for their own enjoyment, relief, and comfort, and for alighting upon extinguishment.
+22Just as a king’s frontier citadel has much rice and barley stored up, in the same way, as the placing of the mind and keeping it connected are stilled, a noble disciple enters and remains in the second jhāna, which has the rapture and bliss born of immersion, with internal clarity and confidence, and unified mind, without thinking and considering. This is for their own enjoyment, relief, and comfort, and for alighting upon extinguishment.
 
-23Just as a king’s frontier citadel has much food such as sesame, green gram, and black gram stored up, in the same way with the fading away of rapture, a noble disciple enters and remains in the third absorption, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is for their own enjoyment, relief, and comfort, and for alighting upon extinguishment.
+23Just as a king’s frontier citadel has much food such as sesame, green gram, and black gram stored up, in the same way with the fading away of rapture, a noble disciple enters and remains in the third jhāna, where they meditate with equanimity, mindful and aware, personally experiencing the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ This is for their own enjoyment, relief, and comfort, and for alighting upon extinguishment.
 
-24Just as a king’s frontier citadel has much medicine — ghee, butter, oil, honey, molasses, and salt — stored up for the enjoyment, relief, and comfort of those within and to repel those outside, in the same way, giving up pleasure and pain, and ending former happiness and sadness, a noble disciple enters and remains in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. This is for their own enjoyment, relief, and comfort, and for alighting upon extinguishment.
+24Just as a king’s frontier citadel has much medicine — ghee, butter, oil, honey, molasses, and salt — stored up for the enjoyment, relief, and comfort of those within and to repel those outside, in the same way, giving up pleasure and pain, and ending former happiness and sadness, a noble disciple enters and remains in the fourth jhāna, without pleasure or pain, with pure equanimity and mindfulness. This is for their own enjoyment, relief, and comfort, and for alighting upon extinguishment.
 
-These are the four absorptions — blissful meditations in the present life that belong to the higher mind — which they get when they want, without trouble or difficulty.
+These are the four jhānas — blissful meditations in the present life that belong to the higher mind — which they get when they want, without trouble or difficulty.
 
 
-25When a noble disciple has seven good qualities, and they get the four absorptions — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty, they are then called a noble disciple who cannot be overrun by Māra, who cannot be overrun by the Wicked One.”
+25When a noble disciple has seven good qualities, and they get the four jhānas — blissful meditations in the present life that belong to the higher mind — when they want, without trouble or difficulty, they are then called a noble disciple who cannot be overrun by Māra, who cannot be overrun by the Wicked One.”
 
 1"Yato kho, bhikkhave, rañño paccantimaṁ nagaraṁ sattahi nagaraparikkhārehi suparikkhataṁ hoti, catunnañca āhārānaṁ nikāmalābhī hoti akicchalābhī akasiralābhī. Idaṁ vuccati, bhikkhave, rañño paccantimaṁ nagaraṁ akaraṇīyaṁ bāhirehi paccatthikehi paccāmittehi.
 

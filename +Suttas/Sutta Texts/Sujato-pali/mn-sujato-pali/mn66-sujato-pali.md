@@ -98,26 +98,26 @@ Take a certain person practicing to give up and let go of attachments. As they d
 The pleasure and happiness that arise from these five kinds of sensual stimulation is called sensual pleasure — a filthy, ordinary, ignoble pleasure. Such pleasure should not be cultivated or developed, but should be feared, I say.
 
 
-20Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption … second absorption … third absorption … fourth absorption.
+20Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna … second jhāna … third jhāna … fourth jhāna.
 
 This is called the pleasure of renunciation, the pleasure of seclusion, the pleasure of peace, the pleasure of awakening. Such pleasure should be cultivated and developed, and should not be feared, I say.
 
 
-21Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption. This belongs to the perturbable, I say. And what there belongs to the perturbable? Whatever placing of the mind and keeping it connected has not ceased there is what belongs to the perturbable.
+21Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna. This belongs to the perturbable, I say. And what there belongs to the perturbable? Whatever placing of the mind and keeping it connected has not ceased there is what belongs to the perturbable.
 
-Take a mendicant who, as the placing of the mind and keeping it connected are stilled, enters and remains in the second absorption. This belongs to the perturbable, I say. And what there belongs to the perturbable? Whatever rapture and bliss has not ceased there is what belongs to the perturbable.
+Take a mendicant who, as the placing of the mind and keeping it connected are stilled, enters and remains in the second jhāna. This belongs to the perturbable, I say. And what there belongs to the perturbable? Whatever rapture and bliss has not ceased there is what belongs to the perturbable.
 
-Take a mendicant who, with the fading away of rapture, enters and remains in the third absorption. This belongs to the perturbable. And what there belongs to the perturbable? Whatever equanimous bliss has not ceased there is what belongs to the perturbable.
+Take a mendicant who, with the fading away of rapture, enters and remains in the third jhāna. This belongs to the perturbable. And what there belongs to the perturbable? Whatever equanimous bliss has not ceased there is what belongs to the perturbable.
 
-Take a mendicant who, giving up pleasure and pain, enters and remains in the fourth absorption. This belongs to the imperturbable.
+Take a mendicant who, giving up pleasure and pain, enters and remains in the fourth jhāna. This belongs to the imperturbable.
 
-22Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first absorption. But this is not enough, I say: give it up, go beyond it. And what goes beyond it?
+22Take a mendicant who, quite secluded from sensual pleasures, secluded from unskillful qualities, enters and remains in the first jhāna. But this is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, as the placing of the mind and keeping it connected are stilled, enters and remains in the second absorption. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
+Take a mendicant who, as the placing of the mind and keeping it connected are stilled, enters and remains in the second jhāna. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, with the fading away of rapture, enters and remains in the third absorption. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
+Take a mendicant who, with the fading away of rapture, enters and remains in the third jhāna. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
-Take a mendicant who, giving up pleasure and pain, enters and remains in the fourth absorption. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
+Take a mendicant who, giving up pleasure and pain, enters and remains in the fourth jhāna. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 
 Take a mendicant who, going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, enters and remains in the dimension of infinite space. That goes beyond it. But this too is not enough, I say: give it up, go beyond it. And what goes beyond it?
 

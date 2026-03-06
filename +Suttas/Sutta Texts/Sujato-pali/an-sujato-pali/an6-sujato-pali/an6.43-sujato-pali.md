@@ -90,7 +90,7 @@ inquiry and thinking about principles.
 His belly is the sacred hearth of the Dhamma,  
 and his tail is seclusion.
 
-12Practicing absorption, enjoying the breath,  
+12Practicing jhāna, enjoying the breath,  
 he is serene within.  
 The giant is serene when walking,  
 the giant is serene when standing,

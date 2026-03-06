@@ -149,7 +149,7 @@ means the five aggregates that are the basis of clinging to existence:
 the aggregates of material elements, sensation, ideation, dispositional  
 forces, and consciousness.
 
-absorption and samādhi in the practice of meditation, through  
+jhāna and samādhi in the practice of meditation, through  
 which he acquires insight into the nature of things as they really are.  
 This is the first basis of liberation. Second, having listened to the teach-  
 ing and experienced inner joy the _bhikṣu_ retains the teaching in memory  
@@ -523,11 +523,11 @@ manifold passions there arise manifold yearning or seeking; ninth,
 because of manifold yearning there arise manifold gains.^36  
 (10) What is the ninefold item to be directly experienced oneself?  
 It means the nine stages of the successive process of cessation. First,  
-when a _bhikṣu_ enters the first meditative absorption there ceases to be  
+when a _bhikṣu_ enters the first meditative jhāna there ceases to be  
 the ideation of desire.^37 Second, in the second meditative state of absorp-  
 tion, the mental activity of thinking and deliberation ceases. Third, in  
-the third meditative state of absorption the awareness of delight ceases.  
-Fourth, in the fourth meditative state of absorption the signs of inhalation  
+the third meditative state of jhāna the awareness of delight ceases.  
+Fourth, in the fourth meditative state of jhāna the signs of inhalation  
 or exhalation cease. Fifth, in the sphere of infinite space, the first form-  
 less state of samādhi, the ideation of external form ceases. Sixth,  
 in the sphere of infinite consciousness the ideation of empty space  
@@ -1244,7 +1244,7 @@ meditation/meditative, 73, 90, 133, 134,
 197, 211, 222, 269, 270, 273, 275,  
 276, 298, 302, 309, 315, 316, 321,  
 324–327, 333, 334, 336, 339  
-absorption, four states of, 134–135,  
+jhāna, four states of, 134–135,  
 150–151, 242, 288, 291–292, 335  
 walking, 110, 211, 324–327  
 mendicant, 37, 38, 94, 165, 293, 312  

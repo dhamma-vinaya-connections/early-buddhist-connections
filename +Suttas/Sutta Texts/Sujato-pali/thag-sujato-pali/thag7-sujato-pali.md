@@ -64,7 +64,7 @@ and fulfilled the Buddha’s instructions.
 466Bhaddiya has plucked out craving, root and all,  
 and in a jungle thicket  
 on the far side of the Wild Mango Monastery,  
-he practices absorption; he is truly well-favoured.
+he practices jhāna; he is truly well-favoured.
 
 467Some delight in clay drums,  
 in arched harps, and in cymbals.  
